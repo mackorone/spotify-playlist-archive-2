@@ -1,6 +1,6 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 536442,
+  "num_followers": 536523,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 198294,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 198294,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Strawberry Letter 23: The Very Best Of The Brothers Johnson",
-        "url": "https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Johnson",
-          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
-        }
-      ],
-      "duration_ms": 247133,
-      "name": "Stomp! - Single Version",
-      "url": "https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 260426,
       "name": "All Night Long (All Night) - Single Version",
       "url": "https://open.spotify.com/track/2Wb9ejnmy27DUTUe9YF5Ew"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Strawberry Letter 23: The Very Best Of The Brothers Johnson",
+        "url": "https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "Stomp! - Single Version",
+      "url": "https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Computer Games",
-        "url": "https://open.spotify.com/album/36FlhEnhgkDwk371cG8nav"
-      },
-      "artists": [
-        {
-          "name": "George Clinton",
-          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
-        }
-      ],
-      "duration_ms": 287106,
-      "name": "Atomic Dog",
-      "url": "https://open.spotify.com/track/4cgodXjv4TfrooNQxvlO4O"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Obsession: The Best Of Animotion",
         "url": "https://open.spotify.com/album/5BG5Z2wbth8YRlOtlrlAFC"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 337266,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/3N7GqZMpZJW69Te1bfUTc3"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Computer Games",
+        "url": "https://open.spotify.com/album/36FlhEnhgkDwk371cG8nav"
+      },
+      "artists": [
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        }
+      ],
+      "duration_ms": 287106,
+      "name": "Atomic Dog",
+      "url": "https://open.spotify.com/track/4cgodXjv4TfrooNQxvlO4O"
     },
     {
       "added_at": "2024-03-19 14:45:18",

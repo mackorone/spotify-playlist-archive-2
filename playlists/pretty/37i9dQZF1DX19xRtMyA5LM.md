@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: OYSTER
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,832 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,799 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 6 | [Runner](https://open.spotify.com/track/4JKI3AZTmCNOzoXbZE2AZr) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Runner](https://open.spotify.com/album/6EnAXief5ET4I92perP6Zy) | 2:47 |
 | 7 | [Skyline](https://open.spotify.com/track/1j2G3mA1IU54sGcsEON6HB) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Skyline](https://open.spotify.com/album/07EP0dTPYrapBsjRkzZrr0) | 2:37 |
 | 8 | [Fluitconcert](https://open.spotify.com/track/6MjCnZoNsAvHthaNfcJmN0) | [Flo](https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy) | [Fluitconcert](https://open.spotify.com/album/46Kf7UZAc2DiLBUoPgn4Kc) | 2:29 |
-| 9 | [HERMES SLIDE](https://open.spotify.com/track/3sSvWm5dXOOf4ZdbMGAPQ6) | [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp), [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw) | [HERMES SLIDE](https://open.spotify.com/album/73Q50MGqz21R9EisNWw31Z) | 2:25 |
+| 9 | [HERMES SLIDE](https://open.spotify.com/track/3sSvWm5dXOOf4ZdbMGAPQ6) | [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp), [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49) | [HERMES SLIDE](https://open.spotify.com/album/73Q50MGqz21R9EisNWw31Z) | 2:25 |
 | 10 | [Op Me Best](https://open.spotify.com/track/0WrMNlyo4eDminFfQGyD9R) | [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB) | [Op Me Best](https://open.spotify.com/album/4zsefbb20OWyL7IFdMObga) | 2:53 |
 | 11 | [2 Motten](https://open.spotify.com/track/5BivQbxn6KNsNk0aYVK4zx) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [2 Motten](https://open.spotify.com/album/0JK1a8aFKrsXWos1mWDrl2) | 2:26 |
 | 12 | [H!GHEST FLEX](https://open.spotify.com/track/6FqdmWhDVNNDfmtmCI3sFp) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS), [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr), [Blow](https://open.spotify.com/artist/08tVNJseE5WyRIxjZA7KCW) | [H!GHEST FLEX](https://open.spotify.com/album/1ftpqyyglLvXtaEZpY8wEw) | 2:33 |

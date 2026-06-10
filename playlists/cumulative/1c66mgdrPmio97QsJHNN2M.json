@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Annabel Lee",
+        "url": "https://open.spotify.com/album/33LJVjtrXwt8jA0dGaUZnr"
+      },
+      "artists": [
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/5ZwvlOmddwRvA3nwQXY13r"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169720,
+      "name": "Annabel Lee",
+      "url": "https://open.spotify.com/track/24trlYsqKf6zQHMbtI5DM8"
+    },
+    {
+      "album": {
         "name": "Anonymous Date",
         "url": "https://open.spotify.com/album/27NZoqZFMTqGBn7jOoZLum"
       },
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 143622,
       "name": "Back to the Start",
       "url": "https://open.spotify.com/track/47HHmW5YouagaGwQrMCRvi"
@@ -3878,6 +3896,24 @@
       "duration_ms": 147301,
       "name": "Black Cat",
       "url": "https://open.spotify.com/track/6dSioFJXazwRx8v0TFKcVX"
+    },
+    {
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/7KJ9r2YHllq5jnGCceHHEY"
+      },
+      "artists": [
+        {
+          "name": "mischa and the bear",
+          "url": "https://open.spotify.com/artist/3cFTwm9iMUeFMNMmrnb1s6"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196425,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/1lH6zEMSZHul8Mbj5y4wtf"
     },
     {
       "album": {
@@ -6522,7 +6558,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 254188,
       "name": "Cosmic Dust",
       "url": "https://open.spotify.com/track/6qsgG8cSOIzlbx7V0m0roo"
@@ -7925,7 +7961,7 @@
     },
     {
       "album": {
-        "name": "MUTANTE",
+        "name": "Mutante",
         "url": "https://open.spotify.com/album/6ViLWsyal9h7WSiYMCBhhj"
       },
       "artists": [
@@ -8280,7 +8316,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 177428,
       "name": "Don't Give It Away",
       "url": "https://open.spotify.com/track/5BFz0VSMwGqp0lsvHHGp3X"
@@ -8902,7 +8938,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 165283,
       "name": "Drifting Out of Touch",
       "url": "https://open.spotify.com/track/6wMEcwJ5YulWGVrxa3ZbCD"
@@ -9404,6 +9440,24 @@
       "duration_ms": 305680,
       "name": "Electronic Symphony",
       "url": "https://open.spotify.com/track/6eXuNjWIj7bjlvS5MeRk0R"
+    },
+    {
+      "album": {
+        "name": "Modern Sins",
+        "url": "https://open.spotify.com/album/7MlNfZHV6cDYHsZIiGnyJY"
+      },
+      "artists": [
+        {
+          "name": "Rust Assembly",
+          "url": "https://open.spotify.com/artist/3hQQymTzwZPzi1cW1eHhUJ"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183119,
+      "name": "Emergency Exit Only",
+      "url": "https://open.spotify.com/track/4jZbOJLvgmb17iK1mCosvu"
     },
     {
       "album": {
@@ -12547,6 +12601,24 @@
     },
     {
       "album": {
+        "name": "The Nymph's Vessel",
+        "url": "https://open.spotify.com/album/6ADS7HvbQTiH8Qf7wMT8ub"
+      },
+      "artists": [
+        {
+          "name": "Angelo Ceriani Lofi Project",
+          "url": "https://open.spotify.com/artist/0LC1JuXqN4iw9mouw8uak0"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147274,
+      "name": "Glass Words",
+      "url": "https://open.spotify.com/track/03Y9aDBDq7CRKYPS0vvqrQ"
+    },
+    {
+      "album": {
         "name": "In My Own Way",
         "url": "https://open.spotify.com/album/5eBSKHjtj9mFF6QwkKYYBi"
       },
@@ -13840,6 +13912,32 @@
       "duration_ms": 161879,
       "name": "Heartbreaker, Bye",
       "url": "https://open.spotify.com/track/5K8NdkjqHkxuvswxkqUbjs"
+    },
+    {
+      "album": {
+        "name": "heartstopper",
+        "url": "https://open.spotify.com/album/0ghv5SXPOkeKDmQS7jGACo"
+      },
+      "artists": [
+        {
+          "name": "Mark Holiday",
+          "url": "https://open.spotify.com/artist/0c2te8OzhhVjiqXaAku4Hx"
+        },
+        {
+          "name": "Magnus Deus",
+          "url": "https://open.spotify.com/artist/2ucNjOKWBIEBnzvFgmJAn3"
+        },
+        {
+          "name": "Katty G",
+          "url": "https://open.spotify.com/artist/5AzDXioaAPrx8SzjCyFnIB"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166546,
+      "name": "heartstopper",
+      "url": "https://open.spotify.com/track/6YFvz5CAixFQgIAKN2rY0V"
     },
     {
       "album": {
@@ -15680,6 +15778,24 @@
       "duration_ms": 148080,
       "name": "I Think I Love You",
       "url": "https://open.spotify.com/track/1CGSek8rT57KY7JEVFFtRV"
+    },
+    {
+      "album": {
+        "name": "I wanna be",
+        "url": "https://open.spotify.com/album/543m6vJHVxH726X9zWH19n"
+      },
+      "artists": [
+        {
+          "name": "ThePieces",
+          "url": "https://open.spotify.com/artist/0BN1T49jfRbf4eMqJtS5R1"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191819,
+      "name": "I wanna be",
+      "url": "https://open.spotify.com/track/2DBAvFuOkbJSGQmN3dCpyP"
     },
     {
       "album": {
@@ -18482,7 +18598,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 151795,
       "name": "LEAVE",
       "url": "https://open.spotify.com/track/3DAgEZsGUWTIXwmrylvboh"
@@ -19448,7 +19564,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 198139,
       "name": "Locally Hated",
       "url": "https://open.spotify.com/track/3jLsuZ3YeUCVFhx17fkj58"
@@ -19520,7 +19636,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 157774,
       "name": "Lonely Fans",
       "url": "https://open.spotify.com/track/1za2D1izQEbC1SC3G32XoI"
@@ -21892,6 +22008,28 @@
       "duration_ms": 85000,
       "name": "MOON",
       "url": "https://open.spotify.com/track/6riL7V2IU8rPsdhspPAEnh"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/6y4YhMT73u7TZYtJdtb255"
+      },
+      "artists": [
+        {
+          "name": "Aizysse Baga",
+          "url": "https://open.spotify.com/artist/6nyAbfRQhY29S0KZUybQEb"
+        },
+        {
+          "name": "Kiara",
+          "url": "https://open.spotify.com/artist/3Rp63Kdj6pjMx1FhcsI7JY"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186664,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/1HLy3wtTWrjx5trkEy6keo"
     },
     {
       "album": {
@@ -24517,6 +24655,24 @@
     },
     {
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/5tWElJ2aG2MSjd7XFwR8A9"
+      },
+      "artists": [
+        {
+          "name": "Snow64",
+          "url": "https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198509,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/5SajpJwLg8EFpHJ9dWUSDG"
+    },
+    {
+      "album": {
         "name": "Mindfield",
         "url": "https://open.spotify.com/album/5jylpsenC69YTYfbCO6SOp"
       },
@@ -25317,6 +25473,24 @@
     },
     {
       "album": {
+        "name": "Paper Hearts",
+        "url": "https://open.spotify.com/album/2K6vsuzH8qGYAHnTmTX6a4"
+      },
+      "artists": [
+        {
+          "name": "Marie Noire",
+          "url": "https://open.spotify.com/artist/2mByje5SY5yiNwlc6EIxW8"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207103,
+      "name": "Paper Hearts",
+      "url": "https://open.spotify.com/track/3GHrR3LLh1VCssTqqWoaqw"
+    },
+    {
+      "album": {
         "name": "Paper Wings",
         "url": "https://open.spotify.com/album/0643vg6vaBN7hfQLQZqg6F"
       },
@@ -25551,6 +25725,24 @@
     },
     {
       "album": {
+        "name": "Party King",
+        "url": "https://open.spotify.com/album/3GvP4rMMWhbj89rkdG8sSY"
+      },
+      "artists": [
+        {
+          "name": "HollowFate",
+          "url": "https://open.spotify.com/artist/4nm9EHccDfzo5IhnVvIrsQ"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124839,
+      "name": "Party King",
+      "url": "https://open.spotify.com/track/6X6fAHyKSwxUvgMO0SHLkf"
+    },
+    {
+      "album": {
         "name": "Hello Everyone, How Are You?",
         "url": "https://open.spotify.com/album/09JQAkeCBSkbroiQIFjw3K"
       },
@@ -25754,6 +25946,24 @@
       "duration_ms": 146124,
       "name": "Penang Bang",
       "url": "https://open.spotify.com/track/7e5oLwyrSflUoGqJI4MjW0"
+    },
+    {
+      "album": {
+        "name": "Penny",
+        "url": "https://open.spotify.com/album/3xDOjXppWgImNUllCBIo0p"
+      },
+      "artists": [
+        {
+          "name": "Punch 11",
+          "url": "https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167323,
+      "name": "Penny",
+      "url": "https://open.spotify.com/track/2rOvAbbjGPHo6Wli7xGgtL"
     },
     {
       "album": {
@@ -29448,7 +29658,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 188250,
       "name": "She Wants My Man",
       "url": "https://open.spotify.com/track/6ZXinoKB2hxOQ7UmNOxmlO"
@@ -31967,6 +32177,24 @@
     },
     {
       "album": {
+        "name": "Sweet (Talk)",
+        "url": "https://open.spotify.com/album/6G1d73ZJZJXozN8Oi2CIJ5"
+      },
+      "artists": [
+        {
+          "name": "Tajajayy",
+          "url": "https://open.spotify.com/artist/0Mugv4Gxpwi8FqZ5I1RQ56"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169826,
+      "name": "Sweet (Talk)",
+      "url": "https://open.spotify.com/track/45GAO94DLTSI1ec8hLhpZe"
+    },
+    {
+      "album": {
         "name": "Spread the Sound",
         "url": "https://open.spotify.com/album/3Ys1dyXODoe7nc5qQ1Zwqa"
       },
@@ -33586,7 +33814,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 144225,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/4VjnPXOhpG3k9OOiIKrQ6G"
@@ -34520,7 +34748,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 142285,
       "name": "Thrill Bomb Denzel - Remix Remastered",
       "url": "https://open.spotify.com/track/0XU7NTZsKu0C7QmtVqFSXZ"
@@ -34538,7 +34766,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 151315,
       "name": "Through the Pain",
       "url": "https://open.spotify.com/track/3Y0QVfDH88OvYseSXkZYxy"
@@ -36840,7 +37068,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 195789,
       "name": "We Are the People",
       "url": "https://open.spotify.com/track/0sxyx3jsL6lRaENpuK47v7"
@@ -37086,6 +37314,24 @@
       "duration_ms": 136751,
       "name": "What A Tragedy",
       "url": "https://open.spotify.com/track/4sCFUBgLupIdoQb95r6ofd"
+    },
+    {
+      "album": {
+        "name": "What Follows Me Home",
+        "url": "https://open.spotify.com/album/3UywPoec4QhWziKV8u0plq"
+      },
+      "artists": [
+        {
+          "name": "Syzygy",
+          "url": "https://open.spotify.com/artist/0xBVYVLFNqsTe6SIJ9eiGz"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200349,
+      "name": "What Follows Me Home",
+      "url": "https://open.spotify.com/track/33qqTowI1pKP4Sxoi9z7sx"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Disney Hits France](https://open.spotify.com/playlist/37i9dQZF1DWYa24lU2SeaC)
 
-> Tous vos titres Disney préférés incluant la musique de Zootopie 2, Lilo & Stitch, Mufasa : Le Roi lion, Vaiana 2, Encanto : la fantastique famille Madrigal, La Reine des neiges et bien d'autres encore!
+> Tous vos titres Disney préférés incluant la musique de Toy Story 5, Zootopie 2, Lilo & Stitch, Mufasa : Le Roi lion, Vaiana 2, Encanto : la fantastique famille Madrigal, La Reine des neiges et bien d'autres encore!
 
-140 songs - 7 hr 19 min
+141 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Histoire éternelle](https://open.spotify.com/track/4clicdsA2hcxKogiPJryAk) | [Sophie Delmas](https://open.spotify.com/artist/1HGPhfluDgy5rXvhZs4drD) | [La Belle et La Bête \(Bande Originale Française du Film\)](https://open.spotify.com/album/7lL7qRxy4DCYBSdF9bqvzI) | 3:19 | 2023-09-15 | 2023-12-24 |
 | [Histoire éternelle \- De "La Belle et la Bête"/Bande Originale Française du Film](https://open.spotify.com/track/7fkU3oCLTQkk56ouUOK8CW) | [Lucie Dolene](https://open.spotify.com/artist/3Lv9duLTKikOgS5DD85OFh) | [La Belle et La Bête](https://open.spotify.com/album/5lWkWXCau29Ko1guDsrPzK) | 2:44 | 2023-12-23 |  |
 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2023-09-15 |  |
+| [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-09 |  |
 | [I2I](https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE), [Rosie Gaines](https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W) | [A Goofy Movie](https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P) | 4:01 | 2023-09-15 | 2024-05-03 |
 | [If Only](https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 3:49 | 2024-05-02 |  |
 | [Il En Faut Peu Pour Être Heureux](https://open.spotify.com/track/3ZYFquS2kFkF4cjyuCgBqN) | [Jean Stout](https://open.spotify.com/artist/0WfXLwM87tlIfRLHkr7Z9Y), [Pascal Bressy](https://open.spotify.com/artist/6BYAOdRk7GIT2HaJVKAhPK) | [The Jungle Book Original Soundtrack \(French Version\)](https://open.spotify.com/album/6k3BwalwdZYIxpgGzNH4BP) | 4:42 | 2023-12-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 378111,
+  "num_followers": 378263,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAADAyUzDsBEozzWNWT3KtJp0",
+  "snapshot_id": "aiYGAAAAAABLFg+rqhLl4xQ0mpXYocL/",
   "tracks": [
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 197533,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/4tyjNEHKos3lZPYAfTiMKH"
+      "duration_ms": 153666,
+      "name": "Castle in Hollywood",
+      "url": "https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 153666,
-      "name": "Castle in Hollywood",
-      "url": "https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u"
+      "duration_ms": 197533,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/4tyjNEHKos3lZPYAfTiMKH"
     },
     {
       "added_at": null,

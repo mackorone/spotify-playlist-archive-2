@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,654 likes - 200 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,684 likes - 200 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 24 | [Inside of Me](https://open.spotify.com/track/641hz8g6Sb6ng14V1we78Y) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Inside Of Me](https://open.spotify.com/album/0qRVckLxIAPUxv3XmgDOHY) | 2:33 |
 | 25 | [Love’s Theme](https://open.spotify.com/track/6x98PZzecLKDucRBL324qT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Love’s Theme](https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch) | 2:54 |
 | 26 | [Suddenly Disco](https://open.spotify.com/track/6TfhhbFYc2uwY1WWhC9mbb) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Suddenly Disco](https://open.spotify.com/album/1iIyph6fc5TKKODrsOjBZa) | 2:52 |
-| 27 | [Every Woman Needs Love](https://open.spotify.com/track/4XWbfU1hW5f1bw2E4D7iZQ) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Stella Browne](https://open.spotify.com/artist/1I4Uiur4YL4tEc4ktMywr3), [History Of Rave](https://open.spotify.com/artist/58er8STHlRV6sKZnkvAUuR) | [Every Woman Needs Love](https://open.spotify.com/album/2eyCBIFC4uH7HLH0hKcG12) | 3:20 |
+| 27 | [Every Woman Needs Love](https://open.spotify.com/track/4XWbfU1hW5f1bw2E4D7iZQ) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Stella Browne](https://open.spotify.com/artist/1I4Uiur4YL4tEc4ktMywr3) | [Every Woman Needs Love](https://open.spotify.com/album/2eyCBIFC4uH7HLH0hKcG12) | 3:20 |
 | 28 | [Disco Juice](https://open.spotify.com/track/74L38nWYHlQTuuXpy0pZAL) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG) | [Disco Juice](https://open.spotify.com/album/0pTUx1SKc4hw55ZcuGwjfE) | 2:58 |
 | 29 | [Love Is The Answer](https://open.spotify.com/track/5cU4Ixte99aowxMFpQkTSL) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Roc Dubloc](https://open.spotify.com/artist/2hjZ90rim3E4OjQh6oG2QV) | [Love Is The Answer](https://open.spotify.com/album/0yAqtYCetsF9tEAnCzQJZA) | 3:06 |
 | 30 | [Get Yourself Together](https://open.spotify.com/track/0ES7EELLEhdapaDtXSbvOW) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [KPD](https://open.spotify.com/artist/0hfAYH44GGDMvBJ4uGp4u0) | [Get Yourself Together](https://open.spotify.com/album/31yA2IAp91sD258draQldD) | 2:38 |

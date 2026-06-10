@@ -2,7 +2,7 @@
 
 ### [Christmas Spirit](https://open.spotify.com/playlist/37i9dQZF1DWViXqZVTGO3Z)
 
-> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
+> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
 
 518 songs - 1 day 9 hr 32 min
 
@@ -202,7 +202,7 @@
 | [Holy \- Live](https://open.spotify.com/track/3Ygo9kBKmZPH2MMWkQ2IKy) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Holy \(Live\)](https://open.spotify.com/album/3iE9sVBehpqVyHsPcsD5Fx) | 3:53 | 2024-07-31 |  |
 | [Holy Forever \(Christmas🎄\)](https://open.spotify.com/track/53mDshdRCHJpQdOgPMHg4Z) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever \- Christmas Songs Of Worship](https://open.spotify.com/album/0XQi9bYqMEHSoL7tkDwicW) | 5:49 | 2025-11-08 |  |
 | [Home](https://open.spotify.com/track/1JArBYjls1EZ996UAJopI3) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3), [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Home](https://open.spotify.com/album/0TxoOroboezaKCvWAwVVpP) | 3:32 | 2021-12-11 | 2023-11-22 |
-| [Home For The Holidays](https://open.spotify.com/track/67EbT1LcNcBpndoOpQi9J1) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Home For The Holidays](https://open.spotify.com/album/6IkO1vXQhELMWInVKDLiGn) | 2:17 | 2024-09-12 |  |
+| [Home For The Holidays](https://open.spotify.com/track/67EbT1LcNcBpndoOpQi9J1) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Home For The Holidays](https://open.spotify.com/album/6IkO1vXQhELMWInVKDLiGn) | 2:17 | 2024-09-12 | 2026-06-10 |
 | [Home This Christmas](https://open.spotify.com/track/4xhpkthtZ505fhk39Amx0K) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Home This Christmas](https://open.spotify.com/album/3DPjsXVOAFrgnuujEnJyJc) | 3:09 | 2022-12-11 | 2025-11-17 |
 | [Hope Begins](https://open.spotify.com/track/5zwVPzLNMlH5HCvcGaiw7e) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Hope Begins](https://open.spotify.com/album/0OO5wuEDFQsXoSeTpuO9f1) | 4:33 | 2024-11-17 |  |
 | [Hope Has A Name](https://open.spotify.com/track/5beWUJJQZUBgunstmXk6Ge) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Hope Has A Name](https://open.spotify.com/album/33GHItPpQKdgbwPn3oYEGY) | 4:04 | 2021-12-11 |  |
@@ -308,7 +308,7 @@
 | [Mary Did You Know](https://open.spotify.com/track/6KLBLbycBR3gTKIJGYTVBN) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Christmas: God With Us](https://open.spotify.com/album/4lif7qdfFAsjGkyCL83gNU) | 4:04 | 2021-12-24 |  |
 | [Mary Did You Know](https://open.spotify.com/track/3kuht2yVxbhmtUiT3ixGoJ) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Mary Did You Know](https://open.spotify.com/album/5ajcHzGBbwZfycAcaWvlgD) | 3:26 | 2024-11-29 | 2025-11-06 |
 | [Mary Did You Know? \- Radio Version](https://open.spotify.com/track/3msuA22zBie3qiCG7BVf9L) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV) | [Mary Did You Know? \(Radio Version\)](https://open.spotify.com/album/0I7r8bytAaTnRtjukX0MJ5) | 2:54 | 2022-12-11 |  |
-| [Mary Was The First One To Carry The Gospel](https://open.spotify.com/track/3GdoDVNfc732wPoMQ3ovBx) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/album/3OW9iY1xb1YZgAc98v0bZP) | 4:47 | 2024-07-31 | 2026-03-26 |
+| [Mary Was The First One To Carry The Gospel](https://open.spotify.com/track/3GdoDVNfc732wPoMQ3ovBx) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/album/3OW9iY1xb1YZgAc98v0bZP) | 4:47 | 2024-07-31 |  |
 | [Mary, Did You Know?](https://open.spotify.com/track/6nFuUr2GSTpEj9yHWpXbDk) | [Alive Gospel](https://open.spotify.com/artist/2ZPwCNjdfmR4U9jsBpLy0o), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Mary, Did You Know?](https://open.spotify.com/album/7rmTpuDKjKtuCXvQT3LAV6) | 3:35 | 2024-11-29 |  |
 | [Mary, Did You Know?](https://open.spotify.com/track/4Rnf1VzFSUIE4JvgWT7cPF) | [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [Mary, Did You Know?](https://open.spotify.com/album/6Z0vDYQrch1OUy266Mi07R) | 3:31 | 2024-11-17 |  |
 | [Mary, Did You Know?](https://open.spotify.com/track/0Af5U5R3vCdVJRhYJogHzy) | [Kristen Cruz](https://open.spotify.com/artist/39cgWt6wdG1LU7FKREfqVq) | [Mary, Did You Know?](https://open.spotify.com/album/1zBDtUvf6Xl0bJWoAQ2DPZ) | 3:43 | 2022-11-26 | 2024-11-18 |

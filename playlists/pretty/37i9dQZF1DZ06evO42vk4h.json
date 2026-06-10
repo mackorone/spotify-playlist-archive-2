@@ -1,12 +1,12 @@
 {
   "description": "This is OSKIDO. The essential tracks, all in one playlist.",
-  "num_followers": 4194,
+  "num_followers": 4195,
   "original_name": "This Is OSKIDO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAABHi4/b7RaaPTDsLEUrP0MC",
+  "snapshot_id": "aiYGAAAAAAD7xtjgxGmRhyWh+Ji+xP6X",
   "tracks": [
     {
       "added_at": null,
@@ -107,30 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inhliziyo",
-        "url": "https://open.spotify.com/album/3PHgYflLYP6ecau1a75NXF"
-      },
-      "artists": [
-        {
-          "name": "Ze2",
-          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        }
-      ],
-      "duration_ms": 377617,
-      "name": "Inhliziyo - Club Mix",
-      "url": "https://open.spotify.com/track/74FK6QRjxt4ZaesW9N6pS7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okokgcina",
         "url": "https://open.spotify.com/album/5zXX0XHQxVzXweGm5OvPIb"
       },
@@ -155,6 +131,30 @@
       "duration_ms": 317158,
       "name": "Okokgcina - Club Mix",
       "url": "https://open.spotify.com/track/6L9Ukt4PRH1Js4qP50luFL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inhliziyo",
+        "url": "https://open.spotify.com/album/3PHgYflLYP6ecau1a75NXF"
+      },
+      "artists": [
+        {
+          "name": "Ze2",
+          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        }
+      ],
+      "duration_ms": 377617,
+      "name": "Inhliziyo - Club Mix",
+      "url": "https://open.spotify.com/track/74FK6QRjxt4ZaesW9N6pS7"
     },
     {
       "added_at": null,
@@ -499,30 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big UP!",
-        "url": "https://open.spotify.com/album/13dRKy0ynV7oWt1nq4obzB"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        },
-        {
-          "name": "King Tone SA",
-          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "Big Up - Radio Edit",
-      "url": "https://open.spotify.com/track/49oUpe2oYvElaVA51zJIvP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heritage Series - Re Imagine By Oskido",
         "url": "https://open.spotify.com/album/6sjkf90aDcXn3tmQLHnKJ9"
       },
@@ -547,6 +523,30 @@
       "duration_ms": 332013,
       "name": "I Belive - Afro House Mix",
       "url": "https://open.spotify.com/track/5SlOEwp7JeWvnuQ1gsXSnf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big UP!",
+        "url": "https://open.spotify.com/album/13dRKy0ynV7oWt1nq4obzB"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Big Up - Radio Edit",
+      "url": "https://open.spotify.com/track/49oUpe2oYvElaVA51zJIvP"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinumb Heart Beating",
-        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Delakufa",
-      "url": "https://open.spotify.com/track/3Koj6l9nIOVtfTZXv4QAo5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amandla",
         "url": "https://open.spotify.com/album/38fqmt5ic3eipFvEf877Qv"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 197142,
       "name": "Indlela - Radio Edit",
       "url": "https://open.spotify.com/track/02VF0pEmhP3OcLLpruBQ1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinumb Heart Beating",
+        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Delakufa",
+      "url": "https://open.spotify.com/track/3Koj6l9nIOVtfTZXv4QAo5"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagos to Jozi",
-        "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
-      },
-      "artists": [
-        {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 249983,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/1QOyzYu0Yp8wywHpMl3QY1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Onole Kae (feat. CowBoii)",
         "url": "https://open.spotify.com/album/6QFhPrr8KbLhFlErQq0Sea"
       },
@@ -963,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lagos to Jozi",
+        "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 249983,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/1QOyzYu0Yp8wywHpMl3QY1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Church Grooves Evolution",
         "url": "https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U"
       },
@@ -976,17 +976,17 @@
           "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
         },
         {
-          "name": "Nokwazi",
-          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
         },
         {
           "name": "OX Sounds",
           "url": "https://open.spotify.com/artist/5BfXGVKR1k7ETIh5r6Dxjy"
         }
       ],
-      "duration_ms": 231578,
-      "name": "African Prayer - Radio Edit",
-      "url": "https://open.spotify.com/track/45XVXe9jL0LLN6iu45mpN0"
+      "duration_ms": 248421,
+      "name": "Dali Buya - Radio Edit",
+      "url": "https://open.spotify.com/track/49OhEhQ2Yj3b968SPE3gYb"
     },
     {
       "added_at": null,
@@ -1072,17 +1072,17 @@
           "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
         },
         {
-          "name": "Nkosazana Daughter",
-          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+          "name": "Nokwazi",
+          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
         },
         {
           "name": "OX Sounds",
           "url": "https://open.spotify.com/artist/5BfXGVKR1k7ETIh5r6Dxjy"
         }
       ],
-      "duration_ms": 248421,
-      "name": "Dali Buya - Radio Edit",
-      "url": "https://open.spotify.com/track/49OhEhQ2Yj3b968SPE3gYb"
+      "duration_ms": 231578,
+      "name": "African Prayer - Radio Edit",
+      "url": "https://open.spotify.com/track/45XVXe9jL0LLN6iu45mpN0"
     },
     {
       "added_at": null,

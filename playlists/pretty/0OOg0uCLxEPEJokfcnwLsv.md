@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,066 likes - 120 songs - 7 hr 19 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,068 likes - 122 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,5 +128,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 118 | [You Made Me Bad](https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL) | [Rayka Blake](https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc) | [You Made Me Bad](https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc) | 3:40 |
 | 119 | [Karma](https://open.spotify.com/track/3tGPKbmHBc6V0GFbfHwfXY) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Karma](https://open.spotify.com/album/3vByTPtmfWDVFuChlrQENm) | 4:29 |
 | 120 | [They Take You to War](https://open.spotify.com/track/65YU94syhlnLdfXptbGpuj) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Bored of Peace](https://open.spotify.com/album/1tGsbzN0VFgvH6dZ0TR8OC) | 2:10 |
+| 121 | [Bruise](https://open.spotify.com/track/322NfWs2Q26OwW1f0MOTBZ) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [Garden](https://open.spotify.com/album/4c4SBqmV6J0gbOm6mIM4Oz) | 3:42 |
+| 122 | [Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo \(No es tan difícil\)](https://open.spotify.com/track/7c3n6e35HWPu8jFZsGP2ZD) | [Los No Muertos](https://open.spotify.com/artist/10DyxVqQ1e1PaEsmZujjSE) | [Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo \(No es tan difícil\)](https://open.spotify.com/album/6g7hoVgjQPhWLuXDiQlK1T) | 4:52 |
 
-Snapshot ID: `AAAGQu5YN86939M9i0QSm86VtodvadJb`
+Snapshot ID: `AAAGRJlX9TaERmF9OW9vBHM/QrUMEi56`

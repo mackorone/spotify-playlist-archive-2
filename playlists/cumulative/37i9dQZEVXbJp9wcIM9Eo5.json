@@ -7528,7 +7528,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 245500,
       "name": "El Beneficio De La Duda",
       "url": "https://open.spotify.com/track/5yXt80BNZGbmHFd0NHZHNn"
@@ -8838,7 +8838,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -8910,7 +8910,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -8998,7 +8998,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 281545,
       "name": "Esclava - Remix",
       "url": "https://open.spotify.com/track/2Mgur7BKnpr7OG3izSNFTA"
@@ -13571,6 +13571,44 @@
     },
     {
       "album": {
+        "name": "Las Solteras",
+        "url": "https://open.spotify.com/album/4jbSb5IgmGmIH0cO9KLprF"
+      },
+      "artists": [
+        {
+          "name": "Kingttana",
+          "url": "https://open.spotify.com/artist/5q5Bp96wO8YAWKEHfyxt8x"
+        },
+        {
+          "name": "Lennox",
+          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
+        },
+        {
+          "name": "Jose Alejandro Quintana",
+          "url": "https://open.spotify.com/artist/0T1OJgf6k9HR6dJ1dCVn9L"
+        },
+        {
+          "name": "Gabriel Pizarro Pizarro",
+          "url": "https://open.spotify.com/artist/6dGku3FsMNII7nCZr3YoMb"
+        },
+        {
+          "name": "Eliosbel galarraga Mendoza",
+          "url": "https://open.spotify.com/artist/4vGGkePfQoN321naD03F0F"
+        },
+        {
+          "name": "David Rafael Duran Romero",
+          "url": "https://open.spotify.com/artist/4yTZczUIQROeM20S7cUgTo"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Las Solteras",
+      "url": "https://open.spotify.com/track/0uCxwSSsVIva5pYUoninV7"
+    },
+    {
+      "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
@@ -16426,7 +16464,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 232131,
       "name": "MOJABI GHOST",
       "url": "https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e"

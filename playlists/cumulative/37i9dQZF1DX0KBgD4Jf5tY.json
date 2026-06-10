@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:5jzmHcHM6la5EEnffjdOrC\">ultrasaturated</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:5wmojKMSezsXJ9pRUaVUJ7\">VOLPI</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -1917,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/0Uf8PEiT6p0L6THKc1I5XY"
+      },
+      "artists": [
+        {
+          "name": "unit",
+          "url": "https://open.spotify.com/artist/4f85B9VIqMNfRjj2eDhkmy"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175084,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/1gryOS3Zdi0lUJoXdbvgOu"
+    },
+    {
+      "album": {
         "name": "Aggressive Kitsch",
         "url": "https://open.spotify.com/album/2Bz8pCY8N8pxW0yBF7dIuy"
       },
@@ -3014,6 +3032,24 @@
       "duration_ms": 160774,
       "name": "Anna nelle banlieue",
       "url": "https://open.spotify.com/track/2LENQKO87Z9pGQymyWHT8J"
+    },
+    {
+      "album": {
+        "name": "anne",
+        "url": "https://open.spotify.com/album/1C1zRXTXbFnRGZNytaU3Wv"
+      },
+      "artists": [
+        {
+          "name": "AKA5HA",
+          "url": "https://open.spotify.com/artist/68OhnLZAssjyMJueiCX7jf"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257804,
+      "name": "anne",
+      "url": "https://open.spotify.com/track/1q5yDr4fdQYzlEmA3SVR9G"
     },
     {
       "album": {
@@ -4776,7 +4812,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 174433,
       "name": "Blu",
       "url": "https://open.spotify.com/track/6mpXviP6qIzSeSmK1suOW2"
@@ -10308,7 +10344,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 198750,
       "name": "Dissacrante",
       "url": "https://open.spotify.com/track/5ZV2ObM0F03iGTQZWhR7nQ"
@@ -11914,7 +11950,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 138475,
       "name": "Estate 2007",
       "url": "https://open.spotify.com/track/2qUoYjZYq4jtq52bowjwP1"
@@ -16694,7 +16730,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 216000,
       "name": "Il Teatro dell\u2019Anima",
       "url": "https://open.spotify.com/track/60QENwGTnzAXeqjyypsoDK"
@@ -17978,7 +18014,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 150857,
       "name": "Jump In",
       "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
@@ -20750,7 +20786,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 185529,
       "name": "Luned\u00ec",
       "url": "https://open.spotify.com/track/2jPlIUcJMsCZiwDaUCZCvK"
@@ -36001,6 +36037,24 @@
     },
     {
       "album": {
+        "name": "15 B-Sides",
+        "url": "https://open.spotify.com/album/6Sy3zQyPdwIEs5fygB6atj"
+      },
+      "artists": [
+        {
+          "name": "151515!",
+          "url": "https://open.spotify.com/artist/2Yi3CLx7EWKwzPnkDFz0GL"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199024,
+      "name": "Strada di casa",
+      "url": "https://open.spotify.com/track/11HCLEq94qomWlF5LIJYUA"
+    },
+    {
+      "album": {
         "name": "STRADA DI CASA",
         "url": "https://open.spotify.com/album/23cR1nx3y1qdL2JO62xrYx"
       },
@@ -37084,7 +37138,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 235817,
       "name": "Tersicore",
       "url": "https://open.spotify.com/track/6Rb0OjusapAMifa4BThXnl"
@@ -38343,6 +38397,28 @@
     },
     {
       "album": {
+        "name": "ypsilon",
+        "url": "https://open.spotify.com/album/34ccA3nkdc9F1OBWXWYyE1"
+      },
+      "artists": [
+        {
+          "name": "Cecile",
+          "url": "https://open.spotify.com/artist/2V71DNcQsRW0Vp8vCOy9Vw"
+        },
+        {
+          "name": "Marco Kotov",
+          "url": "https://open.spotify.com/artist/3Jki1jwC8xuHNdT6rpbokG"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269718,
+      "name": "tutta aggrovigliata",
+      "url": "https://open.spotify.com/track/6RRIGE36lI16mKi56epMBo"
+    },
+    {
+      "album": {
         "name": "Tutta Pratica",
         "url": "https://open.spotify.com/album/6OCyskhIDhJppKGjv75maw"
       },
@@ -39087,6 +39163,24 @@
     },
     {
       "album": {
+        "name": "Una barca a Sorrento",
+        "url": "https://open.spotify.com/album/3tDJUudECWTd5SsaLfpubE"
+      },
+      "artists": [
+        {
+          "name": "Imma",
+          "url": "https://open.spotify.com/artist/0GejYG3f7QA2VSFXLi8dFo"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238578,
+      "name": "Una barca a Sorrento",
+      "url": "https://open.spotify.com/track/1bBMs8EfpbBbOkiK1tmtbi"
+    },
+    {
+      "album": {
         "name": "una fase",
         "url": "https://open.spotify.com/album/4ObpbcrgLVdUvJ1J68bJxX"
       },
@@ -39706,6 +39800,28 @@
       "duration_ms": 206363,
       "name": "VELENO",
       "url": "https://open.spotify.com/track/6DrPJAXD7puVADAGSpjX4x"
+    },
+    {
+      "album": {
+        "name": "Veleno",
+        "url": "https://open.spotify.com/album/75v1yQJRCE5AQLJH7Ttoma"
+      },
+      "artists": [
+        {
+          "name": "NZIRIA",
+          "url": "https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe"
+        },
+        {
+          "name": "Iceboy Violet",
+          "url": "https://open.spotify.com/artist/2MWAoLoDTgex9peOU2Uc4C"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266669,
+      "name": "Veleno",
+      "url": "https://open.spotify.com/track/7vtem6XK15JdfDGLSriXmb"
     },
     {
       "album": {
@@ -40490,6 +40606,24 @@
       "duration_ms": 116000,
       "name": "VUOTO",
       "url": "https://open.spotify.com/track/5dg5MAxWLc2nxsUV6OLd5D"
+    },
+    {
+      "album": {
+        "name": "vuoto di senso",
+        "url": "https://open.spotify.com/album/0TtM0DlCuslujnDLoa5Duo"
+      },
+      "artists": [
+        {
+          "name": "Corinna",
+          "url": "https://open.spotify.com/artist/6vqpDMhV9j6QazfM1e2Cv6"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135172,
+      "name": "vuoto di senso",
+      "url": "https://open.spotify.com/track/0wV8I54mMeLY6PxwD4VQs0"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 299341,
+  "num_followers": 299458,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Amores Perros (Soundtrack)",
-        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 233040,
-      "name": "De Perros Amores",
-      "url": "https://open.spotify.com/track/3DlC0Q6fgNuhj6WEcj21RE"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "Activados y Prendidos",
         "url": "https://open.spotify.com/album/38aLvR344hV3HWZoe29Lpp"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "Amores Perros (Soundtrack)",
+        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 233040,
+      "name": "De Perros Amores",
+      "url": "https://open.spotify.com/track/3DlC0Q6fgNuhj6WEcj21RE"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 215586,
       "name": "Plata o Plomo (feat. Eugenia Le\u00f3n)",
       "url": "https://open.spotify.com/track/1lCSrtvSwDH0BWXvlLJyyW"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Millonario Sin Corona",
+        "url": "https://open.spotify.com/album/4T7ICgMnMPR72nLkQCEWE2"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Chingo de Cheve",
+      "url": "https://open.spotify.com/track/1GUK48Vm37ng2jwxWjWb4z"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -863,34 +879,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/1OGemrG3upLMC7nVj8OZX2"
+        "name": "High Con Class XIII",
+        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
       },
       "artists": [
         {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Comprendes, Mendes?",
-      "url": "https://open.spotify.com/track/1yshNtExWJOfvjfvUqGcnu"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "Millonario Sin Corona",
-        "url": "https://open.spotify.com/album/4T7ICgMnMPR72nLkQCEWE2"
-      },
-      "artists": [
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
         {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 209440,
-      "name": "Chingo de Cheve",
-      "url": "https://open.spotify.com/track/1GUK48Vm37ng2jwxWjWb4z"
+      "duration_ms": 209146,
+      "name": "Ma\u00f1anero",
+      "url": "https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ"
     }
   ],
   "unique_name": "Hip-Hop Mexicano: Cl\u00e1sicos",

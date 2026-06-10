@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: BROCKHOFF
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,871 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,870 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [KOKOSNUSS](https://open.spotify.com/track/1Wt0okU2AQCphxQ8PE9b5V) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Florida Juicy](https://open.spotify.com/artist/3Vx6SzTg6SDWWbwXI3ky1L), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [POPPSTAR](https://open.spotify.com/album/2XWB45gIGGPAS4DFuG2PiS) | 2:26 |
 | 9 | [$HORTY](https://open.spotify.com/track/683sHcdwOmWo7AzjvFDwQS) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [$HORTY](https://open.spotify.com/album/0bV50H2gBUnOhztqHLEIZd) | 2:42 |
 | 10 | [ciao bb](https://open.spotify.com/track/5gbcw4QBRYTa2k84kEFHiA) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [ciao bb](https://open.spotify.com/album/6KUjT3Z3we8zDTrZwebRcP) | 2:21 |
-| 11 | [tief](https://open.spotify.com/track/1lrJdYH1peRMrRpHTEoM6H) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [tief](https://open.spotify.com/album/5q9jI0shsu9ZVPbOHcDGbg) | 3:01 |
-| 12 | [aufn sack](https://open.spotify.com/track/6VAVWjLEIw39ytztumagau) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [aufn sack](https://open.spotify.com/album/6vvdUrfblEJDSDRPyfeRE1) | 2:37 |
+| 11 | [aufn sack](https://open.spotify.com/track/6VAVWjLEIw39ytztumagau) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [aufn sack](https://open.spotify.com/album/6vvdUrfblEJDSDRPyfeRE1) | 2:37 |
+| 12 | [tief](https://open.spotify.com/track/1lrJdYH1peRMrRpHTEoM6H) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [tief](https://open.spotify.com/album/5q9jI0shsu9ZVPbOHcDGbg) | 3:01 |
 | 13 | [Funkstille](https://open.spotify.com/track/5IBMYix1rjkNMoAZwk95vA) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Funkstille](https://open.spotify.com/album/2ZEr5BaAa9sTiDnvUwEdD1) | 2:57 |
 | 14 | [Sharks](https://open.spotify.com/track/1raKZiQRXg9SGZNhfakiOd) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 2:48 |
 | 15 | [Ozempic & Pilates](https://open.spotify.com/track/384j1jLowG025SHIpRNwLD) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Ozempic & Pilates](https://open.spotify.com/album/3kXweZiPGmfPL783hcx6Wf) | 1:51 |
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 24 | [Kein Schlaf](https://open.spotify.com/track/0ir69oQMkmI4lVG1WbFDjD) | [Lilli](https://open.spotify.com/artist/0EdqMUSITvHwlyAc5SwPcK) | [Kein Schlaf](https://open.spotify.com/album/0ZeogoFDzxA5RofVsYxOOd) | 2:54 |
 | 25 | [Oxytocin](https://open.spotify.com/track/0UZpoYY7M8YNaaEryw2WmY) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ), [LIONSTORM](https://open.spotify.com/artist/2R674rphXQgJ2v2TXHydvV) | [Oxytocin](https://open.spotify.com/album/5JTpJr7p20iDusqqEOq0Xl) | 2:55 |
 | 26 | [zähl die tage](https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [es ist okay, dass du fühlst](https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn) | 2:58 |
-| 27 | [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 |
-| 28 | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/track/6XvkIu9TeTEV2dzT89Be5m) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/album/18EEaZHJFCpZ14Eqx04lyC) | 1:40 |
-| 29 | [müde träume](https://open.spotify.com/track/4l87fKjREeMI9xGrPo8YjI) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [müde träume](https://open.spotify.com/album/5J58mtPQwfHEVnwCnBzhFs) | 2:32 |
+| 27 | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/track/6XvkIu9TeTEV2dzT89Be5m) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/album/18EEaZHJFCpZ14Eqx04lyC) | 1:40 |
+| 28 | [müde träume](https://open.spotify.com/track/4l87fKjREeMI9xGrPo8YjI) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [müde träume](https://open.spotify.com/album/5J58mtPQwfHEVnwCnBzhFs) | 2:32 |
+| 29 | [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 |
 | 30 | [Whenever You Want](https://open.spotify.com/track/4D6MO8L8XMosduqGD8zA5D) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [I've Stopped Getting Chills For A While Now](https://open.spotify.com/album/7GjlQUFZz3eK3rhBFJKwer) | 3:59 |
 | 31 | [Steh Auf](https://open.spotify.com/track/7x2LZ36JN2mGoM6JOq74fO) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Steh Auf](https://open.spotify.com/album/6EoAQqxgIvCCEs7lXwV7F3) | 3:15 |
 | 32 | [Schwarze Herzen](https://open.spotify.com/track/0uHfsSUQtOooeevuSaLCQW) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Schwarze Herzen](https://open.spotify.com/album/5yKn9zUfv5gJNQxahVCHgY) | 2:54 |
-| 33 | [AT THE SAME TIME](https://open.spotify.com/track/0BsxJRdxV9iF34IP2gdbF0) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [Y2K](https://open.spotify.com/album/3fXg00eCmBXvbDSbH6AmqL) | 2:13 |
-| 34 | [Where Do Lost Dreams Go?](https://open.spotify.com/track/5DFD6xh3cbY2NNTh5L6zY8) | [Solong](https://open.spotify.com/artist/5iXNhXMhenY5CglSJGTd6v) | [Where Do Lost Dreams Go?](https://open.spotify.com/album/1XcUjv4aM5b6nSt2l2rRW7) | 5:29 |
+| 33 | [Where Do Lost Dreams Go?](https://open.spotify.com/track/5DFD6xh3cbY2NNTh5L6zY8) | [Solong](https://open.spotify.com/artist/5iXNhXMhenY5CglSJGTd6v) | [Where Do Lost Dreams Go?](https://open.spotify.com/album/1XcUjv4aM5b6nSt2l2rRW7) | 5:29 |
+| 34 | [AT THE SAME TIME](https://open.spotify.com/track/0BsxJRdxV9iF34IP2gdbF0) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [Y2K](https://open.spotify.com/album/3fXg00eCmBXvbDSbH6AmqL) | 2:13 |
 | 35 | [Weiße Tauben](https://open.spotify.com/track/7KVYZyxTL5otyHBQdliTaU) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW) | [Weiße Tauben](https://open.spotify.com/album/6gWmR8scir5ETJCN70PNRR) | 3:17 |
 | 36 | [Pinke Plüschjacke](https://open.spotify.com/track/1MReIAYdZntiYppjxWXZiC) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Pinke Plüschjacke](https://open.spotify.com/album/15SiaPrp8mY7IFu6FjRBIx) | 2:51 |
 | 37 | [Mascara](https://open.spotify.com/track/23jeo9x3nDuXSBBp8A4RTo) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Mascara](https://open.spotify.com/album/3h7k7XEpZ4wxGyfzO3Eyvk) | 2:31 |

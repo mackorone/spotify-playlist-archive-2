@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 81068,
+  "num_followers": 81075,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAAAKfW3hVXhOqOIqzAMJ48xU",
+  "snapshot_id": "aiYGAAAAAABtd7jFsfYfLfiAi+MkS832",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty (Expanded Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
+        "name": "Anthems of Rebellion",
+        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 267666,
-      "name": "Break the Spell",
-      "url": "https://open.spotify.com/track/0mEjyPMcqIxeqYFIOeAQib"
+      "duration_ms": 246706,
+      "name": "We Will Rise",
+      "url": "https://open.spotify.com/track/0KtQaeUT372b7vRProw9Sm"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems of Rebellion",
-        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
+        "name": "Blood Dynasty (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 246706,
-      "name": "We Will Rise",
-      "url": "https://open.spotify.com/track/0KtQaeUT372b7vRProw9Sm"
+      "duration_ms": 267666,
+      "name": "Break the Spell",
+      "url": "https://open.spotify.com/track/0mEjyPMcqIxeqYFIOeAQib"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 195066,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/6tzxM7GwiC5Yci3s08n5B4"
+      "duration_ms": 235426,
+      "name": "Blood in the Water",
+      "url": "https://open.spotify.com/track/12pova27n3uHRQxrPnih9f"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 235426,
-      "name": "Blood in the Water",
-      "url": "https://open.spotify.com/track/12pova27n3uHRQxrPnih9f"
+      "duration_ms": 195066,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/6tzxM7GwiC5Yci3s08n5B4"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,429 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,432 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 53 | [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 |
 | 54 | [Ching](https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Ching](https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa) | 1:58 |
 | 55 | [This World Of Mine](https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ) | [Bluprint](https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z), [Confz](https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [This World Of Mine](https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38) | 3:06 |
-| 56 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 |
-| 57 | [All Night](https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne) | [Sensuré](https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA), [Rastreep](https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw) | [Pathways](https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia) | 2:46 |
+| 56 | [All Night](https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne) | [Sensuré](https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA), [Rastreep](https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw) | [Pathways](https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia) | 2:46 |
+| 57 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 |
 | 58 | [Middle of Things, Beautiful Wife \(feat\. Xavier Omär\)\)](https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [North](https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP) | 3:42 |
 | 59 | [touch](https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [Bad Honey](https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu) | [touch](https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh) | 3:42 |
 | 60 | [Morning Light \(feat\. Andreya Triana\)](https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Dancing While Falling](https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng) | 3:31 |

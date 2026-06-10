@@ -301,6 +301,28 @@
     },
     {
       "album": {
+        "name": "ABG",
+        "url": "https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l"
+      },
+      "artists": [
+        {
+          "name": "nhan.",
+          "url": "https://open.spotify.com/artist/6Ju8OqJkXqr9lRIGx9Vs6t"
+        },
+        {
+          "name": "Xuanpac",
+          "url": "https://open.spotify.com/artist/53aQsVsBVoFXO0FAhgVCPM"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ABG",
+      "url": "https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2"
+    },
+    {
+      "album": {
         "name": "ADAMN",
         "url": "https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB"
       },
@@ -472,7 +494,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 167970,
       "name": "Anh Ch\u1ec9 Mu\u1ed1n",
       "url": "https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh"

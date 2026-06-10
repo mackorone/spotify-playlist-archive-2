@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20482,
+  "num_followers": 20485,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -775,38 +775,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Uno Lovis Party",
-        "url": "https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4"
-      },
-      "artists": [
-        {
-          "name": "Kury",
-          "url": "https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9"
-        }
-      ],
-      "duration_ms": 202921,
-      "name": "Memento Amoris",
-      "url": "https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Popi\u00f3\u0142",
-        "url": "https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3"
-      },
-      "artists": [
-        {
-          "name": "B\u0142a\u017cej Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
-        }
-      ],
-      "duration_ms": 281663,
-      "name": "Moja bestia",
-      "url": "https://open.spotify.com/track/0ZbwqrkZHD8NAG74mXJ7PL"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "The Shit Ov God",
         "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
       },
@@ -851,6 +819,38 @@
       "duration_ms": 287346,
       "name": "Canon",
       "url": "https://open.spotify.com/track/0PMpVJKmad8FKWtbdeuzDt"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Popi\u00f3\u0142",
+        "url": "https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3"
+      },
+      "artists": [
+        {
+          "name": "B\u0142a\u017cej Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
+        }
+      ],
+      "duration_ms": 281663,
+      "name": "Moja bestia",
+      "url": "https://open.spotify.com/track/0ZbwqrkZHD8NAG74mXJ7PL"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Uno Lovis Party",
+        "url": "https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4"
+      },
+      "artists": [
+        {
+          "name": "Kury",
+          "url": "https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9"
+        }
+      ],
+      "duration_ms": 202921,
+      "name": "Memento Amoris",
+      "url": "https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Homage",
+        "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "duration_ms": 251514,
+      "name": "Love in the Garden",
+      "url": "https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Romeo i Julia \u017cyj\u0105",
         "url": "https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 253000,
       "name": "UP & DOWN",
       "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Homage",
-        "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
-      },
-      "artists": [
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        },
-        {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
-        }
-      ],
-      "duration_ms": 251514,
-      "name": "Love in the Garden",
-      "url": "https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC"
     },
     {
       "added_at": "2026-05-26 09:05:26",

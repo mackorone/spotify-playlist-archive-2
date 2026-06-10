@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93952,
+  "num_followers": 93946,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
-        "name": "Din S\u00e5ng",
-        "url": "https://open.spotify.com/album/64vTKNWTHScWdFu6eG4LJr"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 236479,
-      "name": "Din S\u00e5ng",
-      "url": "https://open.spotify.com/track/7z9yS76hKaktbg1cJieHQC"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
         "name": "\u00c4r det h\u00e4r det \u00e4r party",
         "url": "https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 202011,
       "name": "\u00c4r det h\u00e4r det \u00e4r party",
       "url": "https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
+        "name": "Din S\u00e5ng",
+        "url": "https://open.spotify.com/album/64vTKNWTHScWdFu6eG4LJr"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 236479,
+      "name": "Din S\u00e5ng",
+      "url": "https://open.spotify.com/track/7z9yS76hKaktbg1cJieHQC"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/7FJV7QgehZXTArpuReQruq"
+        "name": "Ingen plockar en maskros",
+        "url": "https://open.spotify.com/album/6UIco02LG96PWIO8KnsdMC"
       },
       "artists": [
         {
-          "name": "Laila Ad\u00e8le",
-          "url": "https://open.spotify.com/artist/10UHmKyfLXudqVHU9PnHEZ"
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
         }
       ],
-      "duration_ms": 185579,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/7jU2y3rilGzbkxbeonPNjN"
+      "duration_ms": 223506,
+      "name": "Ingen plockar en maskros",
+      "url": "https://open.spotify.com/track/55kyGw7WmOpInVrabROr68"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/7FJV7QgehZXTArpuReQruq"
+      },
+      "artists": [
+        {
+          "name": "Laila Ad\u00e8le",
+          "url": "https://open.spotify.com/artist/10UHmKyfLXudqVHU9PnHEZ"
+        }
+      ],
+      "duration_ms": 185579,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/7jU2y3rilGzbkxbeonPNjN"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
         "name": "Everything's wasted",
         "url": "https://open.spotify.com/album/2qRHkSc9g1Iign5yKvJhFA"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 262501,
       "name": "Everything's wasted",
       "url": "https://open.spotify.com/track/1ao7iSXbAFlnDKCibe3KcG"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
-        "name": "Ingen plockar en maskros",
-        "url": "https://open.spotify.com/album/6UIco02LG96PWIO8KnsdMC"
-      },
-      "artists": [
-        {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "Ingen plockar en maskros",
-      "url": "https://open.spotify.com/track/55kyGw7WmOpInVrabROr68"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
+        "name": "jaywalking",
+        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 170818,
+      "name": "Glasshouse",
+      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
         "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
         "url": "https://open.spotify.com/album/2NWC30QTZOUGAbbuBhChfI"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 197454,
       "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
       "url": "https://open.spotify.com/track/1L5gRcjdOBZVrvf9eMr74t"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
-        "name": "jaywalking",
-        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 170818,
-      "name": "Glasshouse",
-      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
-        "name": "Praying for a Miracle",
-        "url": "https://open.spotify.com/album/7KUJcnrSFhJdBYdPX6T2bR"
-      },
-      "artists": [
-        {
-          "name": "Erik Gr\u00f6nwall",
-          "url": "https://open.spotify.com/artist/5dg3YtsiR8ux6amJv9m9AG"
-        }
-      ],
-      "duration_ms": 226675,
-      "name": "Praying for a Miracle",
-      "url": "https://open.spotify.com/track/4uTEsvH1qgQtsjo7cCKfBF"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
         "name": "Bara trummor kvar",
         "url": "https://open.spotify.com/album/6gs9deX2HzLigPK9WDIzSd"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
-        "name": "Jag \u00c4r",
-        "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
+        "name": "Praying for a Miracle",
+        "url": "https://open.spotify.com/album/7KUJcnrSFhJdBYdPX6T2bR"
       },
       "artists": [
         {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+          "name": "Erik Gr\u00f6nwall",
+          "url": "https://open.spotify.com/artist/5dg3YtsiR8ux6amJv9m9AG"
         }
       ],
-      "duration_ms": 183160,
-      "name": "Magk\u00e4nsla",
-      "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
+      "duration_ms": 226675,
+      "name": "Praying for a Miracle",
+      "url": "https://open.spotify.com/track/4uTEsvH1qgQtsjo7cCKfBF"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -1019,6 +1003,22 @@
       "duration_ms": 205896,
       "name": "Can't Frame the Moonlight",
       "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
+        "name": "Jag \u00c4r",
+        "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Magk\u00e4nsla",
+      "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
-        "name": "I Rock My Country",
-        "url": "https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf"
-      },
-      "artists": [
-        {
-          "name": "Jill Johnson",
-          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "I Rock My Country",
-      "url": "https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
         "name": "Mitt hj\u00e4rta en rebell",
         "url": "https://open.spotify.com/album/2wSAeBhPk56MwhfaXhfePx"
       },
@@ -1119,6 +1103,38 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
+        "name": "I Rock My Country",
+        "url": "https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf"
+      },
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "I Rock My Country",
+      "url": "https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
+        "name": "Tiden",
+        "url": "https://open.spotify.com/album/16q6FX0WuHi5RhtwGhf5Gc"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 242641,
+      "name": "Tiden",
+      "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
         "name": "Gullmar Gospel",
         "url": "https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 264146,
       "name": "Det b\u00e4sta av allt - Live",
       "url": "https://open.spotify.com/track/3yZzIdYbrajLDhcnPOXOCR"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
-        "name": "Tiden",
-        "url": "https://open.spotify.com/album/16q6FX0WuHi5RhtwGhf5Gc"
-      },
-      "artists": [
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
-        }
-      ],
-      "duration_ms": 242641,
-      "name": "Tiden",
-      "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
-        "name": "Forevers",
-        "url": "https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ"
-      },
-      "artists": [
-        {
-          "name": "Johnossi",
-          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
-        }
-      ],
-      "duration_ms": 229770,
-      "name": "Inner City Ghosts",
-      "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
         "name": "Terra Firma",
         "url": "https://open.spotify.com/album/25wFRAWqO0FCUvZKwcINnx"
       },
@@ -1323,6 +1307,38 @@
       "duration_ms": 259906,
       "name": "V\u00e4ntar p\u00e5 skymningen",
       "url": "https://open.spotify.com/track/5wd14V8xbTcdrs5abonI11"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
+        "name": "Nu \u00e4r det sommar",
+        "url": "https://open.spotify.com/album/2vod2jSRKgWviLJ4o9N3HA"
+      },
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
+        }
+      ],
+      "duration_ms": 187604,
+      "name": "Nu \u00e4r det sommar",
+      "url": "https://open.spotify.com/track/2BSV2wwILPT33uyNq6JeDC"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
+        "name": "Forevers",
+        "url": "https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ"
+      },
+      "artists": [
+        {
+          "name": "Johnossi",
+          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
+        }
+      ],
+      "duration_ms": 229770,
+      "name": "Inner City Ghosts",
+      "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
-        "name": "Nu \u00e4r det sommar",
-        "url": "https://open.spotify.com/album/2vod2jSRKgWviLJ4o9N3HA"
+        "name": "Stronger Than",
+        "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
       },
       "artists": [
         {
-          "name": "Sven-Ingvars",
-          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
         }
       ],
-      "duration_ms": 187604,
-      "name": "Nu \u00e4r det sommar",
-      "url": "https://open.spotify.com/track/2BSV2wwILPT33uyNq6JeDC"
+      "duration_ms": 188493,
+      "name": "Stronger Than",
+      "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -1387,22 +1403,6 @@
       "duration_ms": 230111,
       "name": "S\u00f6dersommar",
       "url": "https://open.spotify.com/track/5tbbTs56RXANxq6cj4gjln"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
-        "name": "Stronger Than",
-        "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
-      },
-      "artists": [
-        {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Stronger Than",
-      "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
-        "name": "Last To Know",
-        "url": "https://open.spotify.com/album/04oxKh21TCYMX17XlDHptZ"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Tears",
-          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Last To Know",
-      "url": "https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
         "name": "T\u00e5rar",
         "url": "https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 182567,
       "name": "T\u00e5rar",
       "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
+        "name": "Last To Know",
+        "url": "https://open.spotify.com/album/04oxKh21TCYMX17XlDHptZ"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Tears",
+          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Last To Know",
+      "url": "https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv"
     }
   ],
   "unique_name": "Aktuellt",

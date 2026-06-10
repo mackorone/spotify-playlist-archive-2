@@ -24102,7 +24102,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 325625,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7"
@@ -28128,6 +28128,24 @@
       "duration_ms": 163064,
       "name": "Sommarland",
       "url": "https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ"
+    },
+    {
+      "album": {
+        "name": "Song and Dance Man + Let's Go Camping",
+        "url": "https://open.spotify.com/album/0K3erRyIjMqza5oWHTv86c"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137700,
+      "name": "Song and Dance Man",
+      "url": "https://open.spotify.com/track/1oflMqWYnceFzbIDdOM1fr"
     },
     {
       "album": {

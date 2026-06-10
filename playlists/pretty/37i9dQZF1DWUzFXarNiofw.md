@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,797 likes - 260 songs - 13 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,767 likes - 260 songs - 13 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

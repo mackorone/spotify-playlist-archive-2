@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: ILLIT
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,818 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,806 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [higher](https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [higher](https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK) | 3:34 |
 | 60 | [BANG!!](https://open.spotify.com/track/5wHQmGFml0oDSqv7Q4nixp) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [BANG!!](https://open.spotify.com/album/5vkSBmbkFqg9ByvMe0o4Zu) | 3:24 |
 
-Snapshot ID: `AAAAAKsweRpNt4b2e1hYTeI1kGmk+74R`
+Snapshot ID: `AAAAALyYPKd/Q5xZMrzTL3dTBifzsyda`

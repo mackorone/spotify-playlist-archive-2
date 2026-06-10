@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,076 likes - 99 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,034 likes - 99 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 16 | [Tollbooth](https://open.spotify.com/track/5mYSx334YHh8frPMp65LoN) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Tollbooth](https://open.spotify.com/album/62my3PrxxWLsSGhaUk8y6r) | 4:03 |
 | 17 | [Lost Cause Lover Fool](https://open.spotify.com/track/67BIKHphUzH4RpIgbtpVom) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Lost Cause Lover Fool](https://open.spotify.com/album/5Da2gVIzT3m8pSAsNHv9Mv) | 4:59 |
 | 18 | [Weakened](https://open.spotify.com/track/5lezbuSpR8TpBS8uV5kCmS) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [Weakened](https://open.spotify.com/album/0dPcISAwpw4XcEunbaPxwK) | 5:37 |
-| 19 | [Tiger Blood](https://open.spotify.com/track/33GW7UkXxsIDwb0tWL99q5) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Tiger Blood](https://open.spotify.com/album/5VXuq0HNXIadIwJrQmaIxP) | 3:52 |
+| 19 | [Tiger Blood](https://open.spotify.com/track/33GW7UkXxsIDwb0tWL99q5) | [Houndmouth](https://open.spotify.com/artist/5E3ZpulF9dBTGYE6njBV2P) | [Tiger Blood](https://open.spotify.com/album/5VXuq0HNXIadIwJrQmaIxP) | 3:52 |
 | 20 | [Jukebox Blues \(For Blaze Foley\)](https://open.spotify.com/track/4CTACBpkE6v7e6G6llSICV) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Jukebox Blues \(For Blaze Foley\)](https://open.spotify.com/album/6fLKJzKImIttqu2YTQrUAO) | 3:30 |
 | 21 | [Demons In Your Choir](https://open.spotify.com/track/39Ra5S4b4srNRbPScFDKo7) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Demons In Your Choir](https://open.spotify.com/album/1dAKuCI09fY46OiAzjTlHz) | 4:16 |
 | 22 | [Lonesome Dove](https://open.spotify.com/track/3ossErA68C3bYNofQgQDsB) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Age of the Ram](https://open.spotify.com/album/7qSbOinSadHKhs2OkjKvEP) | 3:04 |

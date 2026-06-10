@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Deto Black ",
-  "num_followers": 111816,
+  "num_followers": 111831,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,22 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
-        "name": "to what we were",
-        "url": "https://open.spotify.com/album/1s5prd8IhOJfzOQFrJIhq9"
+        "name": "The Fall That Saved Us",
+        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
       },
       "artists": [
         {
-          "name": "Amma",
-          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 134250,
-      "name": "I love you",
-      "url": "https://open.spotify.com/track/1OKfJO2tcqlUWn6hpu3QkM"
+      "duration_ms": 170013,
+      "name": "Nights In The Sun (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -59,22 +63,18 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
-        "name": "The Fall That Saved Us",
-        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
+        "name": "to what we were",
+        "url": "https://open.spotify.com/album/1s5prd8IhOJfzOQFrJIhq9"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
         }
       ],
-      "duration_ms": 170013,
-      "name": "Nights In The Sun (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
+      "duration_ms": 134250,
+      "name": "I love you",
+      "url": "https://open.spotify.com/track/1OKfJO2tcqlUWn6hpu3QkM"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
-        "name": "impossible",
-        "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
-      },
-      "artists": [
-        {
-          "name": "Tochi Bedford",
-          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "impossible",
-      "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
-    },
-    {
-      "added_at": "2026-05-29 00:01:42",
-      "album": {
         "name": "Night Drive (feat. Dagmawit Ameha)",
         "url": "https://open.spotify.com/album/1mE2Y555FBTuTACvAh3U31"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 220340,
       "name": "Night Drive (feat. Dagmawit Ameha)",
       "url": "https://open.spotify.com/track/0XCxoVRBBYzH2QLUH6rf38"
+    },
+    {
+      "added_at": "2026-05-29 00:01:42",
+      "album": {
+        "name": "impossible",
+        "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
+      },
+      "artists": [
+        {
+          "name": "Tochi Bedford",
+          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "impossible",
+      "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
-        "name": "Modern Fantasy",
-        "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        },
-        {
-          "name": "Raytheboffin",
-          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Modern man",
-      "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
-    },
-    {
-      "added_at": "2026-05-29 00:01:42",
-      "album": {
         "name": "Only Water (Feat. Lady Donli)",
         "url": "https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 187500,
       "name": "Only Water (Feat. Lady Donli)",
       "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
+    },
+    {
+      "added_at": "2026-05-29 00:01:42",
+      "album": {
+        "name": "Modern Fantasy",
+        "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Modern man",
+      "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/2yzE0FVIVvSPPtJEWaFd7Z"
-      },
-      "artists": [
-        {
-          "name": "Fimi",
-          "url": "https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr"
-        }
-      ],
-      "duration_ms": 161289,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/1xAKbuqVAmKTH7beQe7VRJ"
-    },
-    {
-      "added_at": "2026-05-29 00:01:42",
-      "album": {
         "name": "Sex on the Beach",
         "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 171205,
       "name": "Sex on the Beach",
       "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
+    },
+    {
+      "added_at": "2026-05-29 00:01:42",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/2yzE0FVIVvSPPtJEWaFd7Z"
+      },
+      "artists": [
+        {
+          "name": "Fimi",
+          "url": "https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr"
+        }
+      ],
+      "duration_ms": 161289,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/1xAKbuqVAmKTH7beQe7VRJ"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -1003,22 +1003,26 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
-        "name": "Duplicity",
-        "url": "https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq"
+        "name": "Lust In Lagos",
+        "url": "https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N"
       },
       "artists": [
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
         },
         {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Crowther",
+          "url": "https://open.spotify.com/artist/2pN56hYNCw4in2ctfHeutE"
         }
       ],
-      "duration_ms": 197956,
-      "name": "Imposter Syndrome",
-      "url": "https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80"
+      "duration_ms": 211934,
+      "name": "Soft Prayer",
+      "url": "https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -1043,26 +1047,22 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
-        "name": "Lust In Lagos",
-        "url": "https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N"
+        "name": "Duplicity",
+        "url": "https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq"
       },
       "artists": [
         {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Crowther",
-          "url": "https://open.spotify.com/artist/2pN56hYNCw4in2ctfHeutE"
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 211934,
-      "name": "Soft Prayer",
-      "url": "https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z"
+      "duration_ms": 197956,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
+        "name": "Only for the night",
+        "url": "https://open.spotify.com/album/1PwYQdRFwaE4pAmytucVZV"
+      },
+      "artists": [
+        {
+          "name": "jujuflow",
+          "url": "https://open.spotify.com/artist/1dH4QMtGxBxIp5oYIO2S5e"
+        },
+        {
+          "name": "SAINTMULA",
+          "url": "https://open.spotify.com/artist/1ZOtVeutHHK9Vq0IAPMgRJ"
+        }
+      ],
+      "duration_ms": 90671,
+      "name": "Only for the night",
+      "url": "https://open.spotify.com/track/5pGRGUVqwGM6JJfNjqjRbl"
+    },
+    {
+      "added_at": "2026-05-29 00:01:42",
+      "album": {
         "name": "Clear Mind",
         "url": "https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g"
       },
@@ -1219,6 +1239,22 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
+        "name": "Princessa",
+        "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
+      },
+      "artists": [
+        {
+          "name": "Indi",
+          "url": "https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF"
+        }
+      ],
+      "duration_ms": 118974,
+      "name": "Princessa",
+      "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
+    },
+    {
+      "added_at": "2026-05-29 00:01:42",
+      "album": {
         "name": "Prime",
         "url": "https://open.spotify.com/album/3AYdprmzxKsiZZdYpNeJar"
       },
@@ -1239,22 +1275,6 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
-        "name": "Princessa",
-        "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
-      },
-      "artists": [
-        {
-          "name": "Indi",
-          "url": "https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF"
-        }
-      ],
-      "duration_ms": 118974,
-      "name": "Princessa",
-      "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
-    },
-    {
-      "added_at": "2026-05-29 00:01:42",
-      "album": {
         "name": "UPGRADE",
         "url": "https://open.spotify.com/album/71h63m5gl6FlM1dSba1sXv"
       },
@@ -1267,6 +1287,26 @@
       "duration_ms": 148397,
       "name": "UPGRADE",
       "url": "https://open.spotify.com/track/6H2VwCcdNHRZIvmvUVb6aQ"
+    },
+    {
+      "added_at": "2026-05-29 00:01:42",
+      "album": {
+        "name": "september rush",
+        "url": "https://open.spotify.com/album/7gdMifqpW7gUeSePcGlDWA"
+      },
+      "artists": [
+        {
+          "name": "Baves O",
+          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
+        },
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "september rush",
+      "url": "https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -1295,22 +1335,22 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
-        "name": "september rush",
-        "url": "https://open.spotify.com/album/7gdMifqpW7gUeSePcGlDWA"
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
       },
       "artists": [
         {
-          "name": "Baves O",
-          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
         },
         {
-          "name": "M.anifest",
-          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+          "name": "Hunter Drake",
+          "url": "https://open.spotify.com/artist/6CrFflMdudrIwHQIeQnxe8"
         }
       ],
-      "duration_ms": 137142,
-      "name": "september rush",
-      "url": "https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp"
+      "duration_ms": 253714,
+      "name": "RUSH",
+      "url": "https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -1355,22 +1395,18 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
-        "name": "RUSH",
-        "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
+        "name": "infrunayou",
+        "url": "https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf"
       },
       "artists": [
         {
-          "name": "Sam Opoku",
-          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
-        },
-        {
-          "name": "Hunter Drake",
-          "url": "https://open.spotify.com/artist/6CrFflMdudrIwHQIeQnxe8"
+          "name": "Baves O",
+          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
         }
       ],
-      "duration_ms": 253714,
-      "name": "RUSH",
-      "url": "https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s"
+      "duration_ms": 144000,
+      "name": "infrunayou",
+      "url": "https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -1391,38 +1427,22 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
-        "name": "infrunayou",
-        "url": "https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf"
+        "name": "My letter to Zayn",
+        "url": "https://open.spotify.com/album/7aAhZv5SRsHdezmOU5o2tJ"
       },
       "artists": [
         {
-          "name": "Baves O",
-          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "infrunayou",
-      "url": "https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3"
-    },
-    {
-      "added_at": "2026-05-29 00:01:42",
-      "album": {
-        "name": "Only for the night",
-        "url": "https://open.spotify.com/album/1PwYQdRFwaE4pAmytucVZV"
-      },
-      "artists": [
-        {
-          "name": "jujuflow",
-          "url": "https://open.spotify.com/artist/1dH4QMtGxBxIp5oYIO2S5e"
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
         },
         {
-          "name": "SAINTMULA",
-          "url": "https://open.spotify.com/artist/1ZOtVeutHHK9Vq0IAPMgRJ"
+          "name": "King Wizard",
+          "url": "https://open.spotify.com/artist/7BjXmKO4yIHUP7BTi1ZGUc"
         }
       ],
-      "duration_ms": 90671,
-      "name": "Only for the night",
-      "url": "https://open.spotify.com/track/5pGRGUVqwGM6JJfNjqjRbl"
+      "duration_ms": 237000,
+      "name": "My letter to Zayn",
+      "url": "https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -1451,26 +1471,6 @@
       "duration_ms": 202500,
       "name": "STYLO",
       "url": "https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO"
-    },
-    {
-      "added_at": "2026-05-29 00:01:42",
-      "album": {
-        "name": "My letter to Zayn",
-        "url": "https://open.spotify.com/album/7aAhZv5SRsHdezmOU5o2tJ"
-      },
-      "artists": [
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        },
-        {
-          "name": "King Wizard",
-          "url": "https://open.spotify.com/artist/7BjXmKO4yIHUP7BTi1ZGUc"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "My letter to Zayn",
-      "url": "https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC"
     },
     {
       "added_at": "2026-05-29 00:01:42",

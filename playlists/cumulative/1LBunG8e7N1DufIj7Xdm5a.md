@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,442 songs - 9 day 21 hr 35 min
+4,445 songs - 9 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Bally](https://open.spotify.com/track/7H90WucIF921NR5leLriX7) | [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o), [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Bally](https://open.spotify.com/album/44rGZNC2G8NG2fK6a36o8B) | 2:05 | 2025-07-28 |  |
 | [Bambina](https://open.spotify.com/track/5RoFEW4mfEMhWBQj843CRk) | [Anima nera](https://open.spotify.com/artist/4FOCxODi8pXDkVzcYFrNBR) | [Bambina](https://open.spotify.com/album/3FopvgcoWJPDrcwA3IaJ7e) | 2:48 | 2025-06-06 |  |
 | [Band Palkon Mein \| बंद पलकों में](https://open.spotify.com/track/79ELHmwqCAWjgyuh8rm4HV) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Band Palkon Mein \| बंद पलकों में](https://open.spotify.com/album/2FVcGezx3RQ1WpKXgnKLg7) | 4:03 | 2025-05-05 |  |
+| [Bandido](https://open.spotify.com/track/6F1gSmB8W8bkQppKxCbvvd) | [EL TIO ZETTA](https://open.spotify.com/artist/52prEhuq9zDgQht8UfCLe0), [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY) | [Bandido](https://open.spotify.com/album/5MVcKEnoC47BZC5Cy4vGyQ) | 2:44 | 2026-06-09 |  |
 | [BANG](https://open.spotify.com/track/5xJ5GIa2PEj0Ge2EP7Drbu) | [Raspa](https://open.spotify.com/artist/3uOzdkTdzJ45THE7lObbwl), [Grabe](https://open.spotify.com/artist/7fZpPUm1a85m3YjebN3gcz), [Blvck](https://open.spotify.com/artist/2vIZZ7INi9MMbRyeN1uO3K) | [BANG](https://open.spotify.com/album/6H4oXVlWyiJrqhAQIItsfN) | 3:16 | 2025-06-16 |  |
 | [Bank Teller.](https://open.spotify.com/track/7lWIwOOialndshBkc13sTm) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj) | [Bank Teller.](https://open.spotify.com/album/2IRFHEUeU5WSQesKUSAIDl) | 2:09 | 2025-07-24 |  |
 | [Banshee](https://open.spotify.com/track/2NfuInPKrFxgWOZQwh3o1p) | [Wolves of Totem](https://open.spotify.com/artist/1YPgVxpuJHs9FVRejxxKV4) | [Dance of the Dead](https://open.spotify.com/album/7nJFwiZnbSFdxXQ8ZjFeDW) | 4:08 | 2025-05-27 |  |
@@ -349,6 +350,7 @@
 | [Before You Go](https://open.spotify.com/track/6fJSmvkj8MpJVlITbmag8W) | [Ties to Fear](https://open.spotify.com/artist/5wy3EF3XnsNwyRj39dfphK) | [Before You Go](https://open.spotify.com/album/7iCiTTEQRa2EnJYAUpsmOg) | 2:43 | 2025-05-13 |  |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2023-01-19 |  |
 | [Bela Lugosi's Tanz](https://open.spotify.com/track/2YkB2VacjEnt5RfFomjznp) | [Bobby Joe Long's Friendship Party](https://open.spotify.com/artist/5IqtAyaxviHeO9LLZbNAWR) | [Aoh!](https://open.spotify.com/album/5r4U6kY82kKNslHkoTLpcT) | 4:02 | 2025-11-12 |  |
+| [Believe me](https://open.spotify.com/track/5OTEbscf89tdmjZIsEnxmk) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [Believe me](https://open.spotify.com/album/32V4BnKEwnMr3QmIObawlA) | 2:47 | 2026-06-09 |  |
 | [Bellissima](https://open.spotify.com/track/39jxR2xnmcBbkdPX9oNzsI) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Bellissima](https://open.spotify.com/album/3I7EQQqrQ1kdZBoaNkCdY4) | 3:21 | 2023-01-07 |  |
 | [Bend & Break](https://open.spotify.com/track/3XLXSnc5yVOnqCFB1whDdt) | [Dane Tutty](https://open.spotify.com/artist/29eD0S3LlWtkYrkWE2tWfS), [Chris \#2](https://open.spotify.com/artist/6GVHPKoXvLCDdd2CaaO8Sv) | [Bend & Break](https://open.spotify.com/album/0Vp3pPavLGcjSynxkVqkWC) | 3:30 | 2025-11-04 |  |
 | [bene](https://open.spotify.com/track/3q1hRf9blx6cEehTqWxGDD) | [Holyroh](https://open.spotify.com/artist/0LPwMpSScA73gR7VENCleQ) | [bene](https://open.spotify.com/album/5hkQONeRpdX6npKamP0ucg) | 2:15 | 2026-02-13 |  |
@@ -1681,6 +1683,7 @@
 | [Hallow Tales \- 2025 Remaster](https://open.spotify.com/track/6pJBr7i4ZZz6UeBgq30hYv) | [Robert80z](https://open.spotify.com/artist/3N0C6tFumt18qCNENY5WHB) | [The Dividing Line \(2025 Remaster\)](https://open.spotify.com/album/3MzgPxLIEpeiZJWqqdd8p0) | 3:48 | 2025-05-05 |  |
 | [Halloween Every Day](https://open.spotify.com/track/05GeKjRj0xlF6XYgFzuPQ8) | [Brenso](https://open.spotify.com/artist/56W6bwD2W4blOzdXURs1DE) | [Halloween Every Day](https://open.spotify.com/album/7GE4Fj5k4OewpL4PMgylwA) | 2:38 | 2025-09-29 |  |
 | [Hanahaki](https://open.spotify.com/track/7iZZ0nvDWuDSSxq7JtNtMO) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [Royalty](https://open.spotify.com/album/5ujB4MEna73Lq0i2sK7KHp) | 2:56 | 2025-12-19 |  |
+| [Hands of God](https://open.spotify.com/track/3ker5A7IVbjfi5gtjnIE0m) | [Destroy the Moon](https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt) | [Hands of God](https://open.spotify.com/album/0MmtQzwcyyyfRl0U6Ok6cN) | 5:35 | 2026-06-09 |  |
 | [Happy Birthday \- Bonus Version](https://open.spotify.com/track/7xKR6LncTuTfwgQjdj5IJ4) | [I\-GOR](https://open.spotify.com/artist/7ILoqOmtZIwe61KGkOeuDW) | [Happy Birthday](https://open.spotify.com/album/1xvgrbQ1o6UZYhiSfxeUfk) | 4:07 | 2026-02-05 |  |
 | [Harmony](https://open.spotify.com/track/2tiPViVQulw22A5TdkZYCa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 4:02 | 2025-09-17 |  |
 | [Harmony Air](https://open.spotify.com/track/49Bl4eAdML5GnzaGVDRqdf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 3:04 | 2025-09-17 |  |

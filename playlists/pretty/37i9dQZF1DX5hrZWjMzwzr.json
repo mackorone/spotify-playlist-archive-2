@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11771,
+  "num_followers": 11769,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Hit 'Em Up",
-        "url": "https://open.spotify.com/album/2suN9YZB6olORWdNYAvCxZ"
-      },
-      "artists": [
-        {
-          "name": "Bedoes 2115",
-          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
-        }
-      ],
-      "duration_ms": 250785,
-      "name": "Hit 'Em Up",
-      "url": "https://open.spotify.com/track/4nqAUn2LswZDBTq6Eewevy"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "1DAY IN LA",
         "url": "https://open.spotify.com/album/00J4FpVxEoll7mtaxUye1N"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 144210,
       "name": "1DAY IN LA",
       "url": "https://open.spotify.com/track/1KbyOU3mlUN9UiXU2kPso9"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Hit 'Em Up",
+        "url": "https://open.spotify.com/album/2suN9YZB6olORWdNYAvCxZ"
+      },
+      "artists": [
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        }
+      ],
+      "duration_ms": 250785,
+      "name": "Hit 'Em Up",
+      "url": "https://open.spotify.com/track/4nqAUn2LswZDBTq6Eewevy"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "NEXT",
-        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
-      },
-      "artists": [
-        {
-          "name": "javier",
-          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
-        }
-      ],
-      "duration_ms": 113089,
-      "name": "SIE KLEI",
-      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "W KONTAKCIE",
         "url": "https://open.spotify.com/album/1yp7VA7hHf2sOIYeiIkjWI"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 203749,
       "name": "W KONTAKCIE",
       "url": "https://open.spotify.com/track/4Twi1X2kxlwEYJKNFZVwRs"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "NEXT",
+        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
+      },
+      "artists": [
+        {
+          "name": "javier",
+          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
+        }
+      ],
+      "duration_ms": 113089,
+      "name": "SIE KLEI",
+      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -947,6 +947,30 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "Brokeboy",
+        "url": "https://open.spotify.com/album/79M0EWo6Q5PH5SolSWOPcL"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "Tomb",
+          "url": "https://open.spotify.com/artist/1Fr0Md8mOOg75V07Awv1G5"
+        }
+      ],
+      "duration_ms": 161167,
+      "name": "Brokeboy",
+      "url": "https://open.spotify.com/track/65CKBZul9KR6cpIN6unK9A"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "GROTESKA",
         "url": "https://open.spotify.com/album/6F7itXykUJKRptW4JovfLX"
       },
@@ -971,30 +995,6 @@
       "duration_ms": 142978,
       "name": "NIEBO",
       "url": "https://open.spotify.com/track/1jAwReLgaaNxczO49Utjnn"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "Brokeboy",
-        "url": "https://open.spotify.com/album/79M0EWo6Q5PH5SolSWOPcL"
-      },
-      "artists": [
-        {
-          "name": "Bia\u0142as",
-          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
-        },
-        {
-          "name": "Szpaku",
-          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
-        },
-        {
-          "name": "Tomb",
-          "url": "https://open.spotify.com/artist/1Fr0Md8mOOg75V07Awv1G5"
-        }
-      ],
-      "duration_ms": 161167,
-      "name": "Brokeboy",
-      "url": "https://open.spotify.com/track/65CKBZul9KR6cpIN6unK9A"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "DZIECI MIASTA",
+        "url": "https://open.spotify.com/album/6rEqhIQmkqaMiwiUC18Qr7"
+      },
+      "artists": [
+        {
+          "name": "Frosti",
+          "url": "https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        }
+      ],
+      "duration_ms": 168157,
+      "name": "DZIECI MIASTA",
+      "url": "https://open.spotify.com/track/4KdIikzAuPEWITf3CpG08y"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Czwarta Rano",
         "url": "https://open.spotify.com/album/6U5SqvclMhXUaI0lWlJxgp"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 160851,
       "name": "Czwarta Rano",
       "url": "https://open.spotify.com/track/3GMbyrZOt6OsEq8id8jU4h"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "DZIECI MIASTA",
-        "url": "https://open.spotify.com/album/6rEqhIQmkqaMiwiUC18Qr7"
-      },
-      "artists": [
-        {
-          "name": "Frosti",
-          "url": "https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY"
-        },
-        {
-          "name": "Pedro",
-          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
-        }
-      ],
-      "duration_ms": 168157,
-      "name": "DZIECI MIASTA",
-      "url": "https://open.spotify.com/track/4KdIikzAuPEWITf3CpG08y"
     },
     {
       "added_at": "2026-04-09 22:12:46",

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 ### [RADAR US](https://open.spotify.com/playlist/37i9dQZF1DWY0DyDKedRYY)
 
-> The most exciting new music on our radar, featuring Aaron Cole
+> The most exciting new music on our radar, featuring Fcukers
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,050 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,051 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [usher in the spirit](https://open.spotify.com/track/7mbRGvaiD1NCDAIDqErCBT) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i) | [usher in the spirit](https://open.spotify.com/album/4SgKrliseSqVRxEFD6INPy) | 3:00 |
-| 2 | [L.U.C.K.Y](https://open.spotify.com/track/1KoTSKG0vs2vbzMvrbpWjp) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:18 |
+| 1 | [L.U.C.K.Y](https://open.spotify.com/track/1KoTSKG0vs2vbzMvrbpWjp) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:18 |
+| 2 | [usher in the spirit](https://open.spotify.com/track/7mbRGvaiD1NCDAIDqErCBT) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i) | [usher in the spirit](https://open.spotify.com/album/4SgKrliseSqVRxEFD6INPy) | 3:00 |
 | 3 | [Jet Lag Mouth](https://open.spotify.com/track/3A9jHzBMp27j4dZJ9m1nQJ) | [In Color](https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk) | [Jet Lag Mouth](https://open.spotify.com/album/5g1C2O5oYIV2rBknUh7cuN) | 2:32 |
 | 4 | [Message to You](https://open.spotify.com/track/00asEdGggYrPYfLbDRI6HE) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Message to You](https://open.spotify.com/album/7ki0RbD7gen6uL67N6Baqo) | 3:37 |
 | 5 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 49 | [veil](https://open.spotify.com/track/1T6rsPlJocRIU4OibA7YY8) | [svn4vr](https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B) | [herts on fire](https://open.spotify.com/album/04G4D5LWqd7hmTIiAUHxEs) | 2:26 |
 | 50 | [Stupid Bitches](https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Stupid Bitches](https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP) | 3:31 |
 
-Snapshot ID: `AAAAAHh0tJflS4OtKsU/dyaFRM1hb6b8`
+Snapshot ID: `AAAAADugMc+lnrZ0+Cjs6aHgLG/+uLJi`

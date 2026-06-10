@@ -1,12 +1,12 @@
 {
   "description": "new Haylie Davis album has us swooning \u2600\ufe0f",
-  "num_followers": 146054,
+  "num_followers": 146128,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGITlhQaBRQisZeBWZd0Mg4x5Xzf",
+  "snapshot_id": "AAAAAKOfgSgZnWk7NrLUoBZV6bx/wtXV",
   "tracks": [
     {
       "added_at": "2026-06-05 04:01:05",
@@ -23,6 +23,22 @@
       "duration_ms": 210517,
       "name": "I Was Wrong",
       "url": "https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6"
+    },
+    {
+      "added_at": "2026-06-09 15:56:28",
+      "album": {
+        "name": "bloodstream",
+        "url": "https://open.spotify.com/album/4KGK9opFcC60xCe29CTZus"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "bloodstream",
+      "url": "https://open.spotify.com/track/1fdgakuuEEfjRt3KYF36eG"
     },
     {
       "added_at": "2026-06-05 04:01:05",

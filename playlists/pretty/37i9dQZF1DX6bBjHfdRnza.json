@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring Delilah. Curated by human Spotify editors. \n",
-  "num_followers": 213874,
+  "num_followers": 213922,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEYVP5nYqV3FHiMusfRDz/2+1F6K",
+  "snapshot_id": "AAAAAElW7ucsMKDTktxanR00eY7iUVl7",
   "tracks": [
     {
       "added_at": "2026-05-15 04:01:46",
@@ -25,36 +25,24 @@
       "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
     },
     {
-      "added_at": "2026-05-29 18:47:07",
+      "added_at": "2026-06-09 17:47:06",
       "album": {
-        "name": "WAITING",
-        "url": "https://open.spotify.com/album/6MDPlGG1SoqOKBbH6uS5gh"
+        "name": "Chica",
+        "url": "https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9"
       },
       "artists": [
         {
-          "name": "fromclay",
-          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
-        }
-      ],
-      "duration_ms": 190698,
-      "name": "WAITING",
-      "url": "https://open.spotify.com/track/0IG66BxgMeOSYfVZCCZqSa"
-    },
-    {
-      "added_at": "2026-05-27 23:56:21",
-      "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/3mmI0RWmLjHSwW9a8uZVHv"
-      },
-      "artists": [
+          "name": "Ben Evers",
+          "url": "https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43"
+        },
         {
-          "name": "Jake Antonio",
-          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
+          "name": "Najeh",
+          "url": "https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7"
         }
       ],
-      "duration_ms": 321818,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/5Zu20OykfA8tFpFU3RRTff"
+      "duration_ms": 156000,
+      "name": "Chica",
+      "url": "https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1"
     },
     {
       "added_at": "2026-05-14 03:02:00",
@@ -77,20 +65,20 @@
       "url": "https://open.spotify.com/track/4QNEi4zAOm0FwfwJXLgp7s"
     },
     {
-      "added_at": "2026-05-29 04:02:04",
+      "added_at": "2026-05-29 18:47:07",
       "album": {
-        "name": "Burnt Out Disco For Club Rats",
-        "url": "https://open.spotify.com/album/0EP7fOhuEpPvsVtoilFOeV"
+        "name": "WAITING",
+        "url": "https://open.spotify.com/album/6MDPlGG1SoqOKBbH6uS5gh"
       },
       "artists": [
         {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+          "name": "fromclay",
+          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
         }
       ],
-      "duration_ms": 164999,
-      "name": "Cashman Jack (XL Hotmix)",
-      "url": "https://open.spotify.com/track/0EA8QvqE66H315fGJUCmVQ"
+      "duration_ms": 190698,
+      "name": "WAITING",
+      "url": "https://open.spotify.com/track/0IG66BxgMeOSYfVZCCZqSa"
     },
     {
       "added_at": "2026-05-15 04:01:46",
@@ -111,6 +99,62 @@
       "duration_ms": 160285,
       "name": "Fino",
       "url": "https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA"
+    },
+    {
+      "added_at": "2026-06-09 17:47:06",
+      "album": {
+        "name": "u up?",
+        "url": "https://open.spotify.com/album/68Ii8cbl0yUWv7Bt2BbqV4"
+      },
+      "artists": [
+        {
+          "name": "Nariman",
+          "url": "https://open.spotify.com/artist/2nfCSIlDMhDckP3xf3J0va"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        },
+        {
+          "name": "charmy",
+          "url": "https://open.spotify.com/artist/5dcPJcXUrWmo0h6UaRBRta"
+        }
+      ],
+      "duration_ms": 210250,
+      "name": "u up?",
+      "url": "https://open.spotify.com/track/2ZZvnh85DP30XvSLjd0qDD"
+    },
+    {
+      "added_at": "2026-05-27 23:56:21",
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/3mmI0RWmLjHSwW9a8uZVHv"
+      },
+      "artists": [
+        {
+          "name": "Jake Antonio",
+          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
+        }
+      ],
+      "duration_ms": 321818,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/5Zu20OykfA8tFpFU3RRTff"
+    },
+    {
+      "added_at": "2026-05-29 04:02:04",
+      "album": {
+        "name": "Burnt Out Disco For Club Rats",
+        "url": "https://open.spotify.com/album/0EP7fOhuEpPvsVtoilFOeV"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 164999,
+      "name": "Cashman Jack (XL Hotmix)",
+      "url": "https://open.spotify.com/track/0EA8QvqE66H315fGJUCmVQ"
     },
     {
       "added_at": "2026-05-27 23:56:21",
@@ -259,6 +303,22 @@
       "duration_ms": 161068,
       "name": "wdym you don\u2018t like hardgroove? - Radio Edit",
       "url": "https://open.spotify.com/track/7uyHeUCGHtlKeZ5IJ1G7yI"
+    },
+    {
+      "added_at": "2026-06-09 17:47:06",
+      "album": {
+        "name": "Bunda",
+        "url": "https://open.spotify.com/album/63CW9coiL9VWhUrkRCtk0R"
+      },
+      "artists": [
+        {
+          "name": "BLiNKR",
+          "url": "https://open.spotify.com/artist/19oNuL1mBROeWMN4t6Ax1x"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Bunda",
+      "url": "https://open.spotify.com/track/2B0AAJGqQMkVndEygc2Bfs"
     },
     {
       "added_at": "2026-05-22 04:00:24",
@@ -559,22 +619,6 @@
       "duration_ms": 154167,
       "name": "frog",
       "url": "https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5"
-    },
-    {
-      "added_at": "2026-05-15 04:01:46",
-      "album": {
-        "name": "Need Some Fun",
-        "url": "https://open.spotify.com/album/48dHXF7ZT5ndX4yzJSz8K3"
-      },
-      "artists": [
-        {
-          "name": "Neumonic",
-          "url": "https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Need Some Fun",
-      "url": "https://open.spotify.com/track/3zSZUO1ZFIkwC4CdV7Rzls"
     },
     {
       "added_at": "2026-04-03 04:02:29",
@@ -977,22 +1021,6 @@
       "url": "https://open.spotify.com/track/3Q0LhQkqusn71J7kkxcIZS"
     },
     {
-      "added_at": "2026-04-08 16:58:31",
-      "album": {
-        "name": "All I Do",
-        "url": "https://open.spotify.com/album/6w4hRBUxJkWg6e4TEtKTOi"
-      },
-      "artists": [
-        {
-          "name": "Juliann",
-          "url": "https://open.spotify.com/artist/4bG9d26SI12e3d3gQkUwJg"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/5ggI0yUk07SOIjgq6URRM8"
-    },
-    {
       "added_at": "2026-04-15 19:22:49",
       "album": {
         "name": "MAKE DAT BOOTY",
@@ -1123,26 +1151,6 @@
       "duration_ms": 133000,
       "name": "HOLD BACK",
       "url": "https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7"
-    },
-    {
-      "added_at": "2026-03-13 04:00:43",
-      "album": {
-        "name": "Wall-To-Wall",
-        "url": "https://open.spotify.com/album/0B9Olm8ITkG2zl7vMyI1ga"
-      },
-      "artists": [
-        {
-          "name": "msft",
-          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
-        },
-        {
-          "name": "sbk",
-          "url": "https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85"
-        }
-      ],
-      "duration_ms": 161777,
-      "name": "My Turn (feat. sbk)",
-      "url": "https://open.spotify.com/track/05sEHLouKqQvs0ShE4tWbD"
     },
     {
       "added_at": "2026-03-18 17:43:09",

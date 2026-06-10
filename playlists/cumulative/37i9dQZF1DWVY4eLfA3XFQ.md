@@ -2,7 +2,7 @@
 
 ### [Tech House Operator](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)
 
-> 50% techno, 50% house 🦉 Tech house hard operator, featuring Cloonee
+> 50% techno, 50% house 🦉 Tech house operators, featuring Cloonee
 
 2,833 songs - 6 day 10 hr 36 min
 

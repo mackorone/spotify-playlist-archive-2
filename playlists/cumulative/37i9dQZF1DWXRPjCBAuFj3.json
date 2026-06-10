@@ -5355,6 +5355,36 @@
     },
     {
       "album": {
+        "name": "\u00c8 O G.",
+        "url": "https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd"
+      },
+      "artists": [
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        },
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Flatpearl",
+          "url": "https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R"
+        },
+        {
+          "name": "Succo",
+          "url": "https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133740,
+      "name": "Devo Andare Con Le Mie Winx (feat. Rhove)",
+      "url": "https://open.spotify.com/track/5eVWsjUs8OUajXFUWk9fXo"
+    },
+    {
+      "album": {
         "name": "Identit\u00e0",
         "url": "https://open.spotify.com/album/5nxW9sJlywI1NGdLfaXMAN"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Rvssian, Rauw Alejandro & Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,669 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,676 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 84 | [SQD Quilla](https://open.spotify.com/track/5HPGjWYZCaezPcUB630JK0) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [SQD Quilla](https://open.spotify.com/album/16E4uq3O5HyXIX2DDlbAUw) | 2:01 |
 | 85 | [AKI KIKI](https://open.spotify.com/track/62QghWWjNMx29kAl33WJkz) | [RICCII](https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf) | [AKI KIKI](https://open.spotify.com/album/0TRDYgmb52CerzhhgiQGLF) | 2:07 |
 | 86 | [Normal](https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5) | [Normal](https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1) | 2:11 |
-| 87 | [cuLE viaJE](https://open.spotify.com/track/2YUmcV436nJ7zIbbbZlZp0) | [Till High](https://open.spotify.com/artist/1nRwDiTn0eJVP7GYxPD2ie) | [cuLE viaJE](https://open.spotify.com/album/71MHoEjzYbnLcY2DzNvOnA) | 2:38 |
-| 88 | [coletera](https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk) | [Akos](https://open.spotify.com/artist/0lpajtkKIMfafiNO4qVSAy) | [coletera](https://open.spotify.com/album/2ZqbEY6LccdL1XaLHqb2G9) | 1:37 |
-| 89 | [ohsaye](https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [ohsaye](https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5) | 3:01 |
+| 87 | [ohsaye](https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [ohsaye](https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5) | 3:01 |
+| 88 | [cuLE viaJE](https://open.spotify.com/track/2YUmcV436nJ7zIbbbZlZp0) | [Till High](https://open.spotify.com/artist/1nRwDiTn0eJVP7GYxPD2ie) | [cuLE viaJE](https://open.spotify.com/album/71MHoEjzYbnLcY2DzNvOnA) | 2:38 |
+| 89 | [coletera](https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk) | [Akos](https://open.spotify.com/artist/0lpajtkKIMfafiNO4qVSAy) | [coletera](https://open.spotify.com/album/2ZqbEY6LccdL1XaLHqb2G9) | 1:37 |
 | 90 | [Mesera](https://open.spotify.com/track/74sHaZwjnhnkE3pIxHpmpf) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Neeus](https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO) | [Mesera](https://open.spotify.com/album/42ggfZSRFICsjBcBeV7K0G) | 2:43 |
 | 91 | [Dolares](https://open.spotify.com/track/2ZHTHZJQrH4FqDjQJlXFkp) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [Dolares](https://open.spotify.com/album/2MNVThxLPyHU95jhceEfmE) | 2:36 |
 | 92 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 |

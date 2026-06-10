@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 506484,
+  "num_followers": 506493,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,26 @@
     {
       "added_at": "2026-06-08 14:22:53",
       "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        }
+      ],
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
+    },
+    {
+      "added_at": "2026-06-08 14:22:53",
+      "album": {
         "name": "Piloto Autom\u00e1tico (Gabriel Boni, Voltech & Zucchi Remix)",
         "url": "https://open.spotify.com/album/3lcUyNtFMP7DXNjgdoGkBk"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 376680,
       "name": "Piloto Autom\u00e1tico - Gabriel Boni, Voltech & Zucchi Remix",
       "url": "https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm"
-    },
-    {
-      "added_at": "2026-06-08 14:22:53",
-      "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2026-06-08 14:22:53",
@@ -1075,26 +1075,22 @@
     {
       "added_at": "2026-06-08 14:22:53",
       "album": {
-        "name": "Halfway (with Bhaskar)",
-        "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
+        "name": "Stolen Dance",
+        "url": "https://open.spotify.com/album/3B38bS8Sm5EOQlnrEWXbHh"
       },
       "artists": [
         {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         },
         {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
         }
       ],
-      "duration_ms": 158416,
-      "name": "Halfway (with Bhaskar)",
-      "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
+      "duration_ms": 121846,
+      "name": "Stolen Dance",
+      "url": "https://open.spotify.com/track/2sOogpObLJpOmGAl21QpMD"
     },
     {
       "added_at": "2026-06-08 14:22:53",
@@ -1115,6 +1111,30 @@
       "duration_ms": 300432,
       "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
       "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
+    },
+    {
+      "added_at": "2026-06-08 14:22:53",
+      "album": {
+        "name": "Halfway (with Bhaskar)",
+        "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "duration_ms": 158416,
+      "name": "Halfway (with Bhaskar)",
+      "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
     },
     {
       "added_at": "2026-06-08 14:22:53",
@@ -1199,26 +1219,6 @@
     {
       "added_at": "2026-06-08 14:22:53",
       "album": {
-        "name": "Stolen Dance",
-        "url": "https://open.spotify.com/album/3B38bS8Sm5EOQlnrEWXbHh"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Zaark",
-          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
-        }
-      ],
-      "duration_ms": 121846,
-      "name": "Stolen Dance",
-      "url": "https://open.spotify.com/track/2sOogpObLJpOmGAl21QpMD"
-    },
-    {
-      "added_at": "2026-06-08 14:22:53",
-      "album": {
         "name": "O Descobridor dos Sete Mares",
         "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
       },
@@ -1235,6 +1235,30 @@
       "duration_ms": 212640,
       "name": "O Descobridor dos Sete Mares",
       "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
+    },
+    {
+      "added_at": "2026-06-08 14:22:53",
+      "album": {
+        "name": "La Belle De Jour (Remix)",
+        "url": "https://open.spotify.com/album/13FFkY8H5bRfN05qfhQCLt"
+      },
+      "artists": [
+        {
+          "name": "Ronald DJ",
+          "url": "https://open.spotify.com/artist/5MjKm3b0XYvzervh54609T"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 155393,
+      "name": "La Belle De Jour (Remix)",
+      "url": "https://open.spotify.com/track/3zVmzU4TDiV6IyUALMZqyv"
     },
     {
       "added_at": "2026-06-08 14:22:53",
@@ -1283,26 +1307,22 @@
     {
       "added_at": "2026-06-08 14:22:53",
       "album": {
-        "name": "La Belle De Jour (Remix)",
-        "url": "https://open.spotify.com/album/13FFkY8H5bRfN05qfhQCLt"
+        "name": "Alok Presents Brazilian Bass: Pt. 1",
+        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
       },
       "artists": [
         {
-          "name": "Ronald DJ",
-          "url": "https://open.spotify.com/artist/5MjKm3b0XYvzervh54609T"
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
         },
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+          "name": "Zerky",
+          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
         }
       ],
-      "duration_ms": 155393,
-      "name": "La Belle De Jour (Remix)",
-      "url": "https://open.spotify.com/track/3zVmzU4TDiV6IyUALMZqyv"
+      "duration_ms": 173114,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
     },
     {
       "added_at": "2026-06-08 14:22:53",
@@ -1323,26 +1343,6 @@
       "duration_ms": 208615,
       "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
       "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
-    },
-    {
-      "added_at": "2026-06-08 14:22:53",
-      "album": {
-        "name": "Alok Presents Brazilian Bass: Pt. 1",
-        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
-      },
-      "artists": [
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Zerky",
-          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
     },
     {
       "added_at": "2026-06-08 14:22:53",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2026-06-08 14:22:53",
       "album": {
-        "name": "Please Don't Go (Bruno Martini Remix)",
-        "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
-      },
-      "artists": [
-        {
-          "name": "Double You",
-          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Please Don't Go - Bruno Martini Remix",
-      "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
-    },
-    {
-      "added_at": "2026-06-08 14:22:53",
-      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 216126,
       "name": "Light",
       "url": "https://open.spotify.com/track/1xhHvaRIgQldy1bBEbuLXQ"
+    },
+    {
+      "added_at": "2026-06-08 14:22:53",
+      "album": {
+        "name": "Please Don't Go (Bruno Martini Remix)",
+        "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
+      },
+      "artists": [
+        {
+          "name": "Double You",
+          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Please Don't Go - Bruno Martini Remix",
+      "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
     },
     {
       "added_at": "2026-06-08 14:22:53",

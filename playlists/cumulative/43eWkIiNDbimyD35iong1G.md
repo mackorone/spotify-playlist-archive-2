@@ -2,7 +2,7 @@
 
 ### [Wedding Songs 2026](https://open.spotify.com/playlist/43eWkIiNDbimyD35iong1G)
 
-> Celebrate your wedding with over 100 love songs\. Perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
+> Your perfect 2026 Wedding Playlist! ✨ Romantic ceremony ballads, joyful reception anthems, and timeless first dance songs\. Featuring Ed Sheeran, Bruno Mars, John Legend, Taylor Swift, Adele, and more! Updated Weekly! ❤️ Save for your special day.
 
 283 songs - 16 hr 59 min
 
@@ -206,8 +206,8 @@
 | [One Call Away \- Acoustic](https://open.spotify.com/track/31CFbc2CDoYTT1If00pasb) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:09 | 2022-10-04 |  |
 | [One Call Away \- Acoustic](https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic\)](https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A) | 3:09 | 2022-04-19 | 2022-10-05 |
 | [One Man's Love](https://open.spotify.com/track/44szQB1ZEenKeQVIp1EZ6c) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Commons](https://open.spotify.com/album/3OAXLr5eOIyMr1pyVKSyKA) | 3:31 | 2025-03-27 |  |
-| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-03-11 | 2025-03-28 |
-| [Ordinary \- Wedding Version](https://open.spotify.com/track/4t6qMeHgbxWod2SLokiSQp) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary \(Wedding Version\)](https://open.spotify.com/album/0GuyyL06PKQo3Yz43Nxdct) | 3:06 | 2025-03-21 |  |
+| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-03-11 |  |
+| [Ordinary \- Wedding Version](https://open.spotify.com/track/4t6qMeHgbxWod2SLokiSQp) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary \(Wedding Version\)](https://open.spotify.com/album/0GuyyL06PKQo3Yz43Nxdct) | 3:06 | 2025-03-21 | 2026-06-10 |
 | [Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon](https://open.spotify.com/track/7B4HbpZCSfLzKGapKzlUPD) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Mozart: Academy in Concert](https://open.spotify.com/album/7GpLAOdLQp3wejURBwC144) | 5:01 | 2025-02-10 |  |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-08-18 |  |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2022-04-19 |  |

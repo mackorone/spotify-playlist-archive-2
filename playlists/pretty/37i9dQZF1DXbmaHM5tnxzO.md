@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 
 > All the best tracks from Pixar films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,258 likes - 93 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,270 likes - 93 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

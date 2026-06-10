@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mario Santander en portada.",
-  "num_followers": 72429,
+  "num_followers": 72450,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
         "name": "Un Poquito M\u00e1s",
         "url": "https://open.spotify.com/album/7bj3LncFV0WD4jIJa0O6ME"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 140770,
       "name": "Fotopaparazzi",
       "url": "https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41"
-      },
-      "artists": [
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        },
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "Todav\u00eda No",
-        "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
-      },
-      "artists": [
-        {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 245669,
-      "name": "Todav\u00eda No",
-      "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
         "name": "MENTA",
         "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
       },
@@ -1079,26 +1059,22 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "Santa Mar\u00eda",
-        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
+        "name": "Todav\u00eda No",
+        "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
         },
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 260585,
-      "name": "Santa Mar\u00eda",
-      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
+      "duration_ms": 245669,
+      "name": "Todav\u00eda No",
+      "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -1179,6 +1155,30 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
+        "name": "Santa Mar\u00eda",
+        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 260585,
+      "name": "Santa Mar\u00eda",
+      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
         "name": "El 100",
         "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "Tutankamon House Mix",
-        "url": "https://open.spotify.com/album/1P1u7k08bAEEvcL9lRjGVF"
-      },
-      "artists": [
-        {
-          "name": "Sundraks",
-          "url": "https://open.spotify.com/artist/5U3mJ8I8zmoNFCVm01jWxI"
-        }
-      ],
-      "duration_ms": 211588,
-      "name": "Tutankamon House Mix",
-      "url": "https://open.spotify.com/track/6DUMR5QXO3tu6QqptEBtR0"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
         "name": "TE OLVIDASTE DE MI",
         "url": "https://open.spotify.com/album/0DNX7jma84ROX8WGxJFLNk"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
+        "name": "Tutankamon House Mix",
+        "url": "https://open.spotify.com/album/1P1u7k08bAEEvcL9lRjGVF"
+      },
+      "artists": [
+        {
+          "name": "Sundraks",
+          "url": "https://open.spotify.com/artist/5U3mJ8I8zmoNFCVm01jWxI"
+        }
+      ],
+      "duration_ms": 211588,
+      "name": "Tutankamon House Mix",
+      "url": "https://open.spotify.com/track/6DUMR5QXO3tu6QqptEBtR0"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
         "name": "2 Da Floor",
         "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
       },
@@ -1315,26 +1315,6 @@
       "duration_ms": 185600,
       "name": "2 Da Floor",
       "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
-        "name": "Eso Si Es De Gangster",
-        "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 164627,
-      "name": "Esa Wera",
-      "url": "https://open.spotify.com/track/2AF5ZgfsVm16nnHQju7oPM"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -1375,6 +1355,26 @@
       "duration_ms": 165245,
       "name": "NO ESTABA MAL",
       "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
+        "name": "Eso Si Es De Gangster",
+        "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 164627,
+      "name": "Esa Wera",
+      "url": "https://open.spotify.com/track/2AF5ZgfsVm16nnHQju7oPM"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "S\u00edndrome Estocolmo",
-        "url": "https://open.spotify.com/album/4D10N5Tf0M2MEeyZzb1LPg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 165571,
-      "name": "La Plebada (feat. Deorro)",
-      "url": "https://open.spotify.com/track/5frpTS5bVMhdXTmDqCpLaS"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
         "name": "ADICTO",
         "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 247500,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/4bksJo9DYSiXhq3fCCvEWd"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
+        "name": "S\u00edndrome Estocolmo",
+        "url": "https://open.spotify.com/album/4D10N5Tf0M2MEeyZzb1LPg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 165571,
+      "name": "La Plebada (feat. Deorro)",
+      "url": "https://open.spotify.com/track/5frpTS5bVMhdXTmDqCpLaS"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "HOUSE PA LAS BANDIS",
-        "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
-      },
-      "artists": [
-        {
-          "name": "REYPA",
-          "url": "https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW"
-        },
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 182989,
-      "name": "HOUSE PA LAS BANDIS",
-      "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
         "name": "LXBVBV",
         "url": "https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 165750,
       "name": "LXBVBV",
       "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
+        "name": "HOUSE PA LAS BANDIS",
+        "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
+      },
+      "artists": [
+        {
+          "name": "REYPA",
+          "url": "https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW"
+        },
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 182989,
+      "name": "HOUSE PA LAS BANDIS",
+      "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "me estoy volviendo loca",
-        "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 139034,
-      "name": "la jefa del triple 4",
-      "url": "https://open.spotify.com/track/0ux6hoQqTirvL5yNWhoXaZ"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
         "name": "DEO",
         "url": "https://open.spotify.com/album/2S6P4qEqJvsYrxCu6J5cW8"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 176255,
       "name": "DEO",
       "url": "https://open.spotify.com/track/5IWJfw0ve6WQaqLPisbl6k"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
+        "name": "me estoy volviendo loca",
+        "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 139034,
+      "name": "la jefa del triple 4",
+      "url": "https://open.spotify.com/track/0ux6hoQqTirvL5yNWhoXaZ"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "LLORAR!",
-        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
-      },
-      "artists": [
-        {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
-        },
-        {
-          "name": "Fito Silva",
-          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
-        }
-      ],
-      "duration_ms": 107200,
-      "name": "LLORAR!",
-      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
         "name": "Serena",
         "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 153875,
       "name": "Serena",
       "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
+        "name": "LLORAR!",
+        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
+      },
+      "artists": [
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        },
+        {
+          "name": "Fito Silva",
+          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
+        }
+      ],
+      "duration_ms": 107200,
+      "name": "LLORAR!",
+      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
+        "name": "Nocturna (Remix)",
+        "url": "https://open.spotify.com/album/64KBVRY3R66jdxb9w99ZVH"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        },
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "duration_ms": 235752,
+      "name": "Nocturna - Remix",
+      "url": "https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
         "name": "Jugo de Diamantes",
         "url": "https://open.spotify.com/album/0lt2MhZTJTSegzvSHfh7YM"
       },
@@ -1807,26 +1827,6 @@
       "duration_ms": 168000,
       "name": "Jugo de Diamantes",
       "url": "https://open.spotify.com/track/5fZVLUJBlfZUi4xMCjIv48"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
-        "name": "Shadows In The Night",
-        "url": "https://open.spotify.com/album/02sUoTG70SqDEyqESivGsk"
-      },
-      "artists": [
-        {
-          "name": "Skytech",
-          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
-        },
-        {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Shadows In The Night",
-      "url": "https://open.spotify.com/track/1zN4OtDXLJae4PmCXIV7h6"
     }
   ],
   "unique_name": "electro mx ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoioDxgMsjZ.md) - [plain]
 
 > <a href="spotify:artist:1AHswQqsDNmu1xaE8KpBne">COBRAH</a>'s favorite tracks\. Updated regularly\. Curated by COBRAH\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,831 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,857 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoioDxgMsjZ.md) - [plain]
 | 23 | [Next Bitch](https://open.spotify.com/track/6tdfGqoOo8c4oYzvmRuVZh) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [SPIRAL](https://open.spotify.com/album/3PFEPWZU5zpMMLLmJ4tuQc) | 2:03 |
 | 24 | [5G \(Only Fire Remix\)](https://open.spotify.com/track/1krwLYOjGFwwPBhgG3q0dq) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG), [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [5G \(Only Fire Remix\)](https://open.spotify.com/album/2a0iEJBSoclv5aGbGxuGpI) | 2:58 |
 | 25 | [Unhinged](https://open.spotify.com/track/3V3gPRNejHabS3MbBrqnBd) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Whirlwind Of Malevolence](https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC) | 2:48 |
-| 26 | [MAKE IT DROP!](https://open.spotify.com/track/3Nx1EaVXgNSGSLeQ3nHb87) | [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [MAKE IT DROP!](https://open.spotify.com/album/3Vl6yvuIebgsrGHRcIYjhM) | 2:32 |
+| 26 | [MAKE IT DROP!](https://open.spotify.com/track/3Nx1EaVXgNSGSLeQ3nHb87) | [Reysha Rami](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [MAKE IT DROP!](https://open.spotify.com/album/3Vl6yvuIebgsrGHRcIYjhM) | 2:32 |
 | 27 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 |
 | 28 | [HOT](https://open.spotify.com/track/70Rl9wHktp0yNs4VuaSc8F) | [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [HOT](https://open.spotify.com/album/605MbIJ0JOxxaXhs9akCYG) | 1:49 |
 | 29 | [QUICK LICK \(TEQUILA Remix\)](https://open.spotify.com/track/0Ma1T72NXpFhNPXfJ9AJr5) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [QUICK LICK \(TEQUILA Remix\)](https://open.spotify.com/album/4ssidH7nFscz3jjY9ytB0n) | 3:19 |

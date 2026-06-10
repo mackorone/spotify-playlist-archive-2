@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Geolier, G\. Mineiro, Tony Boy, IvanBi e molti altri.
 
-7,359 songs - 13 day 12 hr 43 min
+7,360 songs - 13 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4976,6 +4976,7 @@
 | [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-28 | 2024-01-05 |
 | [Parole, sangue e gloria](https://open.spotify.com/track/7DZ37pbzUZcTiQGEX2Tf7w) | [Fill Koi](https://open.spotify.com/artist/1pOVx7BFsobOc6H2mIoaCG), [Gian Flores](https://open.spotify.com/artist/0nSxwKO9G1yqxPLbvFsfDq), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [File Toy](https://open.spotify.com/artist/5YpGzUAHz5rmsmVheKDpVR), [Stephkill](https://open.spotify.com/artist/2s4cRawCpCzr45VTLLVhPu) | [Blessed](https://open.spotify.com/album/1rb3r4F4NhWEFb979HFeia) | 4:04 | 2025-04-24 | 2025-05-16 |
 | [Parte del fatto \(Freestyle\)](https://open.spotify.com/track/7AEpVsYJoz4PPlYzSocBKr) | [LB GANG](https://open.spotify.com/artist/20m7OA0skSZHQi2nLt29wV), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [Parte del fatto \(Freestyle\)](https://open.spotify.com/album/3JG8oyuOLZQsZnkjbedUnI) | 1:55 | 2024-07-18 | 2024-09-06 |
+| [Partenope](https://open.spotify.com/track/64piLHQ3Kh2hg8yZ2WNcya) | [10k watt](https://open.spotify.com/artist/5lyfVXXAUVOAf9rBhMwxZw) | [Partenope](https://open.spotify.com/album/0kXeCMQGamStcm1wNoh6gO) | 2:25 | 2026-06-09 |  |
 | [Partenope \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/3o7Wj9qmWwV1mnnouU3krc) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP) | [Partenope \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/1ONWmXCcVhTpI6qmpOZrTo) | 3:16 | 2024-03-05 | 2024-03-22 |
 | [Partire](https://open.spotify.com/track/6upmFnEfz1WpWc68oKGnjA) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Inarrêtable](https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM) | 3:03 | 2024-12-06 | 2025-01-03 |
 | [PARTITO DEL LAVORO](https://open.spotify.com/track/2dpIkdX48uf6AXGFDtoTNL) | [P38](https://open.spotify.com/artist/0s7SSQ9c634rnTQDSeX5It), [Grabe](https://open.spotify.com/artist/4sTqb2wYtD4OxpJAUbVDHv) | [DITTATURA](https://open.spotify.com/album/08EX6wlJXiX4cyKkUJY5xx) | 4:05 | 2025-02-27 | 2025-03-28 |

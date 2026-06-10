@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Santana, Becky G
 
-998 songs - 2 day 5 hr 9 min
+1,001 songs - 2 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 | 2024-07-19 |  |
 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 | 2023-02-10 | 2023-06-01 |
 | [Déjame Surfear](https://open.spotify.com/track/4j0lL2pGuThsRY4NQZiryv) | [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw), [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl) | [Déjame Surfear](https://open.spotify.com/album/3s0Puyyof5yHGKvo8BkVHz) | 2:44 | 2023-05-19 | 2023-06-01 |
+| [Días Tristes](https://open.spotify.com/track/4s6fBCc5m8UpTKCS63e0XU) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Días Tristes](https://open.spotify.com/album/7olcfeBWSAqInhsQDOUHqY) | 3:18 | 2026-06-09 |  |
 | [DÓNDE](https://open.spotify.com/track/3RA4UWdsQ1rQ9CMUesTW7a) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [DÓNDE](https://open.spotify.com/album/0d4XSCou4VSovhL0Ce0oAT) | 3:13 | 2025-09-05 |  |
 | [E Agora](https://open.spotify.com/track/6b83CJAjIXSk2cUjabJBlm) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Raizes](https://open.spotify.com/album/25DPDXZ8q1GtW8WUeX6w9I) | 3:05 | 2023-04-19 | 2023-06-01 |
 | [EAVEMARÍA](https://open.spotify.com/track/19AkLxXcglb4NXjjJ5ynB3) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Que Tin y Que Tan](https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu) | 2:18 | 2026-04-24 |  |
@@ -781,6 +782,7 @@
 | [REPETIMOS](https://open.spotify.com/track/6fd06SYRA9Fj8oFUhiOFvh) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [REPETIMOS](https://open.spotify.com/album/7219pqifUvqNOYNsYtgoeD) | 3:16 | 2024-09-12 | 2025-09-19 |
 | [Rewind](https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Rewind](https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P) | 2:21 | 2024-04-01 | 2025-09-12 |
 | [Ride](https://open.spotify.com/track/1JWSvbotktLh1cftm1SyRc) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Ride](https://open.spotify.com/album/36yqcY0wmk7Z3RSPo7k452) | 4:03 | 2022-06-15 | 2023-05-26 |
+| [Rimowa](https://open.spotify.com/track/6WrZNSglXg4vp8RC6TDyRw) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [¿Y ahora qué +?](https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb) | 4:05 | 2026-06-09 |  |
 | [Risueña](https://open.spotify.com/track/277ia0CBOO47RhG7XSLj4b) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [Risueña](https://open.spotify.com/album/7xDIDj3JXGpFFebsgUE5Bx) | 3:31 | 2022-03-10 | 2023-05-26 |
 | [ROBAME UN BESO](https://open.spotify.com/track/2RxJ9U2Pj7TsiocDXtjowg) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [ROBAME UN BESO](https://open.spotify.com/album/3N2kt9ioaMGzGMBfvzhBXN) | 2:23 | 2024-10-11 |  |
 | [Robarte un Beso](https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:14 | 2023-06-07 | 2025-09-12 |
@@ -941,6 +943,7 @@
 | [Una Vida Pasada](https://open.spotify.com/track/2mLTxNa0bwZX8eNBsuODLX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 3:38 | 2024-05-24 | 2024-07-03 |
 | [Una Vida Pasada](https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Vida Pasada](https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd) | 3:38 | 2024-04-05 | 2025-09-12 |
 | [Una y Mil Veces \- Rumba](https://open.spotify.com/track/2QFxZNTECGz7uGd7me4dzH) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Una y Mil Veces \(Rumba\)](https://open.spotify.com/album/7ixHyWCOz4NvKbHMLi1P8K) | 3:19 | 2022-10-06 | 2023-05-26 |
+| [Una y Otra Vez](https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una y Otra Vez](https://open.spotify.com/album/2mIRZwtWJfTMXb9IlD92WT) | 3:02 | 2026-06-09 |  |
 | [Underground](https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Underground](https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr) | 2:29 | 2022-11-17 | 2023-06-03 |
 | [Urau](https://open.spotify.com/track/3ar209bZ8iKi049HcYhRFQ) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Urau](https://open.spotify.com/album/7xHo1vDJY2neCNsvdvlZdI) | 2:16 | 2023-04-14 | 2023-06-01 |
 | [utopía](https://open.spotify.com/track/4QXYlAmt3rP0IkbWCoM7F8) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [German vs DAAZ](https://open.spotify.com/album/0oGkL1AWwuioRXM1YLrpN5) | 3:11 | 2023-08-21 | 2025-09-12 |

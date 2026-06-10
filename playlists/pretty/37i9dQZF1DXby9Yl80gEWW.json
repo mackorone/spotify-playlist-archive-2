@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 62381,
+  "num_followers": 62387,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,18 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "West Dakota Rose",
-        "url": "https://open.spotify.com/album/6Va8ak1h09QQzxhtk0estU"
+        "name": "Lone Soldier",
+        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
       },
       "artists": [
         {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Christopher Henry",
-          "url": "https://open.spotify.com/artist/15csOLyjT4bpb5UdSwDuM9"
+          "name": "David Grier",
+          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
         }
       ],
-      "duration_ms": 354847,
-      "name": "West Dakota Rose",
-      "url": "https://open.spotify.com/track/0FptQUU4KsvEb71zjt3JAY"
+      "duration_ms": 198733,
+      "name": "Smith Chapel",
+      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -523,34 +519,22 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "Lone Soldier",
-        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
+        "name": "West Dakota Rose",
+        "url": "https://open.spotify.com/album/6Va8ak1h09QQzxhtk0estU"
       },
       "artists": [
         {
-          "name": "David Grier",
-          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Smith Chapel",
-      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
-        "name": "Woven",
-        "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
-      },
-      "artists": [
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
         {
-          "name": "Whalebone",
-          "url": "https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9"
+          "name": "Christopher Henry",
+          "url": "https://open.spotify.com/artist/15csOLyjT4bpb5UdSwDuM9"
         }
       ],
-      "duration_ms": 149369,
-      "name": "Wayfarer",
-      "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
+      "duration_ms": 354847,
+      "name": "West Dakota Rose",
+      "url": "https://open.spotify.com/track/0FptQUU4KsvEb71zjt3JAY"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -567,6 +551,22 @@
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
+        "name": "Woven",
+        "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
+      },
+      "artists": [
+        {
+          "name": "Whalebone",
+          "url": "https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9"
+        }
+      ],
+      "duration_ms": 149369,
+      "name": "Wayfarer",
+      "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -875,30 +875,6 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "Lonesome Whistle",
-        "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
-      },
-      "artists": [
-        {
-          "name": "Mark Howard",
-          "url": "https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc"
-        },
-        {
-          "name": "Stuart Duncan",
-          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 166720,
-      "name": "City Of New Orleans - Instrumental",
-      "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
         "name": "Putting on the Ring",
         "url": "https://open.spotify.com/album/4ja6mlvSRJ4YvCE3Q7YzAm"
       },
@@ -919,6 +895,30 @@
       "duration_ms": 161309,
       "name": "Putting on the Ring",
       "url": "https://open.spotify.com/track/0bSMmTb6gIoC2wCOmcKSJW"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
+        "name": "Lonesome Whistle",
+        "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
+      },
+      "artists": [
+        {
+          "name": "Mark Howard",
+          "url": "https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc"
+        },
+        {
+          "name": "Stuart Duncan",
+          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 166720,
+      "name": "City Of New Orleans - Instrumental",
+      "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "Celebrants",
-        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 184493,
-      "name": "Going Out\u2026",
-      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
         "name": "Telluride Sessions",
         "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/3CuNjXwzIwLwm40nfGuFge"
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
         }
       ],
-      "duration_ms": 217733,
-      "name": "Live Rosin",
-      "url": "https://open.spotify.com/track/4JcbTKzMIyJoholKWBtxYF"
+      "duration_ms": 184493,
+      "name": "Going Out\u2026",
+      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -1095,6 +1079,22 @@
       "duration_ms": 267954,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/3CuNjXwzIwLwm40nfGuFge"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Live Rosin",
+      "url": "https://open.spotify.com/track/4JcbTKzMIyJoholKWBtxYF"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "Toward the Fray",
-        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 301786,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
         "name": "Happy Valley",
         "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
+        "name": "Toward the Fray",
+        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 301786,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
         "name": "Elizabeth Brown / Sail Away",
         "url": "https://open.spotify.com/album/5thncZARxiTdu2we7s45r6"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 164160,
       "name": "Elizabeth Brown",
       "url": "https://open.spotify.com/track/1PG4aEBIfXsa5LPxzj59MA"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
+        "name": "If Not Now, Who?",
+        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
+      },
+      "artists": [
+        {
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "If Not Now, Who?",
-        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
-      },
-      "artists": [
-        {
-          "name": "Joe K. Walsh",
-          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "Palmer",
-      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
         "name": "Ferris Wheel",
         "url": "https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "The View From Here",
-        "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
-      },
-      "artists": [
-        {
-          "name": "Matt Flinner",
-          "url": "https://open.spotify.com/artist/79K2moZrEqMShMOlkq5A3J"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Black's Fork",
-      "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
         "name": "Double Banjo Bluegrass Spectacular",
         "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
       },
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
+        "name": "The View From Here",
+        "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Flinner",
+          "url": "https://open.spotify.com/artist/79K2moZrEqMShMOlkq5A3J"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Black's Fork",
+      "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
         "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
         "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
       },
@@ -1323,6 +1323,46 @@
       "duration_ms": 221706,
       "name": "Stoney Lonesome",
       "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
+        "name": "Bozeman (Clawhammer Version)",
+        "url": "https://open.spotify.com/album/4qBsC1P0Wsc3nTKWDj3gf2"
+      },
+      "artists": [
+        {
+          "name": "Nick Dumas",
+          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
+        }
+      ],
+      "duration_ms": 256293,
+      "name": "Bozeman - Clawhammer Version",
+      "url": "https://open.spotify.com/track/2OKPFjbjURGrx8fSzKk8uM"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
+        "name": "Now They Are Four",
+        "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
+      },
+      "artists": [
+        {
+          "name": "Dan Crary",
+          "url": "https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5"
+        },
+        {
+          "name": "Byron Berline",
+          "url": "https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io"
+        },
+        {
+          "name": "John Hickman",
+          "url": "https://open.spotify.com/artist/32wFBGZOIY1FRH7ioqKGJD"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Santa Ana",
+      "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -1351,22 +1391,6 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "Bozeman (Clawhammer Version)",
-        "url": "https://open.spotify.com/album/4qBsC1P0Wsc3nTKWDj3gf2"
-      },
-      "artists": [
-        {
-          "name": "Nick Dumas",
-          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
-        }
-      ],
-      "duration_ms": 256293,
-      "name": "Bozeman - Clawhammer Version",
-      "url": "https://open.spotify.com/track/2OKPFjbjURGrx8fSzKk8uM"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
         "name": "The Seven",
         "url": "https://open.spotify.com/album/2aZ9rHIJrLCkAUVJ45i7OP"
       },
@@ -1379,30 +1403,6 @@
       "duration_ms": 327586,
       "name": "The Seven",
       "url": "https://open.spotify.com/track/1GiuDgDa11wut9Wpwrtcha"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
-        "name": "Now They Are Four",
-        "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
-      },
-      "artists": [
-        {
-          "name": "Dan Crary",
-          "url": "https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5"
-        },
-        {
-          "name": "Byron Berline",
-          "url": "https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io"
-        },
-        {
-          "name": "John Hickman",
-          "url": "https://open.spotify.com/artist/32wFBGZOIY1FRH7ioqKGJD"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Santa Ana",
-      "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3"
+      },
+      "artists": [
+        {
+          "name": "Nick Dumas",
+          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Bozeman",
+      "url": "https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
         "name": "Crowe River",
         "url": "https://open.spotify.com/album/7B1ir2STaCkGcMw15M7NMZ"
       },
@@ -1499,38 +1515,6 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3"
-      },
-      "artists": [
-        {
-          "name": "Nick Dumas",
-          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Bozeman",
-      "url": "https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
-        "name": "Simple Pleasures (Remixed and Remastered)",
-        "url": "https://open.spotify.com/album/25R5C5ORk9TBUabLhSrbb7"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 176693,
-      "name": "Wolf Moon - Remixed and Remastered",
-      "url": "https://open.spotify.com/track/4fO0pFeZ8VQ0QoV8473zH1"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
         "name": "The Drifter",
         "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
       },
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
+        "name": "Simple Pleasures (Remixed and Remastered)",
+        "url": "https://open.spotify.com/album/25R5C5ORk9TBUabLhSrbb7"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 176693,
+      "name": "Wolf Moon - Remixed and Remastered",
+      "url": "https://open.spotify.com/track/4fO0pFeZ8VQ0QoV8473zH1"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
         "name": "Jolly Green",
         "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 145243,
       "name": "Stinkhorn",
       "url": "https://open.spotify.com/track/3Cqwayt6tSnlow0cp3pUbg"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
+        "name": "Up in Bigfoot Country",
+        "url": "https://open.spotify.com/album/0QSvfzBJuCws0VQIf7r4f4"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "Up in Bigfoot Country",
+      "url": "https://open.spotify.com/track/27QOxKWxwR1XmFjDuHyD4T"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -1639,22 +1655,6 @@
       "duration_ms": 273586,
       "name": "Winnipeg",
       "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
-        "name": "Up in Bigfoot Country",
-        "url": "https://open.spotify.com/album/0QSvfzBJuCws0VQIf7r4f4"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 195493,
-      "name": "Up in Bigfoot Country",
-      "url": "https://open.spotify.com/track/27QOxKWxwR1XmFjDuHyD4T"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
+        "name": "OKX",
+        "url": "https://open.spotify.com/album/7FOnj5usctKvI2Y6H3Knrb"
+      },
+      "artists": [
+        {
+          "name": "The OK Factor",
+          "url": "https://open.spotify.com/artist/0qPvnnO0TLLOwFRjFZbIlv"
+        }
+      ],
+      "duration_ms": 244111,
+      "name": "Bluegrass Ben",
+      "url": "https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
         "name": "Lovin' Of The Game",
         "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 318613,
       "name": "Five Points",
       "url": "https://open.spotify.com/track/0qjp00N4Q0k4qoTlmXRjFD"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
-        "name": "OKX",
-        "url": "https://open.spotify.com/album/7FOnj5usctKvI2Y6H3Knrb"
-      },
-      "artists": [
-        {
-          "name": "The OK Factor",
-          "url": "https://open.spotify.com/artist/0qPvnnO0TLLOwFRjFZbIlv"
-        }
-      ],
-      "duration_ms": 244111,
-      "name": "Bluegrass Ben",
-      "url": "https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -1831,42 +1831,18 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "EMD",
-        "url": "https://open.spotify.com/album/6EvXb5NjFdjQfLGIPttxcF"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
       },
       "artists": [
         {
-          "name": "Pinecastle Records",
-          "url": "https://open.spotify.com/artist/05ohk4u1CL6VHaZP0VyWMG"
-        },
-        {
-          "name": "Scott Vestal",
-          "url": "https://open.spotify.com/artist/6dnbsL19QVqDqacfrak5IC"
-        },
-        {
-          "name": "Randy Kohrs",
-          "url": "https://open.spotify.com/artist/1u6uhZzou3OAmwvAiOTunN"
-        },
-        {
-          "name": "Tim Crouch",
-          "url": "https://open.spotify.com/artist/1q7fFBA1aUDCQMhpUAIMxb"
-        },
-        {
-          "name": "Cody Kilby",
-          "url": "https://open.spotify.com/artist/128a425UwZIlWs3LTWeRpP"
-        },
-        {
-          "name": "Byron House",
-          "url": "https://open.spotify.com/artist/6lSbVfPSL0Pa9z1fQfTwfE"
-        },
-        {
-          "name": "Jonah Horton",
-          "url": "https://open.spotify.com/artist/7fqInLhy184lhVDLjSKYal"
+          "name": "Ethan Setiawan",
+          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
         }
       ],
-      "duration_ms": 229480,
-      "name": "EMD",
-      "url": "https://open.spotify.com/track/2VLV2108fW3ZwYIAYpZYHb"
+      "duration_ms": 372746,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

@@ -763,22 +763,22 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Reina de la Selva",
-        "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
+        "name": "Madrugadas de nada",
+        "url": "https://open.spotify.com/album/2GxuCSR5rGJuQCnp6eHLY5"
       },
       "artists": [
         {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+          "name": "Isle\u00f1a Antumalen",
+          "url": "https://open.spotify.com/artist/6bY5kjK9c1MdVgC9CAtnM4"
         },
         {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
         }
       ],
-      "duration_ms": 176986,
-      "name": "Reina de la Selva",
-      "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
+      "duration_ms": 217672,
+      "name": "Madrugadas de nada",
+      "url": "https://open.spotify.com/track/0HVfDPycENd4Y1i1ttkYMN"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -799,18 +799,22 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Dossier",
-        "url": "https://open.spotify.com/album/3yOGQeve6r2M9yNaA3Y3wH"
+        "name": "Reina de la Selva",
+        "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
       },
       "artists": [
         {
-          "name": "Trucha",
-          "url": "https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW"
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Dossier",
-      "url": "https://open.spotify.com/track/04hBXrNXKdlYGmPZ2orD7o"
+      "duration_ms": 176986,
+      "name": "Reina de la Selva",
+      "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -831,6 +835,22 @@
       "duration_ms": 186613,
       "name": "Noches De Verano",
       "url": "https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "Dossier",
+        "url": "https://open.spotify.com/album/3yOGQeve6r2M9yNaA3Y3wH"
+      },
+      "artists": [
+        {
+          "name": "Trucha",
+          "url": "https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Dossier",
+      "url": "https://open.spotify.com/track/04hBXrNXKdlYGmPZ2orD7o"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -891,26 +911,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Madrugadas de nada",
-        "url": "https://open.spotify.com/album/2GxuCSR5rGJuQCnp6eHLY5"
-      },
-      "artists": [
-        {
-          "name": "Isle\u00f1a Antumalen",
-          "url": "https://open.spotify.com/artist/6bY5kjK9c1MdVgC9CAtnM4"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 217672,
-      "name": "Madrugadas de nada",
-      "url": "https://open.spotify.com/track/0HVfDPycENd4Y1i1ttkYMN"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "Crimen",
         "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
       },
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
+        "name": "no cambies tu andar",
+        "url": "https://open.spotify.com/album/69fEXzbm2cy7w4thRgsfj1"
+      },
+      "artists": [
+        {
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        }
+      ],
+      "duration_ms": 196571,
+      "name": "no cambies tu andar",
+      "url": "https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
         "name": "El diablo en el cuerpo",
         "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 266875,
       "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
-        "name": "no cambies tu andar",
-        "url": "https://open.spotify.com/album/69fEXzbm2cy7w4thRgsfj1"
-      },
-      "artists": [
-        {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
-        }
-      ],
-      "duration_ms": 196571,
-      "name": "no cambies tu andar",
-      "url": "https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
+        "name": "Vuela M\u00e1s Alto",
+        "url": "https://open.spotify.com/album/1sORGxMepZpWMzZyc8iPpY"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "Vuela M\u00e1s Alto",
+      "url": "https://open.spotify.com/track/4WnJOzCOoMzVlY7ASHARDT"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
         "name": "De Brujas, Peteneras y Chachalacas",
         "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 288625,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
-        "name": "Vuela M\u00e1s Alto",
-        "url": "https://open.spotify.com/album/1sORGxMepZpWMzZyc8iPpY"
-      },
-      "artists": [
-        {
-          "name": "Zemmoa",
-          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "Vuela M\u00e1s Alto",
-      "url": "https://open.spotify.com/track/4WnJOzCOoMzVlY7ASHARDT"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "BELAMOR",
-        "url": "https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "t hice gay :$",
         "url": "https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 165874,
       "name": "t hice gay :$",
       "url": "https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "BELAMOR",
+        "url": "https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/3mcb8IqvIWkCpvp3XNFIiU"
-      },
-      "artists": [
-        {
-          "name": "La Divaza",
-          "url": "https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/16N0HPDPu4xw42JrhY5gJn"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "A La Playa",
         "url": "https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 193870,
       "name": "A La Playa",
       "url": "https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/3mcb8IqvIWkCpvp3XNFIiU"
+      },
+      "artists": [
+        {
+          "name": "La Divaza",
+          "url": "https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/16N0HPDPu4xw42JrhY5gJn"
     },
     {
       "added_at": "2026-05-19 00:14:35",

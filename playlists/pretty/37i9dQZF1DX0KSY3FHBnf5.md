@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,273 likes - 155 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,351 likes - 155 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 65 | [Full Moon](https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX), [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Full Moon](https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN) | 4:22 |
 | 66 | [we could have been more](https://open.spotify.com/track/2IJiul5vlckoCOB3NKsXKO) | [Hinoku](https://open.spotify.com/artist/4VL8BfRXdbEuK5UoqQWezr), [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM) | [we could have been more](https://open.spotify.com/album/6CtEhAgK6FiVH151C4zOo5) | 1:47 |
 | 67 | [fly high](https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp) | [ambit.](https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB) | [fly high](https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3) | 1:47 |
-| 68 | [frozen memories](https://open.spotify.com/track/5zEiNEPDP8OEnQZ9y3kuab) | [lost.exe](https://open.spotify.com/artist/3VGpmkObquEyGMlfYtyMsf), [Luke Muzzic](https://open.spotify.com/artist/2P4sIQzRSbTjwWLApeXamY) | [frozen memories](https://open.spotify.com/album/7aeXiCWP8i2eYXT9Qe0Mhz) | 1:51 |
+| 68 | [frozen memories](https://open.spotify.com/track/5zEiNEPDP8OEnQZ9y3kuab) | [lost.exe](https://open.spotify.com/artist/3VGpmkObquEyGMlfYtyMsf) | [frozen memories](https://open.spotify.com/album/7aeXiCWP8i2eYXT9Qe0Mhz) | 1:51 |
 | 69 | [Forgive Me](https://open.spotify.com/track/5hmX9erP5NQg363d9gFfRz) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Forgive Me](https://open.spotify.com/album/2iSqRogB8s2ntfjakXOG5K) | 1:28 |
 | 70 | [savestate](https://open.spotify.com/track/3pIpe4JRGmemKCKEXRnmwP) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [savestate](https://open.spotify.com/album/6kOhJ4wFet30ItorRmTQNJ) | 2:07 |
 | 71 | [downfall](https://open.spotify.com/track/1VGXBDF4ARh7r0Ofedrbku) | [EVILTIME](https://open.spotify.com/artist/3VRpmxzM9ZUMvE7R32ZW5q), [Domnxn](https://open.spotify.com/artist/6kzTei4hZg663YoTr7BbN5) | [downfall](https://open.spotify.com/album/0qmtAjDiDSMKCVxFkHUGEe) | 1:38 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 92 | [Bioluminescent](https://open.spotify.com/track/1b3iUSzoslK19LzK0iwCaR) | [LMR Records](https://open.spotify.com/artist/3fjujrPPhls0OtFKnwXnkP) | [Bioluminescent](https://open.spotify.com/album/10Qb6ufKlWSm1wH8Q4RElk) | 1:58 |
 | 93 | [stars](https://open.spotify.com/track/4IlMyxk8xfmJaQABn8JR67) | [Envacity](https://open.spotify.com/artist/3iGC2HaEkc8iJFMTVYCigv) | [stars](https://open.spotify.com/album/2EQMShaCShGIvaXmjvUsJw) | 2:01 |
 | 94 | [fred](https://open.spotify.com/track/7EGol6AkSm1FtUWASo6CL9) | [tripsain](https://open.spotify.com/artist/4S2tdP4Wr9xHwjKsRg5fVo) | [fred](https://open.spotify.com/album/58dUicVpOVHIV36L2ATg32) | 1:54 |
-| 95 | [nothing feels right](https://open.spotify.com/track/2ZZsS8evgdKVgN0HqMiArX) | [lost.exe](https://open.spotify.com/artist/3VGpmkObquEyGMlfYtyMsf), [Luke Muzzic](https://open.spotify.com/artist/2P4sIQzRSbTjwWLApeXamY) | [nothing feels right](https://open.spotify.com/album/55rdyukNPP93ysONdiDiSs) | 1:44 |
+| 95 | [nothing feels right](https://open.spotify.com/track/2ZZsS8evgdKVgN0HqMiArX) | [lost.exe](https://open.spotify.com/artist/3VGpmkObquEyGMlfYtyMsf) | [nothing feels right](https://open.spotify.com/album/55rdyukNPP93ysONdiDiSs) | 1:44 |
 | 96 | [twilight](https://open.spotify.com/track/4rHxTr32PrcGxFuvWHdqE4) | [ghxsted.](https://open.spotify.com/artist/7GKvkS5THM5r8VuBEdns1r) | [twilight](https://open.spotify.com/album/2d8lPwf4BY48egKSiTz3E2) | 2:46 |
 | 97 | [burnout](https://open.spotify.com/track/1lGZ33MXipAvcwikycPCRE) | [ist](https://open.spotify.com/artist/7ngiG9OzPYYIEW0yZuQZka), [Raouf](https://open.spotify.com/artist/6nX2UIOy2F9Tt7uqp4wwvL) | [burnout](https://open.spotify.com/album/1wtCPzE0DbnpUTLh0f8zdI) | 1:45 |
 | 98 | [displaced memories](https://open.spotify.com/track/0SA8ZkSdOUjijxRwJd8rzZ) | [slipdream](https://open.spotify.com/artist/4dVNhXv8UM1MVeDzswLb80) | [displaced memories](https://open.spotify.com/album/75uQQF1QYAj3Xpm2UR4cIz) | 1:48 |

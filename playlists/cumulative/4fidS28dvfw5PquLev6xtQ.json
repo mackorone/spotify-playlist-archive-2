@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Laurie Bird",
+        "url": "https://open.spotify.com/album/1ILPGqTDLIrSadZSiCzKpE"
+      },
+      "artists": [
+        {
+          "name": "Natural Snow Buildings",
+          "url": "https://open.spotify.com/artist/6Y6w2HnL3GM49hOa74QhOO"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2769613,
+      "name": "Song for Laurie Bird",
+      "url": "https://open.spotify.com/track/03pbGEzpw7kxp84R3DR2U1"
+    },
+    {
+      "album": {
         "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
         "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
       },
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 318026,
       "name": "Space Oddity - 2015 Remaster",
       "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 411733,
       "name": "Summer's Gone -second season ver-",
       "url": "https://open.spotify.com/track/7qKohSGg9hmRNR9bSO4KUI"
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 313373,
       "name": "Voodoo Child (Slight Return)",
       "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5thgM7jqBNJ.md) - [plain]
 
 > The official playlist for the entire series of Big Boys\. Watch all episodes on <a href="https://www.channel4.com/programmes/big\-boys">Channel 4 Streaming!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,996 likes - 111 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,002 likes - 111 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5thgM7jqBNJ.md) - [plain]
 | 85 | [Let's Have A Kiki](https://open.spotify.com/track/4Q6K6M0HSiRboY3C97AxD4) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Magic Hour](https://open.spotify.com/album/2Uv5xoWfFbl2o7KdcCglOD) | 3:49 |
 | 86 | [Double Bubble Trouble](https://open.spotify.com/track/0KJp4yqrZCVvYiFcwR1UBt) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/5TTyDbaARm4YjXJ5OQVKwl) | 2:59 |
 | 87 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
-| 88 | [What's Love \(feat\. MUNA\)](https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [What's Love \(feat\. MUNA\)](https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z) | 3:09 |
+| 88 | [What's Love](https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [What's Love](https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z) | 3:09 |
 | 89 | [Romanticise](https://open.spotify.com/track/2BpUgxmfgf0eKfGLGN8k5L) | [Chela et Cetera](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Kitsuné: Romanticise](https://open.spotify.com/album/59OU96UyFENd5sjXxvDrWP) | 3:33 |
 | 90 | [I Saw You Close Your Eyes](https://open.spotify.com/track/43iVxGNMDGGZhVqYfcmKcX) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [I Saw You Close Your Eyes](https://open.spotify.com/album/7CXnGrFPgc3NneX4tUXOF7) | 3:36 |
 | 91 | [Wide Open \- Edit](https://open.spotify.com/track/6MzHeVJg0UvBr8pWPhUTpL) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Wide Open](https://open.spotify.com/album/6unelYuDaqGcktST1r9Uav) | 4:13 |

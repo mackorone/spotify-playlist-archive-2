@@ -1,6 +1,6 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 667985,
+  "num_followers": 668156,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
@@ -635,30 +635,6 @@
     {
       "added_at": "2026-05-29 12:22:55",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5"
-      },
-      "artists": [
-        {
-          "name": "Across Boundaries",
-          "url": "https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT"
-        },
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        },
-        {
-          "name": "Locklead",
-          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
-        }
-      ],
-      "duration_ms": 384007,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
-    },
-    {
-      "added_at": "2026-05-29 12:22:55",
-      "album": {
         "name": "More To Life",
         "url": "https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 214108,
       "name": "Money",
       "url": "https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn"
+    },
+    {
+      "added_at": "2026-05-29 12:22:55",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5"
+      },
+      "artists": [
+        {
+          "name": "Across Boundaries",
+          "url": "https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT"
+        },
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Locklead",
+          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
+        }
+      ],
+      "duration_ms": 384007,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
     },
     {
       "added_at": "2026-05-29 12:22:55",

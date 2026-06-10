@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPX59wKzEbg.md) - [plain]
 
 > A festive mix of Christmas carols and classical crossover favorites, perfect for spending time with family this holiday season\. Cover: The Bocellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,044 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,040 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPX59wKzEbg.md) - [plain]
 | 2 | [Angels We Have Heard on High \(with Brian McKnight\)](https://open.spotify.com/track/7yPtjVIw1fQ86Pug1Tuzbd) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Noël](https://open.spotify.com/album/4kqXw1yf9EKamws0zCarGt) | 3:30 |
 | 3 | [White Christmas \(feat\. Sofia Carson\)](https://open.spotify.com/track/7BsPghb8l6oQq0tXzFfTNV) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [White Christmas \(feat\. Sofia Carson\)](https://open.spotify.com/album/2bZ93x1Mm5INldKT3aLPk8) | 3:58 |
 | 4 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/53kn0b0mZNuA6pYf6526Jk) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [My Christmas \(Remastered\)](https://open.spotify.com/album/37QhqwG2GFkVdlyRjvgKme) | 3:32 |
-| 5 | [The Blessing \- Fireside Version](https://open.spotify.com/track/7hwCpWhSKK6jwGdigoETuq) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Blessing \(Fireside Version\)](https://open.spotify.com/album/1QNPm4HAqTEtRpDbLN2ogp) | 5:20 |
+| 5 | [The Blessing \- Fireside Version](https://open.spotify.com/track/7hwCpWhSKK6jwGdigoETuq) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3) | [The Blessing \(Fireside Version\)](https://open.spotify.com/album/1QNPm4HAqTEtRpDbLN2ogp) | 5:20 |
 | 6 | [When a Child Is Born](https://open.spotify.com/track/69tL2L2sPoHr9W2LA0yVdm) | [Zacar](https://open.spotify.com/artist/4HGIHdROFZSUh70VsKcyoE), [Jay](https://open.spotify.com/artist/5FtUCtiM58XfWegbXeKJJd), [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [The Christmas Collection](https://open.spotify.com/album/3Hn4INUvIfBYrEeuCLQNq2) | 2:58 |
 | 7 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0QqnU2evpS37pFD4tkWk1D) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4dlf23mMkc4VpJvor27YiA) | 4:03 |
 | 8 | [Hark The Herald Angels Sing/O Come All Ye Faithful](https://open.spotify.com/track/1QQ8HuR86qd0gzbKcn699W) | [Clay Aiken](https://open.spotify.com/artist/13aBWT8LN4oNWWGFOu96MA) | [Merry Christmas With Love](https://open.spotify.com/album/5w5zxqNrJYFL1y8a8HtuLD) | 4:00 |

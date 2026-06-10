@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 232274,
+  "num_followers": 232384,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAAAvaSOJH02rBB0qk/usuEvM",
+  "snapshot_id": "aiYGAAAAAAC/fvUGibDGGKHi1WITHS3Z",
   "tracks": [
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 246352,
-      "name": "Camden",
-      "url": "https://open.spotify.com/track/1NAWiOec7X7xTa24nXQFCG"
+      "duration_ms": 193602,
+      "name": "For Real This Time",
+      "url": "https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 193602,
-      "name": "For Real This Time",
-      "url": "https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF"
+      "duration_ms": 246352,
+      "name": "Camden",
+      "url": "https://open.spotify.com/track/1NAWiOec7X7xTa24nXQFCG"
     },
     {
       "added_at": null,

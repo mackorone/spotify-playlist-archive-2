@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 
 > for the late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,899 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,898 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 29 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |
 | 30 | [Price You Pay](https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Price You Pay](https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML) | 3:03 |
 | 31 | [SE17](https://open.spotify.com/track/4dzMtsZMsvl2cI5THF4cqj) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U), [Danny Chaska](https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP) | [SE17](https://open.spotify.com/album/6aqqtrkZgGo6AGWhASU0HC) | 3:22 |
-| 32 | [Ode To Mumma](https://open.spotify.com/track/4wCgFIFfMoTcdb0JfMFbwd) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Mac Wetha & Friends](https://open.spotify.com/album/7ujjNbAACA0oxsQUjsLCuK) | 1:43 |
-| 33 | [Introverted Stoner](https://open.spotify.com/track/3HhZdVVUChJnjjn1P6j4nQ) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Introverted Stoner](https://open.spotify.com/album/1mLKp499Qf01vpQEeSAX08) | 3:12 |
+| 32 | [Introverted Stoner](https://open.spotify.com/track/3HhZdVVUChJnjjn1P6j4nQ) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Introverted Stoner](https://open.spotify.com/album/1mLKp499Qf01vpQEeSAX08) | 3:12 |
+| 33 | [Ode To Mumma](https://open.spotify.com/track/4wCgFIFfMoTcdb0JfMFbwd) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Mac Wetha & Friends](https://open.spotify.com/album/7ujjNbAACA0oxsQUjsLCuK) | 1:43 |
 | 34 | [Marching Band \(feat\. Masego\)](https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Marching Band \(feat\. Masego\)](https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt) | 4:44 |
 | 35 | [30,000 FEET](https://open.spotify.com/track/1McWbNIuEPiA5gMo4PafS0) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [BAD TASTE](https://open.spotify.com/album/6LLp1IJkmp1LD8xyQ9FOLc) | 3:31 |
 | 36 | [I Like](https://open.spotify.com/track/5BgfodYBmppmlfR8kEuBFT) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Super Sad Generation](https://open.spotify.com/album/3rbmTsfJugRoFghKELgGUe) | 3:07 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 80 | [Please](https://open.spotify.com/track/5ozpzvONlBPM02tapw1ue6) | [BOYY](https://open.spotify.com/artist/3TKwMNkY3pIOJssmsjhE0M), [Jordan Max](https://open.spotify.com/artist/7mJOpa0R9YYi7vTqMCBeJb), [St Francis Hotel](https://open.spotify.com/artist/5ovQJMniNkE6D4Bwxxqin9) | [Please](https://open.spotify.com/album/2pRZiqyUIv3HdjRcf6jq9Y) | 3:23 |
 | 81 | [★SLEEPY★](https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [★SLEEPY★](https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG) | 2:14 |
 | 82 | [Makin' You Mine](https://open.spotify.com/track/1yz8X1KWCrwgqaICAkG9FV) | [Kaesu](https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ), [KYA](https://open.spotify.com/artist/5ZBtrWITNv3gkwPIZnt0X9) | [Makin' You Mine/WHATCHUNEED](https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin) | 2:18 |
-| 83 | [Be My Friend](https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Be My Friend](https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt) | 3:27 |
-| 84 | [Ride 2 Nowhere](https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [26% MIXTAPE](https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi) | 3:08 |
+| 83 | [Ride 2 Nowhere](https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [26% MIXTAPE](https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi) | 3:08 |
+| 84 | [Be My Friend](https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Be My Friend](https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt) | 3:27 |
 | 85 | [honey lemon tea \(feat\. Jaydonclover\)](https://open.spotify.com/track/7FSlGYVKwVDfi1J1DD8daS) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [honey lemon tea](https://open.spotify.com/album/694WwGLnOXDg8Mh44e4FbT) | 2:19 |
 | 86 | [LIME](https://open.spotify.com/track/2hPDMrRuZYlNmea4QdCxj9) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [LIME](https://open.spotify.com/album/0cntvKHE1aJK5ysJJWPlDM) | 3:15 |
 | 87 | [Summer 17](https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Summer 17](https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4) | 3:01 |

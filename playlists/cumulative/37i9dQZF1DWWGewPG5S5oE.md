@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 渡辺 貞夫
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 大江千里
 
-522 songs - 1 day 18 hr 35 min
+523 songs - 1 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Forest Of Darkness](https://open.spotify.com/track/59MiyogEuhjfhGw7Bidsex) | [John Nakayama Trio](https://open.spotify.com/artist/43wM3prVdVeBJc4qD3gVdz) | [Forest Of Darkness](https://open.spotify.com/album/0mZYYfNQymVoZcs43zI4KO) | 6:55 | 2024-07-16 | 2024-09-18 |
 | [Four Hundred Million Blues](https://open.spotify.com/track/4fs5VptF6ywZvokDFPemXt) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Four Hundred Million Blues](https://open.spotify.com/album/4fMFEXTL0MaQq8G1DNf7NQ) | 4:22 | 2024-08-20 | 2024-09-18 |
 | [French Girl](https://open.spotify.com/track/16E6FvtMX0TzOPmdYc11pA) | [宮上啓仁](https://open.spotify.com/artist/4nDQOXumR1C0bpbMZMMSxL) | [French Girl \- Erase](https://open.spotify.com/album/6gQ1gGxxXNLEKinyW0746F) | 9:15 | 2024-02-13 | 2024-03-13 |
+| [Fresh Edge](https://open.spotify.com/track/54h9qgJ1dKeLTEeS2eyy9P) | [Senri Oe](https://open.spotify.com/artist/41DTvjqwAz1jgZCAZ6KTJG) | [Fresh Edge](https://open.spotify.com/album/1wOzTEloZZszyurStxt9Al) | 1:21 | 2026-06-09 |  |
 | [Friends](https://open.spotify.com/track/5AHCGY9OE9ZxsqVrXrmyfc) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Friends](https://open.spotify.com/album/7Bl9aIDEdyIU2jtOqI34mw) | 6:30 | 2026-01-13 |  |
 | [Friends](https://open.spotify.com/track/7lECorfr6yQeruqdY2NaYC) | [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [Friends](https://open.spotify.com/album/7AeNL2e4gX3C2x7txDr05Q) | 4:32 | 2023-06-06 | 2023-07-05 |
 | [From dusk till Dawn](https://open.spotify.com/track/0MJNq2lws5DJo7s8TDW3IW) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I), [Chillin' Spot](https://open.spotify.com/artist/2m2qscBJxMvD2sWSijVHwd) | [From dusk till Dawn](https://open.spotify.com/album/3bMhtS4fNtZKp9909pP7D1) | 4:15 | 2023-12-26 | 2024-01-31 |
@@ -215,7 +216,7 @@
 | [Light](https://open.spotify.com/track/03kj4nn1CBAlGLwfQAnb6f) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2), [Yu\-ri Tanaka](https://open.spotify.com/artist/4ncMVbzL2pGrGtcejiUk0r) | [Light](https://open.spotify.com/album/130u0oM6Q8NiuF69xB20Bj) | 3:58 | 2023-05-30 | 2023-09-13 |
 | [Lightning Moment](https://open.spotify.com/track/6AtMvCi9dlzW6baOkLtBn2) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [RESONANCE](https://open.spotify.com/album/2ArHDGgrMbxIsxsRTacsLt) | 4:22 | 2025-12-16 | 2026-04-01 |
 | [Like Rain](https://open.spotify.com/track/5i95eg5XIxQM1fFBzISwhu) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [Like Rain](https://open.spotify.com/album/0Kmzi8pYNvZmSCftjyJ6t6) | 3:55 | 2025-12-09 | 2025-12-17 |
-| [Lithium](https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Lithium](https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f) | 3:58 | 2026-04-28 |  |
+| [Lithium](https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Lithium](https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f) | 3:58 | 2026-04-28 | 2026-06-10 |
 | [Long Way](https://open.spotify.com/track/1pj3uHbRdGqR74BinsUQtb) | [Hiro Kimura](https://open.spotify.com/artist/0qMjX7Df9jLTDJu4mggBoI), [Yusuke Sase](https://open.spotify.com/artist/2IIu2bokBK7Ypa8ayaT7a7), [Tomoaki Baba](https://open.spotify.com/artist/33cOkvm7eN6eLevzqCuBTZ), [Shota Watanabe](https://open.spotify.com/artist/51aJHn1DtpKe23KBp5igP0), [Keisuke Furuki](https://open.spotify.com/artist/0j1X1NUzqVm0iHZkeXXrx9) | [Long Way](https://open.spotify.com/album/3ZFqID6ShRS5h1jp7pzaH1) | 5:20 | 2023-05-30 | 2023-07-26 |
 | [Long Way](https://open.spotify.com/track/5L1NeeITlI2bHP5Z9E8mJQ) | [木村紘](https://open.spotify.com/artist/7kpUeYy4uViw2WqItHP1mk), [Yusuke Sase](https://open.spotify.com/artist/2IIu2bokBK7Ypa8ayaT7a7), [Tomoaki Baba](https://open.spotify.com/artist/33cOkvm7eN6eLevzqCuBTZ), [Shota Watanabe](https://open.spotify.com/artist/51aJHn1DtpKe23KBp5igP0), [Keisuke Furuki](https://open.spotify.com/artist/0j1X1NUzqVm0iHZkeXXrx9) | [Long Way](https://open.spotify.com/album/04jOhXDYymWNGvo8Vp9bUn) | 5:20 | 2023-05-30 | 2023-06-01 |
 | [Longseller Tornado](https://open.spotify.com/track/4dKHCuRPW5BXkXYA46l6BK) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Longseller Tornado](https://open.spotify.com/album/0PbYTHm5JRVteBLBDEzNdI) | 4:53 | 2023-03-21 | 2023-06-28 |

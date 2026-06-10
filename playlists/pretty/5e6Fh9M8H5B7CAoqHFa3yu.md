@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 334 likes - 2,378 songs - 5 day 20 hr 23 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 335 likes - 2,381 songs - 5 day 20 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2386,5 +2386,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2376 | [Ceiling](https://open.spotify.com/track/6JbKNyIMQDxKXai14ZsBg8) | [5AM](https://open.spotify.com/artist/0RsyYYh4dLRrjKVxjpkdz0) | [Ceiling](https://open.spotify.com/album/2uoVNI46mrz2f7frUpmdtb) | 3:52 |
 | 2377 | [Eu Encontrei o Meu Amado](https://open.spotify.com/track/2kbnUCwz6AuDJWzpaWU4AB) | [Coral Gospel Vozes do Reino](https://open.spotify.com/artist/3gagHz1qMqB585kOByz8b3) | [Eu Encontrei o Meu Amado](https://open.spotify.com/album/4SdYNqafdrHadxG3l9okCi) | 2:35 |
 | 2378 | [Dreams](https://open.spotify.com/track/7tNtLGxW11tKE70wB4BWPD) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Dreams](https://open.spotify.com/album/429o17nGxNDexcp42affUn) | 3:15 |
+| 2379 | [¿Y dónde estabas tú?](https://open.spotify.com/track/69FVpltpyAvHeiXHg2BK9C) | [Noelia Malta](https://open.spotify.com/artist/1B0tklWQ7QFvUo05d5mE3C) | [¿Y dónde estabas tú?](https://open.spotify.com/album/3mPWjGkzXd8LAxlKt0Z4i6) | 3:04 |
+| 2380 | [Cosas Vintage](https://open.spotify.com/track/31CkeQnDvwBFFRmUnWnfVx) | [Mi Propia Montaña](https://open.spotify.com/artist/5lHjxxL08pdRTTtMk4c777) | [Vivac](https://open.spotify.com/album/76vrx6BNoe55bzJFuZr8wr) | 3:18 |
+| 2381 | [Sei](https://open.spotify.com/track/5v0WRPhkz1LnrAQc07JLGB) | [Giorgio Isgro'](https://open.spotify.com/artist/0mkcb7x8JISZOGHV8LdKcW), [Marcello Pelo](https://open.spotify.com/artist/7Ex3l7mokFNNf69K0dJba7) | [Sei](https://open.spotify.com/album/7DwyP2LG07sgcVcKQ9ECEF) | 4:38 |
 
-Snapshot ID: `AAAKFNqffEm2TJG49B24REzOiy6WK9x1`
+Snapshot ID: `AAAKF5RoQKAPj2zovSxlCLQB9htFlbV3`

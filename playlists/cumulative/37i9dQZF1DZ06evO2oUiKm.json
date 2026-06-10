@@ -1826,10 +1826,32 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 254293,
       "name": "We'll Meet Again",
       "url": "https://open.spotify.com/track/5ptXBoHYyiJ2NOgCLb02wP"
+    },
+    {
+      "album": {
+        "name": "Night Blooms",
+        "url": "https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184346,
+      "name": "We'll Meet Again - Late Night Session",
+      "url": "https://open.spotify.com/track/201a3upQFiGtvWQSGlaVlk"
     },
     {
       "album": {

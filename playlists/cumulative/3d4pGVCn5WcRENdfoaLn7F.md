@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-377 songs - 22 hr 43 min
+379 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Broken \(Goodbye\)](https://open.spotify.com/track/22r1gUmB2NNu88vNv1Cqc0) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Broken \(Goodbye\)](https://open.spotify.com/album/724YnXwsn0WHxmRZjia31B) | 3:45 | 2026-04-07 | 2026-05-26 |
 | [Broken Language](https://open.spotify.com/track/0uCHsMKYhxCawnnPZvLLUV) | [Never Mind](https://open.spotify.com/artist/5Cghtk7bBFeh8ylFr8HX7C) | [Do You Remember Me at All?](https://open.spotify.com/album/3T5ZGHyqLY2jqJr4e5E1Nt) | 6:26 | 2025-12-13 | 2026-01-05 |
 | [Broken Souls](https://open.spotify.com/track/1QI8qHeZM2D9CjukHziaoo) | [Malcolm E Ormond](https://open.spotify.com/artist/37IitdXWKngXiu1htFAgMG) | [Broken Souls](https://open.spotify.com/album/3HyteMRqp1h4fag2Nukpd6) | 5:35 | 2025-12-24 | 2026-01-21 |
+| [Bruise](https://open.spotify.com/track/322NfWs2Q26OwW1f0MOTBZ) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [Garden](https://open.spotify.com/album/4c4SBqmV6J0gbOm6mIM4Oz) | 3:42 | 2026-06-09 |  |
 | [Buio \- Eng Version](https://open.spotify.com/track/6CGsIEzR1l5I2cKjKXtz42) | [Crosslane](https://open.spotify.com/artist/34gfe82kVOOUdmSdcghnGA) | [Buio Deluxe](https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx) | 3:42 | 2026-01-16 | 2026-02-19 |
 | [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 | 2026-06-02 |  |
 | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 | 2025-12-08 | 2026-01-05 |
@@ -261,6 +262,7 @@
 | [Quiet selfish man](https://open.spotify.com/track/6p3083SoZOwB1oJuZtpQ0a) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3), [Hana Pavšič](https://open.spotify.com/artist/1zLtkHyi57e4iXlcFXyGLc) | [Quiet selfish man](https://open.spotify.com/album/3yBRhxOp9X7DLpEQVbzJ6q) | 3:55 | 2026-03-19 | 2026-04-15 |
 | [Rain Falls In The Night.](https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Rain Falls In The Night.](https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8) | 4:16 | 2026-04-06 |  |
 | [Rarin 2 Go](https://open.spotify.com/track/4Dk2rnFHeevPMNXOSHwOFG) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Rarin 2 Go](https://open.spotify.com/album/3YcjoAKw196XeiA03g1CVr) | 4:16 | 2026-03-31 |  |
+| [Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo \(No es tan difícil\)](https://open.spotify.com/track/7c3n6e35HWPu8jFZsGP2ZD) | [Los No Muertos](https://open.spotify.com/artist/10DyxVqQ1e1PaEsmZujjSE) | [Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo \(No es tan difícil\)](https://open.spotify.com/album/6g7hoVgjQPhWLuXDiQlK1T) | 4:52 | 2026-06-09 |  |
 | [Reflection](https://open.spotify.com/track/1xHsQvCBHhiwOipWezwwGH) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Reflection](https://open.spotify.com/album/0P5h7ui3wARfSVK8I6RGo6) | 2:40 | 2025-11-13 | 2026-05-17 |
 | [Rescue Me](https://open.spotify.com/track/3wHq81AsSq1QvLsdIhsyM8) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Rescue Me](https://open.spotify.com/album/5Omt4VUwZXFkN5xte9EqLF) | 3:50 | 2026-01-29 | 2026-02-19 |
 | [Restauri](https://open.spotify.com/track/4nZ2qQX1UzTNe8S42fARdz) | [Pra de la fam](https://open.spotify.com/artist/6k2bdPqQ5t0CqUhssS2uKR) | [i limoni](https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W) | 3:58 | 2025-11-04 | 2025-12-06 |

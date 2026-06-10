@@ -4,7 +4,7 @@
 
 > Best of South Asian Music\. Cover: Guru Randhawa
 
-529 songs - 1 day 6 hr 46 min
+530 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Aaj Ki Raat](https://open.spotify.com/track/1ICTQe3gvyPrLDdY44HKUK) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Stree 2](https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU) | 3:48 | 2024-10-21 | 2024-12-05 |
 | [Aaj Ki Raat \(From "Stree 2"\)](https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Aaj Ki Raat \(From "Stree 2"\)](https://open.spotify.com/album/3UFJUJXBdfDRd2qRZ9ijyn) | 3:48 | 2024-09-09 | 2024-12-05 |
 | [Aaj Ki Raat \(From "Stree 2"\)](https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Aaj Ki Raat \(From "Stree 2"\)](https://open.spotify.com/album/2P2orRpVU0F2Z1HGTi7AiS) | 3:48 | 2024-09-09 |  |
+| [Aarzu](https://open.spotify.com/track/0wHYuCTWPntEgWiUVED4wB) | [Noor](https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm), [Khan](https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS), [Madhurxo](https://open.spotify.com/artist/0o5KaItv2mU6ACmRP19Qc2) | [Aarzu](https://open.spotify.com/album/0TU6nutUkqYYUqZHeB0JHs) | 3:07 | 2026-06-09 |  |
 | [Aasa Kooda \- From "Think Indie"](https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc) | [Aasa Kooda \(From "Think Indie"\)](https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5) | 3:35 | 2024-08-09 |  |
 | [Aashiqui Aa Gayi\(From "Radhe Shyam"\)](https://open.spotify.com/track/7I6mwEFQwpTu5ciVZWFpd4) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Aashiqui Aa Gayi \(From "Radhe Shyam"\)](https://open.spotify.com/album/4c5CZEoxiWQs8KugdzpvJd) | 4:20 | 2022-01-13 | 2022-03-11 |
 | [Aasma Aasma \(From "Do Deewane Seher Mein"\)](https://open.spotify.com/track/1W3xePkj0x1F2vYNhiIoIj) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Abhiruchi Chand](https://open.spotify.com/artist/1Z3KE3Fs3qg13YsXPCGzKj) | [Aasma Aasma \(From "Do Deewane Seher Mein"\)](https://open.spotify.com/album/75gdVNNIo4xf4d6QqpJ63W) | 3:38 | 2026-02-17 | 2026-05-12 |

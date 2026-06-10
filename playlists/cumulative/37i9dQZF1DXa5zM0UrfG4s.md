@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-466 songs - 21 hr 19 min
+467 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Evig Ung](https://open.spotify.com/track/1JW9yOhRC3FKfaxTBcibQF) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Evig Ung](https://open.spotify.com/album/4qTGCjhUEuScaKYoHPq7k5) | 2:57 | 2021-12-16 | 2022-04-20 |
 | [Evig vandring](https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr) | [Kjetil Nordfjeld](https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO), [Christiania](https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu) | [Evig vandring](https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE) | 2:50 | 2022-07-28 | 2025-03-28 |
 | [Evig Vandring](https://open.spotify.com/track/7IeBamArdqkA6YnqBaMHFj) | [Kjetil Nordfjeld](https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO), [Christiania](https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu) | [Evig Vandring](https://open.spotify.com/album/0nGtfoQ6FXtdjWQ6xudk7a) | 2:50 | 2021-12-16 | 2022-07-29 |
+| [Eviva Espana \- Charterfeber 2026](https://open.spotify.com/track/1Byag6TMNocO1LGavyTu0k) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Eviva Espana \(Charterfeber 2026\)](https://open.spotify.com/album/5shiBSVPePJvi403ioGaN6) | 2:45 | 2026-06-04 |  |
 | [F\*CKED UP!](https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP!](https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji) | 2:47 | 2022-09-22 | 2024-02-09 |
 | [Fakk Min X](https://open.spotify.com/track/0lJCvh6IJQ7vedN2zgW9ws) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Fakk Min X](https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ) | 1:51 | 2022-10-15 | 2023-07-18 |
 | [Falla](https://open.spotify.com/track/43YgCJIcbcSOYSqh7G9dx6) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Falla](https://open.spotify.com/album/17uI2EwTaK9s29cyoJoFOX) | 2:44 | 2026-04-07 |  |
@@ -369,7 +370,7 @@
 | [RUN IT BACK](https://open.spotify.com/track/6L0OxFD3iEAiveGUZ6KNAw) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [RUN IT BACK](https://open.spotify.com/album/2ZSJAqMW1IWJFU3nFHfsJW) | 2:28 | 2022-10-15 | 2023-01-27 |
 | [Rundt neste sving](https://open.spotify.com/track/1a13lJDJfoIwl1sfjVWy4j) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Rundt neste sving](https://open.spotify.com/album/5kK2tt52F3j9ARRsksxOHT) | 3:55 | 2021-12-16 | 2022-07-29 |
 | [Rundt neste sving](https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 3:55 | 2022-12-01 |  |
-| [Ryker på'a igjen](https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ryker på'a igjen](https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf) | 2:25 | 2025-07-10 |  |
+| [Ryker på'a igjen](https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ryker på'a igjen](https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf) | 2:25 | 2025-07-10 | 2026-06-10 |
 | [Rypejakt](https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [Tomgang](https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe) | [Rypejakt](https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm) | 2:29 | 2026-05-28 |  |
 | [Scania fra 1973](https://open.spotify.com/track/149qw7uPNyeYjZbF1TtOq5) | [Vagabond](https://open.spotify.com/artist/6i6Ce1ounJ0ssnfIzVNn6s) | [3](https://open.spotify.com/album/03p4hxaB9DqC7Kh5bAkb8b) | 3:52 | 2022-02-03 | 2022-04-18 |
 | [Se dig naken igen](https://open.spotify.com/track/7CyHiCbqRj4RokUXYbHndJ) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Se dig naken igen](https://open.spotify.com/album/30YVIl0fpuUAH1IrILSvJQ) | 2:16 | 2025-07-17 | 2025-11-11 |

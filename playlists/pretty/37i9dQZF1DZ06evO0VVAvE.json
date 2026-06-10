@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 10865,
+  "num_followers": 10884,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAADpUWQJrovlT2M9X7OJqUjr",
+  "snapshot_id": "aiYGAAAAAAB4wpqOB9yN4r61iyegJqGa",
   "tracks": [
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okanlawon, Vol. 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t"
-      },
-      "artists": [
-        {
-          "name": "Cazulee",
-          "url": "https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 212871,
-      "name": "The Way (Remix)",
-      "url": "https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DUPE",
         "url": "https://open.spotify.com/album/1BynWE5Yx8FyyGeBITcuEh"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 188212,
       "name": "DUPE",
       "url": "https://open.spotify.com/track/0hMqF6NlfWoxLAHe0OkIBw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Okanlawon, Vol. 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t"
+      },
+      "artists": [
+        {
+          "name": "Cazulee",
+          "url": "https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 212871,
+      "name": "The Way (Remix)",
+      "url": "https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC"
     },
     {
       "added_at": null,

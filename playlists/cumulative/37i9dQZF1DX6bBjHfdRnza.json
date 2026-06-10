@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 240000,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/5ggI0yUk07SOIjgq6URRM8"
@@ -8985,6 +8985,24 @@
     },
     {
       "album": {
+        "name": "Bunda",
+        "url": "https://open.spotify.com/album/63CW9coiL9VWhUrkRCtk0R"
+      },
+      "artists": [
+        {
+          "name": "BLiNKR",
+          "url": "https://open.spotify.com/artist/19oNuL1mBROeWMN4t6Ax1x"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Bunda",
+      "url": "https://open.spotify.com/track/2B0AAJGqQMkVndEygc2Bfs"
+    },
+    {
+      "album": {
         "name": "Bunzzz",
         "url": "https://open.spotify.com/album/7FPQMoNjZePas7ccKQcjNz"
       },
@@ -10898,6 +10916,28 @@
       "duration_ms": 237794,
       "name": "Chian",
       "url": "https://open.spotify.com/track/48F8Cj8p6oltTcZ3edzAcE"
+    },
+    {
+      "album": {
+        "name": "Chica",
+        "url": "https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9"
+      },
+      "artists": [
+        {
+          "name": "Ben Evers",
+          "url": "https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43"
+        },
+        {
+          "name": "Najeh",
+          "url": "https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Chica",
+      "url": "https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1"
     },
     {
       "album": {
@@ -40282,7 +40322,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 161777,
       "name": "My Turn (feat. sbk)",
       "url": "https://open.spotify.com/track/05sEHLouKqQvs0ShE4tWbD"
@@ -40564,7 +40604,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 193714,
       "name": "Need Some Fun",
       "url": "https://open.spotify.com/track/3zSZUO1ZFIkwC4CdV7Rzls"
@@ -61082,6 +61122,32 @@
       "duration_ms": 162406,
       "name": "U REALLY HURT ME",
       "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
+    },
+    {
+      "album": {
+        "name": "u up?",
+        "url": "https://open.spotify.com/album/68Ii8cbl0yUWv7Bt2BbqV4"
+      },
+      "artists": [
+        {
+          "name": "Nariman",
+          "url": "https://open.spotify.com/artist/2nfCSIlDMhDckP3xf3J0va"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        },
+        {
+          "name": "charmy",
+          "url": "https://open.spotify.com/artist/5dcPJcXUrWmo0h6UaRBRta"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210250,
+      "name": "u up?",
+      "url": "https://open.spotify.com/track/2ZZvnh85DP30XvSLjd0qDD"
     },
     {
       "album": {

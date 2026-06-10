@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAACse2qxYxz3eXw9wVxN8IsS",
+  "snapshot_id": "aiYGAAAAAADV77L5UFV0phZ9D5Z/g+xU",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SICK!",
-        "url": "https://open.spotify.com/album/1uQyVaCOSTSbLHLzYHr4b7"
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
       },
       "artists": [
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        },
-        {
-          "name": "ILOVEMAKONNEN",
-          "url": "https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja"
         }
       ],
-      "duration_ms": 126743,
-      "name": "SICK!",
-      "url": "https://open.spotify.com/track/1IpP0gGsWlkag2S4U0vooG"
+      "duration_ms": 142142,
+      "name": "into me",
+      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
     },
     {
       "added_at": null,
@@ -395,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+        "name": "SICK!",
+        "url": "https://open.spotify.com/album/1uQyVaCOSTSbLHLzYHr4b7"
       },
       "artists": [
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "ILOVEMAKONNEN",
+          "url": "https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja"
         }
       ],
-      "duration_ms": 142142,
-      "name": "into me",
-      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
+      "duration_ms": 126743,
+      "name": "SICK!",
+      "url": "https://open.spotify.com/track/1IpP0gGsWlkag2S4U0vooG"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Push N Pull",
-        "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
-      },
-      "artists": [
-        {
-          "name": "Runyu Qian",
-          "url": "https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Push N Pull",
-      "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whirlwind Of Malevolence",
         "url": "https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 139090,
       "name": "Enter The Chat",
       "url": "https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Push N Pull",
+        "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
+      },
+      "artists": [
+        {
+          "name": "Runyu Qian",
+          "url": "https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Push N Pull",
+      "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
     },
     {
       "added_at": null,

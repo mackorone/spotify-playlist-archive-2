@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume! June ambassador: <a href=\"spotify:artist:0UMs6dTf23FC2fHc40fXNS\">KI/KI</a>",
-  "num_followers": 14179,
+  "num_followers": 14182,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Compte \u00e0 rebours",
-        "url": "https://open.spotify.com/album/2nYkd914ePBOgXm12vUipQ"
-      },
-      "artists": [
-        {
-          "name": "Colt",
-          "url": "https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg"
-        }
-      ],
-      "duration_ms": 197470,
-      "name": "Compte \u00e0 rebours",
-      "url": "https://open.spotify.com/track/2fP3Ak9jZQewAZb9hqdB52"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Boy & Girl",
         "url": "https://open.spotify.com/album/2EeT0iew6pYqXkeltRsL0m"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 186463,
       "name": "Boy & Girl",
       "url": "https://open.spotify.com/track/3IYzAhD6EgmCSdYWUWDBe2"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Compte \u00e0 rebours",
+        "url": "https://open.spotify.com/album/2nYkd914ePBOgXm12vUipQ"
+      },
+      "artists": [
+        {
+          "name": "Colt",
+          "url": "https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg"
+        }
+      ],
+      "duration_ms": 197470,
+      "name": "Compte \u00e0 rebours",
+      "url": "https://open.spotify.com/track/2fP3Ak9jZQewAZb9hqdB52"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Samen Blijven",
-        "url": "https://open.spotify.com/album/0n3idTgAnCgj84Szvmjc4o"
-      },
-      "artists": [
-        {
-          "name": "Sigourney K",
-          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
-        }
-      ],
-      "duration_ms": 158193,
-      "name": "Samen Blijven",
-      "url": "https://open.spotify.com/track/05frc7EsEIMBrF7uK6CCxT"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Plastic Paradise",
         "url": "https://open.spotify.com/album/4212hy44QlIW86mWnkLUyE"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 168974,
       "name": "Plastic Paradise",
       "url": "https://open.spotify.com/track/5s7LunNdtlopbVzzsAgMdr"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Samen Blijven",
+        "url": "https://open.spotify.com/album/0n3idTgAnCgj84Szvmjc4o"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "duration_ms": 158193,
+      "name": "Samen Blijven",
+      "url": "https://open.spotify.com/track/05frc7EsEIMBrF7uK6CCxT"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "A Perfect Crime",
-        "url": "https://open.spotify.com/album/44hqHboGyeJjyKzQ7sugNW"
-      },
-      "artists": [
-        {
-          "name": "Kovacs",
-          "url": "https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF"
-        }
-      ],
-      "duration_ms": 236756,
-      "name": "A Perfect Crime",
-      "url": "https://open.spotify.com/track/3aIcHg8uVYFZMO1qJZWS1l"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Terug bij af",
         "url": "https://open.spotify.com/album/10Xf51oocS1HvLOpaFWwbC"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 169167,
       "name": "Terug bij af",
       "url": "https://open.spotify.com/track/64WcFZOOYjxo9JgyROBK2L"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "A Perfect Crime",
+        "url": "https://open.spotify.com/album/44hqHboGyeJjyKzQ7sugNW"
+      },
+      "artists": [
+        {
+          "name": "Kovacs",
+          "url": "https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF"
+        }
+      ],
+      "duration_ms": 236756,
+      "name": "A Perfect Crime",
+      "url": "https://open.spotify.com/track/3aIcHg8uVYFZMO1qJZWS1l"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Dicht Bij Mij",
-        "url": "https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy"
-      },
-      "artists": [
-        {
-          "name": "Sabien",
-          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Hoe Wij Hier Samen Staan",
-      "url": "https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Naarden-Bussum",
         "url": "https://open.spotify.com/album/1z7aqKYuIhp7KCnE1pu75v"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Plankgas",
-        "url": "https://open.spotify.com/album/1ah6AWdgrlCwXJVTJiFeum"
+        "name": "Dicht Bij Mij",
+        "url": "https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy"
       },
       "artists": [
         {
-          "name": "Line De Dauw",
-          "url": "https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX"
+          "name": "Sabien",
+          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
         }
       ],
-      "duration_ms": 162800,
-      "name": "Plankgas",
-      "url": "https://open.spotify.com/track/1CYwj9IOMLY1vX0EmMUXym"
+      "duration_ms": 178064,
+      "name": "Hoe Wij Hier Samen Staan",
+      "url": "https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -543,6 +527,22 @@
       "duration_ms": 196653,
       "name": "Ben je dan niet blij",
       "url": "https://open.spotify.com/track/2lOype0E5KsoIM7klo1yRI"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Plankgas",
+        "url": "https://open.spotify.com/album/1ah6AWdgrlCwXJVTJiFeum"
+      },
+      "artists": [
+        {
+          "name": "Line De Dauw",
+          "url": "https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "Plankgas",
+      "url": "https://open.spotify.com/track/1CYwj9IOMLY1vX0EmMUXym"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Alles Gaat Voorbij",
-        "url": "https://open.spotify.com/album/5GIbDXqqqgbJAbtbrpDpon"
-      },
-      "artists": [
-        {
-          "name": "Dora",
-          "url": "https://open.spotify.com/artist/0mtvaQCrgNiDab3u0FFvZn"
-        }
-      ],
-      "duration_ms": 197812,
-      "name": "Alles Gaat Voorbij",
-      "url": "https://open.spotify.com/track/3POH4BgyIbavWJuo4ehXZz"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "car crash",
         "url": "https://open.spotify.com/album/5NkG7lUGgJGy3oDw8xH4wl"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
+        "name": "Alles Gaat Voorbij",
+        "url": "https://open.spotify.com/album/5GIbDXqqqgbJAbtbrpDpon"
+      },
+      "artists": [
+        {
+          "name": "Dora",
+          "url": "https://open.spotify.com/artist/0mtvaQCrgNiDab3u0FFvZn"
+        }
+      ],
+      "duration_ms": 197812,
+      "name": "Alles Gaat Voorbij",
+      "url": "https://open.spotify.com/track/3POH4BgyIbavWJuo4ehXZz"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/0hF6KksKFNs67Xc0R0YDXb"
       },
@@ -623,6 +623,22 @@
       "duration_ms": 202289,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/7fupI8FxcypgJ7HDjw7hQR"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Midden In Paris",
+        "url": "https://open.spotify.com/album/6cAFEfAFJ0Fdy6uWnflctt"
+      },
+      "artists": [
+        {
+          "name": "Lisa Rose",
+          "url": "https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F"
+        }
+      ],
+      "duration_ms": 197979,
+      "name": "Midden In Paris",
+      "url": "https://open.spotify.com/track/2jb24vo03wyU4RdgSnj6JJ"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -647,18 +663,18 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Midden In Paris",
-        "url": "https://open.spotify.com/album/6cAFEfAFJ0Fdy6uWnflctt"
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/39jJaarZplGt1gHKmCpcME"
       },
       "artists": [
         {
-          "name": "Lisa Rose",
-          "url": "https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F"
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
         }
       ],
-      "duration_ms": 197979,
-      "name": "Midden In Paris",
-      "url": "https://open.spotify.com/track/2jb24vo03wyU4RdgSnj6JJ"
+      "duration_ms": 200869,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/5yCOto2qdnC9d7cYWSgTFm"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -675,22 +691,6 @@
       "duration_ms": 134444,
       "name": "Zwak Voor Jou",
       "url": "https://open.spotify.com/track/5NXI70KQBGnHq8vt1CWESC"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/39jJaarZplGt1gHKmCpcME"
-      },
-      "artists": [
-        {
-          "name": "Laura van Dam",
-          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/5yCOto2qdnC9d7cYWSgTFm"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -759,6 +759,38 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
+        "name": "Everybody Wants To Fly",
+        "url": "https://open.spotify.com/album/3fRzEaAheLi2r4SlSVrueP"
+      },
+      "artists": [
+        {
+          "name": "BIRTHE",
+          "url": "https://open.spotify.com/artist/4abnJNB1ZNdqTP8Q0zBbP7"
+        }
+      ],
+      "duration_ms": 153535,
+      "name": "Everybody Wants To Fly",
+      "url": "https://open.spotify.com/track/3ZREjtAQbskSYJhJgnjFyu"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/2bQBB8NxtK4rCh1hkZjUw2"
+      },
+      "artists": [
+        {
+          "name": "SkyeIndy",
+          "url": "https://open.spotify.com/artist/2mT7QJhZE3gmwXAfpUIkPt"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5oD5K28sLSlFkqg9ZxznPJ"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/6aAu9VIGf55UX2JIFwulum"
       },
@@ -791,22 +823,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/2bQBB8NxtK4rCh1hkZjUw2"
-      },
-      "artists": [
-        {
-          "name": "SkyeIndy",
-          "url": "https://open.spotify.com/artist/2mT7QJhZE3gmwXAfpUIkPt"
-        }
-      ],
-      "duration_ms": 145777,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/5oD5K28sLSlFkqg9ZxznPJ"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Vliegen",
         "url": "https://open.spotify.com/album/5qKq0ApO977tSmvGzIuH3H"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 172500,
       "name": "Vliegen",
       "url": "https://open.spotify.com/track/62aJj3DjAJtvU1hri0d27h"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
-        "name": "Everybody Wants To Fly",
-        "url": "https://open.spotify.com/album/3fRzEaAheLi2r4SlSVrueP"
-      },
-      "artists": [
-        {
-          "name": "BIRTHE",
-          "url": "https://open.spotify.com/artist/4abnJNB1ZNdqTP8Q0zBbP7"
-        }
-      ],
-      "duration_ms": 153535,
-      "name": "Everybody Wants To Fly",
-      "url": "https://open.spotify.com/track/3ZREjtAQbskSYJhJgnjFyu"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "o pen bro ken",
-        "url": "https://open.spotify.com/album/1dzccMWjUHy2txBbOTo6oZ"
-      },
-      "artists": [
-        {
-          "name": "Luwten",
-          "url": "https://open.spotify.com/artist/4cm8GrJ4fx7P2h9shNhUia"
-        }
-      ],
-      "duration_ms": 223764,
-      "name": "o pen bro ken",
-      "url": "https://open.spotify.com/track/1XPB97GokrgncK64pDwPoW"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "I THINK WE SHOULD CHANGE THIS",
         "url": "https://open.spotify.com/album/6xmdULbXe9tMKk1Q6SfIAw"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 242446,
       "name": "HANNAH MONTANA",
       "url": "https://open.spotify.com/track/36dnmtvkyziG2MKXZe6xY4"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "o pen bro ken",
+        "url": "https://open.spotify.com/album/1dzccMWjUHy2txBbOTo6oZ"
+      },
+      "artists": [
+        {
+          "name": "Luwten",
+          "url": "https://open.spotify.com/artist/4cm8GrJ4fx7P2h9shNhUia"
+        }
+      ],
+      "duration_ms": 223764,
+      "name": "o pen bro ken",
+      "url": "https://open.spotify.com/track/1XPB97GokrgncK64pDwPoW"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -967,18 +967,18 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "I WANT IT!",
-        "url": "https://open.spotify.com/album/6OzCHlQcg09APOwdy0fFz3"
+        "name": "When the World Dissolves",
+        "url": "https://open.spotify.com/album/739yEaTuANCpAavgpUQoSs"
       },
       "artists": [
         {
-          "name": "POM",
-          "url": "https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv"
+          "name": "Leela Rosa",
+          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
         }
       ],
-      "duration_ms": 226755,
-      "name": "I WANT IT!",
-      "url": "https://open.spotify.com/track/3NWu9J6FSmL1jju2OSM2WM"
+      "duration_ms": 169411,
+      "name": "When the World Dissolves",
+      "url": "https://open.spotify.com/track/517spBUb3H1kqpUUmDjTJ3"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -1015,34 +1015,18 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "When the World Dissolves",
-        "url": "https://open.spotify.com/album/739yEaTuANCpAavgpUQoSs"
+        "name": "I WANT IT!",
+        "url": "https://open.spotify.com/album/6OzCHlQcg09APOwdy0fFz3"
       },
       "artists": [
         {
-          "name": "Leela Rosa",
-          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
+          "name": "POM",
+          "url": "https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv"
         }
       ],
-      "duration_ms": 169411,
-      "name": "When the World Dissolves",
-      "url": "https://open.spotify.com/track/517spBUb3H1kqpUUmDjTJ3"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
-        "name": "Forever Sixteen",
-        "url": "https://open.spotify.com/album/20XkH2m9d54XkjiLZqjn1t"
-      },
-      "artists": [
-        {
-          "name": "ISHA",
-          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
-        }
-      ],
-      "duration_ms": 174657,
-      "name": "Forever Sixteen",
-      "url": "https://open.spotify.com/track/0cagh3TFowRoOXWpkxfggG"
+      "duration_ms": 226755,
+      "name": "I WANT IT!",
+      "url": "https://open.spotify.com/track/3NWu9J6FSmL1jju2OSM2WM"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -1059,6 +1043,22 @@
       "duration_ms": 223926,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/49DaLlHVb0nYesBnDBDo3n"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Forever Sixteen",
+        "url": "https://open.spotify.com/album/20XkH2m9d54XkjiLZqjn1t"
+      },
+      "artists": [
+        {
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
+        }
+      ],
+      "duration_ms": 174657,
+      "name": "Forever Sixteen",
+      "url": "https://open.spotify.com/track/0cagh3TFowRoOXWpkxfggG"
     },
     {
       "added_at": "2026-06-04 22:00:35",

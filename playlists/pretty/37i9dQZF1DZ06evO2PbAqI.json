@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 35436,
+  "num_followers": 35439,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAACz3KCR+i0reqGgDy9J7bdD",
+  "snapshot_id": "aiYGAAAAAAAuRwQUbHXqTCNd0Q0rLezE",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Layers of Time",
+      "url": "https://open.spotify.com/track/2uFS9ieoGREkFCrasbGsCx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleepless Empire",
+        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 264533,
+      "name": "The Siege",
+      "url": "https://open.spotify.com/track/0QP6Q6euM4X32r5aEjmkjO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "These Scars Won't Define Us (Tour Version)",
         "url": "https://open.spotify.com/album/3zo4Te2wDclqlGiJtTlZab"
       },
@@ -391,38 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleepless Empire",
-        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 264533,
-      "name": "The Siege",
-      "url": "https://open.spotify.com/track/0QP6Q6euM4X32r5aEjmkjO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Layers of Time",
-      "url": "https://open.spotify.com/track/2uFS9ieoGREkFCrasbGsCx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broken Crown Halo",
         "url": "https://open.spotify.com/album/6P5nvFW7lUOwGGvDNYuVvG"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies",
-        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Daylight Dancer",
-      "url": "https://open.spotify.com/track/4EnbEcYpoGQAIGNLaZa4Nn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In a Reverie",
         "url": "https://open.spotify.com/album/3OGMfNOHgqT5KQeOrESXbG"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 307266,
       "name": "Falling Again",
       "url": "https://open.spotify.com/track/1M3h1uXXNSG5wAjErb1Y15"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comalies",
+        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Daylight Dancer",
+      "url": "https://open.spotify.com/track/4EnbEcYpoGQAIGNLaZa4Nn"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies",
-        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 217666,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/3RaxN3FA8bvtjHPBEaDnID"
+      "duration_ms": 221093,
+      "name": "What I See",
+      "url": "https://open.spotify.com/track/5MZFXKHRKB59gb7KZPAaBi"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+        "name": "Comalies",
+        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 221093,
-      "name": "What I See",
-      "url": "https://open.spotify.com/track/5MZFXKHRKB59gb7KZPAaBi"
+      "duration_ms": 217666,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/3RaxN3FA8bvtjHPBEaDnID"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies",
-        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 255200,
-      "name": "Tight Rope",
-      "url": "https://open.spotify.com/track/4ELHk26fjscfQpmKHV0gLe"
+      "duration_ms": 201906,
+      "name": "To the Edge",
+      "url": "https://open.spotify.com/track/1ljUMhT0vIaNhMRrf8RYXr"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+        "name": "Comalies",
+        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 201906,
-      "name": "To the Edge",
-      "url": "https://open.spotify.com/track/1ljUMhT0vIaNhMRrf8RYXr"
+      "duration_ms": 255200,
+      "name": "Tight Rope",
+      "url": "https://open.spotify.com/track/4ELHk26fjscfQpmKHV0gLe"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies",
-        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
+        "name": "Comalies XX",
+        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 211973,
-      "name": "Self Deception",
-      "url": "https://open.spotify.com/track/4Q6f9HqFcXzWQtHyvhVOLA"
+      "duration_ms": 247666,
+      "name": "Heaven's a Lie XX",
+      "url": "https://open.spotify.com/track/01nUJmvJIplZ7bes2IjqAo"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Eps- Lacuna Coil/halflife",
-        "url": "https://open.spotify.com/album/4pPjBhZFubAGdhIVTSj8VG"
+        "name": "Comalies",
+        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 281826,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3oi4Cdf6zfpxRtpGMr3Xie"
+      "duration_ms": 211973,
+      "name": "Self Deception",
+      "url": "https://open.spotify.com/track/4Q6f9HqFcXzWQtHyvhVOLA"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies XX",
-        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
+        "name": "The Eps- Lacuna Coil/halflife",
+        "url": "https://open.spotify.com/album/4pPjBhZFubAGdhIVTSj8VG"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 247666,
-      "name": "Heaven's a Lie XX",
-      "url": "https://open.spotify.com/track/01nUJmvJIplZ7bes2IjqAo"
+      "duration_ms": 281826,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3oi4Cdf6zfpxRtpGMr3Xie"
     },
     {
       "added_at": null,

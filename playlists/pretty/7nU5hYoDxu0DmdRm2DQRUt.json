@@ -1,13 +1,125 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 8002,
+  "num_followers": 8003,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAPORxCXNhedTwdl7fHOAkQyVVAWOIa",
+  "snapshot_id": "AAAPQWu15slqjvDMELpyPd7f/HyNe6bB",
   "tracks": [
+    {
+      "added_at": "2026-06-09 09:06:10",
+      "album": {
+        "name": "Far Out!",
+        "url": "https://open.spotify.com/album/2nzzUffFyL04k5egAdFXs8"
+      },
+      "artists": [
+        {
+          "name": "Rex The Dog",
+          "url": "https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC"
+        }
+      ],
+      "duration_ms": 202424,
+      "name": "Far Out!",
+      "url": "https://open.spotify.com/track/7hegWmHNNA0QqcN6gAGvdH"
+    },
+    {
+      "added_at": "2026-06-09 09:07:06",
+      "album": {
+        "name": "Soultones",
+        "url": "https://open.spotify.com/album/5QurnM0GLFQvtiIgn81POr"
+      },
+      "artists": [
+        {
+          "name": "MBM",
+          "url": "https://open.spotify.com/artist/6fR2vaATl4U6KXF5yf7Lsc"
+        }
+      ],
+      "duration_ms": 350541,
+      "name": "Cold Tone",
+      "url": "https://open.spotify.com/track/08lhuoKP8Jzio8VhIexEyo"
+    },
+    {
+      "added_at": "2026-06-09 09:07:33",
+      "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/7umAVE2pdp7UBP2aaoBKtf"
+      },
+      "artists": [
+        {
+          "name": "Joaquin \"Joe\" Claussell",
+          "url": "https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro"
+        }
+      ],
+      "duration_ms": 421185,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/4iaHdJ0jNvcsgjGLJPOP3M"
+    },
+    {
+      "added_at": "2026-06-09 09:08:03",
+      "album": {
+        "name": "Now You Exist",
+        "url": "https://open.spotify.com/album/1QUpfka9EwmCunVeIy1y3I"
+      },
+      "artists": [
+        {
+          "name": "The Field",
+          "url": "https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS"
+        }
+      ],
+      "duration_ms": 420256,
+      "name": "Now You Exist",
+      "url": "https://open.spotify.com/track/3dJWHrLPHudjyZEmyMozor"
+    },
+    {
+      "added_at": "2026-06-09 09:08:25",
+      "album": {
+        "name": "Rave Echoes",
+        "url": "https://open.spotify.com/album/6u9jjhBAt0b7iSxT6JxxN6"
+      },
+      "artists": [
+        {
+          "name": "Shed",
+          "url": "https://open.spotify.com/artist/3dds88EVSeBgkPCJ47ZzRZ"
+        }
+      ],
+      "duration_ms": 288296,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/3ZwzU2gKjRPKD1AV4eWfw2"
+    },
+    {
+      "added_at": "2026-06-09 09:08:46",
+      "album": {
+        "name": "Glepp",
+        "url": "https://open.spotify.com/album/6LuNjEzVUNk3YlrayYwGeT"
+      },
+      "artists": [
+        {
+          "name": "Will Hofbauer",
+          "url": "https://open.spotify.com/artist/5ph5qdAJXZPWas7Ch9f6Uf"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Glepp",
+      "url": "https://open.spotify.com/track/1gsvXiU9miNjD4ZebrTCmh"
+    },
+    {
+      "added_at": "2026-06-09 09:09:12",
+      "album": {
+        "name": "Sigils For Survival",
+        "url": "https://open.spotify.com/album/6DsMqtKy0VJlvcxRFozKw8"
+      },
+      "artists": [
+        {
+          "name": "Octo Octa",
+          "url": "https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17"
+        }
+      ],
+      "duration_ms": 499100,
+      "name": "First Intention (Right Here, Right Now)",
+      "url": "https://open.spotify.com/track/2cnRRxgxmTYIUwK06kNTJk"
+    },
     {
       "added_at": "2026-05-22 08:02:06",
       "album": {

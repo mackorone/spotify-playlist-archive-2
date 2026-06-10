@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAAAT2CUCCgP4oZ6V6OkWTJT5",
+  "snapshot_id": "aiYGAAAAAAAcrSzoQfVkCeDJtxCCk1DT",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Go Instro",
-        "url": "https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1"
+        "name": "Old Town Doo Wop, Vol. 5",
+        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 135800,
-      "name": "Rockamaroll",
-      "url": "https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl"
+      "duration_ms": 148991,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Town Doo Wop, Vol. 5",
-        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
+        "name": "Let's Go Instro",
+        "url": "https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1"
       },
       "artists": [
         {
@@ -612,57 +612,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 148991,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Koko-Mojo Diner, Vol. 2 - Cornbread & Cabbage Greens",
-        "url": "https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 117933,
-      "name": "Fried Eggs",
-      "url": "https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 169201,
-      "name": "Best Days of My Life",
-      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "But You Belong to Me",
-      "url": "https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1"
+      "duration_ms": 135800,
+      "name": "Rockamaroll",
+      "url": "https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl"
     },
     {
       "added_at": null,
@@ -692,9 +644,41 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 156049,
-      "name": "Wonder What Kind of Bag She's In",
-      "url": "https://open.spotify.com/track/5WBPxOgZd0PPx3DVylUCQE"
+      "duration_ms": 169201,
+      "name": "Best Days of My Life",
+      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Koko-Mojo Diner, Vol. 2 - Cornbread & Cabbage Greens",
+        "url": "https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 117933,
+      "name": "Fried Eggs",
+      "url": "https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jimmy Bishop On Stage Live At The Nixon Theatre",
+        "url": "https://open.spotify.com/album/3UiOnIyrrjMwACY2xq86Nx"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 238240,
+      "name": "(YOU'D BETTER) CHECK YOURSELF - Live At The Nixon Theatre 1967",
+      "url": "https://open.spotify.com/track/1AMMycsPmSN3ncaT7Pz9CJ"
     },
     {
       "added_at": null,
@@ -711,6 +695,38 @@
       "duration_ms": 165813,
       "name": "I'm Glad Your're My Girl",
       "url": "https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 156049,
+      "name": "Wonder What Kind of Bag She's In",
+      "url": "https://open.spotify.com/track/5WBPxOgZd0PPx3DVylUCQE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "But You Belong to Me",
+      "url": "https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1"
     },
     {
       "added_at": null,

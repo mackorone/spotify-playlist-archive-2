@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 613903,
+  "num_followers": 613853,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -313,6 +313,22 @@
       "url": "https://open.spotify.com/track/0AlPTC3ChJYKnBLQY11uP6"
     },
     {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "The Juice: Vol. II",
+        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Sundays",
+      "url": "https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER"
+    },
+    {
       "added_at": "2024-10-10 23:35:59",
       "album": {
         "name": "You",
@@ -331,22 +347,6 @@
       "duration_ms": 206463,
       "name": "You (feat. Hermanos Guti\u00e9rrez)",
       "url": "https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "The Juice: Vol. II",
-        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Sundays",
-      "url": "https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -477,20 +477,20 @@
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
+      "added_at": "2024-10-10 23:35:59",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
+        "name": "For Sure",
+        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
       },
       "artists": [
         {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 155007,
-      "name": "No Hard Feelings",
-      "url": "https://open.spotify.com/track/6eJaTm3sfYirbFpibBhnRO"
+      "duration_ms": 593346,
+      "name": "For Sure",
+      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
     },
     {
       "added_at": "2026-05-29 08:14:58",
@@ -525,20 +525,20 @@
       "url": "https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
+      "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "For Sure",
-        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 593346,
-      "name": "For Sure",
-      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
+      "duration_ms": 155007,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/6eJaTm3sfYirbFpibBhnRO"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Spiderwebs",
-        "url": "https://open.spotify.com/album/4QtlSNN8B8AxiHEllspqDl"
-      },
-      "artists": [
-        {
-          "name": "Alfie Jukes",
-          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
-        }
-      ],
-      "duration_ms": 153241,
-      "name": "Spiderwebs",
-      "url": "https://open.spotify.com/track/4oISmbyFTnq3VqpSBL6sjJ"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "unposted letters",
         "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 205230,
       "name": "unposted letters",
       "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Spiderwebs",
+        "url": "https://open.spotify.com/album/4QtlSNN8B8AxiHEllspqDl"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "duration_ms": 153241,
+      "name": "Spiderwebs",
+      "url": "https://open.spotify.com/track/4oISmbyFTnq3VqpSBL6sjJ"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "I'll Scream (All the Words)",
-        "url": "https://open.spotify.com/album/0OSl9jJB9FR0GrAvtRhw6A"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 193458,
-      "name": "I'll Scream (All the Words)",
-      "url": "https://open.spotify.com/track/5XennSN9tgLRZTdvhGTrBp"
-    },
-    {
       "added_at": "2024-10-10 23:35:59",
       "album": {
         "name": "A Stranger Desired",
@@ -1247,6 +1231,22 @@
       "duration_ms": 180479,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "I'll Scream (All the Words)",
+        "url": "https://open.spotify.com/album/0OSl9jJB9FR0GrAvtRhw6A"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 193458,
+      "name": "I'll Scream (All the Words)",
+      "url": "https://open.spotify.com/track/5XennSN9tgLRZTdvhGTrBp"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+        "name": "Wisconsin Winter",
+        "url": "https://open.spotify.com/album/7GuMOXneGJMFtrwfYdwqto"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "Laura Alden",
+          "url": "https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J"
         }
       ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+      "duration_ms": 228705,
+      "name": "Wisconsin Winter",
+      "url": "https://open.spotify.com/track/2d1rzqRJjwlul6vMLVWOXS"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Wisconsin Winter",
-        "url": "https://open.spotify.com/album/7GuMOXneGJMFtrwfYdwqto"
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
       "artists": [
         {
-          "name": "Laura Alden",
-          "url": "https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J"
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
         }
       ],
-      "duration_ms": 228705,
-      "name": "Wisconsin Winter",
-      "url": "https://open.spotify.com/track/2d1rzqRJjwlul6vMLVWOXS"
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2024-10-10 23:35:59",

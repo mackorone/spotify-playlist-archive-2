@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 280,
+  "num_followers": 281,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAI1uU59XD5gc0MijXzziiGEUaWzvaC",
+  "snapshot_id": "AAAI2QgSCIEhFoNsFhSZS56VJq/rI8Kx",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -73535,6 +73535,58 @@
       "duration_ms": 221596,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/2vdXi49hSFAo3U5blyTcFl"
+    },
+    {
+      "added_at": "2026-06-09 07:17:14",
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/5MVcKEnoC47BZC5Cy4vGyQ"
+      },
+      "artists": [
+        {
+          "name": "EL TIO ZETTA",
+          "url": "https://open.spotify.com/artist/52prEhuq9zDgQht8UfCLe0"
+        },
+        {
+          "name": "Mala Fama G",
+          "url": "https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY"
+        }
+      ],
+      "duration_ms": 164663,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/6F1gSmB8W8bkQppKxCbvvd"
+    },
+    {
+      "added_at": "2026-06-09 07:17:22",
+      "album": {
+        "name": "Believe me",
+        "url": "https://open.spotify.com/album/32V4BnKEwnMr3QmIObawlA"
+      },
+      "artists": [
+        {
+          "name": "La P\u00faa",
+          "url": "https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "Believe me",
+      "url": "https://open.spotify.com/track/5OTEbscf89tdmjZIsEnxmk"
+    },
+    {
+      "added_at": "2026-06-09 15:06:39",
+      "album": {
+        "name": "Hands of God",
+        "url": "https://open.spotify.com/album/0MmtQzwcyyyfRl0U6Ok6cN"
+      },
+      "artists": [
+        {
+          "name": "Destroy the Moon",
+          "url": "https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt"
+        }
+      ],
+      "duration_ms": 335311,
+      "name": "Hands of God",
+      "url": "https://open.spotify.com/track/3ker5A7IVbjfi5gtjnIE0m"
     }
   ],
   "unique_name": "playlist spotify free",

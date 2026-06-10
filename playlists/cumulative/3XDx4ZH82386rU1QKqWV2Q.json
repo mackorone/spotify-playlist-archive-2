@@ -13497,6 +13497,24 @@
     },
     {
       "album": {
+        "name": "So Bored",
+        "url": "https://open.spotify.com/album/7Hqh61uSXJZKs82AuHxJo2"
+      },
+      "artists": [
+        {
+          "name": "ALLERGi",
+          "url": "https://open.spotify.com/artist/7HTPju4hkpRIxnUY1dZglR"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128391,
+      "name": "So Bored",
+      "url": "https://open.spotify.com/track/1J8Ofo3J2TKVxRincygKbW"
+    },
+    {
+      "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/5pf0HUyJzLJLW7Wv31fGic"
       },

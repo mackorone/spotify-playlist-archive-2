@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "Editor's picks of freshest Pakistani discoveries you need to listen to. Cover: Rizwan Abbas, Maheen Sattar",
+  "description": "Editor's picks of freshest Pakistani discoveries you need to listen to. Cover: Saif Altaf",
   "name": "Fresh Finds Pakistan",
   "tracks": [
     {
@@ -3018,6 +3018,24 @@
       "duration_ms": 145071,
       "name": "Be There For You",
       "url": "https://open.spotify.com/track/0TEFHgy8qPjcjnPsXS6sZm"
+    },
+    {
+      "album": {
+        "name": "Beautiful Scars",
+        "url": "https://open.spotify.com/album/3XnirJHmF1kCCL91QXFpTW"
+      },
+      "artists": [
+        {
+          "name": "Zaidi",
+          "url": "https://open.spotify.com/artist/1lbzsxQ6DwSqEje7lxEhIt"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133094,
+      "name": "Beautiful Scars",
+      "url": "https://open.spotify.com/track/0lEb8xjzCPDl1uqFZfwDf9"
     },
     {
       "album": {
@@ -16040,7 +16058,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 165333,
       "name": "Mutyare",
       "url": "https://open.spotify.com/track/7Fi1hrLmMNf9FJgymzGNH6"
@@ -24480,6 +24498,24 @@
       "duration_ms": 192941,
       "name": "Tripping over !",
       "url": "https://open.spotify.com/track/7sZiVoiQCOsdzdmcJ0tIAx"
+    },
+    {
+      "album": {
+        "name": "Truly Yours",
+        "url": "https://open.spotify.com/album/1SiVJeUlccGD13lDHcL7XD"
+      },
+      "artists": [
+        {
+          "name": "Usman Raees",
+          "url": "https://open.spotify.com/artist/0dKFoVgiPm2YM2c6LH1e6r"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "Truly Yours",
+      "url": "https://open.spotify.com/track/7IjyrXe30f6puyb2OKHOC6"
     },
     {
       "album": {

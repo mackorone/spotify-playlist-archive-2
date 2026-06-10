@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Tuesday Beach Club\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: YongYong\(용용\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,188 songs - 3 day 0 hr 5 min
+1,189 songs - 3 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,6 +639,7 @@
 | [Miracle](https://open.spotify.com/track/3FAmnX3nUGsue2TcNEnq0t) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:43 | 2024-05-09 | 2024-11-07 |
 | [Mirror](https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Mirror](https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws) | 3:34 | 2022-10-28 | 2023-04-29 |
 | [missing my summer](https://open.spotify.com/track/6NwJhFsGnhOEEwnvFaOruj) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [missing my summer](https://open.spotify.com/album/3T2sKp5MhkB4xrA3Ycphwd) | 2:54 | 2022-09-05 | 2022-09-15 |
+| [MOJAVE \(with Kid Wine\)](https://open.spotify.com/track/40cmCV0GHzBSFMtLUnRyE9) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [yynitseD](https://open.spotify.com/album/1NVCVExvnnkWmx47zxYK80) | 3:53 | 2026-06-09 |  |
 | [Monday Blues](https://open.spotify.com/track/3O74E8ISHqNjv8WUp52hlY) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [mYmY](https://open.spotify.com/album/73UpAwWuOaZPUqnsfYOO29) | 3:15 | 2024-03-21 | 2024-05-10 |
 | [Money](https://open.spotify.com/track/5QQoeh536jsmB0ziQsLGni) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Money \(Payback X Jung Dong Ha\)](https://open.spotify.com/album/6yyYl76bm43CSnDUejJwCu) | 3:11 | 2023-01-26 | 2023-02-15 |
 | [Monoamory](https://open.spotify.com/track/43DcjLAWHodB5pyzfJfEAA) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [Saya](https://open.spotify.com/album/7MRJH6oHeOvJqEH4WKWDkU) | 3:41 | 2025-02-05 | 2025-03-18 |
@@ -1017,7 +1018,7 @@
 | [Tipsy On You](https://open.spotify.com/track/0yluJz564NozEcFDQnHELK) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [BREWING LOVE, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6zqPN5cjxTg4lB5Qfve26K) | 2:42 | 2024-11-06 | 2024-12-14 |
 | [To Our Youth](https://open.spotify.com/track/2PFKUY9Fdqwo8GhLGlIB7G) | [KIM TAE RAE](https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ) | [My Youth \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7eZPYsBNDVcH4krQsj0w2H) | 3:49 | 2025-09-22 | 2025-10-07 |
 | [To Reach You](https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [To Reach You](https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P) | 2:38 | 2025-03-06 |  |
-| [To You](https://open.spotify.com/track/7IhuRcUsOXhA0ubGnDCT6Y) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [To You](https://open.spotify.com/album/5MgVtNYKHVTxDfzBglPQXZ) | 3:17 | 2026-06-03 |  |
+| [To You](https://open.spotify.com/track/7IhuRcUsOXhA0ubGnDCT6Y) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [To You](https://open.spotify.com/album/5MgVtNYKHVTxDfzBglPQXZ) | 3:17 | 2026-06-03 | 2026-06-10 |
 | [To\. My First Love](https://open.spotify.com/track/10nSl4tuKAfdHiSPppxrNY) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [LOVECHAPTER](https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ) | 3:30 | 2026-03-09 | 2026-03-17 |
 | [TOGETHER!](https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:06 | 2025-03-17 | 2025-07-24 |
 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 | 2022-07-22 | 2025-12-16 |

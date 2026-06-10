@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Asim Azhar
 
-537 songs - 1 day 4 hr 49 min
+538 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,6 +532,7 @@
 | [Without you](https://open.spotify.com/track/1axBbql8XYuqsagIv6tzza) | [Salem Sandhu](https://open.spotify.com/artist/0Eh7Sz5p4UQ6AfOcFu5f45) | [Without you](https://open.spotify.com/album/3mEFudSj7bQI5shv6eTv6T) | 3:19 | 2024-11-07 | 2025-01-17 |
 | [Wo Noor](https://open.spotify.com/track/3Dl1JUk69O39rSaIllYzzA) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS), [Sajjal Zee](https://open.spotify.com/artist/7eHxcO6Pl6PQMXXwLSeI1E), [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF) | [Wo Noor](https://open.spotify.com/album/5bJ4KT2nA3oE2YNwvcArzI) | 3:27 | 2025-12-19 | 2026-05-08 |
 | [Wo Raat](https://open.spotify.com/track/3d89fiIxQO8byZUogK8EiZ) | [Mic Droppers](https://open.spotify.com/artist/7DJSrBAJ5FEuajULZzWXkp), [Syed Eisa](https://open.spotify.com/artist/3qH8f5NVMDFiYs34U4nztC), [Zohaib Hassan](https://open.spotify.com/artist/03b0DzzggBt55tGsL47X28), [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi) | [Wo Raat](https://open.spotify.com/album/5Gt1HDWLMRAgsEU3EvHdDN) | 4:07 | 2026-05-08 |  |
+| [Woh](https://open.spotify.com/track/1GDJhAiO9tqjMuDWFad0IF) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Woh](https://open.spotify.com/album/2tbamcNG4xK0jKrd1lSzXX) | 3:57 | 2026-06-09 |  |
 | [Woh Ladka](https://open.spotify.com/track/4d6JwfhVEVxF9HvVhjG9yc) | [Shai](https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Woh Ladka](https://open.spotify.com/album/48pPTKLp4pgpTY7foQkfk9) | 2:05 | 2025-03-28 | 2025-09-18 |
 | [woh/she](https://open.spotify.com/track/7mDHv12Oxd24ftJVb7Ow4Y) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Arhum Sameed](https://open.spotify.com/artist/2AQtQ8Q2knILV9y6l8UIks), [Last Night Together](https://open.spotify.com/artist/1PhFI4Prx23h8NAyOSJ77Q) | [woh/she](https://open.spotify.com/album/6odBqN5TOHhVTCj5scH37z) | 3:02 | 2024-11-07 | 2025-01-17 |
 | [Yaad Ayengy](https://open.spotify.com/track/6P1ByybobenHCDNYzCBZ5m) | [Dynaxty](https://open.spotify.com/artist/1Aum5XXhYTIfl41u7sBFco), [ProdByHanan](https://open.spotify.com/artist/02NnzLutNdylnx6uTmNHQM) | [Yaad Ayengy](https://open.spotify.com/album/6p92zBv3Mq2zDUyMFn37pJ) | 2:48 | 2025-12-26 | 2026-05-16 |

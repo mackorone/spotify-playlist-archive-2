@@ -1,6 +1,6 @@
 {
   "description": "Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.",
-  "num_followers": 32964,
+  "num_followers": 32988,
   "original_name": "The Sims Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
+        "name": "Remember That Night?",
+        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Remember That Night?",
+      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
         "name": "PCD",
         "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
-        "name": "Remember That Night?",
-        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Remember That Night?",
-      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Just The Beginning",
-        "url": "https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex"
-      },
-      "artists": [
-        {
-          "name": "Grace VanderWaal",
-          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
-        }
-      ],
-      "duration_ms": 172493,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Holding Onto Strings Better Left To Fray",
         "url": "https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 224067,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Just The Beginning",
+        "url": "https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "duration_ms": 172493,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Bishop Briggs",
-        "url": "https://open.spotify.com/album/3mN4QrBX6pOg0LcdhzT5Bi"
-      },
-      "artists": [
-        {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
-        }
-      ],
-      "duration_ms": 243213,
-      "name": "The Way I Do",
-      "url": "https://open.spotify.com/track/4HXmYG1IR5xduvxTnr7fAp"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Flyleaf",
         "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Bishop Briggs",
+        "url": "https://open.spotify.com/album/3mN4QrBX6pOg0LcdhzT5Bi"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "duration_ms": 243213,
+      "name": "The Way I Do",
+      "url": "https://open.spotify.com/track/4HXmYG1IR5xduvxTnr7fAp"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Laura Palmer",
-      "url": "https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Last Young Renegade",
         "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 224946,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/3aAoy02NwrmZcqXYYjqNh2"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Laura Palmer",
+      "url": "https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Dang",
-        "url": "https://open.spotify.com/album/2pahZPfd9RrI1zO8fY6qqv"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 202596,
-      "name": "Dang",
-      "url": "https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Dirty Work",
         "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 209933,
       "name": "Time-Bomb",
       "url": "https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Dang",
+        "url": "https://open.spotify.com/album/2pahZPfd9RrI1zO8fY6qqv"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 202596,
+      "name": "Dang",
+      "url": "https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp"
-      },
-      "artists": [
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
-      "duration_ms": 256874,
-      "name": "Explorers",
-      "url": "https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "BREAD",
         "url": "https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 279591,
       "name": "Perfect Someone",
       "url": "https://open.spotify.com/track/4xmAEAbMldER7mz8DnFk1b"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 256874,
+      "name": "Explorers",
+      "url": "https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac"
     },
     {
       "added_at": "2026-02-13 19:31:47",

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-859 songs - 1 day 18 hr 36 min
+860 songs - 1 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Immortal \(feat\. Josh Rubin\)](https://open.spotify.com/track/2RdwrJkx3swffe5ylzvfKR) | [CITYWLKR](https://open.spotify.com/artist/37195HH4Ces0cQkYr4rSCU), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Immortal \(feat\. Josh Rubin\)](https://open.spotify.com/album/3OqnZbyxed8WsO2D1wlEUj) | 4:30 | 2023-04-14 | 2023-08-10 |
 | [In Bonfires Green](https://open.spotify.com/track/0fBsWX8BBEibjZutjIKQpI) | [Psylla](https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8) | [In Bonfires Green](https://open.spotify.com/album/3zIWr5HZdX2G1JEmOCt9by) | 3:32 | 2024-04-30 | 2024-11-20 |
 | [In My Head](https://open.spotify.com/track/1NK0ypmETjEOrPa14AkwTv) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [In My Head](https://open.spotify.com/album/4Mf0mMMSrcaZWoLvG5u0Rc) | 3:08 | 2022-04-01 | 2023-04-28 |
+| [IN MY HEAD](https://open.spotify.com/track/3qrLEiCbnG6oXeLeiPG1CB) | [SFRNG](https://open.spotify.com/artist/0PkBrqmi8Ma9hmKD0hB2W2), [SOVAGI](https://open.spotify.com/artist/6KH70BaOV5XPLKOufc83eN), [Aizu](https://open.spotify.com/artist/6tAUpk1pE9QXUrDSMbPn81) | [IN MY HEAD](https://open.spotify.com/album/52fwmtWqVz4nxVhg4gzNgO) | 2:31 | 2026-06-09 |  |
 | [Indecisive](https://open.spotify.com/track/6cflobyhOe9JT0AMCPr58z) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH) | [Indecisive](https://open.spotify.com/album/0fAyvEOFvQA2FcYxr9ftpz) | 3:34 | 2023-07-28 | 2023-08-28 |
 | [Indifferent](https://open.spotify.com/track/2r5Vi46hcW5BZxkyFYlpPu) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Vision](https://open.spotify.com/album/4jSTCSMwtEbQXVkJmY0M5p) | 3:00 | 2023-02-17 | 2023-08-10 |
 | [INDUSTRY KISS](https://open.spotify.com/track/1AmCPbQLCXici8sT4AIt4S) | [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX), [HRXSTAL](https://open.spotify.com/artist/3TU2ypJAzSbPvuyH54Y8Xu) | [INDUSTRY KISS](https://open.spotify.com/album/6ZqC238m819xm9mxWtvF2h) | 1:31 | 2025-10-09 |  |

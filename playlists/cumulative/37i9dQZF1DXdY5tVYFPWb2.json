@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 240205,
       "name": "City Girl",
       "url": "https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q"
@@ -2260,6 +2260,24 @@
       "duration_ms": 262173,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/50i1WB0sZuvrAwr7pTW3MB"
+    },
+    {
+      "album": {
+        "name": "Deja-vu",
+        "url": "https://open.spotify.com/album/7jcNtagY3SxbU1fEz8qgUQ"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255866,
+      "name": "Deja-vu",
+      "url": "https://open.spotify.com/track/7J9I6C6AE9XPbhfYUwamjf"
     },
     {
       "album": {
@@ -11289,6 +11307,24 @@
     },
     {
       "album": {
+        "name": "In Your Trust",
+        "url": "https://open.spotify.com/album/4gUcCJgK5fyJdYMQeDqvG5"
+      },
+      "artists": [
+        {
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/7dTxvAT5Fvc6yKan2zNaU7"
+    },
+    {
+      "album": {
         "name": "Pretty Penny: Hitomi Tohyama the Best & Rare",
         "url": "https://open.spotify.com/album/42rKFXGDHs2PWY2L9kVaEO"
       },
@@ -12302,7 +12338,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 226762,
       "name": "YOWANOTSUKI",
       "url": "https://open.spotify.com/track/4ibupLr4YYsixGxOCLhbmF"

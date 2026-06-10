@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Nduduzo Makhathini
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,614 likes - 100 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,644 likes - 100 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 5 | [Blue Train](https://open.spotify.com/track/1IrN8tRAaOVgfPYalUYs0U) | [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Universal Truth](https://open.spotify.com/album/5JguHYfSLjVomb3nAwP5Lm) | 4:37 |
 | 6 | [Identity Song](https://open.spotify.com/track/723ggB6tplz5Jjwx0Plz6j) | [Terri Lyne Carrington](https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP), [Michael Mayo](https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB), [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv), [Social Science](https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx), [Matthew Stevens](https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa), [Morgan Guerin](https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d) | [Identity Song](https://open.spotify.com/album/3o6ycGYsl4KNJ50mpRgVga) | 4:41 |
 | 7 | [working class musicians](https://open.spotify.com/track/0DaS0fBIDsMhFVblStvFJS) | [aja monet](https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF) | [the color of rain](https://open.spotify.com/album/1UOnv9kNRxCm5v814qTjI4) | 4:25 |
-| 8 | [Eternal Child](https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Eternal Child](https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm) | 5:07 |
+| 8 | [Eternal Child](https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Itay Simhocih](https://open.spotify.com/artist/5Vi3MtvSHAOgsBLuWXuigF), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Eternal Child](https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm) | 5:07 |
 | 9 | [Chi Ave/A Love Letter To Salvador](https://open.spotify.com/track/1LWMeSQAQwxQMU5iliTVWc) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [Chi Ave/A Love Letter To Salvador](https://open.spotify.com/album/2i4B2yQ4EOv0xjjNAwNUww) | 4:41 |
 | 10 | [First Song](https://open.spotify.com/track/2t3HFsxdM5liMav1TQIE1m) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT), [Asante Santi Debriano](https://open.spotify.com/artist/1AdgjVEMk6jR2OA3Mc5QT3), [Will Calhoun](https://open.spotify.com/artist/03Fr2b89fbLWKq5skHknPV) | [Paramount Quartet](https://open.spotify.com/album/17ACl4xvmRJAPgjcBJEPmh) | 7:24 |
 | 11 | [Pursuance](https://open.spotify.com/track/0adIBPfUdFtCT2cEuHt0px) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Pursuance](https://open.spotify.com/album/7nCIpXXl5aa0nZLbguWyNf) | 5:22 |

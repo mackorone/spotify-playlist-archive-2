@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXe9UYa8hql9y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe9UYa8hql9y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXe9UYa8hql9y)
 
-### [La Peda ](https://open.spotify.com/playlist/37i9dQZF1DXe9UYa8hql9y)
+### [El Tercer Tiempo ](https://open.spotify.com/playlist/37i9dQZF1DXe9UYa8hql9y)
 
-> puro rolón para amanecer y seguirla
+> El tercer tiempo se juega con compas y cheves
 
 769 songs - 1 day 17 hr 10 min
 

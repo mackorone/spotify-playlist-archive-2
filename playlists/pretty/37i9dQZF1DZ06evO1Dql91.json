@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 2708,
+  "num_followers": 2713,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAAAEL0epAL6JqdyDtxApyRwG",
+  "snapshot_id": "aiYGAAAAAAA9SgTjvl0xaSqdDSxDykVp",
   "tracks": [
     {
       "added_at": null,
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 171869,
-      "name": "Hater's Anthem",
-      "url": "https://open.spotify.com/track/1wipegfMZkHgwyR3XMDuJ1"
+      "duration_ms": 270314,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 270314,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7"
+      "duration_ms": 171869,
+      "name": "Hater's Anthem",
+      "url": "https://open.spotify.com/track/1wipegfMZkHgwyR3XMDuJ1"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 269909,
-      "name": "Love Is Watching",
-      "url": "https://open.spotify.com/track/65xhNReVnrQevKNnC3xgbm"
+      "duration_ms": 234356,
+      "name": "Raindrops Keep Falling On My Head",
+      "url": "https://open.spotify.com/track/4PFh0a7r03jCNHtj69mvA3"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 234356,
-      "name": "Raindrops Keep Falling On My Head",
-      "url": "https://open.spotify.com/track/4PFh0a7r03jCNHtj69mvA3"
+      "duration_ms": 269909,
+      "name": "Love Is Watching",
+      "url": "https://open.spotify.com/track/65xhNReVnrQevKNnC3xgbm"
     },
     {
       "added_at": null,

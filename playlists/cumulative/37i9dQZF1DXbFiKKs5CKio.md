@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-193 songs - 10 hr 51 min
+194 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Eu Te Entendo](https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Eu Te Entendo](https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev) | 2:37 | 2025-08-01 | 2026-05-08 |
 | [Falando Dela 2](https://open.spotify.com/track/1ebphlBWJHENEs1StX3FYP) | [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR), [Mc Maha](https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU) | [Falando Dela 2](https://open.spotify.com/album/68pf9T0gTuRSDWO9rdCjaF) | 2:02 | 2023-09-15 | 2023-12-16 |
 | [Filho do Soul](https://open.spotify.com/track/0GyYORKftax285LSmzF2oA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [Lovro](https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF) | [Filho do Soul](https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI) | 4:00 | 2024-01-26 | 2025-06-14 |
+| [Fim…](https://open.spotify.com/track/44AB55f9QlY6BLwtjNJ6FS) | [Trivia](https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g) | [MOMENTUM](https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx) | 3:40 | 2026-06-09 |  |
 | [Final \- Ao Vivo](https://open.spotify.com/track/55WX9xWKtq43Ee22IE7KPA) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [Macaco Gordo](https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9) | [Joyce Alane Ao Vivo na Macaco Gordo](https://open.spotify.com/album/31u9EIWTs32kTxnw4eg6NG) | 3:12 | 2023-12-22 | 2024-02-24 |
 | [Fiquei assim](https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Fiquei assim](https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN) | 3:38 | 2026-03-01 |  |
 | [Flor](https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK) | [DROKI](https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op) | [Flor](https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N) | 2:34 | 2024-03-01 | 2025-08-02 |
@@ -142,7 +143,7 @@
 | [PornStar](https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [P★RN STAR](https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M) | 3:08 | 2024-12-13 | 2025-09-20 |
 | [PORTAIS](https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4), [Amanda Magno](https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R) | [30ºC](https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE) | 2:40 | 2024-03-01 | 2026-03-02 |
 | [Pouco a Pouco](https://open.spotify.com/track/2XpLF91lmKXTduqNIAhsqe) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Os Garotin Session](https://open.spotify.com/album/1TmShjmZqjOqvhCbma8B4s) | 2:51 | 2023-09-15 | 2023-12-16 |
-| [Psicodelicia](https://open.spotify.com/track/0pHfXPGNMXytLdG3KOr13A) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR), [TALI](https://open.spotify.com/artist/2lI73BmF57aKMznK2wcy50) | [Cósmica](https://open.spotify.com/album/6YY5CRd5X2pp21SC6YYCcr) | 4:35 | 2025-12-15 |  |
+| [Psicodelicia](https://open.spotify.com/track/0pHfXPGNMXytLdG3KOr13A) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR), [TALI](https://open.spotify.com/artist/2lI73BmF57aKMznK2wcy50) | [Cósmica](https://open.spotify.com/album/6YY5CRd5X2pp21SC6YYCcr) | 4:35 | 2025-12-15 | 2026-06-10 |
 | [Pulando](https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c) | [Pulando](https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN) | 2:44 | 2023-09-15 | 2024-07-27 |
 | [Pânico](https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Pânico](https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5) | 3:03 | 2023-10-27 | 2025-03-02 |
 | [Pôr Do Sol](https://open.spotify.com/track/5qTFpdZGb94SFWQ7AFqYPt) | [Carol Olly](https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Pôr Do Sol](https://open.spotify.com/album/1I0fKlFwD13sGC8kHQ77lS) | 2:31 | 2023-12-15 | 2024-02-03 |

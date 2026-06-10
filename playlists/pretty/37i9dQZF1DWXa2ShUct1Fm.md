@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,463 likes - 235 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,457 likes - 235 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 22 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SECTOR 17](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 |
 | 23 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 |
 | 24 | [Pretty U](https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [FIRST 'LOVE&LETTER'](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) | 3:27 |
-| 25 | [CLAP](https://open.spotify.com/track/19t5GSN3XsLB7UOsZD8Fwv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 2:47 |
+| 25 | [CLAP](https://open.spotify.com/track/19t5GSN3XsLB7UOsZD8Fwv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 2:47 |
 | 26 | [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 |
 | 27 | [HOME;RUN](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:04 |
 | 28 | [Oh My!](https://open.spotify.com/track/4JViGq60SvqtQXI3WK0OLS) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:15 |
@@ -173,13 +173,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 163 | [Hug](https://open.spotify.com/track/5ZQFP6rsYhNaFuQNaoTzgV) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 2:39 |
 | 164 | [Just do it](https://open.spotify.com/track/57ITlzpnOMkSE6oHGbvTqi) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS Digital Single 'Just do it'](https://open.spotify.com/album/7cL58mAH0Cs8giOqRNEjQP) | 3:21 |
 | 165 | [Lie Again](https://open.spotify.com/track/3LUwHkWsx9iljzZyqwWBHc) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/4btxaakgIaE1AkXqpReLwd) | 3:20 |
-| 166 | [TRAUMA](https://open.spotify.com/track/6MEsfQJ5ZpO1WozVfsVDzZ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:33 |
+| 166 | [TRAUMA](https://open.spotify.com/track/6MEsfQJ5ZpO1WozVfsVDzZ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:33 |
 | 167 | [乌鸦](https://open.spotify.com/track/6b8uuOryGyZt9K3ELL3TjB) | [JUN](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [寂寞号登机口](https://open.spotify.com/album/4h6gy2C01BXJWsD3KuZFod) | 5:02 |
 | 168 | [Q&A](https://open.spotify.com/track/1pHCzbRvRFg59Kvc7WHckN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Q&A](https://open.spotify.com/album/4qpCDSbJiez1wPcplEv2ET) | 3:40 |
 | 169 | [9\-TEEN](https://open.spotify.com/track/5G5MW3CIQ26AV08Yl7UV6m) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [A\-TEEN2 Part.2](https://open.spotify.com/album/3U2CtLGvuiukljwO8rPoVk) | 3:17 |
-| 170 | [Pinwheel](https://open.spotify.com/track/2NvrIHgujKttUQyx2uUMY9) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:39 |
-| 171 | [Flower](https://open.spotify.com/track/3wIDLZ8nEHeyxSrVJsD6tv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:27 |
-| 172 | [CHANGE UP](https://open.spotify.com/track/6j6wUN8whCYTwxCg9R240U) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:07 |
+| 170 | [Pinwheel](https://open.spotify.com/track/2NvrIHgujKttUQyx2uUMY9) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:39 |
+| 171 | [Flower](https://open.spotify.com/track/3wIDLZ8nEHeyxSrVJsD6tv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:27 |
+| 172 | [CHANGE UP](https://open.spotify.com/track/6j6wUN8whCYTwxCg9R240U) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:07 |
 | 173 | [Second Life](https://open.spotify.com/track/0z61b7EngKaghmnCqzpXsp) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/4btxaakgIaE1AkXqpReLwd) | 3:22 |
 | 174 | [Go](https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Record of Youth \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU) | 3:33 |
 | 175 | [Shining Diamond](https://open.spotify.com/track/4BHThgh4ODCszIJ6e4YGGw) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [17 CARAT](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:23 |
@@ -190,12 +190,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 180 | [SWEETEST THING](https://open.spotify.com/track/3XFlKoTOgfMzUJmpwFp0ri) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Chocolate,Pt.1\(Original Television Soundtrack\)](https://open.spotify.com/album/6yUiH6Ny04UXYdGtkTQOUL) | 3:38 |
 | 181 | [Don't listen in secret](https://open.spotify.com/track/01bnqaE6nQogjdMMrrL1dj) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Going Seventeen](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:57 |
 | 182 | [A\-TEEN](https://open.spotify.com/track/5P0Uo1LqAgvFuxabQMe81X) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [A\-TEEN Part.3](https://open.spotify.com/album/62kX5esOPtWPjfCbT7tQwb) | 3:16 |
-| 183 | [ROCKET](https://open.spotify.com/track/3o83eepKSAqhA2pkdxXCkL) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:08 |
+| 183 | [ROCKET](https://open.spotify.com/track/3o83eepKSAqhA2pkdxXCkL) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:08 |
 | 184 | [BEAUTIFUL](https://open.spotify.com/track/0fK4XOE0TjcXOcMezZtncZ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Going Seventeen](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:37 |
 | 185 | [Crazy in Love](https://open.spotify.com/track/1EbXVXelBudLyGasyGj7Ot) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Al1](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:35 |
 | 186 | [NO F.U.N](https://open.spotify.com/track/3VIWAghaRZzHA1HsQH7EwD) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:01 |
 | 187 | [Still Lonely](https://open.spotify.com/track/5KndefUfeQhGoYCluAaDWj) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [FIRST 'LOVE&LETTER'](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) | 3:26 |
-| 188 | [BRING IT](https://open.spotify.com/track/047A83COIzAFLcZKLz20MP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:31 |
+| 188 | [BRING IT](https://open.spotify.com/track/047A83COIzAFLcZKLz20MP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:31 |
 | 189 | [MY I](https://open.spotify.com/track/0y3KqHpaqKhkHMM50HTeQy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Al1](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:04 |
 | 190 | [Smile Flower](https://open.spotify.com/track/054sQZ2qmw0Ya7N0XSxl3j) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Going Seventeen](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:52 |
 | 191 | [Dream \- 电视剧《永远的主君》原声音乐](https://open.spotify.com/track/2FpI3GCkEQOT40yuAvMj7r) | [JUN](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [Dream \(电视剧《永远的主君》原声音乐\)](https://open.spotify.com/album/6uZJqScXXaPx8gElI3nMzJ) | 4:03 |
@@ -208,12 +208,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 198 | [Lucky](https://open.spotify.com/track/4U1tSjwx6FjV27EcXCE9d3) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/4btxaakgIaE1AkXqpReLwd) | 3:17 |
 | 199 | [MOONWALKER](https://open.spotify.com/track/228kirGitpXyy0zD8mhrtp) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:00 |
 | 200 | [Healing](https://open.spotify.com/track/1nyzf00hpVfBkHlZSVJuky) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:23 |
-| 201 | [Lilili Yabbay](https://open.spotify.com/track/55M6WlPDc8WID9UcmWjbYM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:31 |
+| 201 | [Lilili Yabbay](https://open.spotify.com/track/55M6WlPDc8WID9UcmWjbYM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:31 |
 | 202 | [20](https://open.spotify.com/track/30KwJprbzKR4uXLKEG8dMM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [17 CARAT](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:23 |
 | 203 | [Back it up](https://open.spotify.com/track/4pN9w7hR7aJfLggCeeEzfA) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/4btxaakgIaE1AkXqpReLwd) | 3:07 |
 | 204 | [IF I](https://open.spotify.com/track/0JPyJEA13qkSemzWS3tOs1) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Al1](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:09 |
 | 205 | [Chilli](https://open.spotify.com/track/3uu2pifU1Cpc1U61XgaT8g) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:03 |
-| 206 | [Hello](https://open.spotify.com/track/7snRPf9l4LRCMV3hD8WD3W) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:20 |
+| 206 | [Hello](https://open.spotify.com/track/7snRPf9l4LRCMV3hD8WD3W) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:20 |
 | 207 | [Shhh](https://open.spotify.com/track/3XI0t7rD8t7alUaC9bxKsb) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:06 |
 | 208 | [Love Letter](https://open.spotify.com/track/5UZJPEEup9UVUojRKXcv0f) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [FIRST 'LOVE&LETTER'](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) | 2:58 |
 | 209 | [Lean On Me](https://open.spotify.com/track/25jVJDgG9Nv0jFIIPeb0c7) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Going Seventeen](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:24 |

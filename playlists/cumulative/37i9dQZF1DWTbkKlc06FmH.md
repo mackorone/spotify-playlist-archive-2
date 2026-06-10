@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,249 songs - 3 day 1 hr 36 min
+1,250 songs - 3 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Borderline](https://open.spotify.com/track/03tStx7GgZwnV9Bx4Yq9eJ) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [Borderline](https://open.spotify.com/album/4k26zD7yjOUdQnre8X4Bbo) | 3:57 | 2024-07-03 | 2024-07-13 |
 | [Born Leader](https://open.spotify.com/track/6tgW4WT1IUnKKbUATVcZfm) | [Stig da Artist](https://open.spotify.com/artist/7sEmKnf9Wp6NPOpMniFYpD), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Davido](https://open.spotify.com/artist/1ALSdJg7rTlST5DIOjDO8b) | [Born Leader](https://open.spotify.com/album/6K8Gng28hRABEDohP2TkRw) | 4:07 | 2023-04-20 | 2023-05-10 |
 | [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 | 2026-05-09 |  |
-| [boy that's loving you](https://open.spotify.com/track/3zuhn8OqdMQFjrQdlZJ5Hw) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [boy that's loving you](https://open.spotify.com/album/1wjkQnmMpbXyNkMJjmmLgW) | 3:04 | 2026-05-01 |  |
+| [boy that's loving you](https://open.spotify.com/track/3zuhn8OqdMQFjrQdlZJ5Hw) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [boy that's loving you](https://open.spotify.com/album/1wjkQnmMpbXyNkMJjmmLgW) | 3:04 | 2026-05-01 | 2026-06-10 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-02 | 2023-12-08 |
 | [Brainstorm](https://open.spotify.com/track/07qtSLcfDBeajxXXkfM5I9) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Brainstorm](https://open.spotify.com/album/3vBpkh0Y4G8g8ff8Z1GrDJ) | 3:15 | 2025-03-11 | 2025-03-27 |
 | [Branches](https://open.spotify.com/track/6FvsyhWILM1Z8EGvzJxM2w) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/4GryMwKLBFPuUHnLlk85k2) | 4:33 | 2023-07-11 | 2023-08-11 |
@@ -836,6 +836,7 @@
 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-20 | 2023-10-06 |
 | [Sad Makeup](https://open.spotify.com/track/74eE402hFv13hLBw5iPQds) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 3:50 | 2025-01-21 | 2025-03-19 |
 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 | 2024-02-15 | 2024-04-17 |
+| [sailing](https://open.spotify.com/track/3Yp4Z4UhD7ymJiX83RgoGm) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [sailing](https://open.spotify.com/album/73IJUW7XGzL2B8HMCKY39I) | 4:04 | 2026-05-30 |  |
 | [Salt](https://open.spotify.com/track/5yaek2XIbhZjsrl0yCAITG) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [磯野くん](https://open.spotify.com/artist/48UwOs44kquyWN7FoUZCTG) | [Salt](https://open.spotify.com/album/2RHhwut0QHcYyd1Dwf9SFE) | 3:26 | 2024-05-01 | 2024-06-04 |
 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 | 2024-05-17 | 2024-08-04 |
 | [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 | 2024-07-24 | 2024-10-13 |

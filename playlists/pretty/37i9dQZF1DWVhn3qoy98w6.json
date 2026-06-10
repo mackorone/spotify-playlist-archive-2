@@ -1,15 +1,47 @@
 {
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Aldhara.",
-  "num_followers": 16986,
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: duna.",
+  "num_followers": 16987,
   "original_name": "Fresh Finds Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOGTNcOGlTdHIITZoGJkYjjWMhSV",
+  "snapshot_id": "AAAAAF9cezcKxh/TC6DDIjSS6ddooWPK",
   "tracks": [
     {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "vestido/ auroville",
+        "url": "https://open.spotify.com/album/2zzYiGSW3LFL3jwr8nieiO"
+      },
+      "artists": [
+        {
+          "name": "duna",
+          "url": "https://open.spotify.com/artist/0QBq4NHGKMy6Tztcsc30kz"
+        }
+      ],
+      "duration_ms": 83999,
+      "name": "vestido",
+      "url": "https://open.spotify.com/track/1TO9JMeQotGUuRk0aMUUUU"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "saudade do embruxo",
+        "url": "https://open.spotify.com/album/2FRlhLAlahowUhLeL2UhT0"
+      },
+      "artists": [
+        {
+          "name": "d.dram\u00e1tico",
+          "url": "https://open.spotify.com/artist/16r4uM9iMu5Td76JkbzpK3"
+        }
+      ],
+      "duration_ms": 128437,
+      "name": "saudade do embruxo",
+      "url": "https://open.spotify.com/track/4l5miDI9KzZ3VjejX8QRQy"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "LOS QUE GANAN",
         "url": "https://open.spotify.com/album/1FbpvhOgtRctUAhnUxBz5y"
@@ -25,23 +57,71 @@
       "url": "https://open.spotify.com/track/4zVdwJwtPzwRbwDMjVAtfV"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
-        "name": "Eres un Criminal",
-        "url": "https://open.spotify.com/album/1lOGbn8QN7F0k0Qym9Lmmm"
+        "name": "MIENTE",
+        "url": "https://open.spotify.com/album/6cbDmQjt67F2rJaxfPsLxs"
       },
       "artists": [
         {
-          "name": "Tristicis",
-          "url": "https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9"
+          "name": "Ana Farelo",
+          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
         }
       ],
-      "duration_ms": 209454,
-      "name": "Eres un Criminal",
-      "url": "https://open.spotify.com/track/2Pa22PUyNtcChB5W5Cr0vr"
+      "duration_ms": 171200,
+      "name": "MIENTE",
+      "url": "https://open.spotify.com/track/5JT5DRdBlt5f2yBpis5JLC"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "Nomikai",
+        "url": "https://open.spotify.com/album/6IeLpjTOzthFfx2rqMwdZN"
+      },
+      "artists": [
+        {
+          "name": "For Your Information",
+          "url": "https://open.spotify.com/artist/4RUCfsKZRI6fbG14biFCQ9"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Nomikai",
+      "url": "https://open.spotify.com/track/40rAnA2FXVMZPCFl840hLC"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "Lento aposta",
+        "url": "https://open.spotify.com/album/4buqPRM9fat2l3bTa58Xc3"
+      },
+      "artists": [
+        {
+          "name": "SanIsidro",
+          "url": "https://open.spotify.com/artist/5s9nhiOTtOYu61Xnwy6175"
+        }
+      ],
+      "duration_ms": 207547,
+      "name": "Una se\u00f1al",
+      "url": "https://open.spotify.com/track/1vZwJbowaH7qxo5Wu0ULQp"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "La hoz",
+        "url": "https://open.spotify.com/album/5B9JaX3Fppf0SB7LMA9cSR"
+      },
+      "artists": [
+        {
+          "name": "La Jvnta",
+          "url": "https://open.spotify.com/artist/1wHptSDgqHuIBNzx5YbdkH"
+        }
+      ],
+      "duration_ms": 235693,
+      "name": "La hoz",
+      "url": "https://open.spotify.com/track/7wXcqW74B513TwuuxDXskg"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "De M\u00ed",
         "url": "https://open.spotify.com/album/7zkUfmoriLrBjeocAxuud3"
@@ -57,7 +137,135 @@
       "url": "https://open.spotify.com/track/1EWXpUQSPpkJjQYkliZl0t"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "Delante del espejo",
+        "url": "https://open.spotify.com/album/3HW9XGz2GyEIDFDwYXOLvY"
+      },
+      "artists": [
+        {
+          "name": "Amor L\u00edquido",
+          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
+        }
+      ],
+      "duration_ms": 147520,
+      "name": "Delante del espejo",
+      "url": "https://open.spotify.com/track/4gCt1NuVYzjUhweirUcGZL"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "Espejito espejito",
+        "url": "https://open.spotify.com/album/1qUOfmhKltvfzgMmVxsTKN"
+      },
+      "artists": [
+        {
+          "name": "BARIRI",
+          "url": "https://open.spotify.com/artist/7EI5ggCJHETX3cWcqtQR2F"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Espejito espejito",
+      "url": "https://open.spotify.com/track/0usBL5asJPsE0My9HeJs2C"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "Internet",
+        "url": "https://open.spotify.com/album/5vh8Ubqs6pALqA4GADbc3w"
+      },
+      "artists": [
+        {
+          "name": "Jordi Ganchitos",
+          "url": "https://open.spotify.com/artist/5844W7yidUo05iQtYOZreA"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Internet",
+      "url": "https://open.spotify.com/track/1EsxAmIRqlLEQxEMpkoKN9"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/24jtIyXNRlNMd3Jaw5VNEy"
+      },
+      "artists": [
+        {
+          "name": "Boyanka Kostova",
+          "url": "https://open.spotify.com/artist/1t9FF9ollviXoPRU4aMi4B"
+        }
+      ],
+      "duration_ms": 162596,
+      "name": "Acaso esto \u00e9 un crime",
+      "url": "https://open.spotify.com/track/5Qz5kV7tWI5Qyy1rVVA2Yt"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "Carrera Blanca",
+        "url": "https://open.spotify.com/album/0IIH3YfwS5m4l1Zws7h3nb"
+      },
+      "artists": [
+        {
+          "name": "Carrera Blanca",
+          "url": "https://open.spotify.com/artist/1CblMuBc43MMvYdWAwAL0A"
+        }
+      ],
+      "duration_ms": 231470,
+      "name": "Lo que pasa es que te quiero",
+      "url": "https://open.spotify.com/track/374PmixVPNTLirUs2g4leT"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "Mi deseo es transparente",
+        "url": "https://open.spotify.com/album/55GNxa9xWuS5TJFjRnB7fL"
+      },
+      "artists": [
+        {
+          "name": "Elena Carat",
+          "url": "https://open.spotify.com/artist/4F7tG90z3UVK5jSItq3GbM"
+        }
+      ],
+      "duration_ms": 201490,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/6NvyNlnRhvh6zGXDcooKHH"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "P\u00e1jaro de plata",
+        "url": "https://open.spotify.com/album/3H6DzNy1Ui0r072fqXm3Yc"
+      },
+      "artists": [
+        {
+          "name": "Las Nietas del Charli",
+          "url": "https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS"
+        }
+      ],
+      "duration_ms": 343316,
+      "name": "P\u00e1jaro de plata",
+      "url": "https://open.spotify.com/track/1wyS23ca4ftuz7ya46zbRa"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "kascov",
+        "url": "https://open.spotify.com/album/19iySh44LmSxj104KyQ9G8"
+      },
+      "artists": [
+        {
+          "name": "duna",
+          "url": "https://open.spotify.com/artist/0QBq4NHGKMy6Tztcsc30kz"
+        }
+      ],
+      "duration_ms": 102797,
+      "name": "kascov",
+      "url": "https://open.spotify.com/track/6u4C0zTLKiqW1ccpqeSTmI"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "A Jap\u00f3n",
         "url": "https://open.spotify.com/album/0og031W0xirI4ZYcxyNhxx"
@@ -77,87 +285,23 @@
       "url": "https://open.spotify.com/track/2TG0Ih59AmeZ5fwzOnpOIR"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
-        "name": "vestido/ auroville",
-        "url": "https://open.spotify.com/album/2zzYiGSW3LFL3jwr8nieiO"
+        "name": "Eres un Criminal",
+        "url": "https://open.spotify.com/album/1lOGbn8QN7F0k0Qym9Lmmm"
       },
       "artists": [
         {
-          "name": "duna",
-          "url": "https://open.spotify.com/artist/0QBq4NHGKMy6Tztcsc30kz"
+          "name": "Tristicis",
+          "url": "https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9"
         }
       ],
-      "duration_ms": 83999,
-      "name": "vestido",
-      "url": "https://open.spotify.com/track/1TO9JMeQotGUuRk0aMUUUU"
+      "duration_ms": 209454,
+      "name": "Eres un Criminal",
+      "url": "https://open.spotify.com/track/2Pa22PUyNtcChB5W5Cr0vr"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/6cWoNw2eq1qfByj4WNGUAj"
-      },
-      "artists": [
-        {
-          "name": "Blu Boi",
-          "url": "https://open.spotify.com/artist/1AQkOwrwQg43nUandgPhAK"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/3d1o888aJYCCOltqv78tiY"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Seppuku",
-        "url": "https://open.spotify.com/album/5sF4guHoZiYN3scq78ZsLX"
-      },
-      "artists": [
-        {
-          "name": "ron deris",
-          "url": "https://open.spotify.com/artist/14DFX519JNunFcVaKQyVS0"
-        }
-      ],
-      "duration_ms": 150573,
-      "name": "Seppuku",
-      "url": "https://open.spotify.com/track/4X7o1MGlgzdUTXKOKWLzjV"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Nomikai",
-        "url": "https://open.spotify.com/album/6IeLpjTOzthFfx2rqMwdZN"
-      },
-      "artists": [
-        {
-          "name": "For Your Information",
-          "url": "https://open.spotify.com/artist/4RUCfsKZRI6fbG14biFCQ9"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Nomikai",
-      "url": "https://open.spotify.com/track/40rAnA2FXVMZPCFl840hLC"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Nomeolvides",
-        "url": "https://open.spotify.com/album/4xMft4DKbgB9mRydUWljZm"
-      },
-      "artists": [
-        {
-          "name": "La Jvnta",
-          "url": "https://open.spotify.com/artist/1wHptSDgqHuIBNzx5YbdkH"
-        }
-      ],
-      "duration_ms": 184907,
-      "name": "Nomeolvides",
-      "url": "https://open.spotify.com/track/24SIM2FUVu3uypRzZyd5UW"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "Perd\u00f3name",
         "url": "https://open.spotify.com/album/3qqshs6hEzG3ctvQex6PPX"
@@ -173,7 +317,7 @@
       "url": "https://open.spotify.com/track/7qfpOs26TQqEvYtZj58nUG"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "Fotos y Postales",
         "url": "https://open.spotify.com/album/6eRHk2xl0kmjDr65j7cGvQ"
@@ -189,7 +333,7 @@
       "url": "https://open.spotify.com/track/6zjIR1LRnRYTEnZAvLAHKH"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "D\u00edmelo t\u00fa",
         "url": "https://open.spotify.com/album/0Az3kCjSp0d2pCa9amft8A"
@@ -205,23 +349,7 @@
       "url": "https://open.spotify.com/track/5b5QcAdQZHvSZeBQUxwnH3"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Co-op",
-        "url": "https://open.spotify.com/album/7gtjysOZdtkLuNpEwBFgbH"
-      },
-      "artists": [
-        {
-          "name": "caracazador",
-          "url": "https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca"
-        }
-      ],
-      "duration_ms": 156671,
-      "name": "Co-op",
-      "url": "https://open.spotify.com/track/11V4FtQ6ST6SNi6IIGprmH"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "Cortinahogar",
         "url": "https://open.spotify.com/album/1DLnU5md5HjN9TIJYHND2w"
@@ -237,7 +365,7 @@
       "url": "https://open.spotify.com/track/5P0rEPTyEfkde6KKkZ744v"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "Voy a pensar en ti",
         "url": "https://open.spotify.com/album/5O5U9NiREQzAKpGESoDwwi"
@@ -257,87 +385,7 @@
       "url": "https://open.spotify.com/track/3BxumdSbGvlkrrlCXdTmb8"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Mi deseo es transparente",
-        "url": "https://open.spotify.com/album/55GNxa9xWuS5TJFjRnB7fL"
-      },
-      "artists": [
-        {
-          "name": "Elena Carat",
-          "url": "https://open.spotify.com/artist/4F7tG90z3UVK5jSItq3GbM"
-        }
-      ],
-      "duration_ms": 201490,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/6NvyNlnRhvh6zGXDcooKHH"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Delante del espejo",
-        "url": "https://open.spotify.com/album/3HW9XGz2GyEIDFDwYXOLvY"
-      },
-      "artists": [
-        {
-          "name": "Amor L\u00edquido",
-          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
-        }
-      ],
-      "duration_ms": 147520,
-      "name": "Delante del espejo",
-      "url": "https://open.spotify.com/track/4gCt1NuVYzjUhweirUcGZL"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Carrera Blanca",
-        "url": "https://open.spotify.com/album/0IIH3YfwS5m4l1Zws7h3nb"
-      },
-      "artists": [
-        {
-          "name": "Carrera Blanca",
-          "url": "https://open.spotify.com/artist/1CblMuBc43MMvYdWAwAL0A"
-        }
-      ],
-      "duration_ms": 231470,
-      "name": "Lo que pasa es que te quiero",
-      "url": "https://open.spotify.com/track/374PmixVPNTLirUs2g4leT"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "P\u00e1jaro de plata",
-        "url": "https://open.spotify.com/album/3H6DzNy1Ui0r072fqXm3Yc"
-      },
-      "artists": [
-        {
-          "name": "Las Nietas del Charli",
-          "url": "https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS"
-        }
-      ],
-      "duration_ms": 343316,
-      "name": "P\u00e1jaro de plata",
-      "url": "https://open.spotify.com/track/1wyS23ca4ftuz7ya46zbRa"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/24jtIyXNRlNMd3Jaw5VNEy"
-      },
-      "artists": [
-        {
-          "name": "Boyanka Kostova",
-          "url": "https://open.spotify.com/artist/1t9FF9ollviXoPRU4aMi4B"
-        }
-      ],
-      "duration_ms": 162596,
-      "name": "Acaso esto \u00e9 un crime",
-      "url": "https://open.spotify.com/track/5Qz5kV7tWI5Qyy1rVVA2Yt"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "YA NADA MALO PUEDE PASAR",
         "url": "https://open.spotify.com/album/2li5TEfWAICouD8HxLlgPS"
@@ -353,39 +401,7 @@
       "url": "https://open.spotify.com/track/4cE0uGwa0kRDqsThZmhnrG"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Espejito espejito",
-        "url": "https://open.spotify.com/album/1qUOfmhKltvfzgMmVxsTKN"
-      },
-      "artists": [
-        {
-          "name": "BARIRI",
-          "url": "https://open.spotify.com/artist/7EI5ggCJHETX3cWcqtQR2F"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Espejito espejito",
-      "url": "https://open.spotify.com/track/0usBL5asJPsE0My9HeJs2C"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Shinji",
-        "url": "https://open.spotify.com/album/0t1JaOc5KZKfMsaLHtHWml"
-      },
-      "artists": [
-        {
-          "name": "Basanta",
-          "url": "https://open.spotify.com/artist/49w0zH4vFcDlCib0PWKnB9"
-        }
-      ],
-      "duration_ms": 174882,
-      "name": "Shinji",
-      "url": "https://open.spotify.com/track/1N63hdyq3iIwyjUIlaX1Bj"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "lo dejo cuando quiera",
         "url": "https://open.spotify.com/album/7jNmIOz4XDnOZcncuRDZTN"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/4SHC5Ozs3zwDykNYfCnWAz"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "un par de meses",
         "url": "https://open.spotify.com/album/4cvhrhGkwcaZ0VBLRCJfZS"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/1nPw474l9n9xq7TLXSMeg5"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "Super Sweet",
         "url": "https://open.spotify.com/album/2ImahUPvJxwQOGRrowmFbx"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/3c1KvTCUN6v7zYWdomBtGs"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "Ese chiste ya me lo has contado",
         "url": "https://open.spotify.com/album/3ilJv1WAL3uH5Ht6OL5X1Q"
@@ -449,23 +465,7 @@
       "url": "https://open.spotify.com/track/4m59dmPT2YLMq5JweUb309"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Antes De Subir Al Cielo",
-        "url": "https://open.spotify.com/album/5P4mgGDyBA9CebOYygZ1le"
-      },
-      "artists": [
-        {
-          "name": "Christian Mira",
-          "url": "https://open.spotify.com/artist/0HuAwHfaRSfgqI4caXvVPs"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Antes De Subir Al Cielo",
-      "url": "https://open.spotify.com/track/567tUE3g7Tp61qIgwEtB7W"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "MEJOR QUE YO (Acto I: Leviat\u00e1n)",
         "url": "https://open.spotify.com/album/0HXxgj4mR748H6qZBQwBjB"
@@ -481,39 +481,7 @@
       "url": "https://open.spotify.com/track/0hnR8D0MFxHe74ZT3hWgky"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "kascov",
-        "url": "https://open.spotify.com/album/19iySh44LmSxj104KyQ9G8"
-      },
-      "artists": [
-        {
-          "name": "duna",
-          "url": "https://open.spotify.com/artist/0QBq4NHGKMy6Tztcsc30kz"
-        }
-      ],
-      "duration_ms": 102797,
-      "name": "kascov",
-      "url": "https://open.spotify.com/track/6u4C0zTLKiqW1ccpqeSTmI"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Otro Nivel",
-        "url": "https://open.spotify.com/album/6gVvKGLafAq2VOWO3Eksak"
-      },
-      "artists": [
-        {
-          "name": "Sao",
-          "url": "https://open.spotify.com/artist/0nK9GRlVPFtzXceyELkAed"
-        }
-      ],
-      "duration_ms": 205872,
-      "name": "Otro Nivel",
-      "url": "https://open.spotify.com/track/7yN8651sD87XT9JZwJNUJX"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "De Tanto Leer...!",
         "url": "https://open.spotify.com/album/5eFVEPOqYg8q2XKJMm6t1D"
@@ -529,23 +497,7 @@
       "url": "https://open.spotify.com/track/3ziE7Z06Bhc6KrXXXVRfkh"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Dollhouse",
-        "url": "https://open.spotify.com/album/7KyMspVcsozaqonHmMoQVy"
-      },
-      "artists": [
-        {
-          "name": "Xenia",
-          "url": "https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR"
-        }
-      ],
-      "duration_ms": 176517,
-      "name": "No volver\u00e1n",
-      "url": "https://open.spotify.com/track/3mE3e1YEIgUCzvoImXDu0h"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "El Nudo",
         "url": "https://open.spotify.com/album/4hR7Vg1BOJYx3o61ZjhvXZ"
@@ -561,23 +513,7 @@
       "url": "https://open.spotify.com/track/04x0zHP509bFpBD5pTRvnV"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "P\u00cdSAME!",
-        "url": "https://open.spotify.com/album/27vi1kwNGOj6q0QVPUSYbA"
-      },
-      "artists": [
-        {
-          "name": "Ana Farelo",
-          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
-        }
-      ],
-      "duration_ms": 206813,
-      "name": "P\u00cdSAME!",
-      "url": "https://open.spotify.com/track/2elKOUJduoluYmIQjb8tFr"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "FLORES EN INVIERNO",
         "url": "https://open.spotify.com/album/2U6mXEeQYgUCwsyKdcSW8c"
@@ -593,23 +529,7 @@
       "url": "https://open.spotify.com/track/1rixzLcCVVrOZY7Btn1mRQ"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Volar",
-        "url": "https://open.spotify.com/album/15MeZsGCuRzOUAvvyxfgzX"
-      },
-      "artists": [
-        {
-          "name": "Pol\u00e9mico Chinaski",
-          "url": "https://open.spotify.com/artist/4mRhRhWh7yRoUln5jBEWDk"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Volar",
-      "url": "https://open.spotify.com/track/5VlZr9MQJUhxcJ9hzJYvwc"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "Bota'la A\u00f1a",
         "url": "https://open.spotify.com/album/7e5mC82LJSf7NNeoE2MxYM"
@@ -629,7 +549,7 @@
       "url": "https://open.spotify.com/track/27VhuU6K72CjyC5IlWKOdx"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "Cardiofobia",
         "url": "https://open.spotify.com/album/6N8HTFvfxx5IGmpNb8Xz79"
@@ -645,87 +565,7 @@
       "url": "https://open.spotify.com/track/7oVTcDawxabRnhITiuXuhk"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "La Ciudad del Para\u00edso",
-        "url": "https://open.spotify.com/album/0hH4rVq1R69hYykD5rBk15"
-      },
-      "artists": [
-        {
-          "name": "ANADIE",
-          "url": "https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs"
-        }
-      ],
-      "duration_ms": 110184,
-      "name": "La Ciudad del Para\u00edso",
-      "url": "https://open.spotify.com/track/28nbFutrQqBOvuMyhzzgVA"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "VTT ARA",
-        "url": "https://open.spotify.com/album/2u1zEcxCeGYcDnJOKh03PZ"
-      },
-      "artists": [
-        {
-          "name": "VITTARA",
-          "url": "https://open.spotify.com/artist/0RHElWsaFy1T4FiqxxekFk"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Quina sort!",
-      "url": "https://open.spotify.com/track/6lO1iDTWbITQLB5fRvbI4T"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Somiar Desperta",
-        "url": "https://open.spotify.com/album/7FiDAZrheJPGh8rhisL5OC"
-      },
-      "artists": [
-        {
-          "name": "J\u00falia Blum",
-          "url": "https://open.spotify.com/artist/4B6t52mhiUhrnMWR19T9ei"
-        }
-      ],
-      "duration_ms": 189364,
-      "name": "Somiar Despert",
-      "url": "https://open.spotify.com/track/471SoHtItVvYgZaJs2wUAX"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "el precio",
-        "url": "https://open.spotify.com/album/4MCitSnImMO4NjnuDD6mkm"
-      },
-      "artists": [
-        {
-          "name": "maxin",
-          "url": "https://open.spotify.com/artist/5wlwdTl3dkozfS4DzObwgK"
-        }
-      ],
-      "duration_ms": 286176,
-      "name": "r\u00e9quiem por un sue\u00f1o\u2020",
-      "url": "https://open.spotify.com/track/4TE6fGCKiNkBLqDEh59jOM"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Alguien especial",
-        "url": "https://open.spotify.com/album/5Y9vYd2Alq7pXGO6xuSjCS"
-      },
-      "artists": [
-        {
-          "name": "La 126",
-          "url": "https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY"
-        }
-      ],
-      "duration_ms": 214170,
-      "name": "Alguien especial",
-      "url": "https://open.spotify.com/track/70l1yDDqBeh8rGxBPM3GEt"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "Para Entrar a Vivir",
         "url": "https://open.spotify.com/album/2Rh3JwYt444C3UkqPMnDZH"
@@ -741,39 +581,7 @@
       "url": "https://open.spotify.com/track/3mk8aw9WjL8QvecjarMVvL"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "Quedar",
-        "url": "https://open.spotify.com/album/7s4TABvW00P4JQ1OGik2Az"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1lmese Se\u00f1ora",
-          "url": "https://open.spotify.com/artist/2uJ12Lh9hJRBPaIGZlRedG"
-        }
-      ],
-      "duration_ms": 201223,
-      "name": "Quedar",
-      "url": "https://open.spotify.com/track/3RHNjEbqNAdJNP7TruNJ74"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
-      "album": {
-        "name": "CERVATANA",
-        "url": "https://open.spotify.com/album/24ItTEIYNKk00v32icTI69"
-      },
-      "artists": [
-        {
-          "name": "CERVATANA",
-          "url": "https://open.spotify.com/artist/7r2PXbbTvFexdcxnjrhNkG"
-        }
-      ],
-      "duration_ms": 435946,
-      "name": "Cap. VII: El Cazador",
-      "url": "https://open.spotify.com/track/21F2B3R8ILDMFD0graj62z"
-    },
-    {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "surub\u00ed",
         "url": "https://open.spotify.com/album/3RYRZMMe98SfBYzYvJN1eq"
@@ -789,23 +597,199 @@
       "url": "https://open.spotify.com/track/5U4P3PbG2SUazQgoEneybe"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
       "album": {
-        "name": "Paracetamor",
-        "url": "https://open.spotify.com/album/6uVjkBEhhWidTee9ENEemh"
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/6cWoNw2eq1qfByj4WNGUAj"
       },
       "artists": [
         {
-          "name": "Todo Mal",
-          "url": "https://open.spotify.com/artist/3jpWZ08DVKnL2nuzIBwxqe"
+          "name": "Blu Boi",
+          "url": "https://open.spotify.com/artist/1AQkOwrwQg43nUandgPhAK"
         }
       ],
-      "duration_ms": 200859,
-      "name": "Paracetamor",
-      "url": "https://open.spotify.com/track/3W8YtUOc2AyWawjvUryCe0"
+      "duration_ms": 192000,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/3d1o888aJYCCOltqv78tiY"
     },
     {
-      "added_at": "2026-06-02 22:00:41",
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "Shinji",
+        "url": "https://open.spotify.com/album/0t1JaOc5KZKfMsaLHtHWml"
+      },
+      "artists": [
+        {
+          "name": "Basanta",
+          "url": "https://open.spotify.com/artist/49w0zH4vFcDlCib0PWKnB9"
+        }
+      ],
+      "duration_ms": 174882,
+      "name": "Shinji",
+      "url": "https://open.spotify.com/track/1N63hdyq3iIwyjUIlaX1Bj"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "Otro Nivel",
+        "url": "https://open.spotify.com/album/6gVvKGLafAq2VOWO3Eksak"
+      },
+      "artists": [
+        {
+          "name": "Sao",
+          "url": "https://open.spotify.com/artist/0nK9GRlVPFtzXceyELkAed"
+        }
+      ],
+      "duration_ms": 205872,
+      "name": "Otro Nivel",
+      "url": "https://open.spotify.com/track/7yN8651sD87XT9JZwJNUJX"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "P\u00cdSAME!",
+        "url": "https://open.spotify.com/album/27vi1kwNGOj6q0QVPUSYbA"
+      },
+      "artists": [
+        {
+          "name": "Ana Farelo",
+          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
+        }
+      ],
+      "duration_ms": 206813,
+      "name": "P\u00cdSAME!",
+      "url": "https://open.spotify.com/track/2elKOUJduoluYmIQjb8tFr"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "La Ciudad del Para\u00edso",
+        "url": "https://open.spotify.com/album/0hH4rVq1R69hYykD5rBk15"
+      },
+      "artists": [
+        {
+          "name": "ANADIE",
+          "url": "https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs"
+        }
+      ],
+      "duration_ms": 110184,
+      "name": "La Ciudad del Para\u00edso",
+      "url": "https://open.spotify.com/track/28nbFutrQqBOvuMyhzzgVA"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "Co-op",
+        "url": "https://open.spotify.com/album/7gtjysOZdtkLuNpEwBFgbH"
+      },
+      "artists": [
+        {
+          "name": "caracazador",
+          "url": "https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca"
+        }
+      ],
+      "duration_ms": 156671,
+      "name": "Co-op",
+      "url": "https://open.spotify.com/track/11V4FtQ6ST6SNi6IIGprmH"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "VTT ARA",
+        "url": "https://open.spotify.com/album/2u1zEcxCeGYcDnJOKh03PZ"
+      },
+      "artists": [
+        {
+          "name": "VITTARA",
+          "url": "https://open.spotify.com/artist/0RHElWsaFy1T4FiqxxekFk"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "Quina sort!",
+      "url": "https://open.spotify.com/track/6lO1iDTWbITQLB5fRvbI4T"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "Somiar Desperta",
+        "url": "https://open.spotify.com/album/7FiDAZrheJPGh8rhisL5OC"
+      },
+      "artists": [
+        {
+          "name": "J\u00falia Blum",
+          "url": "https://open.spotify.com/artist/4B6t52mhiUhrnMWR19T9ei"
+        }
+      ],
+      "duration_ms": 189364,
+      "name": "Somiar Despert",
+      "url": "https://open.spotify.com/track/471SoHtItVvYgZaJs2wUAX"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "el precio",
+        "url": "https://open.spotify.com/album/4MCitSnImMO4NjnuDD6mkm"
+      },
+      "artists": [
+        {
+          "name": "maxin",
+          "url": "https://open.spotify.com/artist/5wlwdTl3dkozfS4DzObwgK"
+        }
+      ],
+      "duration_ms": 286176,
+      "name": "r\u00e9quiem por un sue\u00f1o\u2020",
+      "url": "https://open.spotify.com/track/4TE6fGCKiNkBLqDEh59jOM"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "Alguien especial",
+        "url": "https://open.spotify.com/album/5Y9vYd2Alq7pXGO6xuSjCS"
+      },
+      "artists": [
+        {
+          "name": "La 126",
+          "url": "https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY"
+        }
+      ],
+      "duration_ms": 214170,
+      "name": "Alguien especial",
+      "url": "https://open.spotify.com/track/70l1yDDqBeh8rGxBPM3GEt"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "Quedar",
+        "url": "https://open.spotify.com/album/7s4TABvW00P4JQ1OGik2Az"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1lmese Se\u00f1ora",
+          "url": "https://open.spotify.com/artist/2uJ12Lh9hJRBPaIGZlRedG"
+        }
+      ],
+      "duration_ms": 201223,
+      "name": "Quedar",
+      "url": "https://open.spotify.com/track/3RHNjEbqNAdJNP7TruNJ74"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "CERVATANA",
+        "url": "https://open.spotify.com/album/24ItTEIYNKk00v32icTI69"
+      },
+      "artists": [
+        {
+          "name": "CERVATANA",
+          "url": "https://open.spotify.com/artist/7r2PXbbTvFexdcxnjrhNkG"
+        }
+      ],
+      "duration_ms": 435946,
+      "name": "Cap. VII: El Cazador",
+      "url": "https://open.spotify.com/track/21F2B3R8ILDMFD0graj62z"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
       "album": {
         "name": "Mil resacas",
         "url": "https://open.spotify.com/album/74hdQCHre4r4xtoLQ9Qvz6"
@@ -819,6 +803,22 @@
       "duration_ms": 160846,
       "name": "Mil resacas",
       "url": "https://open.spotify.com/track/2d9HBVp9RrAGnda2fqWgTD"
+    },
+    {
+      "added_at": "2026-06-09 22:00:18",
+      "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/15MeZsGCuRzOUAvvyxfgzX"
+      },
+      "artists": [
+        {
+          "name": "Pol\u00e9mico Chinaski",
+          "url": "https://open.spotify.com/artist/4mRhRhWh7yRoUln5jBEWDk"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/5VlZr9MQJUhxcJ9hzJYvwc"
     }
   ],
   "unique_name": "Fresh Finds Espa\u00f1a",

@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 22685,
+  "num_followers": 22695,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAADBPcxpfjyFEqBJRIXvGJQh",
+  "snapshot_id": "aiYGAAAAAABPO1ofJ6tMm8e2hcV+THZE",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bobo Me Tienes / Suave",
+        "url": "https://open.spotify.com/album/4FJGLIc25LqXXlcavslW4M"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/7AEHbbJXyDZYwEjPCr1B9L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Loco Es",
         "url": "https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr"
       },
@@ -655,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belicosa",
-        "url": "https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Belicosa",
-      "url": "https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Aprend\u00ed En La Lleca",
         "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
       },
@@ -691,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobo Me Tienes / Suave",
-        "url": "https://open.spotify.com/album/4FJGLIc25LqXXlcavslW4M"
+        "name": "Belicosa",
+        "url": "https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD"
       },
       "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/7AEHbbJXyDZYwEjPCr1B9L"
+      "duration_ms": 178064,
+      "name": "Belicosa",
+      "url": "https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX"
     },
     {
       "added_at": null,

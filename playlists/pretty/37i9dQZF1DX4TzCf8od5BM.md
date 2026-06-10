@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 > Sofia the First: Royal Magic is now available to watch on Disney Jr\. and Disney+!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,245 likes - 165 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,242 likes - 165 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

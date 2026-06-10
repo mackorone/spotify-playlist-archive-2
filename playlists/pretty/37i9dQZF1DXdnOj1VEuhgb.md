@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: No.1
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,596 likes - 49 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,617 likes - 49 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 18 | [skici](https://open.spotify.com/track/1Oxysfnv85iKglnjGdoVID) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD) | [skici](https://open.spotify.com/album/683upFagIgrQOL6affcPJP) | 2:33 |
 | 19 | [YOKLAMA](https://open.spotify.com/track/0UdEmE2g5AnqZPefygdQeB) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [SOPRANOS](https://open.spotify.com/album/5V5fwysLCxsaOxfXFvUPN5) | 2:21 |
 | 20 | [Maşallah](https://open.spotify.com/track/3nX8jHSQ0quuVUvVjqu22m) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Maşallah](https://open.spotify.com/album/3GxoC9pHHs2C2lKo4Q6Gdl) | 2:16 |
-| 21 | [MILLI MOD](https://open.spotify.com/track/5Aq0NIXiv6tiy7j3NIoWBk) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq) | [MILLI MOD](https://open.spotify.com/album/7Mv7n0Kf70KiEdu4zjL3qa) | 2:08 |
+| 21 | [MILLI MOD](https://open.spotify.com/track/5Aq0NIXiv6tiy7j3NIoWBk) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq) | [MILLI MOD](https://open.spotify.com/album/7Mv7n0Kf70KiEdu4zjL3qa) | 2:16 |
 | 22 | [DVD](https://open.spotify.com/track/0GabRJwqSIxLv3A139Lu6b) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [DVD](https://open.spotify.com/album/3eo8Bg1zgmRawhtSWJSpbp) | 2:33 |
 | 23 | [VeRseNe GaSSoLiNaa](https://open.spotify.com/track/71E4cUepr8QRJocFzhHt9Q) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [VeRseNe GaSSoLiNaa](https://open.spotify.com/album/2rB8vh3foTQWTl3QH2H0jF) | 2:32 |
 | 24 | [Bir Şarkısın Sen](https://open.spotify.com/track/0Yvk0NhQILaVrLc4K9Oelq) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71), [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5) | [Bir Şarkısın Sen](https://open.spotify.com/album/5rRmSPHru0j2h6dTThR55l) | 3:06 |

@@ -1,6 +1,6 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 46932,
+  "num_followers": 46935,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "AAAAAAw5cUOrJJNDoHdR89hjFP5Bcbzb",
   "tracks": [
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
-        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 213241,
-      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
-    },
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 226666,
       "name": "Secondhand (feat. Rema)",
       "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
+        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 213241,
+      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 202421,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
         "name": "Ashin' the Blunt (with Young Thug)",
         "url": "https://open.spotify.com/album/4y46BTmwP9S67I2GgecbEL"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 228586,
       "name": "Ashin' the Blunt (with Young Thug)",
       "url": "https://open.spotify.com/track/5adWDt4mPuryG0IoC1ZKu1"
-    },
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 202421,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
-        "name": "PROSTITUTE",
-        "url": "https://open.spotify.com/album/22We2HMdk4hkYZVSfm1Jrk"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 188497,
-      "name": "PROSTITUTE",
-      "url": "https://open.spotify.com/track/3xlYPnKHDeZvsmWIFvWP1H"
-    },
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
         "name": "tell me what you want",
         "url": "https://open.spotify.com/album/45dogBUITG47dD11ydydgz"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 236173,
       "name": "tell me what you want",
       "url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
+        "name": "PROSTITUTE",
+        "url": "https://open.spotify.com/album/22We2HMdk4hkYZVSfm1Jrk"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 188497,
+      "name": "PROSTITUTE",
+      "url": "https://open.spotify.com/track/3xlYPnKHDeZvsmWIFvWP1H"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
-        "name": "On The Low",
-        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 150783,
-      "name": "On The Low",
-      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
-    },
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
         "name": "Yes I Do",
         "url": "https://open.spotify.com/album/2FlaE855XAFjUwUhS36vox"
       },
@@ -1167,22 +1147,22 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
-        "name": "Dive In",
-        "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
+        "name": "On The Low",
+        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         },
         {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 195589,
-      "name": "Dive In",
-      "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
+      "duration_ms": 150783,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -1203,18 +1183,22 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu"
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
       },
       "artists": [
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         }
       ],
-      "duration_ms": 155094,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
+      "duration_ms": 195589,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 155094,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
         "name": "No Sign of Weakness",
         "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/6XUgrldDupyhi4bmDKScIP"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/1sX6eJVTDmuLxcHfVTYfCA"
-    },
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
         "name": "Celine",
         "url": "https://open.spotify.com/album/6YJUI25aCamOyfKgOij3dt"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 181727,
       "name": "Celine",
       "url": "https://open.spotify.com/track/5CJyViQs3FjWV0jSs3Ue59"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/6XUgrldDupyhi4bmDKScIP"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/1sX6eJVTDmuLxcHfVTYfCA"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
-        "name": "TO CRY A FLOOD",
-        "url": "https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva"
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
       },
       "artists": [
         {
@@ -1324,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         }
       ],
-      "duration_ms": 151000,
-      "name": "DROWN",
-      "url": "https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW"
+      "duration_ms": 165415,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -1387,38 +1387,6 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
-        "name": "Young Daddy",
-        "url": "https://open.spotify.com/album/6mQzGchJ3p5yKAsugrc5Gm"
-      },
-      "artists": [
-        {
-          "name": "RCEE",
-          "url": "https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb"
-        }
-      ],
-      "duration_ms": 147911,
-      "name": "Money Makes The World Go Round (MMTWGR)",
-      "url": "https://open.spotify.com/track/6Z4XuIm4CoQM7r4cMH9n6l"
-    },
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
-        "name": "Greedy",
-        "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 165415,
-      "name": "Greedy",
-      "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
-    },
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
         "name": "Bad Decision",
         "url": "https://open.spotify.com/album/6H5P86FsOUGSNamxMUYk2A"
       },
@@ -1431,6 +1399,38 @@
       "duration_ms": 211428,
       "name": "Bad Decision",
       "url": "https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
+        "name": "TO CRY A FLOOD",
+        "url": "https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "DROWN",
+      "url": "https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
+        "name": "Young Daddy",
+        "url": "https://open.spotify.com/album/6mQzGchJ3p5yKAsugrc5Gm"
+      },
+      "artists": [
+        {
+          "name": "RCEE",
+          "url": "https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb"
+        }
+      ],
+      "duration_ms": 147911,
+      "name": "Money Makes The World Go Round (MMTWGR)",
+      "url": "https://open.spotify.com/track/6Z4XuIm4CoQM7r4cMH9n6l"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -1455,30 +1455,18 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
-        "name": "MALIBU",
-        "url": "https://open.spotify.com/album/6s2ouYlULEJydQWHZ4TMr1"
+        "name": "Summer Got You Wild",
+        "url": "https://open.spotify.com/album/3HSM5V0SBxk2G9MqU4RgNJ"
       },
       "artists": [
         {
-          "name": "Muthoka",
-          "url": "https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp"
-        },
-        {
-          "name": "MAMBA.",
-          "url": "https://open.spotify.com/artist/60mQXLKXDOUKSqoiFWErlp"
-        },
-        {
-          "name": "2wentysixx",
-          "url": "https://open.spotify.com/artist/7EzZxvZRR2cwbGP5W7116h"
-        },
-        {
-          "name": "AUGUST IV",
-          "url": "https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T"
+          "name": "Samzii",
+          "url": "https://open.spotify.com/artist/2rIRdcRrB9NuzFNWZtIdLb"
         }
       ],
-      "duration_ms": 138666,
-      "name": "MALIBU",
-      "url": "https://open.spotify.com/track/5uqNpA6dsaskbV07O8SK1E"
+      "duration_ms": 153402,
+      "name": "Summer Got You Wild",
+      "url": "https://open.spotify.com/track/2o0kcwr5KQ3Foum7JwSli7"
     }
   ],
   "unique_name": "Cocoa Butter ",

@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Veeze
 
-1,593 songs - 3 day 0 hr 30 min
+1,594 songs - 3 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Gang Time](https://open.spotify.com/track/6oOO3Kok03oEsXRrWcKff3) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Gang Time](https://open.spotify.com/album/7CqIBingCuH1gQvKH2uJPM) | 2:14 | 2023-09-22 | 2023-12-02 |
 | [Gangsta Graduation \(feat\. G Herbo\)](https://open.spotify.com/track/57KbQMnqfP3U5RsjqA1Rum) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Gangsta Graduation \(feat\. G Herbo\)](https://open.spotify.com/album/0BIEOSPu0veroLyMxxFGAR) | 3:21 | 2025-12-05 | 2025-12-20 |
 | [GEESKI SHAKE July 13](https://open.spotify.com/track/1CPSTNpmnXJyLd2TviHkYM) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:54 | 2025-06-13 | 2025-06-28 |
+| [GEMINI SEASON](https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [GEMINI SEASON](https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc) | 1:46 | 2026-06-09 |  |
 | [Genuine](https://open.spotify.com/track/5QR8HHEubK05X6yGRNrX8d) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:06 | 2025-10-03 | 2026-01-15 |
 | [Get Dangerous](https://open.spotify.com/track/43GoEZsawcNzDxSzSYu11s) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Get Dangerous](https://open.spotify.com/album/7aYuQP9WI4RSXdGtJF2ToC) | 2:11 | 2022-08-12 | 2022-11-12 |
 | [Get Geeked](https://open.spotify.com/track/6siwX3kCcPSVpVipT5jkqa) | [Lelo](https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW) | [Get Geeked](https://open.spotify.com/album/6RFyFR5JY3H2gnRbulcNzD) | 2:57 | 2026-05-15 | 2026-05-23 |
@@ -1395,7 +1396,7 @@
 | [Think You Glowed](https://open.spotify.com/track/4BiPiRcHvzF8Vk3FQRxIPj) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 2:55 | 2025-03-28 | 2025-04-05 |
 | [Thinking Of You](https://open.spotify.com/track/1lVJbunitVV2YBmlOCuJG7) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Thinking Of You](https://open.spotify.com/album/2oHvIk5IL9sgqaZkuzfo9W) | 2:29 | 2025-02-14 | 2025-03-01 |
 | [This & That](https://open.spotify.com/track/2AXGCcKn8YSxc4a2ohhom4) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [This & That](https://open.spotify.com/album/3HujArLwQRC7zpnBPPZ7jv) | 2:37 | 2023-11-10 | 2024-01-27 |
-| [THIS A MUST](https://open.spotify.com/track/41e8XO5tcG6Uesk2FhdsWm) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 1:26 | 2026-03-28 |  |
+| [THIS A MUST](https://open.spotify.com/track/41e8XO5tcG6Uesk2FhdsWm) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 1:26 | 2026-03-28 | 2026-06-10 |
 | [This N That \(Bonus\)](https://open.spotify.com/track/6K5RMhhSucN3vqwCvBngKG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb \(Extended\)](https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi) | 3:18 | 2025-11-14 | 2025-12-13 |
 | [This N That \(feat\. Bryson Tiller & Kodak Black\)](https://open.spotify.com/track/7evkF9xaNtay5beh1w9QyQ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 4:09 | 2024-09-13 | 2024-09-21 |
 | [This Summer](https://open.spotify.com/track/2PoV6mOIsOq6grbC4a0ZNz) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [This Summer](https://open.spotify.com/album/6EGh6ELzd8b0gM9V3KH8XC) | 2:21 | 2023-04-07 | 2023-07-01 |

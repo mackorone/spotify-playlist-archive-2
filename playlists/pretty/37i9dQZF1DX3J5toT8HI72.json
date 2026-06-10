@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 834019,
+  "num_followers": 833999,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-05-29 03:00:11",
       "album": {
+        "name": "Seu e S\u00f3",
+        "url": "https://open.spotify.com/album/1T7dvcAcWOuBqmzmGF4zCR"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 153148,
+      "name": "Seu e S\u00f3",
+      "url": "https://open.spotify.com/track/1RYsDCcabDoTOYN73xVT3l"
+    },
+    {
+      "added_at": "2026-05-29 03:00:11",
+      "album": {
         "name": "Silva & Liniker (Ao Vivo)",
         "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 230746,
       "name": "Sorte - Ao Vivo",
       "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
-    },
-    {
-      "added_at": "2026-05-29 03:00:11",
-      "album": {
-        "name": "Seu e S\u00f3",
-        "url": "https://open.spotify.com/album/1T7dvcAcWOuBqmzmGF4zCR"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 153148,
-      "name": "Seu e S\u00f3",
-      "url": "https://open.spotify.com/track/1RYsDCcabDoTOYN73xVT3l"
     },
     {
       "added_at": "2026-05-29 03:00:11",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-05-29 03:00:11",
       "album": {
+        "name": "Algo Parecido",
+        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
+      },
+      "artists": [
+        {
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Algo Parecido",
+      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
+    },
+    {
+      "added_at": "2026-05-29 03:00:11",
+      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 167250,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
-    },
-    {
-      "added_at": "2026-05-29 03:00:11",
-      "album": {
-        "name": "Algo Parecido",
-        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
-      },
-      "artists": [
-        {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Algo Parecido",
-      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
     },
     {
       "added_at": "2026-05-29 03:00:11",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-05-29 03:00:11",
       "album": {
-        "name": "Silva Canta Marisa",
-        "url": "https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "Beija Eu",
-      "url": "https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3"
-    },
-    {
-      "added_at": "2026-05-29 03:00:11",
-      "album": {
         "name": "Maria Gad\u00fa",
         "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 183506,
       "name": "Bela Flor",
       "url": "https://open.spotify.com/track/1hmDsnhtabIjJPur68pu5Z"
+    },
+    {
+      "added_at": "2026-05-29 03:00:11",
+      "album": {
+        "name": "Silva Canta Marisa",
+        "url": "https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "Beija Eu",
+      "url": "https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3"
     },
     {
       "added_at": "2026-05-29 03:00:11",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-05-29 03:00:11",
       "album": {
-        "name": "O \u00daltimo Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Um certo algu\u00e9m",
-      "url": "https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3"
-    },
-    {
-      "added_at": "2026-05-29 03:00:11",
-      "album": {
         "name": "MAIS FORTE QUE A D\u00daVIDA",
         "url": "https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 206171,
       "name": "ANA",
       "url": "https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX"
+    },
+    {
+      "added_at": "2026-05-29 03:00:11",
+      "album": {
+        "name": "O \u00daltimo Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Um certo algu\u00e9m",
+      "url": "https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3"
     },
     {
       "added_at": "2026-05-29 03:00:11",

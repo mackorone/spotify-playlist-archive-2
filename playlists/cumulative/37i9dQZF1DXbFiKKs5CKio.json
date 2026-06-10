@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "MOMENTUM",
+        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
+      },
+      "artists": [
+        {
+          "name": "Trivia",
+          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220728,
+      "name": "Fim\u2026",
+      "url": "https://open.spotify.com/track/44AB55f9QlY6BLwtjNJ6FS"
+    },
+    {
+      "album": {
         "name": "Joyce Alane Ao Vivo na Macaco Gordo",
         "url": "https://open.spotify.com/album/31u9EIWTs32kTxnw4eg6NG"
       },
@@ -2828,7 +2846,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 275066,
       "name": "Psicodelicia",
       "url": "https://open.spotify.com/track/0pHfXPGNMXytLdG3KOr13A"

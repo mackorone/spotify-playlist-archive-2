@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Lockjaw, SCHANZ, Dystopian X Vision and more",
+  "description": "With Lockjaw, Dystopian X Vision, SCHANZ and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 384370,
       "name": "84",
       "url": "https://open.spotify.com/track/0Vl5voXWCbcXVnQKqJrIty"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 298602,
       "name": "A Story About A Girl (Live in Saskatoon, SK 2025)",
       "url": "https://open.spotify.com/track/6AgGKDLLmFzwd20vrCRjfi"
@@ -3452,7 +3452,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 261821,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
@@ -3690,7 +3690,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 338079,
       "name": "Fire Dances",
       "url": "https://open.spotify.com/track/738UZ8hVEggxIVZ0UaNFqX"
@@ -4108,7 +4108,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "Gin N Tonic",
       "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
@@ -4188,7 +4188,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -4304,7 +4304,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 303464,
       "name": "Grief",
       "url": "https://open.spotify.com/track/36oVY58DO6phaiLLdVOyjh"
@@ -4358,7 +4358,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 306448,
       "name": "Gunslinger",
       "url": "https://open.spotify.com/track/3NRX5tbwwo9AdyKrOSivN0"
@@ -4913,6 +4913,24 @@
     },
     {
       "album": {
+        "name": "And So It Ends",
+        "url": "https://open.spotify.com/album/5fGtUBh1VQ4uNzhW5hMXJg"
+      },
+      "artists": [
+        {
+          "name": "Family Man",
+          "url": "https://open.spotify.com/artist/4CpA5E2uTlbIgUSrDQH9mB"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148010,
+      "name": "I Don't Look Like That",
+      "url": "https://open.spotify.com/track/07eyV5Jl9yHXagGgWlVlYm"
+    },
+    {
+      "album": {
         "name": "I Melt with You",
         "url": "https://open.spotify.com/album/7bkNPHOMe3mYzMm5eDZx7C"
       },
@@ -5266,7 +5284,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 230173,
       "name": "It Gets Better",
       "url": "https://open.spotify.com/track/2y9aij92KXDUNEVQ77abWj"
@@ -5284,7 +5302,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 359916,
       "name": "It's Gettin' Dark",
       "url": "https://open.spotify.com/track/3fm4PINJq7qg8hb0JNcIQS"
@@ -5302,7 +5320,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 191525,
       "name": "It's Just A Photograph",
       "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
@@ -5862,7 +5880,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -5880,7 +5898,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 256894,
       "name": "Liberationizing Light",
       "url": "https://open.spotify.com/track/4m1sgMzxFa2SvZUPdYYLPL"
@@ -6552,7 +6570,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 362264,
       "name": "Maths of Life",
       "url": "https://open.spotify.com/track/674iqeAq4ExJGbNe65zjp6"
@@ -7722,7 +7740,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 287800,
       "name": "N\u00e1tthagi",
       "url": "https://open.spotify.com/track/5CqFBcZyQGu2EfUGAUvfWa"
@@ -7996,7 +8014,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -8306,7 +8324,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 210117,
       "name": "Pay The Price",
       "url": "https://open.spotify.com/track/5pBvfqml5qtDwgd8AeiYwH"
@@ -8690,6 +8708,24 @@
       "duration_ms": 267390,
       "name": "Pr\u00eat-\u00e0-Mourir 2",
       "url": "https://open.spotify.com/track/55KW8vo5FASS19k07W2T9S"
+    },
+    {
+      "album": {
+        "name": "Contrivances for the Soul",
+        "url": "https://open.spotify.com/album/328tKiQIypLdLRK43EmSzh"
+      },
+      "artists": [
+        {
+          "name": "Pete Jones",
+          "url": "https://open.spotify.com/artist/5XTKeYviTKOEj2xLSz0aLE"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295200,
+      "name": "Psycho Drill",
+      "url": "https://open.spotify.com/track/6UXUcPabJyN1obijdKq7gr"
     },
     {
       "album": {
@@ -9310,7 +9346,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 219333,
       "name": "Shadow Sun",
       "url": "https://open.spotify.com/track/6NxMk012STcCepEzfxDCOD"
@@ -9436,7 +9472,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 341659,
       "name": "She's a Killer",
       "url": "https://open.spotify.com/track/3HRQ6CkJzKk2pdiTy5FUQS"
@@ -9850,7 +9886,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 205292,
       "name": "South Side",
       "url": "https://open.spotify.com/track/17AidWwlWRcboOiWTdTGCK"
@@ -10644,7 +10680,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -10702,6 +10738,24 @@
       "duration_ms": 424585,
       "name": "The Fate",
       "url": "https://open.spotify.com/track/11D0OdRH2XHmst8sps2tZm"
+    },
+    {
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/4dvSoIH80G8SPSSyJPwwQ3"
+      },
+      "artists": [
+        {
+          "name": "Firehill",
+          "url": "https://open.spotify.com/artist/6f1rti1er9Al2g3fHBMnES"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246373,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy"
     },
     {
       "album": {
@@ -10806,7 +10860,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 394040,
       "name": "The Hole",
       "url": "https://open.spotify.com/track/4kvSx0xBweaAidCPRyzsFO"
@@ -10932,7 +10986,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 136615,
       "name": "The magic juice",
       "url": "https://open.spotify.com/track/6Jx1x1y4H1wc0UxPAeJyei"
@@ -11088,7 +11142,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 207800,
       "name": "The Sheep",
       "url": "https://open.spotify.com/track/1Cwu4QK3uBAtL7otbo2bnn"
@@ -12158,7 +12212,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 282133,
       "name": "Verschworen (Metropolis Remaster)",
       "url": "https://open.spotify.com/track/3nmFptZo0VDSeIps4eL6SO"
@@ -12284,7 +12338,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
@@ -12924,6 +12978,24 @@
       "duration_ms": 234615,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/66uKTF2h1yZoAP60hbXhPo"
+    },
+    {
+      "album": {
+        "name": "Written in the Stars",
+        "url": "https://open.spotify.com/album/6wQsdAvAkQTmSLw2hanZUm"
+      },
+      "artists": [
+        {
+          "name": "Timbr",
+          "url": "https://open.spotify.com/artist/1XwhmzKWP9NJVHLSzCtEV7"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265643,
+      "name": "Written in the Stars",
+      "url": "https://open.spotify.com/track/65lDxk6gz2cjgKZxUGJdW0"
     },
     {
       "album": {

@@ -206,9 +206,31 @@
           "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
         }
       ],
-      "date_added": "2026-06-09",
+      "date_added": "2026-06-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 416000,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/5IyrOfZhWm90lqIqyNpRY9"
+    },
+    {
+      "album": {
+        "name": "Seeing Is Forgetting",
+        "url": "https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        },
+        {
+          "name": "Henry Solomon",
+          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2026-06-10",
       "duration_ms": 112933,
       "name": "Hiding Place",
       "url": "https://open.spotify.com/track/6KYsJ34pPITdHrCoq27nGn"

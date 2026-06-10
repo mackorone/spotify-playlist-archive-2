@@ -4,7 +4,7 @@
 
 > E lei traballa dentro all'auto e l'auto è tutta scassata
 
-1,042 songs - 2 day 5 hr 40 min
+1,043 songs - 2 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Dentro Alla Scatola](https://open.spotify.com/track/1Gkxhw3pozHZNEi3KvBAsa) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [Solo Un Uomo](https://open.spotify.com/album/4Ij953xTJlThUdXhbvCd9I) | 4:24 | 2025-10-14 | 2025-12-30 |
 | [Detox](https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Detox](https://open.spotify.com/album/4y77zrDMRkZznufMBScSal) | 2:41 | 2022-09-06 | 2023-02-16 |
 | [Deux frères](https://open.spotify.com/track/7xy0ELfUz8xEon8B4K55Vb) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Deux frères](https://open.spotify.com/album/0VbjQH6iXN5VdE0OX35cpD) | 4:07 | 2022-06-29 | 2022-07-29 |
+| [Devo Andare Con Le Mie Winx \(feat\. Rhove\)](https://open.spotify.com/track/5eVWsjUs8OUajXFUWk9fXo) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [È O G.](https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd) | 2:13 | 2026-06-09 |  |
 | [Diavoli \(feat\. Ernia\)](https://open.spotify.com/track/06bV48Y49fj14dMCGagDto) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Identità](https://open.spotify.com/album/5nxW9sJlywI1NGdLfaXMAN) | 2:53 | 2026-03-17 | 2026-04-25 |
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-11 | 2024-08-08 |
 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2022-09-08 | 2025-07-04 |

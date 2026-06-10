@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 ### [Tech House Operator](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)
 
-> 50% techno, 50% house 🦉 Tech house hard operator, featuring Cloonee
+> 50% techno, 50% house 🦉 Tech house operators, featuring Cloonee
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,964 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,091 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Buster Speaker](https://open.spotify.com/track/0sPFIFlnK5xAi86IOmlx35) | [SLAMM](https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn) | [Speaker Buster EP](https://open.spotify.com/album/7LV63BuUYqmiJ4FHYnu50x) | 4:35 |
 | 125 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
 
-Snapshot ID: `AAAAADQpU2GWVj0DzRz+tYBOK89bk7kd`
+Snapshot ID: `AAAAAMZU2KztQbz/gC6ImTxpds/89bMw`

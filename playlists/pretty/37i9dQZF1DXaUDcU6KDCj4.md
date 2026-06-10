@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Bedouine
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,625 likes - 150 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,618 likes - 150 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 25 | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM) | 2:55 |
 | 26 | [Masks Off](https://open.spotify.com/track/6KAPMJ5hQTPtOFkagbb7Z7) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [Masks Off](https://open.spotify.com/album/2UPRZN5yCe0o7xQZ7teXEz) | 3:24 |
 | 27 | [Apple to the Orange](https://open.spotify.com/track/3rX1lDnL0lcdNX3LwRzDfp) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Love Is Overtaking Me \(Redux\)](https://open.spotify.com/album/72Hh7NaXG3r7E5sHhAnLCN) | 5:31 |
-| 28 | [Never Gonna Die](https://open.spotify.com/track/6978Sdhiq3l0VrHy4V9D8O) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Never Gonna Die](https://open.spotify.com/album/70zapZKxf5icAenwRvAzBm) | 3:28 |
+| 28 | [Never Gonna Die](https://open.spotify.com/track/6978Sdhiq3l0VrHy4V9D8O) | [Houndmouth](https://open.spotify.com/artist/5E3ZpulF9dBTGYE6njBV2P) | [Never Gonna Die](https://open.spotify.com/album/70zapZKxf5icAenwRvAzBm) | 3:28 |
 | 29 | [the way you do](https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [valley of my prime](https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc) | 3:27 |
 | 30 | [You & Me](https://open.spotify.com/track/2qyznQN0mLjsQsPQX3USHJ) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Rites Of Spring](https://open.spotify.com/album/4fUg02GfgTiJPEcE1A3kO0) | 3:26 |
 | 31 | [Chosen](https://open.spotify.com/track/2SkwNeTapLdCHh7jSnAQSz) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Chosen](https://open.spotify.com/album/5cBjdcpW07cLLQxoeVMVZ0) | 2:53 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 91 | [Moon Not Mine](https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Singing](https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf) | 3:37 |
 | 92 | [collide](https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [collide](https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0) | 3:43 |
 | 93 | [only human](https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [only human](https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm) | 3:34 |
-| 94 | [Tiger Blood](https://open.spotify.com/track/33GW7UkXxsIDwb0tWL99q5) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Tiger Blood](https://open.spotify.com/album/5VXuq0HNXIadIwJrQmaIxP) | 3:52 |
+| 94 | [Tiger Blood](https://open.spotify.com/track/33GW7UkXxsIDwb0tWL99q5) | [Houndmouth](https://open.spotify.com/artist/5E3ZpulF9dBTGYE6njBV2P) | [Tiger Blood](https://open.spotify.com/album/5VXuq0HNXIadIwJrQmaIxP) | 3:52 |
 | 95 | [Nosebleed](https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj), [Lyla George](https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa) | [Nosebleed](https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh) | 4:47 |
 | 96 | [The Cure](https://open.spotify.com/track/5C0SXDnsVzv6q9nRdfjmIT) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Angel in Plainclothes](https://open.spotify.com/album/3RSIafhkmhAvdFJ1z9ldqv) | 4:22 |
 | 97 | [Ride Lonesome](https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC) | 4:32 |

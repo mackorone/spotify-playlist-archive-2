@@ -4,7 +4,7 @@
 
 > la nuova scena pop italiana 🇮🇹 cover: INVERNO
 
-1,389 songs - 2 day 18 hr 20 min
+1,390 songs - 2 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [hyperlacrime](https://open.spotify.com/track/29dpmriqXCKgoHRjRSFXHA) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [hyperlacrime](https://open.spotify.com/album/05IIkXQiGK32Ja1MQGTU6S) | 3:08 | 2024-08-29 | 2024-11-15 |
 | [I fatti miei](https://open.spotify.com/track/0zak2hrjNlvhWYiI57Ddqg) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [I fatti miei](https://open.spotify.com/album/3CBpDlfvneuZOna0xnjsBM) | 3:01 | 2025-12-11 | 2026-02-06 |
 | [I LUV U](https://open.spotify.com/track/5RJcX2TpD3LxJyM7OonuAP) | [NOX](https://open.spotify.com/artist/6b0qbsuBxViNCoV49F4D4A) | [I LUV U](https://open.spotify.com/album/6iKZL4XM7RlKTtWwz0A4bg) | 2:43 | 2025-06-12 | 2025-09-12 |
+| [I NOSTRI ANNI BELLISSIMI](https://open.spotify.com/track/2f4CbyefNHxmqpC717xNbs) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [I NOSTRI ANNI BELLISSIMI](https://open.spotify.com/album/6ZmiAU158DbYNq9vxkmgp3) | 2:36 | 2026-06-09 |  |
 | [I RAGAZZI BALLANO ANCORA I CURE](https://open.spotify.com/track/7kwHYZSzPzG0m3mdnumvye) | [Ciliari](https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T) | [EX](https://open.spotify.com/album/1gYLYLWky4NM9Gfx3sNWQT) | 3:50 | 2026-01-29 | 2026-02-25 |
 | [I Treni](https://open.spotify.com/track/0VRqo8Lq3I0nHWmzIl4frP) | [Lea Gavino](https://open.spotify.com/artist/5MQsxFq3dAF5ujx3DJjiCL) | [I Treni](https://open.spotify.com/album/5QCKN7a53PzgtmWpSszO4e) | 2:52 | 2026-02-05 | 2026-03-06 |
 | [ICEBERG](https://open.spotify.com/track/5tCXLFbNC2jyyJlldgaAZm) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [ICEBERG](https://open.spotify.com/album/3xX1GtxfTiBY9hvEjNhFXX) | 3:16 | 2024-12-12 | 2025-01-17 |

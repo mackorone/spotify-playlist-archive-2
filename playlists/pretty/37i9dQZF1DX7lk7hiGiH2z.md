@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Sommerferien, Eis in der Hand und ganz viel Badespaß!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,600 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,605 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 42 | [Jetzt kommt die Biene Maja](https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Die Biene Maja \- Meine Lieder](https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma) | 3:03 |
 | 43 | [Sommerzeit](https://open.spotify.com/track/1naDrs3vJoTuF5CokDfPGi) | [Nilsen](https://open.spotify.com/artist/13x0bektBEknCM276OqYMn), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Das grüne Album](https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R) | 2:14 |
 | 44 | [Auf einem Baum ein Kuckuck saß](https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:20 |
-| 45 | [Sommer](https://open.spotify.com/track/4fqDukYPhU2b4fwPXl2vNc) | [Kinders](https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Remmi Demmi](https://open.spotify.com/artist/4bLZXiel2Er87VCdVLMEeW), [Matti MC](https://open.spotify.com/artist/0c0NoscMWOTJGeYNsbAUjE) | [Sommer](https://open.spotify.com/album/07lh3EusxSMocrboK796JF) | 3:05 |
-| 46 | [Das Sommertier](https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Das Sommertier](https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz) | 2:27 |
+| 45 | [Das Sommertier](https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Das Sommertier](https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz) | 2:27 |
+| 46 | [Sommer](https://open.spotify.com/track/4fqDukYPhU2b4fwPXl2vNc) | [Kinders](https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Remmi Demmi](https://open.spotify.com/artist/4bLZXiel2Er87VCdVLMEeW), [Matti MC](https://open.spotify.com/artist/0c0NoscMWOTJGeYNsbAUjE) | [Sommer](https://open.spotify.com/album/07lh3EusxSMocrboK796JF) | 3:05 |
 | 47 | [Urlaub unter Freunden](https://open.spotify.com/track/3eZrUbyFij1Kzk4hVMBroR) | [Die Lollipops](https://open.spotify.com/artist/6rZqH8GxGkk8qoDVwjC8Nt) | [Zusammen sind wir doppelt stark\-Unser Freundschaftsalbum](https://open.spotify.com/album/6VDjPoe7YZFBNkCntEfkQS) | 3:33 |
 | 48 | [Wir wollen Sonne \(Verde e amarelo\)](https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 3:39 |
-| 49 | [Disco Kinder \(Minis Maxis\)](https://open.spotify.com/track/6eEyiLb4fZxdBZ6vWJMr5G) | [Isa Glücklich](https://open.spotify.com/artist/2qLRWpOpxPKpyVW3GdGVHh) | [Disco Kinder](https://open.spotify.com/album/3H4zFfJdiScYlYTARQBjPs) | 2:49 |
-| 50 | [Sommertag](https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Sommertag](https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf) | 2:08 |
+| 49 | [Sommertag](https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Sommertag](https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf) | 2:08 |
+| 50 | [Disco Kinder \(Minis Maxis\)](https://open.spotify.com/track/6eEyiLb4fZxdBZ6vWJMr5G) | [Isa Glücklich](https://open.spotify.com/artist/2qLRWpOpxPKpyVW3GdGVHh) | [Disco Kinder](https://open.spotify.com/album/3H4zFfJdiScYlYTARQBjPs) | 2:49 |
 
 Snapshot ID: `AAAAAL879AKLjxguEczm31TUV8oBj77n`

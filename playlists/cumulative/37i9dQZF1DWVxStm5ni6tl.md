@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels in Canada\. Updates every month\. Cover: GUS, Artwork: Isu Kim
 
-3,031 songs - 6 day 12 hr 6 min
+3,032 songs - 6 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2943,6 +2943,7 @@
 | [Why's That?](https://open.spotify.com/track/1lqmJDMx3vMTYFOE5TLUaz) | [Amanda Movio](https://open.spotify.com/artist/1TaQZeViJGuwXVkQYihjE2) | [Why's That?](https://open.spotify.com/album/5Dm2uEEMngfTWcAfhOaFsY) | 3:37 | 2024-01-31 | 2024-02-15 |
 | [Wicked](https://open.spotify.com/track/4cZ8XBoY02u4YYi8rjUMrd) | [Shanuka](https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny), [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx) | [Wicked](https://open.spotify.com/album/1FB5kTLGpdxX1tWcnn604r) | 2:52 | 2024-10-23 | 2024-11-07 |
 | [Wild World](https://open.spotify.com/track/3L7pNo1cJAZ4xJ2lHBocvi) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [I’m afraid to be in love with someone who crashes their car that much](https://open.spotify.com/album/7x55HpFEMlUn7tN4YJJyTA) | 4:01 | 2025-05-21 | 2025-06-07 |
+| [wildwoman](https://open.spotify.com/track/3nmHojsXc76NvGmpGsNGmi) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [wildwoman](https://open.spotify.com/album/7d35YxSTVYHMTOuUlXRWJe) | 3:41 | 2026-06-03 |  |
 | [will I ever learn?](https://open.spotify.com/track/4p46OACIgjhEeCaTUe1aai) | [Ash Molloy](https://open.spotify.com/artist/7r9idpCLiq7S2KS1n5Fp7J) | [will I ever learn?](https://open.spotify.com/album/0745bhZuFMgOEWW71jm8FF) | 3:43 | 2025-03-19 | 2025-04-17 |
 | [Willow Rose](https://open.spotify.com/track/2SEmesSUJHkTDsvUYm71Wf) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Willow Rose](https://open.spotify.com/album/02Y72ZbMHc1vWpksK0BUQH) | 3:52 | 2024-05-29 | 2024-06-20 |
 | [Wind Down](https://open.spotify.com/track/4VC8irZzshw2UZMwk6CzXP) | [SNOWCHILD EDGE](https://open.spotify.com/artist/6EcRwLyGejwOzwB5ZCkhPG), [Teon Gibbs](https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm) | [Wind Down](https://open.spotify.com/album/6MhxRzW8qD6R2ilrxBgYXQ) | 2:24 | 2025-02-12 | 2025-02-20 |

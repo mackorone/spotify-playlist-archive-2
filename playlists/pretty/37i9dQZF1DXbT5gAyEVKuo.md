@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: DOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,458 likes - 74 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,491 likes - 74 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

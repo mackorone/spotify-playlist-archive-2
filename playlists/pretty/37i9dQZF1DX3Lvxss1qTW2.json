@@ -1,6 +1,6 @@
 {
   "description": "The future hits of today. Up Next: Bloody Civilian",
-  "num_followers": 114105,
+  "num_followers": 114152,
   "original_name": "NXT",
   "owner": {
     "name": "Spotify",
@@ -212,16 +212,16 @@
       },
       "artists": [
         {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        },
+        {
           "name": "Young Legend",
           "url": "https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd"
         },
         {
           "name": "Joeboy",
           "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
         }
       ],
       "duration_ms": 167000,

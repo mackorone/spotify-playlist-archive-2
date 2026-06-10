@@ -4,7 +4,7 @@
 
 > Todos tus éxitos favoritos de Disney\. Lilo & Stitch, Moana 2, Encanto y mucho más!
 
-161 songs - 8 hr 10 min
+162 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Cuán lejos voy](https://open.spotify.com/track/2mkl0RWJn36fe0cX0oLahS) | [Sara Paula Gómez Arias](https://open.spotify.com/artist/2eR6JJZdUg8R3TB8LLdaxT) | [Moana: un mar de aventuras \(Sonora Original en Español\)](https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX) | 2:44 | 2023-09-15 |  |
 | [Cuándo empezaré a vivir](https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 2:28 | 2023-09-15 |  |
 | [De nada](https://open.spotify.com/track/6mHFhk4i8hhQbVnW1yleq2) | [Beto Castillo](https://open.spotify.com/artist/7zpbcFMqrJCTQDuasYKXCC) | [Moana: un mar de aventuras \(Sonora Original en Español\)](https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX) | 2:45 | 2023-09-15 |  |
+| [De ti me enamoré \- De "Soy Luna: Volver a rodar" \| Disney+](https://open.spotify.com/track/6K9OORwOY5DzAsXTzJQ6iU) | [Elenco de Soy Luna](https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Ruggero Pasquarelli](https://open.spotify.com/artist/7uMsrJMSZWhL8IXO6YArQL), [Michael Ronda](https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt) | [De ti me enamoré \(De "Soy Luna: Volver a rodar" \| Disney+\)](https://open.spotify.com/album/3b47MJPMkf6IvHK5HIUuj1) | 3:22 | 2026-06-09 |  |
 | [Desde hoy](https://open.spotify.com/track/3q8yfHfQqfd0ShcTJC20aH) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Desde hoy](https://open.spotify.com/album/211cKsvaaQNmmxlxz3QB9y) | 3:25 | 2023-09-15 | 2024-05-01 |
 | [Did I Mention](https://open.spotify.com/track/1YekSxsAlGlYvm9zjLsKdh) | [Jeff Lewis](https://open.spotify.com/artist/4JDI31jWR7BBBBzw9kmu7Z), [Mitchell Hope](https://open.spotify.com/artist/2uTXJwJ1Q9PA2ji51RWeQm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \- Original TV Movie Soundtrack](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 2:33 | 2024-04-30 | 2024-09-12 |
 | [Dos Oruguitas](https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:34 | 2024-04-30 |  |
@@ -125,7 +126,7 @@
 | [Speechless \(Full\)](https://open.spotify.com/track/0XPsOSYzDJZJArevQNm2AR) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 3:28 | 2023-09-15 | 2025-11-08 |
 | [Spirit](https://open.spotify.com/track/38SueFAjT6jtFneyoQamYi) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 4:33 | 2023-09-15 | 2024-05-01 |
 | [Steal The Show](https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:12 | 2023-09-15 |  |
-| [Take Me Away](https://open.spotify.com/track/6MFraiWmc8KfjfY5m3Nx9e) | [Christina Vidal Mitchell](https://open.spotify.com/artist/0677ffAmURcLIn4qC5lYMk), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Freakier Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GEjVF1Rr389EmT0pEedm) | 3:08 | 2025-11-07 |  |
+| [Take Me Away](https://open.spotify.com/track/6MFraiWmc8KfjfY5m3Nx9e) | [Christina Vidal Mitchell](https://open.spotify.com/artist/0677ffAmURcLIn4qC5lYMk), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Freakier Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GEjVF1Rr389EmT0pEedm) | 3:08 | 2025-11-07 | 2026-06-10 |
 | [The Best of Both Worlds \- From "Hannah Montana"/Soundtrack Version](https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 2:54 | 2023-09-15 | 2025-11-08 |
 | [The Best of Both Worlds \- From "Hannah Montana"/Soundtrack Version](https://open.spotify.com/track/2Jl67aezGtgrcKKVl9R2Ou) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Best Of Both Worlds](https://open.spotify.com/album/3z83ZnUFsc9mBNKbm6DEdI) | 2:54 | 2025-11-07 |  |
 | [The Climb](https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:56 | 2024-09-11 | 2025-11-08 |

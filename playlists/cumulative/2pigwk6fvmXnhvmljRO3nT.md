@@ -4,7 +4,7 @@
 
 > 
 
-8,640 songs - 22 day 0 hr 25 min
+8,641 songs - 22 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:45 | 2025-01-03 |  |
 | [All Glass](https://open.spotify.com/track/07zYusRvYr8nAZOBDguzWv) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo](https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N) | 2:33 | 2025-01-03 |  |
 | [All I Ask](https://open.spotify.com/track/05TOt5Vz4StdjMpEdFPlvB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:31 | 2024-12-05 |  |
+| [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/track/5NEKjqTQPKiqOiOG8YxLdS) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Victory](https://open.spotify.com/album/4iAAzGGkdywnwP5O4Vpuun) | 3:52 | 2026-06-09 |  |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2025-04-28 |  |
 | [All I Need](https://open.spotify.com/track/0FLFE8mxBn1yWAX8s2L8ru) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 3:44 | 2024-12-14 |  |
 | [All I Really Want Is You](https://open.spotify.com/track/410rGaFDJPwjsr9m9RPCkz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:11 | 2025-01-04 |  |
@@ -984,7 +985,7 @@
 | [Brocade Dreams](https://open.spotify.com/track/4jsV7VJmQcPtlM9siZBQkX) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Jadeite Redolence \(Original Game Soundtrack\)](https://open.spotify.com/album/4jt8sLOJrMDMM8XLuDfCGz) | 1:59 | 2025-11-29 |  |
 | [Broccoli](https://open.spotify.com/track/0qy5D3OJre7SPJNMOL9I71) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Broccoli](https://open.spotify.com/album/4mchkmnzdTYIEAnw2FijA3) | 3:45 | 2025-01-03 |  |
 | [Broccoli \(feat\. Lil Yachty\)](https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Big Baby DRAM \(Deluxe Version\)](https://open.spotify.com/album/2NTDsRS6J2OF8qZwHWQjFV) | 3:45 | 2025-06-29 |  |
-| [Broke As Fuck](https://open.spotify.com/track/1faIb3PPSzEifCHUOJ691R) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Lost Boy](https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu) | 3:16 | 2024-12-14 |  |
+| [Broke As Fuck](https://open.spotify.com/track/1faIb3PPSzEifCHUOJ691R) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Lost Boy](https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu) | 3:16 | 2024-12-14 | 2026-06-10 |
 | [Broke Boys](https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:45 | 2025-01-03 |  |
 | [Broke In A Minute](https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:12 | 2025-01-15 |  |
 | [Broke Up](https://open.spotify.com/track/2tuP9seR6rU15jGMsXUKGa) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Fre$H](https://open.spotify.com/artist/5wUzuAKoHT2ItLdgAfa8sG), [Gudda Gudda](https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa) | [No Ceilings](https://open.spotify.com/album/15rah8uTv13tEhScI9Nv8z) | 3:48 | 2025-03-07 |  |
@@ -1075,7 +1076,7 @@
 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 | 2025-04-21 |  |
 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 | 2024-12-14 |  |
 | [call me maybe \(original\)](https://open.spotify.com/track/1jGug8SsTt4TTGLjJ8PYxT) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [call me maybe \(original\)](https://open.spotify.com/album/2nsUuqGMjrWfBa2aAnGNdR) | 6:03 | 2026-01-31 |  |
-| [Call My Bluff](https://open.spotify.com/track/1oFYibU1RzB4OKE5iI3SyR) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:48 | 2025-01-15 |  |
+| [Call My Bluff](https://open.spotify.com/track/1oFYibU1RzB4OKE5iI3SyR) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:48 | 2025-01-15 | 2026-06-10 |
 | [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 | 2025-01-15 |  |
 | [Call the Coroner](https://open.spotify.com/track/1WlU4jsJ8AoTB96dgd8LJA) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:11 | 2025-01-03 |  |
 | [CALLIGRAPHY](https://open.spotify.com/track/7LBdv0ek7Tj2s0bgxmlrC6) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [CARE FOR ME](https://open.spotify.com/album/6Te111t5gDZ7W94myHRqUt) | 3:04 | 2025-01-15 |  |

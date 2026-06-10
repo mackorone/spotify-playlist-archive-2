@@ -26395,6 +26395,28 @@
     },
     {
       "album": {
+        "name": "RUBBERZ",
+        "url": "https://open.spotify.com/album/5nh5SWvNLfdyPqJD5zvDNV"
+      },
+      "artists": [
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        },
+        {
+          "name": "Purps On The Beat",
+          "url": "https://open.spotify.com/artist/5Ti1bgVXlEFiheTsdiHhRd"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173755,
+      "name": "RUBBERZ",
+      "url": "https://open.spotify.com/track/1iTBTk4xtwo4lBMcPVNoPh"
+    },
+    {
+      "album": {
         "name": "Signing Day",
         "url": "https://open.spotify.com/album/0uyOPmxwf90ZetNWcyE1Gd"
       },

@@ -4,7 +4,7 @@
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Nicolò Filippucci
 
-1,153 songs - 2 day 5 hr 53 min
+1,154 songs - 2 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Hooligans](https://open.spotify.com/track/5xYtSKU6Fz2ZwY491faFIs) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Hooligans](https://open.spotify.com/album/1XoGxiGWfdPCHH2ItOz3SM) | 2:53 | 2025-07-10 | 2026-01-15 |
 | [hyperlacrime](https://open.spotify.com/track/29dpmriqXCKgoHRjRSFXHA) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [hyperlacrime](https://open.spotify.com/album/05IIkXQiGK32Ja1MQGTU6S) | 3:08 | 2024-09-26 | 2024-11-29 |
 | [I colori dell'alba](https://open.spotify.com/track/2vDF8vtgjK2PRbeea9QAYS) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [I colori dell'alba](https://open.spotify.com/album/4czY6mzx9up6r6QWHjDvKO) | 2:54 | 2024-05-09 | 2024-05-24 |
+| [I NOSTRI ANNI BELLISSIMI](https://open.spotify.com/track/2f4CbyefNHxmqpC717xNbs) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [I NOSTRI ANNI BELLISSIMI](https://open.spotify.com/album/6ZmiAU158DbYNq9vxkmgp3) | 2:36 | 2026-06-09 |  |
 | [i ragazzi non piangono](https://open.spotify.com/track/4xXdUqdwmOSPGUohtXky0b) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [i ragazzi non piangono](https://open.spotify.com/album/73EkYb9oqE8FrUzocAUYk4) | 2:31 | 2026-04-23 | 2026-05-15 |
 | [i ragazzi perduti](https://open.spotify.com/track/36iRSpKuwRLq4A9mTbE3eu) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [tutti i colori del buio](https://open.spotify.com/album/6r8Lnm93NaqRStMPUBKhSy) | 3:39 | 2024-05-16 | 2024-06-07 |
 | [IENA](https://open.spotify.com/track/0jC7hX8ygrDtNAXYq2sinP) | [KIA](https://open.spotify.com/artist/0NMIwaObVtRr1LIwZylGKG) | [IENA](https://open.spotify.com/album/1RY6BuajfKHnxwGj9azBRL) | 2:36 | 2024-03-07 | 2024-03-21 |

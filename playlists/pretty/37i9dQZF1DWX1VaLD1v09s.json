@@ -1,6 +1,6 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 87777,
+  "num_followers": 87771,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "God I'm Just Grateful (Radio Version)",
+        "url": "https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 234844,
+      "name": "God I'm Just Grateful - Radio Version",
+      "url": "https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Graves Into Gardens (Live)",
         "url": "https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 452499,
       "name": "Graves Into Gardens (Live)",
       "url": "https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "God I'm Just Grateful (Radio Version)",
-        "url": "https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB"
-      },
-      "artists": [
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 234844,
-      "name": "God I'm Just Grateful - Radio Version",
-      "url": "https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1360,8 +1360,8 @@
           "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
         },
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         }
       ],
       "duration_ms": 389897,
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 323384,
-      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Jesus Song (Live)",
         "url": "https://open.spotify.com/album/4re8Y6tpEIARFz4CUYiGiC"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 380713,
       "name": "Jesus Song - Live",
       "url": "https://open.spotify.com/track/6p4znVw6OoMeJOWUOyK1cy"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 323384,
+      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2071,26 +2071,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Jesus Is My Healer (Live)",
-        "url": "https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Jessie Harris",
-          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
-        }
-      ],
-      "duration_ms": 380865,
-      "name": "Jesus Is My Healer - Live",
-      "url": "https://open.spotify.com/track/4h3gmTsm5moWm9j3NNx0Gp"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Thank The Lord",
         "url": "https://open.spotify.com/album/7gjCfoCmp00bvGVYQzg8JB"
       },
@@ -2107,6 +2087,26 @@
       "duration_ms": 279266,
       "name": "Thank The Lord",
       "url": "https://open.spotify.com/track/17twfk8FZ0DX7obvyGyoS8"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Jesus Is My Healer (Live)",
+        "url": "https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Jessie Harris",
+          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
+        }
+      ],
+      "duration_ms": 380865,
+      "name": "Jesus Is My Healer - Live",
+      "url": "https://open.spotify.com/track/4h3gmTsm5moWm9j3NNx0Gp"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Everlasting God: 25 Modern Worship Favorites",
-        "url": "https://open.spotify.com/album/0evyT1Z2NZBf3RuOneAJMf"
-      },
-      "artists": [
-        {
-          "name": "Nichole Nordeman",
-          "url": "https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "How Deep The Father's Love For Us",
-      "url": "https://open.spotify.com/track/6Z9VnA44P3PQ3gzJxs2F1H"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Glory & Wonder",
         "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 354880,
       "name": "Glory & Wonder (Studio Version)",
       "url": "https://open.spotify.com/track/7amtkn29tYXHs2wOF6aCaZ"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Everlasting God: 25 Modern Worship Favorites",
+        "url": "https://open.spotify.com/album/0evyT1Z2NZBf3RuOneAJMf"
+      },
+      "artists": [
+        {
+          "name": "Nichole Nordeman",
+          "url": "https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/6Z9VnA44P3PQ3gzJxs2F1H"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Crown Him With Many Crowns",
+        "url": "https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU"
+      },
+      "artists": [
+        {
+          "name": "Nathan Drake",
+          "url": "https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr"
+        }
+      ],
+      "duration_ms": 254479,
+      "name": "Crown Him With Many Crowns",
+      "url": "https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Still My Little Boy",
         "url": "https://open.spotify.com/album/0s00dylb9jlVwZOct1rief"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 256892,
       "name": "RESURRECTION HERE",
       "url": "https://open.spotify.com/track/4vdHySGP8UmHbkf4JXqhUB"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Crown Him With Many Crowns",
-        "url": "https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU"
-      },
-      "artists": [
-        {
-          "name": "Nathan Drake",
-          "url": "https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr"
-        }
-      ],
-      "duration_ms": 254479,
-      "name": "Crown Him With Many Crowns",
-      "url": "https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2511,6 +2511,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "My Utmost For His Highest",
+        "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 240298,
+      "name": "My Victory",
+      "url": "https://open.spotify.com/track/1zg8rQ4pENedgx2FpHXN0o"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Rose Again (3 Days)",
         "url": "https://open.spotify.com/album/5chaSPc8W53pnDFt6t0HKp"
       },
@@ -2527,22 +2543,6 @@
       "duration_ms": 162608,
       "name": "Rose Again (3 Days)",
       "url": "https://open.spotify.com/track/2zv4PW9Rs1NdcZ4cEkmUmF"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "My Utmost For His Highest",
-        "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 240298,
-      "name": "My Victory",
-      "url": "https://open.spotify.com/track/1zg8rQ4pENedgx2FpHXN0o"
     },
     {
       "added_at": "2026-04-04 06:04:53",

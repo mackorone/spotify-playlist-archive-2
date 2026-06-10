@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,305 songs - 5 day 16 hr 10 min
+2,308 songs - 5 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [Coronavirus](https://open.spotify.com/track/2YO0as657BVnGKcGqSlpxG) | [High & I](https://open.spotify.com/artist/1RepiCceWk7ifIps3wwxOc), [Mighty Sharp](https://open.spotify.com/artist/0cXYj85k096b6dNf89oVll) | [Coronavirus](https://open.spotify.com/album/6j9TEwizaJtlEp8ggMp0zb) | 3:56 | 2024-03-25 |  |
 | [Coronavirus \- Instrumental Mix](https://open.spotify.com/track/2NxwKtCznxifMGpaa2A6ry) | [High & I](https://open.spotify.com/artist/1RepiCceWk7ifIps3wwxOc) | [Coronavirus](https://open.spotify.com/album/6j9TEwizaJtlEp8ggMp0zb) | 3:58 | 2024-03-25 |  |
 | [Coronavirus \- Raw Mix](https://open.spotify.com/track/39uAS2VIUkSUqRzR13nSRJ) | [High & I](https://open.spotify.com/artist/1RepiCceWk7ifIps3wwxOc), [Mighty Sharp](https://open.spotify.com/artist/0cXYj85k096b6dNf89oVll) | [Coronavirus](https://open.spotify.com/album/6j9TEwizaJtlEp8ggMp0zb) | 3:32 | 2024-03-25 |  |
+| [Cosas Vintage](https://open.spotify.com/track/31CkeQnDvwBFFRmUnWnfVx) | [Mi Propia Montaña](https://open.spotify.com/artist/5lHjxxL08pdRTTtMk4c777) | [Vivac](https://open.spotify.com/album/76vrx6BNoe55bzJFuZr8wr) | 3:18 | 2026-06-09 |  |
 | [COSITAS DEL AMOR](https://open.spotify.com/track/3jwQS1JO2GPK2xprvzAM9M) | [Jarquez](https://open.spotify.com/artist/68ydVVkXfgE3YuGuVRn3Nj), [TMK](https://open.spotify.com/artist/2kItgWIX7FzOnr6FjBgrPI) | [COSITAS DEL AMOR](https://open.spotify.com/album/4PzZ70I18h1rZbS6QQdck1) | 2:40 | 2026-02-11 |  |
 | [Country Christmas Line Dance \(Jingle Bells\)](https://open.spotify.com/track/3dLbmwtsvZWabodAty7T6F) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:49 | 2025-12-01 |  |
 | [Courage in Hand](https://open.spotify.com/track/4qOcEHxv7OVTysivvgXMNo) | [Entropy](https://open.spotify.com/artist/0Cu3aha8AS5TXuPRqQhzqt) | [Veil of Conformity](https://open.spotify.com/album/08LnVugedte5CXxpuqD9ey) | 5:53 | 2024-09-25 |  |
@@ -1739,6 +1740,7 @@
 | [Seclusion](https://open.spotify.com/track/5oAENAFAHwWRvCyWu53EEL) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 2:36 | 2026-02-05 |  |
 | [Seconds Of Neon](https://open.spotify.com/track/7y8IcDNbf1RJtD1QDjscuu) | [WETLOOK](https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5) | [Seconds Of Neon](https://open.spotify.com/album/0hxfW38i7HETPx1KNu9qtC) | 3:31 | 2026-05-10 |  |
 | [Segreti Di Miele](https://open.spotify.com/track/1wrXEn0KXHsxtj6QwOomni) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Segreti Di Miele](https://open.spotify.com/album/59BsBjGnMV5UtOdRQdBcZ8) | 2:04 | 2025-05-23 |  |
+| [Sei](https://open.spotify.com/track/5v0WRPhkz1LnrAQc07JLGB) | [Giorgio Isgro'](https://open.spotify.com/artist/0mkcb7x8JISZOGHV8LdKcW), [Marcello Pelo](https://open.spotify.com/artist/7Ex3l7mokFNNf69K0dJba7) | [Sei](https://open.spotify.com/album/7DwyP2LG07sgcVcKQ9ECEF) | 4:38 | 2026-06-09 |  |
 | [Sejauh ini \(ini yang paling jauh\)](https://open.spotify.com/track/19NNUI9h5C1q52amUFi1hC) | [WORSHIPER](https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk) | [Sejauh ini \(ini yang paling jauh\)](https://open.spotify.com/album/4aS4AsiRb6I30B7MphtFbM) | 2:31 | 2025-07-18 |  |
 | [Selassie Is the Chapel](https://open.spotify.com/track/4Ot7EKpeZKPVoXoCrzvdJI) | [Ras Tamano](https://open.spotify.com/artist/6AzPKf5UTTpMnbgtKyWya8), [Goja Bongos](https://open.spotify.com/artist/7FU0l5HaLimkfIQZAjI8EB) | [Nyahbinghi I\-lodica](https://open.spotify.com/album/3KoPRZazTGn88Ee9nIZFYC) | 6:15 | 2024-03-25 |  |
 | [Selfish](https://open.spotify.com/track/79ZWF562VkgLPEhmREniXe) | [The Life of Flobo](https://open.spotify.com/artist/2OR3YWSOWqa3GKYEOY3mRO) | [Selfish](https://open.spotify.com/album/2JhxLFx5WRzprNbY5udBGy) | 2:50 | 2025-05-19 |  |
@@ -2275,6 +2277,7 @@
 | [Zither Glitters](https://open.spotify.com/track/3zLgkYbEUvPTTemuQK2ehu) | [Tyler.l](https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic), [GaetDown](https://open.spotify.com/artist/0DQLwNtbo0nXQjg80Ca2Pm) | [Zither Glitters](https://open.spotify.com/album/42s5lUxI4lf6v6CyD4A9hl) | 2:32 | 2025-05-19 |  |
 | [Zyvies Nia Viecna](https://open.spotify.com/track/5wRO1h0hh60dSPsso3ujXn) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 4:29 | 2025-10-09 |  |
 | [¿QUÉ SOMOS?](https://open.spotify.com/track/5MjCFqxJzsEHJGonD9caek) | [Rubby Whitte](https://open.spotify.com/artist/1eikOOHQenv243gX7qlTFg), [Walter On The Beat](https://open.spotify.com/artist/4wHvAGhuZZrEYqOHgEpXvS), [Flow Urbano Inc](https://open.spotify.com/artist/3tKHkTr4T3sgQ7TeVcmxJH) | [MUSICRAFT](https://open.spotify.com/album/3lSEewfRV0PKPqjoDiduQI) | 2:22 | 2025-05-07 |  |
+| [¿Y dónde estabas tú?](https://open.spotify.com/track/69FVpltpyAvHeiXHg2BK9C) | [Noelia Malta](https://open.spotify.com/artist/1B0tklWQ7QFvUo05d5mE3C) | [¿Y dónde estabas tú?](https://open.spotify.com/album/3mPWjGkzXd8LAxlKt0Z4i6) | 3:04 | 2026-06-09 |  |
 | [À Strasbourg](https://open.spotify.com/track/0TKoTFDu0ZI7UzwesMNhGG) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [À Strasbourg](https://open.spotify.com/album/2YEwaDLh3wJbTTVfni8HJg) | 3:35 | 2026-06-03 |  |
 | [Último Día de Playa](https://open.spotify.com/track/6NAJNGtKdGlomwElyk9Wfb) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Último Día de Playa](https://open.spotify.com/album/53jVLMm40xLGS3l4Bwpk5g) | 3:48 | 2026-02-05 |  |
 | [Буду с тобой](https://open.spotify.com/track/59IGh75jcZX5dytjWQ6zHX) | [ΛNZZ](https://open.spotify.com/artist/3TWeuhaLtXwVABFag0rOLK) | [Буду с тобой](https://open.spotify.com/album/0PuSC7RFOlqwUkw6r0nNhd) | 2:18 | 2025-05-16 |  |

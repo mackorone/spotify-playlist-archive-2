@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104210,
+  "num_followers": 104202,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-06-04 21:00:17",
       "album": {
+        "name": "Stallion",
+        "url": "https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo"
+      },
+      "artists": [
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        }
+      ],
+      "duration_ms": 272250,
+      "name": "Totuus Sattuu",
+      "url": "https://open.spotify.com/track/42AWyhI6hD9Q4J4NLcqKdP"
+    },
+    {
+      "added_at": "2026-06-04 21:00:17",
+      "album": {
         "name": "Ei voi (feat. Luwa.Mp4)",
         "url": "https://open.spotify.com/album/2hdZSRF3c42AzLGRrCuvDG"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 190971,
       "name": "Ei voi (feat. Luwa.Mp4)",
       "url": "https://open.spotify.com/track/6xpZg3sfg49gNihQZGLsl1"
-    },
-    {
-      "added_at": "2026-06-04 21:00:17",
-      "album": {
-        "name": "Stallion",
-        "url": "https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo"
-      },
-      "artists": [
-        {
-          "name": "MELO",
-          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
-        }
-      ],
-      "duration_ms": 272250,
-      "name": "Totuus Sattuu",
-      "url": "https://open.spotify.com/track/42AWyhI6hD9Q4J4NLcqKdP"
     },
     {
       "added_at": "2026-06-04 21:00:17",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-06-04 21:00:17",
       "album": {
-        "name": "El\u00e4m\u00e4\u00e4 Suurempaa",
-        "url": "https://open.spotify.com/album/6NNqEWHtfa4ZTg1N5VAitK"
-      },
-      "artists": [
-        {
-          "name": "Jami Faltin",
-          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
-        }
-      ],
-      "duration_ms": 182771,
-      "name": "El\u00e4m\u00e4\u00e4 Suurempaa",
-      "url": "https://open.spotify.com/track/59P3bZ1wyLSZetsU2Jovmo"
-    },
-    {
-      "added_at": "2026-06-04 21:00:17",
-      "album": {
         "name": "Boujee",
         "url": "https://open.spotify.com/album/0kecOEPFgZ3b6Au59OKVet"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 150944,
       "name": "Boujee",
       "url": "https://open.spotify.com/track/4VXj5DCEqxj6ATWzV1EfRA"
+    },
+    {
+      "added_at": "2026-06-04 21:00:17",
+      "album": {
+        "name": "El\u00e4m\u00e4\u00e4 Suurempaa",
+        "url": "https://open.spotify.com/album/6NNqEWHtfa4ZTg1N5VAitK"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "duration_ms": 182771,
+      "name": "El\u00e4m\u00e4\u00e4 Suurempaa",
+      "url": "https://open.spotify.com/track/59P3bZ1wyLSZetsU2Jovmo"
     },
     {
       "added_at": "2026-06-04 21:00:17",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-06-04 21:00:17",
       "album": {
-        "name": "Stallion",
-        "url": "https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo"
-      },
-      "artists": [
-        {
-          "name": "MELO",
-          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Tom Ford",
-      "url": "https://open.spotify.com/track/52gUymoTGCj5xg0YU1kCw3"
-    },
-    {
-      "added_at": "2026-06-04 21:00:17",
-      "album": {
         "name": "TYT\u00d6T (feat. VBZ)",
         "url": "https://open.spotify.com/album/4Iw2adhkiSw1ggGxJLmLy7"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 139006,
       "name": "Lentoo",
       "url": "https://open.spotify.com/track/6660VtRfpFWAHYLV2M6oo1"
+    },
+    {
+      "added_at": "2026-06-04 21:00:17",
+      "album": {
+        "name": "Stallion",
+        "url": "https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo"
+      },
+      "artists": [
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Tom Ford",
+      "url": "https://open.spotify.com/track/52gUymoTGCj5xg0YU1kCw3"
     },
     {
       "added_at": "2026-06-04 21:00:17",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-06-04 21:00:17",
       "album": {
-        "name": "Olosuhteet",
-        "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
-      },
-      "artists": [
-        {
-          "name": "Leyla",
-          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
-        }
-      ],
-      "duration_ms": 188810,
-      "name": "Olosuhteet",
-      "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
-    },
-    {
-      "added_at": "2026-06-04 21:00:17",
-      "album": {
         "name": "UUDESTAAN (feat. Dw)",
         "url": "https://open.spotify.com/album/08pkqUJ3MZ6IhEctB6TbPL"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 164416,
       "name": "UUDESTAAN (feat. Dw)",
       "url": "https://open.spotify.com/track/16XlESQD7Rp3WANPygQU7k"
+    },
+    {
+      "added_at": "2026-06-04 21:00:17",
+      "album": {
+        "name": "Olosuhteet",
+        "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
+      },
+      "artists": [
+        {
+          "name": "Leyla",
+          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
+        }
+      ],
+      "duration_ms": 188810,
+      "name": "Olosuhteet",
+      "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
     },
     {
       "added_at": "2026-06-04 21:00:17",

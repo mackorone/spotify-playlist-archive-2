@@ -2,7 +2,7 @@
 
 ### [Levitate](https://open.spotify.com/playlist/37i9dQZF1DWVY5eNJoKHd2)
 
-> Taking 'NASA' way too literally\. 📷 Ariana Grande on the Eternal Sunshine Tour
+> It's like supernatural..\. 📷 Ariana Grande on the Eternal Sunshine Tour
 
 520 songs - 1 day 7 hr 46 min
 

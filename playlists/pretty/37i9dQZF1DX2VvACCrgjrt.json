@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1313023,
+  "num_followers": 1313021,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1417,6 +1417,22 @@
       "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
     },
     {
+      "added_at": "2026-05-01 04:01:35",
+      "album": {
+        "name": "Night & Day",
+        "url": "https://open.spotify.com/album/5fntuEso27V8mz6wBYiNeX"
+      },
+      "artists": [
+        {
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
+        }
+      ],
+      "duration_ms": 178261,
+      "name": "Night & Day",
+      "url": "https://open.spotify.com/track/70emOt10n88XGHzJzG8qIB"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "No Enemies (feat. Namasenda)",
@@ -1441,22 +1457,6 @@
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
     },
     {
-      "added_at": "2026-05-01 04:01:35",
-      "album": {
-        "name": "Night & Day",
-        "url": "https://open.spotify.com/album/5fntuEso27V8mz6wBYiNeX"
-      },
-      "artists": [
-        {
-          "name": "Mosimann",
-          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
-        }
-      ],
-      "duration_ms": 178261,
-      "name": "Night & Day",
-      "url": "https://open.spotify.com/track/70emOt10n88XGHzJzG8qIB"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "About To Lose It",
@@ -1471,22 +1471,6 @@
       "duration_ms": 195942,
       "name": "About To Lose It",
       "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Gimme That Money",
-        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 211904,
-      "name": "Gimme That Money",
-      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
     },
     {
       "added_at": "2026-03-20 04:00:50",
@@ -1511,6 +1495,46 @@
       "duration_ms": 208593,
       "name": "Miami Bass",
       "url": "https://open.spotify.com/track/1ZWQVtzaaOptvTtD2nKE10"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Gimme That Money",
+        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 211904,
+      "name": "Gimme That Money",
+      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "SPEND IT",
+        "url": "https://open.spotify.com/album/0uHLxzEX8YCHNfuuyW3s88"
+      },
+      "artists": [
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        },
+        {
+          "name": "LEIJON",
+          "url": "https://open.spotify.com/artist/5I0DEhBfWK76pttt1P8tCs"
+        },
+        {
+          "name": "nobodyknowsjones",
+          "url": "https://open.spotify.com/artist/4CymeX9LBix0SigmOw4xkE"
+        }
+      ],
+      "duration_ms": 144023,
+      "name": "SPEND IT",
+      "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
     },
     {
       "added_at": "2026-04-17 04:02:12",
@@ -1559,30 +1583,6 @@
       "duration_ms": 125199,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/2M2mxEsoQpXXUujuxxBayv"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "SPEND IT",
-        "url": "https://open.spotify.com/album/0uHLxzEX8YCHNfuuyW3s88"
-      },
-      "artists": [
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        },
-        {
-          "name": "LEIJON",
-          "url": "https://open.spotify.com/artist/5I0DEhBfWK76pttt1P8tCs"
-        },
-        {
-          "name": "nobodyknowsjones",
-          "url": "https://open.spotify.com/artist/4CymeX9LBix0SigmOw4xkE"
-        }
-      ],
-      "duration_ms": 144023,
-      "name": "SPEND IT",
-      "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1761,26 +1761,6 @@
       "url": "https://open.spotify.com/track/7uM6anPIQpJdxt4v2Dis81"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Big Bad Sound",
-        "url": "https://open.spotify.com/album/5kbNQthGaDLvSlczyJnSDM"
-      },
-      "artists": [
-        {
-          "name": "SQWAD",
-          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
-        },
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Big Bad Sound",
-      "url": "https://open.spotify.com/track/79lJ78VF91JSP4mQz44feU"
-    },
-    {
       "added_at": "2026-05-01 04:01:35",
       "album": {
         "name": "All I Think About",
@@ -1799,6 +1779,26 @@
       "duration_ms": 177313,
       "name": "All I Think About",
       "url": "https://open.spotify.com/track/3ZHjhEqK1Nq03a0c3DELG4"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Big Bad Sound",
+        "url": "https://open.spotify.com/album/5kbNQthGaDLvSlczyJnSDM"
+      },
+      "artists": [
+        {
+          "name": "SQWAD",
+          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
+        },
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Big Bad Sound",
+      "url": "https://open.spotify.com/track/79lJ78VF91JSP4mQz44feU"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Sound of da Police",
-        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 140624,
-      "name": "Sound of da Police",
-      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "That Girl",
         "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 229384,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Sound of da Police",
+        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "Sound of da Police",
+      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
     },
     {
       "added_at": "2026-01-16 05:00:37",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Off The Hook",
+        "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+        }
+      ],
+      "duration_ms": 154384,
+      "name": "Off The Hook",
+      "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "gImmE gImmE",
         "url": "https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82"
       },
@@ -2013,20 +2029,20 @@
       "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-05-08 04:01:56",
       "album": {
-        "name": "Off The Hook",
-        "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/6Ypp3AlqyAsm7CII1FdQEi"
       },
       "artists": [
         {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
         }
       ],
-      "duration_ms": 154384,
-      "name": "Off The Hook",
-      "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
+      "duration_ms": 230624,
+      "name": "Trendsetter",
+      "url": "https://open.spotify.com/track/5MMPfKSSzfGvJ1VVZgHPqS"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2047,22 +2063,6 @@
       "duration_ms": 182769,
       "name": "That's the Spot",
       "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
-    },
-    {
-      "added_at": "2026-05-08 04:01:56",
-      "album": {
-        "name": "Trendsetter",
-        "url": "https://open.spotify.com/album/6Ypp3AlqyAsm7CII1FdQEi"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        }
-      ],
-      "duration_ms": 230624,
-      "name": "Trendsetter",
-      "url": "https://open.spotify.com/track/5MMPfKSSzfGvJ1VVZgHPqS"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2185,22 +2185,6 @@
       "url": "https://open.spotify.com/track/7v0FrXXKGnVelJsJQubUxV"
     },
     {
-      "added_at": "2026-04-17 04:02:12",
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/36poUrVEJVkcHABIVxlqv3"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/2GMHlcrfeNgqRxmuM85LTb"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Crazy Shit",
@@ -2215,6 +2199,22 @@
       "duration_ms": 213234,
       "name": "Crazy Shit",
       "url": "https://open.spotify.com/track/5ju7hV8Kb2p2loZz9WyOWv"
+    },
+    {
+      "added_at": "2026-04-17 04:02:12",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/36poUrVEJVkcHABIVxlqv3"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/2GMHlcrfeNgqRxmuM85LTb"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2297,24 +2297,20 @@
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
-      "added_at": "2026-03-30 14:35:54",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Inferno",
-        "url": "https://open.spotify.com/album/6dCpnvdq8U4plaAKwFJ52M"
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
       },
       "artists": [
         {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Levex",
-          "url": "https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef"
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
         }
       ],
-      "duration_ms": 151547,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/2WOX91Z1AZlkFgF3qBV1TU"
+      "duration_ms": 200610,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
     },
     {
       "added_at": "2026-05-01 04:01:35",
@@ -2341,22 +2337,6 @@
       "url": "https://open.spotify.com/track/0BlU2gwg8AhtqYFweasXss"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Alcoholic",
-        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 200610,
-      "name": "Alcoholic",
-      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
-    },
-    {
       "added_at": "2026-05-22 04:01:19",
       "album": {
         "name": "Keep On Dancing",
@@ -2375,6 +2355,26 @@
       "duration_ms": 134076,
       "name": "Keep On Dancing",
       "url": "https://open.spotify.com/track/41I6VRCOvauu53kjGvNoAy"
+    },
+    {
+      "added_at": "2026-03-30 14:35:54",
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/6dCpnvdq8U4plaAKwFJ52M"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Levex",
+          "url": "https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef"
+        }
+      ],
+      "duration_ms": 151547,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/2WOX91Z1AZlkFgF3qBV1TU"
     },
     {
       "added_at": "2026-05-22 04:01:19",

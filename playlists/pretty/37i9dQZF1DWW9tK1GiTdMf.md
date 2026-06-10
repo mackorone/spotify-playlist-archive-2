@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni per un'estate non proprio felice 🥀 cover: OTTOBRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,149 likes - 101 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,146 likes - 101 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

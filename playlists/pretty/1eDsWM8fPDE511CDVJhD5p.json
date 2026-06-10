@@ -6,8 +6,108 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAHUFNwr/y0j9y8jjNXz6RUoUhrcHIu",
+  "snapshot_id": "AAAHX5qN94GwVNGxf8CkhYRtAOs0VUD3",
   "tracks": [
+    {
+      "added_at": "2026-06-09 07:18:56",
+      "album": {
+        "name": "turning.",
+        "url": "https://open.spotify.com/album/6KD1YrKTVOpaiiTB3moI9q"
+      },
+      "artists": [
+        {
+          "name": "\u6674\u3044\u3061\u3070\u3093",
+          "url": "https://open.spotify.com/artist/6d739FHu1QAC7MGNWuMPCW"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 222250,
+      "name": "\u30bf\u30fc\u30cb\u30f3\u30b0 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2VWxYskjevvJF87bqqnkm5"
+    },
+    {
+      "added_at": "2026-06-09 07:19:10",
+      "album": {
+        "name": "Sepia",
+        "url": "https://open.spotify.com/album/0Gx7KMVkAYJdseHbRk56cQ"
+      },
+      "artists": [
+        {
+          "name": "kr-KuuRa",
+          "url": "https://open.spotify.com/artist/4ff1NLLTNDkr4f4UfrzWIl"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 241428,
+      "name": "Sepia (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/38WRxYTCuoPIIqpDfKVqLQ"
+    },
+    {
+      "added_at": "2026-06-09 07:19:22",
+      "album": {
+        "name": "\u30af\u30e9\u30c3\u30af\u30e9\u30c3\u30ab",
+        "url": "https://open.spotify.com/album/4PGYGH2b5lrhdVaZ60EOr6"
+      },
+      "artists": [
+        {
+          "name": "\u304d\u3055\u3089",
+          "url": "https://open.spotify.com/artist/6UBD36BDxz7W53HaZcK4yT"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "\u30af\u30e9\u30c3\u30af\u30e9\u30c3\u30ab (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5PX2xzaqe1q6dtaNjCtJcx"
+    },
+    {
+      "added_at": "2026-06-09 07:19:37",
+      "album": {
+        "name": "\u6b63\u7fa9\u5171\u9cf4 EP",
+        "url": "https://open.spotify.com/album/2YwRgsBQHQq0Y9gBhkvXwv"
+      },
+      "artists": [
+        {
+          "name": "Adomiori",
+          "url": "https://open.spotify.com/artist/4GCCMFsEYjm4th48sLCGrZ"
+        },
+        {
+          "name": "\u97f3\u8857\u30a6\u30ca",
+          "url": "https://open.spotify.com/artist/3vx4KtiD9ciUsGOamm2ZcA"
+        }
+      ],
+      "duration_ms": 148548,
+      "name": "\u7a7a\u5a01\u5f35 (feat. \u97f3\u8857\u30a6\u30ca)",
+      "url": "https://open.spotify.com/track/2EPgFSNaxPBuGTTON9p5TV"
+    },
+    {
+      "added_at": "2026-06-09 07:19:54",
+      "album": {
+        "name": "Letters from Vladivostok",
+        "url": "https://open.spotify.com/album/12YeXvejG2DoL5zdoxVjhy"
+      },
+      "artists": [
+        {
+          "name": "Lucevitous, MiliSen",
+          "url": "https://open.spotify.com/artist/3JaAhPOtZ9pnvviFuacm3I"
+        },
+        {
+          "name": "Miyamai Moca",
+          "url": "https://open.spotify.com/artist/76yTxMPtgbePrcsZxTkY82"
+        }
+      ],
+      "duration_ms": 278641,
+      "name": "Letters from Vladivostok (feat. \u5bae\u821e\u30e2\u30ab&\u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/2yNd85wpRBr4f61t2fXnWE"
+    },
     {
       "added_at": "2026-05-19 07:16:01",
       "album": {
@@ -711,106 +811,6 @@
       "duration_ms": 190721,
       "name": "\u30e9\u30b9\u30dc\u30b9\u3092\u3084\u3063\u3064\u3051\u308d\uff01 (feat. \u77e5\u58f0)",
       "url": "https://open.spotify.com/track/3su8B5m0zRJ4AUV5JumN2Q"
-    },
-    {
-      "added_at": "2026-03-10 07:40:27",
-      "album": {
-        "name": "\u5de1\u308b / Grace Alone",
-        "url": "https://open.spotify.com/album/2Hh8AYtF2uW7LOWgXfKnz4"
-      },
-      "artists": [
-        {
-          "name": "\u305b\u304d\u3053\u307f\u3054\u306f\u3093",
-          "url": "https://open.spotify.com/artist/0Ob20i2XjAOSyVQGdJP0IS"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "\u5de1\u308b (feat. \u5de1\u97f3\u30eb\u30ab)",
-      "url": "https://open.spotify.com/track/4J0bc5YEb0N3TSGsxIIsif"
-    },
-    {
-      "added_at": "2026-03-10 07:40:38",
-      "album": {
-        "name": "Prhythmatic4",
-        "url": "https://open.spotify.com/album/4Am9aiTAIiNA6JZa3aA5Ur"
-      },
-      "artists": [
-        {
-          "name": "Yunosuke",
-          "url": "https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "Sharari (feat. Hatsune Miku)",
-      "url": "https://open.spotify.com/track/2N55neUwaP07U3TMUHi6Gg"
-    },
-    {
-      "added_at": "2026-03-10 07:40:51",
-      "album": {
-        "name": "\u307e\u3076\u3057\u3044",
-        "url": "https://open.spotify.com/album/6VuIcrvWtAwikMwg9IxJrB"
-      },
-      "artists": [
-        {
-          "name": "Glue",
-          "url": "https://open.spotify.com/artist/4RYgfACpO30g7D88VWvk85"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        }
-      ],
-      "duration_ms": 170999,
-      "name": "\u307e\u3076\u3057\u3044 (feat. MEIKO)",
-      "url": "https://open.spotify.com/track/7EPgtK6p677CX46eifRY2P"
-    },
-    {
-      "added_at": "2026-03-10 07:41:06",
-      "album": {
-        "name": "\u30cf\u30c3\u30d4\u30fc\u30ad\u30e9\u30fc",
-        "url": "https://open.spotify.com/album/1Ms6FzCRUgCNRENQq1Orby"
-      },
-      "artists": [
-        {
-          "name": "\u306b\u3053\u306b\u3053\u3082\u304b\u308c\u30fc",
-          "url": "https://open.spotify.com/artist/0Sfql4L2dw8C7YqQTw3CkZ"
-        },
-        {
-          "name": "AiSuu",
-          "url": "https://open.spotify.com/artist/3RLthcK9u3qBoibNfNEseO"
-        }
-      ],
-      "duration_ms": 238588,
-      "name": "\u30cf\u30c3\u30d4\u30fc\u30ad\u30e9\u30fc (feat. AIsuu)",
-      "url": "https://open.spotify.com/track/5QiECogilbpQMr0AER9pwD"
-    },
-    {
-      "added_at": "2026-03-10 07:41:16",
-      "album": {
-        "name": "Brilliance",
-        "url": "https://open.spotify.com/album/0D1IkyFIvPgtyHtulb8KSb"
-      },
-      "artists": [
-        {
-          "name": "Mwk",
-          "url": "https://open.spotify.com/artist/5VOCdksdWE53nxsxTEynVB"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 176551,
-      "name": "Brilliance",
-      "url": "https://open.spotify.com/track/0RbZ19kYLUBOSJZlFWXjFC"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

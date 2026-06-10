@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر! الغلاف: عصام صاصا
 
-385 songs - 23 hr 55 min
+386 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [الزم معايا حدودك \( بما ان كلو اتجاحد \)](https://open.spotify.com/track/2QScm7uOWDXD26SVII5GJr) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [الزم معايا حدودك \( بما ان كلو اتجاحد \)](https://open.spotify.com/album/2cKHDvqBjabqXHxGMcc8Gj) | 3:45 | 2025-12-10 |  |
 | [السكر جي \(خوجة في الجمب\)](https://open.spotify.com/track/3Hf81fxwZmFrTgqaSqyTfw) | [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [السكر جي \(خوجة في الجمب\)](https://open.spotify.com/album/1hzQl9blk5h3tZI5BGbqS7) | 3:31 | 2024-01-31 | 2024-05-11 |
 | [الشارع اتفسد \- اهلا بيكو يا مظابيط](https://open.spotify.com/track/5EVxFpZ5tYE8o0cYnoHoQy) | [Mostafa Elgen](https://open.spotify.com/artist/6waWgmPILhG345nVwJfb4N), [Hady El Soghayar](https://open.spotify.com/artist/60peYSKKIhlh480uUFP7yP) | [الشارع اتفسد \(اهلا بيكو يا مظابيط\)](https://open.spotify.com/album/5AASREJYv8UztFh6i1zjCS) | 3:17 | 2025-02-12 | 2026-03-26 |
-| [الشدايد باينت](https://open.spotify.com/track/3bDfVpMtv62DekRPIe6NWF) | [Omar Hefzy](https://open.spotify.com/artist/5n5h1d0zdWdWRzOlPlS874), [Osha El Soghayar](https://open.spotify.com/artist/2ct9fGtMhsB0TM4cyZHmrg), [mohamed elbosely](https://open.spotify.com/artist/4u9c50zufE3gWKaYVSEilr) | [الشدايد باينت](https://open.spotify.com/album/3e9SDCbQZRc6EuPvg6o2Tn) | 5:06 | 2026-05-21 |  |
+| [الشدايد باينت](https://open.spotify.com/track/3bDfVpMtv62DekRPIe6NWF) | [Omar Hefzy](https://open.spotify.com/artist/5n5h1d0zdWdWRzOlPlS874), [Osha El Soghayar](https://open.spotify.com/artist/2ct9fGtMhsB0TM4cyZHmrg), [mohamed elbosely](https://open.spotify.com/artist/4u9c50zufE3gWKaYVSEilr) | [الشدايد باينت](https://open.spotify.com/album/3e9SDCbQZRc6EuPvg6o2Tn) | 5:06 | 2026-05-21 | 2026-06-10 |
 | [الصبر طيب يا عيوني](https://open.spotify.com/track/6MlfIdyeZRo0yRWIvMojGQ) | [فرامل](https://open.spotify.com/artist/6xLqSnm62lhtPR82fNG0uT) | [الصبر طيب يا عيوني](https://open.spotify.com/album/091A89Fi8UwATSmL97THJ8) | 3:26 | 2023-06-16 | 2023-08-09 |
 | [الصدارة بيتى](https://open.spotify.com/track/1qQoYkAVwP0PjSqgKgqaHG) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [الصدارة بيتى](https://open.spotify.com/album/52c3EJQaWAsE0GR4HVvclK) | 3:24 | 2026-05-05 |  |
 | [الضهر و السند اتحبسو](https://open.spotify.com/track/1dCsdA218qS3AyW5Vn3HGc) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [الضهر و السند اتحبسو](https://open.spotify.com/album/3arCqAEdsTVgqLMABriSZw) | 3:58 | 2023-05-30 | 2023-06-22 |
@@ -290,6 +290,7 @@
 | [كله بألف وش](https://open.spotify.com/track/2xa1lKFfSDDEBeJURGDXf6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كله بألف وش](https://open.spotify.com/album/3LmFEyUvrTZcfGANGcEX2L) | 3:20 | 2023-08-08 | 2023-12-14 |
 | [كله طار فالمطار](https://open.spotify.com/track/4Ie7oOIUQkXvh1fHBsSlOg) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Mohamed Chahine](https://open.spotify.com/artist/4d9QeHQF7jBlI2ijrgjZux) | [كله طار فالمطار](https://open.spotify.com/album/6Fao9AJIiam6uKwM7YtEcJ) | 3:44 | 2021-12-16 | 2022-02-02 |
 | [كلها بقا ليها اخصام \- عليا الطلاق كله بيكدب](https://open.spotify.com/track/4vLMzTyW0qq87QEaX2enxW) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG) | [كلها بقا ليها اخصام \(عليا الطلاق كله بيكدب\)](https://open.spotify.com/album/76zWCg8Bm8Ifac89Vww2al) | 3:09 | 2023-08-17 | 2025-01-14 |
+| [كلها مستنظره عيزني ارجع ورا](https://open.spotify.com/track/0ytTMGsxwuse60V0dk8PIX) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [كلها مستنظره عيزني ارجع ورا](https://open.spotify.com/album/6p9ieBIjSX9GCVZElCjNe0) | 3:03 | 2026-06-09 |  |
 | [كلو الابيض ع ناصيتو \- انا من بلد اسمها حلوان](https://open.spotify.com/track/3o4uPQzXyFwqYQsW4VUqh9) | [Mostafa Elgen](https://open.spotify.com/artist/6waWgmPILhG345nVwJfb4N), [ايهاب البوب](https://open.spotify.com/artist/6j2PfMIitA4oMDA1WISieO), [Hady El Soghayar](https://open.spotify.com/artist/60peYSKKIhlh480uUFP7yP) | [كلو الابيض ع ناصيتو \(انا من بلد اسمها حلوان\)](https://open.spotify.com/album/7fHyOTUtQSyQ0tPZsrEKeQ) | 4:44 | 2025-04-22 | 2025-05-08 |
 | [كليب قلبي ياللي كلامي عندك \- حوده بندق](https://open.spotify.com/track/4Em6pbLVY7UIUyP8W0JRmX) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [كليب قلبي ياللي كلامي عندك \- حوده بندق](https://open.spotify.com/album/6vCp0MMAZdZ2fcY8zYVNQH) | 3:23 | 2023-08-08 | 2023-08-25 |
 | [لبسي برندات \( مفيش غيرك انتي يا مامت حيما \)](https://open.spotify.com/track/4v1tiU3b6qASEpPHtL2q3Z) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [لبسي برندات \( مفيش غيرك انتي يا مامت حيما \)](https://open.spotify.com/album/5aNLP3rzLiEW323s5SQXNK) | 3:19 | 2026-01-12 | 2026-04-08 |

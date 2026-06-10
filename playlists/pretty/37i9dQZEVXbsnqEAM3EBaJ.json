@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "8-Tracks",
-        "url": "https://open.spotify.com/album/7boV4MiTWKwlNZHlVDYZqM"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 214945,
-      "name": "Pigs on the Wing - 8-Track Version",
-      "url": "https://open.spotify.com/track/2v8YjRvFlvmqYRs4uZwd2W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CANDY DOPAMINE",
         "url": "https://open.spotify.com/album/1O0ioUh8VAINx6kBd8DWQ2"
       },
@@ -63,22 +47,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ale y Jorge",
-        "url": "https://open.spotify.com/album/7zb9sinj9BiroZKNso7IHG"
+        "name": "8-Tracks",
+        "url": "https://open.spotify.com/album/7boV4MiTWKwlNZHlVDYZqM"
       },
       "artists": [
         {
-          "name": "Jorge Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/4Dqwi7dnhN0j8X1i98mdKG"
-        },
-        {
-          "name": "Alejandra Tapia",
-          "url": "https://open.spotify.com/artist/3ZjLEEQW4N7mXHbzfo7DDS"
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 184000,
-      "name": "En puntillas tras de ti",
-      "url": "https://open.spotify.com/track/1W5rVxwo98IrgCMa7Mmb41"
+      "duration_ms": 214945,
+      "name": "Pigs on the Wing - 8-Track Version",
+      "url": "https://open.spotify.com/track/2v8YjRvFlvmqYRs4uZwd2W"
     },
     {
       "added_at": null,
@@ -99,18 +79,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diablo",
-        "url": "https://open.spotify.com/album/16fi2TyeOAUZq5jcR6g2yW"
+        "name": "Nancy Boy (RE:CREATED VERSION)",
+        "url": "https://open.spotify.com/album/1ReSN8RHAzS9Yne8vzEwmC"
       },
       "artists": [
         {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
         }
       ],
-      "duration_ms": 196497,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/1TZEsvP0l9ZSPUZuizqBi2"
+      "duration_ms": 210933,
+      "name": "Nancy Boy - RE:CREATED VERSION",
+      "url": "https://open.spotify.com/track/17IQNAFccW7yC8EvWZXyib"
     },
     {
       "added_at": null,
@@ -131,38 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schwarzer Engel",
-        "url": "https://open.spotify.com/album/47tf2ax3Ydqsy4xnBEkvHx"
-      },
-      "artists": [
-        {
-          "name": "Blutengel",
-          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "Schwarzer Engel",
-      "url": "https://open.spotify.com/track/5RGrCElLWilhDedU13w54i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nancy Boy (RE:CREATED VERSION)",
-        "url": "https://open.spotify.com/album/1ReSN8RHAzS9Yne8vzEwmC"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Nancy Boy - RE:CREATED VERSION",
-      "url": "https://open.spotify.com/track/17IQNAFccW7yC8EvWZXyib"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Love To Boogie (Take 4) (Overdub)",
         "url": "https://open.spotify.com/album/0f1p1IuqO8VVhXE6ndvuWb"
       },
@@ -175,6 +123,42 @@
       "duration_ms": 155053,
       "name": "We Love To Boogie (Take 4) (Overdub)",
       "url": "https://open.spotify.com/track/2DRiQThrGAg32eHMYozrAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/16fi2TyeOAUZq5jcR6g2yW"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 196497,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/1TZEsvP0l9ZSPUZuizqBi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Good Times Roll (feat. The Offspring)",
+        "url": "https://open.spotify.com/album/3DYNEZppvFYlMwHri5UrXt"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 210913,
+      "name": "Let The Good Times Roll (feat. The Offspring)",
+      "url": "https://open.spotify.com/track/2pdls2qWOcB33HveBJdS2f"
     },
     {
       "added_at": null,
@@ -203,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALACARA",
-        "url": "https://open.spotify.com/album/7LvtUitIPPgxc2TWkoAUmz"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "MALACARA",
-      "url": "https://open.spotify.com/track/5EEfCt0cOkKG5a9JaUcX7X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slave to the Rithm (Remixes)",
         "url": "https://open.spotify.com/album/2lNuFgzWuFS0XAqdaQKeca"
       },
@@ -243,8 +211,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOCTURNE (2026)",
-        "url": "https://open.spotify.com/album/51BL4DfhHBzVL5CF6SGRBX"
+        "name": "MALACARA",
+        "url": "https://open.spotify.com/album/7LvtUitIPPgxc2TWkoAUmz"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "MALACARA",
+      "url": "https://open.spotify.com/track/5EEfCt0cOkKG5a9JaUcX7X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FALLING BELOW (2026)",
+        "url": "https://open.spotify.com/album/42KdVaz66J7TbWgQX5w6JO"
       },
       "artists": [
         {
@@ -256,157 +240,45 @@
           "url": "https://open.spotify.com/artist/20LgVzi8mg8qf9JKyDbauU"
         }
       ],
-      "duration_ms": 295978,
-      "name": "NOCTURNE (2026)",
-      "url": "https://open.spotify.com/track/6lN7iI76jWyeP9uhgDd4G3"
+      "duration_ms": 255424,
+      "name": "FALLING BELOW (2026)",
+      "url": "https://open.spotify.com/track/50qrr04sLcKFxFNIeiBvJR"
     },
     {
       "added_at": null,
       "album": {
-        "name": "A Hard Lesson (Bright-Side Mix)",
-        "url": "https://open.spotify.com/album/4GqMaXf8qttXI2TaVvaB1r"
+        "name": "Ale y Jorge",
+        "url": "https://open.spotify.com/album/7zb9sinj9BiroZKNso7IHG"
       },
       "artists": [
         {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 402266,
-      "name": "A Hard Lesson - Bright-Side Mix",
-      "url": "https://open.spotify.com/track/1VIIFuDKNKytU7am8QCsHo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/7he2XBFuMEkYzdlHvHJ0mK"
-      },
-      "artists": [
-        {
-          "name": "Aboy Beats",
-          "url": "https://open.spotify.com/artist/5SDAk4xNUjGlh6pE0OlVRc"
+          "name": "Jorge Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/4Dqwi7dnhN0j8X1i98mdKG"
         },
         {
-          "name": "Kitaro",
-          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
-        },
-        {
-          "name": "Klaus Schulze",
-          "url": "https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB"
+          "name": "Alejandra Tapia",
+          "url": "https://open.spotify.com/artist/3ZjLEEQW4N7mXHbzfo7DDS"
         }
       ],
-      "duration_ms": 125504,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/5yomPrBV42cjSGXTcdP1Kq"
+      "duration_ms": 184000,
+      "name": "Alejandra",
+      "url": "https://open.spotify.com/track/3dGkOQk5Ac81hpd03M7egy"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Let The Good Times Roll (feat. The Offspring)",
-        "url": "https://open.spotify.com/album/3DYNEZppvFYlMwHri5UrXt"
+        "name": "Schwarzer Engel",
+        "url": "https://open.spotify.com/album/47tf2ax3Ydqsy4xnBEkvHx"
       },
       "artists": [
         {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        },
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Blutengel",
+          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
         }
       ],
-      "duration_ms": 210913,
-      "name": "Let The Good Times Roll (feat. The Offspring)",
-      "url": "https://open.spotify.com/track/2pdls2qWOcB33HveBJdS2f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Might as Well Be Strangers (ft. Wednesday)",
-        "url": "https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        },
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "We Might as Well Be Strangers (ft. Wednesday)",
-      "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4WARD",
-        "url": "https://open.spotify.com/album/4Wu52D5zdJ7HpcvkgxaESk"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "4 Flowers",
-      "url": "https://open.spotify.com/track/3wc2PoPGpb1vzM79AgitIh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stone",
-        "url": "https://open.spotify.com/album/4IjyIYp9dCLyee4XpNGK9x"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/0cavHxQCIaWD859Th2AXyc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wine into Water (feat. Elton John)",
-        "url": "https://open.spotify.com/album/4heqPzOuHdsybXGc2NXOCS"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 205987,
-      "name": "Wine into Water (feat. Elton John)",
-      "url": "https://open.spotify.com/track/5ptZgAvkeGAzQfUFzmmYgb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Built You A Tower",
-        "url": "https://open.spotify.com/album/4D1zUsXw30DbfOqY1gVsfT"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 194225,
-      "name": "Stone Over Water",
-      "url": "https://open.spotify.com/track/0uZ0Ec6FkEwHGRhrtvcJAo"
+      "duration_ms": 203440,
+      "name": "Schwarzer Engel",
+      "url": "https://open.spotify.com/track/5RGrCElLWilhDedU13w54i"
     },
     {
       "added_at": null,
@@ -439,6 +311,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wine into Water (feat. Elton John)",
+        "url": "https://open.spotify.com/album/4heqPzOuHdsybXGc2NXOCS"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 205987,
+      "name": "Wine into Water (feat. Elton John)",
+      "url": "https://open.spotify.com/track/5ptZgAvkeGAzQfUFzmmYgb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Might as Well Be Strangers (ft. Wednesday)",
+        "url": "https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "We Might as Well Be Strangers (ft. Wednesday)",
+      "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Knew It, I Knew You",
         "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
       },
@@ -455,6 +367,78 @@
     {
       "added_at": null,
       "album": {
+        "name": "4WARD",
+        "url": "https://open.spotify.com/album/4Wu52D5zdJ7HpcvkgxaESk"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "4 Flowers",
+      "url": "https://open.spotify.com/track/3wc2PoPGpb1vzM79AgitIh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Built You A Tower",
+        "url": "https://open.spotify.com/album/4D1zUsXw30DbfOqY1gVsfT"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 194225,
+      "name": "Stone Over Water",
+      "url": "https://open.spotify.com/track/0uZ0Ec6FkEwHGRhrtvcJAo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone",
+        "url": "https://open.spotify.com/album/4IjyIYp9dCLyee4XpNGK9x"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/0cavHxQCIaWD859Th2AXyc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/7he2XBFuMEkYzdlHvHJ0mK"
+      },
+      "artists": [
+        {
+          "name": "Aboy Beats",
+          "url": "https://open.spotify.com/artist/5SDAk4xNUjGlh6pE0OlVRc"
+        },
+        {
+          "name": "Kitaro",
+          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
+        },
+        {
+          "name": "Klaus Schulze",
+          "url": "https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB"
+        }
+      ],
+      "duration_ms": 125504,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/5yomPrBV42cjSGXTcdP1Kq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't No Hard Feelings",
         "url": "https://open.spotify.com/album/1tegcSKikmtTnXDtDtftWq"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 195999,
       "name": "Ain't No Hard Feelings",
       "url": "https://open.spotify.com/track/1hyn89wn5K01dpyw1cmyhQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Hard Lesson (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/4GqMaXf8qttXI2TaVvaB1r"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 402266,
+      "name": "A Hard Lesson - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/1VIIFuDKNKytU7am8QCsHo"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grand Serpent Rising",
+        "url": "https://open.spotify.com/album/5vO7AYAWlgTAKVMoHs0Bpt"
+      },
+      "artists": [
+        {
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+        }
+      ],
+      "duration_ms": 338310,
+      "name": "Slik Minnes en Alkymist",
+      "url": "https://open.spotify.com/track/79NfeUPj4EdMyXMD8ZACl4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cross Your Heart",
         "url": "https://open.spotify.com/album/5k3huOLeOfUYPVPCmxgnCh"
       },
@@ -507,114 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grand Serpent Rising",
-        "url": "https://open.spotify.com/album/5vO7AYAWlgTAKVMoHs0Bpt"
-      },
-      "artists": [
-        {
-          "name": "Dimmu Borgir",
-          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
-        }
-      ],
-      "duration_ms": 357349,
-      "name": "The Exonerated",
-      "url": "https://open.spotify.com/track/523MPhlTsjoJdOnj90OtmQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Metalheart",
-        "url": "https://open.spotify.com/album/3rlrgmopYFDYlDa4We2UuP"
-      },
-      "artists": [
-        {
-          "name": "Nargaroth",
-          "url": "https://open.spotify.com/artist/0aIcU4OHpKl7lpcRQp32Eo"
-        }
-      ],
-      "duration_ms": 256897,
-      "name": "Metalheart",
-      "url": "https://open.spotify.com/track/6nbMktERxgnegcTWKQtpul"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shed",
-        "url": "https://open.spotify.com/album/2uGMuXGdTAn5AcTv6bmMyr"
-      },
-      "artists": [
-        {
-          "name": "Meshuggah",
-          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
-        }
-      ],
-      "duration_ms": 214386,
-      "name": "Shed",
-      "url": "https://open.spotify.com/track/25Ko4HidXVJ7UDiLIGygof"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sue\u00f1o con serpientes",
-        "url": "https://open.spotify.com/album/3zDgVTmAEHg692OiwQfkQ4"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        },
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 302565,
-      "name": "Sue\u00f1o con serpientes",
-      "url": "https://open.spotify.com/track/0MImNCJE8DJD37HjIQb4gA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Reign O'er Me (Boomerang Remix)",
-        "url": "https://open.spotify.com/album/4yaXWOLjwWWp4FHspP5Wnk"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        },
-        {
-          "name": "Mark Hannah",
-          "url": "https://open.spotify.com/artist/3Sav46IE6MmtDEV6Byiv1p"
-        }
-      ],
-      "duration_ms": 188972,
-      "name": "Love Reign O'er Me - Boomerang Remix",
-      "url": "https://open.spotify.com/track/5ewg8NmWIOugU3qwHdPohA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lottery",
-        "url": "https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 139706,
-      "name": "Ain't No Sunshine (feat. Sting)",
-      "url": "https://open.spotify.com/track/5Rzymro3VV5m1YjVVWLqAF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfDemocracia?",
         "url": "https://open.spotify.com/album/1sXUCwzPaMpScDSbttkCog"
       },
@@ -627,42 +535,6 @@
       "duration_ms": 129214,
       "name": "Me Apestan",
       "url": "https://open.spotify.com/track/32HOzZ3fTYuAcLk9T671LQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Starless",
-        "url": "https://open.spotify.com/album/2EmcHkFMRu0PS6viXk90Jd"
-      },
-      "artists": [
-        {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
-        }
-      ],
-      "duration_ms": 272567,
-      "name": "Starless",
-      "url": "https://open.spotify.com/track/0MXz52zYBIIe3wuqojwjsr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es brennt... (Doomfire Version by Greg Mackintosh of Paradise Lost)",
-        "url": "https://open.spotify.com/album/7nBNBUMcluVC8kF0KQjV5Q"
-      },
-      "artists": [
-        {
-          "name": "Till Lindemann",
-          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
-        },
-        {
-          "name": "Paradise Lost",
-          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Es brennt... - Doomfire Version by Greg Mackintosh of Paradise Lost",
-      "url": "https://open.spotify.com/track/1r94Dw2WMU8jHKxBj1m023"
     },
     {
       "added_at": null,
@@ -687,18 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light Pollution",
-        "url": "https://open.spotify.com/album/0W9vuJkWVNLu5wyoXfmBG0"
+        "name": "Shed",
+        "url": "https://open.spotify.com/album/2uGMuXGdTAn5AcTv6bmMyr"
       },
       "artists": [
         {
-          "name": "The Ocean",
-          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
         }
       ],
-      "duration_ms": 595746,
-      "name": "Light Pollution",
-      "url": "https://open.spotify.com/track/04IRskU64H3yOCvkvxzcgJ"
+      "duration_ms": 214386,
+      "name": "Shed",
+      "url": "https://open.spotify.com/track/25Ko4HidXVJ7UDiLIGygof"
     },
     {
       "added_at": null,
@@ -723,122 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under Wraps (The Unwrapped Edition)",
-        "url": "https://open.spotify.com/album/20SZE9X6V2z3ZlCfdhqNZY"
+        "name": "Metalheart",
+        "url": "https://open.spotify.com/album/3rlrgmopYFDYlDa4We2UuP"
       },
       "artists": [
         {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+          "name": "Nargaroth",
+          "url": "https://open.spotify.com/artist/0aIcU4OHpKl7lpcRQp32Eo"
         }
       ],
-      "duration_ms": 332186,
-      "name": "Too Old To Rock 'N' Roll - Live at Hammersmith Odeon, 1984",
-      "url": "https://open.spotify.com/track/0EVvbU2933Ul9QWIqd5yaw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The World Meets Los Mirlos",
-        "url": "https://open.spotify.com/album/0WDu5tUg69jIZRrIy9dsLx"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        },
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 225590,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/1Aq646DNeBRKAyk6cmQXOd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anenoa",
-        "url": "https://open.spotify.com/album/5AAUBxhjnkc6ezrx6QziHY"
-      },
-      "artists": [
-        {
-          "name": "Matias Aguayo",
-          "url": "https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 275106,
-      "name": "\u00bfNo ves?",
-      "url": "https://open.spotify.com/track/7z598XmMJYKMG7U2OaifNY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turnaround Situation",
-        "url": "https://open.spotify.com/album/4TWNosT1xKToVL3bYooutL"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 348360,
-      "name": "Turnaround Situation",
-      "url": "https://open.spotify.com/track/03F7CSdq7NvvuDasfupUOS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinatra The Musical: His Way - The Originals",
-        "url": "https://open.spotify.com/album/5YEThML8feFJpk0c4KDgW7"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 114760,
-      "name": "I'm Gonna Live Till I Die",
-      "url": "https://open.spotify.com/track/2fhMMMA2Ea9MjGYW2sOue3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unchained",
-        "url": "https://open.spotify.com/album/6mnvQcpghtUetyPGrcrjHE"
-      },
-      "artists": [
-        {
-          "name": "Amberian Dawn",
-          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
-        }
-      ],
-      "duration_ms": 211981,
-      "name": "Unchained",
-      "url": "https://open.spotify.com/track/1kXEfakdJcD2Z85OkkJFof"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE DARK",
-        "url": "https://open.spotify.com/album/32OGQPo0RhXL413nb90kU2"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        }
-      ],
-      "duration_ms": 226987,
-      "name": "THE DARK",
-      "url": "https://open.spotify.com/track/2DaL7tD1NdsuoOJtOwW6tc"
+      "duration_ms": 256897,
+      "name": "Metalheart",
+      "url": "https://open.spotify.com/track/6nbMktERxgnegcTWKQtpul"
     },
     {
       "added_at": null,
@@ -859,58 +627,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spooky (Sub Sub 12'' Remix)",
-        "url": "https://open.spotify.com/album/1um9aqhhMEvhUdtNeihfWe"
+        "name": "Lottery",
+        "url": "https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4"
       },
       "artists": [
         {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
         },
         {
-          "name": "Sub Sub",
-          "url": "https://open.spotify.com/artist/7GWspDz4ebIKpeZwtYYvKm"
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         }
       ],
-      "duration_ms": 362533,
-      "name": "Spooky - Sub Sub 12'' Remix",
-      "url": "https://open.spotify.com/track/3CeHkbLfr7hwuhOhccWVeD"
+      "duration_ms": 139706,
+      "name": "Ain't No Sunshine (feat. Sting)",
+      "url": "https://open.spotify.com/track/5Rzymro3VV5m1YjVVWLqAF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mil Cabezas (En Vivo)",
-        "url": "https://open.spotify.com/album/7CuhiN1qE6pOoEgP7rTKYl"
+        "name": "Sinatra The Musical: His Way - The Originals",
+        "url": "https://open.spotify.com/album/5YEThML8feFJpk0c4KDgW7"
       },
       "artists": [
         {
-          "name": "Carlos Cabezas",
-          "url": "https://open.spotify.com/artist/64qyErWq0ieALSFbxDpScT"
-        },
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 246344,
-      "name": "Dos mil canciones - En Vivo",
-      "url": "https://open.spotify.com/track/4MqkeZfK8VH1eyVuX2ZowW"
+      "duration_ms": 204906,
+      "name": "Theme From New York, New York - 2008 Remastered",
+      "url": "https://open.spotify.com/track/35rcZ5V1lwIXUTFAZAuBpE"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dear God",
-        "url": "https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu"
+        "name": "Under Wraps (The Unwrapped Edition)",
+        "url": "https://open.spotify.com/album/20SZE9X6V2z3ZlCfdhqNZY"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
         }
       ],
-      "duration_ms": 368505,
-      "name": "Dear God",
-      "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
+      "duration_ms": 210746,
+      "name": "Bring Back The Waltz - Original Drums",
+      "url": "https://open.spotify.com/track/5FHDuWkQtAx01vv7SuaViy"
     },
     {
       "added_at": null,
@@ -943,58 +707,110 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call the Police",
-        "url": "https://open.spotify.com/album/0MDLJqXlHcAqpPHVfMGfqu"
+        "name": "Light Pollution",
+        "url": "https://open.spotify.com/album/0W9vuJkWVNLu5wyoXfmBG0"
       },
       "artists": [
         {
-          "name": "Songboy",
-          "url": "https://open.spotify.com/artist/0gtH2SOGkdmf5Gc6GEkViB"
-        },
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+          "name": "The Ocean",
+          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
         }
       ],
-      "duration_ms": 178356,
-      "name": "Call the Police",
-      "url": "https://open.spotify.com/track/2T1hmoVWOl0IBUIL7nuSPL"
+      "duration_ms": 595746,
+      "name": "Light Pollution",
+      "url": "https://open.spotify.com/track/04IRskU64H3yOCvkvxzcgJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 8 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0FYsyYhHOFkqGUUqPR6e5e"
+        "name": "Spooky (Sub Sub 12'' Remix)",
+        "url": "https://open.spotify.com/album/1um9aqhhMEvhUdtNeihfWe"
       },
       "artists": [
         {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
         },
         {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+          "name": "Sub Sub",
+          "url": "https://open.spotify.com/artist/7GWspDz4ebIKpeZwtYYvKm"
         }
       ],
-      "duration_ms": 121788,
-      "name": "Outlander - The Skye Boat Song (The Journey's End) (feat. Annie Lennox)",
-      "url": "https://open.spotify.com/track/2pssdJs0gcu1RjEVpVjMVp"
+      "duration_ms": 362533,
+      "name": "Spooky - Sub Sub 12'' Remix",
+      "url": "https://open.spotify.com/track/3CeHkbLfr7hwuhOhccWVeD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\u30b9\u30ad\u30f3\u30ba - Skins",
-        "url": "https://open.spotify.com/album/1lrzPbU9Tb3BL1Rr1ovQa6"
+        "name": "Love Reign O'er Me (Boomerang Remix)",
+        "url": "https://open.spotify.com/album/4yaXWOLjwWWp4FHspP5Wnk"
       },
       "artists": [
         {
-          "name": "ASIAN KUNG-FU GENERATION",
-          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+          "name": "Mark Hannah",
+          "url": "https://open.spotify.com/artist/3Sav46IE6MmtDEV6Byiv1p"
         }
       ],
-      "duration_ms": 249266,
-      "name": "\u6c50\u5165\u30ca\u30a4\u30c8\u30d5\u30a9\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/0U2gnhgXSoLhp8KNSbc1zl"
+      "duration_ms": 188972,
+      "name": "Love Reign O'er Me - Boomerang Remix",
+      "url": "https://open.spotify.com/track/5ewg8NmWIOugU3qwHdPohA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dear God",
+        "url": "https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 368505,
+      "name": "Dear God",
+      "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mil Cabezas (En Vivo)",
+        "url": "https://open.spotify.com/album/7CuhiN1qE6pOoEgP7rTKYl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cabezas",
+          "url": "https://open.spotify.com/artist/64qyErWq0ieALSFbxDpScT"
+        },
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 246344,
+      "name": "Dos mil canciones - En Vivo",
+      "url": "https://open.spotify.com/track/4MqkeZfK8VH1eyVuX2ZowW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starless",
+        "url": "https://open.spotify.com/album/2EmcHkFMRu0PS6viXk90Jd"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 272567,
+      "name": "Starless",
+      "url": "https://open.spotify.com/track/0MXz52zYBIIe3wuqojwjsr"
     },
     {
       "added_at": null,
@@ -1011,6 +827,114 @@
       "duration_ms": 215038,
       "name": "40 Years Of Fuckin' Up",
       "url": "https://open.spotify.com/track/3RHysDr2ioGYFKJUh5waWE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sue\u00f1o con serpientes",
+        "url": "https://open.spotify.com/album/3zDgVTmAEHg692OiwQfkQ4"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        },
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 302565,
+      "name": "Sue\u00f1o con serpientes",
+      "url": "https://open.spotify.com/track/0MImNCJE8DJD37HjIQb4gA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es brennt... (Doomfire Version by Greg Mackintosh of Paradise Lost)",
+        "url": "https://open.spotify.com/album/7nBNBUMcluVC8kF0KQjV5Q"
+      },
+      "artists": [
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        },
+        {
+          "name": "Paradise Lost",
+          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Es brennt... - Doomfire Version by Greg Mackintosh of Paradise Lost",
+      "url": "https://open.spotify.com/track/1r94Dw2WMU8jHKxBj1m023"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Promise Me (09 | 26)",
+        "url": "https://open.spotify.com/album/32V3ZOZSMDG2lQMTu17S3P"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "duration_ms": 208542,
+      "name": "Promise Me - 09 | 26",
+      "url": "https://open.spotify.com/track/4lmYbOkYADhQPBJVX2SoGU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE DARK",
+        "url": "https://open.spotify.com/album/32OGQPo0RhXL413nb90kU2"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "duration_ms": 226987,
+      "name": "THE DARK",
+      "url": "https://open.spotify.com/track/2DaL7tD1NdsuoOJtOwW6tc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unchained",
+        "url": "https://open.spotify.com/album/6mnvQcpghtUetyPGrcrjHE"
+      },
+      "artists": [
+        {
+          "name": "Amberian Dawn",
+          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+        }
+      ],
+      "duration_ms": 211981,
+      "name": "Unchained",
+      "url": "https://open.spotify.com/track/1kXEfakdJcD2Z85OkkJFof"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anenoa",
+        "url": "https://open.spotify.com/album/5AAUBxhjnkc6ezrx6QziHY"
+      },
+      "artists": [
+        {
+          "name": "Matias Aguayo",
+          "url": "https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 275106,
+      "name": "\u00bfNo ves?",
+      "url": "https://open.spotify.com/track/7z598XmMJYKMG7U2OaifNY"
     },
     {
       "added_at": null,
@@ -1043,38 +967,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fairy Spark in the Night",
-        "url": "https://open.spotify.com/album/5FwbY1pN5Y9KfE6jAvfnSS"
+        "name": "\u30b9\u30ad\u30f3\u30ba - Skins",
+        "url": "https://open.spotify.com/album/1lrzPbU9Tb3BL1Rr1ovQa6"
       },
       "artists": [
         {
-          "name": "Gary Stadler",
-          "url": "https://open.spotify.com/artist/3bR26OG0nJ6u3k1lkd4RWO"
-        },
-        {
-          "name": "Ffion Elisa",
-          "url": "https://open.spotify.com/artist/484xsAPWxxJRyDuYzz3WqG"
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
         }
       ],
-      "duration_ms": 222656,
-      "name": "Fairy Spark in the Night",
-      "url": "https://open.spotify.com/track/4BNVDJ8YoWGxeNzQfwGNyL"
+      "duration_ms": 249266,
+      "name": "\u6c50\u5165\u30ca\u30a4\u30c8\u30d5\u30a9\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/0U2gnhgXSoLhp8KNSbc1zl"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Monkey",
-        "url": "https://open.spotify.com/album/7bRCgm4u6JDBNuP63NijaP"
+        "name": "Turnaround Situation",
+        "url": "https://open.spotify.com/album/4TWNosT1xKToVL3bYooutL"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
         }
       ],
-      "duration_ms": 225730,
-      "name": "Monkey - A cappella",
-      "url": "https://open.spotify.com/track/234xqvh7kryRd2XYXa7xKo"
+      "duration_ms": 348360,
+      "name": "Turnaround Situation",
+      "url": "https://open.spotify.com/track/03F7CSdq7NvvuDasfupUOS"
     },
     {
       "added_at": null,
@@ -1099,26 +1019,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free to Love (Horse Meat Disco Remix) / Free to Love (DJWS & THE DISCO_NECT Remix)",
-        "url": "https://open.spotify.com/album/5Q6UKaXBpPjmmE3oCpmmiQ"
+        "name": "The World Meets Los Mirlos",
+        "url": "https://open.spotify.com/album/0WDu5tUg69jIZRrIy9dsLx"
       },
       "artists": [
         {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
         },
         {
-          "name": "Horse Meat Disco",
-          "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 174911,
-      "name": "Free to Love - Horse Meat Disco Remix",
-      "url": "https://open.spotify.com/track/1aB8JeTPwy2VOPeinrOOuq"
+      "duration_ms": 225590,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/1Aq646DNeBRKAyk6cmQXOd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0FYsyYhHOFkqGUUqPR6e5e"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 121788,
+      "name": "Outlander - The Skye Boat Song (The Journey's End) (feat. Annie Lennox)",
+      "url": "https://open.spotify.com/track/2pssdJs0gcu1RjEVpVjMVp"
     },
     {
       "added_at": null,
@@ -1139,42 +1075,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supernatural (Beyond the Seen, Above the Known)",
-        "url": "https://open.spotify.com/album/03stnNub7ONkAa6Z57G25L"
+        "name": "Power Rangers Theme Songs, Pt. 1",
+        "url": "https://open.spotify.com/album/6q2dDfUXYvMDUkaatjvF2D"
       },
       "artists": [
         {
-          "name": "Westace Beats",
-          "url": "https://open.spotify.com/artist/6KGBRLPAKJpDGtA0qOpdJg"
-        },
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        },
-        {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
         }
       ],
-      "duration_ms": 211690,
-      "name": "Above the Known",
-      "url": "https://open.spotify.com/track/7Ig7LahOFcqMas7XrKeok1"
+      "duration_ms": 124916,
+      "name": "Power Rangers Lost Galaxy",
+      "url": "https://open.spotify.com/track/5xYquGmSacDDtxHAO7KZmU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Zodeon at Crystal Hall",
-        "url": "https://open.spotify.com/album/17llPIMPUtlH5azIRiPDhd"
+        "name": "Fairy Spark in the Night",
+        "url": "https://open.spotify.com/album/5FwbY1pN5Y9KfE6jAvfnSS"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Gary Stadler",
+          "url": "https://open.spotify.com/artist/3bR26OG0nJ6u3k1lkd4RWO"
+        },
+        {
+          "name": "Ffion Elisa",
+          "url": "https://open.spotify.com/artist/484xsAPWxxJRyDuYzz3WqG"
         }
       ],
-      "duration_ms": 182244,
-      "name": "The Bard",
-      "url": "https://open.spotify.com/track/5uJOBP0XEFnRJaSVkCb2QY"
+      "duration_ms": 222656,
+      "name": "Fairy Spark in the Night",
+      "url": "https://open.spotify.com/track/4BNVDJ8YoWGxeNzQfwGNyL"
     },
     {
       "added_at": null,
@@ -1203,6 +1135,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Boys of Dungeon Lane",
+        "url": "https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 193270,
+      "name": "Come Inside",
+      "url": "https://open.spotify.com/track/07GA2evqdJjhYOdyPgLXE3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zodeon at Crystal Hall",
+        "url": "https://open.spotify.com/album/17llPIMPUtlH5azIRiPDhd"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 202392,
+      "name": "Magdalena",
+      "url": "https://open.spotify.com/track/2Z6T171uzbiX0UHtHgWifP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pueblo Salvaje I",
         "url": "https://open.spotify.com/album/3fZEI7J4il33xVIddfYL7O"
       },
@@ -1223,18 +1187,62 @@
     {
       "added_at": null,
       "album": {
-        "name": "Power Rangers Theme Songs, Pt. 1",
-        "url": "https://open.spotify.com/album/6q2dDfUXYvMDUkaatjvF2D"
+        "name": "Call the Police",
+        "url": "https://open.spotify.com/album/0MDLJqXlHcAqpPHVfMGfqu"
       },
       "artists": [
         {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+          "name": "Songboy",
+          "url": "https://open.spotify.com/artist/0gtH2SOGkdmf5Gc6GEkViB"
+        },
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
         }
       ],
-      "duration_ms": 136117,
-      "name": "Power Rangers Zeo",
-      "url": "https://open.spotify.com/track/28QEbX7hQjR8UoSVA4nZaj"
+      "duration_ms": 178356,
+      "name": "Call the Police",
+      "url": "https://open.spotify.com/track/2T1hmoVWOl0IBUIL7nuSPL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monkey",
+        "url": "https://open.spotify.com/album/7bRCgm4u6JDBNuP63NijaP"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 225730,
+      "name": "Monkey - A cappella",
+      "url": "https://open.spotify.com/track/234xqvh7kryRd2XYXa7xKo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Supernatural (Beyond the Seen, Above the Known)",
+        "url": "https://open.spotify.com/album/03stnNub7ONkAa6Z57G25L"
+      },
+      "artists": [
+        {
+          "name": "Westace Beats",
+          "url": "https://open.spotify.com/artist/6KGBRLPAKJpDGtA0qOpdJg"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        },
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        }
+      ],
+      "duration_ms": 211690,
+      "name": "Above the Known",
+      "url": "https://open.spotify.com/track/7Ig7LahOFcqMas7XrKeok1"
     },
     {
       "added_at": null,
@@ -1255,50 +1263,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Boys of Dungeon Lane",
-        "url": "https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM"
+        "name": "Free to Love (Horse Meat Disco Remix) / Free to Love (DJWS & THE DISCO_NECT Remix)",
+        "url": "https://open.spotify.com/album/5Q6UKaXBpPjmmE3oCpmmiQ"
       },
       "artists": [
         {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 193270,
-      "name": "Come Inside",
-      "url": "https://open.spotify.com/track/07GA2evqdJjhYOdyPgLXE3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Snooze",
-        "url": "https://open.spotify.com/album/0krxPHkFpWjjrEN96N16Gp"
-      },
-      "artists": [
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        },
         {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 191120,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/2ewnQHMl0MwFVw04HAwNz4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Promise Me (09 | 26)",
-        "url": "https://open.spotify.com/album/32V3ZOZSMDG2lQMTu17S3P"
-      },
-      "artists": [
+          "name": "Horse Meat Disco",
+          "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
+        },
         {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 208542,
-      "name": "Promise Me - 09 | 26",
-      "url": "https://open.spotify.com/track/4lmYbOkYADhQPBJVX2SoGU"
+      "duration_ms": 174911,
+      "name": "Free to Love - Horse Meat Disco Remix",
+      "url": "https://open.spotify.com/track/1aB8JeTPwy2VOPeinrOOuq"
     },
     {
       "added_at": null,
@@ -1319,6 +1303,22 @@
       "duration_ms": 191716,
       "name": "Repeat It",
       "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Snooze",
+        "url": "https://open.spotify.com/album/0krxPHkFpWjjrEN96N16Gp"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 191120,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/2ewnQHMl0MwFVw04HAwNz4"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

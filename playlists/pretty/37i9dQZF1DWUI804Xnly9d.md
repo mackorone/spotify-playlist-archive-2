@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,518 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,532 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 36 | [Barkha](https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Barkha](https://open.spotify.com/album/6ccAHAXH8lV27buSFuvx69) | 4:21 |
 | 37 | [Baari Baari \- Acoustic](https://open.spotify.com/track/3NNPhuQMTSGtwqlJs8vJfi) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [John Paul](https://open.spotify.com/artist/7yNLJplNQVIAOTRGCr2bJ0), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Baari Baari \(Acoustic\)](https://open.spotify.com/album/3InN9kuspoLp2LpgzEL5ai) | 2:36 |
 | 38 | [Maula Mere](https://open.spotify.com/track/7ss3vPgVJ4TmIjdVdmjnvT) | [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw) | [Quiet Rooms](https://open.spotify.com/album/5pIoir24ghxEf4LPSFJPlj) | 4:08 |
-| 39 | [Sab Sahi](https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd), [Gaurav Tiwari](https://open.spotify.com/artist/7cNKx3xlbjTwN9EkmiEGZE), [Taresh Agarwal](https://open.spotify.com/artist/2HupEq4pIUW6ksJvn9hGvi) | [Sab Sahi](https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE) | 3:24 |
+| 39 | [Sab Sahi](https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Sab Sahi](https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE) | 3:24 |
 | 40 | [Sikkon Ka Nagar](https://open.spotify.com/track/69AbYiI0rhlTq4mQ0KPylQ) | [Tang Mizaaji](https://open.spotify.com/artist/3el3X0f5FDNfJuVJ1abqnz) | [Sikkon Ka Nagar](https://open.spotify.com/album/1HmhDhCpAOuobtyDha5uEZ) | 3:46 |
 | 41 | [Kehne Lagaa \(Acoustic Version\)](https://open.spotify.com/track/5mhM5OKK4MBpQOHxBiNheY) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol) | [Kehne Lagaa \(Acoustic Version\)](https://open.spotify.com/album/0g4VuZEzAYerI6Cqdrk8kR) | 3:14 |
 | 42 | [Rozaana](https://open.spotify.com/track/38rA3DEpHuNYUaKhwBKLTp) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Rozaana](https://open.spotify.com/album/2BWeKSmzh8UNutqaHf37SH) | 3:08 |

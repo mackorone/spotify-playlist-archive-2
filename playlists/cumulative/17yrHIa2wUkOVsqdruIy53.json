@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 22.2026 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 23.2026 / German Streaming-Charts",
   "tracks": [
     {
       "album": {
@@ -466,7 +466,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 295282,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 246525,
       "name": "ALLE MEINE BR\u00dcDER TOT",
       "url": "https://open.spotify.com/track/0Krc50lh0e8R76tdOfjLZW"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 262675,
       "name": "Angels Above Me",
       "url": "https://open.spotify.com/track/27xQUM3V3FVzrOwfVWnHBj"
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 159565,
       "name": "Baby Bell",
       "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
@@ -2594,7 +2594,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 97482,
       "name": "Coupe",
       "url": "https://open.spotify.com/track/6cW9a8zfRF4t7hVcW5PFCo"
@@ -2924,7 +2924,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 158661,
       "name": "Die Falschen gek\u00fcsst",
       "url": "https://open.spotify.com/track/0qnFwCW5AxQaEJXfACBTD8"
@@ -3138,7 +3138,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
@@ -4805,6 +4805,24 @@
     },
     {
       "album": {
+        "name": "Queen Of The Clouds",
+        "url": "https://open.spotify.com/album/7666JCeGvPashwRm40pmq2"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Habits (Stay High)",
+      "url": "https://open.spotify.com/track/0a9npeEQIad1Wr4H1RsLPU"
+    },
+    {
+      "album": {
         "name": "A Pentatonix Christmas",
         "url": "https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ"
       },
@@ -4900,6 +4918,24 @@
       "duration_ms": 133751,
       "name": "Hast du kurz Zeit",
       "url": "https://open.spotify.com/track/46BjFXnWrumhdl0uvk7IwE"
+    },
+    {
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "album": {
@@ -5024,6 +5060,24 @@
       "duration_ms": 160405,
       "name": "Herzensmensch",
       "url": "https://open.spotify.com/track/7HBzNwzwnKLVF1GtcjnA2C"
+    },
+    {
+      "album": {
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/2jRDtfnkmiL7oKMtxD7TBa"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159973,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/7BMTrcMg18YKFup0ekBWxw"
     },
     {
       "album": {
@@ -5176,7 +5230,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
@@ -5842,7 +5896,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 149000,
       "name": "Joga Bonito",
       "url": "https://open.spotify.com/track/7ofoABAenYVAmgfoJ7jxes"
@@ -6394,6 +6448,24 @@
       "duration_ms": 262240,
       "name": "Leev Marie",
       "url": "https://open.spotify.com/track/6te4u5fA8mtW1DYoB9YV4t"
+    },
+    {
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224216,
+      "name": "Legendary Lovers",
+      "url": "https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd"
     },
     {
       "album": {
@@ -7232,7 +7304,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
@@ -7399,7 +7471,7 @@
     },
     {
       "album": {
-        "name": "Mon Amour",
+        "name": "Mon Amour (Original von Hecht)",
         "url": "https://open.spotify.com/album/3BjIVd4hhgr3Y0q95O1b1Z"
       },
       "artists": [
@@ -7420,7 +7492,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182968,
-      "name": "Mon Amour",
+      "name": "Mon Amour (Original von Hecht)",
       "url": "https://open.spotify.com/track/6H1j5PiyxgyWTnDmabW0Ng"
     },
     {
@@ -8947,6 +9019,28 @@
     },
     {
       "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7fc8uDiv5q8mdQWpE09hv2"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        },
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252903,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6zppOFGMwSUiysKHrM7Yv5"
+    },
+    {
+      "album": {
         "name": "REWIND",
         "url": "https://open.spotify.com/album/65ijsTDn3s79szZs096u95"
       },
@@ -9802,7 +9896,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj"
@@ -10560,7 +10654,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
@@ -10683,6 +10777,28 @@
     },
     {
       "album": {
+        "name": "Testarossa",
+        "url": "https://open.spotify.com/album/5UFzzcN1jPIHXe7jovuXmo"
+      },
+      "artists": [
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Testarossa",
+      "url": "https://open.spotify.com/track/0hLCuNZyCRHeEodQqr0dWi"
+    },
+    {
+      "album": {
         "name": "The Works (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9"
       },
@@ -10772,6 +10888,24 @@
       "duration_ms": 229333,
       "name": "The Best Side Of Life",
       "url": "https://open.spotify.com/track/5XM67HdnPub0nMDqJEUPdy"
+    },
+    {
+      "album": {
+        "name": "To Be Continued...",
+        "url": "https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224133,
+      "name": "The Bitch Is Back",
+      "url": "https://open.spotify.com/track/1XbVcWLoN4wZyM77ciEoav"
     },
     {
       "album": {
@@ -11910,6 +12044,28 @@
       "duration_ms": 168801,
       "name": "Wackelkontakt",
       "url": "https://open.spotify.com/track/2eAU0Oij4NkduxThjzhCI6"
+    },
+    {
+      "album": {
+        "name": "Listen Up! The Official 2010 FIFA World Cup Album",
+        "url": "https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6J1r02xyO2qkMA9dDNZytJ.md) - [plain]
 
 > All the biggest House, Tech House &amp; Techno anthems right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-[Toolroom Records](https://open.spotify.com/user/1135439236) - 63,345 likes - 106 songs - 5 hr 29 min
+[Toolroom Records](https://open.spotify.com/user/1135439236) - 63,349 likes - 106 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/6J1r02xyO2qkMA9dDNZytJ.md) - [plain]
 | 16 | [Out The Door](https://open.spotify.com/track/6FToCZsVMGrBKb84pcTtS3) | [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Out The Door](https://open.spotify.com/album/05vealRTvoialI53c8oVBF) | 3:00 |
 | 17 | [Trumpet Man](https://open.spotify.com/track/4ywtYcNxDcCzk8KsM6Oynj) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Trumpet Man](https://open.spotify.com/album/43FesILgFuqoHbEWRDruLk) | 3:00 |
 | 18 | [Midnight Rumours](https://open.spotify.com/track/0Y24T2ERGosqi7N20d5XK1) | [Dario Nunez](https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh), [Bubba Brothers](https://open.spotify.com/artist/756U8FFjS62P4bWuEp35Iz) | [Midnight Rumours](https://open.spotify.com/album/2jXhcBSJWNUl3rhjGaBP42) | 3:01 |
-| 19 | [Every Woman Needs Love](https://open.spotify.com/track/4XWbfU1hW5f1bw2E4D7iZQ) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Stella Browne](https://open.spotify.com/artist/1I4Uiur4YL4tEc4ktMywr3), [History Of Rave](https://open.spotify.com/artist/58er8STHlRV6sKZnkvAUuR) | [Every Woman Needs Love](https://open.spotify.com/album/2eyCBIFC4uH7HLH0hKcG12) | 3:20 |
+| 19 | [Every Woman Needs Love](https://open.spotify.com/track/4XWbfU1hW5f1bw2E4D7iZQ) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Stella Browne](https://open.spotify.com/artist/1I4Uiur4YL4tEc4ktMywr3) | [Every Woman Needs Love](https://open.spotify.com/album/2eyCBIFC4uH7HLH0hKcG12) | 3:20 |
 | 20 | [Waste My Time](https://open.spotify.com/track/1RIB2ELrIX5H6KUy0gBeGv) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Waste My Time](https://open.spotify.com/album/5aFRPxE20AOr5JKkKtA1AG) | 2:11 |
 | 21 | [Move Like This](https://open.spotify.com/track/6cO8tmMn4Zz8s3HFqUs3gY) | [Fletcher Kerr](https://open.spotify.com/artist/0MMPzOAJySvSWs8lqcDc5k) | [Move Like This](https://open.spotify.com/album/3P3VDUJlrFDpQsQjpiojaM) | 3:13 |
 | 22 | [Whatcha Do To Me](https://open.spotify.com/track/2B6NPa5xN0ktAoEFXC7Ar9) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Whatcha Do To Me](https://open.spotify.com/album/1FPuoX8VWiPV0p1iUYkgU5) | 4:22 |

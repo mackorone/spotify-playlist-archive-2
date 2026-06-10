@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Anastasia Kobekina
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,330 likes - 145 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,348 likes - 145 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

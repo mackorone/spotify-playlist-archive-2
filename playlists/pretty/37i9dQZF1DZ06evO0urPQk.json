@@ -1,12 +1,12 @@
 {
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "num_followers": 27838,
+  "num_followers": 27844,
   "original_name": "This Is Nana Mizuki",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAACsiBGxBwihkPdRnHLNKn3t",
+  "snapshot_id": "aiYGAAAAAAAJLnGyB2X58BLNxxTYXri8",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONTEMPORARY EMOTION",
-        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 190520,
-      "name": "\u62cd\u52d5",
-      "url": "https://open.spotify.com/track/0zn5uqcWGguTDw5c7tIHMB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROCKBOUND NEIGHBORS",
         "url": "https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP"
       },
@@ -403,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+        "name": "CONTEMPORARY EMOTION",
+        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
       },
       "artists": [
         {
@@ -412,25 +396,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 245626,
-      "name": "\u7d14\u6f54\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
-      "url": "https://open.spotify.com/track/5p3ZTYHlKPHD265ZUnks8S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u5922\u5e7b",
-        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 239013,
-      "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
+      "duration_ms": 190520,
+      "name": "\u62cd\u52d5",
+      "url": "https://open.spotify.com/track/0zn5uqcWGguTDw5c7tIHMB"
     },
     {
       "added_at": null,
@@ -451,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 245626,
+      "name": "\u7d14\u6f54\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/5p3ZTYHlKPHD265ZUnks8S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NEVER SURRENDER",
         "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 232653,
       "name": "\u5606\u304d\u306e\u83ef",
       "url": "https://open.spotify.com/track/0sykGYWNmdFkBXJurdnWKo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u5922\u5e7b",
+        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 239013,
+      "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 222560,
-      "name": "PHANTOM MINDS",
-      "url": "https://open.spotify.com/track/79gsfSEJXThxkYEKkEzfMS"
+      "duration_ms": 304840,
+      "name": "\u8ff7\u5bae\u30d0\u30bf\u30d5\u30e9\u30a4-diverse-",
+      "url": "https://open.spotify.com/track/1LYKl6K1sZ1u2f4uNZcxKz"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trickster",
-        "url": "https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 266080,
-      "name": "Trinity Cross",
-      "url": "https://open.spotify.com/track/1fDNrXuIKfZ2PhIKcbbwa3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CANNONBALL RUNNING",
         "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 305032,
       "name": "FINAL COMMANDER -Aufwachen Form-",
       "url": "https://open.spotify.com/track/2eWyeChIRLpqtVTxsCQtnJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trickster",
+        "url": "https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "Trinity Cross",
+      "url": "https://open.spotify.com/track/1fDNrXuIKfZ2PhIKcbbwa3"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "POWER GATE",
-        "url": "https://open.spotify.com/album/36mh2dAHzkn6kebVw3PXPJ"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 271493,
-      "name": "POWER GATE",
-      "url": "https://open.spotify.com/track/53GoHDW1XwWPFp3Wn9VPtJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CANNONBALL RUNNING",
         "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 260201,
       "name": "DAYBREAKERS",
       "url": "https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POWER GATE",
+        "url": "https://open.spotify.com/album/36mh2dAHzkn6kebVw3PXPJ"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 271493,
+      "name": "POWER GATE",
+      "url": "https://open.spotify.com/track/53GoHDW1XwWPFp3Wn9VPtJ"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GREAT ACTIVITY",
-        "url": "https://open.spotify.com/album/0by4toi3Hf7VOiVCNqvVdW"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 263360,
-      "name": "\u30a2\u30aa\u30a4\u30a4\u30ed",
-      "url": "https://open.spotify.com/track/3mKwGzwOgXZAWffWfgnSAo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CANNONBALL RUNNING",
         "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 331686,
       "name": "METANOIA -Aufwachen Form-",
       "url": "https://open.spotify.com/track/6mgJiB30wD66AGCWoAZU7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GREAT ACTIVITY",
+        "url": "https://open.spotify.com/album/0by4toi3Hf7VOiVCNqvVdW"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "\u30a2\u30aa\u30a4\u30a4\u30ed",
+      "url": "https://open.spotify.com/track/3mKwGzwOgXZAWffWfgnSAo"
     }
   ],
   "unique_name": "This Is Nana Mizuki",

@@ -4,7 +4,7 @@
 
 > LILCR in cover della playlist con il futuro del rap italiano 📈
 
-2,460 songs - 4 day 7 hr 53 min
+2,461 songs - 4 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1668,6 +1668,7 @@
 | [Parlo Con Gli Illuminati A C'è Posta Per Te](https://open.spotify.com/track/4EW6FcvDXMq9a7rVo33EgE) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Parlo Con Gli Illuminati A C'è Posta Per Te](https://open.spotify.com/album/0F0uHT1snvG52Efw7D6W2Y) | 3:34 | 2025-05-15 | 2025-05-30 |
 | [Parte del fatto \(Freestyle\)](https://open.spotify.com/track/7AEpVsYJoz4PPlYzSocBKr) | [LB GANG](https://open.spotify.com/artist/20m7OA0skSZHQi2nLt29wV), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [Parte del fatto \(Freestyle\)](https://open.spotify.com/album/3JG8oyuOLZQsZnkjbedUnI) | 1:55 | 2024-07-18 | 2024-09-13 |
 | [Parte di Me](https://open.spotify.com/track/1NKWjgcLEyu17hUtsCh5ck) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [ECO](https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91) | 3:18 | 2024-07-11 | 2024-08-02 |
+| [Partenope](https://open.spotify.com/track/64piLHQ3Kh2hg8yZ2WNcya) | [10k watt](https://open.spotify.com/artist/5lyfVXXAUVOAf9rBhMwxZw) | [Partenope](https://open.spotify.com/album/0kXeCMQGamStcm1wNoh6gO) | 2:25 | 2026-06-09 |  |
 | [Partenope \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/3o7Wj9qmWwV1mnnouU3krc) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP) | [Partenope \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/1ONWmXCcVhTpI6qmpOZrTo) | 3:16 | 2024-03-07 | 2024-03-28 |
 | [PARTO NATURALE](https://open.spotify.com/track/0irGvCfIUGgbSSPsPIk72f) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [PARTO NATURALE](https://open.spotify.com/album/7jogdPB6uAARTKOoygqpom) | 2:16 | 2025-05-22 | 2025-07-11 |
 | [Pas De Salam](https://open.spotify.com/track/4odaNK2WriH7cXdTOaOxKH) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn) | [Pas De Salam](https://open.spotify.com/album/3XmmEZ7dvQw18C8KsRKWhf) | 2:39 | 2023-06-08 | 2023-09-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 904 likes - 78 songs - 4 hr 27 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 910 likes - 79 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 76 | [Deep Resting](https://open.spotify.com/track/0Zij1R4P4KiAYudjcEQCbS) | [Granon](https://open.spotify.com/artist/3B1OyCfxHoOoWAgRPhDQH3) | [Deep Resting](https://open.spotify.com/album/1KCwSffzFHka4E7aF1yFve) | 3:21 |
 | 77 | [Rise Above](https://open.spotify.com/track/1k0XOuHNzU3xsv7FtqMhuu) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 3:22 |
 | 78 | [Caral](https://open.spotify.com/track/6abL28H0A5muvw4b4FtnT6) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Caral](https://open.spotify.com/album/0oK9L6z2HCW9bjh4y8BTyd) | 8:18 |
+| 79 | [Aint No Thang](https://open.spotify.com/track/5TTn1CjPZag045kau3pHq1) | [2 Fluent](https://open.spotify.com/artist/5AYYWcl9xFh98nIzBMJIFC), [Big JAY](https://open.spotify.com/artist/6O8OEBw37xbbAgXi1ATE9F) | [Aint No Thang](https://open.spotify.com/album/3xcszjlZWpwgYbOFrdBn7q) | 2:59 |
 
-Snapshot ID: `AAAD6SSgWjR3TcDFjJZpN//kec+qQPy+`
+Snapshot ID: `AAAD6oL5Lwa6EwHHW9TBXdOG82MsRwKc`

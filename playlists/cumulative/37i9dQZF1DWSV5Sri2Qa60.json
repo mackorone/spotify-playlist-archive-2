@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: Little Grandad",
+  "description": "Where your new favourite bands are discovered. Cover: Saint Clair",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "all my friends are idiots",
+        "url": "https://open.spotify.com/album/7jePt70bu1eRQDqqmqcw25"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur 94",
+          "url": "https://open.spotify.com/artist/2yUdwBLaO98tsD5fDi5it2"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173962,
+      "name": "all my friends are idiots",
+      "url": "https://open.spotify.com/track/59yirSqWmyV9jVh9W4mTmE"
+    },
+    {
+      "album": {
         "name": "All The Good Men",
         "url": "https://open.spotify.com/album/6DbvRvEnPQI4TEaw5opO7t"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 117400,
       "name": "All The Good Men",
       "url": "https://open.spotify.com/track/1lHsjpIJ9aFOkz4w4yduzt"
@@ -560,6 +578,24 @@
       "duration_ms": 289622,
       "name": "Bleeding",
       "url": "https://open.spotify.com/track/0pj4uSiZvfWSzXsG44sxrN"
+    },
+    {
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/47ioqnKHpIJSfoshcYXCvX"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8ftbleach",
+          "url": "https://open.spotify.com/artist/6dKuAS35mJiyRGAjOtSS17"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202534,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/59Y4JbxCmTSvYLoNt1A7kz"
     },
     {
       "album": {
@@ -1474,7 +1510,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 206756,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/4EeeuPsL6LNDwhTPiKDLj5"
@@ -1816,7 +1852,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 173136,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/3T48D9LzeS7XqiD888McVq"
@@ -1960,7 +1996,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 190402,
       "name": "fight or flight",
       "url": "https://open.spotify.com/track/092xcjqzw0MYKxDGffoIVV"
@@ -2435,6 +2471,24 @@
     },
     {
       "album": {
+        "name": "Gretchen",
+        "url": "https://open.spotify.com/album/0uB6srYMGEDsmgE4sMzZj0"
+      },
+      "artists": [
+        {
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171597,
+      "name": "Gretchen",
+      "url": "https://open.spotify.com/track/255KD8LTcbK1sqJVqtYwpe"
+    },
+    {
+      "album": {
         "name": "Siren",
         "url": "https://open.spotify.com/album/7gxWrfjgky0pVjUXXyH5VY"
       },
@@ -2518,7 +2572,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 218693,
       "name": "HAVE A HEART",
       "url": "https://open.spotify.com/track/4KPxFuzwcIBtkPsdQ54LDv"
@@ -3209,6 +3263,24 @@
     },
     {
       "album": {
+        "name": "Accept Me Like A Lie",
+        "url": "https://open.spotify.com/album/2pKIaXzyIsoXGHOzODG307"
+      },
+      "artists": [
+        {
+          "name": "Die Twice",
+          "url": "https://open.spotify.com/artist/47ElCbH6O7dGSdQIl7egWh"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216840,
+      "name": "Jalape\u00f1o",
+      "url": "https://open.spotify.com/track/4lrC09GcdLBapr7JKnjthH"
+    },
+    {
+      "album": {
         "name": "Jeremiah",
         "url": "https://open.spotify.com/album/410lTpDhzFkeJ0YBUZdaeQ"
       },
@@ -3382,7 +3454,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 206280,
       "name": "Last Day On Earth",
       "url": "https://open.spotify.com/track/66FelwsHEPIMj9KmPT3NaK"
@@ -4312,7 +4384,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 226167,
       "name": "Poke",
       "url": "https://open.spotify.com/track/5aha1ojLhdvtUfIKGGZsTP"
@@ -4766,6 +4838,24 @@
       "duration_ms": 239064,
       "name": "Shade in Me",
       "url": "https://open.spotify.com/track/5rjjofnmqtlooLAtWVOnrq"
+    },
+    {
+      "album": {
+        "name": "Shallow Hits",
+        "url": "https://open.spotify.com/album/5U2SAZOWe0aFJYfQBxGkj6"
+      },
+      "artists": [
+        {
+          "name": "Ebbb",
+          "url": "https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315604,
+      "name": "Shallow Hits",
+      "url": "https://open.spotify.com/track/39EJv0Bf5T9m3CrOTusmEC"
     },
     {
       "album": {
@@ -5968,7 +6058,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 247901,
       "name": "Wait (Hatchet Gets a New Hide)",
       "url": "https://open.spotify.com/track/1x37Qa6shlgWvjQloaCcc0"
@@ -6101,6 +6191,24 @@
     },
     {
       "album": {
+        "name": "Who Needs Spain Ball?",
+        "url": "https://open.spotify.com/album/7igRHuGCuthqypSqoX7nSl"
+      },
+      "artists": [
+        {
+          "name": "Formal Sppeedwear",
+          "url": "https://open.spotify.com/artist/6jGvuyheUzkEjJLHJopDuu"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194813,
+      "name": "Who Needs Spain Ball?",
+      "url": "https://open.spotify.com/track/2CpskWWxPz34wr1pJwNOK7"
+    },
+    {
+      "album": {
         "name": "Why",
         "url": "https://open.spotify.com/album/77XPxlBWq02sddg7jXYCJB"
       },
@@ -6184,7 +6292,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 185133,
       "name": "Won't Obey",
       "url": "https://open.spotify.com/track/3W5cpcTbjcGLwqD4ktR0nY"

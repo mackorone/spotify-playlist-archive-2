@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: arches \(Hong Kong\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,095 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,096 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Neptune](https://open.spotify.com/track/2T2t33auvYkIVrM63wxEAV) | [SPACE PUMPKIN](https://open.spotify.com/artist/6ylyglH1E1JUTSenhyB3c0) | [Neptune](https://open.spotify.com/album/6Hs6rkcSNeBKEDfAI5mL1Y) | 4:43 |
 | 100 | [アンドロワ](https://open.spotify.com/track/2rm1TGK4s4uiG4pXx9zDWt) | [SAMOEDO](https://open.spotify.com/artist/7g6Mug4G6xLqi1odQOWdMp) | [アンドロワ](https://open.spotify.com/album/4zsInsxFOuwpuBdj700jh0) | 2:53 |
 
-Snapshot ID: `AAAAALaAwoPFQNuIqHN7VqsTbwB8sS4V`
+Snapshot ID: `AAAAAFcXJbYVnnpGQjGbjhBjS6uCgCmg`

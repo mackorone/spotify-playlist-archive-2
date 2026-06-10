@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 333464,
+  "num_followers": 333534,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Un homme et une femme (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk"
-      },
-      "artists": [
-        {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
-        }
-      ],
-      "duration_ms": 161586,
-      "name": "Un homme et une femme - Instrumental",
-      "url": "https://open.spotify.com/track/062Cv5UXgBHWkMoRScGkt0"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Say It With Music",
         "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 156200,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/3OxZRHorxhJmbNtjr0j4hE"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Un homme et une femme (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        }
+      ],
+      "duration_ms": 161586,
+      "name": "Un homme et une femme - Instrumental",
+      "url": "https://open.spotify.com/track/062Cv5UXgBHWkMoRScGkt0"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "Say It With Music",
+        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Stranger In Paradise",
+      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
         "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 179703,
       "name": "BLUE DOLPHIN",
       "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "Say It With Music",
-        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Stranger In Paradise",
-      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Somewhere In Time (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j"
-      },
-      "artists": [
-        {
-          "name": "Roger Williams",
-          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Somewhere In Time - Main Theme",
-      "url": "https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Manolo Sanlucar",
         "url": "https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 205773,
       "name": "Caballo Negro",
       "url": "https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Somewhere In Time (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j"
+      },
+      "artists": [
+        {
+          "name": "Roger Williams",
+          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Somewhere In Time - Main Theme",
+      "url": "https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5csts79TUQi61HqPuDLSAa"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz",
-          "url": "https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "The Sounds of Silence",
-      "url": "https://open.spotify.com/track/7rLIJ4wsrtK02vcxwAidCl"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "101% Cine",
         "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 131255,
       "name": "P\u00eddele Al Tiempo Que Vuelva",
       "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5csts79TUQi61HqPuDLSAa"
+      },
+      "artists": [
+        {
+          "name": "Andre Kostelanetz",
+          "url": "https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "The Sounds of Silence",
+      "url": "https://open.spotify.com/track/7rLIJ4wsrtK02vcxwAidCl"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "The Essential Kenny G 3.0",
-        "url": "https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 303253,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "The Best Of Love Unlimited Orchestra",
         "url": "https://open.spotify.com/album/7rUZRoEDIcsRXSB86xFMBk"
       },
@@ -1383,6 +1367,38 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "The Essential Kenny G 3.0",
+        "url": "https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 303253,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Romantique",
+        "url": "https://open.spotify.com/album/49i1oEdab9ZYHC6YPikpCX"
+      },
+      "artists": [
+        {
+          "name": "Richard Clayderman",
+          "url": "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
+        }
+      ],
+      "duration_ms": 157986,
+      "name": "Ballade Pour Adeline",
+      "url": "https://open.spotify.com/track/1liJDOKzL4qEKGLtpisMhz"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "Boogie Nights #2 (More Music From The Original Motion Picture)",
         "url": "https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb"
       },
@@ -1395,6 +1411,54 @@
       "duration_ms": 163826,
       "name": "Joy",
       "url": "https://open.spotify.com/track/595cpLYdeN3s7C4CqJbZus"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Fusion Brasil Jazz. Bossa Nova M\u00fasica Brasile\u00f1a",
+        "url": "https://open.spotify.com/album/37zxh5L8F8zURM03aCAp29"
+      },
+      "artists": [
+        {
+          "name": "Spanish Caribe Band",
+          "url": "https://open.spotify.com/artist/0gkvval3Ekf4A9OCjO0s1q"
+        }
+      ],
+      "duration_ms": 140560,
+      "name": "Concierto para una Sola Voz",
+      "url": "https://open.spotify.com/track/70sxaj2Vw8JxkJVCSSv7UR"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "The Hustle & The Best of Van McCoy",
+        "url": "https://open.spotify.com/album/0QdIm38ml7jHplmYOqazbF"
+      },
+      "artists": [
+        {
+          "name": "Van McCoy",
+          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
+        }
+      ],
+      "duration_ms": 261173,
+      "name": "The Shuffle",
+      "url": "https://open.spotify.com/track/2uxjiKluwF9Gk2bWbwdMVi"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "La Paloma",
+        "url": "https://open.spotify.com/album/3w3EoQYm9UT2sYwnu2Fbag"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "La Paloma",
+      "url": "https://open.spotify.com/track/6RkUeQHTyqeqnqIygrqnt7"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1427,22 +1491,6 @@
       "duration_ms": 495466,
       "name": "Before the Rain",
       "url": "https://open.spotify.com/track/3sUILx2NgEorGwIr4sNiTM"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "Romantique",
-        "url": "https://open.spotify.com/album/49i1oEdab9ZYHC6YPikpCX"
-      },
-      "artists": [
-        {
-          "name": "Richard Clayderman",
-          "url": "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
-        }
-      ],
-      "duration_ms": 157986,
-      "name": "Ballade Pour Adeline",
-      "url": "https://open.spotify.com/track/1liJDOKzL4qEKGLtpisMhz"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1691,22 +1739,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Fusion Brasil Jazz. Bossa Nova M\u00fasica Brasile\u00f1a",
-        "url": "https://open.spotify.com/album/37zxh5L8F8zURM03aCAp29"
-      },
-      "artists": [
-        {
-          "name": "Spanish Caribe Band",
-          "url": "https://open.spotify.com/artist/0gkvval3Ekf4A9OCjO0s1q"
-        }
-      ],
-      "duration_ms": 140560,
-      "name": "Concierto para una Sola Voz",
-      "url": "https://open.spotify.com/track/70sxaj2Vw8JxkJVCSSv7UR"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "16 Grandes \u00c9xitos Instrumentales",
         "url": "https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL"
       },
@@ -1735,22 +1767,6 @@
       "duration_ms": 291933,
       "name": "La Vita E' Bella",
       "url": "https://open.spotify.com/track/4GSDu8XFp3qikUcqpilsKa"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "The Hustle & The Best of Van McCoy",
-        "url": "https://open.spotify.com/album/0QdIm38ml7jHplmYOqazbF"
-      },
-      "artists": [
-        {
-          "name": "Van McCoy",
-          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
-        }
-      ],
-      "duration_ms": 261173,
-      "name": "The Shuffle",
-      "url": "https://open.spotify.com/track/2uxjiKluwF9Gk2bWbwdMVi"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1787,22 +1803,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "16 Grandes \u00c9xitos Instrumentales",
-        "url": "https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL"
-      },
-      "artists": [
-        {
-          "name": "John Days",
-          "url": "https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Im\u00e1genes",
-      "url": "https://open.spotify.com/track/5smH256ZtdhGALeYJ13mVc"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Mad Men: A Musical Companion (1960-1965)",
         "url": "https://open.spotify.com/album/0bsu7M7VJN8AheepyXeGza"
       },
@@ -1815,6 +1815,22 @@
       "duration_ms": 135453,
       "name": "A Swingin' Safari",
       "url": "https://open.spotify.com/track/2V9ZGEAaTrNaQuck6WBxPG"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "16 Grandes \u00c9xitos Instrumentales",
+        "url": "https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL"
+      },
+      "artists": [
+        {
+          "name": "John Days",
+          "url": "https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Im\u00e1genes",
+      "url": "https://open.spotify.com/track/5smH256ZtdhGALeYJ13mVc"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1879,22 +1895,6 @@
       "duration_ms": 200160,
       "name": "Frenesi",
       "url": "https://open.spotify.com/track/4NlfRihvAjaPWFjygOWZNx"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "La Paloma",
-        "url": "https://open.spotify.com/album/3w3EoQYm9UT2sYwnu2Fbag"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "La Paloma",
-      "url": "https://open.spotify.com/track/6RkUeQHTyqeqnqIygrqnt7"
     }
   ],
   "unique_name": "Golden Instrumentals",

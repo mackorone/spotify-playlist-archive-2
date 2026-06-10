@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 
 > This is Laurie Spiegel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500 likes - 20 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 501 likes - 20 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Strand of Life \("Viroid"\)](https://open.spotify.com/track/038kVJ5c2qXrdSnx79DnzG) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 1:21 |
 | 2 | [The Unquestioned Answer](https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:30 |
-| 3 | [Heliopause](https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 2:54 |
-| 4 | [Donnie and Laurie](https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV), [Don Christensen](https://open.spotify.com/artist/3X6haiuk2rBlAqlWIpClbm) | [Donnie & Laurie](https://open.spotify.com/album/5nsagfjuKN6coxKmbfXUSC) | 5:24 |
+| 3 | [Donnie and Laurie](https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV), [Don Christensen](https://open.spotify.com/artist/3X6haiuk2rBlAqlWIpClbm) | [Donnie & Laurie](https://open.spotify.com/album/5nsagfjuKN6coxKmbfXUSC) | 5:24 |
+| 4 | [Heliopause](https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 2:54 |
 | 5 | [Finding Voice](https://open.spotify.com/track/4qignkPNvo2z2pbjHKBcoL) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 2:45 |
 | 6 | [A Folk Study](https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 2:03 |
 | 7 | [At Sea](https://open.spotify.com/track/7BuMYswqgm6BT5kEPY0EFM) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Common Ground, Vol\. 1](https://open.spotify.com/album/7m1hNJg5fKlw5WHn1sI7oM) | 3:34 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 | 19 | [Three Sonic Spaces II](https://open.spotify.com/track/4RxXmmiphC17d9h0zCxIzR) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 3:22 |
 | 20 | [The Expanding Universe](https://open.spotify.com/track/43mnZs5bumUEqepenx1Hgn) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 28:28 |
 
-Snapshot ID: `aiS0gAAAAABSSZJLSC0wryNfFSH3jUJL`
+Snapshot ID: `aiYGAAAAAAAWYDCCbLZU7zcw/Pr80TyG`

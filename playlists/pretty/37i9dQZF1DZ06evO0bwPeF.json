@@ -1,12 +1,12 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 10293,
+  "num_followers": 10291,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAABz1Vxmxh0rhJ1jIdc1z9+w",
+  "snapshot_id": "aiYGAAAAAAAeobMjOd01xVP00kR3YghC",
   "tracks": [
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 256933,
-      "name": "Give It",
-      "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5"
+      "duration_ms": 225200,
+      "name": "You Borrowed",
+      "url": "https://open.spotify.com/track/5RzZkoMROd0iY0iFU31VZE"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 225200,
-      "name": "You Borrowed",
-      "url": "https://open.spotify.com/track/5RzZkoMROd0iY0iFU31VZE"
+      "duration_ms": 256933,
+      "name": "Give It",
+      "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5"
     },
     {
       "added_at": null,

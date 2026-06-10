@@ -1373,6 +1373,28 @@
     },
     {
       "album": {
+        "name": "Bottega",
+        "url": "https://open.spotify.com/album/4OYLJaP4aK1mLVNqv9oEyK"
+      },
+      "artists": [
+        {
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        },
+        {
+          "name": "S13",
+          "url": "https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120740,
+      "name": "Bottega",
+      "url": "https://open.spotify.com/track/5P5SfhoiSf4P9MkfeHIAEB"
+    },
+    {
+      "album": {
         "name": "BREDA",
         "url": "https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm"
       },
@@ -3610,7 +3632,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 148260,
       "name": "GOD DAYM",
       "url": "https://open.spotify.com/track/3Pd9OfLtlGKdXVgXHO6ldN"

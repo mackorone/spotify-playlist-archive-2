@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "2 Hours",
+        "url": "https://open.spotify.com/album/0OA8w6ovuNgcgOsaEgZ6jg"
+      },
+      "artists": [
+        {
+          "name": "Erika Ever",
+          "url": "https://open.spotify.com/artist/2MMGm01jldrW4dPB71Gf3n"
+        },
+        {
+          "name": "Teether",
+          "url": "https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152451,
+      "name": "2 Hours",
+      "url": "https://open.spotify.com/track/3eM3aIMHuzZ45SQrAPAS7p"
+    },
+    {
+      "album": {
         "name": "2BADGYALZ",
         "url": "https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC"
       },
@@ -1186,7 +1208,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 211074,
       "name": "BACKSTREETS",
       "url": "https://open.spotify.com/track/3XzGb1aeUv1lu0u1Bozknw"
@@ -1320,6 +1342,24 @@
       "duration_ms": 156562,
       "name": "Bakshat",
       "url": "https://open.spotify.com/track/61pxWxCax8g9XG19LO6Won"
+    },
+    {
+      "album": {
+        "name": "Ballet Flats",
+        "url": "https://open.spotify.com/album/2RjXcIjzzI2oZMhWw5EZWH"
+      },
+      "artists": [
+        {
+          "name": "Banoffee",
+          "url": "https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184256,
+      "name": "Ballet Flats",
+      "url": "https://open.spotify.com/track/3phGk6kCUDfpvL1AWwJcjy"
     },
     {
       "album": {
@@ -4260,7 +4300,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 139701,
       "name": "DUPLA DE BANDIDO",
       "url": "https://open.spotify.com/track/2l3YKmRENUvTx9AuoCeKJA"
@@ -4788,7 +4828,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 115555,
       "name": "Facelift",
       "url": "https://open.spotify.com/track/2SYAr2AfmNynPZD24cQFFm"
@@ -5864,7 +5904,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 192000,
       "name": "Greaze",
       "url": "https://open.spotify.com/track/7AbOfkMs1rxg8yctcj7Qxx"
@@ -7059,6 +7099,28 @@
     },
     {
       "album": {
+        "name": "Ipa Ma",
+        "url": "https://open.spotify.com/album/06175m2OvWmMVncB0i7jt6"
+      },
+      "artists": [
+        {
+          "name": "Baalti",
+          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
+        },
+        {
+          "name": "Lapgan",
+          "url": "https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231394,
+      "name": "Ipa Ma",
+      "url": "https://open.spotify.com/track/01DA1J4BN8wTRnS1NRRRES"
+    },
+    {
+      "album": {
         "name": "Permanent Music 3",
         "url": "https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow"
       },
@@ -7894,7 +7956,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 144374,
       "name": "Like2",
       "url": "https://open.spotify.com/track/6uZwIPL3IhLbXoGOLnfGiP"
@@ -8349,6 +8411,32 @@
     },
     {
       "album": {
+        "name": "Maayam (feat. Pritt)",
+        "url": "https://open.spotify.com/album/2rKixIJFlbcB0UjS8UHX9Z"
+      },
+      "artists": [
+        {
+          "name": "Arthi",
+          "url": "https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4"
+        },
+        {
+          "name": "Pritt",
+          "url": "https://open.spotify.com/artist/5UBfs4W6ckxE7jCcqapRPn"
+        },
+        {
+          "name": "Lamsi",
+          "url": "https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178714,
+      "name": "Maayam (feat. Pritt)",
+      "url": "https://open.spotify.com/track/0WSc3Ort72j76IZM53upRt"
+    },
+    {
+      "album": {
         "name": "FIRST HAND SMOKE",
         "url": "https://open.spotify.com/album/5M6JiEs4uiMCTXNkyffytx"
       },
@@ -8382,6 +8470,28 @@
       "duration_ms": 155208,
       "name": "Make It Bang",
       "url": "https://open.spotify.com/track/2DdDnIzv6sxDz6iKvaeawN"
+    },
+    {
+      "album": {
+        "name": "Loud Bloom",
+        "url": "https://open.spotify.com/album/2I8Y2r289lu5s26k50N9GL"
+      },
+      "artists": [
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        },
+        {
+          "name": "Toya Delazy",
+          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330456,
+      "name": "Makwande",
+      "url": "https://open.spotify.com/track/2R1HELgpU9wWWGDkM4upw5"
     },
     {
       "album": {
@@ -8701,6 +8811,24 @@
     },
     {
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/5BiVv8EhTyXG7Diee5XrzE"
+      },
+      "artists": [
+        {
+          "name": "DJ Sprinter",
+          "url": "https://open.spotify.com/artist/62bTaWfo92DH6KPMh5xhlY"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236417,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/4DO0st2jNIC8Rp02wDRLZB"
+    },
+    {
+      "album": {
         "name": "Mr. Spock",
         "url": "https://open.spotify.com/album/4pQFNWlmrzkEt3mdn1EGTU"
       },
@@ -8734,7 +8862,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 185376,
       "name": "Muscles",
       "url": "https://open.spotify.com/track/1HQF4o9vjPLDIbe9c6z558"
@@ -11631,6 +11759,28 @@
     },
     {
       "album": {
+        "name": "Sex Life",
+        "url": "https://open.spotify.com/album/3SEa2oopXjjT3H5t0jhXWA"
+      },
+      "artists": [
+        {
+          "name": "Tracey",
+          "url": "https://open.spotify.com/artist/46JnIrUyPdpvYFPpPgRFSb"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151242,
+      "name": "Sex Life",
+      "url": "https://open.spotify.com/track/18cS2gM9O0jkVYCBuMsBLq"
+    },
+    {
+      "album": {
         "name": "Sfire 6/7",
         "url": "https://open.spotify.com/album/7FZS02CQATRKUtZbRCitrY"
       },
@@ -11780,10 +11930,100 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 169239,
       "name": "Shot Caller",
       "url": "https://open.spotify.com/track/7wCY9HLLNECM1DxO3Mz6CK"
+    },
+    {
+      "album": {
+        "name": "Shot Caller (Remixes)",
+        "url": "https://open.spotify.com/album/3LX5oKGgY8Z6ZIRRomMqUp"
+      },
+      "artists": [
+        {
+          "name": "Nina Las Vegas",
+          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
+        },
+        {
+          "name": "Swick",
+          "url": "https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID"
+        },
+        {
+          "name": "Zanillya",
+          "url": "https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p"
+        },
+        {
+          "name": "Shuga",
+          "url": "https://open.spotify.com/artist/7DyQpeiuHFiQ8vR0p9zGdE"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196482,
+      "name": "Shot Caller (Shuga's Edit)",
+      "url": "https://open.spotify.com/track/7lJsZIS9Z0uekFXmEVIywH"
+    },
+    {
+      "album": {
+        "name": "Shot Caller (Remixes)",
+        "url": "https://open.spotify.com/album/3LX5oKGgY8Z6ZIRRomMqUp"
+      },
+      "artists": [
+        {
+          "name": "Nina Las Vegas",
+          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
+        },
+        {
+          "name": "Swick",
+          "url": "https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID"
+        },
+        {
+          "name": "Zanillya",
+          "url": "https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p"
+        },
+        {
+          "name": "Benedict James",
+          "url": "https://open.spotify.com/artist/0HG4sLAE3Hp4X1PDtdDQUV"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213676,
+      "name": "Shot Caller - Benedict James Remix",
+      "url": "https://open.spotify.com/track/2FJiQVF038b7OEgqiBmxHP"
+    },
+    {
+      "album": {
+        "name": "Shot Caller (Remixes)",
+        "url": "https://open.spotify.com/album/3LX5oKGgY8Z6ZIRRomMqUp"
+      },
+      "artists": [
+        {
+          "name": "Nina Las Vegas",
+          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
+        },
+        {
+          "name": "Swick",
+          "url": "https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID"
+        },
+        {
+          "name": "Zanillya",
+          "url": "https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p"
+        },
+        {
+          "name": "NASH",
+          "url": "https://open.spotify.com/artist/1ak2DWCd69HGLayjfFehMQ"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208055,
+      "name": "Shot Caller - NASH Remix",
+      "url": "https://open.spotify.com/track/7qtNfzYLmSKaxcQkbtvwu0"
     },
     {
       "album": {
@@ -11968,7 +12208,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 150206,
       "name": "Sonidero",
       "url": "https://open.spotify.com/track/6isTmPPYrPkNmeqKydQm5k"
@@ -13176,7 +13416,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 128490,
       "name": "Thunder (feat. JELEEL!)",
       "url": "https://open.spotify.com/track/7bp9HAwhRr28gfs0mM3K5p"
@@ -13680,7 +13920,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 148121,
       "name": "UWU",
       "url": "https://open.spotify.com/track/3Ggngev1Je9dl7HvLxNPbv"

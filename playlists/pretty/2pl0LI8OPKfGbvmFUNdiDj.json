@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 904,
+  "num_followers": 910,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAD6SSgWjR3TcDFjJZpN//kec+qQPy+",
+  "snapshot_id": "AAAD6oL5Lwa6EwHHW9TBXdOG82MsRwKc",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -1299,6 +1299,26 @@
       "duration_ms": 498000,
       "name": "Caral",
       "url": "https://open.spotify.com/track/6abL28H0A5muvw4b4FtnT6"
+    },
+    {
+      "added_at": "2026-06-09 14:25:45",
+      "album": {
+        "name": "Aint No Thang",
+        "url": "https://open.spotify.com/album/3xcszjlZWpwgYbOFrdBn7q"
+      },
+      "artists": [
+        {
+          "name": "2 Fluent",
+          "url": "https://open.spotify.com/artist/5AYYWcl9xFh98nIzBMJIFC"
+        },
+        {
+          "name": "Big JAY",
+          "url": "https://open.spotify.com/artist/6O8OEBw37xbbAgXi1ATE9F"
+        }
+      ],
+      "duration_ms": 179393,
+      "name": "Aint No Thang",
+      "url": "https://open.spotify.com/track/5TTn1CjPZag045kau3pHq1"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

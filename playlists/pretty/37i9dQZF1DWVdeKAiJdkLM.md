@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdeKAiJdkLM.md) - [plain]
 
 > Curated by The Virgo Queen \- Y2K Black Girl Magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 100 likes - 36 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 110 likes - 36 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdeKAiJdkLM.md) - [plain]
 | 35 | [Let Me Blow Ya Mind](https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 3:50 |
 | 36 | [Get Up \(feat\. Chamillionaire\)](https://open.spotify.com/track/3rKCDtV8UcF0RytSiXxypc) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Chamillionaire](https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:21 |
 
-Snapshot ID: `AAAAAKqF4jGaXoeLGC4dJJQZkleNISP+`
+Snapshot ID: `AAAAAOfBI4cZbtxEZ3LfAWg24JmfngOm`

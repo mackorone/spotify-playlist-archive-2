@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Vince Staples
 
-1,639 songs - 3 day 4 hr 5 min
+1,640 songs - 3 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1229,6 +1229,7 @@
 | [Round Me](https://open.spotify.com/track/67BtrWFeJfef2l3VabMY0T) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Round Me](https://open.spotify.com/album/0bGWkCSiH2vkCFvFudcuiu) | 2:38 | 2026-02-13 | 2026-02-28 |
 | [ROWDYRUFFBOYZ](https://open.spotify.com/track/10qReVRMSdZdak3allFD6M) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [BRODIE WORLD](https://open.spotify.com/album/5EFo4KSj5d5ajfczZiVwlI) | 3:06 | 2024-04-26 | 2024-07-13 |
 | [Royalty \(feat\. DOM KENNEDY\)](https://open.spotify.com/track/2v2uIxyCehpH4O5SvN21dc) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Royalty \(feat\. DOM KENNEDY\)](https://open.spotify.com/album/1FQwlgnG3OLQStULOyMRNX) | 3:41 | 2022-04-22 | 2022-08-13 |
+| [RUBBERZ](https://open.spotify.com/track/1iTBTk4xtwo4lBMcPVNoPh) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Purps On The Beat](https://open.spotify.com/artist/5Ti1bgVXlEFiheTsdiHhRd) | [RUBBERZ](https://open.spotify.com/album/5nh5SWvNLfdyPqJD5zvDNV) | 2:53 | 2026-06-09 |  |
 | [Rubi Rose](https://open.spotify.com/track/76IAgCCmuXJnx3j4LjJaLm) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Signing Day](https://open.spotify.com/album/0uyOPmxwf90ZetNWcyE1Gd) | 2:13 | 2024-01-26 | 2024-02-03 |
 | [Rucci, I Luv U](https://open.spotify.com/track/7lVmH2y2WwudeVeqSZYd6C) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Rucci, I Luv U](https://open.spotify.com/album/4GReRw0auBIg1Dshm80aFB) | 2:23 | 2025-07-11 | 2026-02-14 |
 | [Rules](https://open.spotify.com/track/3NTPNlVaX80h6y2zoe5TOs) | [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp) | [Who is Lil Kayla?](https://open.spotify.com/album/7ibYBH48xmJbCendGqf67I) | 1:08 | 2023-09-15 | 2024-01-27 |

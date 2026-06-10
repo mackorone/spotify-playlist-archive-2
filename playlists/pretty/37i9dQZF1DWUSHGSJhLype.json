@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Jeninho, Kamisa 10",
-  "num_followers": 759425,
+  "num_followers": 759383,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
+        "name": "Turma no Quintal (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1N4vxCa92pFS7jdcLBTOqu"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1N19UVD4GRBFT6UrDaX6rk"
+    },
+    {
+      "added_at": "2026-05-15 13:29:11",
+      "album": {
         "name": "Ama Um Maloqueiro",
         "url": "https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 162580,
       "name": "Ama Um Maloqueiro",
       "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
-    },
-    {
-      "added_at": "2026-05-15 13:29:11",
-      "album": {
-        "name": "Turma no Quintal (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1N4vxCa92pFS7jdcLBTOqu"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 216818,
-      "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1N19UVD4GRBFT6UrDaX6rk"
     },
     {
       "added_at": "2026-05-15 13:29:11",
@@ -443,46 +443,6 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
-        "name": "MTG NA IMAGINA\u00c7\u00c3O (TOPO SESSIONS VOL. 1)",
-        "url": "https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk"
-      },
-      "artists": [
-        {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        },
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        }
-      ],
-      "duration_ms": 144923,
-      "name": "MTG NA IMAGINA\u00c7\u00c3O - TOPO SESSIONS VOL. 1",
-      "url": "https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX"
-    },
-    {
-      "added_at": "2026-05-15 13:29:11",
-      "album": {
-        "name": "Pela \u00daltima Vez (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5QVFS3TZhg8te5X8Eq20zV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 162325,
-      "name": "Pela \u00daltima Vez - Ao Vivo",
-      "url": "https://open.spotify.com/track/4bxyHku6rNffRealVxu30p"
-    },
-    {
-      "added_at": "2026-05-15 13:29:11",
-      "album": {
         "name": "RomantiDog",
         "url": "https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW"
       },
@@ -511,6 +471,26 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
+        "name": "Pela \u00daltima Vez (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5QVFS3TZhg8te5X8Eq20zV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 162325,
+      "name": "Pela \u00daltima Vez - Ao Vivo",
+      "url": "https://open.spotify.com/track/4bxyHku6rNffRealVxu30p"
+    },
+    {
+      "added_at": "2026-05-15 13:29:11",
+      "album": {
         "name": "M\u00e3e Solteira",
         "url": "https://open.spotify.com/album/0RENSklQU2BMSY42Qgok0y"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 144000,
       "name": "M\u00e3e Solteira",
       "url": "https://open.spotify.com/track/4Hk1gmBr2KVEXr3hHwSgUi"
+    },
+    {
+      "added_at": "2026-05-15 13:29:11",
+      "album": {
+        "name": "MTG NA IMAGINA\u00c7\u00c3O (TOPO SESSIONS VOL. 1)",
+        "url": "https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "duration_ms": 144923,
+      "name": "MTG NA IMAGINA\u00c7\u00c3O - TOPO SESSIONS VOL. 1",
+      "url": "https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX"
     },
     {
       "added_at": "2026-05-15 13:29:11",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
-        "name": "Homem \u00c9 Homem, Moleque \u00c9 Moleque",
-        "url": "https://open.spotify.com/album/0szJT51Wsr88AhBpL7Q2ss"
-      },
-      "artists": [
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 144812,
-      "name": "Homem \u00c9 Homem, Moleque \u00c9 Moleque",
-      "url": "https://open.spotify.com/track/5cGieTJ0FQC2JXqSH4OJpg"
-    },
-    {
-      "added_at": "2026-05-15 13:29:11",
-      "album": {
         "name": "Batom de Ouro",
         "url": "https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 154553,
       "name": "\u00daltima Noite - Solo",
       "url": "https://open.spotify.com/track/2Doe6AaIpyDy4JvFTsxSDn"
+    },
+    {
+      "added_at": "2026-05-15 13:29:11",
+      "album": {
+        "name": "Homem \u00c9 Homem, Moleque \u00c9 Moleque",
+        "url": "https://open.spotify.com/album/0szJT51Wsr88AhBpL7Q2ss"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 144812,
+      "name": "Homem \u00c9 Homem, Moleque \u00c9 Moleque",
+      "url": "https://open.spotify.com/track/5cGieTJ0FQC2JXqSH4OJpg"
     },
     {
       "added_at": "2026-05-15 13:29:11",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
+        "name": "PROJETO ANOS 2000 (Sequ\u00eancia do Pente / Copo de Vinho / Ela S\u00f3 Pensa em Beijar / Devagarinho)",
+        "url": "https://open.spotify.com/album/6ujnxqGSXhWBwlmtG4qxLY"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 221771,
+      "name": "PROJETO ANOS 2000 (Sequ\u00eancia do Pente / Copo de Vinho / Ela S\u00f3 Pensa em Beijar / Devagarinho)",
+      "url": "https://open.spotify.com/track/6NLNTTU3Ab0XAJGWOi35lz"
+    },
+    {
+      "added_at": "2026-05-15 13:29:11",
+      "album": {
         "name": "Voc\u00ea \u00e9 Meu M\u00f4 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4bsjYoFGICBWIC84T8IUFf"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 146186,
       "name": "Voc\u00ea \u00e9 Meu M\u00f4 - Ao Vivo",
       "url": "https://open.spotify.com/track/4kB3EvXt9ZyFibpUWvUpo0"
-    },
-    {
-      "added_at": "2026-05-15 13:29:11",
-      "album": {
-        "name": "PROJETO ANOS 2000 (Sequ\u00eancia do Pente / Copo de Vinho / Ela S\u00f3 Pensa em Beijar / Devagarinho)",
-        "url": "https://open.spotify.com/album/6ujnxqGSXhWBwlmtG4qxLY"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        }
-      ],
-      "duration_ms": 221771,
-      "name": "PROJETO ANOS 2000 (Sequ\u00eancia do Pente / Copo de Vinho / Ela S\u00f3 Pensa em Beijar / Devagarinho)",
-      "url": "https://open.spotify.com/track/6NLNTTU3Ab0XAJGWOi35lz"
     },
     {
       "added_at": "2026-05-15 13:29:11",
@@ -1463,8 +1463,8 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
-        "name": "Nattan In Vegas, Pt. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1py4YuLuTkSr8zSGsLt9YZ"
+        "name": "Nattan In Vegas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/37XQXzkEdlJ8Tr8FjQv4hW"
       },
       "artists": [
         {
@@ -1472,9 +1472,9 @@
           "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
         }
       ],
-      "duration_ms": 169124,
-      "name": "Jeito De Gringa - Ao Vivo",
-      "url": "https://open.spotify.com/track/45HOUXIDT3PDdIsDIkMcIk"
+      "duration_ms": 132000,
+      "name": "Minha M\u00e3e Que \u00c9 Minha M\u00e3e - Ao Vivo",
+      "url": "https://open.spotify.com/track/4kYeziQCH1nZasBMEVJVDF"
     },
     {
       "added_at": "2026-05-15 13:29:11",
@@ -1571,8 +1571,8 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
-        "name": "Nattan In Vegas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/37XQXzkEdlJ8Tr8FjQv4hW"
+        "name": "Nattan In Vegas, Pt. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1py4YuLuTkSr8zSGsLt9YZ"
       },
       "artists": [
         {
@@ -1580,9 +1580,9 @@
           "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Minha M\u00e3e Que \u00c9 Minha M\u00e3e - Ao Vivo",
-      "url": "https://open.spotify.com/track/4kYeziQCH1nZasBMEVJVDF"
+      "duration_ms": 169124,
+      "name": "Jeito De Gringa - Ao Vivo",
+      "url": "https://open.spotify.com/track/45HOUXIDT3PDdIsDIkMcIk"
     },
     {
       "added_at": "2026-05-15 13:29:11",

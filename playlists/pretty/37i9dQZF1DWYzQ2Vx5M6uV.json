@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Rvssian, Rauw Alejandro & Wizkid",
-  "num_followers": 143669,
+  "num_followers": 143676,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-05-24 07:04:55",
       "album": {
+        "name": "ohsaye",
+        "url": "https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5"
+      },
+      "artists": [
+        {
+          "name": "Anacri",
+          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "ohsaye",
+      "url": "https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym"
+    },
+    {
+      "added_at": "2026-05-24 07:04:55",
+      "album": {
         "name": "cuLE viaJE",
         "url": "https://open.spotify.com/album/71MHoEjzYbnLcY2DzNvOnA"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 97507,
       "name": "coletera",
       "url": "https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk"
-    },
-    {
-      "added_at": "2026-05-24 07:04:55",
-      "album": {
-        "name": "ohsaye",
-        "url": "https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5"
-      },
-      "artists": [
-        {
-          "name": "Anacri",
-          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "ohsaye",
-      "url": "https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym"
     },
     {
       "added_at": "2026-05-24 07:04:55",

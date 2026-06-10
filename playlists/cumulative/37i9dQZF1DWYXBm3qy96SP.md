@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Sublime
 
-2,077 songs - 5 day 0 hr 50 min
+2,078 songs - 5 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,13 +457,14 @@
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2023-10-12 | 2024-02-09 |
 | [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 | 2025-06-26 | 2025-08-04 |
 | [Day Job](https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN) | [Jayden Seeley](https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy), [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Day Job](https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi) | 2:38 | 2023-09-28 | 2023-10-13 |
-| [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 | 2026-03-26 |  |
+| [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 | 2026-03-26 | 2026-06-10 |
 | [De Nada](https://open.spotify.com/track/0K3WSMz6WLWXEPyZP9Bdtg) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [De Nada](https://open.spotify.com/album/0haLlb6CPtVmAQlasLrVFV) | 3:17 | 2026-05-21 |  |
 | [De Selby \(Part 2\)](https://open.spotify.com/track/20kkA2JHtAF5J7iz89iOuB) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/3XhPF8KnqNLkSPbNbBqMw6) | 3:47 | 2023-07-20 | 2023-07-22 |
 | [De Selby \(Part 2\)](https://open.spotify.com/track/3SRtygyWBQnoxuOPtdBPm2) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:47 | 2023-08-24 | 2024-01-19 |
 | [De Selby \(Part 2\)](https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM) | 3:47 | 2023-07-20 | 2023-08-21 |
 | [Dead End](https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Dead End](https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9) | 4:05 | 2026-01-29 | 2026-04-11 |
 | [Dead End Road](https://open.spotify.com/track/1unTSILv272aGjufNBJjQj) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:32 | 2024-07-18 | 2025-01-31 |
+| [Dead Man Walking](https://open.spotify.com/track/2lEQYDMTLgAjt515NG9Bh6) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Dead Man Walking](https://open.spotify.com/album/6ikKNy64oat903y40BvADC) | 3:02 | 2026-06-04 |  |
 | [Dead To Me](https://open.spotify.com/track/5BxC04q61icn0SHinQCBeR) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Dead To Me](https://open.spotify.com/album/3wwd2L3ATRhjkbmnGUhsJG) | 3:49 | 2023-11-30 | 2023-12-08 |
 | [Dead To The World](https://open.spotify.com/track/1HuR4jf1BdzTIba7raFsPR) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Dead To The World](https://open.spotify.com/album/3SVwQmt2Eu8Hr63m3rT3zn) | 4:13 | 2023-03-23 | 2023-04-21 |
 | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc) | 3:22 | 2024-11-22 | 2025-01-17 |
@@ -722,7 +723,7 @@
 | [Glorious](https://open.spotify.com/track/670fDWKpqkG8uwT0rKYwjp) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Glorious](https://open.spotify.com/album/49BkCKiRXVi1Oreyafvnuy) | 3:15 | 2023-12-28 | 2024-01-05 |
 | [GLORIOUS 70](https://open.spotify.com/track/2mdj2hVUfM1hrXyIAITvV0) | [松本孝弘](https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr) | [GLORIOUS 70](https://open.spotify.com/album/583osM5zs1Hlqn7IzXYQKt) | 4:05 | 2024-05-09 | 2024-05-17 |
 | [Glorious Day](https://open.spotify.com/track/3hJpl7GUqYf1oozozdExrl) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Glorious Day](https://open.spotify.com/album/0T5vrhvhQFSgQ6a6Mbmw2j) | 2:53 | 2024-02-15 | 2024-02-23 |
-| [Go Fuck Urself](https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Go Fuck Urself](https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK) | 3:05 | 2026-05-14 | 2026-05-22 |
+| [Go Fuck Urself](https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Go Fuck Urself](https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK) | 3:05 | 2026-05-14 |  |
 | [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 | 2023-08-03 | 2023-09-02 |
 | [Go Man Go](https://open.spotify.com/track/4gC9PZqUSZbfzm8LEygxZD) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Go Man Go](https://open.spotify.com/album/0NIscR0RzlDtKmHFR3ya1s) | 2:16 | 2023-06-30 | 2023-07-07 |
 | [GO WASTE MY TIME](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 2:55 | 2026-04-23 | 2026-05-01 |
@@ -1358,7 +1359,7 @@
 | [Parody](https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Parody](https://open.spotify.com/album/6L8pdjEecAuyqss3nizuOu) | 3:06 | 2023-03-16 | 2023-03-25 |
 | [PARTY PARTY](https://open.spotify.com/track/5C4BsBxDSASn687H94DmLy) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [PARTY PARTY](https://open.spotify.com/album/0koDlQlf0PnZyZBHaYEkkg) | 2:56 | 2026-03-05 | 2026-03-13 |
 | [Pavlove](https://open.spotify.com/track/6PzQE81zHTaJkuoyhGcXlK) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/21mNCl1z482tKpGKv13iig) | 3:33 | 2023-12-07 | 2023-12-15 |
-| [pe$o$](https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [pe$o$](https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA) | 2:18 | 2026-03-26 |  |
+| [pe$o$](https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [pe$o$](https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA) | 2:18 | 2026-03-26 | 2026-06-10 |
 | [Pea](https://open.spotify.com/track/5ti4NlyfB9oqbvYNYFeiL1) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Pea](https://open.spotify.com/album/0YAQV6g1KxklWxsELORjFV) | 3:00 | 2025-10-16 | 2025-11-07 |
 | [Peacefield](https://open.spotify.com/track/6C2I1PHUAzAl7kSvMSe8zj) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5ccZHgmVJ244iMulDie7BB) | 5:40 | 2025-04-25 | 2025-05-31 |
 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 | 2024-04-18 | 2024-04-26 |

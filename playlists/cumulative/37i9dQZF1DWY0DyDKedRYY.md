@@ -2,7 +2,7 @@
 
 ### [RADAR US](https://open.spotify.com/playlist/37i9dQZF1DWY0DyDKedRYY)
 
-> The most exciting new music on our radar, featuring Aaron Cole
+> The most exciting new music on our radar, featuring Fcukers
 
 1,333 songs - 2 day 21 hr 43 min
 

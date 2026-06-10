@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 136148,
+  "num_followers": 136158,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAAByDw/QnX55sYalqAtIj2ke",
+  "snapshot_id": "aiYGAAAAAABy5K5Gj71vwvvo0WjsIkDR",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Satan",
-        "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 184613,
-      "name": "Black Rat Coffin",
-      "url": "https://open.spotify.com/track/5gPnQOKPrAeGAO1b3kW49N"
+      "duration_ms": 208013,
+      "name": "Dead City Radio And The New Gods Of Supertown",
+      "url": "https://open.spotify.com/track/7a4F5tT3vztlPrGQzIcf4z"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+        "name": "The Great Satan",
+        "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 208013,
-      "name": "Dead City Radio And The New Gods Of Supertown",
-      "url": "https://open.spotify.com/track/7a4F5tT3vztlPrGQzIcf4z"
+      "duration_ms": 184613,
+      "name": "Black Rat Coffin",
+      "url": "https://open.spotify.com/track/5gPnQOKPrAeGAO1b3kW49N"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Satan",
-        "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 34880,
-      "name": "Who Am I?",
-      "url": "https://open.spotify.com/track/2XLKWMfTb2IEI0hddWfFlD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Educated Horses",
         "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 227986,
       "name": "American Witch",
       "url": "https://open.spotify.com/track/3ZDnQ5UGuPvRBfUUmTmwEC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Satan",
+        "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 34880,
+      "name": "Who Am I?",
+      "url": "https://open.spotify.com/track/2XLKWMfTb2IEI0hddWfFlD"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Satan",
-        "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Tarantula",
-      "url": "https://open.spotify.com/track/4j7PGEopEfNI4Oja2hf2tZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Past, Present & Future",
         "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 234106,
       "name": "The Great American Nightmare",
       "url": "https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Satan",
+        "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Tarantula",
+      "url": "https://open.spotify.com/track/4j7PGEopEfNI4Oja2hf2tZ"
     },
     {
       "added_at": null,

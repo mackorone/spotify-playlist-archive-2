@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pakistan](https://open.spotify.com/playlist/37i9dQZF1DXd0Rasy4eR1v)
 
-> Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Rizwan Abbas, Maheen Sattar
+> Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Saif Altaf
 
-1,299 songs - 2 day 21 hr 29 min
+1,301 songs - 2 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [BCKN4TH](https://open.spotify.com/track/46grFgVVsRlpOFoDTsrabB) | [Maadi](https://open.spotify.com/artist/4PmtD2gc8C6qQQG4frPoZa), [SMK](https://open.spotify.com/artist/19DFB1rgWVgsJ2gUB4s5x6), [malick](https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU) | [BCKN4TH](https://open.spotify.com/album/3u04VX3DWvLsEwKPo0pwYh) | 2:28 | 2024-09-05 | 2024-12-05 |
 | [Be Reham](https://open.spotify.com/track/4FDwFTi5ZLSq7GzipU7AhS) | [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt), [Chiraghan Bhatti](https://open.spotify.com/artist/4yo9NZtwxUwuh09uVV8Ymk) | [Be Reham](https://open.spotify.com/album/48IN3hboteFkCdxS4vhQlP) | 3:18 | 2024-04-20 | 2024-05-10 |
 | [Be There For You](https://open.spotify.com/track/0TEFHgy8qPjcjnPsXS6sZm) | [Ehtisham](https://open.spotify.com/artist/7DNIWYNCBSNz3c9yaqBc7l) | [Be There For You](https://open.spotify.com/album/2NU88CfT4ipYlym8yzkNQa) | 2:25 | 2022-11-17 | 2023-01-26 |
+| [Beautiful Scars](https://open.spotify.com/track/0lEb8xjzCPDl1uqFZfwDf9) | [Zaidi](https://open.spotify.com/artist/1lbzsxQ6DwSqEje7lxEhIt) | [Beautiful Scars](https://open.spotify.com/album/3XnirJHmF1kCCL91QXFpTW) | 2:13 | 2026-06-09 |  |
 | [Bebasi](https://open.spotify.com/track/4zWjGAQeukDLnDZkTo5zfU) | [FAHEEL](https://open.spotify.com/artist/4Cj5mBMyVkge1GqDYL5rcJ), [SHISHU HERRY](https://open.spotify.com/artist/5xAPMFif4zPX0FcwfK74Z3) | [Bebasi](https://open.spotify.com/album/7GUT941mTXhP3qxiVptjM6) | 3:06 | 2023-09-01 | 2023-10-13 |
 | [Bebasi](https://open.spotify.com/track/0K5rQULWaDE1N7ooVWM7J8) | [Muaz Sattar](https://open.spotify.com/artist/3wPSWZS5LyapP2x0kco8WP), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Bebasi](https://open.spotify.com/album/6LG4BQaScqMT5bhGvtj1FS) | 3:17 | 2024-04-20 | 2024-05-10 |
 | [Bechara](https://open.spotify.com/track/2opFSaUlno7TPxiUXSmfGH) | [Shabi](https://open.spotify.com/artist/2qw1k9QmIsWQ46Fds3Hmuh) | [Bechara](https://open.spotify.com/album/7BYIBvze1oYaOw235A6ExC) | 2:54 | 2024-10-01 | 2024-10-04 |
@@ -784,7 +785,7 @@
 | [Mundey Punjab De](https://open.spotify.com/track/5vySfgc9sYweo3YCQa415d) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [Mundey Punjab De](https://open.spotify.com/album/1XDqbrnkW1koEm7e9oZeur) | 3:25 | 2022-10-26 | 2022-11-18 |
 | [Muraqba](https://open.spotify.com/track/2RG6HbsbmsA8S6o9e3cY9A) | [Philosopher](https://open.spotify.com/artist/48Yez6kXz9M9Y9clFgRyQx) | [Muraqba](https://open.spotify.com/album/69JyMFIdbsgzTuYEibqYKz) | 2:48 | 2022-11-17 | 2022-12-01 |
 | [Mutual](https://open.spotify.com/track/6OIHXz9wJ4i1lfHqDDydUe) | [Baahroze Khan](https://open.spotify.com/artist/3IfzoE3qAdvZav4YyT0GpJ) | [Mutual](https://open.spotify.com/album/0ZuFfW6ZmqAtHijoN21Dpc) | 2:53 | 2022-10-26 | 2022-11-18 |
-| [Mutyare](https://open.spotify.com/track/7Fi1hrLmMNf9FJgymzGNH6) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF) | [Mutyare](https://open.spotify.com/album/71HDMh4ioOxD7U4troH2ic) | 2:45 | 2026-04-03 |  |
+| [Mutyare](https://open.spotify.com/track/7Fi1hrLmMNf9FJgymzGNH6) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF) | [Mutyare](https://open.spotify.com/album/71HDMh4ioOxD7U4troH2ic) | 2:45 | 2026-04-03 | 2026-06-10 |
 | [My Girl](https://open.spotify.com/track/78rrmVB3rXNsIxgDv0gR4E) | [Indenial](https://open.spotify.com/artist/0Kkzb2tJCXTUuVMkI3MyJC) | [My Girl](https://open.spotify.com/album/0OyYh0ucDJfqL972g3YT3a) | 2:58 | 2022-10-26 | 2022-11-18 |
 | [My Side](https://open.spotify.com/track/18MamckgtZPW6yhvOUNiIw) | [Abdullah Khan](https://open.spotify.com/artist/2e8YlII8TbOMh0JJ6OstPr) | [My Side](https://open.spotify.com/album/5cMdZgHwTHQ9r4t9mYSdp5) | 2:18 | 2026-04-24 |  |
 | [N\. M\. D](https://open.spotify.com/track/47AjJrGrOCaqxXbEIMWNq9) | [Hashim Ishaq](https://open.spotify.com/artist/3K6IjvhAJpWRUehJ9mU0Ot) | [N\. M\. D](https://open.spotify.com/album/2NGJttt7WlmSCWNRedrUIW) | 2:50 | 2022-08-27 | 2022-09-24 |
@@ -1193,6 +1194,7 @@
 | [Trauma](https://open.spotify.com/track/27QOIFl6gudJXUTraYWrzA) | [Mekyail Aly](https://open.spotify.com/artist/6F6fTF6TjFcsThdCG26ItV), [Asad Farooqui](https://open.spotify.com/artist/0OkmwgWURKfXosyChuo9Kj) | [Trauma](https://open.spotify.com/album/4lDprtUjr4xFgM5CBCIku7) | 3:03 | 2022-08-27 | 2022-09-24 |
 | [trip](https://open.spotify.com/track/2olQX0UV5H3kNfoPt6F9Be) | [malick](https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU), [Huzaifa Yasir](https://open.spotify.com/artist/4nlBaZiahNKLu2E7SygCHi), [SMK](https://open.spotify.com/artist/19DFB1rgWVgsJ2gUB4s5x6) | [trip](https://open.spotify.com/album/0Cy0JoLCGWCquashxPpl4c) | 2:03 | 2023-05-05 | 2023-08-19 |
 | [Tripping over !](https://open.spotify.com/track/7sZiVoiQCOsdzdmcJ0tIAx) | [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi) | [Tripping over !](https://open.spotify.com/album/5ahcCIHWreuEXL9qI6zm1w) | 3:12 | 2022-08-27 | 2022-09-24 |
+| [Truly Yours](https://open.spotify.com/track/7IjyrXe30f6puyb2OKHOC6) | [Usman Raees](https://open.spotify.com/artist/0dKFoVgiPm2YM2c6LH1e6r) | [Truly Yours](https://open.spotify.com/album/1SiVJeUlccGD13lDHcL7XD) | 2:54 | 2026-06-09 |  |
 | [Tu](https://open.spotify.com/track/5PgZaif3EmEqdbRaDr7KqM) | [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs), [Hussain Ajani](https://open.spotify.com/artist/4TZi2SKhuNXEyRa7sOLa9H) | [Tu](https://open.spotify.com/album/7n0w5chHATTvNFJlcg8xgz) | 3:04 | 2024-01-19 | 2024-03-20 |
 | [Tu](https://open.spotify.com/track/330TsHu0mlE6C6HUMonBsZ) | [Saif Altaf](https://open.spotify.com/artist/2dIHcU5M4hH1kv6xthhqnV) | [Tu](https://open.spotify.com/album/1bo7xoT51hozH458Dlen4O) | 3:18 | 2025-09-09 | 2025-12-20 |
 | [Tu Aja](https://open.spotify.com/track/21H0pA5BplgAi32C6wLaDm) | [Masood Bukhari](https://open.spotify.com/artist/0Wktv02lmO5dcK4RI7bZIK), [Zaphixx](https://open.spotify.com/artist/6lCX5UL3OnSnZIW0vt2j5m), [Muhammad Ali](https://open.spotify.com/artist/3O5X759SsQ6VzpPVopUZSX) | [Tu Aja](https://open.spotify.com/album/3WGkm1QIs7yvNv8xVcZ4Ey) | 2:15 | 2024-09-05 | 2024-11-08 |

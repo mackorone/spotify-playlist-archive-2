@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1143451,
+  "num_followers": 1143469,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Sacred Hearts Club",
         "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 243146,
       "name": "Sit Next to Me",
       "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 239212,
-      "name": "twin flame",
-      "url": "https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 214333,
       "name": "Echo",
       "url": "https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 239212,
+      "name": "twin flame",
+      "url": "https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1075,7 +1075,7 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "What's Love (feat. MUNA)",
+        "name": "What's Love",
         "url": "https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z"
       },
       "artists": [
@@ -1089,7 +1089,7 @@
         }
       ],
       "duration_ms": 189720,
-      "name": "What's Love (feat. MUNA)",
+      "name": "What's Love",
       "url": "https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy"
     },
     {
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Sadnecessary",
-        "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Flashed Junk Mind",
-      "url": "https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 265613,
       "name": "This Modern Love",
       "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Sadnecessary",
+        "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Flashed Junk Mind",
+      "url": "https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Free Animal",
-        "url": "https://open.spotify.com/album/7I82cxUhP77MAqBeY9hkVa"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Free Animal",
-      "url": "https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 228746,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/51ygW389BW4Dut3B69pSwc"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Free Animal",
+        "url": "https://open.spotify.com/album/7I82cxUhP77MAqBeY9hkVa"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Free Animal",
+      "url": "https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ"
     },
     {
       "added_at": "2026-02-18 18:45:42",

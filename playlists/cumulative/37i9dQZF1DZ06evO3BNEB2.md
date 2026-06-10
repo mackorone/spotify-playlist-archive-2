@@ -4,7 +4,7 @@
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 44 min
+59 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Dearly Beloved \(feat\. Jamie Foxx\)](https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Folarin II](https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9) | 1:49 | 2026-02-21 |  |
 | [Diced Pineapples](https://open.spotify.com/track/27mF2eUbhExYWiOT0y9cuc) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [God Forgives, I Don't \(Deluxe Edition\)](https://open.spotify.com/album/1YSb516nyR6ALY2ji1eCAV) | 4:36 | 2026-02-21 |  |
 | [Down South \(feat\. Yella Beezy & Maxo Kream\)](https://open.spotify.com/track/3iBTlAs9ki435FDkt7LXUA) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:59 | 2026-05-06 |  |
-| [Expectations \(feat\. 6LACK\)](https://open.spotify.com/track/3oYod1daHuFMb2Z0FG79OE) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 5:04 | 2026-05-25 |  |
+| [Expectations \(feat\. 6LACK\)](https://open.spotify.com/track/3oYod1daHuFMb2Z0FG79OE) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 5:04 | 2026-05-25 | 2026-06-10 |
+| [Feel the Love \(feat\. Wale\)](https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Home \(Deluxe Edition\)](https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac) | 3:56 | 2026-06-10 |  |
 | [FEELINGS ON SILENT \(feat\. Wale\)](https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:29 | 2026-02-21 |  |
 | [Fly Away](https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:55 | 2026-02-21 |  |
 | [French Toast \(feat\. Wale & Joyce Wrice\)](https://open.spotify.com/track/0RoV9OBxlqxkzFEv6LAm84) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Pray for Paris](https://open.spotify.com/album/6nfJMRoIjyRwk3ZTHNm0PY) | 4:48 | 2026-03-22 | 2026-05-12 |

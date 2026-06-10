@@ -1,6 +1,6 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 125034,
+  "num_followers": 125074,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,18 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "El Juicio",
-        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1uvrsZTTwKbWGpaZGFAwoT"
       },
       "artists": [
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 227280,
-      "name": "Ah-Ah / O-No",
-      "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
+      "duration_ms": 304200,
+      "name": "Oh Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/737IZvQey0ZKjtEe3pJzeK"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -331,18 +327,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/1uvrsZTTwKbWGpaZGFAwoT"
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
       "artists": [
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 304200,
-      "name": "Oh Qu\u00e9 Ser\u00e1?",
-      "url": "https://open.spotify.com/track/737IZvQey0ZKjtEe3pJzeK"
+      "duration_ms": 227280,
+      "name": "Ah-Ah / O-No",
+      "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Rey del Bajo",
+        "url": "https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6"
+      },
+      "artists": [
+        {
+          "name": "Bobby Valentin",
+          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
+        }
+      ],
+      "duration_ms": 346306,
+      "name": "Mi Ritmo Es Bueno",
+      "url": "https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Jala Jala y Boogaloo",
         "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 307146,
       "name": "Richie's Jala Jala",
       "url": "https://open.spotify.com/track/5168U0L9JW0QWszjyrBogt"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Rey del Bajo",
-        "url": "https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6"
-      },
-      "artists": [
-        {
-          "name": "Bobby Valentin",
-          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
-        }
-      ],
-      "duration_ms": 346306,
-      "name": "Mi Ritmo Es Bueno",
-      "url": "https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye"
     },
     {
       "added_at": "2024-06-24 22:23:31",

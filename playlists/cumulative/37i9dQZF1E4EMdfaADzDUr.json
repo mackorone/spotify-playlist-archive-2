@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With BIRRD, After Cooking, Mokado and more",
+  "description": "With BIRRD, After Cooking, GONE and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 233173,
       "name": "1968",
       "url": "https://open.spotify.com/track/2y6Mqnz8rc73kzoGw4MxnL"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 162653,
       "name": "A Name I Don't Know",
       "url": "https://open.spotify.com/track/7jTuokUoFx6FRojl3twhLc"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 323200,
       "name": "Allegri",
       "url": "https://open.spotify.com/track/4gfwkR7XoKv6G5OCN8jeHC"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 251707,
       "name": "California",
       "url": "https://open.spotify.com/track/5PMqsUfcYMHV3LnmIx4RGV"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 122401,
       "name": "Colours of Arps",
       "url": "https://open.spotify.com/track/4lzPDJEyZFpw7K8h5m2OWG"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 227500,
       "name": "Effet d'hiver",
       "url": "https://open.spotify.com/track/6PQeHDT3xUfOPxR50Uo90s"
@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 302400,
       "name": "Fairytale of Berlin",
       "url": "https://open.spotify.com/track/34U4HVc9fdGUmFbbm7jgqc"
@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 289785,
       "name": "Feel Something - Lake Turner Remix",
       "url": "https://open.spotify.com/track/0fS7uJav3YGDivO8kxfNUt"
@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 318719,
       "name": "Fior Di Macchia",
       "url": "https://open.spotify.com/track/1HKT7N5bCvuete8irgxbUj"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 297670,
       "name": "Heliosphere",
       "url": "https://open.spotify.com/track/2dyQsjLSlcHMkeLqzYJtkJ"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 256887,
       "name": "Hokan",
       "url": "https://open.spotify.com/track/6DkD4VQCHPPUwx0sqrOw4C"
@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 251646,
       "name": "I Am Free",
       "url": "https://open.spotify.com/track/66yiSAj6jAtwudHsXmzXl2"
@@ -2253,6 +2253,28 @@
     },
     {
       "album": {
+        "name": "Takeoff",
+        "url": "https://open.spotify.com/album/7q66rWcsbRFampxdMrSrBV"
+      },
+      "artists": [
+        {
+          "name": "BIRRD",
+          "url": "https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw"
+        },
+        {
+          "name": "Fakear",
+          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206244,
+      "name": "Khamsin",
+      "url": "https://open.spotify.com/track/1xalEcUTqWkHTb79nwBOA9"
+    },
+    {
+      "album": {
         "name": "Kibo",
         "url": "https://open.spotify.com/album/6DKArTme4iJQW4OkAnFfxR"
       },
@@ -2282,7 +2304,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 325791,
       "name": "Kodama",
       "url": "https://open.spotify.com/track/4KDXL0KG6GZviMFMhosthB"
@@ -2738,7 +2760,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 252866,
       "name": "Mind Map",
       "url": "https://open.spotify.com/track/3gYmDUx6cF0SwO3SyFYk0j"
@@ -2756,7 +2778,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 203779,
       "name": "Minuit",
       "url": "https://open.spotify.com/track/4UAxmiriWgNyu40rePrrsn"
@@ -3092,7 +3114,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 279440,
       "name": "Nuclear Fission",
       "url": "https://open.spotify.com/track/7MEcVIZxNQOxRmaafMVvId"
@@ -3374,7 +3396,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 210491,
       "name": "PEOPLE//PLEASER",
       "url": "https://open.spotify.com/track/1Tczrcus38dWH0Y54zaJmQ"
@@ -3486,7 +3508,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Premier contact",
       "url": "https://open.spotify.com/track/3fJPlwDCvx3dyKIoaSeANr"
@@ -3594,7 +3616,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 518240,
       "name": "Purpurreiher",
       "url": "https://open.spotify.com/track/0aNEWht4v7T61S8uREhERE"
@@ -3648,7 +3670,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 277992,
       "name": "Resonance Frequency",
       "url": "https://open.spotify.com/track/3HSQ6i5k1CIXg2aw1gPGJj"
@@ -3796,7 +3818,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 274851,
       "name": "Samothrace",
       "url": "https://open.spotify.com/track/3ghGwVcpdzHpKnbc1d4Lhg"
@@ -4118,7 +4140,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 184320,
       "name": "Space",
       "url": "https://open.spotify.com/track/3Sc1sXkHQeGgs5125wLfqD"
@@ -4194,6 +4216,24 @@
       "duration_ms": 221066,
       "name": "Spirits of Joy",
       "url": "https://open.spotify.com/track/1jBKge3KmUCAtNazWzl93H"
+    },
+    {
+      "album": {
+        "name": "EVOLVE",
+        "url": "https://open.spotify.com/album/1cdwM2IypDjUQKcgMv8g3J"
+      },
+      "artists": [
+        {
+          "name": "Halina Rice",
+          "url": "https://open.spotify.com/artist/3nirvxlh3VxY2tSP7H6bGc"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256708,
+      "name": "SPLIT",
+      "url": "https://open.spotify.com/track/2sl7kPlbObRD859vn8fTDH"
     },
     {
       "album": {
@@ -4432,10 +4472,32 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 241573,
       "name": "Takeoff",
       "url": "https://open.spotify.com/track/1dvyFEyi0TA0yHurmzhKjV"
+    },
+    {
+      "album": {
+        "name": "Tales of Anima (Birrd Remix)",
+        "url": "https://open.spotify.com/album/3FmGpmBkbC5p6vJOgb8cpa"
+      },
+      "artists": [
+        {
+          "name": "Diskay",
+          "url": "https://open.spotify.com/artist/0jhEMuo7mHO0SS3ikkimR5"
+        },
+        {
+          "name": "BIRRD",
+          "url": "https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301360,
+      "name": "Tales of Anima - Birrd Remix",
+      "url": "https://open.spotify.com/track/74An6FDlZFDbrRumY5cQ8C"
     },
     {
       "album": {
@@ -4508,7 +4570,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 218308,
       "name": "TERRAIN",
       "url": "https://open.spotify.com/track/3KrjLLnqF3lChFLyX31hns"
@@ -4544,7 +4606,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 292680,
       "name": "THE BRIDGE // 4:04AM",
       "url": "https://open.spotify.com/track/3mMtP3qD2c4vNihc2qOJst"
@@ -4616,7 +4678,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 209906,
       "name": "THE MOON // 3:49AM",
       "url": "https://open.spotify.com/track/72lUxaRRDEmKungYLgLXOS"
@@ -4652,7 +4714,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 234773,
       "name": "THE NOOK // 4:28AM",
       "url": "https://open.spotify.com/track/57OZL6BkJT0YfA67LUT5Uv"
@@ -4988,7 +5050,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 206341,
       "name": "Verbier",
       "url": "https://open.spotify.com/track/7f8SsMWNbWM5Fyg9duonkz"
@@ -5176,7 +5238,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 166875,
       "name": "what a day",
       "url": "https://open.spotify.com/track/0QWzeUKqTxgvs9eLK9J9TS"
@@ -5230,7 +5292,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 489523,
       "name": "White Clouds",
       "url": "https://open.spotify.com/track/4NJvhKZO5KNkfuB05HTWb0"
@@ -5418,7 +5480,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 244013,
       "name": "YUPIK",
       "url": "https://open.spotify.com/track/4ATi8vjHseQrIjJgZ5Ot6o"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Stormzy, Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,057,325 likes - 69 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,057,289 likes - 69 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

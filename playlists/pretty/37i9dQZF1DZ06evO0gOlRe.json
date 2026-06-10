@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 36702,
+  "num_followers": 36701,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAADINQIvZhLAiBD/75805dZr",
+  "snapshot_id": "aiYGAAAAAABecz2+7hlRvD24SPIWv3Dy",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
       "duration_ms": 204266,
       "name": "Friends Don't",
       "url": "https://open.spotify.com/track/20sPaSqU2nGEUqEz0OkwyT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Temporary",
+        "url": "https://open.spotify.com/album/4S4a9LgBwoQPRtgLasP5Vh"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 154927,
+      "name": "Temporary",
+      "url": "https://open.spotify.com/track/6oe1NvIn5P8zX5HwGAU9Nr"
     },
     {
       "added_at": null,
@@ -63,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Temporary",
-        "url": "https://open.spotify.com/album/4S4a9LgBwoQPRtgLasP5Vh"
+        "name": "blame's on me",
+        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
       },
       "artists": [
         {
@@ -72,9 +88,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 154927,
-      "name": "Temporary",
-      "url": "https://open.spotify.com/track/6oe1NvIn5P8zX5HwGAU9Nr"
+      "duration_ms": 138374,
+      "name": "blame's on me",
+      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
     },
     {
       "added_at": null,
@@ -91,22 +107,6 @@
       "duration_ms": 161430,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2hm2rOLMUE0O9Zvsp9mISa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "blame's on me",
-        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 138374,
-      "name": "blame's on me",
-      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What If?",
-        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 178160,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 172500,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 178160,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What If?",
-        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Good Things Go",
-      "url": "https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 232340,
       "name": "Best Damn Thing",
       "url": "https://open.spotify.com/track/6i71yrjuQ9f1zUSVfEChem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Good Things Go",
+      "url": "https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What If?",
-        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 166306,
-      "name": "Pathetic",
-      "url": "https://open.spotify.com/track/6ChfyB2KfEqBDp6gDm82es"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "birthday cake (duet)",
         "url": "https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 205280,
       "name": "birthday cake - duet",
       "url": "https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 166306,
+      "name": "Pathetic",
+      "url": "https://open.spotify.com/track/6ChfyB2KfEqBDp6gDm82es"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "said so",
+      "url": "https://open.spotify.com/track/20NwaHJSTOimYki0KmlMSo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What If?",
         "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
       },
@@ -571,38 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 186800,
-      "name": "said so",
-      "url": "https://open.spotify.com/track/20NwaHJSTOimYki0KmlMSo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "when you love someone",
-        "url": "https://open.spotify.com/album/6DJ9hc2PzwTGMLdy1yZ7jB"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 173076,
-      "name": "when you love someone",
-      "url": "https://open.spotify.com/track/0RcBg00iWhPxRbR7mm8q2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORIGIN (Deluxe)",
         "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
       },
@@ -623,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "if you only knew",
-        "url": "https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "drunk thought",
-      "url": "https://open.spotify.com/track/0LDgdxnp94Ut3f5d4Yxzcb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "bleeding heart",
         "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
       },
@@ -651,6 +619,38 @@
       "duration_ms": 160400,
       "name": "reflection",
       "url": "https://open.spotify.com/track/1jYPnvtdMWvCOTJtQVPZZn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "when you love someone",
+        "url": "https://open.spotify.com/album/6DJ9hc2PzwTGMLdy1yZ7jB"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "when you love someone",
+      "url": "https://open.spotify.com/track/0RcBg00iWhPxRbR7mm8q2Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "if you only knew",
+        "url": "https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "drunk thought",
+      "url": "https://open.spotify.com/track/0LDgdxnp94Ut3f5d4Yxzcb"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "if you only knew",
-        "url": "https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 144400,
-      "name": "knowing you exist",
-      "url": "https://open.spotify.com/track/2TRtmJg3JGtfKKnNOkU5Dn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 212746,
       "name": "Shy",
       "url": "https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "if you only knew",
+        "url": "https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 144400,
+      "name": "knowing you exist",
+      "url": "https://open.spotify.com/track/2TRtmJg3JGtfKKnNOkU5Dn"
     },
     {
       "added_at": null,

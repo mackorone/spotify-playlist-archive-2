@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 17615,
+  "num_followers": 17623,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAAB2WAV9GAssNytELy3FlwJH",
+  "snapshot_id": "aiYGAAAAAADORLuhe0PvEousq91mVav9",
   "tracks": [
     {
       "added_at": null,
@@ -579,7 +579,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "What's Love (feat. MUNA)",
+        "name": "What's Love",
         "url": "https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z"
       },
       "artists": [
@@ -593,7 +593,7 @@
         }
       ],
       "duration_ms": 189720,
-      "name": "What's Love (feat. MUNA)",
+      "name": "What's Love",
       "url": "https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy"
     },
     {

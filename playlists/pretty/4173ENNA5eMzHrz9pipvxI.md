@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: HEDEGAARD, MOGUAI, Brandon Beal
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,253 likes - 243 songs - 12 hr 7 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,254 likes - 243 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

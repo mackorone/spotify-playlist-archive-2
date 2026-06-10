@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, furry music for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,124 likes - 378 songs - 19 hr 13 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,125 likes - 378 songs - 19 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PORTALS](https://open.spotify.com/track/00qDZLnqTA6OYeOgzQk8Ov) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [PORTALS](https://open.spotify.com/album/6ZZnDwBtObfjv3duWG8oi7) | 2:42 |
-| 2 | [Eat Me Alive](https://open.spotify.com/track/1m9upNm8FhtRYfcgbSshH2) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Eat Me Alive](https://open.spotify.com/album/4ZOHqRRTl4g9CkiCiB5tIA) | 3:57 |
+| 1 | [Eat Me Alive](https://open.spotify.com/track/1m9upNm8FhtRYfcgbSshH2) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Eat Me Alive](https://open.spotify.com/album/4ZOHqRRTl4g9CkiCiB5tIA) | 3:57 |
+| 2 | [PORTALS](https://open.spotify.com/track/00qDZLnqTA6OYeOgzQk8Ov) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [PORTALS](https://open.spotify.com/album/6ZZnDwBtObfjv3duWG8oi7) | 2:42 |
 | 3 | [FLY WITH ME](https://open.spotify.com/track/1rHTshEmjoQ1GBoQfXEXIQ) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4), [MANEDBENTO!](https://open.spotify.com/artist/3Tls1YrzO8LhdZjaG32MyH) | [FLY WITH ME](https://open.spotify.com/album/6sK9SWuKTDP0zyz9ZcKV8E) | 4:09 |
 | 4 | [DARK SIDE OF THE ROOM](https://open.spotify.com/track/593Epzqztbj28a7MuuJ06Y) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [DARK SIDE + TREATS!!](https://open.spotify.com/album/23AphdOs2IsU8tQhRhvxdk) | 2:36 |
 | 5 | [me when im with u](https://open.spotify.com/track/3o3NCapGD57YZfxl1ZPdbx) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [fahstine](https://open.spotify.com/artist/6AniEXMCsYiZ7FxuO77U4P) | [me when im with u](https://open.spotify.com/album/1M2TrWPuXV7LlRSZlhBTg3) | 2:14 |
@@ -387,4 +387,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 377 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 |
 | 378 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 |
 
-Snapshot ID: `AAAFV9AyVgl8oEpvGPgb0QdPmo0B0HJP`
+Snapshot ID: `AAAFWMsXeIlwoY+1F1BDwOZdmau5ixlq`

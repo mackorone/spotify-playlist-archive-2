@@ -4,7 +4,7 @@
 
 > The best in Black music! Cover: <a href="spotify:artist:68kEuyFKyqrdQQLLsmiatm">Vince Staples</a>
 
-6,126 songs - 12 day 22 hr 57 min
+6,127 songs - 12 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1239,7 +1239,7 @@
 | [crutch](https://open.spotify.com/track/0EoiLxXyYqsgwcfxBObWxn) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5) | [crutch](https://open.spotify.com/album/0lRurY2CxZjdWEoAM4GhHA) | 3:53 | 2025-11-21 | 2025-12-04 |
 | [Cry](https://open.spotify.com/track/5GVgzaPol7z9Z36R6tACoG) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Cry](https://open.spotify.com/album/0HAUdLbzMP3GnYzCww1g4C) | 3:31 | 2023-11-29 | 2024-01-20 |
 | [Cry](https://open.spotify.com/track/3zNOCF3Bd8oNjARH2EwQWY) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Cry](https://open.spotify.com/album/5ZenmsQ9Xq8p370jcHaGhl) | 3:10 | 2024-08-02 | 2024-08-21 |
-| [Cry For Me](https://open.spotify.com/track/0CoCPiSN4k82uJO9x33NfW) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 2:26 | 2026-05-08 |  |
+| [Cry For Me](https://open.spotify.com/track/0CoCPiSN4k82uJO9x33NfW) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 2:26 | 2026-05-08 | 2026-06-10 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-02-03 | 2025-05-10 |
 | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG) | 3:24 | 2024-04-19 | 2024-04-27 |
 | [Cry Wolf](https://open.spotify.com/track/6I2MrEcIvtLzz2Gv6DGCAU) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Cry Wolf](https://open.spotify.com/album/255urlK7V4yakvNY6r7aUK) | 3:27 | 2025-10-03 | 2025-10-11 |
@@ -2031,6 +2031,7 @@
 | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/track/3d19P64cMd5IM6jGGwKcSS) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/album/3Ej4xcq9U5V4cUsfjxeXgV) | 2:55 | 2022-10-07 | 2022-10-22 |
 | [Geeked up \(with OsamaSon\)](https://open.spotify.com/track/6Ke4o5sK2UqeGWpGxRZuvp) | [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Demon Heart Radio](https://open.spotify.com/album/2TUhJtMwtQE4fs1lxit9UB) | 2:35 | 2026-06-05 |  |
 | [GEEZER](https://open.spotify.com/track/4gKVzzNSCQ8Nri3zohtA0u) | [ERISTHEPLANET](https://open.spotify.com/artist/7qrlv2SiNqUaQT7dBuUHn3) | [GEEZER](https://open.spotify.com/album/12GaNnRBeuMDTpgXrkFnBY) | 2:26 | 2026-02-06 | 2026-02-28 |
+| [GEMINI SEASON](https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [GEMINI SEASON](https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc) | 1:46 | 2026-06-09 |  |
 | [Gen 2000](https://open.spotify.com/track/4yHxk9N0MIcQNjRICcsRV1) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Gen 2000](https://open.spotify.com/album/4a4L71JveDgiduthe0JM6s) | 2:15 | 2025-05-09 | 2025-06-07 |
 | [GENEROUS](https://open.spotify.com/track/15iKg3vhtQNgIMtv6IzylW) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 6:09 | 2025-02-22 | 2025-03-01 |
 | [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-09-06 | 2024-09-11 |

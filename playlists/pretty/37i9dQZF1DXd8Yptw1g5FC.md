@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Makbet x Can Bonomo ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,245 likes - 124 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,228 likes - 124 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

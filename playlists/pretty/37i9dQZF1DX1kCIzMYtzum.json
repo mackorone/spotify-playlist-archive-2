@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with John Summit",
-  "num_followers": 521159,
+  "num_followers": 521521,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2026-05-29 04:01:59",
       "album": {
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
+      },
+      "artists": [
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 203307,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
+    },
+    {
+      "added_at": "2026-05-29 04:01:59",
+      "album": {
         "name": "Clarity (BUNT. Remix)",
         "url": "https://open.spotify.com/album/6K2nE1dbUqfQSvYvpI0FK7"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 204110,
       "name": "Clarity - BUNT. Remix",
       "url": "https://open.spotify.com/track/13fVuFWEQOGlYY6EaxfQyj"
-    },
-    {
-      "added_at": "2026-05-29 04:01:59",
-      "album": {
-        "name": "Feeling Good",
-        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
-      },
-      "artists": [
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 203307,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
     },
     {
       "added_at": "2026-05-29 04:01:59",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2026-05-29 04:01:59",
       "album": {
+        "name": "Better Times (feat. BARBZ)",
+        "url": "https://open.spotify.com/album/2mmC7pH9VfseFT0xc0Byaq"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "BARBZ",
+          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
+        }
+      ],
+      "duration_ms": 188972,
+      "name": "Better Times (feat. BARBZ)",
+      "url": "https://open.spotify.com/track/3rzMJ9GVogl8CtcrxHRnIH"
+    },
+    {
+      "added_at": "2026-05-29 04:01:59",
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 196923,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
-    },
-    {
-      "added_at": "2026-05-29 04:01:59",
-      "album": {
-        "name": "Chasing Paradise",
-        "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 180532,
-      "name": "Chasing Paradise",
-      "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
     },
     {
       "added_at": "2026-05-29 04:01:59",
@@ -1579,22 +1579,22 @@
     {
       "added_at": "2026-05-29 04:01:59",
       "album": {
-        "name": "Better Times (feat. BARBZ)",
-        "url": "https://open.spotify.com/album/2mmC7pH9VfseFT0xc0Byaq"
+        "name": "Chasing Paradise",
+        "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "BARBZ",
-          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 188972,
-      "name": "Better Times (feat. BARBZ)",
-      "url": "https://open.spotify.com/track/3rzMJ9GVogl8CtcrxHRnIH"
+      "duration_ms": 180532,
+      "name": "Chasing Paradise",
+      "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
     },
     {
       "added_at": "2026-05-29 04:01:59",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2026-05-29 04:01:59",
       "album": {
-        "name": "Feels Like Us",
-        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "GiGi Grombacher",
-          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Feels Like Us",
-      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
-    },
-    {
-      "added_at": "2026-05-29 04:01:59",
-      "album": {
         "name": "He's A Pirate (Save Me)",
         "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 153125,
       "name": "He's A Pirate (Save Me)",
       "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
+    },
+    {
+      "added_at": "2026-05-29 04:01:59",
+      "album": {
+        "name": "Feels Like Us",
+        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "GiGi Grombacher",
+          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Feels Like Us",
+      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
     },
     {
       "added_at": "2026-05-29 04:01:59",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2026-05-29 04:01:59",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "felix jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
-    },
-    {
-      "added_at": "2026-05-29 04:01:59",
-      "album": {
         "name": "Axel F (Take It To The Floor) (with Gabry Ponte)",
         "url": "https://open.spotify.com/album/1j7bXnp1uQSvoiL3AFu1WD"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 139285,
       "name": "Axel F (Take It To The Floor) (with Gabry Ponte)",
       "url": "https://open.spotify.com/track/69akic9gR26niltxBY8pFm"
+    },
+    {
+      "added_at": "2026-05-29 04:01:59",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "felix jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
     },
     {
       "added_at": "2026-05-29 04:01:59",
@@ -2087,26 +2087,6 @@
     {
       "added_at": "2026-05-29 04:01:59",
       "album": {
-        "name": "Sacrifice",
-        "url": "https://open.spotify.com/album/6FIcuaZe4x4NU6JHrSIA1l"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Sam Harper",
-          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
-        }
-      ],
-      "duration_ms": 198778,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/4jN4p76dTKFs7MTvpgeMBA"
-    },
-    {
-      "added_at": "2026-05-29 04:01:59",
-      "album": {
         "name": "Interstellar",
         "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
       },
@@ -2119,6 +2099,30 @@
       "duration_ms": 231591,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
+    },
+    {
+      "added_at": "2026-05-29 04:01:59",
+      "album": {
+        "name": "Ain't Letting You Down",
+        "url": "https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Saksham",
+          "url": "https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF"
+        },
+        {
+          "name": "Scott Quinn",
+          "url": "https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1"
+        }
+      ],
+      "duration_ms": 261958,
+      "name": "Ain't Letting You Down",
+      "url": "https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB"
     }
   ],
   "unique_name": "EDM 2026",

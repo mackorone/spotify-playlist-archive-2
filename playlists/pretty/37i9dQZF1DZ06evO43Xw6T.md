@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,104 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,151 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 49 | [BAYAMÓN](https://open.spotify.com/track/3ZGNnNlKZNMNW9abDm0i0g) | [Capo](https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Esteban González](https://open.spotify.com/artist/1vMnVEtq5i30xyCVaHPhyz) | [BAYAMÓN](https://open.spotify.com/album/73kwI4UvPc6CfNi5zih7AY) | 2:57 |
 | 50 | [Te Engañé](https://open.spotify.com/track/4Gl4DGopis01oDfkmM5BWF) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 3:00 |
 
-Snapshot ID: `aiS0gAAAAAAXTzSdo1Dt8scQhi3heDyv`
+Snapshot ID: `aiYGAAAAAABkcx05FuvFY04ZQ1kIainL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 
 > The IDs that got us here\. \#Spotify20
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,812 likes - 95 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,819 likes - 95 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 45 | [Tell Me Are We](https://open.spotify.com/track/7q8xVdmpBJHNOA6pZq1Hhw) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [They Will EP](https://open.spotify.com/album/0Q774PS7DkrMtDIAs27cWQ) | 6:53 |
 | 46 | [Coma Cat \- Radio Edit](https://open.spotify.com/track/6QSyeJYrO2UHVZU46pMTkr) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Coma Cat](https://open.spotify.com/album/2sh7pth3akQwEILnbrgT9i) | 2:57 |
 | 47 | [What They Say](https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [What They Say EP](https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI) | 6:40 |
-| 48 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
-| 49 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
+| 48 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
+| 49 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
 | 50 | [Operator \- DJ Koze's Disco Edit](https://open.spotify.com/track/37ZDfygEHF7SMoYGDqM1uv) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Operator \(DJ Koze's 12 inch Extended Disco Versions\)](https://open.spotify.com/album/2k4POCag6LGhJ83pgcub52) | 5:08 |
 | 51 | [Knights of the Jaguar](https://open.spotify.com/track/3xxARypr8NdEMesYUHSsGK) | [Rolando](https://open.spotify.com/artist/0s1ELavwiZMFYDL31VDJpx) | [Paradise Garage: Inspirations](https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC) | 6:37 |
 | 52 | [Baby](https://open.spotify.com/track/0wPfUQUkWcguy2iUH0BWOT) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 4:24 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 82 | [el cielo no es de nadie](https://open.spotify.com/track/6ZJdW1sZg4zATn9EKih013) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 4:21 |
 | 83 | [Cutie](https://open.spotify.com/track/4JdUdTVkEDNFZtzyW8hBZH) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 6:24 |
 | 84 | [Roadkill](https://open.spotify.com/track/70bNn1Q83HtKuySvCTOh7M) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI) | [HYBRID: A Decade Of Dubfire](https://open.spotify.com/album/6XMKjGOdmOQBAs1ogp4B0Y) | 8:16 |
-| 85 | [Pura](https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Pura](https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c) | 2:51 |
-| 86 | [Duofade](https://open.spotify.com/track/18aVHbdnr0Uu0vDsTJfYwR) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Duofade](https://open.spotify.com/album/5JjxlBFREiVPgFpW1wP5mK) | 3:56 |
+| 85 | [Duofade](https://open.spotify.com/track/18aVHbdnr0Uu0vDsTJfYwR) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Duofade](https://open.spotify.com/album/5JjxlBFREiVPgFpW1wP5mK) | 3:56 |
+| 86 | [Pura](https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Pura](https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c) | 2:51 |
 | 87 | [Give it to Me](https://open.spotify.com/track/1Wp6y19X585x9sujeZFCJ4) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [Big Saldo's Chunker 002](https://open.spotify.com/album/7vCrMkN3vcD2SWfmZd3fYH) | 7:09 |
 | 88 | [Downtown](https://open.spotify.com/track/405f1q97DyJHd8txdOF3Ch) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Annette Bowen](https://open.spotify.com/artist/2aUKSEUEhrKaW6vkQnrXq6), [Nikki\-O](https://open.spotify.com/artist/1cVdPPKt04x4LIFGW4rUnL) | [Downtown](https://open.spotify.com/album/0WqEqArdcYA0W8xoOAbeTs) | 3:55 |
 | 89 | [We Give Thee Honor](https://open.spotify.com/track/4SFl7RUrwIz7KZORnRuLB8) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [We Give Thee Honor / Makes Me Wanna](https://open.spotify.com/album/2DINiJB1lCng3gMZO15dL4) | 3:11 |

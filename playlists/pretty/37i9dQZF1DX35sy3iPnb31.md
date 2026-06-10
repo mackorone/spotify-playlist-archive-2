@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,895 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,899 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 15 | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX) | 3:41 |
 | 16 | [Multiplied](https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Multiplied](https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R) | 3:02 |
 | 17 | [Heart on Fire](https://open.spotify.com/track/7tXVIybZ82zYhowStV0epZ) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Heart on Fire](https://open.spotify.com/album/77YMT2I0gx2cX7VLSA7y8c) | 2:48 |
-| 18 | [Out of Water](https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Out of Water](https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f) | 3:27 |
+| 18 | [for keeps](https://open.spotify.com/track/3EUwnOxvsfuTbc9pkHY8Sk) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Kiss the Sun](https://open.spotify.com/album/1hRKn5DrlF0YPrOveJVpbg) | 2:29 |
 | 19 | [WAHALA RIDDIM](https://open.spotify.com/track/6cDoUJQTi3yANsfEQRh2x8) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [WAHALA RIDDIM](https://open.spotify.com/album/0SciOReSTeXfZT3hTo59kO) | 3:22 |
-| 20 | [for keeps](https://open.spotify.com/track/3EUwnOxvsfuTbc9pkHY8Sk) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Kiss the Sun](https://open.spotify.com/album/1hRKn5DrlF0YPrOveJVpbg) | 2:29 |
+| 20 | [Out of Water](https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Out of Water](https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f) | 3:27 |
 | 21 | [In Da Jungle](https://open.spotify.com/track/1Dya7Lh8cLYg6t1q100xpY) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [In Da Jungle](https://open.spotify.com/album/6dplcmwBqhMrO1dKJw1qyz) | 2:44 |
-| 22 | [Like Heaven](https://open.spotify.com/track/5pZGuhprytXKB7QRMul3jq) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Like Heaven](https://open.spotify.com/album/2f4vxEOlp1k8ZSffiROoHE) | 3:38 |
-| 23 | [BORN WINNER](https://open.spotify.com/track/4ACkAjg9smuLvjskptzLgE) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [BORN WINNER](https://open.spotify.com/album/6V8vpu5MiLkOSLifAGfe2f) | 4:10 |
-| 24 | [Free Wheeling](https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Free Wheeling](https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3) | 3:49 |
+| 22 | [BORN WINNER](https://open.spotify.com/track/4ACkAjg9smuLvjskptzLgE) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [BORN WINNER](https://open.spotify.com/album/6V8vpu5MiLkOSLifAGfe2f) | 4:10 |
+| 23 | [Free Wheeling](https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Free Wheeling](https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3) | 3:49 |
+| 24 | [Like Heaven](https://open.spotify.com/track/5pZGuhprytXKB7QRMul3jq) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Like Heaven](https://open.spotify.com/album/2f4vxEOlp1k8ZSffiROoHE) | 3:38 |
 | 25 | [Only The Good I Keep](https://open.spotify.com/track/4zbYQmI3s9tMTCdOVIZgOD) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Remember The Humans](https://open.spotify.com/album/6skQ2cM5dafp4UdvvN0Xf9) | 3:27 |
 | 26 | [On Cam](https://open.spotify.com/track/6X0gxQVDV5foS61ukGYJzb) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [On Cam](https://open.spotify.com/album/60fRgIaM94Ua327WIZ3nhr) | 4:04 |
 | 27 | [G.Y.A.M.L \(My Love\)](https://open.spotify.com/track/76QPCZs6SWpfMJy7tylWj0) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [G.Y.A.M.L \(My Love\)](https://open.spotify.com/album/0xeEoXE1WXKkuYFh3bEZPc) | 3:27 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 38 | [THEO](https://open.spotify.com/track/4k1C99VNcTqtGgTJk8OMBt) | [k.alcordo](https://open.spotify.com/artist/4t8VuYPxKPp0iS9f2qjl3E) | [THEO](https://open.spotify.com/album/0Ia9aO3tQYbEWL9l4QERTv) | 2:56 |
 | 39 | [Who Do You Wanna Be](https://open.spotify.com/track/3iTwxZVmH5DoSIlFzlxvfL) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Mercy on the Skyline](https://open.spotify.com/album/6apkwQWQydjuIaUnh8IE1s) | 3:42 |
 | 40 | [To Be Lost](https://open.spotify.com/track/05rBzLk023AtT5NnKplUiS) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [To Be Lost in a Dream](https://open.spotify.com/album/6aQQFR5r0EAfQIztJu5W3o) | 2:55 |
-| 41 | [étude05 \. R O A M E R \. AMII.0\-RW005](https://open.spotify.com/track/1QkmlEKEvJa5mg3wSXStzR) | [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX), [Sevendeaths](https://open.spotify.com/artist/2w2KeI4G39Cn8m24ZpgIJW) | [étude05 \. R O A M E R \. AMII.0\-RW005](https://open.spotify.com/album/1vLeV6L7TCvHZHOihsJx6k) | 4:11 |
-| 42 | [Marathon](https://open.spotify.com/track/1YBzcUoJZthEfBvamvR7Y6) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Marathon](https://open.spotify.com/album/2OsCTcjrqHmer0jxi2jilj) | 2:28 |
+| 41 | [Marathon](https://open.spotify.com/track/1YBzcUoJZthEfBvamvR7Y6) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Marathon](https://open.spotify.com/album/2OsCTcjrqHmer0jxi2jilj) | 2:28 |
+| 42 | [étude05 \. R O A M E R \. AMII.0\-RW005](https://open.spotify.com/track/1QkmlEKEvJa5mg3wSXStzR) | [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX), [Sevendeaths](https://open.spotify.com/artist/2w2KeI4G39Cn8m24ZpgIJW) | [étude05 \. R O A M E R \. AMII.0\-RW005](https://open.spotify.com/album/1vLeV6L7TCvHZHOihsJx6k) | 4:11 |
 | 43 | [So Smart](https://open.spotify.com/track/5rV446j06aqas9T74HHBfE) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [So Smart](https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ) | 2:49 |
 | 44 | [dog eyed](https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog eyed](https://open.spotify.com/album/37t07kZf7Wo1OF8tVwKRYi) | 2:17 |
 | 45 | [Univers](https://open.spotify.com/track/4b5mmyOtZQZR8RsmKuKohL) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Univers](https://open.spotify.com/album/7diFYGJ5FZ6x3iYwM5jJAn) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Get It N Go](https://open.spotify.com/track/2mx5ILjJOOBgoVx690edNb) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Get It N Go](https://open.spotify.com/album/1Pob5uyZOs72497AiC2Qwj) | 2:57 |
 | 50 | [Fous de nous deux](https://open.spotify.com/track/34pKCpWbrzLva99r9lkF7n) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Fous de nous deux](https://open.spotify.com/album/0SXQw0b0sVz0LTGv7t6Utb) | 2:49 |
 
-Snapshot ID: `AAAAAKtSSZRuaAMxjosFePgq0dyC0bv/`
+Snapshot ID: `AAAAAD/gRP+gTvjzUAsxAl6BLW6sFry1`

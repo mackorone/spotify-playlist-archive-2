@@ -4,7 +4,7 @@
 
 > Meet the future of Pakistani music ♥️ Cover: Murtaza Qizilbash
 
-161 songs - 9 hr 1 min
+162 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [WHERE R U](https://open.spotify.com/track/15vcBRyEkUZkH8xpGs35xe) | [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [WHERE R U](https://open.spotify.com/album/0LvPT3BxK0v7hCkzHsnp5K) | 3:41 | 2026-04-03 |  |
 | [Wife You](https://open.spotify.com/track/5A7uVk7orEzrR9NA8ppFus) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 4:16 | 2023-09-15 |  |
 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 | 2024-06-09 |  |
+| [Woh](https://open.spotify.com/track/1GDJhAiO9tqjMuDWFad0IF) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Woh](https://open.spotify.com/album/2tbamcNG4xK0jKrd1lSzXX) | 3:57 | 2026-06-09 |  |
 | [You don't know](https://open.spotify.com/track/36fXGJsQmHzsTJ69DUV0nE) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [You don't know \(Pack\)](https://open.spotify.com/album/153syyegkwTUwQGi58QNhP) | 2:03 | 2023-09-03 | 2023-09-16 |
 | [Yung Money](https://open.spotify.com/track/5AhLbtL9gzUJ4Na9V1A9oP) | [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Ali Raza](https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW), [Azan Ali](https://open.spotify.com/artist/0V5VTIpWy4tsz3XienFcxJ) | [birds in the trap](https://open.spotify.com/album/4vzcWip8QHisJ2hbszZ11y) | 3:14 | 2026-04-09 |  |
 | [Zaalima](https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zaalima](https://open.spotify.com/album/6YBXUtfQswWm7xKGSEyVc5) | 3:02 | 2024-01-17 |  |

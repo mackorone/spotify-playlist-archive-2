@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 316931,
+  "num_followers": 316930,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "Pour que tu m'aimes encore",
-      "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
         "name": "De L' Amour Le Mieux",
         "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
       },
@@ -663,22 +647,6 @@
       "duration_ms": 298960,
       "name": "Tu trouveras",
       "url": "https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
-        "name": "C'est d\u00e9j\u00e0 \u00e7a",
-        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "L'amour \u00e0 la machine",
-      "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -699,18 +667,34 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "20eme anniversaire",
-        "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
+        "name": "C'est d\u00e9j\u00e0 \u00e7a",
+        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
       },
       "artists": [
         {
-          "name": "Mike Brant",
-          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
         }
       ],
-      "duration_ms": 203093,
-      "name": "Laisse moi t'aimer",
-      "url": "https://open.spotify.com/track/3xPNasHy69FFGxyxYApJPS"
+      "duration_ms": 226800,
+      "name": "L'amour \u00e0 la machine",
+      "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "Pour que tu m'aimes encore",
+      "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -727,6 +711,22 @@
       "duration_ms": 240986,
       "name": "J'en r\u00eave encore - Radio Edit",
       "url": "https://open.spotify.com/track/07aWTEpDmPPCx5XkqhRHfH"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
+        "name": "20eme anniversaire",
+        "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
+      },
+      "artists": [
+        {
+          "name": "Mike Brant",
+          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Laisse moi t'aimer",
+      "url": "https://open.spotify.com/track/3xPNasHy69FFGxyxYApJPS"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
+        "name": "Je Te Dis Vous",
+        "url": "https://open.spotify.com/album/69n8bkgSfdSYf8IBvSdRC8"
+      },
+      "artists": [
+        {
+          "name": "Patricia Kaas",
+          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
+        }
+      ],
+      "duration_ms": 321266,
+      "name": "Il me dit que je suis belle",
+      "url": "https://open.spotify.com/track/19faTtoozaabdpDnj1rxZy"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
         "name": "Les Dix Commandements (L'int\u00e9grale)",
         "url": "https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 388840,
       "name": "L'envie d'aimer",
       "url": "https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
-        "name": "Je Te Dis Vous",
-        "url": "https://open.spotify.com/album/69n8bkgSfdSYf8IBvSdRC8"
-      },
-      "artists": [
-        {
-          "name": "Patricia Kaas",
-          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
-        }
-      ],
-      "duration_ms": 321266,
-      "name": "Il me dit que je suis belle",
-      "url": "https://open.spotify.com/track/19faTtoozaabdpDnj1rxZy"
     },
     {
       "added_at": "2026-04-15 08:53:32",

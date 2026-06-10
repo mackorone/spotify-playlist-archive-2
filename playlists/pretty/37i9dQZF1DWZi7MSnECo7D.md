@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Morro Fuji
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,799 likes - 72 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,601 likes - 72 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

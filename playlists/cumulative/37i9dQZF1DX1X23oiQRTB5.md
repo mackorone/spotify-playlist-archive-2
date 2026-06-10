@@ -4,7 +4,7 @@
 
 > Hamza au top de la première playlist de rap français.
 
-443 songs - 22 hr 15 min
+444 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,8 @@
 | [MERCI](https://open.spotify.com/track/7HRfX5It3lx1E02wTRR0RX) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [MERCI](https://open.spotify.com/album/3XDU23knaqOYPuqDpyEoOW) | 3:12 | 2024-07-25 | 2024-10-18 |
 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 | 2023-10-26 | 2024-04-19 |
 | [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-09-07 | 2024-05-17 |
-| [Met Gala](https://open.spotify.com/track/2pYhj6vIyKGLK9YiqQ8z1n) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX) | [Après La Vague](https://open.spotify.com/album/3EcOZjpLJXsdISZVDaeGFM) | 2:23 | 2026-03-05 |  |
+| [Met Gala](https://open.spotify.com/track/0Cllzr95lUj1sh8e4XKfkt) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX) | [Met Gala](https://open.spotify.com/album/50QuUe20Sh7RlTCLZiIdCs) | 2:23 | 2026-06-09 |  |
+| [Met Gala](https://open.spotify.com/track/2pYhj6vIyKGLK9YiqQ8z1n) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX) | [Après La Vague](https://open.spotify.com/album/3EcOZjpLJXsdISZVDaeGFM) | 2:23 | 2026-03-05 | 2026-06-10 |
 | [Metaverse](https://open.spotify.com/track/7rzjdyHmqwloCA16UBdDgg) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Metaverse](https://open.spotify.com/album/4yb1lj6MdPuKHJuQlXs5O7) | 3:13 | 2023-02-16 | 2023-06-09 |
 | [Meuda](https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 2:32 | 2022-11-17 | 2023-12-01 |
 | [Michael Jordan](https://open.spotify.com/track/6zUuYG5WmHSHNoZQ13TiT2) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf) | [Michael Jordan](https://open.spotify.com/album/56C3vM0iBhNvx6p3i29ugU) | 3:43 | 2024-04-18 | 2025-03-14 |

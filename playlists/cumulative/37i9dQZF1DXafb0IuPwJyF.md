@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: Ado
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: なとり
 
-1,797 songs - 4 day 15 hr 12 min
+1,798 songs - 4 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Contrast](https://open.spotify.com/track/7xsztWMVvAzfNVyaCqW2Tj) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Contrast](https://open.spotify.com/album/6vptFPctTJu6HtY1yAwZPI) | 4:18 | 2025-01-14 | 2025-03-05 |
 | [crash](https://open.spotify.com/track/4e5kKctP1oVPUvST4Dto1o) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [crash](https://open.spotify.com/album/56TSISxm1MrlCkokyAD7UT) | 2:46 | 2022-06-12 | 2022-07-04 |
 | [Crayon](https://open.spotify.com/track/3ZEdrRIGjFpXZSzfjwWmDQ) | [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f) | [Crayon](https://open.spotify.com/album/1VlDPGkPriiK2uj3bFxyHE) | 2:56 | 2022-06-05 | 2022-07-25 |
+| [Crunchy](https://open.spotify.com/track/3micqfC9Do9RNjfKXrgXJn) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Crunchy](https://open.spotify.com/album/73HFi6LgowgPUgDyiQbQY4) | 3:34 | 2026-06-09 |  |
 | [Cry Baby](https://open.spotify.com/track/6wDntdm888mDo458RaYjGl) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1) | 4:01 | 2021-12-19 | 2022-01-10 |
 | [CUBE](https://open.spotify.com/track/0Utf1kTcynD7Fg5u2NXtZC) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [CUBE](https://open.spotify.com/album/0Pjd5SU2gAPoFnwnYj5x9C) | 3:22 | 2025-08-26 | 2025-09-10 |
 | [Cult.](https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Cult.](https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o) | 4:28 | 2023-11-19 | 2023-12-11 |
@@ -1284,7 +1285,7 @@
 | [バニラ](https://open.spotify.com/track/0zfNtgPJ5FLkbveRjSdCMb) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [バニラ](https://open.spotify.com/album/5z81aORHET86OyFXrkugMb) | 4:11 | 2022-06-30 | 2022-07-11 |
 | [バレンタインソング](https://open.spotify.com/track/7wXGR6MfXdyhu9SPwu1TXm) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [バレンタインソング](https://open.spotify.com/album/5K2mILUEXZHzFCpdreZv0j) | 2:43 | 2022-02-06 | 2022-02-14 |
 | [バーゲンセール](https://open.spotify.com/track/1s2zRN7iZsHAfAFVAp3yt5) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [バーゲンセール](https://open.spotify.com/album/095tdiHOZ8p8icawhCWW55) | 2:25 | 2024-05-07 | 2024-07-03 |
-| [パズル](https://open.spotify.com/track/2vdoeTuRLpYeyo3JZC9yzR) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [パズル](https://open.spotify.com/album/374nxZf7LeBYBvUVKx4fMt) | 3:16 | 2026-01-27 |  |
+| [パズル](https://open.spotify.com/track/2vdoeTuRLpYeyo3JZC9yzR) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [パズル](https://open.spotify.com/album/374nxZf7LeBYBvUVKx4fMt) | 3:16 | 2026-01-27 | 2026-06-10 |
 | [パッと咲いて散って灰に](https://open.spotify.com/track/7dhfRM5zkUWFsC8gD2rsh6) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [パッと咲いて散って灰に](https://open.spotify.com/album/0ZLf6eXoTxUWN5iXIr0hhI) | 2:43 | 2022-03-13 | 2022-04-18 |
 | [パッパパラダイス](https://open.spotify.com/track/5uxuw38KCxQg5OmJvoVImg) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [パッパパラダイス](https://open.spotify.com/album/17T7zbi0mnfD5MPaz67nvQ) | 3:50 | 2026-05-12 |  |
 | [パノラマ \(feat\. 北里彰久\)](https://open.spotify.com/track/3V5WQGwq4PuaNHetIhTDbp) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [北里彰久](https://open.spotify.com/artist/6XwlOVm6zIIx9ZdSHnLOHu), [Alfred Beach Sandal](https://open.spotify.com/artist/1H2KvPR75UUpoQpRcnvn1I) | [パノラマ \(feat\. 北里彰久\)](https://open.spotify.com/album/5DX3feFVO0hzjPE0Bzj3Wh) | 4:24 | 2023-11-26 | 2023-12-05 |

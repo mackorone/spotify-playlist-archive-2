@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11409,
+  "num_followers": 11412,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "IJSLAND 2",
-        "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
+        "name": "Vliegen",
+        "url": "https://open.spotify.com/album/5qKq0ApO977tSmvGzIuH3H"
       },
       "artists": [
         {
-          "name": "Abel",
-          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
-        },
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        },
-        {
-          "name": "IJSLAND",
-          "url": "https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW"
+          "name": "Maxime",
+          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
         }
       ],
-      "duration_ms": 199371,
-      "name": "TIJDSGEEST",
-      "url": "https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z"
+      "duration_ms": 172500,
+      "name": "Vliegen",
+      "url": "https://open.spotify.com/track/62aJj3DjAJtvU1hri0d27h"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -411,18 +403,26 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Vliegen",
-        "url": "https://open.spotify.com/album/5qKq0ApO977tSmvGzIuH3H"
+        "name": "IJSLAND 2",
+        "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
       },
       "artists": [
         {
-          "name": "Maxime",
-          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        },
+        {
+          "name": "IJSLAND",
+          "url": "https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Vliegen",
-      "url": "https://open.spotify.com/track/62aJj3DjAJtvU1hri0d27h"
+      "duration_ms": 199371,
+      "name": "TIJDSGEEST",
+      "url": "https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -687,7 +687,7 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Was Het Nou Maar Zo",
+        "name": "Was Het Nou Maar Zo (EP)",
         "url": "https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada"
       },
       "artists": [
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Maskers",
-        "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
+        "name": "Kan Je Niet Blijven?",
+        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
       },
       "artists": [
         {
-          "name": "Elias Mazian",
-          "url": "https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU"
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
         }
       ],
-      "duration_ms": 201627,
-      "name": "Maskers",
-      "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
+      "duration_ms": 215199,
+      "name": "Kan Je Niet Blijven?",
+      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
     }
   ],
   "unique_name": "indie.nl",

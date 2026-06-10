@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Patrick Scuro, Jil Tanner
 
-7,087 songs - 24 day 2 hr 29 min
+7,087 songs - 24 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5122,7 +5122,7 @@
 | [Right Now \(P.I.N\. 4\)](https://open.spotify.com/track/6ofI3DMdeP8jk8Fyu1NeHF) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Right Now \(P.I.N\. 4\)](https://open.spotify.com/album/3pqCakSXrXfI9ol3nxwt8b) | 3:12 | 2024-11-28 | 2024-12-20 |
 | [Rigor](https://open.spotify.com/track/1eQbOWSsul9lHNs3celmLx) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Rigor](https://open.spotify.com/album/1lI99eFZWdWi1PuAlp2OrY) | 4:23 | 2024-04-04 | 2024-04-26 |
 | [Ring Cycle \- Radio\-Edit](https://open.spotify.com/track/1CWc5WBQk2qGxxyWHmMBIj) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK), [VEENMOL](https://open.spotify.com/artist/6GRjb9Ki4EMI6WxeWbvBCa) | [Ring Cycle \(Radio\-Edit\)](https://open.spotify.com/album/1rwkCSImcFqi7K03Veex1p) | 5:10 | 2024-08-08 | 2024-08-30 |
-| [Riot](https://open.spotify.com/track/5SP8e2d99MyqtVx9wPHgnR) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Riot](https://open.spotify.com/album/3zqvht3mWwHSc0sSY0JFpb) | 3:12 | 2026-06-05 |  |
+| [Riot](https://open.spotify.com/track/5SP8e2d99MyqtVx9wPHgnR) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Riot](https://open.spotify.com/album/3zqvht3mWwHSc0sSY0JFpb) | 2:39 | 2026-06-05 |  |
 | [Rise](https://open.spotify.com/track/5uQsfPXwSUa13nJECido8L) | [Martin Waslewski](https://open.spotify.com/artist/3qk4AowZhFKoYHocPk6l06) | [Rise](https://open.spotify.com/album/2v3uqhcAvNDZbFSQdtaMbV) | 5:11 | 2023-08-17 | 2023-09-01 |
 | [rise](https://open.spotify.com/track/6lPupLVOuRd3w31xqN8YxQ) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [NADIAH](https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele) | [rise / gimme](https://open.spotify.com/album/5Pft1X1BQUYtldphJ1QDNx) | 4:01 | 2023-10-12 | 2023-11-03 |
 | [Rise](https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Rise](https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4) | 3:23 | 2023-11-24 | 2023-12-15 |

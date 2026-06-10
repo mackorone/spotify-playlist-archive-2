@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: Chilli Beans.",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: iri",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -7675,6 +7675,24 @@
     },
     {
       "album": {
+        "name": "Crunchy",
+        "url": "https://open.spotify.com/album/73HFi6LgowgPUgDyiQbQY4"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214860,
+      "name": "Crunchy",
+      "url": "https://open.spotify.com/track/3micqfC9Do9RNjfKXrgXJn"
+    },
+    {
+      "album": {
         "name": "Crush Style",
         "url": "https://open.spotify.com/album/4iF42sLoBZy1xqC0Ssgvah"
       },
@@ -15288,7 +15306,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 171980,
       "name": "HOSHIKUZU",
       "url": "https://open.spotify.com/track/25xdag38rr2yrU8ROdysTf"
@@ -18092,7 +18110,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 193560,
       "name": "JUNK AND PONG",
       "url": "https://open.spotify.com/track/1RldTd12veBTWh0yekCIru"
@@ -25032,7 +25050,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 158400,
       "name": "No Boys Allowed",
       "url": "https://open.spotify.com/track/1YuDWMOEULPQiFVjLTO5ku"
@@ -25054,6 +25072,24 @@
       "duration_ms": 186905,
       "name": "No Control",
       "url": "https://open.spotify.com/track/1ULadoRnBEMCYv0GYNVcQ3"
+    },
+    {
+      "album": {
+        "name": "No Epilogue",
+        "url": "https://open.spotify.com/album/6ZhdDIKUvLWZQMyQkcwey3"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221800,
+      "name": "No Epilogue",
+      "url": "https://open.spotify.com/track/3hGtbgqDrLBS6CeOpWiEuX"
     },
     {
       "album": {
@@ -29279,6 +29315,24 @@
     },
     {
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/67j69BtTMw3tctM5lvHQC2"
+      },
+      "artists": [
+        {
+          "name": "Julia Takada",
+          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/5K9gskhwoAiGMKekJlvquE"
+    },
+    {
+      "album": {
         "name": "rhythm 64",
         "url": "https://open.spotify.com/album/0dqofszfjI1qN76jWqFiyp"
       },
@@ -31693,6 +31747,24 @@
     },
     {
       "album": {
+        "name": "sign",
+        "url": "https://open.spotify.com/album/4HrkFgGt6ijBscyOrFrcjE"
+      },
+      "artists": [
+        {
+          "name": "LAUSBUB",
+          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "sign",
+      "url": "https://open.spotify.com/track/0mWPg9Zdp9lw6dNxb6F4Nf"
+    },
+    {
+      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/4MEhn3oECu0jzdQaisxRrc"
       },
@@ -33352,7 +33424,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 185246,
       "name": "star flower",
       "url": "https://open.spotify.com/track/6GeWnXoGMZsCOsCSq6bdJs"
@@ -49209,6 +49281,24 @@
     },
     {
       "album": {
+        "name": "\u30af\u30ed\u30fc\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/3IVDFFnyJdNRrZoPHthYwY"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "\u30af\u30ed\u30fc\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/6RbK8eVJ2Zo1VifYN7EFTw"
+    },
+    {
+      "album": {
         "name": "\u30b0\u30c3\u30c9\u30e9\u30c3\u30af\u304c\u805e\u3053\u3048\u306a\u3044",
         "url": "https://open.spotify.com/album/6ihreP7TWqTZsZGl6voPKo"
       },
@@ -51858,7 +51948,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 233095,
       "name": "\u30cf\u30fc\u30e2\u30cb\u30fc",
       "url": "https://open.spotify.com/track/3Gt35aibizWFiBlhlhmDgf"
@@ -54600,7 +54690,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 287120,
       "name": "\u30ec\u30a4\u30cb\u30fc\u30c7\u30a4",
       "url": "https://open.spotify.com/track/6p2SSslWSnBBBb5KKMcGBS"
@@ -64739,6 +64829,24 @@
     },
     {
       "album": {
+        "name": "\u6c37",
+        "url": "https://open.spotify.com/album/2lGfogNEbFPNrXDeTmKqqT"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "\u6c37",
+      "url": "https://open.spotify.com/track/27uSNHKZoL5c1BsDPLJHHd"
+    },
+    {
+      "album": {
         "name": "\u6c37\u83d3\u5b50",
         "url": "https://open.spotify.com/album/0pmSuAcrLJ74uM8rUZbpVW"
       },
@@ -68792,7 +68900,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 209000,
       "name": "\u899a\u3081\u9192\u3081",
       "url": "https://open.spotify.com/track/2BmI3mFKAObxWTQIEL6hms"
@@ -70506,6 +70614,24 @@
       "duration_ms": 201000,
       "name": "\u9752\u6625\u306e\u7d9a\u304d",
       "url": "https://open.spotify.com/track/3Sv4Uiy4pmB94UV4UZXpiP"
+    },
+    {
+      "album": {
+        "name": "\u9752\u6625\u306f\u898b\u3048\u306a\u3044",
+        "url": "https://open.spotify.com/album/4HcBaG5HPRHMHvb6dzhEay"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192551,
+      "name": "\u9752\u6625\u306f\u898b\u3048\u306a\u3044",
+      "url": "https://open.spotify.com/track/26kYZv1lSfkX12e6zEnKzF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 
 > This country is a corpse
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 53 songs - 3 hr 14 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 54 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,6 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 | 51 | [Brighter Than the Sun](https://open.spotify.com/track/0ikbufjXAgnd0OdhCjEBB3) | [Brick + Mortar](https://open.spotify.com/artist/7oHJbmt1VAj16Tm6nJpSqr) | [Dropped](https://open.spotify.com/album/1bNyo0wjihTTBvkrMz3doQ) | 3:16 |
 | 52 | [Dust Bowl Dance](https://open.spotify.com/track/5iJBjhM554BK4p7CofsM99) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:43 |
 | 53 | [Hullabaloo](https://open.spotify.com/track/1L2MyJvWX5TCEGUWR2LdRJ) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Rare Americans 2](https://open.spotify.com/album/3XaGggSCmE8nuUWMm1G5CU) | 3:17 |
+| 54 | [Scooby](https://open.spotify.com/track/7FgzUrj1BpgYc4cQrmxoBC) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [Scooby](https://open.spotify.com/album/3edm79zZr6X8YesYYew0F8) | 3:41 |
 
-Snapshot ID: `AAAARxlmBQIHHqM4P1twQT+QueXSfTzt`
+Snapshot ID: `AAAASP6fCJtWI5ePsoHPL5STUlyk4qe5`

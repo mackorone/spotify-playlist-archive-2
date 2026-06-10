@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de Young Miko.
 
-1,458 songs - 3 day 3 hr 25 min
+1,459 songs - 3 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Alma](https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Alma](https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0) | 2:25 | 2024-12-20 | 2026-03-01 |
 | [Almas Gemelas](https://open.spotify.com/track/5Y37PYMXdUxfpCWn9o5r6f) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [12 12](https://open.spotify.com/album/6zSJ3hOlv7MdsBnoTsorpd) | 2:09 | 2023-08-25 | 2023-11-18 |
 | [ALMORZARTE](https://open.spotify.com/track/5gQVkXuT4CerW7XxgtinC9) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [ALMORZARTE](https://open.spotify.com/album/1JmCEUqTUCKbQdpOCQZSXR) | 2:41 | 2022-04-08 | 2022-05-14 |
-| [ALOH ALOH](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [ALOH ALOH](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 | 2025-01-14 |  |
+| [ALOH ALOH](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [ALOH ALOH](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 | 2025-01-14 | 2026-06-10 |
 | [Aloha](https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Aloha \(feat\. Darell, Mambo Kingz & Dj Luian\)](https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH) | 4:01 | 2022-01-07 | 2022-01-15 |
 | [Aloha Remix](https://open.spotify.com/track/4hpOYMQsjZtYAt7T2KPJ0b) | [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH), [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY) | [Aloha Remix](https://open.spotify.com/album/7JhKgf5sKbIPFZA0vYiEJr) | 4:07 | 2022-08-19 | 2022-12-02 |
 | [Amapiano.wav](https://open.spotify.com/track/6SVYh0RGE5A8JeOxYTf4lN) | [DOC](https://open.spotify.com/artist/0GR5HJ4Lo9rqVAqmewAODa), [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Amapiano.wav](https://open.spotify.com/album/4OjauQQVHeOZp2OKiqCoL4) | 2:46 | 2025-05-23 | 2025-09-06 |
@@ -347,6 +347,7 @@
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2022-01-07 | 2022-04-09 |
 | [D X VIDA](https://open.spotify.com/track/3Eir8UUB1pFuaarEsAWBWS) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [D X VIDA](https://open.spotify.com/album/5kr54C0vWd6aZq3IarPMdk) | 3:02 | 2023-04-07 | 2023-07-15 |
 | [D.A.T.A.](https://open.spotify.com/track/0DiIYGkl5zB8gX6Ydxouyv) | [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [D.A.T.A.](https://open.spotify.com/album/2Io8Fube2eHSJvyTO2B9P5) | 3:06 | 2022-04-08 | 2022-05-07 |
+| [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-06-09 |  |
 | [DAILY](https://open.spotify.com/track/3FalT15qUp8ONFqLt0Sz9D) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [DAILY](https://open.spotify.com/album/617heENgtA9uMLuQMqGpTg) | 2:24 | 2024-04-26 | 2024-05-25 |
 | [dale Play](https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [dale Play](https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V) | 3:46 | 2023-02-03 | 2023-04-29 |
 | [DAME](https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:51 | 2023-01-30 | 2023-11-11 |

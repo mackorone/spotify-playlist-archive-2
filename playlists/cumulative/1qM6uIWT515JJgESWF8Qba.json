@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Casey Bloom - EP",
+        "url": "https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK"
+      },
+      "artists": [
+        {
+          "name": "Casey Bloom",
+          "url": "https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196356,
+      "name": "Finding You",
+      "url": "https://open.spotify.com/track/5jCpLxpsNUM2QU7sa5FuLO"
+    },
+    {
+      "album": {
         "name": "Fire of Your Soul",
         "url": "https://open.spotify.com/album/2fN64WOVPjOdRNWXKIwMmI"
       },

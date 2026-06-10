@@ -2,14 +2,15 @@
 
 ### [Editor's Picks Korea: 에디터의 취향](https://open.spotify.com/playlist/37i9dQZF1DWUTWeWJBDCc5)
 
-> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: 정국\)
+> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: BTS\)
 
-212 songs - 11 hr 32 min
+217 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0+0](https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:12 | 2025-12-04 | 2026-02-05 |
 | [1999](https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:25 | 2025-12-04 | 2026-02-05 |
+| [2! 3!](https://open.spotify.com/track/3KVOfGrYVjoP1w8T2HVltm) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 4:32 | 2026-06-09 |  |
 | [2099](https://open.spotify.com/track/4ooICmT2zrfMprazExomIi) | [Sade Olutola](https://open.spotify.com/artist/3RnVqL6k23iwhe1uYh1JSm) | [Arrow Heart](https://open.spotify.com/album/6qS5D90JVQEZpBHccB577c) | 2:27 | 2026-02-25 | 2026-04-30 |
 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 | 2026-02-04 | 2026-03-04 |
 | [404 \(New Era\)](https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:59 | 2026-02-04 | 2026-03-04 |
@@ -137,6 +138,7 @@
 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 | 2025-12-04 | 2026-02-05 |
 | [me & u](https://open.spotify.com/track/5R9eJdGi0hzYRajiqyq62h) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [TYPHOON](https://open.spotify.com/album/53SL5EIuJdUG7EBF6u2rdv) | 3:00 | 2026-06-08 |  |
 | [mee6](https://open.spotify.com/track/6g2jDSdrpoCr81GDx1rBUk) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [mee6](https://open.spotify.com/album/1KX9x1Ga69ZYGdfnmd9HQi) | 2:19 | 2025-12-04 | 2026-02-05 |
+| [Merry Go Round](https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:49 | 2026-06-09 |  |
 | [MIRO](https://open.spotify.com/track/3MtYafyNz7jYirfhdoUuCq) | [Kani](https://open.spotify.com/artist/1tBCub2evxGX1rUso7eveJ) | [MIRO](https://open.spotify.com/album/0X7Pul2W2tFNUPBYZ9foQl) | 2:54 | 2026-02-04 | 2026-03-04 |
 | [MIRROR](https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Flash and Core](https://open.spotify.com/album/6adDt7KDDnY7Kdtyazkr8N) | 3:08 | 2025-12-04 | 2026-02-05 |
 | [miss u so](https://open.spotify.com/track/4esld7TA0IQqsdKhhL85dh) | [blueberryclub](https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC), [Nam Gijun](https://open.spotify.com/artist/11IQLhF0CLzk7l1KoQUpEn) | [miss u so](https://open.spotify.com/album/6ayvj3yPahHwnSEUom6PMg) | 3:35 | 2026-03-03 | 2026-04-30 |
@@ -191,8 +193,10 @@
 | [Sugar](https://open.spotify.com/track/3B0PFLEa5sAcv1eX6g1IFE) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [loop vol\. 1 \- Sugar](https://open.spotify.com/album/4MDyxmsFEznFjPrxOaqC1i) | 3:49 | 2026-02-04 | 2026-03-04 |
 | [Summer Was You](https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 4th Mini Album \[Lovestruck\]](https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt) | 3:12 | 2025-12-04 | 2026-02-05 |
 | [Take Me to Nirvana \(feat\. Vinida Weng\)](https://open.spotify.com/track/7d2WBtRFNknx11P6MwLomO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [7TH YEAR: A Moment of Stillness in the Thorns](https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk) | 2:31 | 2026-04-14 | 2026-04-30 |
+| [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2026-06-09 |  |
 | [Tell Me What You Feel](https://open.spotify.com/track/1qTAsvpmYPWfM7nWHJtLDR) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [Tell Me What You Feel](https://open.spotify.com/album/3HGSpxZWkWakhOX80hvhgP) | 3:07 | 2026-04-29 |  |
 | [Ten Thirty Hang Out \(Feat\. Dynamicduo\)](https://open.spotify.com/track/1SbCGS2xJJBYbEyQYrHsH8) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Ten Thirty Lovey Dovey](https://open.spotify.com/album/6gKxrbKdtQwOoQjUQ0yD6j) | 3:15 | 2026-05-25 |  |
+| [That Kind of Love](https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv) | [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl) | [That Kind Of Love](https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm) | 3:32 | 2026-06-09 |  |
 | [The Great Divide](https://open.spotify.com/track/4ck9vo0gEmjVHWUb5q2rYe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:17 | 2026-04-29 |  |
 | [THE PRESSURE](https://open.spotify.com/track/5EwqL32rIUkHbfjYZ0WLXB) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [KILL THE GHOST](https://open.spotify.com/album/65XQpfjNaYkGLT7bKg2Wo3) | 2:52 | 2026-05-25 |  |
 | [The Weekend](https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd) | 2:47 | 2026-04-29 |  |
@@ -200,6 +204,7 @@
 | [Tonight \(Feat\. Junggigo\)](https://open.spotify.com/track/0MQSKGgfUzyBsHoPO03dkd) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [2](https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA) | 3:22 | 2026-02-04 | 2026-03-04 |
 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-12-04 | 2026-02-05 |
 | [TOO CLOSE \(feat\. Suen\)](https://open.spotify.com/track/4iW0ma7CQtJ7zBrZe0Thuh) | [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH), [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi) | [INTOXICATED](https://open.spotify.com/album/7CRoouenkq1sJfYwVxCvVG) | 2:33 | 2026-02-04 | 2026-03-04 |
+| [Too Good](https://open.spotify.com/track/3GP7l2bmXT6T2FNAzERwBr) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:37 | 2026-06-09 |  |
 | [TOXICK](https://open.spotify.com/track/58usw15bgarns0kTKmNP9U) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [6SEOUL](https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh) | 2:18 | 2026-03-03 | 2026-04-30 |
 | [Type of Girl](https://open.spotify.com/track/0BYDagZqjCPZxOVh0iruo2) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<LOVE&POP> pt.1](https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z) | 3:09 | 2026-06-03 |  |
 | [UNCHILD](https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:28 | 2026-04-21 | 2026-04-30 |

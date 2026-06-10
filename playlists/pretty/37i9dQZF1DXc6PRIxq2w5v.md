@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,818 likes - 85 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,829 likes - 85 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 39 | [Metanoia](https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS), [DJ Richa](https://open.spotify.com/artist/1G28DyrNZu99BHvIHZ5QRZ) | [Metanoia](https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG) | 2:51 |
 | 40 | [Bem Maior](https://open.spotify.com/track/4UWOQIZhHYau320ROsqfQw) | [Deus&Marco](https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k) | [Bem Maior](https://open.spotify.com/album/69G7Ll7wXqEXFg37kbDQ0Y) | 2:36 |
 | 41 | [Bíblia no Jeans](https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv) | [Kinho](https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bíblia no Jeans](https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb) | 2:18 |
-| 42 | [Buscando a Paz](https://open.spotify.com/track/4ZFkDOeKXm8RbfPkjhcelc) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [W2B Music](https://open.spotify.com/artist/7Gwhv4SmgeuLVtfPgyTNYr) | [Buscando a Paz](https://open.spotify.com/album/5cmvvKoDgk5l41Qv2CPUcs) | 2:39 |
-| 43 | [DNA](https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [Novidade Urbana](https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy) | [DNA](https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf) | 2:22 |
+| 42 | [DNA](https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [Novidade Urbana](https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy) | [DNA](https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf) | 2:22 |
+| 43 | [Buscando a Paz](https://open.spotify.com/track/4ZFkDOeKXm8RbfPkjhcelc) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [W2B Music](https://open.spotify.com/artist/7Gwhv4SmgeuLVtfPgyTNYr) | [Buscando a Paz](https://open.spotify.com/album/5cmvvKoDgk5l41Qv2CPUcs) | 2:39 |
 | 44 | [Te Agradeço](https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI) | [Duardin](https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Te Agradeço](https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ) | 2:37 |
 | 45 | [Encontrei em Você](https://open.spotify.com/track/5l9BoXPTWOv5O9L9gqRyqI) | [Lucena](https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V), [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [O Peter](https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Encontrei em Você](https://open.spotify.com/album/636J2mxV7b6w1HzsiW0BIo) | 2:52 |
 | 46 | [Momentos Difíceis](https://open.spotify.com/track/7LAeP3utzgQ3FutmcdDtOY) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Momentos Difíceis](https://open.spotify.com/album/60weoY6jR36SCjEzfmdNpu) | 2:38 |

@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > Feeling dramatic? All eyes on you\. Cover: Baby J
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,475 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,436 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fallen Angel](https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc) | [Baby J](https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK) | [Fallen Angel](https://open.spotify.com/album/3ZLm8xE9pOYo3HRRI1pXbX) | 3:05 |
-| 2 | [Run Rabbit](https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Run Rabbit](https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4) | 3:09 |
-| 3 | [Vampire at the Beach](https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vampire at the Beach](https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5) | 3:41 |
-| 4 | [HOTLINE](https://open.spotify.com/track/2Am4WNCZJk67cCTGnmQz1U) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [HOTLINE](https://open.spotify.com/album/0SX53qBcN61hcPcUJY1Hou) | 2:46 |
-| 5 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
-| 6 | [Night at the Opera](https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO) | 3:04 |
-| 7 | [Where Have All The Good Men Gone?](https://open.spotify.com/track/2eUn6PBAZawXLeNEEcbTKu) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Where Have All The Good Men Gone?](https://open.spotify.com/album/08si7K3Tu2LZP4bpuddO9k) | 3:14 |
-| 8 | [The Veil Has Spoken](https://open.spotify.com/track/1eFqwDpU50nWuctwSdv4XU) | [Hannah Hu](https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl) | [The Veil Has Spoken](https://open.spotify.com/album/1pqPeNCujl1SXnwqvNkPww) | 3:46 |
-| 9 | [The Mirror](https://open.spotify.com/track/3afTokYq5ULFPgMF7bU8cP) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [The Mirror](https://open.spotify.com/album/0iJdKGzrGutX6ec9eooCie) | 2:05 |
-| 10 | [piano in the sky](https://open.spotify.com/track/1EMQCope8VHOJDHIKQTbRW) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [piano in the sky](https://open.spotify.com/album/5Pn3JRVnxuR5dROybezUyK) | 2:10 |
-| 11 | [Pavlov's Dog](https://open.spotify.com/track/2n6HMpJ82rMHGnOMqVP0Wp) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Pavlov's Dog](https://open.spotify.com/album/49Grob9iYw4mgTJoLLqPsZ) | 3:57 |
-| 12 | [I Wanna Be In Love So Bad](https://open.spotify.com/track/1ZeZ1DnI5FU0ii7WNx1Zeo) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [My Lover](https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9) | 3:20 |
-| 13 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 |
-| 14 | [Woe Is Me](https://open.spotify.com/track/7ru96z0mnGp61wlgaSg4dC) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Woe Is Me](https://open.spotify.com/album/1MSkrcKqmJE2uUB9V9ooqM) | 2:52 |
-| 15 | [Big Mistake](https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Big Mistake](https://open.spotify.com/album/6Hvh4GrjdaKUQWkIpXmjnU) | 3:35 |
+| 2 | [Girl Who Cried Wolf](https://open.spotify.com/track/5HNGDqthELv0TBWhLXuIiv) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Girl Who Cried Wolf](https://open.spotify.com/album/0YPqIZEUYb7h7y7U0v3Bf4) | 3:26 |
+| 3 | [Run Rabbit](https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Run Rabbit](https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4) | 3:09 |
+| 4 | [Night at the Opera](https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO) | 3:04 |
+| 5 | [Vampire at the Beach](https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vampire at the Beach](https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5) | 3:41 |
+| 6 | [HOTLINE](https://open.spotify.com/track/2Am4WNCZJk67cCTGnmQz1U) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [HOTLINE](https://open.spotify.com/album/0SX53qBcN61hcPcUJY1Hou) | 2:46 |
+| 7 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
+| 8 | [piano in the sky](https://open.spotify.com/track/1EMQCope8VHOJDHIKQTbRW) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [piano in the sky](https://open.spotify.com/album/5Pn3JRVnxuR5dROybezUyK) | 2:10 |
+| 9 | [Where Have All The Good Men Gone?](https://open.spotify.com/track/2eUn6PBAZawXLeNEEcbTKu) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Where Have All The Good Men Gone?](https://open.spotify.com/album/08si7K3Tu2LZP4bpuddO9k) | 3:14 |
+| 10 | [The Veil Has Spoken](https://open.spotify.com/track/1eFqwDpU50nWuctwSdv4XU) | [Hannah Hu](https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl) | [The Veil Has Spoken](https://open.spotify.com/album/1pqPeNCujl1SXnwqvNkPww) | 3:46 |
+| 11 | [The Mirror](https://open.spotify.com/track/3afTokYq5ULFPgMF7bU8cP) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [The Mirror](https://open.spotify.com/album/0iJdKGzrGutX6ec9eooCie) | 2:05 |
+| 12 | [Pavlov's Dog](https://open.spotify.com/track/2n6HMpJ82rMHGnOMqVP0Wp) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Pavlov's Dog](https://open.spotify.com/album/49Grob9iYw4mgTJoLLqPsZ) | 3:57 |
+| 13 | [I Wanna Be In Love So Bad](https://open.spotify.com/track/1ZeZ1DnI5FU0ii7WNx1Zeo) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [My Lover](https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9) | 3:20 |
+| 14 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 |
+| 15 | [Woe Is Me](https://open.spotify.com/track/7ru96z0mnGp61wlgaSg4dC) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Woe Is Me](https://open.spotify.com/album/1MSkrcKqmJE2uUB9V9ooqM) | 2:52 |
 | 16 | [Beauty Pageant](https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:15 |
 | 17 | [Army Dreamers \- 2018 Remaster](https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 2:59 |
 | 18 | [In Times of Dragons](https://open.spotify.com/track/1FXXrQQCC9y69H1AeTYEfr) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [In Times Of Dragons](https://open.spotify.com/album/6KnWKWlU9xvhuOxEgkl4l2) | 4:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 79 | [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 |
 | 80 | [My Alcoholic Friends](https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [Yes, Virginia](https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR) | 2:47 |
 
-Snapshot ID: `AAAAACfFtUUORuWAhmGKEgR5MeQpDqnj`
+Snapshot ID: `AAAAANB7OsfzW7qYgv/8Ucx72oJngUR5`

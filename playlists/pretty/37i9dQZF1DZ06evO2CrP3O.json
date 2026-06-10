@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 142197,
+  "num_followers": 142213,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAAAP6arE9ZRbuw/2o10wcCDV",
+  "snapshot_id": "aiYGAAAAAAA/0BpwVH/5/caZvZWVek/G",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Letters",
-        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 238973,
-      "name": "Once I Had A Love (AKA The Disco Song) - 1975 Version / Remastered 2001",
-      "url": "https://open.spotify.com/track/0UFLbtupYWaDGMS4io94Ml"
+      "duration_ms": 486933,
+      "name": "Call Me - Theme From \"American Gigolo\" / Remastered 2001",
+      "url": "https://open.spotify.com/track/6wzbWsPbfIR0nBjSqdbV7m"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+        "name": "Plastic Letters",
+        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 486933,
-      "name": "Call Me - Theme From \"American Gigolo\" / Remastered 2001",
-      "url": "https://open.spotify.com/track/6wzbWsPbfIR0nBjSqdbV7m"
+      "duration_ms": 238973,
+      "name": "Once I Had A Love (AKA The Disco Song) - 1975 Version / Remastered 2001",
+      "url": "https://open.spotify.com/track/0UFLbtupYWaDGMS4io94Ml"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Panic of Girls",
-        "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "What I Heard",
-      "url": "https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pollinator",
         "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 259493,
       "name": "Fun",
       "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Panic of Girls",
+        "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "What I Heard",
+      "url": "https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Loud",
-        "url": "https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG"
-      },
-      "artists": [
-        {
-          "name": "Just Loud",
-          "url": "https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9"
-        },
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Soul Train",
-      "url": "https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pollinator",
         "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
@@ -787,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just Loud",
+        "url": "https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG"
+      },
+      "artists": [
+        {
+          "name": "Just Loud",
+          "url": "https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9"
+        },
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Soul Train",
+      "url": "https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Autoamerican (Remastered 2001)",
         "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
@@ -803,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Exit",
-        "url": "https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4"
+        "name": "Pollinator",
+        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
       "artists": [
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        },
-        {
-          "name": "Coolio",
-          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
         }
       ],
-      "duration_ms": 259000,
-      "name": "No Exit - feat. Coolio",
-      "url": "https://open.spotify.com/track/16tZD5aSFYCIkjyKMoatrp"
+      "duration_ms": 188480,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/03oGhqpLGW9N2ius8TIpen"
     }
   ],
   "unique_name": "This Is Blondie",

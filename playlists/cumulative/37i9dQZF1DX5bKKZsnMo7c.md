@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Baby J
 
-584 songs - 1 day 7 hr 45 min
+585 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 | 2023-07-28 | 2024-04-27 |
 | [Bible Belt](https://open.spotify.com/track/5AON00DcAqzMBIxGl0IHm3) | [Sid Dorey](https://open.spotify.com/artist/6UcErG934cEadG4q16v37T) | [Bible Belt](https://open.spotify.com/album/191JnqnJNWLE29v3NlgtRN) | 2:40 | 2024-01-26 | 2024-02-20 |
 | [Big Dumb Heart](https://open.spotify.com/track/3T9wo7kdEAOy1h5h7kh5dw) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart](https://open.spotify.com/album/1CgmwafARAUBIoyuOVCDnm) | 3:36 | 2023-11-10 | 2024-02-20 |
-| [Big Mistake](https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Big Mistake](https://open.spotify.com/album/6Hvh4GrjdaKUQWkIpXmjnU) | 3:35 | 2026-04-24 |  |
+| [Big Mistake](https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Big Mistake](https://open.spotify.com/album/6Hvh4GrjdaKUQWkIpXmjnU) | 3:35 | 2026-04-24 | 2026-06-10 |
 | [Black Sheep \- Brie Larson Vocal Version](https://open.spotify.com/track/60TThBDrPpek5k520l0W0L) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Brie Larson](https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy) | [Black Sheep \(Brie Larson Vocal Version\)](https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd) | 4:54 | 2022-05-17 | 2022-11-26 |
 | [Blah Blah Blah](https://open.spotify.com/track/5R4OMPuKD1yshMdbk8ibnS) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Blah Blah Blah](https://open.spotify.com/album/5a4pTggWbO3quPTamPL5wu) | 3:50 | 2022-06-14 | 2022-07-16 |
 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 | 2022-05-17 | 2022-12-10 |
@@ -209,6 +209,7 @@
 | [Getting Older](https://open.spotify.com/track/49KrmVRV7Ir7EmdlxNA0iN) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Getting Older](https://open.spotify.com/album/1FOR3sV1icIWjgCZ19EfDl) | 4:24 | 2023-01-27 | 2023-02-28 |
 | [Getting Older](https://open.spotify.com/track/6C0Fgf5EoL9fKBIZM1ekDG) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 4:24 | 2023-02-24 | 2023-03-08 |
 | [Ghost of Chicago](https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Ghost of Chicago](https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU) | 3:07 | 2023-04-18 | 2024-04-27 |
+| [Girl Who Cried Wolf](https://open.spotify.com/track/5HNGDqthELv0TBWhLXuIiv) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Girl Who Cried Wolf](https://open.spotify.com/album/0YPqIZEUYb7h7y7U0v3Bf4) | 3:26 | 2026-06-09 |  |
 | [Give A Little](https://open.spotify.com/track/3m4sLkrfjpobclYxcLBMei) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Give A Little](https://open.spotify.com/album/4PM2t0JoZrpWfjtg8OKXYi) | 2:55 | 2026-03-13 |  |
 | [Gladiators](https://open.spotify.com/track/6gW8KYLy55ZnszeO2TUIpu) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Gladiators](https://open.spotify.com/album/5AahV6122wJai6DmlVxHaM) | 3:37 | 2024-04-05 | 2024-04-24 |
 | [God Save the Dream](https://open.spotify.com/track/13mm25FYuZw1ih9cvFhXvH) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [The Drama](https://open.spotify.com/album/2c1QPvyMmQADYp9qB5Aslv) | 3:16 | 2024-10-04 | 2025-01-11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 18641,
+  "num_followers": 18646,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAABPFiRwbsnS/TA2Mw1r8zC4",
+  "snapshot_id": "aiYGAAAAAAADg5nrBId/P6+Y5PJ6amth",
   "tracks": [
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waste Of Mind",
-        "url": "https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ"
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 211760,
-      "name": "Get Back",
-      "url": "https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r"
+      "duration_ms": 163767,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk the Plank",
-        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+        "name": "Waste Of Mind",
+        "url": "https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 163767,
-      "name": "Headrush",
-      "url": "https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB"
+      "duration_ms": 211760,
+      "name": "Get Back",
+      "url": "https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r"
     },
     {
       "added_at": null,

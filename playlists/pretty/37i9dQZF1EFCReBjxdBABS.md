@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 112 | [Prettiest Girl In The Room](https://open.spotify.com/track/59WvgpXhQYHHh0jrstaSi5) | [John King](https://open.spotify.com/artist/32Cj2WsRALt1SCWaPBR9QP) | [Always Gonna Be You](https://open.spotify.com/album/6IuTM80djAskPLrCz6Ij0L) | 2:41 |
 | 113 | [Tunnel Vision](https://open.spotify.com/track/2C5ajossz6UOJxCOBxqllx) | [Karl Michael](https://open.spotify.com/artist/4zFqfg8R6X9aUWIdYm3xTT) | [Tunnel Vision](https://open.spotify.com/album/2h76wGQj1dACn0QorMaJBD) | 2:52 |
 | 114 | [Talk About Us](https://open.spotify.com/track/08RiWxHaYoIn1yLjhFj50p) | [Rosewood Ave](https://open.spotify.com/artist/4vVkRcAngiXV8RV6HMTnjC) | [Talk About Us](https://open.spotify.com/album/4aeHx1nPEoicC14Gwyj7DN) | 3:19 |
-| 115 | [Out of My Hands](https://open.spotify.com/track/0PCTuGTtBVyGlNA3H4X9Dq) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Princess](https://open.spotify.com/album/6ViXfviTYjVqGxOsFgLjgU) | 3:33 |
-| 116 | [Settle Down Side](https://open.spotify.com/track/35vaYhPuMAHJHoAuDAQqTd) | [Ryan Larkins](https://open.spotify.com/artist/68NqPk17yeFtEc8TOnVDY0) | [Settle Down Side](https://open.spotify.com/album/4RvcBDAqe8YUguaph39xM0) | 3:25 |
+| 115 | [Settle Down Side](https://open.spotify.com/track/35vaYhPuMAHJHoAuDAQqTd) | [Ryan Larkins](https://open.spotify.com/artist/68NqPk17yeFtEc8TOnVDY0) | [Settle Down Side](https://open.spotify.com/album/4RvcBDAqe8YUguaph39xM0) | 3:25 |
+| 116 | [Out of My Hands](https://open.spotify.com/track/0PCTuGTtBVyGlNA3H4X9Dq) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Princess](https://open.spotify.com/album/6ViXfviTYjVqGxOsFgLjgU) | 3:33 |
 | 117 | [no man's](https://open.spotify.com/track/5EoJW3n1SC0ILmAcs3u6Ax) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:51 |
 | 118 | [Wild Card](https://open.spotify.com/track/3rVY4NV3kV2QD3iS2cuGoD) | [Brea](https://open.spotify.com/artist/3XnzbnejrCHew8KOKxIh9D) | [Wild Card](https://open.spotify.com/album/5K60ZKx7ynhDXfGqzwDuNd) | 3:14 |
 | 119 | [Done With Me Yet](https://open.spotify.com/track/3ntOjvHBCg6gy3n6veGu3Y) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [New Kind of Emotion](https://open.spotify.com/album/1tZxqe7JAzEn9bukz2PbLN) | 3:13 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 129 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 130 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcTs8gAAAAC4zrYZWdOkuu9qP0bIHjCi`
+Snapshot ID: `AcTykgAAAABr/yeL/Kx1v/h2tZNXOYeV`

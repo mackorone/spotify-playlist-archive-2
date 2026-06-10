@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 182652,
       "name": "BEAUTIFUL",
       "url": "https://open.spotify.com/track/1qthcvtIWnBF9h3L6FwB5y"
@@ -11597,6 +11597,24 @@
     },
     {
       "album": {
+        "name": "itoi",
+        "url": "https://open.spotify.com/album/6MXc5BfUqsCmCfROMGWTAa"
+      },
+      "artists": [
+        {
+          "name": "Nowlu",
+          "url": "https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218250,
+      "name": "itoi",
+      "url": "https://open.spotify.com/track/4jBagyswztUlKEzHvmeonh"
+    },
+    {
+      "album": {
         "name": "Itsu Aetara",
         "url": "https://open.spotify.com/album/2ObLoP9QlsMdbU1O0KssLI"
       },
@@ -14436,7 +14454,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 176000,
       "name": "Machiawase",
       "url": "https://open.spotify.com/track/2HEUiHqNHY3M3F0uY0ZeKs"
@@ -16416,7 +16434,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 177626,
       "name": "Naninimonarenai",
       "url": "https://open.spotify.com/track/5u58ofe0q8BSyr1hVyk62X"
@@ -17442,7 +17460,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 185253,
       "name": "NUMBER",
       "url": "https://open.spotify.com/track/1K9ROPN7bEKE6vpteVfSFv"
@@ -19901,6 +19919,24 @@
     },
     {
       "album": {
+        "name": "Resonant Pulses",
+        "url": "https://open.spotify.com/album/6GxJc2synXW6fuNVIBkc8u"
+      },
+      "artists": [
+        {
+          "name": "IDOLiSH7",
+          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208826,
+      "name": "Resonant Pulses",
+      "url": "https://open.spotify.com/track/3PgP2fn7F2r2BMLHChMZrD"
+    },
+    {
+      "album": {
         "name": "Resonant Strings",
         "url": "https://open.spotify.com/album/24hxATNKQdYiwRxwEqJGjY"
       },
@@ -21784,6 +21820,24 @@
       "duration_ms": 308786,
       "name": "Sign(Piano Ballad ver.)",
       "url": "https://open.spotify.com/track/2KaXMZRDtSzim8axS9QlnP"
+    },
+    {
+      "album": {
+        "name": "Silver 30",
+        "url": "https://open.spotify.com/album/4HPg8ts890bIkrIFT970yw"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u0430\u0440\u0430\u043c\u0430\u0437\u043e\u0432\u044b",
+          "url": "https://open.spotify.com/artist/1HS2Kz3LSrr8mHtO87Paci"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267696,
+      "name": "Silver 30",
+      "url": "https://open.spotify.com/track/1EaUao4ZRibbH9qPaCUIAB"
     },
     {
       "album": {
@@ -26920,6 +26974,24 @@
       "duration_ms": 194961,
       "name": "Welcome!",
       "url": "https://open.spotify.com/track/5kcPYZhmbe7M7rcO3bI9PV"
+    },
+    {
+      "album": {
+        "name": "WHAT AN EXPLOSION",
+        "url": "https://open.spotify.com/album/69kxH0PHJtIJfrTdCpglm9"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190900,
+      "name": "WHAT AN EXPLOSION",
+      "url": "https://open.spotify.com/track/00vlXRYEnMTUnhM0NRjg4r"
     },
     {
       "album": {

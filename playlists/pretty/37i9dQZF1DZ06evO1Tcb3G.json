@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 524548,
+  "num_followers": 524638,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAAB9MrVUxKG/xglko68MSVOI",
+  "snapshot_id": "aiYGAAAAAABKvg1ARazA+X9Myk5xL0mc",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 246973,
-      "name": "Little Lion Man",
-      "url": "https://open.spotify.com/track/2kXjRzwcTZhGLnVjUud8l3"
+      "duration_ms": 254160,
+      "name": "White Blank Page",
+      "url": "https://open.spotify.com/track/6MAev6g8Vz8UF7QfFlb6JD"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 254160,
-      "name": "White Blank Page",
-      "url": "https://open.spotify.com/track/6MAev6g8Vz8UF7QfFlb6JD"
+      "duration_ms": 246973,
+      "name": "Little Lion Man",
+      "url": "https://open.spotify.com/track/2kXjRzwcTZhGLnVjUud8l3"
     },
     {
       "added_at": null,
@@ -451,18 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+        "name": "The Traveller (Special Edition)",
+        "url": "https://open.spotify.com/album/56M5UIQo7xgQvoOUwkK05D"
       },
       "artists": [
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        },
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 248546,
-      "name": "Snake Eyes",
-      "url": "https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo"
+      "duration_ms": 266930,
+      "name": "There Will Be Time",
+      "url": "https://open.spotify.com/track/55omUd9gTCJr0higmW58BA"
     },
     {
       "added_at": null,
@@ -499,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Traveller (Special Edition)",
-        "url": "https://open.spotify.com/album/56M5UIQo7xgQvoOUwkK05D"
-      },
-      "artists": [
-        {
-          "name": "Baaba Maal",
-          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
-        },
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 266930,
-      "name": "There Will Be Time",
-      "url": "https://open.spotify.com/track/55omUd9gTCJr0higmW58BA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
       },
@@ -528,9 +512,25 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 219680,
-      "name": "Winter Winds",
-      "url": "https://open.spotify.com/track/6W8e9jz4UIcqGYokpn0Afn"
+      "duration_ms": 263920,
+      "name": "Roll Away Your Stone",
+      "url": "https://open.spotify.com/track/2g4tUgmWsuK6wzsqSzftrr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "Snake Eyes",
+      "url": "https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo"
     },
     {
       "added_at": null,

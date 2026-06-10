@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Karuppu",
-  "num_followers": 750315,
+  "num_followers": 750353,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACMmzfxq3un9ocr0Zd3Ot9eg4ZuS",
+  "snapshot_id": "AAAAAOvteJBmmTAm2U7v+nKCqMk1ftSJ",
   "tracks": [
     {
       "added_at": "2026-05-25 17:40:24",
@@ -433,6 +433,30 @@
       "url": "https://open.spotify.com/track/4hZRtSaFaz3vPhn4xr8VI8"
     },
     {
+      "added_at": "2026-06-09 07:26:38",
+      "album": {
+        "name": "Kaadhal Yaathiriye (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/5YawLSM6jt8nqy9YcEWCgM"
+      },
+      "artists": [
+        {
+          "name": "rudh",
+          "url": "https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t"
+        },
+        {
+          "name": "Sanjeeta Bhattacharya",
+          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
+        },
+        {
+          "name": "Thamizh Aadhavan",
+          "url": "https://open.spotify.com/artist/2naoxh21roEyvOd7NWwDUb"
+        }
+      ],
+      "duration_ms": 190105,
+      "name": "Kaadhal Yaathiriye - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/1GTWzhdIIIugDh4AClJ2ZF"
+    },
+    {
       "added_at": "2026-03-05 05:44:23",
       "album": {
         "name": "Pavazha Malli (From \"Think Indie\")",
@@ -657,26 +681,6 @@
       "url": "https://open.spotify.com/track/6H1yOR8utc5vAQajZAuGHk"
     },
     {
-      "added_at": "2026-05-25 13:23:51",
-      "album": {
-        "name": "Iyalisaiye (From \"Yen Ennai Edho Seidhai\")",
-        "url": "https://open.spotify.com/album/6hCAmtqf3usL122Z0pWDxM"
-      },
-      "artists": [
-        {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        },
-        {
-          "name": "Jaikar Harinath",
-          "url": "https://open.spotify.com/artist/0UFoHk5ow2RCjTHMMcQOfx"
-        }
-      ],
-      "duration_ms": 211494,
-      "name": "Iyalisaiye (From \"Yen Ennai Edho Seidhai\")",
-      "url": "https://open.spotify.com/track/567NWlEGfrwfDV5PAjCipW"
-    },
-    {
       "added_at": "2026-06-03 21:31:22",
       "album": {
         "name": "Kattalan [TAMIL]",
@@ -805,34 +809,6 @@
       "url": "https://open.spotify.com/track/2hAOG5cJb9DrqF9acFeHHh"
     },
     {
-      "added_at": "2026-05-25 13:26:13",
-      "album": {
-        "name": "Habeebi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/03nMAhhKjlwN8fBTi30fJx"
-      },
-      "artists": [
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Harish Raghavendra",
-          "url": "https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg"
-        },
-        {
-          "name": "Fathima Jahaan",
-          "url": "https://open.spotify.com/artist/2iqMauzUdnUyiCOUeOFYD6"
-        },
-        {
-          "name": "Yugabharathi",
-          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "ANBENNUM AARARO",
-      "url": "https://open.spotify.com/track/0VznR1TUVWUklZiAnIF28k"
-    },
-    {
       "added_at": "2026-04-09 08:57:17",
       "album": {
         "name": "Make Way For The King (From \"Raaka\")",
@@ -875,26 +851,6 @@
       "duration_ms": 203524,
       "name": "Uyire (From \"Double Occupancy\")",
       "url": "https://open.spotify.com/track/4GWPf8cdWKIYlOkx8vLeDu"
-    },
-    {
-      "added_at": "2026-05-23 12:55:19",
-      "album": {
-        "name": "Ego Raman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/60uOyXVWyXEBek4FBnbyNC"
-      },
-      "artists": [
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        },
-        {
-          "name": "Reymen Rodericks",
-          "url": "https://open.spotify.com/artist/6I2tszJFdoMVbkzXDeLaiP"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Kaaka kathai",
-      "url": "https://open.spotify.com/track/1JoC8zGfH1Ks0ckqfJ7exs"
     },
     {
       "added_at": "2026-05-28 16:52:33",
@@ -1127,22 +1083,6 @@
       "duration_ms": 215902,
       "name": "Ottarathiye",
       "url": "https://open.spotify.com/track/061v516naQsrVROJgD9A3P"
-    },
-    {
-      "added_at": "2026-05-23 12:55:19",
-      "album": {
-        "name": "Ego Raman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/60uOyXVWyXEBek4FBnbyNC"
-      },
-      "artists": [
-        {
-          "name": "Reymen Rodericks",
-          "url": "https://open.spotify.com/artist/6I2tszJFdoMVbkzXDeLaiP"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "Uravey",
-      "url": "https://open.spotify.com/track/2Pz98Z6f8QvvlkQK8HfjV2"
     },
     {
       "added_at": "2026-05-15 13:09:45",

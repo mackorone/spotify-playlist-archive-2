@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 96633,
+  "num_followers": 96659,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAAAObH4bfLILnlO8bi69EbzO",
+  "snapshot_id": "aiYGAAAAAAB5BcStj/9Lx5R3XacGzZvP",
   "tracks": [
     {
       "added_at": null,
@@ -419,38 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angels Above Me",
-        "url": "https://open.spotify.com/album/2JbuOCT3JIm2EKTMkQkUxv"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Angels Above Me",
-      "url": "https://open.spotify.com/track/1hoSJlBH90kh06ySuMo6G4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 283793,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Got Me On The Run (with Stick Figure and Pepper)",
         "url": "https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF"
       },
@@ -475,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 283793,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easy to Love You",
         "url": "https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angels Above Me",
+        "url": "https://open.spotify.com/album/2JbuOCT3JIm2EKTMkQkUxv"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Angels Above Me",
+      "url": "https://open.spotify.com/track/1hoSJlBH90kh06ySuMo6G4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ways Of The World",
         "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
       },
@@ -511,6 +511,30 @@
       "duration_ms": 237756,
       "name": "Siren (with Stick Figure)",
       "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run Run River (Angels Above Me)",
+        "url": "https://open.spotify.com/album/78vBqtV0zN5JKWPTBVbGid"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Run Run River (Angels Above Me)",
+      "url": "https://open.spotify.com/track/0Xe2FjyQndr2LsRD820iR3"
     },
     {
       "added_at": null,
@@ -607,30 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run Run River (Angels Above Me)",
-        "url": "https://open.spotify.com/album/78vBqtV0zN5JKWPTBVbGid"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Run Run River (Angels Above Me)",
-      "url": "https://open.spotify.com/track/0Xe2FjyQndr2LsRD820iR3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beauty In The Silence",
         "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 209032,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/7kMnqTDJm3aPibKgz46eLe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 282696,
+      "name": "Falling Stars",
+      "url": "https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr"
     },
     {
       "added_at": null,
@@ -680,25 +696,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 266549,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 282696,
-      "name": "Falling Stars",
-      "url": "https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr"
+      "duration_ms": 279323,
+      "name": "Just Another Dream",
+      "url": "https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR"
     },
     {
       "added_at": null,
@@ -723,42 +723,6 @@
       "duration_ms": 170016,
       "name": "Love Me Easy",
       "url": "https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sacred Sound",
-        "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
-      },
-      "artists": [
-        {
-          "name": "Iya Terra",
-          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 216476,
-      "name": "Give Thanks (feat. Stick Figure)",
-      "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 279323,
-      "name": "Just Another Dream",
-      "url": "https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR"
     },
     {
       "added_at": null,
@@ -795,22 +759,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natural Mystic (with Stephen Marley) [West Palm Beach 2025]",
-        "url": "https://open.spotify.com/album/49x3hZ1OINSRz6qhjdubAF"
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
       "artists": [
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
         }
       ],
-      "duration_ms": 225710,
-      "name": "Natural Mystic (with Stephen Marley) - West Palm Beach 2025",
-      "url": "https://open.spotify.com/track/4e7FmcrVSwJe7NnTLHAZBm"
+      "duration_ms": 266549,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sacred Sound",
+        "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
+      },
+      "artists": [
+        {
+          "name": "Iya Terra",
+          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "Give Thanks (feat. Stick Figure)",
+      "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
     },
     {
       "added_at": null,
@@ -827,6 +807,26 @@
       "duration_ms": 323068,
       "name": "Old Sunrise",
       "url": "https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natural Mystic (with Stephen Marley) [West Palm Beach 2025]",
+        "url": "https://open.spotify.com/album/49x3hZ1OINSRz6qhjdubAF"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        }
+      ],
+      "duration_ms": 225710,
+      "name": "Natural Mystic (with Stephen Marley) - West Palm Beach 2025",
+      "url": "https://open.spotify.com/track/4e7FmcrVSwJe7NnTLHAZBm"
     }
   ],
   "unique_name": "This Is Stick Figure",

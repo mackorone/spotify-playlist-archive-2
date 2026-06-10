@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Christian Nodal\ud83d\udcf8",
-  "num_followers": 367849,
+  "num_followers": 367843,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Excusa No Es",
-        "url": "https://open.spotify.com/album/1cc7eNghzcXbtq3eWD1bmq"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Barraza",
-          "url": "https://open.spotify.com/artist/6YR3uGzINqVcATvyzArZKt"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Excusa No Es",
-      "url": "https://open.spotify.com/track/5GPUnQ4JmIf2bUsRek7Vlp"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 163354,
       "name": "Ley De La Atracci\u00f3n",
       "url": "https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Excusa No Es",
+        "url": "https://open.spotify.com/album/1cc7eNghzcXbtq3eWD1bmq"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Barraza",
+          "url": "https://open.spotify.com/artist/6YR3uGzINqVcATvyzArZKt"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Excusa No Es",
+      "url": "https://open.spotify.com/track/5GPUnQ4JmIf2bUsRek7Vlp"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
+        "name": "Ebrio de Amor",
+        "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Zahena",
+          "url": "https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6"
+        }
+      ],
+      "duration_ms": 173291,
+      "name": "Le Hace Falta un Beso",
+      "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
         "name": "Este Amor",
         "url": "https://open.spotify.com/album/52k951JAnmJbJfJBCGe5AR"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 231302,
       "name": "Este Amor",
       "url": "https://open.spotify.com/track/4qQEpeUsKJYeRTZmF9nsSf"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
-        "name": "Ebrio de Amor",
-        "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Zahena",
-          "url": "https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6"
-        }
-      ],
-      "duration_ms": 173291,
-      "name": "Le Hace Falta un Beso",
-      "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Traigan Las Otras",
-        "url": "https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 230806,
-      "name": "Traigan Las Otras",
-      "url": "https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Pajarillo",
         "url": "https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 229173,
       "name": "Pajarillo",
       "url": "https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Traigan Las Otras",
+        "url": "https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 230806,
+      "name": "Traigan Las Otras",
+      "url": "https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Cuando Ama Una Mujer",
-        "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
-      },
-      "artists": [
-        {
-          "name": "Diana Hoyos",
-          "url": "https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn"
-        }
-      ],
-      "duration_ms": 150880,
-      "name": "Cuando Ama Una Mujer",
-      "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Los Amigos Asi",
         "url": "https://open.spotify.com/album/0kcnRSs7sG2RgGb2MyQO7t"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 207830,
       "name": "Los Amigos Asi",
       "url": "https://open.spotify.com/track/2ShRtZ8WAWcZQ3aVnh9yIK"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Cuando Ama Una Mujer",
+        "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
+      },
+      "artists": [
+        {
+          "name": "Diana Hoyos",
+          "url": "https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn"
+        }
+      ],
+      "duration_ms": 150880,
+      "name": "Cuando Ama Una Mujer",
+      "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Mi M\u00e9xico Mestizo",
-        "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
-      },
-      "artists": [
-        {
-          "name": "Sant Orozco",
-          "url": "https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG"
-        }
-      ],
-      "duration_ms": 146060,
-      "name": "Mi M\u00e9xico Mestizo",
-      "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Pintando sue\u00f1os",
         "url": "https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 222080,
       "name": "Pintando sue\u00f1os",
       "url": "https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Mi M\u00e9xico Mestizo",
+        "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
+      },
+      "artists": [
+        {
+          "name": "Sant Orozco",
+          "url": "https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG"
+        }
+      ],
+      "duration_ms": 146060,
+      "name": "Mi M\u00e9xico Mestizo",
+      "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
     },
     {
       "added_at": "2026-05-22 06:00:32",

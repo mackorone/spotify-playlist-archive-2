@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 308360,
+  "num_followers": 308393,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rock Around The Clock",
-        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 129893,
-      "name": "(We're Gonna) Rock Around The Clock",
-      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 177400,
       "name": "You Make Me Feel So Young - Remastered 1998",
       "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rock Around The Clock",
+        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 129893,
+      "name": "(We're Gonna) Rock Around The Clock",
+      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Little Bitty Pretty One",
-        "url": "https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG"
-      },
-      "artists": [
-        {
-          "name": "Thurston Harris",
-          "url": "https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT"
-        }
-      ],
-      "duration_ms": 143066,
-      "name": "Little Bitty Pretty One",
-      "url": "https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Sinatra And Swingin' Brass",
         "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 194093,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Little Bitty Pretty One",
+        "url": "https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG"
+      },
+      "artists": [
+        {
+          "name": "Thurston Harris",
+          "url": "https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT"
+        }
+      ],
+      "duration_ms": 143066,
+      "name": "Little Bitty Pretty One",
+      "url": "https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "I Need a Man / No Matter Who's to Blame",
-        "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
-      },
-      "artists": [
-        {
-          "name": "Barbara Pittman",
-          "url": "https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2"
-        }
-      ],
-      "duration_ms": 172140,
-      "name": "I Need a Man",
-      "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Ain't That Right / Bring Your Love Back Home",
         "url": "https://open.spotify.com/album/6o93gieTy9n75mc0Mhgtw7"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 194000,
       "name": "Bring Your Love Back Home",
       "url": "https://open.spotify.com/track/6lvzBdCaRm02bNKjpUTZTV"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "I Need a Man / No Matter Who's to Blame",
+        "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pittman",
+          "url": "https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2"
+        }
+      ],
+      "duration_ms": 172140,
+      "name": "I Need a Man",
+      "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rhino Hi-Five: The Coasters",
-        "url": "https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 113040,
-      "name": "Yakety Yak",
-      "url": "https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rock N' Roll Legends (International Version)",
         "url": "https://open.spotify.com/album/16HB1qo5ljAAhNB4KFcyvL"
       },
@@ -1755,22 +1739,6 @@
       "duration_ms": 134211,
       "name": "Stupid Cupid",
       "url": "https://open.spotify.com/track/4EaVZab0VnTWwWnO3HuEAp"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Frankie Lymon & The Teenagers Greatest Hits",
-        "url": "https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC"
-      },
-      "artists": [
-        {
-          "name": "Frankie Lymon & The Teenagers",
-          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "Why Do Fools Fall In Love",
-      "url": "https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1803,6 +1771,38 @@
       "duration_ms": 142400,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/49E8SDVZ7BUyNAZZYfZdRx"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rhino Hi-Five: The Coasters",
+        "url": "https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 113040,
+      "name": "Yakety Yak",
+      "url": "https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Frankie Lymon & The Teenagers Greatest Hits",
+        "url": "https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC"
+      },
+      "artists": [
+        {
+          "name": "Frankie Lymon & The Teenagers",
+          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
+        }
+      ],
+      "duration_ms": 140826,
+      "name": "Why Do Fools Fall In Love",
+      "url": "https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H"
     },
     {
       "added_at": "2022-06-07 05:25:13",

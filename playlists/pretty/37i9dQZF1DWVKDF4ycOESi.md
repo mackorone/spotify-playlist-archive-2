@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Tony Boy, Bresh, Taylor Swift, Geolier, Merk & Kremont, Ditonellapiaga e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,375 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,377 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

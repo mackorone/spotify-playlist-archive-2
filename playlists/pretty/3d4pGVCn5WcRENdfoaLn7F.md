@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 718 likes - 83 songs - 4 hr 51 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 719 likes - 85 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [goodbye](https://open.spotify.com/track/4JaOFKSDjDtEBee1bJOxjI) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [goodbye](https://open.spotify.com/album/0wG69WeVzlbyg2rRCnUQmf) | 3:35 |
 | 2 | [No puedes saber](https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3) | [Decode](https://open.spotify.com/artist/4LveHUW9mrBnEh7xARbo3r) | [No puedes saber](https://open.spotify.com/album/2V9ECtvzI8NCv4fWOEEWWf) | 4:57 |
-| 3 | [Playground](https://open.spotify.com/track/0hUbr66SmawTFyn17USbQS) | [Maia and the Squires](https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq) | [Sinking Into The Ocean](https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc) | 3:37 |
-| 4 | [Jane](https://open.spotify.com/track/4XedfQTRrrkH48buhGSbFd) | [Lunar Chain](https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW) | [Jane](https://open.spotify.com/album/3McsECnITe5RZAbrBHn36C) | 3:01 |
-| 5 | [Timewaster](https://open.spotify.com/track/5LwBGdNj4Vk7hPAP2EqECk) | [PØRTERS](https://open.spotify.com/artist/7DWxOAA8RP8Cu0B8ucNy0Q) | [Timewaster](https://open.spotify.com/album/0Zo0pv0cD2ZrszpAw7EJjE) | 3:35 |
-| 6 | [Full silver moon](https://open.spotify.com/track/3JvLUOuPjpb47ccTsUmNCQ) | [Estirga](https://open.spotify.com/artist/1EDF6bTjidf7Ktk5O9eLId) | [Fuego y Luz](https://open.spotify.com/album/3iroCJZy7UF2ZrNRGd4Nbe) | 3:24 |
-| 7 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 |
-| 8 | [New Shit Has Come To Light](https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [New Shit Has Come To Light](https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl) | 2:50 |
+| 3 | [New Shit Has Come To Light](https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [New Shit Has Come To Light](https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl) | 2:50 |
+| 4 | [Playground](https://open.spotify.com/track/0hUbr66SmawTFyn17USbQS) | [Maia and the Squires](https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq) | [Sinking Into The Ocean](https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc) | 3:37 |
+| 5 | [Jane](https://open.spotify.com/track/4XedfQTRrrkH48buhGSbFd) | [Lunar Chain](https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW) | [Jane](https://open.spotify.com/album/3McsECnITe5RZAbrBHn36C) | 3:01 |
+| 6 | [Timewaster](https://open.spotify.com/track/5LwBGdNj4Vk7hPAP2EqECk) | [PØRTERS](https://open.spotify.com/artist/7DWxOAA8RP8Cu0B8ucNy0Q) | [Timewaster](https://open.spotify.com/album/0Zo0pv0cD2ZrszpAw7EJjE) | 3:35 |
+| 7 | [Full silver moon](https://open.spotify.com/track/3JvLUOuPjpb47ccTsUmNCQ) | [Estirga](https://open.spotify.com/artist/1EDF6bTjidf7Ktk5O9eLId) | [Fuego y Luz](https://open.spotify.com/album/3iroCJZy7UF2ZrNRGd4Nbe) | 3:24 |
+| 8 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 |
 | 9 | [You Don't Wanna Go Home](https://open.spotify.com/track/1N3Yy7KmL8kPNUvUf9ndyU) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [You Don't Wanna Go Home](https://open.spotify.com/album/7y2TICCC1Hv6sXMQHbljoR) | 2:59 |
 | 10 | [Dagger](https://open.spotify.com/track/2z085z3HP9wxC1NbZg0l75) | [Rhaina Yasmin](https://open.spotify.com/artist/0HRstpwKkdAHomEsGun6Id) | [Dagger](https://open.spotify.com/album/3uBwu021Fop6TxolWGkf65) | 4:18 |
 | 11 | [headnoise](https://open.spotify.com/track/4YiD4uZY0vAYYYktsVLho7) | [hideaways.](https://open.spotify.com/artist/69GTkLWVatpJWSJlmKNdUG) | [headnoise](https://open.spotify.com/album/6WrlzrcGmFuduE71cI8di2) | 2:50 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 26 | [Eighty\-Six](https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf) | [Lake Point Drive](https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn) | [Eighty\-Six](https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG) | 3:43 |
 | 27 | [SPECKS](https://open.spotify.com/track/3MqmmpXA0BHiUthZJ7kMgH) | [Vampire Slumber Party](https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d) | [HOLES](https://open.spotify.com/album/5zl7NEY0kWkXzqdCCksGvQ) | 3:32 |
 | 28 | [Murder Parade](https://open.spotify.com/track/0SDqFtJAV9lWKZqPXHyft0) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Murder Parade](https://open.spotify.com/album/7cm9XsZG13NeEUGDP0OOOw) | 2:19 |
-| 29 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 |
-| 30 | [High & Dry](https://open.spotify.com/track/5wsbd85L95r7yiuC7XiDip) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [High & Dry](https://open.spotify.com/album/7LBGWWGXIfdXQvUyPTXyUh) | 3:56 |
-| 31 | [Too Far](https://open.spotify.com/track/4TQDu0X2VvIbTa0Xi60KJW) | [Alex Cherney](https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Too Far](https://open.spotify.com/album/24IKxWexH2PcwLCPw4IjP4) | 3:03 |
+| 29 | [High & Dry](https://open.spotify.com/track/5wsbd85L95r7yiuC7XiDip) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [High & Dry](https://open.spotify.com/album/7LBGWWGXIfdXQvUyPTXyUh) | 3:56 |
+| 30 | [Too Far](https://open.spotify.com/track/4TQDu0X2VvIbTa0Xi60KJW) | [Alex Cherney](https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Too Far](https://open.spotify.com/album/24IKxWexH2PcwLCPw4IjP4) | 3:03 |
+| 31 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 |
 | 32 | [under my skin](https://open.spotify.com/track/1rVB6X6CKu9TZA881x1a4D) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [under my skin](https://open.spotify.com/album/4PxaXcBumTmEBSlzbvtECD) | 2:42 |
 | 33 | [Keepin' Up With the Jones'](https://open.spotify.com/track/3JgWObXAw1zHF2pnHBUXQL) | [Chuck Spadina](https://open.spotify.com/artist/3JGftPKgc3DsRWALOswF6N) | [Keepin' Up With the Jones'](https://open.spotify.com/album/1p4WSE2jN9qZSRKgdsOMZi) | 2:34 |
 | 34 | [Stay Back](https://open.spotify.com/track/5Z8V6cOh37E7yNKaGlNcuC) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Stay Back](https://open.spotify.com/album/0RCSlDlgi70bepX0U1JlzJ) | 2:25 |
@@ -91,5 +91,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 81 | [Negana](https://open.spotify.com/track/119wfagYJPstMFSqvIevY9) | [Twin Dive](https://open.spotify.com/artist/3s33V653y1P9c44LHIQuJ5) | [Negana](https://open.spotify.com/album/79Psl3Dc59HB9UeYTQd96a) | 5:56 |
 | 82 | [The Family Secret](https://open.spotify.com/track/5v6DxofVLhcqQWsO4JlQ1v) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [The Family Secret](https://open.spotify.com/album/1kDUZGxfVbg4uS3OC0MqpB) | 2:59 |
 | 83 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 |
+| 84 | [Bruise](https://open.spotify.com/track/322NfWs2Q26OwW1f0MOTBZ) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [Garden](https://open.spotify.com/album/4c4SBqmV6J0gbOm6mIM4Oz) | 3:42 |
+| 85 | [Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo \(No es tan difícil\)](https://open.spotify.com/track/7c3n6e35HWPu8jFZsGP2ZD) | [Los No Muertos](https://open.spotify.com/artist/10DyxVqQ1e1PaEsmZujjSE) | [Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo \(No es tan difícil\)](https://open.spotify.com/album/6g7hoVgjQPhWLuXDiQlK1T) | 4:52 |
 
-Snapshot ID: `AAADlpsswNKUxt3gkagxUbkvRe2P+Zcz`
+Snapshot ID: `AAADm993AXU7t1Nl1UEIPsPlXSuKW0hK`

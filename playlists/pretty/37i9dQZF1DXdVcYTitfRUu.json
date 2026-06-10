@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 16133,
+  "num_followers": 16140,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -139,26 +139,18 @@
     {
       "added_at": "2026-06-02 10:44:48",
       "album": {
-        "name": "Breaking Through",
-        "url": "https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j"
+        "name": "To. X - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
       },
       "artists": [
         {
-          "name": "EL CAPITXN",
-          "url": "https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a"
-        },
-        {
-          "name": "TAEHYUN",
-          "url": "https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8"
-        },
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 252800,
-      "name": "Breaking Through",
-      "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
+      "duration_ms": 170386,
+      "name": "To. X",
+      "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
     },
     {
       "added_at": "2026-06-02 10:44:48",
@@ -195,18 +187,26 @@
     {
       "added_at": "2026-06-02 10:44:48",
       "album": {
-        "name": "To. X - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
+        "name": "Breaking Through",
+        "url": "https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "EL CAPITXN",
+          "url": "https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a"
+        },
+        {
+          "name": "TAEHYUN",
+          "url": "https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8"
+        },
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
         }
       ],
-      "duration_ms": 170386,
-      "name": "To. X",
-      "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
+      "duration_ms": 252800,
+      "name": "Breaking Through",
+      "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
     },
     {
       "added_at": "2026-06-02 10:44:48",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-06-02 10:44:48",
       "album": {
-        "name": "Expectation - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
-    },
-    {
-      "added_at": "2026-06-02 10:44:48",
-      "album": {
         "name": "Spring Breeze, Again (Original Soundtrack from WANNA ONE GO : Back to Base)",
         "url": "https://open.spotify.com/album/0K5oVVrkQKMOm5NhM8fwNg"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 218000,
       "name": "Spring Breeze, Again",
       "url": "https://open.spotify.com/track/5Kbuqu5de3JY22BLNJBLco"
+    },
+    {
+      "added_at": "2026-06-02 10:44:48",
+      "album": {
+        "name": "Expectation - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
     },
     {
       "added_at": "2026-06-02 10:44:48",
@@ -927,18 +927,18 @@
     {
       "added_at": "2026-06-02 10:44:48",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
+        "name": "Day dream",
+        "url": "https://open.spotify.com/album/0HTupJldb1Sfmf3YUfC0LP"
       },
       "artists": [
         {
-          "name": "DK",
-          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
         }
       ],
-      "duration_ms": 257026,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
+      "duration_ms": 238000,
+      "name": "Day dream",
+      "url": "https://open.spotify.com/track/6ePejCWGJnK6IWCipFmUK5"
     },
     {
       "added_at": "2026-06-02 10:44:48",
@@ -955,6 +955,22 @@
       "duration_ms": 245000,
       "name": "No More Encore",
       "url": "https://open.spotify.com/track/3W2kHl0GltIhAxO1zNqOxY"
+    },
+    {
+      "added_at": "2026-06-02 10:44:48",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
     },
     {
       "added_at": "2026-06-02 10:44:48",
@@ -991,22 +1007,6 @@
       "duration_ms": 235920,
       "name": "Hopeless Romantic (Feat. LEE SUHYUN)",
       "url": "https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss"
-    },
-    {
-      "added_at": "2026-06-02 10:44:48",
-      "album": {
-        "name": "Day dream",
-        "url": "https://open.spotify.com/album/0HTupJldb1Sfmf3YUfC0LP"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Day dream",
-      "url": "https://open.spotify.com/track/6ePejCWGJnK6IWCipFmUK5"
     },
     {
       "added_at": "2026-06-02 10:44:48",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-06-02 10:44:48",
       "album": {
+        "name": "EXchange4, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI"
+      },
+      "artists": [
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "A Day",
+      "url": "https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W"
+    },
+    {
+      "added_at": "2026-06-02 10:44:48",
+      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 268000,
       "name": "Bye Bye (Feat. LEE MU JIN)",
       "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
-    },
-    {
-      "added_at": "2026-06-02 10:44:48",
-      "album": {
-        "name": "EXchange4, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI"
-      },
-      "artists": [
-        {
-          "name": "Suzy",
-          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "A Day",
-      "url": "https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W"
     },
     {
       "added_at": "2026-06-02 10:44:48",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-06-02 10:44:48",
       "album": {
-        "name": "Dial Your Number",
-        "url": "https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 258665,
-      "name": "Dial Your Number",
-      "url": "https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq"
-    },
-    {
-      "added_at": "2026-06-02 10:44:48",
-      "album": {
         "name": "WSG WANNABE 1st Album",
         "url": "https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 207866,
       "name": "I Missed You",
       "url": "https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N"
+    },
+    {
+      "added_at": "2026-06-02 10:44:48",
+      "album": {
+        "name": "Dial Your Number",
+        "url": "https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 258665,
+      "name": "Dial Your Number",
+      "url": "https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq"
     },
     {
       "added_at": "2026-06-02 10:44:48",

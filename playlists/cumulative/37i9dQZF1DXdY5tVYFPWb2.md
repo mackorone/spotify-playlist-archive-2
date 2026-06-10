@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-962 songs - 2 day 15 hr 27 min
+964 songs - 2 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [City Drive](https://open.spotify.com/track/24aoDh5VjWUquYEx28Bfpj) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Vacation](https://open.spotify.com/album/5KuPwRwOKUyfbU15R3psvf) | 3:18 | 2024-04-16 | 2025-01-08 |
 | [City Drive](https://open.spotify.com/track/5JxfIHoC7GO0aczQPFqMkA) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Vacation](https://open.spotify.com/album/0fd3ncp2t3femdF8tRXksD) | 3:18 | 2023-12-12 | 2024-04-19 |
 | [CITY FLIGHT](https://open.spotify.com/track/0XyD2MgwzwuNBVugOhnpek) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [EP\-3](https://open.spotify.com/album/2abkuqj2lyCwE0dyQlnyMK) | 4:05 | 2022-05-24 | 2022-07-29 |
-| [City Girl](https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [City Girl](https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a) | 4:00 | 2022-11-15 |  |
+| [City Girl](https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [City Girl](https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a) | 4:00 | 2022-11-15 | 2026-06-10 |
 | [City Habits](https://open.spotify.com/track/38f8NbWFJ22TU4qIqZoNnd) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [City Habits](https://open.spotify.com/album/1LDTsY4d3u9FASRjOjseqU) | 4:49 | 2024-07-12 | 2024-10-03 |
 | [Clap Clap](https://open.spotify.com/track/1xBHBwjDF6EOLxs2NJDd7F) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [Clap Clap](https://open.spotify.com/album/2fezHuGaqi8F9iN18IVKYM) | 3:50 | 2023-05-30 | 2023-06-16 |
 | [Climax Night](https://open.spotify.com/track/3O4SdpqF7RzZkA79cRBvwV) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [PARAISO](https://open.spotify.com/album/2nlSDINS6XaxOTGIvld3u0) | 4:04 | 2024-04-16 |  |
@@ -127,6 +127,7 @@
 | [Day Drip](https://open.spotify.com/track/3HTtrnobapfLCJ3qghNOyH) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Day Drip](https://open.spotify.com/album/0r5TiVxBor3inpg5yxL6z4) | 2:53 | 2024-01-18 | 2024-01-24 |
 | [Day In Day Out](https://open.spotify.com/track/5RTWTDzC0neY2cRljMw0zB) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Day In Day Out](https://open.spotify.com/album/2LUbONUfN9g9zPxL1ukeW5) | 2:58 | 2022-06-14 | 2022-06-29 |
 | [Deep Inside](https://open.spotify.com/track/50i1WB0sZuvrAwr7pTW3MB) | [Nelko](https://open.spotify.com/artist/3Glq3QEL1BjWbCjIokyytB) | [Deep Inside](https://open.spotify.com/album/7BjRZ6At37jn1wLuAxlhn6) | 4:22 | 2023-03-28 | 2023-04-05 |
+| [Deja\-vu](https://open.spotify.com/track/7J9I6C6AE9XPbhfYUwamjf) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Deja\-vu](https://open.spotify.com/album/7jcNtagY3SxbU1fEz8qgUQ) | 4:15 | 2026-06-09 |  |
 | [DISCO de DISCO](https://open.spotify.com/track/6B9LgmbNd03iVVVdUiUeaE) | [Yu Hayami](https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX) | [DISCO de DISCO](https://open.spotify.com/album/3Swvxt0q49yvXl1GfsKjOr) | 2:58 | 2024-07-30 | 2024-08-14 |
 | [DISCONNECT](https://open.spotify.com/track/5xm3g16LLPV5kKtMa6u2kM) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [DISCONNECT](https://open.spotify.com/album/4IMSWtZdzt4PoUoi3Y4avI) | 2:49 | 2023-10-03 | 2023-11-11 |
 | [DND](https://open.spotify.com/track/4dmyhFotHSwyVsKCbvekEU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Lonely Paradox](https://open.spotify.com/album/6Qlte9o32U238sw3gElTtF) | 3:25 | 2023-12-12 | 2024-01-10 |
@@ -594,6 +595,7 @@
 | [TRANSIT IN SUMMER](https://open.spotify.com/track/71rNG9Gx5bo66KCDjpkBUQ) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [TRANSIT IN SUMMER](https://open.spotify.com/album/7fr2UWTOYGTMx3cck8GOY1) | 4:25 | 2023-05-23 | 2023-08-11 |
 | [TRANSIT IN SUMMER](https://open.spotify.com/track/32vDtAPTKgkLDzeRmwnJNQ) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC), [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [OMEGA TRIBE GROOVE](https://open.spotify.com/album/7o5mbjGsvO2PrDkL1IRPch) | 4:30 | 2022-08-16 | 2022-08-24 |
 | [Treasure](https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [SEASONS](https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao) | 4:01 | 2022-10-25 | 2023-07-12 |
+| [Trust Me](https://open.spotify.com/track/7dTxvAT5Fvc6yKan2zNaU7) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [In Your Trust](https://open.spotify.com/album/4gUcCJgK5fyJdYMQeDqvG5) | 3:29 | 2026-06-09 |  |
 | [Tuxedo Connection \- Dimitri from Paris Edit](https://open.spotify.com/track/3deXs7hdPUPLJIpaZpUU43) | [Hitomi Tohyama](https://open.spotify.com/artist/3qccez9ByXrGuPDQaJiy6o) | [Pretty Penny: Hitomi Tohyama the Best & Rare](https://open.spotify.com/album/42rKFXGDHs2PWY2L9kVaEO) | 4:40 | 2024-03-05 | 2024-04-03 |
 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 | 2023-05-02 | 2025-01-23 |
 | [TYT](https://open.spotify.com/track/4oY7S5fKfIxMW6aCfRtJYl) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [TYT](https://open.spotify.com/album/27fwOpwm1gAJ6z76Wgz0PI) | 3:06 | 2026-03-31 |  |
@@ -643,7 +645,7 @@
 | [your room](https://open.spotify.com/track/0ny70e6ql2HOEmQVfnWI8N) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [your room](https://open.spotify.com/album/3JijWekYCz4gBkWB1jFeX6) | 3:35 | 2022-10-25 | 2023-04-30 |
 | [your room](https://open.spotify.com/track/1SQyaGfArVFSknUxwXzn80) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [your room](https://open.spotify.com/album/7khBUxZhpj2K9019INmwGe) | 3:35 | 2022-10-25 | 2022-10-27 |
 | [Your Song On The Radio](https://open.spotify.com/track/1IQshfYUQE7H2z00aRMTqE) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Your Song On The Radio](https://open.spotify.com/album/03Epz45tqENNY3BS4uP1V3) | 3:01 | 2023-04-20 | 2023-05-16 |
-| [YOWANOTSUKI](https://open.spotify.com/track/4ibupLr4YYsixGxOCLhbmF) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [YOWANOTSUKI](https://open.spotify.com/album/6iSWk4SFJD2hpnGPuEy4Ss) | 3:46 | 2026-05-05 |  |
+| [YOWANOTSUKI](https://open.spotify.com/track/4ibupLr4YYsixGxOCLhbmF) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [YOWANOTSUKI](https://open.spotify.com/album/6iSWk4SFJD2hpnGPuEy4Ss) | 3:46 | 2026-05-05 | 2026-06-10 |
 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 | 2022-07-07 | 2025-03-12 |
 | [Yume de Aetara](https://open.spotify.com/track/3NWzlQGyXmsVeGkY7OHFDy) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [Yume de Aetara](https://open.spotify.com/album/3FMoztMSsW5rYtyWEPq82q) | 3:31 | 2023-05-16 | 2023-05-31 |
 | [YUMENO TSUZUKI](https://open.spotify.com/track/1iLgBip9901XeDLjnm74Xd) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [YUMENO TSUZUKI](https://open.spotify.com/album/1V7pP6ZOx1v3uDYu8e8Bs5) | 4:16 | 2024-04-02 | 2024-04-19 |

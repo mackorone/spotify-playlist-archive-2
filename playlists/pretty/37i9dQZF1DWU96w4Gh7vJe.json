@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
-  "num_followers": 576022,
+  "num_followers": 575974,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-05-19 07:30:05",
       "album": {
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 279259,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
+    },
+    {
+      "added_at": "2026-05-19 07:30:05",
+      "album": {
         "name": "Gusto",
         "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 260000,
       "name": "Gusto feat. Al James",
       "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
-    },
-    {
-      "added_at": "2026-05-19 07:30:05",
-      "album": {
-        "name": "Ex",
-        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 279259,
-      "name": "Ex",
-      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
     },
     {
       "added_at": "2026-05-19 07:30:05",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-05-19 07:30:05",
       "album": {
-        "name": "Panatag",
-        "url": "https://open.spotify.com/album/038xoGzKvVvU5DgGvbqRMh"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        }
-      ],
-      "duration_ms": 229403,
-      "name": "Panatag",
-      "url": "https://open.spotify.com/track/5obkQ3qSb30bFrda9rgtd7"
-    },
-    {
-      "added_at": "2026-05-19 07:30:05",
-      "album": {
         "name": "LOVES7AGE",
         "url": "https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 294000,
       "name": "Sabik",
       "url": "https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz"
+    },
+    {
+      "added_at": "2026-05-19 07:30:05",
+      "album": {
+        "name": "Panatag",
+        "url": "https://open.spotify.com/album/038xoGzKvVvU5DgGvbqRMh"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "duration_ms": 229403,
+      "name": "Panatag",
+      "url": "https://open.spotify.com/track/5obkQ3qSb30bFrda9rgtd7"
     },
     {
       "added_at": "2026-05-19 07:30:05",

@@ -325,6 +325,32 @@
     },
     {
       "album": {
+        "name": "Centelha de Amor",
+        "url": "https://open.spotify.com/album/5CbGYHt9QZsQg4rgiNGRRK"
+      },
+      "artists": [
+        {
+          "name": "Oghamyst",
+          "url": "https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12"
+        },
+        {
+          "name": "Randy Resnick",
+          "url": "https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq"
+        },
+        {
+          "name": "Aur\u00e9lie Perenon",
+          "url": "https://open.spotify.com/artist/5PlFthPPNgUrotkALMXy2f"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190120,
+      "name": "Centelha de Amor",
+      "url": "https://open.spotify.com/track/4Zd1Eq4BdxnoUbB2s0dhXE"
+    },
+    {
+      "album": {
         "name": "Change For You",
         "url": "https://open.spotify.com/album/2aelgW9quJQ4R0vX3VKD7S"
       },
@@ -1030,7 +1056,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 180408,
       "name": "Jo Nj\u00ebsoj (Gotta Release This Pain)",
       "url": "https://open.spotify.com/track/0mskgNEFaqcuW9DXEGN3G5"
@@ -1218,6 +1244,24 @@
       "duration_ms": 300291,
       "name": "Liezone",
       "url": "https://open.spotify.com/track/69NybcQA2serENFVWlWfuV"
+    },
+    {
+      "album": {
+        "name": "Love Will Show The Way",
+        "url": "https://open.spotify.com/album/7Eqa1yo8hXb7PpIlxuzUFf"
+      },
+      "artists": [
+        {
+          "name": "Rose Finn",
+          "url": "https://open.spotify.com/artist/355cfiXBdAFLcLr2ZVWtUz"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245786,
+      "name": "Love Will Show The Way",
+      "url": "https://open.spotify.com/track/1J2vll8iWpZvbyWeECZ32r"
     },
     {
       "album": {
@@ -2194,7 +2238,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 194094,
       "name": "Through The Eyes of a Child",
       "url": "https://open.spotify.com/track/4zPwvmMvuXL371fexapxcv"

@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-958 songs - 2 day 1 hr 14 min
+959 songs - 2 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,7 +500,7 @@
 | [MAGIC](https://open.spotify.com/track/4xAq1L431CBEpYit2yBY48) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [MAGIC](https://open.spotify.com/album/0g3F9EhMbH36hZUO3iSskb) | 2:57 | 2025-10-24 | 2026-01-23 |
 | [Make It Easy \(with Coco Jones\)](https://open.spotify.com/track/54bu2ltIe6yARxA7CvwNuX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 3:19 | 2023-07-28 | 2024-09-07 |
 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:31 | 2024-12-06 | 2025-03-15 |
-| [MALIBU](https://open.spotify.com/track/5uqNpA6dsaskbV07O8SK1E) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp), [MAMBA.](https://open.spotify.com/artist/60mQXLKXDOUKSqoiFWErlp), [2wentysixx](https://open.spotify.com/artist/7EzZxvZRR2cwbGP5W7116h), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [MALIBU](https://open.spotify.com/album/6s2ouYlULEJydQWHZ4TMr1) | 2:18 | 2026-06-05 |  |
+| [MALIBU](https://open.spotify.com/track/5uqNpA6dsaskbV07O8SK1E) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp), [MAMBA.](https://open.spotify.com/artist/60mQXLKXDOUKSqoiFWErlp), [2wentysixx](https://open.spotify.com/artist/7EzZxvZRR2cwbGP5W7116h), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [MALIBU](https://open.spotify.com/album/6s2ouYlULEJydQWHZ4TMr1) | 2:18 | 2026-06-05 | 2026-06-10 |
 | [Malibu](https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Malibu](https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz) | 2:51 | 2022-06-24 | 2023-03-02 |
 | [MAMAN PRIE](https://open.spotify.com/track/6oojgcW5Ffo7GkB54vARCh) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [JOŸA](https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O) | 3:42 | 2026-05-15 |  |
 | [Many Man](https://open.spotify.com/track/4R2luhzq04pJjSQWNOiY0S) | [Stainless](https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT) | [Many Man](https://open.spotify.com/album/46cAEUCfM1djPs5ydCww2C) | 2:36 | 2023-04-27 | 2023-06-04 |
@@ -802,6 +802,7 @@
 | [STYLO](https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO) | [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [UNiTY Originaal](https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V), [BayO](https://open.spotify.com/artist/2sxBe3sK3BbxcZ9QGDiSCi), [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn) | [STYLO](https://open.spotify.com/album/2ucxizxSDZPeSVCB5Gsjtj) | 3:22 | 2026-02-20 | 2026-05-15 |
 | [Suh Good](https://open.spotify.com/track/2ArkqDS78Ro7JOeidqzVTS) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Suh Good](https://open.spotify.com/album/1l8jGRft5ufwHFYR0sPkeu) | 2:29 | 2024-12-06 | 2025-04-06 |
 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2023-06-09 | 2024-08-16 |
+| [Summer Got You Wild](https://open.spotify.com/track/2o0kcwr5KQ3Foum7JwSli7) | [Samzii](https://open.spotify.com/artist/2rIRdcRrB9NuzFNWZtIdLb) | [Summer Got You Wild](https://open.spotify.com/album/3HSM5V0SBxk2G9MqU4RgNJ) | 2:33 | 2026-06-05 |  |
 | [Summer July](https://open.spotify.com/track/6Xdl8i0jnYD5TMeeJeU9DJ) | [OLOOTÙ](https://open.spotify.com/artist/2r8dLv6MC4fUri2tk2jSJe), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Bay City Tapes](https://open.spotify.com/album/7DYLTtUdLlk1kZuTukxWrf) | 4:04 | 2026-05-29 |  |
 | [Summer Too Hot](https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Summer Too Hot](https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN) | 3:08 | 2023-06-22 | 2023-09-15 |
 | [Sun/Son](https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sun/Son](https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24) | 2:56 | 2024-01-12 | 2024-06-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Tierra Whack
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,313 likes - 101 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,296 likes - 101 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 88 | [Cable Box](https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM \(10th Anniversary\)](https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR) | 4:43 |
 | 89 | [12 Months \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/7BbkQ0vyOP7HAUQXMeIln9) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Karma 4](https://open.spotify.com/album/7EhhvSYad20sjiKKI5JnRQ) | 3:26 |
 | 90 | [PT Cruiser](https://open.spotify.com/track/1yM1QQCim0YssOxDDJQbse) | [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [PT Cruiser](https://open.spotify.com/album/466dbk7Myb4b5ptqAFwrGv) | 3:44 |
-| 91 | [Trippin on a Yacht \(feat\. Bay Swag & Rob49\)](https://open.spotify.com/track/2oINmoPkPxKc2QATOiA0u9) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Trippin on a Yacht \(feat\. Bay Swag & Rob49\)](https://open.spotify.com/album/1ir2QtNdkl8WgzyPjDNcHz) | 4:35 |
+| 91 | [Trippin on a Yacht](https://open.spotify.com/track/2oINmoPkPxKc2QATOiA0u9) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Trippin on a Yacht \(feat\. Bay Swag & Rob49\)](https://open.spotify.com/album/1ir2QtNdkl8WgzyPjDNcHz) | 4:35 |
 | 92 | [Down For You](https://open.spotify.com/track/797phNSRMhA06VJp3syULD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Down For You](https://open.spotify.com/album/51ikLHp9PJdKuWSKGI8b7K) | 3:40 |
 | 93 | [put it on hearts](https://open.spotify.com/track/6daLiRlW5V69shUA571Vwy) | [WHATMORE](https://open.spotify.com/artist/2y4kS2ljmS41pNDNA01P2Q) | [WHATMORE](https://open.spotify.com/album/0UZHxpIihS68mjFPTcyu7A) | 3:07 |
 | 94 | [Beckham](https://open.spotify.com/track/4UaYeoRZVif641P0FcgkNL) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Kai Swervo](https://open.spotify.com/artist/1frmN1C7BmO6wKo7iQhar2), [KJ Swervo](https://open.spotify.com/artist/3VzzWMyEQci155HpLwKVZc), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Blood, Sweat & Billz](https://open.spotify.com/album/0tONlwqnJyuZWBaHxQw3rK) | 2:04 |

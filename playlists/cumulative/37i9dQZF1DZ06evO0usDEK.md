@@ -4,7 +4,7 @@
 
 > This is Roberta Flack\. The essential tracks, all in one playlist.
 
-74 songs - 5 hr 39 min
+75 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 | 2025-02-25 |  |
 | [Killing Me Softly With His Song \- 2006 Remaster](https://open.spotify.com/track/3WnyL57IzjD9nbSg293vTF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 4:47 | 2025-02-25 |  |
 | [Let It Be Me](https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Chapter Two](https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4) | 4:59 | 2025-02-25 |  |
-| [Let Them Talk](https://open.spotify.com/track/47jAgpZzxxJn0L4RhmnJnf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 3:54 | 2025-12-27 |  |
+| [Let Them Talk](https://open.spotify.com/track/47jAgpZzxxJn0L4RhmnJnf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 3:54 | 2025-12-27 | 2026-06-10 |
 | [Making Love](https://open.spotify.com/track/1UpKK7U9ow2K1G6qNw9wnW) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 3:44 | 2025-02-25 |  |
 | [Maybe](https://open.spotify.com/track/2RcwUh5tvQz9VcDrmhp9fV) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Born To Love](https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE) | 3:21 | 2025-02-25 |  |
 | [Mercy Mercy Me \- Live at Montreux, 2005](https://open.spotify.com/track/2zbX4mAR7ZZOs0utlZlXng) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Mercy Mercy Me \(Live at Montreux, 2005\)](https://open.spotify.com/album/35e5LeFW5xUq3mQonZtiak) | 6:03 | 2026-06-03 |  |
@@ -57,6 +57,7 @@
 | [Only Heaven Can Wait \(For Love\) \(feat\. Donny Hathaway\)](https://open.spotify.com/track/7FOSBjOxnDd3vns3AKx8rr) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack Featuring Donny Hathaway](https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg) | 4:06 | 2025-02-25 |  |
 | [Only Heaven Can Wait \(For Love\) / You Are My Heaven \- Live Version](https://open.spotify.com/track/4maILRXT2aYEo6BxTSAk1U) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Live & More](https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ) | 9:30 | 2026-06-07 |  |
 | [Only Heaven Can Wait \(For Love\) \[feat\. Donny Hathaway\] \- 2006 Remaster](https://open.spotify.com/track/5gy3RPxsVRpaw9PN5bhJFK) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 4:02 | 2025-02-26 | 2025-09-12 |
+| [Reachin' for the Sky \- Live Version](https://open.spotify.com/track/7fkgZQETwePSUjTgydUl69) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Live & More](https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ) | 7:50 | 2026-06-10 |  |
 | [Reverend Lee](https://open.spotify.com/track/1rIY49u8jT04PowbFfHbUz) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Chapter Two](https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4) | 4:32 | 2026-01-15 | 2026-05-20 |
 | [River](https://open.spotify.com/track/6rDR6Z8fBLhErGiDjmfOp3) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 5:03 | 2025-02-25 | 2026-01-18 |
 | [See You Then](https://open.spotify.com/track/56O99Nu2iSQsReVRcCXRX7) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 3:42 | 2026-02-11 | 2026-06-07 |

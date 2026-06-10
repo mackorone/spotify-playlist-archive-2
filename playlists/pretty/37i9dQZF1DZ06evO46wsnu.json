@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 177737,
+  "num_followers": 177758,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAACO0jPtkU+V/lrk6KJViBej",
+  "snapshot_id": "aiYGAAAAAABSPhz/OMAfmYXmbQY2Zugx",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unraveling (Re-Issue)",
-        "url": "https://open.spotify.com/album/0eoON27HHTOIEMTRFJJn5u"
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 227026,
-      "name": "Everchanging",
-      "url": "https://open.spotify.com/track/0qBWQ8Vai0ZVGcxZVM25zJ"
+      "duration_ms": 224013,
+      "name": "Life Less Frightening",
+      "url": "https://open.spotify.com/track/27QBppG8UuQ8pRlbgIUPn4"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+        "name": "The Unraveling (Re-Issue)",
+        "url": "https://open.spotify.com/album/0eoON27HHTOIEMTRFJJn5u"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 224013,
-      "name": "Life Less Frightening",
-      "url": "https://open.spotify.com/track/27QBppG8UuQ8pRlbgIUPn4"
+      "duration_ms": 227026,
+      "name": "Everchanging",
+      "url": "https://open.spotify.com/track/0qBWQ8Vai0ZVGcxZVM25zJ"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/5ePyRQrVvJWE3YJ8t9FQcw"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 186052,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/6nUv1TbOMwOYzESvJCVbF7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 241440,
       "name": "Dancing For Rain",
       "url": "https://open.spotify.com/track/4qX0ej3QhDggOqNtK7yuRV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ghost Note Symphonies, Vol.1",
-        "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 233553,
-      "name": "Far From Perfect - Ghost Note Symphonies",
-      "url": "https://open.spotify.com/track/5k1pZ19vT32fzCSeqRL26v"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want It All",
-        "url": "https://open.spotify.com/album/5ePyRQrVvJWE3YJ8t9FQcw"
+        "name": "The Ghost Note Symphonies, Vol.1",
+        "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 186052,
-      "name": "I Want It All",
-      "url": "https://open.spotify.com/track/6nUv1TbOMwOYzESvJCVbF7"
+      "duration_ms": 233553,
+      "name": "Far From Perfect - Ghost Note Symphonies",
+      "url": "https://open.spotify.com/track/5k1pZ19vT32fzCSeqRL26v"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
-> Celebrating women at the center of innovation in electronic music\. Featuring Saidah.
+> Celebrating women at the center of innovation in electronic music\. Featuring Indira Paganotto.
 
-840 songs - 2 day 4 hr 3 min
+842 songs - 2 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,13 +131,14 @@
 | [Capacidades](https://open.spotify.com/track/1ykjMdqbt95Bu2BuPbAlUy) | [Nídia](https://open.spotify.com/artist/3BKX2WA8UjZgTIJ2juyQ7G) | [Não Fales Nela Que A Mentes](https://open.spotify.com/album/37k7KzGQIMEnoxD15qq4uL) | 2:27 | 2021-03-01 | 2024-03-02 |
 | [Cash For Love](https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Cash For Love](https://open.spotify.com/album/5kEP8s3hsep25m0yEJpfFo) | 4:36 | 2024-03-01 | 2024-04-27 |
 | [Catch The Beat](https://open.spotify.com/track/5xJ6K23ELhgOd6YHeFam9m) | [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK) | [Catch The Beat](https://open.spotify.com/album/0rstS3E9siJrxqATOMR2Wu) | 4:04 | 2024-05-17 | 2024-07-27 |
-| [Caution](https://open.spotify.com/track/4a8WB7ZmEId2rsts2M05Lj) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Street Fever](https://open.spotify.com/artist/0vr95mHdD2YEVeNXmGgYja) | [A Shift In Perspective](https://open.spotify.com/album/1p0swVFMZ8dgXLHfydcF8Q) | 3:04 | 2026-04-17 |  |
+| [Caution](https://open.spotify.com/track/4a8WB7ZmEId2rsts2M05Lj) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Street Fever](https://open.spotify.com/artist/0vr95mHdD2YEVeNXmGgYja) | [A Shift In Perspective](https://open.spotify.com/album/1p0swVFMZ8dgXLHfydcF8Q) | 3:04 | 2026-04-17 | 2026-06-10 |
 | [Chagrin](https://open.spotify.com/track/0DbIkZdysB4bShdvkTgnl3) | [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Motherland](https://open.spotify.com/album/2OytyuooCewNSqWSGfgydy) | 3:39 | 2024-10-25 | 2025-03-08 |
 | [Champagne](https://open.spotify.com/track/0GvCFasUqd63QhmvMUiWqN) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Champagne](https://open.spotify.com/album/4TKxmz7JRy8QKPxO7dWDTo) | 3:32 | 2025-09-05 | 2026-03-21 |
 | [Change](https://open.spotify.com/track/6dMZduF6Qs2WiSzQs7gqk5) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Change](https://open.spotify.com/album/6h4CKrhhFHdF6ElBeF3hgE) | 3:09 | 2021-03-01 | 2023-03-08 |
 | [chasing highs](https://open.spotify.com/track/4TGQC8Yscxh6f9KJLlwktA) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [chasing highs](https://open.spotify.com/album/6UioWnaMVfNNgeSXYsRM49) | 2:26 | 2024-05-03 | 2024-07-13 |
 | [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 | 2025-01-24 | 2025-07-19 |
 | [choke enough](https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY) | 4:00 | 2024-11-22 | 2025-10-11 |
+| [Choose or Lose](https://open.spotify.com/track/5jUIGwxb8jznbYXL64nIX0) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Choose or Lose](https://open.spotify.com/album/0hmDWOMPU5YSDLa0IpzUs2) | 2:57 | 2026-06-09 |  |
 | [CIERRO LOS OJOS](https://open.spotify.com/track/6ipUvDUmrb18kw1osdvxlB) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [CIERRO LOS OJOS](https://open.spotify.com/album/7AHdT2lESUXRvQWYGvUBZ8) | 4:18 | 2025-03-07 | 2025-04-05 |
 | [Circle Back Around](https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Circle Back Around](https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33) | 3:15 | 2023-03-07 | 2024-03-02 |
 | [Clearly Rushing](https://open.spotify.com/track/6XySYT472SweJ5kSOr3aFC) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [Clearly Rushing](https://open.spotify.com/album/2caDuxe2VEqkt2Xq17ekF2) | 3:20 | 2024-03-01 | 2024-03-30 |
@@ -162,6 +163,7 @@
 | [Cosmology](https://open.spotify.com/track/1M2R7cAdnwWO08JinxumOU) | [Roza Terenzi](https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs) | [Stylish Tantrum](https://open.spotify.com/album/5zHzMujcNpkEWGmO2IYcrA) | 6:21 | 2021-03-01 | 2024-03-02 |
 | [Crank It Up](https://open.spotify.com/track/3BN1vfnIwNeHOrSRNJXW8N) | [Helang](https://open.spotify.com/artist/5LSoyfv32nSX2ECYL5Yiy3) | [Crank It Up](https://open.spotify.com/album/63s5KfuMP27RquFGT1zfYd) | 3:04 | 2025-04-11 | 2025-10-18 |
 | [Crowded Roomz](https://open.spotify.com/track/2bnatDQSIhiZBVfVUT0PUe) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Crowded Roomz](https://open.spotify.com/album/6noU224rd5kmYt0KPBhtgG) | 2:52 | 2024-03-01 | 2025-12-18 |
+| [Crush](https://open.spotify.com/track/4oivVCHwk7SH6PK1WrAkvP) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Crush](https://open.spotify.com/album/7heviZNUOz7vASgxtVl7ai) | 2:46 | 2026-06-09 |  |
 | [crush](https://open.spotify.com/track/6KGsHohZ5ohVgr5N9l7kAY) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [what is a heart?](https://open.spotify.com/album/2CUFj3Cn9v4MSvQdvFnysG) | 2:36 | 2024-09-13 | 2024-11-16 |
 | [Crystallize](https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Technicolor Dream](https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W) | 4:05 | 2024-06-24 | 2024-09-21 |
 | [CUT ME OUT](https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Digital Ethos](https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX) | [CAN YOU SEE ME?](https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X) | 3:42 | 2024-03-15 | 2024-05-11 |
@@ -335,7 +337,7 @@
 | [Have You Lost Your Mind?](https://open.spotify.com/track/1Y9dxZwDUmj27A9iz8jzyU) | [Tony y Not](https://open.spotify.com/artist/1X5oUzkhU0CDaTFdk4nJ5V) | [Have You Lost Your Mind?](https://open.spotify.com/album/113bYpX1BAPzqr6KUvNje6) | 5:44 | 2025-04-11 | 2025-07-19 |
 | [Heart Made Of Glass](https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreamscapes](https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo) | 3:50 | 2024-09-30 | 2024-11-09 |
 | [Heartbroken](https://open.spotify.com/track/0WCWtP6EOpc9vjlJ6TCUq3) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Heartbroken](https://open.spotify.com/album/1b4mHMMPEM3oUgb3c0CcZJ) | 5:12 | 2026-04-17 |  |
-| [Heaven](https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [GHOST WORLD](https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK) | 3:25 | 2025-12-05 |  |
+| [Heaven](https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [GHOST WORLD](https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK) | 3:25 | 2025-12-05 | 2026-06-10 |
 | [Heaven](https://open.spotify.com/track/1WkYI0DxUqXKFqTayA8897) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Can You Hear Me Dreaming?](https://open.spotify.com/album/3gi2MFodyrIh2X2r1hbgvx) | 3:42 | 2024-07-12 | 2024-12-07 |
 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 | 2024-05-31 | 2024-09-07 |
 | [Heaven \(Late Night\)](https://open.spotify.com/track/682UIjOPyzX7rzqlWfAMMU) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Fever EP](https://open.spotify.com/album/4Mwzfyr8MBiq9ni4q0H47Y) | 5:59 | 2025-12-17 | 2026-01-24 |
@@ -572,7 +574,7 @@
 | [Patchwork](https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Patchwork](https://open.spotify.com/album/1jdPpk0cKJ4iQvsZfEXstU) | 3:07 | 2026-04-17 |  |
 | [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2024-03-01 | 2024-05-11 |
 | [Pearl](https://open.spotify.com/track/1l4fsop2H0buZdcYaa7KM1) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Pearl](https://open.spotify.com/album/7uyyNpmNR8yE1MqPNnxik0) | 3:54 | 2024-09-13 | 2025-05-17 |
-| [Peepin'](https://open.spotify.com/track/05PPn5rFEiAXgn3fYgl7HC) | [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Peepin'](https://open.spotify.com/album/6nnKlVsfkKVgOBSIdEKkz5) | 2:10 | 2026-05-29 |  |
+| [Peepin'](https://open.spotify.com/track/05PPn5rFEiAXgn3fYgl7HC) | [Reysha Rami](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Peepin'](https://open.spotify.com/album/6nnKlVsfkKVgOBSIdEKkz5) | 2:10 | 2026-05-29 |  |
 | [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfectly](https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD) | 3:50 | 2025-07-18 | 2025-12-06 |
 | [Perfume](https://open.spotify.com/track/4vNtM0pqzltQXaSAd4Dj61) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Perfume](https://open.spotify.com/album/0nYNEtTraLb8gQDf7uOVIg) | 3:36 | 2026-03-20 |  |
 | [Phantasy](https://open.spotify.com/track/5uEW8Kp1dM8UbotWxieU9c) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Phantasy](https://open.spotify.com/album/2w9JaI4kPmMHweV6ComleZ) | 4:00 | 2023-03-07 | 2024-03-02 |

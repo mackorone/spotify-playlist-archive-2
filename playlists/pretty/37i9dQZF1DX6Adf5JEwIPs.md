@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: LENCHO 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,787 likes - 39 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,789 likes - 39 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 17 | [XIX](https://open.spotify.com/track/2FzgBU1RKSl6yE4SPzVP6Y) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Trap Romantix](https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7) | 2:34 |
 | 18 | [La Batuta](https://open.spotify.com/track/58pQqOC1roPWtFFts5FJsl) | [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq) | [La Batuta](https://open.spotify.com/album/6Fdz5guKwT9pzuELbxveI8) | 2:25 |
 | 19 | [VERANO EN TUS BESOS](https://open.spotify.com/track/7BOb4JYyg1qlREe2UP4h6q) | [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [VERANO EN TUS BESOS](https://open.spotify.com/album/3JjkBhiHxEeph9LAmrGKNF) | 3:45 |
-| 20 | [Lluvias de Mayo](https://open.spotify.com/track/6aN0bvEPRhM5miPa6z6vNq) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Lluvias de Mayo](https://open.spotify.com/album/2MkmrYEEfUHsKu3Ho1cEIm) | 5:08 |
+| 20 | [Lluvias de Mayo \(feat\. Carlos Rivera\)](https://open.spotify.com/track/6aN0bvEPRhM5miPa6z6vNq) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Lluvias de Mayo \(feat\. Carlos Rivera\)](https://open.spotify.com/album/2MkmrYEEfUHsKu3Ho1cEIm) | 5:08 |
 | 21 | [Estrellas](https://open.spotify.com/track/7A14dyBeAScZZJStZAVV9M) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Estrellas](https://open.spotify.com/album/0HHJyV9Lf0umVxq1qy08rN) | 3:01 |
 | 22 | [Ando Caro](https://open.spotify.com/track/5wow2HOjFTwPqPMFHuwOiH) | [Alto Linaje](https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5) | [Ando Caro](https://open.spotify.com/album/02KOEjE09Y8UJ0oyHuT8bC) | 3:15 |
 | 23 | [He Callado Muchas Bocas](https://open.spotify.com/track/0WxRLsTaBjtiCHpofbXzy7) | [Jorge Santacruz Y Su Grupo Quinto Elemento](https://open.spotify.com/artist/6UAYm076bYvU9SVOUBH3hQ) | [He Callado Muchas Bocas](https://open.spotify.com/album/0xri1iA0CAPRVVMIS4rvog) | 2:33 |

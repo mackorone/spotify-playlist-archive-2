@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,121 songs - 2 day 10 hr 2 min
+1,122 songs - 2 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-07-07 | 2023-11-18 |
 | [Batcha](https://open.spotify.com/track/39yQagzLGEbc9hEud0Ivvz) | [GAZY MP](https://open.spotify.com/artist/5CWqAxPyMw1opbJyhvs6YO) | [Batcha](https://open.spotify.com/album/0wrOkKIL36F7JoE1EUuo1B) | 2:31 | 2023-03-24 | 2023-10-02 |
 | [BB](https://open.spotify.com/track/4DpyGhHSEcum0tJzkqiIxJ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 2:49 | 2024-06-28 | 2025-01-25 |
+| [BB BRINGUE](https://open.spotify.com/track/5soAhRxbSV61OhWAc8l5xj) | [D Juno](https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY) | [BB BRINGUE](https://open.spotify.com/album/0wEK1pl9QUkjkV1tYlkYyG) | 2:29 | 2026-06-09 |  |
 | [BBL](https://open.spotify.com/track/4vyW7yLnnO01ZIoZR21PIq) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [BBL](https://open.spotify.com/album/595vG7VzrjghpR8TlhgFaD) | 2:52 | 2024-04-03 | 2024-09-21 |
 | [BBL](https://open.spotify.com/track/0iWDbmI7AEIIVzNMuAU3F3) | [OG Plugging](https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx) | [BBL](https://open.spotify.com/album/0WJQOZdnqTTdQvdrYhMuev) | 2:15 | 2026-05-13 |  |
 | [Be Together](https://open.spotify.com/track/6p8Q7wi1ke7v3ospD1YAVO) | [BCBC](https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN) | [Trust Issues](https://open.spotify.com/album/0huOF8RkzDHWHCCBXiAiRj) | 3:08 | 2023-11-10 | 2023-12-15 |
@@ -432,7 +433,7 @@
 | [Hess](https://open.spotify.com/track/4vaU4xiDGJvzFPT1x33tUn) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Hess](https://open.spotify.com/album/7lvh7khzciXblQxdBcbrfC) | 2:55 | 2023-10-13 | 2024-02-10 |
 | [Heureuse](https://open.spotify.com/track/2FlIGn0Y9UxA6AsOzbyuH5) | [Redzol](https://open.spotify.com/artist/5lZC2NXIJuvgOAGOBonrVE), [Fleetzy](https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d) | [Heureuse](https://open.spotify.com/album/0Eij08j7BLHHdOTL9E1Inc) | 2:45 | 2025-01-24 | 2025-02-28 |
 | [heureux](https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [failles](https://open.spotify.com/album/3k6UPDk6tdvDMtZ7KADgQk) | 2:46 | 2025-11-21 | 2025-12-31 |
-| [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 | 2026-05-21 |  |
+| [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 | 2026-05-21 | 2026-06-10 |
 | [Hey There Delilah](https://open.spotify.com/track/2tUC0LmVmIPF3JY52bEurB) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Il caffè del mattino](https://open.spotify.com/album/4xKLYq5sZkcmXx8qA8YV4K) | 3:52 | 2026-05-29 |  |
 | [Hide Away](https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:11 | 2024-05-03 | 2024-06-15 |
 | [Hinoki Wood](https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Romantic Piano](https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM) | 1:34 | 2024-12-13 | 2025-01-18 |
@@ -665,7 +666,7 @@
 | [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 | 2024-11-08 | 2025-02-22 |
 | [Mes Lovés](https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4) | [Ponko](https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mes Lovés](https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT) | 3:08 | 2024-06-28 | 2024-11-09 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-12-13 | 2025-02-01 |
-| [Met Gala](https://open.spotify.com/track/2pYhj6vIyKGLK9YiqQ8z1n) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX) | [Après La Vague](https://open.spotify.com/album/3EcOZjpLJXsdISZVDaeGFM) | 2:23 | 2026-02-13 |  |
+| [Met Gala](https://open.spotify.com/track/2pYhj6vIyKGLK9YiqQ8z1n) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX) | [Après La Vague](https://open.spotify.com/album/3EcOZjpLJXsdISZVDaeGFM) | 2:23 | 2026-02-13 | 2026-06-10 |
 | [Mi Amor](https://open.spotify.com/track/0LbuSkJMsSFTKCvGSweQQ4) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [H\-24](https://open.spotify.com/album/4wnVFYd03IAZ8NhoSFFd0X) | 3:45 | 2025-03-19 | 2025-09-16 |
 | [Mi Amor](https://open.spotify.com/track/1bY1SIPCc5rjn3A9Hc533F) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Kendji](https://open.spotify.com/album/7lAn2A7bS3wx3XtrsqXU68) | 3:50 | 2023-12-14 | 2024-02-10 |
 | [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 | 2025-05-22 | 2025-10-18 |

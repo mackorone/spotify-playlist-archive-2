@@ -355,6 +355,28 @@
     },
     {
       "album": {
+        "name": "Aint No Thang",
+        "url": "https://open.spotify.com/album/3xcszjlZWpwgYbOFrdBn7q"
+      },
+      "artists": [
+        {
+          "name": "2 Fluent",
+          "url": "https://open.spotify.com/artist/5AYYWcl9xFh98nIzBMJIFC"
+        },
+        {
+          "name": "Big JAY",
+          "url": "https://open.spotify.com/artist/6O8OEBw37xbbAgXi1ATE9F"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179393,
+      "name": "Aint No Thang",
+      "url": "https://open.spotify.com/track/5TTn1CjPZag045kau3pHq1"
+    },
+    {
+      "album": {
         "name": "Algo en Tu Manera de Actuar",
         "url": "https://open.spotify.com/album/4TVYEYJAf4CT2NIPjY9x8x"
       },

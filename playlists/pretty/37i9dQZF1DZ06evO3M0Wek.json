@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 116238,
+  "num_followers": 116256,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAADqp41I7NLFM19j56mtyxbz",
+  "snapshot_id": "aiYGAAAAAACC+z33Va+hp9ZUQIj8Y9cO",
   "tracks": [
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ReAniMate 3.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 208240,
-      "name": "Heathens",
-      "url": "https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T"
+      "duration_ms": 216760,
+      "name": "Mayhem",
+      "url": "https://open.spotify.com/track/6ubqrTIJwspBSqx8XQHN2K"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+        "name": "ReAniMate 3.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 216760,
-      "name": "Mayhem",
-      "url": "https://open.spotify.com/track/6ubqrTIJwspBSqx8XQHN2K"
+      "duration_ms": 208240,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T"
     },
     {
       "added_at": null,

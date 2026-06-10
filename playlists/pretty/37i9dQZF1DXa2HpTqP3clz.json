@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Molly Tuttle",
-  "num_followers": 167914,
+  "num_followers": 167920,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "Congratulations and Condolences",
+        "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 215884,
+      "name": "Congratulations and Condolences",
+      "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 155928,
       "name": "M-E-X-I-C-O (Feat. Billy Strings)",
       "url": "https://open.spotify.com/track/1AvMXzHYdIdJfZwpjZQCdN"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "Congratulations and Condolences",
-        "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 215884,
-      "name": "Congratulations and Condolences",
-      "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -575,42 +575,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Circling the Drain",
-        "url": "https://open.spotify.com/album/0I1nAsqzVfsHdUcubvExCM"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 198375,
-      "name": "Circling the Drain",
-      "url": "https://open.spotify.com/track/4lt6XYUxU6r5qUhGroEhQw"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "Powder Day",
-        "url": "https://open.spotify.com/album/5wUug6ZsELo2yLA9sU8BPB"
-      },
-      "artists": [
-        {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
-        },
-        {
-          "name": "Andy Thorn",
-          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Powder Day",
-      "url": "https://open.spotify.com/track/4MxwOoetT7OKPEa9wELH1U"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
       },
@@ -635,6 +599,42 @@
       "duration_ms": 258393,
       "name": "Wake Me When It's Over",
       "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Powder Day",
+        "url": "https://open.spotify.com/album/5wUug6ZsELo2yLA9sU8BPB"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        },
+        {
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Powder Day",
+      "url": "https://open.spotify.com/track/4MxwOoetT7OKPEa9wELH1U"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Circling the Drain",
+        "url": "https://open.spotify.com/album/0I1nAsqzVfsHdUcubvExCM"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 198375,
+      "name": "Circling the Drain",
+      "url": "https://open.spotify.com/track/4lt6XYUxU6r5qUhGroEhQw"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -707,30 +707,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Never Losing Me",
-        "url": "https://open.spotify.com/album/23MHdoOY8YrvORHbpPEQl7"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        },
-        {
-          "name": "Holler Choir",
-          "url": "https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw"
-        },
-        {
-          "name": "Susto Stringband",
-          "url": "https://open.spotify.com/artist/1nRwDuf4z8nUSvRhAsUf4d"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "Never Losing Me",
-      "url": "https://open.spotify.com/track/3eOmIcNf2Oc4aaqkiCbYyJ"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "For Your Love",
         "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 306440,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Never Losing Me",
+        "url": "https://open.spotify.com/album/23MHdoOY8YrvORHbpPEQl7"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        },
+        {
+          "name": "Holler Choir",
+          "url": "https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw"
+        },
+        {
+          "name": "Susto Stringband",
+          "url": "https://open.spotify.com/artist/1nRwDuf4z8nUSvRhAsUf4d"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "Never Losing Me",
+      "url": "https://open.spotify.com/track/3eOmIcNf2Oc4aaqkiCbYyJ"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -827,38 +827,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/0B88zHXjkSFUIGyYrnQGCc"
-      },
-      "artists": [
-        {
-          "name": "Yonder Mountain String Band",
-          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/63B7GNMc9PMqRDsEvJ49KX"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "Dan Tyminski: Live From The Ryman",
-        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
-      },
-      "artists": [
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 256878,
-      "name": "Whiskey Drinking Man - Live",
-      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Will You Ever Be Mine",
         "url": "https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb"
       },
@@ -879,6 +847,22 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/0B88zHXjkSFUIGyYrnQGCc"
+      },
+      "artists": [
+        {
+          "name": "Yonder Mountain String Band",
+          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/63B7GNMc9PMqRDsEvJ49KX"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "Make Me Stay or Make Me Go",
         "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 191000,
       "name": "Make Me Stay or Make Me Go",
       "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Dan Tyminski: Live From The Ryman",
+        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 256878,
+      "name": "Whiskey Drinking Man - Live",
+      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Murmurations, Vol. 2",
-        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
-      },
-      "artists": [
-        {
-          "name": "Birds of Play",
-          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Sandhill Cranes",
-      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Last Road Going Home",
         "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
+        "name": "Murmurations, Vol. 2",
+        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
       },
       "artists": [
         {
-          "name": "Wilson Banjo Co.",
-          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+          "name": "Birds of Play",
+          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
         }
       ],
-      "duration_ms": 151466,
-      "name": "Coalmine",
-      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
+      "duration_ms": 279506,
+      "name": "Sandhill Cranes",
+      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1067,6 +1051,22 @@
       "duration_ms": 195776,
       "name": "Odds of Getting Even",
       "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
+      },
+      "artists": [
+        {
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+        }
+      ],
+      "duration_ms": 151466,
+      "name": "Coalmine",
+      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "Squareneck Soul",
+        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "Squareneck Soul",
+      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "BBQ Chips",
         "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 273627,
       "name": "Mr. Charlie",
       "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "Squareneck Soul",
-        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "Squareneck Soul",
-      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
     },
     {
       "added_at": "2026-05-14 19:56:42",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Please Mr Please",
-        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
-      },
-      "artists": [
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 272326,
-      "name": "Please Mr Please",
-      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Come Out Of My Blues (feat. Tim O'Brien)",
         "url": "https://open.spotify.com/album/5CguhXRiGqHP2JihutacxK"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 227906,
       "name": "Come Out Of My Blues (feat. Tim O'Brien)",
       "url": "https://open.spotify.com/track/05PxhMCqQ9gnBPTM7ree0K"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Please Mr Please",
+        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 272326,
+      "name": "Please Mr Please",
+      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "I Built A World",
-        "url": "https://open.spotify.com/album/6hTAyMVolX7dzbPkLZ54MV"
+        "name": "Keepers of the Flame",
+        "url": "https://open.spotify.com/album/4JpiWeHXlKxVLbqgA7eh9w"
       },
       "artists": [
         {
-          "name": "Bronwyn",
-          "url": "https://open.spotify.com/artist/24S2vTDYhK9PESL4DvCWtq"
-        },
-        {
-          "name": "Jason Carter",
-          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
+          "name": "Lorraine Jordan & Carolina Road",
+          "url": "https://open.spotify.com/artist/6dxPXJaSKfiMQktSMb0ihw"
         }
       ],
-      "duration_ms": 243736,
-      "name": "I Built A World",
-      "url": "https://open.spotify.com/track/15nDnHLaE6j9xZnwLvRHfs"
+      "duration_ms": 175835,
+      "name": "Keepers of the Flame",
+      "url": "https://open.spotify.com/track/3juh17WUSc9M17xaqDrR6g"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1479,18 +1475,22 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Keepers of the Flame",
-        "url": "https://open.spotify.com/album/4JpiWeHXlKxVLbqgA7eh9w"
+        "name": "I Built A World",
+        "url": "https://open.spotify.com/album/6hTAyMVolX7dzbPkLZ54MV"
       },
       "artists": [
         {
-          "name": "Lorraine Jordan & Carolina Road",
-          "url": "https://open.spotify.com/artist/6dxPXJaSKfiMQktSMb0ihw"
+          "name": "Bronwyn",
+          "url": "https://open.spotify.com/artist/24S2vTDYhK9PESL4DvCWtq"
+        },
+        {
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
         }
       ],
-      "duration_ms": 175835,
-      "name": "Keepers of the Flame",
-      "url": "https://open.spotify.com/track/3juh17WUSc9M17xaqDrR6g"
+      "duration_ms": 243736,
+      "name": "I Built A World",
+      "url": "https://open.spotify.com/track/15nDnHLaE6j9xZnwLvRHfs"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Radio John: Songs of John Hartford",
-        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
+        "name": "Working Man Blues",
+        "url": "https://open.spotify.com/album/4Nhgn4wHH4JTjMeN0r8WjJ"
       },
       "artists": [
         {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 198493,
-      "name": "I'm Still Here",
-      "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
+      "duration_ms": 158520,
+      "name": "Working Man Blues",
+      "url": "https://open.spotify.com/track/4QDFyUdP0ws9phMzr1HFoV"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Working Man Blues",
-        "url": "https://open.spotify.com/album/4Nhgn4wHH4JTjMeN0r8WjJ"
+        "name": "Radio John: Songs of John Hartford",
+        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
         }
       ],
-      "duration_ms": 158520,
-      "name": "Working Man Blues",
-      "url": "https://open.spotify.com/track/4QDFyUdP0ws9phMzr1HFoV"
+      "duration_ms": 198493,
+      "name": "I'm Still Here",
+      "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Abigail",
-        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
-      },
-      "artists": [
-        {
-          "name": "Chatham Rabbits",
-          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Abigail",
-      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Lifetime To Go",
         "url": "https://open.spotify.com/album/7fPKHS5uBtUv5hxb8eIMqX"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Way Back When",
-        "url": "https://open.spotify.com/album/7cLJ83Yh2aiTrUGu5UYFsL"
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
       },
       "artists": [
         {
-          "name": "Larry Sparks",
-          "url": "https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA"
+          "name": "Chatham Rabbits",
+          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
         }
       ],
-      "duration_ms": 139999,
-      "name": "Tennessee Border",
-      "url": "https://open.spotify.com/track/7k2shcdLyUwPOAYoFmkIsO"
+      "duration_ms": 197500,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "Way Back When",
+        "url": "https://open.spotify.com/album/7cLJ83Yh2aiTrUGu5UYFsL"
+      },
+      "artists": [
+        {
+          "name": "Larry Sparks",
+          "url": "https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA"
+        }
+      ],
+      "duration_ms": 139999,
+      "name": "Tennessee Border",
+      "url": "https://open.spotify.com/track/7k2shcdLyUwPOAYoFmkIsO"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "Just Because",
         "url": "https://open.spotify.com/album/15vlZHSy41ZgmNuB60ujiV"
       },
@@ -1715,6 +1715,22 @@
       "duration_ms": 226346,
       "name": "Just Because",
       "url": "https://open.spotify.com/track/2Vu9uj5onkgFXm36JBAifP"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "This Sad Song (Single Version) [Live]",
+        "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 138534,
+      "name": "This Sad Song (Single Version) [Live]",
+      "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1747,22 +1763,6 @@
       "duration_ms": 206373,
       "name": "The Banker",
       "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "This Sad Song (Single Version) [Live]",
-        "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
-      },
-      "artists": [
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 138534,
-      "name": "This Sad Song (Single Version) [Live]",
-      "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
     },
     {
       "added_at": "2026-03-27 04:00:14",

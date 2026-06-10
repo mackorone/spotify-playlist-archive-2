@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: vuyo viwe",
-  "num_followers": 13721,
+  "num_followers": 13732,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-05-29 03:58:36",
       "album": {
-        "name": "A Semblance: Of Return",
-        "url": "https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl"
-      },
-      "artists": [
-        {
-          "name": "Asher Gamedze",
-          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
-        }
-      ],
-      "duration_ms": 178264,
-      "name": "Following Up",
-      "url": "https://open.spotify.com/track/5Z312xZuhpbvSHJEBpmcPJ"
-    },
-    {
-      "added_at": "2026-05-29 03:58:36",
-      "album": {
         "name": "The Waters",
         "url": "https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 302022,
       "name": "The Waters",
       "url": "https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW"
+    },
+    {
+      "added_at": "2026-05-29 03:58:36",
+      "album": {
+        "name": "A Semblance: Of Return",
+        "url": "https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl"
+      },
+      "artists": [
+        {
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+        }
+      ],
+      "duration_ms": 178264,
+      "name": "Following Up",
+      "url": "https://open.spotify.com/track/5Z312xZuhpbvSHJEBpmcPJ"
     },
     {
       "added_at": "2026-05-29 03:58:36",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-05-29 03:58:36",
       "album": {
-        "name": "A Semblance: Of Return",
-        "url": "https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl"
-      },
-      "artists": [
-        {
-          "name": "Asher Gamedze",
-          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
-        }
-      ],
-      "duration_ms": 393781,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk"
-    },
-    {
-      "added_at": "2026-05-29 03:58:36",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH"
       },
@@ -699,22 +683,34 @@
     {
       "added_at": "2026-05-29 03:58:36",
       "album": {
-        "name": "Tones of Epiphany",
-        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
+        "name": "A Semblance: Of Return",
+        "url": "https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl"
       },
       "artists": [
         {
-          "name": "Zu.",
-          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
-        },
-        {
-          "name": "Zuko Collective",
-          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
         }
       ],
-      "duration_ms": 362790,
-      "name": "The Aha Moment",
-      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
+      "duration_ms": 393781,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk"
+    },
+    {
+      "added_at": "2026-05-29 03:58:36",
+      "album": {
+        "name": "ANXIOUSLY PREOCCUPIED",
+        "url": "https://open.spotify.com/album/5zgywYv1iXrgnJt8BbVGvi"
+      },
+      "artists": [
+        {
+          "name": "giuliette price",
+          "url": "https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "speak now",
+      "url": "https://open.spotify.com/track/1U7EDHJNa3CbkI5AxyzykX"
     },
     {
       "added_at": "2026-05-29 03:58:36",
@@ -739,18 +735,22 @@
     {
       "added_at": "2026-05-29 03:58:36",
       "album": {
-        "name": "ANXIOUSLY PREOCCUPIED",
-        "url": "https://open.spotify.com/album/5zgywYv1iXrgnJt8BbVGvi"
+        "name": "Tones of Epiphany",
+        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
       },
       "artists": [
         {
-          "name": "giuliette price",
-          "url": "https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p"
+          "name": "Zu.",
+          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
+        },
+        {
+          "name": "Zuko Collective",
+          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
         }
       ],
-      "duration_ms": 222857,
-      "name": "speak now",
-      "url": "https://open.spotify.com/track/1U7EDHJNa3CbkI5AxyzykX"
+      "duration_ms": 362790,
+      "name": "The Aha Moment",
+      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
     },
     {
       "added_at": "2026-05-29 03:58:36",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-05-29 03:58:36",
       "album": {
-        "name": "Love Drive",
-        "url": "https://open.spotify.com/album/4xLYE2FqMIfSsHkPtL7v7q"
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
       },
       "artists": [
         {
-          "name": "Vimbs Mavimbs",
-          "url": "https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN"
+          "name": "Lucas Senyatso",
+          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
         }
       ],
-      "duration_ms": 274091,
-      "name": "Love Drive",
-      "url": "https://open.spotify.com/track/62vKXM3SYKQMP9V4FLhjCN"
+      "duration_ms": 236202,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
     },
     {
       "added_at": "2026-05-29 03:58:36",
@@ -899,18 +899,18 @@
     {
       "added_at": "2026-05-29 03:58:36",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
+        "name": "Love Drive",
+        "url": "https://open.spotify.com/album/4xLYE2FqMIfSsHkPtL7v7q"
       },
       "artists": [
         {
-          "name": "Lucas Senyatso",
-          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
+          "name": "Vimbs Mavimbs",
+          "url": "https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN"
         }
       ],
-      "duration_ms": 236202,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
+      "duration_ms": 274091,
+      "name": "Love Drive",
+      "url": "https://open.spotify.com/track/62vKXM3SYKQMP9V4FLhjCN"
     },
     {
       "added_at": "2026-05-29 03:58:36",
@@ -927,22 +927,6 @@
       "duration_ms": 296678,
       "name": "MaBrrrrrrrrr",
       "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
-    },
-    {
-      "added_at": "2026-05-29 03:58:36",
-      "album": {
-        "name": "ISIGQI (live at the bird's eye)",
-        "url": "https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM"
-      },
-      "artists": [
-        {
-          "name": "Sibusiso Mash Mashiloane",
-          "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
-        }
-      ],
-      "duration_ms": 440654,
-      "name": "Kwandebele (Live)",
-      "url": "https://open.spotify.com/track/7E3YyD6mxgpEXjeXAEvU5E"
     },
     {
       "added_at": "2026-05-29 03:58:36",
@@ -967,6 +951,22 @@
       "duration_ms": 416493,
       "name": "Stories",
       "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
+    },
+    {
+      "added_at": "2026-05-29 03:58:36",
+      "album": {
+        "name": "ISIGQI (live at the bird's eye)",
+        "url": "https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM"
+      },
+      "artists": [
+        {
+          "name": "Sibusiso Mash Mashiloane",
+          "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
+        }
+      ],
+      "duration_ms": 440654,
+      "name": "Kwandebele (Live)",
+      "url": "https://open.spotify.com/track/7E3YyD6mxgpEXjeXAEvU5E"
     },
     {
       "added_at": "2026-05-29 03:58:36",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-05-29 03:58:36",
       "album": {
-        "name": "IZIBONGO",
-        "url": "https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg"
-      },
-      "artists": [
-        {
-          "name": "Sibusiso Mash Mashiloane",
-          "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
-        }
-      ],
-      "duration_ms": 412966,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ"
-    },
-    {
-      "added_at": "2026-05-29 03:58:36",
-      "album": {
         "name": "People of the South",
         "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 345520,
       "name": "People of the South",
       "url": "https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu"
+    },
+    {
+      "added_at": "2026-05-29 03:58:36",
+      "album": {
+        "name": "IZIBONGO",
+        "url": "https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg"
+      },
+      "artists": [
+        {
+          "name": "Sibusiso Mash Mashiloane",
+          "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
+        }
+      ],
+      "duration_ms": 412966,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ"
     },
     {
       "added_at": "2026-05-29 03:58:36",

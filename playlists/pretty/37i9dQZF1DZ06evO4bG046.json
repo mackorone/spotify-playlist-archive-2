@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 36585,
+  "num_followers": 36587,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAACq0q5MM0NwgXb6DFBJ/MmI",
+  "snapshot_id": "aiYGAAAAAACWSX9WPW36SFkkQ0Ul+uxc",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Jaivas",
-        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 249186,
-      "name": "Un Mar de Gente",
-      "url": "https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aconcagua",
         "url": "https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 209800,
       "name": "Debajo de las Higueras",
       "url": "https://open.spotify.com/track/7ukGH5jqrIyuTxyF8vXIvG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 249186,
+      "name": "Un Mar de Gente",
+      "url": "https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hijos de la Tierra",
-        "url": "https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "En el Tren a Paisand\u00fa",
-      "url": "https://open.spotify.com/track/08EO6H3uRCjmHkLlPPjP4o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aconcagua",
         "url": "https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 586893,
       "name": "Corre Que Te Pillo",
       "url": "https://open.spotify.com/track/7ynwdIuc9g4jjw0blnVnVB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 270200,
+      "name": "En el Tren a Paisand\u00fa",
+      "url": "https://open.spotify.com/track/08EO6H3uRCjmHkLlPPjP4o"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 225093,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/32R26AXFfke6v6eSEive5q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canci\u00f3n del Sur",
         "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 179015,
       "name": "Bebida M\u00e1gica",
       "url": "https://open.spotify.com/track/2LBpm2M9rwdheZz6mARVfu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 225093,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/32R26AXFfke6v6eSEive5q"
     },
     {
       "added_at": null,

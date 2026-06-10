@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 270909,
+  "num_followers": 270977,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAACrIw4VLO6J8jru2tsHGKoE",
+  "snapshot_id": "aiYGAAAAAAAMFujcyhPdevx3R9LsXnYz",
   "tracks": [
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meridian & Special",
-        "url": "https://open.spotify.com/album/24q33NVA8s2wYs3BKdA7jT"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/3JxIovCFZgnQHnZsTTISvH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zero Tolerance",
         "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 243883,
       "name": "Incredible Sauce (feat. Dave)",
       "url": "https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meridian & Special",
+        "url": "https://open.spotify.com/album/24q33NVA8s2wYs3BKdA7jT"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/3JxIovCFZgnQHnZsTTISvH"
     },
     {
       "added_at": null,

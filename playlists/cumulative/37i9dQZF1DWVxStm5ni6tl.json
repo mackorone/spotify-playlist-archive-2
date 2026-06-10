@@ -55039,6 +55039,24 @@
     },
     {
       "album": {
+        "name": "wildwoman",
+        "url": "https://open.spotify.com/album/7d35YxSTVYHMTOuUlXRWJe"
+      },
+      "artists": [
+        {
+          "name": "VIBI",
+          "url": "https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "wildwoman",
+      "url": "https://open.spotify.com/track/3nmHojsXc76NvGmpGsNGmi"
+    },
+    {
+      "album": {
         "name": "will I ever learn?",
         "url": "https://open.spotify.com/album/0745bhZuFMgOEWW71jm8FF"
       },

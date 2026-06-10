@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: CeCe Winans
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,636,221 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,636,504 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 89 | [Just That Good](https://open.spotify.com/track/53fIGsvNyKO15Huu3nFnsK) | [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Come To Jesus](https://open.spotify.com/album/29PYVen9YZ7QjjQoYQ6rze) | 3:44 |
 | 90 | [All This In A Name](https://open.spotify.com/track/60V25Kw5kvRayqtpwDtng5) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [I've Got A Fire](https://open.spotify.com/album/1TQQSpRadfiF6FUBEv9HOe) | 4:26 |
 | 91 | [O God Would You Move / Awake My Soul](https://open.spotify.com/track/2x8yzGlhIWnCQRcO8h8YKJ) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Rich & Lydia Dicas](https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY), [Marie Welch](https://open.spotify.com/artist/57hkwgTr1hoISQpKpXfThE) | [Send The Fire: Live From London](https://open.spotify.com/album/6w4bFrC2X53TxpflpRI2SE) | 11:19 |
-| 92 | [Even Though I Walk \- Live At Church](https://open.spotify.com/track/4gcWgDaQTIbFt1jvI7z1qR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [We Must Respond \(Deluxe\) \[Live\]](https://open.spotify.com/album/1ntjRgamsV6LiEStmovy3Y) | 6:59 |
+| 92 | [Even Though I Walk \- Live At Church](https://open.spotify.com/track/4gcWgDaQTIbFt1jvI7z1qR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [We Must Respond \(Deluxe\) \[Live\]](https://open.spotify.com/album/1ntjRgamsV6LiEStmovy3Y) | 6:59 |
 | 93 | [Rain Down \(Feat\. Sampha\)](https://open.spotify.com/track/41QBVReXFSAIXWnyChAJCH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Son Of Spergy](https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ) | 3:07 |
 | 94 | [Always Been You \(with Anike\) \- Live](https://open.spotify.com/track/43HieN3qrUrZUgAsyhFTDM) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 6:01 |
 | 95 | [Able](https://open.spotify.com/track/05Qb46jhgjlxjbQQQvCpFQ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Able](https://open.spotify.com/album/5huA7FbW7RWr0lXR9dC7Dx) | 2:53 |

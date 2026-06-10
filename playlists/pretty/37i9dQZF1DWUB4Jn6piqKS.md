@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,619 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,633 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 10 | [You Hit Me \(Right Where It Hurt Me\)](https://open.spotify.com/track/29sYUkRdoK9ZRnZUNxCeoy) | [Alice Clark](https://open.spotify.com/artist/6gI51znwsOPQecFnIW7bkh) | [Northern Soul \- 75 Original Classic Tracks](https://open.spotify.com/album/6GIiGXPeaHoT9NII1Fbsdv) | 2:53 |
 | 11 | [Band Of Gold \(Single Mix\)](https://open.spotify.com/track/4o7pdbMDw6XwfXZFCZDoUH) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [Band Of Gold](https://open.spotify.com/album/5m1858fUPOsdHRYHIihBB0) | 2:58 |
 | 12 | [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 |
-| 13 | [The Snake](https://open.spotify.com/track/338Sl7svvkz6ihfAYn1kvI) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [The Snake](https://open.spotify.com/album/0jrvi8BZ1v5TBximaRfGzL) | 3:29 |
-| 14 | [Hold Back the Night](https://open.spotify.com/track/2Jok6fkKmcP7Lp7XLzQ1wj) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 3:44 |
+| 13 | [Hold Back the Night](https://open.spotify.com/track/2Jok6fkKmcP7Lp7XLzQ1wj) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 3:44 |
+| 14 | [The Snake](https://open.spotify.com/track/338Sl7svvkz6ihfAYn1kvI) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [The Snake](https://open.spotify.com/album/0jrvi8BZ1v5TBximaRfGzL) | 3:29 |
 | 15 | [Give Me Just A Little More Time](https://open.spotify.com/track/6qbtTps7ZebLrWtqtu1joj) | [Chairmen Of The Board](https://open.spotify.com/artist/69g2TelswPN1IiFDKvaoSL) | [Soul Agenda](https://open.spotify.com/album/3bsK8mvliXMvVPPiMgeIYq) | 2:40 |
 | 16 | [Sliced Tomatoes](https://open.spotify.com/track/4AxrlOlmlKducWdz18bLYB) | [Just Brothers](https://open.spotify.com/artist/5qTJU3YBzlGmOSrSHL4EVK) | [Sliced Tomatoes \- EP](https://open.spotify.com/album/0mzfKEd3lpMnI9Y3I0Os5m) | 2:22 |
 | 17 | [Who Do You Love](https://open.spotify.com/track/6kR2BCzArduYNuJdtezM8L) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [Best Of The Sapphires](https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q) | 2:39 |
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 35 | [Ordinary Joe](https://open.spotify.com/track/6AkGkimvrVzVe8Btgy0FRL) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [Occasional Rain](https://open.spotify.com/album/1dgEMGLSJTJgJRQX0kFxb9) | 4:13 |
 | 36 | [You're Gonna Make Me Love You](https://open.spotify.com/track/6BB7Ubl0MlFmvMcJu7dNl0) | [Sandi Sheldon](https://open.spotify.com/artist/5h7BKJSdnYnC7ciVgs3Mp0) | [Right Track \- Best Of Okeh Northern Soul](https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql) | 2:55 |
 | 37 | [Love, Love, Love](https://open.spotify.com/track/5WMhpLRaMoH863aVSowcPG) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 3:02 |
-| 38 | [You're Ready Now](https://open.spotify.com/track/7lk6vvcetCT6RcTndNpKj8) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Solo](https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb) | 2:18 |
-| 39 | [Get Ready](https://open.spotify.com/track/2Kxh6HuGxouqloIspfjGP1) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella](https://open.spotify.com/album/1gIOAaCU8xAxXqxpVBrvK7) | 2:34 |
+| 38 | [Get Ready](https://open.spotify.com/track/2Kxh6HuGxouqloIspfjGP1) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella](https://open.spotify.com/album/1gIOAaCU8xAxXqxpVBrvK7) | 2:34 |
+| 39 | [You're Ready Now](https://open.spotify.com/track/7lk6vvcetCT6RcTndNpKj8) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Solo](https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb) | 2:18 |
 | 40 | [Time](https://open.spotify.com/track/6uOEOFItvADPCgiAKGPr4s) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 2:54 |
-| 41 | [Time Will Pass You By](https://open.spotify.com/track/4N4syZY2CN82yUh8BlNT3L) | [Tobi Legend](https://open.spotify.com/artist/6eq5SerOImK3d0a6HNQPOC) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 3:05 |
-| 42 | [Better Use Your Head](https://open.spotify.com/track/1XGHVTHZ5JwPSIkyA4naB3) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:53 |
+| 41 | [Better Use Your Head](https://open.spotify.com/track/1XGHVTHZ5JwPSIkyA4naB3) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:53 |
+| 42 | [Time Will Pass You By](https://open.spotify.com/track/4N4syZY2CN82yUh8BlNT3L) | [Tobi Legend](https://open.spotify.com/artist/6eq5SerOImK3d0a6HNQPOC) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 3:05 |
 | 43 | [Dance Dance Dance \- Mono](https://open.spotify.com/track/7iuAY5WizVCVyuIu5RfNGL) | [The Casualeers](https://open.spotify.com/artist/47EA8efzXvcP3prDhNdRgh) | [The Roulette Story](https://open.spotify.com/album/6KRBqK0UvfDCATk8ORdC73) | 2:41 |
 | 44 | [Moonlight Music and You](https://open.spotify.com/track/162C3OWfP2OKiE4CqcLQdy) | [Laura Greene](https://open.spotify.com/artist/1b0erhYz7WbxMOCbyQJYwb) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 2:30 |
 | 45 | [I Can't Help Lovin' You](https://open.spotify.com/track/4DOWrtJ31Ewt2rLQCtLF1D) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:36 |

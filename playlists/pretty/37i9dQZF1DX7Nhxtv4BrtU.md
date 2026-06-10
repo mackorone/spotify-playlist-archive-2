@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Nhxtv4BrtU.md) - [plain]
 
 > Get ready for the upcoming festival by listening to the best songs from the festival lineup! \(페스티벌 참가 라인업의 베스트 곡들을 들으며 다가오는 페스티벌을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 231 likes - 70 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 240 likes - 70 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Nhxtv4BrtU.md) - [plain]
 | 69 | [K\-Express](https://open.spotify.com/track/6xjPmCNRpJ9jC447Lr7Zke) | [Joon Kwak](https://open.spotify.com/artist/74xq0PgC9eHKZ77VjhflW5) | [K\-Express](https://open.spotify.com/album/4YHP9YaXoNcVHWzgbUHmn5) | 6:30 |
 | 70 | [Drowner's Highway](https://open.spotify.com/track/5dEud8FyDajlMflLcslmYT) | [Joon Kwak](https://open.spotify.com/artist/74xq0PgC9eHKZ77VjhflW5), [Jorengthericecake](https://open.spotify.com/artist/7Dg0lC9TZV4xYQ1et6zNSN) | [K\-Express](https://open.spotify.com/album/4YHP9YaXoNcVHWzgbUHmn5) | 7:19 |
 
-Snapshot ID: `AAAAAOtlNpCTu3JWTsVkIxzQvO+FdJFq`
+Snapshot ID: `AAAAALtXbM0OAt5p7IbJ1j2IFBH5OOWg`

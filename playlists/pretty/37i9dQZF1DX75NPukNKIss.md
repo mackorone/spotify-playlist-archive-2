@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 
 > Way 2 Slizzy\. Cover: 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,666 likes - 110 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,696 likes - 110 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 | 36 | [Sunday](https://open.spotify.com/track/2WVt8kpHSmldTufFnA2m3B) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [Sunday](https://open.spotify.com/album/7kcVgPWrS6twn9s8GbbtZA) | 1:53 |
 | 37 | [PROGRESSION](https://open.spotify.com/track/5gPOvRTZlGvva5RkZIGIuO) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [PROGRESSION](https://open.spotify.com/album/1yIUDCF985oPjob0CBcSeZ) | 2:34 |
 | 38 | [Billie Jean](https://open.spotify.com/track/3Kz373RINbFfB4Rvth18hs) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Billie Jean](https://open.spotify.com/album/1g2qspriqd79KOJOYjw6GB) | 2:40 |
-| 39 | [Dunk Contest](https://open.spotify.com/track/4GP9jcPbHlpu9v1lezfi8V) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Dunk Contest](https://open.spotify.com/album/3b9qtBH7FdyWcTSHS0ThdF) | 3:16 |
+| 39 | [dunk contest](https://open.spotify.com/track/4GP9jcPbHlpu9v1lezfi8V) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Dunk Contest](https://open.spotify.com/album/3b9qtBH7FdyWcTSHS0ThdF) | 3:16 |
 | 40 | [ATTITUDE \(FEAT\. CHARLIE WILSON & CASH COBAIN\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 |
 | 41 | [Calling For You \(feat\. 21 Savage\)](https://open.spotify.com/track/2nibvvDdAQkVraYP00z2RS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:45 |
 | 42 | [WHAT'S THE WORD](https://open.spotify.com/track/4hfl3p9kFftWFy2BG1fCsE) | [SLIZZY ENT](https://open.spotify.com/artist/5uKNhhqqDiqLjmZwOi8s4B), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Payroll](https://open.spotify.com/artist/7yzcsplXURYcG1Luakmkqy) | [SLIZZY POPE PRESENTS: SLIZZGIVING](https://open.spotify.com/album/1QM4YHDm72UD1QkoZMoN6s) | 2:19 |
 | 43 | [Murda](https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Murda](https://open.spotify.com/album/61HXHoLc5tFcNufvi62ESk) | 2:01 |
-| 44 | [Rump Punch](https://open.spotify.com/track/2jqISPQZfkZbcbQiVbUUAO) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Rump Punch](https://open.spotify.com/album/7oDtnVBRHE48kEcQp1AvVe) | 2:03 |
+| 44 | [rump punch](https://open.spotify.com/track/2jqISPQZfkZbcbQiVbUUAO) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Rump Punch](https://open.spotify.com/album/7oDtnVBRHE48kEcQp1AvVe) | 2:03 |
 | 45 | [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 46 | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ) | 2:59 |
 | 47 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 |

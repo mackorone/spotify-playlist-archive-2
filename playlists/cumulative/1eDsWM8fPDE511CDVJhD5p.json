@@ -584,7 +584,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 176551,
       "name": "Brilliance",
       "url": "https://open.spotify.com/track/0RbZ19kYLUBOSJZlFWXjFC"
@@ -2127,6 +2127,28 @@
     },
     {
       "album": {
+        "name": "Letters from Vladivostok",
+        "url": "https://open.spotify.com/album/12YeXvejG2DoL5zdoxVjhy"
+      },
+      "artists": [
+        {
+          "name": "Lucevitous, MiliSen",
+          "url": "https://open.spotify.com/artist/3JaAhPOtZ9pnvviFuacm3I"
+        },
+        {
+          "name": "Miyamai Moca",
+          "url": "https://open.spotify.com/artist/76yTxMPtgbePrcsZxTkY82"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278641,
+      "name": "Letters from Vladivostok (feat. \u5bae\u821e\u30e2\u30ab&\u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/2yNd85wpRBr4f61t2fXnWE"
+    },
+    {
+      "album": {
         "name": "LiFE",
         "url": "https://open.spotify.com/album/4JqqFjI8YNmMti791MuSVY"
       },
@@ -3329,6 +3351,28 @@
     },
     {
       "album": {
+        "name": "Sepia",
+        "url": "https://open.spotify.com/album/0Gx7KMVkAYJdseHbRk56cQ"
+      },
+      "artists": [
+        {
+          "name": "kr-KuuRa",
+          "url": "https://open.spotify.com/artist/4ff1NLLTNDkr4f4UfrzWIl"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241428,
+      "name": "Sepia (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/38WRxYTCuoPIIqpDfKVqLQ"
+    },
+    {
+      "album": {
         "name": "Prhythmatic4",
         "url": "https://open.spotify.com/album/4Am9aiTAIiNA6JZa3aA5Ur"
       },
@@ -3344,7 +3388,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 191500,
       "name": "Sharari (feat. Hatsune Miku)",
       "url": "https://open.spotify.com/track/2N55neUwaP07U3TMUHi6Gg"
@@ -4974,7 +5018,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 170999,
       "name": "\u307e\u3076\u3057\u3044 (feat. MEIKO)",
       "url": "https://open.spotify.com/track/7EPgtK6p677CX46eifRY2P"
@@ -5809,6 +5853,28 @@
     },
     {
       "album": {
+        "name": "\u30af\u30e9\u30c3\u30af\u30e9\u30c3\u30ab",
+        "url": "https://open.spotify.com/album/4PGYGH2b5lrhdVaZ60EOr6"
+      },
+      "artists": [
+        {
+          "name": "\u304d\u3055\u3089",
+          "url": "https://open.spotify.com/artist/6UBD36BDxz7W53HaZcK4yT"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "\u30af\u30e9\u30c3\u30af\u30e9\u30c3\u30ab (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5PX2xzaqe1q6dtaNjCtJcx"
+    },
+    {
+      "album": {
         "name": "\u30af\u30ea\u30fc\u30c1\u30e3\u30fc",
         "url": "https://open.spotify.com/album/6h9h5gM5oWAIezyeKaiQVr"
       },
@@ -6425,6 +6491,28 @@
     },
     {
       "album": {
+        "name": "turning.",
+        "url": "https://open.spotify.com/album/6KD1YrKTVOpaiiTB3moI9q"
+      },
+      "artists": [
+        {
+          "name": "\u6674\u3044\u3061\u3070\u3093",
+          "url": "https://open.spotify.com/artist/6d739FHu1QAC7MGNWuMPCW"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222250,
+      "name": "\u30bf\u30fc\u30cb\u30f3\u30b0 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2VWxYskjevvJF87bqqnkm5"
+    },
+    {
+      "album": {
         "name": "\u30c0\u30a4\u30b8\u30e7\u30d6\u3067\u3059\u304b\uff1f",
         "url": "https://open.spotify.com/album/6aAtGPnSw6HqgwV8wxsdeq"
       },
@@ -6798,7 +6886,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 238588,
       "name": "\u30cf\u30c3\u30d4\u30fc\u30ad\u30e9\u30fc (feat. AIsuu)",
       "url": "https://open.spotify.com/track/5QiECogilbpQMr0AER9pwD"
@@ -8656,7 +8744,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 210666,
       "name": "\u5de1\u308b (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/4J0bc5YEb0N3TSGsxIIsif"
@@ -9324,6 +9412,28 @@
       "duration_ms": 219589,
       "name": "\u795e\u98a8",
       "url": "https://open.spotify.com/track/6kaOsnKt6ki85gLXtywYR0"
+    },
+    {
+      "album": {
+        "name": "\u6b63\u7fa9\u5171\u9cf4 EP",
+        "url": "https://open.spotify.com/album/2YwRgsBQHQq0Y9gBhkvXwv"
+      },
+      "artists": [
+        {
+          "name": "Adomiori",
+          "url": "https://open.spotify.com/artist/4GCCMFsEYjm4th48sLCGrZ"
+        },
+        {
+          "name": "\u97f3\u8857\u30a6\u30ca",
+          "url": "https://open.spotify.com/artist/3vx4KtiD9ciUsGOamm2ZcA"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148548,
+      "name": "\u7a7a\u5a01\u5f35 (feat. \u97f3\u8857\u30a6\u30ca)",
+      "url": "https://open.spotify.com/track/2EPgFSNaxPBuGTTON9p5TV"
     },
     {
       "album": {

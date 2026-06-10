@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerővel ezeket a kíváló női előadókat\. A lejátszási listát részben Blansch készítette
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,418 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,419 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 64 | [Leöntjük sörrel](https://open.spotify.com/track/3wQy8eds5WVxj03uZSo5l4) | [Zsüd](https://open.spotify.com/artist/0FudzuU6qWqcT7CUbKbVWZ) | [A húsom, az marad](https://open.spotify.com/album/5p50fuxZsscptZf1QEda8e) | 2:37 |
 | 65 | [Elhiszem](https://open.spotify.com/track/42LcUZXqHYifuVl2uuxr8s) | [Becca](https://open.spotify.com/artist/2Xa7I3wRVTjpfPJE9nDvhC) | [Elhiszem](https://open.spotify.com/album/09WxVHRldGdDHmU7EMPxKQ) | 2:39 |
 
-Snapshot ID: `AAAAAGuGInBjFxS2zEz7pduqB6vSaePj`
+Snapshot ID: `AAAAAMKX9RLRkXbTUM0aqIyf0cps+khW`

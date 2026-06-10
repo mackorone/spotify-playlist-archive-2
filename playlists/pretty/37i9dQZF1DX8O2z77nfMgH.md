@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,993 likes - 68 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,842 likes - 68 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

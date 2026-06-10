@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:7nmNPZucUmo9x6Mh5llOoZ">Guest Julka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,518 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,537 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Malutki Kurs](https://open.spotify.com/track/0V9PI6bfJRWVXVQjSfe5N0) | [Ta Malutka](https://open.spotify.com/artist/26FbAbNbTz8cKQveTYSYNe) | [Malutki Kurs](https://open.spotify.com/album/0eBl8MsPHakmAjOK4NDMm9) | 3:00 |
 | 50 | [Musisz Dać Mi Czas](https://open.spotify.com/track/0XgUVLgmWMTtbZBAdqcBGF) | [NIKI ZEY](https://open.spotify.com/artist/0EbXnNYpjhTmDdvlgAa175) | [Musisz Dać Mi Czas](https://open.spotify.com/album/4SEuYe98soP5QDr9UaYqOa) | 3:00 |
 
-Snapshot ID: `AAAAANgrt2qPlLou3HsD+DI0EJ0zL/z2`
+Snapshot ID: `AAAAAAPIU43lPpoUf7+DtTCbT+ryzj0Z`

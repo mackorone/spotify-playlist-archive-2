@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 278807,
+  "num_followers": 278859,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-05-29 03:00:13",
       "album": {
-        "name": "Ataraxia",
-        "url": "https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk"
-      },
-      "artists": [
-        {
-          "name": "Emma dos Santos",
-          "url": "https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp"
-        }
-      ],
-      "duration_ms": 183656,
-      "name": "Ataraxia",
-      "url": "https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP"
-    },
-    {
-      "added_at": "2026-05-29 03:00:13",
-      "album": {
         "name": "Estado Febril",
         "url": "https://open.spotify.com/album/7DTS7m1xp1PFlOQwZ0HLyd"
       },
@@ -311,18 +295,18 @@
     {
       "added_at": "2026-05-29 03:00:13",
       "album": {
-        "name": "Joao",
-        "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
+        "name": "Ataraxia",
+        "url": "https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+          "name": "Emma dos Santos",
+          "url": "https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Eu Sambo Mesmo",
-      "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
+      "duration_ms": 183656,
+      "name": "Ataraxia",
+      "url": "https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP"
     },
     {
       "added_at": "2026-05-29 03:00:13",
@@ -343,6 +327,22 @@
       "duration_ms": 264000,
       "name": "Isabel Tchau",
       "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
+    },
+    {
+      "added_at": "2026-05-29 03:00:13",
+      "album": {
+        "name": "Joao",
+        "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Eu Sambo Mesmo",
+      "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
     },
     {
       "added_at": "2026-05-29 03:00:13",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-05-29 03:00:13",
       "album": {
-        "name": "Ins\u00f4nia",
-        "url": "https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ"
-      },
-      "artists": [
-        {
-          "name": "Davide Sosa",
-          "url": "https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4"
-        }
-      ],
-      "duration_ms": 196179,
-      "name": "Bela Mo\u00e7a",
-      "url": "https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6"
-    },
-    {
-      "added_at": "2026-05-29 03:00:13",
-      "album": {
         "name": "Sorte!",
         "url": "https://open.spotify.com/album/3A5DErmYfP8WBBPcUa08sw"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 291729,
       "name": "Sorte!",
       "url": "https://open.spotify.com/track/7IMxp7JxSPZxnodd8qpaeA"
+    },
+    {
+      "added_at": "2026-05-29 03:00:13",
+      "album": {
+        "name": "Ins\u00f4nia",
+        "url": "https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ"
+      },
+      "artists": [
+        {
+          "name": "Davide Sosa",
+          "url": "https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4"
+        }
+      ],
+      "duration_ms": 196179,
+      "name": "Bela Mo\u00e7a",
+      "url": "https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6"
     },
     {
       "added_at": "2026-05-29 03:00:13",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-05-29 03:00:13",
       "album": {
+        "name": "Navegante - Dudu Sperb Recebe Guinga",
+        "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
+      },
+      "artists": [
+        {
+          "name": "Guinga",
+          "url": "https://open.spotify.com/artist/5eTFGhsuJJrmwAF2ttmgOl"
+        },
+        {
+          "name": "Dudu Sperb",
+          "url": "https://open.spotify.com/artist/4jYtPDKiCaUGHZWwua1uSf"
+        }
+      ],
+      "duration_ms": 285613,
+      "name": "Choro Pro Z\u00e9",
+      "url": "https://open.spotify.com/track/3OXUEy3N0ZsQKcxy5x1VwG"
+    },
+    {
+      "added_at": "2026-05-29 03:00:13",
+      "album": {
         "name": "Quase Mem\u00f3ria",
         "url": "https://open.spotify.com/album/2uOXIfvOEPPvSdCqoKAiu6"
       },
@@ -811,26 +831,6 @@
     {
       "added_at": "2026-05-29 03:00:13",
       "album": {
-        "name": "Navegante - Dudu Sperb Recebe Guinga",
-        "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
-      },
-      "artists": [
-        {
-          "name": "Guinga",
-          "url": "https://open.spotify.com/artist/5eTFGhsuJJrmwAF2ttmgOl"
-        },
-        {
-          "name": "Dudu Sperb",
-          "url": "https://open.spotify.com/artist/4jYtPDKiCaUGHZWwua1uSf"
-        }
-      ],
-      "duration_ms": 285613,
-      "name": "Choro Pro Z\u00e9",
-      "url": "https://open.spotify.com/track/3OXUEy3N0ZsQKcxy5x1VwG"
-    },
-    {
-      "added_at": "2026-05-29 03:00:13",
-      "album": {
         "name": "Saudades de Amanh\u00e3",
         "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 275370,
       "name": "Perto do Tom",
       "url": "https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d"
-    },
-    {
-      "added_at": "2026-05-29 03:00:13",
-      "album": {
-        "name": "Mano Que Zuera",
-        "url": "https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        }
-      ],
-      "duration_ms": 270386,
-      "name": "Duro Na Queda",
-      "url": "https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l"
     },
     {
       "added_at": "2026-05-29 03:00:13",
@@ -883,6 +867,22 @@
       "duration_ms": 222496,
       "name": "entre o mar e o c\u00e9u",
       "url": "https://open.spotify.com/track/2O1OdpqavDnaN8it2x2JuX"
+    },
+    {
+      "added_at": "2026-05-29 03:00:13",
+      "album": {
+        "name": "Mano Que Zuera",
+        "url": "https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        }
+      ],
+      "duration_ms": 270386,
+      "name": "Duro Na Queda",
+      "url": "https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l"
     },
     {
       "added_at": "2026-05-29 03:00:13",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-05-29 03:00:13",
       "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
-      },
-      "artists": [
-        {
-          "name": "Francis Hime",
-          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Samba Dolente",
-      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
-    },
-    {
-      "added_at": "2026-05-29 03:00:13",
-      "album": {
         "name": "Falando de Amor",
         "url": "https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2026-05-29 03:00:13",
       "album": {
-        "name": "Garoa",
-        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
       },
       "artists": [
         {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+          "name": "Francis Hime",
+          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Voa",
-      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
+      "duration_ms": 234973,
+      "name": "Samba Dolente",
+      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
     },
     {
       "added_at": "2026-05-29 03:00:13",
@@ -1027,6 +1011,22 @@
       "duration_ms": 101793,
       "name": "Bim Bom",
       "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
+    },
+    {
+      "added_at": "2026-05-29 03:00:13",
+      "album": {
+        "name": "Garoa",
+        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Voa",
+      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
     },
     {
       "added_at": "2026-05-29 03:00:13",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-05-29 03:00:13",
       "album": {
-        "name": "Liberdade, vai",
-        "url": "https://open.spotify.com/album/0HEorW4B4JO0yshM6GELJI"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "Liberdade, vai",
-      "url": "https://open.spotify.com/track/2Z93y59jbxTClqyRfihbaX"
-    },
-    {
-      "added_at": "2026-05-29 03:00:13",
-      "album": {
         "name": "Autoral",
         "url": "https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 240458,
       "name": "Cris",
       "url": "https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU"
+    },
+    {
+      "added_at": "2026-05-29 03:00:13",
+      "album": {
+        "name": "Liberdade, vai",
+        "url": "https://open.spotify.com/album/0HEorW4B4JO0yshM6GELJI"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Liberdade, vai",
+      "url": "https://open.spotify.com/track/2Z93y59jbxTClqyRfihbaX"
     },
     {
       "added_at": "2026-05-29 03:00:13",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2026-05-29 03:00:13",
       "album": {
+        "name": "O Mundo Livre de Menesca & Peranzza",
+        "url": "https://open.spotify.com/album/61LlrDlnAnoNy3CpLC5oFB"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Gilson Peranzzetta",
+          "url": "https://open.spotify.com/artist/3sXiozVfzUa8NLisEvzJZm"
+        }
+      ],
+      "duration_ms": 188044,
+      "name": "Samba Imposs\u00edvel",
+      "url": "https://open.spotify.com/track/7d9k8coOOz9Q91b27cYgIt"
+    },
+    {
+      "added_at": "2026-05-29 03:00:13",
+      "album": {
         "name": "Garra",
         "url": "https://open.spotify.com/album/1CiGUeRx6a1yAvLwB0l3w2"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 228781,
       "name": "Garra - Ao vivo",
       "url": "https://open.spotify.com/track/2sc5q8Zd8kpvJ3hAJJmBwG"
-    },
-    {
-      "added_at": "2026-05-29 03:00:13",
-      "album": {
-        "name": "O Mundo Livre de Menesca & Peranzza",
-        "url": "https://open.spotify.com/album/61LlrDlnAnoNy3CpLC5oFB"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Gilson Peranzzetta",
-          "url": "https://open.spotify.com/artist/3sXiozVfzUa8NLisEvzJZm"
-        }
-      ],
-      "duration_ms": 188044,
-      "name": "Samba Imposs\u00edvel",
-      "url": "https://open.spotify.com/track/7d9k8coOOz9Q91b27cYgIt"
     },
     {
       "added_at": "2026-05-29 03:00:13",

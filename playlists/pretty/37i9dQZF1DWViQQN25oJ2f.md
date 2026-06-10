@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViQQN25oJ2f.md) - [plain]
 
 > From basements to a global audience, emo and pop punk have evolved over the last two decades\. Different sounds, same feelings\. Cover: Fall Out Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,755 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,840 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 249911,
+  "num_followers": 249934,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAAC70nQordhzAJODy/TEAtS0",
+  "snapshot_id": "aiYGAAAAAAD0dcqp4CsPUq5HWOzT7wV7",
   "tracks": [
     {
       "added_at": null,
@@ -203,18 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendito Vicio",
-        "url": "https://open.spotify.com/album/01IslxV0ythFtzyAhQsWRQ"
+        "name": "Marcri\u00e1",
+        "url": "https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI"
       },
       "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 271285,
-      "name": "Bendito Vicio",
-      "url": "https://open.spotify.com/track/03pzxEy3IkfZgYRWKRTOT3"
+      "duration_ms": 256750,
+      "name": "dame la verde",
+      "url": "https://open.spotify.com/track/5GjGjRKsnqpc9buR6Yhezg"
     },
     {
       "added_at": null,
@@ -235,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bendito Vicio",
+        "url": "https://open.spotify.com/album/01IslxV0ythFtzyAhQsWRQ"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 271285,
+      "name": "Bendito Vicio",
+      "url": "https://open.spotify.com/track/03pzxEy3IkfZgYRWKRTOT3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D\u00e9jame Entrar",
         "url": "https://open.spotify.com/album/256bVkeTRjNNDaZL1hOtUV"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 250347,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/46kTKtI83CZZfGadbVe9Cu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marcri\u00e1",
-        "url": "https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        },
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 256750,
-      "name": "dame la verde",
-      "url": "https://open.spotify.com/track/5GjGjRKsnqpc9buR6Yhezg"
     },
     {
       "added_at": null,

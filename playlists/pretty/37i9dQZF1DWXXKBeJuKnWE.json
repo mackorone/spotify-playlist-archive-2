@@ -1,6 +1,6 @@
 {
   "description": "The home of heavy music. Cover: Converge",
-  "num_followers": 492308,
+  "num_followers": 492277,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 212577,
+      "name": "infinite source",
+      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
         "name": "End of You",
         "url": "https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 192800,
       "name": "End of You",
       "url": "https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
-        "name": "private music",
-        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 212577,
-      "name": "infinite source",
-      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/19T9dCuDC2IumQmi6OB1xa"
-      },
-      "artists": [
-        {
-          "name": "Catch Your Breath",
-          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
-        }
-      ],
-      "duration_ms": 182282,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/0Api4AdCfRrGYhj8AeSjNp"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 146933,
       "name": "BIRDS",
       "url": "https://open.spotify.com/track/0kshHISCRGn9MwpkbqafG4"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/19T9dCuDC2IumQmi6OB1xa"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "duration_ms": 182282,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/0Api4AdCfRrGYhj8AeSjNp"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
+        "name": "Armour Of Angels",
+        "url": "https://open.spotify.com/album/4ZEtAdGoESebTf6Dc1ydhz"
+      },
+      "artists": [
+        {
+          "name": "Guilt Trip",
+          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/04uFtjsSLNbsjenpmnlSK0"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 203521,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 262195,
-      "name": "Like A Woman Can",
-      "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "...hospice",
-        "url": "https://open.spotify.com/album/4b3RL8jcpg4Un9fpHAgxhf"
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
       },
       "artists": [
         {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 253174,
-      "name": "...hospice",
-      "url": "https://open.spotify.com/track/2s8S6JBYD4plEJUkkMzLSW"
+      "duration_ms": 262195,
+      "name": "Like A Woman Can",
+      "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -923,6 +923,38 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
+        "name": "...hospice",
+        "url": "https://open.spotify.com/album/4b3RL8jcpg4Un9fpHAgxhf"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "duration_ms": 253174,
+      "name": "...hospice",
+      "url": "https://open.spotify.com/track/2s8S6JBYD4plEJUkkMzLSW"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "Hum of Hurt",
+        "url": "https://open.spotify.com/album/26mI8fRaaNWASMbfS98L43"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        }
+      ],
+      "duration_ms": 103605,
+      "name": "Slip the Noose",
+      "url": "https://open.spotify.com/track/4a0GY70CJ9hGQzhbDyPnXZ"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
         "name": "SIDE EFFECTS PT.1",
         "url": "https://open.spotify.com/album/64ruOFU72r6CZNm97UVv4K"
       },
@@ -935,22 +967,6 @@
       "duration_ms": 196442,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1vW6LHtAe0wu8uVehErPsQ"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
-        "name": "Armour Of Angels",
-        "url": "https://open.spotify.com/album/4ZEtAdGoESebTf6Dc1ydhz"
-      },
-      "artists": [
-        {
-          "name": "Guilt Trip",
-          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "One By One",
-      "url": "https://open.spotify.com/track/04uFtjsSLNbsjenpmnlSK0"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -987,8 +1003,28 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Hum of Hurt",
-        "url": "https://open.spotify.com/album/26mI8fRaaNWASMbfS98L43"
+        "name": "Fight Like A Girl (feat. K.Flay)",
+        "url": "https://open.spotify.com/album/52PeeLLB6DgLKb01NCXueF"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 186068,
+      "name": "Fight Like A Girl (feat. K.Flay)",
+      "url": "https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "Love Is Not Enough",
+        "url": "https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm"
       },
       "artists": [
         {
@@ -996,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
         }
       ],
-      "duration_ms": 103605,
-      "name": "Slip the Noose",
-      "url": "https://open.spotify.com/track/4a0GY70CJ9hGQzhbDyPnXZ"
+      "duration_ms": 168323,
+      "name": "Bad Faith",
+      "url": "https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1023,22 +1059,18 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Fight Like A Girl (feat. K.Flay)",
-        "url": "https://open.spotify.com/album/52PeeLLB6DgLKb01NCXueF"
+        "name": "STRANGE",
+        "url": "https://open.spotify.com/album/5j6F7bGss7cSTor8mUqjVq"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
         }
       ],
-      "duration_ms": 186068,
-      "name": "Fight Like A Girl (feat. K.Flay)",
-      "url": "https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC"
+      "duration_ms": 227714,
+      "name": "STRANGE",
+      "url": "https://open.spotify.com/track/5UxSMSlSbvCXDJvgVcXaH8"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1059,38 +1091,6 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "STRANGE",
-        "url": "https://open.spotify.com/album/5j6F7bGss7cSTor8mUqjVq"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8RY",
-          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
-        }
-      ],
-      "duration_ms": 227714,
-      "name": "STRANGE",
-      "url": "https://open.spotify.com/track/5UxSMSlSbvCXDJvgVcXaH8"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
-        "name": "Love Is Not Enough",
-        "url": "https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm"
-      },
-      "artists": [
-        {
-          "name": "Converge",
-          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
-        }
-      ],
-      "duration_ms": 168323,
-      "name": "Bad Faith",
-      "url": "https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
         "name": "Bloodlust",
         "url": "https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Theft World",
-        "url": "https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk"
-      },
-      "artists": [
-        {
-          "name": "Lip Critic",
-          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
-        }
-      ],
-      "duration_ms": 182665,
-      "name": "Shoplifting",
-      "url": "https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
         "name": "Somewhere In Between",
         "url": "https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 147253,
       "name": "WEAPON",
       "url": "https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "Theft World",
+        "url": "https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk"
+      },
+      "artists": [
+        {
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+        }
+      ],
+      "duration_ms": 182665,
+      "name": "Shoplifting",
+      "url": "https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/3yN8bG6yNUoPnu3UAnfW4p"
-      },
-      "artists": [
-        {
-          "name": "Split Chain",
-          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
-        }
-      ],
-      "duration_ms": 194536,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/5332V1NVIYcKxW1zftGGWH"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/2s6l3QajuXxeos9tASrNhm"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 269318,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/3yN8bG6yNUoPnu3UAnfW4p"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        }
+      ],
+      "duration_ms": 194536,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/5332V1NVIYcKxW1zftGGWH"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Sepsis",
-        "url": "https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Sepsis",
-      "url": "https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
         "name": "The End",
         "url": "https://open.spotify.com/album/01ZpbrUjs0ia2snQno4WQb"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 246946,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/6pfwu8OzVOuNWLY7aH6fzw"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "Sepsis",
+        "url": "https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Sepsis",
+      "url": "https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Can I Get A",
-        "url": "https://open.spotify.com/album/2Eqf4ijMQbWEw16hp8vGJt"
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V"
       },
       "artists": [
         {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+          "name": "Profiler",
+          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
         }
       ],
-      "duration_ms": 223484,
-      "name": "Can I Get A",
-      "url": "https://open.spotify.com/track/12u8LK8Sb3mY4rVxTtUCZf"
+      "duration_ms": 262784,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/77azOBV68Xo1X7Vy4dHEXU"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V"
+        "name": "Can I Get A",
+        "url": "https://open.spotify.com/album/2Eqf4ijMQbWEw16hp8vGJt"
       },
       "artists": [
         {
-          "name": "Profiler",
-          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 262784,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/77azOBV68Xo1X7Vy4dHEXU"
+      "duration_ms": 223484,
+      "name": "Can I Get A",
+      "url": "https://open.spotify.com/track/12u8LK8Sb3mY4rVxTtUCZf"
     },
     {
       "added_at": "2026-06-08 09:09:19",

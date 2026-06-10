@@ -60,6 +60,24 @@
     {
       "album": {
         "name": "HANA",
+        "url": "https://open.spotify.com/album/2oypv23kc2pJaykM2VCcZb"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253293,
+      "name": "Breaking the Circle",
+      "url": "https://open.spotify.com/track/1ik5kPJV8Xuuck5AZQ33v6"
+    },
+    {
+      "album": {
+        "name": "HANA",
         "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
       },
       "artists": [
@@ -592,7 +610,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 253213,
       "name": "Love Is a Camera",
       "url": "https://open.spotify.com/track/5Lbt7w60bPFzouE6bEWFyL"

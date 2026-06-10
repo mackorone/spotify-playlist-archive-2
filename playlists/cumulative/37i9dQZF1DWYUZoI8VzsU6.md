@@ -4,7 +4,7 @@
 
 > back roads up loud with Treaty Oak Revival and Dexter and the Moonrocks
 
-79 songs - 4 hr 24 min
+81 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Jesus and Joan Jett](https://open.spotify.com/track/0S2e09dlc561hiVKan4sgY) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Jesus and Joan Jett](https://open.spotify.com/album/37ZzP3oNVYJtInVPt24SMl) | 3:01 | 2025-09-05 |  |
 | [John Wayne](https://open.spotify.com/track/4TcpoeAXkbJnXfxvOjJzCy) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/7zQvPIbond03mxCRO4c8zs) | 4:55 | 2025-09-05 |  |
 | [Kill Me](https://open.spotify.com/track/1zpePAy9O9znaLHlGfUmdf) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Love You, Goodnight](https://open.spotify.com/album/76GsHRqy08Ndqkx8Bwlr6K) | 2:43 | 2025-09-05 |  |
+| [Liar Outta Me](https://open.spotify.com/track/1IRmUVvrOgAjAZUdMbcJHE) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Liar Outta Me](https://open.spotify.com/album/6BN7Fn5p7UdbRai6HLClca) | 3:06 | 2026-06-09 |  |
 | [M.I.A](https://open.spotify.com/track/0h45L8tQrb6lwrQHUQovNn) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [M.I.A](https://open.spotify.com/album/1K9hq2qxMtxu1LwJJmqywc) | 3:06 | 2025-09-26 |  |
 | [Make It Look Easy](https://open.spotify.com/track/2g6WCOlZS7mePH81Bxxa9s) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Make It Look Easy](https://open.spotify.com/album/1ylXu63fdiBSoVrdnx6YXE) | 2:33 | 2025-09-05 |  |
 | [MAN OF THE HOUSE](https://open.spotify.com/track/6M4UmX1iHQbfSrwVpawRTV) | [Ryan Jesse](https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl) | [MAN OF THE HOUSE](https://open.spotify.com/album/5AxfEbp8dlywCRCi4pLhhb) | 3:05 | 2026-02-20 |  |
@@ -61,6 +62,7 @@
 | [Pick Your Reason](https://open.spotify.com/track/5NBX2Jy2j9hJN9cxpRQAOh) | [Sterling Elza](https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0) | [Pick Your Reason](https://open.spotify.com/album/6JWfaf3toO5qwap20Of7DY) | 2:40 | 2026-01-16 |  |
 | [Pieces](https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Turn Back Time](https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken) | 3:16 | 2025-09-05 |  |
 | [Power](https://open.spotify.com/track/0laZWY3EU8RYnJf4YnB2Fl) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Power](https://open.spotify.com/album/6ln8iXcLmyu9wJIUq5J7IS) | 2:43 | 2025-09-05 | 2026-02-21 |
+| [Preacher’s Kid](https://open.spotify.com/track/0xhJziFgWiRqV3ihWaXdc0) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Preacher’s Kid](https://open.spotify.com/album/5r5DSgxAIE0yWQjqZT61fo) | 5:02 | 2026-06-09 |  |
 | [PSYCHO](https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:18 | 2025-09-05 |  |
 | [Rabbit Hole](https://open.spotify.com/track/3uvbS1Zckk8ZnHEfYcnDPx) | [Will Slater](https://open.spotify.com/artist/1yxkDgfBfLB58FnsUUexpD) | [Rabbit Hole](https://open.spotify.com/album/0lj6XoHKchGVYWKH6NabCJ) | 4:04 | 2026-05-29 |  |
 | [Rattlesnake Preacher](https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Rattlesnake Preacher](https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj) | 3:55 | 2025-09-05 |  |

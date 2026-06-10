@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs",
-  "num_followers": 1564744,
+  "num_followers": 1564662,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -723,18 +723,26 @@
     {
       "added_at": "2026-06-05 04:01:45",
       "album": {
-        "name": "ADHD 2 Reloaded",
-        "url": "https://open.spotify.com/album/61MEzXrdKxuTvken9N1C7g"
+        "name": "Spiral Staircases",
+        "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"
       },
       "artists": [
         {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 217411,
-      "name": "Reconsider",
-      "url": "https://open.spotify.com/track/68s4qX9mitS8d3u1UY7SDj"
+      "duration_ms": 209600,
+      "name": "Drive Alone",
+      "url": "https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS"
     },
     {
       "added_at": "2026-06-05 04:01:45",
@@ -763,26 +771,18 @@
     {
       "added_at": "2026-06-05 04:01:45",
       "album": {
-        "name": "Spiral Staircases",
-        "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"
+        "name": "ADHD 2 Reloaded",
+        "url": "https://open.spotify.com/album/61MEzXrdKxuTvken9N1C7g"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
         }
       ],
-      "duration_ms": 209600,
-      "name": "Drive Alone",
-      "url": "https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS"
+      "duration_ms": 217411,
+      "name": "Reconsider",
+      "url": "https://open.spotify.com/track/68s4qX9mitS8d3u1UY7SDj"
     },
     {
       "added_at": "2026-06-05 04:01:45",

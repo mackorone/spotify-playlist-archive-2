@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAAA8E+xEbGqWEpjtKxZOPWxO",
+  "snapshot_id": "aiYGAAAAAAAxIK0Y+rwjm5a9vhvc1WYG",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 274366,
+      "name": "Como \u00c1guia",
+      "url": "https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siga em Frente",
         "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
       },
@@ -583,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+        "name": "Jerusal\u00e9m e Eu",
+        "url": "https://open.spotify.com/album/7tuxsnL55xrxw4GjIugQhK"
       },
       "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 274366,
-      "name": "Como \u00c1guia",
-      "url": "https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC"
+      "duration_ms": 313306,
+      "name": "Jerusal\u00e9m e Eu",
+      "url": "https://open.spotify.com/track/6rQ3Z7rzm7XAt620Nqk4lo"
     },
     {
       "added_at": null,
@@ -635,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jerusal\u00e9m e Eu",
-        "url": "https://open.spotify.com/album/7tuxsnL55xrxw4GjIugQhK"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 313306,
-      "name": "Jerusal\u00e9m e Eu",
-      "url": "https://open.spotify.com/track/6rQ3Z7rzm7XAt620Nqk4lo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vento do Esp\u00edrito",
         "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
       },
@@ -667,26 +667,6 @@
       "duration_ms": 254769,
       "name": "Vento do Esp\u00edrito",
       "url": "https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Com Muito Louvor",
-        "url": "https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 321039,
-      "name": "Com Muito Louvor",
-      "url": "https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
       "duration_ms": 338253,
       "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
       "url": "https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 321039,
+      "name": "Com Muito Louvor",
+      "url": "https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8"
     },
     {
       "added_at": null,

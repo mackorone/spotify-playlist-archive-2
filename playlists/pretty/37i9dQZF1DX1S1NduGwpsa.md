@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Sofiane Pamart
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,546 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,558 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 22 | [Bewitched, Bothered, And Bewildered](https://open.spotify.com/track/2iRUGwPlxvbHA96jYN3mEv) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Night Blooms](https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU) | 4:16 |
 | 23 | [Sun Showers](https://open.spotify.com/track/0ZhP7MAHSl4n3UBIjcbyqa) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Sun Showers](https://open.spotify.com/album/4B2Bga4grO8W0wnLxQbfY5) | 3:06 |
 | 24 | [A Plea](https://open.spotify.com/track/6l8bVvHC6p235oK1IIef03) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [Honora](https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM) | 7:38 |
-| 25 | [Eternal Child](https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Eternal Child](https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm) | 5:07 |
+| 25 | [Eternal Child](https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Itay Simhocih](https://open.spotify.com/artist/5Vi3MtvSHAOgsBLuWXuigF), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Eternal Child](https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm) | 5:07 |
 | 26 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 |
 | 27 | [Bagages en Zoot](https://open.spotify.com/track/5mtHHTmsMADB4iQYgBvh1K) | [Noé Codjia](https://open.spotify.com/artist/5wVgCCd9Tjas35KQdNOHlG), [Zoot Big Band](https://open.spotify.com/artist/5Eupc2S2LWYueTTxNJBRIY), [Zoot Collectif](https://open.spotify.com/artist/42J8D311zCRXThjHHo1z90) | [Bagages en Zoot](https://open.spotify.com/album/3CFHHaBTLdfNKBkEu4BiDD) | 5:27 |
 | 28 | [Tour de Manège](https://open.spotify.com/track/7vi5WwJ8dtqhekZLpnhtue) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9), [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [Tour de Manège](https://open.spotify.com/album/4C4CAH43TXHQ5mSAPGhTXi) | 4:38 |

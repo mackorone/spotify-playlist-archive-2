@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > Indiepop in het Nederlands\. Cover: Igor
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,409 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,412 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 18 | [HOE?](https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [HOE?](https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3) | 3:41 |
 | 19 | [Offline](https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Frok en Stien](https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ) | 2:29 |
 | 20 | [Ze Wil](https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [YAYO HARTJE JIMMY](https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v) | 3:09 |
-| 21 | [TIJDSGEEST](https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND 2](https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug) | 3:19 |
+| 21 | [Vliegen](https://open.spotify.com/track/62aJj3DjAJtvU1hri0d27h) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Vliegen](https://open.spotify.com/album/5qKq0ApO977tSmvGzIuH3H) | 2:52 |
 | 22 | [Niks is zeker](https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niks Is zeker](https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb) | 3:01 |
-| 23 | [Vliegen](https://open.spotify.com/track/62aJj3DjAJtvU1hri0d27h) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Vliegen](https://open.spotify.com/album/5qKq0ApO977tSmvGzIuH3H) | 2:52 |
+| 23 | [TIJDSGEEST](https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND 2](https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug) | 3:19 |
 | 24 | [Winterkind](https://open.spotify.com/track/3EAK7oSLalIonAaeiLAYGm) | [Lindi](https://open.spotify.com/artist/5Hvge2fZ3VfkwUhXaXCnpR) | [Winterkind](https://open.spotify.com/album/2zwHRzS6FnqAuMR4NKyE0P) | 2:45 |
 | 25 | [slecht idee \(let’s do it\)](https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [slecht idee \(let’s do it\)](https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t) | 3:11 |
 | 26 | [Vlijmscherp](https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Vlijmscherp](https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb) | 4:31 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 36 | [CONFLICT](https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [GEEN TITEL](https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx) | 2:32 |
 | 37 | [Iedereen](https://open.spotify.com/track/6bmJJv4rw4YvaiXT68Mlxe) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [De zachte krachten](https://open.spotify.com/album/7FbZmatGGAGIkcuAeU5mM9) | 2:52 |
 | 38 | [Bang Dat Ik Spring](https://open.spotify.com/track/7mGEyicqCXj4lvtIq71I8R) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4), [Saartje Van Camp](https://open.spotify.com/artist/4F6ezMqheQX1B8dBFnuJ1s) | [Bang Dat Ik Spring](https://open.spotify.com/album/0Cpxp6XmrxJjmTsb1MJwn2) | 3:06 |
-| 39 | [Was Het Nou Maar Zo](https://open.spotify.com/track/16109XiqzxPp5UrwFTB285) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Was Het Nou Maar Zo](https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada) | 3:14 |
+| 39 | [Was Het Nou Maar Zo](https://open.spotify.com/track/16109XiqzxPp5UrwFTB285) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Was Het Nou Maar Zo \(EP\)](https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada) | 3:14 |
 | 40 | [Apotheek \- SIROJ Version](https://open.spotify.com/track/15BnW7ZSLvXkXzf5MjNpe5) | [SIROJ](https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Versions](https://open.spotify.com/album/3wUueIoejrx9j3nbVqOTA8) | 3:12 |
 | 41 | [Zie mij graag](https://open.spotify.com/track/1pc1xnIszMNn3fg3HJHZA9) | [Bovenste Knoopje Open](https://open.spotify.com/artist/74ZDRWqO6aHeLRjAaugQej), [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Zie mij graag](https://open.spotify.com/album/3LE9BSOO5lfrLq8bw5eZEG) | 4:32 |
 | 42 | [Mommy](https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Mommy](https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU) | 2:54 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 47 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
 | 48 | [Fata Morgana](https://open.spotify.com/track/58bCOr6hgtcNvBSdGViKFQ) | [PAULIEN](https://open.spotify.com/artist/2YjTYpJ0JQB1CZ6P5v2G4b) | [Fata Morgana](https://open.spotify.com/album/3l1nxL3R1vPTsevFUMX97H) | 2:38 |
 | 49 | [Normaal Toen](https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Normaal Toen](https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10) | 3:14 |
-| 50 | [Maskers](https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Maskers](https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO) | 3:21 |
+| 50 | [Kan Je Niet Blijven?](https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Kan Je Niet Blijven?](https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI) | 3:35 |
 
 Snapshot ID: `AAAAABsiNsMpRF8EahXlGFvDW8gwUp1E`

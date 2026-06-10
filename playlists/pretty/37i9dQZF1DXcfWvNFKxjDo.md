@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Marlon Hoffstadt x southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,576 likes - 62 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,579 likes - 62 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

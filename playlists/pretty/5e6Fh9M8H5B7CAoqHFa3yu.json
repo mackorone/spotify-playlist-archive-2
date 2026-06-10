@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 334,
+  "num_followers": 335,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKFNqffEm2TJG49B24REzOiy6WK9x1",
+  "snapshot_id": "AAAKF5RoQKAPj2zovSxlCLQB9htFlbV3",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -40447,6 +40447,58 @@
       "duration_ms": 195000,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/7tNtLGxW11tKE70wB4BWPD"
+    },
+    {
+      "added_at": "2026-06-09 07:16:17",
+      "album": {
+        "name": "\u00bfY d\u00f3nde estabas t\u00fa?",
+        "url": "https://open.spotify.com/album/3mPWjGkzXd8LAxlKt0Z4i6"
+      },
+      "artists": [
+        {
+          "name": "Noelia Malta",
+          "url": "https://open.spotify.com/artist/1B0tklWQ7QFvUo05d5mE3C"
+        }
+      ],
+      "duration_ms": 184390,
+      "name": "\u00bfY d\u00f3nde estabas t\u00fa?",
+      "url": "https://open.spotify.com/track/69FVpltpyAvHeiXHg2BK9C"
+    },
+    {
+      "added_at": "2026-06-09 10:17:31",
+      "album": {
+        "name": "Vivac",
+        "url": "https://open.spotify.com/album/76vrx6BNoe55bzJFuZr8wr"
+      },
+      "artists": [
+        {
+          "name": "Mi Propia Monta\u00f1a",
+          "url": "https://open.spotify.com/artist/5lHjxxL08pdRTTtMk4c777"
+        }
+      ],
+      "duration_ms": 198792,
+      "name": "Cosas Vintage",
+      "url": "https://open.spotify.com/track/31CkeQnDvwBFFRmUnWnfVx"
+    },
+    {
+      "added_at": "2026-06-09 21:25:28",
+      "album": {
+        "name": "Sei",
+        "url": "https://open.spotify.com/album/7DwyP2LG07sgcVcKQ9ECEF"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Isgro'",
+          "url": "https://open.spotify.com/artist/0mkcb7x8JISZOGHV8LdKcW"
+        },
+        {
+          "name": "Marcello Pelo",
+          "url": "https://open.spotify.com/artist/7Ex3l7mokFNNf69K0dJba7"
+        }
+      ],
+      "duration_ms": 278413,
+      "name": "Sei",
+      "url": "https://open.spotify.com/track/5v0WRPhkz1LnrAQc07JLGB"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

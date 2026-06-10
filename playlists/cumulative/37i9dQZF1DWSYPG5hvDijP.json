@@ -2281,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "NMJ (Nayaab Meri Jaan)",
+        "url": "https://open.spotify.com/album/51scw6wC5dTc7IZsOwEof0"
+      },
+      "artists": [
+        {
+          "name": "Nayaab",
+          "url": "https://open.spotify.com/artist/7D0cCYQcYBVEOnBvyy164p"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153190,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/3TUOGEkCzvpHGjLWqE2rvE"
+    },
+    {
+      "album": {
         "name": "All Bout Me",
         "url": "https://open.spotify.com/album/1arumypsUacYzUOyoL7yrv"
       },
@@ -4138,7 +4156,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 144870,
       "name": "Banger",
       "url": "https://open.spotify.com/track/45kx9VdUfAq6nXe8DMcioV"
@@ -6100,7 +6118,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 168000,
       "name": "BOREDOM",
       "url": "https://open.spotify.com/track/2JPnuc8Y9fKsxlhfbIGcoT"
@@ -7914,6 +7932,28 @@
       "duration_ms": 154051,
       "name": "Chemical Love",
       "url": "https://open.spotify.com/track/4Go3q6AE4UBAsD9MqhFBQj"
+    },
+    {
+      "album": {
+        "name": "CNSTNCY",
+        "url": "https://open.spotify.com/album/5KHA0yCtqnwGn4vX5Z9a2T"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        },
+        {
+          "name": "MC R1",
+          "url": "https://open.spotify.com/artist/3eZnEG8qGIlbvHeepWg1oT"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253457,
+      "name": "CHHABI KAR",
+      "url": "https://open.spotify.com/track/5CR4eCVzA93AjtFDzoElBr"
     },
     {
       "album": {
@@ -10293,6 +10333,32 @@
     },
     {
       "album": {
+        "name": "Fckeeri",
+        "url": "https://open.spotify.com/album/62tF0KcNCRpJwnhl5U4FTm"
+      },
+      "artists": [
+        {
+          "name": "Asli GOLD",
+          "url": "https://open.spotify.com/artist/0MDuneb2yM4vkubU0FwDKp"
+        },
+        {
+          "name": "Star Boy Loc",
+          "url": "https://open.spotify.com/artist/3fa7rhEoajjrGyb6a3IAqv"
+        },
+        {
+          "name": "Ravish Khanna",
+          "url": "https://open.spotify.com/artist/33PxISTUOjYQUH3hmo63MT"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201759,
+      "name": "Dilli Boiz",
+      "url": "https://open.spotify.com/track/4FuC2gE3yj0v2EFhmQGfnZ"
+    },
+    {
+      "album": {
         "name": "Dilli Ki Garmi",
         "url": "https://open.spotify.com/album/5MXgkCyksnoAurCMepEEdO"
       },
@@ -12327,6 +12393,24 @@
     },
     {
       "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/1tX20XifdEF85Nh9vk4XWn"
+      },
+      "artists": [
+        {
+          "name": "Mr. RYM",
+          "url": "https://open.spotify.com/artist/6LJTGjMc2MEUIjVGMIZVYE"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130618,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/7xAdjq6f1zvSSkIV5E4gbU"
+    },
+    {
+      "album": {
         "name": "Gunehgar",
         "url": "https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs"
       },
@@ -14308,7 +14392,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 147629,
       "name": "Haiwaan",
       "url": "https://open.spotify.com/track/5sOyaQqH5dwB8r0ziKQQYB"
@@ -15438,7 +15522,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 176400,
       "name": "Hope",
       "url": "https://open.spotify.com/track/30eRDY8dZvxo2XK24i2hBu"
@@ -16652,10 +16736,32 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 215510,
       "name": "Jaanemann",
       "url": "https://open.spotify.com/track/4CwyeBZgMa5IkoGB62OGWs"
+    },
+    {
+      "album": {
+        "name": "CNSTNCY",
+        "url": "https://open.spotify.com/album/5KHA0yCtqnwGn4vX5Z9a2T"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        },
+        {
+          "name": "MC INSANE",
+          "url": "https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248181,
+      "name": "JAB TAK MEIN ZINDA HU",
+      "url": "https://open.spotify.com/track/3iKnnfDTKmhHWUXf1OCDPV"
     },
     {
       "album": {
@@ -20245,6 +20351,24 @@
     },
     {
       "album": {
+        "name": "CNSTNCY",
+        "url": "https://open.spotify.com/album/5KHA0yCtqnwGn4vX5Z9a2T"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "LEGEND",
+      "url": "https://open.spotify.com/track/6tl3vinLhuzAnDdwNk61OQ"
+    },
+    {
+      "album": {
         "name": "Ummer",
         "url": "https://open.spotify.com/album/0uiNJpkJU9rbvaHBr24lUq"
       },
@@ -20394,7 +20518,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 136800,
       "name": "Let's Go Back",
       "url": "https://open.spotify.com/track/13Em4HLSGMWP6t2tHF9Iv2"
@@ -21749,6 +21873,28 @@
     },
     {
       "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/4MSTEfGI1kxGpBhJJG9tGe"
+      },
+      "artists": [
+        {
+          "name": "DRV",
+          "url": "https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL"
+        },
+        {
+          "name": "Siyaahi",
+          "url": "https://open.spotify.com/artist/3psXqmICFFh7nmcmaj5KPb"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/0HtPhNRTOdVwNMxXPW09pR"
+    },
+    {
+      "album": {
         "name": "Masroor",
         "url": "https://open.spotify.com/album/28lPquTGiDRyQtWD1Wt9pJ"
       },
@@ -22124,7 +22270,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 189473,
       "name": "MBA - Remix",
       "url": "https://open.spotify.com/track/7Hvl7iP6f1DVjFPmTrmuHr"
@@ -26669,6 +26815,24 @@
     },
     {
       "album": {
+        "name": "NMJ (Nayaab Meri Jaan)",
+        "url": "https://open.spotify.com/album/51scw6wC5dTc7IZsOwEof0"
+      },
+      "artists": [
+        {
+          "name": "Nayaab",
+          "url": "https://open.spotify.com/artist/7D0cCYQcYBVEOnBvyy164p"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "PLEASE BOL",
+      "url": "https://open.spotify.com/track/0bpk3GAUT5lo9pvpQTlZc8"
+    },
+    {
+      "album": {
         "name": "Kala Khatta",
         "url": "https://open.spotify.com/album/2Q8cshgnazmxzQbvBGv043"
       },
@@ -29714,7 +29878,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 114985,
       "name": "SHOR",
       "url": "https://open.spotify.com/track/06YTrc6dXppnVlHN9hIKIm"

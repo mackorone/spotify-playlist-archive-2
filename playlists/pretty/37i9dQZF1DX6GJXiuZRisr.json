@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1615718,
+  "num_followers": 1615770,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,22 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Love Is The Only Thing",
-        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
+        "name": "Focus (feat. CLOVES)",
+        "url": "https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
         }
       ],
-      "duration_ms": 171093,
-      "name": "Love Is The Only Thing",
-      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
+      "duration_ms": 238242,
+      "name": "Focus (feat. CLOVES)",
+      "url": "https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -463,22 +467,18 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Focus (feat. CLOVES)",
-        "url": "https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF"
+        "name": "Love Is The Only Thing",
+        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         }
       ],
-      "duration_ms": 238242,
-      "name": "Focus (feat. CLOVES)",
-      "url": "https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7"
+      "duration_ms": 171093,
+      "name": "Love Is The Only Thing",
+      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -683,18 +683,26 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "More than enough...",
-        "url": "https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP"
+        "name": "Ain't Letting You Down",
+        "url": "https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Saksham",
+          "url": "https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF"
+        },
+        {
+          "name": "Scott Quinn",
+          "url": "https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1"
         }
       ],
-      "duration_ms": 212307,
-      "name": "More than enough...",
-      "url": "https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW"
+      "duration_ms": 261958,
+      "name": "Ain't Letting You Down",
+      "url": "https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -719,26 +727,18 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Ain't Letting You Down",
-        "url": "https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf"
+        "name": "More than enough...",
+        "url": "https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Saksham",
-          "url": "https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF"
-        },
-        {
-          "name": "Scott Quinn",
-          "url": "https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 261958,
-      "name": "Ain't Letting You Down",
-      "url": "https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB"
+      "duration_ms": 212307,
+      "name": "More than enough...",
+      "url": "https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -791,26 +791,26 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Break The Loop",
-        "url": "https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Giuseppe Ottaviani",
-          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+          "name": "Sem Vox",
+          "url": "https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45"
         },
         {
-          "name": "Conor Ross",
-          "url": "https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS"
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
         }
       ],
-      "duration_ms": 226874,
-      "name": "Break The Loop",
-      "url": "https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1"
+      "duration_ms": 285472,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -835,26 +835,26 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP"
+        "name": "Break The Loop",
+        "url": "https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         },
         {
-          "name": "Sem Vox",
-          "url": "https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45"
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
         },
         {
-          "name": "Jaimes",
-          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+          "name": "Conor Ross",
+          "url": "https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS"
         }
       ],
-      "duration_ms": 285472,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX"
+      "duration_ms": 226874,
+      "name": "Break The Loop",
+      "url": "https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -887,26 +887,6 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Empty Theatre, Pretty Picture",
-        "url": "https://open.spotify.com/album/4MXinFbftiy9loZOapfUhu"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Davey Havok",
-          "url": "https://open.spotify.com/artist/1Q1ItjYrk6Si5q4tQtRbx8"
-        }
-      ],
-      "duration_ms": 301935,
-      "name": "Empty Theatre, Pretty Picture",
-      "url": "https://open.spotify.com/track/7Djw8fIOWbZC7T6JMxLLZ8"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
         "name": "The End Of Genesys",
         "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 190726,
       "name": "Human Now (feat. Luke Steele)",
       "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
+        "name": "Empty Theatre, Pretty Picture",
+        "url": "https://open.spotify.com/album/4MXinFbftiy9loZOapfUhu"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Davey Havok",
+          "url": "https://open.spotify.com/artist/1Q1ItjYrk6Si5q4tQtRbx8"
+        }
+      ],
+      "duration_ms": 301935,
+      "name": "Empty Theatre, Pretty Picture",
+      "url": "https://open.spotify.com/track/7Djw8fIOWbZC7T6JMxLLZ8"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
+        "name": "Strange",
+        "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 224731,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 191076,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
-        "name": "Strange",
-        "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 224731,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Bo Bruce",
-          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
-        }
-      ],
-      "duration_ms": 214764,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/7k18E2rVMfzex1XQ6TTVzG"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 171428,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0iO8YEbZyUozUvgtgAhPqT"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Bo Bruce",
+          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
+        }
+      ],
+      "duration_ms": 214764,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
+        "name": "Blue Symphony",
+        "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Blue Symphony",
+      "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
         "name": "Tears Don\u2019t Fall",
         "url": "https://open.spotify.com/album/57nuOUDbXKsN91R9ry5EAj"
       },
@@ -1479,26 +1499,6 @@
       "duration_ms": 369798,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
-        "name": "Blue Symphony",
-        "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Blue Symphony",
-      "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
+        "name": "Sirius",
+        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
+      },
+      "artists": [
+        {
+          "name": "Hjafri",
+          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
+        }
+      ],
+      "duration_ms": 168904,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
         "name": "Where Have You Been",
         "url": "https://open.spotify.com/album/2pfVvPhv9H05U3NYcyaxW8"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 200458,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
-        "name": "Sirius",
-        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
-      },
-      "artists": [
-        {
-          "name": "Hjafri",
-          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
-        }
-      ],
-      "duration_ms": 168904,
-      "name": "Sirius",
-      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Attraction (Marsh's Mix)",
-        "url": "https://open.spotify.com/album/1DOvj0TbwyTUTlKzZJD18w"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 285797,
-      "name": "Attraction - Marsh's Mix",
-      "url": "https://open.spotify.com/track/0lqQP09YJFxYPd5M0AUTJc"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
         "name": "The Good Part",
         "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 191250,
       "name": "The Good Part",
       "url": "https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
+        "name": "Attraction (Marsh's Mix)",
+        "url": "https://open.spotify.com/album/1DOvj0TbwyTUTlKzZJD18w"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 285797,
+      "name": "Attraction - Marsh's Mix",
+      "url": "https://open.spotify.com/track/0lqQP09YJFxYPd5M0AUTJc"
     }
   ],
   "unique_name": "Night Rider",

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,291 songs - 4 day 22 hr 53 min
+2,292 songs - 4 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -857,7 +857,7 @@
 | [Highway](https://open.spotify.com/track/2YauDO4935sBGnV5C7M7r7) | [Julius](https://open.spotify.com/artist/0z3L14pVgawbyez74SLf1U) | [Highway](https://open.spotify.com/album/1FUt5mvfCu2xChvr9PdUNG) | 3:30 | 2022-06-23 | 2022-06-25 |
 | [HIGHWAY TO YOUR HEART](https://open.spotify.com/track/1ejiXFwhoCVvM1z0uh32fr) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [HIGHWAY TO YOUR HEART](https://open.spotify.com/album/5Ribl5MGlDtgUfWKQI10Ew) | 3:59 | 2022-04-22 | 2022-04-28 |
 | [Himlavalvet](https://open.spotify.com/track/46vGHCzuuYkTQgjo1LfTDb) | [Zacke](https://open.spotify.com/artist/3jKd96grbdWoh56whvFnX2), [Alma Augusta](https://open.spotify.com/artist/6gLUeiwk4tkbg7tJ8xg6ck) | [Noir](https://open.spotify.com/album/63xg12h0P4PtLPHP5FTEKo) | 4:02 | 2024-10-10 | 2024-11-11 |
-| [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/track/1m2cKncanBJAAMVO1WkCRQ) | [Division 7](https://open.spotify.com/artist/3z6F8NIRs126ddMywopmfP), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/album/5snT9oFQy7RVPfsYxrsdRN) | 4:03 | 2026-01-22 |  |
+| [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/track/1m2cKncanBJAAMVO1WkCRQ) | [Division 7](https://open.spotify.com/artist/3z6F8NIRs126ddMywopmfP), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/album/5snT9oFQy7RVPfsYxrsdRN) | 4:03 | 2026-01-22 | 2026-06-10 |
 | [Himlen kan vänta](https://open.spotify.com/track/49YQrm6c4eOrYfzmbYS3jG) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Himlen kan vänta](https://open.spotify.com/album/2kS8HnTbJCr6AtCYUCJZyO) | 3:16 | 2022-04-07 | 2022-07-23 |
 | [Himlen är oskyldigt blå](https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Himlen är oskyldigt blå](https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl) | 4:22 | 2026-02-25 |  |
 | [Historier och liv](https://open.spotify.com/track/0LhnOov4l5H0yLsH0dvQL5) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Historier och liv](https://open.spotify.com/album/5M3FQkPMjBlsLRPssprSYH) | 3:20 | 2023-11-09 | 2024-02-09 |
@@ -1565,7 +1565,7 @@
 | [Porcelain Heart](https://open.spotify.com/track/4ultq7i49iBq7EmnHXUnaZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Porcelain Heart](https://open.spotify.com/album/4PExSOAWDOhEQzPSFKIAhL) | 4:23 | 2026-03-19 | 2026-04-12 |
 | [PPP](https://open.spotify.com/track/0L0QRxQSbMnWzT9KrEfCu2) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx) | [PPP](https://open.spotify.com/album/22fdpmWw9AzoOuxw8Kki0R) | 2:50 | 2024-10-10 | 2024-12-24 |
 | [Prata mer med mig](https://open.spotify.com/track/4cJhUx2BDhJAaxhSYUxPs6) | [Laura Toth](https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22), [Albin Loán](https://open.spotify.com/artist/6n8c8YMCqNbs0veQjYdYga) | [Prata mer med mig](https://open.spotify.com/album/3NTLCgRtUlhrssexMHYa9k) | 3:01 | 2024-04-18 | 2024-05-24 |
-| [Prayer](https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q) | 5:25 | 2026-01-15 | 2026-05-08 |
+| [Prayer](https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q) | 5:25 | 2026-01-15 |  |
 | [Precious Cargo](https://open.spotify.com/track/1mcDSDrKxkDYJ3At0K5VpU) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Precious Cargo](https://open.spotify.com/album/65BYiMcbsbO8ZUdlMKltgV) | 2:55 | 2021-12-16 | 2022-03-28 |
 | [Precis som jag](https://open.spotify.com/track/22LcCHcm5fiaf7V52k18j0) | [Theo Alessandro](https://open.spotify.com/artist/1vIKACjdPNfmmMBMBxpqIv) | [Precis som jag](https://open.spotify.com/album/2MyQbIs1mwRGYB0yp23LJs) | 1:47 | 2026-03-12 | 2026-04-17 |
 | [Presence](https://open.spotify.com/track/61yrEA7hDI9O323sJRJ5nw) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF), [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Presence](https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP) | 3:15 | 2024-06-20 | 2024-08-30 |
@@ -1896,7 +1896,7 @@
 | [Svart mask](https://open.spotify.com/track/5uGiSx84xBoP8sjGREkMtp) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Hemlisar II](https://open.spotify.com/album/1uUtCIhpSjsoYjTPYwRisz) | 2:54 | 2025-10-16 | 2025-11-16 |
 | [Svart Suit Cadillac](https://open.spotify.com/track/2hT4mY6jWEhm3Vnbgz5LyP) | [Jesper Swärd](https://open.spotify.com/artist/7812GfcEzTh273QN6DPurL), [Michel Dida](https://open.spotify.com/artist/0IQrfexpeCXMmHFX2jnT1Q) | [Svart Suit Cadillac](https://open.spotify.com/album/7rFae5BckcN7YgxYtEgCvO) | 3:38 | 2022-03-10 | 2022-04-02 |
 | [Svarta Moln \(From Songland\)](https://open.spotify.com/track/73A3kioiMa6CXW89cdTWXz) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Svarta Moln \(From Songland\)](https://open.spotify.com/album/5qtU1cUDJu0pfNhdk3IDDy) | 3:11 | 2023-05-04 | 2023-06-09 |
-| [Svartsjuk \- Spotify Singles](https://open.spotify.com/track/7mdmE3IpTHpYPv2gheaadm) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Svartsjuk \(Spotify Singles\)](https://open.spotify.com/album/6QEHew6RMgoE4MHTCYPXrV) | 2:45 | 2026-01-15 |  |
+| [Svartsjuk \- Spotify Singles](https://open.spotify.com/track/7mdmE3IpTHpYPv2gheaadm) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Svartsjuk \(Spotify Singles\)](https://open.spotify.com/album/6QEHew6RMgoE4MHTCYPXrV) | 2:45 | 2026-01-15 | 2026-06-10 |
 | [Sverige](https://open.spotify.com/track/2NQbX5fElB5gXYb61piUzk) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Sverige](https://open.spotify.com/album/1hYGwNkznvm4047Fb3XfRC) | 2:55 | 2024-04-26 | 2024-05-24 |
 | [Svett](https://open.spotify.com/track/4uXlhWXPnysM9HQMFqzU3f) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Svett](https://open.spotify.com/album/565wtWK25tA1JjATQZbvVg) | 3:06 | 2024-04-04 | 2024-05-10 |
 | [Svikare](https://open.spotify.com/track/0djxbv8PpRoOwWZzf8iw6Q) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Svikare](https://open.spotify.com/album/2o6z5Nj3RGx9uL6sAE8Shb) | 2:41 | 2023-01-19 | 2023-02-12 |
@@ -2131,6 +2131,7 @@
 | [Vegas Nights](https://open.spotify.com/track/2WyIYakiqekD1dsLtl0KNX) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Vegas Nights](https://open.spotify.com/album/1FsZaYem94Jqu2z9JMUEA5) | 3:08 | 2025-04-10 | 2025-09-05 |
 | [Vem e som dig](https://open.spotify.com/track/4HTTgU6ie4dlEKiTgQB4lh) | [Willow](https://open.spotify.com/artist/428NWvJtmUtdxSWImz3ysv) | [Vem e som dig](https://open.spotify.com/album/5AbH2M5AMN87mjy7oWKLae) | 2:48 | 2024-02-29 | 2024-04-19 |
 | [Vem fan är Murphy?](https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:33 | 2025-03-28 | 2025-07-04 |
+| [Vem tänder stjärnorna](https://open.spotify.com/track/2diLUHXEzYePMVM7PW3ouE) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Vem tänder stjärnorna](https://open.spotify.com/album/2TIWuudsbu8Uv3pzWOuOk7) | 4:04 | 2026-06-05 |  |
 | [VEM VET?](https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [RUSHEN TAR ALDRIG SLUT](https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS) | 2:05 | 2025-09-18 | 2026-02-13 |
 | [Vem vill va själv](https://open.spotify.com/track/5r5OhizcTQcTcZTLukl8Tu) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Vem vill va själv](https://open.spotify.com/album/6FYC9Wfc8kKYt5xaw5qw7x) | 2:27 | 2025-09-01 | 2025-10-11 |
 | [Vem är som du?](https://open.spotify.com/track/1m12BzPJh3Hx6V9MbUVnt7) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Vem är som du?](https://open.spotify.com/album/5S0yNusAIpDXWx9nzqmI5V) | 3:18 | 2025-09-01 | 2025-11-07 |

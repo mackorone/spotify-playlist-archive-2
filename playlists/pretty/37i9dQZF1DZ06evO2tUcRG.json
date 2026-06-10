@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 269954,
+  "num_followers": 269953,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAAD0nzIHT/wGXUpEw3gEYmAb",
+  "snapshot_id": "aiYGAAAAAADoQuz3o/FKRKICYqGke+dF",
   "tracks": [
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estrela da Manh\u00e3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
+        "name": "Poderoso Deus (Medley)",
+        "url": "https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 208025,
-      "name": "Estrela da Manh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
+      "duration_ms": 455597,
+      "name": "Poderoso Deus (Medley)",
+      "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poderoso Deus (Medley)",
-        "url": "https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl"
+        "name": "Estrela da Manh\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 455597,
-      "name": "Poderoso Deus (Medley)",
-      "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
+      "duration_ms": 208025,
+      "name": "Estrela da Manh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c1guas Purificadoras",
-        "url": "https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 342667,
-      "name": "\u00c1guas Purificadoras",
-      "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 520935,
       "name": "Meu Jesus - Ao Vivo",
       "url": "https://open.spotify.com/track/4CBrbzhvuka2a3gZOm48E8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c1guas Purificadoras",
+        "url": "https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 342667,
+      "name": "\u00c1guas Purificadoras",
+      "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
     },
     {
       "added_at": null,

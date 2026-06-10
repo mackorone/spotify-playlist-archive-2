@@ -1,6 +1,6 @@
 {
   "description": "On October 3rd he asked me what day it was",
-  "num_followers": 615184,
+  "num_followers": 615260,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
+        "name": "I'm Not Dead",
+        "url": "https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 214386,
+      "name": "U + Ur Hand",
+      "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
         "name": "...Baby One More Time (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 250746,
       "name": "Right Thurr",
       "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
-        "name": "I'm Not Dead",
-        "url": "https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 214386,
-      "name": "U + Ur Hand",
-      "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1679,18 +1679,22 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "So Real",
-        "url": "https://open.spotify.com/album/2bO8HiXIChnnMT1UGuMUPR"
+        "name": "Planet Pop",
+        "url": "https://open.spotify.com/album/42VmhABPuAF8lb26CHUFIl"
       },
       "artists": [
         {
-          "name": "Mandy Moore",
-          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+        },
+        {
+          "name": "Pete Konemann",
+          "url": "https://open.spotify.com/artist/0PEfbjTw85CAN5G0lz9n3p"
         }
       ],
-      "duration_ms": 234133,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2YhE6xeWN0R9RVwEOG9lR1"
+      "duration_ms": 215506,
+      "name": "Around the World (La La La La La)",
+      "url": "https://open.spotify.com/track/6inVHhmG2qEhwFR2eiWXjH"
     }
   ],
   "unique_name": "y2k",

@@ -4,7 +4,7 @@
 
 > det handler ik' om alder, men om young soundsss 🥠
 
-433 songs - 22 hr 13 min
+434 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Hvorfor skulle jeg vide det?](https://open.spotify.com/track/2PtVNvdWQDCVgmviVljEBr) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Hvorfor skulle jeg vide det?](https://open.spotify.com/album/360MgRzxQLYOT70TgyPyg4) | 2:15 | 2026-05-02 |  |
 | [Hvornår](https://open.spotify.com/track/0HrgO9iNsl46VdIGXxETYp) | [Tosomhed](https://open.spotify.com/artist/2FvINsykw40GeQeofZROi4) | [Hvornår](https://open.spotify.com/album/1yYJKSVjCg4A2e7y8Bbeem) | 3:06 | 2025-08-21 | 2025-08-29 |
 | [Hæng En Mand](https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Hæng En Mand](https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa) | 5:12 | 2025-10-02 |  |
+| [Høj På Livet](https://open.spotify.com/track/4xCCiECABvVCXE0UZb0k9t) | [144Hz](https://open.spotify.com/artist/2uPlJ3yxYEb2GjdbOb018e), [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Høj På Livet](https://open.spotify.com/album/1Ggt1HjgSTmk2udoeFsnYa) | 3:39 | 2026-06-04 |  |
 | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF) | [Statisk](https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN) | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50) | 3:11 | 2024-06-27 | 2025-02-07 |
 | [I am your house](https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:26 | 2024-10-10 | 2024-11-22 |
 | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD) | 3:29 | 2024-06-27 |  |
@@ -435,7 +436,7 @@
 | [Words for Myself](https://open.spotify.com/track/0n0iTPcp4RMXnVN6ZdEEGe) | [Anna Frank](https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg) | [Words for Myself](https://open.spotify.com/album/4YDcP1HZt5vETOWs765m3Z) | 2:10 | 2025-06-19 | 2025-10-17 |
 | [You Don't Wanna Be Mine](https://open.spotify.com/track/46zvZV1EiD2Qch4qELYLno) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [You Don't Wanna Be Mine](https://open.spotify.com/album/7e9JMqzTga2FTNHZFmG1NP) | 2:39 | 2025-09-11 | 2025-10-31 |
 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 | 2025-03-27 | 2025-07-11 |
-| [You Make a Fire, You Make a Camp](https://open.spotify.com/track/3G83jEKy5gwjXxHabR89h7) | [Jura](https://open.spotify.com/artist/7o47tXCHgjbz4cGuYgg7AM), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC), [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V), [Helene Norup Due](https://open.spotify.com/artist/0o1fgVWvRNSPuuurEKVRWb) | [You Make a Fire, You Make a Camp](https://open.spotify.com/album/3AgBPC2z48Foe0g6clOy2I) | 8:53 | 2026-04-23 |  |
+| [You Make a Fire, You Make a Camp](https://open.spotify.com/track/3G83jEKy5gwjXxHabR89h7) | [Jura](https://open.spotify.com/artist/7o47tXCHgjbz4cGuYgg7AM), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC), [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V), [Helene Norup Due](https://open.spotify.com/artist/0o1fgVWvRNSPuuurEKVRWb) | [You Make a Fire, You Make a Camp](https://open.spotify.com/album/3AgBPC2z48Foe0g6clOy2I) | 8:53 | 2026-04-23 | 2026-06-10 |
 | [You Want The World](https://open.spotify.com/track/0WyzgKVsL3GNfaPZsUOUG0) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [You Want The World](https://open.spotify.com/album/7xrkfiQ19Ov8H78vNGgrsS) | 2:42 | 2026-03-20 | 2026-05-08 |
 | [Yourself](https://open.spotify.com/track/4GhSPHwC6Ye5Vns747Gk4p) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Yourself](https://open.spotify.com/album/6nui1QBsq4FYx8R6ncaqNL) | 2:45 | 2025-07-31 | 2025-08-08 |
 | [ZAMINA](https://open.spotify.com/track/1DUOr1ivwCp4ICR4hmG6tJ) | [Zay](https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z) | [ZAMINA](https://open.spotify.com/album/5aM1Gfnf17ypEJlffL1oPT) | 3:12 | 2025-07-03 | 2025-08-12 |

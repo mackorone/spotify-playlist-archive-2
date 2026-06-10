@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Alvaro Diaz",
-  "num_followers": 99854,
+  "num_followers": 99859,
   "original_name": "Editors' Picks: Best Songs of May",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK1IsqwMJBt44knSejDiNKskJCpo",
+  "snapshot_id": "AAAAAH9pFVmNIUKsLQWdq+Mg5u8y5K+r",
   "tracks": [
     {
       "added_at": "2026-06-01 05:00:24",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "love love FLAKK",
-        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 119546,
-      "name": "LLEVA AL SOL",
-      "url": "https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "UNA NA MAS",
         "url": "https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 196256,
       "name": "UNA NA MAS",
       "url": "https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "love love FLAKK",
+        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 119546,
+      "name": "LLEVA AL SOL",
+      "url": "https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "linknb",
-        "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 115160,
-      "name": "linknb",
-      "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "Motion Party (Remix)",
         "url": "https://open.spotify.com/album/4zMIJXXO6hA9UgJXlb6zvQ"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 156200,
       "name": "Motion Party (Remix)",
       "url": "https://open.spotify.com/track/6ZSDvXbaeuGeCwiPJCfOwG"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "linknb",
+        "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 115160,
+      "name": "linknb",
+      "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Dancing On The Wall",
-      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "bitknot",
         "url": "https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 212949,
       "name": "Dior",
       "url": "https://open.spotify.com/track/3qvJiQOb5Qa0jO7MdLoBp3"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -575,18 +575,18 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "War Over Land",
-        "url": "https://open.spotify.com/album/00hlYRC7F3voGuZqhf5fG2"
+        "name": "I Can't Die Like That",
+        "url": "https://open.spotify.com/album/313t051eeaMazltopmnbhm"
       },
       "artists": [
         {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
         }
       ],
-      "duration_ms": 174068,
-      "name": "War Over Land",
-      "url": "https://open.spotify.com/track/6gn1jvInLQ352xxZEjPGz4"
+      "duration_ms": 151800,
+      "name": "I Can't Die Like That",
+      "url": "https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
+        "name": "War Over Land",
+        "url": "https://open.spotify.com/album/00hlYRC7F3voGuZqhf5fG2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 174068,
+      "name": "War Over Land",
+      "url": "https://open.spotify.com/track/6gn1jvInLQ352xxZEjPGz4"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
         "name": "usher in the spirit",
         "url": "https://open.spotify.com/album/4SgKrliseSqVRxEFD6INPy"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 180500,
       "name": "usher in the spirit",
       "url": "https://open.spotify.com/track/7mbRGvaiD1NCDAIDqErCBT"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
-        "name": "I Can't Die Like That",
-        "url": "https://open.spotify.com/album/313t051eeaMazltopmnbhm"
-      },
-      "artists": [
-        {
-          "name": "Getdown Services",
-          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "I Can't Die Like That",
-      "url": "https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -687,26 +687,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "Antes De Ti",
-        "url": "https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        },
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 176580,
-      "name": "Antes De Ti",
-      "url": "https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/6hWrYqqI8mLlsRhS8alGYU"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 161194,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/3T61iS2oR14n5GY9WMoZaw"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "Antes De Ti",
+        "url": "https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 176580,
+      "name": "Antes De Ti",
+      "url": "https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
+        "name": "2 C U",
+        "url": "https://open.spotify.com/album/5MoouUulpYW0XWheX1Wlue"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "duration_ms": 139159,
+      "name": "2 C U",
+      "url": "https://open.spotify.com/track/6lUM0QGNVT65iu4aRLU3LM"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
         "name": "BENJAMINS",
         "url": "https://open.spotify.com/album/27wAzUGHh3nqGp0sOZ0F0U"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "2 C U",
-        "url": "https://open.spotify.com/album/5MoouUulpYW0XWheX1Wlue"
-      },
-      "artists": [
-        {
-          "name": "Swapmeet",
-          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
-        }
-      ],
-      "duration_ms": 139159,
-      "name": "2 C U",
-      "url": "https://open.spotify.com/track/6lUM0QGNVT65iu4aRLU3LM"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "New Ebonics",
         "url": "https://open.spotify.com/album/2ZRDs5161FP2nvMMwsG62P"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "Long Gone",
-        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
-      },
-      "artists": [
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "Long Gone",
-      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "JACKIE'S BACK",
         "url": "https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 159250,
       "name": "JACKIE'S BACK",
       "url": "https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
+      },
+      "artists": [
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
     },
     {
       "added_at": "2026-06-01 05:00:24",

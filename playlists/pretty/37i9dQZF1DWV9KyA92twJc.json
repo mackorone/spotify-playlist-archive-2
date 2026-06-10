@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05da. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e7\u05d0\u05d1\u05e8: \u05d8\u05de\u05e4\u05e8 \u05e1\u05d9\u05d8\u05d9",
-  "num_followers": 25767,
+  "num_followers": 25766,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-05-21 21:49:02",
       "album": {
-        "name": "feelslikeimfallinginlove",
-        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove - Single Version",
-      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
-    },
-    {
-      "added_at": "2026-05-21 21:49:02",
-      "album": {
         "name": "Timeless (Remix)",
         "url": "https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 228000,
       "name": "Timeless (feat. Playboi Carti & Doechii) - Remix",
       "url": "https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d"
+    },
+    {
+      "added_at": "2026-05-21 21:49:02",
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove - Single Version",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
       "added_at": "2026-05-21 21:49:02",
@@ -1227,8 +1227,8 @@
     {
       "added_at": "2026-05-21 21:49:02",
       "album": {
-        "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV"
+        "name": "Wedding Songs",
+        "url": "https://open.spotify.com/album/7pP59dwFmsZMVP6NNGnaIj"
       },
       "artists": [
         {
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
         }
       ],
-      "duration_ms": 178236,
-      "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1"
+      "duration_ms": 229676,
+      "name": "\u05d1\u05d3\u05d9\u05d5\u05e7 \u05db\u05db\u05d4",
+      "url": "https://open.spotify.com/track/4bXdNFSnjZcV82u2Cz3wtn"
     },
     {
       "added_at": "2026-05-21 21:49:02",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2026-05-21 21:49:02",
       "album": {
-        "name": "THE LAST EPISODE",
-        "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
+        "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
         }
       ],
-      "duration_ms": 201080,
-      "name": "\u05de\u05e0\u05d2\u05df \u05d5\u05e9\u05e8",
-      "url": "https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ"
+      "duration_ms": 178236,
+      "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1"
     },
     {
       "added_at": "2026-05-21 21:49:02",
@@ -1395,8 +1395,8 @@
     {
       "added_at": "2026-05-21 21:49:02",
       "album": {
-        "name": "Wedding Songs",
-        "url": "https://open.spotify.com/album/7pP59dwFmsZMVP6NNGnaIj"
+        "name": "THE LAST EPISODE",
+        "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
       },
       "artists": [
         {
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
         }
       ],
-      "duration_ms": 229676,
-      "name": "\u05d1\u05d3\u05d9\u05d5\u05e7 \u05db\u05db\u05d4",
-      "url": "https://open.spotify.com/track/4bXdNFSnjZcV82u2Cz3wtn"
+      "duration_ms": 201080,
+      "name": "\u05de\u05e0\u05d2\u05df \u05d5\u05e9\u05e8",
+      "url": "https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ"
     },
     {
       "added_at": "2026-05-21 21:49:02",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-05-21 21:49:02",
       "album": {
+        "name": "\u05dc\u05de\u05d9 \u05d0\u05ea \u05de\u05ea\u05e7\u05e9\u05e8\u05ea",
+        "url": "https://open.spotify.com/album/0b1XLphWfOAzSaWA36Khrt"
+      },
+      "artists": [
+        {
+          "name": "\u05dc\u05d9\u05d0\u05dd \u05d2\u05d5\u05dc\u05df",
+          "url": "https://open.spotify.com/artist/5Rp2o61i7NiMPtSuDj5IRX"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "\u05dc\u05de\u05d9 \u05d0\u05ea \u05de\u05ea\u05e7\u05e9\u05e8\u05ea",
+      "url": "https://open.spotify.com/track/7owAy4b9jUAiNDNi0bJ9rW"
+    },
+    {
+      "added_at": "2026-05-21 21:49:02",
+      "album": {
         "name": "\u05d6\u05d6\u05d4 \u05e2\u05dd \u05d4\u05d2\u05d5\u05e3",
         "url": "https://open.spotify.com/album/5XGGVgbzCrOmQR0aRUeOhM"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 195000,
       "name": "\u05d6\u05d6\u05d4 \u05e2\u05dd \u05d4\u05d2\u05d5\u05e3",
       "url": "https://open.spotify.com/track/12ddpfSEpTUe2iixjUvLl6"
-    },
-    {
-      "added_at": "2026-05-21 21:49:02",
-      "album": {
-        "name": "\u05dc\u05de\u05d9 \u05d0\u05ea \u05de\u05ea\u05e7\u05e9\u05e8\u05ea",
-        "url": "https://open.spotify.com/album/0b1XLphWfOAzSaWA36Khrt"
-      },
-      "artists": [
-        {
-          "name": "\u05dc\u05d9\u05d0\u05dd \u05d2\u05d5\u05dc\u05df",
-          "url": "https://open.spotify.com/artist/5Rp2o61i7NiMPtSuDj5IRX"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "\u05dc\u05de\u05d9 \u05d0\u05ea \u05de\u05ea\u05e7\u05e9\u05e8\u05ea",
-      "url": "https://open.spotify.com/track/7owAy4b9jUAiNDNi0bJ9rW"
     },
     {
       "added_at": "2026-05-21 21:49:02",

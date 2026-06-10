@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 46537,
+  "num_followers": 46545,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-05-14 22:01:11",
       "album": {
-        "name": "Wat Is Dan Liefde",
-        "url": "https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl"
-      },
-      "artists": [
-        {
-          "name": "Silver Metz",
-          "url": "https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt"
-        }
-      ],
-      "duration_ms": 156813,
-      "name": "Wat Is Dan Liefde - Hazes Is De Basis",
-      "url": "https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2"
-    },
-    {
-      "added_at": "2026-05-14 22:01:11",
-      "album": {
         "name": "Wat Als Ik Wat Mis",
         "url": "https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 165001,
       "name": "Wat Als Ik Wat Mis",
       "url": "https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ"
+    },
+    {
+      "added_at": "2026-05-14 22:01:11",
+      "album": {
+        "name": "Wat Is Dan Liefde",
+        "url": "https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl"
+      },
+      "artists": [
+        {
+          "name": "Silver Metz",
+          "url": "https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt"
+        }
+      ],
+      "duration_ms": 156813,
+      "name": "Wat Is Dan Liefde - Hazes Is De Basis",
+      "url": "https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2"
     },
     {
       "added_at": "2026-05-14 22:01:11",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-05-14 22:01:11",
       "album": {
-        "name": "Dicht Bij Mij",
-        "url": "https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy"
-      },
-      "artists": [
-        {
-          "name": "Sabien",
-          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Hoe Wij Hier Samen Staan",
-      "url": "https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc"
-    },
-    {
-      "added_at": "2026-05-14 22:01:11",
-      "album": {
         "name": "Nu Jij Hier Niet Meer Bent",
         "url": "https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 250269,
       "name": "Nu Jij Hier Niet Meer Bent",
       "url": "https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn"
+    },
+    {
+      "added_at": "2026-05-14 22:01:11",
+      "album": {
+        "name": "Dicht Bij Mij",
+        "url": "https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy"
+      },
+      "artists": [
+        {
+          "name": "Sabien",
+          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Hoe Wij Hier Samen Staan",
+      "url": "https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc"
     },
     {
       "added_at": "2026-05-14 22:01:11",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-05-14 22:01:11",
       "album": {
-        "name": "Is Het Gek",
-        "url": "https://open.spotify.com/album/1yJ0JSDA5BESShXio4fuT2"
-      },
-      "artists": [
-        {
-          "name": "SANN!E",
-          "url": "https://open.spotify.com/artist/2K6EYEUYCstKryMWqZDbGf"
-        },
-        {
-          "name": "Jim Bakkum",
-          "url": "https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD"
-        }
-      ],
-      "duration_ms": 153714,
-      "name": "Is Het Gek",
-      "url": "https://open.spotify.com/track/1imEuX1GPOSvGMlGbzJCD2"
-    },
-    {
-      "added_at": "2026-05-14 22:01:11",
-      "album": {
         "name": "Beste Zangers 2024 (Aflevering 4- SERA)",
         "url": "https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 177877,
       "name": "Mes In M'n Rug",
       "url": "https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1"
+    },
+    {
+      "added_at": "2026-05-14 22:01:11",
+      "album": {
+        "name": "Is Het Gek",
+        "url": "https://open.spotify.com/album/1yJ0JSDA5BESShXio4fuT2"
+      },
+      "artists": [
+        {
+          "name": "SANN!E",
+          "url": "https://open.spotify.com/artist/2K6EYEUYCstKryMWqZDbGf"
+        },
+        {
+          "name": "Jim Bakkum",
+          "url": "https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD"
+        }
+      ],
+      "duration_ms": 153714,
+      "name": "Is Het Gek",
+      "url": "https://open.spotify.com/track/1imEuX1GPOSvGMlGbzJCD2"
     },
     {
       "added_at": "2026-05-14 22:01:11",

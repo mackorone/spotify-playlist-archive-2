@@ -2852,7 +2852,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 218077,
       "name": "Memories",
       "url": "https://open.spotify.com/track/1wHB2sC7wd5PLlr5FYetrs"
@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 257295,
       "name": "Pain into Champagne, Pt. 2 (feat. Deuce Deuce)",
       "url": "https://open.spotify.com/track/1lT6eH2D13Gyqfi5uXFGzY"
@@ -4130,7 +4130,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 268235,
       "name": "Stop Trying",
       "url": "https://open.spotify.com/track/4PTYv3IqqG71z78v7LT8NW"
@@ -5208,6 +5208,24 @@
       "duration_ms": 208515,
       "name": "Yeah Yeah Yeah",
       "url": "https://open.spotify.com/track/77hgJ6GfTIKUlltjGRikMs"
+    },
+    {
+      "album": {
+        "name": "Noble Justice: The Lost Songs",
+        "url": "https://open.spotify.com/album/6bjW7AymdOPfmO3Ve1CGXz"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216520,
+      "name": "Young Noble",
+      "url": "https://open.spotify.com/track/524l3Ew39laEvY137ZmxSq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31hh6s"

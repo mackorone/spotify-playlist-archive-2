@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > 🚀 when ur love language is bpm 🚀  Cover: southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,454 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,897 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 65 | [tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq) | 2:04 |
 | 66 | [Le Ball](https://open.spotify.com/track/6DO2vZdH5irJgNdwL65SlH) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3) | [Le Ball](https://open.spotify.com/album/4HUdMNeCtEH1FxaCoXFCSb) | 1:36 |
 | 67 | [90s Bitch](https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [90s Bitch](https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt) | 3:16 |
-| 68 | [Breathe](https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Breathe](https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH) | 2:48 |
-| 69 | [Amor \(feat\. CERES\)](https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Amor EP](https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX) | 6:12 |
+| 68 | [Amor \(feat\. CERES\)](https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Amor EP](https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX) | 6:12 |
+| 69 | [Breathe](https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Breathe](https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH) | 2:48 |
 | 70 | [Bad Girls](https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Bad Girls](https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH) | 2:01 |
-| 71 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 |
-| 72 | [Vhs](https://open.spotify.com/track/3ZxEXb4YeEWGTUPAmn2Xhe) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 4:29 |
+| 71 | [Vhs](https://open.spotify.com/track/3ZxEXb4YeEWGTUPAmn2Xhe) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 4:29 |
+| 72 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 |
 | 73 | [WILD](https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [WILD](https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv) | 2:20 |
 | 74 | [Stomp Your Feet](https://open.spotify.com/track/494lD6w8j07gDMub1UFd07) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Stomp Your Feet](https://open.spotify.com/album/45vmjBcHoZfCrChrHFdCoT) | 3:30 |
 | 75 | [Stolen Dance \- Hypertechno](https://open.spotify.com/track/4nOVDcu9Vv4owjeonZx5Qs) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Stolen Dance \(Hypertechno\)](https://open.spotify.com/album/3AJeTQRLl9C9UcgxGAb6Q0) | 3:08 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 96 | [BASS DOWN LOW](https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3) | [BASS DOWN LOW](https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1) | 2:46 |
 | 97 | [I Got You](https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Got You](https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv) | 2:44 |
 | 98 | [Cool Kids](https://open.spotify.com/track/2SduRa0s3ZDDkC9dmbIRgw) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Cool Kids](https://open.spotify.com/album/280PiP7DBhLYyJFNld8oeh) | 2:01 |
-| 99 | [Don't Stop](https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:16 |
-| 100 | [Satan Was A Babyboomer](https://open.spotify.com/track/3IVrlcM5gDoj3lghHY9m7I) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Satan Was A Babyboomer](https://open.spotify.com/album/42nVxnZ0BD7Vt3sMK0t8Ss) | 7:07 |
+| 99 | [Satan Was A Babyboomer](https://open.spotify.com/track/3IVrlcM5gDoj3lghHY9m7I) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Satan Was A Babyboomer](https://open.spotify.com/album/42nVxnZ0BD7Vt3sMK0t8Ss) | 7:07 |
+| 100 | [Divine](https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [Divine](https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI) | 2:43 |
 
 Snapshot ID: `AAAAANQvzDjDNT+CucBRD7qLNFhuLBPH`

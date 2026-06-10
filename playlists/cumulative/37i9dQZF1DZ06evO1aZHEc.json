@@ -929,6 +929,32 @@
     },
     {
       "album": {
+        "name": "a crying poem",
+        "url": "https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        },
+        {
+          "name": "Bloodz Boi",
+          "url": "https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119937,
+      "name": "Jailbird",
+      "url": "https://open.spotify.com/track/43iUHBH3hIDbSSgXJo9K2C"
+    },
+    {
+      "album": {
         "name": "just (feat. m sage)",
         "url": "https://open.spotify.com/album/6qTHVIP3TvGUaokxv1hvGK"
       },
@@ -1064,7 +1090,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 521000,
       "name": "last date",
       "url": "https://open.spotify.com/track/4D8qKb5aDHGzOS19VoPkHF"
@@ -1276,7 +1302,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 528051,
       "name": "peak chroma",
       "url": "https://open.spotify.com/track/3tGmAe05Oz3Ew6pNoGccEI"
@@ -1560,7 +1586,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 37000,
       "name": "swipe",
       "url": "https://open.spotify.com/track/6XJD626FozKijPwvjYd5PU"

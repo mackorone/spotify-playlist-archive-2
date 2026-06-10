@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[It All Started In May\]\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,947 likes - 29 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,941 likes - 29 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

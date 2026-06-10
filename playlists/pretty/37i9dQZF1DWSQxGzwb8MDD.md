@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,799 likes - 95 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,804 likes - 95 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 39 | [Sealegs](https://open.spotify.com/track/3JwwyX6K3gpbNmGcqlMJqn) | [Ma Sha](https://open.spotify.com/artist/1qMbiCXYdiDek2q5yvnB8W) | [Hydrofall](https://open.spotify.com/album/3oFxsaskb7yvmkrev6H9zh) | 4:23 |
 | 40 | [Freefall \- Nova Cheq remix](https://open.spotify.com/track/2y2B9P8VxbNTfzJrTvUGF2) | [Pl4net Dust](https://open.spotify.com/artist/5RSgcd0LcRVwyS7uRR2ebX), [Nova Cheq](https://open.spotify.com/artist/6Eu1OXh1AZ2jH0HvloCfFN) | [Freefall](https://open.spotify.com/album/7Hbg3S6MVXGgLAegcVqX1F) | 5:24 |
 | 41 | [pearl touch](https://open.spotify.com/track/5Wl7GVT7mtZrfokyyox3gj) | [RONI](https://open.spotify.com/artist/3ACB6pQFKxf7vsmm5Tl39g), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [Celestial](https://open.spotify.com/album/2rbtHHa3zVfUTA7AWMDTgK) | 4:36 |
-| 42 | [U got 2 know](https://open.spotify.com/track/2jKUoiPjKY9gHl7DKexZbO) | [Cappella](https://open.spotify.com/artist/0NPwkUJRrRiWYdHpLXBkxg) | [U got 2 know album](https://open.spotify.com/album/5xA73n1xmSkC6S44muzOFJ) | 5:17 |
+| 42 | [U Got 2 Know](https://open.spotify.com/track/2jKUoiPjKY9gHl7DKexZbO) | [Cappella](https://open.spotify.com/artist/0NPwkUJRrRiWYdHpLXBkxg) | [U Got 2 Know Album](https://open.spotify.com/album/5xA73n1xmSkC6S44muzOFJ) | 5:17 |
 | 43 | [Everything Starts With An E](https://open.spotify.com/track/0ohPCYQzWWosjnm1f5Cnym) | [Ezze Possee](https://open.spotify.com/artist/3PftFC662Mn1mxgBAzZWgd) | [Bombazo Mix 2 Cd 2](https://open.spotify.com/album/1XT44mCvU0687bz50b8M7d) | 3:48 |
 | 44 | [Whiplash \- NG Rezonance & PHD Remix](https://open.spotify.com/track/0rgUYc0rVZ2OSXrw1KUEDS) | [JFK](https://open.spotify.com/artist/155bZdpGGIoeneTzImF9l8), [NG Rezonance](https://open.spotify.com/artist/4S3uwi4VXgUQNrLLetTBV5), [PHD](https://open.spotify.com/artist/1zFP12n1IDwPZP2VPliyvj) | [Whiplash \(NG Rezonance & PHD Remix\)](https://open.spotify.com/album/3iRKFulMnBMG7Wiy8GZ4ZO) | 2:43 |
 | 45 | [Dead Bodies \- Remix](https://open.spotify.com/track/2I220hKm3DS8MMoOue0wJB) | [Trancial\-X\-Tion](https://open.spotify.com/artist/2zgAK9PFjVaKoEfWvz4YNu) | [The First Mission](https://open.spotify.com/album/7GJu2NovUDgK027tZcvP00) | 5:00 |

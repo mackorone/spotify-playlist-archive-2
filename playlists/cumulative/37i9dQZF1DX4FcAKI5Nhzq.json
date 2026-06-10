@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: N.Flying)",
+  "description": "Future K-Pop hits! (Cover: H//PE Princess)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -392,6 +392,24 @@
       "duration_ms": 185253,
       "name": "3D Woman",
       "url": "https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7"
+    },
+    {
+      "album": {
+        "name": "4WARD",
+        "url": "https://open.spotify.com/album/4Wu52D5zdJ7HpcvkgxaESk"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "4 Flowers",
+      "url": "https://open.spotify.com/track/3wc2PoPGpb1vzM79AgitIh"
     },
     {
       "album": {
@@ -918,7 +936,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 193400,
       "name": "All Ages",
       "url": "https://open.spotify.com/track/0HmrJvU8VaAp8JkFM30POa"
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 156000,
       "name": "AWAKE",
       "url": "https://open.spotify.com/track/5GFthY4y9WiwEG68wNdGn1"
@@ -3390,7 +3408,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 189000,
       "name": "Bodyelse",
       "url": "https://open.spotify.com/track/7CZuzaa3vc92qg3Pv3sACj"
@@ -4160,6 +4178,24 @@
       "duration_ms": 199133,
       "name": "BURN",
       "url": "https://open.spotify.com/track/194uztQZdWMZutepG4ZkeB"
+    },
+    {
+      "album": {
+        "name": "Burn (From 'The SHRINE' Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0mWYIFE4iXMybey4e5FRLi"
+      },
+      "artists": [
+        {
+          "name": "Kim Jae Joong",
+          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204257,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/58kVAoRD1xcFy53KH4xNOq"
     },
     {
       "album": {
@@ -5931,6 +5967,28 @@
     },
     {
       "album": {
+        "name": "Cotton Candy (Feat. Kylie of KIIRAS)",
+        "url": "https://open.spotify.com/album/2n9IC1MXWZLLBszrNw75t8"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2"
+        },
+        {
+          "name": "Kylie of KIIRAS",
+          "url": "https://open.spotify.com/artist/63ERYduPXMW0nY1AN4uYJ8"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213243,
+      "name": "Cotton Candy (Feat. Kylie of KIIRAS)",
+      "url": "https://open.spotify.com/track/3RhQ9HBFjknFjLzhmza1Pl"
+    },
+    {
+      "album": {
         "name": "TWS 3rd Mini Album 'TRY WITH US'",
         "url": "https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y"
       },
@@ -6452,6 +6510,24 @@
       "duration_ms": 189480,
       "name": "Daisy (feat. pH-1)",
       "url": "https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh"
+    },
+    {
+      "album": {
+        "name": "DAISY / gOOd! (H//PE P ver.) (KR ver.)",
+        "url": "https://open.spotify.com/album/61jh4dy9UOWZ2WuCcUZXNf"
+      },
+      "artists": [
+        {
+          "name": "H//PE Princess",
+          "url": "https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "DAISY (H//PE P ver.) (KR ver.)",
+      "url": "https://open.spotify.com/track/5U6Dnu5pH4rpGcrVKNATVd"
     },
     {
       "album": {
@@ -8313,6 +8389,24 @@
     },
     {
       "album": {
+        "name": "EPEX 7th EP Album Youth : Epilogue",
+        "url": "https://open.spotify.com/album/7vnS7hGtUEAMBVFcnOFN8k"
+      },
+      "artists": [
+        {
+          "name": "EPEX",
+          "url": "https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "ECHO",
+      "url": "https://open.spotify.com/track/5VsDJDsQvrq60taUNZPnOj"
+    },
+    {
+      "album": {
         "name": "Echo [From \"Solo Leveling\" (Original Soundtrack)]",
         "url": "https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y"
       },
@@ -9416,7 +9510,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 162000,
       "name": "First Love Is a Curse",
       "url": "https://open.spotify.com/track/6TW9ACpiJzS27WqiTQNN2T"
@@ -10784,7 +10878,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 178000,
       "name": "Girl",
       "url": "https://open.spotify.com/track/4vKESbCDvQW5Ih9JZ3Erzt"
@@ -10964,7 +11058,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 185000,
       "name": "Glow",
       "url": "https://open.spotify.com/track/0Tb03kTDMdEl0a4QEtvKuQ"
@@ -14033,6 +14127,24 @@
     },
     {
       "album": {
+        "name": "If tomorrow never comes",
+        "url": "https://open.spotify.com/album/4gP2KiYoDIr1PuwmdWeuao"
+      },
+      "artists": [
+        {
+          "name": "BANG YONGGUK",
+          "url": "https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "If tomorrow never comes",
+      "url": "https://open.spotify.com/track/5gFiPXCW1r4G96kwvmFxsr"
+    },
+    {
+      "album": {
         "name": "Way Back Love, Pt. 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3e3J54BDc2IaJhF1TE6hrR"
       },
@@ -14344,6 +14456,24 @@
       "duration_ms": 163831,
       "name": "Internet Girl",
       "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
+    },
+    {
+      "album": {
+        "name": "My Royal Nemesis, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/09Vr5ucAzWoETt4EzqmLsb"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Into You (My Royal Nemesis : Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/4rC5blu7XZkF1ApNpVsFWe"
     },
     {
       "album": {
@@ -14948,7 +15078,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 130000,
       "name": "Key Beats",
       "url": "https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI"
@@ -15704,6 +15834,24 @@
       "duration_ms": 249217,
       "name": "Like A Dream",
       "url": "https://open.spotify.com/track/4Kw1ykVLHoFQxOPSVd8R2E"
+    },
+    {
+      "album": {
+        "name": "Like a Movie",
+        "url": "https://open.spotify.com/album/1PHSqDeBsBadv3v7KzlQUc"
+      },
+      "artists": [
+        {
+          "name": "2AM",
+          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199750,
+      "name": "Like a Movie",
+      "url": "https://open.spotify.com/track/4UNlSe4yvOYTvfkgbFlfJw"
     },
     {
       "album": {
@@ -18022,6 +18170,24 @@
       "duration_ms": 153746,
       "name": "Mess",
       "url": "https://open.spotify.com/track/0Sccj6S9qYCEdxHudsQjbB"
+    },
+    {
+      "album": {
+        "name": "SET THE TEMPO",
+        "url": "https://open.spotify.com/album/4s5mNvXC1yAcVUibN83EnB"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179657,
+      "name": "METRONOME",
+      "url": "https://open.spotify.com/track/0lcaaS20sIJaLeVsAyAiKf"
     },
     {
       "album": {
@@ -22455,6 +22621,24 @@
     },
     {
       "album": {
+        "name": "Young30",
+        "url": "https://open.spotify.com/album/1wq65gHszZ2A4cKxzvimTu"
+      },
+      "artists": [
+        {
+          "name": "YEL",
+          "url": "https://open.spotify.com/artist/5tm31CNMTzuIL7TqVGURwj"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Remove Makeup",
+      "url": "https://open.spotify.com/track/1jKetc0W0zKdo2S0uXQiMK"
+    },
+    {
+      "album": {
         "name": "WHO WE ARE",
         "url": "https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz"
       },
@@ -24475,6 +24659,24 @@
     },
     {
       "album": {
+        "name": "REACH YOU",
+        "url": "https://open.spotify.com/album/0vM2BImXSOYQdectYlTKE1"
+      },
+      "artists": [
+        {
+          "name": "Yerin",
+          "url": "https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/565dU15Wh3puMVgKKGrkdE"
+    },
+    {
+      "album": {
         "name": "Prussian Blue",
         "url": "https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD"
       },
@@ -24562,7 +24764,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 169039,
       "name": "Sign",
       "url": "https://open.spotify.com/track/29WdT0CvbaVoN5pbke3hXX"
@@ -25238,7 +25440,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 165818,
       "name": "Someday",
       "url": "https://open.spotify.com/track/09KEQxEnaevGlnGn31fD1b"
@@ -25924,7 +26126,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 164000,
       "name": "Stolen",
       "url": "https://open.spotify.com/track/1YudzC0dQ6SJo0WgHA8kal"
@@ -26076,7 +26278,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 168000,
       "name": "Stuck (Feat. Yerin Baek)",
       "url": "https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx"
@@ -28719,6 +28921,24 @@
     },
     {
       "album": {
+        "name": "T\u00fa y yo",
+        "url": "https://open.spotify.com/album/2Giol3yecre2X8nuAxoN7o"
+      },
+      "artists": [
+        {
+          "name": "U-KWON",
+          "url": "https://open.spotify.com/artist/1dpFCgmBpElH7pcsfSfXqG"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "T\u00fa y yo",
+      "url": "https://open.spotify.com/track/5urpIABh3HY0KSkB0PzwyK"
+    },
+    {
+      "album": {
         "name": "Doom at Your Service (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/2fy01jwC0GrnBGQ4Crcnve"
       },
@@ -28954,7 +29174,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 148573,
       "name": "UNCHILD",
       "url": "https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb"
@@ -29384,6 +29604,24 @@
       "duration_ms": 175573,
       "name": "Viola",
       "url": "https://open.spotify.com/track/4ZfaL1CGxoK5LiBDYZ2AKm"
+    },
+    {
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198761,
+      "name": "VIRAL",
+      "url": "https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O"
     },
     {
       "album": {
@@ -30172,7 +30410,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 160000,
       "name": "WE WANNA GO",
       "url": "https://open.spotify.com/track/2babSeg3ovLuH45EEfqjI0"
@@ -31958,7 +32196,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 176987,
       "name": "YOUNGCREATORCREW",
       "url": "https://open.spotify.com/track/2vKNzC9T3kdU2JECcvob3V"
@@ -32136,6 +32374,24 @@
       "duration_ms": 180906,
       "name": "ZERO:ATTITUDE (Feat. pH-1)",
       "url": "https://open.spotify.com/track/7oZ7KgLcFZGJ0EZXi6BR7M"
+    },
+    {
+      "album": {
+        "name": "SAMUELiTO",
+        "url": "https://open.spotify.com/album/3oeYUHN3tM6qdwXKgXx7UM"
+      },
+      "artists": [
+        {
+          "name": "Samuel",
+          "url": "https://open.spotify.com/artist/0dtXsO617bBzBwDLWC6HXt"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "ZIGI-ZIGI-ZIGI",
+      "url": "https://open.spotify.com/track/6l4qYQkXfZelLBL5GDcM2G"
     },
     {
       "album": {

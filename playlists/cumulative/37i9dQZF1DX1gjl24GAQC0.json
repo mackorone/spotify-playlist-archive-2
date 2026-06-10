@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Atmos - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/2EKRc8vhOZC3ExSdP9WDQi"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Atmos",
+      "url": "https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f"
+    },
+    {
+      "album": {
         "name": "The Beginning : \u59cb\u4f5c",
         "url": "https://open.spotify.com/album/2rk5luKry7s1kCsklJmxKL"
       },
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 172000,
       "name": "Born Savage",
       "url": "https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07"

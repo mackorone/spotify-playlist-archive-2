@@ -4,7 +4,7 @@
 
 > This is Suzanne Ciani\. The essential tracks, all in one playlist.
 
-142 songs - 11 hr 41 min
+144 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,8 @@
 | [Sargasso Sea](https://open.spotify.com/track/4UfL9zy2IO26JAO0jNvkhH) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:32 | 2022-05-29 |  |
 | [Section 1: Seashore](https://open.spotify.com/track/0Cah3MCtf36ptXJp6d4mTy) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Simon Dobson](https://open.spotify.com/artist/4sYhuNqiZ8eTJDvW1OmIiq) | [CIANI/ORKEST](https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl) | 5:57 | 2026-06-09 |  |
 | [Section 2: Ocean Moves](https://open.spotify.com/track/76giO97PVFlVQr4YytMgRU) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Simon Dobson](https://open.spotify.com/artist/4sYhuNqiZ8eTJDvW1OmIiq) | [CIANI/ORKEST](https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl) | 9:37 | 2026-06-07 |  |
+| [Section 3: Contrapuntal](https://open.spotify.com/track/1NockpZTzwjWZ1FNaSqc1Z) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Simon Dobson](https://open.spotify.com/artist/4sYhuNqiZ8eTJDvW1OmIiq) | [CIANI/ORKEST](https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl) | 12:12 | 2026-06-10 |  |
+| [Section 4: Animal Kingdom](https://open.spotify.com/track/3MY4B4mOAg2gGJzVlQcbI8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Simon Dobson](https://open.spotify.com/artist/4sYhuNqiZ8eTJDvW1OmIiq) | [CIANI/ORKEST](https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl) | 6:42 | 2026-06-10 |  |
 | [She Said Yes](https://open.spotify.com/track/4rMYs3LbxL590HCdmQb5mF) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:55 | 2024-10-31 | 2026-02-24 |
 | [Silver Ship](https://open.spotify.com/track/3sWBvGaYnq0cDN6lNNNAIt) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:49 | 2022-05-30 | 2026-03-31 |
 | [Simple Song \- Live](https://open.spotify.com/track/6M64D6EyQPPkQLuLH1EGfs) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:15 | 2022-06-05 | 2026-06-01 |

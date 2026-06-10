@@ -1,15 +1,31 @@
 {
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: Ado",
-  "num_followers": 1010144,
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: \u306a\u3068\u308a",
+  "num_followers": 1010236,
   "original_name": "Tokyo Super Hits! ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO+NFJUUurQtG7UU0EG/nLXXRb/A",
+  "snapshot_id": "AAAAAKyrTjTKyJOVMgC5FNJivjJmxa/X",
   "tracks": [
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
+      "album": {
+        "name": "\u30dd\u30eb\u30bf\u30fc\u30ac\u30a4\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/7GNI6jmeP6Zu4LmyLisoE6"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 191044,
+      "name": "\u30dd\u30eb\u30bf\u30fc\u30ac\u30a4\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/0qfSmp12gevzvvD3FqaBMP"
+    },
+    {
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "Haru Ni Mau",
         "url": "https://open.spotify.com/album/7f9bIpflA9HDFbcdhfPHSn"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/5jJQMbBIXk43XQiIwTtV8q"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "sakanaction",
         "url": "https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "Elderflower",
         "url": "https://open.spotify.com/album/6Bnr1I9oVYXaEChRdKbrYE"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/1UyeRGe8mtGmTNngJe5xh7"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u98a8\u3068\u753a",
         "url": "https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u30d1\u30c3\u30d1\u30d1\u30e9\u30c0\u30a4\u30b9",
         "url": "https://open.spotify.com/album/17T7zbi0mnfD5MPaz67nvQ"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/5uxuw38KCxQg5OmJvoVImg"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u98db\u3076\u6642 / \u98db\u307c\u3046\u3088",
         "url": "https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u3042\u3076\u304f",
         "url": "https://open.spotify.com/album/7gfuOSKYUVBQBdg8Onas9L"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/59h6J25QnnT8xshPTFLkpe"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/6hnk0Fesq9JOhWpck8HJsj"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "BPM (feat. KREVA)",
         "url": "https://open.spotify.com/album/5W2G1puUEsSOQ81l5HT71M"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/2ALt1jzvrbLcOngjkZVq8D"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "Five",
         "url": "https://open.spotify.com/album/2ZujTUIlfon5IhGbUfFaYO"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/2cIqVZFyBH8h5dnrzBvtre"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
         "url": "https://open.spotify.com/album/0fkv7ecmetM6W7GUGQMYGb"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u7523\u58f0",
         "url": "https://open.spotify.com/album/3HzOxCdVJCvRxpKRqqzmuo"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/1K2WDtqX9flfGGktr4sCRU"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "AIZO",
         "url": "https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u706b\u7a2e",
         "url": "https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u50ac\u3057",
         "url": "https://open.spotify.com/album/0IBbhw8p807tbWtSNHWopH"
@@ -269,23 +285,7 @@
       "url": "https://open.spotify.com/track/5rUVuKxVps32tLiIy52JRn"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
-      "album": {
-        "name": "\u30dd\u30eb\u30bf\u30fc\u30ac\u30a4\u30b9\u30c8",
-        "url": "https://open.spotify.com/album/7GNI6jmeP6Zu4LmyLisoE6"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 191044,
-      "name": "\u30dd\u30eb\u30bf\u30fc\u30ac\u30a4\u30b9\u30c8",
-      "url": "https://open.spotify.com/track/0qfSmp12gevzvvD3FqaBMP"
-    },
-    {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "IRIS OUT",
         "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/79wd94vXLJngCwTAVtzYvr"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "TEST ME",
         "url": "https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "LOVE BEAT",
         "url": "https://open.spotify.com/album/1QICMvQde0IakCpcfVhlbz"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/0RthaAjblef55kS5EoipNJ"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "THE CORE - \u6838",
         "url": "https://open.spotify.com/album/07J0T7JwhvJaX6ky1PiyM6"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/5r2FAkZaMsO5SsHwcywQTi"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "STARRING",
         "url": "https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM"
@@ -385,7 +385,23 @@
       "url": "https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
+      "album": {
+        "name": "Crunchy",
+        "url": "https://open.spotify.com/album/73HFi6LgowgPUgDyiQbQY4"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 214860,
+      "name": "Crunchy",
+      "url": "https://open.spotify.com/track/3micqfC9Do9RNjfKXrgXJn"
+    },
+    {
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
         "url": "https://open.spotify.com/album/4wXR68a3kHWi9uusIZDRZ0"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/60Lst9oTXDsAPXvHKUrxpk"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "Isshun",
         "url": "https://open.spotify.com/album/1oX1v6QaKKjDmnJ7Srk31X"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/0yZ5pPfd5fKXPQ8CTIDZV2"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "lulu.",
         "url": "https://open.spotify.com/album/2bgYqKlmGJkD5ugrOyK4bI"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d0\u30fc",
         "url": "https://open.spotify.com/album/3PHKqNh7HXpmblwGJpcNC0"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u666f\u8272",
         "url": "https://open.spotify.com/album/1sEWdrVnS9rVpRGylJYgku"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/3eQnYrSRYJzfTukiYFwsgb"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
         "url": "https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl"
@@ -489,23 +505,7 @@
       "url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
-      "album": {
-        "name": "\u30d1\u30ba\u30eb",
-        "url": "https://open.spotify.com/album/374nxZf7LeBYBvUVKx4fMt"
-      },
-      "artists": [
-        {
-          "name": "Lilas",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-        }
-      ],
-      "duration_ms": 196592,
-      "name": "\u30d1\u30ba\u30eb",
-      "url": "https://open.spotify.com/track/2vdoeTuRLpYeyo3JZC9yzR"
-    },
-    {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u98db\u3076\u6642 / \u98db\u307c\u3046\u3088",
         "url": "https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/4Ael7H7pDC9VIHeA0CxU4U"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "kimagure",
         "url": "https://open.spotify.com/album/4TP7lvpRDEPXlx2vTwuch4"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/6C57BHEiqIaatLzFzqYx4e"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u30d3\u30d0\u30ea\u30a6\u30e0",
         "url": "https://open.spotify.com/album/25vTelGNkp6zgyiYmx7TpI"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/34q8wDVdYGG6rFUIenHrGK"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "IDOLPOWER",
         "url": "https://open.spotify.com/album/1SMsG4N0e3DFPNuOnQRKsA"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/5LP9UNPCIkgHkh7x1AMHnw"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "Pre: Prema",
         "url": "https://open.spotify.com/album/1aslkAwn7kQ4HC9EkHTfaH"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/2jytVzmZdqPLy6wKgMMTfT"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "3XL",
         "url": "https://open.spotify.com/album/56V9F6bbdFCm9GI2UocOcN"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/2wPyVJ04PfumGZQ5bJEVVj"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u91d1\u5b57\u5854",
         "url": "https://open.spotify.com/album/4YlNSnSJwiqx9koO9S9l13"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/0G0FQEoNawD8i0LCrDMAl4"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/1k87ExIwHzjPCq4Js8BZWu"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/1tnRVPwWefsPSv068zpDFX"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "Dogs",
         "url": "https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u30b9\u30ad\u30f3\u30ba - Skins",
         "url": "https://open.spotify.com/album/763UvrUoMGjPlFkgdpLFIH"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/2Hbwu2z4ybNTIMVF8v3SxJ"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "Update ME",
         "url": "https://open.spotify.com/album/1vQuzapDKD0Al92uMdfTZH"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/687s0MqxcPySRNQZCUCJPH"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u3053\u3093\u306a\u65e5\u306f",
         "url": "https://open.spotify.com/album/2G0dlVPEasPaP53aWvS9Z9"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/7HKhGLOcEBQoRLOCZqhcg5"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "No Epilogue",
         "url": "https://open.spotify.com/album/6ZhdDIKUvLWZQMyQkcwey3"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/3hGtbgqDrLBS6CeOpWiEuX"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "JANE DOE",
         "url": "https://open.spotify.com/album/381FouVeKunSg1WZTnmryL"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/334wq5LsvTbKOIauntarEf"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/4CZdaN3oZZrWaYao4kU9cx"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "\u3088\u3042\u3051\u306e\u3046\u305f - Yoake no uta - JUJUTSU KAISEN The Culling Game part1 Ending Theme Song",
         "url": "https://open.spotify.com/album/58vU4Ix3CBflsbWDI9HpaZ"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/5EiVeDviICNBtdhZwGxp0Z"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "One Two Three",
         "url": "https://open.spotify.com/album/5pE3JSHuaNRIYCwS1kmWJY"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/5CEYf8aWwIXLg4cHhn5fou"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "BE:FIRST ALL DAY",
         "url": "https://open.spotify.com/album/69eatCsaFiBwrSIaXbCkj6"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/3C7208lbsu1qFo5oNfYG2I"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "Wind's Anthem (feat. suis From Yorushika)",
         "url": "https://open.spotify.com/album/3bIY6ZyJs190WknnUMIKFp"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/1xjyjzvD6l7nCHMySQrgVc"
     },
     {
-      "added_at": "2026-06-02 15:00:29",
+      "added_at": "2026-06-09 15:00:19",
       "album": {
         "name": "GOOD GIRL BUT NOT FOR YOU",
         "url": "https://open.spotify.com/album/4ER3z7bMjofTmhn2dMrWYu"

@@ -4,7 +4,7 @@
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-341 songs - 19 hr 56 min
+342 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [5050](https://open.spotify.com/track/7aELHm28pobrp3RyazUjmw) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [5050](https://open.spotify.com/album/6gJOJVYAeaJ9F8rvrs1vpz) | 3:06 | 2024-03-11 | 2024-03-21 |
 | [A Veil of Mist](https://open.spotify.com/track/37PyxXH5vlbNcYwxOHbfFn) | [SPACESPEAKERS](https://open.spotify.com/artist/23jUmiOyAG9Dzq6Ayp9LUG), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO), [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw), [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [KOSMIK](https://open.spotify.com/album/22YHa0g0LTJ9kjQ03me248) | 5:02 | 2023-10-19 | 2023-11-03 |
 | [A Ă Â](https://open.spotify.com/track/1aWErZ1ehRZYyNgOKJhP3r) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8), [Anh Phan](https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ), [Queen B](https://open.spotify.com/artist/5gfQbUvWUkA77GzQudtMpZ) | [WeChoice Awards 2024](https://open.spotify.com/album/34kM1CZ2wolcVmmHBiDuRO) | 3:31 | 2025-05-13 | 2025-05-16 |
+| [ABG](https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2) | [nhan.](https://open.spotify.com/artist/6Ju8OqJkXqr9lRIGx9Vs6t), [Xuanpac](https://open.spotify.com/artist/53aQsVsBVoFXO0FAhgVCPM) | [ABG](https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l) | 3:00 | 2026-05-21 |  |
 | [ADAMN](https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb) | [Donald Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q) | [ADAMN](https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB) | 3:43 | 2025-10-13 | 2026-04-13 |
 | [Ai Cho Anh Lương Thiện](https://open.spotify.com/track/0EZRO9aheeMjRXUZaOshre) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [421](https://open.spotify.com/album/0i3IirLVHTlg7JqMvv45tE) | 2:51 | 2024-07-11 | 2024-07-17 |
 | [Ai Mà Biết Được \(feat\. tlinh\)](https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83) | [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [BẬT NÓ LÊN](https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi) | 4:00 | 2024-06-25 | 2025-09-17 |
@@ -28,7 +29,7 @@
 | [An Thần](https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [An Thần](https://open.spotify.com/album/1GZA9k0UojVkU7KFoVVRlC) | 2:54 | 2023-10-19 | 2025-08-17 |
 | [Andree Right Hand xin chào](https://open.spotify.com/track/7Gno6uCKe4TUabuw4HPxiI) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh) | [GENfest 2024 liners](https://open.spotify.com/album/6jSwdu7TgJd74f7qwpzlVd) | 0:24 | 2024-11-18 | 2024-11-25 |
 | [Anh Chưa Biết Em](https://open.spotify.com/track/0U9TFIiCYcOqULZ2dYJcmu) | [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3) | [Anh Chưa Biết Em](https://open.spotify.com/album/3AtUCcrqH1LnCRjkixPcKQ) | 2:58 | 2023-12-24 | 2024-04-19 |
-| [Anh Chỉ Muốn](https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Anh Chỉ Muốn](https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf) | 2:47 | 2024-01-24 |  |
+| [Anh Chỉ Muốn](https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Anh Chỉ Muốn](https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf) | 2:47 | 2024-01-24 | 2026-06-10 |
 | [Anh Luôn Như Vậy](https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Anh Luôn Như Vậy](https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F) | 3:32 | 2023-10-19 | 2026-01-05 |
 | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2) | [The Wind](https://open.spotify.com/artist/5mPRDRL2rclNaPJXOg56Jy), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/album/09A5RmcHovgfGOrvjwVpQI) | 3:32 | 2025-01-07 |  |
 | [Anh mời mẹ nghỉ hiu](https://open.spotify.com/track/05tyiDaTieqFhFWwaoQTyD) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [Để cho anh cưa](https://open.spotify.com/album/0woJbWw5KwUZXG3p6ZKM85) | 3:02 | 2024-03-07 | 2024-03-21 |

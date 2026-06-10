@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PDs1UFaoxq.md) - [plain]
 
 > Welcome to Beechwood Island\. Listen to the music from We Were Liars, a new original series now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,798 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,816 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PDs1UFaoxq.md) - [plain]
 | 59 | [Stardust \- Piano & Strings](https://open.spotify.com/track/2yeUYRNNkG0HJT0ONbt0cg) | [Cary Brothers](https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1) | [Stardust \(Piano & Strings\)](https://open.spotify.com/album/013Gu764n8PWTOufzjEF6z) | 3:48 |
 | 60 | [Feel It All](https://open.spotify.com/track/7pG6VVPQ4C5rJTJ1xXhAhQ) | [Jordan Frye](https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu) | [Feel It All](https://open.spotify.com/album/6TLHa9R1DsXsGlXOyrPT3L) | 2:37 |
 | 61 | [Wild Heart](https://open.spotify.com/track/1tt66eqtpHZWD7mr4SxZlM) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [American Hero](https://open.spotify.com/album/21HMENCxfw31djGv60lk88) | 2:57 |
-| 62 | [Fuck the Bourgeoisie](https://open.spotify.com/track/1kzX75T8diB81V7wZGajrH) | [Kelsey Feral](https://open.spotify.com/artist/1UYTnONneDt7amagcdWycE) | [Trauma Portfolio](https://open.spotify.com/album/5XGOHHSb0EpJDCcHL0kmEI) | 3:08 |
+| 62 | [Fuck the Bourgeoisie](https://open.spotify.com/track/1kzX75T8diB81V7wZGajrH) | [Kelsey Feral](https://open.spotify.com/artist/03NtMm5kZFz3spcjADpZXI) | [Trauma Portfolio](https://open.spotify.com/album/5XGOHHSb0EpJDCcHL0kmEI) | 3:08 |
 | 63 | [Draggin' the Line](https://open.spotify.com/track/4WYFQLVqla6tpYtKsSqcgu) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 2:44 |
 | 64 | [Yellow](https://open.spotify.com/track/23kFnjgdwHUFLWg5FCFR8V) | [Pete + Sara](https://open.spotify.com/artist/7InM5hiAb4wMI0gqDn4LHh) | [1999](https://open.spotify.com/album/6jILlkGy9b3bl4Uye9HYjE) | 4:01 |
 | 65 | [Say Thank You](https://open.spotify.com/track/1qpNhFU2gqHt6LSe2ze85f) | [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU), [Koda Kids](https://open.spotify.com/artist/6Tqb4gf9C6YCBGuJ1GAO3m), [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Say Thank You](https://open.spotify.com/album/7EUFRfkHZNv39fkgQrd8JO) | 2:54 |

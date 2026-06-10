@@ -5983,6 +5983,28 @@
     },
     {
       "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/5MVcKEnoC47BZC5Cy4vGyQ"
+      },
+      "artists": [
+        {
+          "name": "EL TIO ZETTA",
+          "url": "https://open.spotify.com/artist/52prEhuq9zDgQht8UfCLe0"
+        },
+        {
+          "name": "Mala Fama G",
+          "url": "https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164663,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/6F1gSmB8W8bkQppKxCbvvd"
+    },
+    {
+      "album": {
         "name": "BANG",
         "url": "https://open.spotify.com/album/6H4oXVlWyiJrqhAQIItsfN"
       },
@@ -6292,6 +6314,24 @@
       "duration_ms": 242939,
       "name": "Bela Lugosi's Tanz",
       "url": "https://open.spotify.com/track/2YkB2VacjEnt5RfFomjznp"
+    },
+    {
+      "album": {
+        "name": "Believe me",
+        "url": "https://open.spotify.com/album/32V4BnKEwnMr3QmIObawlA"
+      },
+      "artists": [
+        {
+          "name": "La P\u00faa",
+          "url": "https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167280,
+      "name": "Believe me",
+      "url": "https://open.spotify.com/track/5OTEbscf89tdmjZIsEnxmk"
     },
     {
       "album": {
@@ -30600,6 +30640,24 @@
       "duration_ms": 176712,
       "name": "Hanahaki",
       "url": "https://open.spotify.com/track/7iZZ0nvDWuDSSxq7JtNtMO"
+    },
+    {
+      "album": {
+        "name": "Hands of God",
+        "url": "https://open.spotify.com/album/0MmtQzwcyyyfRl0U6Ok6cN"
+      },
+      "artists": [
+        {
+          "name": "Destroy the Moon",
+          "url": "https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335311,
+      "name": "Hands of God",
+      "url": "https://open.spotify.com/track/3ker5A7IVbjfi5gtjnIE0m"
     },
     {
       "album": {

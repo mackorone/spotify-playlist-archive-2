@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Mellow Don Picasso
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,515 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,534 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SixByNine Freestyle](https://open.spotify.com/track/520RBhggShRP2LCWlFie9Z) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [SixByNine Freestyle](https://open.spotify.com/album/13MJ9o2yyUJiDgoAdQuD2k) | 3:58 |
-| 2 | [Asambeni Extended \(feat\. Fistola IneCut\)](https://open.spotify.com/track/7sZJzMDo6s48D4XpRwcLuc) | [XXC Legacy](https://open.spotify.com/artist/2NTfvgbSma5efyg5iyLG43), [ZuluMecca](https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU), [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd), [Fistola Inecut](https://open.spotify.com/artist/7pEx1QNIpPgHEEuSBhxLDI) | [Asambeni Extended \(feat\. Fistola IneCut\)](https://open.spotify.com/album/7Ai5R1rPCdWuppAvYqKjeN) | 5:03 |
+| 2 | [Asambeni Extended \(feat\. Fistola Inecut\)](https://open.spotify.com/track/7sZJzMDo6s48D4XpRwcLuc) | [XXC Legacy](https://open.spotify.com/artist/2NTfvgbSma5efyg5iyLG43), [ZuluMecca](https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU), [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd), [Fistola Inecut](https://open.spotify.com/artist/7pEx1QNIpPgHEEuSBhxLDI) | [Asambeni Extended \(feat\. Fistola Inecut\)](https://open.spotify.com/album/7Ai5R1rPCdWuppAvYqKjeN) | 5:03 |
 | 3 | [Burning Bridge$](https://open.spotify.com/track/5ZldYepUZ7gKAS9OQejC8q) | [Mellow Don Picasso](https://open.spotify.com/artist/339pnItAUowIhBYDcm0mYa), [Die Mondez](https://open.spotify.com/artist/2ceT1FZTvlzjxBGZcjgTh2), [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi) | [Burning Bridge$](https://open.spotify.com/album/2VUS32lpOPkbT248scu12v) | 2:19 |
 | 4 | [Abenam](https://open.spotify.com/track/6fQ2Q5jBl2thFXJARAip9T) | [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [Orish](https://open.spotify.com/artist/3OyqEFF59dNAYg90KTw2qi) | [Abenam](https://open.spotify.com/album/2IdglM5osUF5VjQlhRcSJv) | 2:19 |
 | 5 | [PHUNYUKA BAMPHETHE](https://open.spotify.com/track/6o1G4kPFdWF0PTpWKRtrxQ) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [PHUNYUKA BAMPHETHE](https://open.spotify.com/album/5SOfMsHVhpO1bgWZRjsuCP) | 4:09 |

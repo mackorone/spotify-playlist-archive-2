@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,708 songs - 5 day 22 hr 27 min
+2,709 songs - 5 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -890,6 +890,7 @@
 | [Gjør Med Meg](https://open.spotify.com/track/11jif7NuzvCX2MD9JfegJY) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Enten Går Det Bra, Ellers Går Det Over](https://open.spotify.com/album/3LIWwqu7IMhuWbrw8CqSSd) | 2:43 | 2022-03-29 | 2022-04-03 |
 | [Gjør Med Meg](https://open.spotify.com/track/5hBHXk46yNAqBCciBSnifo) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [..\. Ellers Går Det Over](https://open.spotify.com/album/4hurIYvc3DvWle0IeIfdqY) | 2:43 | 2022-03-20 | 2022-03-30 |
 | [Glad U Came \(feat\. ZieZie\)](https://open.spotify.com/track/0P88fVbvRQGgRQN1GulQNy) | [Liilz](https://open.spotify.com/artist/0PfJ0SW9UpzczeHL5hgdwL), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Glad U Came \(feat\. ZieZie\)](https://open.spotify.com/album/52JvEc5EDwgA854xVckQL9) | 2:05 | 2022-03-21 | 2022-04-30 |
+| [Gledestårer](https://open.spotify.com/track/3vEIRhQjfiaJtjwHcf3NgE) | [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh) | [Spill For Galleriet](https://open.spotify.com/album/2f7lZnPRZhHfUcYzFMaKXb) | 2:26 | 2026-06-09 |  |
 | [Glem meg, men jeg glemmer aldri](https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw) | [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Glem meg, men jeg glemmer aldri](https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI) | 2:22 | 2023-06-03 | 2023-07-16 |
 | [Glemme dæ](https://open.spotify.com/track/5qIjE5hQD9SPxk1ISilnZ8) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC) | [Glemme dæ](https://open.spotify.com/album/4EnJvkeG4zH8D1PPpuTszE) | 2:22 | 2024-10-12 | 2024-10-14 |
 | [Glimpse of Us](https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:53 | 2022-11-07 | 2022-11-20 |
@@ -905,7 +906,7 @@
 | [God Jævla Jul](https://open.spotify.com/track/49F9D2dW6Dz1h2Yaxwhn2l) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [God Jævla Jul](https://open.spotify.com/album/1ULeIwvYm8eslfnbJm0G72) | 2:16 | 2021-12-13 | 2022-01-04 |
 | [GOD'S COUNTRY](https://open.spotify.com/track/04WxWo7XeVyx22xEsrWRUb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:07 | 2023-07-29 | 2023-08-01 |
 | [gokart](https://open.spotify.com/track/68CMlvZ501ptUIXQoBAKUE) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [postkort alicante](https://open.spotify.com/album/2lfr1tJAGLtJVuWPFhzVcq) | 2:37 | 2023-05-27 | 2023-05-31 |
-| [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-06-30 |  |
+| [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-06-30 | 2026-06-10 |
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-10-28 | 2023-02-19 |
 | [Gone Are The Days \(feat\. James Gillespie\)](https://open.spotify.com/track/1MGGLyAMVQo3T9gSEBJjyH) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Gone Are The Days \(feat\. James Gillespie\)](https://open.spotify.com/album/5yyKH8wCNqJxPKSQLzhkKy) | 3:16 | 2021-04-18 | 2021-04-21 |
 | [Gone Are The Days \(feat\. James Gillespie\)](https://open.spotify.com/track/4olrSI30e4RN11Cz2SQgEv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Gone Are The Days \(feat\. James Gillespie\)](https://open.spotify.com/album/4D5C19GMxQELgCLW1EnNeZ) | 3:16 | 2021-04-21 | 2021-08-31 |

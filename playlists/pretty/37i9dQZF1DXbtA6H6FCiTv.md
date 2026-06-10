@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtA6H6FCiTv.md) - [plain]
 
 > Enjoy the SEVENTEEN Seoul concert LIVE SET including the voices of him on stage! \(세븐틴의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,137 likes - 36 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,126 likes - 36 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [FML](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 |
 | 2 | [DON QUIXOTE](https://open.spotify.com/track/7BiEgR5r0yMmFoWC9kOTGf) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Face the Sun](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 2:52 |
-| 3 | [CLAP](https://open.spotify.com/track/19t5GSN3XsLB7UOsZD8Fwv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 2:47 |
+| 3 | [CLAP](https://open.spotify.com/track/19t5GSN3XsLB7UOsZD8Fwv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 2:47 |
 | 4 | [Don't Wanna Cry](https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Al1](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:23 |
 | 5 | [Hello from SEVENTEEN](https://open.spotify.com/track/3BH6NCLS1s6ASMONZsJ7KT) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN TOUR 'FOLLOW' live experience set audio liners](https://open.spotify.com/album/2daHWzpbwPdNEcGeoyBX0F) | 1:31 |
 | 6 | [F\*ck My Life](https://open.spotify.com/track/3tgWMPOY4stCdKYj5NjrAe) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [FML](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:22 |
 | 7 | [THANKS](https://open.spotify.com/track/7cbZIBLhfD9taMBgEsIhIp) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [DIRECTOR'S CUT](https://open.spotify.com/album/5QpD7kgp5dpkNFuG6ez2yI) | 3:33 |
 | 8 | [Dust](https://open.spotify.com/track/7v8v911KfBuFkqXvuDOtNm) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [FML](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 2:45 |
-| 9 | [Pinwheel](https://open.spotify.com/track/2NvrIHgujKttUQyx2uUMY9) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:39 |
+| 9 | [Pinwheel](https://open.spotify.com/track/2NvrIHgujKttUQyx2uUMY9) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:39 |
 | 10 | [HIGHLIGHT](https://open.spotify.com/track/6FdIEgj8ErhkOHbtB6aqFF) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Going Seventeen](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:45 |
 | 11 | [I Don't Understand But I Luv U](https://open.spotify.com/track/3acGHJqr9xU1cnCEfLX1Lx) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [FML](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:29 |
 | 12 | [Back it up](https://open.spotify.com/track/6c5ccrEzRtGQdIM04xNtSI) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 3:07 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtA6H6FCiTv.md) - [plain]
 | 27 | [Energy Check](https://open.spotify.com/track/32wzOwGqS4h99nx6wk8Q9L) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN TOUR 'FOLLOW' live experience set audio liners](https://open.spotify.com/album/2daHWzpbwPdNEcGeoyBX0F) | 1:04 |
 | 28 | [I don't wanna say goodbye](https://open.spotify.com/track/6eoltQSYTWDUsj3cLluJgK) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN TOUR 'FOLLOW' live experience set audio liners](https://open.spotify.com/album/2daHWzpbwPdNEcGeoyBX0F) | 3:08 |
 | 29 | [Shout out to Mr.Boo](https://open.spotify.com/track/1Bd449BgaoXNAMeNeq8KhS) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN TOUR 'FOLLOW' live experience set audio liners](https://open.spotify.com/album/2daHWzpbwPdNEcGeoyBX0F) | 0:27 |
-| 30 | [Campfire](https://open.spotify.com/track/3p1J2lefXYI4mMQqXUez75) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:27 |
+| 30 | [Campfire](https://open.spotify.com/track/3p1J2lefXYI4mMQqXUez75) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:27 |
 | 31 | [HIT](https://open.spotify.com/track/0uIw1c0E2nyFWWwEVzhl30) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 3:23 |
 | 32 | [Encore \- VERY NICE!!](https://open.spotify.com/track/0dqzrNpuncH8SL8oUFHJy9) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN TOUR 'FOLLOW' live experience set audio liners](https://open.spotify.com/album/2daHWzpbwPdNEcGeoyBX0F) | 0:31 |
 | 33 | [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 |

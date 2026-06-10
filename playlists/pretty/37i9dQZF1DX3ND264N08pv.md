@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,359 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,372 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 47 | [Lead By Example \(Official Dominator 2025 Anthem\)](https://open.spotify.com/track/037LhIv2yUudP1jzxB8kSD) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO), [Tha Playah](https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU), [Outblast](https://open.spotify.com/artist/7izfdXPLe9PjsIN0A0k2pE), [The Supreme Team](https://open.spotify.com/artist/3lojVS6Lt1JUvkHSwFXauZ) | [Lead By Example \(Official Dominator 2025 Anthem\)](https://open.spotify.com/album/3UE8VxwYfYVFuGTKZRJkX0) | 4:58 |
 | 48 | [Sikam Szampan Techno](https://open.spotify.com/track/7Isl0TecJwk6ZiihNey0lp) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6) | [Sikam Szampan Techno](https://open.spotify.com/album/0vNH64YmfuzqxXTo41BMNz) | 3:08 |
 | 49 | [Trip to Old England](https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Captain Core](https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu) | [Trip to Old England](https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD) | 3:51 |
-| 50 | [Mortal Kombat \(Bloodlust & Gezellige Uptempo Remix\)](https://open.spotify.com/track/1ogGbWhLNmhtj4CU2tS4Ot) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv) | [Mortal Kombat \(Bloodlust & Gezellige Uptempo Remix\)](https://open.spotify.com/album/6BMhlzYJRtqARVMeFFbnwa) | 2:13 |
+| 50 | [Voice Of The Underground](https://open.spotify.com/track/0qDh203qtw06cri10ahfjj) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Voice Of The Underground](https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2) | 2:55 |
 
-Snapshot ID: `AAAAANZKlJ7Iln6CS6DLwdFTthlSM3AC`
+Snapshot ID: `AAAAANLbP9MQM7QxWjet3G5F2nr2VWx4`

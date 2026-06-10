@@ -4,7 +4,7 @@
 
 > 2023
 
-128 songs - 7 hr 32 min
+129 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Vibrate](https://open.spotify.com/track/49qlXXclrGVj1V9mtQovx3) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [How To Steal The World](https://open.spotify.com/album/4kGCKCIGbJvPP6TQT9XPqc) | 4:08 | 2023-09-01 |  |
 | [Wall of Glass](https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 3:43 | 2024-10-30 |  |
 | [WELLLL](https://open.spotify.com/track/4ItvsNSOAAoSCvgxTVZtKx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 2:38 | 2025-04-23 |  |
+| [What Went Down](https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 5:00 | 2026-06-09 |  |
 | [What Will You Do \(When The Money Goes\)?](https://open.spotify.com/track/1gnVTNttw3HN7tMYeU2dEh) | [Milburn](https://open.spotify.com/artist/1KlihEB7FggW8e9cMbPXAz) | [These Are The Facts](https://open.spotify.com/album/2vS6cs06CitxnzkWSfOLHg) | 3:53 | 2025-08-24 |  |
 | [When The Sun Goes Down](https://open.spotify.com/track/2zzLRQ78kKfPTx8FJQCdC2) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 3:22 | 2022-03-11 |  |
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2022-07-06 |  |

@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 60227,
+  "num_followers": 60245,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -212,16 +212,16 @@
       },
       "artists": [
         {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        },
+        {
           "name": "Young Legend",
           "url": "https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd"
         },
         {
           "name": "Joeboy",
           "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
         }
       ],
       "duration_ms": 167000,
@@ -531,26 +531,6 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "Prince of the Street",
-        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Realness",
-      "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
-    },
-    {
-      "added_at": "2026-05-29 00:02:09",
-      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 181606,
       "name": "Titi",
       "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
+    },
+    {
+      "added_at": "2026-05-29 00:02:09",
+      "album": {
+        "name": "Prince of the Street",
+        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Realness",
+      "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
     },
     {
       "added_at": "2026-05-29 00:02:09",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 196202,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
+    },
+    {
+      "added_at": "2026-05-29 00:02:09",
+      "album": {
         "name": "DEARLY",
         "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 181495,
       "name": "DEARLY",
       "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
-    },
-    {
-      "added_at": "2026-05-29 00:02:09",
-      "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 196202,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
     },
     {
       "added_at": "2026-05-29 00:02:09",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "Anini (Thief)",
-        "url": "https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82"
-      },
-      "artists": [
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        }
-      ],
-      "duration_ms": 189570,
-      "name": "Anini (Thief)",
-      "url": "https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv"
-    },
-    {
-      "added_at": "2026-05-29 00:02:09",
-      "album": {
         "name": "A1 (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/5Z5Uwng7e3a0sdvzX4oMdB"
       },
@@ -1207,6 +1191,38 @@
       "duration_ms": 131526,
       "name": "A1 (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/3kBjs166DWzq9vvxKgRtlw"
+    },
+    {
+      "added_at": "2026-05-29 00:02:09",
+      "album": {
+        "name": "Anini (Thief)",
+        "url": "https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82"
+      },
+      "artists": [
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        }
+      ],
+      "duration_ms": 189570,
+      "name": "Anini (Thief)",
+      "url": "https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv"
+    },
+    {
+      "added_at": "2026-05-29 00:02:09",
+      "album": {
+        "name": "Backyard Party",
+        "url": "https://open.spotify.com/album/4rWd483TmUL1Av92BrRJjh"
+      },
+      "artists": [
+        {
+          "name": "Eli Jae",
+          "url": "https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ"
+        }
+      ],
+      "duration_ms": 171262,
+      "name": "Backyard Party",
+      "url": "https://open.spotify.com/track/0Jn7TnPVZAswFmQQWQ8V3N"
     },
     {
       "added_at": "2026-05-29 00:02:09",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "I'm Available",
-        "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 196530,
-      "name": "I'm Available",
-      "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
-    },
-    {
-      "added_at": "2026-05-29 00:02:09",
-      "album": {
         "name": "US III",
         "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
       },
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "Backyard Party",
-        "url": "https://open.spotify.com/album/4rWd483TmUL1Av92BrRJjh"
+        "name": "I'm Available",
+        "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
       },
       "artists": [
         {
-          "name": "Eli Jae",
-          "url": "https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ"
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
         }
       ],
-      "duration_ms": 171262,
-      "name": "Backyard Party",
-      "url": "https://open.spotify.com/track/0Jn7TnPVZAswFmQQWQ8V3N"
+      "duration_ms": 196530,
+      "name": "I'm Available",
+      "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
     },
     {
       "added_at": "2026-05-29 00:02:09",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "Over The Moon",
-        "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Over The Moon",
-      "url": "https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM"
-    },
-    {
-      "added_at": "2026-05-29 00:02:09",
-      "album": {
         "name": "ITEM VII",
         "url": "https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 159444,
       "name": "Available",
       "url": "https://open.spotify.com/track/7dxIRBHniuTu8lKYJsTcM5"
+    },
+    {
+      "added_at": "2026-05-29 00:02:09",
+      "album": {
+        "name": "Over The Moon",
+        "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Over The Moon",
+      "url": "https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM"
     },
     {
       "added_at": "2026-05-29 00:02:09",

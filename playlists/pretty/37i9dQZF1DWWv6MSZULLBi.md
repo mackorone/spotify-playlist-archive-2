@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Bella White
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,889 likes - 150 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,885 likes - 150 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 72 | [Making Good Time](https://open.spotify.com/track/1FUh5DRRafCahnEDdc3QzR) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94), [Brady Lee](https://open.spotify.com/artist/648RtwceZvelnaBXkMc15T) | [Making Good Time](https://open.spotify.com/album/785XTW6UrmujrMYTpBG96f) | 2:56 |
 | 73 | [AHEAD BY A CENTURY](https://open.spotify.com/track/7FVG3onyy9GbhysR3sREKy) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0), [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR), [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [AHEAD BY A CENTURY](https://open.spotify.com/album/1a73bXVGwFTlNCuL2Bqrwd) | 3:27 |
 | 74 | [Pale Blue Eyes](https://open.spotify.com/track/4TvmANoYjSYuYk6oXkiG29) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Pale Blue Eyes](https://open.spotify.com/album/1TXPiNt8GDt6UCXI7kT0yk) | 3:33 |
-| 75 | [Tiger Blood](https://open.spotify.com/track/33GW7UkXxsIDwb0tWL99q5) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Tiger Blood](https://open.spotify.com/album/5VXuq0HNXIadIwJrQmaIxP) | 3:52 |
+| 75 | [Tiger Blood](https://open.spotify.com/track/33GW7UkXxsIDwb0tWL99q5) | [Houndmouth](https://open.spotify.com/artist/5E3ZpulF9dBTGYE6njBV2P) | [Tiger Blood](https://open.spotify.com/album/5VXuq0HNXIadIwJrQmaIxP) | 3:52 |
 | 76 | [Nosebleed](https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj), [Lyla George](https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa) | [Nosebleed](https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh) | 4:47 |
 | 77 | [Lighthearted](https://open.spotify.com/track/0g8dcefRBlz8rCLG0HUxzL) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Lighthearted](https://open.spotify.com/album/578ibCcGypCvhLWHQpKFrB) | 4:19 |
 | 78 | [Moon Not Mine](https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Singing](https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf) | 3:37 |

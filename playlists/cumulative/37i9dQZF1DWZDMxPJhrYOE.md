@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,128 songs - 2 day 10 hr 53 min
+1,129 songs - 2 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp) | 2:59 | 2024-12-06 | 2025-03-28 |
 | [Bus Stop Please \- David Guetta & Morten Future Rave Remix](https://open.spotify.com/track/75rc1El3Y6X4uhJD3UK0xn) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Bus Stop Please \(David Guetta & Morten Future Rave Remix\)](https://open.spotify.com/album/4ZTjlo4DdfAH98ffFyT51r) | 3:12 | 2025-08-07 | 2025-08-11 |
 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 | 2025-02-13 | 2025-05-30 |
-| [Butterfly Feelings](https://open.spotify.com/track/7HJdIi4rzQqj5LkUQfZWRb) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Butterfly Feelings](https://open.spotify.com/album/7awlJuOXZ3LIf35souKNDu) | 2:35 | 2026-06-04 |  |
+| [Butterfly Feelings](https://open.spotify.com/track/7HJdIi4rzQqj5LkUQfZWRb) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Butterfly Feelings](https://open.spotify.com/album/7awlJuOXZ3LIf35souKNDu) | 2:35 | 2026-06-04 | 2026-06-10 |
 | [By a Monster’s Hand](https://open.spotify.com/track/57Q2OMlhA2r4GOPPfcqqR9) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [By a Monster’s Hand](https://open.spotify.com/album/1v2xwYDX1DPiIqIR4mKJxV) | 3:42 | 2025-03-07 | 2025-06-06 |
 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 | 2024-09-26 | 2024-11-18 |
 | [California Dreamin'](https://open.spotify.com/track/7yD18NJa58SJnzjMTlPRU0) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [California Dreamin'](https://open.spotify.com/album/0MlN0yBNuDQ2pRDsUKfWMI) | 3:37 | 2025-03-31 | 2025-06-27 |
@@ -312,6 +312,7 @@
 | [EUROSTAR](https://open.spotify.com/track/46gf5ClsKEE6P2B7Kd7vCi) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [EUROSTAR](https://open.spotify.com/album/6eJDqX0k8DbyYQHqeai3uT) | 2:36 | 2025-01-21 | 2025-02-28 |
 | [Eurosummer \- Girls Trip](https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 2:50 | 2026-04-30 |  |
 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 | 2025-01-10 | 2025-01-11 |
+| [Every Single Weekend \(feat\. Jamie xx\)](https://open.spotify.com/track/0nac7FVmtrYm0O3Iu27ijo) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Every Single Weekend \(feat\. Jamie xx\)](https://open.spotify.com/album/0bDV16KDFYNix2fGuUQ6cw) | 2:10 | 2026-06-04 |  |
 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 | 2025-08-21 | 2025-11-21 |
 | [Everyone’s A Star!](https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa) | 3:15 | 2025-11-13 | 2026-02-20 |
 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-21 | 2025-05-23 |

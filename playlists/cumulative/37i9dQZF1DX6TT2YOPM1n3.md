@@ -4,7 +4,7 @@
 
 > Apne mulk ki homegrown hits 🎶 Cover: Samar Jafri
 
-316 songs - 21 hr 35 min
+317 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Wife You](https://open.spotify.com/track/5A7uVk7orEzrR9NA8ppFus) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 4:16 | 2023-09-11 | 2023-09-30 |
 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 | 2023-09-11 |  |
 | [Wo Humsafar Tha \- From "Humsafar"](https://open.spotify.com/track/2z8o3kYaRs2nZGxnZ691SJ) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Wo Humsafar Tha \(From "Humsafar"\)](https://open.spotify.com/album/36UC2snz7H2x2YaU2YSEr3) | 6:26 | 2023-05-04 | 2023-12-30 |
+| [Woh](https://open.spotify.com/track/1GDJhAiO9tqjMuDWFad0IF) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Woh](https://open.spotify.com/album/2tbamcNG4xK0jKrd1lSzXX) | 3:57 | 2026-06-09 |  |
 | [Woh Lamhe \- Remix](https://open.spotify.com/track/723pP4FLUQv1qSAnQtgl78) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Zeher \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PsWxlYQv7GXgaoIJOFL13) | 5:20 | 2023-05-04 | 2023-05-23 |
 | [Wohi Khuda](https://open.spotify.com/track/0c8eAkUFDMCgJB53lplqJv) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Wohi Khuda](https://open.spotify.com/album/4obnIXVOOxpSRY8mgzsDjp) | 6:49 | 2026-03-06 | 2026-03-14 |
 | [Ya Allah Ya Rehman](https://open.spotify.com/track/7MXYMRDNVXJg9euepwFmpS) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Chain of Light](https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77) | 10:47 | 2024-09-20 | 2024-09-24 |

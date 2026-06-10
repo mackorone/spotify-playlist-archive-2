@@ -4,7 +4,7 @@
 
 > powered by www.releasejet.ai most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-827 songs - 1 day 12 hr 47 min
+828 songs - 1 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,6 +682,7 @@
 | [Smoke](https://open.spotify.com/track/1kaU2OVc5Zj1uFaw50W8ZE) | [Cowbell Cult](https://open.spotify.com/artist/7FfHiQkwzx9vZPflBBtk6F), [Joehdah](https://open.spotify.com/artist/7pZPHbnazpBvpdAG51TuxQ) | [Cowbell Cult, Vol\. 1](https://open.spotify.com/album/78dlN8ziXrEeDNHIxt8u4o) | 1:54 | 2023-06-12 |  |
 | [Smoked Out Killaz \(with Devilish Trio\)](https://open.spotify.com/track/2T2lDhIKMuJxIZikvALp17) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [Devilish Trio](https://open.spotify.com/artist/45brkGrBxvV5pxj8eiImiF) | [Smoked Out Killaz \(with Devilish Trio\)](https://open.spotify.com/album/0GEQ7DZ1RU0u3u2hfK1SKa) | 2:15 | 2023-12-08 | 2024-01-13 |
 | [snowfall](https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall](https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH) | 2:04 | 2023-06-12 |  |
+| [So Bored](https://open.spotify.com/track/1J8Ofo3J2TKVxRincygKbW) | [ALLERGi](https://open.spotify.com/artist/7HTPju4hkpRIxnUY1dZglR) | [So Bored](https://open.spotify.com/album/7Hqh61uSXJZKs82AuHxJo2) | 2:08 | 2026-06-09 |  |
 | [So High](https://open.spotify.com/track/0WSSJ8Wmj8HicvR1ZnCiPT) | [DAM DRE](https://open.spotify.com/artist/25rTRpRir3IZKrIz7Ticoq) | [So High](https://open.spotify.com/album/5pf0HUyJzLJLW7Wv31fGic) | 2:26 | 2023-07-29 | 2023-08-08 |
 | [so nice of you](https://open.spotify.com/track/0kvJIoVCamQAYrd0CL2lyD) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [so nice of you](https://open.spotify.com/album/2NveJmvAvsRGG3WBCxjA3i) | 2:10 | 2023-12-16 | 2024-01-19 |
 | [SO TIRED](https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [SO TIRED](https://open.spotify.com/album/688ytwDXOttov235i5WAk8) | 2:52 | 2023-06-25 | 2023-08-06 |

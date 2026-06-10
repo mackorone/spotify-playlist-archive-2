@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Braxton Keith",
-  "num_followers": 402392,
+  "num_followers": 402373,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-05-29 04:02:01",
       "album": {
-        "name": "Diamondhead",
-        "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
-      },
-      "artists": [
-        {
-          "name": "J.R. Carroll",
-          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
-        }
-      ],
-      "duration_ms": 187375,
-      "name": "Diamondhead",
-      "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
-    },
-    {
-      "added_at": "2026-05-29 04:02:01",
-      "album": {
         "name": "Flyin",
         "url": "https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 274626,
       "name": "Nothin But Texas",
       "url": "https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG"
+    },
+    {
+      "added_at": "2026-05-29 04:02:01",
+      "album": {
+        "name": "Diamondhead",
+        "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
+      },
+      "artists": [
+        {
+          "name": "J.R. Carroll",
+          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
+        }
+      ],
+      "duration_ms": 187375,
+      "name": "Diamondhead",
+      "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
     },
     {
       "added_at": "2026-05-29 04:02:01",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-05-29 04:02:01",
       "album": {
-        "name": "Three Drinks Behind",
-        "url": "https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Three Drinks Behind",
-      "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
-    },
-    {
-      "added_at": "2026-05-29 04:02:01",
-      "album": {
         "name": "She'll Dance For Whiskey [Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)]",
         "url": "https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 287400,
       "name": "She'll Dance For Whiskey - Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)",
       "url": "https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL"
+    },
+    {
+      "added_at": "2026-05-29 04:02:01",
+      "album": {
+        "name": "Three Drinks Behind",
+        "url": "https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Three Drinks Behind",
+      "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
     },
     {
       "added_at": "2026-05-29 04:02:01",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-05-29 04:02:01",
       "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 218480,
-      "name": "The Little Things",
-      "url": "https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl"
-    },
-    {
-      "added_at": "2026-05-29 04:02:01",
-      "album": {
         "name": "Coulda Been Love",
         "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 172866,
       "name": "Coulda Been Love",
       "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
+    },
+    {
+      "added_at": "2026-05-29 04:02:01",
+      "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 218480,
+      "name": "The Little Things",
+      "url": "https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl"
     },
     {
       "added_at": "2026-05-29 04:02:01",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-05-29 04:02:01",
       "album": {
+        "name": "Up In Texas",
+        "url": "https://open.spotify.com/album/6ECMDvNJ3mAY49NiYxE3eW"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 191269,
+      "name": "Up In Texas",
+      "url": "https://open.spotify.com/track/7KJVh9zU77dzRVs9ZDyztF"
+    },
+    {
+      "added_at": "2026-05-29 04:02:01",
+      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/5fSCA9ESxtQPp2njYQlDBp"
       },
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2026-05-29 04:02:01",
       "album": {
-        "name": "Up In Texas",
-        "url": "https://open.spotify.com/album/6ECMDvNJ3mAY49NiYxE3eW"
+        "name": "I Keep Your Memory Around",
+        "url": "https://open.spotify.com/album/7waJk7mvaaMcC6lauq5KbE"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 191269,
-      "name": "Up In Texas",
-      "url": "https://open.spotify.com/track/7KJVh9zU77dzRVs9ZDyztF"
+      "duration_ms": 186133,
+      "name": "I Keep Your Memory Around",
+      "url": "https://open.spotify.com/track/2mESfK7oU1V1CHr1j78FE8"
     },
     {
       "added_at": "2026-05-29 04:02:01",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2026-05-29 04:02:01",
       "album": {
-        "name": "I Keep Your Memory Around",
-        "url": "https://open.spotify.com/album/7waJk7mvaaMcC6lauq5KbE"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "I Keep Your Memory Around",
-      "url": "https://open.spotify.com/track/2mESfK7oU1V1CHr1j78FE8"
-    },
-    {
-      "added_at": "2026-05-29 04:02:01",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 201733,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU"
-    },
-    {
-      "added_at": "2026-05-29 04:02:01",
-      "album": {
-        "name": "Live From Cheatham Street",
-        "url": "https://open.spotify.com/album/5toLbY15yPPb1iVknycOc0"
-      },
-      "artists": [
-        {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
-        }
-      ],
-      "duration_ms": 254013,
-      "name": "All Of My Exes (Still Make Me Breakfast) - Live From Cheatham Street",
-      "url": "https://open.spotify.com/track/48pMU2RkrMLAzM4NfGIBUQ"
     },
     {
       "added_at": "2026-05-29 04:02:01",
@@ -1283,22 +1267,18 @@
     {
       "added_at": "2026-05-29 04:02:01",
       "album": {
-        "name": "I'm The One",
-        "url": "https://open.spotify.com/album/31cSwPDJHYe00GhuyOxfvu"
+        "name": "Live From Cheatham Street",
+        "url": "https://open.spotify.com/album/5toLbY15yPPb1iVknycOc0"
       },
       "artists": [
         {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
-        },
-        {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 175973,
-      "name": "I'm The One (feat. Marty Stuart)",
-      "url": "https://open.spotify.com/track/6tMUkiyHP1DMMcoqCS6fkY"
+      "duration_ms": 254013,
+      "name": "All Of My Exes (Still Make Me Breakfast) - Live From Cheatham Street",
+      "url": "https://open.spotify.com/track/48pMU2RkrMLAzM4NfGIBUQ"
     },
     {
       "added_at": "2026-05-29 04:02:01",
@@ -1315,6 +1295,26 @@
       "duration_ms": 182133,
       "name": "When My Baby\u2019s In Boots",
       "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
+    },
+    {
+      "added_at": "2026-05-29 04:02:01",
+      "album": {
+        "name": "I'm The One",
+        "url": "https://open.spotify.com/album/31cSwPDJHYe00GhuyOxfvu"
+      },
+      "artists": [
+        {
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        },
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+        }
+      ],
+      "duration_ms": 175973,
+      "name": "I'm The One (feat. Marty Stuart)",
+      "url": "https://open.spotify.com/track/6tMUkiyHP1DMMcoqCS6fkY"
     },
     {
       "added_at": "2026-05-29 04:02:01",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-05-29 04:02:01",
       "album": {
+        "name": "What Else Can She Do",
+        "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "jackson",
+      "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
+    },
+    {
+      "added_at": "2026-05-29 04:02:01",
+      "album": {
         "name": "God Blessed Texas",
         "url": "https://open.spotify.com/album/23oHCXpMbOCGkvEgvsbSfG"
       },
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2026-05-29 04:02:01",
       "album": {
-        "name": "What Else Can She Do",
-        "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
       },
       "artists": [
         {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
         }
       ],
-      "duration_ms": 234360,
-      "name": "jackson",
-      "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
     },
     {
       "added_at": "2026-05-29 04:02:01",
@@ -1455,22 +1471,6 @@
       "duration_ms": 206266,
       "name": "Two Hands",
       "url": "https://open.spotify.com/track/7vVC6koJ1ZxiegJItW77pA"
-    },
-    {
-      "added_at": "2026-05-29 04:02:01",
-      "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
     },
     {
       "added_at": "2026-05-29 04:02:01",

@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-289 songs - 16 hr 36 min
+290 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2025-01-24 |  |
 | [Fortuna](https://open.spotify.com/track/5FvUg3e3O0Bzw3p1toKinS) | [Xiara 2X](https://open.spotify.com/artist/6oSjy7I9qIzShcBE4I4xG7) | [Fortuna](https://open.spotify.com/album/3DLEVXuo9rPQ9K4ftA2RxR) | 2:36 | 2025-01-26 |  |
 | [FREAK](https://open.spotify.com/track/57xFboqhIKfV73qGa0uFuL) | [Gugú](https://open.spotify.com/artist/31A1phedmHXdiJ6MnKaSHE) | [FREAK](https://open.spotify.com/album/7vo1oZdkr3gnqwAlcIPLdx) | 3:21 | 2025-08-20 | 2026-04-06 |
+| [Free](https://open.spotify.com/track/6OqjQaWodDidWdfXJSsHqO) | [Ricksta1](https://open.spotify.com/artist/6kmGSbY8x1RN8yhXGqMfUF) | [Free](https://open.spotify.com/album/5B1dxyXlquh79BqGRUmh49) | 1:37 | 2026-06-09 |  |
 | [Fuego](https://open.spotify.com/track/1fCFjHamH9I3w9Qd32vjW3) | [Chicoselfie](https://open.spotify.com/artist/2jiH07cfJhSjf95VGyJsrR) | [Fuego](https://open.spotify.com/album/6L2AarSy8Spgw3TejARFBN) | 5:00 | 2026-02-09 | 2026-04-06 |
 | [Fuera de Control](https://open.spotify.com/track/1U07pG0CtXIqSPFxgsK2ar) | [Nico Wang](https://open.spotify.com/artist/4g89i0erqfKJe64n6wkOX8) | [Fuera de Control](https://open.spotify.com/album/0NPpGRge0wJIhrnYfHSRtb) | 3:21 | 2025-03-13 | 2026-04-06 |
 | [Fácil](https://open.spotify.com/track/3rRop1scvy1R3xhqTuS1q7) | [Fran Torrella](https://open.spotify.com/artist/7bFXH7TevOccNpWYQjmMc6) | [Fácil](https://open.spotify.com/album/0tfos3oIbkQpNiKDRfEZhV) | 4:03 | 2025-02-15 | 2026-04-06 |

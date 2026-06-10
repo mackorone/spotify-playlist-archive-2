@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 296910,
+  "num_followers": 296940,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAADwlsta7gqnRKGu6qwXR+Ol",
+  "snapshot_id": "aiYGAAAAAADSAwPwOfC2bX7/mIPRNoVi",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "highway robbery (feat. Lenny Kravitz)",
-        "url": "https://open.spotify.com/album/5x9833iDvciVUJZ9ml5HZv"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        },
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "highway robbery (feat. Lenny Kravitz)",
-      "url": "https://open.spotify.com/track/4iuyHLFblqYFi3REOrMkMP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 317026,
       "name": "If You Can't Say No",
       "url": "https://open.spotify.com/track/5J221XVh7Kxg2bC4IWQ19n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "highway robbery (feat. Lenny Kravitz)",
+        "url": "https://open.spotify.com/album/5x9833iDvciVUJZ9ml5HZv"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 208786,
+      "name": "highway robbery (feat. Lenny Kravitz)",
+      "url": "https://open.spotify.com/track/4iuyHLFblqYFi3REOrMkMP"
     },
     {
       "added_at": null,

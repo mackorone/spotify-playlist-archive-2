@@ -3623,6 +3623,28 @@
     },
     {
       "album": {
+        "name": "Arame Farpado",
+        "url": "https://open.spotify.com/album/0xrivo48vVCYtbyvoor7WT"
+      },
+      "artists": [
+        {
+          "name": "Som de Faculdade",
+          "url": "https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156034,
+      "name": "Arame Farpado",
+      "url": "https://open.spotify.com/track/1nPAnnIsvOWmPEBY5OECXd"
+    },
+    {
+      "album": {
         "name": "Manifesto Musical (Ao Vivo / Vol. 1)",
         "url": "https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau"
       },
@@ -3670,7 +3692,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 180832,
       "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
       "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
@@ -3892,7 +3914,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 166666,
       "name": "Assunto Que D\u00f3i",
       "url": "https://open.spotify.com/track/0vKdIvvXWdvaQ2qPVchDWB"
@@ -4192,7 +4214,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -4956,7 +4978,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 146750,
       "name": "Baqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
@@ -5116,7 +5138,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 247980,
       "name": "Beatriz",
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
@@ -16858,7 +16880,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
@@ -18206,7 +18228,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 251840,
       "name": "Irm\u00e3o da Lua, Amigo das Estrelas",
       "url": "https://open.spotify.com/track/1PW3LjmxJqVoQ9nmdbxF9f"
@@ -24823,6 +24845,28 @@
     },
     {
       "album": {
+        "name": "Quem N\u00e3o Chora Faz Bico 2",
+        "url": "https://open.spotify.com/album/5IX2z9CIk2rKTb9FYms8mK"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Moraes",
+          "url": "https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C"
+        },
+        {
+          "name": "ASTRONEJO",
+          "url": "https://open.spotify.com/artist/3P0Px7NoQcBMVVmyc3CDEh"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191402,
+      "name": "No Mesmo Lugar",
+      "url": "https://open.spotify.com/track/1mdW2ieN6VWyoIQxJIlzuT"
+    },
+    {
+      "album": {
         "name": "No Ouvidinho",
         "url": "https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq"
       },
@@ -28128,7 +28172,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 162325,
       "name": "Pela \u00daltima Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/6B7ot6Wlqf7zt3FCkYl2FJ"
@@ -30748,7 +30792,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 468953,
       "name": "Quem \u00c9 Esse? - Ao Vivo",
       "url": "https://open.spotify.com/track/035Q417M83JnP3wvSlyFEK"
@@ -31804,7 +31848,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 136615,
       "name": "Rua do Ouro",
       "url": "https://open.spotify.com/track/0oKdsMglh1dTsX4nrkURMX"

@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88939,
+  "num_followers": 88946,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "back to you (you're the reason)",
+        "url": "https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M"
+      },
+      "artists": [
+        {
+          "name": "satellite.",
+          "url": "https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn"
+        }
+      ],
+      "duration_ms": 240392,
+      "name": "back to you (you're the reason)",
+      "url": "https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "Fall Into You",
         "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "back to you (you're the reason)",
-        "url": "https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M"
-      },
-      "artists": [
-        {
-          "name": "satellite.",
-          "url": "https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn"
-        }
-      ],
-      "duration_ms": 240392,
-      "name": "back to you (you're the reason)",
-      "url": "https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Bluebird",
         "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 179871,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "CYCLE HIT 1997-2005 Spitz Complete Single Collection",
-        "url": "https://open.spotify.com/album/6GIlUDPdLxPLpPfVJvIwgJ"
-      },
-      "artists": [
-        {
-          "name": "SPITZ",
-          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
-        }
-      ],
-      "duration_ms": 269413,
-      "name": "\u5922\u3058\u3083\u306a\u3044",
-      "url": "https://open.spotify.com/track/3aqBmRNL7ptMZ5PimLVif2"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -739,18 +723,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "A Little More Time",
-        "url": "https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa"
+        "name": "CYCLE HIT 1997-2005 Spitz Complete Single Collection",
+        "url": "https://open.spotify.com/album/6GIlUDPdLxPLpPfVJvIwgJ"
       },
       "artists": [
         {
-          "name": "hongjoin",
-          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
         }
       ],
-      "duration_ms": 240827,
-      "name": "A Little More Time",
-      "url": "https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB"
+      "duration_ms": 269413,
+      "name": "\u5922\u3058\u3083\u306a\u3044",
+      "url": "https://open.spotify.com/track/3aqBmRNL7ptMZ5PimLVif2"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -767,6 +751,22 @@
       "duration_ms": 194586,
       "name": "See You Soon",
       "url": "https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "A Little More Time",
+        "url": "https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "duration_ms": 240827,
+      "name": "A Little More Time",
+      "url": "https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "FIVE",
-        "url": "https://open.spotify.com/album/7DKZH8zqKxCRx43r1896I5"
-      },
-      "artists": [
-        {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
-        }
-      ],
-      "duration_ms": 211855,
-      "name": "FIVE",
-      "url": "https://open.spotify.com/track/5ICTfedPA2JOufnA8TeeDU"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 162000,
       "name": "Move On",
       "url": "https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "FIVE",
+        "url": "https://open.spotify.com/album/7DKZH8zqKxCRx43r1896I5"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "duration_ms": 211855,
+      "name": "FIVE",
+      "url": "https://open.spotify.com/track/5ICTfedPA2JOufnA8TeeDU"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "pineapple bun",
-        "url": "https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md"
-      },
-      "artists": [
-        {
-          "name": "Dessy",
-          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "pineapple bun",
-      "url": "https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "LIGHTHOUSE",
         "url": "https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/5uMRnkmSWRgwuWvtdwayO7"
+        "name": "pineapple bun",
+        "url": "https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md"
       },
       "artists": [
         {
-          "name": "AVOCADO BOYS",
-          "url": "https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo"
+          "name": "Dessy",
+          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
         }
       ],
-      "duration_ms": 298194,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/2hsTr2uDmLOk5BusqU1jc6"
+      "duration_ms": 209655,
+      "name": "pineapple bun",
+      "url": "https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1679,6 +1663,22 @@
       "duration_ms": 244465,
       "name": "APOLLO (feat. \u6843\u5b50A1J)",
       "url": "https://open.spotify.com/track/7sREJmvhWTOjcYgLTTgSOg"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/5uMRnkmSWRgwuWvtdwayO7"
+      },
+      "artists": [
+        {
+          "name": "AVOCADO BOYS",
+          "url": "https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo"
+        }
+      ],
+      "duration_ms": 298194,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/2hsTr2uDmLOk5BusqU1jc6"
     }
   ],
   "unique_name": "Mid Tempo Magic",

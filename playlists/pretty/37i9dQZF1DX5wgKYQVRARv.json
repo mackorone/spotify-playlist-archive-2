@@ -1,6 +1,6 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Periphery",
-  "num_followers": 569789,
+  "num_followers": 569827,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/3OkzPyOooJP45KQ4DQKASB"
+      },
+      "artists": [
+        {
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+        }
+      ],
+      "duration_ms": 213912,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/08a4bFctE95DLCqCAFezR9"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "Return To One",
         "url": "https://open.spotify.com/album/2pKC84UFiaaol1GosInWBs"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 215759,
       "name": "Return To One",
       "url": "https://open.spotify.com/track/3d4gBGDpByOnQXCcj0d8Uf"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/3OkzPyOooJP45KQ4DQKASB"
-      },
-      "artists": [
-        {
-          "name": "Gore.",
-          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
-        }
-      ],
-      "duration_ms": 213912,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/08a4bFctE95DLCqCAFezR9"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Enter the City",
-        "url": "https://open.spotify.com/album/5EFHnhXAwF6eYy6u0lmNgh"
-      },
-      "artists": [
-        {
-          "name": "Devin Townsend",
-          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "Enter the City",
-      "url": "https://open.spotify.com/track/58npauGm62yQgWgS5X2nd6"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Green Serpent",
         "url": "https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 241413,
       "name": "Green Serpent",
       "url": "https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Enter the City",
+        "url": "https://open.spotify.com/album/5EFHnhXAwF6eYy6u0lmNgh"
+      },
+      "artists": [
+        {
+          "name": "Devin Townsend",
+          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "Enter the City",
+      "url": "https://open.spotify.com/track/58npauGm62yQgWgS5X2nd6"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Holocene",
+        "url": "https://open.spotify.com/album/1JS5Xf3DiLfVAb904ZGlyT"
+      },
+      "artists": [
+        {
+          "name": "The Ocean",
+          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
+        }
+      ],
+      "duration_ms": 304440,
+      "name": "Preboreal",
+      "url": "https://open.spotify.com/track/6h4opbGz6a2CKw00Syr91I"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "Diluted Dreams",
         "url": "https://open.spotify.com/album/1a01YAkWypznv6q2fQcpzr"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 167200,
       "name": "Diluted Dreams",
       "url": "https://open.spotify.com/track/4yDiN4Ak4T47JUAoXsTHQp"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Holocene",
-        "url": "https://open.spotify.com/album/1JS5Xf3DiLfVAb904ZGlyT"
-      },
-      "artists": [
-        {
-          "name": "The Ocean",
-          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
-        }
-      ],
-      "duration_ms": 304440,
-      "name": "Preboreal",
-      "url": "https://open.spotify.com/track/6h4opbGz6a2CKw00Syr91I"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Synaesthesia",
-        "url": "https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU"
+        "name": "Beyond the Reach of the Sun",
+        "url": "https://open.spotify.com/album/1IQZLI0hmtFd073Dp8aZPE"
       },
       "artists": [
         {
-          "name": "Weather Systems",
-          "url": "https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq"
+          "name": "Anciients",
+          "url": "https://open.spotify.com/artist/3YQOcYukzO6U1MjFcavDUE"
         }
       ],
-      "duration_ms": 551436,
-      "name": "Synaesthesia",
-      "url": "https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr"
+      "duration_ms": 492637,
+      "name": "Forbidden Sanctuary",
+      "url": "https://open.spotify.com/track/3Sw6fdbf4psr04Dn0VzArJ"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Synaesthesia",
+        "url": "https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU"
+      },
+      "artists": [
+        {
+          "name": "Weather Systems",
+          "url": "https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq"
+        }
+      ],
+      "duration_ms": 551436,
+      "name": "Synaesthesia",
+      "url": "https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "mnemonic",
         "url": "https://open.spotify.com/album/2QiKnj6bf2La7Jow51PYJG"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 289308,
       "name": "mnemonic",
       "url": "https://open.spotify.com/track/5Y6WHnoBdimQ9Gm3P1jxig"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Beyond the Reach of the Sun",
-        "url": "https://open.spotify.com/album/1IQZLI0hmtFd073Dp8aZPE"
-      },
-      "artists": [
-        {
-          "name": "Anciients",
-          "url": "https://open.spotify.com/artist/3YQOcYukzO6U1MjFcavDUE"
-        }
-      ],
-      "duration_ms": 492637,
-      "name": "Forbidden Sanctuary",
-      "url": "https://open.spotify.com/track/3Sw6fdbf4psr04Dn0VzArJ"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "XII: A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
-        "url": "https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu"
-      },
-      "artists": [
-        {
-          "name": "Thy Catafalque",
-          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
-        }
-      ],
-      "duration_ms": 377773,
-      "name": "Vasgy\u00e1r",
-      "url": "https://open.spotify.com/track/2htYmHMRJQsR2qsMnkfOzO"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Stories to Forget",
         "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Terror Management Theory",
-        "url": "https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI"
+        "name": "XII: A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
+        "url": "https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu"
       },
       "artists": [
         {
-          "name": "TEMIC",
-          "url": "https://open.spotify.com/artist/21VXRBFEQrR6Xrot1y5t7I"
+          "name": "Thy Catafalque",
+          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
         }
       ],
-      "duration_ms": 421601,
-      "name": "Through the Sands of Time",
-      "url": "https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ"
+      "duration_ms": 377773,
+      "name": "Vasgy\u00e1r",
+      "url": "https://open.spotify.com/track/2htYmHMRJQsR2qsMnkfOzO"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1519,34 +1503,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/4OsCLyDn92nl4vJp7FH41u"
+        "name": "Terror Management Theory",
+        "url": "https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI"
       },
       "artists": [
         {
-          "name": "Port Noir",
-          "url": "https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR"
+          "name": "TEMIC",
+          "url": "https://open.spotify.com/artist/21VXRBFEQrR6Xrot1y5t7I"
         }
       ],
-      "duration_ms": 292093,
-      "name": "Noir",
-      "url": "https://open.spotify.com/track/7L3ocnzkhY2BXKKWBd7xOY"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Envy",
-        "url": "https://open.spotify.com/album/2VA3u3c4lz0rZMisWxCIqN"
-      },
-      "artists": [
-        {
-          "name": "Theraphosa",
-          "url": "https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge"
-        }
-      ],
-      "duration_ms": 270344,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/3BoLYG2QSpR1bCOhuTUsYR"
+      "duration_ms": 421601,
+      "name": "Through the Sands of Time",
+      "url": "https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1567,6 +1535,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/4OsCLyDn92nl4vJp7FH41u"
+      },
+      "artists": [
+        {
+          "name": "Port Noir",
+          "url": "https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/7L3ocnzkhY2BXKKWBd7xOY"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "Legion",
         "url": "https://open.spotify.com/album/0HqM65LT46hyFSk18D4UgW"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 360000,
       "name": "Legion",
       "url": "https://open.spotify.com/track/4gHIRlbHfLKLMThA0beE5h"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Envy",
+        "url": "https://open.spotify.com/album/2VA3u3c4lz0rZMisWxCIqN"
+      },
+      "artists": [
+        {
+          "name": "Theraphosa",
+          "url": "https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge"
+        }
+      ],
+      "duration_ms": 270344,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/3BoLYG2QSpR1bCOhuTUsYR"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Whispers",
-        "url": "https://open.spotify.com/album/5YsqVxZlF0vD0lWB4pEaeO"
-      },
-      "artists": [
-        {
-          "name": "Bernth",
-          "url": "https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj"
-        }
-      ],
-      "duration_ms": 171422,
-      "name": "Whispers",
-      "url": "https://open.spotify.com/track/6eDZyTZPiIXYM9QIaZGKwk"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Paradise Lost",
         "url": "https://open.spotify.com/album/0Kntofu4jRJmvBban1BWsO"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 406000,
       "name": "Paradise Lost",
       "url": "https://open.spotify.com/track/2cXaW4pdpDmtAqkAyWKcLx"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Whispers",
+        "url": "https://open.spotify.com/album/5YsqVxZlF0vD0lWB4pEaeO"
+      },
+      "artists": [
+        {
+          "name": "Bernth",
+          "url": "https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj"
+        }
+      ],
+      "duration_ms": 171422,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/6eDZyTZPiIXYM9QIaZGKwk"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Mirrorman",
-        "url": "https://open.spotify.com/album/0mxQqt7GimKgHaWDCaxojH"
-      },
-      "artists": [
-        {
-          "name": "Black Orchid Empire",
-          "url": "https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1"
-        }
-      ],
-      "duration_ms": 305360,
-      "name": "Mirrorman",
-      "url": "https://open.spotify.com/track/5kYZdoxmF1ECBiBXVhKqXP"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "I Am Time",
         "url": "https://open.spotify.com/album/42jnID8h4u6a1qCINvVCRl"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 339000,
       "name": "I Am Time",
       "url": "https://open.spotify.com/track/3SRTMe1bmFbs1ZEFom9AOC"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Mirrorman",
+        "url": "https://open.spotify.com/album/0mxQqt7GimKgHaWDCaxojH"
+      },
+      "artists": [
+        {
+          "name": "Black Orchid Empire",
+          "url": "https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1"
+        }
+      ],
+      "duration_ms": 305360,
+      "name": "Mirrorman",
+      "url": "https://open.spotify.com/track/5kYZdoxmF1ECBiBXVhKqXP"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Gluttony",
-        "url": "https://open.spotify.com/album/2ooQDwESE21g2QTWLot2ii"
-      },
-      "artists": [
-        {
-          "name": "Theraphosa",
-          "url": "https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge"
-        }
-      ],
-      "duration_ms": 216850,
-      "name": "Gluttony",
-      "url": "https://open.spotify.com/track/5Lb4V4hzjSLtht1umgFdfa"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Skinwalker",
         "url": "https://open.spotify.com/album/4Hh7tX3QEPb05FmTm5s32f"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 280511,
       "name": "Skinwalker",
       "url": "https://open.spotify.com/track/5GHWsrntdACLugXdAGMQOo"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Gluttony",
+        "url": "https://open.spotify.com/album/2ooQDwESE21g2QTWLot2ii"
+      },
+      "artists": [
+        {
+          "name": "Theraphosa",
+          "url": "https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge"
+        }
+      ],
+      "duration_ms": 216850,
+      "name": "Gluttony",
+      "url": "https://open.spotify.com/track/5Lb4V4hzjSLtht1umgFdfa"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "The Approbation",
-        "url": "https://open.spotify.com/album/5LZWPBSDx7v6HPO2DdiLPs"
-      },
-      "artists": [
-        {
-          "name": "AVKRVST",
-          "url": "https://open.spotify.com/artist/3TkSufoEFh458zHkM2VsvW"
-        }
-      ],
-      "duration_ms": 340720,
-      "name": "Isolation",
-      "url": "https://open.spotify.com/track/5iTztoAvuVIYXByMIKbpAO"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Say",
         "url": "https://open.spotify.com/album/2g8ONadKlayzd8dz1Os4IM"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 262256,
       "name": "Say",
       "url": "https://open.spotify.com/track/5PezSLrWvLPGYpQyGAuC7P"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "The Approbation",
+        "url": "https://open.spotify.com/album/5LZWPBSDx7v6HPO2DdiLPs"
+      },
+      "artists": [
+        {
+          "name": "AVKRVST",
+          "url": "https://open.spotify.com/artist/3TkSufoEFh458zHkM2VsvW"
+        }
+      ],
+      "duration_ms": 340720,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/5iTztoAvuVIYXByMIKbpAO"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Of Death",
-        "url": "https://open.spotify.com/album/5NzgRiNRMxIK0fQkE9z5tA"
-      },
-      "artists": [
-        {
-          "name": "Mors Principium Est",
-          "url": "https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi"
-        }
-      ],
-      "duration_ms": 335426,
-      "name": "Of Death",
-      "url": "https://open.spotify.com/track/6C6vM7g7l4pytVTAT4sIzz"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Guardian",
         "url": "https://open.spotify.com/album/7HhZ4OMQ4ZSGifamWSeJ9k"
       },
@@ -2171,6 +2155,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Of Death",
+        "url": "https://open.spotify.com/album/5NzgRiNRMxIK0fQkE9z5tA"
+      },
+      "artists": [
+        {
+          "name": "Mors Principium Est",
+          "url": "https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi"
+        }
+      ],
+      "duration_ms": 335426,
+      "name": "Of Death",
+      "url": "https://open.spotify.com/track/6C6vM7g7l4pytVTAT4sIzz"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "MelancHoly",
         "url": "https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf"
       },
@@ -2183,22 +2183,6 @@
       "duration_ms": 218000,
       "name": "MelancHoly",
       "url": "https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "of the Last Human Being",
-        "url": "https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv"
-      },
-      "artists": [
-        {
-          "name": "Sleepytime Gorilla Museum",
-          "url": "https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC"
-        }
-      ],
-      "duration_ms": 390762,
-      "name": "Salamander in Two Worlds",
-      "url": "https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2247,6 +2231,22 @@
       "duration_ms": 193800,
       "name": "A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
       "url": "https://open.spotify.com/track/6RxNy0WXVOya0HvyYyFBZ5"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "of the Last Human Being",
+        "url": "https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv"
+      },
+      "artists": [
+        {
+          "name": "Sleepytime Gorilla Museum",
+          "url": "https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC"
+        }
+      ],
+      "duration_ms": 390762,
+      "name": "Salamander in Two Worlds",
+      "url": "https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/41itIUZyYlXVHBI15N6ZuH"
-      },
-      "artists": [
-        {
-          "name": "The Wind Covenant",
-          "url": "https://open.spotify.com/artist/2CL5ITHrtJ1JVCCthWw1fs"
-        }
-      ],
-      "duration_ms": 192975,
-      "name": "The Straight And Narrow",
-      "url": "https://open.spotify.com/track/6xVwiDBGpTrnJ8wS7ZGbsq"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "\u8607\u9192 II: Frailty",
         "url": "https://open.spotify.com/album/3Qqr84sZDMRNuDeIdqIbMH"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 302094,
       "name": "\u6de8\u5316 Purge (feat. Devin Townsend)",
       "url": "https://open.spotify.com/track/1ghjSbOICxweO2X9toPij4"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/41itIUZyYlXVHBI15N6ZuH"
+      },
+      "artists": [
+        {
+          "name": "The Wind Covenant",
+          "url": "https://open.spotify.com/artist/2CL5ITHrtJ1JVCCthWw1fs"
+        }
+      ],
+      "duration_ms": 192975,
+      "name": "The Straight And Narrow",
+      "url": "https://open.spotify.com/track/6xVwiDBGpTrnJ8wS7ZGbsq"
     },
     {
       "added_at": "2026-05-15 04:02:10",

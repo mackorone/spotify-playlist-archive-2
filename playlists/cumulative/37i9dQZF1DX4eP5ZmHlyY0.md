@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: TREASURE
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: BOYNEXTDOOR
 
-1,008 songs - 2 day 6 hr 46 min
+1,011 songs - 2 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Choose](https://open.spotify.com/track/1zweSaoWJ0N7wSwMIxFFQN) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Choose](https://open.spotify.com/album/66vRe3MmrT37PtgQP2sIec) | 3:06 | 2025-11-17 | 2026-02-07 |
 | [Cinderella](https://open.spotify.com/track/6JwtjfXL7HWpdTOZPdDrMW) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [PHENOMENON](https://open.spotify.com/album/0zXQvdFAbXpptoCqBliBjB) | 3:30 | 2025-01-21 | 2025-03-07 |
 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 | 2023-11-23 | 2024-10-02 |
-| [CLASSIC WAVE](https://open.spotify.com/track/7moQEDfiflHMJAS8PVFN2f) | [ROIROM](https://open.spotify.com/artist/3g5EB8SrWpWGz82HifWZSj) | [CLASSIC WAVE](https://open.spotify.com/album/2jdZbItHRIjwTehkvNIlhe) | 3:43 | 2026-05-07 |  |
+| [CLASSIC WAVE](https://open.spotify.com/track/7moQEDfiflHMJAS8PVFN2f) | [ROIROM](https://open.spotify.com/artist/3g5EB8SrWpWGz82HifWZSj) | [CLASSIC WAVE](https://open.spotify.com/album/2jdZbItHRIjwTehkvNIlhe) | 3:43 | 2026-05-07 | 2026-06-10 |
 | [Cloud\_Six](https://open.spotify.com/track/0DbDZcemoeTvVEOaQh6U75) | [KJRGL](https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX) | [Cloud\_Six \(Essential\)](https://open.spotify.com/album/1HlQYDo4FI63sc6SCj0myu) | 2:57 | 2025-05-02 | 2025-05-05 |
 | [Clutch](https://open.spotify.com/track/1LQy1Fyid5ewuTgDb0MFJx) | [いれいす](https://open.spotify.com/artist/0mAjhSSPDLbVaBpSXGJDbu) | [Clutch](https://open.spotify.com/album/4ZRuszFQ1iBgRrgsOoMKmz) | 3:21 | 2023-12-12 | 2024-01-14 |
 | [Clutch](https://open.spotify.com/track/5JGhgaH8Cf0OsGJhmtgrNC) | [いれいす](https://open.spotify.com/artist/0mAjhSSPDLbVaBpSXGJDbu) | [Clutch](https://open.spotify.com/album/7a3bJzOr4Mq2B74YIXsoHO) | 3:21 | 2023-12-12 | 2023-12-14 |
@@ -214,6 +214,7 @@
 | [Do What I Want](https://open.spotify.com/track/2Pe2lfTj1oN6qykfZhNDnV) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Do What I Want](https://open.spotify.com/album/2wkVbUKPfsV8RpozFuQaF0) | 2:40 | 2025-08-19 | 2025-09-01 |
 | [Doctor! Doctor!](https://open.spotify.com/track/0XmY5tyjdXB7yYELGUfYpn) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [BLUE PARADISE](https://open.spotify.com/album/0Mo8K6mKxS0lCENDG8pCb0) | 2:32 | 2025-03-06 | 2025-06-25 |
 | [Doki it](https://open.spotify.com/track/0a1vGFcLDPS3auJ3OqixFT) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [Doki it / Don't Worry!!](https://open.spotify.com/album/43JZRnK8QFfxAwasYJ85rW) | 3:39 | 2025-03-06 | 2025-04-18 |
+| [Dokka de](https://open.spotify.com/track/70wGlktEYdD17rhe19gVSf) | [ROIROM](https://open.spotify.com/artist/3g5EB8SrWpWGz82HifWZSj) | [CLASSIC WAVE](https://open.spotify.com/album/2jrFATDLscw7bsUFjPn67t) | 2:46 | 2026-06-09 |  |
 | [DOMINANCE](https://open.spotify.com/track/311pdfSxiVGKCzEff4wnNF) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [DOMINANCE](https://open.spotify.com/album/72Os16noHpDyT2M5wN476n) | 2:56 | 2025-06-02 | 2025-09-16 |
 | [DOMINO \(JO1 ver.\)](https://open.spotify.com/track/2rz0rsOMAqjJUUnRNwZET3) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [DOMINO \(JO1 ver.\)](https://open.spotify.com/album/6An9Xdk3z7317nbg66wVAs) | 3:27 | 2023-12-12 | 2024-02-25 |
 | [Don't Speak](https://open.spotify.com/track/1lMTjhv9a9XOfKLsRXOInQ) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Don't Speak](https://open.spotify.com/album/5YF2TZOyU46ioTxsr3PmCv) | 2:45 | 2025-03-27 | 2025-04-02 |
@@ -228,7 +229,7 @@
 | [Dropkick](https://open.spotify.com/track/3epNFRifLGAHdsuLCsaVfE) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : NOW](https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL) | 2:58 | 2023-11-23 | 2024-06-05 |
 | [DSTM](https://open.spotify.com/track/6h6y3m83xvAOoCW3JZpzzf) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [DSTM](https://open.spotify.com/album/7db93AxaM3DpA75ZC5Uijr) | 2:56 | 2025-03-19 | 2025-06-13 |
 | [DUH!](https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DUH!](https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p) | 3:05 | 2025-05-08 | 2025-08-05 |
-| [DUM](https://open.spotify.com/track/2pX6cKYZ5qJN6lzl7E8b9S) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [PULSE](https://open.spotify.com/album/1y1ROIYZ2lxHtWwlGmkJX5) | 2:59 | 2026-04-21 |  |
+| [DUM](https://open.spotify.com/track/2pX6cKYZ5qJN6lzl7E8b9S) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [PULSE](https://open.spotify.com/album/1y1ROIYZ2lxHtWwlGmkJX5) | 2:59 | 2026-04-21 | 2026-06-10 |
 | [DUMB](https://open.spotify.com/track/5jqnpaGBgHNMTNIO6wZZzz) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [DUMB](https://open.spotify.com/album/6QYmZNsB8JEqHybg99YYfM) | 2:09 | 2025-09-16 | 2025-12-01 |
 | [E\-NERGY BOYS](https://open.spotify.com/track/2Jui39MTkglBvzflZdIlin) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX) | [E\-NERGY BOYS](https://open.spotify.com/album/262JbB9qoH8wrqzP9yKS6Y) | 3:21 | 2024-02-13 | 2024-02-21 |
 | [Earth, Wind & Fire \- Japanese Ver.](https://open.spotify.com/track/51jvR5cPRh3Yfiwo5qdNXw) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Earth, Wind & Fire \(Japanese Ver.\)](https://open.spotify.com/album/6DvZZhY6bGqDuPbCSyZHcx) | 2:59 | 2024-06-18 | 2024-07-10 |
@@ -676,6 +677,7 @@
 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 | 2023-11-23 | 2023-12-20 |
 | [Same Key](https://open.spotify.com/track/6bl0lwuf0okN1QKOer1m2n) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Same Key](https://open.spotify.com/album/13QLqadsR7ld5XzrTslUFY) | 4:03 | 2024-10-01 | 2024-10-23 |
 | [Same Sky](https://open.spotify.com/track/0FAUYnNFMlHteLJ11r5Ix8) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Same Sky](https://open.spotify.com/album/6aQ2GvMtXtrVACouE8pba7) | 3:04 | 2026-02-26 | 2026-03-18 |
+| [Sand Castle](https://open.spotify.com/track/2hwKCIEZB2sK5Z6Xfws0MK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Sand Castle](https://open.spotify.com/album/2mw5HgtbMr4tSrq5VEqbxC) | 3:35 | 2026-06-09 |  |
 | [SANE](https://open.spotify.com/track/1xvKv2s1glXmM7r7onnU0s) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [1'ONLY](https://open.spotify.com/album/6Edlwp9FVbvlxF0JYAUqg9) | 2:18 | 2026-02-26 |  |
 | [Saucin'](https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Saucin'](https://open.spotify.com/album/5y364Kj24BuuitP830bMnM) | 2:53 | 2026-01-15 | 2026-01-17 |
 | [SAVE YOUR HEART](https://open.spotify.com/track/1OapSRCeIO6x802zzQbg5R) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [SAVE YOUR HEART](https://open.spotify.com/album/6qiYRd1slkVkoOOe5vGsPP) | 3:11 | 2026-05-25 |  |
@@ -898,7 +900,8 @@
 | [You, You](https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [NO TRAGEDY](https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co) | 2:45 | 2026-04-27 |  |
 | [Young & Reckless](https://open.spotify.com/track/0Lb4nVNM4sGZA7XBOuJEkh) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Young & Reckless](https://open.spotify.com/album/2G9lGOKxiiuGlH5YKENxAT) | 2:27 | 2025-08-28 | 2025-09-19 |
 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 | 2024-01-09 | 2024-06-13 |
-| [Youth](https://open.spotify.com/track/3Rxe1nKv2XDDyDj1F4QMOO) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [Youth](https://open.spotify.com/album/2r9og7GiccfnuknYxrO645) | 3:05 | 2026-04-14 |  |
+| [Youth](https://open.spotify.com/track/3Rxe1nKv2XDDyDj1F4QMOO) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [Youth](https://open.spotify.com/album/2r9og7GiccfnuknYxrO645) | 3:05 | 2026-04-14 | 2026-06-10 |
+| [Youth \- English ver.](https://open.spotify.com/track/2otkiglrAfZ1jGVjHVMno0) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [Youth \(English ver.\)](https://open.spotify.com/album/0XByjdp8iWmggUM2EsCJEy) | 3:06 | 2026-06-09 |  |
 | [Youth Spark](https://open.spotify.com/track/2WKXGsbtHimKjJ2CBX3JES) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [Youth Spark](https://open.spotify.com/album/1qiBJWJsG5JvYzkfgtOfyC) | 3:05 | 2024-07-30 | 2024-09-25 |
 | [ZOOM](https://open.spotify.com/track/0kLktoAjZQczngphPbfq52) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [ZOOM](https://open.spotify.com/album/7vyywKqNuOsQ0UveBQPhRn) | 3:04 | 2024-10-29 | 2024-11-27 |
 | [Zuruiyo](https://open.spotify.com/track/4NpMC9ea6SJdkbK0zjPxJS) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Hibi](https://open.spotify.com/album/1QcQHv7T7IjWAC3ehaqaSu) | 3:27 | 2025-09-25 | 2026-01-15 |
@@ -984,7 +987,7 @@
 | [愛が通り過ぎた跡](https://open.spotify.com/track/6lYyAMPOD6XXVNrVyxakAL) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [愛が通り過ぎた跡](https://open.spotify.com/album/1IprJ7zbzRu4w0OhmBc14n) | 3:04 | 2025-07-13 | 2025-09-01 |
 | [愛執](https://open.spotify.com/track/6d9zFmuJoTW5RdsJJX1er1) | [WEST.](https://open.spotify.com/artist/0VbpS8goXhAQ8vnwiJUNf3) | [愛執](https://open.spotify.com/album/3G1XxXWOHbkfJ9YK2JlBmn) | 3:25 | 2026-01-21 | 2026-02-12 |
 | [拝啓、俺たちへ](https://open.spotify.com/track/3qWHp0OmRVLJ1BumXjg03A) | [コムドット](https://open.spotify.com/artist/4gCWHDSag0akMnMVFlbErm) | [拝啓、俺たちへ](https://open.spotify.com/album/6Er1W865y2brlTGEaD5PeJ) | 3:41 | 2024-05-28 | 2024-06-13 |
-| [新世界 \(SHINSEKAI\)](https://open.spotify.com/track/1RKxgExJrU3UM7jM8TcL2G) | [PRODUCE 101 JAPAN 新世界](https://open.spotify.com/artist/17Tf7xytmDacGJe4LMTTlz) | [新世界 \(SHINSEKAI\)](https://open.spotify.com/album/0DBB1psohZhdqHYZwnkbfA) | 4:08 | 2026-03-11 |  |
+| [新世界\(SHINSEKAI\)](https://open.spotify.com/track/1RKxgExJrU3UM7jM8TcL2G) | [PRODUCE 101 JAPAN 新世界](https://open.spotify.com/artist/17Tf7xytmDacGJe4LMTTlz) | [新世界\(SHINSEKAI\)](https://open.spotify.com/album/0DBB1psohZhdqHYZwnkbfA) | 4:08 | 2026-03-11 |  |
 | [旅立ちの鐘](https://open.spotify.com/track/6eftqGjcyB4Mfs9MoM0tdw) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [旅立ちの鐘](https://open.spotify.com/album/1daK7g4CFGbGURS9fJktDX) | 4:41 | 2024-04-09 | 2024-04-24 |
 | [月の裏で会いましょう](https://open.spotify.com/track/0eRMZs55Zgf93wU7p3VVef) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [月の裏で会いましょう](https://open.spotify.com/album/6Aa8bNpdbYSaCpFcV5rpqE) | 4:52 | 2025-07-22 | 2025-11-10 |
 | [未確認領域](https://open.spotify.com/track/14KZzCx6mbOCeM0e5iFt3N) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [未確認領域](https://open.spotify.com/album/0PWlfMnADAMGN7SIpvN4LO) | 2:53 | 2025-08-10 | 2025-09-16 |

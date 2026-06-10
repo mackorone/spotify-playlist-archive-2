@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 28390,
+  "num_followers": 28420,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,18 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Back to Nature",
-        "url": "https://open.spotify.com/album/5ESQzoS4zCbmBIXv56FGLo"
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/5bqt7BkZboiKVUcWEyod20"
       },
       "artists": [
         {
-          "name": "Lawrence Walther",
-          "url": "https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME"
-        },
-        {
-          "name": "Solar Body",
-          "url": "https://open.spotify.com/artist/74xLamiAg7I4qmr2XsOddO"
+          "name": "Chiccote's Beats",
+          "url": "https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA"
         }
       ],
-      "duration_ms": 139636,
-      "name": "Tiger Lily",
-      "url": "https://open.spotify.com/track/4h3KM0HdN1xnYexB7zCIjG"
+      "duration_ms": 160000,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -199,18 +195,22 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/5bqt7BkZboiKVUcWEyod20"
+        "name": "Back to Nature",
+        "url": "https://open.spotify.com/album/5ESQzoS4zCbmBIXv56FGLo"
       },
       "artists": [
         {
-          "name": "Chiccote's Beats",
-          "url": "https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA"
+          "name": "Lawrence Walther",
+          "url": "https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME"
+        },
+        {
+          "name": "Solar Body",
+          "url": "https://open.spotify.com/artist/74xLamiAg7I4qmr2XsOddO"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY"
+      "duration_ms": 139636,
+      "name": "Tiger Lily",
+      "url": "https://open.spotify.com/track/4h3KM0HdN1xnYexB7zCIjG"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -847,6 +847,26 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
+        "name": "Tokyo Skyline",
+        "url": "https://open.spotify.com/album/27XjDTqr7TNHKFazcl1WKO"
+      },
+      "artists": [
+        {
+          "name": "oxinym",
+          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
+        },
+        {
+          "name": "Symoo",
+          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Tokyo Skyline",
+      "url": "https://open.spotify.com/track/3cAE43ryFfFlNYBTWEXetT"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
         "name": "Moonlit Tales",
         "url": "https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h"
       },
@@ -883,26 +903,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Tokyo Skyline",
-        "url": "https://open.spotify.com/album/27XjDTqr7TNHKFazcl1WKO"
-      },
-      "artists": [
-        {
-          "name": "oxinym",
-          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
-        },
-        {
-          "name": "Symoo",
-          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Tokyo Skyline",
-      "url": "https://open.spotify.com/track/3cAE43ryFfFlNYBTWEXetT"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/6TqEfURNizG4pHGCh5THZd"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 195500,
       "name": "Shinrin",
       "url": "https://open.spotify.com/track/0tvVGLB8YrW4JLezmfJZmN"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Waiting To Board",
+        "url": "https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl"
+      },
+      "artists": [
+        {
+          "name": "vhskid.",
+          "url": "https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Waiting To Board",
+      "url": "https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -947,22 +963,6 @@
       "duration_ms": 262000,
       "name": "Sunflower Samurai",
       "url": "https://open.spotify.com/track/47zTgyJ3YIWWGdo6FREfMp"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
-        "name": "Waiting To Board",
-        "url": "https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl"
-      },
-      "artists": [
-        {
-          "name": "vhskid.",
-          "url": "https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "Waiting To Board",
-      "url": "https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
+        "name": "Stories From Japan II",
+        "url": "https://open.spotify.com/album/2z39Ia2ATOWwjVns0G7jjF"
       },
       "artists": [
         {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+          "name": "Vindu",
+          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
+        },
+        {
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
         }
       ],
-      "duration_ms": 219112,
-      "name": "Yu Garden",
-      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
+      "duration_ms": 188571,
+      "name": "Lost in Tokyo",
+      "url": "https://open.spotify.com/track/6PLBqxTZIugoOSsBDxcAG2"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1095,22 +1099,18 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Stories From Japan II",
-        "url": "https://open.spotify.com/album/2z39Ia2ATOWwjVns0G7jjF"
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
       },
       "artists": [
         {
-          "name": "Vindu",
-          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
-        },
-        {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Lost in Tokyo",
-      "url": "https://open.spotify.com/track/6PLBqxTZIugoOSsBDxcAG2"
+      "duration_ms": 219112,
+      "name": "Yu Garden",
+      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Mt Fuji",
-        "url": "https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA"
-      },
-      "artists": [
-        {
-          "name": "lechiffrebeats",
-          "url": "https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn"
-        }
-      ],
-      "duration_ms": 116841,
-      "name": "Mt Fuji",
-      "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Vanishing Journey",
         "url": "https://open.spotify.com/album/3oGLMzJCwhyBqy50CHoMwP"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 146925,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/33kQJiqhOOSkfs7dz3SQ1O"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Mt Fuji",
+        "url": "https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA"
+      },
+      "artists": [
+        {
+          "name": "lechiffrebeats",
+          "url": "https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn"
+        }
+      ],
+      "duration_ms": 116841,
+      "name": "Mt Fuji",
+      "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1351,42 +1351,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "D\u00e9j\u00e0 vu",
-        "url": "https://open.spotify.com/album/4LTL70hnBdhDGxGcc42LzZ"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1tyr",
-          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
-        },
-        {
-          "name": "marsquake",
-          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
-        }
-      ],
-      "duration_ms": 151730,
-      "name": "Sunlit",
-      "url": "https://open.spotify.com/track/6CaNDQIdh5guSCXbg0MOgG"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
-        "name": "Hanagasumi",
-        "url": "https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8"
-      },
-      "artists": [
-        {
-          "name": "DaniSogen",
-          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Arisa",
-      "url": "https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Kintsukuroi",
         "url": "https://open.spotify.com/album/4fkpxS01a1c2dozXwKiv6i"
       },
@@ -1407,6 +1371,22 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
+        "name": "Hanagasumi",
+        "url": "https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8"
+      },
+      "artists": [
+        {
+          "name": "DaniSogen",
+          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Arisa",
+      "url": "https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
         "name": "Dozing",
         "url": "https://open.spotify.com/album/06xj5eksSF8gpAggo7Upfg"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 146090,
       "name": "Dozing",
       "url": "https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "D\u00e9j\u00e0 vu",
+        "url": "https://open.spotify.com/album/4LTL70hnBdhDGxGcc42LzZ"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "marsquake",
+          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
+        }
+      ],
+      "duration_ms": 151730,
+      "name": "Sunlit",
+      "url": "https://open.spotify.com/track/6CaNDQIdh5guSCXbg0MOgG"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
+        "name": "Answer Love",
+        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
+      },
+      "artists": [
+        {
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+        }
+      ],
+      "duration_ms": 145617,
+      "name": "Hatsukoi",
+      "url": "https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
         "name": "First Light Of Spring",
         "url": "https://open.spotify.com/album/7FvGvkEWBL4UN6HgDkGdtH"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 140678,
       "name": "Jade Temple",
       "url": "https://open.spotify.com/track/6Tsgy9lJRMPDf6WOdclWUv"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
-        "name": "Answer Love",
-        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
-      },
-      "artists": [
-        {
-          "name": "Lilac",
-          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
-        }
-      ],
-      "duration_ms": 145617,
-      "name": "Hatsukoi",
-      "url": "https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1671,22 +1671,18 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Aquilla",
-        "url": "https://open.spotify.com/album/1CscRBQ465UaSIPNjeIOnB"
+        "name": "Nama",
+        "url": "https://open.spotify.com/album/2gaz2Ko1IGrk8LfQxAgSBX"
       },
       "artists": [
         {
-          "name": "Loafy Building",
-          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
-        },
-        {
-          "name": "Hoogway",
-          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
         }
       ],
-      "duration_ms": 124765,
-      "name": "Zhuki",
-      "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"
+      "duration_ms": 161020,
+      "name": "Nama",
+      "url": "https://open.spotify.com/track/5uvMZMApFm7G5pVueAmXhu"
     },
     {
       "added_at": "2026-04-27 01:50:16",

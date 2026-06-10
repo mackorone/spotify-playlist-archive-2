@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,730 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,751 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Good Time Boy](https://open.spotify.com/track/4uYGT9xCkXYSsHxnbnRqGu) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Fueled by 808](https://open.spotify.com/artist/48f71oEmAv1S3YX9i5dB9X) | [Good Time Boy](https://open.spotify.com/album/2BEAAPZoTjQWPj8yIbQDQs) | 3:50 |
-| 2 | [Kia Boy](https://open.spotify.com/track/4W0ovOeWSWoOVp7LFVTYYE) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Kia Boy](https://open.spotify.com/album/4HJohcUsonTrzPCyaaN1KP) | 3:05 |
+| 1 | [Kia Boy](https://open.spotify.com/track/4W0ovOeWSWoOVp7LFVTYYE) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Kia Boy](https://open.spotify.com/album/4HJohcUsonTrzPCyaaN1KP) | 3:05 |
+| 2 | [Good Time Boy](https://open.spotify.com/track/4uYGT9xCkXYSsHxnbnRqGu) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Fueled by 808](https://open.spotify.com/artist/48f71oEmAv1S3YX9i5dB9X) | [Good Time Boy](https://open.spotify.com/album/2BEAAPZoTjQWPj8yIbQDQs) | 3:50 |
 | 3 | [Fire Lessons](https://open.spotify.com/track/3FLMN8fVYCVu0UgVpifSWa) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:18 |
 | 4 | [High Priced Shoes](https://open.spotify.com/track/4HZAmZEps1rnI8u3PgPLhT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:41 |
 | 5 | [Bar Breaker](https://open.spotify.com/track/4pynucrEEPPD3ZRQtnvjSz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:44 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 30 | [Zoo](https://open.spotify.com/track/6GQXk4Du3qkiswJ6hUoGiW) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Zoo](https://open.spotify.com/album/3xgyaF318Csc2nu1xPjjlC) | 2:53 |
 | 31 | [Gasoline](https://open.spotify.com/track/6hZwGfbZLn5i8VTPhw9nZw) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 4:17 |
 | 32 | [Animal Patrol](https://open.spotify.com/track/2vkjVKVzmpC14wEc3sb8vY) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:00 |
-| 33 | [Lionhearted \(with Kota the Friend\)](https://open.spotify.com/track/2ojvQ0lxiNgLn4sgaz7DzH) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lionhearted \(with Kota the Friend\)](https://open.spotify.com/album/6TWwDgoMBw70v4n7aM6ixL) | 3:37 |
-| 34 | [Gampo](https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 3:58 |
+| 33 | [Gampo](https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 3:58 |
+| 34 | [Lionhearted \(with Kota the Friend\)](https://open.spotify.com/track/2ojvQ0lxiNgLn4sgaz7DzH) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lionhearted \(with Kota the Friend\)](https://open.spotify.com/album/6TWwDgoMBw70v4n7aM6ixL) | 3:37 |
 | 35 | [Time Bomb](https://open.spotify.com/track/2ynJ4wHuFcfTXk1bkv8JgL) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 |
 | 36 | [Motel](https://open.spotify.com/track/1NDvfh4tQgcXUTn033LtEe) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 3:28 |
 | 37 | [Treat You Right](https://open.spotify.com/track/1FFsglwdgas5NKXkGioEcF) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq) | [Treat You Right](https://open.spotify.com/album/2NJdKzl6B6Vu2TP4YYugue) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 49 | [Action](https://open.spotify.com/track/0qi526Q4l45TDR06J26GnS) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:36 |
 | 50 | [Chitty Bang](https://open.spotify.com/track/14EUifm44d6gODebTIEDSn) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi), [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP) | [Chitty Bang](https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA) | 3:28 |
 
-Snapshot ID: `aiS0gAAAAAA/1HMWQlFTk28PWjqiSdqs`
+Snapshot ID: `aiYGAAAAAACEqNGGEXaX6wZOYKpkC37K`

@@ -769,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Scooby",
+        "url": "https://open.spotify.com/album/3edm79zZr6X8YesYYew0F8"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221280,
+      "name": "Scooby",
+      "url": "https://open.spotify.com/track/7FgzUrj1BpgYc4cQrmxoBC"
+    },
+    {
+      "album": {
         "name": "Swords",
         "url": "https://open.spotify.com/album/2oTWDmzqeri1WOvpSH5J4g"
       },

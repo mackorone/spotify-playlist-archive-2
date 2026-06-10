@@ -4,7 +4,7 @@
 
 > Cover: ElGrandeToto
 
-528 songs - 1 day 3 hr 27 min
+529 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [BOOM](https://open.spotify.com/track/61HBQ151SsOvfYq383oK7T) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [BOOM](https://open.spotify.com/album/7InGVZYEVFzVHMVKaKXWlw) | 2:05 | 2025-10-22 | 2025-11-22 |
 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 | 2025-12-19 | 2026-06-05 |
 | [BOOS](https://open.spotify.com/track/4MGqqcMJt5Qe9Irx2YS1Vp) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [NSR](https://open.spotify.com/album/6zoFZL2tZLsk899SQYuP3B) | 2:56 | 2024-02-17 | 2024-05-18 |
+| [Bottega](https://open.spotify.com/track/5P5SfhoiSf4P9MkfeHIAEB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC) | [Bottega](https://open.spotify.com/album/4OYLJaP4aK1mLVNqv9oEyK) | 2:00 | 2026-06-09 |  |
 | [BREDA](https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [BREDA](https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm) | 1:52 | 2022-11-14 | 2023-12-12 |
 | [Business](https://open.spotify.com/track/0m329rtCU8m21ddjEjn9qB) | [Lemhllwess](https://open.spotify.com/artist/454idLWxvkeePy4v39nP0J), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Business](https://open.spotify.com/album/6dImfvOvOjXN6x9WB1IUvH) | 3:06 | 2022-11-14 | 2022-11-19 |
 | [BÉNÉF](https://open.spotify.com/track/2p3hMCV4KnpS5w19gaeOR5) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [BÉNÉF](https://open.spotify.com/album/56XtuYPUNEnKikBj9TPJaO) | 2:55 | 2023-08-31 | 2023-10-01 |
@@ -191,7 +192,7 @@
 | [Ghi T9al \(Et2al\)](https://open.spotify.com/track/4MXfLQoPe89uPqVd7NApfn) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [٤in](https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9) | 3:38 | 2023-01-06 | 2023-02-12 |
 | [Ghi T9al \(Et2al\)](https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:38 | 2022-11-14 | 2023-01-06 |
 | [Go](https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Go](https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q) | 2:08 | 2025-02-17 | 2025-07-17 |
-| [GOD DAYM](https://open.spotify.com/track/3Pd9OfLtlGKdXVgXHO6ldN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:28 | 2026-03-27 |  |
+| [GOD DAYM](https://open.spotify.com/track/3Pd9OfLtlGKdXVgXHO6ldN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:28 | 2026-03-27 | 2026-06-10 |
 | [Gova](https://open.spotify.com/track/2poCHmrHxB704EPoQ1GdcU) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Gova](https://open.spotify.com/album/1eSWpdKHSupOJeAtTGKUul) | 3:42 | 2022-11-14 | 2023-04-09 |
 | [Gueule tapée](https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Gueule tapée](https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM) | 3:26 | 2022-11-14 | 2023-06-23 |
 | [GWB](https://open.spotify.com/track/45RMPbRapeirTpV8zieyi4) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [GWB](https://open.spotify.com/album/6VbDuASVTNy2eapQPqQsgm) | 2:29 | 2025-06-20 | 2025-07-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: ROLE MODEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,040 likes - 79 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,015 likes - 79 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

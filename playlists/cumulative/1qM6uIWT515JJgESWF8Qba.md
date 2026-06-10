@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-251 songs - 15 hr 47 min
+252 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Fantasia](https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli) | [Astratto](https://open.spotify.com/artist/1kQT4JN2XDrVdT4vubHCjw) | [Fantasia](https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf) | 6:10 | 2026-04-22 | 2026-05-19 |
 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-03-17 | 2026-05-17 |
 | [Fickled](https://open.spotify.com/track/0sSi3pV5lJk7bwCNC3NQt5) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Fickled](https://open.spotify.com/album/5KbqNfYxhr2lK6wuvf6L2i) | 3:43 | 2026-03-21 |  |
+| [Finding You](https://open.spotify.com/track/5jCpLxpsNUM2QU7sa5FuLO) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:16 | 2026-06-09 |  |
 | [Fire of Your Soul](https://open.spotify.com/track/1wrsHTXXtBOHDUl8358ed7) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fire of Your Soul](https://open.spotify.com/album/2fN64WOVPjOdRNWXKIwMmI) | 2:21 | 2026-04-27 | 2026-05-19 |
 | [FLOWERS](https://open.spotify.com/track/24hBaP9gSlo2NeyQZGGvQB) | [OUR GREAT ESCAPE](https://open.spotify.com/artist/0Gtsp3mRl1OlBiudeI4DSx) | [INFINITY WARS](https://open.spotify.com/album/1GATZuf4mUVmik7eFpPK5y) | 5:44 | 2026-04-02 | 2026-05-19 |
 | [FMU Make Me Cry](https://open.spotify.com/track/5hsVJlvCBvfwtSdL7IS8A4) | [Zerchronika](https://open.spotify.com/artist/0BW0PJS70OZ0T9AbX8xJU2) | [Scattered Memories](https://open.spotify.com/album/3LdurMICJIuXrQkipmVRw1) | 2:00 | 2025-11-04 | 2025-12-28 |

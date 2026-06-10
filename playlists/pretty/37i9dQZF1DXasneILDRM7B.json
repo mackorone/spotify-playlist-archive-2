@@ -1,6 +1,6 @@
 {
   "description": "Please stand for your personal anthems. Cover: blink-182",
-  "num_followers": 3001821,
+  "num_followers": 3001807,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Where You Want To Be",
-        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "A Decade Under The Influence",
-      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "weird!",
         "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 191066,
       "name": "acting like that (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "A Decade Under The Influence",
+      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
     },
     {
-      "added_at": "2023-02-10 16:26:23",
-      "album": {
-        "name": "Hello Rockview",
-        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "All My Best Friends Are Metalheads",
-      "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
-    },
-    {
       "added_at": "2023-01-25 14:57:38",
       "album": {
         "name": "All Killer No Filler",
@@ -1507,6 +1491,22 @@
       "duration_ms": 178320,
       "name": "Fat Lip",
       "url": "https://open.spotify.com/track/3tWudnj1NK7YUfnR91nezW"
+    },
+    {
+      "added_at": "2023-02-10 16:26:23",
+      "album": {
+        "name": "Hello Rockview",
+        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "All My Best Friends Are Metalheads",
+      "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "On Your Side",
-        "url": "https://open.spotify.com/album/6VH5MF1nAVOTGbRyHdYDtV"
-      },
-      "artists": [
-        {
-          "name": "A Rocket To The Moon",
-          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Like We Used To",
-      "url": "https://open.spotify.com/track/1fkYmLPG2Oi2AkUmcspWKl"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "All Killer No Filler",
         "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 206986,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/3u7EIgAlwNQtxkM4bOA7uI"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/6VH5MF1nAVOTGbRyHdYDtV"
+      },
+      "artists": [
+        {
+          "name": "A Rocket To The Moon",
+          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Like We Used To",
+      "url": "https://open.spotify.com/track/1fkYmLPG2Oi2AkUmcspWKl"
     },
     {
       "added_at": "2023-01-25 14:57:38",

@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 46001,
+  "num_followers": 46005,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAACG/FBIzs0ELq9IndmQd76r",
+  "snapshot_id": "aiYGAAAAAACdSqZxD/arG268PDbE6ONv",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Puedo Olvidarte",
+        "url": "https://open.spotify.com/album/3ekjHXDqes83iz8WaiRIPx"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 225923,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/6Hpu6dhrlfZpeyl7kPsPCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Vol. 1",
         "url": "https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 288000,
       "name": "Alzypher Vol. 1",
       "url": "https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Puedo Olvidarte",
-        "url": "https://open.spotify.com/album/3ekjHXDqes83iz8WaiRIPx"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 225923,
-      "name": "No Puedo Olvidarte",
-      "url": "https://open.spotify.com/track/6Hpu6dhrlfZpeyl7kPsPCJ"
     },
     {
       "added_at": null,
@@ -763,50 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
-      },
-      "artists": [
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/4mWSSoGjLiCiIGhsBazMFM"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 151604,
-      "name": "No Me Marques Pedo",
-      "url": "https://open.spotify.com/track/4XhxL3yq18qWSLxqaYargW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chip S (Metal Version)",
-        "url": "https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Ladrones",
-          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Chip S (Metal Version)",
-      "url": "https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -835,6 +791,26 @@
       "duration_ms": 321951,
       "name": "Malvada",
       "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chip S (Metal Version)",
+        "url": "https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Chip S (Metal Version)",
+      "url": "https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye"
     },
     {
       "added_at": null,
@@ -931,6 +907,30 @@
       "duration_ms": 174285,
       "name": "LQRA Session #3",
       "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/0RtwQCubLxroysOl3OwEQ6"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 151604,
+      "name": "No Me Marques Pedo",
+      "url": "https://open.spotify.com/track/3C8BAS81BZWVMQ6jIO8hcT"
     },
     {
       "added_at": null,
@@ -1239,8 +1239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheque En Blanco",
-        "url": "https://open.spotify.com/album/4aEXhOW3BoReEifboscpf8"
+        "name": "PILLS",
+        "url": "https://open.spotify.com/album/5TeehqNvWD1PW3g2dg40Z9"
       },
       "artists": [
         {
@@ -1248,9 +1248,9 @@
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 167471,
-      "name": "Cheque En Blanco",
-      "url": "https://open.spotify.com/track/1zgA5AWWPAGjJgroKzBAfS"
+      "duration_ms": 187636,
+      "name": "PILLS",
+      "url": "https://open.spotify.com/track/1p27MVcoU5Z7XrnMbmiqXp"
     }
   ],
   "unique_name": "This Is Yoss Bones",

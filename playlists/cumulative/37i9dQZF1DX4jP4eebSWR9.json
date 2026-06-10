@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-13",
-  "description": "50 Hits in einer Playlist! Cover: Ariana Grande",
+  "description": "50 Hits in einer Playlist! Cover: Summer Cem, BILLA JOE",
   "name": "Hot Hits Deutschland",
   "tracks": [
     {
@@ -806,6 +806,24 @@
       "duration_ms": 177995,
       "name": "Bangaranga",
       "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
+    },
+    {
+      "album": {
+        "name": "BANGBANGBANG",
+        "url": "https://open.spotify.com/album/0qH4jwehlxPZ1iujCmcBaX"
+      },
+      "artists": [
+        {
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132186,
+      "name": "BANGBANGBANG",
+      "url": "https://open.spotify.com/track/2V8HuXQLm9RaHJdfGLYnym"
     },
     {
       "album": {
@@ -1877,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
+      "album": {
         "name": "daf\u00fcr bin ich frei EP",
         "url": "https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW"
       },
@@ -2904,7 +2940,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 194376,
       "name": "Hit the Wall",
       "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
@@ -3626,7 +3662,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 146043,
       "name": "KOKOSNUSS",
       "url": "https://open.spotify.com/track/1Wt0okU2AQCphxQ8PE9b5V"
@@ -4429,7 +4465,7 @@
     },
     {
       "album": {
-        "name": "Mon Amour",
+        "name": "Mon Amour (Original von Hecht)",
         "url": "https://open.spotify.com/album/3BjIVd4hhgr3Y0q95O1b1Z"
       },
       "artists": [
@@ -4450,7 +4486,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182968,
-      "name": "Mon Amour",
+      "name": "Mon Amour (Original von Hecht)",
       "url": "https://open.spotify.com/track/6H1j5PiyxgyWTnDmabW0Ng"
     },
     {

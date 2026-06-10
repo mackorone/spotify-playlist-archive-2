@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Bloody Civilian
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,105 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,152 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 8 | [Lameda](https://open.spotify.com/track/7DRJm0x4djOSGWLiAbRohe) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB) | [LAMEDA / AWAY](https://open.spotify.com/album/6Pjh1WqGkR7CeV18XNJeky) | 2:16 |
 | 9 | [ARISE](https://open.spotify.com/track/6p1qrgCy5epVwjlbUXdps4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Arise](https://open.spotify.com/album/6wZV3F5q3vtN1gBA17UR0l) | 2:46 |
 | 10 | [Gobe](https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Before I Blow](https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr) | 2:40 |
-| 11 | [Let Me Go](https://open.spotify.com/track/0Orw24AaR2UYwuSrBbn4bs) | [Young Legend](https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Let Me Go](https://open.spotify.com/album/4ShHb62wS7sWruzGQOdkxe) | 2:47 |
+| 11 | [Let Me Go](https://open.spotify.com/track/0Orw24AaR2UYwuSrBbn4bs) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl), [Young Legend](https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Let Me Go](https://open.spotify.com/album/4ShHb62wS7sWruzGQOdkxe) | 2:47 |
 | 12 | [HOW FAR](https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4), [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2) | [HOW FAR / SHIMA II](https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o) | 2:43 |
 | 13 | [IDI AMIN](https://open.spotify.com/track/1RyMUK3FIuYkYGWNjcOEtp) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [IDI AMIN](https://open.spotify.com/album/66eJmwET9lBbVG5a4UR6uN) | 2:16 |
 | 14 | [No Wam](https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [No Wam](https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR) | 2:29 |

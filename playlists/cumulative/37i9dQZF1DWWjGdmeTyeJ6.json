@@ -12816,7 +12816,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 206470,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
@@ -23278,7 +23278,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 245208,
       "name": "Brisk",
       "url": "https://open.spotify.com/track/4UK8zVdpjLjoZs71ekqczK"
@@ -36452,7 +36452,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 199696,
       "name": "D'lulu",
       "url": "https://open.spotify.com/track/46ZfD0DVcFgRA3VCtSdYwx"
@@ -44827,6 +44827,24 @@
     },
     {
       "album": {
+        "name": "Lucy Lamb",
+        "url": "https://open.spotify.com/album/5DA7Rlf3rbLSieVIHvJ4Hp"
+      },
+      "artists": [
+        {
+          "name": "Lucy Lamb",
+          "url": "https://open.spotify.com/artist/1fLl0QDFau1trbJkpjvyEt"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213861,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2gG0veNjrPsL017gn8ZHox"
+    },
+    {
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/5FyOiAAhEMhNOvoMJ6NdmB"
       },
@@ -45932,6 +45950,24 @@
       "duration_ms": 165605,
       "name": "Earthbound",
       "url": "https://open.spotify.com/track/1MQ8iWOA8dkFLX744wq1fX"
+    },
+    {
+      "album": {
+        "name": "Earthworm",
+        "url": "https://open.spotify.com/album/543k82dYTEPXCyzse0Gg7v"
+      },
+      "artists": [
+        {
+          "name": "Laizer",
+          "url": "https://open.spotify.com/artist/1xuLVQC0qd8GzPcnJ4gs22"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176277,
+      "name": "Earthworm",
+      "url": "https://open.spotify.com/track/4wSMuydBSmSJ7RU60E7DlL"
     },
     {
       "album": {
@@ -65659,6 +65695,24 @@
     },
     {
       "album": {
+        "name": "HAIRSTYLE",
+        "url": "https://open.spotify.com/album/62x5uuyCMPj7Gdhljs5XXH"
+      },
+      "artists": [
+        {
+          "name": "Dreek Jones",
+          "url": "https://open.spotify.com/artist/0fVbXtxb8KqKpfAdPLbKlu"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112155,
+      "name": "HAIRSTYLE",
+      "url": "https://open.spotify.com/track/1t9lHXZO3EZIGVB1LguYyc"
+    },
+    {
+      "album": {
         "name": "Shiny Things",
         "url": "https://open.spotify.com/album/0ky89qHAbyPxgmUVV5iwWI"
       },
@@ -73411,6 +73465,24 @@
     },
     {
       "album": {
+        "name": "Hurt Nobody",
+        "url": "https://open.spotify.com/album/7sp0zG7BlTWuLUKkMUYg48"
+      },
+      "artists": [
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177318,
+      "name": "Hurt Nobody",
+      "url": "https://open.spotify.com/track/7pPskSvN203zIew4AgRM2E"
+    },
+    {
+      "album": {
         "name": "Headed North",
         "url": "https://open.spotify.com/album/2kT2utESRVu0otqiiDOGyf"
       },
@@ -77214,6 +77286,24 @@
       "duration_ms": 196932,
       "name": "I'll Be Okay",
       "url": "https://open.spotify.com/track/2luLqMtf2uxV3n4hs1PTkP"
+    },
+    {
+      "album": {
+        "name": "I'll Be There For You",
+        "url": "https://open.spotify.com/album/5LYXrZNkA9kHMoE4MArV2z"
+      },
+      "artists": [
+        {
+          "name": "Plaisance",
+          "url": "https://open.spotify.com/artist/21LpA1uYZ28gFWyXueXGMu"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180790,
+      "name": "I'll Be There For You",
+      "url": "https://open.spotify.com/track/11S528yQYgaYQjdBXlBJBS"
     },
     {
       "album": {
@@ -95510,6 +95600,24 @@
       "duration_ms": 219250,
       "name": "Love Warning",
       "url": "https://open.spotify.com/track/75jC2iGlGyS0f2dEkd5FE9"
+    },
+    {
+      "album": {
+        "name": "CAREFREE",
+        "url": "https://open.spotify.com/album/2FH46g3V5UWz5MWkG5j1OK"
+      },
+      "artists": [
+        {
+          "name": "Petrina DeLacey",
+          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141904,
+      "name": "LOVE WILL LAST",
+      "url": "https://open.spotify.com/track/4r5qjaxyuMR5xE2bgJh9Fw"
     },
     {
       "album": {
@@ -121632,7 +121740,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 205225,
       "name": "Piece of Your Love",
       "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
@@ -129844,7 +129952,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 152488,
       "name": "Rewarding Melody",
       "url": "https://open.spotify.com/track/7mf2ubTq7o3O9U9ql3CNPv"
@@ -140066,6 +140174,24 @@
       "duration_ms": 126121,
       "name": "Skin",
       "url": "https://open.spotify.com/track/4zp695Zi8vsFl0Z0heRCm5"
+    },
+    {
+      "album": {
+        "name": "skin & bone",
+        "url": "https://open.spotify.com/album/3mC6ddrJJQXgGcZFHEmQhf"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "skin & bone",
+      "url": "https://open.spotify.com/track/0rOcs5rGwmi2IDzMtH34Vx"
     },
     {
       "album": {
@@ -161722,7 +161848,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 179276,
       "name": "Too Young To Notice",
       "url": "https://open.spotify.com/track/0eBFOptGsXAqKQPNMLhyac"
@@ -163188,7 +163314,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 192000,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3DTwjK0pAoNX26FEGuZwO8"
@@ -169236,7 +169362,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 169846,
       "name": "WALKING IN THIS WORLD",
       "url": "https://open.spotify.com/track/4KjdeNqqVhZLNGUsrHC7NA"
@@ -169676,6 +169802,32 @@
       "duration_ms": 177679,
       "name": "Wash you clean",
       "url": "https://open.spotify.com/track/0QWL0vlLGJ4aI2HZHyqBJd"
+    },
+    {
+      "album": {
+        "name": "WASSANAME",
+        "url": "https://open.spotify.com/album/7dj3DyXKr1EeBAtr6pvbE4"
+      },
+      "artists": [
+        {
+          "name": "oksurf",
+          "url": "https://open.spotify.com/artist/5MwvbPn9LtALRZDrMKxKnM"
+        },
+        {
+          "name": "SWAVAY",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        },
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212064,
+      "name": "WASSANAME",
+      "url": "https://open.spotify.com/track/58xav4cdOkDtonnMUYCOKc"
     },
     {
       "album": {

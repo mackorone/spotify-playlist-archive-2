@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: MUNA",
-  "num_followers": 1668901,
+  "num_followers": 1668804,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "SWAG II",
-        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "DON'T WANNA",
-      "url": "https://open.spotify.com/track/5hplO2Sk1SaZgSaR05m6Nn"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Doggy (feat. Love Spells and Truly Young)",
         "url": "https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 172359,
       "name": "Doggy (feat. Love Spells and Truly Young)",
       "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "DON'T WANNA",
+      "url": "https://open.spotify.com/track/5hplO2Sk1SaZgSaR05m6Nn"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Crutch",
-        "url": "https://open.spotify.com/album/1jWZ7cC58wnlEfuknDCwoq"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 211537,
-      "name": "Crutch",
-      "url": "https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Take A Drive",
         "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 225000,
       "name": "Take A Drive",
       "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Crutch",
+        "url": "https://open.spotify.com/album/1jWZ7cC58wnlEfuknDCwoq"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 211537,
+      "name": "Crutch",
+      "url": "https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Promise (When You Go)",
-        "url": "https://open.spotify.com/album/5QRKjIJlOEKNCxXk5KlCtR"
-      },
-      "artists": [
-        {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Promise (When You Go)",
-      "url": "https://open.spotify.com/track/4FNptC8qbW6cAJBsymtHMI"
-    },
-    {
       "added_at": "2026-05-15 16:36:11",
       "album": {
         "name": "Feel It All Again",
@@ -727,6 +711,22 @@
       "duration_ms": 173333,
       "name": "Feel It All Again",
       "url": "https://open.spotify.com/track/4tcLxWZs2YYmggQRWGsYTZ"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Promise (When You Go)",
+        "url": "https://open.spotify.com/album/5QRKjIJlOEKNCxXk5KlCtR"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Promise (When You Go)",
+      "url": "https://open.spotify.com/track/4FNptC8qbW6cAJBsymtHMI"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/6wDUqYQ9sbWGMPpWOQLlmt"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "RODEO CLOWN",
-        "url": "https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N"
-      },
-      "artists": [
-        {
-          "name": "Obed Padilla",
-          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
-        }
-      ],
-      "duration_ms": 153764,
-      "name": "RODEO CLOWN",
-      "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
-    },
-    {
       "added_at": "2026-06-05 04:02:01",
       "album": {
         "name": "Hot Sprite",
@@ -955,6 +939,22 @@
       "duration_ms": 154764,
       "name": "Hot Sprite",
       "url": "https://open.spotify.com/track/1Z3Of1kO00D1G5HSOIK1pX"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "RODEO CLOWN",
+        "url": "https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N"
+      },
+      "artists": [
+        {
+          "name": "Obed Padilla",
+          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
+        }
+      ],
+      "duration_ms": 153764,
+      "name": "RODEO CLOWN",
+      "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "juniper ring",
-        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
-      },
-      "artists": [
-        {
-          "name": "livingthing",
-          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
-        }
-      ],
-      "duration_ms": 208997,
-      "name": "collagen",
-      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "the apple tree under the sea",
         "url": "https://open.spotify.com/album/3td33YbrUND8jvdarSmgmR"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "juniper ring",
+        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
+      },
+      "artists": [
+        {
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+        }
+      ],
+      "duration_ms": 208997,
+      "name": "collagen",
+      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "terrible4u",
         "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
       },
@@ -1071,22 +1071,6 @@
       "duration_ms": 198092,
       "name": "terrible4u",
       "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "AngieAngieAngie",
-        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 139363,
-      "name": "Roamer",
-      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "AngieAngieAngie",
+        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 139363,
+      "name": "Roamer",
+      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "Ready",
         "url": "https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 172586,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Don't Kill the Vibe",
-        "url": "https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N"
-      },
-      "artists": [
-        {
-          "name": "Jordan Joy",
-          "url": "https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv"
-        }
-      ],
-      "duration_ms": 262459,
-      "name": "Don't Kill the Vibe",
-      "url": "https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "Don't Kill the Vibe",
+        "url": "https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N"
+      },
+      "artists": [
+        {
+          "name": "Jordan Joy",
+          "url": "https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv"
+        }
+      ],
+      "duration_ms": 262459,
+      "name": "Don't Kill the Vibe",
+      "url": "https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "Memory Be a Blade",
         "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Little Blue House",
-        "url": "https://open.spotify.com/album/07nAbhyj2hNr2HYpt9uB8Y"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 179727,
-      "name": "Little Blue House",
-      "url": "https://open.spotify.com/track/0KUcvWJzx9McoYo31gAqDy"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Stupid Bitches",
         "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 211893,
       "name": "Stupid Bitches",
       "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Little Blue House",
+        "url": "https://open.spotify.com/album/07nAbhyj2hNr2HYpt9uB8Y"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 179727,
+      "name": "Little Blue House",
+      "url": "https://open.spotify.com/track/0KUcvWJzx9McoYo31gAqDy"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1357,6 +1357,22 @@
       "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
     },
     {
+      "added_at": "2026-06-05 04:02:01",
+      "album": {
+        "name": "Mesmerized",
+        "url": "https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 158936,
+      "name": "Mesmerized",
+      "url": "https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45"
+    },
+    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "Pretty, Pink and Soft",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Drama King",
-        "url": "https://open.spotify.com/album/02iICHeNdgziyDRE70DCse"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 190901,
-      "name": "Drama King",
-      "url": "https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "A Man Written by a Woman",
         "url": "https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E"
       },
@@ -1469,20 +1469,20 @@
       "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
     },
     {
-      "added_at": "2026-06-05 04:02:01",
+      "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Mesmerized",
-        "url": "https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr"
+        "name": "Drama King",
+        "url": "https://open.spotify.com/album/02iICHeNdgziyDRE70DCse"
       },
       "artists": [
         {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
         }
       ],
-      "duration_ms": 158936,
-      "name": "Mesmerized",
-      "url": "https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45"
+      "duration_ms": 190901,
+      "name": "Drama King",
+      "url": "https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1653,22 +1653,6 @@
       "url": "https://open.spotify.com/track/1OZCX85aOi9zf6DzkXJ7RU"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Days Of Us",
-        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/4euJCjgfNymsvUFMJ6W8jd"
-    },
-    {
       "added_at": "2026-06-05 04:02:01",
       "album": {
         "name": "How do I relate to you?",
@@ -1683,6 +1667,22 @@
       "duration_ms": 164486,
       "name": "Relate to you",
       "url": "https://open.spotify.com/track/3G7D8chDbs0e3ho8U1uN8B"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Days Of Us",
+        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/4euJCjgfNymsvUFMJ6W8jd"
     }
   ],
   "unique_name": "Indie Pop",

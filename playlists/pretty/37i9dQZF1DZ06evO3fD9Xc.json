@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103975,
+  "num_followers": 103971,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAAC0RUFnUp/ZzS2m1+hWzmda",
+  "snapshot_id": "aiYGAAAAAAAaim1m5s0H7hGjIYZy9Sxa",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 2",
-        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 175543,
-      "name": "Cicatrices",
-      "url": "https://open.spotify.com/track/3GWHLz1rRWONm8DIsaLOlE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 5",
         "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 191460,
       "name": "Mi Mayor Anhelo",
       "url": "https://open.spotify.com/track/5GF4Jwl28VSwPZrweQEXst"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 175543,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/3GWHLz1rRWONm8DIsaLOlE"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 2",
-        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 242091,
-      "name": "Tengo Que Colgar",
-      "url": "https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 5",
         "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 187477,
       "name": "Por Siempre Mi Amor",
       "url": "https://open.spotify.com/track/6zLXcNShtPIECN9uNjETh6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 242091,
+      "name": "Tengo Que Colgar",
+      "url": "https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Quieres (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
-      },
-      "artists": [
-        {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 258480,
-      "name": "Si Quieres - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malagradecido",
         "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 174133,
       "name": "Malagradecido",
       "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Quieres (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
+      },
+      "artists": [
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 258480,
+      "name": "Si Quieres - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Te Extra\u00f1ar\u00e9",
-        "url": "https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 295967,
-      "name": "Yo Te Extra\u00f1ar\u00e9",
-      "url": "https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Me Vas A Dar (Cumbia)",
         "url": "https://open.spotify.com/album/65PsHT4xP40nlvdVNE1ldU"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 207248,
       "name": "Qu\u00e9 Me Vas A Dar - Cumbia",
       "url": "https://open.spotify.com/track/0OXXOSfjkIwHBA32jiguQ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Te Extra\u00f1ar\u00e9",
+        "url": "https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 295967,
+      "name": "Yo Te Extra\u00f1ar\u00e9",
+      "url": "https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG"
     },
     {
       "added_at": null,

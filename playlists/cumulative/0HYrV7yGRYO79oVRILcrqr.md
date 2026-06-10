@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-560 songs - 1 day 10 hr 46 min
+565 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Blue Money Bills](https://open.spotify.com/track/3cNEkCAFg82SSWqkyNdwRp) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [Blue Money Bills](https://open.spotify.com/album/36zqHa3fQZ0kROvyzvl33L) | 3:23 | 2025-10-23 | 2025-11-28 |
 | [Bonnie and Clyde](https://open.spotify.com/track/1uslmInwTqW0FTahkXRmUH) | [Destroy the Moon](https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt) | [Bonnie and Clyde](https://open.spotify.com/album/3YmN4v0QKlwRMqjc4veT4H) | 4:13 | 2026-02-22 |  |
 | [Bottle on the table](https://open.spotify.com/track/6gP8B1kKEaeY2OBUfYbfD8) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 4:52 | 2026-03-23 | 2026-04-21 |
+| [Boxcar Baby](https://open.spotify.com/track/1Ox8zpsrDRNunN5zKRS2Fb) | [Matty Simpson](https://open.spotify.com/artist/4Nz1zj8jj9nWKqXkPMUiB9) | [Boxcar Baby](https://open.spotify.com/album/6ho0bkSgjLLZotxypyyJsG) | 4:49 | 2026-06-09 |  |
 | [Breaking the Silence](https://open.spotify.com/track/2e3tbGEZwn3lpQfGydppwZ) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Delicate](https://open.spotify.com/album/3JYJmRhi9SR7yX6AjfJpi1) | 3:32 | 2025-12-04 | 2025-12-17 |
 | [Breathe In](https://open.spotify.com/track/5lmqUdPqVs8zrcrRIgAw8d) | [Eight Feet Fine](https://open.spotify.com/artist/6NCVf4mDJv1vB8FbTPMzrV) | [Breathe In](https://open.spotify.com/album/4MOZuggfZkPg5TkQ5WQk81) | 5:06 | 2025-09-24 | 2025-12-17 |
 | [Bringin' It Back](https://open.spotify.com/track/7h9I6NCzj20ggQWRqo26eJ) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [MUST BE BLUE](https://open.spotify.com/album/2UQxmEQ0JM0aqKQr30zKjH) | 4:11 | 2025-09-03 |  |
@@ -167,9 +168,11 @@
 | [Estas](https://open.spotify.com/track/1wlC7r5BboM1GFb31EOv3s) | [Tierras Raras](https://open.spotify.com/artist/5sGH35tybJqC0A0KFeYkBf) | [La \- Tb \- Nd \- Dy](https://open.spotify.com/album/6FuamMF9Krpj8c4JbGHWVU) | 3:53 | 2026-05-31 |  |
 | [ESTOY VIEJA](https://open.spotify.com/track/4vhQqf3mGxPEdM4X85GWkL) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [ESTOY VIEJA](https://open.spotify.com/album/38HjyGTf0kKd67brXPPMd1) | 2:40 | 2026-02-09 | 2026-03-18 |
 | [Eternal Flame](https://open.spotify.com/track/1knJt03nwMagF4TfJOrirK) | [Marcus O'Neill](https://open.spotify.com/artist/0woLT8rQMi0nFQ4iQHiS8J) | [Eternal Flame](https://open.spotify.com/album/1So5y8r0qzeuYtR4PWkNvB) | 2:14 | 2025-09-28 | 2025-12-17 |
+| [Everything We Need](https://open.spotify.com/track/49oa7JSJcv7pqW1rZRV0Pr) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [Everything We Need](https://open.spotify.com/album/15QtcRURErRuxLLODiPbfR) | 3:24 | 2026-06-09 |  |
 | [EX](https://open.spotify.com/track/2x6uxhbPVhUobfPzlEHAUK) | [TotoFuoriclasse](https://open.spotify.com/artist/3EhWMTwP7dGIl3Y6MiscVL) | [EX](https://open.spotify.com/album/3HqyGKFgZnme52jqSt2fW5) | 2:57 | 2026-05-14 | 2026-05-26 |
 | [Faded Sun](https://open.spotify.com/track/4yoShDFZqFOsrXTdUzxpz6) | [OberTonic](https://open.spotify.com/artist/0D2hc3aCon3HUemLWIj2pR) | [Faded Sun](https://open.spotify.com/album/6Nj3qWQMCdy0Z9kNwhLiYq) | 3:05 | 2025-11-29 | 2025-12-17 |
 | [Faith Over Follows](https://open.spotify.com/track/4KwSpONS6uS35pBJDXDXJd) | [Walker Lawrence](https://open.spotify.com/artist/65CIRBacIF3DEkVgBZ9YFC) | [Faith Over Follows](https://open.spotify.com/album/5JS5m0MeKrmj1VMZgkdd6Z) | 4:29 | 2026-03-01 | 2026-03-18 |
+| [Fake Illusion](https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Fake Illusion](https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P) | 3:04 | 2026-06-09 |  |
 | [Fallin' Up](https://open.spotify.com/track/6K0AByZlnuW2t9iuV4ntBg) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [New West](https://open.spotify.com/album/7iwcTjYekrnEr3CM1J8TIS) | 3:11 | 2025-12-04 | 2025-12-17 |
 | [Far away in another time](https://open.spotify.com/track/7eUZTaIlGgBYQhpdPiiggy) | [the unknown artist](https://open.spotify.com/artist/3vmtXEWcazX7rZ6pj84lNs) | [Far away in another time](https://open.spotify.com/album/7dPYSzzRbIAwTuQNZRZZbk) | 2:54 | 2026-03-14 |  |
 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-03-03 |  |
@@ -405,6 +408,7 @@
 | [River](https://open.spotify.com/track/0X4XWWpcEIMZImTqO6Qzwr) | [Modarn](https://open.spotify.com/artist/21dNZRQ8rilyedhVEXFjkU) | [Dive In](https://open.spotify.com/album/4KaFd9rQ7YC0PWpNS14w99) | 4:06 | 2026-01-22 | 2026-03-18 |
 | [River](https://open.spotify.com/track/1lrSxSQ1xJhtOjQJyhpKOb) | [The Blue Marmalades](https://open.spotify.com/artist/0Cch3HVBzCsI5YUGMcAva9) | [River](https://open.spotify.com/album/3t8Xr8iT7VMJ5iD4M1uk6m) | 7:15 | 2026-03-16 | 2026-04-21 |
 | [Road home](https://open.spotify.com/track/3vWWVcx1tuc841jkIC7WHb) | [JJ Llombart](https://open.spotify.com/artist/3nUhOA1UIN29SP7hggslu9) | [Road home](https://open.spotify.com/album/0UMHEvnwS5ybVhdTXu4444) | 4:48 | 2026-01-27 | 2026-03-18 |
+| [Roadkill Restaurant](https://open.spotify.com/track/1zLd7KMysA9gpu1OPB3IDI) | [Parlour Creepers](https://open.spotify.com/artist/6kRPePqhwCE1t7JIwmEXnd) | [Roadkill Restaurant](https://open.spotify.com/album/0NWM7dlb6tB799edJnikxn) | 3:04 | 2026-06-09 |  |
 | [Rock N Roll From Tennessee](https://open.spotify.com/track/0U4A63dSoHUsX852Akvxki) | [The Red Light](https://open.spotify.com/artist/60BwxiCPsunxkkYMXZGCAu) | [Stories From The Working Class](https://open.spotify.com/album/0uROJoEp9NJ0YdzbQfpyRd) | 3:34 | 2026-03-01 | 2026-03-18 |
 | [RockPaperScissors](https://open.spotify.com/track/2xOQmufJ8gzlaUtKZfiCm7) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [RockPaperScissors](https://open.spotify.com/album/4wSVvEGJ0OhDG4MUOtFLH6) | 3:25 | 2026-05-07 | 2026-05-26 |
 | [Rollin' + Twistin'](https://open.spotify.com/track/2CCdd0Lo1B5BY8N2ctOFNQ) | [Gypsy Cowboys](https://open.spotify.com/artist/4myRhM03KuiFw1dOSSkAdM) | [Rollin' + Twistin'](https://open.spotify.com/album/5zMH9tVYPrNuer03CoUjit) | 3:24 | 2026-01-03 |  |
@@ -520,6 +524,7 @@
 | [Universal Cowboy](https://open.spotify.com/track/3E1Xd1dU70XoR3RDSLJVpH) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Universal Cowboy](https://open.spotify.com/album/4rOErxwAu1auXgapFpo84E) | 4:23 | 2025-11-02 | 2025-12-17 |
 | [Uwa Afid](https://open.spotify.com/track/5dc3qGrxzYnwfKO2ZaZ7Ls) | [IBIBIO JAGABAN](https://open.spotify.com/artist/2zOU4ADwzUKJq3cVR3M2rf), [Mr Amanam](https://open.spotify.com/artist/1dIanW7GcwZWXcO82VReD0) | [Uwa Afid](https://open.spotify.com/album/44y5DfPqZyK8hIeKRjdPj0) | 4:03 | 2025-10-13 | 2025-11-28 |
 | [Vampira](https://open.spotify.com/track/1MSQk3jKuSUNHoWz4DN1ha) | [DcWeed](https://open.spotify.com/artist/1hqsiqO0POcEhZFvm0jq4h) | [Vampira](https://open.spotify.com/album/2JgyNIn2cTMykSO8wpNmva) | 2:43 | 2025-09-23 | 2025-12-17 |
+| [Vanilla](https://open.spotify.com/track/5Pu4UAEiJgQHcWyp7yB1uC) | [The K.I.J Experience](https://open.spotify.com/artist/67HdfJ5atBe2crSt6ohfWB) | [12 from 24](https://open.spotify.com/album/5aydgqRqJlLmmSchdQC66g) | 3:41 | 2026-06-09 |  |
 | [Verso de ilusión](https://open.spotify.com/track/3pdYFEuje4eYU5HGaDqjqQ) | [The Leggins](https://open.spotify.com/artist/4jXFZ6JRHGubqmLubkA2G6) | [La Oportunidad](https://open.spotify.com/album/6yWMiqRtAzV8qsgw9xR0nk) | 4:08 | 2026-04-02 | 2026-04-21 |
 | [Videostore](https://open.spotify.com/track/25Hd0SKfEpitNtfkL9mPZY) | [Broken By Rock](https://open.spotify.com/artist/2Pv54hEhvj12wVQXNASatg) | [Videostore](https://open.spotify.com/album/6AidSqOYPo5C6N1uu6GkHG) | 2:54 | 2025-10-18 | 2025-11-28 |
 | [Waiting For You](https://open.spotify.com/track/7IETeuFra2eUmJXdiCDpeC) | [Liam Foody](https://open.spotify.com/artist/3hqUl78HVYwgXrdF6RIN29) | [Waiting For You](https://open.spotify.com/album/1yg1bdZni0pnaSbiKFhMNJ) | 3:25 | 2025-10-28 | 2025-12-17 |

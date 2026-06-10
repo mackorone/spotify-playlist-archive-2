@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,246 likes - 74 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,414 likes - 74 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 16 | [Talk](https://open.spotify.com/track/5Bs8K3OjU1fIQJ7I2GR2mu) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Omar Duro](https://open.spotify.com/artist/3QUcOtKpMPAbhxDkuW9SPV) | [Talk](https://open.spotify.com/album/5lBATMB20Ft9dtV1ntJasC) | 2:47 |
 | 17 | [More! More! More!](https://open.spotify.com/track/7Bk9xGSArXDiMe5Jj2zSMo) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [More! More! More!](https://open.spotify.com/album/3TWM4Bg6PuweiSPOQk0nTU) | 2:55 |
 | 18 | [Crash](https://open.spotify.com/track/2jr6VapftpBxp2mOjKVXcS) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG) | [Crash](https://open.spotify.com/album/33Zd6DLikZyyApElca9CD0) | 2:16 |
-| 19 | [Peepin'](https://open.spotify.com/track/05PPn5rFEiAXgn3fYgl7HC) | [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Peepin'](https://open.spotify.com/album/6nnKlVsfkKVgOBSIdEKkz5) | 2:10 |
+| 19 | [Peepin'](https://open.spotify.com/track/05PPn5rFEiAXgn3fYgl7HC) | [Reysha Rami](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Peepin'](https://open.spotify.com/album/6nnKlVsfkKVgOBSIdEKkz5) | 2:10 |
 | 20 | [Right Here](https://open.spotify.com/track/7dfqSBe3I7m2GxuigR0zGk) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Right Here](https://open.spotify.com/album/5C1uiWNazII9KgQ8IkAQWM) | 1:53 |
 | 21 | [Remember Us \(feat\. Dustin Lynch\)](https://open.spotify.com/track/2Eg4pK9k0XxiJsta9Q8MrO) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [OASIS](https://open.spotify.com/album/5Wmypry9sRXgIZT5wdqkQq) | 2:50 |
 | 22 | [Memories](https://open.spotify.com/track/4WbI5sUN8pcl1Pn5k6USXL) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ESKE](https://open.spotify.com/artist/1q9b1DlMkoD49YmakRWdST) | [Memories](https://open.spotify.com/album/7vwd0YHaGTBirYssevQbTr) | 2:10 |

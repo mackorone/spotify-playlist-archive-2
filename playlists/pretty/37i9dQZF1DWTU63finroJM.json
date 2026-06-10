@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: Skye Newman",
-  "num_followers": 85877,
+  "num_followers": 85878,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,18 @@
     {
       "added_at": "2026-05-15 13:00:30",
       "album": {
-        "name": "Vekhi Jaava",
-        "url": "https://open.spotify.com/album/1YphBK2DQ3mtLoyIAwAH21"
+        "name": "Unveilings",
+        "url": "https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5"
       },
       "artists": [
         {
-          "name": "Bir",
-          "url": "https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N"
-        },
-        {
-          "name": "Daaku",
-          "url": "https://open.spotify.com/artist/0Gk0DXsojuXvKXROsCbO0e"
+          "name": "Amy Lo",
+          "url": "https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a"
         }
       ],
-      "duration_ms": 121026,
-      "name": "Vekhi Jaava",
-      "url": "https://open.spotify.com/track/6WwWLn22expKNHxawIo2Qn"
+      "duration_ms": 208680,
+      "name": "\u85cd\u67d3",
+      "url": "https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6"
     },
     {
       "added_at": "2026-05-15 13:00:30",
@@ -339,18 +335,22 @@
     {
       "added_at": "2026-05-15 13:00:30",
       "album": {
-        "name": "Unveilings",
-        "url": "https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5"
+        "name": "Vekhi Jaava",
+        "url": "https://open.spotify.com/album/1YphBK2DQ3mtLoyIAwAH21"
       },
       "artists": [
         {
-          "name": "Amy Lo",
-          "url": "https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a"
+          "name": "Bir",
+          "url": "https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N"
+        },
+        {
+          "name": "Daaku",
+          "url": "https://open.spotify.com/artist/0Gk0DXsojuXvKXROsCbO0e"
         }
       ],
-      "duration_ms": 208680,
-      "name": "\u85cd\u67d3",
-      "url": "https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6"
+      "duration_ms": 121026,
+      "name": "Vekhi Jaava",
+      "url": "https://open.spotify.com/track/6WwWLn22expKNHxawIo2Qn"
     },
     {
       "added_at": "2026-05-15 13:00:30",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-05-15 13:00:30",
       "album": {
-        "name": "Jamais \u00c9t\u00e9 (Cool)",
-        "url": "https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 155700,
-      "name": "Jamais \u00c9t\u00e9 (Cool)",
-      "url": "https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp"
-    },
-    {
-      "added_at": "2026-05-15 13:00:30",
-      "album": {
         "name": "where's your girlfriend",
         "url": "https://open.spotify.com/album/4allJNrFZH7Ob9jO98TofS"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 213722,
       "name": "where's your girlfriend",
       "url": "https://open.spotify.com/track/3a660Cnhydjs5O5g0yQ1ME"
+    },
+    {
+      "added_at": "2026-05-15 13:00:30",
+      "album": {
+        "name": "Jamais \u00c9t\u00e9 (Cool)",
+        "url": "https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 155700,
+      "name": "Jamais \u00c9t\u00e9 (Cool)",
+      "url": "https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp"
     },
     {
       "added_at": "2026-05-15 13:00:30",

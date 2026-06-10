@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 
 > Los éxitos del pop suenan mejor en vivo\. Foto: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,288 likes - 49 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,315 likes - 49 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 | 43 | [Te He Prometido \(feat\. Ricardo Montaner\) \- En Vivo](https://open.spotify.com/track/6LYOEpZALvazO2nUPwJatS) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 3:10 |
 | 44 | [Respóndeme Tú \(Primera Fila\) \(feat\. Pepe Aguilar\) \- En Vivo](https://open.spotify.com/track/2nFcMS2GvgK1vZmtnnZ6d7) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:25 |
 | 45 | [Las Mil y una Noches \- Primera Fila Flans \(En Vivo\)](https://open.spotify.com/track/3V47MeZFqKMxBlxaF3wqRq) | [Ilse, Ivonne y Mimi](https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX) | [Primera Fila Flans](https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C) | 4:14 |
-| 46 | [La Fuerza Del Corazón \- En Directo En El Estadio Vicente Calderón / 2017](https://open.spotify.com/track/7AtuQiAsRESlLdR3V0FXBJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [+ Es + \(El Concierto / En Directo En El Estadio Vicente Calderón / 2017\)](https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt) | 5:16 |
+| 46 | [Vamos A Darnos Tiempo \- Live At El Lunario En La Ciudad De México/2010](https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Revolución En Vivo \(Live At El Lunario En La Ciudad De México/2010\)](https://open.spotify.com/album/00toeVbLBW5ZFWTzKZfQ9n) | 4:17 |
 | 47 | [Si La Ves \(feat\. Noel Schajris & Leonel García\)](https://open.spotify.com/track/2HBo8LhUxBJBsxWaP6ePL3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 4:15 |
-| 48 | [Vamos A Darnos Tiempo \- Live At El Lunario En La Ciudad De México/2010](https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Revolución En Vivo \(Live At El Lunario En La Ciudad De México/2010\)](https://open.spotify.com/album/00toeVbLBW5ZFWTzKZfQ9n) | 4:17 |
+| 48 | [La Fuerza Del Corazón \- En Directo En El Estadio Vicente Calderón / 2017](https://open.spotify.com/track/7AtuQiAsRESlLdR3V0FXBJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [+ Es + \(El Concierto / En Directo En El Estadio Vicente Calderón / 2017\)](https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt) | 5:16 |
 | 49 | [Si Tú No Vuelves \(feat\. Miguel Bosé\) \- En Vivo](https://open.spotify.com/track/3IhRwU0NWvQp2tdTQ844fy) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Ha\-Ash "En Vivo"](https://open.spotify.com/album/7AhdiG5tEKsD0b3G5VDdQY) | 5:29 |
 
 Snapshot ID: `AAAAAGA+k00MMefl+ZzLLLoWhBgJ+ZQp`

@@ -1,12 +1,12 @@
 {
   "description": "This is Little Jesus. The essential tracks, all in one playlist.",
-  "num_followers": 37038,
+  "num_followers": 37043,
   "original_name": "This Is Little Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAADADm2ldutipzR4Iffq2XqI",
+  "snapshot_id": "aiYGAAAAAAAuZRNA+uSfhOQhmzJt4zCK",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 266615,
-      "name": "Qu\u00edmicos",
-      "url": "https://open.spotify.com/track/0XSN5gjS49IiIzNejxMUlz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Copa del Mundo",
         "url": "https://open.spotify.com/album/1SU5CtGk3nZPssEAXHRDXr"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 265560,
       "name": "Copa del Mundo",
       "url": "https://open.spotify.com/track/63pqKVbcr55rwQ8QZ0NyQJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 266615,
+      "name": "Qu\u00edmicos",
+      "url": "https://open.spotify.com/track/0XSN5gjS49IiIzNejxMUlz"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 288554,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Norte (Japanese Version)",
         "url": "https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 261586,
       "name": "J\u00f3venes - Bonus",
       "url": "https://open.spotify.com/track/1Del9GKHyafG0uliX83jY2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 288554,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf"
     },
     {
       "added_at": null,

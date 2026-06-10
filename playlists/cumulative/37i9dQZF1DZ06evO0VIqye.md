@@ -4,7 +4,7 @@
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 36 min
+103 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Backlash](https://open.spotify.com/track/5bzOdHdkOO8fjfhNfdFJJs) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:28 | 2025-04-16 | 2026-04-19 |
 | [Bad as We Can Be](https://open.spotify.com/track/5xBnwSHVVnoibWwoWt9pMa) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Unvarnished \(Expanded Edition\)](https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL) | 3:53 | 2025-09-03 | 2025-09-17 |
 | [Bad Karma \(feat\. Joan Jett\)](https://open.spotify.com/track/47KegqqrzpKw0jdHFWqtNb) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:08 | 2025-03-08 |  |
-| [Bad Reputation](https://open.spotify.com/track/1wBK8aicWM2d5LeHyWgSVW) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr) | 2:47 | 2026-04-21 |  |
+| [Bad Reputation](https://open.spotify.com/track/1wBK8aicWM2d5LeHyWgSVW) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr) | 2:47 | 2026-04-21 | 2026-06-10 |
+| [Bad Reputation](https://open.spotify.com/track/3VwCHFahYwyUSR0Rse4Boo) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB) | 2:49 | 2026-06-10 |  |
 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 | 2025-03-08 | 2026-04-21 |
 | [Band Intros \- Live](https://open.spotify.com/track/0dOQ4qzbfNVB5zEvCreGgX) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K), [Blackhearts](https://open.spotify.com/artist/5mJzqDKepWgcC9IeHNTCKa) | [I Love Rock 'N' Roll \(Live At The New York Bottom Line, Dec 20th 1980\)](https://open.spotify.com/album/6fG2kqSgt8sM99iJj3keTJ) | 0:39 | 2025-10-30 | 2025-11-05 |
 | [Celluloid Heroes](https://open.spotify.com/track/1YYsJpcGxkXE1PtMpNCc6S) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM) | 5:28 | 2025-12-30 | 2026-03-08 |

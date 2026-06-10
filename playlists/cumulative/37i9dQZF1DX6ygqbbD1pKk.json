@@ -599,6 +599,36 @@
     },
     {
       "album": {
+        "name": "De ti me enamor\u00e9 (De \"Soy Luna: Volver a rodar\" | Disney+)",
+        "url": "https://open.spotify.com/album/3b47MJPMkf6IvHK5HIUuj1"
+      },
+      "artists": [
+        {
+          "name": "Elenco de Soy Luna",
+          "url": "https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l"
+        },
+        {
+          "name": "Karol Sevilla",
+          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
+        },
+        {
+          "name": "Ruggero Pasquarelli",
+          "url": "https://open.spotify.com/artist/7uMsrJMSZWhL8IXO6YArQL"
+        },
+        {
+          "name": "Michael Ronda",
+          "url": "https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202426,
+      "name": "De ti me enamor\u00e9 - De \"Soy Luna: Volver a rodar\" | Disney+",
+      "url": "https://open.spotify.com/track/6K9OORwOY5DzAsXTzJQ6iU"
+    },
+    {
+      "album": {
         "name": "Desde hoy",
         "url": "https://open.spotify.com/album/211cKsvaaQNmmxlxz3QB9y"
       },
@@ -2498,7 +2528,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 188306,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/6MFraiWmc8KfjfY5m3Nx9e"

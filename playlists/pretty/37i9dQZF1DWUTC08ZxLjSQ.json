@@ -1,13 +1,29 @@
 {
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: AyeLee. Artwork: Isu Kim",
-  "num_followers": 13539,
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: MARCELINA. Artwork: Isu Kim",
+  "num_followers": 13541,
   "original_name": "Fresh Finds Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOwzr/1LA/DdBHNnttj3a3vArzmn",
+  "snapshot_id": "AAAAAMAJSu3t9vzX1NbmjPZRKtaHO4qo",
   "tracks": [
+    {
+      "added_at": "2026-04-14 14:34:43",
+      "album": {
+        "name": "Stargirl",
+        "url": "https://open.spotify.com/album/0qmt9MtZFWsxzxh53yxiH7"
+      },
+      "artists": [
+        {
+          "name": "MARCELINA",
+          "url": "https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi"
+        }
+      ],
+      "duration_ms": 225116,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/7qFf6SSOAMxcg504aH6B24"
+    },
     {
       "added_at": "2026-04-14 14:34:43",
       "album": {
@@ -427,22 +443,6 @@
       "duration_ms": 160000,
       "name": "Tupac",
       "url": "https://open.spotify.com/track/3tBM6jvbIm0si0hTRxkEzb"
-    },
-    {
-      "added_at": "2026-04-14 14:34:43",
-      "album": {
-        "name": "Stargirl",
-        "url": "https://open.spotify.com/album/0qmt9MtZFWsxzxh53yxiH7"
-      },
-      "artists": [
-        {
-          "name": "MARCELINA",
-          "url": "https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi"
-        }
-      ],
-      "duration_ms": 225116,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/7qFf6SSOAMxcg504aH6B24"
     },
     {
       "added_at": "2026-04-14 14:34:43",

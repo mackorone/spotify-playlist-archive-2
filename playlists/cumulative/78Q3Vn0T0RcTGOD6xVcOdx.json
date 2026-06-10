@@ -1811,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5B1dxyXlquh79BqGRUmh49"
+      },
+      "artists": [
+        {
+          "name": "Ricksta1",
+          "url": "https://open.spotify.com/artist/6kmGSbY8x1RN8yhXGqMfUF"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97319,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/6OqjQaWodDidWdfXJSsHqO"
+    },
+    {
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/6L2AarSy8Spgw3TejARFBN"
       },

@@ -455,22 +455,6 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
-        "name": "Primitive Man (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/5B3wFWPqWgpRnan9sSSQzr"
-      },
-      "artists": [
-        {
-          "name": "ICEHOUSE",
-          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
-        }
-      ],
-      "duration_ms": 317240,
-      "name": "Great Southern Land",
-      "url": "https://open.spotify.com/track/3OmEIZ6bYHqlReQ1YLaRHV"
-    },
-    {
-      "added_at": "2026-02-12 13:00:20",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 230640,
       "name": "Can't Get You out of My Head",
       "url": "https://open.spotify.com/track/7m2g1kKuF7Tre2PzjK3Lnh"
+    },
+    {
+      "added_at": "2026-02-12 13:00:20",
+      "album": {
+        "name": "Primitive Man (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/5B3wFWPqWgpRnan9sSSQzr"
+      },
+      "artists": [
+        {
+          "name": "ICEHOUSE",
+          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
+        }
+      ],
+      "duration_ms": 317240,
+      "name": "Great Southern Land",
+      "url": "https://open.spotify.com/track/3OmEIZ6bYHqlReQ1YLaRHV"
     },
     {
       "added_at": "2026-02-12 13:00:20",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
-        "name": "Daddy Who? Daddy Cool (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4ZejRTERcKwWr0bc8CslGV"
-      },
-      "artists": [
-        {
-          "name": "Daddy Cool",
-          "url": "https://open.spotify.com/artist/5ht2HGrvbN9eDWJarHsou6"
-        }
-      ],
-      "duration_ms": 250066,
-      "name": "Eagle Rock - 2011 Remaster",
-      "url": "https://open.spotify.com/track/2nCXuFS4Dt4BpHkxA9rhPL"
-    },
-    {
-      "added_at": "2026-02-12 13:00:20",
-      "album": {
         "name": "Into The Flame",
         "url": "https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 254213,
       "name": "Brother",
       "url": "https://open.spotify.com/track/5KrdYQS4U1Emzer8QShBE7"
+    },
+    {
+      "added_at": "2026-02-12 13:00:20",
+      "album": {
+        "name": "Daddy Who? Daddy Cool (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4ZejRTERcKwWr0bc8CslGV"
+      },
+      "artists": [
+        {
+          "name": "Daddy Cool",
+          "url": "https://open.spotify.com/artist/5ht2HGrvbN9eDWJarHsou6"
+        }
+      ],
+      "duration_ms": 250066,
+      "name": "Eagle Rock - 2011 Remaster",
+      "url": "https://open.spotify.com/track/2nCXuFS4Dt4BpHkxA9rhPL"
     },
     {
       "added_at": "2026-02-12 13:00:20",

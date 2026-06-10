@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36030,
+  "num_followers": 36026,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Duro",
-        "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Duro",
-      "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Craving 4 U (feat. bbyclose)",
         "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
       },
@@ -1155,6 +1135,46 @@
       "duration_ms": 139300,
       "name": "Craving 4 U (feat. bbyclose)",
       "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Duro",
+        "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Duro",
+      "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Butterfly 2026",
+        "url": "https://open.spotify.com/album/1lwNp8Fmtac2FTiI1fh3w9"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 164336,
+      "name": "Butterfly 2026",
+      "url": "https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1183,26 +1203,6 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Butterfly 2026",
-        "url": "https://open.spotify.com/album/1lwNp8Fmtac2FTiI1fh3w9"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 164336,
-      "name": "Butterfly 2026",
-      "url": "https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Like Wooh Wooh",
-        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
-      },
-      "artists": [
-        {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
-        }
-      ],
-      "duration_ms": 136189,
-      "name": "Like Wooh Wooh - Radio Edit",
-      "url": "https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "3am - Nic Vans Remix",
         "url": "https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 164142,
       "name": "3am - Nic Vans Remix",
       "url": "https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Like Wooh Wooh",
+        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "duration_ms": 136189,
+      "name": "Like Wooh Wooh - Radio Edit",
+      "url": "https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "SATA",
-        "url": "https://open.spotify.com/album/12Z3iZ8cEE8nNJbzR59Fdr"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Rohaan",
-          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
-        }
-      ],
-      "duration_ms": 182678,
-      "name": "SATA",
-      "url": "https://open.spotify.com/track/5RDVoCdb0LtcSiYnUG0R4d"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "GHOST WORLD",
         "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 205693,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "SATA",
+        "url": "https://open.spotify.com/album/12Z3iZ8cEE8nNJbzR59Fdr"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "duration_ms": 182678,
+      "name": "SATA",
+      "url": "https://open.spotify.com/track/5RDVoCdb0LtcSiYnUG0R4d"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Jump In",
-        "url": "https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H"
-      },
-      "artists": [
-        {
-          "name": "Noah Baine",
-          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Jump In",
-      "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "TAKIN PICTURES",
         "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 171696,
       "name": "TAKIN PICTURES",
       "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H"
+      },
+      "artists": [
+        {
+          "name": "Noah Baine",
+          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Jump In",
+      "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2263,26 +2263,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Feel the Beat",
-        "url": "https://open.spotify.com/album/4izfgFschtwTedFJH5b4rO"
-      },
-      "artists": [
-        {
-          "name": "LB aka LABAT",
-          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
-        },
-        {
-          "name": "Partiboi69",
-          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
-        }
-      ],
-      "duration_ms": 397189,
-      "name": "Feel the Beat - Partiboi69 Remix",
-      "url": "https://open.spotify.com/track/2wNEBBr52TumYRmtYH1ocC"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Halo (feat. Shibui)",
         "url": "https://open.spotify.com/album/7sZooyvXa18fr9wa8YHyqd"
       },
@@ -2303,6 +2283,26 @@
       "duration_ms": 156000,
       "name": "Halo (feat. Shibui)",
       "url": "https://open.spotify.com/track/7ELMkdmYhcknPvzn0CydAJ"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Feel the Beat",
+        "url": "https://open.spotify.com/album/4izfgFschtwTedFJH5b4rO"
+      },
+      "artists": [
+        {
+          "name": "LB aka LABAT",
+          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
+        },
+        {
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+        }
+      ],
+      "duration_ms": 397189,
+      "name": "Feel the Beat - Partiboi69 Remix",
+      "url": "https://open.spotify.com/track/2wNEBBr52TumYRmtYH1ocC"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2895,26 +2895,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "When The Summer Dies",
-        "url": "https://open.spotify.com/album/1u7CRR2ketwfxA3FKGzEPK"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 329531,
-      "name": "When The Summer Dies",
-      "url": "https://open.spotify.com/track/0mjGSve5fXuesAutgeN9OI"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Sequ\u00eancia da Dz7",
         "url": "https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7"
       },
@@ -2931,6 +2911,26 @@
       "duration_ms": 119184,
       "name": "Sequ\u00eancia da Dz7",
       "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "When The Summer Dies",
+        "url": "https://open.spotify.com/album/1u7CRR2ketwfxA3FKGzEPK"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 329531,
+      "name": "When The Summer Dies",
+      "url": "https://open.spotify.com/track/0mjGSve5fXuesAutgeN9OI"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2971,6 +2971,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Ela Joga na Hora",
+        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
+      },
+      "artists": [
+        {
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "duration_ms": 132922,
+      "name": "Ela Joga na Hora",
+      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "In My Arms (KREAM Remix)",
         "url": "https://open.spotify.com/album/1qXuQg53DXGnNa7MED6azY"
       },
@@ -2991,26 +3011,6 @@
       "duration_ms": 217684,
       "name": "In My Arms - KREAM Remix",
       "url": "https://open.spotify.com/track/1c0CauHGd6IumO162bEbCu"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Ela Joga na Hora",
-        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
-      },
-      "artists": [
-        {
-          "name": "Mc Pogba",
-          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
-        },
-        {
-          "name": "DJ Guih Da ZO",
-          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
-        }
-      ],
-      "duration_ms": 132922,
-      "name": "Ela Joga na Hora",
-      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
     },
     {
       "added_at": "2026-04-13 15:38:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Bella White
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,298 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,331 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 69 | [False Start](https://open.spotify.com/track/553jD3ipiSaR4plKiGNugq) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [False Start](https://open.spotify.com/album/0yytuAMgULL79wV6dVu9DG) | 3:23 |
 | 70 | [Somewhere Down the Road](https://open.spotify.com/track/2AORKvVk5hftWMmUMUVKbq) | [John Hollier & the Rêverie](https://open.spotify.com/artist/57boDAppxqwgLqZs4NRmFs) | [Somewhere Down the Road](https://open.spotify.com/album/24UUo9KpBl6OTWR0cyYrX8) | 3:24 |
 | 71 | [Balance](https://open.spotify.com/track/6LGbYF62eHtdQlK0UCkq2m) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [takeaways](https://open.spotify.com/album/7auX3hZqaH4Xlvfz8G5thm) | 3:03 |
-| 72 | [Never Gonna Die](https://open.spotify.com/track/6978Sdhiq3l0VrHy4V9D8O) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Never Gonna Die](https://open.spotify.com/album/70zapZKxf5icAenwRvAzBm) | 3:28 |
+| 72 | [Never Gonna Die](https://open.spotify.com/track/6978Sdhiq3l0VrHy4V9D8O) | [Houndmouth](https://open.spotify.com/artist/5E3ZpulF9dBTGYE6njBV2P) | [Never Gonna Die](https://open.spotify.com/album/70zapZKxf5icAenwRvAzBm) | 3:28 |
 | 73 | [Easy On The Eyes](https://open.spotify.com/track/0FKafClDhDTAjjNGr7wV5t) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Easy On The Eyes](https://open.spotify.com/album/3JQfqboxnLDsxsHE4ut65G) | 3:44 |
 | 74 | [Gone](https://open.spotify.com/track/087TB9G9VYQ8BDGOoKtbW8) | [Rambler Kane](https://open.spotify.com/artist/7k8nztcDZOpEF7BO327JCg) | [Gone](https://open.spotify.com/album/6XfYaqvXP5729clabOlMNG) | 3:32 |
 | 75 | [Good Run](https://open.spotify.com/track/13K0cNKd6iASvcoXuA5Mnx) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Darling Blue / No Room For Blue](https://open.spotify.com/album/0nq24Tm4sSHQo9s8yn0OTz) | 3:18 |

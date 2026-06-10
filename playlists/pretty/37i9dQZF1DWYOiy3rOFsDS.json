@@ -1,12 +1,12 @@
 {
   "description": "Romance a la antig\u00fcita con Cumbia Pedregal en portada.",
-  "num_followers": 544633,
+  "num_followers": 544568,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANwyPWA7SXLxUpLexiLt4e/Ely/F",
+  "snapshot_id": "AAAAABu1ahc+0y4qLg3TUigDhkkJzITj",
   "tracks": [
     {
       "added_at": "2026-05-29 19:57:33",
@@ -675,26 +675,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 185783,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 228026,
       "name": "Contigo en la Distancia (with Carlos Cuevas)",
       "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "duration_ms": 185783,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Mam\u00e1",
-        "url": "https://open.spotify.com/album/02Vg0bEN68tF5ySg2T6H0I"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 202799,
-      "name": "Mam\u00e1",
-      "url": "https://open.spotify.com/track/5DCCCNDhkcw1k3VMBN9zrx"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Quisiera Enamorarme",
         "url": "https://open.spotify.com/album/40t2ZbDA27Jqt3EhHMNwYk"
       },
@@ -827,18 +807,22 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Te Ofrezco",
-        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
+        "name": "Mam\u00e1",
+        "url": "https://open.spotify.com/album/02Vg0bEN68tF5ySg2T6H0I"
       },
       "artists": [
         {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
         }
       ],
-      "duration_ms": 206520,
-      "name": "Te Ofrezco",
-      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
+      "duration_ms": 202799,
+      "name": "Mam\u00e1",
+      "url": "https://open.spotify.com/track/5DCCCNDhkcw1k3VMBN9zrx"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -859,6 +843,22 @@
       "duration_ms": 180986,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Te Ofrezco",
+        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Te Ofrezco",
+      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 226973,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
-      },
-      "artists": [
-        {
-          "name": "Mia Salinas",
-          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
-        }
-      ],
-      "duration_ms": 164798,
-      "name": "Te So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Mil Vidas",
         "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 136667,
       "name": "Mil Vidas",
       "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
+      },
+      "artists": [
+        {
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+        }
+      ],
+      "duration_ms": 164798,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Fantas\u00edas",
-        "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
-      },
-      "artists": [
-        {
-          "name": "El HueyCoyote",
-          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 226336,
-      "name": "Fantas\u00edas",
-      "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Despu\u00e9s del Norte",
         "url": "https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 177000,
       "name": "No Me Importa",
       "url": "https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Fantas\u00edas",
+        "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
+      },
+      "artists": [
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 226336,
+      "name": "Fantas\u00edas",
+      "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
+        "name": "Celebrando Al Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Almohada",
+      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
         "name": "Consecuencias",
         "url": "https://open.spotify.com/album/7pVt4ve6loYG6p2Yv8wGdD"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 176414,
       "name": "Consecuencias",
       "url": "https://open.spotify.com/track/05aiRtBCK11zTJABdHze5r"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
-        "name": "Celebrando Al Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Almohada",
-      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "tu amor me da paz",
-        "url": "https://open.spotify.com/album/60pmaWLTyguqSTl7HBUXXN"
-      },
-      "artists": [
-        {
-          "name": "Nella",
-          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "tu amor me da paz",
-      "url": "https://open.spotify.com/track/1gE1rA1cAMv0mHcOFhcsQZ"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "La Copa Rota",
         "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
       },
@@ -1723,6 +1703,62 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
+        "name": "nomeolvides",
+        "url": "https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 179328,
+      "name": "qu\u00e9 triste, qu\u00e9 desastre (bolero)",
+      "url": "https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "tu amor me da paz",
+        "url": "https://open.spotify.com/album/60pmaWLTyguqSTl7HBUXXN"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "tu amor me da paz",
+      "url": "https://open.spotify.com/track/1gE1rA1cAMv0mHcOFhcsQZ"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Lo esencial de Or\u00edgenes: El Bolero",
+        "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 174066,
+      "name": "No me reproches",
+      "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
         "name": "Tu Cara (Monumento)",
         "url": "https://open.spotify.com/album/1aCjcWqkry0DwPGOGlYhPE"
       },
@@ -1747,54 +1783,18 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Lo esencial de Or\u00edgenes: El Bolero",
-        "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
         }
       ],
-      "duration_ms": 174066,
-      "name": "No me reproches",
-      "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
-        "name": "nomeolvides",
-        "url": "https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT"
-      },
-      "artists": [
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 179328,
-      "name": "qu\u00e9 triste, qu\u00e9 desastre (bolero)",
-      "url": "https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
-        "name": "Enclave de Bolero",
-        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
-      },
-      "artists": [
-        {
-          "name": "La Ciencia de Juancho Valencia",
-          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
-        }
-      ],
-      "duration_ms": 207997,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
+      "duration_ms": 185727,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
     }
   ],
   "unique_name": "nuevo bolero",

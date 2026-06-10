@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Aldhara.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: duna.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -11770,7 +11770,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 232440,
       "name": "Antes De Subir Al Cielo",
       "url": "https://open.spotify.com/track/567tUE3g7Tp61qIgwEtB7W"
@@ -66827,6 +66827,24 @@
     },
     {
       "album": {
+        "name": "Internet",
+        "url": "https://open.spotify.com/album/5vh8Ubqs6pALqA4GADbc3w"
+      },
+      "artists": [
+        {
+          "name": "Jordi Ganchitos",
+          "url": "https://open.spotify.com/artist/5844W7yidUo05iQtYOZreA"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Internet",
+      "url": "https://open.spotify.com/track/1EsxAmIRqlLEQxEMpkoKN9"
+    },
+    {
+      "album": {
         "name": "interniza",
         "url": "https://open.spotify.com/album/6d7JDEmvZLMDT3BCHQH5G1"
       },
@@ -72424,6 +72442,24 @@
       "duration_ms": 161578,
       "name": "La hostia del siglo",
       "url": "https://open.spotify.com/track/1fKVNzaQAqBjzfyZKeODmn"
+    },
+    {
+      "album": {
+        "name": "La hoz",
+        "url": "https://open.spotify.com/album/5B9JaX3Fppf0SB7LMA9cSR"
+      },
+      "artists": [
+        {
+          "name": "La Jvnta",
+          "url": "https://open.spotify.com/artist/1wHptSDgqHuIBNzx5YbdkH"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235693,
+      "name": "La hoz",
+      "url": "https://open.spotify.com/track/7wXcqW74B513TwuuxDXskg"
     },
     {
       "album": {
@@ -91849,6 +91885,24 @@
     },
     {
       "album": {
+        "name": "MIENTE",
+        "url": "https://open.spotify.com/album/6cbDmQjt67F2rJaxfPsLxs"
+      },
+      "artists": [
+        {
+          "name": "Ana Farelo",
+          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "MIENTE",
+      "url": "https://open.spotify.com/track/5JT5DRdBlt5f2yBpis5JLC"
+    },
+    {
+      "album": {
         "name": "Miente",
         "url": "https://open.spotify.com/album/3yfgw0zaTqT9TplyqcVukk"
       },
@@ -104262,7 +104316,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 176517,
       "name": "No volver\u00e1n",
       "url": "https://open.spotify.com/track/3mE3e1YEIgUCzvoImXDu0h"
@@ -105002,7 +105056,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 184907,
       "name": "Nomeolvides",
       "url": "https://open.spotify.com/track/24SIM2FUVu3uypRzZyd5UW"
@@ -111540,7 +111594,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 200859,
       "name": "Paracetamor",
       "url": "https://open.spotify.com/track/3W8YtUOc2AyWawjvUryCe0"
@@ -128623,6 +128677,24 @@
     },
     {
       "album": {
+        "name": "saudade do embruxo",
+        "url": "https://open.spotify.com/album/2FRlhLAlahowUhLeL2UhT0"
+      },
+      "artists": [
+        {
+          "name": "d.dram\u00e1tico",
+          "url": "https://open.spotify.com/artist/16r4uM9iMu5Td76JkbzpK3"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128437,
+      "name": "saudade do embruxo",
+      "url": "https://open.spotify.com/track/4l5miDI9KzZ3VjejX8QRQy"
+    },
+    {
+      "album": {
         "name": "Saudi Riddim",
         "url": "https://open.spotify.com/album/5AMuwOvWhbQo87P8WmJT6g"
       },
@@ -129804,7 +129876,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 150573,
       "name": "Seppuku",
       "url": "https://open.spotify.com/track/4X7o1MGlgzdUTXKOKWLzjV"
@@ -151702,6 +151774,24 @@
       "duration_ms": 265385,
       "name": "Una para Que Haya Otra",
       "url": "https://open.spotify.com/track/0hgsPrvgDN2DlgPNea9oN1"
+    },
+    {
+      "album": {
+        "name": "Lento aposta",
+        "url": "https://open.spotify.com/album/4buqPRM9fat2l3bTa58Xc3"
+      },
+      "artists": [
+        {
+          "name": "SanIsidro",
+          "url": "https://open.spotify.com/artist/5s9nhiOTtOYu61Xnwy6175"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207547,
+      "name": "Una se\u00f1al",
+      "url": "https://open.spotify.com/track/1vZwJbowaH7qxo5Wu0ULQp"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Haylie Davis",
-  "num_followers": 425602,
+  "num_followers": 425631,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-06-05 04:00:34",
       "album": {
+        "name": "Aviary: Act 1",
+        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 222937,
+      "name": "Slipping",
+      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
+    },
+    {
+      "added_at": "2026-06-05 04:00:34",
+      "album": {
         "name": "She Don't Love Me Now",
         "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 207160,
       "name": "She Don't Love Me Now",
       "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
-    },
-    {
-      "added_at": "2026-06-05 04:00:34",
-      "album": {
-        "name": "Aviary: Act 1",
-        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 222937,
-      "name": "Slipping",
-      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
     },
     {
       "added_at": "2026-06-05 04:00:34",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-06-05 04:00:34",
       "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/0OanktBjwWfJ6rdNICU5ET"
-      },
-      "artists": [
-        {
-          "name": "The Jaws of Brooklyn",
-          "url": "https://open.spotify.com/artist/0G8ZAUGVk9uCR2xycfkepP"
-        }
-      ],
-      "duration_ms": 172014,
-      "name": "Lie To Me",
-      "url": "https://open.spotify.com/track/29VmWHsaU3HhRn88PSLg0M"
-    },
-    {
-      "added_at": "2026-06-05 04:00:34",
-      "album": {
         "name": "Hard Working Americans",
         "url": "https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 248493,
       "name": "Funky Ghost",
       "url": "https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv"
+    },
+    {
+      "added_at": "2026-06-05 04:00:34",
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/0OanktBjwWfJ6rdNICU5ET"
+      },
+      "artists": [
+        {
+          "name": "The Jaws of Brooklyn",
+          "url": "https://open.spotify.com/artist/0G8ZAUGVk9uCR2xycfkepP"
+        }
+      ],
+      "duration_ms": 172014,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/29VmWHsaU3HhRn88PSLg0M"
     },
     {
       "added_at": "2026-06-05 04:00:34",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-06-05 04:00:34",
       "album": {
-        "name": "Seventeen Acres",
-        "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
-      },
-      "artists": [
-        {
-          "name": "Joseph LeMay",
-          "url": "https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf"
-        }
-      ],
-      "duration_ms": 122750,
-      "name": "Crazy Woman",
-      "url": "https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0"
-    },
-    {
-      "added_at": "2026-06-05 04:00:34",
-      "album": {
         "name": "Something In The Water",
         "url": "https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 203986,
       "name": "Something In The Water",
       "url": "https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG"
+    },
+    {
+      "added_at": "2026-06-05 04:00:34",
+      "album": {
+        "name": "Seventeen Acres",
+        "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
+      },
+      "artists": [
+        {
+          "name": "Joseph LeMay",
+          "url": "https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf"
+        }
+      ],
+      "duration_ms": 122750,
+      "name": "Crazy Woman",
+      "url": "https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0"
     },
     {
       "added_at": "2026-06-05 04:00:34",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2026-06-05 04:00:34",
       "album": {
-        "name": "It Must Change",
-        "url": "https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk"
-      },
-      "artists": [
-        {
-          "name": "ANOHNI",
-          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
-        },
-        {
-          "name": "Antony and the Johnsons",
-          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
-        }
-      ],
-      "duration_ms": 295013,
-      "name": "It Must Change",
-      "url": "https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0"
-    },
-    {
-      "added_at": "2026-06-05 04:00:34",
-      "album": {
         "name": "Hey Mama",
         "url": "https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 185583,
       "name": "Sister Andre",
       "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
+    },
+    {
+      "added_at": "2026-06-05 04:00:34",
+      "album": {
+        "name": "It Must Change",
+        "url": "https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk"
+      },
+      "artists": [
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        },
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        }
+      ],
+      "duration_ms": 295013,
+      "name": "It Must Change",
+      "url": "https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0"
     },
     {
       "added_at": "2026-06-05 04:00:34",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-06-05 04:00:34",
       "album": {
-        "name": "Stay Right Here",
-        "url": "https://open.spotify.com/album/5fSnsS6vf9eovM8R3nvKNn"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 249560,
-      "name": "Stay Right Here",
-      "url": "https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7"
-    },
-    {
-      "added_at": "2026-06-05 04:00:34",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 237587,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
+    },
+    {
+      "added_at": "2026-06-05 04:00:34",
+      "album": {
+        "name": "Stay Right Here",
+        "url": "https://open.spotify.com/album/5fSnsS6vf9eovM8R3nvKNn"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 249560,
+      "name": "Stay Right Here",
+      "url": "https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7"
     },
     {
       "added_at": "2026-06-05 04:00:34",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 531672,
+  "num_followers": 531716,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -387,26 +387,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Que Tiene Que Te Mueve",
-        "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
-      },
-      "artists": [
-        {
-          "name": "Maykel Blanco Y Su Salsa Mayor",
-          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
-        },
-        {
-          "name": "Mayito Rivera",
-          "url": "https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD"
-        }
-      ],
-      "duration_ms": 306449,
-      "name": "Yo Comprendo",
-      "url": "https://open.spotify.com/track/3CR63Hzo3LR40TdK4pf1hr"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "El Esp\u00edritu de la Rumba",
         "url": "https://open.spotify.com/album/2ZOZ2ndaVgnlu9Fh2Wjajc"
       },
@@ -419,6 +399,22 @@
       "duration_ms": 407920,
       "name": "La Gozadera",
       "url": "https://open.spotify.com/track/47lSbhOlKE8fJJ2jc6HqRQ"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Bueno",
+        "url": "https://open.spotify.com/album/3TdBztL3zrCPNaAHP7WKDg"
+      },
+      "artists": [
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "Tus Luces Sobre Mi",
+      "url": "https://open.spotify.com/track/7AdPaRTnk63nx1E8J6XMr6"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -455,18 +451,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Bueno",
-        "url": "https://open.spotify.com/album/3TdBztL3zrCPNaAHP7WKDg"
+        "name": "Que Tiene Que Te Mueve",
+        "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
       },
       "artists": [
         {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+          "name": "Maykel Blanco Y Su Salsa Mayor",
+          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
+        },
+        {
+          "name": "Mayito Rivera",
+          "url": "https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD"
         }
       ],
-      "duration_ms": 248586,
-      "name": "Tus Luces Sobre Mi",
-      "url": "https://open.spotify.com/track/7AdPaRTnk63nx1E8J6XMr6"
+      "duration_ms": 306449,
+      "name": "Yo Comprendo",
+      "url": "https://open.spotify.com/track/3CR63Hzo3LR40TdK4pf1hr"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Laberinto de Pasiones",
-        "url": "https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Puro Teatro",
-      "url": "https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Recoge y Vete",
         "url": "https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 351506,
       "name": "Esto Est\u00e1",
       "url": "https://open.spotify.com/track/6aOj5462zikA3VwXxv2fQb"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Laberinto de Pasiones",
+        "url": "https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "Puro Teatro",
+      "url": "https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Camino al Cielo",
-        "url": "https://open.spotify.com/album/72Tes06RKTTqOuImJivudD"
-      },
-      "artists": [
-        {
-          "name": "Havana NRG",
-          "url": "https://open.spotify.com/artist/0NQisvahSHRFSfnUN0DYmp"
-        }
-      ],
-      "duration_ms": 330666,
-      "name": "Havana City",
-      "url": "https://open.spotify.com/track/6yYNnSuF2xbCpWq7yPq8KF"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Que Tiene Que Te Mueve",
         "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 332706,
       "name": "Que Tiene Que Te Mueve",
       "url": "https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Camino al Cielo",
+        "url": "https://open.spotify.com/album/72Tes06RKTTqOuImJivudD"
+      },
+      "artists": [
+        {
+          "name": "Havana NRG",
+          "url": "https://open.spotify.com/artist/0NQisvahSHRFSfnUN0DYmp"
+        }
+      ],
+      "duration_ms": 330666,
+      "name": "Havana City",
+      "url": "https://open.spotify.com/track/6yYNnSuF2xbCpWq7yPq8KF"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Que Hablen, Los Habladores...",
-        "url": "https://open.spotify.com/album/68wjw2t8xtDo0ttFCYRHtD"
+        "name": "Grandes \u00e9xitos",
+        "url": "https://open.spotify.com/album/0QSSZDP9Vva4PRT0Dhw759"
       },
       "artists": [
         {
-          "name": "Michel Maza",
-          "url": "https://open.spotify.com/artist/010Zn5OLvL9eKVBBxP4bur"
+          "name": "Manol\u00edn, El M\u00e9dico De La Salsa",
+          "url": "https://open.spotify.com/artist/1FfJF5xoAMmermBUVxoEYV"
         }
       ],
-      "duration_ms": 413080,
-      "name": "Nube Pasajera",
-      "url": "https://open.spotify.com/track/1vqojH8o4mxfyP2qJF0vyb"
+      "duration_ms": 310079,
+      "name": "Arriba de la bola",
+      "url": "https://open.spotify.com/track/4P2VLqOAJrA3ZoaYWSG0Co"
     }
   ],
   "unique_name": "Salsa Cubana",

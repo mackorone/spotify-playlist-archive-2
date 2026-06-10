@@ -1457,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/4c4SBqmV6J0gbOm6mIM4Oz"
+      },
+      "artists": [
+        {
+          "name": "Shel Khan",
+          "url": "https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222196,
+      "name": "Bruise",
+      "url": "https://open.spotify.com/track/322NfWs2Q26OwW1f0MOTBZ"
+    },
+    {
+      "album": {
         "name": "Buio Deluxe",
         "url": "https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx"
       },
@@ -6194,6 +6212,24 @@
       "duration_ms": 219176,
       "name": "Rebranding",
       "url": "https://open.spotify.com/track/6Z3N2meIvmsTtnBnRD1yS1"
+    },
+    {
+      "album": {
+        "name": "Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo (No es tan dif\u00edcil)",
+        "url": "https://open.spotify.com/album/6g7hoVgjQPhWLuXDiQlK1T"
+      },
+      "artists": [
+        {
+          "name": "Los No Muertos",
+          "url": "https://open.spotify.com/artist/10DyxVqQ1e1PaEsmZujjSE"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292766,
+      "name": "Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo (No es tan dif\u00edcil)",
+      "url": "https://open.spotify.com/track/7c3n6e35HWPu8jFZsGP2ZD"
     },
     {
       "album": {

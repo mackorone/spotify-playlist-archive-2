@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,025 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,045 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 45 | [Como me enseñó mamá](https://open.spotify.com/track/0TXGJCvgupEcblOv4YNHE3) | [MOMO](https://open.spotify.com/artist/1fcgpZt07awK1t8HyAswe3) | [Canciones para un día de mierda](https://open.spotify.com/album/2m5ptY7QcRs1XDNAgvSaUh) | 5:03 |
 | 46 | [Mi única salida](https://open.spotify.com/track/1Iq05aiCe4fPyJXDiSsHIW) | [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Endemia](https://open.spotify.com/artist/30HBg18EnoAtgGWVps8nsa) | [Mi única salida](https://open.spotify.com/album/2m91Eba2vl5OSLCpJejcIy) | 3:20 |
 | 47 | [No Sabemos Perder](https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4), [Dinamita](https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x), [Rotten XIII](https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF) | [No Sabemos Perder](https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz) | 4:00 |
-| 48 | [Vivir la Vida](https://open.spotify.com/track/4CeVTya5DmyswFPaiukYJ7) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [Vivir la Vida](https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF) | 2:52 |
-| 49 | [Putos Nazis](https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Putos Nazis](https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO) | 2:17 |
+| 48 | [Putos Nazis](https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Putos Nazis](https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO) | 2:17 |
+| 49 | [Vivir la Vida](https://open.spotify.com/track/4CeVTya5DmyswFPaiukYJ7) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [Vivir la Vida](https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF) | 2:52 |
 | 50 | [La Prospe](https://open.spotify.com/track/5YBtaF5CJ5pVUMt4z58eDN) | [Gautxori](https://open.spotify.com/artist/0P67TAOO0GVonby7kuMdqh) | [La Prospe](https://open.spotify.com/album/2Zf0oDGiTkLe5QXidCzLi8) | 2:02 |
 | 51 | [Ahora soy un punkarra](https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP) | [Desklate](https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT) | [Ahora soy un punkarra](https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK) | 2:24 |
 | 52 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 55 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
 | 56 | [Ni una Sola Palabra](https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Ni una Sola Palabra](https://open.spotify.com/album/3cCGlsL0rcQXpASb4Lqeka) | 2:28 |
 | 57 | [Rico deprimido \- XX5](https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Rico deprimido \(XX5\)](https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z) | 3:25 |
-| 58 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
-| 59 | [Jubilación a los 18](https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5) | [XpresidentX](https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK) | [Garrote Vil](https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD) | 1:45 |
-| 60 | [Sudapollismo Ilustrado](https://open.spotify.com/track/0BB5RNNNGtHfkYIP0EyQt6) | [Carry](https://open.spotify.com/artist/3P9Gth6aFRSStkfDZsYUcG) | [Sudapollismo Ilustrado](https://open.spotify.com/album/4vkp4b9gVT5Lg8E5ppkLsr) | 3:10 |
+| 58 | [Sudapollismo Ilustrado](https://open.spotify.com/track/0BB5RNNNGtHfkYIP0EyQt6) | [Carry](https://open.spotify.com/artist/3P9Gth6aFRSStkfDZsYUcG) | [Sudapollismo Ilustrado](https://open.spotify.com/album/4vkp4b9gVT5Lg8E5ppkLsr) | 3:10 |
+| 59 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
+| 60 | [Jubilación a los 18](https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5) | [XpresidentX](https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK) | [Garrote Vil](https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD) | 1:45 |
 | 61 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 |
 | 62 | [Adictos a la Lujuria \- con Ánxela \(Bala\)](https://open.spotify.com/track/36aKaIj6aD2MLkBiCTT1hZ) | [Ana Curra](https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m), [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Ana Curra y los 13 Apóstoles Presentan: La Última Cena de Parálisis Permanente](https://open.spotify.com/album/0COz15FUuwBr02ogUbGdJA) | 3:09 |
 | 63 | [Molestar](https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Molestar](https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8) | 2:38 |

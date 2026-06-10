@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 109282,
+  "num_followers": 109306,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -587,30 +587,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
+        "name": "Allemaal Een Droom",
+        "url": "https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J"
       },
       "artists": [
         {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
         },
         {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        },
-        {
-          "name": "Brysa",
-          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
-        },
-        {
-          "name": "Ashafar",
-          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+          "name": "Numidia",
+          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
         }
       ],
-      "duration_ms": 173534,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
+      "duration_ms": 155433,
+      "name": "Tout Est Bon",
+      "url": "https://open.spotify.com/track/1tA3foex0E78CzVzNkDhdf"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -635,22 +627,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Allemaal Een Droom",
-        "url": "https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J"
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
       },
       "artists": [
         {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
         },
         {
-          "name": "Numidia",
-          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        },
+        {
+          "name": "Brysa",
+          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+        },
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
         }
       ],
-      "duration_ms": 155433,
-      "name": "Tout Est Bon",
-      "url": "https://open.spotify.com/track/1tA3foex0E78CzVzNkDhdf"
+      "duration_ms": 173534,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
+      },
+      "artists": [
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        }
+      ],
+      "duration_ms": 146794,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "MGSEASON 2",
         "url": "https://open.spotify.com/album/3MpfM8o6cvwSM2l2Cs7XHQ"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 156035,
       "name": "Hard 2 Get",
       "url": "https://open.spotify.com/track/3HL8nLF6RelXx4b3DOFDsR"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
-      },
-      "artists": [
-        {
-          "name": "Equalz",
-          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
-        }
-      ],
-      "duration_ms": 146794,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
     },
     {
       "added_at": "2024-07-19 06:38:33",

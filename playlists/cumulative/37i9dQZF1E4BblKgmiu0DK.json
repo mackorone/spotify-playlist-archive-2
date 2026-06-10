@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7c8yo0HL6k2XYiqFRrxBzK"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 103000,
       "name": "Back to Me",
       "url": "https://open.spotify.com/track/4qQ5JUQjlkYez8AvLI2sJu"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 264037,
       "name": "Bad Bitch (Bonus Track)",
       "url": "https://open.spotify.com/track/4pCkOPhDf0jHYpAmSOFYg2"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 257533,
       "name": "Candide",
       "url": "https://open.spotify.com/track/7tehNfvoGYl42Ynn5WfCBh"
@@ -2476,7 +2476,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 167786,
       "name": "Drawing a Blank",
       "url": "https://open.spotify.com/track/4uq8q972ePu8YT6cy2eTgj"
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 202133,
       "name": "Every Girl",
       "url": "https://open.spotify.com/track/4C4oQjntCiPjPltwKoSll7"
@@ -3132,7 +3132,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 232621,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6jzw4EEnXgI2nrpYRrz6qG"
@@ -3258,7 +3258,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 156683,
       "name": "Funeral Of A Good Grrl",
       "url": "https://open.spotify.com/track/2UOEWzQIGIwxxBdT64ZV8J"
@@ -3384,7 +3384,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 227058,
       "name": "Gimme the Sun",
       "url": "https://open.spotify.com/track/1gt8F2ppvLAQAbkclyRUAm"
@@ -3636,7 +3636,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 173440,
       "name": "Have You No Pride",
       "url": "https://open.spotify.com/track/6hyawvI37HZdXkvDbAKLjv"
@@ -3672,7 +3672,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 244371,
       "name": "Heartbreakin' woman",
       "url": "https://open.spotify.com/track/6z7teyNlfVhzaGwr5zSaHx"
@@ -3780,7 +3780,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -3914,6 +3914,24 @@
       "duration_ms": 203781,
       "name": "honor roll",
       "url": "https://open.spotify.com/track/0V8DcN8zxbNc25PGKC5d01"
+    },
+    {
+      "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/54wxv01KgngcHkfwP65KhA"
+      },
+      "artists": [
+        {
+          "name": "jules",
+          "url": "https://open.spotify.com/artist/1OsVfaqK7kVA73NJOdsoVQ"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131449,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/7j6c6VqsViRPY1x7JnjsuA"
     },
     {
       "album": {
@@ -4090,7 +4108,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 181211,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/5PV10jClkV9Z2sds0pR3PX"
@@ -4180,7 +4198,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 162124,
       "name": "I Can't",
       "url": "https://open.spotify.com/track/3LE634W6PeNFqwztYMpnpQ"
@@ -4256,7 +4274,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 166588,
       "name": "I DONT WANT YOU",
       "url": "https://open.spotify.com/track/17VL4zOgpjUG8vL5zGpNoE"
@@ -4534,7 +4552,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 205799,
       "name": "Inner War",
       "url": "https://open.spotify.com/track/02FQAkM1fv8LPwkja6vG0x"
@@ -4884,7 +4902,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 153653,
       "name": "Killer Life",
       "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
@@ -5266,7 +5284,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 162533,
       "name": "Like An Animal",
       "url": "https://open.spotify.com/track/6UqqX0L7YyOVpSI3HUTt15"
@@ -5602,7 +5620,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 107359,
       "name": "Maple Static, Eh",
       "url": "https://open.spotify.com/track/3n9oQozZPrGmRAvCX96Tmb"
@@ -6834,7 +6852,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 235500,
       "name": "Overstay",
       "url": "https://open.spotify.com/track/7rkUaIzyuus22wvR6hRITA"
@@ -7594,7 +7612,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 207986,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/5knt1NyZCbNd9dKuwEkU5O"
@@ -8452,7 +8470,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 200333,
       "name": "The Other Tiffany",
       "url": "https://open.spotify.com/track/0QNkibueS48C3DR6o9PqOi"
@@ -9018,7 +9036,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 147800,
       "name": "Violet Skies",
       "url": "https://open.spotify.com/track/6q4B9bjxoLSjiTRIDaZwGi"

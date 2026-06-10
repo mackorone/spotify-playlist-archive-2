@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:6uxLS5CwjphrN2js9aQF9J\">Zuza Tynda</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:0DKSIQmQ284IrIKpNdl36H\">AJLA</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -1781,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "A m\u00f3g\u0142by\u015b",
+        "url": "https://open.spotify.com/album/4IPDLqfzOEDiWpPRB48Rdj"
+      },
+      "artists": [
+        {
+          "name": "AJLA",
+          "url": "https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218536,
+      "name": "A m\u00f3g\u0142by\u015b",
+      "url": "https://open.spotify.com/track/6yfb88NZmXBtRmO1NrL4TI"
+    },
+    {
+      "album": {
         "name": "Summerhouse",
         "url": "https://open.spotify.com/album/3i3AJhh1a1VNh0izCR6VAs"
       },
@@ -2430,7 +2448,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 152017,
       "name": "ALL IN GOLD",
       "url": "https://open.spotify.com/track/4bqDxoUmsQAIJWZWZqwjdm"
@@ -4098,7 +4116,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 143118,
       "name": "BBY WAGON",
       "url": "https://open.spotify.com/track/7AKgVRnGVFpiYJoXw0Un1P"
@@ -8384,7 +8402,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 107294,
       "name": "chcialem ciebie",
       "url": "https://open.spotify.com/track/7424Xmi8R4jpoaz16sNitU"
@@ -10648,7 +10666,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 147209,
       "name": "Cozy",
       "url": "https://open.spotify.com/track/5JXteAJoYA7ulRz8t9Ehay"
@@ -12493,6 +12511,28 @@
     },
     {
       "album": {
+        "name": "Dane",
+        "url": "https://open.spotify.com/album/6EVwXaqIUAzWua1bpXSFPU"
+      },
+      "artists": [
+        {
+          "name": "YULKA",
+          "url": "https://open.spotify.com/artist/4reS0zac7BdO81SDRjjRVM"
+        },
+        {
+          "name": "fifi kwiat",
+          "url": "https://open.spotify.com/artist/4QmjO6L8YmRq8FCT9EYmCa"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Dane",
+      "url": "https://open.spotify.com/track/5BXoIbFJFzWOwo8XQUcAxK"
+    },
+    {
+      "album": {
         "name": "Danse Macabre",
         "url": "https://open.spotify.com/album/53ypw5maHBN4i7oKybw6YG"
       },
@@ -13364,6 +13404,24 @@
       "duration_ms": 173124,
       "name": "Dno",
       "url": "https://open.spotify.com/track/3gemF4Sjyd7J5HuM7L6MW2"
+    },
+    {
+      "album": {
+        "name": "Do Ciebie",
+        "url": "https://open.spotify.com/album/1iJDQdbsD2ihLg0bSLwsSG"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222252,
+      "name": "Do Ciebie",
+      "url": "https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq"
     },
     {
       "album": {
@@ -37308,6 +37366,24 @@
       "duration_ms": 189703,
       "name": "M\u00f3j Mi\u0142y",
       "url": "https://open.spotify.com/track/7cY6S6eQ540l0WDMGpVwww"
+    },
+    {
+      "album": {
+        "name": "oddech",
+        "url": "https://open.spotify.com/album/6tSNja744AjQsDzzn23ini"
+      },
+      "artists": [
+        {
+          "name": "ksenia",
+          "url": "https://open.spotify.com/artist/5R9yyFJL2NggWe7A5pmMRv"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296712,
+      "name": "m\u00f3j odyseusz",
+      "url": "https://open.spotify.com/track/31ZreB3GzUh8apZIGsaxYG"
     },
     {
       "album": {
@@ -61996,7 +62072,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 204255,
       "name": "SZAMPAN",
       "url": "https://open.spotify.com/track/0wts90I1idvzrHPAr110vy"
@@ -63242,6 +63318,24 @@
     {
       "album": {
         "name": "S\u0142o\u0144ce",
+        "url": "https://open.spotify.com/album/1h88GAYP62ZE5HWJtNMOMk"
+      },
+      "artists": [
+        {
+          "name": "RINGO",
+          "url": "https://open.spotify.com/artist/7AFaNhhzSOx15p4kel8kGw"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250669,
+      "name": "S\u0142o\u0144ce",
+      "url": "https://open.spotify.com/track/0E7ECdnSNEFlioQl1e1HiF"
+    },
+    {
+      "album": {
+        "name": "S\u0142o\u0144ce",
         "url": "https://open.spotify.com/album/5i6q7sPlEGqvzP3IOtWYTb"
       },
       "artists": [
@@ -63730,6 +63824,24 @@
       "duration_ms": 256226,
       "name": "Tak wiele",
       "url": "https://open.spotify.com/track/1fQ9jkRpikRy9usbZHywui"
+    },
+    {
+      "album": {
+        "name": "Taka jak ty",
+        "url": "https://open.spotify.com/album/4fQCNtcNfgF4upBm4lnRwy"
+      },
+      "artists": [
+        {
+          "name": "MeryMaks",
+          "url": "https://open.spotify.com/artist/6Ktj597K5DEKDYyJv38nkI"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Taka jak ty",
+      "url": "https://open.spotify.com/track/0Oyu6LRiBCEVawrBzMPD7Y"
     },
     {
       "album": {
@@ -64250,6 +64362,24 @@
       "duration_ms": 191200,
       "name": "Ta\u0144czy\u0107",
       "url": "https://open.spotify.com/track/2xGYpBEzv5GnhBmBCXySdj"
+    },
+    {
+      "album": {
+        "name": "Ta\u0144czy\u0107 Z Tob\u0105",
+        "url": "https://open.spotify.com/album/0FV6OAvP95TCo1mjLv3nrB"
+      },
+      "artists": [
+        {
+          "name": "Ola Michalska",
+          "url": "https://open.spotify.com/artist/6Mdjifgz9yPM87L6BNLuon"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168461,
+      "name": "Ta\u0144czy\u0107 Z Tob\u0105",
+      "url": "https://open.spotify.com/track/3cWnK3gZjVF8DdUxL2q0qi"
     },
     {
       "album": {
@@ -70858,7 +70988,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 281131,
       "name": "Waiting for your call",
       "url": "https://open.spotify.com/track/2FecAZrpvb1GC0FeniP6q2"
@@ -76079,6 +76209,24 @@
     },
     {
       "album": {
+        "name": "Z Tob\u0105 \u015ani\u0107",
+        "url": "https://open.spotify.com/album/51y934yWhllKaHm6gC6HLV"
+      },
+      "artists": [
+        {
+          "name": "IF Igor Falecki",
+          "url": "https://open.spotify.com/artist/5dPFcGs57MmGc9b1spUNUy"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177577,
+      "name": "Z Tob\u0105 \u015ani\u0107",
+      "url": "https://open.spotify.com/track/1QMT6oNUaS57OD62nDZ4rO"
+    },
+    {
+      "album": {
         "name": "Z TRZYNASTEGO PI\u0118TRA",
         "url": "https://open.spotify.com/album/1o37bfUyeSFD7v8Zw0dHii"
       },
@@ -79046,7 +79194,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 161545,
       "name": "Zwolnij",
       "url": "https://open.spotify.com/track/0X7yldPd0EZUvohZpaQLUP"
@@ -80632,7 +80780,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 190312,
       "name": "\u017b\u00f3\u0142te kwiaty",
       "url": "https://open.spotify.com/track/0ZoSMW9Hv7RpfXXXI6aRd9"

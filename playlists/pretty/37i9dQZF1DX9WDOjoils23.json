@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 41676,
+  "num_followers": 41728,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -137,6 +137,26 @@
       "url": "https://open.spotify.com/track/5cxVEgRGbZkISmLWsAkOhz"
     },
     {
+      "added_at": "2026-05-29 08:10:52",
+      "album": {
+        "name": "Ranjha Ranjha",
+        "url": "https://open.spotify.com/album/0jKYWDHtc5LYfy0sCEW2Oq"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Noor Mohammad",
+          "url": "https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG"
+        }
+      ],
+      "duration_ms": 184295,
+      "name": "Ranjha Ranjha",
+      "url": "https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf"
+    },
+    {
       "added_at": "2026-05-22 11:41:53",
       "album": {
         "name": "Kadi Aa Mil Sanwal",
@@ -151,26 +171,6 @@
       "duration_ms": 248476,
       "name": "Kadi Aa Mil Sanwal",
       "url": "https://open.spotify.com/track/4tGycbAMbMuajOmaSgCkI8"
-    },
-    {
-      "added_at": "2026-05-22 11:41:53",
-      "album": {
-        "name": "KHED ISHQE DI",
-        "url": "https://open.spotify.com/album/2DB1lIB9Eorc4Mw1T60GzT"
-      },
-      "artists": [
-        {
-          "name": "Khan Saab",
-          "url": "https://open.spotify.com/artist/5Uo28tAylVBPPW2Cs8LFwN"
-        },
-        {
-          "name": "Sandeep Kaur Sidhu",
-          "url": "https://open.spotify.com/artist/32fW3RBYZcC0FxXQC1NiY5"
-        }
-      ],
-      "duration_ms": 267708,
-      "name": "KHED ISHQE DI",
-      "url": "https://open.spotify.com/track/6mfsnDVuZ7XP66s2FJqrz9"
     },
     {
       "added_at": "2026-05-22 11:41:53",
@@ -205,24 +205,24 @@
       "url": "https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB"
     },
     {
-      "added_at": "2026-05-29 08:10:52",
+      "added_at": "2026-05-22 11:41:53",
       "album": {
-        "name": "Ranjha Ranjha",
-        "url": "https://open.spotify.com/album/0jKYWDHtc5LYfy0sCEW2Oq"
+        "name": "KHED ISHQE DI",
+        "url": "https://open.spotify.com/album/2DB1lIB9Eorc4Mw1T60GzT"
       },
       "artists": [
         {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+          "name": "Khan Saab",
+          "url": "https://open.spotify.com/artist/5Uo28tAylVBPPW2Cs8LFwN"
         },
         {
-          "name": "Noor Mohammad",
-          "url": "https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG"
+          "name": "Sandeep Kaur Sidhu",
+          "url": "https://open.spotify.com/artist/32fW3RBYZcC0FxXQC1NiY5"
         }
       ],
-      "duration_ms": 184295,
-      "name": "Ranjha Ranjha",
-      "url": "https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf"
+      "duration_ms": 267708,
+      "name": "KHED ISHQE DI",
+      "url": "https://open.spotify.com/track/6mfsnDVuZ7XP66s2FJqrz9"
     },
     {
       "added_at": "2026-05-22 11:41:53",
@@ -447,26 +447,18 @@
     {
       "added_at": "2026-05-22 11:41:53",
       "album": {
-        "name": "Allah Toh Mangda",
-        "url": "https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra"
+        "name": "Greatest Hits Of Manmohan Waris",
+        "url": "https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9"
       },
       "artists": [
         {
-          "name": "Rahul Rana",
-          "url": "https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC"
-        },
-        {
-          "name": "Arjit Srivastava",
-          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
-        },
-        {
-          "name": "Arjun Sarkar",
-          "url": "https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s"
+          "name": "Manmohan Waris",
+          "url": "https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5"
         }
       ],
-      "duration_ms": 214363,
-      "name": "Allah Toh Mangda",
-      "url": "https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg"
+      "duration_ms": 417213,
+      "name": "Kalli Beh Ke Sochni",
+      "url": "https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64"
     },
     {
       "added_at": "2026-05-22 11:41:53",
@@ -487,18 +479,26 @@
     {
       "added_at": "2026-05-22 11:41:53",
       "album": {
-        "name": "Greatest Hits Of Manmohan Waris",
-        "url": "https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9"
+        "name": "Allah Toh Mangda",
+        "url": "https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra"
       },
       "artists": [
         {
-          "name": "Manmohan Waris",
-          "url": "https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5"
+          "name": "Rahul Rana",
+          "url": "https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC"
+        },
+        {
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        },
+        {
+          "name": "Arjun Sarkar",
+          "url": "https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s"
         }
       ],
-      "duration_ms": 417213,
-      "name": "Kalli Beh Ke Sochni",
-      "url": "https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64"
+      "duration_ms": 214363,
+      "name": "Allah Toh Mangda",
+      "url": "https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg"
     },
     {
       "added_at": "2026-05-22 11:41:53",

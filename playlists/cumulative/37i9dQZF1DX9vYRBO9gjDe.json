@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u30026\u67087\u65e5\u4ed8\u3002",
+  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u30026\u67088\u65e5\u4ed8\u3002",
   "name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "tracks": [
     {
@@ -32956,7 +32956,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 349200,
       "name": "Hachimitsu",
       "url": "https://open.spotify.com/track/2rEAJwB9CyAlbxk2oDZI4u"
@@ -110577,6 +110577,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u611f\u8b1d\u796d",
+        "url": "https://open.spotify.com/album/2pv5NpsWxVCYNgKnNEeagS"
+      },
+      "artists": [
+        {
+          "name": "CANDY TUNE",
+          "url": "https://open.spotify.com/artist/4Yq4M6kdQTjkPBOp7aPJrA"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250500,
+      "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u611f\u8b1d\u796d",
+      "url": "https://open.spotify.com/track/5MwU3ksdoc7V5gv7zG2Toy"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30da\u30eb",
         "url": "https://open.spotify.com/album/1ixXMADF3UxGBzK3dNcOkZ"
       },
@@ -116382,7 +116400,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 284264,
       "name": "\u30db\u30e9\u30fc\u30af\u30a4\u30fc\u30f3",
       "url": "https://open.spotify.com/track/4xfm7kSYoRvlAhqA7JlZzd"
@@ -132694,7 +132712,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 244326,
       "name": "\u666f\u8272 - INI VER.",
       "url": "https://open.spotify.com/track/7cnPiZlmZEcLKYfXNEMxTc"

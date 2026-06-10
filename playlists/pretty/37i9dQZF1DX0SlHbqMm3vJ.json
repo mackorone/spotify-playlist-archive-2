@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover:  Tiwa Savage",
-  "num_followers": 264124,
+  "num_followers": 264144,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -120,16 +120,16 @@
       },
       "artists": [
         {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        },
+        {
           "name": "Young Legend",
           "url": "https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd"
         },
         {
           "name": "Joeboy",
           "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
         }
       ],
       "duration_ms": 167000,
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-06-04 20:17:23",
       "album": {
-        "name": "Shy Lover",
-        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Shy Lover",
-      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
-    },
-    {
-      "added_at": "2026-06-04 20:17:23",
-      "album": {
         "name": "catharsis",
         "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 162587,
       "name": "golibe",
       "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
+    },
+    {
+      "added_at": "2026-06-04 20:17:23",
+      "album": {
+        "name": "Shy Lover",
+        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Shy Lover",
+      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
     },
     {
       "added_at": "2026-06-04 20:17:23",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-06-04 20:17:23",
       "album": {
-        "name": "Love Egbugomo",
-        "url": "https://open.spotify.com/album/7wQM76tkNQjgyK1NBEs2nt"
-      },
-      "artists": [
-        {
-          "name": "SYEMCA",
-          "url": "https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 151794,
-      "name": "Love Egbugomo",
-      "url": "https://open.spotify.com/track/1pi9XMrwEocfCRlDiEDrHM"
-    },
-    {
-      "added_at": "2026-06-04 20:17:23",
-      "album": {
         "name": "GINGER U",
         "url": "https://open.spotify.com/album/5FR6KPEixVBS8KKq9gn3ig"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 141704,
       "name": "GINGER U",
       "url": "https://open.spotify.com/track/3hE3b86YL8yRiJsKSvvRNX"
+    },
+    {
+      "added_at": "2026-06-04 20:17:23",
+      "album": {
+        "name": "Love Egbugomo",
+        "url": "https://open.spotify.com/album/7wQM76tkNQjgyK1NBEs2nt"
+      },
+      "artists": [
+        {
+          "name": "SYEMCA",
+          "url": "https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 151794,
+      "name": "Love Egbugomo",
+      "url": "https://open.spotify.com/track/1pi9XMrwEocfCRlDiEDrHM"
     },
     {
       "added_at": "2026-06-04 20:17:23",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-06-04 20:17:23",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
-    },
-    {
-      "added_at": "2026-06-04 20:17:23",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 159994,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz"
+    },
+    {
+      "added_at": "2026-06-04 20:17:23",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2026-06-04 20:17:23",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-06-04 20:17:23",
       "album": {
+        "name": "May 10th",
+        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "May 10th",
+      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
+    },
+    {
+      "added_at": "2026-06-04 20:17:23",
+      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 189071,
       "name": "Offa Me (feat. Victoria Mon\u00e9t)",
       "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
-    },
-    {
-      "added_at": "2026-06-04 20:17:23",
-      "album": {
-        "name": "May 10th",
-        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00f8tonin",
-          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "May 10th",
-      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
     },
     {
       "added_at": "2026-06-04 20:17:23",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-06-04 20:17:23",
       "album": {
+        "name": "Julie",
+        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
+    },
+    {
+      "added_at": "2026-06-04 20:17:23",
+      "album": {
         "name": "Bother Me (feat. Victony)",
         "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 180959,
       "name": "Bother Me (feat. Victony)",
       "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
-    },
-    {
-      "added_at": "2026-06-04 20:17:23",
-      "album": {
-        "name": "Julie",
-        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Julie",
-      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
     },
     {
       "added_at": "2026-06-04 20:17:23",
@@ -1431,26 +1431,6 @@
       "duration_ms": 168205,
       "name": "Your Type",
       "url": "https://open.spotify.com/track/59XJEMBDqZM420GWBm3n3m"
-    },
-    {
-      "added_at": "2026-06-04 20:17:23",
-      "album": {
-        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 137390,
-      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
     },
     {
       "added_at": "2026-06-04 20:17:23",
@@ -1507,6 +1487,26 @@
       "duration_ms": 193672,
       "name": "Speak Up",
       "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
+    },
+    {
+      "added_at": "2026-06-04 20:17:23",
+      "album": {
+        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 137390,
+      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
     },
     {
       "added_at": "2026-06-04 20:17:23",

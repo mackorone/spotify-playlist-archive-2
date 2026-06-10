@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAAD5azKMzDXca8uua3V1a9NV",
+  "snapshot_id": "aiYGAAAAAAAb7RWuQsY3b/auV9eputNo",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 229973,
+      "name": "I Always Get My Man",
+      "url": "https://open.spotify.com/track/2JyzzMO9KJVHNXy9YU5AkY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 266071,
       "name": "Clotilda's On Fire",
       "url": "https://open.spotify.com/track/5LOv9Q0IHQiqdVOaozRJRi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 229973,
-      "name": "I Always Get My Man",
-      "url": "https://open.spotify.com/track/2JyzzMO9KJVHNXy9YU5AkY"
     },
     {
       "added_at": null,
@@ -635,6 +635,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "America's Child",
+        "url": "https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 271313,
+      "name": "Such A Pretty Flame",
+      "url": "https://open.spotify.com/track/17ELglPxWgiSNWiBt5Ikyt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 228002,
+      "name": "Broken High Heels",
+      "url": "https://open.spotify.com/track/79SlwHe953CEa23taTs4lr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Basie Swings The Blues",
         "url": "https://open.spotify.com/album/2LgSp4MlNeohQq2WmmqI0V"
       },
@@ -663,54 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 228002,
-      "name": "Broken High Heels",
-      "url": "https://open.spotify.com/track/79SlwHe953CEa23taTs4lr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "America's Child",
-        "url": "https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 271313,
-      "name": "Such A Pretty Flame",
-      "url": "https://open.spotify.com/track/17ELglPxWgiSNWiBt5Ikyt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 268893,
-      "name": "It's 2 A.M.",
-      "url": "https://open.spotify.com/track/004057Au60xNi5a6rvCTDE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Blues",
         "url": "https://open.spotify.com/album/4YmdrI09y7oYOnw1LtnQuU"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 308466,
       "name": "Ramblin' on My Mind",
       "url": "https://open.spotify.com/track/0lh14tFCx7aiUePon7330a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 268893,
+      "name": "It's 2 A.M.",
+      "url": "https://open.spotify.com/track/004057Au60xNi5a6rvCTDE"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        },
-        {
-          "name": "Billy F Gibbons",
-          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
-        }
-      ],
-      "duration_ms": 275533,
-      "name": "Jesus Just Left Chicago",
-      "url": "https://open.spotify.com/track/7adzBeIB0YQEtjUCI8Tghz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Girl Friends",
         "url": "https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0"
       },
@@ -827,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funky Blues",
-        "url": "https://open.spotify.com/album/6z5ROrtqUdrWD8wdr1KrJI"
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
       },
       "artists": [
         {
           "name": "Shemekia Copeland",
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        },
+        {
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
         }
       ],
-      "duration_ms": 303640,
-      "name": "Steamy Windows",
-      "url": "https://open.spotify.com/track/2TtO2IPMFIsDD37rpxRmCE"
+      "duration_ms": 275533,
+      "name": "Jesus Just Left Chicago",
+      "url": "https://open.spotify.com/track/7adzBeIB0YQEtjUCI8Tghz"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 190310,
       "name": "Under My Thumb",
       "url": "https://open.spotify.com/track/7180g7qzIg60eVmeUfxIlG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funky Blues",
+        "url": "https://open.spotify.com/album/6z5ROrtqUdrWD8wdr1KrJI"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 303640,
+      "name": "Steamy Windows",
+      "url": "https://open.spotify.com/track/2TtO2IPMFIsDD37rpxRmCE"
     }
   ],
   "unique_name": "This Is Shemekia Copeland",

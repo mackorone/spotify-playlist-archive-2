@@ -292,6 +292,32 @@
     {
       "album": {
         "name": "Lighten Our Darkness: Music for the Close of Day",
+        "url": "https://open.spotify.com/album/5alGKjK8d8xyqbneREbY37"
+      },
+      "artists": [
+        {
+          "name": "Josef Rheinberger",
+          "url": "https://open.spotify.com/artist/6VqbzLwDT1yDg7ghR4jKyL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211240,
+      "name": "Abendlied, Op. 69 No. 3",
+      "url": "https://open.spotify.com/track/5PonvHhMWxAS5otxgqYAG8"
+    },
+    {
+      "album": {
+        "name": "Lighten Our Darkness: Music for the Close of Day",
         "url": "https://open.spotify.com/album/6dALfMS0ArNVfD18UeE6Cq"
       },
       "artists": [
@@ -310,7 +336,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 211240,
       "name": "Abendlied, Op. 69 No. 3",
       "url": "https://open.spotify.com/track/5dvX2ZgU6XWISShf7QoV2k"
@@ -560,6 +586,32 @@
     {
       "album": {
         "name": "Be Thou My Vision: Sacred Music by John Rutter",
+        "url": "https://open.spotify.com/album/5i0B9cZj9tnNkj9YDihBT8"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261120,
+      "name": "Be Thou My Vision",
+      "url": "https://open.spotify.com/track/20MbdATtJ8moI5e7pAb4pK"
+    },
+    {
+      "album": {
+        "name": "Be Thou My Vision: Sacred Music by John Rutter",
         "url": "https://open.spotify.com/album/32wnph2659J6VtOnw1eRUb"
       },
       "artists": [
@@ -578,7 +630,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 261120,
       "name": "Be Thou My Vision",
       "url": "https://open.spotify.com/track/7BDaiPnlCrpW6wfa8tixpe"
@@ -608,7 +660,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 406506,
       "name": "Cantique de Jean Racine, Op. 11 (Arr. J. Rutter for Choir & Organ)",
       "url": "https://open.spotify.com/track/6U9cTWvX7mc5ZZXOiwd6n6"
@@ -690,6 +742,32 @@
     {
       "album": {
         "name": "The Sacred Flame",
+        "url": "https://open.spotify.com/album/0Emp3q0R4m0SM6ePTgJq8h"
+      },
+      "artists": [
+        {
+          "name": "Felice Anerio",
+          "url": "https://open.spotify.com/artist/5kdfhNRwV47yWAoTQcZxxz"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127880,
+      "name": "Christus factus est pro nobis",
+      "url": "https://open.spotify.com/track/5qobVYtS4ag6k5tjtO3fH1"
+    },
+    {
+      "album": {
+        "name": "The Sacred Flame",
         "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
       },
       "artists": [
@@ -708,7 +786,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 127880,
       "name": "Christus factus est pro nobis",
       "url": "https://open.spotify.com/track/7hWFyU8MWbTkF7No3fAcZb"
@@ -990,7 +1068,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 109600,
       "name": "I Sat Down Under His Shadow",
       "url": "https://open.spotify.com/track/6l0y9izHxT4K3Bg9QAEfYO"
@@ -1076,10 +1154,36 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 195293,
       "name": "I. Sicut cervus desiderat",
       "url": "https://open.spotify.com/track/0BA86RgqxxJD5832EGla8c"
+    },
+    {
+      "album": {
+        "name": "The Sacred Flame",
+        "url": "https://open.spotify.com/album/0Emp3q0R4m0SM6ePTgJq8h"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Pierluigi da Palestrina",
+          "url": "https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195293,
+      "name": "I. Sicut cervus desiderat",
+      "url": "https://open.spotify.com/track/2vH3hHlksE5igsMzPtruCG"
     },
     {
       "album": {
@@ -1180,7 +1284,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 100426,
       "name": "II. Ostinato",
       "url": "https://open.spotify.com/track/1EJOA2Y1dDlkywchsTCLQA"
@@ -1428,10 +1532,48 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 214213,
       "name": "IV. Pie Jesu",
       "url": "https://open.spotify.com/track/1oYIaSVdCweLHUdJvtU3iu"
+    },
+    {
+      "album": {
+        "name": "Faur\u00e9: Requiem & Other Sacred Music",
+        "url": "https://open.spotify.com/album/1Kjx52r3MgXoYLwf5ZDUO0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Simon Standage",
+          "url": "https://open.spotify.com/artist/2jIBkRzVUboTbp05rJnKeT"
+        },
+        {
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "Caroline Ashton",
+          "url": "https://open.spotify.com/artist/6vSVcjZkMkhFfAeqjUVhxS"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214213,
+      "name": "IV. Pie Jesu",
+      "url": "https://open.spotify.com/track/5s5U9wkbRLgnsupyq3wFBc"
     },
     {
       "album": {
@@ -1536,6 +1678,32 @@
       "duration_ms": 91676,
       "name": "Lead, Kindly Light",
       "url": "https://open.spotify.com/track/0TiaU15H66bT5nzxiK37zp"
+    },
+    {
+      "album": {
+        "name": "Lighten Our Darkness: Music for the Close of Day",
+        "url": "https://open.spotify.com/album/5alGKjK8d8xyqbneREbY37"
+      },
+      "artists": [
+        {
+          "name": "John Sheppard",
+          "url": "https://open.spotify.com/artist/3zjGl5F9O605l8da8H8Dhz"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232866,
+      "name": "Libera nos, salva nos",
+      "url": "https://open.spotify.com/track/0tu3usVCCc2zhPcvP95P7E"
     },
     {
       "album": {
@@ -1798,10 +1966,36 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 231160,
       "name": "Miserere mei",
       "url": "https://open.spotify.com/track/12Sd37QDsmHzFjXJnuKEbr"
+    },
+    {
+      "album": {
+        "name": "The Sprig of Thyme",
+        "url": "https://open.spotify.com/album/0hsc4DoCeO7t9xpmhSnP9H"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168453,
+      "name": "No. 2, The Spring Time of the Year",
+      "url": "https://open.spotify.com/track/65rO5g4EAmnAfjhGuxK9kg"
     },
     {
       "album": {
@@ -1950,6 +2144,56 @@
       "duration_ms": 161653,
       "name": "Open Thou Mine Eyes",
       "url": "https://open.spotify.com/track/1F8O2CLELF81LAGFUBIZyj"
+    },
+    {
+      "album": {
+        "name": "Gloria: The Sacred Music Of John Rutter",
+        "url": "https://open.spotify.com/album/7iKIB27EdiiiFBIffhCgFr"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Mary Seers",
+          "url": "https://open.spotify.com/artist/5wdmZTC5NRErtArYNI9eUU"
+        },
+        {
+          "name": "Mary Hitch",
+          "url": "https://open.spotify.com/artist/2uDDFSaMpU6U7EcGsG6DMH"
+        },
+        {
+          "name": "Caroline Ashton",
+          "url": "https://open.spotify.com/artist/6vSVcjZkMkhFfAeqjUVhxS"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "Gary Kettel",
+          "url": "https://open.spotify.com/artist/6nIQZ7kMnyXmoJwfaiknCw"
+        },
+        {
+          "name": "Eric Allen",
+          "url": "https://open.spotify.com/artist/26nAW8GPlPbG73C2sN155I"
+        },
+        {
+          "name": "The Philip Jones Brass Ensemble",
+          "url": "https://open.spotify.com/artist/1k8OBOZFeKJJYbpFpndv5R"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418586,
+      "name": "Rutter Gloria: II. Andante",
+      "url": "https://open.spotify.com/track/3u0JmlCwrYDtZImE51xByL"
     },
     {
       "album": {
@@ -2170,10 +2414,36 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 228000,
       "name": "Symphonic Dances, Op. 64: II. Allegretto grazioso (Arr. for Orchestra by John Rutter)",
       "url": "https://open.spotify.com/track/04i7RcVg5iYUvLqwl9Ochx"
+    },
+    {
+      "album": {
+        "name": "Classical Tranquillity",
+        "url": "https://open.spotify.com/album/5FcMVke2odz0PCYqxELSaZ"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Manchester Camerata",
+          "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Symphonic Dances, Op. 64: II. Allegretto grazioso (Arr. for Orchestra by John Rutter)",
+      "url": "https://open.spotify.com/track/0FNjmOzQiln17fZ8g3HZyj"
     },
     {
       "album": {
@@ -2402,7 +2672,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 370960,
       "name": "To Every Thing There Is a Season (Version for Mixed Choir & Orchestra)",
       "url": "https://open.spotify.com/track/38oE5rxqBknRMBNUwuXnas"

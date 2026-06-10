@@ -105909,6 +105909,24 @@
     },
     {
       "album": {
+        "name": "Partenope",
+        "url": "https://open.spotify.com/album/0kXeCMQGamStcm1wNoh6gO"
+      },
+      "artists": [
+        {
+          "name": "10k watt",
+          "url": "https://open.spotify.com/artist/5lyfVXXAUVOAf9rBhMwxZw"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145055,
+      "name": "Partenope",
+      "url": "https://open.spotify.com/track/64piLHQ3Kh2hg8yZ2WNcya"
+    },
+    {
+      "album": {
         "name": "Partenope (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/1ONWmXCcVhTpI6qmpOZrTo"
       },

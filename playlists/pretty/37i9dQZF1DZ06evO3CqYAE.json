@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14807,
+  "num_followers": 14810,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAACFde0o5gxYS2s+pjmuDaOj",
+  "snapshot_id": "aiYGAAAAAADi0aThWqNG7nGMVgtMs7Md",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Doing of the Lord",
-        "url": "https://open.spotify.com/album/0UMzdsiWTh6HOPeQ0m3Twe"
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
       },
       "artists": [
         {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
         },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 286920,
-      "name": "The Doing of the Lord",
-      "url": "https://open.spotify.com/track/5dp5WKKU2t3TZ3LWl9Ehz3"
+      "duration_ms": 334393,
+      "name": "More Than Gold (feat. Mercy Chinwo)",
+      "url": "https://open.spotify.com/track/7ImaABjt1NzhwO9KhABkG4"
     },
     {
       "added_at": null,
@@ -275,22 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man Of Galilee",
-        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
+        "name": "The Doing of the Lord",
+        "url": "https://open.spotify.com/album/0UMzdsiWTh6HOPeQ0m3Twe"
       },
       "artists": [
         {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 334393,
-      "name": "More Than Gold (feat. Mercy Chinwo)",
-      "url": "https://open.spotify.com/track/7ImaABjt1NzhwO9KhABkG4"
+      "duration_ms": 286920,
+      "name": "The Doing of the Lord",
+      "url": "https://open.spotify.com/track/5dp5WKKU2t3TZ3LWl9Ehz3"
     },
     {
       "added_at": null,
@@ -599,26 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oyoyo Chukwu",
-        "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
+        "name": "Okaka (The Mighty One)",
+        "url": "https://open.spotify.com/album/1yibchZLurBss8jiZLAw6A"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Israel Dammy",
-          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
-        },
-        {
-          "name": "EeZee Tee",
-          "url": "https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7"
         }
       ],
-      "duration_ms": 317986,
-      "name": "Oyoyo Chukwu",
-      "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
+      "duration_ms": 498267,
+      "name": "Okaka (The Mighty One)",
+      "url": "https://open.spotify.com/track/6erhjuOK4EgCweQkA7dVvR"
     },
     {
       "added_at": null,
@@ -655,18 +647,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okaka (The Mighty One)",
-        "url": "https://open.spotify.com/album/1yibchZLurBss8jiZLAw6A"
+        "name": "Oyoyo Chukwu",
+        "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Israel Dammy",
+          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
+        },
+        {
+          "name": "EeZee Tee",
+          "url": "https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7"
         }
       ],
-      "duration_ms": 498267,
-      "name": "Okaka (The Mighty One)",
-      "url": "https://open.spotify.com/track/6erhjuOK4EgCweQkA7dVvR"
+      "duration_ms": 317986,
+      "name": "Oyoyo Chukwu",
+      "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
     },
     {
       "added_at": null,

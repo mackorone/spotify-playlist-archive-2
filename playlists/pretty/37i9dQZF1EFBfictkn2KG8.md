@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jfYpWb92femNCZefwYZhs">Janieck</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 98 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 22 | [Just Wanna Be With You](https://open.spotify.com/track/2MJKbbjmQSU80KA27ozSU7) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Just Wanna Be With You](https://open.spotify.com/album/5CtSAySz886wilKOAf6IfY) | 2:31 |
 | 23 | [Rodeo](https://open.spotify.com/track/405KnDGhTDL2kYmczbN7AC) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Rodeo](https://open.spotify.com/album/51BlOCH8hpyZ7tYBjvVkZu) | 2:34 |
 | 24 | [Break Through](https://open.spotify.com/track/4rFi6ScbWNQLNHcmfJeqzl) | [Preon](https://open.spotify.com/artist/53e6luchskqkXYn2ECFJJM), [David Bulla](https://open.spotify.com/artist/1m4dgoC8JY2DM5jNd11gK9), [Lars M](https://open.spotify.com/artist/0E1pXFeZDRIaKr1993EZEn) | [Break Through](https://open.spotify.com/album/2L27XU8NehlG8qDKphYdiE) | 3:11 |
-| 25 | [Make Me Feel](https://open.spotify.com/track/2ogeuuFlYmhSwCwTBYV1Fx) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Make Me Feel](https://open.spotify.com/album/6T3J1PFPHbfA0au1k94gm7) | 2:14 |
-| 26 | [Paris and Rome](https://open.spotify.com/track/1JMh5BJOU5GIScZWWJIs62) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Paris and Rome](https://open.spotify.com/album/394U7G9ohgXJF8Lm1sQwFh) | 1:58 |
+| 25 | [Paris and Rome](https://open.spotify.com/track/1JMh5BJOU5GIScZWWJIs62) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Paris and Rome](https://open.spotify.com/album/394U7G9ohgXJF8Lm1sQwFh) | 1:58 |
+| 26 | [Make Me Feel](https://open.spotify.com/track/2ogeuuFlYmhSwCwTBYV1Fx) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Make Me Feel](https://open.spotify.com/album/6T3J1PFPHbfA0au1k94gm7) | 2:14 |
 | 27 | [Rocket Ride](https://open.spotify.com/track/6rbT6gJufhm9a5xEmMlyc1) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rocket Ride](https://open.spotify.com/album/3728GQSE87KrGe2IYBGX9U) | 2:46 |
 | 28 | [Flightless](https://open.spotify.com/track/19Z9lAU7qh6uB5628X04eN) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Flightless](https://open.spotify.com/album/6tttSwZHetUZHLOMzDl7Wj) | 2:23 |
-| 29 | [Whenever](https://open.spotify.com/track/2v0RhlOnfy6qBIU3zvFJKq) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/4wttAKtcPFWY44msS6bU2T) | 2:35 |
-| 30 | [Sing Along](https://open.spotify.com/track/3BPslvVpadxuTyXnd9gxWi) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI) | [Sing Along](https://open.spotify.com/album/1fFx7VqRKjG1fK0DZYHmed) | 3:04 |
-| 31 | [Babylon](https://open.spotify.com/track/1e9Lx4nNiGdNEoIL24CDuW) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Babylon](https://open.spotify.com/album/2cvnOoN9A2CaCXFesGv1D5) | 2:07 |
+| 29 | [Babylon](https://open.spotify.com/track/1e9Lx4nNiGdNEoIL24CDuW) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Babylon](https://open.spotify.com/album/2cvnOoN9A2CaCXFesGv1D5) | 2:07 |
+| 30 | [Whenever](https://open.spotify.com/track/2v0RhlOnfy6qBIU3zvFJKq) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/4wttAKtcPFWY44msS6bU2T) | 2:35 |
+| 31 | [Sing Along](https://open.spotify.com/track/3BPslvVpadxuTyXnd9gxWi) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI) | [Sing Along](https://open.spotify.com/album/1fFx7VqRKjG1fK0DZYHmed) | 3:04 |
 | 32 | [Someone Else](https://open.spotify.com/track/4pLGr9y4U7n2bA0zw3Ir9q) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Someone Else](https://open.spotify.com/album/5KMfRxeDzPvf5v63dWx4xG) | 2:14 |
 | 33 | [Twenty One](https://open.spotify.com/track/3iAD8b8HXY4M7jyrU90mgS) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Twenty One](https://open.spotify.com/album/0tOTP7MnvbpTUbg55rKXzq) | 2:08 |
 | 34 | [Looking 4 Love](https://open.spotify.com/track/16PmdK3tuq8vlJrEXGJlqB) | [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [SØBER](https://open.spotify.com/artist/5h52qlTPK4S2ZrQj69Q2B5) | [Looking 4 Love](https://open.spotify.com/album/1wUKnR8UdzL4lDhWGbWTj5) | 2:22 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 48 | [Best Days](https://open.spotify.com/track/1hlVq4qDWAbk5daRO8c8nY) | [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd), [Bk](https://open.spotify.com/artist/2ZXi5gHD72bz9mdRBaVgOT) | [Best Days](https://open.spotify.com/album/0MNwcjq8gOTy2BOsKGiXEn) | 3:08 |
 | 49 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 |
 
-Snapshot ID: `AcTs8gAAAABwqn+yOZll731GC8JvbN0k`
+Snapshot ID: `AcTykgAAAAAHfN876pV02bPN4C5REXWQ`

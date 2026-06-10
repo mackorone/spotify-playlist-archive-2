@@ -1,12 +1,12 @@
 {
   "description": "The best new music from independent artists and labels. Featuring Paycheque. Curated with love by human Spotify editors.",
-  "num_followers": 1221114,
+  "num_followers": 1221043,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALM2g2/jOWaDCbIuAsHvZay3Mbhg",
+  "snapshot_id": "AAAAAPrn7ofJsC5HmpngBPo9OFx0+kB2",
   "tracks": [
     {
       "added_at": "2026-05-28 01:02:10",
@@ -25,20 +25,36 @@
       "url": "https://open.spotify.com/track/2pL2U3RrCM8fdI5pfoq3jR"
     },
     {
-      "added_at": "2026-05-29 04:08:37",
+      "added_at": "2026-06-09 13:11:30",
       "album": {
-        "name": "JACKIE'S BACK",
-        "url": "https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI"
+        "name": "Earthworm",
+        "url": "https://open.spotify.com/album/543k82dYTEPXCyzse0Gg7v"
       },
       "artists": [
         {
-          "name": "ASHMOOR",
-          "url": "https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8"
+          "name": "Laizer",
+          "url": "https://open.spotify.com/artist/1xuLVQC0qd8GzPcnJ4gs22"
         }
       ],
-      "duration_ms": 159250,
-      "name": "JACKIE'S BACK",
-      "url": "https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8"
+      "duration_ms": 176277,
+      "name": "Earthworm",
+      "url": "https://open.spotify.com/track/4wSMuydBSmSJ7RU60E7DlL"
+    },
+    {
+      "added_at": "2026-06-09 13:11:30",
+      "album": {
+        "name": "I'll Be There For You",
+        "url": "https://open.spotify.com/album/5LYXrZNkA9kHMoE4MArV2z"
+      },
+      "artists": [
+        {
+          "name": "Plaisance",
+          "url": "https://open.spotify.com/artist/21LpA1uYZ28gFWyXueXGMu"
+        }
+      ],
+      "duration_ms": 180790,
+      "name": "I'll Be There For You",
+      "url": "https://open.spotify.com/track/11S528yQYgaYQjdBXlBJBS"
     },
     {
       "added_at": "2026-05-28 01:02:10",
@@ -59,6 +75,22 @@
       "duration_ms": 120050,
       "name": "goodtime",
       "url": "https://open.spotify.com/track/14pQ7kux0dDX5qD6DQQLA9"
+    },
+    {
+      "added_at": "2026-05-29 04:08:37",
+      "album": {
+        "name": "JACKIE'S BACK",
+        "url": "https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI"
+      },
+      "artists": [
+        {
+          "name": "ASHMOOR",
+          "url": "https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "JACKIE'S BACK",
+      "url": "https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8"
     },
     {
       "added_at": "2026-05-28 01:02:10",
@@ -91,6 +123,30 @@
       "duration_ms": 229090,
       "name": "is this my life",
       "url": "https://open.spotify.com/track/4iogvjEcNuWaPzQP8eu4uG"
+    },
+    {
+      "added_at": "2026-06-09 13:11:30",
+      "album": {
+        "name": "WASSANAME",
+        "url": "https://open.spotify.com/album/7dj3DyXKr1EeBAtr6pvbE4"
+      },
+      "artists": [
+        {
+          "name": "oksurf",
+          "url": "https://open.spotify.com/artist/5MwvbPn9LtALRZDrMKxKnM"
+        },
+        {
+          "name": "SWAVAY",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        },
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        }
+      ],
+      "duration_ms": 212064,
+      "name": "WASSANAME",
+      "url": "https://open.spotify.com/track/58xav4cdOkDtonnMUYCOKc"
     },
     {
       "added_at": "2026-05-13 16:21:29",
@@ -127,6 +183,38 @@
       "duration_ms": 139354,
       "name": "notime\u2026",
       "url": "https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww"
+    },
+    {
+      "added_at": "2026-06-09 13:11:30",
+      "album": {
+        "name": "Hurt Nobody",
+        "url": "https://open.spotify.com/album/7sp0zG7BlTWuLUKkMUYg48"
+      },
+      "artists": [
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        }
+      ],
+      "duration_ms": 177318,
+      "name": "Hurt Nobody",
+      "url": "https://open.spotify.com/track/7pPskSvN203zIew4AgRM2E"
+    },
+    {
+      "added_at": "2026-06-09 13:11:30",
+      "album": {
+        "name": "CAREFREE",
+        "url": "https://open.spotify.com/album/2FH46g3V5UWz5MWkG5j1OK"
+      },
+      "artists": [
+        {
+          "name": "Petrina DeLacey",
+          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
+        }
+      ],
+      "duration_ms": 141904,
+      "name": "LOVE WILL LAST",
+      "url": "https://open.spotify.com/track/4r5qjaxyuMR5xE2bgJh9Fw"
     },
     {
       "added_at": "2026-05-28 01:02:10",
@@ -193,6 +281,22 @@
       "url": "https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT"
     },
     {
+      "added_at": "2026-06-09 13:11:30",
+      "album": {
+        "name": "Lucy Lamb",
+        "url": "https://open.spotify.com/album/5DA7Rlf3rbLSieVIHvJ4Hp"
+      },
+      "artists": [
+        {
+          "name": "Lucy Lamb",
+          "url": "https://open.spotify.com/artist/1fLl0QDFau1trbJkpjvyEt"
+        }
+      ],
+      "duration_ms": 213861,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2gG0veNjrPsL017gn8ZHox"
+    },
+    {
       "added_at": "2026-05-28 01:02:10",
       "album": {
         "name": "Prodigal",
@@ -223,6 +327,22 @@
       "duration_ms": 197612,
       "name": "Fear of Flying",
       "url": "https://open.spotify.com/track/0xhpdHMMTWzXTJmNhULt80"
+    },
+    {
+      "added_at": "2026-06-09 13:11:30",
+      "album": {
+        "name": "skin & bone",
+        "url": "https://open.spotify.com/album/3mC6ddrJJQXgGcZFHEmQhf"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "skin & bone",
+      "url": "https://open.spotify.com/track/0rOcs5rGwmi2IDzMtH34Vx"
     },
     {
       "added_at": "2026-05-28 01:02:10",
@@ -319,6 +439,22 @@
       "duration_ms": 204923,
       "name": "Eight O Eight",
       "url": "https://open.spotify.com/track/0ezw3hJuih6S9KSMKQdoTS"
+    },
+    {
+      "added_at": "2026-06-09 13:11:30",
+      "album": {
+        "name": "HAIRSTYLE",
+        "url": "https://open.spotify.com/album/62x5uuyCMPj7Gdhljs5XXH"
+      },
+      "artists": [
+        {
+          "name": "Dreek Jones",
+          "url": "https://open.spotify.com/artist/0fVbXtxb8KqKpfAdPLbKlu"
+        }
+      ],
+      "duration_ms": 112155,
+      "name": "HAIRSTYLE",
+      "url": "https://open.spotify.com/track/1t9lHXZO3EZIGVB1LguYyc"
     },
     {
       "added_at": "2026-05-28 01:02:10",
@@ -1487,70 +1623,6 @@
     {
       "added_at": "2026-05-06 22:12:27",
       "album": {
-        "name": "Too Young To Notice",
-        "url": "https://open.spotify.com/album/34tz3uD9qKBWo4jBtzXzCv"
-      },
-      "artists": [
-        {
-          "name": "Saint Clair",
-          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
-        }
-      ],
-      "duration_ms": 179276,
-      "name": "Too Young To Notice",
-      "url": "https://open.spotify.com/track/0eBFOptGsXAqKQPNMLhyac"
-    },
-    {
-      "added_at": "2026-05-06 22:12:27",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/0qZvRbw7bR8fAI1xCwhaPH"
-      },
-      "artists": [
-        {
-          "name": "Evil Adeline",
-          "url": "https://open.spotify.com/artist/1ECkxQh8rsOcuOChE5Flzi"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3DTwjK0pAoNX26FEGuZwO8"
-    },
-    {
-      "added_at": "2026-05-06 22:12:27",
-      "album": {
-        "name": "D'lulu",
-        "url": "https://open.spotify.com/album/6eyuzN1KkmhamAoZiUvB2t"
-      },
-      "artists": [
-        {
-          "name": "YTK",
-          "url": "https://open.spotify.com/artist/4QsNZ1JTLzhVSAzMxjLe7b"
-        }
-      ],
-      "duration_ms": 199696,
-      "name": "D'lulu",
-      "url": "https://open.spotify.com/track/46ZfD0DVcFgRA3VCtSdYwx"
-    },
-    {
-      "added_at": "2026-05-06 22:12:27",
-      "album": {
-        "name": "STOP PLAYING WITH MY GOD.",
-        "url": "https://open.spotify.com/album/6mCkj6GPAL2OHjWozG8Vo0"
-      },
-      "artists": [
-        {
-          "name": "Ally Minju",
-          "url": "https://open.spotify.com/artist/3jZQxUxjnQ753paNQHHuUk"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "WALKING IN THIS WORLD",
-      "url": "https://open.spotify.com/track/4KjdeNqqVhZLNGUsrHC7NA"
-    },
-    {
-      "added_at": "2026-05-06 22:12:27",
-      "album": {
         "name": "turbine / frog",
         "url": "https://open.spotify.com/album/5DtSUckKsdlixH2M4jwSQz"
       },
@@ -1563,70 +1635,6 @@
       "duration_ms": 154167,
       "name": "frog",
       "url": "https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5"
-    },
-    {
-      "added_at": "2026-04-29 16:09:09",
-      "album": {
-        "name": "Sick of Staying",
-        "url": "https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU"
-      },
-      "artists": [
-        {
-          "name": "Julia Campbell",
-          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
-        }
-      ],
-      "duration_ms": 206470,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
-    },
-    {
-      "added_at": "2026-04-29 16:09:09",
-      "album": {
-        "name": "Songs I Wrote Since She Left",
-        "url": "https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP"
-      },
-      "artists": [
-        {
-          "name": "GRESLEY",
-          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
-        }
-      ],
-      "duration_ms": 205225,
-      "name": "Piece of Your Love",
-      "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
-    },
-    {
-      "added_at": "2026-05-06 22:12:27",
-      "album": {
-        "name": "Rewarding Melody",
-        "url": "https://open.spotify.com/album/2z944o5q3z29mQaIwd58OG"
-      },
-      "artists": [
-        {
-          "name": "Luluc",
-          "url": "https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72"
-        }
-      ],
-      "duration_ms": 152488,
-      "name": "Rewarding Melody",
-      "url": "https://open.spotify.com/track/7mf2ubTq7o3O9U9ql3CNPv"
-    },
-    {
-      "added_at": "2026-05-06 22:12:27",
-      "album": {
-        "name": "Brisk",
-        "url": "https://open.spotify.com/album/1fp5684DwL2ofzdYINbCjj"
-      },
-      "artists": [
-        {
-          "name": "Juli De\u00e1k",
-          "url": "https://open.spotify.com/artist/3L9bvkvZ6WpSLbs6t8q6Bj"
-        }
-      ],
-      "duration_ms": 245208,
-      "name": "Brisk",
-      "url": "https://open.spotify.com/track/4UK8zVdpjLjoZs71ekqczK"
     },
     {
       "added_at": "2026-04-22 22:34:11",

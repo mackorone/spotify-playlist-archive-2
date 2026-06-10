@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Taylor Swift, Robert van Hemert, KI/KI, Zoë Tauran & LUNA en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,553 likes - 92 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,529 likes - 92 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

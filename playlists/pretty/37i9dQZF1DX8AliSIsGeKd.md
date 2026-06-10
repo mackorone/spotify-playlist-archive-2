@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Patrick Scuro, Jil Tanner
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,511 likes - 89 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,511 likes - 89 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 6 | [MORPHEUS](https://open.spotify.com/track/3Xv3gwdG6IUWF8qgOpRHbB) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [MORPHEUS](https://open.spotify.com/album/1lezeKpHbFGIuMWTpdj6zw) | 4:12 |
 | 7 | [Petrichor \- Oliver Koletzki Remix](https://open.spotify.com/track/6ywxx0hOgfYJ5XWr17oOgb) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Petrichor \(Oliver Koletzki Remix\)](https://open.spotify.com/album/5wDDrtRaqutrSRmwDaBRHn) | 5:47 |
 | 8 | [MOJA](https://open.spotify.com/track/6429uJnrGSSfdr9VuYpp2U) | [Moto Moto](https://open.spotify.com/artist/1WEZB9rnrxrk1FQePn7apt), [Nico Banfi](https://open.spotify.com/artist/7Et37M7KmMFEd57BfFi7Hh), [The Wilds](https://open.spotify.com/artist/7yrR3vzpYp6Ms9n6tfLwGo) | [MOJA](https://open.spotify.com/album/7xGSQtMiL9agKSzTZwsRkY) | 3:34 |
-| 9 | [Riot](https://open.spotify.com/track/5SP8e2d99MyqtVx9wPHgnR) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Riot](https://open.spotify.com/album/3zqvht3mWwHSc0sSY0JFpb) | 3:12 |
+| 9 | [Riot](https://open.spotify.com/track/5SP8e2d99MyqtVx9wPHgnR) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Riot](https://open.spotify.com/album/3zqvht3mWwHSc0sSY0JFpb) | 2:39 |
 | 10 | [Let the Beat Remind You \- Edit](https://open.spotify.com/track/0p04LJroKn5sYcguncanaN) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [Let the Beat Remind You](https://open.spotify.com/album/6IMucF2koAJgIA2sqSuLBt) | 3:38 |
 | 11 | [No Phones](https://open.spotify.com/track/03sqUfa7mRYfE9Ay4KYxqM) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [No Phones EP](https://open.spotify.com/album/58sTujWaRPc1F1CIi3pFKw) | 2:43 |
 | 12 | [Believe](https://open.spotify.com/track/7zhZqTleSakq5KATQv3qtZ) | [Tanya Andros](https://open.spotify.com/artist/5JX8VLHQnvnJegxJiOundM) | [Believe](https://open.spotify.com/album/08E5OyYfHj6KBOWYbPyizD) | 3:32 |

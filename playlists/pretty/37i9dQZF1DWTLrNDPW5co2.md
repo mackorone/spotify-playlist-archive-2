@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring Josh Caffé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,244 likes - 85 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,262 likes - 85 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 12 | [The One](https://open.spotify.com/track/7DNlr75yw0OcYLgYXvmGY1) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The One](https://open.spotify.com/album/1ejxqX9sf8WXahJzVrjD2s) | 3:54 |
 | 13 | [Not ur mom](https://open.spotify.com/track/0NSoT90KZD1D6ULnnb2Wz0) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [UTF: introducción](https://open.spotify.com/album/4n3iZZIGbXhUMkCEOKBBSA) | 2:43 |
 | 14 | [DANCE..\. \- Edit](https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [DANCE...](https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v) | 3:56 |
-| 15 | [Peepin'](https://open.spotify.com/track/05PPn5rFEiAXgn3fYgl7HC) | [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Peepin'](https://open.spotify.com/album/6nnKlVsfkKVgOBSIdEKkz5) | 2:10 |
+| 15 | [Peepin'](https://open.spotify.com/track/05PPn5rFEiAXgn3fYgl7HC) | [Reysha Rami](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Peepin'](https://open.spotify.com/album/6nnKlVsfkKVgOBSIdEKkz5) | 2:10 |
 | 16 | [Slight Werk \- Club Mix](https://open.spotify.com/track/3AenQimpj4gFY3e0CnsbD1) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Slight Werk \(Club Mix\)](https://open.spotify.com/album/3USLXh5K8mET0msxPqYXpP) | 2:58 |
 | 17 | [Hanging Titties](https://open.spotify.com/track/4YZo3EOSLPaa8HcAuQdOPN) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [No Lube So Rude](https://open.spotify.com/album/6gCIqW8uTdkgNNnXmDj5rD) | 2:19 |
 | 18 | [no me quiero dormir](https://open.spotify.com/track/6pLKe1SzXJexj7VpBleAL4) | [Safety Trance](https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [no me quiero dormir](https://open.spotify.com/album/5wmPqODKNYl7HTr8RJti7x) | 2:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 482 likes - 115 songs - 6 hr 35 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 482 likes - 116 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,5 +123,6 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 113 | [Onde di Luce](https://open.spotify.com/track/1Qlfkz30wwCeCgQ1XLBJZL) | [PAUL PARKER](https://open.spotify.com/artist/0P4buL4lc2m8KO8WD28XMa), [Deep7s](https://open.spotify.com/artist/33QC3toB8CzjHU0QhbVLfl) | [Onde di Luce](https://open.spotify.com/album/5dnnc3ycjReH8Kwh1XFZk7) | 2:54 |
 | 114 | [Con uno Spritz in mano](https://open.spotify.com/track/1AYr2LiADXUeg8drcDCbkZ) | [Pe$i](https://open.spotify.com/artist/0dOU1b4T7CKQJETFPixRXD), [DJ Gianix](https://open.spotify.com/artist/2uGdhWT1qmOu0U45obDmCh) | [Con uno Spritz in mano](https://open.spotify.com/album/2clnEltQ2xkwZoVZu4FRJ4) | 3:09 |
 | 115 | [Luna a Milano](https://open.spotify.com/track/65dYtGwcxkjFNXhu9BdrGc) | [Michele Tarasik](https://open.spotify.com/artist/4PO09aUamHbbNoxEyEK0vE), [Louis Moreno](https://open.spotify.com/artist/0okuclVbMLEUe1sMflRV5b) | [Luna a Milano](https://open.spotify.com/album/4GKzaY0Z4zTYcKVlMOusC6) | 3:37 |
+| 116 | [Free](https://open.spotify.com/track/6OqjQaWodDidWdfXJSsHqO) | [Ricksta1](https://open.spotify.com/artist/6kmGSbY8x1RN8yhXGqMfUF) | [Free](https://open.spotify.com/album/5B1dxyXlquh79BqGRUmh49) | 1:37 |
 
-Snapshot ID: `AAABsHwlciheHYBwntxD80Wye6Rj+686`
+Snapshot ID: `AAABsWH1uYuPsAc6qHmPs1Mp1J/jJIWW`

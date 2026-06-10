@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kqLSAZSw7o.md) - [plain]
 
 > Lagu Raya yang kekal popular.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,142 likes - 74 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,137 likes - 74 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kqLSAZSw7o.md) - [plain]
 | 48 | [Hari Yang Mulia Hari Bahagia](https://open.spotify.com/track/6PbfShlXucZ8Ef4jmDzbR5) | [Lips](https://open.spotify.com/artist/0QytagYjvao3RJ9s24SMCu) | [Berpesta Di Aidilfitri](https://open.spotify.com/album/6N7OqIyKAbpYY5yIvVLZcf) | 4:25 |
 | 49 | [Nikmat Hari Lebaran](https://open.spotify.com/track/1hrm2ef5ChcNNAJOu7SmxA) | [Saidatul Erma](https://open.spotify.com/artist/6W6OO3ChUaJUrZYnSbaI2k) | [Berpesta Di Aidilfitri](https://open.spotify.com/album/6N7OqIyKAbpYY5yIvVLZcf) | 3:43 |
 | 50 | [Rinduku Di Hari Raya](https://open.spotify.com/track/4fddH6BVPNUvkhzxQQt8dO) | [Nita](https://open.spotify.com/artist/4aHK3RW4Sv7rS8ZSWIMArz) | [Berpesta Di Aidilfitri](https://open.spotify.com/album/6N7OqIyKAbpYY5yIvVLZcf) | 3:53 |
-| 51 | [Selamat Hari Raya Bonda](https://open.spotify.com/track/5aGMPQeiRqVlnHKEwvwgSX) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [Berpesta Di Aidilfitri](https://open.spotify.com/album/6N7OqIyKAbpYY5yIvVLZcf) | 3:54 |
+| 51 | [Selamat Hari Raya Bonda](https://open.spotify.com/track/5aGMPQeiRqVlnHKEwvwgSX) | [Natasha](https://open.spotify.com/artist/6oqR3K63Pnu93iKaKjbzkS) | [Berpesta Di Aidilfitri](https://open.spotify.com/album/6N7OqIyKAbpYY5yIvVLZcf) | 3:54 |
 | 52 | [Gema Lebaran](https://open.spotify.com/track/5eKyFSibbB7NPukOasG1ez) | [Erra Fazira](https://open.spotify.com/artist/6y3xL5QLAWtVyNW8uok3XM) | [Lebaran Bersama Siti \- Teman\-Teman](https://open.spotify.com/album/0ZJ2F8kiFzFQVoxxjqLLK9) | 4:12 |
 | 53 | [Ria Raya](https://open.spotify.com/track/285y1egYH4rMwh6hbXP8JV) | [Noraniza Idris](https://open.spotify.com/artist/5mWOlN9AGvPkeA5sOFWQrV) | [Berpesta Di Aidilfitri](https://open.spotify.com/album/6N7OqIyKAbpYY5yIvVLZcf) | 4:44 |
 | 54 | [Syawal Di Nanti](https://open.spotify.com/track/2WUhrqTszF3P1mTaDHzMSA) | [New Boy](https://open.spotify.com/artist/769SprzWH3hwkEHeMpqSfI) | [Berpesta Di Aidilfitri](https://open.spotify.com/album/6N7OqIyKAbpYY5yIvVLZcf) | 3:36 |

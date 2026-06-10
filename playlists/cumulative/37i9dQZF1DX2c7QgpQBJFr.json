@@ -9951,6 +9951,24 @@
     },
     {
       "album": {
+        "name": "I NOSTRI ANNI BELLISSIMI",
+        "url": "https://open.spotify.com/album/6ZmiAU158DbYNq9vxkmgp3"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "I NOSTRI ANNI BELLISSIMI",
+      "url": "https://open.spotify.com/track/2f4CbyefNHxmqpC717xNbs"
+    },
+    {
+      "album": {
         "name": "EX",
         "url": "https://open.spotify.com/album/1gYLYLWky4NM9Gfx3sNWQT"
       },

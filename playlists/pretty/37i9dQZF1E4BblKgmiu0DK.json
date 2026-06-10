@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/54wxv01KgngcHkfwP65KhA"
+      },
+      "artists": [
+        {
+          "name": "jules",
+          "url": "https://open.spotify.com/artist/1OsVfaqK7kVA73NJOdsoVQ"
+        }
+      ],
+      "duration_ms": 131449,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/7j6c6VqsViRPY1x7JnjsuA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voltage Across the Afterglow",
         "url": "https://open.spotify.com/album/1G8KPK66i6qpi3l31gFkIM"
       },
@@ -39,22 +55,6 @@
       "duration_ms": 111079,
       "name": "Saffa Thunder Circuit",
       "url": "https://open.spotify.com/track/47Dq0bOMpW8nx9iWqHhp9O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FINO + BLEED",
-        "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
-      },
-      "artists": [
-        {
-          "name": "Die Mannequin",
-          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "Miss Americvnt",
-      "url": "https://open.spotify.com/track/0f5GbhBWi6BReYANrvg3N8"
     },
     {
       "added_at": null,
@@ -75,18 +75,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay Fever",
-        "url": "https://open.spotify.com/album/1oPMRa4wkxh5iJ6xfvz053"
+        "name": "FINO + BLEED",
+        "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
       },
       "artists": [
         {
-          "name": "Cameron Dallas",
-          "url": "https://open.spotify.com/artist/5s3rUylqooMyGsFE0rOFJT"
+          "name": "Die Mannequin",
+          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
         }
       ],
-      "duration_ms": 103000,
-      "name": "Back to Me",
-      "url": "https://open.spotify.com/track/4qQ5JUQjlkYez8AvLI2sJu"
+      "duration_ms": 182426,
+      "name": "Miss Americvnt",
+      "url": "https://open.spotify.com/track/0f5GbhBWi6BReYANrvg3N8"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static Sparks Worldwide",
-        "url": "https://open.spotify.com/album/7beGPqFRHZ5EIsJVIsGHrk"
-      },
-      "artists": [
-        {
-          "name": "Tssara",
-          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
-        }
-      ],
-      "duration_ms": 89999,
-      "name": "Shibuya Spark Surge",
-      "url": "https://open.spotify.com/track/27DgDjnuv6arYqMyloQfpH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Join the Infestation",
         "url": "https://open.spotify.com/album/0xgMASQX6vORZfwS28Xv0k"
       },
@@ -155,18 +139,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Can't",
-        "url": "https://open.spotify.com/album/7wdO3YJssFx8TWoOvr683K"
+        "name": "Static Sparks Worldwide",
+        "url": "https://open.spotify.com/album/7beGPqFRHZ5EIsJVIsGHrk"
       },
       "artists": [
         {
-          "name": "The Anti Groupies",
-          "url": "https://open.spotify.com/artist/36L3bzppf1kkNuCgg5SAta"
+          "name": "Tssara",
+          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
         }
       ],
-      "duration_ms": 162124,
-      "name": "I Can't",
-      "url": "https://open.spotify.com/track/3LE634W6PeNFqwztYMpnpQ"
+      "duration_ms": 89999,
+      "name": "Shibuya Spark Surge",
+      "url": "https://open.spotify.com/track/27DgDjnuv6arYqMyloQfpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stark",
+        "url": "https://open.spotify.com/album/0wIA3JMGy8KMC5dLkg1c1i"
+      },
+      "artists": [
+        {
+          "name": "Cherri Bomb",
+          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
+        }
+      ],
+      "duration_ms": 266386,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FINO + BLEED",
-        "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
+        "name": "Neon Zero",
+        "url": "https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi"
       },
       "artists": [
         {
@@ -196,9 +196,25 @@
           "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
         }
       ],
-      "duration_ms": 191240,
-      "name": "Dead Honey",
-      "url": "https://open.spotify.com/track/1UClxw7v1bRhB6GpoVmO3O"
+      "duration_ms": 211941,
+      "name": "I'm Just A Girl",
+      "url": "https://open.spotify.com/track/6VTMcqAaoP3yzdEQ1NShuW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bitchin'",
+        "url": "https://open.spotify.com/album/5MdCmnnJvtlLNlb8SyeFgE"
+      },
+      "artists": [
+        {
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "Better Off Dancing",
+      "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
     },
     {
       "added_at": null,
@@ -235,102 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stark",
-        "url": "https://open.spotify.com/album/0wIA3JMGy8KMC5dLkg1c1i"
-      },
-      "artists": [
-        {
-          "name": "Cherri Bomb",
-          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
-        }
-      ],
-      "duration_ms": 266386,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Island Life 50",
-        "url": "https://open.spotify.com/album/2RzT3lBYLbBjgT27n0YD3R"
-      },
-      "artists": [
-        {
-          "name": "Renee Cassar",
-          "url": "https://open.spotify.com/artist/5HZGH1vb26Yn4T6ec1Rcft"
-        }
-      ],
-      "duration_ms": 290706,
-      "name": "Addicted To Love",
-      "url": "https://open.spotify.com/track/1bbGuWSXw01n8HQrjk2HtU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wanna Get Along?",
-        "url": "https://open.spotify.com/album/6nXoVCjgTkOEfg4FZyO7IY"
-      },
-      "artists": [
-        {
-          "name": "Hyaenas",
-          "url": "https://open.spotify.com/artist/3WURoSXW6bsmAW6JtgYiYU"
-        }
-      ],
-      "duration_ms": 213641,
-      "name": "Wanna Get Along?",
-      "url": "https://open.spotify.com/track/5yHm4fwAC3Y8jArEHpKvEy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FINO + BLEED",
-        "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
-      },
-      "artists": [
-        {
-          "name": "Die Mannequin",
-          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
-        }
-      ],
-      "duration_ms": 162226,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hay Fever",
-        "url": "https://open.spotify.com/album/1oPMRa4wkxh5iJ6xfvz053"
-      },
-      "artists": [
-        {
-          "name": "Cameron Dallas",
-          "url": "https://open.spotify.com/artist/5s3rUylqooMyGsFE0rOFJT"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Violet Skies",
-      "url": "https://open.spotify.com/track/6q4B9bjxoLSjiTRIDaZwGi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voltage Railways",
-        "url": "https://open.spotify.com/album/0baES6ZIU3ADCoDWeG75ra"
-      },
-      "artists": [
-        {
-          "name": "Tssara",
-          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
-        }
-      ],
-      "duration_ms": 96759,
-      "name": "Proper Northern Grit",
-      "url": "https://open.spotify.com/track/21RMxyGEDjKmu9UNB1QgTk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live and Learn",
         "url": "https://open.spotify.com/album/63YcHtmt0Y7DfM4E6UJs97"
       },
@@ -343,118 +263,6 @@
       "duration_ms": 212973,
       "name": "Live and Learn",
       "url": "https://open.spotify.com/track/3h9ZD4Z1faqKZzTJlDO2a9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is the End of Control",
-        "url": "https://open.spotify.com/album/3rothUjyXzBz0I3fvHD1Cj"
-      },
-      "artists": [
-        {
-          "name": "Cherri Bomb",
-          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gold Medal (U.S. Version 83770)",
-        "url": "https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF"
-      },
-      "artists": [
-        {
-          "name": "The Donnas",
-          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "It Takes One to Know One",
-      "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neon Zero",
-        "url": "https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi"
-      },
-      "artists": [
-        {
-          "name": "Die Mannequin",
-          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
-        }
-      ],
-      "duration_ms": 211941,
-      "name": "I'm Just A Girl",
-      "url": "https://open.spotify.com/track/6VTMcqAaoP3yzdEQ1NShuW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Want The World",
-        "url": "https://open.spotify.com/album/7xdF1q7JPdNHgPgSPJ2yFb"
-      },
-      "artists": [
-        {
-          "name": "Hands Off Gretel",
-          "url": "https://open.spotify.com/artist/48GgebpHGBikfDXg0o592i"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "Blame Myself",
-      "url": "https://open.spotify.com/track/011cR0KrGQqu7xyLDGNBav"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neon Skyline Overdrive",
-        "url": "https://open.spotify.com/album/754r2zI0LT0Rmb18ZN8P01"
-      },
-      "artists": [
-        {
-          "name": "Tssara",
-          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
-        }
-      ],
-      "duration_ms": 103359,
-      "name": "Bruv, Skyline Ruckus",
-      "url": "https://open.spotify.com/track/3rkTZkhoOA7fQgwpqnmwva"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Superbeautifulmonster",
-        "url": "https://open.spotify.com/album/7j1wE833kH2Bezi7W7nLyx"
-      },
-      "artists": [
-        {
-          "name": "Bif Naked",
-          "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
-        }
-      ],
-      "duration_ms": 164389,
-      "name": "Let Down",
-      "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Destructo Doll",
-        "url": "https://open.spotify.com/album/7rKgMO4NUPEw2q8XEcv4IW"
-      },
-      "artists": [
-        {
-          "name": "Cassie Steele",
-          "url": "https://open.spotify.com/artist/7hLUUmcH0567GWqnQLy75X"
-        }
-      ],
-      "duration_ms": 178466,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
     },
     {
       "added_at": null,
@@ -484,106 +292,6 @@
           "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
         }
       ],
-      "duration_ms": 198570,
-      "name": "Welcome To The Badlands",
-      "url": "https://open.spotify.com/track/0eKlJZz9cE2DAhjOSqehCS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bitchin'",
-        "url": "https://open.spotify.com/album/5MdCmnnJvtlLNlb8SyeFgE"
-      },
-      "artists": [
-        {
-          "name": "The Donnas",
-          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
-        }
-      ],
-      "duration_ms": 201142,
-      "name": "Better Off Dancing",
-      "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamonds & Studs",
-        "url": "https://open.spotify.com/album/5Uo6ZxwbP4GwTYih9lGTEz"
-      },
-      "artists": [
-        {
-          "name": "Morningwood",
-          "url": "https://open.spotify.com/artist/5ydhCWsbFCpHyG2OhgO2og"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "Hot Tonight",
-      "url": "https://open.spotify.com/track/6DJ7CDYlN9XcWuUUf71ZDT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I DONT WANT YOU",
-        "url": "https://open.spotify.com/album/5H7ULcEyCAPUvpePCriHx8"
-      },
-      "artists": [
-        {
-          "name": "BRECHTJE",
-          "url": "https://open.spotify.com/artist/0bzcOKedhZmUGtVLLuRsZn"
-        },
-        {
-          "name": "HALTA",
-          "url": "https://open.spotify.com/artist/11nvLJKHfHgJ2yHqGR3GzD"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "I DONT WANT YOU",
-      "url": "https://open.spotify.com/track/17VL4zOgpjUG8vL5zGpNoE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is the End of Control",
-        "url": "https://open.spotify.com/album/3rothUjyXzBz0I3fvHD1Cj"
-      },
-      "artists": [
-        {
-          "name": "Cherri Bomb",
-          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "Drawing a Blank",
-      "url": "https://open.spotify.com/track/4uq8q972ePu8YT6cy2eTgj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gimme the Sun",
-        "url": "https://open.spotify.com/album/0SknjOraHrP1bVlPp74Uga"
-      },
-      "artists": [
-        {
-          "name": "Pistol Daisys",
-          "url": "https://open.spotify.com/artist/03jgPux832spB6QYxMuhFC"
-        }
-      ],
-      "duration_ms": 227058,
-      "name": "Gimme the Sun",
-      "url": "https://open.spotify.com/track/1gt8F2ppvLAQAbkclyRUAm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neon Zero",
-        "url": "https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi"
-      },
-      "artists": [
-        {
-          "name": "Die Mannequin",
-          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
-        }
-      ],
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -600,185 +308,41 @@
           "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
         }
       ],
-      "duration_ms": 211533,
-      "name": "Don't Break Me Down",
-      "url": "https://open.spotify.com/track/7g5tIBg1W2ySyFeds4Iurv"
+      "duration_ms": 173440,
+      "name": "Have You No Pride",
+      "url": "https://open.spotify.com/track/6hyawvI37HZdXkvDbAKLjv"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Middle-Aged Angst",
-        "url": "https://open.spotify.com/album/4IOulmF5vH4DHupllDKuJK"
+        "name": "Superbeautifulmonster",
+        "url": "https://open.spotify.com/album/7j1wE833kH2Bezi7W7nLyx"
       },
       "artists": [
         {
-          "name": "Ecto Peach",
-          "url": "https://open.spotify.com/artist/34Z19INtvsj5tkq34q2ViD"
+          "name": "Bif Naked",
+          "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
         }
       ],
-      "duration_ms": 278528,
-      "name": "Feast On Scraps",
-      "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
+      "duration_ms": 164389,
+      "name": "Let Down",
+      "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/56YbU1FZP0W5lZhjm5BNUg"
+        "name": "Island Life 50",
+        "url": "https://open.spotify.com/album/2RzT3lBYLbBjgT27n0YD3R"
       },
       "artists": [
         {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          "name": "Renee Cassar",
+          "url": "https://open.spotify.com/artist/5HZGH1vb26Yn4T6ec1Rcft"
         }
       ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/7c8yo0HL6k2XYiqFRrxBzK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamonds & Studs",
-        "url": "https://open.spotify.com/album/5Uo6ZxwbP4GwTYih9lGTEz"
-      },
-      "artists": [
-        {
-          "name": "Morningwood",
-          "url": "https://open.spotify.com/artist/5ydhCWsbFCpHyG2OhgO2og"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "Best Of Me",
-      "url": "https://open.spotify.com/track/1JhmW4NdVThYhB6W5Af9OU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Underdog Anthems",
-        "url": "https://open.spotify.com/album/67fQJSwfChyZMNmz7TkZby"
-      },
-      "artists": [
-        {
-          "name": "Jax Hollow",
-          "url": "https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/5knt1NyZCbNd9dKuwEkU5O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FINO + BLEED",
-        "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
-      },
-      "artists": [
-        {
-          "name": "Die Mannequin",
-          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
-        }
-      ],
-      "duration_ms": 257533,
-      "name": "Candide",
-      "url": "https://open.spotify.com/track/7tehNfvoGYl42Ynn5WfCBh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/5HaCposgjWWP6SoLFtEy9o"
-      },
-      "artists": [
-        {
-          "name": "Batfarm",
-          "url": "https://open.spotify.com/artist/50zINatpEPyYpI15Pyxybf"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "3",
-      "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inner War",
-        "url": "https://open.spotify.com/album/4d7nGB4pQVJ4vaRSTFH7sc"
-      },
-      "artists": [
-        {
-          "name": "Crimson ValkyRies",
-          "url": "https://open.spotify.com/artist/6QvCtGh44hAmVHohADuKNn"
-        }
-      ],
-      "duration_ms": 205799,
-      "name": "Inner War",
-      "url": "https://open.spotify.com/track/02FQAkM1fv8LPwkja6vG0x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Because I'm Awesome",
-        "url": "https://open.spotify.com/album/7C2Wxmga3e5MlmzbfM5Bnv"
-      },
-      "artists": [
-        {
-          "name": "The Dollyrots",
-          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
-        }
-      ],
-      "duration_ms": 181211,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/5PV10jClkV9Z2sds0pR3PX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Want The World",
-        "url": "https://open.spotify.com/album/7xdF1q7JPdNHgPgSPJ2yFb"
-      },
-      "artists": [
-        {
-          "name": "Hands Off Gretel",
-          "url": "https://open.spotify.com/artist/48GgebpHGBikfDXg0o592i"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Freaks Like Us",
-      "url": "https://open.spotify.com/track/6FvEXczXsFq0P92Oe3prqs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Overstay",
-        "url": "https://open.spotify.com/album/7c3VbVY62XutgkojVSfNoe"
-      },
-      "artists": [
-        {
-          "name": "KEER",
-          "url": "https://open.spotify.com/artist/7cpy1cO2uU9T05wFZS4upp"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Overstay",
-      "url": "https://open.spotify.com/track/7rkUaIzyuus22wvR6hRITA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neon Zero",
-        "url": "https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi"
-      },
-      "artists": [
-        {
-          "name": "Die Mannequin",
-          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
+      "duration_ms": 290706,
+      "name": "Addicted To Love",
+      "url": "https://open.spotify.com/track/1bbGuWSXw01n8HQrjk2HtU"
     },
     {
       "added_at": null,
@@ -799,6 +363,326 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamonds & Studs",
+        "url": "https://open.spotify.com/album/5Uo6ZxwbP4GwTYih9lGTEz"
+      },
+      "artists": [
+        {
+          "name": "Morningwood",
+          "url": "https://open.spotify.com/artist/5ydhCWsbFCpHyG2OhgO2og"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/1JhmW4NdVThYhB6W5Af9OU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Zero",
+        "url": "https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi"
+      },
+      "artists": [
+        {
+          "name": "Die Mannequin",
+          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
+        }
+      ],
+      "duration_ms": 244533,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold Medal (U.S. Version 83770)",
+        "url": "https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF"
+      },
+      "artists": [
+        {
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "It Takes One to Know One",
+      "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inside The Hollow",
+        "url": "https://open.spotify.com/album/04ZUaYNv07KLNMtKtQPCTG"
+      },
+      "artists": [
+        {
+          "name": "Lillix",
+          "url": "https://open.spotify.com/artist/00hKB8cu5lyBE35ilxyP7v"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "Every Girl",
+      "url": "https://open.spotify.com/track/4C4oQjntCiPjPltwKoSll7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Middle-Aged Angst",
+        "url": "https://open.spotify.com/album/4IOulmF5vH4DHupllDKuJK"
+      },
+      "artists": [
+        {
+          "name": "Ecto Peach",
+          "url": "https://open.spotify.com/artist/34Z19INtvsj5tkq34q2ViD"
+        }
+      ],
+      "duration_ms": 278528,
+      "name": "Feast On Scraps",
+      "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voltage Railways",
+        "url": "https://open.spotify.com/album/0baES6ZIU3ADCoDWeG75ra"
+      },
+      "artists": [
+        {
+          "name": "Tssara",
+          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
+        }
+      ],
+      "duration_ms": 96759,
+      "name": "Proper Northern Grit",
+      "url": "https://open.spotify.com/track/21RMxyGEDjKmu9UNB1QgTk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/5HaCposgjWWP6SoLFtEy9o"
+      },
+      "artists": [
+        {
+          "name": "Batfarm",
+          "url": "https://open.spotify.com/artist/50zINatpEPyYpI15Pyxybf"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "3",
+      "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FINO + BLEED",
+        "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
+      },
+      "artists": [
+        {
+          "name": "Die Mannequin",
+          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
+        }
+      ],
+      "duration_ms": 162226,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold Medal (U.S. Version 83770)",
+        "url": "https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF"
+      },
+      "artists": [
+        {
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "Don't Break Me Down",
+      "url": "https://open.spotify.com/track/7g5tIBg1W2ySyFeds4Iurv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreakin' woman",
+        "url": "https://open.spotify.com/album/7MQ6Ep8UxNYC9dQS6nAVMu"
+      },
+      "artists": [
+        {
+          "name": "Evol Walks",
+          "url": "https://open.spotify.com/artist/5s9CuMyAFTD43AiRtBOzm0"
+        }
+      ],
+      "duration_ms": 244371,
+      "name": "Heartbreakin' woman",
+      "url": "https://open.spotify.com/track/6z7teyNlfVhzaGwr5zSaHx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Want The World",
+        "url": "https://open.spotify.com/album/7xdF1q7JPdNHgPgSPJ2yFb"
+      },
+      "artists": [
+        {
+          "name": "Hands Off Gretel",
+          "url": "https://open.spotify.com/artist/48GgebpHGBikfDXg0o592i"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Freaks Like Us",
+      "url": "https://open.spotify.com/track/6FvEXczXsFq0P92Oe3prqs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Skyline Overdrive",
+        "url": "https://open.spotify.com/album/754r2zI0LT0Rmb18ZN8P01"
+      },
+      "artists": [
+        {
+          "name": "Tssara",
+          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
+        }
+      ],
+      "duration_ms": 103359,
+      "name": "Bruv, Skyline Ruckus",
+      "url": "https://open.spotify.com/track/3rkTZkhoOA7fQgwpqnmwva"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/59HjxImQYRaASu1y3HHvOx"
+      },
+      "artists": [
+        {
+          "name": "Crazy Sally",
+          "url": "https://open.spotify.com/artist/51aHHbbgZygY4k1P7UCLfV"
+        }
+      ],
+      "duration_ms": 232621,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/6jzw4EEnXgI2nrpYRrz6qG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Zero",
+        "url": "https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi"
+      },
+      "artists": [
+        {
+          "name": "Die Mannequin",
+          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
+        }
+      ],
+      "duration_ms": 198570,
+      "name": "Welcome To The Badlands",
+      "url": "https://open.spotify.com/track/0eKlJZz9cE2DAhjOSqehCS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Societys Rejects",
+        "url": "https://open.spotify.com/album/63KEdOR0MbE54hguE6AEqx"
+      },
+      "artists": [
+        {
+          "name": "The Soap Girls",
+          "url": "https://open.spotify.com/artist/1OLHfdAPzzmWwnOVSX67km"
+        }
+      ],
+      "duration_ms": 264037,
+      "name": "Bad Bitch (Bonus Track)",
+      "url": "https://open.spotify.com/track/4pCkOPhDf0jHYpAmSOFYg2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamonds & Studs",
+        "url": "https://open.spotify.com/album/5Uo6ZxwbP4GwTYih9lGTEz"
+      },
+      "artists": [
+        {
+          "name": "Morningwood",
+          "url": "https://open.spotify.com/artist/5ydhCWsbFCpHyG2OhgO2og"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "Hot Tonight",
+      "url": "https://open.spotify.com/track/6DJ7CDYlN9XcWuUUf71ZDT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Want The World",
+        "url": "https://open.spotify.com/album/7xdF1q7JPdNHgPgSPJ2yFb"
+      },
+      "artists": [
+        {
+          "name": "Hands Off Gretel",
+          "url": "https://open.spotify.com/artist/48GgebpHGBikfDXg0o592i"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "Blame Myself",
+      "url": "https://open.spotify.com/track/011cR0KrGQqu7xyLDGNBav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voltage Across the Afterglow",
+        "url": "https://open.spotify.com/album/1G8KPK66i6qpi3l31gFkIM"
+      },
+      "artists": [
+        {
+          "name": "Tssara",
+          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
+        }
+      ],
+      "duration_ms": 107359,
+      "name": "Maple Static, Eh",
+      "url": "https://open.spotify.com/track/3n9oQozZPrGmRAvCX96Tmb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bitchin'",
+        "url": "https://open.spotify.com/album/5MdCmnnJvtlLNlb8SyeFgE"
+      },
+      "artists": [
+        {
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Like An Animal",
+      "url": "https://open.spotify.com/track/6UqqX0L7YyOVpSI3HUTt15"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FINO + BLEED",
+        "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
+      },
+      "artists": [
+        {
+          "name": "Die Mannequin",
+          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "Dead Honey",
+      "url": "https://open.spotify.com/track/1UClxw7v1bRhB6GpoVmO3O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Is Amanda Emblem?",
         "url": "https://open.spotify.com/album/5tzH1W5LM7EPLtgg5ZVh5W"
       },
@@ -811,6 +695,118 @@
       "duration_ms": 166136,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/6bz4qMWZrodFwDkcLUu0i9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destructo Doll",
+        "url": "https://open.spotify.com/album/7rKgMO4NUPEw2q8XEcv4IW"
+      },
+      "artists": [
+        {
+          "name": "Cassie Steele",
+          "url": "https://open.spotify.com/artist/7hLUUmcH0567GWqnQLy75X"
+        }
+      ],
+      "duration_ms": 178466,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanna Get Along?",
+        "url": "https://open.spotify.com/album/6nXoVCjgTkOEfg4FZyO7IY"
+      },
+      "artists": [
+        {
+          "name": "Hyaenas",
+          "url": "https://open.spotify.com/artist/3WURoSXW6bsmAW6JtgYiYU"
+        }
+      ],
+      "duration_ms": 213641,
+      "name": "Wanna Get Along?",
+      "url": "https://open.spotify.com/track/5yHm4fwAC3Y8jArEHpKvEy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamonds & Studs",
+        "url": "https://open.spotify.com/album/5Uo6ZxwbP4GwTYih9lGTEz"
+      },
+      "artists": [
+        {
+          "name": "Morningwood",
+          "url": "https://open.spotify.com/artist/5ydhCWsbFCpHyG2OhgO2og"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "Killer Life",
+      "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Superbeautifulmonster",
+        "url": "https://open.spotify.com/album/7j1wE833kH2Bezi7W7nLyx"
+      },
+      "artists": [
+        {
+          "name": "Bif Naked",
+          "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
+        }
+      ],
+      "duration_ms": 156683,
+      "name": "Funeral Of A Good Grrl",
+      "url": "https://open.spotify.com/track/2UOEWzQIGIwxxBdT64ZV8J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danceland",
+        "url": "https://open.spotify.com/album/2b0taf01aCQ6XAmqaQkS70"
+      },
+      "artists": [
+        {
+          "name": "Die Mannequin",
+          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
+        }
+      ],
+      "duration_ms": 200333,
+      "name": "The Other Tiffany",
+      "url": "https://open.spotify.com/track/0QNkibueS48C3DR6o9PqOi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is the End of Control",
+        "url": "https://open.spotify.com/album/3rothUjyXzBz0I3fvHD1Cj"
+      },
+      "artists": [
+        {
+          "name": "Cherri Bomb",
+          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bitchin'",
+        "url": "https://open.spotify.com/album/5MdCmnnJvtlLNlb8SyeFgE"
+      },
+      "artists": [
+        {
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+        }
+      ],
+      "duration_ms": 174236,
+      "name": "Here For The Party",
+      "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
     }
   ],
   "unique_name": "Renee Cassar Radio",

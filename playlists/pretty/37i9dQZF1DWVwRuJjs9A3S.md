@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Esther
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,248 likes - 263 songs - 14 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,253 likes - 263 songs - 14 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 74 | [amsterdam](https://open.spotify.com/track/5S5nlOQiL447fccRofXW8H) | [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [WISH I DID](https://open.spotify.com/album/0kCZCavxhsAEg5ohTxPdAy) | 2:07 |
 | 75 | [I Saw Your Face](https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [I Saw Your Face](https://open.spotify.com/album/6PM2d4YZxyXLO05TWXoSm7) | 3:09 |
 | 76 | [Somewhere](https://open.spotify.com/track/33GhS4aDA3036FKlzHUu1q) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Somewhere](https://open.spotify.com/album/5LwoJZrIwyx1y88Cj2Al6S) | 3:12 |
-| 77 | [Somebody](https://open.spotify.com/track/48s4ZDQrVLThUqzZhFrJyu) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [Somebody](https://open.spotify.com/album/0IBobe5QGMqEhQZyylYIo5) | 3:32 |
+| 77 | [Somebody Like You](https://open.spotify.com/track/48s4ZDQrVLThUqzZhFrJyu) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [Somebody Like You](https://open.spotify.com/album/0IBobe5QGMqEhQZyylYIo5) | 3:32 |
 | 78 | [Slow My Heart Down](https://open.spotify.com/track/4zIF65DH7Li8XX5Acm0Jtp) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Slow My Heart Down / Not Enough Time](https://open.spotify.com/album/2pSVANTGiOtriSKlqFpFSq) | 2:51 |
 | 79 | [Breaking Point](https://open.spotify.com/track/5v7Wn3282jUbkqT8dhkCwn) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Breaking Point](https://open.spotify.com/album/12GfWaAGM3hXcWjdyuF6bK) | 2:37 |
 | 80 | [Lubnan \(لبنان\)](https://open.spotify.com/track/0iON9wU5x2Isk7zefu1t99) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Lubnan \(لبنان\)](https://open.spotify.com/album/4z0HkMA3ktMlt4cGVOrMFU) | 5:16 |

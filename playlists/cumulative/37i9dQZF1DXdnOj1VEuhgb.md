@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: No.1
 
-1,021 songs - 1 day 21 hr 43 min
+1,021 songs - 1 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,7 +623,7 @@
 | [Mevzular](https://open.spotify.com/track/4zsM68mUHQWn5h4CEZUpX9) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Fireonblack](https://open.spotify.com/artist/5DE3LqsrmtEK7ZpV5C85tm) | [Mevzular](https://open.spotify.com/album/3rpfoXVPbQbr5Xac3Tm6iF) | 2:23 | 2023-05-25 | 2023-06-09 |
 | [MI AMOR](https://open.spotify.com/track/0Fp91RLQckI4QkZQtjcCNC) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [MI AMOR](https://open.spotify.com/album/0LIz3jMkXG41FRhXWfdleu) | 2:32 | 2025-12-11 | 2025-12-26 |
 | [Mia Vita](https://open.spotify.com/track/4NGe2XJQ5rL0w9YOu2Cyem) | [VISIONARE](https://open.spotify.com/artist/1crOVABMVKHRzLkHZZ1zUD), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU) | [Mia Vita](https://open.spotify.com/album/2sV908suMpR735FX3JKQv4) | 3:33 | 2026-06-05 |  |
-| [MILLI MOD](https://open.spotify.com/track/5Aq0NIXiv6tiy7j3NIoWBk) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq) | [MILLI MOD](https://open.spotify.com/album/7Mv7n0Kf70KiEdu4zjL3qa) | 2:08 | 2026-05-28 |  |
+| [MILLI MOD](https://open.spotify.com/track/5Aq0NIXiv6tiy7j3NIoWBk) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq) | [MILLI MOD](https://open.spotify.com/album/7Mv7n0Kf70KiEdu4zjL3qa) | 2:16 | 2026-05-28 |  |
 | [MIMIKLER SIFIR](https://open.spotify.com/track/6qEbGyyetLMfDUkKyEmG9p) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [BEN BİR BOMBAYIM](https://open.spotify.com/album/3RfJa3xCUB14ryopEse2wm) | 1:56 | 2026-04-09 | 2026-04-17 |
 | [MINI TERORISTA](https://open.spotify.com/track/6kvf06eThDCrvYknMY32To) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [MINI TERORISTA](https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG) | 2:14 | 2023-11-16 | 2024-09-27 |
 | [MINI TERORISTA](https://open.spotify.com/track/2XHozQfA0T57iHczS9N4sl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [MINI TERORISTA](https://open.spotify.com/album/5U4UvgvFitfNPiIF0zAPBp) | 2:14 | 2024-03-21 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Lila Downs \ud83d\udd25",
-  "num_followers": 580124,
+  "num_followers": 580111,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
+        "name": "Endeble",
+        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 190239,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
         "name": "PLAKOZONA INVENTADA",
         "url": "https://open.spotify.com/album/00Wa4Fi7zCjGgH6JyCDXru"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 171000,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/6qquUxCCrA6TeSgcCf2VZr"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
-        "name": "Endeble",
-        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 190239,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "La Novia Del Pajarillo (En Vivo)",
-        "url": "https://open.spotify.com/album/4hYc8P71h1ByS2vHjItpQF"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 235434,
-      "name": "La Novia Del Pajarillo (En Vivo)",
-      "url": "https://open.spotify.com/track/1cqqXvOmdlhbMidw2Uvqtn"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "No soy para ti",
         "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 124785,
       "name": "No soy para ti",
       "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "T\u00fa Me Juraste",
+        "url": "https://open.spotify.com/album/4r7lu3B0x4cT9OFEUd4mis"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 207307,
+      "name": "T\u00fa Me Juraste",
+      "url": "https://open.spotify.com/track/7H0UpwPK8u7KZZmztK4lyG"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -807,18 +807,18 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "T\u00fa Me Juraste",
-        "url": "https://open.spotify.com/album/4r7lu3B0x4cT9OFEUd4mis"
+        "name": "La Novia Del Pajarillo (En Vivo)",
+        "url": "https://open.spotify.com/album/4hYc8P71h1ByS2vHjItpQF"
       },
       "artists": [
         {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
         }
       ],
-      "duration_ms": 207307,
-      "name": "T\u00fa Me Juraste",
-      "url": "https://open.spotify.com/track/7H0UpwPK8u7KZZmztK4lyG"
+      "duration_ms": 235434,
+      "name": "La Novia Del Pajarillo (En Vivo)",
+      "url": "https://open.spotify.com/track/1cqqXvOmdlhbMidw2Uvqtn"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1075,18 +1075,22 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "No Me Queda M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao"
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/4M5aDPki2nzsQvjmqRvxkX"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Mirla Avila",
+          "url": "https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd"
+        },
+        {
+          "name": "Ray El Ingeniero",
+          "url": "https://open.spotify.com/artist/7o4cCOAbQcgEDcAQIN8Knn"
         }
       ],
-      "duration_ms": 201467,
-      "name": "No Me Queda M\u00e1s (En Vivo)",
-      "url": "https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9"
+      "duration_ms": 217735,
+      "name": "Monarca",
+      "url": "https://open.spotify.com/track/21EIwkVeaWPgqlyk7Af2CV"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1107,22 +1111,18 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/4M5aDPki2nzsQvjmqRvxkX"
+        "name": "No Me Queda M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao"
       },
       "artists": [
         {
-          "name": "Mirla Avila",
-          "url": "https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd"
-        },
-        {
-          "name": "Ray El Ingeniero",
-          "url": "https://open.spotify.com/artist/7o4cCOAbQcgEDcAQIN8Knn"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 217735,
-      "name": "Monarca",
-      "url": "https://open.spotify.com/track/21EIwkVeaWPgqlyk7Af2CV"
+      "duration_ms": 201467,
+      "name": "No Me Queda M\u00e1s (En Vivo)",
+      "url": "https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Mam\u00e1",
-        "url": "https://open.spotify.com/album/4Q90bq3WQA6cVK03PZTy3A"
-      },
-      "artists": [
-        {
-          "name": "Zemmoa",
-          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
-        },
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Mam\u00e1",
-      "url": "https://open.spotify.com/track/15CdulcFCtGJxQQInb8pEg"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "Ahora Te Aguantas",
         "url": "https://open.spotify.com/album/2vzjM97QfvPxG9tm2Ys2Dm"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 165000,
       "name": "Ahora Te Aguantas",
       "url": "https://open.spotify.com/track/6zB7NJW1QfOMN85gJteqfm"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "Mam\u00e1",
+        "url": "https://open.spotify.com/album/4Q90bq3WQA6cVK03PZTy3A"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        },
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Mam\u00e1",
+      "url": "https://open.spotify.com/track/15CdulcFCtGJxQQInb8pEg"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "El Hielo Est\u00e1 Quemando",
-        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "El Hielo Est\u00e1 Quemando",
-      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "Si A\u00fan Me Piensas",
         "url": "https://open.spotify.com/album/4TcuzBNnFqqL1OHXQNhAbW"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 178265,
       "name": "Tragos de amargo licor",
       "url": "https://open.spotify.com/track/7tLshdCe1K9QaEuUnnvQb8"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "El Hielo Est\u00e1 Quemando",
+        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "El Hielo Est\u00e1 Quemando",
+      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Completamente Yo",
-        "url": "https://open.spotify.com/album/1QvzdccK49fZrHg171Albu"
-      },
-      "artists": [
-        {
-          "name": "Jacqie Rivera",
-          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
-        }
-      ],
-      "duration_ms": 186203,
-      "name": "Completamente Yo",
-      "url": "https://open.spotify.com/track/2i4ip32pwwrL6J45ib1ZjN"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "La Bruta (En Vivo)",
         "url": "https://open.spotify.com/album/2c0n8wO3gVg2WhmOIUtpGA"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Esa Hembra Es Mala (En Vivo)",
-        "url": "https://open.spotify.com/album/7FiCupAPcUBRsVnTKDUaUJ"
+        "name": "Completamente Yo",
+        "url": "https://open.spotify.com/album/1QvzdccK49fZrHg171Albu"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Jacqie Rivera",
+          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
         }
       ],
-      "duration_ms": 263807,
-      "name": "Esa Hembra Es Mala (En Vivo)",
-      "url": "https://open.spotify.com/track/6aOa9RIM1Jc0m9Ek1IUKgP"
+      "duration_ms": 186203,
+      "name": "Completamente Yo",
+      "url": "https://open.spotify.com/track/2i4ip32pwwrL6J45ib1ZjN"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1535,6 +1519,22 @@
       "duration_ms": 178022,
       "name": "24/7",
       "url": "https://open.spotify.com/track/3Tsf8uT2BbrUcU3xD0IpLy"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "Esa Hembra Es Mala (En Vivo)",
+        "url": "https://open.spotify.com/album/7FiCupAPcUBRsVnTKDUaUJ"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 263807,
+      "name": "Esa Hembra Es Mala (En Vivo)",
+      "url": "https://open.spotify.com/track/6aOa9RIM1Jc0m9Ek1IUKgP"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Lo Que Se Ve No Se Pregunta",
-        "url": "https://open.spotify.com/album/1t3qW7WWFgrfaUlbMoURGL"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 178489,
-      "name": "Lo Que Se Ve No Se Pregunta",
-      "url": "https://open.spotify.com/track/0mMakIqKvMHl7qHnbZkjOu"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "Para Morir Iguales",
         "url": "https://open.spotify.com/album/39PPTkycFFOzFWBpgrHDuC"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 160000,
       "name": "Para Morir Iguales",
       "url": "https://open.spotify.com/track/0m37cPhofDFSDQZzxeXyvp"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "Lo Que Se Ve No Se Pregunta",
+        "url": "https://open.spotify.com/album/1t3qW7WWFgrfaUlbMoURGL"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 178489,
+      "name": "Lo Que Se Ve No Se Pregunta",
+      "url": "https://open.spotify.com/track/0mMakIqKvMHl7qHnbZkjOu"
     },
     {
       "added_at": "2026-05-29 06:00:32",

@@ -1,12 +1,12 @@
 {
   "description": "This is Laurie Spiegel. The essential tracks, all in one playlist.",
-  "num_followers": 500,
+  "num_followers": 501,
   "original_name": "This Is Laurie Spiegel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAABSSZJLSC0wryNfFSH3jUJL",
+  "snapshot_id": "aiYGAAAAAAAWYDCCbLZU7zcw/Pr80TyG",
   "tracks": [
     {
       "added_at": null,
@@ -43,26 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
-      },
-      "artists": [
-        {
-          "name": "VooCha",
-          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
-        },
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Heliopause",
-      "url": "https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donnie & Laurie",
         "url": "https://open.spotify.com/album/5nsagfjuKN6coxKmbfXUSC"
       },
@@ -79,6 +59,26 @@
       "duration_ms": 324222,
       "name": "Donnie and Laurie",
       "url": "https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
+      },
+      "artists": [
+        {
+          "name": "VooCha",
+          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
+        },
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Heliopause",
+      "url": "https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY"
     },
     {
       "added_at": null,

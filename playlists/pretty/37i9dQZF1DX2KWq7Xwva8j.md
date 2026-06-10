@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí, con nuestra nueva promoción\. Foto: Alcalá Norte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,790 likes - 33 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,788 likes - 33 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 23 | [TÚ Y YO](https://open.spotify.com/track/28DaYAyVnQwCIszMqi5FCV) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [TÚ Y YO](https://open.spotify.com/album/0kh1590sccSWKaAD5KeQcm) | 3:20 |
 | 24 | [Esto del Amor Nada](https://open.spotify.com/track/2BvsXvXXWMxnCYNG8CwgTP) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Esto del Amor Nada](https://open.spotify.com/album/4eTy6HIxG2V7hE70TgVjTh) | 3:08 |
 | 25 | [La Sangre del Pobre](https://open.spotify.com/track/7K7Qu4nsIF5YN14M4zElp2) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:18 |
-| 26 | [Abraxas!](https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Abraxas!](https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i) | 4:09 |
+| 26 | [Cómo Pensarte Mal](https://open.spotify.com/track/5N8fN1KXVJ4py0xKeeKr0D) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 2:25 |
 | 27 | [Robot](https://open.spotify.com/track/6PlRV8KcMYSuS4p3tkSlow) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 2:45 |
 | 28 | [CONEJITA PLAYBOY](https://open.spotify.com/track/7i1FtYA6fHykC4CiHY1Ift) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:18 |
 | 29 | [La Ruleta](https://open.spotify.com/track/6Bmtn6pCBjK8jea8HoouQg) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [La Ruleta](https://open.spotify.com/album/1EOtjk5NtQAAFWayhbCB2a) | 3:44 |
 | 30 | [No Llores, Dr G](https://open.spotify.com/track/3dm8ExUF8GZa6EXN7kKAZR) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:24 |
-| 31 | [Cómo Pensarte Mal](https://open.spotify.com/track/5N8fN1KXVJ4py0xKeeKr0D) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 2:25 |
+| 31 | [Abraxas!](https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Abraxas!](https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i) | 4:09 |
 | 32 | [Sea como Sea](https://open.spotify.com/track/0P4VuDVzqrZMXGpgl8T20C) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Sea como Sea](https://open.spotify.com/album/4XxPjsotbbdjY4T4iDG5pP) | 2:43 |
 | 33 | [El Rey De Los Judíos \(Un Cosquilleo\)](https://open.spotify.com/track/0rpWNeRBXnHPIaHBplGJW3) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:04 |
 

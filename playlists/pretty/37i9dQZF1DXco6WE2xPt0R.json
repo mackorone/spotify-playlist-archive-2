@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 127794,
+  "num_followers": 127795,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -107,26 +107,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 162514,
-      "name": "Sweet Nuthins (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/1mwWTCmOKSlAaHJWj0or4N"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "AIN'T U TIRED? (with Muni Long)",
         "url": "https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 221000,
       "name": "AIN'T U TIRED? (with Muni Long)",
       "url": "https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 162514,
+      "name": "Sweet Nuthins (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/1mwWTCmOKSlAaHJWj0or4N"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -211,22 +211,18 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "Bed of Roses (with Wale)",
-        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
+        "name": "BACK IN MY ARMS",
+        "url": "https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd"
       },
       "artists": [
         {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
         }
       ],
-      "duration_ms": 185531,
-      "name": "Bed of Roses (with Wale)",
-      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
+      "duration_ms": 223498,
+      "name": "BACK IN MY ARMS",
+      "url": "https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -247,18 +243,22 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "BACK IN MY ARMS",
-        "url": "https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd"
+        "name": "Bed of Roses (with Wale)",
+        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
       },
       "artists": [
         {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 223498,
-      "name": "BACK IN MY ARMS",
-      "url": "https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI"
+      "duration_ms": 185531,
+      "name": "Bed of Roses (with Wale)",
+      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -295,38 +295,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "Crack The Code",
-        "url": "https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q"
-      },
-      "artists": [
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Crack The Code",
-      "url": "https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
-        "name": "Price Of It All (Music From the Original Series \"Bait\")",
-        "url": "https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Price Of It All",
-      "url": "https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "TABOO",
         "url": "https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10"
       },
@@ -343,6 +311,22 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
+        "name": "Crack The Code",
+        "url": "https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Crack The Code",
+      "url": "https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
         "name": "Be My Summer",
         "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 186540,
       "name": "Be My Summer",
       "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "Price Of It All (Music From the Original Series \"Bait\")",
+        "url": "https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Price Of It All",
+      "url": "https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -395,6 +395,22 @@
       "duration_ms": 199148,
       "name": "SiNKRONiZAMOS",
       "url": "https://open.spotify.com/track/606P7BzQuVQ2C0rnG7u66E"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "Westside",
+        "url": "https://open.spotify.com/album/6hejZTaY1xPzO9bKeSY51o"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 178779,
+      "name": "Westside",
+      "url": "https://open.spotify.com/track/7GqtjPXE2gAEFgKLZ5436I"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -455,22 +471,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "Westside",
-        "url": "https://open.spotify.com/album/6hejZTaY1xPzO9bKeSY51o"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 178779,
-      "name": "Westside",
-      "url": "https://open.spotify.com/track/7GqtjPXE2gAEFgKLZ5436I"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 132213,
       "name": "Broken is the man",
       "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "When The City Sleeps",
+        "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 209302,
+      "name": "Maybe Again",
+      "url": "https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -531,22 +547,6 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
-        "name": "When The City Sleeps",
-        "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 209302,
-      "name": "Maybe Again",
-      "url": "https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "Forgive To Forget",
-        "url": "https://open.spotify.com/album/5cvv3xLqA1vyxf4mGMfO27"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 188424,
-      "name": "TOW",
-      "url": "https://open.spotify.com/track/2uhInkIfAyWSLpRTwFTldW"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "Serial Romantic",
         "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 240000,
       "name": "I Believe (Selfish)",
       "url": "https://open.spotify.com/track/7vpejOgd1PfPuBqFZ6Sw0y"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "Forgive To Forget",
+        "url": "https://open.spotify.com/album/5cvv3xLqA1vyxf4mGMfO27"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 188424,
+      "name": "TOW",
+      "url": "https://open.spotify.com/track/2uhInkIfAyWSLpRTwFTldW"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 234608,
-      "name": "100",
-      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "Scene 1 - A COLORS SHOW",
         "url": "https://open.spotify.com/album/0f39zUtqQNYunlzmj3yLmh"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 180100,
       "name": "Scene 1 - A COLORS SHOW",
       "url": "https://open.spotify.com/track/10BWEQ0WDTc9JlG1kfNZI5"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
+        "name": "Seamless (with Kehlani)",
+        "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 195265,
+      "name": "Seamless (with Kehlani)",
+      "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
         "name": "Back To Love [Feat. SiR & Alex Isley]",
         "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 201773,
       "name": "Back To Love [Feat. SiR & Alex Isley]",
       "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
-        "name": "Seamless (with Kehlani)",
-        "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 195265,
-      "name": "Seamless (with Kehlani)",
-      "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
+        "name": "Guns",
+        "url": "https://open.spotify.com/album/5icW3F94z3FdkoTEoDejwd"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "duration_ms": 189942,
+      "name": "Guns",
+      "url": "https://open.spotify.com/track/0WsNPJMr6iHSi5vbVAcdz4"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
         "name": "Precious",
         "url": "https://open.spotify.com/album/7Mv6IVfkVlzxlyAihQspQK"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 152066,
       "name": "Precious",
       "url": "https://open.spotify.com/track/20djsOOXlbSIeO2idY99c3"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
-        "name": "Guns",
-        "url": "https://open.spotify.com/album/5icW3F94z3FdkoTEoDejwd"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "Warren Hue",
-          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
-        }
-      ],
-      "duration_ms": 189942,
-      "name": "Guns",
-      "url": "https://open.spotify.com/track/0WsNPJMr6iHSi5vbVAcdz4"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "Let Me See Your Phone",
-        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 202371,
-      "name": "Let Me See Your Phone",
-      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 186294,
       "name": "Standards",
       "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "Let Me See Your Phone",
+        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 202371,
+      "name": "Let Me See Your Phone",
+      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
     },
     {
       "added_at": "2026-05-22 03:01:25",

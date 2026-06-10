@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3155,
+  "num_followers": 3157,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAACxujYZp90WoFJ95SvPqHzV",
+  "snapshot_id": "aiYGAAAAAADwHiznJcpjsir+/mRJTltC",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bye Bye Baby",
-        "url": "https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk"
+        "name": "Grave",
+        "url": "https://open.spotify.com/album/1qzE9q5WIok3jj1LOiMtuQ"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 179666,
-      "name": "Bye Bye Baby",
-      "url": "https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB"
+      "duration_ms": 152226,
+      "name": "Grave",
+      "url": "https://open.spotify.com/track/5XZj0TXYvV7c34lP69peNI"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bye Bye Baby",
+        "url": "https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Bye Bye Baby",
+      "url": "https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Falling Out / Falling In",
         "url": "https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 193466,
       "name": "For the Both of Us",
       "url": "https://open.spotify.com/track/0yOEI0VoPeo1vyWjUnglLw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grave",
-        "url": "https://open.spotify.com/album/1qzE9q5WIok3jj1LOiMtuQ"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 152226,
-      "name": "Grave",
-      "url": "https://open.spotify.com/track/5XZj0TXYvV7c34lP69peNI"
     },
     {
       "added_at": null,

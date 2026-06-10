@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 385295,
+  "num_followers": 385383,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -665,6 +665,22 @@
       "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
     },
     {
+      "added_at": "2024-03-26 13:55:21",
+      "album": {
+        "name": "The People Tree",
+        "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth",
+          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "Apple Green",
+      "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
+    },
+    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "Off The Record",
@@ -683,22 +699,6 @@
       "duration_ms": 281733,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr"
-    },
-    {
-      "added_at": "2024-03-26 13:55:21",
-      "album": {
-        "name": "The People Tree",
-        "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
-      },
-      "artists": [
-        {
-          "name": "Mother Earth",
-          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "Apple Green",
-      "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1225,20 +1225,20 @@
       "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
+      "added_at": "2022-07-18 17:17:22",
       "album": {
-        "name": "The Best of Acid Jazz Vol. 2",
-        "url": "https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f"
+        "name": "C'\u00e9tait un rendez-vous",
+        "url": "https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W"
       },
       "artists": [
         {
-          "name": "The Brand New Heavies",
-          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
+          "name": "Arms and Sleepers",
+          "url": "https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP"
         }
       ],
-      "duration_ms": 231093,
-      "name": "Don't Let It Go to Your Head",
-      "url": "https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw"
+      "duration_ms": 320737,
+      "name": "C'\u00e9tait un rendez-vous",
+      "url": "https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1261,20 +1261,20 @@
       "url": "https://open.spotify.com/track/0TPpaCh6kiqIJEZOGosUTg"
     },
     {
-      "added_at": "2022-07-18 17:17:22",
+      "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "C'\u00e9tait un rendez-vous",
-        "url": "https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W"
+        "name": "The Best of Acid Jazz Vol. 2",
+        "url": "https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f"
       },
       "artists": [
         {
-          "name": "Arms and Sleepers",
-          "url": "https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP"
+          "name": "The Brand New Heavies",
+          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
         }
       ],
-      "duration_ms": 320737,
-      "name": "C'\u00e9tait un rendez-vous",
-      "url": "https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j"
+      "duration_ms": 231093,
+      "name": "Don't Let It Go to Your Head",
+      "url": "https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw"
     },
     {
       "added_at": "2022-07-18 17:17:22",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Best of The Black President",
+        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 591706,
+      "name": "Water No Get Enemy - Edit",
+      "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Tawk Tomahawk",
         "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 275320,
       "name": "Nakamarra (feat. Q-Tip)",
       "url": "https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
     }
   ],
   "unique_name": "Acid Jazz",

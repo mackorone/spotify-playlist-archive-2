@@ -4,7 +4,7 @@
 
 > new Haylie Davis album has us swooning ☀️
 
-818 songs - 2 day 1 hr 22 min
+819 songs - 2 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Blood Bank](https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:45 | 2024-12-06 | 2025-02-22 |
 | [Blood Moon](https://open.spotify.com/track/37J6sYIBny0g0YJi88FPnc) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [2022](https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC) | 2:48 | 2023-10-13 | 2024-07-27 |
 | [Bloodline](https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Bloodline](https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX) | 3:00 | 2026-01-16 |  |
+| [bloodstream](https://open.spotify.com/track/1fdgakuuEEfjRt3KYF36eG) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [bloodstream](https://open.spotify.com/album/4KGK9opFcC60xCe29CTZus) | 2:57 | 2026-06-09 |  |
 | [Blow Wind Blow](https://open.spotify.com/track/5AtZtXNA2loJEzAIJb39fX) | [Jordan Lehning](https://open.spotify.com/artist/4TJq86PFfl12FBpxk5FS7O) | [Blow Wind Blow](https://open.spotify.com/album/6MiDRCah5wxJOOsCBp8sE2) | 3:18 | 2025-02-07 | 2025-05-31 |
 | [Blue Bell](https://open.spotify.com/track/3sAVPMPtsrSVVoczX82keF) | [Golden Daze](https://open.spotify.com/artist/4T3jyyAF02vNapy2bdzMjn) | [Simpatico](https://open.spotify.com/album/2lK6kmV26bYb9CcTFvrmLz) | 3:45 | 2025-02-07 | 2025-05-17 |
 | [Blue Black Crows](https://open.spotify.com/track/5tWkLdfJzQprUfmzsjqkf9) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Blue Black Crows](https://open.spotify.com/album/10oTDg6xOkWFHH9zm8Baye) | 3:44 | 2025-08-29 | 2026-02-21 |

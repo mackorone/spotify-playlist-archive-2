@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Oliver Ashby",
+  "description": "The best new music by independent artists and labels. Cover: Sollyy",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -7468,7 +7468,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 156120,
       "name": "Bicycle",
       "url": "https://open.spotify.com/track/1wz44DJSpCyRnryVAKKAIA"
@@ -19765,6 +19765,24 @@
     },
     {
       "album": {
+        "name": "Don't Care",
+        "url": "https://open.spotify.com/album/6ZQBxiKP485n8EaZxNGQ67"
+      },
+      "artists": [
+        {
+          "name": "Pixie Lane",
+          "url": "https://open.spotify.com/artist/3Br6ncRU4z030LyHPpfflF"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191996,
+      "name": "Don't Care",
+      "url": "https://open.spotify.com/track/5KtU9AoG21eTPnO7QLe14g"
+    },
+    {
+      "album": {
         "name": "Don't Give It Away",
         "url": "https://open.spotify.com/album/3Y6fgads4c3aR7QGRbJDlI"
       },
@@ -23886,6 +23904,24 @@
       "duration_ms": 299123,
       "name": "Fading Star",
       "url": "https://open.spotify.com/track/75I3yTyavJJ6fhTCtgxh2u"
+    },
+    {
+      "album": {
+        "name": "FAIR DINKUM",
+        "url": "https://open.spotify.com/album/4pyxnGUHJvDanfdvtgduqO"
+      },
+      "artists": [
+        {
+          "name": "Sollyy",
+          "url": "https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156375,
+      "name": "FAIR DINKUM",
+      "url": "https://open.spotify.com/track/22je5kAHjwf98UwKbLUfh8"
     },
     {
       "album": {
@@ -36261,6 +36297,24 @@
     },
     {
       "album": {
+        "name": "I Would",
+        "url": "https://open.spotify.com/album/2eU24mJT47Zspe2XdjHvo7"
+      },
+      "artists": [
+        {
+          "name": "Gloomie",
+          "url": "https://open.spotify.com/artist/08LlZZtreCrm0AQhRLpCWI"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155052,
+      "name": "I Would",
+      "url": "https://open.spotify.com/track/2whHR5vaxtciVUKN4lyJI1"
+    },
+    {
+      "album": {
         "name": "I'll Be Lonely",
         "url": "https://open.spotify.com/album/50jn9TYzTzTVFWlP4vMSKm"
       },
@@ -38488,7 +38542,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 231482,
       "name": "interstate",
       "url": "https://open.spotify.com/track/0W4XKdAXxv16plEuzRHZ7n"
@@ -52421,6 +52475,24 @@
     },
     {
       "album": {
+        "name": "Not Your God",
+        "url": "https://open.spotify.com/album/6IWvQGMt212OPadyha2MdH"
+      },
+      "artists": [
+        {
+          "name": "Takara",
+          "url": "https://open.spotify.com/artist/0s4pACwkFS6Zo2zKs0YpYx"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239529,
+      "name": "Not Your God",
+      "url": "https://open.spotify.com/track/1g7QMtSAstZsgo5bsFVYrE"
+    },
+    {
+      "album": {
         "name": "BANK VAULT",
         "url": "https://open.spotify.com/album/2s9M6XeYertanVbyXk6GCI"
       },
@@ -61820,7 +61892,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 264138,
       "name": "rosie",
       "url": "https://open.spotify.com/track/7ywAHrYeNA4afPreBAGzl2"
@@ -70656,7 +70728,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 214612,
       "name": "Super Glue",
       "url": "https://open.spotify.com/track/6rph0hV6dAkcPzCcCs9vDn"

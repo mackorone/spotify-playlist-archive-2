@@ -19072,7 +19072,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 219093,
       "name": "Fj\u00f6llin hafa vaka\u00f0",
       "url": "https://open.spotify.com/track/0lLUgQk3B3mcry7S0jUaNj"
@@ -35650,7 +35650,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -38444,7 +38444,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 156155,
       "name": "My Oh My",
       "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
@@ -43875,6 +43875,28 @@
     },
     {
       "album": {
+        "name": "Poundemus FC",
+        "url": "https://open.spotify.com/album/3jrV73M05BZtqmGvF1rEfI"
+      },
+      "artists": [
+        {
+          "name": "NonyKingz",
+          "url": "https://open.spotify.com/artist/1qrpULitiHw4tkC8TLXL3O"
+        },
+        {
+          "name": "Mr Real",
+          "url": "https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160208,
+      "name": "Poundemus FC",
+      "url": "https://open.spotify.com/track/3t7TCVjn566WpY0X1nJQDJ"
+    },
+    {
+      "album": {
         "name": "Pour Me A Drink",
         "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
       },
@@ -45716,7 +45738,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 345986,
       "name": "Regnbogans str\u00e6ti",
       "url": "https://open.spotify.com/track/0wOjo5JP9fYW4OyFGVsxmz"
@@ -52320,7 +52342,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 169640,
       "name": "Stoppa t\u00edmann",
       "url": "https://open.spotify.com/track/6sjvA7JuGIGDNRWDAeZhsK"
@@ -53924,7 +53946,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 190790,
       "name": "S\u00e1rab\u00f3t",
       "url": "https://open.spotify.com/track/3A6TPHkokIZzg4yNnh6Jjq"
@@ -54450,7 +54472,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -58888,7 +58910,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 179220,
       "name": "T\u00fdnda kynsl\u00f3\u00f0in",
       "url": "https://open.spotify.com/track/5P3MwEcrBYQ4oviLfk8pLU"
@@ -66750,7 +66772,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

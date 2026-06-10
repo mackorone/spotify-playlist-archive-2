@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 303018,
+  "num_followers": 303025,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiS0gAAAAAAGrgrzn+8BjdYjRImsV5zq",
+  "snapshot_id": "aiYGAAAAAAC1J3rAb+2Cd/laDuLc8F+N",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Do We Think We Are (Remastered)",
-        "url": "https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y"
+        "name": "Fireball (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 351693,
-      "name": "Woman From Tokyo - Remastered 2000",
-      "url": "https://open.spotify.com/track/6hzu1SR1YbSRIzfSFSsGhh"
+      "duration_ms": 204133,
+      "name": "Fireball - 1996 Remaster",
+      "url": "https://open.spotify.com/track/3bLfteEOjNnH7Gpa2NgSlF"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fireball (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
+        "name": "Who Do We Think We Are (Remastered)",
+        "url": "https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 204133,
-      "name": "Fireball - 1996 Remaster",
-      "url": "https://open.spotify.com/track/3bLfteEOjNnH7Gpa2NgSlF"
+      "duration_ms": 351693,
+      "name": "Woman From Tokyo - Remastered 2000",
+      "url": "https://open.spotify.com/track/6hzu1SR1YbSRIzfSFSsGhh"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slaves and Masters (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
+        "name": "Fireball (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Love Conquers All",
-      "url": "https://open.spotify.com/track/0Q7sFMIqfp3eMtjF3w3S6F"
+      "duration_ms": 321333,
+      "name": "Demon's Eye - 1996 Remaster",
+      "url": "https://open.spotify.com/track/6bofgga9Ld54uPgEHlr0Ne"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fireball (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
+        "name": "Slaves and Masters (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 321333,
-      "name": "Demon's Eye - 1996 Remaster",
-      "url": "https://open.spotify.com/track/6bofgga9Ld54uPgEHlr0Ne"
+      "duration_ms": 224680,
+      "name": "Love Conquers All",
+      "url": "https://open.spotify.com/track/0Q7sFMIqfp3eMtjF3w3S6F"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purpendicular",
-        "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 256626,
-      "name": "Vavoom: Ted The Mechanic",
-      "url": "https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now What ?!",
         "url": "https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 209200,
       "name": "Into the Fire - 1995 Remaster",
       "url": "https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Purpendicular",
+        "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 256626,
+      "name": "Vavoom: Ted The Mechanic",
+      "url": "https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ"
     },
     {
       "added_at": null,

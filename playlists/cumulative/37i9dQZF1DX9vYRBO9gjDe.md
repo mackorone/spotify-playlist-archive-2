@@ -2,9 +2,9 @@
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。6月7日付。
+> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。6月8日付。
 
-7,564 songs - 18 day 19 hr 14 min
+7,565 songs - 18 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1684,7 +1684,7 @@
 | [Habit](https://open.spotify.com/track/0kvlMVoAi0j6ASN9zi0M3x) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Nautilus](https://open.spotify.com/album/1e1wT6uxWS5EwnHVeu6K0b) | 4:16 | 2024-08-12 | 2024-10-10 |
 | [Hachikō](https://open.spotify.com/track/3Aj0zsny1zlTLevRxfEEKc) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:30 | 2025-09-24 | 2026-01-22 |
 | [Hachikō](https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hachikō](https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR) | 4:30 | 2025-06-17 | 2025-08-14 |
-| [Hachimitsu](https://open.spotify.com/track/2rEAJwB9CyAlbxk2oDZI4u) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Mikuni Eki](https://open.spotify.com/album/1ha96rzpDGvXKn0MV8fpcH) | 5:49 | 2026-04-15 | 2026-06-02 |
+| [Hachimitsu](https://open.spotify.com/track/2rEAJwB9CyAlbxk2oDZI4u) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Mikuni Eki](https://open.spotify.com/album/1ha96rzpDGvXKn0MV8fpcH) | 5:49 | 2026-04-15 |  |
 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 | 2023-04-22 | 2023-05-05 |
 | [HAErise](https://open.spotify.com/track/7GpY9ARHNZnUqPRPTv66kP) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY) | [ALIVE](https://open.spotify.com/album/1CvwYs1bNypwyIatyForxz) | 2:51 | 2026-04-24 | 2026-04-28 |
 | [Hai Yorokonde](https://open.spotify.com/track/6woV8uWxn7rcLZxJKYruS1) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Hai Yorokonde](https://open.spotify.com/album/1wz8OHzR2Z9DduiN8v86Tz) | 2:41 | 2024-06-12 | 2025-08-20 |
@@ -5696,6 +5696,7 @@
 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 | 2023-02-06 | 2023-03-09 |
 | [スパークル](https://open.spotify.com/track/1HdqMIGjLm8wkL4vWDcFPm) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [人間開花](https://open.spotify.com/album/4DzbZVGpyQ4zyqyAsQqDur) | 6:50 | 2025-07-01 | 2025-11-21 |
 | [スピン](https://open.spotify.com/track/71L8jS940rUwieIRmRBBBx) | [WEST.](https://open.spotify.com/artist/0VbpS8goXhAQ8vnwiJUNf3) | [唯一無二](https://open.spotify.com/album/240sxkp90l00n5gkabejD5) | 4:07 | 2026-04-27 | 2026-05-08 |
+| [スペシャル感謝祭](https://open.spotify.com/track/5MwU3ksdoc7V5gv7zG2Toy) | [CANDY TUNE](https://open.spotify.com/artist/4Yq4M6kdQTjkPBOp7aPJrA) | [スペシャル感謝祭](https://open.spotify.com/album/2pv5NpsWxVCYNgKnNEeagS) | 4:10 | 2026-06-09 |  |
 | [スペル](https://open.spotify.com/track/1ne0pXfW1MlansRIqBT5Ln) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [スペル](https://open.spotify.com/album/1ixXMADF3UxGBzK3dNcOkZ) | 4:31 | 2024-06-14 | 2024-06-17 |
 | [スマイルあげない](https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [スマイルあげない](https://open.spotify.com/album/0jQQr37kPhFRI6zjpP5Ys5) | 3:17 | 2023-06-21 | 2023-07-25 |
 | [スワイプ](https://open.spotify.com/track/5XSthsJw3wv8mddwrIeUPP) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [スワイプ](https://open.spotify.com/album/7yYagnUne0gmaJT4nM0BmR) | 5:46 | 2023-04-28 | 2023-04-30 |
@@ -6003,7 +6004,7 @@
 | [ホテルニュートリノ](https://open.spotify.com/track/66j7OAinOnLbkATzcQPfmA) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [ホテルニュートリノ](https://open.spotify.com/album/7mAnnljEik428IDN7c8zGv) | 4:04 | 2024-01-04 | 2024-01-07 |
 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 | 2023-10-19 | 2023-11-05 |
 | [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 | 2024-07-08 | 2024-11-13 |
-| [ホラークイーン](https://open.spotify.com/track/4xfm7kSYoRvlAhqA7JlZzd) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [ホラークイーン](https://open.spotify.com/album/72ODUzp8zIjUC4J3VmIHrB) | 4:44 | 2026-06-08 |  |
+| [ホラークイーン](https://open.spotify.com/track/4xfm7kSYoRvlAhqA7JlZzd) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [ホラークイーン](https://open.spotify.com/album/72ODUzp8zIjUC4J3VmIHrB) | 4:44 | 2026-06-08 | 2026-06-10 |
 | [ホレタハレタ](https://open.spotify.com/track/0PHMmilCr5oGP9OrkNzTn5) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [キラーパス](https://open.spotify.com/album/541MeMwAFGkHslqZMrp0aW) | 4:24 | 2026-02-20 | 2026-03-05 |
 | [ホワイトキス](https://open.spotify.com/track/41R04CLOLRH2si5y8i48YO) | [Suzukisuzuki](https://open.spotify.com/artist/76QUiw7IqXtPsy2dqmr2ev) | [313](https://open.spotify.com/album/0uUONww7AKKBhR5croB5Zb) | 4:33 | 2023-12-26 | 2025-10-28 |
 | [ホワイトノイズ\(砂嵐の音）](https://open.spotify.com/track/54xuDLrupxI0BaZrb5uCSU) | [赤ちゃんが泣き止む音](https://open.spotify.com/artist/28r9BvP9yTviWg5loYC6Ye) | [赤ちゃんが泣き止む音](https://open.spotify.com/album/2LkRDr0KSZhzxCoA5UICYS) | 2:01 | 2026-05-08 | 2026-05-12 |
@@ -6875,7 +6876,7 @@
 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2023-10-01 | 2025-01-14 |
 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/075HUD50Nuea3rNaABIsNZ) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 3:37 | 2025-01-30 | 2026-02-20 |
 | [景色](https://open.spotify.com/track/3eQnYrSRYJzfTukiYFwsgb) | [JI BLUE](https://open.spotify.com/artist/2P3wyGoExw0CVT3P60WqWJ), [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu), [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [景色](https://open.spotify.com/album/1sEWdrVnS9rVpRGylJYgku) | 3:40 | 2026-05-04 | 2026-05-08 |
-| [景色 \- INI VER.](https://open.spotify.com/track/7cnPiZlmZEcLKYfXNEMxTc) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [景色](https://open.spotify.com/album/5naxtHlUQG7djPLAXVo5aF) | 4:04 | 2026-06-08 |  |
+| [景色 \- INI VER.](https://open.spotify.com/track/7cnPiZlmZEcLKYfXNEMxTc) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [景色](https://open.spotify.com/album/5naxtHlUQG7djPLAXVo5aF) | 4:04 | 2026-06-08 | 2026-06-10 |
 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 | 2024-01-06 | 2026-03-03 |
 | [晴れの舞台](https://open.spotify.com/track/2dfLDVLMn1yxMHOG8TCUhs) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [晴れの舞台](https://open.spotify.com/album/26XqlaIj3VAZpfizoZiHAL) | 3:51 | 2025-03-17 | 2025-03-18 |
 | [暗闇](https://open.spotify.com/track/6icfGil407y3ssfZpgjf9f) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Gen](https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch) | 3:53 | 2025-10-21 | 2025-10-24 |

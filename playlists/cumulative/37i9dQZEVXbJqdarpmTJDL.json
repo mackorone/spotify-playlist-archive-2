@@ -4330,7 +4330,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 197560,
       "name": "Anadromika",
       "url": "https://open.spotify.com/track/4SP5sNmfpJP5oV2LrqzE6A"
@@ -9750,6 +9750,28 @@
       "duration_ms": 146052,
       "name": "BUNNY",
       "url": "https://open.spotify.com/track/5WtMxeEBeJrtGSgs5iCz1S"
+    },
+    {
+      "album": {
+        "name": "BUSINESS",
+        "url": "https://open.spotify.com/album/4jFritgZBQ4qAxUaN193VX"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "Corteo",
+          "url": "https://open.spotify.com/artist/7vHwSdqnwKnxJiMHFr0Edd"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "BUSINESS",
+      "url": "https://open.spotify.com/track/3djudakcBistWKRfuKdWuL"
     },
     {
       "album": {
@@ -18162,7 +18184,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 173308,
       "name": "Exigiste Mou",
       "url": "https://open.spotify.com/track/0J62goV1jljZTdIEOow632"
@@ -31948,7 +31970,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 220714,
       "name": "Logariasmos",
       "url": "https://open.spotify.com/track/6qShG16XTy1emd18WVPZlh"
@@ -37656,7 +37678,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -40608,7 +40630,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 130000,
       "name": "Oloi",
       "url": "https://open.spotify.com/track/3vf4jc8eUcmsFxmsygVz6v"
@@ -42164,6 +42186,32 @@
       "duration_ms": 137880,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/1stD6Iv2plxqFKgwiO64Bu"
+    },
+    {
+      "album": {
+        "name": "PALOMA",
+        "url": "https://open.spotify.com/album/6N6d32REL5sGP4p01xflLr"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "MENJU",
+          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "PALOMA",
+      "url": "https://open.spotify.com/track/2mSredandhqq7qSD2LVhn6"
     },
     {
       "album": {
@@ -55444,6 +55492,24 @@
       "duration_ms": 176528,
       "name": "TI THELIS",
       "url": "https://open.spotify.com/track/5MO7LUQJEpuBwakEuOn2BP"
+    },
+    {
+      "album": {
+        "name": "Ti Thelo Ego Me Sena",
+        "url": "https://open.spotify.com/album/6huYtEFzy9x6gSEvMwdi4A"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175747,
+      "name": "Ti Thelo Ego Me Sena",
+      "url": "https://open.spotify.com/track/7gLT8aVOkQkXQk2yTkZzhF"
     },
     {
       "album": {

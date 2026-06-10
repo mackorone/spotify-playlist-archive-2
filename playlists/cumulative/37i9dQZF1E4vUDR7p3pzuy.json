@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With JUST LIZZY, Something Broke, Anne Bloom and more",
+  "description": "With JUST LIZZY, Mercury Teardrop, Evil Level Live and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 207018,
       "name": "4",
       "url": "https://open.spotify.com/track/37I6odFX6sKoXiz4oHaFFO"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 219425,
       "name": "Again",
       "url": "https://open.spotify.com/track/32RlMu4tqWNlWUfEJDSRXP"
@@ -910,6 +910,24 @@
       "duration_ms": 240431,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/2MYdE4abRFwX5ga74BklCT"
+    },
+    {
+      "album": {
+        "name": "Del Padre",
+        "url": "https://open.spotify.com/album/5E2a1qOHvrCJ6P2FsPkEmJ"
+      },
+      "artists": [
+        {
+          "name": "Santissima Benedetta",
+          "url": "https://open.spotify.com/artist/5kK3KxEx5q4JAIbQbSTsHW"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Avere Vent\u2019Anni",
+      "url": "https://open.spotify.com/track/5IJ1mEnfHPGVO2IKBNTRIM"
     },
     {
       "album": {
@@ -2933,6 +2951,24 @@
     },
     {
       "album": {
+        "name": "Some Kind Of Pure State",
+        "url": "https://open.spotify.com/album/1YW3WpN461u4lSbDRdLW2b"
+      },
+      "artists": [
+        {
+          "name": "The Dharma Chain",
+          "url": "https://open.spotify.com/artist/1vtBMVcsRYr8a4dJAmKtLB"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249213,
+      "name": "Cross Over",
+      "url": "https://open.spotify.com/track/3AI4CMMCPiomwJb0qUM2JW"
+    },
+    {
+      "album": {
         "name": "Crosses",
         "url": "https://open.spotify.com/album/6PfDTIkqQRaGFxIcHuStgh"
       },
@@ -3970,7 +4006,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 225162,
       "name": "Elysia",
       "url": "https://open.spotify.com/track/12QCxgHuqmKy8kw951c9zr"
@@ -4428,7 +4464,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 201526,
       "name": "Fear Of Love",
       "url": "https://open.spotify.com/track/2iaqIN46Ag9tfrb4h6AStT"
@@ -5636,7 +5672,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 124346,
       "name": "Help I'm Alive - Edit Slowed",
       "url": "https://open.spotify.com/track/5uCBspPgSxKqnj7Lx6tl6J"
@@ -7480,7 +7516,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 262226,
       "name": "Life on a chain",
       "url": "https://open.spotify.com/track/5H0c1YApnVuiXwXxHPDQIO"
@@ -9898,7 +9934,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 308658,
       "name": "Random Switch",
       "url": "https://open.spotify.com/track/5xZUkg6Euyt9tLo5h3qOIZ"
@@ -10176,7 +10212,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 241893,
       "name": "Roseblood",
       "url": "https://open.spotify.com/track/0SvqrLZMvV3uSJ4gavipef"
@@ -11624,7 +11660,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5fCyLFWKW7V1A3W9I7Ik5E"
@@ -11732,7 +11768,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 346079,
       "name": "Stay",
       "url": "https://open.spotify.com/track/11USUsmzuVO2BeCBxx9ZzV"
@@ -12064,7 +12100,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 252750,
       "name": "Suspension",
       "url": "https://open.spotify.com/track/62UFFJ0n5385Q8ZY1Z6WsX"
@@ -12126,6 +12162,24 @@
       "duration_ms": 240744,
       "name": "Sweet Nightmare",
       "url": "https://open.spotify.com/track/3FCyLMarwPGkjLi9TWbgcO"
+    },
+    {
+      "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/2SuNGmkfGRiMR4Ip5Mqbdr"
+      },
+      "artists": [
+        {
+          "name": "Metamorph",
+          "url": "https://open.spotify.com/artist/16gi6CU7X1YfV4BIVbjZXo"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146391,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/41qAz938Ldd6EDiDFabseu"
     },
     {
       "album": {
@@ -13094,7 +13148,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "The Unbearable Weight Of What If",
       "url": "https://open.spotify.com/track/5vqa47SFvRy2SJeVl6m8P5"
@@ -13368,7 +13422,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 187252,
       "name": "This Elegant Deal",
       "url": "https://open.spotify.com/track/4Xq0EMZ7jFlJixF8L7WssA"
@@ -14136,7 +14190,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 315096,
       "name": "Vastes mers",
       "url": "https://open.spotify.com/track/6jlM8hsUU6zcg3VjsmPyPI"
@@ -15368,7 +15422,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-10",
       "duration_ms": 314181,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"

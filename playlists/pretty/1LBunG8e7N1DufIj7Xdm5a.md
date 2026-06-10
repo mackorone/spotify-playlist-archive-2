@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,509 songs - 10 day 1 hr 1 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,512 songs - 10 day 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4517,5 +4517,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4507 | [Noxious](https://open.spotify.com/track/5Fdx1xdp4ng1kW0fvrcBVM) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 3:57 |
 | 4508 | [Me](https://open.spotify.com/track/1k3T9hZwF7D8ZDWps7D27d) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3), [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 2:42 |
 | 4509 | [Saturday](https://open.spotify.com/track/2vdXi49hSFAo3U5blyTcFl) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 3:41 |
+| 4510 | [Bandido](https://open.spotify.com/track/6F1gSmB8W8bkQppKxCbvvd) | [EL TIO ZETTA](https://open.spotify.com/artist/52prEhuq9zDgQht8UfCLe0), [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY) | [Bandido](https://open.spotify.com/album/5MVcKEnoC47BZC5Cy4vGyQ) | 2:44 |
+| 4511 | [Believe me](https://open.spotify.com/track/5OTEbscf89tdmjZIsEnxmk) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [Believe me](https://open.spotify.com/album/32V4BnKEwnMr3QmIObawlA) | 2:47 |
+| 4512 | [Hands of God](https://open.spotify.com/track/3ker5A7IVbjfi5gtjnIE0m) | [Destroy the Moon](https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt) | [Hands of God](https://open.spotify.com/album/0MmtQzwcyyyfRl0U6Ok6cN) | 5:35 |
 
-Snapshot ID: `AAAI1uU59XD5gc0MijXzziiGEUaWzvaC`
+Snapshot ID: `AAAI2QgSCIEhFoNsFhSZS56VJq/rI8Kx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > powered by www.releasejet.ai most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 998,313 likes - 121 songs - 5 hr 30 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 998,214 likes - 122 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,13 +121,14 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 111 | [Twilight](https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu) | 1:56 |
 | 112 | [WITCH KING](https://open.spotify.com/track/7k9wcWVeFTJqA0Ahm1OPGL) | [Dack Janiels](https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0) | [WITCH KING](https://open.spotify.com/album/4JizspVEZGHhDIf96n2eHc) | 3:08 |
 | 113 | [Trunk](https://open.spotify.com/track/4ksthl89nVr3tzPF4AFWM2) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Trunk](https://open.spotify.com/album/04FG9gwVAhiqj66ocmrbu7) | 2:05 |
-| 114 | [ENGULFED](https://open.spotify.com/track/0HJ9alp6CCs8Sjw1v0ghur) | [URAI](https://open.spotify.com/artist/1Aj3e5gRhbxeonF384jZeu), [Daunter](https://open.spotify.com/artist/36Bfcbr8mLMRPteWtBIm6Y) | [ENGULFED](https://open.spotify.com/album/267gE0laAHprmprrRiQVQV) | 2:30 |
-| 115 | [THE BATTLE BEGINS](https://open.spotify.com/track/3QbTL4HD6u4c7EyJ7oxg0w) | [4D4M](https://open.spotify.com/artist/17A1KbxuoeO6Puw00Hjddq) | [THE BATTLE BEGINS](https://open.spotify.com/album/5DPmLKNcIUDQSe1mO1pmp6) | 3:12 |
-| 116 | [Obsession \(Tu Cuerpo\)](https://open.spotify.com/track/7dbwG1A5kgE3J3n87jaSbB) | [Daph Veil](https://open.spotify.com/artist/309PYvFPBmAKwqJ5zFsUUu) | [Obsession \(Tu Cuerpo\)](https://open.spotify.com/album/0qKaUe66CNtPY4sJ2VqRKQ) | 3:20 |
-| 117 | [Клетка](https://open.spotify.com/track/4nvsRb9ypaqqDXcZxjn6ba) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 4:43 |
-| 118 | [DANGEL](https://open.spotify.com/track/06iHOxpiYLuTs12SwCtjs4) | [Leo Tea](https://open.spotify.com/artist/1oyzU7YP2sdBuWcIcW02WJ) | [DANGEL](https://open.spotify.com/album/6l51eKrRiufyPHgzhwLJaF) | 2:24 |
-| 119 | [The Original Treason \- Instrumental](https://open.spotify.com/track/5sdXt9F3Gu39pXp0uAaxYD) | [Divine Seven Official](https://open.spotify.com/artist/5qoLt9S0DtVZ4qBm5mzH3R) | [The Original Treason \(Instrumental\)](https://open.spotify.com/album/6Dz1Lh3MUncKC4hTx2bHhn) | 4:20 |
-| 120 | [Past Lives](https://open.spotify.com/track/4cJZlGkUhcZGkZzFGLGLbb) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui), [Sapientdreams](https://open.spotify.com/artist/1aOj46eemMayh3HW5ufnw7) | [Past Lives](https://open.spotify.com/album/49HXOmg1ruQpC4zhCJ1fZV) | 2:33 |
-| 121 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 |
+| 114 | [So Bored](https://open.spotify.com/track/1J8Ofo3J2TKVxRincygKbW) | [ALLERGi](https://open.spotify.com/artist/7HTPju4hkpRIxnUY1dZglR) | [So Bored](https://open.spotify.com/album/7Hqh61uSXJZKs82AuHxJo2) | 2:08 |
+| 115 | [ENGULFED](https://open.spotify.com/track/0HJ9alp6CCs8Sjw1v0ghur) | [URAI](https://open.spotify.com/artist/1Aj3e5gRhbxeonF384jZeu), [Daunter](https://open.spotify.com/artist/36Bfcbr8mLMRPteWtBIm6Y) | [ENGULFED](https://open.spotify.com/album/267gE0laAHprmprrRiQVQV) | 2:30 |
+| 116 | [THE BATTLE BEGINS](https://open.spotify.com/track/3QbTL4HD6u4c7EyJ7oxg0w) | [4D4M](https://open.spotify.com/artist/17A1KbxuoeO6Puw00Hjddq) | [THE BATTLE BEGINS](https://open.spotify.com/album/5DPmLKNcIUDQSe1mO1pmp6) | 3:12 |
+| 117 | [Obsession \(Tu Cuerpo\)](https://open.spotify.com/track/7dbwG1A5kgE3J3n87jaSbB) | [Daph Veil](https://open.spotify.com/artist/309PYvFPBmAKwqJ5zFsUUu) | [Obsession \(Tu Cuerpo\)](https://open.spotify.com/album/0qKaUe66CNtPY4sJ2VqRKQ) | 3:20 |
+| 118 | [Клетка](https://open.spotify.com/track/4nvsRb9ypaqqDXcZxjn6ba) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 4:43 |
+| 119 | [DANGEL](https://open.spotify.com/track/06iHOxpiYLuTs12SwCtjs4) | [Leo Tea](https://open.spotify.com/artist/1oyzU7YP2sdBuWcIcW02WJ) | [DANGEL](https://open.spotify.com/album/6l51eKrRiufyPHgzhwLJaF) | 2:24 |
+| 120 | [The Original Treason \- Instrumental](https://open.spotify.com/track/5sdXt9F3Gu39pXp0uAaxYD) | [Divine Seven Official](https://open.spotify.com/artist/5qoLt9S0DtVZ4qBm5mzH3R) | [The Original Treason \(Instrumental\)](https://open.spotify.com/album/6Dz1Lh3MUncKC4hTx2bHhn) | 4:20 |
+| 121 | [Past Lives](https://open.spotify.com/track/4cJZlGkUhcZGkZzFGLGLbb) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui), [Sapientdreams](https://open.spotify.com/artist/1aOj46eemMayh3HW5ufnw7) | [Past Lives](https://open.spotify.com/album/49HXOmg1ruQpC4zhCJ1fZV) | 2:33 |
+| 122 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 |
 
-Snapshot ID: `AAAOGVke4697zA3sjJrrH9MkrfOXHfnm`
+Snapshot ID: `AAAOGgKQWep/rs+/Hn3lWkjNzgUZ+XRU`

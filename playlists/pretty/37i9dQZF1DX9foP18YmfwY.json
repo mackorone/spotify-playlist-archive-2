@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 379524,
+  "num_followers": 379577,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-05-22 03:01:38",
       "album": {
+        "name": "Eu Descansarei",
+        "url": "https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ"
+      },
+      "artists": [
+        {
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        }
+      ],
+      "duration_ms": 378461,
+      "name": "Eu Descansarei",
+      "url": "https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0"
+    },
+    {
+      "added_at": "2026-05-22 03:01:38",
+      "album": {
         "name": "Todos os Minutos (Ao Vivo)",
         "url": "https://open.spotify.com/album/5QYwx3MBDKFPponl7UKH21"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 371242,
       "name": "Todos os Minutos - Ao Vivo",
       "url": "https://open.spotify.com/track/6bxLtwqewzPeONN9tsaOae"
-    },
-    {
-      "added_at": "2026-05-22 03:01:38",
-      "album": {
-        "name": "Eu Descansarei",
-        "url": "https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        }
-      ],
-      "duration_ms": 378461,
-      "name": "Eu Descansarei",
-      "url": "https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0"
     },
     {
       "added_at": "2026-05-22 03:01:38",
@@ -883,8 +883,8 @@
     {
       "added_at": "2026-05-22 03:01:38",
       "album": {
-        "name": "Quero Nascer de Novo",
-        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
+        "name": "M\u00e3e, Me Defende do Mal",
+        "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
       },
       "artists": [
         {
@@ -892,13 +892,13 @@
           "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
         },
         {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+          "name": "Irm\u00e3 Kelly Patr\u00edcia",
+          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
         }
       ],
-      "duration_ms": 370000,
-      "name": "Quero Nascer de Novo",
-      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
+      "duration_ms": 300184,
+      "name": "M\u00e3e, Me Defende do Mal",
+      "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
     },
     {
       "added_at": "2026-05-22 03:01:38",
@@ -955,6 +955,42 @@
     {
       "added_at": "2026-05-22 03:01:38",
       "album": {
+        "name": "Acalma Minha Tempestade",
+        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
+      },
+      "artists": [
+        {
+          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
+          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
+        }
+      ],
+      "duration_ms": 322512,
+      "name": "Acalma Minha Tempestade",
+      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
+    },
+    {
+      "added_at": "2026-05-22 03:01:38",
+      "album": {
+        "name": "Quero Nascer de Novo",
+        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Quero Nascer de Novo",
+      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
+    },
+    {
+      "added_at": "2026-05-22 03:01:38",
+      "album": {
         "name": "Romanos 12",
         "url": "https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh"
       },
@@ -971,42 +1007,6 @@
       "duration_ms": 288402,
       "name": "Romanos 12",
       "url": "https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x"
-    },
-    {
-      "added_at": "2026-05-22 03:01:38",
-      "album": {
-        "name": "M\u00e3e, Me Defende do Mal",
-        "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Irm\u00e3 Kelly Patr\u00edcia",
-          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
-        }
-      ],
-      "duration_ms": 300184,
-      "name": "M\u00e3e, Me Defende do Mal",
-      "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
-    },
-    {
-      "added_at": "2026-05-22 03:01:38",
-      "album": {
-        "name": "Acalma Minha Tempestade",
-        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
-      },
-      "artists": [
-        {
-          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
-          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
-        }
-      ],
-      "duration_ms": 322512,
-      "name": "Acalma Minha Tempestade",
-      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
     },
     {
       "added_at": "2026-05-22 03:01:38",
