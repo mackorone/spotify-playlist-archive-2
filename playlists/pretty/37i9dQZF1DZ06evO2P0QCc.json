@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 124975,
+  "num_followers": 124981,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAASSxVNuKeG/sw1km37fAMo",
+  "snapshot_id": "aidXgAAAAAC2PUVGKrxMw4ZX9tV5BP57",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unidad, Cerveza y Ska",
         "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 249906,
       "name": "No Piensa En Ti",
       "url": "https://open.spotify.com/track/6zc3skkzxwCJXVywiv7JvM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ska a La Carta, Vol.1",
+        "url": "https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 245253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/7lS44rzg5XlcoPegXl1OtU"
     },
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+        "name": "Ska a La Carta, Vol.1",
+        "url": "https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E"
       },
       "artists": [
         {
@@ -204,13 +204,13 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         },
         {
-          "name": "Tony Hern\u00e1ndez El Gran Silencio",
-          "url": "https://open.spotify.com/artist/2xyRb0bM3w9pGtRVYFjiS6"
+          "name": "Tony Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6fRERRLf0Zobo3uczaVanX"
         }
       ],
-      "duration_ms": 246100,
-      "name": "Osito Dormil\u00f3n (feat. Tony Hernandez El Gran Silencio)",
-      "url": "https://open.spotify.com/track/0AisSsUIcNNDPBFUuShQxr"
+      "duration_ms": 248106,
+      "name": "Osito Dormil\u00f3n",
+      "url": "https://open.spotify.com/track/6viyvPzQ2vMDWgVjrHoaXg"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+        "name": "P\u00e1ginas en Blanco",
+        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 270860,
-      "name": "Yo No Naci Para Amar",
-      "url": "https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm"
+      "duration_ms": 240189,
+      "name": "P\u00e1nico",
+      "url": "https://open.spotify.com/track/3dgYZb17HvfXHL3pmdF4v8"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1ginas en Blanco",
-        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 240189,
-      "name": "P\u00e1nico",
-      "url": "https://open.spotify.com/track/3dgYZb17HvfXHL3pmdF4v8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eden Vol. II",
         "url": "https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 217318,
       "name": "Amargo Adi\u00f3s",
       "url": "https://open.spotify.com/track/61gYpH7WnkEc4lDVxjc4fm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aunque No Sea Conmigo",
+        "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 251680,
+      "name": "Aunque No Sea Conmigo",
+      "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aunque No Sea Conmigo",
-        "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 251680,
-      "name": "Aunque No Sea Conmigo",
-      "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
+      "duration_ms": 270860,
+      "name": "Yo No Naci Para Amar",
+      "url": "https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 220080,
-      "name": "El Dejado",
-      "url": "https://open.spotify.com/track/2CImSOkWBJb7aX15imss53"
+      "duration_ms": 209793,
+      "name": "Volvamos a Ser Novios",
+      "url": "https://open.spotify.com/track/1TaxeNJAmzQ91dh9zF5701"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 209793,
-      "name": "Volvamos a Ser Novios",
-      "url": "https://open.spotify.com/track/1TaxeNJAmzQ91dh9zF5701"
+      "duration_ms": 220080,
+      "name": "El Dejado",
+      "url": "https://open.spotify.com/track/2CImSOkWBJb7aX15imss53"
     },
     {
       "added_at": null,

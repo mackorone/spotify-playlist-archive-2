@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2161,
+  "num_followers": 2160,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAABW6c1FxlVINMSLkSq6AqD3",
+  "snapshot_id": "aidXgAAAAAB0gzb7ndjcqaOxT6IQ8nJd",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "TFS",
+        "url": "https://open.spotify.com/album/3pormZJDUwmFPua4p2Fxqx"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 187297,
+      "name": "Tirando Flow Sesh #9",
+      "url": "https://open.spotify.com/track/3XOfnUKBNSB01mQRiTVspm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobra y Falta",
         "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
       },
@@ -743,30 +767,6 @@
       "duration_ms": 190161,
       "name": "Sobra y Falta",
       "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TFS",
-        "url": "https://open.spotify.com/album/3pormZJDUwmFPua4p2Fxqx"
-      },
-      "artists": [
-        {
-          "name": "Dan Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 187297,
-      "name": "Tirando Flow Sesh #9",
-      "url": "https://open.spotify.com/track/3XOfnUKBNSB01mQRiTVspm"
     },
     {
       "added_at": null,

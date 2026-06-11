@@ -1,12 +1,12 @@
 {
   "description": "Descubr\u00ed nuevos artistas, nueva m\u00fasica todas las semanas \ud83d\udcf8 Little Boggie",
-  "num_followers": 56883,
+  "num_followers": 56885,
   "original_name": "RADAR Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB8Q4RqzlkFipXvW+IKr7vnzAqys",
+  "snapshot_id": "AAAAANKpCa03qxGG2tBOVa9MFkcD0kxJ",
   "tracks": [
     {
       "added_at": "2026-05-29 20:57:21",
@@ -51,6 +51,38 @@
     {
       "added_at": "2026-05-29 20:57:21",
       "album": {
+        "name": "Lo mejor",
+        "url": "https://open.spotify.com/album/60OPdho3AHL5dXBMLlsTzr"
+      },
+      "artists": [
+        {
+          "name": "Catalina Bay\u00e1",
+          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
+        }
+      ],
+      "duration_ms": 205819,
+      "name": "Lo mejor",
+      "url": "https://open.spotify.com/track/7FcL1jwNdxTTqpGOzfxYGC"
+    },
+    {
+      "added_at": "2026-05-29 20:57:21",
+      "album": {
+        "name": "Dejame de Joder",
+        "url": "https://open.spotify.com/album/0tw7URjGOJqmjdH55c1zu6"
+      },
+      "artists": [
+        {
+          "name": "SOFA",
+          "url": "https://open.spotify.com/artist/1qq6GushnQDP09yNO9VcEX"
+        }
+      ],
+      "duration_ms": 146747,
+      "name": "Dejame de Joder",
+      "url": "https://open.spotify.com/track/7edfsFmsbjrcKKsCxxQzBE"
+    },
+    {
+      "added_at": "2026-05-29 20:57:21",
+      "album": {
         "name": "Desde Lo Profundo",
         "url": "https://open.spotify.com/album/50mpx6WAcMgGAmjPt169pJ"
       },
@@ -63,6 +95,26 @@
       "duration_ms": 264768,
       "name": "Brill\u00e1",
       "url": "https://open.spotify.com/track/0NzZwVdVE5nS4JG3O4JO6H"
+    },
+    {
+      "added_at": "2026-05-29 20:57:21",
+      "album": {
+        "name": "UTV",
+        "url": "https://open.spotify.com/album/5Pcy9twleitUle6rMdBFWq"
+      },
+      "artists": [
+        {
+          "name": "Piku",
+          "url": "https://open.spotify.com/artist/1f8zx2kFDxy1K8yr0aLKQz"
+        },
+        {
+          "name": "Koro Beats",
+          "url": "https://open.spotify.com/artist/76m7RJJu4NnBjvHHBjCc3X"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "UTV",
+      "url": "https://open.spotify.com/track/6xQpCxVaYwV6HWoeBGPuNi"
     },
     {
       "added_at": "2026-05-29 20:57:21",
@@ -143,26 +195,6 @@
     {
       "added_at": "2026-05-29 20:57:21",
       "album": {
-        "name": "UTV",
-        "url": "https://open.spotify.com/album/5Pcy9twleitUle6rMdBFWq"
-      },
-      "artists": [
-        {
-          "name": "Piku",
-          "url": "https://open.spotify.com/artist/1f8zx2kFDxy1K8yr0aLKQz"
-        },
-        {
-          "name": "Koro Beats",
-          "url": "https://open.spotify.com/artist/76m7RJJu4NnBjvHHBjCc3X"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "UTV",
-      "url": "https://open.spotify.com/track/6xQpCxVaYwV6HWoeBGPuNi"
-    },
-    {
-      "added_at": "2026-05-29 20:57:21",
-      "album": {
         "name": "Hor\u00f3scopo - 21:00",
         "url": "https://open.spotify.com/album/7zidZokFG6W5qS15J3VlfT"
       },
@@ -195,22 +227,6 @@
       "duration_ms": 304210,
       "name": "Poder",
       "url": "https://open.spotify.com/track/43Qf6HSkCuXBQeOjjzacoT"
-    },
-    {
-      "added_at": "2026-05-29 20:57:21",
-      "album": {
-        "name": "Lo mejor",
-        "url": "https://open.spotify.com/album/60OPdho3AHL5dXBMLlsTzr"
-      },
-      "artists": [
-        {
-          "name": "Catalina Bay\u00e1",
-          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
-        }
-      ],
-      "duration_ms": 205819,
-      "name": "Lo mejor",
-      "url": "https://open.spotify.com/track/7FcL1jwNdxTTqpGOzfxYGC"
     },
     {
       "added_at": "2026-05-29 20:57:21",
@@ -415,22 +431,6 @@
       "duration_ms": 163000,
       "name": "Dossier",
       "url": "https://open.spotify.com/track/04hBXrNXKdlYGmPZ2orD7o"
-    },
-    {
-      "added_at": "2026-05-29 20:57:21",
-      "album": {
-        "name": "Dejame de Joder",
-        "url": "https://open.spotify.com/album/0tw7URjGOJqmjdH55c1zu6"
-      },
-      "artists": [
-        {
-          "name": "SOFA",
-          "url": "https://open.spotify.com/artist/1qq6GushnQDP09yNO9VcEX"
-        }
-      ],
-      "duration_ms": 146747,
-      "name": "Dejame de Joder",
-      "url": "https://open.spotify.com/track/7edfsFmsbjrcKKsCxxQzBE"
     },
     {
       "added_at": "2026-05-29 20:57:21",

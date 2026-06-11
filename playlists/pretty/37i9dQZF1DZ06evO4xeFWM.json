@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 220850,
+  "num_followers": 220852,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAACnnZyoCtel9rjhYtMxSJHm",
+  "snapshot_id": "aidXgAAAAADPG5HGnawRWV1mpEZlKQnB",
   "tracks": [
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 175880,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH"
+      "duration_ms": 281866,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/5WpNa4vUaruzh0KISY4NkN"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 281866,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/5WpNa4vUaruzh0KISY4NkN"
+      "duration_ms": 175880,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH"
     },
     {
       "added_at": null,

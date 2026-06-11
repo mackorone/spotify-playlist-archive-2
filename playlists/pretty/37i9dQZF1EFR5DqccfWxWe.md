@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/01WM8T4nZ8V34x6bled3la">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 145 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 145 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 27 | [Besos en la Frente](https://open.spotify.com/track/6vZUBvdWC0o9t21mt0q5vZ) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [VIAJANTE](https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h) | 3:52 |
 | 28 | [You](https://open.spotify.com/track/5443CD5KwXDM5zAiiAnc1r) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 3:38 |
 | 29 | [Ahora Soy Libre](https://open.spotify.com/track/39ppaMCMss31RuUV02IzZJ) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/7gPKRle8uAPmhdKAcwlj60) | 3:45 |
-| 30 | [Lo Que No Di](https://open.spotify.com/track/2uIuSumfgTKeRXiGw30LRT) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:32 |
-| 31 | [Eclipse](https://open.spotify.com/track/0cP7k8dNs4SY313Rdbu0XO) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:03 |
+| 30 | [Eclipse](https://open.spotify.com/track/0cP7k8dNs4SY313Rdbu0XO) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:03 |
+| 31 | [Lo Que No Di](https://open.spotify.com/track/2uIuSumfgTKeRXiGw30LRT) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:32 |
 | 32 | [Adiós](https://open.spotify.com/track/14yDEDFChnnZlxTqNumQim) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Kany García](https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO) | 3:29 |
 | 33 | [Dime Si Hay Algo](https://open.spotify.com/track/01Pj5LzkZ3BFA3JilDeG5I) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Dime Si Hay Algo](https://open.spotify.com/album/7IckMsQqMkoc70tL61rIMb) | 2:40 |
 | 34 | [Beautiful That Way \- La vita è bella](https://open.spotify.com/track/6pld6uZGfUFBvCRZnAZRJl) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Grande amore \(Japan Version\)](https://open.spotify.com/album/3hvvfvxZwOT7zyAjz0dn3P) | 3:43 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 50 | [Mucho Más Allá](https://open.spotify.com/track/3SRQ22azUM4vox3Japg2DZ) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:15 |
 | 51 | [La Marea](https://open.spotify.com/track/2PMwP9MtTyXw0WobD3u7UK) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [La Marea](https://open.spotify.com/album/0uwTdcCs9g0VUWo4ttuk4U) | 3:21 |
 | 52 | [Silencio](https://open.spotify.com/track/3UKaVPFrRiebiMaFj657eG) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Mi Plan](https://open.spotify.com/album/0Z9unTBF7JAlURJAMtrqyV) | 3:34 |
-| 53 | [Cantaré](https://open.spotify.com/track/5DGWUY2D6VQ8aeQpp1VYMP) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 3:22 |
-| 54 | [Salto de Fe](https://open.spotify.com/track/1mWsgje4DnmpN1iEjqghvm) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Salto de Fe](https://open.spotify.com/album/6MYnESA0cMy4iPtpzIEPAg) | 3:43 |
+| 53 | [Salto de Fe](https://open.spotify.com/track/1mWsgje4DnmpN1iEjqghvm) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Salto de Fe](https://open.spotify.com/album/6MYnESA0cMy4iPtpzIEPAg) | 3:43 |
+| 54 | [Cantaré](https://open.spotify.com/track/5DGWUY2D6VQ8aeQpp1VYMP) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 3:22 |
 | 55 | [Irreparable](https://open.spotify.com/track/3RlB1qa1FXbRSw0etTVqoS) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Jen](https://open.spotify.com/album/5MFFnpG6N8RIIdC5GSQ5w4) | 4:03 |
 | 56 | [Calma](https://open.spotify.com/track/4CTG0vsIPBrk9wHuKLCBgA) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Calma](https://open.spotify.com/album/5XVhK0ZONaLhTZCrJhZY9y) | 2:55 |
 | 57 | [Overtime](https://open.spotify.com/track/4qWXlgz0yFd1cOYphUN7Qx) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:54 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 144 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 | 145 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 
-Snapshot ID: `AcTynAAAAABNZ495XZHRhWJKRunz+UkC`
+Snapshot ID: `AcT4bwAAAABkE6vmFGPv5p9M29Xe7UiZ`

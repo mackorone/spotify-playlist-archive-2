@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,366 likes - 69 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,253 likes - 69 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

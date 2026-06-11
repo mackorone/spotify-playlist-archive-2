@@ -1795,6 +1795,28 @@
     },
     {
       "album": {
+        "name": "AYAYAY",
+        "url": "https://open.spotify.com/album/3TV20ouePm2YUPAMSj4C0n"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "AYAYAY",
+      "url": "https://open.spotify.com/track/3xPMN6Ojy4uV0jicQf5dYZ"
+    },
+    {
+      "album": {
         "name": "Curtis",
         "url": "https://open.spotify.com/album/6aAGx3HGsNoWvn6rMRHXBm"
       },
@@ -10232,6 +10254,28 @@
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
+    },
+    {
+      "album": {
+        "name": "Kalashnikov",
+        "url": "https://open.spotify.com/album/0yY1DJ1LaPPX9eA9ZuklZZ"
+      },
+      "artists": [
+        {
+          "name": "DDM 80146",
+          "url": "https://open.spotify.com/artist/0G8zq8IrKIR5at4Lsq2XmV"
+        },
+        {
+          "name": "Whizy",
+          "url": "https://open.spotify.com/artist/5Cb508kGFzNJvPDsu9KgP2"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148245,
+      "name": "Kalashnikov",
+      "url": "https://open.spotify.com/track/5tGZsRaBr98La6avokHGb3"
     },
     {
       "album": {

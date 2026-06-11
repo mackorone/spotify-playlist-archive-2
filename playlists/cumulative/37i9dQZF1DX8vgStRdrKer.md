@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-800 songs - 2 day 20 hr 51 min
+801 songs - 2 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Ikenga](https://open.spotify.com/track/5ViVHmE5JQUyPFob6YQaz8) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [Ikenga](https://open.spotify.com/album/3MDKcQW0afcWdDScjm3R4P) | 4:45 | 2023-11-10 | 2023-11-17 |
 | [Ikhandlela](https://open.spotify.com/track/6K6nUh69oUPiyQar1Vkdya) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Ikhandlela](https://open.spotify.com/album/0cGh4bbnCT1yoVDwsdUVSp) | 5:22 | 2025-08-15 | 2025-11-17 |
 | [Imela](https://open.spotify.com/track/3WSjY8Z9vCKX8X3sc1pQwb) | [TFC Gold](https://open.spotify.com/artist/0tUXkhXZq28ovlMTUHTyg1), [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Imela](https://open.spotify.com/album/5O5ASDteTamA9ceHyDExRY) | 3:22 | 2025-05-30 | 2025-06-20 |
-| [Imole](https://open.spotify.com/track/6HsbS2KoENKjS5NatyXldL) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Speed Dial](https://open.spotify.com/album/1FJkEcLOuChsThdTRJ0Fo1) | 2:23 | 2025-07-25 |  |
+| [Imole](https://open.spotify.com/track/6HsbS2KoENKjS5NatyXldL) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Speed Dial](https://open.spotify.com/album/1FJkEcLOuChsThdTRJ0Fo1) | 2:23 | 2025-07-25 | 2026-06-11 |
 | [Imole Aye](https://open.spotify.com/track/3UcvlbPqazMNOrLz2PDHMO) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Imole Aye](https://open.spotify.com/album/0Iy4b1NOhRiNWSDCURSQCV) | 8:39 | 2025-09-12 |  |
 | [Impossibility Shatterer](https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [Ada Ehi](https://open.spotify.com/artist/7ywbh2HXZmWVBFdmnNwYHh) | [Yeshua \(The Summary Of My Life\)](https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS) | 3:24 | 2026-03-27 | 2026-05-22 |
 | [IMPRESS](https://open.spotify.com/track/49po3OfHx8xHkUjWw5Bh3B) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [IMPRESS](https://open.spotify.com/album/0O3deyALXkZUf6jt0mkK6x) | 3:21 | 2025-06-20 | 2025-11-21 |
@@ -492,6 +492,7 @@
 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 | 2023-10-20 | 2023-11-27 |
 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 | 2023-09-15 | 2024-03-16 |
 | [My Desire \(Ps\. 42:1\)](https://open.spotify.com/track/4UsGMLq7WoCNY1odQGUFVH) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [My Desire \(Ps\. 42:1\)](https://open.spotify.com/album/5cNYXLKbqvzBfzxyzkHaqn) | 6:28 | 2026-03-13 | 2026-05-22 |
+| [My Everything](https://open.spotify.com/track/4Ozmd5V6F6VGrP6YQHkRtJ) | [Chinma Umeh](https://open.spotify.com/artist/4jQNPCc1U8hzqLT5QJmw6e) | [My Everything](https://open.spotify.com/album/3bjEtHDoI6HvCZHhv9exRL) | 6:41 | 2026-05-22 |  |
 | [My Future and Hope](https://open.spotify.com/track/2yYmdb2fPecJFrS9erTpvb) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 4:41 | 2024-03-01 | 2025-06-20 |
 | [My God Is Good](https://open.spotify.com/track/55dcymYOsRVYL4sQHa8Sb5) | [Halal Afrika](https://open.spotify.com/artist/5gX3emCuEZBBq99uBvA3yh), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [My God Is Good](https://open.spotify.com/album/0osF0CnAck1ZFYh9taWJtW) | 9:58 | 2025-08-08 | 2025-10-31 |
 | [My Helper Lives](https://open.spotify.com/track/4letjvenLtMvXJtm1GlPVp) | [Toprock Gospel](https://open.spotify.com/artist/4nQb0Zq2NyUUgRn93Bh9lp) | [Living Waters](https://open.spotify.com/album/63gbFwamxhdqShYTMZ97KI) | 4:53 | 2025-10-31 | 2025-12-24 |

@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 273149,
+  "num_followers": 273187,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2026-05-29 12:37:13",
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        },
-        {
-          "name": "Nathan Haines",
-          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
-        }
-      ],
-      "duration_ms": 278379,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
-    },
-    {
-      "added_at": "2026-05-29 12:37:13",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/2ALEn1ILPaPj885QMF9C4O"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 222222,
       "name": "With You",
       "url": "https://open.spotify.com/track/1G5APoTLndLof2DsggGPzz"
+    },
+    {
+      "added_at": "2026-05-29 12:37:13",
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "duration_ms": 278379,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
     },
     {
       "added_at": "2026-05-29 12:37:13",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAABzH+3sK4X60LGzLyGsvvgL",
+  "snapshot_id": "aidXgAAAAAAMlriqCHA+OfUBIxL0cg7l",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 198356,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/4DHMDRYAzaFq3k1STg2qSb"
+      "duration_ms": 211010,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/5gFQ0Gt2IO9qsf5z8LClso"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 211010,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/5gFQ0Gt2IO9qsf5z8LClso"
+      "duration_ms": 198356,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/4DHMDRYAzaFq3k1STg2qSb"
     }
   ],
   "unique_name": "This Is Absolutely",

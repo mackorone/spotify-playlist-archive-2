@@ -1,6 +1,6 @@
 {
   "description": "Let's go out out \ud83e\udea9",
-  "num_followers": 84818,
+  "num_followers": 84833,
   "original_name": "Out Out",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-06-29 01:56:48",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "TiK ToK",
-      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
-    },
-    {
-      "added_at": "2024-06-29 01:56:48",
-      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2024-06-29 01:56:48",
+      "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "TiK ToK",
+      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
       "added_at": "2024-06-29 01:56:48",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-06-29 01:56:48",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
       },
       "artists": [
         {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2024-06-29 01:56:48",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-06-29 01:56:48",
       "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
       "added_at": "2024-06-29 01:56:48",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-06-29 01:56:48",
       "album": {
-        "name": "Mis-Teeq",
-        "url": "https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ"
-      },
-      "artists": [
-        {
-          "name": "Mis-Teeq",
-          "url": "https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "Scandalous - U.S. Radio Edit",
-      "url": "https://open.spotify.com/track/3stnrhzN0lzZFskbaZ5sEw"
-    },
-    {
-      "added_at": "2024-06-29 01:56:48",
-      "album": {
         "name": "Mean Girls (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 254640,
       "name": "It's Raining Men",
       "url": "https://open.spotify.com/track/7q3qX7Ees3FZtRFJXWgPZs"
+    },
+    {
+      "added_at": "2024-06-29 01:56:48",
+      "album": {
+        "name": "Mis-Teeq",
+        "url": "https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ"
+      },
+      "artists": [
+        {
+          "name": "Mis-Teeq",
+          "url": "https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn"
+        }
+      ],
+      "duration_ms": 238840,
+      "name": "Scandalous - U.S. Radio Edit",
+      "url": "https://open.spotify.com/track/3stnrhzN0lzZFskbaZ5sEw"
     },
     {
       "added_at": "2024-06-29 01:56:48",

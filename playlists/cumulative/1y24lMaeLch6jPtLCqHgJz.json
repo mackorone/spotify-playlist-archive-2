@@ -8057,6 +8057,28 @@
     },
     {
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/38YSWSX7tIOdFYyrqDA1TY"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/1t0HDXFC1yeCKKxWfbZ5Go"
+    },
+    {
+      "album": {
         "name": "Sitting Down Here",
         "url": "https://open.spotify.com/album/667Bjun11jQGE0PdYbPSDZ"
       },

@@ -4,7 +4,7 @@
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-135 songs - 7 hr 26 min
+136 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Alcatraz](https://open.spotify.com/track/4SvYTCLX6aQWWrK3wTJ2QN) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Alcatraz](https://open.spotify.com/album/2NEQkPwH58q77gdlzODUWD) | 3:39 | 2023-12-30 | 2024-04-19 |
 | [Alcatraz](https://open.spotify.com/track/76XjcqjKTyZcuAeRGP1Svr) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Alcatraz](https://open.spotify.com/album/0mZcpftskXcLvpn1JBhese) | 3:39 | 2024-04-19 | 2024-04-28 |
 | [AMIMA](https://open.spotify.com/track/3QUT04HjzHWo2kWMNuT6EM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [AMIMA](https://open.spotify.com/album/3N1xTZlEDsLJb5egIrOJ6M) | 2:19 | 2025-10-05 |  |
-| [Aprendí](https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Aprendí](https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81) | 3:03 | 2025-07-20 |  |
+| [Aprendí](https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Aprendí](https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81) | 3:03 | 2025-07-20 | 2026-06-11 |
 | [Aprovéchame](https://open.spotify.com/track/0hCDMlpaTpyQQ5Ovgj0cq5) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Obra Negra](https://open.spotify.com/album/6HqIURdhRk251kGeywxhDK) | 3:27 | 2023-12-30 | 2024-10-24 |
 | [Arreglándome y Dañándome](https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Arreglándome y Dañándome](https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF) | 4:04 | 2023-12-30 | 2024-12-18 |
 | [Arreglándome y Dañándome](https://open.spotify.com/track/3WU12COUqfu5nZQNSMwukB) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Arreglándome y Dañándome](https://open.spotify.com/album/1QMgEedfemVeov7BRt0UQ6) | 4:04 | 2024-12-18 | 2026-05-02 |
@@ -66,6 +66,7 @@
 | [La Última](https://open.spotify.com/track/3Zuh5YCdc1DnQz3UeB8VnG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Última](https://open.spotify.com/album/0RJJF71dyzRRzP795uNh0W) | 3:07 | 2024-12-21 |  |
 | [Lejos de Ti](https://open.spotify.com/track/04sXYgNcb48fNO0prhFHpq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:40 | 2024-12-14 |  |
 | [Lejos de Ti](https://open.spotify.com/track/7C9gziHjggJ28pDVYS5LxQ) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:40 | 2023-12-30 | 2024-12-14 |
+| [Librame Señor](https://open.spotify.com/track/5ONARwYStRWlTUj4ivtlFe) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Tu Musica](https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe) | [Librame Señor](https://open.spotify.com/album/2GNQ27qiUc3P8umT1mnpQu) | 2:53 | 2026-06-11 |  |
 | [Los No Tan Tristes](https://open.spotify.com/track/4soIDKXJbxGnSMmADYnANT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 | 2023-12-30 |  |
 | [LQRA Session \#7](https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [LQRA Session \#7](https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW) | 2:49 | 2023-12-30 |  |
 | [Mal Mal Mal](https://open.spotify.com/track/1Yrm0hOIWwZtfMf6xS3D3E) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mal Mal Mal](https://open.spotify.com/album/6iB3O3TKxj76KRjhG71OXf) | 3:48 | 2024-12-20 | 2026-01-15 |

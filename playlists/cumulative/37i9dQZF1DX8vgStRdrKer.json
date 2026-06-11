@@ -7250,7 +7250,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 143651,
       "name": "Imole",
       "url": "https://open.spotify.com/track/6HsbS2KoENKjS5NatyXldL"
@@ -9930,6 +9930,24 @@
       "duration_ms": 388440,
       "name": "My Desire (Ps. 42:1)",
       "url": "https://open.spotify.com/track/4UsGMLq7WoCNY1odQGUFVH"
+    },
+    {
+      "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/3bjEtHDoI6HvCZHhv9exRL"
+      },
+      "artists": [
+        {
+          "name": "Chinma Umeh",
+          "url": "https://open.spotify.com/artist/4jQNPCc1U8hzqLT5QJmw6e"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401649,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/4Ozmd5V6F6VGrP6YQHkRtJ"
     },
     {
       "album": {

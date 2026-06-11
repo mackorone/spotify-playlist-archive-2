@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: GIVĒON
 
-682 songs - 1 day 14 hr 3 min
+683 songs - 1 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [BODY IN MOTION \(feat\. Bryson Tiller, Lil Baby & Roddy Ricch\)](https://open.spotify.com/track/1IZGMPe57hATuLJgmMR4eP) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 5:06 | 2022-03-11 | 2022-07-28 |
 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd) | 2:57 | 2022-04-01 | 2022-04-20 |
 | [Boo'd Up](https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 4:16 | 2022-04-01 | 2022-04-21 |
+| [Bottles & Lights](https://open.spotify.com/track/1it6w7qVrXo10od5OMjn7H) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Bottles & Lights](https://open.spotify.com/album/5Wvm7Co0vhdyPk5Ac0uZk6) | 3:25 | 2026-06-10 |  |
 | [boyfriend \(with Social House\)](https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [boyfriend](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) | 3:06 | 2022-04-01 | 2022-12-30 |
 | [BRB \(feat\. Pink Sweat$\)](https://open.spotify.com/track/3cIYfp1jvO622pUW5zaeEF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [BRB \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6MDVwRIC8PaZFkggzSFBso) | 3:38 | 2022-04-01 | 2022-07-27 |
 | [Break from Toronto](https://open.spotify.com/track/13NpYEWi9EIFDJksYsk1hr) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Sad Rap Vibes](https://open.spotify.com/album/0qluLhlEBcznsuNv7lTd82) | 1:39 | 2022-12-29 | 2023-01-03 |
@@ -376,7 +377,7 @@
 | [Memories](https://open.spotify.com/track/3S4gq91XRuohTTfJZAiGVK) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Memories](https://open.spotify.com/album/1U49zFUoaDyVPjGVeKcmbk) | 2:44 | 2022-05-27 | 2022-07-29 |
 | [MEMORIZE FEELINGS](https://open.spotify.com/track/09SAVx4Rorh7gkNIumRQLk) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [DONE IS DONE](https://open.spotify.com/album/6rNLdu77fzdWmOkVoUM3Pa) | 3:31 | 2022-05-20 | 2022-05-25 |
 | [MERCEDES](https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [MERCEDES](https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT) | 3:53 | 2022-05-13 | 2024-10-25 |
-| [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/1gXHmNzTj1fwxPWMOZ9Frn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/album/0mhTypXZWjlqrSrcRkerLf) | 3:36 | 2025-10-24 |  |
+| [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/1gXHmNzTj1fwxPWMOZ9Frn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/album/0mhTypXZWjlqrSrcRkerLf) | 3:36 | 2025-10-24 | 2026-06-11 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-06-13 | 2024-09-30 |
 | [Mine \(feat\. Kevin Gates\)](https://open.spotify.com/track/6B4jeM3B33v2dE709U4dS2) | [TK Kravitz](https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Mine \(feat\. Kevin Gates\)](https://open.spotify.com/album/4v3hyrtN8eGiDzodw6XcpO) | 3:18 | 2022-04-01 | 2022-04-21 |
 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 | 2025-12-12 | 2026-01-28 |

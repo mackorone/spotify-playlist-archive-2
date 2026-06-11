@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Guitarricadelafuente.",
-  "num_followers": 21901,
+  "num_followers": 21902,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -635,38 +635,6 @@
     {
       "added_at": "2026-06-08 07:44:23",
       "album": {
-        "name": "Bomba de Amor",
-        "url": "https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv"
-      },
-      "artists": [
-        {
-          "name": "Luna Ki",
-          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
-        }
-      ],
-      "duration_ms": 174222,
-      "name": "Bomba de Amor",
-      "url": "https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry"
-    },
-    {
-      "added_at": "2026-06-08 07:44:23",
-      "album": {
-        "name": "Recardelino",
-        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
-      },
-      "artists": [
-        {
-          "name": "Juanjo Bona",
-          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
-        }
-      ],
-      "duration_ms": 151849,
-      "name": "Virgen de Magall\u00f3n",
-      "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
-    },
-    {
-      "added_at": "2026-06-08 07:44:23",
-      "album": {
         "name": "CULPA NUESTRA",
         "url": "https://open.spotify.com/album/6ZaPk664xTwSQL0v70J4Po"
       },
@@ -687,18 +655,34 @@
     {
       "added_at": "2026-06-08 07:44:23",
       "album": {
-        "name": "coraz\u00f3n distante",
-        "url": "https://open.spotify.com/album/0399cbykPgf4TRwqeu3x0J"
+        "name": "Recardelino",
+        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
       },
       "artists": [
         {
-          "name": "Tatiana Delalvz",
-          "url": "https://open.spotify.com/artist/4rFr57FRQgkd7FSwvQxBNP"
+          "name": "Juanjo Bona",
+          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
         }
       ],
-      "duration_ms": 138947,
-      "name": "coraz\u00f3n distante",
-      "url": "https://open.spotify.com/track/1Db7H5M0JHVrSjeA8uufwS"
+      "duration_ms": 151849,
+      "name": "Virgen de Magall\u00f3n",
+      "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
+    },
+    {
+      "added_at": "2026-06-08 07:44:23",
+      "album": {
+        "name": "Bomba de Amor",
+        "url": "https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv"
+      },
+      "artists": [
+        {
+          "name": "Luna Ki",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "duration_ms": 174222,
+      "name": "Bomba de Amor",
+      "url": "https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry"
     },
     {
       "added_at": "2026-06-08 07:44:23",
@@ -719,18 +703,18 @@
     {
       "added_at": "2026-06-08 07:44:23",
       "album": {
-        "name": "Satisfacer Tu Deseo De Hombre",
-        "url": "https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW"
+        "name": "coraz\u00f3n distante",
+        "url": "https://open.spotify.com/album/0399cbykPgf4TRwqeu3x0J"
       },
       "artists": [
         {
-          "name": "BR\u00dcNNE ROMEO",
-          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+          "name": "Tatiana Delalvz",
+          "url": "https://open.spotify.com/artist/4rFr57FRQgkd7FSwvQxBNP"
         }
       ],
-      "duration_ms": 156710,
-      "name": "Satisfacer Tu Deseo De Hombre",
-      "url": "https://open.spotify.com/track/7AHniJFdQFqD7iePGU4B04"
+      "duration_ms": 138947,
+      "name": "coraz\u00f3n distante",
+      "url": "https://open.spotify.com/track/1Db7H5M0JHVrSjeA8uufwS"
     },
     {
       "added_at": "2026-06-08 07:44:23",
@@ -747,6 +731,38 @@
       "duration_ms": 125753,
       "name": "Pantal\u00f3n",
       "url": "https://open.spotify.com/track/0A7IGl98y4xBSZaSV5UVjD"
+    },
+    {
+      "added_at": "2026-06-08 07:44:23",
+      "album": {
+        "name": "Satisfacer Tu Deseo De Hombre",
+        "url": "https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW"
+      },
+      "artists": [
+        {
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+        }
+      ],
+      "duration_ms": 156710,
+      "name": "Satisfacer Tu Deseo De Hombre",
+      "url": "https://open.spotify.com/track/7AHniJFdQFqD7iePGU4B04"
+    },
+    {
+      "added_at": "2026-06-08 07:44:23",
+      "album": {
+        "name": "Pipe dream",
+        "url": "https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 157952,
+      "name": "Pipe dream",
+      "url": "https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ"
     },
     {
       "added_at": "2026-06-08 07:44:23",
@@ -779,22 +795,6 @@
       "duration_ms": 160064,
       "name": "Hoy ya no",
       "url": "https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz"
-    },
-    {
-      "added_at": "2026-06-08 07:44:23",
-      "album": {
-        "name": "Pipe dream",
-        "url": "https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 157952,
-      "name": "Pipe dream",
-      "url": "https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ"
     },
     {
       "added_at": "2026-06-08 07:44:23",

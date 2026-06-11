@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,809 likes - 306 songs - 15 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,808 likes - 306 songs - 15 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,8 +188,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 178 | [Wall To Wall](https://open.spotify.com/track/6IgFFnT7ikUWvFSjzxNf0S) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:42 |
 | 179 | [Bloody Hands \(feat\. Pressa\)](https://open.spotify.com/track/0fibRNI7ojk6j4lIC6a8Di) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Bloody Hands \(feat\. Pressa\)](https://open.spotify.com/album/3VWLlbopoEU6pG4j8V4eZu) | 3:29 |
 | 180 | [Poppin Out \(feat\. BIG30\)](https://open.spotify.com/track/7CI5KZUJwnGjv3cL5uygTr) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:43 |
-| 181 | [Mayo](https://open.spotify.com/track/3WUYer0Wzy9MW33iilLcHb) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:47 |
-| 182 | [Woke Up](https://open.spotify.com/track/61qCOFYVc2N2No5F8EWrOC) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Nobody Safe](https://open.spotify.com/album/1w3bK9CG80xsuDPlrz5EV7) | 2:44 |
+| 181 | [Woke Up](https://open.spotify.com/track/61qCOFYVc2N2No5F8EWrOC) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Nobody Safe](https://open.spotify.com/album/1w3bK9CG80xsuDPlrz5EV7) | 2:44 |
+| 182 | [Mayo](https://open.spotify.com/track/3WUYer0Wzy9MW33iilLcHb) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:47 |
 | 183 | [Rocket Power](https://open.spotify.com/track/4wmanmyr7qybonPp2WT5WW) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:36 |
 | 184 | [Give N Go](https://open.spotify.com/track/5d042XvyliHl5ndka9Tyz9) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 2:54 |
 | 185 | [BIG \(feat\. Rubi Rose\)](https://open.spotify.com/track/2ZSQWhxpNwAbHG3n3V5Ol1) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [BIG \(feat\. Rubi Rose\)](https://open.spotify.com/album/0Vu6i6ro4Gc5KWG93ieeac) | 3:19 |
@@ -253,8 +253,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 243 | [Moral to the Story](https://open.spotify.com/track/6KiU1qkQ2hU2rJzIy33G8Q) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:33 |
 | 244 | [3 Xans \(feat\. Ugly God\)](https://open.spotify.com/track/4qatmhLz28ByJBcgJMUcEt) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV), [Ugly God](https://open.spotify.com/artist/3Fdm9TFJQCLmC3AWMuGExi) | [Boy Who Cried Wolf](https://open.spotify.com/album/6jJ98MlrNGUt0FFkPHS0EA) | 1:54 |
 | 245 | [Hunnits, Fifties \(feat\. Yung Bans\)](https://open.spotify.com/track/62lna76KojT8A7bw7xZunH) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV), [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [When Hell Falls](https://open.spotify.com/album/7uDSR0METuToVB9tfVhReX) | 2:58 |
-| 246 | [Valet](https://open.spotify.com/track/1ZFrJJeOHNhnPZb1UxRhdE) | [Jay Whiss](https://open.spotify.com/artist/6VjhXIUhvRNYB3Oplrv03R), [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy) | [Peace Of Mind](https://open.spotify.com/album/6flW5TSFgPg4ffDtzf2SxR) | 2:58 |
-| 247 | [Wake Em Up](https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Wake Em Up](https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK) | 2:09 |
+| 246 | [Wake Em Up](https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Wake Em Up](https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK) | 2:09 |
+| 247 | [Valet](https://open.spotify.com/track/1ZFrJJeOHNhnPZb1UxRhdE) | [Jay Whiss](https://open.spotify.com/artist/6VjhXIUhvRNYB3Oplrv03R), [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy) | [Peace Of Mind](https://open.spotify.com/album/6flW5TSFgPg4ffDtzf2SxR) | 2:58 |
 | 248 | [Gimme That Work](https://open.spotify.com/track/0j6Zd4442OGpZHsjQDH1rA) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:39 |
 | 249 | [Me Too](https://open.spotify.com/track/7sqrit5R5kBEQ7yZENxvZB) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:28 |
 | 250 | [Sin City](https://open.spotify.com/track/1NU1Ee13eBlicWPRgLNWOc) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:03 |
@@ -315,4 +315,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 305 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 306 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `AcTynAAAAADhNpZpcSTm0y8YmbOBLWzl`
+Snapshot ID: `AcT4bgAAAACIu/FWrT2TqVCP315E/HhM`

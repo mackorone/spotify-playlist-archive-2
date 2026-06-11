@@ -124,7 +124,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 398000,
       "name": "calm",
       "url": "https://open.spotify.com/track/2ZuGJTPuvGNUwOvo7aOdxi"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 398000,
       "name": "calm",
       "url": "https://open.spotify.com/track/7yT4fFCdS0VVdRBL0FJyCW"
@@ -348,6 +348,24 @@
     {
       "album": {
         "name": "halfway",
+        "url": "https://open.spotify.com/album/5uL4z2w5vlSzN07eIfexwU"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424000,
+      "name": "halfway",
+      "url": "https://open.spotify.com/track/3VfQLPkItSWRhuJFXmvY7U"
+    },
+    {
+      "album": {
+        "name": "halfway",
         "url": "https://open.spotify.com/album/7x0VzfFtiO6bL1NgXF6gjW"
       },
       "artists": [
@@ -412,7 +430,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 360000,
       "name": "IDFA",
       "url": "https://open.spotify.com/track/3K7lh0YTE7WJCOoxoMF6xA"

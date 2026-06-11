@@ -1,6 +1,6 @@
 {
   "description": "A lazy Sunday vibe, whatever day of the week it is.",
-  "num_followers": 123711,
+  "num_followers": 123731,
   "original_name": "Sunday Mood",
   "owner": {
     "name": "Spotify",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-12-05 15:36:35",
       "album": {
-        "name": "Coming Around Again",
-        "url": "https://open.spotify.com/album/53533bK65tCzXnCdM5itUX"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Coming Around Again",
-      "url": "https://open.spotify.com/track/58Ga5VQlZMnCUV6ZRqf76k"
-    },
-    {
-      "added_at": "2025-12-05 15:36:35",
-      "album": {
         "name": "Be More",
         "url": "https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF"
       },
@@ -1271,18 +1255,34 @@
     {
       "added_at": "2025-12-05 15:36:35",
       "album": {
-        "name": "Send It Back",
-        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
+        "name": "Coming Around Again",
+        "url": "https://open.spotify.com/album/53533bK65tCzXnCdM5itUX"
       },
       "artists": [
         {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
         }
       ],
-      "duration_ms": 173112,
-      "name": "Send It Back",
-      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
+      "duration_ms": 219160,
+      "name": "Coming Around Again",
+      "url": "https://open.spotify.com/track/58Ga5VQlZMnCUV6ZRqf76k"
+    },
+    {
+      "added_at": "2025-12-05 15:36:35",
+      "album": {
+        "name": "Folklore",
+        "url": "https://open.spotify.com/album/0n5YYYnL8cjKL2E7fmu1lu"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 278386,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/1kS9d4x0ftbfq65eaBGSCT"
     },
     {
       "added_at": "2025-12-05 15:36:35",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2025-12-05 15:36:35",
       "album": {
-        "name": "Folklore",
-        "url": "https://open.spotify.com/album/0n5YYYnL8cjKL2E7fmu1lu"
+        "name": "Send It Back",
+        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
       },
       "artists": [
         {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
         }
       ],
-      "duration_ms": 278386,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/1kS9d4x0ftbfq65eaBGSCT"
+      "duration_ms": 173112,
+      "name": "Send It Back",
+      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
     },
     {
       "added_at": "2025-12-05 15:36:35",

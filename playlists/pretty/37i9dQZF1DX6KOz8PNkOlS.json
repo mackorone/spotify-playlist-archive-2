@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 590577,
+  "num_followers": 590616,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,26 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
+        "name": "In The Half Light",
+        "url": "https://open.spotify.com/album/7sV0NIlkRFHNBhbr3wD2AL"
+      },
+      "artists": [
+        {
+          "name": "Swim Surreal",
+          "url": "https://open.spotify.com/artist/7t2rIgCnHoQ836kFShZd6B"
+        },
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/4KWMFTpxFkwV5avb7Za0Sy"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
         "name": "Playing Robots Into Heaven",
         "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 232053,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
-        "name": "In The Half Light",
-        "url": "https://open.spotify.com/album/7sV0NIlkRFHNBhbr3wD2AL"
-      },
-      "artists": [
-        {
-          "name": "Swim Surreal",
-          "url": "https://open.spotify.com/artist/7t2rIgCnHoQ836kFShZd6B"
-        },
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Masquerade",
-      "url": "https://open.spotify.com/track/4KWMFTpxFkwV5avb7Za0Sy"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
         "name": "anaiis & Grupo Cosmo",
         "url": "https://open.spotify.com/album/3cGl99a7vbyNmsgGIoJtKi"
       },
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "SMT",
-        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+        "name": "State of Mine",
+        "url": "https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD"
       },
       "artists": [
         {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+          "name": "Kara Marni",
+          "url": "https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv"
         }
       ],
-      "duration_ms": 197600,
-      "name": "SMT",
-      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
+      "duration_ms": 172436,
+      "name": "Trippin",
+      "url": "https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1311,22 +1327,6 @@
       "duration_ms": 140898,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
-        "name": "State of Mine",
-        "url": "https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD"
-      },
-      "artists": [
-        {
-          "name": "Kara Marni",
-          "url": "https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv"
-        }
-      ],
-      "duration_ms": 172436,
-      "name": "Trippin",
-      "url": "https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "Phosphorescent",
-        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 240449,
-      "name": "Skylight",
-      "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
         "name": "Sounds Of Blue",
         "url": "https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 214897,
       "name": "Sounds Of Blue",
       "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
+        "name": "Phosphorescent",
+        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 240449,
+      "name": "Skylight",
+      "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
+        "name": "To Unknownia",
+        "url": "https://open.spotify.com/album/55ScptS5oIVplKya1URUXP"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 243872,
+      "name": "To Unknownia",
+      "url": "https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
         "name": "Camas Separadas (ft. Disco Bah\u00eda)",
         "url": "https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 235136,
       "name": "Camas Separadas - ft. Disco Bah\u00eda",
       "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
-        "name": "To Unknownia",
-        "url": "https://open.spotify.com/album/55ScptS5oIVplKya1URUXP"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 243872,
-      "name": "To Unknownia",
-      "url": "https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9"
     },
     {
       "added_at": "2026-02-20 16:14:28",

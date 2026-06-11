@@ -37721,6 +37721,24 @@
     },
     {
       "album": {
+        "name": "Symphony of Machine Learning",
+        "url": "https://open.spotify.com/album/1Q8swnhp6sB7GR5MVlmyo5"
+      },
+      "artists": [
+        {
+          "name": "m78 Studio",
+          "url": "https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248121,
+      "name": "The Overfitting Ex",
+      "url": "https://open.spotify.com/track/3HyDtedJpJuCqzWuadPI2U"
+    },
+    {
+      "album": {
         "name": "The Great Void's Echo",
         "url": "https://open.spotify.com/album/4iBlc0gBxnwL8xNHNTZXf5"
       },
@@ -40894,6 +40912,24 @@
       "duration_ms": 140350,
       "name": "Vuelve a Ser Inevitable",
       "url": "https://open.spotify.com/track/1TPj2DlZJW30bIjJ9Iw8yu"
+    },
+    {
+      "album": {
+        "name": "Canta El Reggaeton",
+        "url": "https://open.spotify.com/album/0fPpvRnqa8ZebfbwUXT1Zx"
+      },
+      "artists": [
+        {
+          "name": "CER",
+          "url": "https://open.spotify.com/artist/2lhN3pky6pkIZeXroIWnRg"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253120,
+      "name": "Vuelve, Vuelve",
+      "url": "https://open.spotify.com/track/1C5alUEKjaeYJNoK7c5WGr"
     },
     {
       "album": {

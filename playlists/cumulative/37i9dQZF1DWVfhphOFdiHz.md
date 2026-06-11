@@ -2,9 +2,9 @@
 
 ### [GLOW US & Canada](https://open.spotify.com/playlist/37i9dQZF1DWVfhphOFdiHz)
 
-> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Deb Never
+> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Ralph
 
-570 songs - 1 day 6 hr 31 min
+571 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Loud Bark](https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:03 | 2024-03-08 | 2025-05-31 |
 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 | 2023-12-15 | 2024-07-13 |
 | [Love Is A Place](https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:05 | 2024-04-05 | 2024-04-19 |
+| [Love Nouveau](https://open.spotify.com/track/067wtLWixKlUPS1N2zTEje) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Physical Fanpage / Love Nouveau](https://open.spotify.com/album/0otUVXyCjh1uOVVrbmwhlo) | 3:17 | 2026-06-10 |  |
 | [LTTL](https://open.spotify.com/track/5szPgG09PGd1aHZMMeLKQJ) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Erotica Veronica \(Deluxe\)](https://open.spotify.com/album/22vvTNxoWbuyDAXb0hMgFf) | 3:16 | 2026-01-13 | 2026-04-18 |
 | [Lua](https://open.spotify.com/track/3yMRB1octy4P6EoLzI9hu6) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Lua](https://open.spotify.com/album/4EnGYFpca9dwR5hxej1hjB) | 4:25 | 2024-05-13 | 2025-06-28 |
 | [LUBE](https://open.spotify.com/track/63Bw40ft3CFElVuZqiVBfH) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [LUBE // WET DREAM](https://open.spotify.com/album/3393nwx0uNyCzPEgvSBXJy) | 2:46 | 2024-05-31 | 2025-08-02 |

@@ -1167,6 +1167,60 @@
     },
     {
       "album": {
+        "name": "I'll Lift Up My Eyes (English version)",
+        "url": "https://open.spotify.com/album/5ZzXvWBVuZZ0T61hvkzKmo"
+      },
+      "artists": [
+        {
+          "name": "VIVAFE",
+          "url": "https://open.spotify.com/artist/0CsdWJuo52qt8ZTGcKY2Cz"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        },
+        {
+          "name": "Lala Maher",
+          "url": "https://open.spotify.com/artist/5NVzOIT4zKYSkWqAixtmgF"
+        },
+        {
+          "name": "John Finch",
+          "url": "https://open.spotify.com/artist/1mImDYSR7mM7wvH3dewoG3"
+        },
+        {
+          "name": "Simon Dumas",
+          "url": "https://open.spotify.com/artist/217ig6NvB8SVOuz4eXAChJ"
+        },
+        {
+          "name": "Katia del Cid",
+          "url": "https://open.spotify.com/artist/5ML7735ozpAWSOqaEA35NB"
+        },
+        {
+          "name": "Vale Montes",
+          "url": "https://open.spotify.com/artist/260NzhUBhOUDlt99vUhJYK"
+        },
+        {
+          "name": "Kairy Marquez",
+          "url": "https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8"
+        },
+        {
+          "name": "Dana Catherine",
+          "url": "https://open.spotify.com/artist/7KyHfhz6Z3MYJYiMpHYkfS"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293834,
+      "name": "I'll Lift Up My Eyes - English version",
+      "url": "https://open.spotify.com/track/2RbcK8JM7fMxWz7P9egqSu"
+    },
+    {
+      "album": {
         "name": "The Stories I Tell Myself",
         "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
@@ -1292,7 +1346,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 251680,
       "name": "Just as I Am",
       "url": "https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET"

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123828,
+  "num_followers": 123817,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVdSdVk+JgTrlXpHiq2RBLzEFFxjy9",
+  "snapshot_id": "AAAVdjwaOyRyjsFSvQux+wojIYUMy5Zh",
   "tracks": [
+    {
+      "added_at": "2026-06-10 14:19:27",
+      "album": {
+        "name": "wear my flag",
+        "url": "https://open.spotify.com/album/4gzSFJMjhZLFrHdBtQqXoi"
+      },
+      "artists": [
+        {
+          "name": "eh ok!",
+          "url": "https://open.spotify.com/artist/7MLMfTl0MHZrqeZtmPevl5"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "wear my flag",
+      "url": "https://open.spotify.com/track/5I0H39YAcrVuNAj9B3dgkQ"
+    },
     {
       "added_at": "2026-06-08 14:11:44",
       "album": {

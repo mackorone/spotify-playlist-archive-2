@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-886 songs - 1 day 17 hr 50 min
+887 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -776,6 +776,7 @@
 | [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 | 2022-07-13 | 2022-12-18 |
 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 | 2023-03-24 | 2023-09-28 |
 | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X) | 3:02 | 2023-04-28 | 2024-06-28 |
+| [SpaceFuji](https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Terry apala](https://open.spotify.com/artist/1Ct52UFTjvAZu1pOuMWXY1), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SpaceFuji](https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP) | 3:19 | 2026-06-08 |  |
 | [Speed](https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo) | 2:54 | 2025-11-14 | 2026-01-23 |
 | [Spray Am](https://open.spotify.com/track/3B3jlsEUnfh5sSQ80YK46c) | [Blaq Pages](https://open.spotify.com/artist/0TvqXK5QXVEf8d2jjrYrCo), [Soko7](https://open.spotify.com/artist/0e1BsiL7aSsI4ZYVPfOuLd), [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [Spray Am](https://open.spotify.com/album/0KmJCG3GnC5LUWV7mCg9Sf) | 3:13 | 2022-09-30 | 2022-10-31 |
 | [STAMINA](https://open.spotify.com/track/6I7hrUazMFnJgMRFGlf2gZ) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B) | [STAMINA](https://open.spotify.com/album/0IVPvx3l7SAbf0XmcGkgPw) | 2:32 | 2023-06-23 | 2023-07-21 |

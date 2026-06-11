@@ -1,6 +1,6 @@
 {
   "description": "Nuovi brani di Tony Boy, Bresh, Taylor Swift, Geolier, Merk & Kremont, Ditonellapiaga e tanti altri.",
-  "num_followers": 364377,
+  "num_followers": 364368,
   "original_name": "New Music Friday Italia",
   "owner": {
     "name": "Spotify",
@@ -11,17 +11,21 @@
     {
       "added_at": "2026-06-05 04:02:53",
       "album": {
-        "name": "Cuore rotto",
+        "name": "Cuore rotto (feat. Finesse)",
         "url": "https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9"
       },
       "artists": [
         {
           "name": "Tony Boy",
           "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
         }
       ],
       "duration_ms": 140000,
-      "name": "Cuore rotto",
+      "name": "Cuore rotto (feat. Finesse)",
       "url": "https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN"
     },
     {

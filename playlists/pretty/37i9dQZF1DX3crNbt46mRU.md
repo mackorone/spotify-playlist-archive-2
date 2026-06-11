@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Alex Warren, badmómzjay, Taylor Swift, Ozuna,  & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,750 likes - 101 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,746 likes - 101 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 66 | [247](https://open.spotify.com/track/1P0ONyqsjx73pdKCofd5Uc) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [247](https://open.spotify.com/album/0dazWwLiVe5RfcZiUn96g3) | 2:53 |
 | 67 | [Happy sein](https://open.spotify.com/track/7vJjeC2DyFrLqkaagsVcfC) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Happy sein](https://open.spotify.com/album/1gTBc47T96r7buwX2WIhxP) | 2:18 |
 | 68 | [MARIA](https://open.spotify.com/track/4kasb5PYtJ4qTe8f4JxXnm) | [Cave](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9) | [MARIA](https://open.spotify.com/album/3kmJhrjqaY1oLLxwfz4rtK) | 2:31 |
-| 69 | [Into You](https://open.spotify.com/track/5NrMSFRVMWykeZJpFGwc1O) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [Into You](https://open.spotify.com/album/4qCpj7C3VXs0cTMHM56CAc) | 2:19 |
+| 69 | [Into You](https://open.spotify.com/track/5NrMSFRVMWykeZJpFGwc1O) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Into You](https://open.spotify.com/album/4qCpj7C3VXs0cTMHM56CAc) | 2:19 |
 | 70 | [Gecko](https://open.spotify.com/track/1pykMNRzTpl2C7vxfmR1Pc) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [How dare you tryna love me?](https://open.spotify.com/album/6XDkigtRmlZV90EjNAq9TW) | 2:46 |
 | 71 | [Perfect 10](https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings \(Deluxe\)](https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc) | 2:51 |
 | 72 | [You'll Find Me There](https://open.spotify.com/track/0L87XLB19pHzjbqVRVkW1R) | [Noemi Beza](https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD) | [You'll Find Me There](https://open.spotify.com/album/6VR8S1WUWtjBgOCN9rLB2F) | 3:03 |

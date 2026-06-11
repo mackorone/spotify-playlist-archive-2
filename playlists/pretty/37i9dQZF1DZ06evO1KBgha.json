@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 381625,
+  "num_followers": 381760,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAABisE2BbO/7sIAg21GZD4S3",
+  "snapshot_id": "aidXgAAAAABEQH/lcEtwhv9crg3tMtID",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/6qKPrh8dQ6jVqR3TiyMM8J"
       },
       "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 193360,
-      "name": "JACKPOT",
-      "url": "https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK"
+      "duration_ms": 166418,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/1jBxLoNgHtZnY3ykT9MDyl"
     },
     {
       "added_at": null,
@@ -383,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/6qKPrh8dQ6jVqR3TiyMM8J"
+        "name": "Cambios de Luna",
+        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
       },
       "artists": [
         {
@@ -392,9 +388,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 166418,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/1jBxLoNgHtZnY3ykT9MDyl"
+      "duration_ms": 165090,
+      "name": "Morir de Amor",
+      "url": "https://open.spotify.com/track/1xeHt0Vm6pGSrFAO9bB6hs"
     },
     {
       "added_at": null,
@@ -431,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cambios de Luna",
-        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
       },
       "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 165090,
-      "name": "Morir de Amor",
-      "url": "https://open.spotify.com/track/1xeHt0Vm6pGSrFAO9bB6hs"
+      "duration_ms": 193360,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cambios de Luna",
+        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 163403,
+      "name": "Cambios",
+      "url": "https://open.spotify.com/track/6kiYwJne7PkW12I53Ey6qN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En 4",
         "url": "https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 186382,
       "name": "En 4",
       "url": "https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cambios de Luna",
-        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 163403,
-      "name": "Cambios",
-      "url": "https://open.spotify.com/track/6kiYwJne7PkW12I53Ey6qN"
     },
     {
       "added_at": null,

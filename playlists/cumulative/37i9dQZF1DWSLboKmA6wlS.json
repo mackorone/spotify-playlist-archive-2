@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: FahProud. Artwork: Isu Kim",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e2d\u0e39\u0e42\u0e19\u0e48 \u0e2b\u0e25\u0e32\u0e27\u0e17\u0e2d\u0e07. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -2504,6 +2504,24 @@
       "duration_ms": 227826,
       "name": "dying inside",
       "url": "https://open.spotify.com/track/5ex64O3v1jcnI502wxkzuH"
+    },
+    {
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1Q5Wrhoj78cVupaz4oJSlN"
+      },
+      "artists": [
+        {
+          "name": "U27",
+          "url": "https://open.spotify.com/artist/1ThyKNhowpF5dSknQPaorV"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235800,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/1ZrbXLa0Dzm6ODYEsH2Wc0"
     },
     {
       "album": {
@@ -22015,6 +22033,24 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/4DCO0rRtO3HAhGknLZiSnn"
+      },
+      "artists": [
+        {
+          "name": "SmerbSri",
+          "url": "https://open.spotify.com/artist/41EMTpcOnk19nGBUmfDUL6"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199691,
+      "name": "\u0e17\u0e33\u0e44\u0e21\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e43\u0e08\u0e09\u0e31\u0e19\u0e40\u0e25\u0e22 (Mistrust)",
+      "url": "https://open.spotify.com/track/3qKH7Pd4r1U0TFGRPZ3uLV"
+    },
+    {
+      "album": {
         "name": "\u0e17\u0e34\u0e49\u0e07\u0e01\u0e31\u0e19\u0e44\u0e27\u0e49\u0e17\u0e35\u0e48\u0e17\u0e32\u0e07\u0e15\u0e31\u0e19 (Dream End)",
         "url": "https://open.spotify.com/album/6pmGrIro8rfDeTm5GlkMkp"
       },
@@ -34136,6 +34172,24 @@
       "duration_ms": 283764,
       "name": "\u0e2b\u0e27\u0e31\u0e07",
       "url": "https://open.spotify.com/track/31DIIi5OeD9IjAqnBUD8Q8"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e27\u0e31\u0e07\u0e27\u0e48\u0e32\u0e08\u0e30\u0e1f\u0e31\u0e07 (Regret)",
+        "url": "https://open.spotify.com/album/4dN5t0vuSJhUEAhLOR1xkt"
+      },
+      "artists": [
+        {
+          "name": "CHIPNCK",
+          "url": "https://open.spotify.com/artist/6ku0QF2NCHau1mVlVbr0Hd"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255148,
+      "name": "\u0e2b\u0e27\u0e31\u0e07\u0e27\u0e48\u0e32\u0e08\u0e30\u0e1f\u0e31\u0e07 (Regret)",
+      "url": "https://open.spotify.com/track/0R9SVqQPKEz0jET8FjZYup"
     },
     {
       "album": {

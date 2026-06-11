@@ -5894,6 +5894,28 @@
     {
       "album": {
         "name": "No Hay Loco Que No Corone",
+        "url": "https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211084,
+      "name": "Cuando No Era Cantante",
+      "url": "https://open.spotify.com/track/1WkYhJMWhofw1XgVWfdMWE"
+    },
+    {
+      "album": {
+        "name": "No Hay Loco Que No Corone",
         "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
       },
       "artists": [
@@ -5934,28 +5956,6 @@
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/6N2iccqxRInhTLHc2Fu3W0"
-    },
-    {
-      "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        }
-      ],
-      "date_added": "2026-05-07",
-      "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
-      "duration_ms": 212592,
-      "name": "Cuando No Era Cantante",
-      "url": "https://open.spotify.com/track/1WkYhJMWhofw1XgVWfdMWE"
     },
     {
       "album": {
@@ -8260,7 +8260,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 292360,
       "name": "El Infierno Est\u00e1 Encantador Esta Noche",
       "url": "https://open.spotify.com/track/5DAsRO47jqxE8O0yNN1pOV"
@@ -15914,7 +15914,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 215360,
       "name": "Me Matan Lim\u00f3n!",
       "url": "https://open.spotify.com/track/1NnQQjskODEdYgb1aSFsne"
@@ -18700,7 +18700,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 260371,
       "name": "Nunca quise",
       "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"

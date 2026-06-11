@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 164586,
       "name": "Te Vas ALV",
       "url": "https://open.spotify.com/track/1HuYWMlXbQfS7aMLzKUi8m"
@@ -2836,6 +2836,32 @@
       "duration_ms": 179905,
       "name": "The King of Ice",
       "url": "https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE"
+    },
+    {
+      "album": {
+        "name": "Titular",
+        "url": "https://open.spotify.com/album/25FBGuSUJGy0HBKQrGUmvC"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Titular",
+      "url": "https://open.spotify.com/track/6coDVmtstHCQJLknlcCuUF"
     },
     {
       "album": {

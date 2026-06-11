@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,686 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,735 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 40 | [The Sinner](https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Raakmo](https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG) | [The Sinner](https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH) | 3:29 |
 | 41 | [Say My Name](https://open.spotify.com/track/0eJcHvpws3PMadlPdvdWMN) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Say My Name](https://open.spotify.com/album/4dqHl8fKO6P425shFTdXQP) | 2:00 |
 | 42 | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Charla K](https://open.spotify.com/artist/1nKYzgyVrpiCrKdlUiNR8E) | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/album/2L5EXh101zt0yB67o2SYWy) | 2:56 |
-| 43 | [Wake Me Up \- Hardstyle Mix](https://open.spotify.com/track/1H0GKvORF2YiLS6O2pr433) | [LORD HADES](https://open.spotify.com/artist/6uZI9bgqhHMDX1p4JPjQIo), [Hardstyle Covers](https://open.spotify.com/artist/5gAL0J3DdeKhYaN1jjGxRb) | [Wake Me Up](https://open.spotify.com/album/5uz4VdtMGQ93JoMkc8Ezij) | 2:59 |
-| 44 | [Locked Out Of Heaven \(Hardstyle\) \- Sped Up](https://open.spotify.com/track/0ExPOKGYA2HAykGEsCxJS6) | [BAKI](https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW), [ZYZZ](https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM), [GYM HARDSTYLE](https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH) | [Locked Out Of Heaven \(Hardstyle\) \- Sped Up](https://open.spotify.com/album/2y2hH2PKakxRmxmIW4xPcn) | 3:14 |
+| 43 | [Locked Out Of Heaven \(Hardstyle\) \- Sped Up](https://open.spotify.com/track/0ExPOKGYA2HAykGEsCxJS6) | [BAKI](https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW), [ZYZZ](https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM), [GYM HARDSTYLE](https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH) | [Locked Out Of Heaven \(Hardstyle\) \- Sped Up](https://open.spotify.com/album/2y2hH2PKakxRmxmIW4xPcn) | 3:14 |
+| 44 | [Wake Me Up \- Hardstyle Mix](https://open.spotify.com/track/1H0GKvORF2YiLS6O2pr433) | [LORD HADES](https://open.spotify.com/artist/6uZI9bgqhHMDX1p4JPjQIo), [Hardstyle Covers](https://open.spotify.com/artist/5gAL0J3DdeKhYaN1jjGxRb) | [Wake Me Up](https://open.spotify.com/album/5uz4VdtMGQ93JoMkc8Ezij) | 2:59 |
 | 45 | [The Reason \(ft\. Hoobastank\)](https://open.spotify.com/track/2yI1CeXZIykYPrFLsUj4p8) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(ft\. Hoobastank\)](https://open.spotify.com/album/2WiogSZ691TUvGzvdA4HIh) | 3:32 |
 | 46 | [Daddy DJ](https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Karlie Chui](https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA) | [Daddy DJ](https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ) | 3:42 |
 | 47 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 |

@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407337,
+  "num_followers": 407336,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2026-03-06 13:38:21",
       "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "duration_ms": 329228,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0"
+    },
+    {
+      "added_at": "2026-03-06 13:38:21",
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
-    },
-    {
-      "added_at": "2026-03-06 13:38:21",
-      "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9e Elise Goldsberry",
-          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
-        },
-        {
-          "name": "Original Broadway Cast of Hamilton",
-          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
-        }
-      ],
-      "duration_ms": 329228,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0"
     },
     {
       "added_at": "2026-03-06 13:38:21",
@@ -655,18 +655,22 @@
     {
       "added_at": "2026-03-06 13:38:21",
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+        "name": "Dear Evan Hansen (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi"
       },
       "artists": [
         {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
+        {
+          "name": "Original Broadway Cast of Dear Evan Hansen",
+          "url": "https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij"
         }
       ],
-      "duration_ms": 223840,
-      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/600HVBpzF1WfBdaRwbEvLz"
+      "duration_ms": 236360,
+      "name": "Waving Through A Window",
+      "url": "https://open.spotify.com/track/0gMW8XpPFPjoApDii5Tj1u"
     },
     {
       "added_at": "2026-03-06 13:38:21",
@@ -691,22 +695,18 @@
     {
       "added_at": "2026-03-06 13:38:21",
       "album": {
-        "name": "Dear Evan Hansen (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi"
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
       },
       "artists": [
         {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        },
-        {
-          "name": "Original Broadway Cast of Dear Evan Hansen",
-          "url": "https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij"
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
         }
       ],
-      "duration_ms": 236360,
-      "name": "Waving Through A Window",
-      "url": "https://open.spotify.com/track/0gMW8XpPFPjoApDii5Tj1u"
+      "duration_ms": 223840,
+      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/600HVBpzF1WfBdaRwbEvLz"
     },
     {
       "added_at": "2026-03-06 13:38:21",

@@ -6,7 +6,7 @@
     "name": "Biggie Cheese",
     "url": "https://open.spotify.com/user/tch._.worthless._.brat"
   },
-  "snapshot_id": "AAAAOnp8ofluGNmaDSYIoAcOgF1TamG6",
+  "snapshot_id": "AAAAO5bm/L718hjsKr71c1JcTBgC4l/p",
   "tracks": [
     {
       "added_at": "2025-03-13 01:03:03",
@@ -1267,6 +1267,22 @@
       "duration_ms": 148920,
       "name": "He Mele No Lilo - From \"Lilo & Stitch\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/43CPZZnuEm6huXdm1PCa5w"
+    },
+    {
+      "added_at": "2026-06-10 17:50:14",
+      "album": {
+        "name": "Pokedance",
+        "url": "https://open.spotify.com/album/6juwrPAxZ0xFi1qVoueJBd"
+      },
+      "artists": [
+        {
+          "name": "Anya Forger",
+          "url": "https://open.spotify.com/artist/5FYzLgVpScfNAOgOcmRWL2"
+        }
+      ],
+      "duration_ms": 75483,
+      "name": "Pokedance",
+      "url": "https://open.spotify.com/track/4OCrTRAYKTOUIeuCy4fuXJ"
     }
   ],
   "unique_name": "85cl",

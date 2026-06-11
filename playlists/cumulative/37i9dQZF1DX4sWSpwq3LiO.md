@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,850 songs - 3 day 9 hr 59 min
+1,852 songs - 3 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1074,6 +1074,7 @@
 | [Nordic Dream](https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Nordic Dream](https://open.spotify.com/album/78BOpLaVvh5eA8jjH5dzQJ) | 2:22 | 2021-08-05 | 2022-05-13 |
 | [Norrsken](https://open.spotify.com/track/3toYHht60pj16nNK0e2HZy) | [Karin Borg](https://open.spotify.com/artist/0mWi0Jr9Ir8GPGVBpQqI1W) | [Norrsken](https://open.spotify.com/album/3Dv4436qmaydbGnRQmuPFA) | 1:35 | 2019-05-26\* | 2021-03-06 |
 | [Northern Ontario](https://open.spotify.com/track/5Ze2cIMQcXqJQ0QdhX5ZQ1) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Northern Ontario](https://open.spotify.com/album/65MEIufRns3o75svf6bkOu) | 2:41 | 2022-07-15 | 2023-09-23 |
+| [Norvind](https://open.spotify.com/track/4oKCvwy2l6AscLtYB4BHlE) | [Waylen Orson](https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw) | [Norvind](https://open.spotify.com/album/37CoYcioNl1f7xqO1ouUK4) | 2:25 | 2026-06-10 |  |
 | [Nostalgia](https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Nostalgia](https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK) | 2:52 | 2023-11-20 |  |
 | [Nostalgia](https://open.spotify.com/track/7y8A9ulqWYBIdEmCUKcRXd) | [Todd Oderetjo](https://open.spotify.com/artist/4UUhQeFre0u6BahOcJg37d) | [East Of Donau](https://open.spotify.com/album/6QbpEo0ONVwonP3YkxnygP) | 2:14 | 2020-09-28 | 2020-10-13 |
 | [Nostos](https://open.spotify.com/track/0W7B9MsXAJQerT6jE414cF) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr), [BUFFLO](https://open.spotify.com/artist/53f0gOO8G7iK7hWJNFaLs2) | [Nostos](https://open.spotify.com/album/4OCe90oleqO7rXKkuRMqOs) | 4:31 | 2019-05-26\* | 2019-06-27 |
@@ -1422,6 +1423,7 @@
 | [Snowfall in a Forest](https://open.spotify.com/track/0DoZ4rU4WmaHcySIJHQY5A) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Snowfall in a Forest](https://open.spotify.com/album/2uL4hLPlY2MyJgKMtUKacZ) | 2:28 | 2021-11-17 | 2023-04-04 |
 | [soft life](https://open.spotify.com/track/6QzVjefxboaYR4SAsdwliL) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [soft life](https://open.spotify.com/album/46s6Cpy5NhMbRFuhOrx0B8) | 2:15 | 2024-09-02 | 2025-05-15 |
 | [Soft Rain](https://open.spotify.com/track/3C1YOgC9O7ecXCnlkkQAVR) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Soft Rain](https://open.spotify.com/album/0hvw1dqFx2BgQ8GGtTbH5y) | 2:16 | 2025-07-18 |  |
+| [Soft Wildflower](https://open.spotify.com/track/0o2RSeLiMx8m7jrFtm03k4) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Soft Wildflower](https://open.spotify.com/album/02bS64ltf5RpLcK7r00iCM) | 2:20 | 2026-06-10 |  |
 | [Softly](https://open.spotify.com/track/1PW5iY60ZqzBqU5OXpiX4N) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Softly](https://open.spotify.com/album/7ojzrIb4RuVzcUJilEbKgr) | 2:24 | 2020-10-06 | 2021-12-08 |
 | [Softly](https://open.spotify.com/track/6plAuHENSbslv0tAe8verB) | [Kendra Logozar](https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd) | [Softly](https://open.spotify.com/album/07ymnuv7uKDcQckEtOstPv) | 2:26 | 2020-05-12 | 2022-04-29 |
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2020-09-01 | 2022-07-16 |

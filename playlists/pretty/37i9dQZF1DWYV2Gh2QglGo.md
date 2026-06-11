@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Brittany Kennell
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,077 likes - 172 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,078 likes - 172 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

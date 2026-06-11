@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-97 songs - 6 hr 22 min
+98 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Ja Tujhko](https://open.spotify.com/track/4oZyNzIZYJ6EpKDqfXdIL9) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Ja Tujhko](https://open.spotify.com/album/7x7egjskigZhb8AkhxB3t0) | 6:05 | 2024-03-28 |  |
 | [Ja Tujhko](https://open.spotify.com/track/15F47A5MFuevUXeK2OHnZj) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Ja Tujhko](https://open.spotify.com/album/1syrIfLmqF3UdYoD4cR7Mc) | 6:05 | 2023-12-18 | 2024-04-19 |
 | [Ja Tujhko](https://open.spotify.com/track/2XLjGMZHV31QJGwbALFj95) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Ja Tujhko](https://open.spotify.com/album/0ua1PXspnCoxFYjdpgxjJy) | 6:05 | 2023-05-09 | 2023-12-31 |
+| [Kaahe Mose](https://open.spotify.com/track/2kdLpMajZ2VoKEAv9nGsUz) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Kaahe Mose](https://open.spotify.com/album/5A8RUsECb6rmFAFeMwZXVT) | 3:39 | 2026-06-10 |  |
 | [Kaari](https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kaari](https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j) | 2:37 | 2023-05-09 |  |
 | [Kahan Woh Din Gaye](https://open.spotify.com/track/5E4psGMoiLKgzpVey1ImCM) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Girgit Damroo and the Good Trip](https://open.spotify.com/album/0RERx51vrkv7qLomGMm1Jt) | 4:00 | 2024-03-28 |  |
 | [Kahan Woh Din Gaye](https://open.spotify.com/track/5udGjYNG57hYIUD61rfcGL) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Girgit Damroo And The Good Trip](https://open.spotify.com/album/3fFaEakmRC9kp7UxSz7VMQ) | 4:00 | 2023-05-09 | 2024-04-19 |

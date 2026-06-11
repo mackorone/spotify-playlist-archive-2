@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 213645,
+  "num_followers": 213665,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAADjDWwxPo6xJoKRT8xBb++r",
+  "snapshot_id": "aidXgAAAAABEck+ZixZ/wamJB5kPeR6H",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 198986,
-      "name": "Tu Bandera",
-      "url": "https://open.spotify.com/track/2cpTtthg2R3PMRjkxOJJyK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Aire De Tu Casa",
         "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 202480,
       "name": "Es Por Tu Gracia",
       "url": "https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 198986,
+      "name": "Tu Bandera",
+      "url": "https://open.spotify.com/track/2cpTtthg2R3PMRjkxOJJyK"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origen Y Esencia",
-        "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 248386,
-      "name": "Se Qued\u00f3 Conmigo",
-      "url": "https://open.spotify.com/track/54WhzdsNihZ1k0EPTgXrIj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Aire De Tu Casa",
         "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 299200,
       "name": "No Es Como Yo",
       "url": "https://open.spotify.com/track/6C7MQrVotSOLaEmWlFJ5Xh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origen Y Esencia",
+        "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 248386,
+      "name": "Se Qued\u00f3 Conmigo",
+      "url": "https://open.spotify.com/track/54WhzdsNihZ1k0EPTgXrIj"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origen Y Esencia",
-        "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 227426,
-      "name": "Olvid\u00e9 Cuidar Mi Huerto",
-      "url": "https://open.spotify.com/track/6gtlcSHmAiNl53YS1Nqa4L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Aire De Tu Casa",
         "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 196946,
       "name": "Aqui Estoy",
       "url": "https://open.spotify.com/track/0IEPPVl1khipGmiTDJmwLb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origen Y Esencia",
+        "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 227426,
+      "name": "Olvid\u00e9 Cuidar Mi Huerto",
+      "url": "https://open.spotify.com/track/6gtlcSHmAiNl53YS1Nqa4L"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Ha Sido En Vano",
-        "url": "https://open.spotify.com/album/0ZykuWZYgNMqbvkECpIeom"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 211534,
-      "name": "No Ha Sido En Vano",
-      "url": "https://open.spotify.com/track/35CpjCNSI3vLdgaSwfHlNq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Aire De Tu Casa",
         "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 310613,
       "name": "Esp\u00e9rame",
       "url": "https://open.spotify.com/track/0nVAXr2tTHrFzx7ORvR6e1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Ha Sido En Vano",
+        "url": "https://open.spotify.com/album/0ZykuWZYgNMqbvkECpIeom"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 211534,
+      "name": "No Ha Sido En Vano",
+      "url": "https://open.spotify.com/track/35CpjCNSI3vLdgaSwfHlNq"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
       "duration_ms": 211053,
       "name": "El Brillo De Mis Ojos",
       "url": "https://open.spotify.com/track/2vBLWOaYsg9lclJYBGiL6O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ayer Te Vi...Fue M\u00e1s Claro Que La Luna",
-        "url": "https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Mi Entorno",
-      "url": "https://open.spotify.com/track/5CUuYGpyh3o9CR8izoLofQ"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ayer Te Vi...Fue M\u00e1s Claro Que La Luna",
+        "url": "https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 244440,
+      "name": "Mi Entorno",
+      "url": "https://open.spotify.com/track/5CUuYGpyh3o9CR8izoLofQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cerca De Ti",
         "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
       },
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colecci\u00f3n Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR"
+        "name": "Ayer Te Vi...Fue M\u00e1s Claro Que La Luna",
+        "url": "https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 342613,
-      "name": "Sentado En Su Trono",
-      "url": "https://open.spotify.com/track/2pr8QSYZjjDvwRMA8qJaVg"
+      "duration_ms": 257613,
+      "name": "Razones Pa' vivir",
+      "url": "https://open.spotify.com/track/2bSiqgJdac8Jysx7AoXguQ"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Colecci\u00f3n Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 342613,
+      "name": "Sentado En Su Trono",
+      "url": "https://open.spotify.com/track/2pr8QSYZjjDvwRMA8qJaVg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Brote De Adoraci\u00f3n 2",
         "url": "https://open.spotify.com/album/1nWtxLTRWll8sj2QPF6QQU"
       },
@@ -651,38 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer Te Vi...Fue M\u00e1s Claro Que La Luna",
-        "url": "https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 257613,
-      "name": "Razones Pa' vivir",
-      "url": "https://open.spotify.com/track/2bSiqgJdac8Jysx7AoXguQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colecci\u00f3n Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 459720,
-      "name": "Tal Como Soy",
-      "url": "https://open.spotify.com/track/6pkcy9PJt40IsyNpd7NV0s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
       },
@@ -695,22 +679,6 @@
       "duration_ms": 202973,
       "name": "Eras T\u00fa",
       "url": "https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Manos Vac\u00edas",
-        "url": "https://open.spotify.com/album/30QghMKwlQCC7t1rqpMJWO"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 426506,
-      "name": "Con Manos Vac\u00edas - En Vivo",
-      "url": "https://open.spotify.com/track/0nccFtjnIIL9biS2EpUoFr"
     },
     {
       "added_at": null,
@@ -740,9 +708,25 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 443973,
-      "name": "Mi Jes\u00fas, Mi Amado",
-      "url": "https://open.spotify.com/track/6Th6d1tXLrROECGQHDaL5x"
+      "duration_ms": 459720,
+      "name": "Tal Como Soy",
+      "url": "https://open.spotify.com/track/6pkcy9PJt40IsyNpd7NV0s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Manos Vac\u00edas",
+        "url": "https://open.spotify.com/album/30QghMKwlQCC7t1rqpMJWO"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 426506,
+      "name": "Con Manos Vac\u00edas - En Vivo",
+      "url": "https://open.spotify.com/track/0nccFtjnIIL9biS2EpUoFr"
     },
     {
       "added_at": null,
@@ -763,26 +747,6 @@
       "duration_ms": 360666,
       "name": "Al Estar Ante Ti - En Vivo",
       "url": "https://open.spotify.com/track/6VME9YhmZh1lnqliUGnx5y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colecci\u00f3n Duetos",
-        "url": "https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        },
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 369000,
-      "name": "Ven, Te Necesito - En Vivo",
-      "url": "https://open.spotify.com/track/3osNQddwrMYWQ1bCvsew62"
     },
     {
       "added_at": null,
@@ -816,9 +780,29 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 423906,
-      "name": "Enviame a Mi",
-      "url": "https://open.spotify.com/track/2FF17M1eTlWMEWD7odigXh"
+      "duration_ms": 443973,
+      "name": "Mi Jes\u00fas, Mi Amado",
+      "url": "https://open.spotify.com/track/6Th6d1tXLrROECGQHDaL5x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colecci\u00f3n Duetos",
+        "url": "https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 369000,
+      "name": "Ven, Te Necesito - En Vivo",
+      "url": "https://open.spotify.com/track/3osNQddwrMYWQ1bCvsew62"
     },
     {
       "added_at": null,
@@ -855,6 +839,22 @@
       "duration_ms": 199546,
       "name": "Brilla",
       "url": "https://open.spotify.com/track/1gMtFGkuJzV7T92tI5wE86"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colecci\u00f3n Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 423906,
+      "name": "Enviame a Mi",
+      "url": "https://open.spotify.com/track/2FF17M1eTlWMEWD7odigXh"
     },
     {
       "added_at": null,

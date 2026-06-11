@@ -7579,6 +7579,24 @@
     },
     {
       "album": {
+        "name": "House of Love (New Wave)",
+        "url": "https://open.spotify.com/album/75tS39CPVd8tUeuGvRkHIB"
+      },
+      "artists": [
+        {
+          "name": "House of Light",
+          "url": "https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299533,
+      "name": "House of Love - New Wave",
+      "url": "https://open.spotify.com/track/7lSsw6wirwlKWSdsYhQOva"
+    },
+    {
+      "album": {
         "name": "How It Ends",
         "url": "https://open.spotify.com/album/1Jh9zDw8HvJINyIFQgh4w1"
       },
@@ -8704,6 +8722,24 @@
       "duration_ms": 152669,
       "name": "Integrity",
       "url": "https://open.spotify.com/track/6HcCERnjCZyZaFF4Evhwe6"
+    },
+    {
+      "album": {
+        "name": "Little Prancer Album (Original)",
+        "url": "https://open.spotify.com/album/7jKlfljcyErn60wEuVdUj7"
+      },
+      "artists": [
+        {
+          "name": "Bruce Derby",
+          "url": "https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77709,
+      "name": "Intermission - Original",
+      "url": "https://open.spotify.com/track/14skYqogUOAkmOTCxpVobr"
     },
     {
       "album": {

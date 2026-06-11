@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Shaboozey
 
-234 songs - 12 hr 7 min
+235 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Country Club](https://open.spotify.com/track/7AEw4J42zlyufYBfi64YgP) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Country Club](https://open.spotify.com/album/1SPUlFiGVdkObmhRJ8sjkS) | 2:20 | 2023-06-23 |  |
 | [Country Girl Commandments](https://open.spotify.com/track/0wqjEtWb4TBwsJQnnUu7GM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Country Girl Commandments](https://open.spotify.com/album/3CcY5dnfmGY8m1g8SIIR4G) | 2:59 | 2021-12-03 | 2024-04-23 |
 | [Country Music Kinda Night](https://open.spotify.com/track/4Wf8kPwQBV8cHnsqL5pv6S) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Country Music Kinda Night](https://open.spotify.com/album/2pe1UpOt2v11m1ZhsDH47S) | 2:51 | 2023-02-17 | 2024-04-23 |
+| [Cowgirl](https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowgirl](https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR) | 2:56 | 2026-06-10 |  |
 | [Damn Good Life](https://open.spotify.com/track/1lZHKcrQdO1pOxe5zlzIzI) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Damn Good Life](https://open.spotify.com/album/4xeFuswf5BhaHo8P0WcR8N) | 2:37 | 2022-09-23 |  |
 | [Don't Sit Right](https://open.spotify.com/track/1QfmAWoMdCxEKDINcoo39m) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Don't Sit Right](https://open.spotify.com/album/3jc2NUdhVwDlMIb8kfiTlG) | 3:21 | 2023-09-01 |  |
 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 | 2021-12-03 | 2024-04-23 |
@@ -213,7 +214,7 @@
 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 | 2022-04-01 | 2024-04-27 |
 | [Unspoken](https://open.spotify.com/track/5m3lptQnLIvBiw4188J1Tu) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Unspoken](https://open.spotify.com/album/44BqM9BOuRg6RHjZAfpYxB) | 2:39 | 2026-02-18 |  |
 | [Used to Love That Song](https://open.spotify.com/track/6uSKxEhO9JKYkrPUhPBSa9) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Sink with the Sun](https://open.spotify.com/album/1CI87J6036yNvbzyksedMH) | 2:59 | 2022-08-12 | 2023-02-18 |
-| [Vegas](https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Vegas](https://open.spotify.com/album/2RUdZVnTQeSGB0QVffPJ7m) | 3:01 | 2024-04-04 |  |
+| [Vegas](https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Vegas](https://open.spotify.com/album/2RUdZVnTQeSGB0QVffPJ7m) | 3:01 | 2024-04-04 | 2026-06-11 |
 | [We Did](https://open.spotify.com/track/1Ia1nVuJYsaQjArfY7pOd4) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/79iCUqx4rgAItI7BFPJkJC) | 3:03 | 2023-10-06 | 2024-04-19 |
 | [We Did](https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4ewGerVWPwgTWwD0m0NdNG) | 3:03 | 2022-02-04 |  |
 | [We Did](https://open.spotify.com/track/2uqPdi0TFoCYZaAoGYf8zr) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 3:03 | 2022-07-22 | 2023-10-27 |

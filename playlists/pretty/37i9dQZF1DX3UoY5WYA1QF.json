@@ -1,6 +1,6 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 192705,
+  "num_followers": 192747,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 205880,
-      "name": "La Historia Que No",
-      "url": "https://open.spotify.com/track/237HTVPRaOx5Q8Yo7Zyay4"
+      "duration_ms": 178066,
+      "name": "Me Dueles",
+      "url": "https://open.spotify.com/track/2j3goI4D6w6SGqQEJYzO0s"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Recu\u00e9rdame Bonito",
+        "url": "https://open.spotify.com/album/3BO3ykbylrQ69t4bxprqlO"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Recu\u00e9rdame Bonito",
+      "url": "https://open.spotify.com/track/0Jp5xokKeQoHRI0xlTKc9A"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "En Vivo: Desde Los Cabos",
         "url": "https://open.spotify.com/album/0SmEChk9jU13NLoMVT6bv7"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 224946,
       "name": "El Taxista",
       "url": "https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Pepe Aguilar Interpreta a Joan Sebastian",
-        "url": "https://open.spotify.com/album/66Lw4f3SFdNVlF31lvxIkS"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 213228,
-      "name": "Mas Alto Que las Aguilas",
-      "url": "https://open.spotify.com/track/1GNuQuLlnE5RGnyI7Ci64s"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Pepe Aguilar Interpreta a Joan Sebastian",
+        "url": "https://open.spotify.com/album/66Lw4f3SFdNVlF31lvxIkS"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 213228,
+      "name": "Mas Alto Que las Aguilas",
+      "url": "https://open.spotify.com/track/1GNuQuLlnE5RGnyI7Ci64s"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Recu\u00e9rdame Bonito",
-        "url": "https://open.spotify.com/album/3BO3ykbylrQ69t4bxprqlO"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Recu\u00e9rdame Bonito",
-      "url": "https://open.spotify.com/track/0Jp5xokKeQoHRI0xlTKc9A"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Homenaje a un Poeta",
         "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
       },
@@ -1388,9 +1388,25 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Me Dueles",
-      "url": "https://open.spotify.com/track/2j3goI4D6w6SGqQEJYzO0s"
+      "duration_ms": 205880,
+      "name": "La Historia Que No",
+      "url": "https://open.spotify.com/track/237HTVPRaOx5Q8Yo7Zyay4"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Pepe Aguilar Interpreta a Joan Sebastian",
+        "url": "https://open.spotify.com/album/66Lw4f3SFdNVlF31lvxIkS"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 213774,
+      "name": "Botellita de Tequila",
+      "url": "https://open.spotify.com/track/6BVvJ0yh983lZdDL04EXJz"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Pepe Aguilar Interpreta a Joan Sebastian",
-        "url": "https://open.spotify.com/album/66Lw4f3SFdNVlF31lvxIkS"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 213774,
-      "name": "Botellita de Tequila",
-      "url": "https://open.spotify.com/track/6BVvJ0yh983lZdDL04EXJz"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Homenaje a un Poeta",
         "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
       },
@@ -1471,6 +1471,26 @@
       "duration_ms": 149702,
       "name": "Pienso En Ti",
       "url": "https://open.spotify.com/track/53yWukI5ywNKVkAd6dWFs8"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
+        "url": "https://open.spotify.com/album/0ER0ByDLQTlDQ5jHruKjMO"
+      },
+      "artists": [
+        {
+          "name": "Los Nietos De Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
+        },
+        {
+          "name": "La Abuela Irma Silva",
+          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
+      "url": "https://open.spotify.com/track/1rjoK1uBEVZjOPGzxZbWDJ"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1511,26 +1531,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
-        "url": "https://open.spotify.com/album/0ER0ByDLQTlDQ5jHruKjMO"
-      },
-      "artists": [
-        {
-          "name": "Los Nietos De Ter\u00e1n",
-          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
-        },
-        {
-          "name": "La Abuela Irma Silva",
-          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
-        }
-      ],
-      "duration_ms": 171613,
-      "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
-      "url": "https://open.spotify.com/track/1rjoK1uBEVZjOPGzxZbWDJ"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Homenaje A Joan Sebastian",
         "url": "https://open.spotify.com/album/2x9eHnn6xlu7WCagpuk50i"
       },
@@ -1559,6 +1559,26 @@
       "duration_ms": 157618,
       "name": "El Viejo Joven",
       "url": "https://open.spotify.com/track/45GTraHMIXhsBwWYNTxN4O"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "El \u00daltimo Beso",
+        "url": "https://open.spotify.com/album/4jEcyDMHhofDZasAIuGG6N"
+      },
+      "artists": [
+        {
+          "name": "Los Nietos De Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
+        },
+        {
+          "name": "La Abuela Irma Silva",
+          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
+        }
+      ],
+      "duration_ms": 192986,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/2hvRNCiySrg0TK9iQv2gs0"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1595,26 +1615,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "El \u00daltimo Beso",
-        "url": "https://open.spotify.com/album/4jEcyDMHhofDZasAIuGG6N"
-      },
-      "artists": [
-        {
-          "name": "Los Nietos De Ter\u00e1n",
-          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
-        },
-        {
-          "name": "La Abuela Irma Silva",
-          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
-        }
-      ],
-      "duration_ms": 192986,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/2hvRNCiySrg0TK9iQv2gs0"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Homenaje A Joan Sebastian",
         "url": "https://open.spotify.com/album/2x9eHnn6xlu7WCagpuk50i"
       },
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "Amor Sin Cuenta",
-      "url": "https://open.spotify.com/track/1L4TJJpR4uJpir4AxWjICU"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "15 Grandes Exitos - Joan Sebastian",
         "url": "https://open.spotify.com/album/3BUKCyMR8wUcz7ekY5Oxjy"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 187222,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/0NnEpjGXz9Sz752vzuhkOm"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Amor Sin Cuenta",
+      "url": "https://open.spotify.com/track/1L4TJJpR4uJpir4AxWjICU"
     }
   ],
   "unique_name": "Cancionero Joan Sebastian",

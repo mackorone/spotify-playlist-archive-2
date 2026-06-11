@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 159640,
+  "num_followers": 159650,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAB6sTC1WF0nqe8+J5i7Ksh1",
+  "snapshot_id": "aidXgAAAAACgaA+ExSDB2QJa+09PcMZp",
   "tracks": [
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disc\u00falpame",
-        "url": "https://open.spotify.com/album/4tzSRJNXBiaVkwAeIozUqC"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 237722,
-      "name": "Disc\u00falpame",
-      "url": "https://open.spotify.com/track/4nPKL7NXwP8MEbanY7ttD1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Me Maten Las Penas",
         "url": "https://open.spotify.com/album/1G3ctECROeLa3lNVers9tt"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 193177,
       "name": "Adi\u00f3s, Adi\u00f3s - Remastered 2025",
       "url": "https://open.spotify.com/track/5M9l7wWUD1PrgJO3ZOs300"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disc\u00falpame",
+        "url": "https://open.spotify.com/album/4tzSRJNXBiaVkwAeIozUqC"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 237722,
+      "name": "Disc\u00falpame",
+      "url": "https://open.spotify.com/track/4nPKL7NXwP8MEbanY7ttD1"
     },
     {
       "added_at": null,
@@ -835,58 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 156920,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/7siDteg05QhOq4fRlRLXO8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Estrenando Amante",
-        "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 168546,
-      "name": "Estrenando Amante",
-      "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 215224,
-      "name": "La Reyna de Mi Hogar - Remastered 2025",
-      "url": "https://open.spotify.com/track/38cbzqx5JErHASEDOOz8V3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "35 Aniversario (Vol. 1)",
         "url": "https://open.spotify.com/album/18AC56GLpZH5t0m4dN150Z"
       },
@@ -912,9 +860,65 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 157605,
-      "name": "Arr\u00e1ncame La Vida",
-      "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
+      "duration_ms": 156920,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/7siDteg05QhOq4fRlRLXO8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 215224,
+      "name": "La Reyna de Mi Hogar - Remastered 2025",
+      "url": "https://open.spotify.com/track/38cbzqx5JErHASEDOOz8V3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estrenando Amante",
+        "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 168546,
+      "name": "Estrenando Amante",
+      "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "35 Aniversario (Vol. 1)",
+        "url": "https://open.spotify.com/album/18AC56GLpZH5t0m4dN150Z"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 221029,
+      "name": "Borracho De Besos",
+      "url": "https://open.spotify.com/track/6bC4NcabtEXMHUtIFMwlQ8"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

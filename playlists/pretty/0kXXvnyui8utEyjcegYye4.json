@@ -6,7 +6,7 @@
     "name": "briannabalen",
     "url": "https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6"
   },
-  "snapshot_id": "AAADpdFMJaC0i/I2/6ejlJ4v0b5pVSGw",
+  "snapshot_id": "AAADqOtBvBheFfWMvAkRLf9HVDs/zBw/",
   "tracks": [
     {
       "added_at": "2021-10-01 04:28:43",
@@ -6403,6 +6403,62 @@
       "duration_ms": 142016,
       "name": "Tout donner - Guitar",
       "url": "https://open.spotify.com/track/0Uxpnw7kUWQQ8TtXle4riq"
+    },
+    {
+      "added_at": "2026-06-11 00:05:58",
+      "album": {
+        "name": "L'undertaker Part.1",
+        "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
+    },
+    {
+      "added_at": "2026-06-11 00:13:21",
+      "album": {
+        "name": "Akwaba",
+        "url": "https://open.spotify.com/album/6fy8ndrkD16idsJ22b8cFo"
+      },
+      "artists": [
+        {
+          "name": "Magic System",
+          "url": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        }
+      ],
+      "duration_ms": 223122,
+      "name": "Akwaba",
+      "url": "https://open.spotify.com/track/1RpYaDpoVelSpkVHj2yNYv"
+    },
+    {
+      "added_at": "2026-06-11 00:24:49",
+      "album": {
+        "name": "SOIS PAS TIMIDE",
+        "url": "https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 165978,
+      "name": "SOIS PAS TIMIDE",
+      "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
     }
   ],
   "unique_name": "drive.",

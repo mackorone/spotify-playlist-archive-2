@@ -3115,6 +3115,24 @@
     },
     {
       "album": {
+        "name": "Fortfarande vi",
+        "url": "https://open.spotify.com/album/7DPAKW6DID1AIeDkKnKZ4q"
+      },
+      "artists": [
+        {
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171480,
+      "name": "Fortfarande vi",
+      "url": "https://open.spotify.com/track/4RXAKqPueNdZbqC18wP2lG"
+    },
+    {
+      "album": {
         "name": "Fredagskv\u00e4llsblues",
         "url": "https://open.spotify.com/album/4nwPui9AD6M1OAJoIf2Ifn"
       },
@@ -5650,7 +5668,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 214500,
       "name": "Last To Know",
       "url": "https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv"

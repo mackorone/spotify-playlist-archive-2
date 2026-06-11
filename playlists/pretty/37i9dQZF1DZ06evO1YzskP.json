@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 67308,
+  "num_followers": 67321,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAADrhk27Vb7wGxCFlhsDqoVs",
+  "snapshot_id": "aidXgAAAAACwyNN8XJXqUZHwN4d6GXNe",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e1ufrago",
-        "url": "https://open.spotify.com/album/2aKmns5TcRvmcVrKbiXoDf"
-      },
-      "artists": [
-        {
-          "name": "Eddy",
-          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 164906,
-      "name": "capaz",
-      "url": "https://open.spotify.com/track/2t0eP19DmRIW7fIUuKhJDj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LO LOGRAMOS",
         "url": "https://open.spotify.com/album/3b3xjKsM9yLxa4Cob0Qn22"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 205237,
       "name": "LO LOGRAMOS",
       "url": "https://open.spotify.com/track/1dg9Gf4LclMVJ9HuKp0sgF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e1ufrago",
+        "url": "https://open.spotify.com/album/2aKmns5TcRvmcVrKbiXoDf"
+      },
+      "artists": [
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 164906,
+      "name": "capaz",
+      "url": "https://open.spotify.com/track/2t0eP19DmRIW7fIUuKhJDj"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seg\u00fan Yo",
-        "url": "https://open.spotify.com/album/7J4QHRe3VOuHX68psYDOd6"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 174346,
-      "name": "Seg\u00fan Yo",
-      "url": "https://open.spotify.com/track/2IN5u5i6ysRc0nC2UqGPPt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dueles",
         "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
       },
@@ -519,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seg\u00fan Yo",
+        "url": "https://open.spotify.com/album/7J4QHRe3VOuHX68psYDOd6"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 174346,
+      "name": "Seg\u00fan Yo",
+      "url": "https://open.spotify.com/track/2IN5u5i6ysRc0nC2UqGPPt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
       },
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1quina del tiempo",
-        "url": "https://open.spotify.com/album/5tVx4LaB6lu9sMCpcwNBda"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 152181,
-      "name": "M\u00e1quina del tiempo",
-      "url": "https://open.spotify.com/track/0yzVvnRgFhY6L9tLuOwTGC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Belikada",
         "url": "https://open.spotify.com/album/133hcTdLOisGXEF3NmOkLw"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 153106,
       "name": "La Belikada",
       "url": "https://open.spotify.com/track/2gt6sb9c74OGlfHdpBzrsa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1quina del tiempo",
+        "url": "https://open.spotify.com/album/5tVx4LaB6lu9sMCpcwNBda"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 152181,
+      "name": "M\u00e1quina del tiempo",
+      "url": "https://open.spotify.com/track/0yzVvnRgFhY6L9tLuOwTGC"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "REGRESA",
-        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/7qMNzewXjolYaKDlaSIBqY"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 162378,
-      "name": "Canelo",
-      "url": "https://open.spotify.com/track/1eaTDsdG9rfpvXrQw8rct7"
+      "duration_ms": 166677,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/7fednqsa5zvg3zfHbBRU8E"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/7qMNzewXjolYaKDlaSIBqY"
+        "name": "REGRESA",
+        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 166677,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/7fednqsa5zvg3zfHbBRU8E"
+      "duration_ms": 162378,
+      "name": "Canelo",
+      "url": "https://open.spotify.com/track/1eaTDsdG9rfpvXrQw8rct7"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
       "duration_ms": 146522,
       "name": "Sal De Tu Casa",
       "url": "https://open.spotify.com/track/0z2aeRd5lDuk7wm4M6I7PI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Asombrerados",
-        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 167321,
-      "name": "No Voy Con Rodeos",
-      "url": "https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
       "duration_ms": 191680,
       "name": "LALA",
       "url": "https://open.spotify.com/track/1pUxlPdbbGm55yvLCxlG2e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Asombrerados",
+        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 167321,
+      "name": "No Voy Con Rodeos",
+      "url": "https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REGRESA",
-        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 146032,
-      "name": "Borracho",
-      "url": "https://open.spotify.com/track/1sBQCmnlEwq6UN2qsQ7WIe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Dejaron Como 100pre",
         "url": "https://open.spotify.com/album/4f7OO4Z04tIGrCOeyx50Rv"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 172760,
       "name": "Me Dejaron Como 100pre",
       "url": "https://open.spotify.com/track/2qWuXhI0PW4QuVmyXqqyRp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REGRESA",
+        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 146032,
+      "name": "Borracho",
+      "url": "https://open.spotify.com/track/1sBQCmnlEwq6UN2qsQ7WIe"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REGRESA",
-        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/6XaMlamWqmjH9uhme80MNX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Asombrerados",
         "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 228465,
       "name": "El Chavo",
       "url": "https://open.spotify.com/track/5RQfIg3MnYpq6xf4l98ATT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REGRESA",
+        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/6XaMlamWqmjH9uhme80MNX"
     }
   ],
   "unique_name": "This Is La Receta",

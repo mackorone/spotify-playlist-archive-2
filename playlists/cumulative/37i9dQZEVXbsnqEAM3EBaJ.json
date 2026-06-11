@@ -18772,7 +18772,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 255424,
       "name": "FALLING BELOW (2026)",
       "url": "https://open.spotify.com/track/50qrr04sLcKFxFNIeiBvJR"
@@ -39380,7 +39380,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 295978,
       "name": "NOCTURNE (2026)",
       "url": "https://open.spotify.com/track/6lN7iI76jWyeP9uhgDd4G3"
@@ -43498,10 +43498,28 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 124916,
       "name": "Power Rangers Lost Galaxy",
       "url": "https://open.spotify.com/track/5xYquGmSacDDtxHAO7KZmU"
+    },
+    {
+      "album": {
+        "name": "Power Rangers Theme Songs, Pt. 1",
+        "url": "https://open.spotify.com/album/6q2dDfUXYvMDUkaatjvF2D"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114529,
+      "name": "Power Rangers Ninja Storm",
+      "url": "https://open.spotify.com/track/1ryMM2FCH6Dy6Per8wtEqK"
     },
     {
       "album": {
@@ -50052,7 +50070,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 236800,
       "name": "Slave to the Rithm - Ray Volpe Remix",
       "url": "https://open.spotify.com/track/0LPuTDd2JdOjyyNi9J5wX1"
@@ -50104,7 +50122,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 292965,
       "name": "Slave to the Rithm - VLCN Remix",
       "url": "https://open.spotify.com/track/1wOxKQd28j0cJbMkua2cuu"

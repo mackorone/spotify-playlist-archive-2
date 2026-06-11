@@ -1,6 +1,6 @@
 {
   "description": "The future hits of today. Up Next: Bloody Civilian",
-  "num_followers": 114152,
+  "num_followers": 114178,
   "original_name": "NXT",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,30 @@
   },
   "snapshot_id": "AAAAAOmPSi1JvZ/1+6p8Ijj+VElno7Dv",
   "tracks": [
+    {
+      "added_at": "2026-06-05 00:01:26",
+      "album": {
+        "name": "SpaceFuji",
+        "url": "https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        },
+        {
+          "name": "Terry apala",
+          "url": "https://open.spotify.com/artist/1Ct52UFTjvAZu1pOuMWXY1"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "SpaceFuji",
+      "url": "https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l"
+    },
     {
       "added_at": "2026-06-05 00:01:26",
       "album": {

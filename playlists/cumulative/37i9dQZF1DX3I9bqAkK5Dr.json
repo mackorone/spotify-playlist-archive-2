@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Mayukh Velagapudi",
+  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Damini Bhatla, Manisha Eerabathini, Pho",
   "name": "Telugu Indie",
   "tracks": [
     {
@@ -920,7 +920,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 199600,
       "name": "Chedirina Kala",
       "url": "https://open.spotify.com/track/2Sv2MM96cs28H23K0S51Le"
@@ -3130,7 +3130,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 218124,
       "name": "Jabilamma",
       "url": "https://open.spotify.com/track/0kFJWqJ07QeiKr9trZ4fri"
@@ -6151,6 +6151,28 @@
     },
     {
       "album": {
+        "name": "Neelo Unna Shakti",
+        "url": "https://open.spotify.com/album/5PrOyGenQyk4hfb8Q0a0hy"
+      },
+      "artists": [
+        {
+          "name": "Rapha Farmer",
+          "url": "https://open.spotify.com/artist/6J0ecYFFOG9eBgHyGOJzXP"
+        },
+        {
+          "name": "Lady Skavya",
+          "url": "https://open.spotify.com/artist/5QeNGb11QgU6msarwbkI2I"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334886,
+      "name": "Neelo Unna Shakti",
+      "url": "https://open.spotify.com/track/37N0pehYBuG4DGRdx3Q93u"
+    },
+    {
+      "album": {
         "name": "Neetho",
         "url": "https://open.spotify.com/album/3fpTbL64j34pTYS2rloKOJ"
       },
@@ -8806,6 +8828,32 @@
       "duration_ms": 215990,
       "name": "Ramaya",
       "url": "https://open.spotify.com/track/6N7vDEn2IwTeWCDsgwxNOt"
+    },
+    {
+      "album": {
+        "name": "Ramba Urvasi Menaka",
+        "url": "https://open.spotify.com/album/03ffSb9i9zvjszyeobq0wJ"
+      },
+      "artists": [
+        {
+          "name": "Damini Bhatla",
+          "url": "https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB"
+        },
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        },
+        {
+          "name": "pho",
+          "url": "https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Ramba Urvasi Menaka",
+      "url": "https://open.spotify.com/track/63D9vDB9RFoteyS2AgM0Jw"
     },
     {
       "album": {

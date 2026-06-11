@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD?si=8pzwvnQNRvSmsJa8TyTroQ\">Ema Onigah</a>. Artwork: Isu Kim. ",
+  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI?si=xfh-oe3CT86n6tuTHiYS4A\">Mia Lord</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
   "tracks": [
     {
@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 231562,
       "name": "better",
       "url": "https://open.spotify.com/track/3yNPijn8ek1rbsnqdNTS0K"
@@ -3650,7 +3650,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 148571,
       "name": "Bring You Home",
       "url": "https://open.spotify.com/track/7odIv0UuSvwHOAYJS0EK6S"
@@ -4094,6 +4094,24 @@
       "duration_ms": 139561,
       "name": "Capable",
       "url": "https://open.spotify.com/track/3PvqecGPN6xnzit8FNUUgK"
+    },
+    {
+      "album": {
+        "name": "Car Park Cult",
+        "url": "https://open.spotify.com/album/2RaXVH29avsBTY4pLMZID5"
+      },
+      "artists": [
+        {
+          "name": "Mia Lord",
+          "url": "https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236307,
+      "name": "Car Park Cult",
+      "url": "https://open.spotify.com/track/0Ca74YE1XGRR6QcreQUDrq"
     },
     {
       "album": {
@@ -5621,6 +5639,24 @@
     },
     {
       "album": {
+        "name": "Kill with Kindness",
+        "url": "https://open.spotify.com/album/0AjgrGHWPcV3DjFbKUsQvz"
+      },
+      "artists": [
+        {
+          "name": "Solo Sae",
+          "url": "https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157910,
+      "name": "Cut You Off",
+      "url": "https://open.spotify.com/track/7olSeEjcLypVdWRrDD7Uap"
+    },
+    {
+      "album": {
         "name": "Daa",
         "url": "https://open.spotify.com/album/3v41q8MCVJG8CSUummcUJl"
       },
@@ -5842,6 +5878,24 @@
       "duration_ms": 153684,
       "name": "Dear Ex",
       "url": "https://open.spotify.com/track/7hAIX39HeD4wZZpThDOLUQ"
+    },
+    {
+      "album": {
+        "name": "Hear to Stay",
+        "url": "https://open.spotify.com/album/7yzD9pCNe2PWsWIoWTY6lY"
+      },
+      "artists": [
+        {
+          "name": "Ariel Wayz",
+          "url": "https://open.spotify.com/artist/6vLTbWnzofdofLGkDfxODG"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205363,
+      "name": "Dee",
+      "url": "https://open.spotify.com/track/4DJdyqEbSMi8sN08lc4KpC"
     },
     {
       "album": {
@@ -6736,6 +6790,24 @@
       "duration_ms": 192989,
       "name": "Drip Hard",
       "url": "https://open.spotify.com/track/5bTz8GVWy0VbLdnnH4otoV"
+    },
+    {
+      "album": {
+        "name": "uBuhle",
+        "url": "https://open.spotify.com/album/33dxZTrw0qflI2BdfxY7lV"
+      },
+      "artists": [
+        {
+          "name": "Kwazi M",
+          "url": "https://open.spotify.com/artist/5zIYYP57uFgGGlchyM6T2N"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227102,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/6GEhHFB78AHQ1FKLLhm0eo"
     },
     {
       "album": {
@@ -7656,6 +7728,28 @@
       "duration_ms": 189255,
       "name": "Fall",
       "url": "https://open.spotify.com/track/4vTj1RvJpxFu6QHRchAcQx"
+    },
+    {
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/5veFWqynkJ8Fk7n611Xvd2"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        },
+        {
+          "name": "Ntsika",
+          "url": "https://open.spotify.com/artist/0OJZLTuFdww9IGthPZE8uN"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/3ZGLEDbtQ9RERCk9NczSFc"
     },
     {
       "album": {
@@ -10990,7 +11084,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 130000,
       "name": "HOW E DEY BE (HEDB)",
       "url": "https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1"
@@ -11772,7 +11866,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 162456,
       "name": "Ifeoma",
       "url": "https://open.spotify.com/track/3Dt1dGG3OLQ2j9FynaYPYZ"
@@ -14190,6 +14284,24 @@
       "duration_ms": 247960,
       "name": "LIKE THIS",
       "url": "https://open.spotify.com/track/2DDHFzK8hrJnyBICEft8sT"
+    },
+    {
+      "album": {
+        "name": "Butterfly Tears",
+        "url": "https://open.spotify.com/album/4ushU6SCIAUkcWLhTa61Zf"
+      },
+      "artists": [
+        {
+          "name": "Ebisan",
+          "url": "https://open.spotify.com/artist/7tRfDhNyqAgVgSFp5dqafC"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263933,
+      "name": "Like Water",
+      "url": "https://open.spotify.com/track/4axIBRv8PhXrRBZEuWfb5p"
     },
     {
       "album": {
@@ -20392,7 +20504,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 165782,
       "name": "Power",
       "url": "https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX"
@@ -20768,7 +20880,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 170691,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/3oSOAmX3az2ekWnOZrWqRN"
@@ -22401,6 +22513,28 @@
     },
     {
       "album": {
+        "name": "HIH & Serial Kisser",
+        "url": "https://open.spotify.com/album/2L8m2nH21rqTK30vMUyGfA"
+      },
+      "artists": [
+        {
+          "name": "Rukmani",
+          "url": "https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Serial Kisser",
+      "url": "https://open.spotify.com/track/6xpOCLTrc9IEuwPuFuGO6F"
+    },
+    {
+      "album": {
         "name": "Service",
         "url": "https://open.spotify.com/album/6RxOYbrRvkRnBaRoEknEYy"
       },
@@ -23060,7 +23194,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 136679,
       "name": "Slow",
       "url": "https://open.spotify.com/track/51vTd5iLJvD6qdZuyKXcCN"
@@ -23104,6 +23238,24 @@
       "duration_ms": 194283,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/3wcpv25Aduj1IRZgjmnJ34"
+    },
+    {
+      "album": {
+        "name": "room of whoevers",
+        "url": "https://open.spotify.com/album/3cZGHgiLQ0q96nHb0405Lg"
+      },
+      "artists": [
+        {
+          "name": "Roy Rutto",
+          "url": "https://open.spotify.com/artist/0qXdKNxrW6KNMGdDIIgRre"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Small Town",
+      "url": "https://open.spotify.com/track/5Xgq3fIqSug7ALemSaBxHO"
     },
     {
       "album": {
@@ -24946,7 +25098,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 145305,
       "name": "T Fare (seXyy!!)",
       "url": "https://open.spotify.com/track/0uFsObl0zTfLCE9WYJypL6"
@@ -25206,7 +25358,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 171111,
       "name": "Tena",
       "url": "https://open.spotify.com/track/3H5n3Wn5mwQrUbnTArjsMH"
@@ -25872,6 +26024,24 @@
       "duration_ms": 150588,
       "name": "time (with my ex)",
       "url": "https://open.spotify.com/track/1zIOhLm0hlzXjUrwVEzAbW"
+    },
+    {
+      "album": {
+        "name": "Time Away",
+        "url": "https://open.spotify.com/album/4gqRI4PONgJxgnTp0exa8o"
+      },
+      "artists": [
+        {
+          "name": "Second House",
+          "url": "https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267007,
+      "name": "Time Away",
+      "url": "https://open.spotify.com/track/3WkOq6BS0yWlyGi5nm2dYL"
     },
     {
       "album": {
@@ -26742,6 +26912,24 @@
       "duration_ms": 163663,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/62pnmQnkWCNVQusRO0sIPM"
+    },
+    {
+      "album": {
+        "name": "UNFORGETTABLE",
+        "url": "https://open.spotify.com/album/0O5eFV6y5lWB6KZZfFSfru"
+      },
+      "artists": [
+        {
+          "name": "Tai Dai",
+          "url": "https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "UNFORGETTABLE",
+      "url": "https://open.spotify.com/track/3J9h0mH4syTbYV1nzyOGKv"
     },
     {
       "album": {
@@ -28066,7 +28254,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 193454,
       "name": "Why Does This Always Happen To Me?",
       "url": "https://open.spotify.com/track/5b7gY6VlwwLJgvoOWZQ4r5"

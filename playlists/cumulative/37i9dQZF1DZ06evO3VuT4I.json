@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 478986,
       "name": "Oceanium",
       "url": "https://open.spotify.com/track/0sEjFNddVHkq8Wf7fWsMSh"
@@ -2080,6 +2080,32 @@
       "duration_ms": 402664,
       "name": "Section 4: Animal Kingdom",
       "url": "https://open.spotify.com/track/3MY4B4mOAg2gGJzVlQcbI8"
+    },
+    {
+      "album": {
+        "name": "CIANI/ORKEST",
+        "url": "https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Simon Dobson",
+          "url": "https://open.spotify.com/artist/4sYhuNqiZ8eTJDvW1OmIiq"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 665999,
+      "name": "Section 5: Chase Scene",
+      "url": "https://open.spotify.com/track/4vMALDK0cYPOwOHoTtLzZU"
     },
     {
       "album": {

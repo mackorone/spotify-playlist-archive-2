@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 
 > 
 
-[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,546 likes - 555 songs - 1 day 12 hr 12 min
+[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,545 likes - 559 songs - 1 day 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -563,5 +563,9 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 | 553 | [Bite Marks](https://open.spotify.com/track/5EgvIjKtyop4T8afkuMiv6) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Welcome to Noxus \(Original Soundtrack from League of Legends\)](https://open.spotify.com/album/7oCUh77MwNd0x12QjA7F5K) | 3:10 |
 | 554 | [STFU](https://open.spotify.com/track/1RtOV5HTGBKiSpIOU8qU1b) | [Pixl Girl](https://open.spotify.com/artist/0fRpdVBiTK1PayMdFIMqmp), [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [STFU](https://open.spotify.com/album/3VQfA3XGJyC0XM9Gu3HsOF) | 1:55 |
 | 555 | [Papercut](https://open.spotify.com/track/3fjv1YnPIn2UDiGkMKvAFM) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Papercut](https://open.spotify.com/album/51ZkMRNlpeT4hRFCtRg2Xf) | 3:13 |
+| 556 | [Champagne & Sunshine](https://open.spotify.com/track/77U6kcldLRFl9vCfaw11Sr) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Tarro](https://open.spotify.com/artist/0SXgKLNtpIrH29F1vMRWzj) | [Champagne & Sunshine](https://open.spotify.com/album/0ypRXml4YrjqnfL4D4S7qg) | 3:16 |
+| 557 | [Slow Down](https://open.spotify.com/track/5lT5IZWW3JQErXELJpQgJ9) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Paradise EP](https://open.spotify.com/album/7agIpPnZXBhJQcWHAvdQFx) | 3:32 |
+| 558 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:35 |
+| 559 | [Heartbeat](https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/01MRGgNbfWrE291tQjw9ta) | 4:29 |
 
-Snapshot ID: `AAABbqlDWgVlvf+hrlaU1Xn6Z5UKl2Ff`
+Snapshot ID: `AAABcpVSenmrI0mIMdodbB8fL8QCt4ci`

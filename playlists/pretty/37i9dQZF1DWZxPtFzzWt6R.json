@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 112645,
+  "num_followers": 112674,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
+        "name": "Situa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "duration_ms": 261967,
+      "name": "Situa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
         "name": "Um Lugar \u00e0 Mesa",
         "url": "https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 186118,
       "name": "Como eu Te Amo Deus",
       "url": "https://open.spotify.com/track/1unkmTfcblkjHWIhZLSFhE"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
-        "name": "Situa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
-      },
-      "artists": [
-        {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
-        }
-      ],
-      "duration_ms": 261967,
-      "name": "Situa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 328768,
-      "name": "Deus Est\u00e1 Fazendo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
         "name": "Trajet\u00f3ria",
         "url": "https://open.spotify.com/album/713WXPAkeukQUrkN7ZRzSi"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 233472,
       "name": "Trajet\u00f3ria",
       "url": "https://open.spotify.com/track/64mFWof8nKdLgHpFSSDbEf"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
+        "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 328768,
+      "name": "Deus Est\u00e1 Fazendo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW"
     },
     {
       "added_at": "2026-02-27 03:01:13",

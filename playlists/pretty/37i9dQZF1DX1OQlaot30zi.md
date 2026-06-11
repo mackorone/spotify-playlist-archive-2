@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Geolier, G\. Mineiro, Tony Boy, IvanBi e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,589 likes - 110 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,593 likes - 110 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AUTORITÀ](https://open.spotify.com/track/44igqinwL0GzbSEX4lovsi) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [AUTORITÀ](https://open.spotify.com/album/2CCna0QTtaOVDjFvobTZeO) | 3:03 |
 | 2 | [E Allora](https://open.spotify.com/track/1XzHasEgB7QoXXtoD3sUKY) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [È O G.](https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd) | 1:51 |
-| 3 | [Cuore rotto](https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Cuore rotto](https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9) | 2:20 |
+| 3 | [Cuore rotto \(feat\. Finesse\)](https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Cuore rotto \(feat\. Finesse\)](https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9) | 2:20 |
 | 4 | [AYAYAY](https://open.spotify.com/track/3xPMN6Ojy4uV0jicQf5dYZ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [AYAYAY](https://open.spotify.com/album/3TV20ouePm2YUPAMSj4C0n) | 2:26 |
 | 5 | [Fredda come l'inferno](https://open.spotify.com/track/7L5upZvE5pdCQveaZbvk8K) | [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Fredda come l'inferno](https://open.spotify.com/album/2gFDkEMws986w8We8k5geP) | 2:52 |
 | 6 | [500 CV](https://open.spotify.com/track/2kNqsnXA6drORQex7KSxJQ) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [STABLE MUSIC](https://open.spotify.com/album/60dzA7He9J557TwJjx03cE) | 2:53 |

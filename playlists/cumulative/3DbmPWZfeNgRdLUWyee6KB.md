@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,170 songs - 2 day 20 hr 21 min
+1,172 songs - 2 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Hope](https://open.spotify.com/track/2Wy1stSrMcYwPvmKAb8Pay) | [Skye Darling](https://open.spotify.com/artist/4QiKBkvRxNWJoCdpclehUu) | [Only Noise](https://open.spotify.com/album/7wUOMeBuyuh8tGYQPWUNV4) | 3:48 | 2026-03-17 | 2026-04-12 |
 | [HOPE \(MOM\)](https://open.spotify.com/track/5CrL7ejeMEekVUqqjHQTkH) | [IAMBOKI](https://open.spotify.com/artist/4X6awOXdDYyq4DJqi6XGoF), [Christina Best](https://open.spotify.com/artist/5qjkAdMqpXlAjvhI9YuCg2) | [HOPE \(MOM\)](https://open.spotify.com/album/5PJIzgVMw4kBLsn9v6GjWu) | 3:41 | 2026-02-13 | 2026-03-15 |
 | [House of Love](https://open.spotify.com/track/4HysNxpaGjnYRkIBE0Tqil) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [House of Love](https://open.spotify.com/album/55IthOjzheeAnTwVoj6Vfv) | 4:19 | 2026-03-23 | 2026-04-22 |
+| [House of Love \- New Wave](https://open.spotify.com/track/7lSsw6wirwlKWSdsYhQOva) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [House of Love \(New Wave\)](https://open.spotify.com/album/75tS39CPVd8tUeuGvRkHIB) | 4:59 | 2026-06-10 |  |
 | [How It Ends](https://open.spotify.com/track/4gauRBwNouMVSuhhULs53J) | [Amber Sawyer](https://open.spotify.com/artist/1SerujJXOuAslvtCc80X3c) | [How It Ends](https://open.spotify.com/album/1Jh9zDw8HvJINyIFQgh4w1) | 3:17 | 2026-01-08 | 2026-02-03 |
 | [How Lucky](https://open.spotify.com/track/4SVVS4cFwX4k2a35Y27eaH) | [Jill Baldassari](https://open.spotify.com/artist/1kv1SoMj9osbG1MeUzRp12) | [How Lucky](https://open.spotify.com/album/2MiQlo3MZvLUz9YQjkgIaE) | 2:37 | 2026-05-11 |  |
 | [How'd You Get Here](https://open.spotify.com/track/06YPAAkCdIDHTs3rA1oPjZ) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Talkin' Ugly Truth, Tellin' Pretty Lies](https://open.spotify.com/album/30hSDxBhr4JnFry1yPCHZm) | 3:20 | 2025-12-15 | 2026-01-15 |
@@ -463,6 +464,7 @@
 | [Inside Yourself](https://open.spotify.com/track/4tr6UJmmZs3UW7KKdGGqdp) | [Sofia Ullman](https://open.spotify.com/artist/5FrkFx3cQEZZISOxW3rZAP), [Torbjörn Carlsson](https://open.spotify.com/artist/26L1gn5sPDqoSsNVemtNWK) | [50 Miles](https://open.spotify.com/album/2eqYXe9eQdyE3DiEnxHcES) | 4:38 | 2026-03-06 | 2026-03-25 |
 | [Insomnio](https://open.spotify.com/track/6tkYKcPQSNMN1f4CEX8t98) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Insomnio](https://open.spotify.com/album/627VjkYMsdK6hDkAObIp8R) | 3:42 | 2025-12-22 | 2026-01-24 |
 | [Integrity](https://open.spotify.com/track/6HcCERnjCZyZaFF4Evhwe6) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Integrity](https://open.spotify.com/album/483UjSRVQgX3AxMReVprJ9) | 2:32 | 2025-11-04 | 2025-12-21 |
+| [Intermission \- Original](https://open.spotify.com/track/14skYqogUOAkmOTCxpVobr) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Little Prancer Album \(Original\)](https://open.spotify.com/album/7jKlfljcyErn60wEuVdUj7) | 1:17 | 2026-06-10 |  |
 | [Invencible](https://open.spotify.com/track/20NwpCgWSJhKdaC1Ovw6zK) | [Tormenta perfecta](https://open.spotify.com/artist/4tQuhyohHa4GwI6H7oXES0) | [Invencible](https://open.spotify.com/album/1oehW1vr4g4WTNiiptAEr6) | 3:00 | 2026-03-10 | 2026-04-12 |
 | [Invisible](https://open.spotify.com/track/2Kw99OuynMcNBAPauany8L) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/35LwtfCOsUxMdNuhzwfkcm) | 2:09 | 2025-12-17 | 2026-01-15 |
 | [It Gets Better](https://open.spotify.com/track/3aJL2o26QXD7KYX8daL0yX) | [Rogue](https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ), [honeybee](https://open.spotify.com/artist/3uRgGI7WqysQzxvmmSXMpF) | [It Gets Better](https://open.spotify.com/album/4cZdqoIPaeYn108RoDhJkV) | 3:19 | 2026-03-30 | 2026-05-03 |

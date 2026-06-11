@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6usZxRd8e7TQwcksnohR1U">Denisia "Blu June" Andrews</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-125 songs - 7 hr 6 min
+126 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Feels](https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:01 | 2025-08-02 |  |
 | [Finally \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/3WZn98ifY0D3WmnZWlVZRw) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Finally \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/3xQ8XKfiCYGewk8b3oBFNe) | 4:09 | 2025-08-02 |  |
 | [Free Fall \(feat\. Blu June\)](https://open.spotify.com/track/5A00izo7E1u9NcMaCVwIgR) | [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Blu June](https://open.spotify.com/artist/33ccitBWLlxrI5sJN4ccuw) | [High Times](https://open.spotify.com/album/2gopJnmJD2S1yXtAWR9MVP) | 4:18 | 2025-08-02 |  |
+| [Friends](https://open.spotify.com/track/52LUfqJkuNuoP9X7Btyubz) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 2:24 | 2026-06-10 |  |
 | [FRIENDS](https://open.spotify.com/track/0gu5B9dUOiLezdDjrLPCCV) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 5:44 | 2025-08-02 |  |
 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 | 2025-08-02 |  |
 | [Hard To Forget Ya](https://open.spotify.com/track/0nl2VRCK2fptP2nz8LKiGD) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 3:29 | 2025-08-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Jalen Ngonda and music for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,256 likes - 81 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,250 likes - 81 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Alex Warren, badmómzjay, Taylor Swift, RAF Camora & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,833 likes - 89 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,769 likes - 89 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 50 | [Happy sein](https://open.spotify.com/track/7vJjeC2DyFrLqkaagsVcfC) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Happy sein](https://open.spotify.com/album/1gTBc47T96r7buwX2WIhxP) | 2:18 |
 | 51 | [MARIA](https://open.spotify.com/track/4kasb5PYtJ4qTe8f4JxXnm) | [Cave](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9) | [MARIA](https://open.spotify.com/album/3kmJhrjqaY1oLLxwfz4rtK) | 2:31 |
 | 52 | [Triple S](https://open.spotify.com/track/42UJesDEHtemfRPwy23nKj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Triple S](https://open.spotify.com/album/5TsMWf6f3G5OGo9ZwgQ6BT) | 2:46 |
-| 53 | [Into You](https://open.spotify.com/track/5NrMSFRVMWykeZJpFGwc1O) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [Into You](https://open.spotify.com/album/4qCpj7C3VXs0cTMHM56CAc) | 2:19 |
+| 53 | [Into You](https://open.spotify.com/track/5NrMSFRVMWykeZJpFGwc1O) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Into You](https://open.spotify.com/album/4qCpj7C3VXs0cTMHM56CAc) | 2:19 |
 | 54 | [Je ne reviendrai pas](https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Je ne reviendrai pas](https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE) | 2:43 |
 | 55 | [Gecko](https://open.spotify.com/track/1pykMNRzTpl2C7vxfmR1Pc) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [How dare you tryna love me?](https://open.spotify.com/album/6XDkigtRmlZV90EjNAq9TW) | 2:46 |
 | 56 | [Every Life](https://open.spotify.com/track/3Z5MBZmAZy9Z46QPkmZZUG) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Promising Young Woman](https://open.spotify.com/album/5wnd0iIkfGJGwKhNZjSu6W) | 3:18 |

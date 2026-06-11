@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Favourites](https://open.spotify.com/playlist/37i9dQZF1DX48TTZL62Yht)
 
-> The tracks you just keep pulling up\. Cover: J\. Cole
+> The tracks you just keep pulling up\. Cover: Central Cee
 
 850 songs - 1 day 20 hr 0 min
 

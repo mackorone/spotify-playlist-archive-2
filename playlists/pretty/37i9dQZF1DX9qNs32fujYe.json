@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever. Classics to brand new tracks across heavy, power, doom, thrash, and sludge. Cover: Monolord",
-  "num_followers": 1408502,
+  "num_followers": 1408562,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "Revenger",
-        "url": "https://open.spotify.com/album/48X7KToLv5QVFKN3L7hQa6"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        },
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 220227,
-      "name": "Revenger",
-      "url": "https://open.spotify.com/track/39G4lx75wNFd1rU74WhmqK"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "KE*A*H** (Psalm 69)",
         "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 238813,
       "name": "Demonic Depression",
       "url": "https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "Revenger",
+        "url": "https://open.spotify.com/album/48X7KToLv5QVFKN3L7hQa6"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 220227,
+      "name": "Revenger",
+      "url": "https://open.spotify.com/track/39G4lx75wNFd1rU74WhmqK"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X"
-      },
-      "artists": [
-        {
-          "name": "Lorna Shore",
-          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
-        }
-      ],
-      "duration_ms": 499875,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "Russian Grizzly In America",
         "url": "https://open.spotify.com/album/14lk6034z1NFepKWDzAzmj"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 212387,
       "name": "Prostitution",
       "url": "https://open.spotify.com/track/4hDxks1OWDJ2R7rpwLQ5sx"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X"
+      },
+      "artists": [
+        {
+          "name": "Lorna Shore",
+          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
+        }
+      ],
+      "duration_ms": 499875,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "Welcome To The Circus",
-        "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 256741,
-      "name": "Welcome To The Circus",
-      "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "Behelit",
         "url": "https://open.spotify.com/album/2oj7HNRNdIZgIwCZl4I7Mu"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 248571,
       "name": "Behelit",
       "url": "https://open.spotify.com/track/6SShrkXpvyKEMslHdCbqJI"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "Welcome To The Circus",
+        "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 256741,
+      "name": "Welcome To The Circus",
+      "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
+        "name": "Dogs Of War",
+        "url": "https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 244466,
+      "name": "Dogs Of War",
+      "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
         "name": "No Place of Warmth (feat. Gerard Way)",
         "url": "https://open.spotify.com/album/4k9gYOwN9shcLs1Xxd4YxU"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 289750,
       "name": "No Place of Warmth (feat. Gerard Way)",
       "url": "https://open.spotify.com/track/4cNUzje8bpS368orIfCp70"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
-        "name": "Dogs Of War",
-        "url": "https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Dogs Of War",
-      "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "Stations",
-        "url": "https://open.spotify.com/album/2ohIZ3oLWI5SRC4wi3ZemH"
-      },
-      "artists": [
-        {
-          "name": "Warning",
-          "url": "https://open.spotify.com/artist/215tdyVWdDYOjufDKf6UJg"
-        }
-      ],
-      "duration_ms": 567405,
-      "name": "Stations",
-      "url": "https://open.spotify.com/track/2LWyybPjyYV8FCJj2VeDV8"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
         "url": "https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 178840,
       "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
       "url": "https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "Stations",
+        "url": "https://open.spotify.com/album/2ohIZ3oLWI5SRC4wi3ZemH"
+      },
+      "artists": [
+        {
+          "name": "Warning",
+          "url": "https://open.spotify.com/artist/215tdyVWdDYOjufDKf6UJg"
+        }
+      ],
+      "duration_ms": 567405,
+      "name": "Stations",
+      "url": "https://open.spotify.com/track/2LWyybPjyYV8FCJj2VeDV8"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/7H732EUjLKsi8M8kfdWd57"
-      },
-      "artists": [
-        {
-          "name": "Paradise Lost",
-          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
-        }
-      ],
-      "duration_ms": 291813,
-      "name": "Lay A Wreath Upon The World",
-      "url": "https://open.spotify.com/track/7jC2KqZdyyGovJsUDw50r8"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "Cancelled",
         "url": "https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 287840,
       "name": "Cancelled",
       "url": "https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/7H732EUjLKsi8M8kfdWd57"
+      },
+      "artists": [
+        {
+          "name": "Paradise Lost",
+          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+        }
+      ],
+      "duration_ms": 291813,
+      "name": "Lay A Wreath Upon The World",
+      "url": "https://open.spotify.com/track/7jC2KqZdyyGovJsUDw50r8"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -2647,22 +2647,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "The Fever Mask",
-        "url": "https://open.spotify.com/album/1Yi8lPwz7yfCwiZdjI29UE"
-      },
-      "artists": [
-        {
-          "name": "At The Gates",
-          "url": "https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD"
-        }
-      ],
-      "duration_ms": 192586,
-      "name": "The Fever Mask",
-      "url": "https://open.spotify.com/track/29Uss2uPm7lOeKzoLyQXQ6"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "Bring Out Your Dead",
         "url": "https://open.spotify.com/album/5Y9cEIruQ0SQCXgugO8igf"
       },
@@ -2675,6 +2659,22 @@
       "duration_ms": 242172,
       "name": "Crossing Over",
       "url": "https://open.spotify.com/track/0qbIG8PmVDHRcJQ7FXKQTB"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "The Fever Mask",
+        "url": "https://open.spotify.com/album/1Yi8lPwz7yfCwiZdjI29UE"
+      },
+      "artists": [
+        {
+          "name": "At The Gates",
+          "url": "https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD"
+        }
+      ],
+      "duration_ms": 192586,
+      "name": "The Fever Mask",
+      "url": "https://open.spotify.com/track/29Uss2uPm7lOeKzoLyQXQ6"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -2723,22 +2723,6 @@
       "duration_ms": 234346,
       "name": "Eternal Rains",
       "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
-        "name": "DEATHWEAVER",
-        "url": "https://open.spotify.com/album/5k9532SUZPOO992pIrQoRg"
-      },
-      "artists": [
-        {
-          "name": "Frozen Soul",
-          "url": "https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6"
-        }
-      ],
-      "duration_ms": 233768,
-      "name": "DEATHWEAVER",
-      "url": "https://open.spotify.com/track/0iAjlfJNPziWcJDbjLwPTA"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -2803,6 +2787,22 @@
       "duration_ms": 320507,
       "name": "Teardrinker",
       "url": "https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "DEATHWEAVER",
+        "url": "https://open.spotify.com/album/5k9532SUZPOO992pIrQoRg"
+      },
+      "artists": [
+        {
+          "name": "Frozen Soul",
+          "url": "https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6"
+        }
+      ],
+      "duration_ms": 233768,
+      "name": "DEATHWEAVER",
+      "url": "https://open.spotify.com/track/0iAjlfJNPziWcJDbjLwPTA"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -3019,6 +3019,22 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
+        "name": "Shrine (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Overthrone",
+      "url": "https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
         "name": "Te R\u0101",
         "url": "https://open.spotify.com/album/2H7YgFo7y9Jy0H8kI2XieO"
       },
@@ -3035,22 +3051,6 @@
       "duration_ms": 288730,
       "name": "Taniwha (feat. Randy Blythe)",
       "url": "https://open.spotify.com/track/0NMjS1FNduEm9SK2hwiP1x"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
-        "name": "Shrine (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Overthrone",
-      "url": "https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -3107,22 +3107,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "Midnight Messiah",
-        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 478186,
-      "name": "Midnight Messiah",
-      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "Hands of Sin",
         "url": "https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW"
       },
@@ -3139,6 +3123,22 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
+        "name": "Midnight Messiah",
+        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 478186,
+      "name": "Midnight Messiah",
+      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
         "name": "Never Again (Parasite)",
         "url": "https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv"
       },
@@ -3151,22 +3151,6 @@
       "duration_ms": 204736,
       "name": "Never Again (Parasite)",
       "url": "https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
-        "name": "Hit a Moonshot",
-        "url": "https://open.spotify.com/album/4srarjGvNTtPGNoKEyiuJ8"
-      },
-      "artists": [
-        {
-          "name": "Armored Saint",
-          "url": "https://open.spotify.com/artist/4ug41UGuMZzlV2hJOrOqHN"
-        }
-      ],
-      "duration_ms": 274843,
-      "name": "Hit a Moonshot",
-      "url": "https://open.spotify.com/track/7hz68eote8mT2y9F1poEDX"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -3203,6 +3187,22 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
+        "name": "Gawdzillionaire",
+        "url": "https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK"
+      },
+      "artists": [
+        {
+          "name": "Otherwise",
+          "url": "https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa"
+        }
+      ],
+      "duration_ms": 196740,
+      "name": "Full Disclosure",
+      "url": "https://open.spotify.com/track/3Bx0xPAkXZSkMj9ctFxrAm"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
         "name": "Sam The Brave",
         "url": "https://open.spotify.com/album/37inediLQp2gvA17f1xQY9"
       },
@@ -3219,18 +3219,18 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "Silence Like The Grave",
-        "url": "https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH"
+        "name": "Hit a Moonshot",
+        "url": "https://open.spotify.com/album/4srarjGvNTtPGNoKEyiuJ8"
       },
       "artists": [
         {
-          "name": "Paradise Lost",
-          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+          "name": "Armored Saint",
+          "url": "https://open.spotify.com/artist/4ug41UGuMZzlV2hJOrOqHN"
         }
       ],
-      "duration_ms": 287160,
-      "name": "Silence Like The Grave",
-      "url": "https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId"
+      "duration_ms": 274843,
+      "name": "Hit a Moonshot",
+      "url": "https://open.spotify.com/track/7hz68eote8mT2y9F1poEDX"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -3251,6 +3251,22 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
+        "name": "Silence Like The Grave",
+        "url": "https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH"
+      },
+      "artists": [
+        {
+          "name": "Paradise Lost",
+          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+        }
+      ],
+      "duration_ms": 287160,
+      "name": "Silence Like The Grave",
+      "url": "https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
         "name": "Endtime Signals",
         "url": "https://open.spotify.com/album/23iJlCpjOvLgha8xkOkJBI"
       },
@@ -3263,22 +3279,6 @@
       "duration_ms": 208640,
       "name": "Wayward Eyes",
       "url": "https://open.spotify.com/track/1rOerKPbC72KGilyMlBFrn"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
-        "name": "Gawdzillionaire",
-        "url": "https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK"
-      },
-      "artists": [
-        {
-          "name": "Otherwise",
-          "url": "https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa"
-        }
-      ],
-      "duration_ms": 196740,
-      "name": "Full Disclosure",
-      "url": "https://open.spotify.com/track/3Bx0xPAkXZSkMj9ctFxrAm"
     },
     {
       "added_at": "2026-05-29 04:02:43",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 158378,
+  "num_followers": 158410,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 171703,
-      "name": "Rumbo Pa La Iglesia",
-      "url": "https://open.spotify.com/track/0MVtttqLPqQkogMIji8bpz"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "ANTES ERA NADA",
         "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 154421,
       "name": "ANTES ERA NADA",
       "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 171703,
+      "name": "Rumbo Pa La Iglesia",
+      "url": "https://open.spotify.com/track/0MVtttqLPqQkogMIji8bpz"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Un Gran Dia",
+        "url": "https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW"
+      },
+      "artists": [
+        {
+          "name": "Dani Senay",
+          "url": "https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "Un Gran Dia",
+      "url": "https://open.spotify.com/track/4x0HkTnTaQiwH5h8b8BAYJ"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Abatido",
         "url": "https://open.spotify.com/album/50FppiB6Br1QKbBWWxMcRk"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 289043,
       "name": "Abatido",
       "url": "https://open.spotify.com/track/6S3sKgRoBiwvG0FilXcmaI"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Un Gran Dia",
-        "url": "https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW"
-      },
-      "artists": [
-        {
-          "name": "Dani Senay",
-          "url": "https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "Un Gran Dia",
-      "url": "https://open.spotify.com/track/4x0HkTnTaQiwH5h8b8BAYJ"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -779,22 +779,18 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/6kErvhmAdGhtkoDJAQzZsA"
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
       },
       "artists": [
         {
-          "name": "Yore",
-          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
-        },
-        {
-          "name": "Samuel Troc",
-          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
         }
       ],
-      "duration_ms": 157685,
-      "name": "Eco",
-      "url": "https://open.spotify.com/track/2BkFIWHhqzl2zA3ImMvJtO"
+      "duration_ms": 142306,
+      "name": "Gracia Divina",
+      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -815,6 +811,26 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/6kErvhmAdGhtkoDJAQzZsA"
+      },
+      "artists": [
+        {
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+        },
+        {
+          "name": "Samuel Troc",
+          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
+        }
+      ],
+      "duration_ms": 157685,
+      "name": "Eco",
+      "url": "https://open.spotify.com/track/2BkFIWHhqzl2zA3ImMvJtO"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Esto es Otra Cosa",
         "url": "https://open.spotify.com/album/6lowaja53FwTaGjHnc3she"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 231013,
       "name": "Nueva Temporada",
       "url": "https://open.spotify.com/track/0xCF4lhRRnqgrm9Ey1FCDx"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
-      },
-      "artists": [
-        {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
-        }
-      ],
-      "duration_ms": 142306,
-      "name": "Gracia Divina",
-      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Yeshua Hamashiaj - MelGod (Remix)",
-        "url": "https://open.spotify.com/album/2XTIYiYuAmD7oIQBlp6Eeg"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        },
-        {
-          "name": "MelGod",
-          "url": "https://open.spotify.com/artist/6WOIGIpz0WT33xUMVvEA7n"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Yeshua Hamashiaj - MelGod - Remix",
-      "url": "https://open.spotify.com/track/3nqBd4EKWTW822kwFikdVB"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3Dvdnm4MB1ZvZwEtRAjpSc"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 202500,
       "name": "Oro",
       "url": "https://open.spotify.com/track/0WjfH61yW1TBoFgughJXvX"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Yeshua Hamashiaj - MelGod (Remix)",
+        "url": "https://open.spotify.com/album/2XTIYiYuAmD7oIQBlp6Eeg"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        },
+        {
+          "name": "MelGod",
+          "url": "https://open.spotify.com/artist/6WOIGIpz0WT33xUMVvEA7n"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Yeshua Hamashiaj - MelGod - Remix",
+      "url": "https://open.spotify.com/track/3nqBd4EKWTW822kwFikdVB"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Somos Cristianos",
-        "url": "https://open.spotify.com/album/2KYkLX7gJaw0AcwgEQdzkH"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 140998,
-      "name": "Somos Cristianos",
-      "url": "https://open.spotify.com/track/2rpqfj4MwCv5p4BJuiCGCa"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/1adMCOb4aseM7hhxcVC1wQ"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "La Depre",
-        "url": "https://open.spotify.com/album/0ZY6LS8NRRommQZvMq4gev"
+        "name": "Somos Cristianos",
+        "url": "https://open.spotify.com/album/2KYkLX7gJaw0AcwgEQdzkH"
       },
       "artists": [
         {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
         }
       ],
-      "duration_ms": 179076,
-      "name": "La Depre",
-      "url": "https://open.spotify.com/track/686tnScEjw4L8ZP8O0v0sm"
+      "duration_ms": 140998,
+      "name": "Somos Cristianos",
+      "url": "https://open.spotify.com/track/2rpqfj4MwCv5p4BJuiCGCa"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1267,6 +1251,22 @@
       "duration_ms": 163200,
       "name": "SMC",
       "url": "https://open.spotify.com/track/53Rb7O0Khyu3n0yx9kgHpk"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "La Depre",
+        "url": "https://open.spotify.com/album/0ZY6LS8NRRommQZvMq4gev"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "La Depre",
+      "url": "https://open.spotify.com/track/686tnScEjw4L8ZP8O0v0sm"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Jesucristo Me Toco (En Vivo)",
-        "url": "https://open.spotify.com/album/2NP0fYbcms52HQgQlticFX"
-      },
-      "artists": [
-        {
-          "name": "Os Almirantes",
-          "url": "https://open.spotify.com/artist/74ReARocd6ltxnTFfPaEGL"
-        },
-        {
-          "name": "Los Rabanes",
-          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
-        }
-      ],
-      "duration_ms": 219559,
-      "name": "Jesucristo Me Toco - En Vivo",
-      "url": "https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Segunda Vida",
         "url": "https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 157168,
       "name": "Segunda Vida",
       "url": "https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Jesucristo Me Toco (En Vivo)",
+        "url": "https://open.spotify.com/album/2NP0fYbcms52HQgQlticFX"
+      },
+      "artists": [
+        {
+          "name": "Os Almirantes",
+          "url": "https://open.spotify.com/artist/74ReARocd6ltxnTFfPaEGL"
+        },
+        {
+          "name": "Los Rabanes",
+          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
+        }
+      ],
+      "duration_ms": 219559,
+      "name": "Jesucristo Me Toco - En Vivo",
+      "url": "https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 254135,
-      "name": "Antes Que Salga El Sol",
-      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Del Agua Al Cielo",
         "url": "https://open.spotify.com/album/1OCvOFV7UCnBknPshXgXaC"
       },
@@ -1627,30 +1611,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "\u00a1C\u00f3mo no Hablar!",
-        "url": "https://open.spotify.com/album/0wgi4e3pNkO9fXcmWNHELB"
-      },
-      "artists": [
-        {
-          "name": "Familia Emanuel Worship",
-          "url": "https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak"
-        },
-        {
-          "name": "Hern\u00e1n De Arco",
-          "url": "https://open.spotify.com/artist/1Wgt3tScbP5NBX7hQhBJOr"
-        },
-        {
-          "name": "Travy Joe",
-          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
-        }
-      ],
-      "duration_ms": 208760,
-      "name": "\u00a1C\u00f3mo no Hablar!",
-      "url": "https://open.spotify.com/track/1meqrG2mSGdLX3RBweHorZ"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "SE\u00d1ALES",
         "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
       },
@@ -1663,6 +1623,22 @@
       "duration_ms": 135737,
       "name": "TE ENCONTRE",
       "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 254135,
+      "name": "Antes Que Salga El Sol",
+      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1687,6 +1663,30 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "\u00a1C\u00f3mo no Hablar!",
+        "url": "https://open.spotify.com/album/0wgi4e3pNkO9fXcmWNHELB"
+      },
+      "artists": [
+        {
+          "name": "Familia Emanuel Worship",
+          "url": "https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak"
+        },
+        {
+          "name": "Hern\u00e1n De Arco",
+          "url": "https://open.spotify.com/artist/1Wgt3tScbP5NBX7hQhBJOr"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        }
+      ],
+      "duration_ms": 208760,
+      "name": "\u00a1C\u00f3mo no Hablar!",
+      "url": "https://open.spotify.com/track/1meqrG2mSGdLX3RBweHorZ"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "closefriend",
         "url": "https://open.spotify.com/album/2EBh6PRsSVmVxRmlRCdpDa"
       },
@@ -1699,6 +1699,22 @@
       "duration_ms": 188108,
       "name": "closefriend",
       "url": "https://open.spotify.com/track/26e0AKJGdXBGlznLTYW1SA"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
+      },
+      "artists": [
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1723,18 +1739,18 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
+        "name": "Al Que Tenga O\u00eddos",
+        "url": "https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs"
       },
       "artists": [
         {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
         }
       ],
-      "duration_ms": 169146,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
+      "duration_ms": 283425,
+      "name": "Al Que Tenga O\u00eddos",
+      "url": "https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1763,38 +1779,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Al Que Tenga O\u00eddos",
-        "url": "https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs"
-      },
-      "artists": [
-        {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
-        }
-      ],
-      "duration_ms": 283425,
-      "name": "Al Que Tenga O\u00eddos",
-      "url": "https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 291112,
-      "name": "Veo Tu Gloria",
-      "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Estar\u00e9",
         "url": "https://open.spotify.com/album/0kiw6GLteyZ6UG6Xfv7z6A"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 172800,
       "name": "Estar\u00e9",
       "url": "https://open.spotify.com/track/6kW2XC8ScmC9FRdtfXyEZb"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 291112,
+      "name": "Veo Tu Gloria",
+      "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Bueno",
-        "url": "https://open.spotify.com/album/7mX06PtvfDeBhuORXU96z3"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 175636,
-      "name": "Bueno",
-      "url": "https://open.spotify.com/track/52vDuygHaa5PnaW0as9jzy"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Mi Mirada",
         "url": "https://open.spotify.com/album/41nYMA0ykfkD7j3khXmZLd"
       },
@@ -1871,6 +1855,26 @@
       "duration_ms": 156923,
       "name": "Mi Mirada",
       "url": "https://open.spotify.com/track/2KojT5AmnP2svXb54UMuHZ"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Love Joy & Peace",
+        "url": "https://open.spotify.com/album/0fhTJ1blBXypMh18HzHWZs"
+      },
+      "artists": [
+        {
+          "name": "Kevin Mendoza",
+          "url": "https://open.spotify.com/artist/5RcvhYmXXlPzchje5Y3DxK"
+        },
+        {
+          "name": "Ross",
+          "url": "https://open.spotify.com/artist/6M9ARUEWkb5cMG2KIXMHxG"
+        }
+      ],
+      "duration_ms": 203714,
+      "name": "Alegr\u00eda",
+      "url": "https://open.spotify.com/track/2jSyrrOTSOY07i6KVNU12e"
     }
   ],
   "unique_name": "Fiesta Cristiana",

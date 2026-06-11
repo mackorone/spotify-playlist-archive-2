@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 910,
+  "num_followers": 919,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAD6oL5Lwa6EwHHW9TBXdOG82MsRwKc",
+  "snapshot_id": "AAAD63mejdySJdZhdfcFiCKE8L2xqd4o",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -1319,6 +1319,22 @@
       "duration_ms": 179393,
       "name": "Aint No Thang",
       "url": "https://open.spotify.com/track/5TTn1CjPZag045kau3pHq1"
+    },
+    {
+      "added_at": "2026-06-11 01:20:35",
+      "album": {
+        "name": "Addressed To Me",
+        "url": "https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "duration_ms": 227569,
+      "name": "Addressed To Me",
+      "url": "https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

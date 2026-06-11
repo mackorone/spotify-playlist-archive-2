@@ -4,7 +4,7 @@
 
 > This is Mitski\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 42 min
+77 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Dead Women](https://open.spotify.com/track/6fn7Fdrf5VxQg2Df8zDBpb) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:09 | 2026-03-01 |  |
 | [Drunk Walk Home](https://open.spotify.com/track/093N3AMhUnOeE4wgNRsBOO) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:35 | 2023-05-02 | 2026-03-12 |
 | [Eric](https://open.spotify.com/track/6xsoxv6FtJSjAOBVwuZSGf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 3:17 | 2023-05-02 | 2023-12-23 |
+| [Fireproof](https://open.spotify.com/track/5zIK1hBFlopgt6hZHfuTon) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2 \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1HgxS3QtHoYbHvmjtHnsci) | 1:49 | 2026-06-11 |  |
 | [Fireworks](https://open.spotify.com/track/17o747C5ZZ3UnAg0zNBjOW) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 2:37 | 2023-05-02 | 2024-10-28 |
 | [First Love/Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 | 2023-05-02 |  |
 | [Francis Forever](https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:29 | 2023-05-02 |  |

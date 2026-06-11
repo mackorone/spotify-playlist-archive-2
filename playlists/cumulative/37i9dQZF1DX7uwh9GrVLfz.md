@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: SHAKALABBITS
 
-900 songs - 1 day 23 hr 31 min
+901 songs - 1 day 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Go away](https://open.spotify.com/track/74m1ANTskdub3D1QgMoMwX) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [Go away](https://open.spotify.com/album/6NXDgS5x1zVQsgpdNangZk) | 2:48 | 2022-09-06 | 2022-09-15 |
 | [Go For It](https://open.spotify.com/track/6WEC4dCGAuMfrUMoF55BD4) | [ANGER FLARES](https://open.spotify.com/artist/1KT2rYCKxq9UQ6tqnXLhSP) | [Punk Rock Compilation, Vol​​.1](https://open.spotify.com/album/5L0WzRvc31A7qaHd3yDdHK) | 1:53 | 2023-01-24 | 2023-04-19 |
 | [goes on](https://open.spotify.com/track/3mpavY4fu2IKWpWIuFd03d) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:21 | 2022-05-17 | 2022-08-19 |
-| [GOLD YOUTH](https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [GOLD YOUTH](https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe) | 2:41 | 2023-12-12 |  |
+| [GOLD YOUTH](https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [GOLD YOUTH](https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe) | 2:41 | 2023-12-12 | 2026-06-11 |
 | [Golden Beaver](https://open.spotify.com/track/5RVtVNi6VRfTZc0e5dgXZ5) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [Golden Beaver / Never Looking Back](https://open.spotify.com/album/4NW93bCpBy9BYVCnWRQKzU) | 2:36 | 2025-09-09 | 2025-09-24 |
 | [Good Feelin'](https://open.spotify.com/track/14s2uCKAX0LpFABOTRtkux) | [KNOCK OUT MONKEY](https://open.spotify.com/artist/5Kmgbag5URQXVqUUtvXe1S) | [Good Feelin'](https://open.spotify.com/album/20imArDqUKNDMDPT0q2DiU) | 4:56 | 2022-05-17 | 2022-07-28 |
 | [Goodbye Tears](https://open.spotify.com/track/3V27KAsj2RJ9b3SqXlI6JX) | [ジ・エンプティ](https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf) | [Gift from God E.P.](https://open.spotify.com/album/1MQCFv8QcQI6p8A68KA7tp) | 2:31 | 2023-12-05 | 2023-12-20 |
@@ -555,6 +555,7 @@
 | [SURFPUNK](https://open.spotify.com/track/6sIpZ2Vlz1JJ8jR8kdRDmu) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [SURFPUNK](https://open.spotify.com/album/3k9kELIoJxA8JHDqd9Hw8y) | 2:29 | 2022-05-12 | 2022-07-24 |
 | [Sweet8beat](https://open.spotify.com/track/6Zs9nJ3th9ExyzygXdSfjJ) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [Sweet8beat](https://open.spotify.com/album/64Nc3eTnqRlwRoiVmDLlm8) | 3:58 | 2022-05-12 | 2022-07-06 |
 | [Takatsuki](https://open.spotify.com/track/50Aujeorhvlr5BhLqmirF4) | [grating hunny](https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52) | [Takatsuki](https://open.spotify.com/album/0ySP8BeXswdbrLZKv314te) | 3:23 | 2024-12-24 | 2025-03-12 |
+| [Take My Life Back](https://open.spotify.com/track/0Sgim8hQp2LRXycUpp5Jzb) | [HONEST](https://open.spotify.com/artist/59iGba2GaoFVPVlnwy5J1G) | [Never Wanna Come Back Home](https://open.spotify.com/album/6EeSUFQPuu3FdOkfeRPVhr) | 1:25 | 2026-06-09 |  |
 | [Take Off!!](https://open.spotify.com/track/5KOyDAveuaIds6qRoU0M26) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [SCREAM ON THE BOARD!!](https://open.spotify.com/album/7dnFrpMSja30CeY70L8dPQ) | 2:07 | 2022-05-17 | 2022-07-22 |
 | [Tarinaika,](https://open.spotify.com/track/6RsIqlXQ6uwWvIR7xeCZEm) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [Tarinaika,](https://open.spotify.com/album/6vZgxKBwHqXH9GRoNKCW6M) | 2:52 | 2026-03-24 | 2026-04-22 |
 | [Teijidekaero feat\. TOTALFAT](https://open.spotify.com/track/1kpjvp5Nimd33RlMYaJQCr) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Teijidekaero feat\. TOTALFAT](https://open.spotify.com/album/2ff0DpDkWqdXwwH4h9DZzJ) | 3:07 | 2023-08-08 | 2023-09-10 |

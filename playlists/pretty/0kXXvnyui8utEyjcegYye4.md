@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 359 songs - 21 hr 12 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 362 songs - 21 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -367,5 +367,8 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 357 | [Give You Up \(feat\. Alex Clare\)](https://open.spotify.com/track/692ysOUhsvSSQcoeXcel7l) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl) | [Home \(10th Anniversary Edition\)](https://open.spotify.com/album/3k5awyxfflQsiCRuwUfbm3) | 5:01 |
 | 358 | [Moulaga](https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga](https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J) | 2:59 |
 | 359 | [Tout donner \- Guitar](https://open.spotify.com/track/0Uxpnw7kUWQQ8TtXle4riq) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x), [fedo DJ](https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3) | [Tout donner \(Guitar\)](https://open.spotify.com/album/4FeLL5CvqtuWHzb2l2KH01) | 2:22 |
+| 360 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 |
+| 361 | [Akwaba](https://open.spotify.com/track/1RpYaDpoVelSpkVHj2yNYv) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Akwaba](https://open.spotify.com/album/6fy8ndrkD16idsJ22b8cFo) | 3:43 |
+| 362 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 |
 
-Snapshot ID: `AAADpdFMJaC0i/I2/6ejlJ4v0b5pVSGw`
+Snapshot ID: `AAADqOtBvBheFfWMvAkRLf9HVDs/zBw/`

@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 49 | [Dark Matter](https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Dark Matter](https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod) | 2:35 |
 | 50 | [Maniac \(feat\. Conor Mason of Nothing But Thieves\)](https://open.spotify.com/track/2Qc4hOAjwrmqCtsZRhjzU3) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp), [Conor Mason](https://open.spotify.com/artist/1amPVQOLwiA0phz4JxpEET) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:01 |
 
-Snapshot ID: `aiYGAAAAAACKSlwiOyJIu3jV6lc486RB`
+Snapshot ID: `aidXgAAAAAALUToKHQ45Uf+wtIsC1ygV`

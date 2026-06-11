@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHJY6ZqPPz.md) - [plain]
 
 > All about aespa: meeting another self and experiencing the new world
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,597 likes - 116 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,677 likes - 116 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHJY6ZqPPz.md) - [plain]
 | 77 | [You](https://open.spotify.com/track/52qof5uEYA0TV0EpR7jNxs) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:23 |
 | 78 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 |
 | 79 | [ZOOM ZOOM](https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ZOOM ZOOM](https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP) | 3:12 |
-| 80 | [Spicy \- Nitepunk Remix](https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Nitepunk](https://open.spotify.com/artist/60p5zyDuyeBzIO9hbA08LI) | [iScreaM Vol.26 : Spicy Remix](https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9) | 3:10 |
+| 80 | [Spicy \- Nitepunk Remix](https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [iScreaM Vol.26 : Spicy Remix](https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9) | 3:10 |
 | 81 | [We Go](https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Pokémon 2023 \(Original TV Series Soundtrack, Korea\)](https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1) | 3:08 |
 | 82 | [By Your Side](https://open.spotify.com/track/0DULYwlJVbkTTqA8ji6uSR) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [Pokémon 2023 \(Original TV Series Soundtrack, Korea\)](https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1) | 2:47 |
 | 83 | [妳在哪裡 \(WYA\)](https://open.spotify.com/track/4WOBcLq8VFP4xWLyNMAotu) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [妳在哪裡 \(WYA\)](https://open.spotify.com/album/6ynjwmYfzxcX8HmRnxyqLt) | 3:43 |

@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-470 songs - 23 hr 38 min
+471 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Shake That](https://open.spotify.com/track/6PLgcs3fPY83Nr8Nt92DLe) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Shake That](https://open.spotify.com/album/2074ucy9yG8d61p5iDlcIU) | 2:07 | 2026-04-30 |  |
 | [Shine](https://open.spotify.com/track/3UU5fQfVKlGBXaL4EVvdHr) | [NORII](https://open.spotify.com/artist/4I1nNVymsW8VCQpkkAiqn1), [dejinosuke](https://open.spotify.com/artist/3213sUe3B0Xpj9LbGFBB6P) | [Shine](https://open.spotify.com/album/6lNHtsEcVQlO6ZmSGW2xSj) | 3:14 | 2023-01-12 | 2023-12-09 |
 | [Shot In The Dark](https://open.spotify.com/track/3guu1NVq5cglm8yzIbUqAp) | [Castor & Pollux](https://open.spotify.com/artist/6fHUILCpBvfSHB48AEciPG), [Over Easy](https://open.spotify.com/artist/3T9HpHdBgLU9wcB1LUT0U9), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Shot In The Dark](https://open.spotify.com/album/7equroWORPg8TqJCFAM4so) | 3:20 | 2023-10-26 | 2025-02-01 |
+| [Silence](https://open.spotify.com/track/1t0HDXFC1yeCKKxWfbZ5Go) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Silence](https://open.spotify.com/album/38YSWSX7tIOdFYyrqDA1TY) | 2:59 | 2026-06-10 |  |
 | [Sitting Down Here](https://open.spotify.com/track/1yjwPwIBoJJfBCPfeOwyBK) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Sitting Down Here](https://open.spotify.com/album/667Bjun11jQGE0PdYbPSDZ) | 2:13 | 2024-08-16 | 2024-10-05 |
 | [Slow Down](https://open.spotify.com/track/2AxjwojqEyVJGZAbBrWDGh) | [ASTOR](https://open.spotify.com/artist/3My8e3DuKpRo0uhuIX5lpR) | [Slow Down](https://open.spotify.com/album/42ob8qqXmcm1mJJpK43OrU) | 3:28 | 2026-01-15 |  |
 | [Somebody](https://open.spotify.com/track/56lqBFydYxfo2VsofjbrgS) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [Aztec](https://open.spotify.com/artist/2FPaVCtzBtdYDcu1fA9Ik6), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Somebody](https://open.spotify.com/album/64mpvbkr0wZARBBc45aeQG) | 2:48 | 2022-07-29 | 2022-12-10 |

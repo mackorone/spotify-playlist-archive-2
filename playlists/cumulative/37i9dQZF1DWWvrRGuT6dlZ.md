@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: DAINASAURS\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: YQ Tan\. Artwork: Isu Kim.
 
-1,477 songs - 3 day 8 hr 52 min
+1,480 songs - 3 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Green Sheets](https://open.spotify.com/track/1WQdW1TfNMgbVVGWPEbrXv) | [Brielle Kaga](https://open.spotify.com/artist/5YPzo8kOw6lRwE2COt9awu) | [Green Sheets](https://open.spotify.com/album/3UIyY9WWjw8WFoQmjgMhJU) | 3:28 | 2025-08-29 | 2025-10-17 |
 | [GREENLIGHT](https://open.spotify.com/track/42vmBkcTy3G2H4rl156kje) | [Joogi](https://open.spotify.com/artist/5KK7a8MlnPK04dZCq0IXXs), [Murfy Kit](https://open.spotify.com/artist/0uJdUDh9Ed5exWmbLmufza) | [GREENLIGHT](https://open.spotify.com/album/4FWzg6CpJCRd6ZI8QNLV6u) | 2:48 | 2025-06-26 | 2025-08-16 |
 | [GROOVE](https://open.spotify.com/track/5vYQvFiar2FAKb7Yl5SER6) | [Muratone](https://open.spotify.com/artist/05d3FO1h0tnn4G8yRw3bzp), [Brendonse7an](https://open.spotify.com/artist/65T1SQqoFSFXgUZxSWfpMN) | [GROOVE](https://open.spotify.com/album/5SyJszorUWOp0AK2atKngJ) | 2:40 | 2023-03-02 | 2023-06-23 |
+| [Grow](https://open.spotify.com/track/4KfnCEXq1zFR5UILSVbbkU) | [YQ Tan](https://open.spotify.com/artist/65G2qO6LLXUzOkFzXax2nm) | [Grow](https://open.spotify.com/album/2c0Ob6XBvaA2fMOEs2hUHO) | 2:27 | 2026-06-10 |  |
 | [Guilty](https://open.spotify.com/track/5a0721eNhawTeTrp5V91AK) | [ABBEY](https://open.spotify.com/artist/025iaeoX6uj3UKZbSG0LcR) | [Guilty](https://open.spotify.com/album/0BFcsokFBzCI4WBcUOoxC6) | 3:09 | 2021-12-01 | 2022-01-14 |
 | [Gula\-Gula](https://open.spotify.com/track/2iJz7MqB7FRDGAhBxLjwTH) | [Erika Foo](https://open.spotify.com/artist/6TMspzuKPj0zCY0yTXTxn3) | [Gula\-Gula](https://open.spotify.com/album/5MMY86xf9upnqSt4fnUhez) | 3:27 | 2025-09-12 | 2026-01-15 |
 | [GUNFIGHT](https://open.spotify.com/track/3bH5UrS5OEVnnHe4s5mVe7) | [zekke](https://open.spotify.com/artist/2tc63PQNdNFqJb2caym6IZ) | [GUNFIGHT](https://open.spotify.com/album/34w4f03HV5dR2zM3MSbvm5) | 3:10 | 2024-05-23 | 2025-01-18 |
@@ -1065,6 +1066,7 @@
 | [ShOw Me LoVE](https://open.spotify.com/track/7iS71pIaZQcgUc6xOAnZ2z) | [Nobi](https://open.spotify.com/artist/0nDK8xCxLVcOQ5MLQftbxU), [JOHNASA](https://open.spotify.com/artist/2DaGjCRxooYtb9XxJ7Cezh) | [ShOw Me LoVE](https://open.spotify.com/album/4fG5DrhwcQIb2xROJIJuZn) | 2:57 | 2025-07-11 | 2025-08-16 |
 | [Shy](https://open.spotify.com/track/3Pbfv5LHmCzWRVTguZMGqW) | [Mardiana](https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH), [MunKit](https://open.spotify.com/artist/191uFgI51EP6ohE3tzgLjA), [palemoon.wav](https://open.spotify.com/artist/3qIdJUayfhmeD2QJp6aP7W) | [Shy](https://open.spotify.com/album/4sbRWc8Av2mxn8UpnUl4Ds) | 2:30 | 2025-07-11 | 2025-08-16 |
 | [Sia](https://open.spotify.com/track/2BI9s4zynAGyOAijOHCe77) | [Qistina Khaled](https://open.spotify.com/artist/3tQw3p15FEL7y5WbNPcgMG) | [Sia](https://open.spotify.com/album/73779sMYF1z9bRRx7rsRga) | 4:21 | 2025-09-05 | 2025-11-08 |
+| [Siapa Diriku](https://open.spotify.com/track/33Srq5ouch0bt2zaHABGud) | [Marsya Qistina](https://open.spotify.com/artist/1unuBJjFaJV6kE063C6THx) | [Siapa Diriku](https://open.spotify.com/album/10cLHwpwI31RFkKfbCTLYp) | 3:12 | 2026-06-10 |  |
 | [Sick Sad Love Song](https://open.spotify.com/track/69OA949QUIJh51PXeHbsYn) | [St\. Humain](https://open.spotify.com/artist/1TzaWm5TbNb62mWSvoTW2Y) | [Sick Sad Love Song](https://open.spotify.com/album/5ZyGPSv12xrGf1tyFbk7n4) | 3:07 | 2022-01-13 | 2022-06-17 |
 | [Sign Me Up! \- Radio Edit](https://open.spotify.com/track/6GZgmjF2Hi0dH3ML9n9jPd) | [Quenn Rose](https://open.spotify.com/artist/0oDsXEBIQbGYvWCXSQ7dXo) | [Sign Me Up! \(Radio Edit\)](https://open.spotify.com/album/5m3UnPa6SK0Z9mYBDNqi7r) | 3:49 | 2025-05-02 | 2025-06-13 |
 | [silence](https://open.spotify.com/track/6enNRlLvl1HKnfPq8PM58M) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [Apriltwentyfifth](https://open.spotify.com/artist/0nIW8FTnhYJhShO7cDR3PL) | [silence](https://open.spotify.com/album/3Q8wQYhmg8NaCm6xd3u2dp) | 3:55 | 2023-05-26 | 2024-01-19 |
@@ -1459,6 +1461,7 @@
 | [欠我](https://open.spotify.com/track/0GWIrhy38bJd0SYEBruCEq) | [Von Lee](https://open.spotify.com/artist/6QfuuDTTec3hfzEoCIyCZQ) | [欠我](https://open.spotify.com/album/05UywX4wNlPhD8jMbRshcy) | 3:47 | 2025-07-31 | 2025-09-06 |
 | [残翼](https://open.spotify.com/track/6ZMxeR2diL6vZUSOwSOZxi) | [Lokk](https://open.spotify.com/artist/6aEGtuPEh9zI1szpEybe4P) | [NOVA](https://open.spotify.com/album/5MSUqH2pWSa1zrSUYrYBcT) | 3:32 | 2025-11-14 | 2026-03-14 |
 | [沒人告訴我](https://open.spotify.com/track/1FkVTnsWEj7QwIt6Yzi0mg) | [Haze哈泽](https://open.spotify.com/artist/0O6GJprb1FbUFhv9yks1lq) | [沒人告訴我](https://open.spotify.com/album/70nXkaVUEQ8XVHK1NWyV2R) | 3:28 | 2025-12-03 | 2026-01-15 |
+| [没关系](https://open.spotify.com/track/5f8RxIrDnpWChZ8ymWlZhu) | [LOEWEN 洛文](https://open.spotify.com/artist/0t01iYK7btEIOlOgcbaHTE) | [没关系](https://open.spotify.com/album/5jnwzgXLCQF5TjN38E3XDS) | 4:30 | 2026-06-10 |  |
 | [没有人能够](https://open.spotify.com/track/69nROcHPRjqovW5SYkVp7V) | [Chris 官杰皓](https://open.spotify.com/artist/1RmlAusTzAZxnL52oD223v) | [没有人能够](https://open.spotify.com/album/6Y6GmfpolslfG6p1mNZLxz) | 3:24 | 2025-09-12 | 2025-11-08 |
 | [没有弗洛伊德就给我一张红色沙发](https://open.spotify.com/track/00MUcb9hu2ADEcC9LR16Ha) | [鱼惺味](https://open.spotify.com/artist/7AMQEk5MoxhbLmZrXwtZ6X) | [没有弗洛伊德就给我一张红色沙发](https://open.spotify.com/album/7JETECMEUMKSjmWZlIcoKo) | 4:18 | 2025-07-31 | 2025-09-13 |
 | [生還](https://open.spotify.com/track/64jFkLd0ZX1cz8oC4ZzaH7) | [超粤](https://open.spotify.com/artist/5UHogzgUGhuzmTCXqELfkK) | [生還](https://open.spotify.com/album/0UhXa6oJmAduBUh3qynAbX) | 4:18 | 2025-11-14 | 2026-03-14 |

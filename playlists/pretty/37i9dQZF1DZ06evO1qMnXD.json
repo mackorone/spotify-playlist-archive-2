@@ -1,13 +1,29 @@
 {
   "description": "This is Mitski. The essential tracks, all in one playlist.",
-  "num_followers": 299180,
+  "num_followers": 299192,
   "original_name": "This Is Mitski",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAABf1o8up0Gpwm5Guuodp7xS",
+  "snapshot_id": "aidXgAAAAABRiq7YKdVNYISPoCa8je9h",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puberty 2 (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1HgxS3QtHoYbHvmjtHnsci"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 109431,
+      "name": "Fireproof",
+      "url": "https://open.spotify.com/track/5zIK1hBFlopgt6hZHfuTon"
+    },
     {
       "added_at": null,
       "album": {

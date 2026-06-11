@@ -4,7 +4,7 @@
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Indira Paganotto.
 
-842 songs - 2 day 4 hr 8 min
+844 songs - 2 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Bitches Talk Shit](https://open.spotify.com/track/2zeOTTt5w7lSwKtbUXcnTQ) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Bitches Talk Shit](https://open.spotify.com/album/7qpKgKDoZQhrvnZIeIaRKq) | 3:39 | 2026-05-01 |  |
 | [Bite](https://open.spotify.com/track/2kqEtJ6AkXcRMDkoEcVext) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Bite](https://open.spotify.com/album/6lxHLwfqK6pihbiDLDHAAe) | 2:53 | 2026-03-20 | 2026-05-30 |
 | [Blackbird SR\-71](https://open.spotify.com/track/68oNk0caJp9px4OqqmPAmS) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Blackbird SR\-71](https://open.spotify.com/album/1OdcAtQUGSSKRj4QjaWK4b) | 3:35 | 2024-06-07 | 2025-01-11 |
-| [Blasting Through the Speakers](https://open.spotify.com/track/72YcfDh7YXItRSoCpBWp86) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Blasting Through the Speakers](https://open.spotify.com/album/2ZaBTwE8ma5O8QMyLON6Wf) | 2:46 | 2025-10-03 |  |
+| [Blasting Through the Speakers](https://open.spotify.com/track/72YcfDh7YXItRSoCpBWp86) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Blasting Through the Speakers](https://open.spotify.com/album/2ZaBTwE8ma5O8QMyLON6Wf) | 2:46 | 2025-10-03 | 2026-06-11 |
 | [Blue Sky \(feat\. LYZZA & SadBoi\)](https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Blue Sky \(feat\. LYZZA & SadBoi\)](https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu) | 2:22 | 2025-05-23 | 2025-07-26 |
 | [Body & Soul](https://open.spotify.com/track/3Wb4xz7e9M94DiRnkhLm7m) | [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [Body & Soul](https://open.spotify.com/album/26qaE6BS5fVRqtao7Qxmoq) | 3:15 | 2024-03-01 | 2024-05-03 |
 | [Body \(feat\. Tima Dee\)](https://open.spotify.com/track/1HUUzEhzjOd26lGtcOvlyE) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Body \(feat\. Tima Dee\)](https://open.spotify.com/album/2MpvK6jRaDyD4y54OgbX58) | 2:45 | 2024-07-24 | 2024-08-17 |
@@ -144,7 +144,7 @@
 | [Clearly Rushing](https://open.spotify.com/track/6XySYT472SweJ5kSOr3aFC) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [Clearly Rushing](https://open.spotify.com/album/2caDuxe2VEqkt2Xq17ekF2) | 3:20 | 2024-03-01 | 2024-03-30 |
 | [Close To You](https://open.spotify.com/track/4vpIn71jsD2X7Juzf0nWLe) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Close To You](https://open.spotify.com/album/1eYJ0RQFxvFdUJfMExvTnJ) | 2:52 | 2024-05-17 | 2024-08-24 |
 | [Close to You](https://open.spotify.com/track/6A0V9bTkmRYCsGtbg1MuN9) | [Pina Tesla](https://open.spotify.com/artist/4cdNLTbg5gmVILlui2cIFB) | [Beyond Physics](https://open.spotify.com/album/67H1LhhFdyYflclhcWKZ7z) | 5:30 | 2024-10-11 | 2025-02-01 |
-| [Clouded](https://open.spotify.com/track/5H6q2mrgtsDtw4yD1NU97T) | [Rose Holland](https://open.spotify.com/artist/0s1kTVN40AkTa0ABb0lvJh) | [Clouded](https://open.spotify.com/album/5dfjvvyLcrEMN9WEbyFkg5) | 3:15 | 2025-10-24 |  |
+| [Clouded](https://open.spotify.com/track/5H6q2mrgtsDtw4yD1NU97T) | [Rose Holland](https://open.spotify.com/artist/0s1kTVN40AkTa0ABb0lvJh) | [Clouded](https://open.spotify.com/album/5dfjvvyLcrEMN9WEbyFkg5) | 3:15 | 2025-10-24 | 2026-06-11 |
 | [Club classics featuring bb trickz](https://open.spotify.com/track/2zbtUOuh8lREqhg8JCRrhs) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:54 | 2024-10-11 | 2024-11-16 |
 | [Coconut Water](https://open.spotify.com/track/2DSWwPZYH00L6NYQBxe6Uf) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Coconut Water](https://open.spotify.com/album/5NghVRPpgs6d7GXEBsk22G) | 3:24 | 2024-12-06 | 2025-02-01 |
 | [Cola](https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Cola](https://open.spotify.com/album/7zxKbImjdH3iLRwAT1XWoX) | 2:13 | 2026-01-30 | 2026-05-30 |
@@ -343,6 +343,7 @@
 | [Heaven \(Late Night\)](https://open.spotify.com/track/682UIjOPyzX7rzqlWfAMMU) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Fever EP](https://open.spotify.com/album/4Mwzfyr8MBiq9ni4q0H47Y) | 5:59 | 2025-12-17 | 2026-01-24 |
 | [Heavyweight](https://open.spotify.com/track/4IUl1cBeu0HI6kob3QZyNX) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Heavyweight](https://open.spotify.com/album/7N3pXrhfs3jHWGNDK57gwJ) | 2:39 | 2024-06-07 | 2025-01-25 |
 | [Her](https://open.spotify.com/track/16Vvd690cYoxmMvqaiTBwz) | [AMPRS&ND](https://open.spotify.com/artist/7Av5m3tbfqa4yzpvPPBNCK) | [Her](https://open.spotify.com/album/2XibTFDr73jMIeM7CWTDeR) | 3:05 | 2024-03-01 | 2024-05-11 |
+| [Here and Now](https://open.spotify.com/track/0luvadXP7x1Sw9a3ocLALE) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Shelter Our Time](https://open.spotify.com/album/3Vgo7btukFs2mh6VO5faf6) | 3:54 | 2026-06-10 |  |
 | [Hey \(Shut Up\)](https://open.spotify.com/track/6Sy8VJKsFhvWab130OFLjO) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Hey \(Shut Up\)](https://open.spotify.com/album/5lO7A8BggmR1eaUNtSoehK) | 4:25 | 2024-07-05 | 2025-03-15 |
 | [Hey Maria](https://open.spotify.com/track/7ng0n3GkYq5hojwGgpy7oH) | [Malix](https://open.spotify.com/artist/4qlZWwvpGlUWkRE2Yvot4c) | [Hey Maria](https://open.spotify.com/album/1oqsw3r02JS93gE162b6gH) | 3:50 | 2025-11-21 | 2026-02-14 |
 | [Hey!](https://open.spotify.com/track/2VWR1x9sYw28qu5xSZvhcq) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Hey!](https://open.spotify.com/album/4ZZhvcSIjaiD17Zb6wb3zB) | 3:45 | 2025-07-25 | 2026-03-14 |
@@ -623,6 +624,7 @@
 | [Ride Or Die](https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Ride Or Die](https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS) | 2:48 | 2024-05-03 | 2024-09-07 |
 | [Right Here](https://open.spotify.com/track/27PLkQCMxOlaiouTPejkmZ) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Right Here](https://open.spotify.com/album/3QcjyO7WglcOzKQmfgKwXp) | 3:49 | 2024-05-17 | 2025-01-11 |
 | [Right Spot](https://open.spotify.com/track/2pgCADpQ8xzPTRt2YwmJue) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Right Spot](https://open.spotify.com/album/2hOXLBMjHBJZNT1WMmwjp0) | 2:50 | 2024-03-29 | 2024-05-18 |
+| [Riot](https://open.spotify.com/track/5SP8e2d99MyqtVx9wPHgnR) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Riot](https://open.spotify.com/album/3zqvht3mWwHSc0sSY0JFpb) | 2:39 | 2026-06-10 |  |
 | [Rise \(Or:la remix\)](https://open.spotify.com/track/1OVHo3HiEfPBkDoJ5dBpba) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Or:la](https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf) | [Rise \(Or:la remix\)](https://open.spotify.com/album/4FVyMmhPwLLCHhHXsdHQsk) | 4:56 | 2025-03-28 | 2025-05-10 |
 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 | 2024-04-19 | 2024-06-25 |
 | [Rodeo](https://open.spotify.com/track/3KtJMh6nkI5Sv8YUayxsKm) | [Girl Math](https://open.spotify.com/artist/5ME3kZ92gTA4IcXDauJmz5), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Rodeo](https://open.spotify.com/album/4lUpiJgxMtkPx0NIQH1uV2) | 3:23 | 2025-08-29 | 2026-03-14 |

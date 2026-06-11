@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Skye Newman
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,878 likes - 41 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,886 likes - 41 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,20 +19,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 9 | [you call it love, i call it lie](https://open.spotify.com/track/3rPxI0MTRbYp86Eb4Et8VA) | [CClaire 馬愷伶](https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o) | [you call it love, i call it lie](https://open.spotify.com/album/1pRXCnckXX7ixU1fXTadFR) | 3:02 |
 | 10 | [要還](https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [要還](https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai) | 3:34 |
 | 11 | [escuchándote](https://open.spotify.com/track/1M4Q9Jz8E6KI6cxGwLRYAs) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [escuchándote](https://open.spotify.com/album/7862iXXB8YiF2Ggi0tIoF7) | 2:16 |
-| 12 | [1.ROCHO TURRO \- BONUS TRACK](https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Bebox](https://open.spotify.com/artist/60fauDyOXHxbclrKkyJNGV), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:19 |
-| 13 | [cuídame de mi](https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:23 |
+| 12 | [cuídame de mi](https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:23 |
+| 13 | [1.ROCHO TURRO \- BONUS TRACK](https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Bebox](https://open.spotify.com/artist/60fauDyOXHxbclrKkyJNGV), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:19 |
 | 14 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 |
 | 15 | [SAJGON](https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [SAJGON](https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw) | 2:00 |
 | 16 | [Porteira Fechada \- Ao Vivo](https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx) | [Bruna Lipiani](https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK) | [Barzin, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig) | 2:58 |
-| 17 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |
-| 18 | [nos keremos tanto](https://open.spotify.com/track/3DrkXhBUf9p5vftXG0E1mS) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:33 |
+| 17 | [nos keremos tanto](https://open.spotify.com/track/3DrkXhBUf9p5vftXG0E1mS) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:33 |
+| 18 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |
 | 19 | [Vekhi Jaava](https://open.spotify.com/track/6WwWLn22expKNHxawIo2Qn) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Daaku](https://open.spotify.com/artist/0Gk0DXsojuXvKXROsCbO0e) | [Vekhi Jaava](https://open.spotify.com/album/1YphBK2DQ3mtLoyIAwAH21) | 2:01 |
 | 20 | [clear blue!](https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [is anybody home!?](https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX) | 4:17 |
 | 21 | [樓梯等你](https://open.spotify.com/track/6wiCMDCcbI7ZtzI6rDWK3v) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [樓梯等你](https://open.spotify.com/album/4LQQEJIpaBYwghtZ8iTPxv) | 3:38 |
 | 22 | [Tiada Pengganti](https://open.spotify.com/track/2Bfp4yZKfMJxCkScw7s1G3) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [Tiada Pengganti](https://open.spotify.com/album/7vzNHzXi5yCbTRdc5eogmA) | 3:08 |
 | 23 | [Believe](https://open.spotify.com/track/0P4m0R5msH9E5I2CfQx7Dg) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Believe](https://open.spotify.com/album/5UML5yybgZrFpHIMD3w7zY) | 3:42 |
-| 24 | [Playita](https://open.spotify.com/track/2WowKsE6B5QEXiYTVCHogG) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [Playita](https://open.spotify.com/album/1Abywyg2e2Vr8P1pPZUwzZ) | 2:30 |
-| 25 | [where's your girlfriend](https://open.spotify.com/track/3a660Cnhydjs5O5g0yQ1ME) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [where's your girlfriend](https://open.spotify.com/album/4allJNrFZH7Ob9jO98TofS) | 3:33 |
+| 24 | [where's your girlfriend](https://open.spotify.com/track/3a660Cnhydjs5O5g0yQ1ME) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [where's your girlfriend](https://open.spotify.com/album/4allJNrFZH7Ob9jO98TofS) | 3:33 |
+| 25 | [Playita](https://open.spotify.com/track/2WowKsE6B5QEXiYTVCHogG) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [Playita](https://open.spotify.com/album/1Abywyg2e2Vr8P1pPZUwzZ) | 2:30 |
 | 26 | [Jamais Été \(Cool\)](https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Jamais Été \(Cool\)](https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra) | 2:35 |
 | 27 | [夏夕夏景](https://open.spotify.com/track/5kwmL31ZEZBu4stW6WKG6W) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [夏夕夏景](https://open.spotify.com/album/3OpwHtAUbWjZuyjO4lZ0HQ) | 2:30 |
 | 28 | [ผิดจังหวะ \(Off Beat\)](https://open.spotify.com/track/0iLTFTrTcXlIO9EjSgPCGl) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [ผิดจังหวะ \(Off Beat\)](https://open.spotify.com/album/1y9QFEwGrVNeni6D8XXgJS) | 2:54 |

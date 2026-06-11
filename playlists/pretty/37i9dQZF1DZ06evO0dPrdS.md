@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dPrdS.md) - [plain]
 
 > This is Spice Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,891 likes - 39 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,896 likes - 39 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dPrdS.md) - [plain]
 | 16 | [Viva Forever \(Io ci saro\)](https://open.spotify.com/track/50Ss5LWYLbMl9kCFVschmh) | [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Pavarotti & Friends For The Children Of Liberia](https://open.spotify.com/album/4XnE9LHn91CESCT3kB5RGm) | 4:56 |
 | 17 | [Mama](https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 5:04 |
 | 18 | [Never Give Up On The Good Times](https://open.spotify.com/track/6RQnRYot6B3TPZsMbbSJ20) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 4:30 |
-| 19 | [Tell Me Why](https://open.spotify.com/track/0r5d5LmhLQwJVEw0kTEExp) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:14 |
+| 19 | [If You Wanna Have Some Fun](https://open.spotify.com/track/1tMHxkwWMUfh0HyMiRAY4I) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 5:26 |
 | 20 | [My Strongest Suit](https://open.spotify.com/track/5QnDgzbWfvm1TUaUshBewM) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Aida](https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp) | 4:10 |
 | 21 | [Love Thing](https://open.spotify.com/track/61PwiYyJhF1HLi0OXomzQE) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:38 |
 | 22 | [Saturday Night Divas](https://open.spotify.com/track/3M83cWfWcFXtkavdM8NuEZ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 4:25 |
-| 23 | [If You Wanna Have Some Fun](https://open.spotify.com/track/1tMHxkwWMUfh0HyMiRAY4I) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 5:26 |
+| 23 | [Tell Me Why](https://open.spotify.com/track/0r5d5LmhLQwJVEw0kTEExp) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:14 |
 | 24 | [Voodoo](https://open.spotify.com/track/6rYVBkMNqLBH5kw7AcBz77) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Greatest Hits](https://open.spotify.com/album/2XLpqfYjGTecYQJQU9wFxG) | 3:11 |
 | 25 | [Outer Space Girls](https://open.spotify.com/track/1XHosFpKcWkRtuxPQm0HnO) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 3:58 |
 | 26 | [Bumper To Bumper](https://open.spotify.com/track/4pMxscJWCWu5HjnomOGaa7) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Wannabe](https://open.spotify.com/album/18chSYUxefaj4wwJX6CK6x) | 3:42 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dPrdS.md) - [plain]
 | 38 | [Sisters \(Are Doing It For Themselves\) \- Live From Wembley Stadium, UK / 1998](https://open.spotify.com/track/0y2Zg6IkB3YhuA7ygudELZ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG) | 4:23 |
 | 39 | [Spice Chat 2 “Shall We Say ‘Goodbye’ Then?’](https://open.spotify.com/track/3BDGPPDaW1dwVjOoLO5uPl) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 0:48 |
 
-Snapshot ID: `aiYGAAAAAADpzNMEz+eIyCOwipNqy8v/`
+Snapshot ID: `aidXgAAAAACi+R34cipOIIoDkpEZZgFt`

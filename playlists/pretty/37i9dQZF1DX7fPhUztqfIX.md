@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Red Rocks Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,088 likes - 100 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,089 likes - 100 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 7 | [He's Working \(Everything For Good\)](https://open.spotify.com/track/79z9hjB64qk37xsd4mwHfZ) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [He's Working \(Everything For Good\)](https://open.spotify.com/album/5Ttq8sLwdu99T8dTacBkgK) | 5:06 |
 | 8 | [Magnificent](https://open.spotify.com/track/054ayDYIvEW0KUnUUNLhkg) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Magnificent](https://open.spotify.com/album/6tl3nRgU1piPND0bbuyAYp) | 5:41 |
 | 9 | [Come On Home](https://open.spotify.com/track/5yScUwgBusHsa1ZfKvLjSO) | [Rivers Crossing Worship](https://open.spotify.com/artist/7xuM274nFelfNPgItlKbUs) | [Secret Places: Part 2](https://open.spotify.com/album/5HC2pmpttpuOfsybMlAcUl) | 4:20 |
-| 10 | [Show Me Your Face](https://open.spotify.com/track/7g2vH9kdrbnQEwxZyWpLj4) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [Show Me Your Face](https://open.spotify.com/album/0WdfSNNfnVscGF61sJbe2y) | 7:58 |
+| 10 | [Show Me Your Face](https://open.spotify.com/track/7g2vH9kdrbnQEwxZyWpLj4) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [Show Me Your Face](https://open.spotify.com/album/0WdfSNNfnVscGF61sJbe2y) | 7:56 |
 | 11 | [He Is Here](https://open.spotify.com/track/2CwSU2PBHlapNwbALjlFR2) | [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [He Is Here](https://open.spotify.com/album/7iDWuJW8CE6Bpm5NZ2k0bW) | 4:57 |
 | 12 | [Bless The Lord](https://open.spotify.com/track/4un5nPT9hPvMxMbmDPdPYf) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Matthew Nainby](https://open.spotify.com/artist/6I3uBljYWbt6br31RMYnPe) | [Bless The Lord](https://open.spotify.com/album/2KsZi8gRzq9qnoai8E6KKm) | 3:41 |
 | 13 | [Return \- Radio Edit](https://open.spotify.com/track/04HtSohGjvlbmWorsz9PVi) | [The Revelation Room](https://open.spotify.com/artist/1ApF5UVwTOchQqLMjFPtKu), [Joshua Fraser](https://open.spotify.com/artist/7KO07Ql1wQPxRzdz8pTzJU) | [Return](https://open.spotify.com/album/4Wj0MW8ymoDrnGPXKpZFs8) | 3:39 |

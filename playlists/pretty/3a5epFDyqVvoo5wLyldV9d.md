@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 46 likes - 913 songs - 2 day 23 hr 25 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 46 likes - 914 songs - 2 day 23 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -921,5 +921,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 911 | [Se Me Va La Cabeza](https://open.spotify.com/track/0GaS2833gFtjSQ53aHr1IR) | [Papá Levante](https://open.spotify.com/artist/4gb13Uvpvz0EFEHtmYdgDf) | [Tomalacaté](https://open.spotify.com/album/3dDzTy6IGKtWIKljapmsyK) | 3:11 |
 | 912 | [SHADOWS ON THE GROUND](https://open.spotify.com/track/3CY22c6RzxOQAFZHr2x32z) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [Service](https://open.spotify.com/album/1y0LgDbT0TwSwtPX0s8wjN) | 4:22 |
 | 913 | [Come Rain Or Come Shine](https://open.spotify.com/track/79qdOA5s0PqTEQryuT2Y4p) | [Naomi Akimoto](https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl) | [One Night Stand](https://open.spotify.com/album/7jRY6P5XDCfZRiEHYie7Et) | 4:27 |
+| 914 | [Sparring Partner](https://open.spotify.com/track/7p5jetoN7m7LeDKA2Mfhvv) | [Paolo Conte](https://open.spotify.com/artist/7bAIYB0KGbYXlGbIjyFAcI) | [Paolo Conte](https://open.spotify.com/album/0LFIPXXxCjybZoE6H0tswB) | 4:11 |
 
-Snapshot ID: `AAAEFmZifL4sPDk4j3YWYENoOmJ3U+6A`
+Snapshot ID: `AAAEF4XEwihjJnROK7l87mJHkJ9CXBLH`

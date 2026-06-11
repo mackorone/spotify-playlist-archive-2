@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 270977,
+  "num_followers": 271040,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAAMFujcyhPdevx3R9LsXnYz",
+  "snapshot_id": "aidXgAAAAABzKWv6vLlF8gj6BpgIXx51",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 253093,
+      "name": "Screwface Capital",
+      "url": "https://open.spotify.com/track/0zvs4YrUqCwOJ5yVKY4tFm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Funky Friday",
         "url": "https://open.spotify.com/album/1rsazGoWjl4zj4xyASJhJi"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 182741,
       "name": "Funky Friday",
       "url": "https://open.spotify.com/track/7qVMGBe36nf1IpbsyQf1MR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 253093,
-      "name": "Screwface Capital",
-      "url": "https://open.spotify.com/track/0zvs4YrUqCwOJ5yVKY4tFm"
     },
     {
       "added_at": null,
@@ -563,22 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zero Tolerance",
-        "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH"
       },
       "artists": [
         {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
-        },
-        {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 243883,
-      "name": "Incredible Sauce (feat. Dave)",
-      "url": "https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF"
+      "duration_ms": 307973,
+      "name": "Our 25th Birthday",
+      "url": "https://open.spotify.com/track/4vIPKDgaUQYtwrCKTKhiBP"
     },
     {
       "added_at": null,
@@ -603,22 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Split Decision",
-        "url": "https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH"
+        "name": "Zero Tolerance",
+        "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
         },
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 307973,
-      "name": "Our 25th Birthday",
-      "url": "https://open.spotify.com/track/4vIPKDgaUQYtwrCKTKhiBP"
+      "duration_ms": 243883,
+      "name": "Incredible Sauce (feat. Dave)",
+      "url": "https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4sANgPN5QxueFQmfIxGZi0"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/6ctmWJntoQg4n8cZEQqCjA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crop Circle",
         "url": "https://open.spotify.com/album/4375umzAIqqlWI49eue7Na"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 141146,
       "name": "Venting",
       "url": "https://open.spotify.com/track/0no5A5TF0u0k8HIf3ianXs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/4sANgPN5QxueFQmfIxGZi0"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 196022,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/6ctmWJntoQg4n8cZEQqCjA"
     },
     {
       "added_at": null,

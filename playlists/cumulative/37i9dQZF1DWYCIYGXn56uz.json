@@ -4887,20 +4887,24 @@
     },
     {
       "album": {
-        "name": "Cuore rotto",
+        "name": "Cuore rotto (feat. Finesse)",
         "url": "https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9"
       },
       "artists": [
         {
           "name": "Tony Boy",
           "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
         }
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 140000,
-      "name": "Cuore rotto",
+      "name": "Cuore rotto (feat. Finesse)",
       "url": "https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN"
     },
     {

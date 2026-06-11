@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > Jamaika x Carmon 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,410 likes - 46 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,403 likes - 46 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 박세정\(Park Se Jung\)\)
 
-646 songs - 1 day 10 hr 38 min
+647 songs - 1 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Last Pure Luv](https://open.spotify.com/track/6URA9fyuaEgiVyC706jElA) | [GYU HYUK](https://open.spotify.com/artist/4CR6l2Eylrakt5FBP6I7hr) | [Last Pure Luv](https://open.spotify.com/album/2W4sJVKg3dAA7DbffsoFFh) | 3:06 | 2023-01-13 | 2023-04-28 |
 | [Last Scene](https://open.spotify.com/track/0tJU0IwpKmUSg2uFOZ7RC6) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Last Scene](https://open.spotify.com/album/1FMpS9DvBEDsGVkYKDSTBa) | 3:46 | 2025-07-09 | 2026-01-23 |
 | [Lay me by your side \(feat\. JoOhA & Still\)](https://open.spotify.com/track/4UFUYZeFSxlmMMuwxAD8Qq) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [JoOhA](https://open.spotify.com/artist/3hkgIaHRJ0slOoCa8zUFVX), [Still](https://open.spotify.com/artist/6IbdxPqmhxU87FC6GneXxX) | [You are my spring](https://open.spotify.com/album/3r6HeTeQd7JlGmuhhiGwGe) | 2:46 | 2023-04-17 | 2023-10-06 |
+| [Layback](https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [TR.EE](https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA) | 3:11 | 2026-06-10 |  |
 | [LEMON \(Feat\. SOLE, MINO\)](https://open.spotify.com/track/1NZDEgM9f7j5l447FAcHYq) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [LEMON](https://open.spotify.com/album/6zfZDAVgp6WPIKkg1b0tdF) | 3:20 | 2023-03-30 | 2023-09-19 |
 | [Lemonade \(feat\. Woo\)](https://open.spotify.com/track/2FbJYBCv0fyEHNDdrVoMiL) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Lemonade \(feat\. Woo\)](https://open.spotify.com/album/4sSmFOHTd175JCHtrnOVdW) | 3:18 | 2024-04-04 | 2024-08-04 |
 | [Let me know \(Feat\. YEOHO\)](https://open.spotify.com/track/2canhObXy3qADDzIDMqtf5) | [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX), [YEOHO](https://open.spotify.com/artist/4228BjQOcYIzpST8mLwR2V) | [Trello](https://open.spotify.com/album/1TSNJCcZXubDO54usy3hQ6) | 2:59 | 2023-08-16 | 2023-11-29 |

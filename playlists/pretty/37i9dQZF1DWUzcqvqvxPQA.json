@@ -1,6 +1,6 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 32955,
+  "num_followers": 32969,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Gonna Be Good",
-        "url": "https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 183213,
-      "name": "Gonna Be Good",
-      "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 112497,
       "name": "Believe It",
       "url": "https://open.spotify.com/track/24MzsXH35mx5ZAJqIhVC8K"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Gonna Be Good",
+        "url": "https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 183213,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
+      },
+      "artists": [
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "Counting My Blessings",
         "url": "https://open.spotify.com/album/3qr0raAjkRZfT881l6a2uz"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 194251,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/4q8AWVVk5OB1Xz9vNoBn5h"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "Long Gone",
-        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
-      },
-      "artists": [
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "Long Gone",
-      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Sunshine & Laughter",
-        "url": "https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Krisirie",
-          "url": "https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m"
-        }
-      ],
-      "duration_ms": 176239,
-      "name": "Sunshine & Laughter",
-      "url": "https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "whisper and the wind (b+CL version)",
         "url": "https://open.spotify.com/album/3nLiutNSYBngqPRzTOB7Br"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 198522,
       "name": "whisper and the wind - b+CL version",
       "url": "https://open.spotify.com/track/4ccZ3mBc2gtSRW6xzrxEQb"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Sunshine & Laughter",
+        "url": "https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Krisirie",
+          "url": "https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m"
+        }
+      ],
+      "duration_ms": 176239,
+      "name": "Sunshine & Laughter",
+      "url": "https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Shine On Me",
-        "url": "https://open.spotify.com/album/1cUkumqdaoOmyJhI1Nk3Ak"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        },
-        {
-          "name": "Mark & Sarah Tillman",
-          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Shine On Me",
-      "url": "https://open.spotify.com/track/71wENgIM7IF7EtUCyvwIqZ"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "Not For You",
         "url": "https://open.spotify.com/album/3TyG2ACkY0lJ9LWcKjTnKW"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 133761,
       "name": "Not For You",
       "url": "https://open.spotify.com/track/0yuBiPxOKOe4jYbOzSe92t"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Shine On Me",
+        "url": "https://open.spotify.com/album/1cUkumqdaoOmyJhI1Nk3Ak"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Shine On Me",
+      "url": "https://open.spotify.com/track/71wENgIM7IF7EtUCyvwIqZ"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/1mHjunby6EiZ38XWe1TaM1"
-      },
-      "artists": [
-        {
-          "name": "DeAngelo",
-          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
-        }
-      ],
-      "duration_ms": 130576,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0ndh1TcblkuceH8ZmauBWM"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2TskVz0QmXq4ueQYyW36GD"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 154124,
       "name": "Testify",
       "url": "https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/1mHjunby6EiZ38XWe1TaM1"
+      },
+      "artists": [
+        {
+          "name": "DeAngelo",
+          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
+        }
+      ],
+      "duration_ms": 130576,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0ndh1TcblkuceH8ZmauBWM"
     },
     {
       "added_at": "2026-05-29 08:59:34",

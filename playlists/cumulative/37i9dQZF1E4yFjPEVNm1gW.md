@@ -2,9 +2,9 @@
 
 ### [Taewitdak Radio](https://open.spotify.com/playlist/37i9dQZF1E4yFjPEVNm1gW)
 
-> With Yeat, Cuo Zay, Autumn! and more
+> With Yeat, Cuo Zay, Ken Carson and more
 
-239 songs - 9 hr 26 min
+241 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [blood](https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf) | [lil2posh](https://open.spotify.com/artist/3h76PMHrHwdKLziJERRpAr) | [blood](https://open.spotify.com/album/405osWHgLWlqSiOz7XL0cM) | 2:18 | 2025-11-29 | 2026-04-27 |
 | [Blood On The Leaves \(Remix\)](https://open.spotify.com/track/1pxal7Zs5xxABW7Jf01RpL) | [1030Xhris](https://open.spotify.com/artist/7gfyemrwVrMbcKdxnjggaO), [yvngchris](https://open.spotify.com/artist/48jFxV79oOq1LYhYLtpVAV) | [Blood On The Leaves \(Remix\)](https://open.spotify.com/album/3bK84xF814GHAMKU2N1qH4) | 1:56 | 2025-11-29 | 2025-12-21 |
 | [Bonnie & Clyde](https://open.spotify.com/track/3zls854dRathxLF4aoMJm2) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Me & Mine, Pt\. 1](https://open.spotify.com/album/32IMKd48Sp6pe9sW473ono) | 3:18 | 2026-02-26 |  |
-| [Bowls In The Underworld](https://open.spotify.com/track/0Pgwc9wwiNgiD4ucHsyohr) | [1mirs](https://open.spotify.com/artist/1jQfAstIhnIaUoEMYaxHSq), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [Ybcdul](https://open.spotify.com/artist/5gMYyYkabVhQUt6FuaUJbC), [YoungBagChasers](https://open.spotify.com/artist/2GzyKAB2qWkYXeuk0RtYYw) | [It Starts Here 2](https://open.spotify.com/album/4Ld1UydP1EfVCuETjJR824) | 2:13 | 2026-01-15 |  |
+| [Bowls In The Underworld](https://open.spotify.com/track/0Pgwc9wwiNgiD4ucHsyohr) | [1mirs](https://open.spotify.com/artist/1jQfAstIhnIaUoEMYaxHSq), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [Ybcdul](https://open.spotify.com/artist/5gMYyYkabVhQUt6FuaUJbC), [YoungBagChasers](https://open.spotify.com/artist/2GzyKAB2qWkYXeuk0RtYYw) | [It Starts Here 2](https://open.spotify.com/album/4Ld1UydP1EfVCuETjJR824) | 2:13 | 2026-01-15 | 2026-06-11 |
 | [Boys Don’t Cry](https://open.spotify.com/track/0uNKyWtOudnH1fnNlwHywQ) | [YDG Breezy](https://open.spotify.com/artist/40wED5G8ggmynCzzr6Z9bM) | [Nightmare On Gardens St](https://open.spotify.com/album/5MUtxI5q19RNyq0ySlrBID) | 2:34 | 2025-12-13 | 2025-12-16 |
 | [Bruce Wayne](https://open.spotify.com/track/72lcXqVlzrsCt5lAdFqG0m) | [Slash4L](https://open.spotify.com/artist/3n6TbPQYtcx4F1w9Yg388N) | [World Class](https://open.spotify.com/album/3NlvDTSCXBRcGGLsEWmXEe) | 2:05 | 2026-03-26 | 2026-04-06 |
 | [Budget](https://open.spotify.com/track/6L2b6JI3ANJeGmFHdPW7SN) | [BADNEWZJIZZ](https://open.spotify.com/artist/4UcaI2RROaYWPoCGKgOqtt) | [Am I The Profit](https://open.spotify.com/album/1u2yqxrbRvvWybPwSWBjbG) | 2:52 | 2026-01-02 | 2026-01-04 |
@@ -167,6 +167,7 @@
 | [PDL](https://open.spotify.com/track/3k2xRF5wGlAZnRsSPOOAXn) | [Pasto Flocco](https://open.spotify.com/artist/4dQKBmnccqxpFiAk5qmvy7) | [GLE Presents: BLUEBILLZ EP](https://open.spotify.com/album/2yLq95mpSfaL9959tkbyL8) | 2:07 | 2025-11-29 | 2025-12-01 |
 | [petrol](https://open.spotify.com/track/3JBtFRUOBOSTUTMNu9s3MM) | [1oneam](https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv) | [Sin +](https://open.spotify.com/album/0SGShXyFMMIf64gSEI4Whz) | 1:52 | 2025-12-09 | 2026-01-23 |
 | [POETRY](https://open.spotify.com/track/7ynWM21CmrgpzyllPO4Rw3) | [Lord Simmy](https://open.spotify.com/artist/1x56BjunhKrTqDZSXvOgFt) | [POETRY](https://open.spotify.com/album/15vdbHHoAC9ouX5LzCr5Tz) | 2:12 | 2025-11-29 | 2026-02-15 |
+| [Porsches In The Rain](https://open.spotify.com/track/0WMgVB4OEm5JEj08lBtBgf) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal), [Almighty Jay](https://open.spotify.com/artist/2HWXxzgBIr0RMSZmvMZeJU) | [YBN: The Mixtape](https://open.spotify.com/album/6l4itLa2SkBAVBASZ2WKFv) | 3:00 | 2026-06-11 |  |
 | [Price I Pay](https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4) | [C Choppa](https://open.spotify.com/artist/1MRuYaXPATMYujESraf5cN) | [Price I Pay](https://open.spotify.com/album/0FujItN4Qr3bhxwWTl0voS) | 2:41 | 2025-12-05 |  |
 | [Pub Sub](https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Scarecrow](https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h) | 3:14 | 2025-11-29 |  |
 | [pull off](https://open.spotify.com/track/4pOLfBnRTOI9bqsL3PNVle) | [junesforever](https://open.spotify.com/artist/5lwt02zQQ3wqkUyXCeJB4f) | [pull off](https://open.spotify.com/album/4ufciFofFM0Kw7r9WP1a59) | 2:31 | 2026-01-15 | 2026-03-28 |
@@ -204,12 +205,13 @@
 | [Strawberry Rum](https://open.spotify.com/track/6bhhgoqvwKpjMgGlQdggxa) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [AREA 41](https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI) | 2:00 | 2026-04-05 | 2026-05-02 |
 | [STRAY](https://open.spotify.com/track/7LHUBKe1XBrTRy3RhkaFbR) | [Kabi Xenon](https://open.spotify.com/artist/2KbQjT3SV75HCqiaQAIpMV), [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR) | [STRAY](https://open.spotify.com/album/6Z4EP0qVNPqo3SJiC0P8iW) | 2:00 | 2026-05-26 | 2026-05-29 |
 | [SUN\*GAZING](https://open.spotify.com/track/4zCPSUbMklynyC5GFHYei6) | [xtsy\*](https://open.spotify.com/artist/5spNfNcEgssXmB1893yRLN) | [Teen Angst](https://open.spotify.com/album/4EqJbvtHup3H77oSenkCDh) | 2:22 | 2026-01-25 | 2026-02-02 |
+| [SurfBoard](https://open.spotify.com/track/0ufbERhFvpqXT7Sw6bcMRv) | [GoodFinesse](https://open.spotify.com/artist/0EAHtZWQM2YT88U4mZFKr8), [K7 the Finesser](https://open.spotify.com/artist/4KUIUBkJYUqGcS9fkkoWZJ) | [SurfBoard](https://open.spotify.com/album/0QYqi8VfBF0V9A73F5RBYa) | 2:28 | 2026-06-11 |  |
 | [Swept Da Block](https://open.spotify.com/track/3TZjiHzps5d0Lk2snACKG3) | [Unitus](https://open.spotify.com/artist/4i2MeDBaCWuskZDgkCVAlS) | [4 DA THRILL](https://open.spotify.com/album/1hVMY5IZJHZE95MP7wY37r) | 1:52 | 2026-05-03 | 2026-05-23 |
 | [Switchin Sides](https://open.spotify.com/track/0Qll2hFkRx6HDScTQwyxEM) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [HYPERNOVA.](https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og) | 2:29 | 2025-11-29 |  |
 | [SØB](https://open.spotify.com/track/4nGVDgCX2QWDaM7tbkRTOM) | [YhungBrazy](https://open.spotify.com/artist/2ltchQPvrP8I9FT0DfmUMf), [B4byTk](https://open.spotify.com/artist/0WYRmKLUKVSnkw15uMGzrm) | [EXPERIMENT II](https://open.spotify.com/album/6p0WzwLsrGQOuJrKF8i19J) | 2:48 | 2025-11-29 | 2025-12-05 |
 | [Tag v2](https://open.spotify.com/track/3lLDeOxmhUOkZnr4J9Qqwb) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy) | [Tag v2](https://open.spotify.com/album/3E4YlOe4SLxhvym7yHqo1H) | 1:42 | 2026-04-13 | 2026-04-21 |
 | [Talaband Anthem, Pt\. 2](https://open.spotify.com/track/3bn2rF5MouNNY4nhzt9Jw0) | [ReallyRichDon](https://open.spotify.com/artist/1aLigTPiKQEmEYQVJt5NwZ), [Mannie2SL](https://open.spotify.com/artist/5EqyhUvnzGrkp0N7DSR3zu), [Talaband Jizzle](https://open.spotify.com/artist/53w5mR8gB6gx3Tn506foHD) | [As Long as I Make It](https://open.spotify.com/album/4FIDcOnc5qpRAITSW8fBYC) | 2:40 | 2025-12-22 | 2025-12-28 |
-| [Tap Hour](https://open.spotify.com/track/5fB6BsaBff7NzskLlUDvHY) | [Ueecho](https://open.spotify.com/artist/048Dbv78tdxtLrcBZ2s5Dp) | [Tap Hour](https://open.spotify.com/album/3HNJHP1MXufbGbLoyDR0JT) | 2:00 | 2026-04-19 |  |
+| [Tap Hour](https://open.spotify.com/track/5fB6BsaBff7NzskLlUDvHY) | [Ueecho](https://open.spotify.com/artist/048Dbv78tdxtLrcBZ2s5Dp) | [Tap Hour](https://open.spotify.com/album/3HNJHP1MXufbGbLoyDR0JT) | 2:00 | 2026-04-19 | 2026-06-11 |
 | [Telephones](https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU) | [Curry B](https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF) | [All 4 Bop](https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb) | 2:25 | 2026-02-19 |  |
 | [Telephones](https://open.spotify.com/track/3rD9qqCHhKGUZqHeErKBf4) | [Curry B](https://open.spotify.com/artist/4gEmWKCVOfq7D3m4VibCs2) | [Telephones](https://open.spotify.com/album/7G6PCG8yjPJUvpp7jnoPZA) | 2:25 | 2025-11-29 | 2026-02-19 |
 | [Temari](https://open.spotify.com/track/3Ys7Fme6fdeev4ROOnM8wo) | [craz3teki](https://open.spotify.com/artist/556amiCwJrWWDOfSGdOXuv) | [Reanimation](https://open.spotify.com/album/0ZNHiNd1m4BGl5yKlc7hg1) | 1:19 | 2025-12-08 | 2025-12-16 |

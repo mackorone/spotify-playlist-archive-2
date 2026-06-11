@@ -1,12 +1,12 @@
 {
   "description": "Check out the Latest Romance Tracks.\nCover : Youth",
-  "num_followers": 207457,
+  "num_followers": 207527,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPXhFAEVV3tpUlsLDZYPkJEVQR9S",
+  "snapshot_id": "AAAAACvERDNsq3XP2UtOfe+8gU+eJKfo",
   "tracks": [
     {
       "added_at": "2026-02-08 09:48:17",
@@ -79,6 +79,34 @@
       "duration_ms": 274433,
       "name": "Neelothi (From \"Sirai\")",
       "url": "https://open.spotify.com/track/6wqwVre9LoGnsUUzukxUy3"
+    },
+    {
+      "added_at": "2026-06-10 11:49:47",
+      "album": {
+        "name": "Dude (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7uxUvkZRoulYMf0xZXQoVL"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Pradeep Ranganathan",
+          "url": "https://open.spotify.com/artist/5Kx2ruxFSUGdqCG7kJtet1"
+        },
+        {
+          "name": "Sai Smriti",
+          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
+        },
+        {
+          "name": "Semv.iii",
+          "url": "https://open.spotify.com/artist/2O4fDX3s0c3JQsnxabRK8o"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Singari",
+      "url": "https://open.spotify.com/track/0pxE2MKJnBMR9c0giy7v5J"
     },
     {
       "added_at": "2026-03-03 07:39:34",
@@ -157,7 +185,31 @@
       "url": "https://open.spotify.com/track/2A0JZsrJ1Nor5wtoOr9OOR"
     },
     {
-      "added_at": "2025-11-03 08:47:35",
+      "added_at": "2026-06-10 11:34:39",
+      "album": {
+        "name": "Parimala and Co (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Vbm40V6D1xPit0KDzRzp9"
+      },
+      "artists": [
+        {
+          "name": "foxn",
+          "url": "https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Jothi Kanna",
+          "url": "https://open.spotify.com/artist/1An7pBLjbIdLPtck0dxSbv"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Doki Doki",
+      "url": "https://open.spotify.com/track/4ayZ2o7iS1DkkkGnvTpJpc"
+    },
+    {
+      "added_at": "2026-06-10 11:49:47",
       "album": {
         "name": "Dude (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7uxUvkZRoulYMf0xZXQoVL"
@@ -168,13 +220,17 @@
           "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
         },
         {
-          "name": "Paal Dabba",
-          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Adesh Krishna",
+          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
         }
       ],
-      "duration_ms": 80200,
-      "name": "Oorum Blood Unplugged",
-      "url": "https://open.spotify.com/track/4Ydbnm0059Pe38Y2WoRzw7"
+      "duration_ms": 273793,
+      "name": "Kannukulla",
+      "url": "https://open.spotify.com/track/2k4JdMWCH2PIZiGPVsznE5"
     },
     {
       "added_at": "2026-04-22 11:47:09",
@@ -219,6 +275,50 @@
       "duration_ms": 244000,
       "name": "Kannamma En Kannamma (From \"Kara\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/3k7upe7Eu2e7pQqRwkwjyq"
+    },
+    {
+      "added_at": "2025-11-03 08:47:35",
+      "album": {
+        "name": "Dude (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7uxUvkZRoulYMf0xZXQoVL"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        }
+      ],
+      "duration_ms": 80200,
+      "name": "Oorum Blood Unplugged",
+      "url": "https://open.spotify.com/track/4Ydbnm0059Pe38Y2WoRzw7"
+    },
+    {
+      "added_at": "2026-06-10 11:38:56",
+      "album": {
+        "name": "Sambavakaari (From \"Gatta Kusthi 2\")",
+        "url": "https://open.spotify.com/album/3mwLwlDbsYEfUzlU11dVrp"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "duration_ms": 239111,
+      "name": "Sambavakaari (From \"Gatta Kusthi 2\")",
+      "url": "https://open.spotify.com/track/2qG8rdNOC6DvTykI6Xc6Ly"
     },
     {
       "added_at": "2026-05-14 05:40:02",
@@ -271,6 +371,34 @@
       "duration_ms": 250212,
       "name": "Adi Alaye (From \"Parasakthi\") (Tamil)",
       "url": "https://open.spotify.com/track/5aFDCFvAGRBB1m0bQmaT5U"
+    },
+    {
+      "added_at": "2026-06-10 11:49:47",
+      "album": {
+        "name": "Guitare Guitare (From \"Charukesi\")",
+        "url": "https://open.spotify.com/album/18A7Sw8wkLzCZ3hJz3Mn2d"
+      },
+      "artists": [
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Devu Mathew",
+          "url": "https://open.spotify.com/artist/23CiqJebNZec4m85XpEIeW"
+        },
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+        },
+        {
+          "name": "Pa. Vijay",
+          "url": "https://open.spotify.com/artist/1dg4azP3LshEhi3moXgJQv"
+        }
+      ],
+      "duration_ms": 226696,
+      "name": "Guitare Guitare (From \"Charukesi\")",
+      "url": "https://open.spotify.com/track/07gGtVqwTubNs4JkYUtmDa"
     },
     {
       "added_at": "2026-03-31 15:32:38",
@@ -601,30 +729,6 @@
       "url": "https://open.spotify.com/track/13xOVzImUS6QDlHlAH2czt"
     },
     {
-      "added_at": "2025-10-16 06:28:55",
-      "album": {
-        "name": "Kannukulla (From \"Dude\")",
-        "url": "https://open.spotify.com/album/0NFGTNng8cOXD2jZvvNiMk"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "name": "Adesh Krishna",
-          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
-        }
-      ],
-      "duration_ms": 273793,
-      "name": "Kannukulla - From \"Dude\"",
-      "url": "https://open.spotify.com/track/4pvJRYVfnIhG120GB8nWpp"
-    },
-    {
       "added_at": "2026-02-14 04:33:39",
       "album": {
         "name": "Vaan Vaan (From \"Idhayam Murali\")",
@@ -819,34 +923,6 @@
       "duration_ms": 172453,
       "name": "Oar Thoorale",
       "url": "https://open.spotify.com/track/2QARTBUKy2Sm0B5DqsoqVs"
-    },
-    {
-      "added_at": "2025-10-06 07:00:36",
-      "album": {
-        "name": "Singari (From \"Dude\")",
-        "url": "https://open.spotify.com/album/1k78mAgRuZnAT2KHLb5IZP"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Pradeep Ranganathan",
-          "url": "https://open.spotify.com/artist/5Kx2ruxFSUGdqCG7kJtet1"
-        },
-        {
-          "name": "Sai Smriti",
-          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
-        },
-        {
-          "name": "Semv.iii",
-          "url": "https://open.spotify.com/artist/2O4fDX3s0c3JQsnxabRK8o"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Singari - From \"Dude\"",
-      "url": "https://open.spotify.com/track/2iG9pZ6bkfVqXzjuax7J8Z"
     },
     {
       "added_at": "2026-01-13 13:44:20",
@@ -1133,34 +1209,6 @@
       "url": "https://open.spotify.com/track/7tXDff2Nl6cDSl7EQyQqyU"
     },
     {
-      "added_at": "2025-10-06 07:00:36",
-      "album": {
-        "name": "Cheenikkallu (From \"Bison Kaalamaadan\")",
-        "url": "https://open.spotify.com/album/1g7XXoiA0C5QW6HLJ0SnxB"
-      },
-      "artists": [
-        {
-          "name": "Nivas K Prasanna",
-          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        },
-        {
-          "name": "Vijay Yesudas",
-          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
-        },
-        {
-          "name": "Mari Selvaraj",
-          "url": "https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF"
-        }
-      ],
-      "duration_ms": 355161,
-      "name": "Cheenikkallu - From \"Bison Kaalamaadan\"",
-      "url": "https://open.spotify.com/track/4xpUatnBnKckoRJggjJ5Yw"
-    },
-    {
       "added_at": "2025-11-14 04:47:44",
       "album": {
         "name": "Yeno Indru (From \"Think Indie\")",
@@ -1215,50 +1263,6 @@
       "duration_ms": 206003,
       "name": "Kanmani Nee (From \"Kaantha\")(Tamil)",
       "url": "https://open.spotify.com/track/3PpFju5szHyiSstZgZTWbH"
-    },
-    {
-      "added_at": "2025-10-23 13:00:54",
-      "album": {
-        "name": "Unna Naan Paatha (From \"Kombuseevi\")",
-        "url": "https://open.spotify.com/album/7xF9MjE3rOT9eZNbwXEcG4"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Yugabharathi",
-          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
-        }
-      ],
-      "duration_ms": 204630,
-      "name": "Unna Naan Paatha (From \"Kombuseevi\")",
-      "url": "https://open.spotify.com/track/5YZFtpWJfcVYyF8g8P6FuW"
-    },
-    {
-      "added_at": "2025-09-19 13:26:33",
-      "album": {
-        "name": "Kiss (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/52ZisiHTVpTEYFIoqQDXOJ"
-      },
-      "artists": [
-        {
-          "name": "Jen Martin",
-          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ashique AR",
-          "url": "https://open.spotify.com/artist/7a2hwgmPEziltEjQBW9kNI"
-        }
-      ],
-      "duration_ms": 219487,
-      "name": "Thirudi",
-      "url": "https://open.spotify.com/track/3d0xVe7NSdKZ4Ci7A8rI4t"
     }
   ],
   "unique_name": "Latest Love Tamil",

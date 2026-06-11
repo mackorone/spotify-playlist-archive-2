@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Bloody Civilian
 
-485 songs - 22 hr 9 min
+486 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [Soapy](https://open.spotify.com/track/67Ar5yu8mH1rOVInvnsG0U) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Soapy](https://open.spotify.com/album/39cm8VQ9VBMhikxLxSG5lS) | 2:54 | 2022-06-29 | 2022-12-26 |
 | [Soro](https://open.spotify.com/track/2dVQommY8nXPpWHoE3dCBX) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Soro](https://open.spotify.com/album/4LvhQBl1WJd8ZdUh5YL3et) | 3:05 | 2024-03-01 | 2024-06-01 |
 | [South Africa](https://open.spotify.com/track/0hVRvGHLu9WHk16CPNDwbg) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [South Africa](https://open.spotify.com/album/7rFikDvLvosoU23LAz1KuD) | 2:33 | 2022-11-18 | 2023-04-21 |
+| [SpaceFuji](https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Terry apala](https://open.spotify.com/artist/1Ct52UFTjvAZu1pOuMWXY1), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SpaceFuji](https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP) | 3:19 | 2026-06-08 |  |
 | [Spaghetti](https://open.spotify.com/track/53ZPK0Ltgi5mQAHGm8dqWt) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Spaghetti](https://open.spotify.com/album/1pZ1HTqqaNNC312zmgpaBx) | 2:18 | 2025-10-10 | 2026-02-27 |
 | [Speed](https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo) | 2:54 | 2025-11-14 | 2026-04-14 |
 | [Stack](https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Jenerall](https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [ROAD TO PARATI](https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f) | 2:52 | 2026-03-27 |  |

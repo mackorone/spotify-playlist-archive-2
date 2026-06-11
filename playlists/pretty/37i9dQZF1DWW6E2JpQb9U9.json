@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Cuarteto de Nos",
-  "num_followers": 126451,
+  "num_followers": 126468,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-04-20 14:49:35",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 329893,
-      "name": "Demoliendo Hoteles - Live",
-      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
-    },
-    {
-      "added_at": "2026-04-20 14:49:35",
-      "album": {
         "name": "El Charro Chino (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
         "url": "https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 294334,
       "name": "El Charro Chino - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
       "url": "https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx"
+    },
+    {
+      "added_at": "2026-04-20 14:49:35",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 329893,
+      "name": "Demoliendo Hoteles - Live",
+      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
     },
     {
       "added_at": "2026-04-20 14:49:35",
@@ -723,6 +723,26 @@
     {
       "added_at": "2026-04-20 14:49:35",
       "album": {
+        "name": "Ji Ji Ji (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
+        "url": "https://open.spotify.com/album/32bau642DRCuW27UlsiEnw"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 363208,
+      "name": "Ji Ji Ji - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
+      "url": "https://open.spotify.com/track/1TGLpWSsFMuDR3DMD6Pyc5"
+    },
+    {
+      "added_at": "2026-04-20 14:49:35",
+      "album": {
         "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
         "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 195866,
       "name": "El Viejo (En Vivo)",
       "url": "https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0"
-    },
-    {
-      "added_at": "2026-04-20 14:49:35",
-      "album": {
-        "name": "Ji Ji Ji (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
-        "url": "https://open.spotify.com/album/32bau642DRCuW27UlsiEnw"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 363208,
-      "name": "Ji Ji Ji - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
-      "url": "https://open.spotify.com/track/1TGLpWSsFMuDR3DMD6Pyc5"
     },
     {
       "added_at": "2026-04-20 14:49:35",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-04-20 14:49:35",
       "album": {
-        "name": "Ven Aqu\u00ed (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 266519,
-      "name": "Ven Aqu\u00ed - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0"
-    },
-    {
-      "added_at": "2026-04-20 14:49:35",
-      "album": {
         "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
         "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2026-04-20 14:49:35",
       "album": {
-        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
+        "name": "Ven Aqu\u00ed (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu"
       },
       "artists": [
         {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 183826,
-      "name": "Nuestro Verano - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/0ENYKDAMZMGiygBAOjs8tk"
+      "duration_ms": 266519,
+      "name": "Ven Aqu\u00ed - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0"
     },
     {
       "added_at": "2026-04-20 14:49:35",
@@ -1015,6 +999,22 @@
       "duration_ms": 263373,
       "name": "Pronta Entrega - En Vivo",
       "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
+    },
+    {
+      "added_at": "2026-04-20 14:49:35",
+      "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Nuestro Verano - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/0ENYKDAMZMGiygBAOjs8tk"
     },
     {
       "added_at": "2026-04-20 14:49:35",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-04-20 14:49:35",
       "album": {
-        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 156999,
-      "name": "Tormenta Roja - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/0ydhEMvXNvWXOuHivcnWaa"
-    },
-    {
-      "added_at": "2026-04-20 14:49:35",
-      "album": {
         "name": "Otra Noche en la Luna (Episodio I)",
         "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 244800,
       "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
+    },
+    {
+      "added_at": "2026-04-20 14:49:35",
+      "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 156999,
+      "name": "Tormenta Roja - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/0ydhEMvXNvWXOuHivcnWaa"
     },
     {
       "added_at": "2026-04-20 14:49:35",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-04-20 14:49:35",
       "album": {
-        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 188580,
-      "name": "S\u00e1bado - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/07QuE6e03a0AbGsHocsgRU"
-    },
-    {
-      "added_at": "2026-04-20 14:49:35",
-      "album": {
         "name": "Se Fue al Cielo (En Vivo Luna Park)",
         "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 230528,
       "name": "Se Fue al Cielo - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
+    },
+    {
+      "added_at": "2026-04-20 14:49:35",
+      "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 188580,
+      "name": "S\u00e1bado - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/07QuE6e03a0AbGsHocsgRU"
     },
     {
       "added_at": "2026-04-20 14:49:35",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-04-20 14:49:35",
       "album": {
+        "name": "Fuego (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 286528,
+      "name": "Fuego - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
+    },
+    {
+      "added_at": "2026-04-20 14:49:35",
+      "album": {
         "name": "Todavia No Puedo Olvidarte (En Vivo)",
         "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 246023,
       "name": "Todav\u00eda No Puedo Olvidarte - En Vivo",
       "url": "https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y"
-    },
-    {
-      "added_at": "2026-04-20 14:49:35",
-      "album": {
-        "name": "Fuego (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 286528,
-      "name": "Fuego - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
     },
     {
       "added_at": "2026-04-20 14:49:35",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2026-04-20 14:49:35",
       "album": {
+        "name": "Nike es la Cultura (En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza)",
+        "url": "https://open.spotify.com/album/4vbEXau7Yb3FLROSipkzQv"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 346986,
+      "name": "Nike es la Cultura - En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza",
+      "url": "https://open.spotify.com/track/3Q4hJ8NSxwg4NrnjDY2yTg"
+    },
+    {
+      "added_at": "2026-04-20 14:49:35",
+      "album": {
         "name": "Vivo X la 25",
         "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 253733,
       "name": "Arde la ciudad",
       "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
-    },
-    {
-      "added_at": "2026-04-20 14:49:35",
-      "album": {
-        "name": "Nike es la Cultura (En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza)",
-        "url": "https://open.spotify.com/album/4vbEXau7Yb3FLROSipkzQv"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 346986,
-      "name": "Nike es la Cultura - En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza",
-      "url": "https://open.spotify.com/track/3Q4hJ8NSxwg4NrnjDY2yTg"
     },
     {
       "added_at": "2026-04-20 14:49:35",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-04-20 14:49:35",
       "album": {
-        "name": "De No Olvidar (En Vivo)",
-        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 159653,
-      "name": "De No Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
-    },
-    {
-      "added_at": "2026-04-20 14:49:35",
-      "album": {
         "name": "De La Hoya (En Vivo en el Luna Park)",
         "url": "https://open.spotify.com/album/6NH55kSLjV3SosX8HpyG0W"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 230693,
       "name": "De La Hoya - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/0hbrmOrw58ZraivbpAFybn"
+    },
+    {
+      "added_at": "2026-04-20 14:49:35",
+      "album": {
+        "name": "De No Olvidar (En Vivo)",
+        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "De No Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
     },
     {
       "added_at": "2026-04-20 14:49:35",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-04-20 14:49:35",
       "album": {
-        "name": "Fr\u00e1gil (En Vivo)",
-        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 200985,
-      "name": "Fr\u00e1gil - En Vivo",
-      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
-    },
-    {
-      "added_at": "2026-04-20 14:49:35",
-      "album": {
         "name": "Carretera Perdida (En Vivo)",
         "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 290496,
       "name": "Carretera Perdida - En Vivo",
       "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
+    },
+    {
+      "added_at": "2026-04-20 14:49:35",
+      "album": {
+        "name": "Fr\u00e1gil (En Vivo)",
+        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 200985,
+      "name": "Fr\u00e1gil - En Vivo",
+      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
     },
     {
       "added_at": "2026-04-20 14:49:35",

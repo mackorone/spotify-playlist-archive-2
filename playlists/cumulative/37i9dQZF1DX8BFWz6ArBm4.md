@@ -4,7 +4,7 @@
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Aspa
 
-286 songs - 16 hr 4 min
+287 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Kane Mia Eyxi](https://open.spotify.com/track/4s2Qc9rbmzE2mLNinkppno) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5), [Pediki Horodia Spirou Lambrou](https://open.spotify.com/artist/06bab7br2LNqfUEojpwzdI) | [Kane Mia Eyxi](https://open.spotify.com/album/4CSp1hOKPCjDy44zngrQ0l) | 3:26 | 2025-03-20 | 2025-04-11 |
 | [Kaneis Pos De Me Akous](https://open.spotify.com/track/6a5ckcs5uXbPXz3SFgtoqM) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [Kaneis Pos De Me Akous](https://open.spotify.com/album/06cxCCAf1tIIYU1VIRvwOp) | 3:32 | 2024-11-28 | 2025-05-02 |
 | [Kapios San Esena](https://open.spotify.com/track/2HDxzXnUO5PdzsV7iSbRWL) | [Eirini Papadopoulou](https://open.spotify.com/artist/3tzEjVUVJ8tSUOIkrrrt5t) | [Kapios San Esena](https://open.spotify.com/album/3UO7uWavACcYZGibvNv6d4) | 3:19 | 2024-06-27 | 2024-07-05 |
-| [Kapnogona](https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Kapnogona](https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF) | 3:04 | 2025-09-04 |  |
+| [Kapnogona](https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Kapnogona](https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF) | 3:04 | 2025-09-04 | 2026-06-11 |
 | [Kapoia Pou Den Agapas](https://open.spotify.com/track/55ZIWrMLIgkHJm5VRyCJG6) | [Elli Kokkinou](https://open.spotify.com/artist/3dHMnH9LXTSuhfdcWfjnoc), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Kapoia Pou Den Agapas](https://open.spotify.com/album/5TrdNqM1784aCcNVb8iItL) | 3:23 | 2025-07-17 | 2025-08-01 |
 | [Kapou Kapou](https://open.spotify.com/track/7trPl1kIywvCq1o78uIE6O) | [Billie Isak](https://open.spotify.com/artist/0RMH7M3gqLAv3DUeLvQzz6) | [Kapou Kapou](https://open.spotify.com/album/63EE2UxrSGQ4oHDuwKBeyR) | 3:09 | 2025-05-15 | 2025-06-14 |
 | [Katamata](https://open.spotify.com/track/4gizfKGSprKyQgYgwX6BYS) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Katamata](https://open.spotify.com/album/42t8tYGPuZorC82akH5eFS) | 4:40 | 2025-04-10 | 2026-05-29 |
@@ -131,6 +131,7 @@
 | [Kourastika Na S' Agapo](https://open.spotify.com/track/5NFNMiVepy76S4tE6RDFWP) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Kourastika Na S' Agapo](https://open.spotify.com/album/1RXyaZyEctohzAyFlhlKDP) | 4:13 | 2025-09-25 | 2026-04-22 |
 | [Krata](https://open.spotify.com/track/3U38PoaEgmk9gO4maQ3RO7) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Krata](https://open.spotify.com/album/4TndkB6ZzsDqPfxJa0lOU2) | 2:55 | 2025-11-20 | 2026-03-15 |
 | [Krifos Paradisos](https://open.spotify.com/track/0TFPLCfaXZ0DVYGpa4psV9) | [Kostas Karafotis](https://open.spotify.com/artist/4Opkz5FwG4ENtwM7o09KNu) | [Krifos Paradisos](https://open.spotify.com/album/0z33CdgdN4fJQnD31uxoFu) | 3:22 | 2024-07-18 | 2024-08-23 |
+| [Lathos Sou](https://open.spotify.com/track/2vDJ8rZVKKDQvzeZknZpMH) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1) | [Lathos Sou](https://open.spotify.com/album/2922T1lHkRFUz3MU6Pr3sK) | 3:22 | 2026-06-04 |  |
 | [Leei](https://open.spotify.com/track/64w6qsa2L9oF0W0XMdoNvH) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Leei](https://open.spotify.com/album/6yvZOUr4MAXdIoxxxBQ43Y) | 3:32 | 2026-01-29 | 2026-04-27 |
 | [Leei Leei Leei](https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Leei Leei Leei](https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1) | 3:09 | 2025-11-20 | 2026-05-29 |
 | [Lekes](https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Lekes](https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF) | 4:15 | 2024-06-27 | 2026-02-27 |

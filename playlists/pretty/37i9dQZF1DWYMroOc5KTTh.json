@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 745771,
+  "num_followers": 745882,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-05-15 08:31:04",
       "album": {
+        "name": "Cult Classics",
+        "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 237979,
+      "name": "JOY (Up The Street)",
+      "url": "https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98"
+    },
+    {
+      "added_at": "2026-05-15 08:31:04",
+      "album": {
         "name": "Like It",
         "url": "https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 266923,
       "name": "Like It",
       "url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj"
-    },
-    {
-      "added_at": "2026-05-15 08:31:04",
-      "album": {
-        "name": "Cult Classics",
-        "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 237979,
-      "name": "JOY (Up The Street)",
-      "url": "https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98"
     },
     {
       "added_at": "2026-05-15 08:31:04",

@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Zeca Baleiro, Vicente Barreto",
-  "num_followers": 355650,
+  "num_followers": 355629,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
+        "name": "Um dia eu te encontro",
+        "url": "https://open.spotify.com/album/1XzOxqDFkg9PExs47Tip0a"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 209250,
+      "name": "Um dia eu te encontro",
+      "url": "https://open.spotify.com/track/37QAkaScwdWBOwj8pBpCLo"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
         "name": "N\u00e3o Quero Te Querer",
         "url": "https://open.spotify.com/album/6ynXVWAUOFYjmaOHxxLg4W"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 181480,
       "name": "N\u00e3o Quero Te Querer",
       "url": "https://open.spotify.com/track/0ciIs0Cw2gV9E4W3xMQkDk"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
-        "name": "Um dia eu te encontro",
-        "url": "https://open.spotify.com/album/1XzOxqDFkg9PExs47Tip0a"
-      },
-      "artists": [
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 209250,
-      "name": "Um dia eu te encontro",
-      "url": "https://open.spotify.com/track/37QAkaScwdWBOwj8pBpCLo"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
+        "name": "Campo Alegre Km 500 Mil",
+        "url": "https://open.spotify.com/album/1NWBPQX5rhytyEJMXkvJFl"
+      },
+      "artists": [
+        {
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+        }
+      ],
+      "duration_ms": 227512,
+      "name": "Campo Alegre Km 500 Mil",
+      "url": "https://open.spotify.com/track/4nMGitEcCZQkfNe2XOyEnG"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
         "name": "Nas Profundezas Da Onda",
         "url": "https://open.spotify.com/album/0zZ2e0o5U9dizYJip1Fcxc"
       },
@@ -447,18 +463,18 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Campo Alegre Km 500 Mil",
-        "url": "https://open.spotify.com/album/1NWBPQX5rhytyEJMXkvJFl"
+        "name": "A \u00daltima M\u00fasica (Acusticamente)",
+        "url": "https://open.spotify.com/album/7N0Z8ZWAFG0EAs5ibqkHEl"
       },
       "artists": [
         {
-          "name": "L\u00f4 Borges",
-          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
         }
       ],
-      "duration_ms": 227512,
-      "name": "Campo Alegre Km 500 Mil",
-      "url": "https://open.spotify.com/track/4nMGitEcCZQkfNe2XOyEnG"
+      "duration_ms": 228778,
+      "name": "A \u00daltima M\u00fasica (Acusticamente)",
+      "url": "https://open.spotify.com/track/25CV9bt3BGAFxaMLsOPgCb"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -479,18 +495,26 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "A \u00daltima M\u00fasica (Acusticamente)",
-        "url": "https://open.spotify.com/album/7N0Z8ZWAFG0EAs5ibqkHEl"
+        "name": "MPBossa 2",
+        "url": "https://open.spotify.com/album/0NwXy0XC8rC4a5Fvpk8rQB"
       },
       "artists": [
         {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Luciano Magno",
+          "url": "https://open.spotify.com/artist/0rqTgqh516A87i11viJ8tN"
+        },
+        {
+          "name": "Andr\u00e9 Rio",
+          "url": "https://open.spotify.com/artist/0MenQbrzqFeBE4WzBp5C0A"
         }
       ],
-      "duration_ms": 228778,
-      "name": "A \u00daltima M\u00fasica (Acusticamente)",
-      "url": "https://open.spotify.com/track/25CV9bt3BGAFxaMLsOPgCb"
+      "duration_ms": 200835,
+      "name": "Bossa Sempre Nova",
+      "url": "https://open.spotify.com/track/4wwAFZw2eyy63AALgl0rmW"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -535,30 +559,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "MPBossa 2",
-        "url": "https://open.spotify.com/album/0NwXy0XC8rC4a5Fvpk8rQB"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Luciano Magno",
-          "url": "https://open.spotify.com/artist/0rqTgqh516A87i11viJ8tN"
-        },
-        {
-          "name": "Andr\u00e9 Rio",
-          "url": "https://open.spotify.com/artist/0MenQbrzqFeBE4WzBp5C0A"
-        }
-      ],
-      "duration_ms": 200835,
-      "name": "Bossa Sempre Nova",
-      "url": "https://open.spotify.com/track/4wwAFZw2eyy63AALgl0rmW"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "Agudo Grave",
         "url": "https://open.spotify.com/album/4YWEwa4qCnjMWOWPhcet58"
       },
@@ -595,6 +595,26 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
+        "name": "Este seu olhar / Promessas",
+        "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Cris Delanno",
+          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
+        }
+      ],
+      "duration_ms": 212727,
+      "name": "Este seu olhar / Promessas",
+      "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
         "name": "Coisas de Viver",
         "url": "https://open.spotify.com/album/7h9n5SheG6PtHIOFjfPkYg"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 250851,
       "name": "Depois do Breu",
       "url": "https://open.spotify.com/track/1uGsuX9zgJPjRBmMN2u2pZ"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
-        "name": "Este seu olhar / Promessas",
-        "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Cris Delanno",
-          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
-        }
-      ],
-      "duration_ms": 212727,
-      "name": "Este seu olhar / Promessas",
-      "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
+        "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
+        "url": "https://open.spotify.com/album/1rJL1rrZXgOFUMNHfjvJFA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "duration_ms": 223421,
+      "name": "Saudades, Elder",
+      "url": "https://open.spotify.com/track/4gWhkjF632QyV0fQniNGhM"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
         "name": "D'Ouro Brilhante",
         "url": "https://open.spotify.com/album/6IOEwWmfVCUPAuYw2miAlv"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 246802,
       "name": "D'Ouro Brilhante",
       "url": "https://open.spotify.com/track/6WKEg8JZFraRFZLX9IukL5"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
-        "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
-        "url": "https://open.spotify.com/album/1rJL1rrZXgOFUMNHfjvJFA"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        }
-      ],
-      "duration_ms": 223421,
-      "name": "Saudades, Elder",
-      "url": "https://open.spotify.com/track/4gWhkjF632QyV0fQniNGhM"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
+        "name": "Lugar Comum",
+        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
+      },
+      "artists": [
+        {
+          "name": "Michael Pipoquinha",
+          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
+        }
+      ],
+      "duration_ms": 278212,
+      "name": "Lugar Comum",
+      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
         "name": "L\u00e1",
         "url": "https://open.spotify.com/album/6ufHvSXLcsENitKj7GQ5fv"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 264686,
       "name": "L\u00e1",
       "url": "https://open.spotify.com/track/1NmbJR2cryUyat0SAWvQGZ"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
-        "name": "Lugar Comum",
-        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
-      },
-      "artists": [
-        {
-          "name": "Michael Pipoquinha",
-          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
-        }
-      ],
-      "duration_ms": 278212,
-      "name": "Lugar Comum",
-      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
     },
     {
       "added_at": "2026-05-29 03:00:18",

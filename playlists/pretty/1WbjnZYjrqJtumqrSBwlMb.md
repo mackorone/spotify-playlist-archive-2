@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,269 songs - 3 day 6 hr 10 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,270 songs - 3 day 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1277,5 +1277,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1267 | [He Is The Same](https://open.spotify.com/track/6Kr2WqO9jWYU64D24yqapu) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 4:01 |
 | 1268 | [Hand Of God \- Outro](https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 5:37 |
 | 1269 | [PREACHER MAN](https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 3:01 |
+| 1270 | [the feeling](https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [the feeling](https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u) | 4:35 |
 
-Snapshot ID: `AAAJ9ks06r2LRZwJ+3FVrCWDBrwKEAZ8`
+Snapshot ID: `AAAJ98pvYrZX4VkOdidgRBO0kFMJ2qSM`

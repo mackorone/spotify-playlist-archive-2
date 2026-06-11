@@ -4,7 +4,7 @@
 
 > This is iu takahashi\. The essential tracks, all in one playlist.
 
-39 songs - 3 hr 47 min
+40 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,8 @@
 | [Awake / Lakeside](https://open.spotify.com/track/6hWeib7zTcBoLVJndRLYft) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Sense/Margin](https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC) | 5:41 | 2026-03-19 |  |
 | [bath](https://open.spotify.com/track/0jbhVWhsKxi3GHMDARwEmJ) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [bath](https://open.spotify.com/album/5O38jKRwlHHkDN4mu9M2cQ) | 3:56 | 2026-03-19 |  |
 | [Blink / Landscape](https://open.spotify.com/track/71EboK4qEUY8hCeSaSTmZe) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Sense/Margin](https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC) | 3:26 | 2026-03-19 |  |
-| [calm](https://open.spotify.com/track/2ZuGJTPuvGNUwOvo7aOdxi) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [halfway](https://open.spotify.com/album/5uL4z2w5vlSzN07eIfexwU) | 6:38 | 2026-03-19 |  |
-| [calm](https://open.spotify.com/track/7yT4fFCdS0VVdRBL0FJyCW) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [halfway](https://open.spotify.com/album/7x0VzfFtiO6bL1NgXF6gjW) | 6:38 | 2026-04-03 | 2026-06-01 |
+| [calm](https://open.spotify.com/track/2ZuGJTPuvGNUwOvo7aOdxi) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [halfway](https://open.spotify.com/album/5uL4z2w5vlSzN07eIfexwU) | 6:38 | 2026-03-19 | 2026-06-11 |
+| [calm](https://open.spotify.com/track/7yT4fFCdS0VVdRBL0FJyCW) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [halfway](https://open.spotify.com/album/7x0VzfFtiO6bL1NgXF6gjW) | 6:38 | 2026-04-03 |  |
 | [Cave](https://open.spotify.com/track/21pTXLNvnDeLVb1dIZ7RZq) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Still Left](https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H) | 3:54 | 2026-03-19 |  |
 | [Culvert](https://open.spotify.com/track/1Y2fWkiSpIo4UP5N2hhsJO) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Still Left](https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H) | 5:51 | 2026-03-19 |  |
 | [Dawn](https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY) | 8:19 | 2026-03-19 |  |
@@ -27,10 +27,11 @@
 | [Foggy](https://open.spotify.com/track/48BaTYfr7tCqfUxAoU0ARE) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Depthscape](https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK) | 6:30 | 2026-03-19 |  |
 | [Forest and Thought](https://open.spotify.com/track/5snFRLT6VELgxABotZyMmi) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Late in life](https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R) | 5:01 | 2026-03-19 |  |
 | [Gallery window](https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Gallery window](https://open.spotify.com/album/4Pa9k24dXX0WPtTidFKXPq) | 3:31 | 2026-03-19 |  |
+| [halfway](https://open.spotify.com/track/3VfQLPkItSWRhuJFXmvY7U) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [halfway](https://open.spotify.com/album/5uL4z2w5vlSzN07eIfexwU) | 7:04 | 2026-06-11 |  |
 | [halfway](https://open.spotify.com/track/62OveSNk3FivZZZwcadtE2) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [halfway](https://open.spotify.com/album/7x0VzfFtiO6bL1NgXF6gjW) | 7:04 | 2026-03-19 | 2026-06-10 |
 | [Hamon](https://open.spotify.com/track/6mazXf0065n3ttcbEXQVba) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY) | 7:00 | 2026-03-19 | 2026-06-09 |
 | [Hollow](https://open.spotify.com/track/5UHUIEVxCXe07J7dUdmErI) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Depthscape](https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK) | 3:43 | 2026-03-19 |  |
-| [IDFA](https://open.spotify.com/track/3K7lh0YTE7WJCOoxoMF6xA) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [halfway](https://open.spotify.com/album/5uL4z2w5vlSzN07eIfexwU) | 6:00 | 2026-03-19 |  |
+| [IDFA](https://open.spotify.com/track/3K7lh0YTE7WJCOoxoMF6xA) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [halfway](https://open.spotify.com/album/5uL4z2w5vlSzN07eIfexwU) | 6:00 | 2026-03-19 | 2026-06-11 |
 | [IDFA](https://open.spotify.com/track/7jgIw9m11YU4qB0pqpOUe4) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [halfway](https://open.spotify.com/album/7x0VzfFtiO6bL1NgXF6gjW) | 6:00 | 2026-04-03 | 2026-06-04 |
 | [Innocence](https://open.spotify.com/track/4Cl2GRlmaL1DJEJOd19XQG) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Still Left](https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H) | 4:38 | 2026-03-22 | 2026-05-06 |
 | [Listen / Season](https://open.spotify.com/track/3C6KU5hZvaanvtzbWqBZDY) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Sense/Margin](https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC) | 3:08 | 2026-03-19 |  |

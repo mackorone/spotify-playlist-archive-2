@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,632 songs - 6 day 18 hr 34 min
+2,633 songs - 6 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Aino Uta](https://open.spotify.com/track/24gmMth9MSSf7718wryKKz) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Aino Uta / Chantoshitahito Futekigousha / Nanimo Wasureru Wakejanai](https://open.spotify.com/album/2uNHuaMGc9IYA3MlzNIgDy) | 4:21 | 2023-03-28 | 2023-04-15 |
 | [Aino Uta](https://open.spotify.com/track/5sf1C7Bml4va8nDYZbltBc) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Ureshii Koewo Honnochotto](https://open.spotify.com/album/3hiEm3dKM0x6p76360xXpT) | 4:21 | 2023-04-13 | 2023-07-05 |
 | [AIZO](https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [AIZO](https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM) | 3:35 | 2026-01-15 |  |
+| [AKANE On My Mind～饅頭こわい](https://open.spotify.com/track/5um4gHKgOovWuzsQJsErXn) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [AKANE On My Mind～饅頭こわい](https://open.spotify.com/album/2LXc1xtHy5x6eE3vXCou9B) | 4:18 | 2026-06-10 |  |
 | [Akatsuki](https://open.spotify.com/track/574u5IAlTW7pCG5C8oRlJO) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py) | [from here](https://open.spotify.com/album/7qAbSvs8VpfPOwqXJYlyGx) | 4:13 | 2023-02-28 | 2023-04-14 |
 | [Akuma no Ko \- From CrosSing](https://open.spotify.com/track/33tpXVBlNuxtqNoWkm8s5W) | [Aoyama Nagisa](https://open.spotify.com/artist/6iNMJicQCN4F5lBJdb1N6X) | [Akuma no Ko \- From CrosSing](https://open.spotify.com/album/6jIimEofznLsLO2I0591jb) | 3:47 | 2023-05-09 | 2023-05-17 |
 | [Alca](https://open.spotify.com/track/0DFD4uX6Cren6jRN8U8QHK) | [柏木ひなた](https://open.spotify.com/artist/0Zlb5yFFcgmWJnj3fOhW7D) | [Alca](https://open.spotify.com/album/1nanCiqHy2UfTwQRXRcZ3F) | 4:21 | 2024-10-08 | 2024-10-26 |
@@ -1472,7 +1473,7 @@
 | [Wrong World](https://open.spotify.com/track/3oydLYmU23bex9OQDwjxCz) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Wrong World](https://open.spotify.com/album/3QdDjNx9PAJ9LPSgtfUTNX) | 3:04 | 2024-04-10 | 2024-04-19 |
 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-03-31 | 2023-07-14 |
 | [X\_AXIS](https://open.spotify.com/track/5RTnzxXdlqzSySbdtxP6lF) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [X\_AXIS](https://open.spotify.com/album/4BIRrr3mvcNUpTCzVGkAwW) | 3:01 | 2025-07-04 | 2025-09-16 |
-| [XV](https://open.spotify.com/track/1YWs2OJGoekGvfMkz4MDZL) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [XV](https://open.spotify.com/album/05grntzNhCGDBoZr3uJXXX) | 3:55 | 2026-05-05 |  |
+| [XV](https://open.spotify.com/track/1YWs2OJGoekGvfMkz4MDZL) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [XV](https://open.spotify.com/album/05grntzNhCGDBoZr3uJXXX) | 3:55 | 2026-05-05 | 2026-06-11 |
 | [Year N](https://open.spotify.com/track/4UMwc117Ipj55O0Y8Kfq4N) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Year N](https://open.spotify.com/album/0nxngxhjoywkXZtjyT6mia) | 3:24 | 2025-01-07 | 2025-04-06 |
 | [YES](https://open.spotify.com/track/2b8adGbmp6swKDTeySw1eU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [YES](https://open.spotify.com/album/2MfHhRewq0NNudlThYeOw8) | 5:01 | 2026-05-07 |  |
 | [YESとNOの間に](https://open.spotify.com/track/39RrY70qJFGRvOK51z5Mbw) | [22/7](https://open.spotify.com/artist/7tn9UjhRgGnDjOWOXuzIgZ) | [YESとNOの間に](https://open.spotify.com/album/3QIha5QmzCBlUuGS87bdHr) | 4:10 | 2024-07-23 | 2024-08-04 |

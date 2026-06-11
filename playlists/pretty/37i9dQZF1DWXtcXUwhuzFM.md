@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat emma & matilda, Mikael Gabriel, STIG..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,382 likes - 102 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,373 likes - 102 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

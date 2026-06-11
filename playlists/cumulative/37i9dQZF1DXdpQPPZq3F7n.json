@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Let these songs be the background score to your love story.  Cover - Kabir Singh",
+  "description": "Let these songs be the background score to your love story.  Cover - Saiyaara",
   "name": "Bollywood Mush",
   "tracks": [
     {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 262044,
       "name": "Aakhri Ishq",
       "url": "https://open.spotify.com/track/0KjTF8c2qGUJBCuAskhsGT"
@@ -216,7 +216,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 225535,
       "name": "Aavan Jaavan (From \"WAR 2\")",
       "url": "https://open.spotify.com/track/0ayku1IzLHuA3cHY4HxOCN"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 341054,
       "name": "Agar Tum Saath Ho",
       "url": "https://open.spotify.com/track/3hkC9EHFZNQPXrtl8WPHnX"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 374205,
       "name": "Darkhaast",
       "url": "https://open.spotify.com/track/1awtp7rf6ajhGY9BgzCHeZ"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 261818,
       "name": "Ek Din Title Track - From \"Ek Din\"",
       "url": "https://open.spotify.com/track/2abR4ilhs5JWqZq12SB3GB"
@@ -3675,6 +3675,28 @@
     },
     {
       "album": {
+        "name": "Pyaar Hai Toh Hai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2zxtR4mJqQbveCDl4Q4wlb"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Ishita Vishwakarma",
+          "url": "https://open.spotify.com/artist/2oaus66w5EZnNJo22QGq8Z"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265433,
+      "name": "Mann Jogiya",
+      "url": "https://open.spotify.com/track/0IUFluOjP8O3NNoTuHpHu4"
+    },
+    {
+      "album": {
         "name": "Mann Mera",
         "url": "https://open.spotify.com/album/0D4MXgnqeMi1Y15YwY9GQ5"
       },
@@ -4080,6 +4102,36 @@
       "duration_ms": 230070,
       "name": "Mashooqa - From \u201cCocktail 2\u201d",
       "url": "https://open.spotify.com/track/64KxZ9K8PYSQ9CVimLlqxK"
+    },
+    {
+      "album": {
+        "name": "Maskara (From \"Main Vaapas Aaunga\")",
+        "url": "https://open.spotify.com/album/0C5hxl6tOmNgFSxX6nr14g"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vedang Raina",
+          "url": "https://open.spotify.com/artist/1X95l2wU2j5wskoTNOwfLB"
+        },
+        {
+          "name": "Nilanjana Ghosh",
+          "url": "https://open.spotify.com/artist/3CElBT0gzSRhujhhTm8gRC"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233741,
+      "name": "Maskara (From \"Main Vaapas Aaunga\")",
+      "url": "https://open.spotify.com/track/1ayv6xv4m0zk0iyHuXfuJ4"
     },
     {
       "album": {
@@ -4580,7 +4632,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 216328,
       "name": "Nain Ta Heere",
       "url": "https://open.spotify.com/track/7eYU2hu3CUOeNy3QAsqt6t"
@@ -6284,7 +6336,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 202959,
       "name": "Suno Naa Dil (From \"Daadi Ki Shaadi\")",
       "url": "https://open.spotify.com/track/3GrkvMjNHnBwrpu7qeDCHA"
@@ -7110,6 +7162,36 @@
       "duration_ms": 284779,
       "name": "Tujhe Kitna Chahne Lage",
       "url": "https://open.spotify.com/track/5QtEFRYavs5S3GHtFEq7A4"
+    },
+    {
+      "album": {
+        "name": "Tujhko (From \u201cCocktail 2\u201d)",
+        "url": "https://open.spotify.com/album/5UDscrlkAJfJPEGiKUdt3u"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342400,
+      "name": "Tujhko - From \u201cCocktail 2\u201d",
+      "url": "https://open.spotify.com/track/34bZqssAITx04EAzcffySn"
     },
     {
       "album": {

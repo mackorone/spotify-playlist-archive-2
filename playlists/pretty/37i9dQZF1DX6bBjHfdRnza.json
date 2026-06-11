@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring Delilah. Curated by human Spotify editors. \n",
-  "num_followers": 213922,
+  "num_followers": 213954,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAElW7ucsMKDTktxanR00eY7iUVl7",
+  "snapshot_id": "AAAAAGugQldvD0yv/RgkV1KCgrWsLjiM",
   "tracks": [
     {
       "added_at": "2026-05-15 04:01:46",
@@ -45,62 +45,6 @@
       "url": "https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1"
     },
     {
-      "added_at": "2026-05-14 03:02:00",
-      "album": {
-        "name": "My Life Is A Disco (In The Mix)",
-        "url": "https://open.spotify.com/album/5Ewcwq6g95vO2qXiXN1AKc"
-      },
-      "artists": [
-        {
-          "name": "Mellizos",
-          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
-        },
-        {
-          "name": "Mixmasters",
-          "url": "https://open.spotify.com/artist/4ccqZWdI5OZP6twQ3c8GV9"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "My Life Is A Disco (In The Mix)",
-      "url": "https://open.spotify.com/track/4QNEi4zAOm0FwfwJXLgp7s"
-    },
-    {
-      "added_at": "2026-05-29 18:47:07",
-      "album": {
-        "name": "WAITING",
-        "url": "https://open.spotify.com/album/6MDPlGG1SoqOKBbH6uS5gh"
-      },
-      "artists": [
-        {
-          "name": "fromclay",
-          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
-        }
-      ],
-      "duration_ms": 190698,
-      "name": "WAITING",
-      "url": "https://open.spotify.com/track/0IG66BxgMeOSYfVZCCZqSa"
-    },
-    {
-      "added_at": "2026-05-15 04:01:46",
-      "album": {
-        "name": "Fino",
-        "url": "https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr"
-      },
-      "artists": [
-        {
-          "name": "Desmond",
-          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
-        },
-        {
-          "name": "Dr\u00e9ya Mac",
-          "url": "https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP"
-        }
-      ],
-      "duration_ms": 160285,
-      "name": "Fino",
-      "url": "https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA"
-    },
-    {
       "added_at": "2026-06-09 17:47:06",
       "album": {
         "name": "u up?",
@@ -125,20 +69,56 @@
       "url": "https://open.spotify.com/track/2ZZvnh85DP30XvSLjd0qDD"
     },
     {
-      "added_at": "2026-05-27 23:56:21",
+      "added_at": "2026-06-11 00:10:38",
       "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/3mmI0RWmLjHSwW9a8uZVHv"
+        "name": "cherry spice",
+        "url": "https://open.spotify.com/album/7BP7dM0DP2QEqG9I4VpRZh"
       },
       "artists": [
         {
-          "name": "Jake Antonio",
-          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
+          "name": "moonvine",
+          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
         }
       ],
-      "duration_ms": 321818,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/5Zu20OykfA8tFpFU3RRTff"
+      "duration_ms": 148607,
+      "name": "cherry spice",
+      "url": "https://open.spotify.com/track/1hk7Zjum7tiJ2Rcmxu4Zy9"
+    },
+    {
+      "added_at": "2026-06-11 00:10:38",
+      "album": {
+        "name": "Lost Signal",
+        "url": "https://open.spotify.com/album/5kThtU5Z2FvPVAvjA0opCQ"
+      },
+      "artists": [
+        {
+          "name": "Internet Cafe",
+          "url": "https://open.spotify.com/artist/53k5QCjTcDkWtbltJLSIq6"
+        }
+      ],
+      "duration_ms": 153258,
+      "name": "Lost Signal",
+      "url": "https://open.spotify.com/track/2I597clj5PJWixyMR47HRi"
+    },
+    {
+      "added_at": "2026-05-14 03:02:00",
+      "album": {
+        "name": "My Life Is A Disco (In The Mix)",
+        "url": "https://open.spotify.com/album/5Ewcwq6g95vO2qXiXN1AKc"
+      },
+      "artists": [
+        {
+          "name": "Mellizos",
+          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
+        },
+        {
+          "name": "Mixmasters",
+          "url": "https://open.spotify.com/artist/4ccqZWdI5OZP6twQ3c8GV9"
+        }
+      ],
+      "duration_ms": 175750,
+      "name": "My Life Is A Disco (In The Mix)",
+      "url": "https://open.spotify.com/track/4QNEi4zAOm0FwfwJXLgp7s"
     },
     {
       "added_at": "2026-05-29 04:02:04",
@@ -157,6 +137,58 @@
       "url": "https://open.spotify.com/track/0EA8QvqE66H315fGJUCmVQ"
     },
     {
+      "added_at": "2026-05-15 04:01:46",
+      "album": {
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr"
+      },
+      "artists": [
+        {
+          "name": "Desmond",
+          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
+        },
+        {
+          "name": "Dr\u00e9ya Mac",
+          "url": "https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP"
+        }
+      ],
+      "duration_ms": 160285,
+      "name": "Fino",
+      "url": "https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA"
+    },
+    {
+      "added_at": "2026-05-29 04:02:04",
+      "album": {
+        "name": "wdym you don\u2018t like hardgroove?",
+        "url": "https://open.spotify.com/album/5KAvS8DDDvMPhYOsMw2u80"
+      },
+      "artists": [
+        {
+          "name": "VIVI909",
+          "url": "https://open.spotify.com/artist/0Oo01WMz8SsWQdSFpkchoL"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "wdym you don\u2018t like hardgroove? - Radio Edit",
+      "url": "https://open.spotify.com/track/7uyHeUCGHtlKeZ5IJ1G7yI"
+    },
+    {
+      "added_at": "2026-06-11 00:10:38",
+      "album": {
+        "name": "This Song",
+        "url": "https://open.spotify.com/album/6IBxstqOeIUDGOz3wUjhk7"
+      },
+      "artists": [
+        {
+          "name": "SYREETA",
+          "url": "https://open.spotify.com/artist/6NLeKpbb77Bgp6hPZjf6KJ"
+        }
+      ],
+      "duration_ms": 205529,
+      "name": "This Song",
+      "url": "https://open.spotify.com/track/6aWe4v68FDIuFJnT3jjmA2"
+    },
+    {
       "added_at": "2026-05-27 23:56:21",
       "album": {
         "name": "Eight O Eight",
@@ -173,20 +205,36 @@
       "url": "https://open.spotify.com/track/0ezw3hJuih6S9KSMKQdoTS"
     },
     {
-      "added_at": "2026-05-27 23:56:21",
+      "added_at": "2026-06-11 00:10:38",
       "album": {
-        "name": "hinge",
-        "url": "https://open.spotify.com/album/4H36XlPO7CWwRas8CfzHln"
+        "name": "Terrified Of Love",
+        "url": "https://open.spotify.com/album/3rCXuB5QHc6EtsAl2H3g58"
       },
       "artists": [
         {
-          "name": "Torzi",
-          "url": "https://open.spotify.com/artist/2rsu13VNGzmC5llLQrpp0c"
+          "name": "Afriqua",
+          "url": "https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp"
         }
       ],
-      "duration_ms": 128357,
-      "name": "hinge",
-      "url": "https://open.spotify.com/track/0agiuFq9w4ip1XsrS7PrnT"
+      "duration_ms": 311040,
+      "name": "Terrified Of Love",
+      "url": "https://open.spotify.com/track/27nrwUehIEZ3opRMH7TUls"
+    },
+    {
+      "added_at": "2026-05-27 23:56:21",
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/3mmI0RWmLjHSwW9a8uZVHv"
+      },
+      "artists": [
+        {
+          "name": "Jake Antonio",
+          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
+        }
+      ],
+      "duration_ms": 321818,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/5Zu20OykfA8tFpFU3RRTff"
     },
     {
       "added_at": "2026-05-14 03:02:00",
@@ -207,6 +255,54 @@
       "duration_ms": 202818,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/5qP8KF9stgPaaXuXu2Hj1I"
+    },
+    {
+      "added_at": "2026-05-29 18:47:07",
+      "album": {
+        "name": "WAITING",
+        "url": "https://open.spotify.com/album/6MDPlGG1SoqOKBbH6uS5gh"
+      },
+      "artists": [
+        {
+          "name": "fromclay",
+          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
+        }
+      ],
+      "duration_ms": 190698,
+      "name": "WAITING",
+      "url": "https://open.spotify.com/track/0IG66BxgMeOSYfVZCCZqSa"
+    },
+    {
+      "added_at": "2026-06-11 00:13:25",
+      "album": {
+        "name": "Hurt Nobody",
+        "url": "https://open.spotify.com/album/7sp0zG7BlTWuLUKkMUYg48"
+      },
+      "artists": [
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        }
+      ],
+      "duration_ms": 177318,
+      "name": "Hurt Nobody",
+      "url": "https://open.spotify.com/track/7pPskSvN203zIew4AgRM2E"
+    },
+    {
+      "added_at": "2026-04-15 17:24:57",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
     },
     {
       "added_at": "2026-05-27 23:56:21",
@@ -257,22 +353,6 @@
       "url": "https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0"
     },
     {
-      "added_at": "2026-04-15 17:24:57",
-      "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
-    },
-    {
       "added_at": "2026-05-06 19:01:48",
       "album": {
         "name": "It's All About The Music",
@@ -289,20 +369,20 @@
       "url": "https://open.spotify.com/track/6KEyvhYNlMtW7Caf1BP0eb"
     },
     {
-      "added_at": "2026-05-29 04:02:04",
+      "added_at": "2026-05-27 23:56:21",
       "album": {
-        "name": "wdym you don\u2018t like hardgroove?",
-        "url": "https://open.spotify.com/album/5KAvS8DDDvMPhYOsMw2u80"
+        "name": "hinge",
+        "url": "https://open.spotify.com/album/4H36XlPO7CWwRas8CfzHln"
       },
       "artists": [
         {
-          "name": "VIVI909",
-          "url": "https://open.spotify.com/artist/0Oo01WMz8SsWQdSFpkchoL"
+          "name": "Torzi",
+          "url": "https://open.spotify.com/artist/2rsu13VNGzmC5llLQrpp0c"
         }
       ],
-      "duration_ms": 161068,
-      "name": "wdym you don\u2018t like hardgroove? - Radio Edit",
-      "url": "https://open.spotify.com/track/7uyHeUCGHtlKeZ5IJ1G7yI"
+      "duration_ms": 128357,
+      "name": "hinge",
+      "url": "https://open.spotify.com/track/0agiuFq9w4ip1XsrS7PrnT"
     },
     {
       "added_at": "2026-06-09 17:47:06",
@@ -797,22 +877,6 @@
       "url": "https://open.spotify.com/track/4A7TaqIvzVk5PAuBG5gH9A"
     },
     {
-      "added_at": "2026-04-30 03:41:26",
-      "album": {
-        "name": "Dubplate Style",
-        "url": "https://open.spotify.com/album/3RtBN6q0avFJBY5mYG8VdS"
-      },
-      "artists": [
-        {
-          "name": "Captain Wallop",
-          "url": "https://open.spotify.com/artist/1Q2WcEg1kdVTuRcGqrLBz5"
-        }
-      ],
-      "duration_ms": 391875,
-      "name": "I'm An Addict",
-      "url": "https://open.spotify.com/track/0oFMerkNr6VeCera8dHgqu"
-    },
-    {
       "added_at": "2026-03-18 17:43:09",
       "album": {
         "name": "All This Love",
@@ -889,22 +953,6 @@
       "url": "https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw"
     },
     {
-      "added_at": "2026-05-01 04:01:49",
-      "album": {
-        "name": "Funk Star",
-        "url": "https://open.spotify.com/album/6zsDVmb87IDltvCSc9i1yQ"
-      },
-      "artists": [
-        {
-          "name": "GMOZ",
-          "url": "https://open.spotify.com/artist/5uULKNjEhHbE7DVVqX7qNK"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Funk Star",
-      "url": "https://open.spotify.com/track/1moKT6MaEdNRmWOZgb36wv"
-    },
-    {
       "added_at": "2026-04-17 04:02:50",
       "album": {
         "name": "Fix It",
@@ -955,38 +1003,6 @@
     {
       "added_at": "2026-04-17 04:02:50",
       "album": {
-        "name": "Mic Killa",
-        "url": "https://open.spotify.com/album/0ZLffPqxvXaRFpDrQkK80o"
-      },
-      "artists": [
-        {
-          "name": "Headstorm",
-          "url": "https://open.spotify.com/artist/4fd2RsyH7o4ZHLhRwsMwow"
-        }
-      ],
-      "duration_ms": 228934,
-      "name": "Mic Killa",
-      "url": "https://open.spotify.com/track/61qPPslPbFPgCxyKHg0hVk"
-    },
-    {
-      "added_at": "2026-04-08 16:58:31",
-      "album": {
-        "name": "Left Foot Right Foot",
-        "url": "https://open.spotify.com/album/2szB8PZLwss07ai7hy6GMz"
-      },
-      "artists": [
-        {
-          "name": "Tommy Gold",
-          "url": "https://open.spotify.com/artist/2AUIc8LBUY3YOJanUGnFoR"
-        }
-      ],
-      "duration_ms": 163004,
-      "name": "Left Foot Right Foot",
-      "url": "https://open.spotify.com/track/4NqzQ8jpz7YmET9fOAlOB1"
-    },
-    {
-      "added_at": "2026-04-17 04:02:50",
-      "album": {
         "name": "Taka Taka",
         "url": "https://open.spotify.com/album/2FmArT4SzjcIx5PXfV1GQU"
       },
@@ -1019,26 +1035,6 @@
       "duration_ms": 366502,
       "name": "Summer Card",
       "url": "https://open.spotify.com/track/3Q0LhQkqusn71J7kkxcIZS"
-    },
-    {
-      "added_at": "2026-04-15 19:22:49",
-      "album": {
-        "name": "MAKE DAT BOOTY",
-        "url": "https://open.spotify.com/album/0EGDaeH1FcgGCc4XkCsoyn"
-      },
-      "artists": [
-        {
-          "name": "KE-YEN",
-          "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
-        },
-        {
-          "name": "Respondent",
-          "url": "https://open.spotify.com/artist/3mrk91thNdLlVpdXnCdKpK"
-        }
-      ],
-      "duration_ms": 212747,
-      "name": "MAKE DAT BOOTY",
-      "url": "https://open.spotify.com/track/5sGA0qlCU2usW6Mws8icCu"
     },
     {
       "added_at": "2026-03-20 04:00:52",

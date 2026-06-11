@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > New year, same Kitty\. Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,343 likes - 153 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,360 likes - 153 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 28 | [Soñar \(Breaker\)](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:53 |
 | 29 | [What Would You Do](https://open.spotify.com/track/3o2O6F7QfoEwhmUyAZfk9h) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [What Would You Do](https://open.spotify.com/album/6LhyeuCcGZJ5cZ6CxNZ8di) | 2:59 |
 | 30 | [Unsung Songs](https://open.spotify.com/track/2YModoAu53OVxlMUqtof87) | [Ages and Ages](https://open.spotify.com/artist/3DozezNrsIE37kJJfHhS9M) | [Me You They We](https://open.spotify.com/album/3wF6DCWrOi4OQEuwowzurN) | 3:58 |
-| 31 | [Skyfall \(THE 8 Solo\)](https://open.spotify.com/track/6GrZkYlCYIuHEjPpTZ3qDb) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4) | 3:00 |
+| 31 | [Skyfall \(THE 8 Solo\)](https://open.spotify.com/track/6GrZkYlCYIuHEjPpTZ3qDb) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HAPPY BURSTDAY](https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4) | 3:00 |
 | 32 | [Sugar](https://open.spotify.com/track/1RtL0D6XycKWLCDt0pxpCf) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [When Are You Leaving?](https://open.spotify.com/album/073KfYmVFHQtkmh6zpTQ3N) | 4:02 |
 | 33 | [No Explanations](https://open.spotify.com/track/3UDjJVtFeRP32gh0A88zpj) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [ZHANG YANQI](https://open.spotify.com/artist/0ygjYRcmPUdSwSnN47xq8F) | [No Explanations](https://open.spotify.com/album/3bznE6U87CFUIDhL7ZoNJB) | 3:07 |
 | 34 | [I AM](https://open.spotify.com/track/4wDxHQfnbEnByvhbFwSwyI) | [Maka\`Maka](https://open.spotify.com/artist/3xuHnufu1QYfi9k0xzLkF8) | [I AM](https://open.spotify.com/album/0t5iMpdJTyNQHXU5I5Wu4j) | 3:17 |

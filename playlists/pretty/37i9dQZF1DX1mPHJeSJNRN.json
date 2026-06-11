@@ -359,22 +359,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "It Had To be You... The Great American Songbook",
-        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 256822,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "They Say It's Swing",
         "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 249997,
       "name": "They Say It's Spring",
       "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "It Had To be You... The Great American Songbook",
+        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 256822,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Calendar Girl",
-        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 141266,
-      "name": "Melancholy March",
-      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Feelin' Good",
         "url": "https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 190345,
       "name": "Just A Little Lovin'",
       "url": "https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Calendar Girl",
+        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 141266,
+      "name": "Melancholy March",
+      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Easy Does It",
-        "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/1WDlBvlNSMA5kmj3PTYh3C"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 174573,
       "name": "Avril au Portugal",
       "url": "https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Easy Does It",
+        "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/1WDlBvlNSMA5kmj3PTYh3C"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -983,26 +983,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "The Art Of Elegance",
-        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
-      },
-      "artists": [
-        {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 174813,
-      "name": "I\u2019ve Got A Crush On You",
-      "url": "https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 228403,
       "name": "On a Turquoise Cloud",
       "url": "https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "The Art Of Elegance",
+        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
+      },
+      "artists": [
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 174813,
+      "name": "I\u2019ve Got A Crush On You",
+      "url": "https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
+        "name": "It Happens Like That",
+        "url": "https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        },
+        {
+          "name": "Gil Goldstein",
+          "url": "https://open.spotify.com/artist/59bgiWWmCiIfBkzZ8URC1Q"
+        }
+      ],
+      "duration_ms": 211621,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/2WNrH1N4HprO6pY8Yuydh8"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
         "name": "Flirting With Twilight",
         "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 364626,
       "name": "Only Love Can Break Your Heart - Live",
       "url": "https://open.spotify.com/track/7zIRI8IyfDzlSxAzKy2E4m"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
-        "name": "It Happens Like That",
-        "url": "https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        },
-        {
-          "name": "Gil Goldstein",
-          "url": "https://open.spotify.com/artist/59bgiWWmCiIfBkzZ8URC1Q"
-        }
-      ],
-      "duration_ms": 211621,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/2WNrH1N4HprO6pY8Yuydh8"
     },
     {
       "added_at": "2026-02-17 14:09:55",

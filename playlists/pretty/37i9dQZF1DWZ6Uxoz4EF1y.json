@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 245371,
+  "num_followers": 245358,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Yo Navegar\u00e9",
-        "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
-      },
-      "artists": [
-        {
-          "name": "Jotta A",
-          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
-        },
-        {
-          "name": "Marcos Yaroide",
-          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
-        }
-      ],
-      "duration_ms": 385066,
-      "name": "Mateo 17",
-      "url": "https://open.spotify.com/track/6phOeAec12tnILyQPwNmej"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Mi Jes\u00fas",
         "url": "https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 260649,
       "name": "Mi Jes\u00fas",
       "url": "https://open.spotify.com/track/2w84WTatORJJTPLFqeTIlO"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Yo Navegar\u00e9",
+        "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "Marcos Yaroide",
+          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
+        }
+      ],
+      "duration_ms": 385066,
+      "name": "Mateo 17",
+      "url": "https://open.spotify.com/track/6phOeAec12tnILyQPwNmej"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1307,6 +1307,34 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+        },
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 715466,
+      "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
+      "url": "https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "25 Concierto Conmemorativo",
         "url": "https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW"
       },
@@ -1359,34 +1387,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
-        },
-        {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 715466,
-      "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
-      "url": "https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Piedras Vivas",
         "url": "https://open.spotify.com/album/2KjcElLTluwudvzcVTTkAU"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 315651,
       "name": "Gracia Sublime Es",
       "url": "https://open.spotify.com/track/5y5o4CayTLb3nMtrGkGko6"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 424534,
+      "name": "Hay Poder",
+      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1459,22 +1475,6 @@
       "duration_ms": 279858,
       "name": "Jesucristo Basta (Ver. Ac\u00fastica) feat. Living",
       "url": "https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 424534,
-      "name": "Hay Poder",
-      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1543,6 +1543,22 @@
       "duration_ms": 299013,
       "name": "Amor Sin Comparaci\u00f3n",
       "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "El Poder De Tu Amor",
+        "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 269640,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "El Poder De Tu Amor",
-        "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 269640,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Bethel Music en Espa\u00f1ol (Live)",
         "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "Como En Casa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/58lk4EL45WV2aEZjVWg02U"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 363772,
+      "name": "Vives Tu Vivo Yo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1tbUBcTzOqzKL9azeIgpty"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Santo R\u00edo de Dios",
         "url": "https://open.spotify.com/album/5yxTDKXmyaxuBusT71eLlM"
       },
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Como En Casa (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/58lk4EL45WV2aEZjVWg02U"
+        "name": "Cara a Cara",
+        "url": "https://open.spotify.com/album/3p9msnarNxbQCTKPNcPtt9"
       },
       "artists": [
         {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
         }
       ],
-      "duration_ms": 363772,
-      "name": "Vives Tu Vivo Yo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1tbUBcTzOqzKL9azeIgpty"
+      "duration_ms": 340558,
+      "name": "Cara A Cara",
+      "url": "https://open.spotify.com/track/0lSVMltHrxlYJs9H5xq2PY"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1735,22 +1751,6 @@
       "duration_ms": 612165,
       "name": "Todo Lo Haces Nuevo",
       "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Cara a Cara",
-        "url": "https://open.spotify.com/album/3p9msnarNxbQCTKPNcPtt9"
-      },
-      "artists": [
-        {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
-        }
-      ],
-      "duration_ms": 340558,
-      "name": "Cara A Cara",
-      "url": "https://open.spotify.com/track/0lSVMltHrxlYJs9H5xq2PY"
     },
     {
       "added_at": "2026-04-04 05:56:44",

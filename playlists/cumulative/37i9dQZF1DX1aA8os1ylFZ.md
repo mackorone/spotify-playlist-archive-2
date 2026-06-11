@@ -4,7 +4,7 @@
 
 > De beste nieuwe R&B releases \| Cover: Chris Brown
 
-752 songs - 1 day 14 hr 48 min
+754 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,8 +186,9 @@
 | [Drop In](https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Drop In](https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3) | 3:26 | 2023-11-08 | 2024-10-05 |
 | [Drunk Tank](https://open.spotify.com/track/4NZmBeRHvRSl79EkOj3pBH) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Man Makes Plans](https://open.spotify.com/album/4EoRSfnvTlf6iofV9L23PC) | 2:49 | 2023-01-12 | 2023-09-15 |
 | [DUVET](https://open.spotify.com/track/6AC9alC8qJ7cXuYifgAfQn) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST DELU/XXX \[for my delusional ex\]](https://open.spotify.com/album/4cwTNbK4eKfA98HHIdh4m0) | 2:31 | 2025-12-05 |  |
+| [Elements](https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Elements](https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp) | 3:27 | 2026-06-10 |  |
 | [Emotionally Unavailable](https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [Emotionally Unavailable](https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws) | 2:22 | 2023-10-12 | 2024-09-28 |
-| [Empath](https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 3:17 | 2025-05-08 |  |
+| [Empath](https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 3:17 | 2025-05-08 | 2026-06-11 |
 | [Even When/The Best Part \- From "High School Musical: The Musical: The Series \(Season 2\)"](https://open.spotify.com/track/30UszgTxEuJVG5SUFyBffT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Even When/The Best Part \[From "High School Musical: The Musical: The Series \(Season 2\)"\]](https://open.spotify.com/album/2YLKW3LB4P1cEersm5YpAL) | 1:46 | 2021-12-16 | 2023-01-13 |
 | [Excuses](https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Excuses](https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt) | 2:25 | 2023-01-12 | 2023-05-13 |
 | [Eyes Closed](https://open.spotify.com/track/0l0UDr9M10FQAMkq8jcIf8) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 4:32 | 2023-11-09 | 2024-11-22 |
@@ -351,6 +352,7 @@
 | [Karma](https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Take Control](https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa) | 2:23 | 2023-08-31 | 2023-09-10 |
 | [KARMA](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [KARMA](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 | 2024-02-26 | 2024-08-02 |
 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2023-01-12 | 2023-03-23 |
+| [Kill For Us](https://open.spotify.com/track/28LiTR1zZR1ELe42doTMLD) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Seen](https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ) | 3:33 | 2026-06-10 |  |
 | [Kiss Me](https://open.spotify.com/track/5J7FySNDIRY5uENT7PTCtJ) | [FLORE](https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h) | [Kiss Me](https://open.spotify.com/album/356rRG2NTWd2OAsQJwkdCi) | 2:25 | 2021-12-16 | 2023-01-13 |
 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 | 2021-12-16 | 2022-03-26 |
 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 | 2024-04-11 | 2024-09-20 |
@@ -433,7 +435,7 @@
 | [MUTT \(feat\. Chris Brown\) \[CB REMIX\]](https://open.spotify.com/track/3riRdhyMDfEQz5nKrxfbwv) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [MUTT \(CB REMIX\)](https://open.spotify.com/album/3aWAm4NZkp9kxSqOZ51h5s) | 3:19 | 2025-03-20 | 2025-06-28 |
 | [My Absolute \- Remake](https://open.spotify.com/track/56cRGAZAZIwcswRV9v9QcO) | [Mar Omin](https://open.spotify.com/artist/6zOPs5R5TIlc5VSm8bfC7F) | [My Absolute \(Remake\)](https://open.spotify.com/album/5iuuxI1ovQPOdyiJgR9biJ) | 4:25 | 2025-11-20 | 2026-03-27 |
 | [My Favourite Mistake](https://open.spotify.com/track/6GeNR4AIxxQUs1sXnQBjCJ) | [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [My Favourite Mistake](https://open.spotify.com/album/3H56yRhrGZ90lrsxKpijXH) | 3:39 | 2021-12-16 | 2022-06-10 |
-| [N.M.N](https://open.spotify.com/track/1c9AwaAGcb4e7IPTRuPdHN) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Why Do Feelings Matter Anyway](https://open.spotify.com/album/74KBgkPg55lmPeu8Lt2r4M) | 3:00 | 2026-02-03 |  |
+| [N.M.N](https://open.spotify.com/track/1c9AwaAGcb4e7IPTRuPdHN) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Why Do Feelings Matter Anyway](https://open.spotify.com/album/74KBgkPg55lmPeu8Lt2r4M) | 3:00 | 2026-02-03 | 2026-06-11 |
 | [Naked](https://open.spotify.com/track/5cyohpUtQViRIwZoodcl2O) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Between Spaces](https://open.spotify.com/album/5xKvJOrOl8uXL3IOmVhqZm) | 2:03 | 2024-07-12 | 2025-03-08 |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2025-02-05 | 2025-03-13 |
 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 | 2023-03-01 | 2023-03-23 |

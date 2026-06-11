@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 7546,
+  "num_followers": 7545,
   "original_name": "Projekt Melody Official Playlist",
   "owner": {
     "name": "Melody",
     "url": "https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih"
   },
-  "snapshot_id": "AAABbqlDWgVlvf+hrlaU1Xn6Z5UKl2Ff",
+  "snapshot_id": "AAABcpVSenmrI0mIMdodbB8fL8QCt4ci",
   "tracks": [
     {
       "added_at": "2020-03-11 15:33:22",
@@ -9859,6 +9859,82 @@
       "duration_ms": 193447,
       "name": "Papercut",
       "url": "https://open.spotify.com/track/3fjv1YnPIn2UDiGkMKvAFM"
+    },
+    {
+      "added_at": "2026-06-11 01:27:41",
+      "album": {
+        "name": "Champagne & Sunshine",
+        "url": "https://open.spotify.com/album/0ypRXml4YrjqnfL4D4S7qg"
+      },
+      "artists": [
+        {
+          "name": "PLVTINUM",
+          "url": "https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn"
+        },
+        {
+          "name": "Tarro",
+          "url": "https://open.spotify.com/artist/0SXgKLNtpIrH29F1vMRWzj"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Champagne & Sunshine",
+      "url": "https://open.spotify.com/track/77U6kcldLRFl9vCfaw11Sr"
+    },
+    {
+      "added_at": "2026-06-11 01:32:15",
+      "album": {
+        "name": "Paradise EP",
+        "url": "https://open.spotify.com/album/7agIpPnZXBhJQcWHAvdQFx"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/5lT5IZWW3JQErXELJpQgJ9"
+    },
+    {
+      "added_at": "2026-06-11 03:17:01",
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "duration_ms": 215149,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3"
+    },
+    {
+      "added_at": "2026-06-11 04:14:42",
+      "album": {
+        "name": "Camp",
+        "url": "https://open.spotify.com/album/01MRGgNbfWrE291tQjw9ta"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d"
     }
   ],
   "unique_name": "Projekt Melody Official Playlist",

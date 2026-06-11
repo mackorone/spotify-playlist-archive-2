@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 53023,
+  "num_followers": 53028,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
+        "name": "Stakes Is High",
+        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 330408,
+      "name": "Stakes Is High",
+      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
         "name": "Nothing Changed",
         "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 211132,
       "name": "Get Dis Money",
       "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
-        "name": "Stakes Is High",
-        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 330408,
-      "name": "Stakes Is High",
-      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
     },
     {
       "added_at": "2026-05-07 21:17:30",
@@ -1199,30 +1199,6 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
-        "name": "Continuance",
-        "url": "https://open.spotify.com/album/6nOgR17Z6SkfRQ0ygRogTU"
-      },
-      "artists": [
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Louis Baggage (feat. Babyface Ray)",
-      "url": "https://open.spotify.com/track/5lPsuQEj6GwZkAn8MMHaqB"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
         "name": "Wiz Got Wings",
         "url": "https://open.spotify.com/album/4kLvbwlPQyp6nSCh2Zavsq"
       },
@@ -1243,6 +1219,30 @@
       "duration_ms": 163499,
       "name": "Blacc Tarantino",
       "url": "https://open.spotify.com/track/4XfImWpKCckmDc4tRqEyIR"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
+        "name": "Continuance",
+        "url": "https://open.spotify.com/album/6nOgR17Z6SkfRQ0ygRogTU"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 150053,
+      "name": "Louis Baggage (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/5lPsuQEj6GwZkAn8MMHaqB"
     },
     {
       "added_at": "2026-05-07 21:17:30",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
-        "name": "Let It Breathe",
-        "url": "https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Let It Breathe",
-      "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
         "name": "Kush + Orange Juice 2",
         "url": "https://open.spotify.com/album/5hCMGdoEu229fjWGMWFnbJ"
       },
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
+        "name": "Let It Breathe",
+        "url": "https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Let It Breathe",
+      "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
         "name": "Dark Hearted",
         "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
       },
@@ -1359,26 +1359,6 @@
       "duration_ms": 205851,
       "name": "Dark Hearted",
       "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
-        "name": "Flowers (feat. MAVI)",
-        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 182201,
-      "name": "Flowers (feat. MAVI)",
-      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     },
     {
       "added_at": "2026-05-07 21:17:30",
@@ -1399,6 +1379,26 @@
       "duration_ms": 233090,
       "name": "RUN [Feat. Young Thug] - Single Version",
       "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     },
     {
       "added_at": "2026-05-07 21:17:30",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk"
-      },
-      "artists": [
-        {
-          "name": "Morray",
-          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
-        }
-      ],
-      "duration_ms": 223944,
-      "name": "Quicksand",
-      "url": "https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
         "name": "The Jackie (with J. Cole & Lil Tjay)",
         "url": "https://open.spotify.com/album/6xiJPpCpSaM5l4Fz8IYjyU"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 204434,
       "name": "The Jackie (with J. Cole & Lil Tjay)",
       "url": "https://open.spotify.com/track/15qKrPi4Kg0z7g9HlwWyeb"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "duration_ms": 223944,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj"
     },
     {
       "added_at": "2026-05-07 21:17:30",

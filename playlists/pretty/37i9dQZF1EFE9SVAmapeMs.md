@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2x9Uy8yoJIWxOslfC3vYCq">Wondagurl</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,264 likes - 72 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,265 likes - 72 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 60 | [Don't Play](https://open.spotify.com/track/3LI5b1E6jYpMI8zRwuoeMw) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Don't Play](https://open.spotify.com/album/0YsKj89MQL8KQgGjfWlUnI) | 2:17 |
 | 61 | [Coquillage](https://open.spotify.com/track/1nn31ReOKTm1G1wXMUqSNz) | [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS), [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0) | [Toronto / Paris \(Red Bull Music\)](https://open.spotify.com/album/5GKpHjnrNn8kelT9A5h5bn) | 2:22 |
 | 62 | [SHAWTY / IN LOVE WITH ALL MY BITCHES](https://open.spotify.com/track/1nFhPTEsefIYECgtZzND6y) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 4:23 |
-| 63 | [YEAAA! \(feat\. Future\)](https://open.spotify.com/track/1RsgNG6ne4TKnL0xoAzFeQ) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 3:34 |
-| 64 | [ms60 \(with Naomi Campbell\)](https://open.spotify.com/track/0o7tLK6IhK97l3d6pRy2Xs) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Naomi Campbell](https://open.spotify.com/artist/4IKQKM9T5OIshijgLD8ZyK) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 2:28 |
+| 63 | [ms60 \(with Naomi Campbell\)](https://open.spotify.com/track/0o7tLK6IhK97l3d6pRy2Xs) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Naomi Campbell](https://open.spotify.com/artist/4IKQKM9T5OIshijgLD8ZyK) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 2:28 |
+| 64 | [YEAAA! \(feat\. Future\)](https://open.spotify.com/track/1RsgNG6ne4TKnL0xoAzFeQ) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 3:34 |
 | 65 | [Too Many Times](https://open.spotify.com/track/0iRWX6F62Q9QEEUHeI5bVT) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 4:56 |
 | 66 | [Showstopper](https://open.spotify.com/track/3YpnwDPCp3yNUB9NBO3plZ) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:29 |
 | 67 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 71 | [Found](https://open.spotify.com/track/2mUoBl035v3VDYJ6YDOXqF) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Circles](https://open.spotify.com/album/4qnV1lETL7Q41TaqiKqSiN) | 2:54 |
 | 72 | [Young Love Games](https://open.spotify.com/track/5Z0qaipNiBmMTTFohE9ek3) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Young Love Games](https://open.spotify.com/album/0edwyKGofva4cAqAuTWmJd) | 2:45 |
 
-Snapshot ID: `AcTypgAAAADxHyA5rfNIed2CvFCElJri`
+Snapshot ID: `AcT4bgAAAAC6u5Ctw7ak+ocL5OFKdbf+`

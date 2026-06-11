@@ -4,7 +4,7 @@
 
 > This is Suzanne Ciani\. The essential tracks, all in one playlist.
 
-144 songs - 11 hr 59 min
+145 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/album/3hdtWC6PVnbWBBDhEWHlrR) | 6:53 | 2024-01-25 | 2026-01-20 |
 | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/7cuLVhTym8uqQEqX11yirx) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Milan \(Deluxe\)](https://open.spotify.com/album/03jfunLEBbvaZQfAtshEEK) | 6:53 | 2026-01-20 |  |
 | [Ocean Avenue](https://open.spotify.com/track/3bqA2pghklVzvAn4U04qLO) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 4:14 | 2022-05-29 | 2022-11-26 |
-| [Oceanium](https://open.spotify.com/track/0sEjFNddVHkq8Wf7fWsMSh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 7:58 | 2023-10-10 |  |
+| [Oceanium](https://open.spotify.com/track/0sEjFNddVHkq8Wf7fWsMSh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 7:58 | 2023-10-10 | 2026-06-11 |
 | [Ondine \(From Hotel Luna\)](https://open.spotify.com/track/3miJRnWeoyvaQTwo5UTGWe) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Private Music Of Suzanne Ciani](https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy) | 3:52 | 2022-05-29 |  |
 | [Open Seas](https://open.spotify.com/track/51PQWtxQ9doTVToh33gi94) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:36 | 2022-05-30 | 2024-11-10 |
 | [Part Eight](https://open.spotify.com/track/4Ug32kdtEa1Jy8gJmFK8JU) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [LIVE Quadraphonic](https://open.spotify.com/album/1WWOmrEQHpvibV3bQBvcIN) | 1:19 | 2022-05-29 | 2023-12-19 |
@@ -115,6 +115,7 @@
 | [Section 2: Ocean Moves](https://open.spotify.com/track/76giO97PVFlVQr4YytMgRU) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Simon Dobson](https://open.spotify.com/artist/4sYhuNqiZ8eTJDvW1OmIiq) | [CIANI/ORKEST](https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl) | 9:37 | 2026-06-07 |  |
 | [Section 3: Contrapuntal](https://open.spotify.com/track/1NockpZTzwjWZ1FNaSqc1Z) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Simon Dobson](https://open.spotify.com/artist/4sYhuNqiZ8eTJDvW1OmIiq) | [CIANI/ORKEST](https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl) | 12:12 | 2026-06-10 |  |
 | [Section 4: Animal Kingdom](https://open.spotify.com/track/3MY4B4mOAg2gGJzVlQcbI8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Simon Dobson](https://open.spotify.com/artist/4sYhuNqiZ8eTJDvW1OmIiq) | [CIANI/ORKEST](https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl) | 6:42 | 2026-06-10 |  |
+| [Section 5: Chase Scene](https://open.spotify.com/track/4vMALDK0cYPOwOHoTtLzZU) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Simon Dobson](https://open.spotify.com/artist/4sYhuNqiZ8eTJDvW1OmIiq) | [CIANI/ORKEST](https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl) | 11:05 | 2026-06-11 |  |
 | [She Said Yes](https://open.spotify.com/track/4rMYs3LbxL590HCdmQb5mF) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:55 | 2024-10-31 | 2026-02-24 |
 | [Silver Ship](https://open.spotify.com/track/3sWBvGaYnq0cDN6lNNNAIt) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:49 | 2022-05-30 | 2026-03-31 |
 | [Simple Song \- Live](https://open.spotify.com/track/6M64D6EyQPPkQLuLH1EGfs) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:15 | 2022-06-05 | 2026-06-01 |

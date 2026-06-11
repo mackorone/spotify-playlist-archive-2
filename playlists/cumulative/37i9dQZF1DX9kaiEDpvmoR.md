@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-583 songs - 1 day 10 hr 28 min
+584 songs - 1 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Forgetting To Forget You](https://open.spotify.com/track/4EIbkUEDikvoD1Qv7sdjdF) | [Ulf Nilsson](https://open.spotify.com/artist/2rkHn1CZIm8WSEXjVm86EV) | [Forgetting To Forget You](https://open.spotify.com/album/11EYPT9zI046s68U5vgDzn) | 2:39 | 2025-05-22 | 2025-07-25 |
 | [Forgive, Forget](https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Forgive, Forget](https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE) | 2:49 | 2025-07-10 | 2026-04-14 |
 | [Forserum](https://open.spotify.com/track/4Wpt5gCGT1SgDl4pW850DI) | [KUPLETTEN](https://open.spotify.com/artist/02EKOQPSOvw98jhKYtMcQa) | [Forserum](https://open.spotify.com/album/10HNlmUS1hpbCMFeDC4vmq) | 5:14 | 2024-10-10 | 2024-10-18 |
+| [Fortfarande vi](https://open.spotify.com/track/4RXAKqPueNdZbqC18wP2lG) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Fortfarande vi](https://open.spotify.com/album/7DPAKW6DID1AIeDkKnKZ4q) | 2:51 | 2026-06-04 |  |
 | [Fredagskvällsblues](https://open.spotify.com/track/0VGSiDMjJOHLbEaOMba2IW) | [Anastasía](https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Fredagskvällsblues](https://open.spotify.com/album/4nwPui9AD6M1OAJoIf2Ifn) | 4:03 | 2026-03-26 | 2026-06-02 |
 | [Fri till slut \- Spotify Singles](https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Fri till slut \- Spotify Singles](https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO) | 4:48 | 2024-06-27 | 2025-04-04 |
 | [Från landet](https://open.spotify.com/track/1CGGrztimeQFtsmEVk9GFE) | [Erika Jonsson](https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx) | [Från landet](https://open.spotify.com/album/2Y5L1zs2PSBAHT0t86EFCY) | 2:59 | 2026-03-05 | 2026-05-08 |
@@ -307,7 +308,7 @@
 | [Lagt kort ligger](https://open.spotify.com/track/4f0EwvoGMtj1IQZ4bwTLWF) | [Benny Anderssons Orkester](https://open.spotify.com/artist/5KcJSAFLAEtpCkK5EI0KLS), [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx) | [Lagt kort ligger](https://open.spotify.com/album/5TEnh1yxwpajxln13n15Qd) | 3:01 | 2024-09-06 | 2024-10-12 |
 | [Lake Geneva](https://open.spotify.com/track/5XRO2QAIHPVwo7RXY6Ybqb) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [Lake Geneva](https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A) | 3:41 | 2025-04-10 | 2026-02-13 |
 | [Land](https://open.spotify.com/track/2qf4HEGKdkQzrUK0jAgxnV) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Framtiden som aldrig blev av](https://open.spotify.com/album/2ydJbEdyPq7pPoJhBUcHC0) | 3:46 | 2026-05-28 |  |
-| [Last To Know](https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [Last To Know](https://open.spotify.com/album/04oxKh21TCYMX17XlDHptZ) | 3:34 | 2026-04-23 |  |
+| [Last To Know](https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [Last To Know](https://open.spotify.com/album/04oxKh21TCYMX17XlDHptZ) | 3:34 | 2026-04-23 | 2026-06-11 |
 | [Leave the Light On](https://open.spotify.com/track/02VIYx4nxhe8wdmOx79eKu) | [Mattias Tell](https://open.spotify.com/artist/4ED8OpMu5pxWULUB3MpWj5) | [Leave the Light On](https://open.spotify.com/album/5qqzcP5RWRIM73HtHCeVM2) | 3:54 | 2024-08-29 | 2024-09-13 |
 | [Let Her In](https://open.spotify.com/track/1YYbAYmfoUxITo7gNWZThw) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [Let Her In](https://open.spotify.com/album/5xdOtVBEPBMilhg8xjUd62) | 3:46 | 2024-06-27 | 2024-08-09 |
 | [Leva för alltid \- Sveriges officiella VM\-låt 2026](https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Leva för alltid \(Sveriges officiella VM\-låt 2026\)](https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg) | 3:22 | 2026-05-14 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 508568,
+  "num_followers": 508647,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,26 @@
     {
       "added_at": "2025-10-10 04:00:28",
       "album": {
+        "name": "Candy Shop",
+        "url": "https://open.spotify.com/album/58cznlUcyL1SOMM3yC9Q0K"
+      },
+      "artists": [
+        {
+          "name": "BeeBars",
+          "url": "https://open.spotify.com/artist/7b3md5axPpNqk3S71GuV62"
+        },
+        {
+          "name": "7vvch",
+          "url": "https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu"
+        }
+      ],
+      "duration_ms": 140458,
+      "name": "Candy Shop",
+      "url": "https://open.spotify.com/track/1fNw8Z9NynJC5VABh2u36Z"
+    },
+    {
+      "added_at": "2025-10-10 04:00:28",
+      "album": {
         "name": "Rahala (with Arem Ozguc & Arman Aydin)",
         "url": "https://open.spotify.com/album/2koJ0Q2koZsHgqtjfo6T0s"
       },
@@ -751,22 +771,22 @@
     {
       "added_at": "2025-10-10 04:00:28",
       "album": {
-        "name": "Candy Shop",
-        "url": "https://open.spotify.com/album/58cznlUcyL1SOMM3yC9Q0K"
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/5HgyUvnPlzOyyPLR2gpufN"
       },
       "artists": [
         {
-          "name": "BeeBars",
-          "url": "https://open.spotify.com/artist/7b3md5axPpNqk3S71GuV62"
-        },
-        {
           "name": "7vvch",
           "url": "https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu"
+        },
+        {
+          "name": "Bladdy-T",
+          "url": "https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc"
         }
       ],
-      "duration_ms": 140458,
-      "name": "Candy Shop",
-      "url": "https://open.spotify.com/track/1fNw8Z9NynJC5VABh2u36Z"
+      "duration_ms": 136800,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/09rtoOBDXlydwVQ90ITHnW"
     },
     {
       "added_at": "2025-10-10 04:00:28",
@@ -787,26 +807,6 @@
       "duration_ms": 138782,
       "name": "Sztoj Pa Moru",
       "url": "https://open.spotify.com/track/3BHe1jnaW3hocrfMqytTP2"
-    },
-    {
-      "added_at": "2025-10-10 04:00:28",
-      "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/5HgyUvnPlzOyyPLR2gpufN"
-      },
-      "artists": [
-        {
-          "name": "7vvch",
-          "url": "https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu"
-        },
-        {
-          "name": "Bladdy-T",
-          "url": "https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/09rtoOBDXlydwVQ90ITHnW"
     },
     {
       "added_at": "2025-10-10 04:00:28",

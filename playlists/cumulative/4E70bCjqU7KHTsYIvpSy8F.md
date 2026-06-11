@@ -4,7 +4,7 @@
 
 > 
 
-72 songs - 4 hr 5 min
+73 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Packet Hero](https://open.spotify.com/track/5GQaOyGSPoC07JlrTGcMpi) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 4:38 | 2025-03-13 |  |
 | [Photon of Fluctuation](https://open.spotify.com/track/0wNEzpXYxGyktCiyz2Yqp3) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- City of Winds and Idylls \(Original Game Soundtrack\)](https://open.spotify.com/album/4B5efqHkeq0UaDGx8nYOuf) | 3:14 | 2025-03-14 |  |
 | [Plant Patrol \- Tighnari Theme](https://open.spotify.com/track/1DYYdLaHXF5Tp6JeYPWf1b) | [tnbee](https://open.spotify.com/artist/0cJKVhrPAsTbiwKervvVQH) | [Tighnari Mix Collection \(From "Genshin Impact"\)](https://open.spotify.com/album/00K5StGJAjRoNJUPmGduuu) | 4:12 | 2025-03-14 |  |
+| [Pokedance](https://open.spotify.com/track/4OCrTRAYKTOUIeuCy4fuXJ) | [Anya Forger](https://open.spotify.com/artist/5FYzLgVpScfNAOgOcmRWL2) | [Pokedance](https://open.spotify.com/album/6juwrPAxZ0xFi1qVoueJBd) | 1:15 | 2026-06-10 |  |
 | [Pomegranate](https://open.spotify.com/track/45oS4nrm9etZARk3WQ5dDs) | [Tai GekTou](https://open.spotify.com/artist/6i3BNKFAzyCVk9uh7EOgiL) | [Taste of Life II](https://open.spotify.com/album/5nwzhW58OFOWwQiCYIffJc) | 4:43 | 2025-03-13 |  |
 | [Port Ormos Lofi \(From "Genshin Impact"\)](https://open.spotify.com/track/0G074nCNfRTJ78kea2OkHh) | [Atharva Mohite](https://open.spotify.com/artist/5R230YGnc1yfMCZyp9d9Jt) | [Port Ormos Lofi \(From "Genshin Impact"\)](https://open.spotify.com/album/26JqeOzUcIZ4bWoe8nX1O4) | 1:44 | 2025-03-14 |  |
 | [Promise](https://open.spotify.com/track/3uomNJ19OertundByuD1RK) | [Sunna Wehrmeijer](https://open.spotify.com/artist/6lmxVPqd9G6iOMnYEEQ94Z) | [The Music of She\-Ra and the Princesses of Power](https://open.spotify.com/album/6S2nR6z4kPQI7WT798Tl1U) | 5:12 | 2025-03-13 |  |

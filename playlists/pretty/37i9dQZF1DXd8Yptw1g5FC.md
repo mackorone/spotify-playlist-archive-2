@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Makbet x Can Bonomo ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,228 likes - 124 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,231 likes - 124 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 23 | [Tastes So Good](https://open.spotify.com/track/4gluSAEoFadJsa26yk6UHq) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z) | 3:05 |
 | 24 | [Günün Sonunda](https://open.spotify.com/track/2gHGF27KRLLLC3OnAcBLuU) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66), [Nuski](https://open.spotify.com/artist/2pHhWp0Us1csip3TUxFEQQ) | [Günün Sonunda](https://open.spotify.com/album/1oJafx7IQ94tfAibquO4Vk) | 2:26 |
 | 25 | [Maşallah](https://open.spotify.com/track/3nX8jHSQ0quuVUvVjqu22m) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Maşallah](https://open.spotify.com/album/3GxoC9pHHs2C2lKo4Q6Gdl) | 2:16 |
-| 26 | [Choro Pro Zé](https://open.spotify.com/track/5fjnzJBTYiwpt9ba0j5xnA) | [Elif Sanchez](https://open.spotify.com/artist/74v3N39tiIzpUsDLpHGz2B), [O Kwarteto](https://open.spotify.com/artist/0XoxJtDROhxLeZo8hxI1ny) | [Así pues...](https://open.spotify.com/album/3pSP6q7xiM7klF6wlaexC0) | 3:53 |
+| 26 | [Choro Pro Zé](https://open.spotify.com/track/5fjnzJBTYiwpt9ba0j5xnA) | [Elif Sanchez](https://open.spotify.com/artist/74v3N39tiIzpUsDLpHGz2B) | [Así pues...](https://open.spotify.com/album/3pSP6q7xiM7klF6wlaexC0) | 3:53 |
 | 27 | [Unutamam](https://open.spotify.com/track/6zc0p2YMTImhouXf5jdxCF) | [WTFRANK](https://open.spotify.com/artist/0oP6PRV97lvonUAdTvzeqN) | [Unutamam](https://open.spotify.com/album/0MXvn4AlEavdCHW6KOJVQ6) | 2:11 |
 | 28 | [Bir Ayrılık Bir Yoksulluk Bir Ölüm](https://open.spotify.com/track/4KieCPgCedtnFZ9x1jBtGz) | [Özgür Can Çoban](https://open.spotify.com/artist/6J5uNSCReF2DcT9pbwc4MY) | [Bir Ayrılık Bir Yoksulluk Bir Ölüm](https://open.spotify.com/album/7y3OhP2NLBV3SXvbRTyZYj) | 5:14 |
 | 29 | [Karanlıktan Aydınlığa](https://open.spotify.com/track/2EuoCQ7bXYuY2BhGKe35J0) | [Ege](https://open.spotify.com/artist/3nmYPDXqMqkNIujfm9wGDg) | [Karanlıktan Aydınlığa](https://open.spotify.com/album/6hRif8UUJhhqRwIZPM74TH) | 3:54 |

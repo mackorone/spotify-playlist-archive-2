@@ -2,13 +2,13 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: LANDOKMAI
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: loserpop
 
-179 songs - 12 hr 24 min
+181 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [18 มนุษย์ทองคำ](https://open.spotify.com/track/2e6a5Ii86RwKEaDTxeMjxV) | [Playground](https://open.spotify.com/artist/2wOi2qbLUki1fdXM14aki4) | [18 มนุษย์ทองคำ](https://open.spotify.com/album/0utosybN3YUiMBodVj57v5) | 3:47 | 2026-05-07 |  |
+| [18 มนุษย์ทองคำ](https://open.spotify.com/track/2e6a5Ii86RwKEaDTxeMjxV) | [Playground](https://open.spotify.com/artist/2wOi2qbLUki1fdXM14aki4) | [18 มนุษย์ทองคำ](https://open.spotify.com/album/0utosybN3YUiMBodVj57v5) | 3:47 | 2026-05-07 | 2026-06-11 |
 | [44°](https://open.spotify.com/track/0mD5TlcL7lW0RTKQZ96xQt) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [44°](https://open.spotify.com/album/3eonmP625PaZ1uQUAycanz) | 4:38 | 2025-05-01 |  |
 | [ALICE](https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ALICE](https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX) | 3:42 | 2024-06-27 | 2025-03-15 |
 | [All I Know](https://open.spotify.com/track/1MFPsvn1WORn6oSbStc93A) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [All I Know](https://open.spotify.com/album/4leadtIteS968V9L0Hn1g3) | 3:54 | 2024-12-20 | 2025-02-22 |
@@ -34,7 +34,7 @@
 | [Thank You](https://open.spotify.com/track/5CymAewij8lB7VgdhovfZ0) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Thank You](https://open.spotify.com/album/1KOYRnENvPu1Yh8sCGVTaD) | 4:23 | 2025-12-07 |  |
 | [Trip](https://open.spotify.com/track/7k0zv87tT5Q9pEfDErNcm5) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [Trip](https://open.spotify.com/album/1JLTRV3W2SedWzmtUMjDn6) | 3:39 | 2025-10-17 |  |
 | [Turning Back](https://open.spotify.com/track/1LZRt5SEfIxhxrZA6iqgb1) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Turning Back](https://open.spotify.com/album/2rGPzWMTMlOpuTCoPo9vrH) | 4:38 | 2025-08-08 | 2025-09-20 |
-| [u](https://open.spotify.com/track/0eFzwjkXGKU0dbPkNUpiY7) | [sujipuli](https://open.spotify.com/artist/03Gzv2feBkh5Po9ZH6Mn64) | [u](https://open.spotify.com/album/3rppEgfPmklyFBG7DoKqZZ) | 4:06 | 2026-05-29 |  |
+| [u](https://open.spotify.com/track/0eFzwjkXGKU0dbPkNUpiY7) | [sujipuli](https://open.spotify.com/artist/03Gzv2feBkh5Po9ZH6Mn64) | [u](https://open.spotify.com/album/3rppEgfPmklyFBG7DoKqZZ) | 4:06 | 2026-05-29 | 2026-06-11 |
 | [กลับดาว \(I Miss You\)](https://open.spotify.com/track/5YbeQOGH0uQhB5lzSlXW0C) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J), [Praewa \(Yellow Fang\)](https://open.spotify.com/artist/7qBqfl2bJ7aD56MWacFHED) | [กลับดาว \(I Miss You\)](https://open.spotify.com/album/06pq31DFHEiGPh0ozdNKFk) | 3:38 | 2026-05-15 | 2026-05-30 |
 | [กลับมาไม่มีเธอให้กอด \(deserved\)](https://open.spotify.com/track/306CSpkvZDDv5S4sqSDAn7) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [กลับมาไม่มีเธอให้กอด \(deserved\)](https://open.spotify.com/album/4bmOGGTtXBr5Iw4aeqKNNP) | 5:01 | 2025-10-24 |  |
 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 | 2025-04-11 |  |
@@ -90,6 +90,7 @@
 | [ทิ้งไว้ที่เดิม](https://open.spotify.com/track/7lNFvY6jDHOPzsU5wfZz4C) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ทิ้งไว้ที่เดิม](https://open.spotify.com/album/40b5fnvDOTrUfugkRNspto) | 3:54 | 2025-03-28 | 2025-08-09 |
 | [ที่ข้างๆฉัน \(Bolster\)](https://open.spotify.com/track/1LaVe5YHUEU4qQ8wt3TZHR) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:36 | 2024-06-27 | 2025-12-27 |
 | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/track/4xtYwmu1FkBQkOhK5fTqd4) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/album/4iwWf24XP5mfvnhsnSjxsI) | 5:23 | 2024-11-28 |  |
+| [ทุกนาที \(As Light Goes By\)](https://open.spotify.com/track/3NHfp3bfkPYbFDFCEJosyd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ทุกนาที \(As Light Goes By\)](https://open.spotify.com/album/0CbmV4nYpeg2T31HGKPU8s) | 5:31 | 2026-06-10 |  |
 | [ทุกวันเหมือนเดิม](https://open.spotify.com/track/4zQNXqaOsprULnmPpJzthQ) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ทุกวันเหมือนเดิม](https://open.spotify.com/album/3u1yAY03tT0NgH6eXJX6NJ) | 4:03 | 2025-02-28 | 2026-05-16 |
 | [ทุกสิ่ง \(Voodoo Potion\)](https://open.spotify.com/track/7FuNF6TO7xdrKdDSePTw0x) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ทุกสิ่ง \(Voodoo Potion\)](https://open.spotify.com/album/6alNIfAj10XFQskbGE8KgP) | 4:48 | 2024-06-27 | 2025-03-22 |
 | [นี่ฉันเองคนที่...](https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [นี่ฉันเองคนที่...](https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK) | 4:16 | 2024-09-20 | 2026-05-08 |
@@ -181,6 +182,7 @@
 | [ไม่ต้องเกรงใจ \(Make Sure\)](https://open.spotify.com/track/03VOGaj0opd5oCVwg1NU30) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J) | [ไม่ต้องเกรงใจ \(Make Sure\)](https://open.spotify.com/album/3kr9AyWsyMVUnRnatvJQSt) | 3:36 | 2024-08-30 | 2024-09-21 |
 | [ไม่บอกก็รู้](https://open.spotify.com/track/5ie8e9PnYpJQtpW2JdgYVj) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ไม่บอกก็รู้](https://open.spotify.com/album/0LyTvjcxBAkZ4U3Sm9EwIX) | 4:27 | 2025-07-04 |  |
 | [ไม่มีมาตรฐาน \(Norm\)](https://open.spotify.com/track/2SqRDUGYOHQXRYXWASOslM) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ไม่มีมาตรฐาน \(Norm\)](https://open.spotify.com/album/7HpGgnpAszFY0j70oZr429) | 3:21 | 2026-03-27 | 2026-05-08 |
+| [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/track/2L54tWSpB5yeAYvienaKTT) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/album/1JCH3jvq3lj4KeIpWwTj32) | 4:40 | 2026-06-10 |  |
 | [ไม่เคยรู้](https://open.spotify.com/track/5HCwzA8KgJa7MVj0Gs3pL6) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ไม่เคยรู้](https://open.spotify.com/album/0QYsMM0FeG6QryoPlf54io) | 5:02 | 2024-09-11 | 2025-06-14 |
 | [ไม่เคยอ่อนแอแบบนี้มาก่อนเลย \(Blindfold\)](https://open.spotify.com/track/2dJuNVr4LGfmXSXlAHJmgl) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [Creatures](https://open.spotify.com/album/3UAPAQIqaSDvMWzQRzEsrV) | 3:33 | 2024-11-08 | 2025-11-22 |
 | [ไม่เป็นไรนะเธอ](https://open.spotify.com/track/1eQUklIPZutkbl723BdQQy) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ไม่เป็นไรนะเธอ](https://open.spotify.com/album/0x8o1AMHFKCGIxpmQn8tVL) | 4:36 | 2024-06-27 | 2025-06-07 |

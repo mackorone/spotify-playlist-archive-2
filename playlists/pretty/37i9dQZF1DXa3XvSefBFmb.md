@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, numa edição especial co curada com Neyna
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,368 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,367 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [O Que É Que Vai Dar](https://open.spotify.com/track/7pUTnX6E1wHFgQarE8lZt5) | [Bianca Barros](https://open.spotify.com/artist/59m9stUzPJ3i5hPsU8BQzl) | [O Que É Que Vai Dar](https://open.spotify.com/album/5sUJtUV7FoDigHoKXny1If) | 3:01 |
 | 50 | [DOU](https://open.spotify.com/track/1pqwWrGOs6dVw06kJFeNd7) | [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [DOU](https://open.spotify.com/album/5hh0tq8hjghGZX5RWNl9lj) | 3:06 |
 
-Snapshot ID: `AAAAAIFh7KaVxp9qXP6kIEAKvI2zaJUA`
+Snapshot ID: `AAAAADjpNhGh/LEZJKYVjqxY9azIGvIx`

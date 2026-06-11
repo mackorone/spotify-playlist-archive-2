@@ -4,7 +4,7 @@
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-133 songs - 7 hr 52 min
+134 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Abrázame Y Bésame \- En Vivo](https://open.spotify.com/track/0P3Vp1LUe0Ryq5JkoF9ICf) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Jennifer Peña](https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf) | [Abrázame Y Bésame \(En Vivo\)](https://open.spotify.com/album/5P7Xa033hHs5AOZcF0EYAs) | 3:38 | 2025-06-29 |  |
 | [Algun Día](https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:19 | 2022-06-01 | 2025-11-04 |
 | [Algún Día](https://open.spotify.com/track/7Ftpkn5Xkv3DFrvEVFRt9R) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Días de Ayer](https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j) | 3:19 | 2025-11-04 |  |
-| [Amor Se Escribe Con Llanto \- En Vivo](https://open.spotify.com/track/0V3SHhzbC5TzDnIb2mbWRW) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Guardianes Del Amor De Arturo Rodriguez](https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G) | [Amor Se Escribe Con Llanto \(En Vivo\)](https://open.spotify.com/album/5zjXAyF9w7Zlcyvwf4cDDk) | 3:36 | 2026-05-22 |  |
+| [Amor Se Escribe Con Llanto \- En Vivo](https://open.spotify.com/track/0V3SHhzbC5TzDnIb2mbWRW) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Guardianes Del Amor De Arturo Rodriguez](https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G) | [Amor Se Escribe Con Llanto \(En Vivo\)](https://open.spotify.com/album/5zjXAyF9w7Zlcyvwf4cDDk) | 3:36 | 2026-05-22 | 2026-06-11 |
+| [Amor Se Escribe Con Llanto \- En Vivo](https://open.spotify.com/track/2IFhLn3agOBN1pv5w1mOer) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Guardianes Del Amor De Arturo Rodriguez](https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol.2/En Vivo\)](https://open.spotify.com/album/0JnZUa2c5sC0xJoSSaoybG) | 3:36 | 2026-06-11 |  |
 | [Atrevete A Olvidarme](https://open.spotify.com/track/22HfGDgdV6EjthbXKpxcT4) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:02 | 2022-10-04 | 2022-10-09 |
 | [Ayer Y Hoy](https://open.spotify.com/track/2WTLKHXAKQPmAvoi1A3bA5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:17 | 2022-06-01 | 2026-02-01 |
 | [Besos y Copas \- En Vivo](https://open.spotify.com/track/3MAWsYmDfawjCo7oHOwFqB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Besos y Copas \(En Vivo\)](https://open.spotify.com/album/3n0WJn6V2aE0HoUYgB0Rvd) | 3:07 | 2025-05-31 | 2025-06-12 |

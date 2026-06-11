@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAACMJqZRbbGzrmMdTXE/8kkF",
+  "snapshot_id": "aidXgAAAAABtBDR8hccaXvGJNBYUC4aL",
   "tracks": [
     {
       "added_at": null,
@@ -163,6 +163,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como Debe Ser",
+        "url": "https://open.spotify.com/album/0tQPxSvQvoCWF2p2ziWmqM"
+      },
+      "artists": [
+        {
+          "name": "Marca De Rancho",
+          "url": "https://open.spotify.com/artist/0z9MnTktQ28puENoMtrc9U"
+        },
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 130087,
+      "name": "Como Debe Ser",
+      "url": "https://open.spotify.com/track/7BYQKLz2yWFePlxApyvbeP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bank Robbery (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C"
       },
@@ -187,30 +211,6 @@
       "duration_ms": 158973,
       "name": "The Bank Robbery",
       "url": "https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Debe Ser",
-        "url": "https://open.spotify.com/album/0tQPxSvQvoCWF2p2ziWmqM"
-      },
-      "artists": [
-        {
-          "name": "Marca De Rancho",
-          "url": "https://open.spotify.com/artist/0z9MnTktQ28puENoMtrc9U"
-        },
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 130087,
-      "name": "Como Debe Ser",
-      "url": "https://open.spotify.com/track/7BYQKLz2yWFePlxApyvbeP"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 176953,
-      "name": "Cuando Me Faltaban",
-      "url": "https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loco Malandro",
         "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
       },
@@ -731,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
       },
       "artists": [
         {
@@ -740,9 +724,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 226986,
-      "name": "Mi Gusto Es - En Vivo",
-      "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
+      "duration_ms": 176953,
+      "name": "Cuando Me Faltaban",
+      "url": "https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp"
     },
     {
       "added_at": null,
@@ -763,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
       },
       "artists": [
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Los DL Mar",
-          "url": "https://open.spotify.com/artist/6mXXpIAnRDVzhPDludHYRf"
         }
       ],
-      "duration_ms": 191994,
-      "name": "Andaba En Pausa",
-      "url": "https://open.spotify.com/track/5fMmWArt0QdYewK6HKE4Tq"
+      "duration_ms": 226986,
+      "name": "Mi Gusto Es - En Vivo",
+      "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
     },
     {
       "added_at": null,
@@ -795,6 +775,26 @@
       "duration_ms": 156928,
       "name": "El Cimarron",
       "url": "https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Los DL Mar",
+          "url": "https://open.spotify.com/artist/6mXXpIAnRDVzhPDludHYRf"
+        }
+      ],
+      "duration_ms": 191994,
+      "name": "Andaba En Pausa",
+      "url": "https://open.spotify.com/track/5fMmWArt0QdYewK6HKE4Tq"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqui Nada Me Va Mal",
-        "url": "https://open.spotify.com/album/3QfoLOlTy4yUlO7R1HWadb"
-      },
-      "artists": [
-        {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
-        },
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 178976,
-      "name": "Aqui Nada Me Va Mal",
-      "url": "https://open.spotify.com/track/3EKCwgqtzhNRD51XOHkjzM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 132555,
       "name": "Recordando Al Chavalon",
       "url": "https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aqui Nada Me Va Mal",
+        "url": "https://open.spotify.com/album/3QfoLOlTy4yUlO7R1HWadb"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        },
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 178976,
+      "name": "Aqui Nada Me Va Mal",
+      "url": "https://open.spotify.com/track/3EKCwgqtzhNRD51XOHkjzM"
     },
     {
       "added_at": null,

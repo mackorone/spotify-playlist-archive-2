@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Live Today, Love Tomorrow, Unite Forever 🫶🫶 It's the sound of Tomorrowland!
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,674 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,772 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 18 | [Ten Out Of Ten](https://open.spotify.com/track/1vr6OT3o3Amd1SXCr5TlWh) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [ROU](https://open.spotify.com/artist/4pUoGQv3H8IsCJLsWGHeVB) | [Ten Out Of Ten](https://open.spotify.com/album/2Sr00goCrkDe8sbYP91EV2) | 2:35 |
 | 19 | [Fancy $hit](https://open.spotify.com/track/6Ar3apWGoJLPZ3zy6Eb94F) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Fancy $hit](https://open.spotify.com/album/178hg0pgag9NoDE2WLabZP) | 2:48 |
 | 20 | [Terminator](https://open.spotify.com/track/26ku6JokELdwswrsC2YjXQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SOLANCE](https://open.spotify.com/artist/2gmkTgD5PwEI6E4Vh0f4ha) | [Alok x Tomorrowland 2025 EP](https://open.spotify.com/album/6IksGwbdSw0JLb0vSllsN5) | 3:04 |
-| 21 | [Insomnia](https://open.spotify.com/track/2TakRZDgKyYXICAwkE4odJ) | [Symphony of Unity](https://open.spotify.com/artist/3XgyPMGFzQghhrW2xJS8WG), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Insomnia](https://open.spotify.com/album/1N32jEdnKljyzi2WqHGeR3) | 4:18 |
+| 21 | [Insomnia](https://open.spotify.com/track/2TakRZDgKyYXICAwkE4odJ) | [Symphony of Unity](https://open.spotify.com/artist/3XgyPMGFzQghhrW2xJS8WG), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Insomnia](https://open.spotify.com/album/1N32jEdnKljyzi2WqHGeR3) | 3:03 |
 | 22 | [Ameonna](https://open.spotify.com/track/2QWVzSa39qQ66oJdIXclo1) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Ameonna](https://open.spotify.com/album/1u2rWWwmEjD7rjUxQ2oYqf) | 7:22 |
 | 23 | [Till I Die \(feat\. Claudia Valentina\)](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Till I Die \(feat\. Claudia Valentina\)](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
 | 24 | [Our Time](https://open.spotify.com/track/4IJWS5XTKiuZml9E7A1Swg) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Amél](https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG) | [ORIGO](https://open.spotify.com/album/60ynd1iwc4DlimvgbYNk6A) | 2:41 |

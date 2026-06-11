@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Tony Boy, Bresh, Taylor Swift, Geolier, Merk & Kremont, Ditonellapiaga e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,377 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,368 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cuore rotto](https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Cuore rotto](https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9) | 2:20 |
+| 1 | [Cuore rotto \(feat\. Finesse\)](https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Cuore rotto \(feat\. Finesse\)](https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9) | 2:20 |
 | 2 | [Cuore di latta](https://open.spotify.com/track/3L9wipeeSlOjBGHVJyykhd) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Mediterraneo \(Dopo il Mare\)](https://open.spotify.com/album/4OaPU3DM8Mr7yOnVPXeCuh) | 3:18 |
 | 3 | [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
 | 4 | [AUTORITÀ](https://open.spotify.com/track/44igqinwL0GzbSEX4lovsi) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [AUTORITÀ](https://open.spotify.com/album/2CCna0QTtaOVDjFvobTZeO) | 3:03 |

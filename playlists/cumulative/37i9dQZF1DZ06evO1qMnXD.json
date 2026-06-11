@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Puberty 2 (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1HgxS3QtHoYbHvmjtHnsci"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109431,
+      "name": "Fireproof",
+      "url": "https://open.spotify.com/track/5zIK1hBFlopgt6hZHfuTon"
+    },
+    {
+      "album": {
         "name": "Puberty 2",
         "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
       },

@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 219333,
       "name": "Get Along Cindy",
       "url": "https://open.spotify.com/track/7ufbjod7bg6PK168Cy9OQK"
@@ -1550,6 +1550,24 @@
       "duration_ms": 160986,
       "name": "He Stole Away",
       "url": "https://open.spotify.com/track/7zWeRrkwPuqgV6l05WF50L"
+    },
+    {
+      "album": {
+        "name": "Demons & Angels: The Ultimate Collection, Pt. 1",
+        "url": "https://open.spotify.com/album/6QJfikVh7nRPbmH8n3p7oJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109876,
+      "name": "He's My King",
+      "url": "https://open.spotify.com/track/2OdGfOtqV5F7tYuTrzjnex"
     },
     {
       "album": {
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 189106,
       "name": "I Didn't Want to Join the Band",
       "url": "https://open.spotify.com/track/73Mf4S7v0C9Ck7JZHPDcQz"
@@ -2176,7 +2194,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 289134,
       "name": "I Will Do My Last Singing In This Land Somewhere - Live",
       "url": "https://open.spotify.com/track/7BAQwosh8trsBlifQL83hk"

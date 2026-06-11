@@ -2087,6 +2087,28 @@
     },
     {
       "album": {
+        "name": "Hometown Heroes (feat. Dean Brody)",
+        "url": "https://open.spotify.com/album/7oNjPhQc4OEP93PWPFecsp"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        },
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223538,
+      "name": "Hometown Heroes (feat. Dean Brody)",
+      "url": "https://open.spotify.com/track/6p7rRIvBUDsWkJoJpTYMIo"
+    },
+    {
+      "album": {
         "name": "Middle of Nowhere",
         "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
       },

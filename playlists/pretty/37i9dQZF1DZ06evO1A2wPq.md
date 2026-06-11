@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 
 > This is kwn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,285 likes - 22 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,293 likes - 22 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 | 4 | [eyes wide open](https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [eyes wide open](https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV) | 2:33 |
 | 5 | [Clothes Off \(feat\. kwn\)](https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 3:49 |
 | 6 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:33 |
-| 7 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 |
-| 8 | [five more](https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [five more](https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m) | 2:45 |
+| 7 | [five more](https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [five more](https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m) | 2:45 |
+| 8 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 |
 | 9 | [Too Many Women \(feat\. kwn\)](https://open.spotify.com/track/60nXonFosfqr4KpZHm48OH) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 1:58 |
 | 10 | [do what i say](https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:08 |
-| 11 | [no cinderella](https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [no cinderella](https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D) | 2:23 |
-| 12 | [wn up](https://open.spotify.com/track/0nBSRIzgxIb08xXgiEBZWi) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [wn up](https://open.spotify.com/album/4RVscQW0BIGHH8T6VdknFl) | 3:23 |
+| 11 | [wn up](https://open.spotify.com/track/0nBSRIzgxIb08xXgiEBZWi) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [wn up](https://open.spotify.com/album/4RVscQW0BIGHH8T6VdknFl) | 3:23 |
+| 12 | [no cinderella](https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [no cinderella](https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D) | 2:23 |
 | 13 | [lord i've tried](https://open.spotify.com/track/6gAb03yQ9isxbYortJgAYq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [lord i've tried](https://open.spotify.com/album/1mrDB1CAtj69uKb9mxsAJa) | 1:46 |
 | 14 | [all the girls](https://open.spotify.com/track/35LxnbeMImdQePFuaZgIjF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 2:12 |
 | 15 | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI) | 2:57 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 | 21 | [stand on it](https://open.spotify.com/track/4Lt6z7rZq9UfKHZdC4a3uJ) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 2:33 |
 | 22 | [went wrong](https://open.spotify.com/track/51U1KMRcqBnpt4pUJyU22b) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:13 |
 
-Snapshot ID: `aiYGAAAAAACK9id3CQDn/fmG1UL2YqEv`
+Snapshot ID: `aidXgAAAAAA9PCll+bTtOlLwrzPzOTuB`

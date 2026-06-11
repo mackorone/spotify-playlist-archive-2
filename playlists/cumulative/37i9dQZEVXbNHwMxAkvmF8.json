@@ -3500,7 +3500,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 167687,
       "name": "BAKPAKK",
       "url": "https://open.spotify.com/track/6dd2fGbktU3zOHHWK58nto"
@@ -8078,7 +8078,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 203815,
       "name": "Diagram",
       "url": "https://open.spotify.com/track/5ZnlGNTGFOjOQ17TJzPnE0"
@@ -13374,7 +13374,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
@@ -22527,6 +22527,28 @@
     },
     {
       "album": {
+        "name": "NEM \u00c9RI MEG",
+        "url": "https://open.spotify.com/album/7tNvyky9aZqqqOIIMPfTSH"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171665,
+      "name": "NEM \u00c9RI MEG",
+      "url": "https://open.spotify.com/track/3q5jY2ojaqWSruLalNfS5b"
+    },
+    {
+      "album": {
         "name": "Nesztek!",
         "url": "https://open.spotify.com/album/0m26JdOSr7CXT37JQp3wkF"
       },
@@ -31490,7 +31512,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 144203,
       "name": "S\u00d6T\u00c9T",
       "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
@@ -35310,7 +35332,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 108746,
       "name": "Vinnipu",
       "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"

@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 613853,
+  "num_followers": 613803,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "every day is a game",
-        "url": "https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 249687,
-      "name": "every day is a game",
-      "url": "https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 266432,
       "name": "Stoned at the Nail Salon",
       "url": "https://open.spotify.com/track/38Zs2b75JPNB2tS7O7JQnS"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "every day is a game",
+        "url": "https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 249687,
+      "name": "every day is a game",
+      "url": "https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -477,20 +477,20 @@
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
+      "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "For Sure",
-        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 593346,
-      "name": "For Sure",
-      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
+      "duration_ms": 155007,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/6eJaTm3sfYirbFpibBhnRO"
     },
     {
       "added_at": "2026-05-29 08:14:58",
@@ -525,20 +525,20 @@
       "url": "https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
+      "added_at": "2024-10-10 23:35:59",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
+        "name": "For Sure",
+        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
       },
       "artists": [
         {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 155007,
-      "name": "No Hard Feelings",
-      "url": "https://open.spotify.com/track/6eJaTm3sfYirbFpibBhnRO"
+      "duration_ms": 593346,
+      "name": "For Sure",
+      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Like I Used To",
+        "url": "https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/0Wv9Ckm088qsVkMKPH170C"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Philadelphia (with Searows)",
         "url": "https://open.spotify.com/album/6FGCL7fcqEcGhXjI7IhQZF"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 182513,
       "name": "Philadelphia (with Searows)",
       "url": "https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Like I Used To",
-        "url": "https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/0Wv9Ckm088qsVkMKPH170C"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "UFO",
-        "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 398783,
       "name": "Posing For Cars",
       "url": "https://open.spotify.com/track/525BSr4N8jG8MpWbFTd6A9"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1217,6 +1217,22 @@
       "url": "https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL"
     },
     {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj"
+      },
+      "artists": [
+        {
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+        }
+      ],
+      "duration_ms": 212625,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN"
+    },
+    {
       "added_at": "2024-10-10 23:35:59",
       "album": {
         "name": "A Stranger Desired",
@@ -1247,22 +1263,6 @@
       "duration_ms": 193458,
       "name": "I'll Scream (All the Words)",
       "url": "https://open.spotify.com/track/5XennSN9tgLRZTdvhGTrBp"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj"
-      },
-      "artists": [
-        {
-          "name": "Nell Mescal",
-          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
-        }
-      ],
-      "duration_ms": 212625,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1393,20 +1393,24 @@
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
+      "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Sure",
-        "url": "https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW"
+        "name": "Unknown",
+        "url": "https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I"
       },
       "artists": [
         {
           "name": "Alice Auer",
           "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+        },
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
         }
       ],
-      "duration_ms": 248421,
-      "name": "Sure",
-      "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
+      "duration_ms": 214419,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1473,24 +1477,20 @@
       "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
+      "added_at": "2024-10-10 23:35:59",
       "album": {
-        "name": "Unknown",
-        "url": "https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I"
+        "name": "Sure",
+        "url": "https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW"
       },
       "artists": [
         {
           "name": "Alice Auer",
           "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
-        },
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
         }
       ],
-      "duration_ms": 214419,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU"
+      "duration_ms": 248421,
+      "name": "Sure",
+      "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
     },
     {
       "added_at": "2024-08-29 19:59:48",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Bunny",
-        "url": "https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V"
-      },
-      "artists": [
-        {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
-        }
-      ],
-      "duration_ms": 162678,
-      "name": "Sleeping On My Own",
-      "url": "https://open.spotify.com/track/0zGSlVBKxnZM0lBZyBmjlP"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Life's Gonna Kill You (If You Let It)",
         "url": "https://open.spotify.com/album/0IR4dwltpxKhwyD9DT6o6L"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 275795,
       "name": "Life's Gonna Kill You (If You Let It)",
       "url": "https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 162678,
+      "name": "Sleeping On My Own",
+      "url": "https://open.spotify.com/track/0zGSlVBKxnZM0lBZyBmjlP"
     },
     {
       "added_at": "2024-05-31 15:25:10",

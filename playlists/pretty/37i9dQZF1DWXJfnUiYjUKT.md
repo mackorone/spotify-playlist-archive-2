@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Taylor Swift on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,686 likes - 98 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,689 likes - 99 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,18 +93,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 83 | [Home](https://open.spotify.com/track/6GTCIf70NjVd73Fob18Bg6) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Home](https://open.spotify.com/album/6FMvB6eixQ7HQDxhgCphfn) | 4:53 |
 | 84 | [Cry On You](https://open.spotify.com/track/488d0odzx7GHa427jIvnDv) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Small Chops](https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9) | 1:44 |
 | 85 | [I Like](https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [I Like](https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W) | 3:15 |
-| 86 | [There Goes The Night](https://open.spotify.com/track/5iWNAw1WZGqUy7OzxWr8jS) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [There Goes The Night](https://open.spotify.com/album/45y2ceOQ4xUBAaSumE8lVD) | 3:57 |
-| 87 | [Preacher’s Kid](https://open.spotify.com/track/0xhJziFgWiRqV3ihWaXdc0) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Preacher’s Kid](https://open.spotify.com/album/5r5DSgxAIE0yWQjqZT61fo) | 5:02 |
-| 88 | [Jilt](https://open.spotify.com/track/5uPk6VJ4VdkYnaFJwJf6cr) | [Clarion](https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW) | [Jilt](https://open.spotify.com/album/6p12kJx1ZMg3e7yWIBif6F) | 4:43 |
-| 89 | [Lemme Dance](https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lemme Dance](https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF) | 3:43 |
-| 90 | [Undiscovered](https://open.spotify.com/track/6KZNvMmJA40X5IdEywrV0W) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Satisfied Girl](https://open.spotify.com/album/1HeDYeHN3FHp7ilKKxEpYP) | 3:31 |
-| 91 | [Whole crowd](https://open.spotify.com/track/4J5i7bjvtnkTPJ3jpXrU5R) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [Slimedude2003](https://open.spotify.com/album/6C8uXqHrlL4DMwoiuGLOHv) | 2:36 |
-| 92 | [Geeked up \(with OsamaSon\)](https://open.spotify.com/track/6Ke4o5sK2UqeGWpGxRZuvp) | [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Demon Heart Radio](https://open.spotify.com/album/2TUhJtMwtQE4fs1lxit9UB) | 2:35 |
-| 93 | [Belladonna](https://open.spotify.com/track/1ielrdn4NJvJPYcKSaSW1z) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Sir Render](https://open.spotify.com/album/49q1HNNngQn7A798rHU8rp) | 2:37 |
-| 94 | [Something Out Of Nothing](https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Something Out Of Nothing](https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2) | 3:26 |
-| 95 | [CANDYLAND!](https://open.spotify.com/track/2TxEe5Rqfzq5z6JG7eEzlh) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [CANDYLAND!](https://open.spotify.com/album/1c4mq3KrEto6RdMFuFdisO) | 3:15 |
-| 96 | [Find Me](https://open.spotify.com/track/5V589jlf5pbV2CYFeUJyI8) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6) | [Find Me](https://open.spotify.com/album/2bTSoOUmxiM4nm1Ny3aPos) | 3:33 |
-| 97 | [Vertical](https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Vertical](https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3) | 2:36 |
-| 98 | [Woulda Been It](https://open.spotify.com/track/4NioXmYpgqoiwhZWJ4z84t) | [Tyce Delk](https://open.spotify.com/artist/75jIXNJTz4SWN3gNpKGy6f) | [Woulda Been It](https://open.spotify.com/album/4htxxLdeQDGygnkIzxdBhz) | 3:51 |
+| 86 | [Find A Way](https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Find A Way](https://open.spotify.com/album/2ecM4rRHCVgxRGB5RZV5yK) | 2:34 |
+| 87 | [There Goes The Night](https://open.spotify.com/track/5iWNAw1WZGqUy7OzxWr8jS) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [There Goes The Night](https://open.spotify.com/album/45y2ceOQ4xUBAaSumE8lVD) | 3:57 |
+| 88 | [Preacher’s Kid](https://open.spotify.com/track/0xhJziFgWiRqV3ihWaXdc0) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Preacher’s Kid](https://open.spotify.com/album/5r5DSgxAIE0yWQjqZT61fo) | 5:02 |
+| 89 | [Jilt](https://open.spotify.com/track/5uPk6VJ4VdkYnaFJwJf6cr) | [Clarion](https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW) | [Jilt](https://open.spotify.com/album/6p12kJx1ZMg3e7yWIBif6F) | 4:43 |
+| 90 | [Lemme Dance](https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lemme Dance](https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF) | 3:43 |
+| 91 | [Undiscovered](https://open.spotify.com/track/6KZNvMmJA40X5IdEywrV0W) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Satisfied Girl](https://open.spotify.com/album/1HeDYeHN3FHp7ilKKxEpYP) | 3:31 |
+| 92 | [Whole crowd](https://open.spotify.com/track/4J5i7bjvtnkTPJ3jpXrU5R) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [Slimedude2003](https://open.spotify.com/album/6C8uXqHrlL4DMwoiuGLOHv) | 2:36 |
+| 93 | [Geeked up \(with OsamaSon\)](https://open.spotify.com/track/6Ke4o5sK2UqeGWpGxRZuvp) | [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Demon Heart Radio](https://open.spotify.com/album/2TUhJtMwtQE4fs1lxit9UB) | 2:35 |
+| 94 | [Belladonna](https://open.spotify.com/track/1ielrdn4NJvJPYcKSaSW1z) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Sir Render](https://open.spotify.com/album/49q1HNNngQn7A798rHU8rp) | 2:37 |
+| 95 | [Something Out Of Nothing](https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Something Out Of Nothing](https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2) | 3:26 |
+| 96 | [CANDYLAND!](https://open.spotify.com/track/2TxEe5Rqfzq5z6JG7eEzlh) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [CANDYLAND!](https://open.spotify.com/album/1c4mq3KrEto6RdMFuFdisO) | 3:15 |
+| 97 | [Find Me](https://open.spotify.com/track/5V589jlf5pbV2CYFeUJyI8) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6) | [Find Me](https://open.spotify.com/album/2bTSoOUmxiM4nm1Ny3aPos) | 3:33 |
+| 98 | [Vertical](https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Vertical](https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3) | 2:36 |
+| 99 | [Woulda Been It](https://open.spotify.com/track/4NioXmYpgqoiwhZWJ4z84t) | [Tyce Delk](https://open.spotify.com/artist/75jIXNJTz4SWN3gNpKGy6f) | [Woulda Been It](https://open.spotify.com/album/4htxxLdeQDGygnkIzxdBhz) | 3:51 |
 
 Snapshot ID: `AAAAAHqlY/suOeEtkes19jzMgxFwzkUh`

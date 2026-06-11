@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: Rezz \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,809 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,873 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 109 | [Sugar, We're Goin Down](https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Social Repose](https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy) | [Sugar, We're Goin Down](https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG) | 3:29 |
 | 110 | [On My Own](https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [On My Own](https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO) | 4:15 |
 | 111 | [When You & Me Dance](https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [When You & Me Dance](https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd) | 3:41 |
-| 112 | [Run Rabbit](https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Run Rabbit](https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK) | 3:06 |
-| 113 | [Lean Onto Me](https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Lean Onto Me](https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm) | 3:12 |
+| 112 | [Lean Onto Me](https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Lean Onto Me](https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm) | 3:12 |
+| 113 | [Run Rabbit](https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Run Rabbit](https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK) | 3:06 |
 | 114 | [Liar \(with OST\)](https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [OST](https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB) | [Liar \(with OST\)](https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn) | 4:56 |
 | 115 | [Next To You](https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH) | [Next To You](https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj) | 2:51 |
 | 116 | [RAVEN](https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [RAVEN](https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS) | 3:04 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 119 | [Kore](https://open.spotify.com/track/7hkl3e3ltu3sE3UYNxKrlc) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Nimda](https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h) | [Kore](https://open.spotify.com/album/2bMyuXi95xRhO7zh1LQp0h) | 2:36 |
 | 120 | [Just Thought You Should Know](https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7) | [Muted Blue](https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs) | 3:05 |
 | 121 | [iF\_i\_FaLL](https://open.spotify.com/track/12O1jHrTRLaQE2fWeZatIz) | [Silos](https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [iF\_i\_FaLL](https://open.spotify.com/album/4nWbYRHt7G99SEg5dAyW89) | 3:55 |
-| 122 | [WARNING](https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [WARNING](https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4) | 3:13 |
-| 123 | [FIMBULVETR](https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [FIMBULVETR](https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP) | 3:53 |
+| 122 | [FIMBULVETR](https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [FIMBULVETR](https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP) | 3:53 |
+| 123 | [WARNING](https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [WARNING](https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4) | 3:13 |
 | 124 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
 | 125 | [Werewolf: Synthwave Edition](https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq) | [Werewolf: Synthwave Edition](https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF) | 3:31 |
 

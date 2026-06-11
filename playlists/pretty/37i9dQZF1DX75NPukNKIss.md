@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 
 > Way 2 Slizzy\. Cover: 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,696 likes - 110 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,734 likes - 110 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

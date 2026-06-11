@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAADKbtkBn6azLrOKzDy+MZdF",
+  "snapshot_id": "aidXgAAAAABzrfyI87mmqTs8DGNIPCzt",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deflector",
-        "url": "https://open.spotify.com/album/093ZXKn597MVIth3gvqcKh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/7Elxs3hCKEiHfOv7rb6F70"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parting the Sea Between Brightness and Me",
         "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deflector",
+        "url": "https://open.spotify.com/album/093ZXKn597MVIth3gvqcKh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/7Elxs3hCKEiHfOv7rb6F70"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 137520,
-      "name": "Just Exist",
-      "url": "https://open.spotify.com/track/0zjQzW0OR8yYZu7QMr6FxB"
+      "duration_ms": 184920,
+      "name": "Harbor",
+      "url": "https://open.spotify.com/track/1eZVWlibiTTrKiZJyZGvTn"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covers Vol. 1",
-        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 210154,
-      "name": "Hard to Explain",
-      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parting the Sea Between Brightness and Me",
         "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Covers Vol. 1",
+        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 210154,
+      "name": "Hard to Explain",
+      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 184920,
-      "name": "Harbor",
-      "url": "https://open.spotify.com/track/1eZVWlibiTTrKiZJyZGvTn"
+      "duration_ms": 137520,
+      "name": "Just Exist",
+      "url": "https://open.spotify.com/track/0zjQzW0OR8yYZu7QMr6FxB"
     },
     {
       "added_at": null,

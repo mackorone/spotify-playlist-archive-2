@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > Enter the backrooms\. Co\-curated by Kane Parsons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,760,990 likes - 108 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,763,777 likes - 108 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

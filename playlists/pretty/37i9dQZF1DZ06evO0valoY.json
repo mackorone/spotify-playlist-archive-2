@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 215518,
+  "num_followers": 215539,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAANpFPdY1zPj5qUuXJxZ2hy",
+  "snapshot_id": "aidXgAAAAABw1V9bODXZZbuI1yhuS6lS",
   "tracks": [
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal, Vol. 2",
-        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+        "name": "Lamento Boliviano",
+        "url": "https://open.spotify.com/album/4LBe254NURiRmej6BSdQLn"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 207253,
-      "name": "La Diabla",
-      "url": "https://open.spotify.com/track/1e6iopg5dmxbqJ1Mbhypab"
+      "duration_ms": 212213,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/6nViFsaHhvPV6GLms1R0oe"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamento Boliviano",
-        "url": "https://open.spotify.com/album/4LBe254NURiRmej6BSdQLn"
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 212213,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/6nViFsaHhvPV6GLms1R0oe"
+      "duration_ms": 207253,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/1e6iopg5dmxbqJ1Mbhypab"
     },
     {
       "added_at": null,
@@ -815,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal, Vol. 2",
-        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
       },
       "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/7F7hBGecl8FIkvHE7pCTGG"
+      "duration_ms": 226568,
+      "name": "NO VOY A ODIARTE",
+      "url": "https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU"
     },
     {
       "added_at": null,
@@ -847,22 +851,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
       "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 226568,
-      "name": "NO VOY A ODIARTE",
-      "url": "https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU"
+      "duration_ms": 228000,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/7F7hBGecl8FIkvHE7pCTGG"
     },
     {
       "added_at": null,

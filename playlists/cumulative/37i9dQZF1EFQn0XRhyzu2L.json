@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
@@ -4329,6 +4329,24 @@
     },
     {
       "album": {
+        "name": "Skin of My Teeth",
+        "url": "https://open.spotify.com/album/4jzeGZV3144y1G0cvGSoOw"
+      },
+      "artists": [
+        {
+          "name": "Shea Diamond",
+          "url": "https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173442,
+      "name": "Heart of Mine",
+      "url": "https://open.spotify.com/track/0vd9onB3ZK7YnYsQB01MZc"
+    },
+    {
+      "album": {
         "name": "One More Light",
         "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
       },
@@ -5880,6 +5898,24 @@
       "duration_ms": 203373,
       "name": "Kissing Strangers",
       "url": "https://open.spotify.com/track/0w2AqrJ9afRXiTgfgW4tLd"
+    },
+    {
+      "album": {
+        "name": "Kool Aid",
+        "url": "https://open.spotify.com/album/1QTvffZnTEEXzkCSMdB0xs"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220089,
+      "name": "Kool Aid",
+      "url": "https://open.spotify.com/track/5OZqnANcdJft1ZElMkvnyz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,512 songs - 10 day 1 hr 12 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,514 songs - 10 day 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4520,5 +4520,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4510 | [Bandido](https://open.spotify.com/track/6F1gSmB8W8bkQppKxCbvvd) | [EL TIO ZETTA](https://open.spotify.com/artist/52prEhuq9zDgQht8UfCLe0), [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY) | [Bandido](https://open.spotify.com/album/5MVcKEnoC47BZC5Cy4vGyQ) | 2:44 |
 | 4511 | [Believe me](https://open.spotify.com/track/5OTEbscf89tdmjZIsEnxmk) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [Believe me](https://open.spotify.com/album/32V4BnKEwnMr3QmIObawlA) | 2:47 |
 | 4512 | [Hands of God](https://open.spotify.com/track/3ker5A7IVbjfi5gtjnIE0m) | [Destroy the Moon](https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt) | [Hands of God](https://open.spotify.com/album/0MmtQzwcyyyfRl0U6Ok6cN) | 5:35 |
+| 4513 | [Invisible](https://open.spotify.com/track/0aP3LYmLNtqVo2snExQMlQ) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [Invisible](https://open.spotify.com/album/0hMHlldCdHj7tFHvGNC5yt) | 6:37 |
+| 4514 | [Hora Extra](https://open.spotify.com/track/4053HFfOXn9Do320YTig0A) | [CLT S/IA](https://open.spotify.com/artist/3tDyxGelWbCsYiOa6ygWGv), [Lia Liberty](https://open.spotify.com/artist/143AjJas8i1bJCHcwcI1Sm) | [CLT \- Correndo, Lutando, Tentando](https://open.spotify.com/album/5uBU3B5F3ES12hKCGSkVvW) | 4:14 |
 
-Snapshot ID: `AAAI2QgSCIEhFoNsFhSZS56VJq/rI8Kx`
+Snapshot ID: `AAAI2zqTlFdX3YIxNJAaqfLv7u7q7bvi`

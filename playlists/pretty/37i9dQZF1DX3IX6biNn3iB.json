@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. Cuco en portada. ",
-  "num_followers": 2930,
+  "num_followers": 2932,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "SOLTERA",
         "url": "https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ"
       },
@@ -463,22 +447,18 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "cuida",
-        "url": "https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8"
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
       },
       "artists": [
         {
-          "name": "csndra",
-          "url": "https://open.spotify.com/artist/2bVAzXBTTKrvtFlQbe0qwe"
-        },
-        {
-          "name": "Jandro Blu",
-          "url": "https://open.spotify.com/artist/415i66INhubKPIwQhMtRWW"
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
         }
       ],
-      "duration_ms": 166866,
-      "name": "cuida",
-      "url": "https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6"
+      "duration_ms": 220853,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -499,6 +479,26 @@
       "duration_ms": 155026,
       "name": "Pienso En Ti",
       "url": "https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "cuida",
+        "url": "https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8"
+      },
+      "artists": [
+        {
+          "name": "csndra",
+          "url": "https://open.spotify.com/artist/2bVAzXBTTKrvtFlQbe0qwe"
+        },
+        {
+          "name": "Jandro Blu",
+          "url": "https://open.spotify.com/artist/415i66INhubKPIwQhMtRWW"
+        }
+      ],
+      "duration_ms": 166866,
+      "name": "cuida",
+      "url": "https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6"
     },
     {
       "added_at": "2025-10-10 17:36:00",

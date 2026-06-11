@@ -1,6 +1,6 @@
 {
   "description": "The home of heavy music. Cover: Converge",
-  "num_followers": 492277,
+  "num_followers": 492246,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Reward the Scars",
-        "url": "https://open.spotify.com/album/3BXffIPyB5ihJw0Zu7uWYl"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 215455,
-      "name": "Reward the Scars",
-      "url": "https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
         "name": "private music",
         "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 212577,
       "name": "infinite source",
       "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "Reward the Scars",
+        "url": "https://open.spotify.com/album/3BXffIPyB5ihJw0Zu7uWYl"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 215455,
+      "name": "Reward the Scars",
+      "url": "https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Making Love to Morgan Wallen",
-        "url": "https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 249048,
-      "name": "Making Love to Morgan Wallen",
-      "url": "https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 146933,
       "name": "BIRDS",
       "url": "https://open.spotify.com/track/0kshHISCRGn9MwpkbqafG4"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "Making Love to Morgan Wallen",
+        "url": "https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 249048,
+      "name": "Making Love to Morgan Wallen",
+      "url": "https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -755,22 +755,34 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Revenger",
-        "url": "https://open.spotify.com/album/48X7KToLv5QVFKN3L7hQa6"
+        "name": "Armour Of Angels",
+        "url": "https://open.spotify.com/album/4ZEtAdGoESebTf6Dc1ydhz"
       },
       "artists": [
         {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        },
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+          "name": "Guilt Trip",
+          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
         }
       ],
-      "duration_ms": 220227,
-      "name": "Revenger",
-      "url": "https://open.spotify.com/track/39G4lx75wNFd1rU74WhmqK"
+      "duration_ms": 228000,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/04uFtjsSLNbsjenpmnlSK0"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "Into Oblivion",
+        "url": "https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 245350,
+      "name": "St. Catherine's Wheel",
+      "url": "https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -795,18 +807,22 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Into Oblivion",
-        "url": "https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl"
+        "name": "Revenger",
+        "url": "https://open.spotify.com/album/48X7KToLv5QVFKN3L7hQa6"
       },
       "artists": [
         {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 245350,
-      "name": "St. Catherine's Wheel",
-      "url": "https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB"
+      "duration_ms": 220227,
+      "name": "Revenger",
+      "url": "https://open.spotify.com/track/39G4lx75wNFd1rU74WhmqK"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -843,18 +859,34 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Armour Of Angels",
-        "url": "https://open.spotify.com/album/4ZEtAdGoESebTf6Dc1ydhz"
+        "name": "Blunt Force Blues",
+        "url": "https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG"
       },
       "artists": [
         {
-          "name": "Guilt Trip",
-          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 228000,
-      "name": "One By One",
-      "url": "https://open.spotify.com/track/04uFtjsSLNbsjenpmnlSK0"
+      "duration_ms": 251505,
+      "name": "Blunt Force Blues",
+      "url": "https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "Hum of Hurt",
+        "url": "https://open.spotify.com/album/26mI8fRaaNWASMbfS98L43"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        }
+      ],
+      "duration_ms": 103605,
+      "name": "Slip the Noose",
+      "url": "https://open.spotify.com/track/4a0GY70CJ9hGQzhbDyPnXZ"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -871,22 +903,6 @@
       "duration_ms": 203521,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
-        "name": "Blunt Force Blues",
-        "url": "https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 251505,
-      "name": "Blunt Force Blues",
-      "url": "https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -939,22 +955,6 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Hum of Hurt",
-        "url": "https://open.spotify.com/album/26mI8fRaaNWASMbfS98L43"
-      },
-      "artists": [
-        {
-          "name": "Converge",
-          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
-        }
-      ],
-      "duration_ms": 103605,
-      "name": "Slip the Noose",
-      "url": "https://open.spotify.com/track/4a0GY70CJ9hGQzhbDyPnXZ"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
         "name": "SIDE EFFECTS PT.1",
         "url": "https://open.spotify.com/album/64ruOFU72r6CZNm97UVv4K"
       },
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
+        "name": "Love Is Not Enough",
+        "url": "https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        }
+      ],
+      "duration_ms": 168323,
+      "name": "Bad Faith",
+      "url": "https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
         "name": "Fight Like A Girl (feat. K.Flay)",
         "url": "https://open.spotify.com/album/52PeeLLB6DgLKb01NCXueF"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 186068,
       "name": "Fight Like A Girl (feat. K.Flay)",
       "url": "https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
-        "name": "Love Is Not Enough",
-        "url": "https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm"
-      },
-      "artists": [
-        {
-          "name": "Converge",
-          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
-        }
-      ],
-      "duration_ms": 168323,
-      "name": "Bad Faith",
-      "url": "https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Bloodlust",
-        "url": "https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D"
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4"
       },
       "artists": [
         {
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
         }
       ],
-      "duration_ms": 209986,
-      "name": "Bloodlust",
-      "url": "https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE"
+      "duration_ms": 247493,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Theft World",
-        "url": "https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk"
-      },
-      "artists": [
-        {
-          "name": "Lip Critic",
-          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
-        }
-      ],
-      "duration_ms": 182665,
-      "name": "Shoplifting",
-      "url": "https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
         "name": "Wrath",
         "url": "https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 273696,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "Theft World",
+        "url": "https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk"
+      },
+      "artists": [
+        {
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+        }
+      ],
+      "duration_ms": 182665,
+      "name": "Shoplifting",
+      "url": "https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1171,8 +1171,8 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Shapeshift",
-        "url": "https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4"
+        "name": "Bloodlust",
+        "url": "https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D"
       },
       "artists": [
         {
@@ -1180,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
         }
       ],
-      "duration_ms": 247493,
-      "name": "Shapeshift",
-      "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
+      "duration_ms": 209986,
+      "name": "Bloodlust",
+      "url": "https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "human props",
-        "url": "https://open.spotify.com/album/5hfpwOhdaXA3vOAaN7c4v0"
-      },
-      "artists": [
-        {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
-        }
-      ],
-      "duration_ms": 236273,
-      "name": "human props",
-      "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
         "name": "Cellophane",
         "url": "https://open.spotify.com/album/5pW48u8bbfOtvpp5xxAWLn"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 198072,
       "name": "Cellophane",
       "url": "https://open.spotify.com/track/5yIkrjh4x9S4gLB43uIZMx"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "human props",
+        "url": "https://open.spotify.com/album/5hfpwOhdaXA3vOAaN7c4v0"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "duration_ms": 236273,
+      "name": "human props",
+      "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Pynch",
-        "url": "https://open.spotify.com/album/0x4t7PC63dP513jBiZFIHU"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Pynch",
-      "url": "https://open.spotify.com/track/4359J1fh99ckEMTzApV5pE"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
         "name": "The Nut House",
         "url": "https://open.spotify.com/album/0HFpKIG41ZlcUkODU4Smns"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 201960,
       "name": "Killher",
       "url": "https://open.spotify.com/track/73fQhw7b0rTJa73YnxGeXZ"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "Pynch",
+        "url": "https://open.spotify.com/album/0x4t7PC63dP513jBiZFIHU"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Pynch",
+      "url": "https://open.spotify.com/track/4359J1fh99ckEMTzApV5pE"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1659,22 +1659,22 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "BLAME (feat. Corey Taylor)",
-        "url": "https://open.spotify.com/album/1LqHo7nmaZhSAoYAnk6tA4"
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/1KJ5maNKrKCFKpHt1bF5zM"
       },
       "artists": [
         {
-          "name": "Kid Bookie",
-          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
+          "name": "ARCHIVES",
+          "url": "https://open.spotify.com/artist/5JV6t6VzxFApi5yd8XAMFq"
         },
         {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
         }
       ],
-      "duration_ms": 262687,
-      "name": "BLAME (feat. Corey Taylor)",
-      "url": "https://open.spotify.com/track/0m6wHoCD76aMVrKr5NWeHU"
+      "duration_ms": 162282,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/48Np1VL2ERq3M1uRjZExEi"
     }
   ],
   "unique_name": "The Pit",

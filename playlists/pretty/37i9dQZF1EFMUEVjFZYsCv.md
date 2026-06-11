@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 66 | [Christmas Bells](https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Christmas Bells](https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46) | 4:07 |
 | 67 | [Wolves](https://open.spotify.com/track/07TgFELXJuTNKjqOnmAjzF) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:21 |
 | 68 | [Last Of The Whiskey](https://open.spotify.com/track/6Jbe9kGIZ8rFdpIzBBLYHG) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:31 |
-| 69 | [From Me To You I Hate Everybody](https://open.spotify.com/track/0H8peJeFlnNVmnkljyQBuz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:36 |
-| 70 | [Take It Or Leave It](https://open.spotify.com/track/5cZ1TPZO4miMEOO1UNknyd) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:08 |
+| 69 | [Take It Or Leave It](https://open.spotify.com/track/5cZ1TPZO4miMEOO1UNknyd) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:08 |
+| 70 | [From Me To You I Hate Everybody](https://open.spotify.com/track/0H8peJeFlnNVmnkljyQBuz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:36 |
 | 71 | [Homecoming](https://open.spotify.com/track/08TxwnO0bctWpQKlpUYrgV) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:52 |
 | 72 | [Otherwise \(feat\. James Arthur\)](https://open.spotify.com/track/37PtW9bccg3KULj4nWAjEY) | [MOKS](https://open.spotify.com/artist/19ykePlANf2icrCUi6trQz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Otherwise \(feat\. James Arthur\)](https://open.spotify.com/album/5KhioDLlcd5a4DYrLRr0fP) | 3:53 |
 | 73 | [Unconditionally \(feat\. Adam Lazzara\)](https://open.spotify.com/track/4rvH323iVmfkFDQYzGOa5c) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Adam Lazzara](https://open.spotify.com/artist/1z1nZOj7qQWhNjWKr5ipqh) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:02 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 97 | [Lay My Body Down](https://open.spotify.com/track/6yTgkVCTkt840eGrnykWI4) | [MaRina](https://open.spotify.com/artist/5RYLofQHxZcrEl9Bl23MCS) | [On My Way](https://open.spotify.com/album/0jNDoWMJDR7dIXEq3bIhdv) | 3:19 |
 | 98 | [Rollercoaster](https://open.spotify.com/track/7nzR2Ix0xJE4U9foEqTEsf) | [Missy Five](https://open.spotify.com/artist/1HrQGnCZCDGCJVicgtGlqW) | [Groovy 90S Hits!](https://open.spotify.com/album/4LPAFPbrRwAQ8qQ24ZLma9) | 3:14 |
 
-Snapshot ID: `AcTypgAAAAAOGFBGBu9UYssC1EnqK1Lq`
+Snapshot ID: `AcT4bgAAAAA7kIYGXdcBzcL62zl8659M`

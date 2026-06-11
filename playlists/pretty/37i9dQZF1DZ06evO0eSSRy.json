@@ -1,13 +1,29 @@
 {
   "description": "This is P\u00c6RISH. The essential tracks, all in one playlist.",
-  "num_followers": 717,
+  "num_followers": 718,
   "original_name": "This Is P\u00c6RISH",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAD9c+j1jZ2P0a/IXbcoWEdu",
+  "snapshot_id": "aidXgAAAAADe+pCPbrS5g4x2/TbMnEle",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wait For Dark",
+        "url": "https://open.spotify.com/album/2madKsttGJIXf3yTMIS5oE"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 258850,
+      "name": "Wait For Dark",
+      "url": "https://open.spotify.com/track/5LCYfYYsJN96vzy9a8SqIY"
+    },
     {
       "added_at": null,
       "album": {
@@ -292,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 205514,
-      "name": "ShaqFu",
-      "url": "https://open.spotify.com/track/5jJ2Lsh5vBNASoKtzE9Rtp"
+      "duration_ms": 211029,
+      "name": "Then People Forget",
+      "url": "https://open.spotify.com/track/3brIRujiNsAw7xXNJt9V9I"
     },
     {
       "added_at": null,
@@ -340,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 211029,
-      "name": "Then People Forget",
-      "url": "https://open.spotify.com/track/3brIRujiNsAw7xXNJt9V9I"
+      "duration_ms": 205514,
+      "name": "ShaqFu",
+      "url": "https://open.spotify.com/track/5jJ2Lsh5vBNASoKtzE9Rtp"
     },
     {
       "added_at": null,

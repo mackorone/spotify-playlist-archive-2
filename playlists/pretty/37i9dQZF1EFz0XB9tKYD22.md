@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608 likes - 352 songs - 20 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 607 likes - 352 songs - 20 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -320,8 +320,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 310 | [Lemonade](https://open.spotify.com/track/6U2KmhDPlTqBAb2175X6qc) | [Emerson Drive](https://open.spotify.com/artist/1efrXlPhLKv7PvgUxVcqIS) | [What If?](https://open.spotify.com/album/0FP9mhZ6IrDakt1eguqauS) | 4:22 |
 | 311 | [Driving Back There In My Mind \(Demo\)](https://open.spotify.com/track/09fRiBGIEVAeX7eNBipm2G) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Driving Back There In My Mind \(Demo\)](https://open.spotify.com/album/2dfDT5XbCDlNABvafIfLmz) | 3:41 |
 | 312 | [I Should Be Dancing](https://open.spotify.com/track/7Drfpq8DConRof9Otf0Yhf) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [Little Galaxy Girl](https://open.spotify.com/album/2AszC7OP4Fka4YRF7uE9Zp) | 2:54 |
-| 313 | [538 Stars](https://open.spotify.com/track/0f87YpSjkrL5TkumwPW0kN) | [Tara Oram](https://open.spotify.com/artist/0XOiK5F7wta3jBwX7pNqd9) | [Chasing The Sun](https://open.spotify.com/album/5mnwATZQWZMX3ORKbm4gdH) | 3:41 |
-| 314 | [Eye of the Storm](https://open.spotify.com/track/76kKA1Zn0XGmrmFJCd1rT3) | [J.K\. Hodge](https://open.spotify.com/artist/432Yia0hS9be99GSoEyf6J) | [All Your Heart's Desires](https://open.spotify.com/album/1Ox60vTK4USknHMiuo7lap) | 4:55 |
+| 313 | [Eye of the Storm](https://open.spotify.com/track/76kKA1Zn0XGmrmFJCd1rT3) | [J.K\. Hodge](https://open.spotify.com/artist/432Yia0hS9be99GSoEyf6J) | [All Your Heart's Desires](https://open.spotify.com/album/1Ox60vTK4USknHMiuo7lap) | 4:55 |
+| 314 | [538 Stars](https://open.spotify.com/track/0f87YpSjkrL5TkumwPW0kN) | [Tara Oram](https://open.spotify.com/artist/0XOiK5F7wta3jBwX7pNqd9) | [Chasing The Sun](https://open.spotify.com/album/5mnwATZQWZMX3ORKbm4gdH) | 3:41 |
 | 315 | [Where I Belong](https://open.spotify.com/track/28xSt1u3oXNcyZ06LSPQbK) | [Rachel Proctor](https://open.spotify.com/artist/1p3WmosWl1NhjtnbHvQYxw) | [Where I Belong](https://open.spotify.com/album/3xQwDmEBXkw92JVGeorOal) | 3:53 |
 | 316 | [Ordinary](https://open.spotify.com/track/3fS3XFBFIRz7ai2tE1XKtr) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Story Of My Life](https://open.spotify.com/album/60PcwrE9VH7NImc13z7Y1J) | 4:15 |
 | 317 | [Getting Over You](https://open.spotify.com/track/7rd3I7NZWF8j8RAJz9ara9) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Story Of My Life](https://open.spotify.com/album/60PcwrE9VH7NImc13z7Y1J) | 3:31 |
@@ -361,4 +361,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 351 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
 | 352 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcTynAAAAAD/+Y/4AbDYIes21uarwsxs`
+Snapshot ID: `AcT4bgAAAAApFK5hvc8b/xIJpNDjVgIW`

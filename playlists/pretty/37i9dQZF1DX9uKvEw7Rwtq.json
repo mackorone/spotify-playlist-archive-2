@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 125314,
+  "num_followers": 125346,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "The Weight of It All",
-        "url": "https://open.spotify.com/album/71OODPd7MyMV66BIkOrSl4"
-      },
-      "artists": [
-        {
-          "name": "Chasing Reverbs",
-          "url": "https://open.spotify.com/artist/61qSGQsnPa7ojcI75q32KX"
-        }
-      ],
-      "duration_ms": 176015,
-      "name": "The Weight of It All",
-      "url": "https://open.spotify.com/track/1VL1t8ydGcgCDW21B2bUIZ"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Timewave Zero",
         "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 441386,
       "name": "Ea: First Movement",
       "url": "https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "The Weight of It All",
+        "url": "https://open.spotify.com/album/71OODPd7MyMV66BIkOrSl4"
+      },
+      "artists": [
+        {
+          "name": "Chasing Reverbs",
+          "url": "https://open.spotify.com/artist/61qSGQsnPa7ojcI75q32KX"
+        }
+      ],
+      "duration_ms": 176015,
+      "name": "The Weight of It All",
+      "url": "https://open.spotify.com/track/1VL1t8ydGcgCDW21B2bUIZ"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Sacrifice & Isolation",
-        "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
-      },
-      "artists": [
-        {
-          "name": "Collapse Under The Empire",
-          "url": "https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY"
-        }
-      ],
-      "duration_ms": 311555,
-      "name": "What the Heart Craves For",
-      "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Bloom II",
         "url": "https://open.spotify.com/album/7qVGmNKYVBhK566xhc6Z0C"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 328000,
       "name": "Live This Moment",
       "url": "https://open.spotify.com/track/471MksSg1ykR0CrI6ydcQQ"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Sacrifice & Isolation",
+        "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
+      },
+      "artists": [
+        {
+          "name": "Collapse Under The Empire",
+          "url": "https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY"
+        }
+      ],
+      "duration_ms": 311555,
+      "name": "What the Heart Craves For",
+      "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -719,18 +719,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "VIII",
-        "url": "https://open.spotify.com/album/4GZGWKhIii0zxZZWOnBQB5"
+        "name": "From A Flood Of Words Only The Current Remains",
+        "url": "https://open.spotify.com/album/1xPy6soMCJtMp1HmBe2KWD"
       },
       "artists": [
         {
-          "name": "Not Enough Silence",
-          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+          "name": "Jacopo Ramonda",
+          "url": "https://open.spotify.com/artist/1drMRvchQjyL4qXK0mgaTc"
         }
       ],
-      "duration_ms": 123000,
-      "name": "VIII",
-      "url": "https://open.spotify.com/track/5iucxdKLbKZG3Q5KbjQpBK"
+      "duration_ms": 240107,
+      "name": "Falling Slowly Like Snow",
+      "url": "https://open.spotify.com/track/211QCsl0TK9mgRib6TApqR"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -751,6 +751,22 @@
       "duration_ms": 474353,
       "name": "Secret City",
       "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "VIII",
+        "url": "https://open.spotify.com/album/4GZGWKhIii0zxZZWOnBQB5"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Silence",
+          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "VIII",
+      "url": "https://open.spotify.com/track/5iucxdKLbKZG3Q5KbjQpBK"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -783,22 +799,6 @@
       "duration_ms": 178428,
       "name": "Blue Heron Lake",
       "url": "https://open.spotify.com/track/7z8pyJ6l7eAvJr6ZMvKcne"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "From A Flood Of Words Only The Current Remains",
-        "url": "https://open.spotify.com/album/1xPy6soMCJtMp1HmBe2KWD"
-      },
-      "artists": [
-        {
-          "name": "Jacopo Ramonda",
-          "url": "https://open.spotify.com/artist/1drMRvchQjyL4qXK0mgaTc"
-        }
-      ],
-      "duration_ms": 240107,
-      "name": "Falling Slowly Like Snow",
-      "url": "https://open.spotify.com/track/211QCsl0TK9mgRib6TApqR"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -947,42 +947,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Momentary Ghosts",
-        "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Ferreira",
-          "url": "https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB"
-        },
-        {
-          "name": "bu.re_",
-          "url": "https://open.spotify.com/artist/6CJUEvrgdk2Qy2M8M8ucy0"
-        }
-      ],
-      "duration_ms": 283200,
-      "name": "A Letter from the Past",
-      "url": "https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Dusk/Dawn",
-        "url": "https://open.spotify.com/album/3lnSqrokikM7TF5tIhnle0"
-      },
-      "artists": [
-        {
-          "name": "Illuminine",
-          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Tear Trails",
-      "url": "https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Farewell, Stars (The American Dollar Rework)",
         "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
       },
@@ -1003,18 +967,54 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Mockingbird Love",
-        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
+        "name": "Dusk/Dawn",
+        "url": "https://open.spotify.com/album/3lnSqrokikM7TF5tIhnle0"
       },
       "artists": [
         {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+          "name": "Illuminine",
+          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
         }
       ],
-      "duration_ms": 173853,
-      "name": "My Courtesan",
-      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
+      "duration_ms": 182760,
+      "name": "Tear Trails",
+      "url": "https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Momentary Ghosts",
+        "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ferreira",
+          "url": "https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB"
+        },
+        {
+          "name": "bu.re_",
+          "url": "https://open.spotify.com/artist/6CJUEvrgdk2Qy2M8M8ucy0"
+        }
+      ],
+      "duration_ms": 283200,
+      "name": "A Letter from the Past",
+      "url": "https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
+      },
+      "artists": [
+        {
+          "name": "Pray for Sound",
+          "url": "https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx"
+        }
+      ],
+      "duration_ms": 332293,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
+        "name": "Mockingbird Love",
+        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
       },
       "artists": [
         {
-          "name": "Pray for Sound",
-          "url": "https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx"
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
         }
       ],
-      "duration_ms": 332293,
-      "name": "Sleeper",
-      "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
+      "duration_ms": 173853,
+      "name": "My Courtesan",
+      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Those Winter Sundays",
-        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
-      },
-      "artists": [
-        {
-          "name": "Have a Cigar",
-          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Those Winter Sundays",
-      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Blurring",
         "url": "https://open.spotify.com/album/1JvlqLOBMVJZm0jGSYM3WB"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Those Winter Sundays",
+        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
+      },
+      "artists": [
+        {
+          "name": "Have a Cigar",
+          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Those Winter Sundays",
+      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "I Dreamt Our Whole City Burned",
         "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 284076,
       "name": "I Dreamt Our Whole City Burned",
       "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Dragoon",
+        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
+      },
+      "artists": [
+        {
+          "name": "Amparo",
+          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Dragoon",
+      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1231,22 +1247,6 @@
       "duration_ms": 226760,
       "name": "Enfold",
       "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Dragoon",
-        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
-      },
-      "artists": [
-        {
-          "name": "Amparo",
-          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Dragoon",
-      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1351,22 +1351,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Dark Awakening",
-        "url": "https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh"
+        "name": "kissing maggots",
+        "url": "https://open.spotify.com/album/1Nc0BTwUDnr8OfzRTxkdYe"
       },
       "artists": [
         {
-          "name": "Lustmord",
-          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
-        },
-        {
-          "name": "Ihsahn",
-          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+          "name": "Mieke",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
         }
       ],
-      "duration_ms": 281176,
-      "name": "Dark Awakening",
-      "url": "https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk"
+      "duration_ms": 230157,
+      "name": "kissing maggots",
+      "url": "https://open.spotify.com/track/7Lsj6QFCZsqoiutAoSxP8H"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1391,34 +1387,38 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "kissing maggots",
-        "url": "https://open.spotify.com/album/1Nc0BTwUDnr8OfzRTxkdYe"
+        "name": "Dark Awakening",
+        "url": "https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh"
       },
       "artists": [
         {
-          "name": "Mieke",
-          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+          "name": "Lustmord",
+          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
+        },
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
         }
       ],
-      "duration_ms": 230157,
-      "name": "kissing maggots",
-      "url": "https://open.spotify.com/track/7Lsj6QFCZsqoiutAoSxP8H"
+      "duration_ms": 281176,
+      "name": "Dark Awakening",
+      "url": "https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk"
     },
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Hy-Brasil",
-        "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
       },
       "artists": [
         {
-          "name": "LIGHTS OUT ASIA",
-          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
         }
       ],
-      "duration_ms": 235213,
-      "name": "Abell 1835",
-      "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
+      "duration_ms": 420330,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
+        "name": "Hy-Brasil",
+        "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
       },
       "artists": [
         {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+          "name": "LIGHTS OUT ASIA",
+          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
         }
       ],
-      "duration_ms": 420330,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
+      "duration_ms": 235213,
+      "name": "Abell 1835",
+      "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Songs to Disappear to",
+        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 257568,
+      "name": "Old Moon",
+      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 229186,
       "name": "A Dream to Call My Own (feat. Janell Rosa)",
       "url": "https://open.spotify.com/track/1QRbOx5X5oCNla0mfHJOH3"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Songs to Disappear to",
-        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 257568,
-      "name": "Old Moon",
-      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Translucent",
-        "url": "https://open.spotify.com/album/1gp8VXsI71AekAP145JVeB"
-      },
-      "artists": [
-        {
-          "name": "The Choir",
-          "url": "https://open.spotify.com/artist/34ZMg5ojlqNAPlWyeYxqcu"
-        }
-      ],
-      "duration_ms": 366000,
-      "name": "Watching Feathers Float",
-      "url": "https://open.spotify.com/track/5pod4sYGbicg7UDiH6wO1g"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "In a Sad Red Dusk, We Were Finally Leaving",
         "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 318240,
       "name": "Secret Colours",
       "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Translucent",
+        "url": "https://open.spotify.com/album/1gp8VXsI71AekAP145JVeB"
+      },
+      "artists": [
+        {
+          "name": "The Choir",
+          "url": "https://open.spotify.com/artist/34ZMg5ojlqNAPlWyeYxqcu"
+        }
+      ],
+      "duration_ms": 366000,
+      "name": "Watching Feathers Float",
+      "url": "https://open.spotify.com/track/5pod4sYGbicg7UDiH6wO1g"
     },
     {
       "added_at": "2026-05-29 04:00:33",

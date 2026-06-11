@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,129 songs - 2 day 10 hr 55 min
+1,130 songs - 2 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-07-01 | 2024-08-01 |
 | [Forever Young](https://open.spotify.com/track/0wOdcEgqadzlYgBGunlHMV) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Forever Young](https://open.spotify.com/album/7xBAA2rjqdxZtJbi8FfdAn) | 2:58 | 2025-01-17 | 2025-01-22 |
 | [FOREVIGT](https://open.spotify.com/track/4TesvqhEAvHmp964Byq7ix) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [FOREVIGT](https://open.spotify.com/album/6tbrcy7rmOKijX94s9MajW) | 2:45 | 2025-01-24 | 2025-02-09 |
-| [FORFRA SÅRBAR](https://open.spotify.com/track/3cLuUx3JBRD2SyZ9r2YPEJ) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2) | [FORFRA SÅRBAR](https://open.spotify.com/album/26HozPkrqNcPfxij0ANi2a) | 3:43 | 2026-06-04 |  |
+| [FORFRA SÅRBAR](https://open.spotify.com/track/3cLuUx3JBRD2SyZ9r2YPEJ) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2) | [FORFRA SÅRBAR](https://open.spotify.com/album/26HozPkrqNcPfxij0ANi2a) | 3:43 | 2026-06-04 | 2026-06-11 |
 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-07-01 | 2024-08-01 |
 | [FORSTÅR DU? \(feat\. Artigeardit\)](https://open.spotify.com/track/5bxbA6Uv3EVpEV6fqu4wjS) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [FORSTÅR DU? \(feat\. Artigeardit\)](https://open.spotify.com/album/5ZdiU7EZzlasLwknxeDSmT) | 2:28 | 2025-07-31 | 2025-08-08 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-07-01 | 2024-08-01 |
@@ -488,6 +488,7 @@
 | [hva så?](https://open.spotify.com/track/5IeqczS5hrm0otRU9O8YWe) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [hva så?](https://open.spotify.com/album/0KmHCjtrUeOPujRiAcULPj) | 2:44 | 2024-09-05 | 2024-09-27 |
 | [Hvad Forventer De Freestyle](https://open.spotify.com/track/6RmGU9ICkzy6iE9gZf48yL) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Hvad Forventer De Freestyle](https://open.spotify.com/album/4QAoPfSuW02X1wgDOqbkgq) | 2:12 | 2025-07-17 | 2025-08-01 |
 | [Hvem Har Stedet](https://open.spotify.com/track/7gA1XMv2BnRU6h1hjj5iUA) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Hvem Har Stedet](https://open.spotify.com/album/6QxcuBWX5mHp4OiKp5g4xU) | 2:01 | 2025-04-17 | 2025-04-24 |
+| [Hvis væggene kunne tale](https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Den lange vej](https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf) | 2:58 | 2026-06-10 |  |
 | [Hvor Solen Ik' Skinner](https://open.spotify.com/track/6EfIo8vxfIBT2IZrzGHbpP) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq), [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c) | [Hvor Solen Ik' Skinner](https://open.spotify.com/album/3Gw00i0ZHXvqyulhCCNQ6m) | 2:44 | 2024-09-12 | 2024-10-13 |
 | [Hvor Var Jeg Endt](https://open.spotify.com/track/1upFqX3mJflCB0QGJNJStY) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Hvor Var Jeg Endt](https://open.spotify.com/album/4qefEfwkmVFCFU3BYEmKJB) | 2:59 | 2025-04-03 | 2025-07-03 |
 | [Hvorfor skulle jeg vide det?](https://open.spotify.com/track/2PtVNvdWQDCVgmviVljEBr) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Hvorfor skulle jeg vide det?](https://open.spotify.com/album/360MgRzxQLYOT70TgyPyg4) | 2:15 | 2026-04-30 | 2026-05-15 |

@@ -1,13 +1,33 @@
 {
-  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Vidusan Kaneswaran",
-  "num_followers": 19802,
+  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Harsha Vardhan",
+  "num_followers": 19811,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN1SwkaoFYli+NBIZp57JBYocSt+",
+  "snapshot_id": "AAAAAMRmJg7EwdzIZi6hganDid5/8DRH",
   "tracks": [
+    {
+      "added_at": "2026-06-10 10:19:16",
+      "album": {
+        "name": "IOIO",
+        "url": "https://open.spotify.com/album/1tkadsy7lB3zNA5xkWbM30"
+      },
+      "artists": [
+        {
+          "name": "Harsha Vardhan",
+          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "duration_ms": 169117,
+      "name": "IOIO",
+      "url": "https://open.spotify.com/track/0ye9i27scMk0GBlbGJEVjJ"
+    },
     {
       "added_at": "2026-04-23 06:49:33",
       "album": {
@@ -27,6 +47,86 @@
       "duration_ms": 175384,
       "name": "Ey Pulla",
       "url": "https://open.spotify.com/track/1A81vwNeY6ghuNo6llNePU"
+    },
+    {
+      "added_at": "2026-02-13 05:13:51",
+      "album": {
+        "name": "Broken Star (From \"Loopd\")",
+        "url": "https://open.spotify.com/album/4OV1vpPYa4djhsQcBBRCtI"
+      },
+      "artists": [
+        {
+          "name": "John Robins",
+          "url": "https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc"
+        },
+        {
+          "name": "Vetti Payan Venkat",
+          "url": "https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e"
+        }
+      ],
+      "duration_ms": 234294,
+      "name": "Broken Star (From \"Loopd\")",
+      "url": "https://open.spotify.com/track/0hIgpTZOcfxex9i1xW7prm"
+    },
+    {
+      "added_at": "2026-05-04 07:47:45",
+      "album": {
+        "name": "Yellame Nee",
+        "url": "https://open.spotify.com/album/1Q77Zcwt5eAGDnspzhHfeN"
+      },
+      "artists": [
+        {
+          "name": "Laika Jamal",
+          "url": "https://open.spotify.com/artist/6j3Q8cauUMoJAGGTfdYShD"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Yellame Nee",
+      "url": "https://open.spotify.com/track/2EbpqrOYyXgAs5fNJh4lGA"
+    },
+    {
+      "added_at": "2026-05-23 12:56:43",
+      "album": {
+        "name": "Needhaana",
+        "url": "https://open.spotify.com/album/4k1iILHsTBRDvOfjAEX4r9"
+      },
+      "artists": [
+        {
+          "name": "Sandhya Chari",
+          "url": "https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X"
+        },
+        {
+          "name": "Athisaiyan Suresh",
+          "url": "https://open.spotify.com/artist/1kHBtaoep8kLtW9o52Hi7Z"
+        }
+      ],
+      "duration_ms": 219434,
+      "name": "Needhaana",
+      "url": "https://open.spotify.com/track/3289Oo8ShsetMCZ7RK4gxG"
+    },
+    {
+      "added_at": "2026-06-10 11:42:28",
+      "album": {
+        "name": "First Vibe",
+        "url": "https://open.spotify.com/album/4EG64vjf5n6zQG1C3HuuCH"
+      },
+      "artists": [
+        {
+          "name": "Mathesh",
+          "url": "https://open.spotify.com/artist/7hJtNjalMpL6lcLCQnKRGc"
+        },
+        {
+          "name": "Varsha Baskar",
+          "url": "https://open.spotify.com/artist/4OPgvsG0jW3c4R2hIldZii"
+        },
+        {
+          "name": "Santhosh Arumugam",
+          "url": "https://open.spotify.com/artist/3arPP9VYEaY6BV2Ekw3McO"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "First Vibe",
+      "url": "https://open.spotify.com/track/1HcyB26LTKPBOU35vFuLm1"
     },
     {
       "added_at": "2026-02-19 11:44:49",
@@ -73,22 +173,6 @@
       "url": "https://open.spotify.com/track/5ulozItll1NPmEcxCfJQm6"
     },
     {
-      "added_at": "2026-05-04 07:47:45",
-      "album": {
-        "name": "Yellame Nee",
-        "url": "https://open.spotify.com/album/1Q77Zcwt5eAGDnspzhHfeN"
-      },
-      "artists": [
-        {
-          "name": "Laika Jamal",
-          "url": "https://open.spotify.com/artist/6j3Q8cauUMoJAGGTfdYShD"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Yellame Nee",
-      "url": "https://open.spotify.com/track/2EbpqrOYyXgAs5fNJh4lGA"
-    },
-    {
       "added_at": "2026-04-30 15:42:33",
       "album": {
         "name": "Sundari Sundari",
@@ -107,26 +191,6 @@
       "duration_ms": 184846,
       "name": "Sundari Sundari",
       "url": "https://open.spotify.com/track/6Lg938ZCEBYRxTFvkIfnmf"
-    },
-    {
-      "added_at": "2026-05-23 12:56:43",
-      "album": {
-        "name": "Needhaana",
-        "url": "https://open.spotify.com/album/4k1iILHsTBRDvOfjAEX4r9"
-      },
-      "artists": [
-        {
-          "name": "Sandhya Chari",
-          "url": "https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X"
-        },
-        {
-          "name": "Athisaiyan Suresh",
-          "url": "https://open.spotify.com/artist/1kHBtaoep8kLtW9o52Hi7Z"
-        }
-      ],
-      "duration_ms": 219434,
-      "name": "Needhaana",
-      "url": "https://open.spotify.com/track/3289Oo8ShsetMCZ7RK4gxG"
     },
     {
       "added_at": "2026-05-23 12:56:43",
@@ -195,26 +259,6 @@
       "duration_ms": 190164,
       "name": "Pachaikili",
       "url": "https://open.spotify.com/track/4ZVjetCurXC1f6irAsfoKH"
-    },
-    {
-      "added_at": "2026-02-13 05:13:51",
-      "album": {
-        "name": "Broken Star (From \"Loopd\")",
-        "url": "https://open.spotify.com/album/4OV1vpPYa4djhsQcBBRCtI"
-      },
-      "artists": [
-        {
-          "name": "John Robins",
-          "url": "https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc"
-        },
-        {
-          "name": "Vetti Payan Venkat",
-          "url": "https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e"
-        }
-      ],
-      "duration_ms": 234294,
-      "name": "Broken Star (From \"Loopd\")",
-      "url": "https://open.spotify.com/track/0hIgpTZOcfxex9i1xW7prm"
     },
     {
       "added_at": "2026-05-10 01:11:33",
@@ -1371,42 +1415,6 @@
       "duration_ms": 175221,
       "name": "Parka Thonaatha",
       "url": "https://open.spotify.com/track/09j8NwScdnWZgqsTX2giwK"
-    },
-    {
-      "added_at": "2026-02-11 11:04:26",
-      "album": {
-        "name": "Vaanengum Megam",
-        "url": "https://open.spotify.com/album/5kdQFJn3UbQA0HP4YSKcUO"
-      },
-      "artists": [
-        {
-          "name": "Manoj Krishna",
-          "url": "https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM"
-        }
-      ],
-      "duration_ms": 215114,
-      "name": "Vaanengum Megam",
-      "url": "https://open.spotify.com/track/7FIZNReipsi7iVmq7gOSWT"
-    },
-    {
-      "added_at": "2026-02-03 11:36:19",
-      "album": {
-        "name": "Vagalaadi - Tamil",
-        "url": "https://open.spotify.com/album/5HkCjTzsacKfRGTrbuiNcV"
-      },
-      "artists": [
-        {
-          "name": "Nitish John",
-          "url": "https://open.spotify.com/artist/6LctAOI9qvl3ix1PRfzbSF"
-        },
-        {
-          "name": "Shreya Krish",
-          "url": "https://open.spotify.com/artist/1wVstRtBPtkRsQ1zusLfW0"
-        }
-      ],
-      "duration_ms": 292482,
-      "name": "Vagalaadi - Tamil",
-      "url": "https://open.spotify.com/track/5eOOrz9evmVfB8gdlxeQDA"
     },
     {
       "added_at": "2026-04-09 10:06:42",

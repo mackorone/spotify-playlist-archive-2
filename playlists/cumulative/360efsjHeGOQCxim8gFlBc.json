@@ -2924,7 +2924,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 93723,
       "name": "Convict Lake",
       "url": "https://open.spotify.com/track/0iWbFubwaJ9zhXyAiMGlBw"
@@ -7000,7 +7000,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 138000,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/5cyDDOI8VTNwruABo72u1U"
@@ -7768,7 +7768,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 115522,
       "name": "Inside a House - Link's Awakening (Sleepy Felt Piano)",
       "url": "https://open.spotify.com/track/3CYzhJojuIpKIgC8Z6Id0C"
@@ -7804,7 +7804,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 93335,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/3OcT54GTfpUL7xsv72P424"
@@ -8554,6 +8554,24 @@
     {
       "album": {
         "name": "Limerence",
+        "url": "https://open.spotify.com/album/0IYVStJAdG0le8VsTP656w"
+      },
+      "artists": [
+        {
+          "name": "Helder Boutens",
+          "url": "https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113624,
+      "name": "Limerence",
+      "url": "https://open.spotify.com/track/7KYYENkAyKafhbajpNmAXj"
+    },
+    {
+      "album": {
+        "name": "Limerence",
         "url": "https://open.spotify.com/album/73ZupNwLV1M8X6McZ3FKYL"
       },
       "artists": [
@@ -8564,7 +8582,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 113658,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/6XLkTTZxfYYJvxRIcAoDCF"
@@ -8724,6 +8742,24 @@
       "duration_ms": 152973,
       "name": "Living Breath",
       "url": "https://open.spotify.com/track/5LRslJUDJjRAGFM63NP3uo"
+    },
+    {
+      "album": {
+        "name": "Living Life",
+        "url": "https://open.spotify.com/album/2K4Y8hYBQ1hWwh9YVbBrCs"
+      },
+      "artists": [
+        {
+          "name": "R\u00f8ns",
+          "url": "https://open.spotify.com/artist/4xeyEfwiklRWxziMZcgn9h"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168297,
+      "name": "Living Life",
+      "url": "https://open.spotify.com/track/2C5OIy4mjVO0X1KxLCjD7c"
     },
     {
       "album": {
@@ -12167,6 +12203,28 @@
     },
     {
       "album": {
+        "name": "Ram\u00e8ne-moi \u00e0 la maison",
+        "url": "https://open.spotify.com/album/19TVaqWwaO66KOL6rVC0Hk"
+      },
+      "artists": [
+        {
+          "name": "23zach",
+          "url": "https://open.spotify.com/artist/1bwNjmpwuHAG7CPowyJ4Ns"
+        },
+        {
+          "name": "Diamond Tone",
+          "url": "https://open.spotify.com/artist/7lUtixqnrtz1PDu2Y7TyZw"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151750,
+      "name": "Ram\u00e8ne-moi \u00e0 la maison",
+      "url": "https://open.spotify.com/track/5FRWg5RZNRoY2hCFGaWtPH"
+    },
+    {
+      "album": {
         "name": "Rather be (Piano Version)",
         "url": "https://open.spotify.com/album/6OvAeisVpTd4Nkn8eiaTtJ"
       },
@@ -14724,6 +14782,24 @@
       "duration_ms": 210752,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/3GONrtupggAFcF0Vgp4WT6"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/5RUR7kYQbB6NjnQwY6wjtE"
+      },
+      "artists": [
+        {
+          "name": "Housman",
+          "url": "https://open.spotify.com/artist/6ZtaiZjSFgNoixlvp3zQ56"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109805,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/4Haxto61UKsLWm8icIwFKx"
     },
     {
       "album": {
@@ -17776,6 +17852,28 @@
       "duration_ms": 209297,
       "name": "Zen Mood 2023",
       "url": "https://open.spotify.com/track/2fNmPO31OcxJIW3g4PqkLS"
+    },
+    {
+      "album": {
+        "name": "\u00c0 tout moment",
+        "url": "https://open.spotify.com/album/5EBguovBnNh18AHLDSThxw"
+      },
+      "artists": [
+        {
+          "name": "23zach",
+          "url": "https://open.spotify.com/artist/1bwNjmpwuHAG7CPowyJ4Ns"
+        },
+        {
+          "name": "Diamond Tone",
+          "url": "https://open.spotify.com/artist/7lUtixqnrtz1PDu2Y7TyZw"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201437,
+      "name": "\u00c0 tout moment",
+      "url": "https://open.spotify.com/track/5osATpZbogP8fSrW6uQZDx"
     }
   ],
   "url": "https://open.spotify.com/playlist/360efsjHeGOQCxim8gFlBc"

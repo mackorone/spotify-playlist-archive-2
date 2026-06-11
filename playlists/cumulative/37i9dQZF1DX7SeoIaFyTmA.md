@@ -2,7 +2,7 @@
 
 ### [Salsa Classics](https://open.spotify.com/playlist/37i9dQZF1DX7SeoIaFyTmA)
 
-> Timeless Salsa from your favorite legends.
+> Timeless Salsa from your favorite legends\. Cover: Rubén Blades
 
 172 songs - 14 hr 50 min
 

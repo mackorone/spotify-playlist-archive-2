@@ -4,7 +4,7 @@
 
 > ¡Vamos a bailar con Dios!
 
-238 songs - 13 hr 49 min
+239 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Agüita de Coco](https://open.spotify.com/track/4dw8yGSx5SHhWSvKbEjBhf) | [La Sociedad 111](https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p) | [Agüita de Coco](https://open.spotify.com/album/7KAyRSL8kxJv6Lrs1DvB3U) | 2:36 | 2025-03-28 | 2025-12-13 |
 | [Al Que Tenga Oídos](https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Al Que Tenga Oídos](https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs) | 4:43 | 2024-07-05 |  |
 | [Alabaré](https://open.spotify.com/track/5NZurbKSdSrGdfSsx9Q25t) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Alabaré](https://open.spotify.com/album/4pWVrEzaIEMdaMLBiZ6mc2) | 2:58 | 2024-07-05 |  |
+| [Alegría](https://open.spotify.com/track/2jSyrrOTSOY07i6KVNU12e) | [Kevin Mendoza](https://open.spotify.com/artist/5RcvhYmXXlPzchje5Y3DxK), [Ross](https://open.spotify.com/artist/6M9ARUEWkb5cMG2KIXMHxG) | [Love Joy & Peace](https://open.spotify.com/album/0fhTJ1blBXypMh18HzHWZs) | 3:23 | 2026-04-25 |  |
 | [All About You \(feat\. Hollyn\)](https://open.spotify.com/track/7dT5PnZbUQcwvdrSpS4FZV) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:29 | 2024-08-23 | 2024-09-07 |
 | [Amor Incondicional](https://open.spotify.com/track/4S67HSqfDt1Xdaap5q0Ahf) | [David Muguercia](https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu) | [Amor Incondicional](https://open.spotify.com/album/7qgR0VJh9sGVgA3uVDkHDs) | 2:48 | 2025-02-28 | 2025-03-29 |
 | [Amor Verdadero](https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL) | [Abel Xanders](https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c) | [Amor Verdadero](https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy) | 3:23 | 2025-03-28 |  |
@@ -34,7 +35,7 @@
 | [Blindada](https://open.spotify.com/track/54040tP5vp9wThDM8tPo6P) | [Propósito Con Estilo](https://open.spotify.com/artist/0G8dfwHkfphIgvtXx980jN) | [Mqb](https://open.spotify.com/album/5p3zVMHk7f7a3IhELZ3Dfy) | 2:44 | 2025-12-12 |  |
 | [Buenas Vibras](https://open.spotify.com/track/72ApGW2XVzlMsL5uXnZeS7) | [Germán Barceló](https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ) | [Buenas Vibras](https://open.spotify.com/album/3drBEOSydxW1BOBC2ISWf9) | 3:08 | 2025-09-14 |  |
 | [BUENO](https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8) | [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Isaani Martínez](https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk) | [BUENO](https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG) | 2:48 | 2024-07-05 |  |
-| [Bueno](https://open.spotify.com/track/52vDuygHaa5PnaW0as9jzy) | [Omar Salas](https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd) | [Bueno](https://open.spotify.com/album/7mX06PtvfDeBhuORXU96z3) | 2:55 | 2024-12-11 |  |
+| [Bueno](https://open.spotify.com/track/52vDuygHaa5PnaW0as9jzy) | [Omar Salas](https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd) | [Bueno](https://open.spotify.com/album/7mX06PtvfDeBhuORXU96z3) | 2:55 | 2024-12-11 | 2026-06-11 |
 | [Bueno es Dios \- Live](https://open.spotify.com/track/3Gce2rJuaDZ70bGWPmiJp2) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8) | [Bueno & Fiel](https://open.spotify.com/album/1ip9NP4YfTp3tu8AnPmHNr) | 5:03 | 2025-12-12 | 2025-12-19 |
 | [CABLES CRUZADOS](https://open.spotify.com/track/2gGSHUX54Bb9lkWoTkJQKs) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [CVRBON VRMOR](https://open.spotify.com/album/4ZOlDViNpY9CrAXTNZMffm) | 2:51 | 2025-02-28 | 2025-03-29 |
 | [CALMA](https://open.spotify.com/track/0ViCt3vmm2CAxI2VaOMafa) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [CALMA](https://open.spotify.com/album/21gKiglkiX3VY4PjHrKd0h) | 2:49 | 2025-09-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,774 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,781 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 38 | [THE WAY OF LIFE](https://open.spotify.com/track/7u9S44Yk4GpnkAsKOZjZMq) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [THE WAY OF LIFE](https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X) | 3:58 |
 | 39 | [えがおのオーケストラっ！ \(パラレルver.\)](https://open.spotify.com/track/4rdmyKUmOxgTmVPnqkKqoW) | [優雅なティータイムを♪](https://open.spotify.com/artist/3alSKGtEGIuCng0r1UNoDf), [白鷺千聖\(CV:上坂すみれ\)](https://open.spotify.com/artist/1jv55vLFewxt2UQiQYc2IY), [湊 友希那\(CV:相羽あいな\)](https://open.spotify.com/artist/5tb5Ya8txUfxvU3USDffwT), [松原花音\(CV:豊田萌絵\)](https://open.spotify.com/artist/67oUulZoqpQ8GtSoCoumNg), [長崎そよ\(CV:小日向美香\)](https://open.spotify.com/artist/0ideeN34584s8oFN36bsjF) | [えがおのオーケストラっ！ \(パラレルver.\)](https://open.spotify.com/album/4VQ5iNgOsj6JguyK8XDDNb) | 3:50 |
 | 40 | [again \(Cover\)](https://open.spotify.com/track/1XcLPGyxMot60hADZtKBHf) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [again \(Cover\)](https://open.spotify.com/album/4xAd44IfzQo8QcAg7zc1Bo) | 4:10 |
-| 41 | [最上級にかわいいの！ \(Cover\)](https://open.spotify.com/track/17woIV9I95tV9C4fnc6Ep4) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [最上級にかわいいの！ \(Cover\)](https://open.spotify.com/album/6TzI50EqlfGlG2JUZMyTDK) | 3:11 |
-| 42 | [オレンジ \(Cover\)](https://open.spotify.com/track/1gRerODkdxiDxlXb4j6UN7) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [オレンジ \(Cover\)](https://open.spotify.com/album/1I465L0Mbyc0QbJb0uY50m) | 3:55 |
+| 41 | [オレンジ \(Cover\)](https://open.spotify.com/track/1gRerODkdxiDxlXb4j6UN7) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [オレンジ \(Cover\)](https://open.spotify.com/album/1I465L0Mbyc0QbJb0uY50m) | 3:55 |
+| 42 | [最上級にかわいいの！ \(Cover\)](https://open.spotify.com/track/17woIV9I95tV9C4fnc6Ep4) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [最上級にかわいいの！ \(Cover\)](https://open.spotify.com/album/6TzI50EqlfGlG2JUZMyTDK) | 3:11 |
 | 43 | [ひとりじゃないんだから \(パラレルver.\)](https://open.spotify.com/track/1iRCZqUqfCFBqT8NI89geT) | [羽沢珈琲店にようこそ♪](https://open.spotify.com/artist/1z3oUWGzmtiO7LytZJLx8O), [羽沢つぐみ\(CV:金元寿子\)](https://open.spotify.com/artist/7faWE6B8AnIPOCDuQmv96x), [若宮イヴ\(CV:秦佐和子\)](https://open.spotify.com/artist/66E2DxfDG4cUdM0uivbYPs), [二葉つくし\(CV:mika\)](https://open.spotify.com/artist/6JtSmSbV4QC96Wm4b4hjZK) | [ひとりじゃないんだから \(パラレルver.\)](https://open.spotify.com/album/4txrzjXgvXWNiWlZB0YndH) | 3:58 |
 | 44 | [新人類は仮想世界の夢を見るか？](https://open.spotify.com/track/0bsQv9Xxwrlc0Cy6sCxhbx) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [コミュ着火Fire!](https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9) | 3:54 |
 | 45 | [熱風海陸ブシロード〜熱き咆哮〜 \(Cover\)](https://open.spotify.com/track/0TSGiufLpHUCT3RpiBogE8) | [夢幻戦隊むーたいぷ](https://open.spotify.com/artist/0Jvxrj4gf4hdQYuTNq12b5) | [夢幻戦隊むーたいぷ１ \(Cover\)](https://open.spotify.com/album/1stMIkjvzPRWv5li1KO293) | 4:37 |

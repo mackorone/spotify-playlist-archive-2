@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-787 songs - 3 day 1 hr 20 min
+788 songs - 3 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,7 +639,7 @@
 | [Still Breathing](https://open.spotify.com/track/3gylkATtgG7OeR3HrMhZVv) | [Turker](https://open.spotify.com/artist/4F52JqVRektZaOmMqLrun2) | [Still Breathing](https://open.spotify.com/album/4Rhq17P4Ia4SMTc02thq2t) | 5:02 | 2021-10-14 | 2022-07-16 |
 | [Stole the Night \- Oliver Koletzki Remix](https://open.spotify.com/track/4vZ6U4BYEKeuyhbSVofLTS) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Remix Tales](https://open.spotify.com/album/1KFqkjrqm3LwHzqScoKd5u) | 7:19 | 2019-08-06\* | 2021-05-28 |
 | [Stone Flower \- Original](https://open.spotify.com/track/1QrxggFof36TcpeREbDAXI) | [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ) | [Stone Flower](https://open.spotify.com/album/3ZoEajMzgGXVRdiheQAVas) | 7:48 | 2019-08-06\* | 2020-01-26 |
-| [Strange](https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Strange](https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY) | 3:44 | 2026-02-06 |  |
+| [Strange](https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Strange](https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY) | 3:44 | 2026-02-06 | 2026-06-11 |
 | [Subterranean](https://open.spotify.com/track/1e21WWJUeqFhZhDuakGkdd) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Subterranean](https://open.spotify.com/album/6cw5camBc9Lf9t4BS5NEDn) | 3:30 | 2023-11-11 | 2026-01-15 |
 | [Sun Went Down, Sky Went Dark](https://open.spotify.com/track/6T3CkMG9pCajGGML8ArGJo) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly), [Senes](https://open.spotify.com/artist/0KwCPR1o24HHYihNcZTRw1) | [Sun Went Down, Sky Went Dark](https://open.spotify.com/album/2d8InkYS054gRrEkp64rH0) | 4:12 | 2025-07-18 |  |
 | [Sunshine](https://open.spotify.com/track/5asbG4btHJ2h2T4F1EtNK8) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Sunshine](https://open.spotify.com/album/3rbbxT58I3txO7IifNVnPc) | 3:32 | 2025-07-11 | 2025-10-07 |
@@ -650,6 +650,7 @@
 | [Tachyon](https://open.spotify.com/track/7m7nVRARGzxro7OMeGRauC) | [Enui](https://open.spotify.com/artist/0uLnAkNKYtVbCJSviFZnEh), [Jordan Bakker](https://open.spotify.com/artist/304E4EmFCfUL4r24KJ0iu6) | [Tachyon](https://open.spotify.com/album/1q2TlIW6JOGmMMlUz9qmdy) | 6:21 | 2020-01-12 | 2021-08-12 |
 | [Take Care](https://open.spotify.com/track/3FzhYRz5OmmjKoEnRVedeG) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Take Care](https://open.spotify.com/album/0YxjerMKxA6TDarqJCzIS7) | 3:25 | 2023-04-05 | 2024-10-17 |
 | [Take Care Of Business \- Solomun Mix](https://open.spotify.com/track/1vqS30vCAcEVx0GaqAv5Qh) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Take Care Of Business \(Solomun Mix\)](https://open.spotify.com/album/6El1TrEeCD2dnBznON3WrH) | 3:10 | 2026-02-20 |  |
+| [Take Me High](https://open.spotify.com/track/1eBXkQ8zqXBrI90OuBMhOE) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Take Me High](https://open.spotify.com/album/730Gi9p7OFK8ZDfwyaxXLc) | 3:56 | 2026-06-05 |  |
 | [Take My Hand](https://open.spotify.com/track/1x6JcuNsTk2jv6CszQqyC9) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Take My Hand](https://open.spotify.com/album/5u0MC9Oaw6oahrK8OYgKiM) | 6:23 | 2020-01-01 | 2020-06-13 |
 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 | 2025-07-18 |  |
 | [Tantrum](https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tantrum](https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF) | 3:49 | 2021-10-30 | 2023-04-04 |

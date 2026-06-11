@@ -1,6 +1,6 @@
 {
   "description": "60s rock to fuel your ride. Cover: Jimi Hendrix",
-  "num_followers": 311663,
+  "num_followers": 311742,
   "original_name": "60s Rock Drive",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Buffalo Springfield Again",
-        "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Springfield",
-          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Mr. Soul",
-      "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 122893,
       "name": "Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009",
       "url": "https://open.spotify.com/track/4fUKE8EULjQdHF4zb0M8FO"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Buffalo Springfield Again",
+        "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Springfield",
+          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Mr. Soul",
+      "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
     },
     {
       "added_at": "2021-03-22 17:56:31",

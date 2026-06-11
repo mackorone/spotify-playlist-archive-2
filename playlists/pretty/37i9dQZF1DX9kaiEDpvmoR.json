@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93946,
+  "num_followers": 93948,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
-        "name": "Dansons",
-        "url": "https://open.spotify.com/album/18y0UlYOveexsqLeSswHG5"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 206002,
-      "name": "Dansons",
-      "url": "https://open.spotify.com/track/7qRK8GXzeSjfOOjDASmXs8"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
         "name": "Superlim & silvertejp",
         "url": "https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 193634,
       "name": "Superlim & silvertejp",
       "url": "https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
+        "name": "Dansons",
+        "url": "https://open.spotify.com/album/18y0UlYOveexsqLeSswHG5"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 206002,
+      "name": "Dansons",
+      "url": "https://open.spotify.com/track/7qRK8GXzeSjfOOjDASmXs8"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
-        "name": "VM-guld",
-        "url": "https://open.spotify.com/album/4O5Ni5OfiYKSzKtffOj2bf"
+        "name": "Farsans h\u00e4nder",
+        "url": "https://open.spotify.com/album/2sc5mcCEfmeKSjBxziE6Uz"
       },
       "artists": [
         {
-          "name": "Magnus Uggla",
-          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 191840,
-      "name": "VM-guld",
-      "url": "https://open.spotify.com/track/0y6nkY9s1tF0voO0DBZnfm"
+      "duration_ms": 187200,
+      "name": "Farsans h\u00e4nder",
+      "url": "https://open.spotify.com/track/5Q6hZUb0wqqasN62P0N3wD"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -339,18 +339,18 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
-        "name": "Farsans h\u00e4nder",
-        "url": "https://open.spotify.com/album/2sc5mcCEfmeKSjBxziE6Uz"
+        "name": "VM-guld",
+        "url": "https://open.spotify.com/album/4O5Ni5OfiYKSzKtffOj2bf"
       },
       "artists": [
         {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Farsans h\u00e4nder",
-      "url": "https://open.spotify.com/track/5Q6hZUb0wqqasN62P0N3wD"
+      "duration_ms": 191840,
+      "name": "VM-guld",
+      "url": "https://open.spotify.com/track/0y6nkY9s1tF0voO0DBZnfm"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
+        "name": "\u00c4r det h\u00e4r det \u00e4r party",
+        "url": "https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58"
+      },
+      "artists": [
+        {
+          "name": "Korslagda",
+          "url": "https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv"
+        }
+      ],
+      "duration_ms": 202011,
+      "name": "\u00c4r det h\u00e4r det \u00e4r party",
+      "url": "https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
         "name": "Of All People",
         "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 202425,
       "name": "P\u00e5 egna ben (feat. Carola)",
       "url": "https://open.spotify.com/track/6hZlxqZfxucXVRs3lZRhju"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
-        "name": "\u00c4r det h\u00e4r det \u00e4r party",
-        "url": "https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58"
-      },
-      "artists": [
-        {
-          "name": "Korslagda",
-          "url": "https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv"
-        }
-      ],
-      "duration_ms": 202011,
-      "name": "\u00c4r det h\u00e4r det \u00e4r party",
-      "url": "https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
+        "name": "Ingen plockar en maskros",
+        "url": "https://open.spotify.com/album/6UIco02LG96PWIO8KnsdMC"
+      },
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+        }
+      ],
+      "duration_ms": 223506,
+      "name": "Ingen plockar en maskros",
+      "url": "https://open.spotify.com/track/55kyGw7WmOpInVrabROr68"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
         "name": "G\u00f6teborg sjunger Alf",
         "url": "https://open.spotify.com/album/1HXPcdjBXNKKfZVVNRBJgT"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 203150,
       "name": "Det jag s\u00e5g i din spegel s\u00e5g inte ut som mig",
       "url": "https://open.spotify.com/track/1iVmZTfxHv6hRDaGamR52T"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
-        "name": "Ingen plockar en maskros",
-        "url": "https://open.spotify.com/album/6UIco02LG96PWIO8KnsdMC"
-      },
-      "artists": [
-        {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "Ingen plockar en maskros",
-      "url": "https://open.spotify.com/track/55kyGw7WmOpInVrabROr68"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
-        "name": "Praying for a Miracle",
-        "url": "https://open.spotify.com/album/7KUJcnrSFhJdBYdPX6T2bR"
-      },
-      "artists": [
-        {
-          "name": "Erik Gr\u00f6nwall",
-          "url": "https://open.spotify.com/artist/5dg3YtsiR8ux6amJv9m9AG"
-        }
-      ],
-      "duration_ms": 226675,
-      "name": "Praying for a Miracle",
-      "url": "https://open.spotify.com/track/4uTEsvH1qgQtsjo7cCKfBF"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
         "name": "Can't Frame the Moonlight",
         "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
+        "name": "Praying for a Miracle",
+        "url": "https://open.spotify.com/album/7KUJcnrSFhJdBYdPX6T2bR"
+      },
+      "artists": [
+        {
+          "name": "Erik Gr\u00f6nwall",
+          "url": "https://open.spotify.com/artist/5dg3YtsiR8ux6amJv9m9AG"
+        }
+      ],
+      "duration_ms": 226675,
+      "name": "Praying for a Miracle",
+      "url": "https://open.spotify.com/track/4uTEsvH1qgQtsjo7cCKfBF"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
         "name": "G\u00f6teborg",
         "url": "https://open.spotify.com/album/71pxG9wcH5tpumzPTrREIK"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 228561,
       "name": "G\u00f6teborg",
       "url": "https://open.spotify.com/track/5wCwRorgVytF1HnOw9IwF9"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
-        "name": "If I Ever Lose My Temper",
-        "url": "https://open.spotify.com/album/6WgxseURmKuRAb9YiOh4mv"
-      },
-      "artists": [
-        {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "If I Ever Lose My Temper",
-      "url": "https://open.spotify.com/track/0xzmVwoAyRBVU6wOctHLcd"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
+        "name": "Tiden",
+        "url": "https://open.spotify.com/album/16q6FX0WuHi5RhtwGhf5Gc"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 242641,
+      "name": "Tiden",
+      "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
         "name": "Greczula",
         "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
       },
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
+        "name": "If I Ever Lose My Temper",
+        "url": "https://open.spotify.com/album/6WgxseURmKuRAb9YiOh4mv"
+      },
+      "artists": [
+        {
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "If I Ever Lose My Temper",
+      "url": "https://open.spotify.com/track/0xzmVwoAyRBVU6wOctHLcd"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
         "name": "I Rock My Country",
         "url": "https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 196440,
       "name": "I Rock My Country",
       "url": "https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
-        "name": "Tiden",
-        "url": "https://open.spotify.com/album/16q6FX0WuHi5RhtwGhf5Gc"
-      },
-      "artists": [
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
-        }
-      ],
-      "duration_ms": 242641,
-      "name": "Tiden",
-      "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -1211,6 +1211,22 @@
       "duration_ms": 174101,
       "name": "Bara kom",
       "url": "https://open.spotify.com/track/7CcrqmPUhnFAOWG1Y9ogp8"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
+        "name": "Nu \u00e4r det sommar",
+        "url": "https://open.spotify.com/album/2vod2jSRKgWviLJ4o9N3HA"
+      },
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
+        }
+      ],
+      "duration_ms": 187604,
+      "name": "Nu \u00e4r det sommar",
+      "url": "https://open.spotify.com/track/2BSV2wwILPT33uyNq6JeDC"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
-        "name": "Nu \u00e4r det sommar",
-        "url": "https://open.spotify.com/album/2vod2jSRKgWviLJ4o9N3HA"
+        "name": "Ingen vet",
+        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
       },
       "artists": [
         {
-          "name": "Sven-Ingvars",
-          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
         }
       ],
-      "duration_ms": 187604,
-      "name": "Nu \u00e4r det sommar",
-      "url": "https://open.spotify.com/track/2BSV2wwILPT33uyNq6JeDC"
+      "duration_ms": 160975,
+      "name": "Ingen vet",
+      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -1339,22 +1355,6 @@
       "duration_ms": 229770,
       "name": "Inner City Ghosts",
       "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
-        "name": "Ingen vet",
-        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
-        }
-      ],
-      "duration_ms": 160975,
-      "name": "Ingen vet",
-      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
-        "name": "S\u00f6dersommar",
-        "url": "https://open.spotify.com/album/2qtU1Yh1stdNagreyKheqc"
-      },
-      "artists": [
-        {
-          "name": "Peter J\u00f6back",
-          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
-        }
-      ],
-      "duration_ms": 230111,
-      "name": "S\u00f6dersommar",
-      "url": "https://open.spotify.com/track/5tbbTs56RXANxq6cj4gjln"
-    },
-    {
-      "added_at": "2026-06-04 22:00:34",
-      "album": {
         "name": "Bad Blood",
         "url": "https://open.spotify.com/album/7i1g3DW1WAjsYXsWHAsQP9"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 170000,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/6F5ZOMStXsxHAfWDqpcOVZ"
+    },
+    {
+      "added_at": "2026-06-04 22:00:34",
+      "album": {
+        "name": "S\u00f6dersommar",
+        "url": "https://open.spotify.com/album/2qtU1Yh1stdNagreyKheqc"
+      },
+      "artists": [
+        {
+          "name": "Peter J\u00f6back",
+          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
+        }
+      ],
+      "duration_ms": 230111,
+      "name": "S\u00f6dersommar",
+      "url": "https://open.spotify.com/track/5tbbTs56RXANxq6cj4gjln"
     },
     {
       "added_at": "2026-06-04 22:00:34",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2026-06-04 22:00:34",
       "album": {
-        "name": "Last To Know",
-        "url": "https://open.spotify.com/album/04oxKh21TCYMX17XlDHptZ"
+        "name": "Fortfarande vi",
+        "url": "https://open.spotify.com/album/7DPAKW6DID1AIeDkKnKZ4q"
       },
       "artists": [
         {
-          "name": "Tennessee Tears",
-          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
         }
       ],
-      "duration_ms": 214500,
-      "name": "Last To Know",
-      "url": "https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv"
+      "duration_ms": 171480,
+      "name": "Fortfarande vi",
+      "url": "https://open.spotify.com/track/4RXAKqPueNdZbqC18wP2lG"
     }
   ],
   "unique_name": "Aktuellt",

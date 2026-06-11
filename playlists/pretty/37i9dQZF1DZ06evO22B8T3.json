@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1309091,
+  "num_followers": 1309097,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAADXpn4rIdKdO+WvswHebx80",
+  "snapshot_id": "aidXgAAAAACorLJb1YQXCizxuOTfoLbA",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reci\u00e9n Soltera",
-        "url": "https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 183856,
-      "name": "Reci\u00e9n Soltera",
-      "url": "https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Relax",
         "url": "https://open.spotify.com/album/6S9Hg5Ie8LHYTpCxUFZl1S"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 233169,
       "name": "Relax",
       "url": "https://open.spotify.com/track/7kkpwLgPSYzGWq3sM25Rvv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reci\u00e9n Soltera",
+        "url": "https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 183856,
+      "name": "Reci\u00e9n Soltera",
+      "url": "https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VERSUS",
-        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 142769,
-      "name": "SIN CADENAS",
-      "url": "https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Posdata:",
         "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 169162,
       "name": "Posdata:",
       "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VERSUS",
+        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 142769,
+      "name": "SIN CADENAS",
+      "url": "https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VERSUS",
-        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 158497,
-      "name": "MI VERSI\u00d3N",
-      "url": "https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 172561,
       "name": "Luces",
       "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VERSUS",
+        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 158497,
+      "name": "MI VERSI\u00d3N",
+      "url": "https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c"
     },
     {
       "added_at": null,

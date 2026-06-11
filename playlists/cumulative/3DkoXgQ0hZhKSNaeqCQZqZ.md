@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-538 songs - 1 day 4 hr 21 min
+539 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Desperate Measure \- Lyric version](https://open.spotify.com/track/0qnQCqmFLJq5rUcdUYuWUM) | [Kamex](https://open.spotify.com/artist/2boudDTnAlzb00NFNXTkad) | [Desperate Measure \(Lyric version\)](https://open.spotify.com/album/3UXv2WMg45XUruZYloSLqJ) | 3:48 | 2026-03-18 | 2026-03-30 |
 | [Determination](https://open.spotify.com/track/6xnYqujJZOarqDQ0HGGUeR) | [Duzzled](https://open.spotify.com/artist/0GhzKJWv9t65ln61aRlywb), [Zane de Klerk](https://open.spotify.com/artist/6P203pkgmGipAdomu0a3cH) | [Determination](https://open.spotify.com/album/4HXshGxrNPjY2etRb02SxM) | 2:34 | 2023-06-14 |  |
 | [diaries of a small town](https://open.spotify.com/track/6maCQUoO6Ld9GwK1fN0NYQ) | [RUDEDOG](https://open.spotify.com/artist/67Mz6SeKa3JJo65q9zGK2P) | [diaries of a small town](https://open.spotify.com/album/1VQNdZ6m27lRsuPXJyiwX7) | 4:03 | 2024-11-18 | 2026-03-01 |
+| [DIE FOR U](https://open.spotify.com/track/1IwKCRMBqcJVFsaclCu8dw) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [DIE FOR U](https://open.spotify.com/album/2xYMLWazjSSKtDnLbng9PZ) | 2:07 | 2026-06-11 |  |
 | [DIGITAL](https://open.spotify.com/track/3Ex7txNb9xZYMqPNV6i837) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [DIGITAL](https://open.spotify.com/album/6pO4KZg5p64j4jy6A0gVac) | 3:18 | 2025-01-18 | 2026-03-01 |
 | [Dimensional Psychic Rift](https://open.spotify.com/track/0EmPe6LKa2CBZ9KqjmZBEt) | [KweenCephi](https://open.spotify.com/artist/5oLCu2fxPnNatOrRoclO3n) | [Ghost Bounty Hunter](https://open.spotify.com/album/7yt1fLy831HgXf0LRGaVcf) | 2:28 | 2023-06-14 | 2025-08-13 |
 | [DINNER!](https://open.spotify.com/track/0zeJA3ABeJ0ZuziPetWBl3) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [DINNER!](https://open.spotify.com/album/6YbAqDsUx7KxcK3eoOZtk0) | 2:16 | 2024-02-17 | 2024-12-20 |

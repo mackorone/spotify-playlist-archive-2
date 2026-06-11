@@ -544,10 +544,28 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 195674,
       "name": "cantsleep/drunkinluv",
       "url": "https://open.spotify.com/track/1rmnXvRqv4RSGycJPS0pzJ"
+    },
+    {
+      "album": {
+        "name": "PLAY CASH COBAIN",
+        "url": "https://open.spotify.com/album/27UueQdChDvRGgV4uL9eJz"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195674,
+      "name": "cantsleep/drunkinluv",
+      "url": "https://open.spotify.com/track/5zBSZH5rQrFmZRCFcHKBhh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 910 likes - 79 songs - 4 hr 30 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 919 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,5 +87,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 77 | [Rise Above](https://open.spotify.com/track/1k0XOuHNzU3xsv7FtqMhuu) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 3:22 |
 | 78 | [Caral](https://open.spotify.com/track/6abL28H0A5muvw4b4FtnT6) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Caral](https://open.spotify.com/album/0oK9L6z2HCW9bjh4y8BTyd) | 8:18 |
 | 79 | [Aint No Thang](https://open.spotify.com/track/5TTn1CjPZag045kau3pHq1) | [2 Fluent](https://open.spotify.com/artist/5AYYWcl9xFh98nIzBMJIFC), [Big JAY](https://open.spotify.com/artist/6O8OEBw37xbbAgXi1ATE9F) | [Aint No Thang](https://open.spotify.com/album/3xcszjlZWpwgYbOFrdBn7q) | 2:59 |
+| 80 | [Addressed To Me](https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Addressed To Me](https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6) | 3:47 |
 
-Snapshot ID: `AAAD6oL5Lwa6EwHHW9TBXdOG82MsRwKc`
+Snapshot ID: `AAAD63mejdySJdZhdfcFiCKE8L2xqd4o`

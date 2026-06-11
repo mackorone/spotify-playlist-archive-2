@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Mujeres de los Andes, a todo volumen! Con una selecci\u00f3n de Coraz\u00f3n Serrano.\n",
+  "description": "\u00a1Mujeres de los Andes, a todo volumen! Con Dayanara en portada.\n",
   "name": "EQUAL Andes",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 144238,
       "name": "7 VIDAS",
       "url": "https://open.spotify.com/track/05SMZYHVJ00uC5z2rR1x4y"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 156714,
       "name": "Aguar\u00e1chate",
       "url": "https://open.spotify.com/track/5zxQOlEtF759QnUzq43f7v"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 228198,
       "name": "Am\u00e1ndote (Cumbia) - En Vivo",
       "url": "https://open.spotify.com/track/6zkoKosTmVEYUBjgPNNr94"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 156532,
       "name": "Ataque de Ansiedad (Arial 5)",
       "url": "https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18"
@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 271435,
       "name": "BROKEN",
       "url": "https://open.spotify.com/track/3TWxBXRLQTPNr2E2wOop68"
@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 247586,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/14tPvf6x2Mq9veAt9aVeBB"
@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 310102,
       "name": "Corta Venas",
       "url": "https://open.spotify.com/track/2VPuxws8H5NMsjMtwWwjxh"
@@ -2812,7 +2812,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 209237,
       "name": "Cypher 1: Ella (feat. Delfina Dib)",
       "url": "https://open.spotify.com/track/1syrgjPK0foTlggQJJ48GY"
@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 184134,
       "name": "De X Vida",
       "url": "https://open.spotify.com/track/7KdlLGCuAA25rzatYxDNHM"
@@ -3278,7 +3278,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 230893,
       "name": "Deja",
       "url": "https://open.spotify.com/track/2ik8UFH9uZK065mFeoQoz9"
@@ -3354,7 +3354,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 189583,
       "name": "desahogo",
       "url": "https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi"
@@ -3586,7 +3586,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 170500,
       "name": "Divina",
       "url": "https://open.spotify.com/track/1NAgDYYsxOKEcGHK59aZVG"
@@ -3825,6 +3825,24 @@
     },
     {
       "album": {
+        "name": "TERAPIA",
+        "url": "https://open.spotify.com/album/5vGmuVlclYBaBDZNDyBv9h"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176632,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/0ZV9EWaURxVwWJn7nzkxM9"
+    },
+    {
+      "album": {
         "name": "El Karma",
         "url": "https://open.spotify.com/album/6C9xQuTD01lOujdRjYYwqx"
       },
@@ -3912,7 +3930,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 247043,
       "name": "el tiempo pasa r\u00e1pido",
       "url": "https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1"
@@ -4260,7 +4278,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Era para Siempre - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/1jK86Rru97CbtLLRNsbcIz"
@@ -4336,7 +4354,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 151280,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/5LYoS1KD4ce78Y1PvP7tIL"
@@ -5410,7 +5428,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 217506,
       "name": "Ilusi\u00f3n",
       "url": "https://open.spotify.com/track/4ZCZW8brZm6NdLWhMatMmn"
@@ -5984,7 +6002,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 156027,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN"
@@ -6038,7 +6056,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 180681,
       "name": "La Patrona",
       "url": "https://open.spotify.com/track/47v4Q3tdPs89izWCpbuFpG"
@@ -6060,7 +6078,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 127000,
       "name": "La reina del Delay",
       "url": "https://open.spotify.com/track/1FVsv54y4J2gQ5uiCryrr4"
@@ -6172,7 +6190,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 238217,
       "name": "La Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/1k10e2nce5iUzPpZDdFKzo"
@@ -6216,7 +6234,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 271691,
       "name": "La Teta Pirata",
       "url": "https://open.spotify.com/track/1VM0zSdOxcFQ0i2bfv39Ql"
@@ -6462,7 +6480,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 178326,
       "name": "Lib\u00e9ralo",
       "url": "https://open.spotify.com/track/3K4d84LJBpW0JIXqJMlMdi"
@@ -7060,7 +7078,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 174730,
       "name": "Mango",
       "url": "https://open.spotify.com/track/5PByWI5xUAOgGiLZKWY0tw"
@@ -7780,7 +7798,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 186373,
       "name": "mimos",
       "url": "https://open.spotify.com/track/7IfodLxOCtLaeW8AS1SJ4r"
@@ -8006,7 +8024,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 153360,
       "name": "Mucho Pa Ti",
       "url": "https://open.spotify.com/track/1MbDm22W7TbwPNythT3LI9"
@@ -8378,7 +8396,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 256146,
       "name": "Negra Presentuosa",
       "url": "https://open.spotify.com/track/3jooX1EZOvGdaYaG52c6YS"
@@ -8735,6 +8753,28 @@
     },
     {
       "album": {
+        "name": "TERAPIA",
+        "url": "https://open.spotify.com/album/5vGmuVlclYBaBDZNDyBv9h"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        },
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "No Ser\u00e1 Tan F\u00e1cil",
+      "url": "https://open.spotify.com/track/7ebmJrkQqGaZ1Q3QlDy5T6"
+    },
+    {
+      "album": {
         "name": "No ser\u00e1 tan f\u00e1cil",
         "url": "https://open.spotify.com/album/0hz0nWmyDOOhlnEmMO3xKd"
       },
@@ -8750,7 +8790,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 175135,
       "name": "No ser\u00e1 tan f\u00e1cil",
       "url": "https://open.spotify.com/track/7yfyNiC49ss9R6bnBlbk1W"
@@ -8830,7 +8870,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 242516,
       "name": "No te preocupes por m\u00ed",
       "url": "https://open.spotify.com/track/1E3DXXzD4jFpd03DS25av8"
@@ -9634,7 +9674,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 158894,
       "name": "Piketona (with Kim Loaiza)",
       "url": "https://open.spotify.com/track/0MBbWL85frwcC7hKCQm4r7"
@@ -9710,7 +9750,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 415972,
       "name": "Poco yo (Remix) [En Vivo]",
       "url": "https://open.spotify.com/track/7cgLDcztpVFSfIRcNeVWaO"
@@ -9854,7 +9894,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 221898,
       "name": "Punto final",
       "url": "https://open.spotify.com/track/2MuIMeW9TGpplCIFiYuuEC"
@@ -9944,7 +9984,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 324243,
       "name": "Que Lindo Son Tus Ojos",
       "url": "https://open.spotify.com/track/7MocJmOLDqA1uFS8CjyEy8"
@@ -10182,7 +10222,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 216800,
       "name": "Rabia",
       "url": "https://open.spotify.com/track/1GFGKmCrG2LjXZCah0i8mG"
@@ -10280,7 +10320,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 193666,
       "name": "Refugio",
       "url": "https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA"
@@ -10602,7 +10642,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 218470,
       "name": "Salud Hermana",
       "url": "https://open.spotify.com/track/0kdaQSJkdOV5A63ThInnHB"
@@ -10710,7 +10750,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 266000,
       "name": "Se Que Te Amar\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/6aDvVWzIdLha959Dk7WNZ6"
@@ -10800,7 +10840,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 269231,
       "name": "Se\u00f1or Mentira",
       "url": "https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno"
@@ -10818,7 +10858,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
@@ -10970,7 +11010,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 194004,
       "name": "Sigo Sigo",
       "url": "https://open.spotify.com/track/32MCRySBRiA3uLJTOCthQ5"
@@ -11114,7 +11154,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 164605,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/00712Rn0RgSo6wuhHZLulb"
@@ -11416,7 +11456,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 189028,
       "name": "Te Lo Digo En Cumbia",
       "url": "https://open.spotify.com/track/1HcFU8Ws0l5tu3lipWkW5t"
@@ -11564,7 +11604,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 187945,
       "name": "Te Vas Y No Volver\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/3zGNI1bZHtAySkEILkkIOu"
@@ -11582,7 +11622,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
@@ -11690,7 +11730,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 184096,
       "name": "Tijeras II",
       "url": "https://open.spotify.com/track/2chQ95IUc3olVKZ2UYk5jo"
@@ -12215,6 +12255,24 @@
     },
     {
       "album": {
+        "name": "TERAPIA",
+        "url": "https://open.spotify.com/album/5vGmuVlclYBaBDZNDyBv9h"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206149,
+      "name": "T\u00fa la Vas a Pagar (TLVP)",
+      "url": "https://open.spotify.com/track/7haOlEsoyiFiPT3AdTOkVZ"
+    },
+    {
+      "album": {
         "name": "Ubalauka",
         "url": "https://open.spotify.com/album/4fMI5YS8cD4aDJGoKx0xZI"
       },
@@ -12498,7 +12556,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 190214,
       "name": "Vals a Mi Fantasma",
       "url": "https://open.spotify.com/track/4y0SthPdxZ7uWLezaVe18t"
@@ -12560,7 +12618,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 186750,
       "name": "VAMPIRA RPS",
       "url": "https://open.spotify.com/track/7spC95h1Z4YLCZpdfMjAJR"
@@ -13056,7 +13114,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 174546,
       "name": "\u00bfC\u00f3mo Pas\u00f3?",
       "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"

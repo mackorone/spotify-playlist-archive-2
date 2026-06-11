@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 1022325,
+  "num_followers": 1022427,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAAuKleFRmUAnVvwzdn5kZbz",
+  "snapshot_id": "aidXgAAAAAAZp+hIef+gjROAABQx034P",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Peor De Tus Antojos",
-        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 202786,
-      "name": "Juanita (Flor De Walamo)",
-      "url": "https://open.spotify.com/track/242lyf8OjxomhjLpeas75s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Nuevas Baladas",
         "url": "https://open.spotify.com/album/2h3DQl3byNnb8XWKG47QIJ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 188917,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/0TsaZiBZQrnRv7evhnSNd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Peor De Tus Antojos",
+        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 202786,
+      "name": "Juanita (Flor De Walamo)",
+      "url": "https://open.spotify.com/track/242lyf8OjxomhjLpeas75s"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 14241,
+  "num_followers": 14260,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAACL2YVouO8hH+Xi7Po4HZJQ",
+  "snapshot_id": "aidXgAAAAADDkZAfI1CrZiC3M3W465Nj",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fall That Saved Us",
-        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 170013,
-      "name": "Nights In The Sun (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love is the New Gangsta",
         "url": "https://open.spotify.com/album/0P7rfrcXTzQwUR9q1nTDpq"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 182173,
       "name": "On Me (with Odeal)",
       "url": "https://open.spotify.com/track/6JoEoLh7ZS7Yx2DTnaPA9A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fall That Saved Us",
+        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 170013,
+      "name": "Nights In The Sun (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holier (SHOWBIZ)",
-        "url": "https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG"
-      },
-      "artists": [
-        {
-          "name": "Olli P",
-          "url": "https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 146165,
-      "name": "Holier (SHOWBIZ)",
-      "url": "https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anxious (feat. Odeal & Wizkid)",
         "url": "https://open.spotify.com/album/6jp5LxG8lGxuetjqdJy10g"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 227266,
       "name": "Anxious (feat. Odeal & Wizkid)",
       "url": "https://open.spotify.com/track/5JcLoePE4FisG4y5vLRXzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holier (SHOWBIZ)",
+        "url": "https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG"
+      },
+      "artists": [
+        {
+          "name": "Olli P",
+          "url": "https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 146165,
+      "name": "Holier (SHOWBIZ)",
+      "url": "https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 107223,
+      "name": "Sondela",
+      "url": "https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 148467,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 107223,
-      "name": "Sondela",
-      "url": "https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Voice",
-  "num_followers": 247629,
+  "num_followers": 247667,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
+        "name": "Wotless Carnival Album",
+        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 218228,
+      "name": "Wotless",
+      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
         "name": "Doux Doux Darlin",
         "url": "https://open.spotify.com/album/2UKUrjsnHJx0B4V4Po68sM"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 192601,
       "name": "Doux Doux Darlin",
       "url": "https://open.spotify.com/track/77efykPXrKPWQUVN7CTvPa"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
-        "name": "Wotless Carnival Album",
-        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 218228,
-      "name": "Wotless",
-      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
+        "name": "Face Beat",
+        "url": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM"
+      },
+      "artists": [
+        {
+          "name": "Father Philis",
+          "url": "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
+        }
+      ],
+      "duration_ms": 143789,
+      "name": "Face Beat",
+      "url": "https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
         "name": "The Queen of Bacchanal",
         "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 141296,
       "name": "Soca Start",
       "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
-        "name": "Face Beat",
-        "url": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM"
-      },
-      "artists": [
-        {
-          "name": "Father Philis",
-          "url": "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
-        }
-      ],
-      "duration_ms": 143789,
-      "name": "Face Beat",
-      "url": "https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Soca Savage",
-        "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
-      },
-      "artists": [
-        {
-          "name": "Arrow",
-          "url": "https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Dutty Dutty Riddim",
         "url": "https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 169743,
       "name": "Take Bamboo",
       "url": "https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Soca Savage",
+        "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
+      },
+      "artists": [
+        {
+          "name": "Arrow",
+          "url": "https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm"
+        }
+      ],
+      "duration_ms": 233116,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1771,22 +1771,18 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/3pEALunB4gXhOUfAuP0Z5g"
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
       },
       "artists": [
         {
-          "name": "Certified Sampson",
-          "url": "https://open.spotify.com/artist/7Er5Bbp9JMbSzapxQ77Ygm"
-        },
-        {
-          "name": "Sekon Sta",
-          "url": "https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk"
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
         }
       ],
-      "duration_ms": 204223,
-      "name": "EUPHORIA",
-      "url": "https://open.spotify.com/track/6PvhVJuL4TN3NJN0RWa4WA"
+      "duration_ms": 196557,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
     }
   ],
   "unique_name": "Massive Soca Hits",

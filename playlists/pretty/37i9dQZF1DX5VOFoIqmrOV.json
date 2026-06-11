@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Court",
-  "num_followers": 459556,
+  "num_followers": 459592,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -921,30 +921,6 @@
       "url": "https://open.spotify.com/track/3XwpSZtT3clAjJqVW0Cgoi"
     },
     {
-      "added_at": "2023-05-04 06:50:45",
-      "album": {
-        "name": "Dasara (Telugu)",
-        "url": "https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        },
-        {
-          "name": "Dhee",
-          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
-        }
-      ],
-      "duration_ms": 203052,
-      "name": "Chamkeela Angeelesi",
-      "url": "https://open.spotify.com/track/5nhP1idzo26UhFB9jjlIDE"
-    },
-    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Radhe Shyam (Telugu)",
@@ -971,6 +947,30 @@
       "duration_ms": 232762,
       "name": "Ee Raathale",
       "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
+    },
+    {
+      "added_at": "2023-05-04 06:50:45",
+      "album": {
+        "name": "Dasara (Telugu)",
+        "url": "https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        }
+      ],
+      "duration_ms": 203052,
+      "name": "Chamkeela Angeelesi",
+      "url": "https://open.spotify.com/track/5nhP1idzo26UhFB9jjlIDE"
     },
     {
       "added_at": "2022-08-16 07:40:21",
@@ -1835,6 +1835,26 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
+      },
+      "artists": [
+        {
+          "name": "Madhu Priya",
+          "url": "https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY"
+        },
+        {
+          "name": "Ramky",
+          "url": "https://open.spotify.com/artist/0T6ky5WnBqEazCMELEcQbn"
+        }
+      ],
+      "duration_ms": 324546,
+      "name": "Vachinde",
+      "url": "https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
         "name": "Son Of Satyamurthy",
         "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
       },
@@ -1855,26 +1875,6 @@
       "duration_ms": 278188,
       "name": "Super Machi",
       "url": "https://open.spotify.com/track/3WTHnUPLqVZXSw54PFLtiL"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Fidaa",
-        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
-      },
-      "artists": [
-        {
-          "name": "Madhu Priya",
-          "url": "https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY"
-        },
-        {
-          "name": "Ramky",
-          "url": "https://open.spotify.com/artist/0T6ky5WnBqEazCMELEcQbn"
-        }
-      ],
-      "duration_ms": 324546,
-      "name": "Vachinde",
-      "url": "https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH"
     },
     {
       "added_at": "2023-08-07 09:11:28",

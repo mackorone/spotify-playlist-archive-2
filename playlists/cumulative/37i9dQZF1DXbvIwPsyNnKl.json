@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Nik Makino",
+  "description": "The best of Pinoy hip-hop. KALYE Natin 'To. Cover: Flow G",
   "name": "KALYE",
   "tracks": [
     {
@@ -148,7 +148,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 141950,
       "name": "26Freestyle",
       "url": "https://open.spotify.com/track/6nAyGcD9YYExwECvqeTtOL"
@@ -951,6 +951,24 @@
     },
     {
       "album": {
+        "name": "Ayoko Maging Kaibigan",
+        "url": "https://open.spotify.com/album/4Ys1gxmMQim8Zay3p9UNhf"
+      },
+      "artists": [
+        {
+          "name": "kiddotin",
+          "url": "https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166129,
+      "name": "Ayoko Maging Kaibigan",
+      "url": "https://open.spotify.com/track/6AIACiACh45NhUyAWKwqql"
+    },
+    {
+      "album": {
         "name": "B4 I LET YOU GO",
         "url": "https://open.spotify.com/album/7JYV3pHS2CmhJmnRI9ga3F"
       },
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 219428,
       "name": "BAG",
       "url": "https://open.spotify.com/track/5IASWxkcRGVOqkeYp4bnOL"
@@ -1515,6 +1533,28 @@
     },
     {
       "album": {
+        "name": "BUMAWI KA NA LANG",
+        "url": "https://open.spotify.com/album/0xRtVCLv1ed3neXdr1PQKk"
+      },
+      "artists": [
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        },
+        {
+          "name": "Guddhist Gunatita",
+          "url": "https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230141,
+      "name": "BUMAWI KA NA LANG",
+      "url": "https://open.spotify.com/track/4suI2iYYfsYKYH3aaUsF7H"
+    },
+    {
+      "album": {
         "name": "Buong Ako Sayo",
         "url": "https://open.spotify.com/album/1MNUWaqszKt8l5fqPU49pu"
       },
@@ -1758,6 +1798,32 @@
       "duration_ms": 298507,
       "name": "CITY OF REDS",
       "url": "https://open.spotify.com/track/5z8OIkNf34G2wCDsN2cNva"
+    },
+    {
+      "album": {
+        "name": "CR3W",
+        "url": "https://open.spotify.com/album/77QmHN2ttnpdtCJ3deR3AD"
+      },
+      "artists": [
+        {
+          "name": "Slick V",
+          "url": "https://open.spotify.com/artist/1is3Qef9QssY4jS4Yfz8AM"
+        },
+        {
+          "name": "Matteyo",
+          "url": "https://open.spotify.com/artist/6AOsrmODyI5Bt3jGhMOZqS"
+        },
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "CR3W",
+      "url": "https://open.spotify.com/track/5Tp2b3NBMLF2qm2nhxiSFc"
     },
     {
       "album": {
@@ -2074,6 +2140,28 @@
       "duration_ms": 257441,
       "name": "Dikapamigay",
       "url": "https://open.spotify.com/track/5bEoMNE8AuautKnCVKHyxf"
+    },
+    {
+      "album": {
+        "name": "DOET",
+        "url": "https://open.spotify.com/album/3jCZqy3WXrOo73FI3rLLdO"
+      },
+      "artists": [
+        {
+          "name": "Xaint",
+          "url": "https://open.spotify.com/artist/76Fv5x1GEVrSXrsIHQxA4c"
+        },
+        {
+          "name": "Jeko Royo",
+          "url": "https://open.spotify.com/artist/5HX42nUgvxmShHsxivaApm"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195688,
+      "name": "DOET",
+      "url": "https://open.spotify.com/track/3BUgSPP81wY0nTM7SKwqsI"
     },
     {
       "album": {
@@ -4504,7 +4592,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 100440,
       "name": "LOBAT",
       "url": "https://open.spotify.com/track/4Oai6CNbyktfWoRCjXU7eh"
@@ -5016,6 +5104,24 @@
       "duration_ms": 152066,
       "name": "Malaking P - Rich N**** Shit Remix",
       "url": "https://open.spotify.com/track/3UsQ5xVmuxXhZkJOJbVDed"
+    },
+    {
+      "album": {
+        "name": "Malapit Sa Kawalan",
+        "url": "https://open.spotify.com/album/12O8kbvx67eWuBNjdVjtSa"
+      },
+      "artists": [
+        {
+          "name": "Haring Manggi Miguelito Malakas",
+          "url": "https://open.spotify.com/artist/35iAv7gjtl1bEwuZp7X0Wa"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214136,
+      "name": "Malapit Sa Kawalan",
+      "url": "https://open.spotify.com/track/2tZdtwqjmMHyXOZSsIojtP"
     },
     {
       "album": {
@@ -6086,7 +6192,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 200878,
       "name": "Pano Na",
       "url": "https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY"
@@ -7519,6 +7625,24 @@
     },
     {
       "album": {
+        "name": "Sorry Naman",
+        "url": "https://open.spotify.com/album/7dn99rioQFtjUHHx5Bxwg6"
+      },
+      "artists": [
+        {
+          "name": "GA Chillerong Ghetto",
+          "url": "https://open.spotify.com/artist/3F76U6bJP4xJrxHqB0j8al"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150447,
+      "name": "Sorry Naman",
+      "url": "https://open.spotify.com/track/3jouxJfzi00KV9lXG2IF7P"
+    },
+    {
+      "album": {
         "name": "Southside Luv",
         "url": "https://open.spotify.com/album/7H0NRJAeOFs2RhL1vhVx5I"
       },
@@ -7578,7 +7702,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 141104,
       "name": "STICK",
       "url": "https://open.spotify.com/track/15dgSP1ienCby6pO2uONjm"
@@ -8442,7 +8566,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 149600,
       "name": "TYPE G",
       "url": "https://open.spotify.com/track/0djcOLEtzLk2zgpLZW2QqB"
@@ -8460,7 +8584,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 81003,
       "name": "ULE",
       "url": "https://open.spotify.com/track/4wM6llqPg29vBCDbHOqAL7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Taylor Swift, Malcolm Todd, Alex Warren, Yusry, Andi Bernadee, SHINee, MAMAMOO and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,973 likes - 77 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,965 likes - 77 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

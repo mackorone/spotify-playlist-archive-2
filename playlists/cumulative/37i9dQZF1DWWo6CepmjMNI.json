@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: HAPPILY",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JOY\u00c9",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -1778,7 +1778,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 150526,
       "name": "\u0e04\u0e2d\u0e19\u0e40\u0e2a\u0e34\u0e23\u0e4c\u0e15\u0e40\u0e25\u0e47\u0e01 (our concert)",
       "url": "https://open.spotify.com/track/5ml3Eo88k00gSP1ZwWQEZT"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 270431,
       "name": "\u0e04\u0e33\u0e16\u0e32\u0e21\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/0NXI3kNFrJTzElpDYp3K0D"
@@ -1872,6 +1872,24 @@
       "duration_ms": 257726,
       "name": "\u0e04\u0e37\u0e19\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/0eaMXaoL2DH75hhl2pYpbt"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e37\u0e19\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (Dry Tears)",
+        "url": "https://open.spotify.com/album/4Ok5y1q66hdEGLABRODRk4"
+      },
+      "artists": [
+        {
+          "name": "JOYE",
+          "url": "https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262368,
+      "name": "\u0e04\u0e37\u0e19\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (Dry Tears)",
+      "url": "https://open.spotify.com/track/7b4UykY12qcPV6B2QGq3ps"
     },
     {
       "album": {
@@ -4927,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e02\u0e32\u0e44\u0e21\u0e48\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27 (Flow)",
+        "url": "https://open.spotify.com/album/69NG9x27wj8Jt3bD1QWhW3"
+      },
+      "artists": [
+        {
+          "name": "CURS",
+          "url": "https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205376,
+      "name": "\u0e40\u0e02\u0e32\u0e44\u0e21\u0e48\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27 (Flow)",
+      "url": "https://open.spotify.com/track/5lMSabl9pbXxxW6IM7GCPB"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e04\u0e22",
         "url": "https://open.spotify.com/album/1tNCbUIKysKQPVtbcAJ9is"
       },
@@ -4996,6 +5032,24 @@
       "duration_ms": 250000,
       "name": "\u0e40\u0e08\u0e47\u0e1a\u0e40\u0e08\u0e35\u0e22\u0e19\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/6zohPB1L4PuKKa6R12KzXs"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e08\u0e4b\u0e07\u0e40\u0e1b\u0e49\u0e07",
+        "url": "https://open.spotify.com/album/3gaKrAChWoHe5SbFw9Gi2j"
+      },
+      "artists": [
+        {
+          "name": "CORNBOI",
+          "url": "https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186416,
+      "name": "\u0e40\u0e08\u0e4b\u0e07\u0e40\u0e1b\u0e49\u0e07",
+      "url": "https://open.spotify.com/track/6DIh4W9AhBe0AwIhBOKtTK"
     },
     {
       "album": {
@@ -5630,7 +5684,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 210000,
       "name": "\u0e41\u0e1e\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e43\u0e19\u0e2b\u0e31\u0e27 (Hello There)",
       "url": "https://open.spotify.com/track/3MDBApR4v7NT9EbbY7UY7R"

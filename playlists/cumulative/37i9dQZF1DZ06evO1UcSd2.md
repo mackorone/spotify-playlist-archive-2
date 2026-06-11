@@ -4,7 +4,7 @@
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-149 songs - 7 hr 42 min
+150 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,8 +141,9 @@
 | [Soy Mencho](https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:00 | 2022-06-01 |  |
 | [Tamaulipas](https://open.spotify.com/track/4px78vJGkCKD6khhA8CUBp) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Golpe De Guerra](https://open.spotify.com/artist/0QPszxtOMuPoAcAU4yyt2V) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 3:09 | 2023-01-31 | 2023-08-24 |
 | [Te Atreves A Pecar](https://open.spotify.com/track/3PUBzloHZxJseSDkuNdl5X) | [Los Bohemios de Sinaloa](https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Te Atreves A Pecar](https://open.spotify.com/album/1aOpxtDib9iNhjwJdQTqIy) | 2:52 | 2025-12-13 | 2026-03-08 |
-| [Te Vas ALV](https://open.spotify.com/track/1HuYWMlXbQfS7aMLzKUi8m) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Aroma a Alcohol](https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm) | 2:44 | 2026-05-03 |  |
+| [Te Vas ALV](https://open.spotify.com/track/1HuYWMlXbQfS7aMLzKUi8m) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Aroma a Alcohol](https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm) | 2:44 | 2026-05-03 | 2026-06-11 |
 | [The King of Ice](https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 2:59 | 2022-10-12 |  |
+| [Titular](https://open.spotify.com/track/6coDVmtstHCQJLknlcCuUF) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe), [Tu Musica](https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa) | [Titular](https://open.spotify.com/album/25FBGuSUJGy0HBKQrGUmvC) | 2:43 | 2026-06-11 |  |
 | [Todo Lo Fue](https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 3:12 | 2024-06-01 |  |
 | [Tres Veladoras](https://open.spotify.com/track/33LditL7EZ5vKznmF9aQQo) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Tres Veladoras](https://open.spotify.com/album/3OC7oVqxubQ4qODYQpUk9o) | 3:28 | 2026-02-22 | 2026-05-28 |
 | [Tres Veladoras](https://open.spotify.com/track/4Ua4dmFPenv0xlDK8sIEQN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Aroma a Alcohol](https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm) | 3:28 | 2026-05-28 |  |

@@ -2276,7 +2276,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 127256,
       "name": "AKI KIKI",
       "url": "https://open.spotify.com/track/62QghWWjNMx29kAl33WJkz"
@@ -16268,7 +16268,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 191250,
       "name": "ella no es\u2026",
       "url": "https://open.spotify.com/track/0R5AEnzv8JHqDt1dVP3vzH"
@@ -19986,6 +19986,24 @@
       "duration_ms": 139688,
       "name": "Ganas de Dejarte",
       "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
+    },
+    {
+      "album": {
+        "name": "garden",
+        "url": "https://open.spotify.com/album/2uZQ9xiJnKy1TCTaOdBfGK"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "garden",
+      "url": "https://open.spotify.com/track/11sRSIkYZckr2QnPPNqss5"
     },
     {
       "album": {
@@ -29350,7 +29368,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 182167,
       "name": "Menina",
       "url": "https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh"
@@ -36885,6 +36903,24 @@
     },
     {
       "album": {
+        "name": "in this body",
+        "url": "https://open.spotify.com/album/6haYphkZdT3j3DvhWcAemW"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156909,
+      "name": "penso en voce",
+      "url": "https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow"
+    },
+    {
+      "album": {
         "name": "MIS PLANTAS MUERTAS",
         "url": "https://open.spotify.com/album/480v7YXnoev8J08UBgA1vs"
       },
@@ -37168,6 +37204,24 @@
       "duration_ms": 278140,
       "name": "Permanecer\u00e1",
       "url": "https://open.spotify.com/track/60ZFS3cjBOz3EHnrEtzKT5"
+    },
+    {
+      "album": {
+        "name": "Pero Me Da\u00f1aste",
+        "url": "https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214805,
+      "name": "Pero Me Da\u00f1aste",
+      "url": "https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ"
     },
     {
       "album": {
@@ -37972,7 +38026,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 157090,
       "name": "por si volvemos a vernos",
       "url": "https://open.spotify.com/track/7zfMEvobbkGhhMyqSQR0Ab"
@@ -51650,6 +51704,28 @@
       "duration_ms": 168010,
       "name": "x ti x mi",
       "url": "https://open.spotify.com/track/5IOOB5ZNstaEQojP90rMqj"
+    },
+    {
+      "album": {
+        "name": "Xclusiva",
+        "url": "https://open.spotify.com/album/6NW4zfoKjaAFrvToVOo9zU"
+      },
+      "artists": [
+        {
+          "name": "MXKA",
+          "url": "https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO"
+        },
+        {
+          "name": "JM4C",
+          "url": "https://open.spotify.com/artist/7mzxtrqvFQDYM7t13CBJEr"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141215,
+      "name": "Xclusiva",
+      "url": "https://open.spotify.com/track/1SSPi9BhhaIS1SlVkHXg1y"
     },
     {
       "album": {

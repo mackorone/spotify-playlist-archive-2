@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 282807,
+  "num_followers": 282834,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -567,8 +567,8 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
-        "name": "Let Him Go (Tinie Tempah & Bugzy Malone Remix)",
-        "url": "https://open.spotify.com/album/6orblS4EwZUc6GjURxdebx"
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/48cUtMWSyrz04CmJDJrkTb"
       },
       "artists": [
         {
@@ -576,21 +576,13 @@
           "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
         },
         {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        },
-        {
-          "name": "Bugzy Malone",
-          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
-        },
-        {
           "name": "Cru2",
           "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
         }
       ],
-      "duration_ms": 164475,
-      "name": "Let Him Go - Tinie Tempah & Bugzy Malone Remix",
-      "url": "https://open.spotify.com/track/4vu7IHID9cxoYDQkX0TfNe"
+      "duration_ms": 152142,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0o8QnRcmXgQsQK7uxpu7oE"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -675,8 +667,8 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/48cUtMWSyrz04CmJDJrkTb"
+        "name": "Let Him Go (Tinie Tempah & Bugzy Malone Remix)",
+        "url": "https://open.spotify.com/album/6orblS4EwZUc6GjURxdebx"
       },
       "artists": [
         {
@@ -684,13 +676,21 @@
           "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
         },
         {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Bugzy Malone",
+          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
+        },
+        {
           "name": "Cru2",
           "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
         }
       ],
-      "duration_ms": 152142,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/0o8QnRcmXgQsQK7uxpu7oE"
+      "duration_ms": 164475,
+      "name": "Let Him Go - Tinie Tempah & Bugzy Malone Remix",
+      "url": "https://open.spotify.com/track/4vu7IHID9cxoYDQkX0TfNe"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
+        "name": "Never Gonna Let You Go",
+        "url": "https://open.spotify.com/album/4Qz2OUHDJxPQ5C1A3zmPCw"
+      },
+      "artists": [
+        {
+          "name": "JKAY",
+          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Never Gonna Let You Go",
+      "url": "https://open.spotify.com/track/4MS1iRCJAcQLXmZPAyFMHh"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
         "name": "BANGERS ONLY",
         "url": "https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 246760,
       "name": "Bassline Girl",
       "url": "https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
-        "name": "Never Gonna Let You Go",
-        "url": "https://open.spotify.com/album/4Qz2OUHDJxPQ5C1A3zmPCw"
-      },
-      "artists": [
-        {
-          "name": "JKAY",
-          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "Never Gonna Let You Go",
-      "url": "https://open.spotify.com/track/4MS1iRCJAcQLXmZPAyFMHh"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -879,6 +879,26 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
+        "name": "SEND IT",
+        "url": "https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v"
+      },
+      "artists": [
+        {
+          "name": "SEMPA",
+          "url": "https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "SEND IT",
+      "url": "https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 193361,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/3mlWa4kG7dOeO509aLJUfY"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
-        "name": "SEND IT",
-        "url": "https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v"
-      },
-      "artists": [
-        {
-          "name": "SEMPA",
-          "url": "https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ"
-        },
-        {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "SEND IT",
-      "url": "https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
-        "name": "I Would Like (Chad Harrison Remix)",
-        "url": "https://open.spotify.com/album/4xxWSRWNVwwJioB2mzUq1s"
-      },
-      "artists": [
-        {
-          "name": "JKAY",
-          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
-        },
-        {
-          "name": "Chad Harrison",
-          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
-        }
-      ],
-      "duration_ms": 187708,
-      "name": "I Would Like - Chad Harrison Remix",
-      "url": "https://open.spotify.com/track/6sg47dyQ26ACbci6MmTBoy"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
         "name": "Fallin",
         "url": "https://open.spotify.com/album/1TX16n2fknSoxjg4vLNElA"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 235500,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/4eABAb9LRPORxqPAHcbvMw"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
+        "name": "I Would Like (Chad Harrison Remix)",
+        "url": "https://open.spotify.com/album/4xxWSRWNVwwJioB2mzUq1s"
+      },
+      "artists": [
+        {
+          "name": "JKAY",
+          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
+        },
+        {
+          "name": "Chad Harrison",
+          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
+        }
+      ],
+      "duration_ms": 187708,
+      "name": "I Would Like - Chad Harrison Remix",
+      "url": "https://open.spotify.com/track/6sg47dyQ26ACbci6MmTBoy"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
-        "name": "No Lie (BL3SS Remix)",
-        "url": "https://open.spotify.com/album/4gXdY9TJSuPpB6iz6EHV0Q"
-      },
-      "artists": [
-        {
-          "name": "Harry T",
-          "url": "https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa"
-        },
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        }
-      ],
-      "duration_ms": 134166,
-      "name": "No Lie - BL3SS Remix",
-      "url": "https://open.spotify.com/track/7AnOBJM8YP6DJyo1l8jt6u"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
         "name": "Club Orthodontics",
         "url": "https://open.spotify.com/album/2H9QqWVpc5FwkrIZzCPWG3"
       },
@@ -1103,6 +1083,46 @@
       "duration_ms": 152871,
       "name": "No Chase",
       "url": "https://open.spotify.com/track/6mFBj2KS2sWIBFya5dO36K"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
+        "name": "No Lie (BL3SS Remix)",
+        "url": "https://open.spotify.com/album/4gXdY9TJSuPpB6iz6EHV0Q"
+      },
+      "artists": [
+        {
+          "name": "Harry T",
+          "url": "https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa"
+        },
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        }
+      ],
+      "duration_ms": 134166,
+      "name": "No Lie - BL3SS Remix",
+      "url": "https://open.spotify.com/track/7AnOBJM8YP6DJyo1l8jt6u"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
+        "name": "Combat (feat. Gardna)",
+        "url": "https://open.spotify.com/album/1JhrnCt2mtkLDx6V7RU2tG"
+      },
+      "artists": [
+        {
+          "name": "Declan Knapp",
+          "url": "https://open.spotify.com/artist/1dvBU2hQV77ywL1HTIA0O4"
+        },
+        {
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Combat (feat. Gardna)",
+      "url": "https://open.spotify.com/track/6skKv1NTay0aBQhfLX5dP1"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -1135,26 +1155,6 @@
       "duration_ms": 214285,
       "name": "Take No Chat",
       "url": "https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
-        "name": "Combat (feat. Gardna)",
-        "url": "https://open.spotify.com/album/1JhrnCt2mtkLDx6V7RU2tG"
-      },
-      "artists": [
-        {
-          "name": "Declan Knapp",
-          "url": "https://open.spotify.com/artist/1dvBU2hQV77ywL1HTIA0O4"
-        },
-        {
-          "name": "Gardna",
-          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Combat (feat. Gardna)",
-      "url": "https://open.spotify.com/track/6skKv1NTay0aBQhfLX5dP1"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
-        "name": "BANGERS ONLY",
-        "url": "https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 188142,
-      "name": "Try & Escape",
-      "url": "https://open.spotify.com/track/0cNDDA6wf2JRpLaKDcPMPl"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
         "name": "Head's Gone",
         "url": "https://open.spotify.com/album/5DSYVYwmhBUHTfoe4CyBnc"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 148124,
       "name": "Head's Gone",
       "url": "https://open.spotify.com/track/3bZ30vr6E19I2p1RPHAsFJ"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
+        "name": "BANGERS ONLY",
+        "url": "https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "Try & Escape",
+      "url": "https://open.spotify.com/track/0cNDDA6wf2JRpLaKDcPMPl"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/3zDD4cySzEQjL8L8Z85Tw6"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 237772,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/0QbrC79RH2z5DAramKLDrE"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
         "name": "Lovesick",
         "url": "https://open.spotify.com/album/6714860pGAmNimPSUT0GWN"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 275962,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/2f0bZbD4u8HX3Kn7PjKi6C"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/3zDD4cySzEQjL8L8Z85Tw6"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 237772,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/0QbrC79RH2z5DAramKLDrE"
     },
     {
       "added_at": "2026-05-29 11:02:46",

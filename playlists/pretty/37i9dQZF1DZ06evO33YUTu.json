@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 133467,
+  "num_followers": 133496,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAACBUqusPBRSGvq/Gn++lHz8",
+  "snapshot_id": "aidXgAAAAAC8c0/amLC20D6itLTCKptT",
   "tracks": [
     {
       "added_at": null,
@@ -219,18 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Carta",
-        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
       },
       "artists": [
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Branbel",
+          "url": "https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS"
         }
       ],
-      "duration_ms": 202333,
-      "name": "Los Besos",
-      "url": "https://open.spotify.com/track/50SFVefoyzWnJy1oQWfRtr"
+      "duration_ms": 214035,
+      "name": "Al Lado De Usted",
+      "url": "https://open.spotify.com/track/0lsP1iCoXTbXiEGYhmdtnz"
     },
     {
       "added_at": null,
@@ -251,22 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CANDELA",
-        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
       "artists": [
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Branbel",
-          "url": "https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS"
         }
       ],
-      "duration_ms": 214035,
-      "name": "Al Lado De Usted",
-      "url": "https://open.spotify.com/track/0lsP1iCoXTbXiEGYhmdtnz"
+      "duration_ms": 202333,
+      "name": "Los Besos",
+      "url": "https://open.spotify.com/track/50SFVefoyzWnJy1oQWfRtr"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cur\u00e1ndote",
-        "url": "https://open.spotify.com/album/20oYOzxKp2XQZAZ2qLSzJm"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 142021,
-      "name": "Cur\u00e1ndote",
-      "url": "https://open.spotify.com/track/4AJlSjQppatiHS61OrZJd8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minifalda",
         "url": "https://open.spotify.com/album/67Pk3PkpV1j7xYf4dw001k"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 142021,
+      "name": "Cur\u00e1ndote",
+      "url": "https://open.spotify.com/track/2b72ehUzYqeiJG23wpt2Fx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -515,26 +515,6 @@
       "duration_ms": 197076,
       "name": "Mi Pecadito",
       "url": "https://open.spotify.com/track/5MlE71RdbkyVTuC0lvzWst"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CANDELA",
-        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "LA GURU",
-          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
-        }
-      ],
-      "duration_ms": 220709,
-      "name": "No Era M\u00edo",
-      "url": "https://open.spotify.com/track/78KCR6G6TGRfU0U2fxAwN7"
     },
     {
       "added_at": null,
@@ -575,6 +555,26 @@
       "duration_ms": 175853,
       "name": "Lejos Conmigo",
       "url": "https://open.spotify.com/track/4c1gXSj2oEYywSfN6iOwGu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "LA GURU",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+        }
+      ],
+      "duration_ms": 220709,
+      "name": "No Era M\u00edo",
+      "url": "https://open.spotify.com/track/78KCR6G6TGRfU0U2fxAwN7"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Est\u00e1s Enamorando de M\u00ed (Fiesta Remix)",
+        "url": "https://open.spotify.com/album/7gLrC5Ix8bZCFAX2U28tzh"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 135586,
+      "name": "Te Est\u00e1s Enamorando de M\u00ed - Fiesta Remix",
+      "url": "https://open.spotify.com/track/2DBrWAfbqHmyX8iYYm2HLD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 177920,
       "name": "Mala Fama - Remix",
       "url": "https://open.spotify.com/track/1H3o2Pde9RlIa0V2crN3kb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Est\u00e1s Enamorando de M\u00ed (Fiesta Remix)",
-        "url": "https://open.spotify.com/album/7gLrC5Ix8bZCFAX2U28tzh"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 135586,
-      "name": "Te Est\u00e1s Enamorando de M\u00ed - Fiesta Remix",
-      "url": "https://open.spotify.com/track/2DBrWAfbqHmyX8iYYm2HLD"
     },
     {
       "added_at": null,

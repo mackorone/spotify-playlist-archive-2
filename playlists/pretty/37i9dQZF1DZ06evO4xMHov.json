@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAD+S51DFj8PiyjCf6LXeGhy",
+  "snapshot_id": "aidXgAAAAACMloTgkxC+JfN+mNJRiRwj",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gloria A Deus",
+        "url": "https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Portugu\u00eas",
+          "url": "https://open.spotify.com/artist/22De2olWYrU8vpToSBq0Xy"
+        },
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 379803,
+      "name": "Maravilhado",
+      "url": "https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Ele Cres\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
       },
@@ -703,30 +727,6 @@
       "duration_ms": 285120,
       "name": "Estado De Gra\u00e7a (feat. N\u00edvea Soares) - Ao Vivo",
       "url": "https://open.spotify.com/track/4Lsq6TlJTt1pLZ2lTmGrZx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gloria A Deus",
-        "url": "https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship Portugu\u00eas",
-          "url": "https://open.spotify.com/artist/22De2olWYrU8vpToSBq0Xy"
-        },
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 379803,
-      "name": "Maravilhado",
-      "url": "https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acende o Fogo / Eu Me Prostro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 508432,
-      "name": "Acende o Fogo / Eu Me Prostro - Ao Vivo",
-      "url": "https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medley Cora\u00e7\u00e3o Igual ao Teu (Ao Vivo)",
         "url": "https://open.spotify.com/album/5s1zqwFYmzOAVgMtG1n2PK"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 437090,
       "name": "Medley Cora\u00e7\u00e3o Igual ao Teu - Ao Vivo",
       "url": "https://open.spotify.com/track/1o0XzYCjhPLMsQ9PXLwlNH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acende o Fogo / Eu Me Prostro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 508432,
+      "name": "Acende o Fogo / Eu Me Prostro - Ao Vivo",
+      "url": "https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls"
     },
     {
       "added_at": null,

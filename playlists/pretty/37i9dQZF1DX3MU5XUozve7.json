@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1102429,
+  "num_followers": 1102512,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Proper Dose",
+        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 146622,
+      "name": "Keep This Up",
+      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "Nervous Breakdown",
         "url": "https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 202106,
       "name": "History Of A Boring Town",
       "url": "https://open.spotify.com/track/6xOZCV4EPCupXwvqajSKzq"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Proper Dose",
-        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 146622,
-      "name": "Keep This Up",
-      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 187515,
-      "name": "Gave You Everything",
-      "url": "https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "So Long, Astoria",
         "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 230666,
       "name": "In This Diary",
       "url": "https://open.spotify.com/track/3B9W8NK6FiaNZCZFIzLdwo"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 187515,
+      "name": "Gave You Everything",
+      "url": "https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Say It Out Loud",
-        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 158573,
-      "name": "On A Turntable",
-      "url": "https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "23 Singles",
         "url": "https://open.spotify.com/album/49gv3P0lcUjXHc0BJjI3OB"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 200786,
       "name": "I Don't Care As Long As You Sing",
       "url": "https://open.spotify.com/track/15XkE7wBo9JYmpEc757A4E"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Say It Out Loud",
+        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 158573,
+      "name": "On A Turntable",
+      "url": "https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "What I Got",
-      "url": "https://open.spotify.com/track/5nkYHBWXu7KCgcdwP6jcB1"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Never Gonna Die",
         "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 157653,
       "name": "Live While You Can",
       "url": "https://open.spotify.com/track/4YdSK6GVALPUDNij64lZ9F"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/5nkYHBWXu7KCgcdwP6jcB1"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Drink",
-        "url": "https://open.spotify.com/album/2HLp80sHFphInGSgbTWdqd"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 222430,
-      "name": "Drink",
-      "url": "https://open.spotify.com/track/59znVm3764cY4xwUaychMN"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "ROCKNROLL MACHINE",
         "url": "https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 207226,
       "name": "Hurry Up & Die",
       "url": "https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Drink",
+        "url": "https://open.spotify.com/album/2HLp80sHFphInGSgbTWdqd"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 222430,
+      "name": "Drink",
+      "url": "https://open.spotify.com/track/59znVm3764cY4xwUaychMN"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Devil's Kind",
-        "url": "https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps"
-      },
-      "artists": [
-        {
-          "name": "The Longshot",
-          "url": "https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Devil's Kind",
-      "url": "https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Scandinavian Leather",
         "url": "https://open.spotify.com/album/1qK9Xlui8xqhWkMiVPIQbP"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 254226,
       "name": "Fuck The World",
       "url": "https://open.spotify.com/track/1VyXtvIHF8eytwxxDLsE3Z"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Devil's Kind",
+        "url": "https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps"
+      },
+      "artists": [
+        {
+          "name": "The Longshot",
+          "url": "https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "Devil's Kind",
+      "url": "https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS"
     },
     {
       "added_at": "2022-07-26 16:46:12",

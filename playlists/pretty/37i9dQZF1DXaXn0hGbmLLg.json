@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume! June ambassador: <a href=\"spotify:artist:0UMs6dTf23FC2fHc40fXNS\">KI/KI</a>",
-  "num_followers": 14182,
+  "num_followers": 14179,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "I Don't Want To Fall In Love Again",
-        "url": "https://open.spotify.com/album/2YfJNgBCdldfNP1IOwi4Io"
-      },
-      "artists": [
-        {
-          "name": "Isabel van Gelder",
-          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
-        }
-      ],
-      "duration_ms": 191962,
-      "name": "I Don't Want To Fall In Love Again",
-      "url": "https://open.spotify.com/track/54HHg1hkAWyJkS2QFeyOrY"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Safe and Sound",
         "url": "https://open.spotify.com/album/4ww7KYNPOFZBtP60Mj7hPq"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 193766,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/1rPiYTqwFEgpIw9F1Anu0d"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "I Don't Want To Fall In Love Again",
+        "url": "https://open.spotify.com/album/2YfJNgBCdldfNP1IOwi4Io"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "duration_ms": 191962,
+      "name": "I Don't Want To Fall In Love Again",
+      "url": "https://open.spotify.com/track/54HHg1hkAWyJkS2QFeyOrY"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "3.2.1.",
-        "url": "https://open.spotify.com/album/5QXgmXHkvv6q2LHVwD4WQQ"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        }
-      ],
-      "duration_ms": 201395,
-      "name": "3.2.1.",
-      "url": "https://open.spotify.com/track/43rUu8SDkrSuyNiq7NspwF"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Hooligan",
         "url": "https://open.spotify.com/album/6Jjv3eOO6lFgf3XgZj3TdA"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 172137,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/79PNwK58l5fRRifb25yw9n"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "3.2.1.",
+        "url": "https://open.spotify.com/album/5QXgmXHkvv6q2LHVwD4WQQ"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "duration_ms": 201395,
+      "name": "3.2.1.",
+      "url": "https://open.spotify.com/track/43rUu8SDkrSuyNiq7NspwF"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Something Good",
-        "url": "https://open.spotify.com/album/1VZnoa7b6c1mxCCSG6SoGu"
-      },
-      "artists": [
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/4WpNYzTIOjN3Aw6D3n81Rb"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Jeune & Laide",
         "url": "https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 160070,
       "name": "Autod\u00e9fense",
       "url": "https://open.spotify.com/track/2D7IEFxCt1DU1mac0K8yEL"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/1VZnoa7b6c1mxCCSG6SoGu"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4WpNYzTIOjN3Aw6D3n81Rb"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
+        "name": "Doen We Het Vaker",
+        "url": "https://open.spotify.com/album/1KaWiEgp5oRUjFFa7KOvm9"
+      },
+      "artists": [
+        {
+          "name": "Jessey Fields",
+          "url": "https://open.spotify.com/artist/3d2RT26NhHPXHa9IOdzhOy"
+        }
+      ],
+      "duration_ms": 140098,
+      "name": "Doen We Het Vaker",
+      "url": "https://open.spotify.com/track/0TnZ9a7qyF3nZS3bnc8JBo"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
         "name": "Dicht Bij Mij",
         "url": "https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 178064,
       "name": "Hoe Wij Hier Samen Staan",
       "url": "https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
-        "name": "Ben je dan niet blij",
-        "url": "https://open.spotify.com/album/6ZJ5boHWv15ayyQu4giZhL"
-      },
-      "artists": [
-        {
-          "name": "Nienke Leone",
-          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "Ben je dan niet blij",
-      "url": "https://open.spotify.com/track/2lOype0E5KsoIM7klo1yRI"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -547,18 +547,18 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Doen We Het Vaker",
-        "url": "https://open.spotify.com/album/1KaWiEgp5oRUjFFa7KOvm9"
+        "name": "Ben je dan niet blij",
+        "url": "https://open.spotify.com/album/6ZJ5boHWv15ayyQu4giZhL"
       },
       "artists": [
         {
-          "name": "Jessey Fields",
-          "url": "https://open.spotify.com/artist/3d2RT26NhHPXHa9IOdzhOy"
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
         }
       ],
-      "duration_ms": 140098,
-      "name": "Doen We Het Vaker",
-      "url": "https://open.spotify.com/track/0TnZ9a7qyF3nZS3bnc8JBo"
+      "duration_ms": 196653,
+      "name": "Ben je dan niet blij",
+      "url": "https://open.spotify.com/track/2lOype0E5KsoIM7klo1yRI"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
+        "name": "Everybody Wants To Fly",
+        "url": "https://open.spotify.com/album/3fRzEaAheLi2r4SlSVrueP"
+      },
+      "artists": [
+        {
+          "name": "BIRTHE",
+          "url": "https://open.spotify.com/artist/4abnJNB1ZNdqTP8Q0zBbP7"
+        }
+      ],
+      "duration_ms": 153535,
+      "name": "Everybody Wants To Fly",
+      "url": "https://open.spotify.com/track/3ZREjtAQbskSYJhJgnjFyu"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
         "name": "Had Ik Je Maar Nooit Gezoend",
         "url": "https://open.spotify.com/album/1mnLAO80jDCQPD1jlWIxco"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 208868,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7yIIloSZGZJ864ABEnpIZl"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
-        "name": "Everybody Wants To Fly",
-        "url": "https://open.spotify.com/album/3fRzEaAheLi2r4SlSVrueP"
-      },
-      "artists": [
-        {
-          "name": "BIRTHE",
-          "url": "https://open.spotify.com/artist/4abnJNB1ZNdqTP8Q0zBbP7"
-        }
-      ],
-      "duration_ms": 153535,
-      "name": "Everybody Wants To Fly",
-      "url": "https://open.spotify.com/track/3ZREjtAQbskSYJhJgnjFyu"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Used to be us",
-        "url": "https://open.spotify.com/album/0yhmrzjt0hMcvvwy9Uqw63"
-      },
-      "artists": [
-        {
-          "name": "Pearl Ramos",
-          "url": "https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh"
-        }
-      ],
-      "duration_ms": 137691,
-      "name": "Used to be us",
-      "url": "https://open.spotify.com/track/2wnt1RSq1UFg7oip9FdW7b"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "I THINK WE SHOULD CHANGE THIS",
         "url": "https://open.spotify.com/album/6xmdULbXe9tMKk1Q6SfIAw"
       },
@@ -915,22 +899,6 @@
       "duration_ms": 242446,
       "name": "HANNAH MONTANA",
       "url": "https://open.spotify.com/track/36dnmtvkyziG2MKXZe6xY4"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
-        "name": "o pen bro ken",
-        "url": "https://open.spotify.com/album/1dzccMWjUHy2txBbOTo6oZ"
-      },
-      "artists": [
-        {
-          "name": "Luwten",
-          "url": "https://open.spotify.com/artist/4cm8GrJ4fx7P2h9shNhUia"
-        }
-      ],
-      "duration_ms": 223764,
-      "name": "o pen bro ken",
-      "url": "https://open.spotify.com/track/1XPB97GokrgncK64pDwPoW"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -951,18 +919,34 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Something Coming",
-        "url": "https://open.spotify.com/album/1JaE1WcQCIdhjq0qxVDMND"
+        "name": "o pen bro ken",
+        "url": "https://open.spotify.com/album/1dzccMWjUHy2txBbOTo6oZ"
       },
       "artists": [
         {
-          "name": "Roufaida",
-          "url": "https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL"
+          "name": "Luwten",
+          "url": "https://open.spotify.com/artist/4cm8GrJ4fx7P2h9shNhUia"
         }
       ],
-      "duration_ms": 151853,
-      "name": "Something Coming",
-      "url": "https://open.spotify.com/track/7Mccn5WVVxJSfZJtYIwr2C"
+      "duration_ms": 223764,
+      "name": "o pen bro ken",
+      "url": "https://open.spotify.com/track/1XPB97GokrgncK64pDwPoW"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Used to be us",
+        "url": "https://open.spotify.com/album/0yhmrzjt0hMcvvwy9Uqw63"
+      },
+      "artists": [
+        {
+          "name": "Pearl Ramos",
+          "url": "https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh"
+        }
+      ],
+      "duration_ms": 137691,
+      "name": "Used to be us",
+      "url": "https://open.spotify.com/track/2wnt1RSq1UFg7oip9FdW7b"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -979,6 +963,38 @@
       "duration_ms": 169411,
       "name": "When the World Dissolves",
       "url": "https://open.spotify.com/track/517spBUb3H1kqpUUmDjTJ3"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Something Coming",
+        "url": "https://open.spotify.com/album/1JaE1WcQCIdhjq0qxVDMND"
+      },
+      "artists": [
+        {
+          "name": "Roufaida",
+          "url": "https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL"
+        }
+      ],
+      "duration_ms": 151853,
+      "name": "Something Coming",
+      "url": "https://open.spotify.com/track/7Mccn5WVVxJSfZJtYIwr2C"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/3tJ4mXm9lntPtd0qj01xU8"
+      },
+      "artists": [
+        {
+          "name": "Luna Lucci",
+          "url": "https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp"
+        }
+      ],
+      "duration_ms": 223926,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/49DaLlHVb0nYesBnDBDo3n"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -1027,22 +1043,6 @@
       "duration_ms": 226755,
       "name": "I WANT IT!",
       "url": "https://open.spotify.com/track/3NWu9J6FSmL1jju2OSM2WM"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/3tJ4mXm9lntPtd0qj01xU8"
-      },
-      "artists": [
-        {
-          "name": "Luna Lucci",
-          "url": "https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp"
-        }
-      ],
-      "duration_ms": 223926,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/49DaLlHVb0nYesBnDBDo3n"
     },
     {
       "added_at": "2026-06-04 22:00:35",

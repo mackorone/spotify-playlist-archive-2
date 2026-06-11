@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 32052,
+  "num_followers": 32054,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAACyrHEu5cX/YEWHvWojRAdz",
+  "snapshot_id": "aidXgAAAAAC2jqUGxmZpUaR9hHN3DGDJ",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Pensando En Ti",
-        "url": "https://open.spotify.com/album/0aHB0GMDqyVE21pd0lS9s5"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Hey",
-      "url": "https://open.spotify.com/track/5WhtweNjD7ptn0lJFeO37K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 237826,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siempre Pensando En Ti",
+        "url": "https://open.spotify.com/album/0aHB0GMDqyVE21pd0lS9s5"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/5WhtweNjD7ptn0lJFeO37K"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Camino",
-        "url": "https://open.spotify.com/album/77tJHDyUdGZcPjez0lvqQJ"
-      },
-      "artists": [
-        {
-          "name": "Vuelta en U",
-          "url": "https://open.spotify.com/artist/6tHXJ2caQoobX1cnUAEa8S"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 217199,
-      "name": "Vuelta En U (feat. Bobby Pulido)",
-      "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 135266,
       "name": "Mujer Maravilla",
       "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Camino",
+        "url": "https://open.spotify.com/album/77tJHDyUdGZcPjez0lvqQJ"
+      },
+      "artists": [
+        {
+          "name": "Vuelta en U",
+          "url": "https://open.spotify.com/artist/6tHXJ2caQoobX1cnUAEa8S"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 217199,
+      "name": "Vuelta En U (feat. Bobby Pulido)",
+      "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Se Escribe Con Llanto (En Vivo)",
-        "url": "https://open.spotify.com/album/5zjXAyF9w7Zlcyvwf4cDDk"
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol.2/En Vivo)",
+        "url": "https://open.spotify.com/album/0JnZUa2c5sC0xJoSSaoybG"
       },
       "artists": [
         {
@@ -846,7 +846,7 @@
       ],
       "duration_ms": 216345,
       "name": "Amor Se Escribe Con Llanto - En Vivo",
-      "url": "https://open.spotify.com/track/0V3SHhzbC5TzDnIb2mbWRW"
+      "url": "https://open.spotify.com/track/2IFhLn3agOBN1pv5w1mOer"
     },
     {
       "added_at": null,

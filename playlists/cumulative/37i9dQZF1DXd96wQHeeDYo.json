@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Tu t\u00e1ta tu tat\u00e1... el beat funk de Brasil para el mundo. Cover: MC L da Vinte, MC Gury, Anitta, Neton Vega",
+  "description": "Tu t\u00e1ta tu tat\u00e1... el beat del funk de Brasil para el mundo. Cover: MC L da Vinte, MC Gury, Anitta, Neton Vega",
   "name": "es funk y el cuerpo lo sabe \ud83c\udde7\ud83c\uddf7",
   "tracks": [
     {
@@ -975,6 +975,50 @@
     },
     {
       "album": {
+        "name": "Cerca",
+        "url": "https://open.spotify.com/album/2oypeO6ZLvcVfypW3PYQLv"
+      },
+      "artists": [
+        {
+          "name": "143leti",
+          "url": "https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr"
+        },
+        {
+          "name": "Tiano",
+          "url": "https://open.spotify.com/artist/1rAJwyGY6mSbV4U83L590D"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135230,
+      "name": "Cerca",
+      "url": "https://open.spotify.com/track/54n24ZOfCpsN4gm9WUHIVa"
+    },
+    {
+      "album": {
+        "name": "Choka Choka",
+        "url": "https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131562,
+      "name": "Choka Choka",
+      "url": "https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV"
+    },
+    {
+      "album": {
         "name": "CHUKI CHUKI",
         "url": "https://open.spotify.com/album/17W6H22RAWfiKQOoMBv8ml"
       },
@@ -1503,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Exmaquina",
+        "url": "https://open.spotify.com/album/3R4W7oN6SdG6HzX4PIFvTm"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Exmaquina",
+      "url": "https://open.spotify.com/track/3d0LfxFm4FvW0RE1oZkdBV"
+    },
+    {
+      "album": {
         "name": "Fale Ent\u00e3o",
         "url": "https://open.spotify.com/album/0ZrHY6dWuWT0Nv7PfNaZXG"
       },
@@ -1832,7 +1894,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 147201,
       "name": "Funk Rave",
       "url": "https://open.spotify.com/track/0DouMZxp99d0AVDQPz6shx"
@@ -2300,7 +2362,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 113225,
       "name": "KITA",
       "url": "https://open.spotify.com/track/3xa9RHdADxgYIBA6vUi4Rs"
@@ -3033,6 +3095,28 @@
     },
     {
       "album": {
+        "name": "Reggaeton Sessions",
+        "url": "https://open.spotify.com/album/2ifAfB4fMgnOrwf1gKbdfg"
+      },
+      "artists": [
+        {
+          "name": "DJ Yas",
+          "url": "https://open.spotify.com/artist/7BSj39Ch2fiZWCGJqak1WS"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120776,
+      "name": "Modo de Ataque",
+      "url": "https://open.spotify.com/track/0XZ5pDF0GTBiW3S7awE7xQ"
+    },
+    {
+      "album": {
         "name": "MONTAGEM - PR FUNK",
         "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
       },
@@ -3434,7 +3518,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 208615,
       "name": "PANAMERA (feat. Djay W)",
       "url": "https://open.spotify.com/track/4oz9vFuQjXdqaDVcdZ2ZHY"
@@ -4302,7 +4386,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 137939,
       "name": "Sigo aqu\u00ed",
       "url": "https://open.spotify.com/track/1IM5zUULSbpIPE3BIkAeoe"
@@ -4528,7 +4612,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 196875,
       "name": "SUSTANCIAS EN MI CORAZON",
       "url": "https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak"

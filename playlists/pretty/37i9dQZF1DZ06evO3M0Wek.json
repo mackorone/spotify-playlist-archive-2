@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 116256,
+  "num_followers": 116266,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAACC+z33Va+hp9ZUQIj8Y9cO",
+  "snapshot_id": "aidXgAAAAADyZSKhwLh1+1q4BcvJhD23",
   "tracks": [
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 233897,
+      "name": "Gather The Lambs",
+      "url": "https://open.spotify.com/track/1HY8G7dYpwlxJ9XVrOq6j1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 254887,
       "name": "Out In the Rain",
       "url": "https://open.spotify.com/track/3OEbly55618a1uDTP3Pd4a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 233897,
-      "name": "Gather The Lambs",
-      "url": "https://open.spotify.com/track/1HY8G7dYpwlxJ9XVrOq6j1"
     },
     {
       "added_at": null,

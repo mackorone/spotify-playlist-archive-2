@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 57647,
+  "num_followers": 57650,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAAVGk2nqz7s8z7UH7jnfXbg",
+  "snapshot_id": "aidXgAAAAACMd13snMAbuYClJNksYqKg",
   "tracks": [
     {
       "added_at": null,
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm"
+      },
+      "artists": [
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alcohol (with BRELAND)",
         "url": "https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch"
       },
@@ -787,22 +807,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannonball",
-        "url": "https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm"
+        "name": "torture (with Earl St. Clair)",
+        "url": "https://open.spotify.com/album/3idGlsJd0IqSqWyKPHv9RP"
       },
       "artists": [
         {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         },
+        {
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+        }
+      ],
+      "duration_ms": 161669,
+      "name": "torture (with Earl St. Clair)",
+      "url": "https://open.spotify.com/track/5barkRym2Qstp3X9uZRSiN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoping",
+        "url": "https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9"
+      },
+      "artists": [
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 235426,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD"
+      "duration_ms": 193566,
+      "name": "Hoping",
+      "url": "https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok"
     },
     {
       "added_at": null,
@@ -847,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoping",
-        "url": "https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9"
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
       "artists": [
         {
@@ -856,29 +892,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 193566,
-      "name": "Hoping",
-      "url": "https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "torture (with Earl St. Clair)",
-        "url": "https://open.spotify.com/album/3idGlsJd0IqSqWyKPHv9RP"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "Earl St. Clair",
-          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
-        }
-      ],
-      "duration_ms": 161669,
-      "name": "torture (with Earl St. Clair)",
-      "url": "https://open.spotify.com/track/5barkRym2Qstp3X9uZRSiN"
+      "duration_ms": 193520,
+      "name": "Half-Life",
+      "url": "https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk"
     },
     {
       "added_at": null,
@@ -899,22 +915,6 @@
       "duration_ms": 168333,
       "name": "Helium (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/2ej8Av0xMTBQwNIt0QeLbS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 193520,
-      "name": "Half-Life",
-      "url": "https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Alvaro Diaz",
-  "num_followers": 99859,
+  "num_followers": 99840,
   "original_name": "Editors' Picks: Best Songs of May",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
+        "name": "From Down Here",
+        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 241470,
+      "name": "From Down Here",
+      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 193384,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
-        "name": "From Down Here",
-        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 241470,
-      "name": "From Down Here",
-      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
+        "name": "For Love of Grace & the Hereafter",
+        "url": "https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "duration_ms": 218909,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
         "name": "Rumspringa",
         "url": "https://open.spotify.com/album/1EHtMAqAB6GSnw8IbuXFLn"
       },
@@ -495,18 +511,18 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "For Love of Grace & the Hereafter",
-        "url": "https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV"
+        "name": "bitknot",
+        "url": "https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ"
       },
       "artists": [
         {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
         }
       ],
-      "duration_ms": 218909,
-      "name": "No Fear",
-      "url": "https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX"
+      "duration_ms": 212949,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/3qvJiQOb5Qa0jO7MdLoBp3"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -527,18 +543,18 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "bitknot",
-        "url": "https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ"
+        "name": "I Can't Die Like That",
+        "url": "https://open.spotify.com/album/313t051eeaMazltopmnbhm"
       },
       "artists": [
         {
-          "name": "feeble little horse",
-          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
         }
       ],
-      "duration_ms": 212949,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/3qvJiQOb5Qa0jO7MdLoBp3"
+      "duration_ms": 151800,
+      "name": "I Can't Die Like That",
+      "url": "https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -575,22 +591,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "I Can't Die Like That",
-        "url": "https://open.spotify.com/album/313t051eeaMazltopmnbhm"
-      },
-      "artists": [
-        {
-          "name": "Getdown Services",
-          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "I Can't Die Like That",
-      "url": "https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "Run away with me",
         "url": "https://open.spotify.com/album/2ZOVj0KkuAxyKh9Dxonjof"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 238500,
       "name": "Run away with me",
       "url": "https://open.spotify.com/track/6LT3c2tVapQRzHQSne8gYI"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
-        "name": "War Over Land",
-        "url": "https://open.spotify.com/album/00hlYRC7F3voGuZqhf5fG2"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 174068,
-      "name": "War Over Land",
-      "url": "https://open.spotify.com/track/6gn1jvInLQ352xxZEjPGz4"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -639,6 +623,22 @@
       "duration_ms": 180500,
       "name": "usher in the spirit",
       "url": "https://open.spotify.com/track/7mbRGvaiD1NCDAIDqErCBT"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "War Over Land",
+        "url": "https://open.spotify.com/album/00hlYRC7F3voGuZqhf5fG2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 174068,
+      "name": "War Over Land",
+      "url": "https://open.spotify.com/track/6gn1jvInLQ352xxZEjPGz4"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
+        "name": "Free Wheeling",
+        "url": "https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "duration_ms": 229592,
+      "name": "Free Wheeling",
+      "url": "https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/6hWrYqqI8mLlsRhS8alGYU"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 176580,
       "name": "Antes De Ti",
       "url": "https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
-        "name": "Free Wheeling",
-        "url": "https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3"
-      },
-      "artists": [
-        {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
-        }
-      ],
-      "duration_ms": 229592,
-      "name": "Free Wheeling",
-      "url": "https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "Beams",
-        "url": "https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16"
-      },
-      "artists": [
-        {
-          "name": "Derby",
-          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
-        }
-      ],
-      "duration_ms": 161375,
-      "name": "Ambrosia",
-      "url": "https://open.spotify.com/track/344KZeQWZKibpxndj98m1j"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "c r e a t u r e s",
         "url": "https://open.spotify.com/album/3iTHx4S0UyjWtpJmU40Jko"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "Stoner Music",
-        "url": "https://open.spotify.com/album/2TjTiFkPnKmjWg5xaJT3OA"
+        "name": "Beams",
+        "url": "https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16"
       },
       "artists": [
         {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+          "name": "Derby",
+          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
         }
       ],
-      "duration_ms": 118333,
-      "name": "Stoner Music",
-      "url": "https://open.spotify.com/track/6CRcnYpkrVGZ4rCOskOelE"
+      "duration_ms": 161375,
+      "name": "Ambrosia",
+      "url": "https://open.spotify.com/track/344KZeQWZKibpxndj98m1j"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -903,6 +887,22 @@
       "duration_ms": 139159,
       "name": "2 C U",
       "url": "https://open.spotify.com/track/6lUM0QGNVT65iu4aRLU3LM"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "Stoner Music",
+        "url": "https://open.spotify.com/album/2TjTiFkPnKmjWg5xaJT3OA"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 118333,
+      "name": "Stoner Music",
+      "url": "https://open.spotify.com/track/6CRcnYpkrVGZ4rCOskOelE"
     },
     {
       "added_at": "2026-06-01 05:00:24",

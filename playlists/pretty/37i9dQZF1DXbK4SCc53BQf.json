@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 107815,
+  "num_followers": 107819,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
+        "name": "NADA",
+        "url": "https://open.spotify.com/album/4MbQSQu6wFLCU3x1wZFbY3"
+      },
+      "artists": [
+        {
+          "name": "Obyone",
+          "url": "https://open.spotify.com/artist/1kjzrYEdRok24Tpamprfpa"
+        }
+      ],
+      "duration_ms": 176074,
+      "name": "NADA",
+      "url": "https://open.spotify.com/track/4ErCYpaLhbYdLmRdtWLrEn"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
         "name": "Quien Vive",
         "url": "https://open.spotify.com/album/03KtAeAhimNGguuhEljubt"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 291000,
       "name": "Quien Vive",
       "url": "https://open.spotify.com/track/1yAvWGZuqaK6nbbfLi38cn"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
-        "name": "NADA",
-        "url": "https://open.spotify.com/album/4MbQSQu6wFLCU3x1wZFbY3"
-      },
-      "artists": [
-        {
-          "name": "Obyone",
-          "url": "https://open.spotify.com/artist/1kjzrYEdRok24Tpamprfpa"
-        }
-      ],
-      "duration_ms": 176074,
-      "name": "NADA",
-      "url": "https://open.spotify.com/track/4ErCYpaLhbYdLmRdtWLrEn"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Merengueton",
-        "url": "https://open.spotify.com/album/6cQdkMoB6vqMU4orFz2WeP"
-      },
-      "artists": [
-        {
-          "name": "Townix",
-          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
-        }
-      ],
-      "duration_ms": 161803,
-      "name": "Merengueton",
-      "url": "https://open.spotify.com/track/72VmExJKcEzxCJZJo5f7HO"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "Hombre Nuevo",
         "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 178285,
       "name": "Hombre Nuevo",
       "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
+        "name": "Merengueton",
+        "url": "https://open.spotify.com/album/6cQdkMoB6vqMU4orFz2WeP"
+      },
+      "artists": [
+        {
+          "name": "Townix",
+          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
+        }
+      ],
+      "duration_ms": 161803,
+      "name": "Merengueton",
+      "url": "https://open.spotify.com/track/72VmExJKcEzxCJZJo5f7HO"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "El M\u00e1s Buscado",
-        "url": "https://open.spotify.com/album/4iExEpHD8bkvJ9NHzqM157"
-      },
-      "artists": [
-        {
-          "name": "Domingo Qui\u00f1ones",
-          "url": "https://open.spotify.com/artist/4JqvRbbOIF4EUmsVQMTgjs"
-        }
-      ],
-      "duration_ms": 305450,
-      "name": "Despu\u00e9s De La Ca\u00edda",
-      "url": "https://open.spotify.com/track/0gndRNlMyZnWODdbUmbIRM"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "Siempre Has Sido Fiel",
         "url": "https://open.spotify.com/album/5MapDgrCSpghEvUw29FE1L"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 171764,
       "name": "Siempre Has Sido Fiel",
       "url": "https://open.spotify.com/track/0ExRFTBr0xfteBCElp0kI2"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
+        "name": "El M\u00e1s Buscado",
+        "url": "https://open.spotify.com/album/4iExEpHD8bkvJ9NHzqM157"
+      },
+      "artists": [
+        {
+          "name": "Domingo Qui\u00f1ones",
+          "url": "https://open.spotify.com/artist/4JqvRbbOIF4EUmsVQMTgjs"
+        }
+      ],
+      "duration_ms": 305450,
+      "name": "Despu\u00e9s De La Ca\u00edda",
+      "url": "https://open.spotify.com/track/0gndRNlMyZnWODdbUmbIRM"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Alegria Latina",
-        "url": "https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR"
-      },
-      "artists": [
-        {
-          "name": "Yan Rymond",
-          "url": "https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Sana Nuestra Tierra",
-      "url": "https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "CARTAGENA",
         "url": "https://open.spotify.com/album/1LKiiYDppMPV3xQCn9W65N"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
+        "name": "Alegria Latina",
+        "url": "https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR"
+      },
+      "artists": [
+        {
+          "name": "Yan Rymond",
+          "url": "https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Sana Nuestra Tierra",
+      "url": "https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
         "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
         "url": "https://open.spotify.com/album/3ki0M3SV7T5YxxyC8wkPe1"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 229180,
       "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
       "url": "https://open.spotify.com/track/1I4NvCYmKakgaYtFU2KHU1"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
-        "name": "30 A\u00f1os de Adoraci\u00f3n Tropical",
-        "url": "https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq"
-      },
-      "artists": [
-        {
-          "name": "Puchi Colon",
-          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
-        }
-      ],
-      "duration_ms": 249576,
-      "name": "Coritos Medley 2.0",
-      "url": "https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -819,6 +803,22 @@
       "duration_ms": 177605,
       "name": "LA CARRERA",
       "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
+        "name": "30 A\u00f1os de Adoraci\u00f3n Tropical",
+        "url": "https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq"
+      },
+      "artists": [
+        {
+          "name": "Puchi Colon",
+          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
+        }
+      ],
+      "duration_ms": 249576,
+      "name": "Coritos Medley 2.0",
+      "url": "https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Ola de Calma",
-        "url": "https://open.spotify.com/album/5oMkWlFJpUUwyJaT8kE3wE"
-      },
-      "artists": [
-        {
-          "name": "David Ordo\u00f1ez",
-          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
-        },
-        {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
-        }
-      ],
-      "duration_ms": 204250,
-      "name": "Ola de Calma",
-      "url": "https://open.spotify.com/track/4q9sQbwmCA95KNJNSXl27A"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "Me Encontr\u00f3",
         "url": "https://open.spotify.com/album/5phrKSVCrkrFV3dSJBAy1p"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 242000,
       "name": "Confiado",
       "url": "https://open.spotify.com/track/4SeWG3G40AxVSSuuDzqokl"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
+        "name": "Ola de Calma",
+        "url": "https://open.spotify.com/album/5oMkWlFJpUUwyJaT8kE3wE"
+      },
+      "artists": [
+        {
+          "name": "David Ordo\u00f1ez",
+          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
+        },
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        }
+      ],
+      "duration_ms": 204250,
+      "name": "Ola de Calma",
+      "url": "https://open.spotify.com/track/4q9sQbwmCA95KNJNSXl27A"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Lo Mejor De La Vida",
-        "url": "https://open.spotify.com/album/10o6MR8g8EXpeRGulLaPSl"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        }
-      ],
-      "duration_ms": 217660,
-      "name": "Lo Mejor De La Vida",
-      "url": "https://open.spotify.com/track/4T8vv4Hwzg0vEwsRg253oS"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "Cantar\u00e9",
         "url": "https://open.spotify.com/album/4MnjTYf9BgX5bR0EsZZaff"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 243608,
       "name": "Cantar\u00e9",
       "url": "https://open.spotify.com/track/2X9UqOkHdY7tiRTnG98SO8"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
+        "name": "Lo Mejor De La Vida",
+        "url": "https://open.spotify.com/album/10o6MR8g8EXpeRGulLaPSl"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        }
+      ],
+      "duration_ms": 217660,
+      "name": "Lo Mejor De La Vida",
+      "url": "https://open.spotify.com/track/4T8vv4Hwzg0vEwsRg253oS"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "La alegr\u00eda del Se\u00f1or",
-        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
-      },
-      "artists": [
-        {
-          "name": "Promesa de Dios",
-          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "La alegr\u00eda del Se\u00f1or",
-      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "M\u00e1s de Una Vez",
         "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 173332,
       "name": "M\u00e1s de Una Vez",
       "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
+        "name": "La alegr\u00eda del Se\u00f1or",
+        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
+      },
+      "artists": [
+        {
+          "name": "Promesa de Dios",
+          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "La alegr\u00eda del Se\u00f1or",
+      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/4EzCYYPYJhbpVVVYoNj1xy"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Real",
+          "url": "https://open.spotify.com/artist/3CRjPCbwgcnkxwVZYQqgcu"
+        }
+      ],
+      "duration_ms": 185598,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/1tInXqQ3A80Y8IUonZOHM1"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
         "name": "SOL",
         "url": "https://open.spotify.com/album/05XeZ32oWQ7sBFZRCkWSOr"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 178909,
       "name": "SOL",
       "url": "https://open.spotify.com/track/6cky0fBq1ZS7VvTX8pmUCK"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/4EzCYYPYJhbpVVVYoNj1xy"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Real",
-          "url": "https://open.spotify.com/artist/3CRjPCbwgcnkxwVZYQqgcu"
-        }
-      ],
-      "duration_ms": 185598,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/1tInXqQ3A80Y8IUonZOHM1"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -1575,34 +1575,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Tus Planes",
-        "url": "https://open.spotify.com/album/6HXnKD6egQWcHc3MbPfJPk"
-      },
-      "artists": [
-        {
-          "name": "Samuel Troc",
-          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
-        },
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Samuel lonzoy",
-          "url": "https://open.spotify.com/artist/2p2UqHWUZaWmyClCbL2YAO"
-        },
-        {
-          "name": "Dabid Thomas",
-          "url": "https://open.spotify.com/artist/6KoIvIn6MdHInLfcWc2MG9"
-        }
-      ],
-      "duration_ms": 170898,
-      "name": "Tus Planes",
-      "url": "https://open.spotify.com/track/0h5tuSnIQx4wQR34ohExuM"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "Esposa M\u00eda",
         "url": "https://open.spotify.com/album/060GsIY1ZDNFwiK2om5J2S"
       },
@@ -1631,6 +1603,34 @@
       "duration_ms": 139839,
       "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
       "url": "https://open.spotify.com/track/1jm1I2fv53f1xH3DFTYR2D"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
+        "name": "Tus Planes",
+        "url": "https://open.spotify.com/album/6HXnKD6egQWcHc3MbPfJPk"
+      },
+      "artists": [
+        {
+          "name": "Samuel Troc",
+          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
+        },
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Samuel lonzoy",
+          "url": "https://open.spotify.com/artist/2p2UqHWUZaWmyClCbL2YAO"
+        },
+        {
+          "name": "Dabid Thomas",
+          "url": "https://open.spotify.com/artist/6KoIvIn6MdHInLfcWc2MG9"
+        }
+      ],
+      "duration_ms": 170898,
+      "name": "Tus Planes",
+      "url": "https://open.spotify.com/track/0h5tuSnIQx4wQR34ohExuM"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -1707,8 +1707,8 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Cantemos con alegr\u00eda",
-        "url": "https://open.spotify.com/album/11hpTepACo12ED6IOrNiQB"
+        "name": "Al ritmo del Esp\u00edritu de Dios",
+        "url": "https://open.spotify.com/album/4hzynhzd2QNuf221J1dKXj"
       },
       "artists": [
         {
@@ -1716,9 +1716,9 @@
           "url": "https://open.spotify.com/artist/0e3gPGSlQZEcsaohevhUMt"
         }
       ],
-      "duration_ms": 285076,
-      "name": "Juntos como hermanos / Que alegr\u00eda / Vienen con alegr\u00eda",
-      "url": "https://open.spotify.com/track/4gLefdqjcYj8fwLWLF81jw"
+      "duration_ms": 219688,
+      "name": "Al ritmo del Esp\u00edritu de Dios",
+      "url": "https://open.spotify.com/track/5ZT3qvf2KcmBrxMbOR0OtA"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -1791,8 +1791,8 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Al ritmo del Esp\u00edritu de Dios",
-        "url": "https://open.spotify.com/album/4hzynhzd2QNuf221J1dKXj"
+        "name": "Cantemos con alegr\u00eda",
+        "url": "https://open.spotify.com/album/11hpTepACo12ED6IOrNiQB"
       },
       "artists": [
         {
@@ -1800,9 +1800,9 @@
           "url": "https://open.spotify.com/artist/0e3gPGSlQZEcsaohevhUMt"
         }
       ],
-      "duration_ms": 219688,
-      "name": "Al ritmo del Esp\u00edritu de Dios",
-      "url": "https://open.spotify.com/track/5ZT3qvf2KcmBrxMbOR0OtA"
+      "duration_ms": 285076,
+      "name": "Juntos como hermanos / Que alegr\u00eda / Vienen con alegr\u00eda",
+      "url": "https://open.spotify.com/track/4gLefdqjcYj8fwLWLF81jw"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

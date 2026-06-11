@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Schumann. The essential tracks, all in one playlist.",
-  "num_followers": 1811,
+  "num_followers": 1817,
   "original_name": "This Is Clara Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAACCpvpbddSua7SUzRlSoIaP",
+  "snapshot_id": "aidXgAAAAABd6yNjGDESlQUgW8Ev1SVQ",
   "tracks": [
     {
       "added_at": null,
@@ -264,37 +264,13 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Clara Jumi Kang",
-          "url": "https://open.spotify.com/artist/3XX1R9to17BaujFMbjCG3f"
-        },
-        {
-          "name": "Yeol Eum Son",
-          "url": "https://open.spotify.com/artist/2QBjNinkTc5i8PLOYYlHsl"
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
         }
       ],
-      "duration_ms": 177733,
-      "name": "3 Romances For Violin And Piano, Op. 22: 1. Andante molto",
-      "url": "https://open.spotify.com/track/6tpTj0gRqA8C9VdQEtD65e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
-        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
-      },
-      "artists": [
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
-        },
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Trois romances op.11 Andante",
-      "url": "https://open.spotify.com/track/62E33pIJZODmg14tP7sZ4G"
+      "duration_ms": 51486,
+      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 1",
+      "url": "https://open.spotify.com/track/4vdYhdbjUvExe0zKS7PVp0"
     },
     {
       "added_at": null,
@@ -319,6 +295,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
+        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
+      },
+      "artists": [
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        },
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Trois romances op.11 Andante",
+      "url": "https://open.spotify.com/track/62E33pIJZODmg14tP7sZ4G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
+        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Dartington Piano Trio",
+          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
+        }
+      ],
+      "duration_ms": 335000,
+      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
+      "url": "https://open.spotify.com/track/3dXYHdN07BPGkobxbffMst"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Echoes of Women - International Women's Day 2024",
+        "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Clara Jumi Kang",
+          "url": "https://open.spotify.com/artist/3XX1R9to17BaujFMbjCG3f"
+        },
+        {
+          "name": "Yeol Eum Son",
+          "url": "https://open.spotify.com/artist/2QBjNinkTc5i8PLOYYlHsl"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "3 Romances For Violin And Piano, Op. 22: 1. Andante molto",
+      "url": "https://open.spotify.com/track/6tpTj0gRqA8C9VdQEtD65e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
         "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
       },
@@ -335,26 +375,6 @@
       "duration_ms": 327906,
       "name": "Piano Trio in G Minor, Op. 17: II. Scherzo. Tempo di Menuetto",
       "url": "https://open.spotify.com/track/4dfPJ0m7vQCsZFbDREb6xQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Echoes of Women - International Women's Day 2024",
-        "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
-        }
-      ],
-      "duration_ms": 51486,
-      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 1",
-      "url": "https://open.spotify.com/track/4vdYhdbjUvExe0zKS7PVp0"
     },
     {
       "added_at": null,
@@ -392,9 +412,29 @@
           "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
         }
       ],
-      "duration_ms": 335000,
-      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
-      "url": "https://open.spotify.com/track/3dXYHdN07BPGkobxbffMst"
+      "duration_ms": 307733,
+      "name": "Piano Trio in G Minor, Op. 17: II. Scherzo. Tempo di Menuetto",
+      "url": "https://open.spotify.com/track/5h3hOSzD1wn5Kasf9QiLEQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Echoes of Women - International Women's Day 2024",
+        "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "duration_ms": 70585,
+      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 6",
+      "url": "https://open.spotify.com/track/0hEdWzRxXUdgUT3whyRoCl"
     },
     {
       "added_at": null,
@@ -419,26 +459,6 @@
       "duration_ms": 307500,
       "name": "Nocturne In F Major, Op 6, No 2 From: Soire\u00e9s Musicales",
       "url": "https://open.spotify.com/track/3oJS2loNFEfeGHTwV5qfiH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Echoes of Women - International Women's Day 2024",
-        "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
-        }
-      ],
-      "duration_ms": 70585,
-      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 6",
-      "url": "https://open.spotify.com/track/0hEdWzRxXUdgUT3whyRoCl"
     },
     {
       "added_at": null,
@@ -476,9 +496,29 @@
           "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
         }
       ],
-      "duration_ms": 307733,
-      "name": "Piano Trio in G Minor, Op. 17: II. Scherzo. Tempo di Menuetto",
-      "url": "https://open.spotify.com/track/5h3hOSzD1wn5Kasf9QiLEQ"
+      "duration_ms": 465160,
+      "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
+      "url": "https://open.spotify.com/track/2GlnVOUEUpSN4IxKRjy7py"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Echoes of Women - International Women's Day 2024",
+        "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "duration_ms": 58093,
+      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 4",
+      "url": "https://open.spotify.com/track/6oixOO4CI7zAN8o0UUGReP"
     },
     {
       "added_at": null,
@@ -507,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Echoes of Women - International Women's Day 2024",
-        "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
-        }
-      ],
-      "duration_ms": 58093,
-      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 4",
-      "url": "https://open.spotify.com/track/6oixOO4CI7zAN8o0UUGReP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
         "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 439946,
       "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
       "url": "https://open.spotify.com/track/7uDF7mOD0K9RLZxfkB1UXz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
-        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Dartington Piano Trio",
-          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
-        }
-      ],
-      "duration_ms": 465160,
-      "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
-      "url": "https://open.spotify.com/track/2GlnVOUEUpSN4IxKRjy7py"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quatre Pi\u00e8ces fugitives, Op. 15 (Nr 1 Larghetto)",
-        "url": "https://open.spotify.com/album/27nuasQV8GloG3AWhhYWsl"
+        "name": "Breaking Waves",
+        "url": "https://open.spotify.com/album/5iILSPeMu6TIEhGHccDVub"
       },
       "artists": [
         {
@@ -776,13 +776,17 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Martin Malto",
-          "url": "https://open.spotify.com/artist/6P0AqYTK30QL4X8x8lGXIX"
+          "name": "Swedish Wind Ensemble",
+          "url": "https://open.spotify.com/artist/1buVOqH2p4OsCK0LQSlCvT"
+        },
+        {
+          "name": "Cathrine Winnes",
+          "url": "https://open.spotify.com/artist/6mu7Aa7awnK1xo2PmX81c4"
         }
       ],
-      "duration_ms": 186874,
-      "name": "Quatre Pi\u00e8ces fugitives, Op. 15 - Nr 1 Larghetto",
-      "url": "https://open.spotify.com/track/7M69Cbc3KVNd5m3Z1wvJVV"
+      "duration_ms": 418744,
+      "name": "Soir\u00e9es musicales, Op. 6: IV. Ballade (Arr. for Wind Ensemble)",
+      "url": "https://open.spotify.com/track/6XF1fHkEZBfEB05NsnRFF5"
     },
     {
       "added_at": null,
@@ -815,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breaking Waves",
-        "url": "https://open.spotify.com/album/5iILSPeMu6TIEhGHccDVub"
+        "name": "Quatre Pi\u00e8ces fugitives, Op. 15 (Nr 1 Larghetto)",
+        "url": "https://open.spotify.com/album/27nuasQV8GloG3AWhhYWsl"
       },
       "artists": [
         {
@@ -824,17 +828,13 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Swedish Wind Ensemble",
-          "url": "https://open.spotify.com/artist/1buVOqH2p4OsCK0LQSlCvT"
-        },
-        {
-          "name": "Cathrine Winnes",
-          "url": "https://open.spotify.com/artist/6mu7Aa7awnK1xo2PmX81c4"
+          "name": "Martin Malto",
+          "url": "https://open.spotify.com/artist/6P0AqYTK30QL4X8x8lGXIX"
         }
       ],
-      "duration_ms": 418744,
-      "name": "Soir\u00e9es musicales, Op. 6: IV. Ballade (Arr. for Wind Ensemble)",
-      "url": "https://open.spotify.com/track/6XF1fHkEZBfEB05NsnRFF5"
+      "duration_ms": 186874,
+      "name": "Quatre Pi\u00e8ces fugitives, Op. 15 - Nr 1 Larghetto",
+      "url": "https://open.spotify.com/track/7M69Cbc3KVNd5m3Z1wvJVV"
     },
     {
       "added_at": null,

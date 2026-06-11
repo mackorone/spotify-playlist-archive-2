@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: FahProud\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: อูโน่ หลาวทอง\. Artwork: Isu Kim
 
-2,645 songs - 6 day 21 hr 59 min
+2,648 songs - 6 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Dreamin' time](https://open.spotify.com/track/1sx4yLNVHtk9nAfaYIuC2e) | [Intoverse](https://open.spotify.com/artist/1YS1KAkS2fUo7gNXHuMeMk) | [Dreamin' time](https://open.spotify.com/album/0wTy4XnlkDx9ROoCjZMQPA) | 3:51 | 2023-08-25 | 2023-09-02 |
 | [Drunk !n Love](https://open.spotify.com/track/0mzEZfnASKTO2Po6so6drj) | [jum:p](https://open.spotify.com/artist/2rdBW9RiXfyXgQGi36ubov) | [Drunk !n Love](https://open.spotify.com/album/4lYGkZ1aPdGGeAFOpzqWEg) | 3:04 | 2025-09-19 | 2025-10-04 |
 | [dying inside](https://open.spotify.com/track/5ex64O3v1jcnI502wxkzuH) | [The KYLE](https://open.spotify.com/artist/0IQ0dKIOfKs1h7nIDcKBuW) | [dying inside](https://open.spotify.com/album/0ZrgPebja0GiK66GXUlqh2) | 3:47 | 2023-03-03 | 2023-03-11 |
+| [EASY](https://open.spotify.com/track/1ZrbXLa0Dzm6ODYEsH2Wc0) | [U27](https://open.spotify.com/artist/1ThyKNhowpF5dSknQPaorV) | [EASY](https://open.spotify.com/album/1Q5Wrhoj78cVupaz4oJSlN) | 3:55 | 2026-06-10 |  |
 | [Easy Lie](https://open.spotify.com/track/2IkR5hXnIznGb3q3m0hJMN) | [QQ Ingan](https://open.spotify.com/artist/6Zx5J7qYVXKstUVmzFEPGa) | [Easy Lie](https://open.spotify.com/album/1DUlVsw8njiO5dblKYw2iU) | 2:22 | 2025-04-03 | 2025-05-09 |
 | [Ellen](https://open.spotify.com/track/2si2oDT7xMjuQbyzkCTsdF) | [eci](https://open.spotify.com/artist/3jfySvRGvUODNQKrgpteeF) | [Ellen](https://open.spotify.com/album/0zplZiLjs6LfsMz7ioVJ6F) | 4:16 | 2025-08-29 | 2025-10-25 |
 | [Ep.24](https://open.spotify.com/track/0Sj6zTHZjMAwpeP19h9JNs) | [on/no](https://open.spotify.com/artist/76w5A8cWkupod7k32aUSEa) | [Ep.24](https://open.spotify.com/album/1t4euKRHtkxQTMrv8SvacB) | 3:47 | 2025-10-24 | 2025-12-05 |
@@ -1187,6 +1188,7 @@
 | [ทำไมต้องเป็นฉัน](https://open.spotify.com/track/5uuhb6fp0s2BzSihkhn9om) | [LOST CHIPS](https://open.spotify.com/artist/3OtnIU9UGggkQMmbvnZoo9) | [Its happened in 22](https://open.spotify.com/album/7fzz9bgqGdudLgOuj8n8Qn) | 4:21 | 2024-09-06 | 2024-10-19 |
 | [ทำไมทำไม \(Why are you so cute?\)](https://open.spotify.com/track/7ENimcb9CCFsyqH6Uwb7fz) | [Harupiii](https://open.spotify.com/artist/3BJlhx1miXX77PwUlNKUZS) | [ทำไมทำไม \(Why are you so cute?\)](https://open.spotify.com/album/4SLzKv9mGO8nviW3fF8siU) | 3:10 | 2024-12-13 | 2025-01-10 |
 | [ทำไมหลังเที่ยงคืนถึงเป็นเวลาของการคิดถึงใครบางคน \(Insomnia\)](https://open.spotify.com/track/1y2WBg8PZkcbUrrdL14fnj) | [All or Nothing](https://open.spotify.com/artist/0wowejwEtbprvAL7ntdW06) | [ทำไมหลังเที่ยงคืนถึงเป็นเวลาของการคิดถึงใครบางคน \(Insomnia\)](https://open.spotify.com/album/795UuWfsXSUgIfB3b7ThZ4) | 3:23 | 2023-07-28 | 2023-09-23 |
+| [ทำไมเธอไม่เชื่อใจฉันเลย \(Mistrust\)](https://open.spotify.com/track/3qKH7Pd4r1U0TFGRPZ3uLV) | [SmerbSri](https://open.spotify.com/artist/41EMTpcOnk19nGBUmfDUL6) | [11:11](https://open.spotify.com/album/4DCO0rRtO3HAhGknLZiSnn) | 3:19 | 2026-06-10 |  |
 | [ทิ้งกันไว้ที่ทางตัน \(Dream End\)](https://open.spotify.com/track/5SwpNT2w3PTZOchtl24KSY) | [SaltySalmon](https://open.spotify.com/artist/3nk2SXIpTCKwG5GW8SuYxO) | [ทิ้งกันไว้ที่ทางตัน \(Dream End\)](https://open.spotify.com/album/6pmGrIro8rfDeTm5GlkMkp) | 4:10 | 2026-05-13 |  |
 | [ทิ้งตัว](https://open.spotify.com/track/6ZkJ68OWKIFKTv7QkVLIuP) | [ChaRaMaNa](https://open.spotify.com/artist/1afaA6Qx8IEJTMSHJBxSgZ) | [ทิ้งตัว](https://open.spotify.com/album/0Oig4QdDSYboYkBUb86S3l) | 3:31 | 2025-03-06 | 2025-04-04 |
 | [ทิ้งยังไง](https://open.spotify.com/track/49j5l268BVprUrfOWhHXWy) | [ALAVY](https://open.spotify.com/artist/6oDlG8qhteB3OglDvlSiFQ) | [ทิ้งยังไง](https://open.spotify.com/album/48ZoGMNX0sxjzT6q9pzAgX) | 3:56 | 2023-09-15 | 2024-01-27 |
@@ -1841,6 +1843,7 @@
 | [หล่อนมีพิรุธอีกแล้วนะ \(POY\)](https://open.spotify.com/track/6U7ebLdDoWAQNYjXmSOaHg) | [SONIGHT](https://open.spotify.com/artist/2TEpzCYQAHvQ1S6ryRDOjj), [AOMKRIT](https://open.spotify.com/artist/0gUjWmbQgMvXFSW2uHGuVB) | [หล่อนมีพิรุธอีกแล้วนะ \(POY\)](https://open.spotify.com/album/4dJ8OZ0lP30DC6A3afBY2z) | 3:07 | 2024-10-25 | 2024-11-09 |
 | [หวงเธอได้มั้ย \(jelly\)](https://open.spotify.com/track/0u2ICY64eKa8rsFnqg3OUy) | [dayys](https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr) | [หวงเธอได้มั้ย \(jelly\)](https://open.spotify.com/album/4lZuaKMNN0OMyzGbbbVcnA) | 3:08 | 2024-11-22 | 2024-11-30 |
 | [หวัง](https://open.spotify.com/track/31DIIi5OeD9IjAqnBUD8Q8) | [00.01](https://open.spotify.com/artist/0j5wRYC2KjvFjqultH07BQ) | [หวัง](https://open.spotify.com/album/3j4zkAUumUPvMu3duuqT96) | 4:43 | 2023-03-24 | 2023-04-01 |
+| [หวังว่าจะฟัง \(Regret\)](https://open.spotify.com/track/0R9SVqQPKEz0jET8FjZYup) | [CHIPNCK](https://open.spotify.com/artist/6ku0QF2NCHau1mVlVbr0Hd) | [หวังว่าจะฟัง \(Regret\)](https://open.spotify.com/album/4dN5t0vuSJhUEAhLOR1xkt) | 4:15 | 2026-06-10 |  |
 | [หวังว่าจะไม่ลืม](https://open.spotify.com/track/1CVF9umstWoYgmYWTi4PEa) | [LUIZ](https://open.spotify.com/artist/4clOZFdUa5lEoj9JzP28gs) | [หวังว่าจะไม่ลืม](https://open.spotify.com/album/0azIVhd3zP97ihcuURrDlr) | 2:25 | 2023-03-17 | 2023-06-10 |
 | [หวังเฉา Wang Chao](https://open.spotify.com/track/3Yk4G4qwTAsv86TxqCwAh8) | [VYBES](https://open.spotify.com/artist/1QHlIhz1mXYD2KWRsdrnXI) | [หวังเฉา Wang Chao](https://open.spotify.com/album/5xW68g8Sy3jJOv6BK4rIom) | 3:13 | 2024-01-12 | 2024-01-27 |
 | [หวังเพียงให้เธอมีความสุข](https://open.spotify.com/track/4rTECLv026tlUTMOhpkxef) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [หวังเพียงให้เธอมีความสุข](https://open.spotify.com/album/4vUY4UIKYP72YiBzoyVxy9) | 4:20 | 2023-02-02 | 2024-01-06 |

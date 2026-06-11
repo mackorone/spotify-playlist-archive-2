@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAACkh1Vei8ldaXvLAQiy03ta",
+  "snapshot_id": "aidXgAAAAACrqvdpStOTuV98GPluAHzg",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 159383,
-      "name": "Hedonistic",
-      "url": "https://open.spotify.com/track/5zSnNdR8ZGVBPyKohY3DWY"
+      "duration_ms": 196902,
+      "name": "Disco Dystopia",
+      "url": "https://open.spotify.com/track/1G6fd7WK2vYogmHdaqugT9"
     },
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...but i'd miss you too much!",
-        "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
+        "name": "All the Things You'd Ruin",
+        "url": "https://open.spotify.com/album/4fnPZ5TvPAUQpZo5oQEWNn"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 178301,
-      "name": "...but i'd miss you too much!",
-      "url": "https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm"
+      "duration_ms": 166046,
+      "name": "All the Things You'd Ruin",
+      "url": "https://open.spotify.com/track/3XqLS6RCMU25puMAUbioAJ"
     },
     {
       "added_at": null,
@@ -248,15 +248,15 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 196902,
-      "name": "Disco Dystopia",
-      "url": "https://open.spotify.com/track/1G6fd7WK2vYogmHdaqugT9"
+      "duration_ms": 159383,
+      "name": "Hedonistic",
+      "url": "https://open.spotify.com/track/5zSnNdR8ZGVBPyKohY3DWY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "All the Things You'd Ruin",
-        "url": "https://open.spotify.com/album/4fnPZ5TvPAUQpZo5oQEWNn"
+        "name": "...but i'd miss you too much!",
+        "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 166046,
-      "name": "All the Things You'd Ruin",
-      "url": "https://open.spotify.com/track/3XqLS6RCMU25puMAUbioAJ"
+      "duration_ms": 178301,
+      "name": "...but i'd miss you too much!",
+      "url": "https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm"
     },
     {
       "added_at": null,

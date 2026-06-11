@@ -2875,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "Chamber Music",
+        "url": "https://open.spotify.com/album/5LXcNMsEicFBIHMGRRDCkD"
+      },
+      "artists": [
+        {
+          "name": "goldenstar",
+          "url": "https://open.spotify.com/artist/7EeB9iiM7ESsG4VJZwVgtM"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276500,
+      "name": "Belemen",
+      "url": "https://open.spotify.com/track/7bMpolsgVswAxMDEg6GvBW"
+    },
+    {
+      "album": {
         "name": "Ghostholding",
         "url": "https://open.spotify.com/album/7quQ97KCEOY9Ro5Si6o5bn"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 789098,
+  "num_followers": 789247,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAABs4Q2i5OZL6pPiVjE/ZAvT",
+  "snapshot_id": "aidXgAAAAABWzhJsaSPwYOA+clmwKbnp",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+        "name": "Paisaje Japon\u00e9s",
+        "url": "https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX"
       },
       "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 183880,
-      "name": "Asilo (feat. Mon Laferte)",
-      "url": "https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh"
+      "duration_ms": 204733,
+      "name": "Paisaje Japon\u00e9s",
+      "url": "https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma"
     },
     {
       "added_at": null,
@@ -539,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paisaje Japon\u00e9s",
-        "url": "https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX"
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
       "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 204733,
-      "name": "Paisaje Japon\u00e9s",
-      "url": "https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma"
+      "duration_ms": 183880,
+      "name": "Asilo (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1940 Carmen",
-        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+        "name": "A Pesar De Ti y De Mi",
+        "url": "https://open.spotify.com/album/1zZMrpkzai37lGSrxgw5a8"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 215813,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/171EYIdP4psxhF44HtjlLk"
+      "duration_ms": 249124,
+      "name": "A Pesar De Ti y De Mi",
+      "url": "https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
       "duration_ms": 219866,
       "name": "Bonita - Bonus Track",
       "url": "https://open.spotify.com/track/3w7MScOk9yCOS1T6wJfZWa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1940 Carmen",
+        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/171EYIdP4psxhF44HtjlLk"
     },
     {
       "added_at": null,
@@ -847,26 +863,6 @@
       "duration_ms": 240573,
       "name": "Algo Es Mejor",
       "url": "https://open.spotify.com/track/5GB8RBBzQLojlzQXtABIRp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Bunkers (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 290752,
-      "name": "Quiero Dormir Cansado - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A"
     }
   ],
   "unique_name": "This Is Mon Laferte",

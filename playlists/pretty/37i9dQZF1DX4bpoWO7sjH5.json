@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador. Portada: Marcos Witt",
-  "num_followers": 40871,
+  "num_followers": 40870,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "La Estrella",
-        "url": "https://open.spotify.com/album/0TpbxHTKQ1LduJLtlwg2Ze"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        }
-      ],
-      "duration_ms": 221647,
-      "name": "La Estrella",
-      "url": "https://open.spotify.com/track/2bAOPA1ys7TqGTreNb8icO"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Emmanuel (Radio Version)",
         "url": "https://open.spotify.com/album/0FNDIjl0hgxR1c1t9p4WYz"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 292223,
       "name": "Emmanuel - Radio Version",
       "url": "https://open.spotify.com/track/4xK5WBymQU0EqDl52bWtDm"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "La Estrella",
+        "url": "https://open.spotify.com/album/0TpbxHTKQ1LduJLtlwg2Ze"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "duration_ms": 221647,
+      "name": "La Estrella",
+      "url": "https://open.spotify.com/track/2bAOPA1ys7TqGTreNb8icO"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "El Regalo de Jes\u00f9s",
-        "url": "https://open.spotify.com/album/22N1H1kYux0EHW109AfaYv"
-      },
-      "artists": [
-        {
-          "name": "Mas Vida Real",
-          "url": "https://open.spotify.com/artist/1E6zJooX4xc8NMCpM2cU6x"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "All\u00e1 en el Pesebre",
-      "url": "https://open.spotify.com/track/5Suxa6aEsrt4ejClulSvK7"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Buscando Al Rey",
         "url": "https://open.spotify.com/album/6BhFVK8EwY0FgwmWoMDHZx"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 272250,
       "name": "Buscando Al Rey",
       "url": "https://open.spotify.com/track/1dmXJtSQFcMt5GycIwhz0K"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "El Regalo de Jes\u00f9s",
+        "url": "https://open.spotify.com/album/22N1H1kYux0EHW109AfaYv"
+      },
+      "artists": [
+        {
+          "name": "Mas Vida Real",
+          "url": "https://open.spotify.com/artist/1E6zJooX4xc8NMCpM2cU6x"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "All\u00e1 en el Pesebre",
+      "url": "https://open.spotify.com/track/5Suxa6aEsrt4ejClulSvK7"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "El Mejor Regalo",
-        "url": "https://open.spotify.com/album/5BK7NX2RGS1GgZODTMGZdy"
-      },
-      "artists": [
-        {
-          "name": "Pescao Vivo",
-          "url": "https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI"
-        }
-      ],
-      "duration_ms": 184448,
-      "name": "El Mejor Regalo",
-      "url": "https://open.spotify.com/track/6IWHYmraai7TGalDP6eS2l"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Oh, Noche Santa",
         "url": "https://open.spotify.com/album/2pdxLLrvUCDz1KA2Li6DJZ"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 233296,
       "name": "Oh, Noche Santa",
       "url": "https://open.spotify.com/track/2IPzoGzqgaPURImpB0dLnb"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "El Mejor Regalo",
+        "url": "https://open.spotify.com/album/5BK7NX2RGS1GgZODTMGZdy"
+      },
+      "artists": [
+        {
+          "name": "Pescao Vivo",
+          "url": "https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI"
+        }
+      ],
+      "duration_ms": 184448,
+      "name": "El Mejor Regalo",
+      "url": "https://open.spotify.com/track/6IWHYmraai7TGalDP6eS2l"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1011,6 +1011,22 @@
       "duration_ms": 191893,
       "name": "Lo Que Quiero Dar",
       "url": "https://open.spotify.com/track/1amaEOLFqVQPu0xAQ202AH"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Enmanuel",
+        "url": "https://open.spotify.com/album/5AFQmH4SqcnVInsEpKU9sy"
+      },
+      "artists": [
+        {
+          "name": "OzoresP",
+          "url": "https://open.spotify.com/artist/7g2WdxkwctSnq2vMTyVjeW"
+        }
+      ],
+      "duration_ms": 179374,
+      "name": "Enmanuel",
+      "url": "https://open.spotify.com/track/3CspN9opLDCFZg9NqDqCPy"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Enmanuel",
-        "url": "https://open.spotify.com/album/5AFQmH4SqcnVInsEpKU9sy"
+        "name": "Nada Especial",
+        "url": "https://open.spotify.com/album/4r8GDTAjA4Xw2HpqFL4QSQ"
       },
       "artists": [
         {
-          "name": "OzoresP",
-          "url": "https://open.spotify.com/artist/7g2WdxkwctSnq2vMTyVjeW"
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
         }
       ],
-      "duration_ms": 179374,
-      "name": "Enmanuel",
-      "url": "https://open.spotify.com/track/3CspN9opLDCFZg9NqDqCPy"
+      "duration_ms": 359625,
+      "name": "Nada Especial",
+      "url": "https://open.spotify.com/track/6F73IITnJ0EI468Mr0MdCz"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1095,22 +1111,6 @@
       "duration_ms": 157012,
       "name": "Noche Anunciada",
       "url": "https://open.spotify.com/track/1uYRow4KBWyZ9MgZ8o1zR5"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "Nada Especial",
-        "url": "https://open.spotify.com/album/4r8GDTAjA4Xw2HpqFL4QSQ"
-      },
-      "artists": [
-        {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
-        }
-      ],
-      "duration_ms": 359625,
-      "name": "Nada Especial",
-      "url": "https://open.spotify.com/track/6F73IITnJ0EI468Mr0MdCz"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1547,50 +1547,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "El Ni\u00f1o del Tambor",
-        "url": "https://open.spotify.com/album/2US8CE8hkbsAFBwdT0aU8b"
-      },
-      "artists": [
-        {
-          "name": "Ecos",
-          "url": "https://open.spotify.com/artist/7z9IcVBNyznHTkGeDb3EH7"
-        },
-        {
-          "name": "Richard Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/15EUbMhzUZlOf6mFBBzrD1"
-        }
-      ],
-      "duration_ms": 204583,
-      "name": "El Ni\u00f1o del Tambor",
-      "url": "https://open.spotify.com/track/5QUkcerfqvVsBTyLEYNr8r"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "La Promesa",
-        "url": "https://open.spotify.com/album/7AyGwSDcRKPdiQFMC2Fbbr"
-      },
-      "artists": [
-        {
-          "name": "Juan Aponte",
-          "url": "https://open.spotify.com/artist/0ygYfTO9oILMIWw0vEpCuJ"
-        },
-        {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
-        },
-        {
-          "name": "Sophiv",
-          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
-        }
-      ],
-      "duration_ms": 214068,
-      "name": "La Promesa",
-      "url": "https://open.spotify.com/track/7HDMZd8wP4rN7ldtoeUAXC"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Celebremos Juntos II",
         "url": "https://open.spotify.com/album/15EAiGTs89wM2bHiS9W3U9"
       },
@@ -1615,18 +1571,38 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Generacion Radical",
-        "url": "https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT"
+        "name": "El Ni\u00f1o del Tambor",
+        "url": "https://open.spotify.com/album/2US8CE8hkbsAFBwdT0aU8b"
       },
       "artists": [
         {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+          "name": "Ecos",
+          "url": "https://open.spotify.com/artist/7z9IcVBNyznHTkGeDb3EH7"
+        },
+        {
+          "name": "Richard Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/15EUbMhzUZlOf6mFBBzrD1"
         }
       ],
-      "duration_ms": 406184,
-      "name": "La Tierra Canta",
-      "url": "https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK"
+      "duration_ms": 204583,
+      "name": "El Ni\u00f1o del Tambor",
+      "url": "https://open.spotify.com/track/5QUkcerfqvVsBTyLEYNr8r"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Navidad en Miami",
+        "url": "https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rez",
+          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Navidad en Miami",
+      "url": "https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1655,22 +1631,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Navidad en Miami",
-        "url": "https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rez",
-          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Navidad en Miami",
-      "url": "https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Jes\u00fas Es Navidad",
         "url": "https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6"
       },
@@ -1683,6 +1643,46 @@
       "duration_ms": 157833,
       "name": "Jes\u00fas Es Navidad",
       "url": "https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "La Promesa",
+        "url": "https://open.spotify.com/album/7AyGwSDcRKPdiQFMC2Fbbr"
+      },
+      "artists": [
+        {
+          "name": "Juan Aponte",
+          "url": "https://open.spotify.com/artist/0ygYfTO9oILMIWw0vEpCuJ"
+        },
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        },
+        {
+          "name": "Sophiv",
+          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
+        }
+      ],
+      "duration_ms": 214068,
+      "name": "La Promesa",
+      "url": "https://open.spotify.com/track/7HDMZd8wP4rN7ldtoeUAXC"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Generacion Radical",
+        "url": "https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "duration_ms": 406184,
+      "name": "La Tierra Canta",
+      "url": "https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1799,38 +1799,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/6VCsFBSPBKUHkU5Lvoknh8"
-      },
-      "artists": [
-        {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        }
-      ],
-      "duration_ms": 169230,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/7DdzZR7HApfnnkosAe2vVG"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "El Primer Noel",
-        "url": "https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF"
-      },
-      "artists": [
-        {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
-        }
-      ],
-      "duration_ms": 190253,
-      "name": "El Primer Noel",
-      "url": "https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "El Mejor Regalo",
         "url": "https://open.spotify.com/album/0KYqd7MG02VxLKWc8bnnl7"
       },
@@ -1859,18 +1827,34 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Blanca Navidad",
-        "url": "https://open.spotify.com/album/7GoNMSAQcTiPui6V2LcJNe"
+        "name": "El Primer Noel",
+        "url": "https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF"
       },
       "artists": [
         {
-          "name": "Cuarteto Vocal Sabbath",
-          "url": "https://open.spotify.com/artist/7stUAI6LTmGJWKaea2TOJo"
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
         }
       ],
-      "duration_ms": 238855,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/4LUWLcOE81pawH4FAi3UXu"
+      "duration_ms": 190253,
+      "name": "El Primer Noel",
+      "url": "https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/6VCsFBSPBKUHkU5Lvoknh8"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        }
+      ],
+      "duration_ms": 169230,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/7DdzZR7HApfnnkosAe2vVG"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1887,6 +1871,38 @@
       "duration_ms": 180915,
       "name": "Fiestas De Navidad",
       "url": "https://open.spotify.com/track/5pkYpPTEoOacNgbJ04t9SA"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/7GoNMSAQcTiPui6V2LcJNe"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Vocal Sabbath",
+          "url": "https://open.spotify.com/artist/7stUAI6LTmGJWKaea2TOJo"
+        }
+      ],
+      "duration_ms": 238855,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/4LUWLcOE81pawH4FAi3UXu"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Noche de Paz",
+        "url": "https://open.spotify.com/album/6lIjL1XdZmY6rKjX2l8Tv0"
+      },
+      "artists": [
+        {
+          "name": "Celeste & Wilber",
+          "url": "https://open.spotify.com/artist/0z8qKQvfadsbeqHhMKIavF"
+        }
+      ],
+      "duration_ms": 277857,
+      "name": "Noche de Paz",
+      "url": "https://open.spotify.com/track/1EbW5NTsbAwkfy1rUaP2yG"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1919,22 +1935,6 @@
       "duration_ms": 219798,
       "name": "Espiritu Santo",
       "url": "https://open.spotify.com/track/2mIOrzmVSD9V3RdsBk1Qgb"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "Noche de Paz",
-        "url": "https://open.spotify.com/album/6lIjL1XdZmY6rKjX2l8Tv0"
-      },
-      "artists": [
-        {
-          "name": "Celeste & Wilber",
-          "url": "https://open.spotify.com/artist/0z8qKQvfadsbeqHhMKIavF"
-        }
-      ],
-      "duration_ms": 277857,
-      "name": "Noche de Paz",
-      "url": "https://open.spotify.com/track/1EbW5NTsbAwkfy1rUaP2yG"
     },
     {
       "added_at": "2025-12-12 05:00:50",

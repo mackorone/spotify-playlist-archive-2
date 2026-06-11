@@ -1,6 +1,6 @@
 {
   "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: Nicol\u00f2 Filippucci",
-  "num_followers": 460302,
+  "num_followers": 460279,
   "original_name": "GENERAZIONE Z",
   "owner": {
     "name": "Spotify",
@@ -327,17 +327,21 @@
     {
       "added_at": "2026-06-09 08:58:15",
       "album": {
-        "name": "Cuore rotto",
+        "name": "Cuore rotto (feat. Finesse)",
         "url": "https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9"
       },
       "artists": [
         {
           "name": "Tony Boy",
           "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
         }
       ],
       "duration_ms": 140000,
-      "name": "Cuore rotto",
+      "name": "Cuore rotto (feat. Finesse)",
       "url": "https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN"
     },
     {

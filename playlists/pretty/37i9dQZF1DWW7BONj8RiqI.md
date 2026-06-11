@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Voice
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,629 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,667 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 17 | [Big Bad Soca](https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:40 |
 | 18 | [Mood \(feat\. Kes\)](https://open.spotify.com/track/4RfymDIA8oimN1Z4Oc0X1x) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Mood \(feat\. Kes\)](https://open.spotify.com/album/0tnvhYRVA97Nt0Zu6cKnLf) | 3:37 |
 | 19 | [Splinters](https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [iShal](https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS) | 3:36 |
-| 20 | [Doux Doux Darlin](https://open.spotify.com/track/77efykPXrKPWQUVN7CTvPa) | [Christo](https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj), [AdvoKit](https://open.spotify.com/artist/1iCwskOTDRHaM4NgMM0KVf) | [Doux Doux Darlin](https://open.spotify.com/album/2UKUrjsnHJx0B4V4Po68sM) | 3:12 |
-| 21 | [Wotless](https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Wotless Carnival Album](https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr) | 3:38 |
+| 20 | [Wotless](https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Wotless Carnival Album](https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr) | 3:38 |
+| 21 | [Doux Doux Darlin](https://open.spotify.com/track/77efykPXrKPWQUVN7CTvPa) | [Christo](https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj), [AdvoKit](https://open.spotify.com/artist/1iCwskOTDRHaM4NgMM0KVf) | [Doux Doux Darlin](https://open.spotify.com/album/2UKUrjsnHJx0B4V4Po68sM) | 3:12 |
 | 22 | [Lucy](https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Bakanation](https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd) | 3:30 |
 | 23 | [Hard Fete](https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Hard Fete](https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK) | 3:50 |
 | 24 | [How She Like It](https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC) | [Hypasounds](https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF) | [How She Like It](https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC) | 3:01 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 47 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 |
 | 48 | [D N A](https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [D N A](https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8) | 3:26 |
 | 49 | [No Behavior Shell Down](https://open.spotify.com/track/713bTySu02xdpMMap8UPQv) | [Cloud 5](https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL) | [No Behavior Shell Down](https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO) | 4:22 |
-| 50 | [Just a Little Bit](https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Queen of Bacchanal](https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3) | 3:54 |
-| 51 | [Soca Start](https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ) | [Soca Start](https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ) | 2:21 |
-| 52 | [Face Beat](https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG) | [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Face Beat](https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM) | 2:23 |
+| 50 | [Face Beat](https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG) | [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Face Beat](https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM) | 2:23 |
+| 51 | [Just a Little Bit](https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Queen of Bacchanal](https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3) | 3:54 |
+| 52 | [Soca Start](https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ) | [Soca Start](https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ) | 2:21 |
 | 53 | [Move Out D Way](https://open.spotify.com/track/4XKEKCOyl0aAIuG3n8aD1A) | [Paris Coutain](https://open.spotify.com/artist/57EGf3uPUy2maRE9G2kpRS), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Move Out D Way](https://open.spotify.com/album/1uRHuI74AGg69bsLhzlV3G) | 3:16 |
 | 54 | [Down Dey](https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT), [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq) | [Down Dey](https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F) | 2:13 |
 | 55 | [Come Home](https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Come Home](https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7) | 4:18 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 82 | [Rukshun](https://open.spotify.com/track/2CXUEF8Ao6dPllVJC3so3C) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Darkseid Riddim](https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX) | 2:37 |
 | 83 | [How ah Livin](https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [How ah Livin](https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj) | 3:49 |
 | 84 | [Sit on My Face](https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc) | [Zido](https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq) | [Sit on My Face](https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg) | 1:27 |
-| 85 | [Long Time](https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur) | [Arrow](https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm) | [Soca Savage](https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x) | 3:53 |
-| 86 | [Take Bamboo](https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Melick](https://open.spotify.com/artist/26QL5yG54Jo5TV405TDyzP) | [Dutty Dutty Riddim](https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe) | 2:49 |
+| 85 | [Take Bamboo](https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Melick](https://open.spotify.com/artist/26QL5yG54Jo5TV405TDyzP) | [Dutty Dutty Riddim](https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe) | 2:49 |
+| 86 | [Long Time](https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur) | [Arrow](https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm) | [Soca Savage](https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x) | 3:53 |
 | 87 | [Front Yard Wet](https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Front Yard Wet](https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk) | 2:51 |
 | 88 | [Carnival Jumbie](https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [The Carnival Jumbies Experiment](https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga) | 2:38 |
 | 89 | [Bam Bam](https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Bam Bam](https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W) | 2:47 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 97 | [Look Back](https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Look Back](https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP) | 2:31 |
 | 98 | [Spoil You](https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE) | [Shemmy J](https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2) | [Spoil You](https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb) | 3:08 |
 | 99 | [Energy](https://open.spotify.com/track/1CPMKAViIeLiYZKFqRfYQ1) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Energy](https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk) | 3:32 |
-| 100 | [EUPHORIA](https://open.spotify.com/track/6PvhVJuL4TN3NJN0RWa4WA) | [Certified Sampson](https://open.spotify.com/artist/7Er5Bbp9JMbSzapxQ77Ygm), [Sekon Sta](https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk) | [EUPHORIA](https://open.spotify.com/album/3pEALunB4gXhOUfAuP0Z5g) | 3:24 |
+| 100 | [Blind](https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Blind](https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS) | 3:16 |
 
 Snapshot ID: `AAAAAHkPPndI570nG19y2rFTIoBzET4F`

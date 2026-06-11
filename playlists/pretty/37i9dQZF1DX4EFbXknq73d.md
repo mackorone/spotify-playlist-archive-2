@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked tasty jams\. Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,138 likes - 90 songs - 12 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,167 likes - 90 songs - 12 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 28 | [Friend of the Devil](https://open.spotify.com/track/5ZLzl6T8JwqMTMdoE0nCbU) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty](https://open.spotify.com/album/7rqgm1BnAZ8I4d6hukpkdg) | 3:21 |
 | 29 | [Keep On Growing \- Live](https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 10:50 |
 | 30 | [Fire On The Mountain \- Live](https://open.spotify.com/track/39gGB1MdnM0pCdhLdFxlpl) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC), [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU), [Bill Kreutzmann](https://open.spotify.com/artist/1wk6pg0mhB8jTm9Y6I4bNV) | [Dear Jerry: Celebrating The Music Of Jerry Garcia \(Live\)](https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj) | 6:53 |
-| 31 | [Greatest Story Ever Told](https://open.spotify.com/track/3vlBIfY2xbdZXfJcS5m51S) | [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC) | [Ace](https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT) | 3:43 |
+| 31 | [Greatest Story Ever Told](https://open.spotify.com/track/3vlBIfY2xbdZXfJcS5m51S) | [Bobby Weir](https://open.spotify.com/artist/5AAsyaUXf42etNHi3Rz1Fi) | [Ace](https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT) | 3:43 |
 | 32 | [Fat Man In The Bathtub \- Live at Lisner Auditorium, Washington, DC, 8/10/1977](https://open.spotify.com/track/2QvMk15JHTjVH3KDoF26NH) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Waiting for Columbus \(Live Version; Deluxe Edition\)](https://open.spotify.com/album/2TtmZyFBqydHgAk6r8mbbM) | 4:53 |
 | 33 | [Railroad Highway](https://open.spotify.com/track/6hYWzQahtAyysqR5ndtvLr) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz) | [Leftover Salmon: Live](https://open.spotify.com/album/5dtrGyP5IdOUcXXBGRr1yM) | 12:43 |
 | 34 | [Franklin's Tower \- 2013 Remaster](https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Blues for Allah \(2013 Remaster\)](https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv) | 4:34 |

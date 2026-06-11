@@ -1,6 +1,6 @@
 {
   "description": "take the road less traveled ",
-  "num_followers": 42565,
+  "num_followers": 42579,
   "original_name": "Americana Drive ",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "Fear and Saturday Night",
-        "url": "https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1"
-      },
-      "artists": [
-        {
-          "name": "Ryan Bingham",
-          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
-        }
-      ],
-      "duration_ms": 255697,
-      "name": "Nobody Knows My Trouble",
-      "url": "https://open.spotify.com/track/5qyIIrOLV5CCi4YzicRdwT"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "Are We There",
         "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 191413,
       "name": "Cardinal",
       "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "Fear and Saturday Night",
+        "url": "https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "duration_ms": 255697,
+      "name": "Nobody Knows My Trouble",
+      "url": "https://open.spotify.com/track/5qyIIrOLV5CCi4YzicRdwT"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "The Late Great Townes Van Zandt",
-        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Poncho & Lefty",
-      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "Ivory Castanets",
         "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 213866,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "The Late Great Townes Van Zandt",
+        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Poncho & Lefty",
+      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "Purple Gas",
-        "url": "https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk"
+        "name": "Goodbye California",
+        "url": "https://open.spotify.com/album/0IF4AHoc5Vx4TtE03JhyFN"
       },
       "artists": [
         {
-          "name": "Noeline Hofmann",
-          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+          "name": "Rose Betts",
+          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
         }
       ],
-      "duration_ms": 227441,
-      "name": "August",
-      "url": "https://open.spotify.com/track/3aEstsBRNAm3sJ7ZXtAlqr"
+      "duration_ms": 163010,
+      "name": "Goodbye California",
+      "url": "https://open.spotify.com/track/5KMRa1o2QZBRB5zAUDgjjY"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "Goodbye California",
-        "url": "https://open.spotify.com/album/0IF4AHoc5Vx4TtE03JhyFN"
+        "name": "Purple Gas",
+        "url": "https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk"
       },
       "artists": [
         {
-          "name": "Rose Betts",
-          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
         }
       ],
-      "duration_ms": 163010,
-      "name": "Goodbye California",
-      "url": "https://open.spotify.com/track/5KMRa1o2QZBRB5zAUDgjjY"
+      "duration_ms": 227441,
+      "name": "August",
+      "url": "https://open.spotify.com/track/3aEstsBRNAm3sJ7ZXtAlqr"
     },
     {
       "added_at": "2026-06-05 20:49:32",

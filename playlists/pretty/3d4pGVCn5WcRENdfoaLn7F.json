@@ -1,12 +1,12 @@
 {
-  "description": "These are some independent alternative rock bands you need to hear.",
+  "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
   "num_followers": 719,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADm993AXU7t1Nl1UEIPsPlXSuKW0hK",
+  "snapshot_id": "AAADplYwbdHkNnt8dngkBFNHaUkaJXSs",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3"
     },
     {
+      "added_at": "2025-11-21 12:52:18",
+      "album": {
+        "name": "Bright Lights / Low Lives",
+        "url": "https://open.spotify.com/album/5PN8glEtGnWKAbB1TtgQYv"
+      },
+      "artists": [
+        {
+          "name": "Eddie Wrevlonne",
+          "url": "https://open.spotify.com/artist/040oRqmHKhgWDabtyQBiqa"
+        }
+      ],
+      "duration_ms": 244626,
+      "name": "Say Hello to the Void for Me",
+      "url": "https://open.spotify.com/track/4KxYDexsEwl7bKvCHdzuit"
+    },
+    {
       "added_at": "2025-12-05 18:42:05",
       "album": {
         "name": "New Shit Has Come To Light",
@@ -57,22 +73,6 @@
       "url": "https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl"
     },
     {
-      "added_at": "2026-05-31 15:04:10",
-      "album": {
-        "name": "Sinking Into The Ocean",
-        "url": "https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc"
-      },
-      "artists": [
-        {
-          "name": "Maia and the Squires",
-          "url": "https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Playground",
-      "url": "https://open.spotify.com/track/0hUbr66SmawTFyn17USbQS"
-    },
-    {
       "added_at": "2026-03-28 17:49:42",
       "album": {
         "name": "Jane",
@@ -87,6 +87,22 @@
       "duration_ms": 181593,
       "name": "Jane",
       "url": "https://open.spotify.com/track/4XedfQTRrrkH48buhGSbFd"
+    },
+    {
+      "added_at": "2026-05-31 15:04:10",
+      "album": {
+        "name": "Sinking Into The Ocean",
+        "url": "https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc"
+      },
+      "artists": [
+        {
+          "name": "Maia and the Squires",
+          "url": "https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/0hUbr66SmawTFyn17USbQS"
     },
     {
       "added_at": "2026-03-26 01:43:30",
@@ -281,22 +297,6 @@
       "url": "https://open.spotify.com/track/3QQFWRQrpvM4O1EioIQomK"
     },
     {
-      "added_at": "2025-11-21 12:52:18",
-      "album": {
-        "name": "Bright Lights / Low Lives",
-        "url": "https://open.spotify.com/album/5PN8glEtGnWKAbB1TtgQYv"
-      },
-      "artists": [
-        {
-          "name": "Eddie Wrevlonne",
-          "url": "https://open.spotify.com/artist/040oRqmHKhgWDabtyQBiqa"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "Say Hello to the Void for Me",
-      "url": "https://open.spotify.com/track/4KxYDexsEwl7bKvCHdzuit"
-    },
-    {
       "added_at": "2026-01-29 14:45:32",
       "album": {
         "name": "When It's Gone",
@@ -361,22 +361,6 @@
       "url": "https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv"
     },
     {
-      "added_at": "2026-02-16 16:12:44",
-      "album": {
-        "name": "Prelude",
-        "url": "https://open.spotify.com/album/3tVyCMhPK73fJ9jzYTfOik"
-      },
-      "artists": [
-        {
-          "name": "Solace in Me",
-          "url": "https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "Survive You",
-      "url": "https://open.spotify.com/track/4qPQHrdW6aaW6hpS6vUzN3"
-    },
-    {
       "added_at": "2026-01-11 13:10:27",
       "album": {
         "name": "Just A Good Time 80s Jam",
@@ -391,38 +375,6 @@
       "duration_ms": 154376,
       "name": "Just A Good Time 80s Jam",
       "url": "https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22"
-    },
-    {
-      "added_at": "2026-02-19 16:02:49",
-      "album": {
-        "name": "Fly Eagle Fly",
-        "url": "https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv"
-      },
-      "artists": [
-        {
-          "name": "O KANENAS",
-          "url": "https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G"
-    },
-    {
-      "added_at": "2026-02-20 02:27:05",
-      "album": {
-        "name": "Eighty-Six",
-        "url": "https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG"
-      },
-      "artists": [
-        {
-          "name": "Lake Point Drive",
-          "url": "https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn"
-        }
-      ],
-      "duration_ms": 223548,
-      "name": "Eighty-Six",
-      "url": "https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf"
     },
     {
       "added_at": "2026-02-28 15:36:22",
@@ -509,22 +461,6 @@
       "url": "https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9"
     },
     {
-      "added_at": "2026-03-23 14:45:58",
-      "album": {
-        "name": "under my skin",
-        "url": "https://open.spotify.com/album/4PxaXcBumTmEBSlzbvtECD"
-      },
-      "artists": [
-        {
-          "name": "PUNKFICTION",
-          "url": "https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "under my skin",
-      "url": "https://open.spotify.com/track/1rVB6X6CKu9TZA881x1a4D"
-    },
-    {
       "added_at": "2026-03-23 14:49:28",
       "album": {
         "name": "Keepin' Up With the Jones'",
@@ -555,38 +491,6 @@
       "duration_ms": 145157,
       "name": "Stay Back",
       "url": "https://open.spotify.com/track/5Z8V6cOh37E7yNKaGlNcuC"
-    },
-    {
-      "added_at": "2026-03-27 13:28:04",
-      "album": {
-        "name": "bad lover",
-        "url": "https://open.spotify.com/album/0M4u625Q69qPri1148zoe3"
-      },
-      "artists": [
-        {
-          "name": "Brake Loose",
-          "url": "https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA"
-        }
-      ],
-      "duration_ms": 297086,
-      "name": "bad lover",
-      "url": "https://open.spotify.com/track/4x6kXW5VVDFON1BaVI9OtG"
-    },
-    {
-      "added_at": "2026-03-27 21:20:12",
-      "album": {
-        "name": "Cut and Sell",
-        "url": "https://open.spotify.com/album/11dGTJWrlOQMTOliQgi5vn"
-      },
-      "artists": [
-        {
-          "name": "The Homme",
-          "url": "https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm"
-        }
-      ],
-      "duration_ms": 163915,
-      "name": "Cut and Sell",
-      "url": "https://open.spotify.com/track/0L6sh94exzCeYzP3s72a4v"
     },
     {
       "added_at": "2026-03-27 21:47:02",
@@ -817,22 +721,6 @@
       "url": "https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6"
     },
     {
-      "added_at": "2026-05-12 02:39:33",
-      "album": {
-        "name": "Ignite Devil",
-        "url": "https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5"
-      },
-      "artists": [
-        {
-          "name": "Starikova",
-          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
-        }
-      ],
-      "duration_ms": 177940,
-      "name": "Ignite Devil",
-      "url": "https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw"
-    },
-    {
       "added_at": "2026-05-12 02:40:34",
       "album": {
         "name": "Something Going Down",
@@ -895,22 +783,6 @@
       "duration_ms": 201184,
       "name": "Noir",
       "url": "https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD"
-    },
-    {
-      "added_at": "2026-05-15 16:37:32",
-      "album": {
-        "name": "Different Doors",
-        "url": "https://open.spotify.com/album/47kTyebjcjYRNLHdE6YwDT"
-      },
-      "artists": [
-        {
-          "name": "Nick Wallisch",
-          "url": "https://open.spotify.com/artist/3CUJTfHnXqWKlepkfGjHZk"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Different Doors",
-      "url": "https://open.spotify.com/track/6xUa1e4JfZtC7OfEu4Pb8X"
     },
     {
       "added_at": "2026-05-18 12:32:01",

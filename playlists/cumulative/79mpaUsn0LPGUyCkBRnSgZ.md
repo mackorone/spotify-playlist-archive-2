@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,139 songs - 3 day 1 hr 34 min
+1,140 songs - 3 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [I](https://open.spotify.com/track/67eZrCOBvnQtURCkICXySb) | [Rocks and Waves Song Circle](https://open.spotify.com/artist/3IGl0j2I9KKjiOgtiBFmv7) | [Songs I\-V](https://open.spotify.com/album/6hHKEiQIKkcelLnUPjpy71) | 5:40 | 2024-01-18 |  |
 | [I Am One \- Remastered 2011](https://open.spotify.com/track/4iChoIsP14WSZ575hCqcGK) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Remastered\)](https://open.spotify.com/album/7wJTn94PWzZ3zE0lg3qhld) | 4:06 | 2025-09-06 |  |
 | [I am the pipe I hit myself with](https://open.spotify.com/track/6NWGkPcDDhKFIvCeutoaWt) | [aya](https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH) | [hexed!](https://open.spotify.com/album/1hNGdfhOWtdbUoFOZ1Sc6J) | 2:25 | 2026-01-02 |  |
+| [I Ate the Most](https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:06 | 2026-06-11 |  |
 | [I Believe \(When I Fall In Love It Will Be Forever\)](https://open.spotify.com/track/1fdQg2yrTYCMOviVCw1Xdh) | [Art Garfunkel](https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS) | [Breakaway](https://open.spotify.com/album/1XrVWVKKfRlD0waskKj5uy) | 3:51 | 2022-07-27 |  |
 | [I bled on stage at first ave](https://open.spotify.com/track/5HSOM17OTzUpD9PYXWupXj) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [another triumph of ghetto engineering](https://open.spotify.com/album/6el9i3xYmiw1OjTMS3Fynx) | 2:45 | 2023-08-25 | 2023-12-14 |
 | [I Don’t Know How I Survive](https://open.spotify.com/track/0b2vqB7QNT4z8nnaYqbuel) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:40 | 2024-02-14 | 2024-02-16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Eden's Echo",
+  "description": "The best new music by independent artists and labels in India. Cover - Hemang",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1362,6 +1362,24 @@
       "duration_ms": 300000,
       "name": "ABRACADABRA",
       "url": "https://open.spotify.com/track/65Ep0TP3QqAIo83u9jlj8M"
+    },
+    {
+      "album": {
+        "name": "absent-minded freak",
+        "url": "https://open.spotify.com/album/6sEg11bzLRFBo1quGNwKhS"
+      },
+      "artists": [
+        {
+          "name": "Aarya",
+          "url": "https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156984,
+      "name": "absent-minded freak",
+      "url": "https://open.spotify.com/track/2HG0beWmR0ZXuzxAZw8Zq6"
     },
     {
       "album": {
@@ -6819,6 +6837,24 @@
     },
     {
       "album": {
+        "name": "Darr",
+        "url": "https://open.spotify.com/album/0VZ3TwblBqNaVMZBlazRW0"
+      },
+      "artists": [
+        {
+          "name": "Hemang",
+          "url": "https://open.spotify.com/artist/0Mcoqh0ZKmp41Apx7sKyfa"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202230,
+      "name": "Darr",
+      "url": "https://open.spotify.com/track/0J9cayYWTt38N0vxhxWdih"
+    },
+    {
+      "album": {
         "name": "Dasht E Tanhaayi",
         "url": "https://open.spotify.com/album/6p0kEVBhBY4dDqbdkECiBZ"
       },
@@ -6892,7 +6928,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 345789,
       "name": "Dastoor",
       "url": "https://open.spotify.com/track/6dL6CvrPOBjVEs0FVVe8MN"
@@ -12583,6 +12619,24 @@
     },
     {
       "album": {
+        "name": "How Do I Love?",
+        "url": "https://open.spotify.com/album/2gmWnuQsYitAwUYJMfTJNe"
+      },
+      "artists": [
+        {
+          "name": "Rahul Advani",
+          "url": "https://open.spotify.com/artist/4ol2EjDnh4lRaTk3lfFtQb"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227637,
+      "name": "How Do I Love?",
+      "url": "https://open.spotify.com/track/7b6A3dnfqJPZoAInvbnrI1"
+    },
+    {
+      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/2hvqcnLBBQSfxiDCNIEjCA"
       },
@@ -15990,7 +16044,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 240000,
       "name": "Kaagaz",
       "url": "https://open.spotify.com/track/43IO9agCdpbAe2AiSveUMF"
@@ -16142,7 +16196,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 206232,
       "name": "Kaash",
       "url": "https://open.spotify.com/track/56h29NGW6aEIGS5jj9kgDe"
@@ -20558,7 +20612,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 253333,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2G915Nr3fLHUyoAzkzwJSh"
@@ -25142,6 +25196,24 @@
       "duration_ms": 162272,
       "name": "O Sanam",
       "url": "https://open.spotify.com/track/2BWOGVkXKE0U5T4Fwb6flB"
+    },
+    {
+      "album": {
+        "name": "Oba",
+        "url": "https://open.spotify.com/album/2CmDSY9Eglr8uTBFi5DYpF"
+      },
+      "artists": [
+        {
+          "name": "Imna Yaden",
+          "url": "https://open.spotify.com/artist/0CcmQrW17ymOeBWkgvg1vR"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261412,
+      "name": "Oba",
+      "url": "https://open.spotify.com/track/4eckcb7lW7atOL4fsvXFgk"
     },
     {
       "album": {
@@ -35069,6 +35141,28 @@
     },
     {
       "album": {
+        "name": "Tu Na Aayi",
+        "url": "https://open.spotify.com/album/1hD581ohlD9YwRxzky1YpR"
+      },
+      "artists": [
+        {
+          "name": "Snehil Jain",
+          "url": "https://open.spotify.com/artist/4NomYUWemetc7nCw28G5HF"
+        },
+        {
+          "name": "Sahil Joshi",
+          "url": "https://open.spotify.com/artist/7gp4BOQuRrBqOkCZr32tVf"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Tu Na Aayi",
+      "url": "https://open.spotify.com/track/5gsovysICg6TJVRUf0ZM16"
+    },
+    {
+      "album": {
         "name": "Tu Na Jaane (From \"Gulmohar\")",
         "url": "https://open.spotify.com/album/4x3kbxgtHEXRpfO8v3cAHo"
       },
@@ -37274,7 +37368,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 212488,
       "name": "With You",
       "url": "https://open.spotify.com/track/2G2L3n7g28xtMriZS10QPu"

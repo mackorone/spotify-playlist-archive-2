@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
-  "num_followers": 575974,
+  "num_followers": 575940,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-05-19 07:30:05",
       "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
-    },
-    {
-      "added_at": "2026-05-19 07:30:05",
-      "album": {
         "name": "Nahanap Kita",
         "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 317693,
       "name": "Nahanap Kita",
       "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
+    },
+    {
+      "added_at": "2026-05-19 07:30:05",
+      "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2026-05-19 07:30:05",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-05-19 07:30:05",
       "album": {
+        "name": "Simula Pa Nung Una",
+        "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
+      },
+      "artists": [
+        {
+          "name": "Patch Quiwa",
+          "url": "https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn"
+        }
+      ],
+      "duration_ms": 255661,
+      "name": "Simula Pa Nung Una",
+      "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
+    },
+    {
+      "added_at": "2026-05-19 07:30:05",
+      "album": {
         "name": "Gusto",
         "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 260000,
       "name": "Gusto feat. Al James",
       "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
-    },
-    {
-      "added_at": "2026-05-19 07:30:05",
-      "album": {
-        "name": "Simula Pa Nung Una",
-        "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
-      },
-      "artists": [
-        {
-          "name": "Patch Quiwa",
-          "url": "https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn"
-        }
-      ],
-      "duration_ms": 255661,
-      "name": "Simula Pa Nung Una",
-      "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
     },
     {
       "added_at": "2026-05-19 07:30:05",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-05-19 07:30:05",
       "album": {
-        "name": "Panatag",
-        "url": "https://open.spotify.com/album/038xoGzKvVvU5DgGvbqRMh"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        }
-      ],
-      "duration_ms": 229403,
-      "name": "Panatag",
-      "url": "https://open.spotify.com/track/5obkQ3qSb30bFrda9rgtd7"
-    },
-    {
-      "added_at": "2026-05-19 07:30:05",
-      "album": {
         "name": "Pag-Ibig (Meron Ba?)",
         "url": "https://open.spotify.com/album/5INHCPcl1iCJl01rOt8vGI"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 262840,
       "name": "Pag-Ibig (Meron Ba?)",
       "url": "https://open.spotify.com/track/2wffLiu6MCIL4TQd7hvf5m"
+    },
+    {
+      "added_at": "2026-05-19 07:30:05",
+      "album": {
+        "name": "Panatag",
+        "url": "https://open.spotify.com/album/038xoGzKvVvU5DgGvbqRMh"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "duration_ms": 229403,
+      "name": "Panatag",
+      "url": "https://open.spotify.com/track/5obkQ3qSb30bFrda9rgtd7"
     },
     {
       "added_at": "2026-05-19 07:30:05",

@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 727383,
+  "num_followers": 727346,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "VENOLOGY",
-        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        }
-      ],
-      "duration_ms": 252053,
-      "name": "Sun, Moon & Herbs",
-      "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "Inside Friend (feat. John Mayer)",
         "url": "https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 254176,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3VHF4e5x49Mcpom7zPE2A9"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "VENOLOGY",
+        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        }
+      ],
+      "duration_ms": 252053,
+      "name": "Sun, Moon & Herbs",
+      "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Friends & Family",
-        "url": "https://open.spotify.com/album/1nUIe59HS9voX4GS2W77tX"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "The Only Way",
-      "url": "https://open.spotify.com/track/1V9GYXroUEuxUXYAzNkysN"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 181290,
       "name": "Gave You My All",
       "url": "https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Friends & Family",
+        "url": "https://open.spotify.com/album/1nUIe59HS9voX4GS2W77tX"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "The Only Way",
+      "url": "https://open.spotify.com/track/1V9GYXroUEuxUXYAzNkysN"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/0aQ68gBcrnVrsjXFIJzKLR"
+      },
+      "artists": [
+        {
+          "name": "Beverley Knight",
+          "url": "https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "Shoulda Woulda Coulda",
+      "url": "https://open.spotify.com/track/60klOfI3BgFCTWrnve4TAH"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
         "name": "Ten Cane Row (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 209586,
       "name": "Ten Cane Row (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/0aQ68gBcrnVrsjXFIJzKLR"
-      },
-      "artists": [
-        {
-          "name": "Beverley Knight",
-          "url": "https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "Shoulda Woulda Coulda",
-      "url": "https://open.spotify.com/track/60klOfI3BgFCTWrnve4TAH"
     },
     {
       "added_at": "2026-04-16 23:00:42",

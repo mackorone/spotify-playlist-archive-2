@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 69711,
+  "num_followers": 69714,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAlbTtY14euW0dSOMyquaoiqfKQ4",
+  "snapshot_id": "AAAAAAkk3kWvIh9OXIvH3xI+WZj+bfao",
   "tracks": [
     {
       "added_at": "2026-03-02 07:46:32",
@@ -99,6 +99,30 @@
       "duration_ms": 266590,
       "name": "Neenobbale (From \"Life Today (Kannada)\")",
       "url": "https://open.spotify.com/track/4k6yhERNSWuyBiqkCg4kQK"
+    },
+    {
+      "added_at": "2026-06-10 09:20:06",
+      "album": {
+        "name": "Quarterru (From \"Balaramana Dinagalu\")",
+        "url": "https://open.spotify.com/album/02d8hRIshRUbWYOwzMMkpL"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Sanjana Kalmanje",
+          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "Quarterru (From \"Balaramana Dinagalu\")",
+      "url": "https://open.spotify.com/track/3huccCWIrdmZnIbWDocVvu"
     },
     {
       "added_at": "2026-05-15 12:33:35",
@@ -243,6 +267,34 @@
       "duration_ms": 159587,
       "name": "Kannanchale (From \"Asurana Kaiyalli Parijatha'')",
       "url": "https://open.spotify.com/track/5oSjNKLI32F7BGuI5J3dFg"
+    },
+    {
+      "added_at": "2026-06-10 09:44:47",
+      "album": {
+        "name": "Ninnane Nannane (From \"Karikaada - Kannada\")",
+        "url": "https://open.spotify.com/album/6rAXm6w6O0WlNRo5AeAW8b"
+      },
+      "artists": [
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        },
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        },
+        {
+          "name": "Shashank Sheshagiri",
+          "url": "https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy"
+        },
+        {
+          "name": "Gilli Venkatesh",
+          "url": "https://open.spotify.com/artist/3EISdTvkjnETXtRbCjr1Pv"
+        }
+      ],
+      "duration_ms": 195344,
+      "name": "Ninnane Nannane (From \"Karikaada - Kannada\")",
+      "url": "https://open.spotify.com/track/7bQOZ0XdsMPH9oQUVfnZYr"
     },
     {
       "added_at": "2026-06-09 11:37:19",
@@ -1285,30 +1337,6 @@
       "url": "https://open.spotify.com/track/4LQ2yAKJLPnlMIUGXHG0kU"
     },
     {
-      "added_at": "2026-02-10 09:50:01",
-      "album": {
-        "name": "Rakkasapuradhol (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0jF9XRzEzXXrqnYkqD4DhT"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Kraanthi Kumar",
-          "url": "https://open.spotify.com/artist/6IEbIzKIMmWKjyATLRtCYC"
-        },
-        {
-          "name": "Nishan Rai",
-          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
-        }
-      ],
-      "duration_ms": 112793,
-      "name": "Rakkasapuradhol Title Track",
-      "url": "https://open.spotify.com/track/1ND5PI9m4E6ndn0xg3YJyu"
-    },
-    {
       "added_at": "2026-03-16 10:42:54",
       "album": {
         "name": "Haaro Hakki (From \"Asurana Kaiyalli Parijatha'')",
@@ -1799,26 +1827,6 @@
       "duration_ms": 245756,
       "name": "Higondu Manavi (From \"Maayavi\")",
       "url": "https://open.spotify.com/track/0Tg9xoPReNwwx60pxMrEjp"
-    },
-    {
-      "added_at": "2026-02-02 11:07:54",
-      "album": {
-        "name": "Tulasi",
-        "url": "https://open.spotify.com/album/7GGxSS970fIcIubWl4TwXI"
-      },
-      "artists": [
-        {
-          "name": "Sumedh K",
-          "url": "https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz"
-        },
-        {
-          "name": "Sumant Shridhar",
-          "url": "https://open.spotify.com/artist/7GA0Xau5hmFnis85SKwPHX"
-        }
-      ],
-      "duration_ms": 213241,
-      "name": "Tulasi",
-      "url": "https://open.spotify.com/track/1CQ7sRQeHw1xIzLSOkGXHn"
     }
   ],
   "unique_name": "Latest Kannada",

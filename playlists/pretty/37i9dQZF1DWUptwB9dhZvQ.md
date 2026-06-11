@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : KH X RK Reunion
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,503 likes - 75 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,518 likes - 75 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 24 | [Padaiyappa Theme](https://open.spotify.com/track/4CNDukte38IXyjvSFR55I3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Padaiyappa \(Original Background Score\)](https://open.spotify.com/album/6o4v88RU1YBb0mjjQPt83k) | 0:46 |
 | 25 | [Dhanush Kodi's Theme](https://open.spotify.com/track/415We0rxvC1bJ9yzXyfBa9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 1:55 |
 | 26 | [Return of The Dragon](https://open.spotify.com/track/6EjOIgJEDGhkJIH0RnGG59) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy) | [Dragon \(Original Score\)](https://open.spotify.com/album/4J53sSdhRl5wA2qfw5AWy2) | 3:12 |
-| 27 | [Thiruppi Kudukkum Neram](https://open.spotify.com/track/2oxZzvIiInIGtFDLia33w2) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Varisu Original Sound Track](https://open.spotify.com/album/1BQenhYzXw2QwFgva3d8RL) | 1:56 |
-| 28 | [Suruli \- Background Score](https://open.spotify.com/track/6Rw6t4Lz8oRn69tyJd446x) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jagame Thandhiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UJzrIeqV0yj1tpLihFk07) | 1:21 |
+| 27 | [Suruli \- Background Score](https://open.spotify.com/track/6Rw6t4Lz8oRn69tyJd446x) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jagame Thandhiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UJzrIeqV0yj1tpLihFk07) | 1:21 |
+| 28 | [Thiruppi Kudukkum Neram](https://open.spotify.com/track/2oxZzvIiInIGtFDLia33w2) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Varisu Original Sound Track](https://open.spotify.com/album/1BQenhYzXw2QwFgva3d8RL) | 1:56 |
 | 29 | [Pilot Officer Nedumaran \- Background Score](https://open.spotify.com/track/0Et6G1v1HzdBrgtCu6PC6k) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Soorarai Pottru \(Original Background Score\)](https://open.spotify.com/album/3Ptlh3EuSHa9y9OZaNvqnd) | 0:53 |
 | 30 | [Maanaadu Theme](https://open.spotify.com/track/6mCBXs5VNOS3OuiKrtyWxT) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 2:19 |
 | 31 | [Kanguva Title Announcement \(From "Kanguva"\)](https://open.spotify.com/track/5ZkKUoBOXWbGfhZLxlSJMV) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Kanguva Title Announcement \(From "Kanguva"\)](https://open.spotify.com/album/6gZxjKsHDZMkcKzXARtGa5) | 1:13 |

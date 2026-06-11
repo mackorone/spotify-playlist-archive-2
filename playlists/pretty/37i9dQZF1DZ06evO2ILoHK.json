@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 12953,
+  "num_followers": 12962,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAACEDs8jd6eNck9E3w5D8ZHs",
+  "snapshot_id": "aidXgAAAAADj+QkbHblpNVO8y9A+K5YB",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 201475,
-      "name": "Time Waster",
-      "url": "https://open.spotify.com/track/6KkVR92mAwsA7d011KEFoi"
+      "duration_ms": 206911,
+      "name": "Deadweight",
+      "url": "https://open.spotify.com/track/1yHHdccml15ElmkDsXOYLW"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 206911,
-      "name": "Deadweight",
-      "url": "https://open.spotify.com/track/1yHHdccml15ElmkDsXOYLW"
+      "duration_ms": 192014,
+      "name": "Broken By Design",
+      "url": "https://open.spotify.com/track/0nW3s3rXOwR21EcR6FWVnm"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 192014,
-      "name": "Broken By Design",
-      "url": "https://open.spotify.com/track/0nW3s3rXOwR21EcR6FWVnm"
+      "duration_ms": 201475,
+      "name": "Time Waster",
+      "url": "https://open.spotify.com/track/6KkVR92mAwsA7d011KEFoi"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 171450,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/20BjBJ6ecypTtbEUbceHgS"
+      "duration_ms": 153530,
+      "name": "WIRED",
+      "url": "https://open.spotify.com/track/42Q9LhQAAEeclVxl8unpeA"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 153530,
-      "name": "WIRED",
-      "url": "https://open.spotify.com/track/42Q9LhQAAEeclVxl8unpeA"
+      "duration_ms": 171450,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/20BjBJ6ecypTtbEUbceHgS"
     },
     {
       "added_at": null,

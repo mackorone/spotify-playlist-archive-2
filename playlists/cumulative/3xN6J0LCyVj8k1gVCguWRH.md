@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,123 songs - 14 day 6 hr 18 min
+6,124 songs - 14 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1479,7 +1479,7 @@
 | [Dream Girl](https://open.spotify.com/track/2Gew97fJbolz5D9jiwPqCz) | [Lenny Gazebo](https://open.spotify.com/artist/6xieypSypSPfO5qdlZFMXG), [Vibe Provide Collective](https://open.spotify.com/artist/11mQA5IpVhHpcOPQt4kJCf), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Dream Girl](https://open.spotify.com/album/2PpBVhQoVv2kf33Ysot9G6) | 2:10 | 2024-06-08 | 2024-06-20 |
 | [Dream House](https://open.spotify.com/track/1dDWUNpBIgZVc06aU65vGB) | [Grace Lee](https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh) | [Dream House](https://open.spotify.com/album/5OvVHApc7an0PxgizKaeur) | 2:50 | 2024-01-27 | 2024-02-11 |
 | [Dream I'm In](https://open.spotify.com/track/7gfjlLvQxV9JVXl7aaGobq) | [Night Talks](https://open.spotify.com/artist/2AtastUSfbudzZmPKQTsvz) | [Dream I'm In](https://open.spotify.com/album/4XkvRbodE4RcJcoSiK6kZX) | 3:21 | 2025-04-18 | 2025-04-30 |
-| [Dream of Summer](https://open.spotify.com/track/1BNFek2O2KUY0UMPLKTAxF) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Phil Beaudreau](https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Dream of Summer](https://open.spotify.com/album/4lcPh7hqgmmqjV4UAqGzNO) | 4:06 | 2026-05-30 |  |
+| [Dream of Summer](https://open.spotify.com/track/1BNFek2O2KUY0UMPLKTAxF) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Phil Beaudreau](https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Dream of Summer](https://open.spotify.com/album/4lcPh7hqgmmqjV4UAqGzNO) | 4:06 | 2026-05-30 | 2026-06-11 |
 | [Dream Song](https://open.spotify.com/track/7J6bBnnykhiGvw6zjBP423) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [Please, Come Home](https://open.spotify.com/album/4NrIGbAQCnlkpA8GtalM5T) | 4:31 | 2021-10-23 | 2021-11-07 |
 | [DREAM2U](https://open.spotify.com/track/03JyanEnPlnPK3AlQNR0uh) | [Muhammad $mith](https://open.spotify.com/artist/6DFxdtNB64gpETzLIdOBOD) | [Sadboi/Happyboi](https://open.spotify.com/album/12rqExEIVoQr2wqaN9n9YT) | 2:23 | 2025-03-26 | 2025-04-07 |
 | [Dreamer Too](https://open.spotify.com/track/2RmS9jVUAVRH5dm02SYsVk) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Dreamer Too](https://open.spotify.com/album/1xTqo5gfVw2TfD4djfavZA) | 4:31 | 2025-07-25 | 2025-08-16 |
@@ -5639,6 +5639,7 @@
 | [Vampiro de Sangre Ajena](https://open.spotify.com/track/7N1pt1vCkErPegRLWG6smr) | [Mia Catalina](https://open.spotify.com/artist/2lZWcBs83PIftGNK5jn176) | [Vampiro de Sangre Ajena](https://open.spotify.com/album/4NuFeWHdccvce1BYFceSjh) | 3:28 | 2024-08-15 | 2024-08-23 |
 | [VAMPIROS](https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 2:56 | 2023-07-20 |  |
 | [Vanity Fool](https://open.spotify.com/track/3ooSk2s81OIX51OkkWASD6) | [Peter Serrado](https://open.spotify.com/artist/7gcJVmqrLeEiKfWsTNZ9QK) | [Vanity Fool](https://open.spotify.com/album/6nBWg4bLNbpR0lDaTrgfKZ) | 3:13 | 2022-10-30 | 2022-11-21 |
+| [Velvet](https://open.spotify.com/track/4kB7pEFWcHLU5Fj5DYNt70) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Velvet](https://open.spotify.com/album/5aHpan3qyIx3qNT1CFiXKk) | 3:40 | 2026-06-10 |  |
 | [Velvet Fire](https://open.spotify.com/track/28RZfi7szB8jCZiws7YnsU) | [SlagneY](https://open.spotify.com/artist/4v4ypppwNjPLgjfyQprtmR) | [Velvet Fire](https://open.spotify.com/album/0Vl6lfMoVuTBwk1SfbRtll) | 2:56 | 2025-11-25 | 2025-12-21 |
 | [Ven Pa Ca](https://open.spotify.com/track/19felDAYliRHZSwBwdAO6O) | [HERMANN](https://open.spotify.com/artist/39nfOPNks3gAIk1jIbVVGJ) | [Ven Pa Ca](https://open.spotify.com/album/3DGFY8fwmkgdKu9s0E0Fuc) | 2:36 | 2024-01-10 | 2024-01-28 |
 | [Venice](https://open.spotify.com/track/29SgYi3K9xTnueAOdJCGf8) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Venice](https://open.spotify.com/album/6IzdxPmeIKK5BFZkmDxR0R) | 2:57 | 2021-04-30 | 2021-05-16 |

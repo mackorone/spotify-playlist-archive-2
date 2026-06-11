@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/46nW9gotDIl5QFJjs5bRtA">NEA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-110 songs - 5 hr 46 min
+111 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Sucker for You](https://open.spotify.com/track/15AhbX3z27BVNYMdW0VCnm) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Sucker for You](https://open.spotify.com/album/4G8vvpRiV5k99TGg5gD4Pz) | 3:20 | 2026-03-07 |  |
 | [Suffer](https://open.spotify.com/track/4St0HSmeqbId4bcriS3g0R) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [We Were Young \(The Playlist\)](https://open.spotify.com/album/2uVjQvVAkLfneGroSXvJMW) | 3:29 | 2026-03-07 |  |
 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 | 2026-03-07 |  |
+| [TG4M](https://open.spotify.com/track/4uoumbAMEMaKdtiv763jKz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 2:52 | 2026-06-10 |  |
 | [The Birds](https://open.spotify.com/track/56Gdp4KNxEE8owRsZvAPuC) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [The Birds](https://open.spotify.com/album/1sAcHNDWJsKilDLzxBlBSF) | 2:27 | 2026-03-07 |  |
 | [The Tension](https://open.spotify.com/track/3TV87ai0hYuDa3W5Y5VWTB) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Umbrella Club \- EP](https://open.spotify.com/album/3GXmtYOUCWsp8nXwdYDrix) | 4:32 | 2026-03-07 |  |
 | [Thirsty](https://open.spotify.com/track/1Odcxt8jfkxwqlCIxXv4cn) | [FO&O](https://open.spotify.com/artist/5PldDs8KtXMy0KZ6due44x) | [Coordinates](https://open.spotify.com/album/2IidFea2wQ3kaD0EEtO27q) | 2:41 | 2026-03-07 |  |

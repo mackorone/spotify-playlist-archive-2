@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,114 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,120 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 | 3 | [Feel It](https://open.spotify.com/track/77geRNo8p4BaEtYPpkeFSD) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [19](https://open.spotify.com/album/7D9fLDGU0A95Y0rIakBJA4) | 4:19 |
 | 4 | [Type of Way](https://open.spotify.com/track/6nu35hLc8zsA9bwBpcuf5L) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Goin In \- Reloaded](https://open.spotify.com/album/7HXAggzDfYkYdZoc7sUjcd) | 4:21 |
 | 5 | [Send It \- feat\. Rich Homie Quan](https://open.spotify.com/track/5G674ePHPwtbRbo4E5noZl) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Send It \(feat\. Rich Homie Quan\)](https://open.spotify.com/album/0mQUo8qTCCxTWXcC0Eqo2L) | 3:01 |
-| 6 | [Flex \(Ooh, Ooh, Ooh\)](https://open.spotify.com/track/1TB2Xy8kpysibczcfk5wna) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Legacy of Hits](https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL) | 2:56 |
-| 7 | [Mamacita \(feat\. Rich Homie Quan & Young Thug\)](https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 4:32 |
+| 6 | [Mamacita \(feat\. Rich Homie Quan & Young Thug\)](https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 4:32 |
+| 7 | [Flex \(Ooh, Ooh, Ooh\)](https://open.spotify.com/track/1TB2Xy8kpysibczcfk5wna) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Legacy of Hits](https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL) | 2:56 |
 | 8 | [Walk Thru \(feat\. Problem\)](https://open.spotify.com/track/5259GVdvIOBkcqo6L2i9qw) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 3:07 |
 | 9 | [$ave Dat Money \(feat\. Fetty Wap & Rich Homie Quan\)](https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Professional Rapper](https://open.spotify.com/album/7IhHBoBPWlCSrr8DCmP5ot) | 4:50 |
 | 10 | [Daddy](https://open.spotify.com/track/2UDvJRFkOFCXbsnf9CsMbe) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Summer Sampler](https://open.spotify.com/album/236GZxcyha7tPOExcuFFBK) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 | 49 | [Imma Ride](https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt) | 4:47 |
 | 50 | [Celebrate \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 3:12 |
 
-Snapshot ID: `aiYGAAAAAABx8RyJWCEXMgFv2M0j3QZD`
+Snapshot ID: `aidXgAAAAADrD4/fzgi6W17zd4nINttd`

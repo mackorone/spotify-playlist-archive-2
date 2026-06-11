@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3028346,
+  "num_followers": 3028213,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Lo Pasado Pasado",
-        "url": "https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Lo Que No Fue No Ser\u00e1",
-      "url": "https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Mujer De Todos Mujer De Nadie",
         "url": "https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 210440,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Lo Pasado Pasado",
+        "url": "https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Lo Que No Fue No Ser\u00e1",
+      "url": "https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Dos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
-        }
-      ],
-      "duration_ms": 316840,
-      "name": "Due\u00f1o de Nada",
-      "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "El Angel Del Rock Vol. 2",
         "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 254826,
       "name": "Sue\u00f1os Compartidos",
       "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Dos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+        }
+      ],
+      "duration_ms": 316840,
+      "name": "Due\u00f1o de Nada",
+      "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Thalia",
-        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 269120,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 174360,
       "name": "Debut Y Despedida",
       "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Thalia",
+        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 269120,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Entre El Agua Y El Fuego",
-        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Canci\u00f3n de Oto\u00f1o",
-      "url": "https://open.spotify.com/track/47MCxsBOrd49mWTdqmUxhm"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n",
         "url": "https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 211946,
       "name": "Noche De Copas",
       "url": "https://open.spotify.com/track/7wDiDAk8cBPACxGSY2Xv4D"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Entre El Agua Y El Fuego",
+        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Canci\u00f3n de Oto\u00f1o",
+      "url": "https://open.spotify.com/track/47MCxsBOrd49mWTdqmUxhm"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2SaCGdWp6n8aCnXJpR8fdn"
-      },
-      "artists": [
-        {
-          "name": "Chiquetete",
-          "url": "https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Esta Cobard\u00eda",
-      "url": "https://open.spotify.com/track/7xT0YNKaOkvntYehrbRWen"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Un Angel",
         "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 190413,
       "name": "Orgullosa Nena",
       "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2SaCGdWp6n8aCnXJpR8fdn"
+      },
+      "artists": [
+        {
+          "name": "Chiquetete",
+          "url": "https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Esta Cobard\u00eda",
+      "url": "https://open.spotify.com/track/7xT0YNKaOkvntYehrbRWen"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "Mi tributo a Juan Gabriel",
+        "url": "https://open.spotify.com/album/4sCg0lGKCsg6qGbNm5X8q3"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Antonio",
+          "url": "https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "\u00bfC\u00f3mo, cu\u00e1ndo y porqu\u00e9 - Why Do I Love You So",
+      "url": "https://open.spotify.com/track/7x9Ow1z9x7rFwnfiNsPqx5"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/7JqCob0wCNfmvPYx9sd5ba"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 222600,
       "name": "C\u00f3mo Te Va Mi Amor",
       "url": "https://open.spotify.com/track/5kOaV8C3Fyts7Hreae1Lrn"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Mi tributo a Juan Gabriel",
-        "url": "https://open.spotify.com/album/4sCg0lGKCsg6qGbNm5X8q3"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Antonio",
-          "url": "https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "\u00bfC\u00f3mo, cu\u00e1ndo y porqu\u00e9 - Why Do I Love You So",
-      "url": "https://open.spotify.com/track/7x9Ow1z9x7rFwnfiNsPqx5"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Amar A Muerte",
-        "url": "https://open.spotify.com/album/10e1egk25WgesgUH8hFZCn"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel",
-          "url": "https://open.spotify.com/artist/3aqaaRdFCbVBCZnexkE0sC"
-        }
-      ],
-      "duration_ms": 430960,
-      "name": "Dicen Que Dicen / Un Amor Como El Mio",
-      "url": "https://open.spotify.com/track/4zNIBIIXQhpPB9MIi9VHEy"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/5NvUMQzUcZi9DIBSvgWkDG"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 239506,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/5QXVH3XAyJnfVu6CxTFqvj"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Amar A Muerte",
+        "url": "https://open.spotify.com/album/10e1egk25WgesgUH8hFZCn"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel",
+          "url": "https://open.spotify.com/artist/3aqaaRdFCbVBCZnexkE0sC"
+        }
+      ],
+      "duration_ms": 430960,
+      "name": "Dicen Que Dicen / Un Amor Como El Mio",
+      "url": "https://open.spotify.com/track/4zNIBIIXQhpPB9MIi9VHEy"
     },
     {
       "added_at": "2024-06-04 19:16:04",

@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: 1-800 GIRLS",
-  "num_followers": 43495,
+  "num_followers": 43500,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2026-05-29 10:47:02",
       "album": {
-        "name": "mangetout (The Dare remix)",
-        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        },
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 200192,
-      "name": "mangetout - The Dare remix",
-      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
-    },
-    {
-      "added_at": "2026-05-29 10:47:02",
-      "album": {
         "name": "The Nightlife",
         "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 244708,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
+    },
+    {
+      "added_at": "2026-05-29 10:47:02",
+      "album": {
+        "name": "mangetout (The Dare remix)",
+        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        },
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 200192,
+      "name": "mangetout - The Dare remix",
+      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
     },
     {
       "added_at": "2026-05-29 10:47:02",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-05-29 10:47:02",
       "album": {
+        "name": "Kelsier",
+        "url": "https://open.spotify.com/album/083Q8p1eQrtQgmsVYyOD7E"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 232131,
+      "name": "Kelsier",
+      "url": "https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz"
+    },
+    {
+      "added_at": "2026-05-29 10:47:02",
+      "album": {
         "name": "See It As A Sign",
         "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 174204,
       "name": "See It As A Sign",
       "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
-    },
-    {
-      "added_at": "2026-05-29 10:47:02",
-      "album": {
-        "name": "Kelsier",
-        "url": "https://open.spotify.com/album/083Q8p1eQrtQgmsVYyOD7E"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 232131,
-      "name": "Kelsier",
-      "url": "https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz"
     },
     {
       "added_at": "2026-05-29 10:47:02",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-05-29 10:47:02",
       "album": {
-        "name": "Tacchini",
-        "url": "https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG"
-      },
-      "artists": [
-        {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
-        }
-      ],
-      "duration_ms": 289815,
-      "name": "Tacchini",
-      "url": "https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ"
-    },
-    {
-      "added_at": "2026-05-29 10:47:02",
-      "album": {
         "name": "All Your Love",
         "url": "https://open.spotify.com/album/4E0C00NAz73LhNUxB9pquv"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 151763,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
+    },
+    {
+      "added_at": "2026-05-29 10:47:02",
+      "album": {
+        "name": "Tacchini",
+        "url": "https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG"
+      },
+      "artists": [
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        }
+      ],
+      "duration_ms": 289815,
+      "name": "Tacchini",
+      "url": "https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ"
     },
     {
       "added_at": "2026-05-29 10:47:02",
@@ -987,6 +987,26 @@
     {
       "added_at": "2026-05-29 10:47:02",
       "album": {
+        "name": "Hypnotised",
+        "url": "https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Linden Jay",
+          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
+        }
+      ],
+      "duration_ms": 202787,
+      "name": "Hypnotised (feat. Linden Jay)",
+      "url": "https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz"
+    },
+    {
+      "added_at": "2026-05-29 10:47:02",
+      "album": {
         "name": "Curses Broken",
         "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 362699,
       "name": "SOMEWHERE ELSE - salute Remix",
       "url": "https://open.spotify.com/track/1HZWZgXF5BZAVzKumYTuJs"
-    },
-    {
-      "added_at": "2026-05-29 10:47:02",
-      "album": {
-        "name": "Hypnotised",
-        "url": "https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Linden Jay",
-          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
-        }
-      ],
-      "duration_ms": 202787,
-      "name": "Hypnotised (feat. Linden Jay)",
-      "url": "https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz"
     },
     {
       "added_at": "2026-05-29 10:47:02",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2026-05-29 10:47:02",
       "album": {
+        "name": "EVERYTHING IS FUNNY",
+        "url": "https://open.spotify.com/album/4Gg47cyXg8R06a0SDkCt6O"
+      },
+      "artists": [
+        {
+          "name": "Sweatbaby",
+          "url": "https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9"
+        },
+        {
+          "name": "Ruby Rodgers",
+          "url": "https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G"
+        }
+      ],
+      "duration_ms": 164548,
+      "name": "SWITCH",
+      "url": "https://open.spotify.com/track/10PTIp0MdGqBuTvtTEuhR0"
+    },
+    {
+      "added_at": "2026-05-29 10:47:02",
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/3rbbxT58I3txO7IifNVnPc"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 271415,
       "name": "Sort It Out",
       "url": "https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N"
-    },
-    {
-      "added_at": "2026-05-29 10:47:02",
-      "album": {
-        "name": "EVERYTHING IS FUNNY",
-        "url": "https://open.spotify.com/album/4Gg47cyXg8R06a0SDkCt6O"
-      },
-      "artists": [
-        {
-          "name": "Sweatbaby",
-          "url": "https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9"
-        },
-        {
-          "name": "Ruby Rodgers",
-          "url": "https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G"
-        }
-      ],
-      "duration_ms": 164548,
-      "name": "SWITCH",
-      "url": "https://open.spotify.com/track/10PTIp0MdGqBuTvtTEuhR0"
     },
     {
       "added_at": "2026-05-29 10:47:02",

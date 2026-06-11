@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: がらり
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,099 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,107 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [レンズ](https://open.spotify.com/track/71HguLdW670hpDJR9f5l8K) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [螺旋の街](https://open.spotify.com/album/78qeryjC8dhgyIVgyKFJEx) | 3:17 |
 | 2 | [Machiawase](https://open.spotify.com/track/2HEUiHqNHY3M3F0uY0ZeKs) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf), [中井環](https://open.spotify.com/artist/51fSzgrfB7WMJdP5mqxLlN), [西蟹屋瑛](https://open.spotify.com/artist/3dBU0SpQwsU8qxsB7Ighko), [青海瑠璃](https://open.spotify.com/artist/0IuMK1IlvSAN5jgi0YKFJ6) | [Machiawase](https://open.spotify.com/album/2CULdbq3EBZBjNQByjwoV3) | 2:56 |
 | 3 | [STILLNESS](https://open.spotify.com/track/0yXPgtSB76HmSTo5Q14LTg) | [Jeremy Quartus](https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy) | [STILLNESS](https://open.spotify.com/album/4TzYJIp1JfgmRJgSZul7qv) | 4:02 |
-| 4 | [G.T.](https://open.spotify.com/track/7KBUtkGR6nsOi7culAgdip) | [坂本龍一](https://open.spotify.com/artist/4C0yfMT8lQoOqIQJ1sY1KW) | [G.T.](https://open.spotify.com/album/0fLJUGmSugwBo1vZK99BAI) | 4:30 |
+| 4 | [G.T.](https://open.spotify.com/track/7KBUtkGR6nsOi7culAgdip) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [G.T.](https://open.spotify.com/album/0fLJUGmSugwBo1vZK99BAI) | 4:30 |
 | 5 | [ほんまやで☆なんでやねん☆しらんけど](https://open.spotify.com/track/4ufk3YG63bwSLIqZ8vdgFx) | [モナキ](https://open.spotify.com/artist/48La8eUwq93H7Va1Hl4bMd) | [ほんまやで☆なんでやねん☆しらんけど／こんなもんじゃねぇ \(Aタイプ\)](https://open.spotify.com/album/3mcZV7uNaUca6jvyH5Akyu) | 3:31 |
 | 6 | [放送委員長の恋](https://open.spotify.com/track/3IizrrHg6l2ZofX8aifkC6) | [岡村丁寧](https://open.spotify.com/artist/3s2VCp0ZFJQaX7G0kwjyw6) | [放送委員長の恋](https://open.spotify.com/album/1CR0gU0j3VLKp3igiSdSCD) | 2:52 |
 | 7 | [コント](https://open.spotify.com/track/7dTpns3UQhXV4396wGHrrX) | [kohamo](https://open.spotify.com/artist/5zDPLSwW50hJIsOIy7hDVe) | [コント](https://open.spotify.com/album/62h6cwvbhIcO1VGmLeukHa) | 3:24 |

@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Haylie Davis",
-  "num_followers": 425631,
+  "num_followers": 425656,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-06-05 04:00:34",
       "album": {
-        "name": "S.O.B.",
-        "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "S.O.B.",
-      "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
-    },
-    {
-      "added_at": "2026-06-05 04:00:34",
-      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 172480,
       "name": "(I\u2019m Gonna Get Over This) Some Day",
       "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
+    },
+    {
+      "added_at": "2026-06-05 04:00:34",
+      "album": {
+        "name": "S.O.B.",
+        "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "S.O.B.",
+      "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
     },
     {
       "added_at": "2026-06-05 04:00:34",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-06-05 04:00:34",
       "album": {
-        "name": "Take My Heart",
-        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
-    },
-    {
-      "added_at": "2026-06-05 04:00:34",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 269133,
       "name": "Demons",
       "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
+    },
+    {
+      "added_at": "2026-06-05 04:00:34",
+      "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
     },
     {
       "added_at": "2026-06-05 04:00:34",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-06-05 04:00:34",
       "album": {
-        "name": "Seventeen Acres",
-        "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
-      },
-      "artists": [
-        {
-          "name": "Joseph LeMay",
-          "url": "https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf"
-        }
-      ],
-      "duration_ms": 122750,
-      "name": "Crazy Woman",
-      "url": "https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0"
-    },
-    {
-      "added_at": "2026-06-05 04:00:34",
-      "album": {
         "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
         "url": "https://open.spotify.com/album/0LOwGeTAFeD4qSFXr4pKf8"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 215986,
       "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/43zk0iEDzsjOBOzJmEx6Nv"
+    },
+    {
+      "added_at": "2026-06-05 04:00:34",
+      "album": {
+        "name": "Seventeen Acres",
+        "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
+      },
+      "artists": [
+        {
+          "name": "Joseph LeMay",
+          "url": "https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf"
+        }
+      ],
+      "duration_ms": 122750,
+      "name": "Crazy Woman",
+      "url": "https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0"
     },
     {
       "added_at": "2026-06-05 04:00:34",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-06-05 04:00:34",
       "album": {
-        "name": "It's A Joy To Be Alive",
-        "url": "https://open.spotify.com/album/1ItPvtBj5wdnOMJD8j0CZw"
-      },
-      "artists": [
-        {
-          "name": "Ferris & Sylvester",
-          "url": "https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf"
-        }
-      ],
-      "duration_ms": 260720,
-      "name": "It's A Joy To Be Alive",
-      "url": "https://open.spotify.com/track/1wj64TeEoZ9Iyks76OLGvG"
-    },
-    {
-      "added_at": "2026-06-05 04:00:34",
-      "album": {
         "name": "Hands on the Radio",
         "url": "https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 212333,
       "name": "Hands on the Radio",
       "url": "https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G"
+    },
+    {
+      "added_at": "2026-06-05 04:00:34",
+      "album": {
+        "name": "It's A Joy To Be Alive",
+        "url": "https://open.spotify.com/album/1ItPvtBj5wdnOMJD8j0CZw"
+      },
+      "artists": [
+        {
+          "name": "Ferris & Sylvester",
+          "url": "https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf"
+        }
+      ],
+      "duration_ms": 260720,
+      "name": "It's A Joy To Be Alive",
+      "url": "https://open.spotify.com/track/1wj64TeEoZ9Iyks76OLGvG"
     },
     {
       "added_at": "2026-06-05 04:00:34",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-06-05 04:00:34",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
-      },
-      "artists": [
-        {
-          "name": "The Main Squeeze",
-          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
-        }
-      ],
-      "duration_ms": 237587,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
-    },
-    {
-      "added_at": "2026-06-05 04:00:34",
-      "album": {
         "name": "Stay Right Here",
         "url": "https://open.spotify.com/album/5fSnsS6vf9eovM8R3nvKNn"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 249560,
       "name": "Stay Right Here",
       "url": "https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7"
+    },
+    {
+      "added_at": "2026-06-05 04:00:34",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
+      },
+      "artists": [
+        {
+          "name": "The Main Squeeze",
+          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+        }
+      ],
+      "duration_ms": 237587,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
     },
     {
       "added_at": "2026-06-05 04:00:34",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-06-05 04:00:34",
       "album": {
+        "name": "Oporto-Madrid Blvd",
+        "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209198,
+      "name": "Oporto-Madrid Blvd",
+      "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
+    },
+    {
+      "added_at": "2026-06-05 04:00:34",
+      "album": {
         "name": "I Wonder Why",
         "url": "https://open.spotify.com/album/23Kl1huMr3rcUyLvkxNBZF"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 125840,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/6m0BtKf29IaY6KlxHBJhGZ"
-    },
-    {
-      "added_at": "2026-06-05 04:00:34",
-      "album": {
-        "name": "Oporto-Madrid Blvd",
-        "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209198,
-      "name": "Oporto-Madrid Blvd",
-      "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
     }
   ],
   "unique_name": "the new retro",

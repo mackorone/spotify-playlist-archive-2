@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 146 songs - 8 hr 25 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 148 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,5 +154,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 144 | [Meu Amor Vão Bora](https://open.spotify.com/track/1gPxCrhDQUgXNgN7wLACh7) | [SINCERSIX](https://open.spotify.com/artist/7zJGhnTmm0NKy3JDYIKskG) | [Meu Amor Vão Bora](https://open.spotify.com/album/5VanKUYVd8eF61b3l4uBfU) | 3:44 |
 | 145 | [Heroes Get Hurt](https://open.spotify.com/track/6b7WpA3GgmjyNoKcIdUSfk) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Terry Lupton](https://open.spotify.com/artist/5AnahQXYD6pptWAhpsuU9i) | [Heroes Get Hurt](https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl) | 3:42 |
 | 146 | [Wrong](https://open.spotify.com/track/4vs331HyhkvSlQwOPkGPtk) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Americana On A Lagos Blue Rock](https://open.spotify.com/album/4gUY3HMagU8huWCUVgMX16) | 2:41 |
+| 147 | [Intermission \- Original](https://open.spotify.com/track/14skYqogUOAkmOTCxpVobr) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Little Prancer Album \(Original\)](https://open.spotify.com/album/7jKlfljcyErn60wEuVdUj7) | 1:17 |
+| 148 | [House of Love \- New Wave](https://open.spotify.com/track/7lSsw6wirwlKWSdsYhQOva) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [House of Love \(New Wave\)](https://open.spotify.com/album/75tS39CPVd8tUeuGvRkHIB) | 4:59 |
 
-Snapshot ID: `AAAVEk9qM+wert/xu/R/ZxM6gscDOvg0`
+Snapshot ID: `AAAVFBa8MO5JpdbS+1o58c+ApCwlmLec`

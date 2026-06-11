@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,262 likes - 34 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,239 likes - 34 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 19 | [Les roses](https://open.spotify.com/track/5Ff8SOh8E69TbqLHJFHQjT) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Les roses](https://open.spotify.com/album/38jKknph0hxIEKMoaVB92i) | 4:37 |
 | 20 | [CŒUR DE PIRATE](https://open.spotify.com/track/0vmYv8KwjjBOC0UQjIuU8m) | [LinLin](https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n) | [DISCO INFERNO](https://open.spotify.com/album/7t1h5yn1S2JBCGrX0vUkTl) | 3:53 |
 | 21 | [Maman](https://open.spotify.com/track/4rDiyfZtqk03FTzQ4M8tg4) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Maman](https://open.spotify.com/album/0gxk8tI9M0cupnLHBaQUjw) | 2:47 |
-| 22 | [Anomalie](https://open.spotify.com/track/7BjtnFWiaBWdbr5nKF6ogB) | [Revers Gagnant](https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8), [Jade Mansion](https://open.spotify.com/artist/4L5L8gnE5hd4dMWMLbk59O) | [Anomalie](https://open.spotify.com/album/6YgQgvhLzxNDNZMu8Z8rC7) | 3:41 |
-| 23 | [Jeunes et cons](https://open.spotify.com/track/2Rr4xbCfYjJKQ5qdezU2N3) | [Shades](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Jeunes et cons](https://open.spotify.com/album/25IsT97AyumsVb8MLT6ccg) | 3:09 |
+| 22 | [Jeunes et cons](https://open.spotify.com/track/2Rr4xbCfYjJKQ5qdezU2N3) | [Shades](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Jeunes et cons](https://open.spotify.com/album/25IsT97AyumsVb8MLT6ccg) | 3:09 |
+| 23 | [Anomalie](https://open.spotify.com/track/7BjtnFWiaBWdbr5nKF6ogB) | [Revers Gagnant](https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8), [Jade Mansion](https://open.spotify.com/artist/4L5L8gnE5hd4dMWMLbk59O) | [Anomalie](https://open.spotify.com/album/6YgQgvhLzxNDNZMu8Z8rC7) | 3:41 |
 | 24 | [Paris\-Madrid](https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Paris\-Madrid](https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH) | 3:19 |
 | 25 | [Voicetrack Generation](https://open.spotify.com/track/41gmO7kWreWhpNxlHWHODa) | [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa), [ring noord](https://open.spotify.com/artist/2LG15MTQyH0AMfeCMjdr8A) | [Voicetrack Generation](https://open.spotify.com/album/1KR4NBbIq5TzITwiomAykm) | 4:13 |
 | 26 | [Comète](https://open.spotify.com/track/6qHOXV3i98NzBq3akdRgWS) | [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Comète](https://open.spotify.com/album/0vLx3DkZgkthJ3cSjazKqp) | 2:43 |
 | 27 | [With You](https://open.spotify.com/track/1gqGxha8dJi77aR5x18Mzg) | [I Am Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [With You](https://open.spotify.com/album/1h4JGEOMUYsGrJa9OsB2aG) | 3:49 |
-| 28 | [nofuture](https://open.spotify.com/track/5q0Xh6gHDBngynqeRIjCVW) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [millénium](https://open.spotify.com/album/3zYyqINgPNfPl7YGQYMSGw) | 2:00 |
-| 29 | [Bad Boy](https://open.spotify.com/track/1DSzMuDGO6aaxpcj5iIiT5) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [Bad Boy](https://open.spotify.com/album/4Gj5Hju12pBbPPdlMdVSMo) | 2:40 |
+| 28 | [Bad Boy](https://open.spotify.com/track/1DSzMuDGO6aaxpcj5iIiT5) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [Bad Boy](https://open.spotify.com/album/4Gj5Hju12pBbPPdlMdVSMo) | 2:40 |
+| 29 | [nofuture](https://open.spotify.com/track/5q0Xh6gHDBngynqeRIjCVW) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [millénium](https://open.spotify.com/album/3zYyqINgPNfPl7YGQYMSGw) | 2:00 |
 | 30 | [The Big One](https://open.spotify.com/track/1VaeMX2S1N7PxH5aE6gwBd) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [The Big One](https://open.spotify.com/album/4UL5cSgVg7hj3cKW7H1IS6) | 3:38 |
 | 31 | [Fire Away \(feat\. Slayyyter\)](https://open.spotify.com/track/2un4EaIKXxdVtQbO6cdYM4) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Fire Away \(feat\. Slayyyter\)](https://open.spotify.com/album/1PneNeTJUTq8ueNrXhjwQR) | 3:27 |
 | 32 | [Replay](https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [Replay](https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0) | 2:56 |

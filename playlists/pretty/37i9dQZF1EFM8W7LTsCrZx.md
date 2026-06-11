@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 38 | [Dónde](https://open.spotify.com/track/1LKw3e64aRH8OBQTnRD3qu) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:40 |
 | 39 | [NRW](https://open.spotify.com/track/4WcUdGXHHtKfZj9ysZka2D) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:19 |
 | 40 | [Water Freestyle](https://open.spotify.com/track/4jd9IctLRh2jBUBO1EdYR2) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Say Less \(Bonus\)](https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc) | 3:27 |
-| 41 | [Nebel](https://open.spotify.com/track/5qpsr6fAJd12dd1TsCofZl) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Ich wünschte, es würd' mich kümmern](https://open.spotify.com/album/0N5tvHsq4LEOH7snMpeRbW) | 1:23 |
-| 42 | [JUST DO IT](https://open.spotify.com/track/57BT3KQYw0kS68QFkSuQ9k) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Yc](https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA) | [DONT TRY THIS AT HOME](https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE) | 2:43 |
+| 41 | [JUST DO IT](https://open.spotify.com/track/57BT3KQYw0kS68QFkSuQ9k) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Yc](https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA) | [DONT TRY THIS AT HOME](https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE) | 2:43 |
+| 42 | [Nebel](https://open.spotify.com/track/5qpsr6fAJd12dd1TsCofZl) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Ich wünschte, es würd' mich kümmern](https://open.spotify.com/album/0N5tvHsq4LEOH7snMpeRbW) | 1:23 |
 | 43 | [Tage die uns brechen](https://open.spotify.com/track/4A6FX1XiK7tD48Omknk2Bs) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 3:16 |
 | 44 | [ROLLING LOUD](https://open.spotify.com/track/459vC3MIlA0fxybzgnsmxO) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Lelosa](https://open.spotify.com/artist/0RHTQm9f0cO7uay999YTiW) | [ROLLING LOUD](https://open.spotify.com/album/3hYzftzzaINi005lS6mpG6) | 2:46 |
 | 45 | [ECHTE LOVE](https://open.spotify.com/track/3F4WrtfP3UMC43bVPUDlMi) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [ECHTE LOVE](https://open.spotify.com/album/7r2f85yuFrRSwLcWCW0Pb5) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 99 | [Gas nur mit dir](https://open.spotify.com/track/58m3LEsLbH2ZBJqLZ87vHB) | [Yous39](https://open.spotify.com/artist/5dLEzOHOPykRTvRoan7DBK), [eightyoneace](https://open.spotify.com/artist/6aLtq5w4tLiDEMMBtyDluE) | [Gas nur mit dir](https://open.spotify.com/album/7s3S0KPiQJkpCOhWAUj182) | 2:11 |
 | 100 | [Catwoman](https://open.spotify.com/track/4p2zIDZA4oglBJuPJl6oOF) | [Jano](https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3) | [Catwoman](https://open.spotify.com/album/52SI4Qw2cWcwRV0YNIFHqJ) | 2:16 |
 
-Snapshot ID: `AcTykgAAAADnrCtjk3Us5LudhdDG7P6X`
+Snapshot ID: `AcT4bgAAAACFoXma7SLzA+kS4j0f8GDJ`

@@ -6624,7 +6624,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 140620,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/2C2dJZAUoeZm7Knu8ice8p"
@@ -19330,7 +19330,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 124800,
       "name": "Hai la mine in BMWU",
       "url": "https://open.spotify.com/track/6Ga4vojgiRyVjkiPqQvo19"
@@ -26822,7 +26822,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 116024,
       "name": "MA TOT INTREABA",
       "url": "https://open.spotify.com/track/3CJ7UqwE4jpQOBu08FHrQf"
@@ -30314,6 +30314,24 @@
       "duration_ms": 195776,
       "name": "NDA",
       "url": "https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL"
+    },
+    {
+      "album": {
+        "name": "NE IMPACAM",
+        "url": "https://open.spotify.com/album/41xoXYYBYwY2UZSzwJj30f"
+      },
+      "artists": [
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92500,
+      "name": "NE IMPACAM",
+      "url": "https://open.spotify.com/track/0Hq2c1OBs9ECuPCtemOss1"
     },
     {
       "album": {
@@ -38794,7 +38812,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 197845,
       "name": "Savarina",
       "url": "https://open.spotify.com/track/1bxvAh3tyCH6HjQf8g8MYH"
@@ -46058,7 +46076,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Toreador",
       "url": "https://open.spotify.com/track/0AAfrVdWsndvIBwimXaYz4"

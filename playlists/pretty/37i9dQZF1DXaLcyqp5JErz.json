@@ -1,6 +1,6 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 661532,
+  "num_followers": 661629,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "O Melhor de Deus Esta Por Vir",
-        "url": "https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5"
-      },
-      "artists": [
-        {
-          "name": "Voz da Verdade",
-          "url": "https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "O Escudo",
-      "url": "https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
         "name": "Identidade",
         "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 348433,
       "name": "Sobre As \u00c1guas",
       "url": "https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
+        "name": "O Melhor de Deus Esta Por Vir",
+        "url": "https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5"
+      },
+      "artists": [
+        {
+          "name": "Voz da Verdade",
+          "url": "https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "O Escudo",
+      "url": "https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG"
     },
     {
       "added_at": "2025-10-17 18:07:08",

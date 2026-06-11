@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: H//PE Princess\)
 
-1,728 songs - 3 day 20 hr 17 min
+1,729 songs - 3 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -837,6 +837,7 @@
 | [Last Sequence](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Sequence](https://open.spotify.com/album/2Cv3xionHF2O7QL8p6MbCT) | 3:07 | 2022-07-08 | 2022-09-02 |
 | [LATENCY](https://open.spotify.com/track/6kp37iRjRvvbTwxJ6A8VoC) | [LATENCY](https://open.spotify.com/artist/4VxV3skINpnHCDEF9Ihf9U) | [LATE O' CLOCK](https://open.spotify.com/album/59Jx384F4bIX5NaXRLGr7z) | 3:04 | 2026-03-19 | 2026-04-30 |
 | [LAW \(Prod\. Czaer\)](https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 3:09 | 2022-09-08 | 2022-12-14 |
+| [Layback](https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [TR.EE](https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA) | 3:11 | 2026-06-10 |  |
 | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW) | 3:08 | 2022-01-14 | 2022-03-25 |
 | [Lazy](https://open.spotify.com/track/0nBgiOD26onE45CGTNgAAM) | [Soovi](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [Lazy](https://open.spotify.com/album/7hEcxzD0gat9JNNOyMBNKF) | 3:24 | 2021-08-05 | 2021-09-18 |
 | [Lazy](https://open.spotify.com/track/0IngH3B788rAN3wDCqkEPB) | [Woosung](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Lazy](https://open.spotify.com/album/54jY3kW9ntVzOjM78NO9OX) | 3:18 | 2021-06-25 | 2021-09-07 |

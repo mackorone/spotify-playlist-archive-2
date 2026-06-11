@@ -4,7 +4,7 @@
 
 > The best tracks from the world of music\. Cover: Olivia Rodrigo
 
-537 songs - 1 day 6 hr 41 min
+539 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Dalam Sujudku \- From "Dia Bukan Syurga"](https://open.spotify.com/track/6k4VyVmpDIiT06sF8JBvqA) | [Amira Othman](https://open.spotify.com/artist/31aRV0LJpJ88B7WX6PNspi) | [Dalam Sujudku \(From "Dia Bukan Syurga"\)](https://open.spotify.com/album/7128KwUDIucESDAxdKsShj) | 4:28 | 2025-05-21 | 2025-08-21 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2024-11-13 |
 | [Dayang Bintang](https://open.spotify.com/track/0yFvGt4wf0wIduBlToFoHP) | [Mawat](https://open.spotify.com/artist/1KwL4OA4pzIJep3kjSu3IG) | [Dayang Bintang](https://open.spotify.com/album/19J5z3pqEfU6DBgrWgZ01I) | 4:27 | 2025-06-11 | 2025-07-03 |
+| [DDI RO RI](https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BITE NOW](https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi) | 3:15 | 2026-06-10 |  |
 | [December 25th](https://open.spotify.com/track/1QNPTNaw67BanVtwXKIX1a) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [December 25th](https://open.spotify.com/album/76xK4t4mW2HvVtA09CLcN6) | 3:51 | 2024-11-12 | 2024-12-12 |
 | [Dengan Lafaznya](https://open.spotify.com/track/00aG7aYnpClj27EIoz5Dez) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa), [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Dengan Lafaznya](https://open.spotify.com/album/4ahsMtZmO80wBYAsbaSzQA) | 3:15 | 2025-01-15 | 2025-02-06 |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-02-12 | 2025-03-13 |
@@ -214,7 +215,7 @@
 | [Jadi Ajar Aku](https://open.spotify.com/track/3dtWMtpvrQdZXpl5myGMWh) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [IMAJI AINA ABDUL DELUXE EDITION](https://open.spotify.com/album/4FtBCMuW3rChwxIphRuadt) | 4:56 | 2024-10-30 | 2024-11-28 |
 | [Jahat \- From "Pabila Dia Tersenyum"](https://open.spotify.com/track/1i4u2g3SXpWB3uEfs6Nlvx) | [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1) | [Jahat \(From "Pabila Dia Tersenyum"\)](https://open.spotify.com/album/4BXb8lrnsrouxgTVOc2qLX) | 3:17 | 2025-04-23 | 2025-05-22 |
 | [Jangan Biar](https://open.spotify.com/track/1sJtYI05jtGwv0e2gWzYHK) | [Ramayan](https://open.spotify.com/artist/1Em7zM0PqeTmURweJnMKlN), [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [Jangan Biar](https://open.spotify.com/album/3N2eeiam5GShzMMDo4ejoz) | 4:18 | 2024-07-11 | 2024-08-01 |
-| [Jangan Bukan Bukan](https://open.spotify.com/track/6ufmtve9m6hbUxZkvB906S) | [Fiq7](https://open.spotify.com/artist/1qTtRgrpqIXPRJnmc8QlMR) | [Jangan Bukan\-Bukan](https://open.spotify.com/album/4BOXx2B9mRew56WPbHd7uP) | 3:10 | 2026-05-13 |  |
+| [Jangan Bukan Bukan](https://open.spotify.com/track/6ufmtve9m6hbUxZkvB906S) | [Fiq7](https://open.spotify.com/artist/1qTtRgrpqIXPRJnmc8QlMR) | [Jangan Bukan\-Bukan](https://open.spotify.com/album/4BOXx2B9mRew56WPbHd7uP) | 3:10 | 2026-05-13 | 2026-06-11 |
 | [Jangan Henti](https://open.spotify.com/track/0FRBjygE4ZPUb4L6uPQ3CG) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Anuar Zain](https://open.spotify.com/artist/4jseSNWUg2haVIdUZS8R1a), [Ziana Zain](https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682) | [Jangan Henti](https://open.spotify.com/album/521izUz80gkhGYzYoeqwIa) | 3:48 | 2025-10-15 | 2025-11-13 |
 | [Jangan Paksa Rindu \- Beda](https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Jangan Paksa Rindu \(Beda\)](https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn) | 4:05 | 2026-04-22 |  |
 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 | 2026-06-03 |  |
@@ -369,6 +370,7 @@
 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-07-30 | 2025-09-12 |
 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-26 |  |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-28 | 2024-10-17 |
+| [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 | 2026-06-10 |  |
 | [Romancinta](https://open.spotify.com/track/5XCNHa4uhsI3zYdbVHZaGE) | [Mojo](https://open.spotify.com/artist/1nxfzZDDm0a0msuLz0W4lx) | [Romancinta](https://open.spotify.com/album/1dqV2O8kV4flijwKc2s9e0) | 4:04 | 2026-04-08 | 2026-05-27 |
 | [Ruang & Waktu](https://open.spotify.com/track/3aEQOmXkgUHsIR3A1oiEgR) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Ruang & Waktu](https://open.spotify.com/album/1FFwUNyTkk83wxQwiPECTo) | 2:49 | 2025-05-28 | 2025-06-26 |
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2024-11-20 | 2024-12-05 |
@@ -516,7 +518,7 @@
 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 | 2025-08-20 | 2025-10-23 |
 | [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 | 2025-12-03 | 2026-02-12 |
 | [⁠Sayang/Cinta](https://open.spotify.com/track/1ucdQ8Ipa0P0tQ5QqOXjyo) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [TEMAN EP](https://open.spotify.com/album/1SliEzHuM0J3s3ZwNmDT6G) | 3:48 | 2024-08-14 | 2024-09-12 |
-| [一念 \(影视剧《逐玉》插曲\)](https://open.spotify.com/track/1iZVXRo5IcIradUoVYymRW) | [张紫宁 / 李鑫一](https://open.spotify.com/artist/2OL7dKjcDZjMiPjFohbmAZ) | [《逐玉》 影视原声带](https://open.spotify.com/album/2k86NBEelfaj8iqDZ9ppqa) | 3:10 | 2026-04-15 |  |
+| [一念 \(影视剧《逐玉》插曲\)](https://open.spotify.com/track/1iZVXRo5IcIradUoVYymRW) | [张紫宁 / 李鑫一](https://open.spotify.com/artist/2OL7dKjcDZjMiPjFohbmAZ) | [《逐玉》 影视原声带](https://open.spotify.com/album/2k86NBEelfaj8iqDZ9ppqa) | 3:10 | 2026-04-15 | 2026-06-11 |
 | [不喜欢就请直说](https://open.spotify.com/track/3943CDU79LzTLoWj81Rjwe) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [不喜欢就请直说](https://open.spotify.com/album/0BazLddjUePVnQqhKULEVN) | 3:17 | 2024-08-28 | 2024-09-14 |
 | [人的這一生](https://open.spotify.com/track/2Jox8DFhnUpJZJWLsVAsAR) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人的這一生](https://open.spotify.com/album/15Am8vPv9e0A4z4QzvdmlH) | 4:42 | 2026-02-26 | 2026-04-16 |
 | [人醒著不過一萬多天](https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人醒著不過一萬多天](https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq) | 4:33 | 2025-04-09 | 2025-05-02 |

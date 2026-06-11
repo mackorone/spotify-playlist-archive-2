@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2015. Cover: Tame Impala\n\n\n\n\n\n",
-  "num_followers": 84294,
+  "num_followers": 84307,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "My Love Is Cool",
-        "url": "https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 243986,
-      "name": "Silk",
-      "url": "https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 224373,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/62ZXL1CWLJDiDWUZUhfLfU"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "My Love Is Cool",
+        "url": "https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 243986,
+      "name": "Silk",
+      "url": "https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
-      },
-      "artists": [
-        {
-          "name": "The Brinks",
-          "url": "https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz"
-        }
-      ],
-      "duration_ms": 205129,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "101",
         "url": "https://open.spotify.com/album/2JJJHPnEkjM2quRLB0vnYl"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 203500,
       "name": "101",
       "url": "https://open.spotify.com/track/3HYXqOAm2Q8b2OyYqzv8d4"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
+      },
+      "artists": [
+        {
+          "name": "The Brinks",
+          "url": "https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz"
+        }
+      ],
+      "duration_ms": 205129,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 284130,
+      "name": "The Only Thing",
+      "url": "https://open.spotify.com/track/6Rt6KwuF7I8ZkdZG2G0bYr"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
         "name": "Christine And The Queens",
         "url": "https://open.spotify.com/album/6icxSA6dVp16bBXaeAMSYG"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 233247,
       "name": "Tilted",
       "url": "https://open.spotify.com/track/0mQnLhHH5WwRc5gtnzLtK6"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
-        "name": "Carrie & Lowell",
-        "url": "https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 307697,
-      "name": "Should Have Known Better",
-      "url": "https://open.spotify.com/track/5I6y1KWmUoV5YCaIEcs1qs"
     }
   ],
   "unique_name": "Best of Indie 2015",

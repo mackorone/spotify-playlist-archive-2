@@ -4,7 +4,7 @@
 
 > Live Today, Love Tomorrow, Unite Forever 🫶🫶 It's the sound of Tomorrowland!
 
-1,394 songs - 4 day 3 hr 39 min
+1,394 songs - 4 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,7 +590,7 @@
 | [Inside \- Dub](https://open.spotify.com/track/3Jpwmu5E8vb54cqSdSySQG) | [Better Lost Than Stupid](https://open.spotify.com/artist/0XOcl1zHdeEJxvrbgWpcTI) | [Inside \(Dub\)](https://open.spotify.com/album/2fLPXVc9G4ILBWUZcIBBUd) | 5:31 | 2023-08-04 | 2023-10-02 |
 | [Inside My Head](https://open.spotify.com/track/7x5zEOkuKVqhabPKeQ8ttX) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Inside My Head](https://open.spotify.com/album/2R3Njy2eDzVwiKZtxDSLOD) | 3:47 | 2021-12-15 | 2022-05-17 |
 | [Inside Our Hearts](https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Inside Our Hearts](https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh) | 3:54 | 2025-08-15 |  |
-| [Insomnia](https://open.spotify.com/track/2TakRZDgKyYXICAwkE4odJ) | [Symphony of Unity](https://open.spotify.com/artist/3XgyPMGFzQghhrW2xJS8WG), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Insomnia](https://open.spotify.com/album/1N32jEdnKljyzi2WqHGeR3) | 4:18 | 2025-12-11 |  |
+| [Insomnia](https://open.spotify.com/track/2TakRZDgKyYXICAwkE4odJ) | [Symphony of Unity](https://open.spotify.com/artist/3XgyPMGFzQghhrW2xJS8WG), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Insomnia](https://open.spotify.com/album/1N32jEdnKljyzi2WqHGeR3) | 3:03 | 2025-12-11 |  |
 | [Installation](https://open.spotify.com/track/7BUGB7cqJQtyNdLD7MtrGr) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Changing Channels](https://open.spotify.com/album/3bKp9TUgbHGhfRBsTQTAxS) | 3:43 | 2024-10-04 | 2025-02-20 |
 | [Into The Sun \- Major League Djz Remix](https://open.spotify.com/track/2Xkj5UMenyWASplRrnKbAF) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Into The Sun \(Major League Djz Remix\)](https://open.spotify.com/album/6bTFY1XhlE4tpdl0o0fwso) | 8:34 | 2023-06-30 | 2023-07-15 |
 | [Is That How You Feel It](https://open.spotify.com/track/1KjMr1ay272SjjNYKf9FY4) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Remember](https://open.spotify.com/album/7wfRiLLgR2anjPEaesqAtr) | 2:58 | 2023-03-31 | 2023-05-13 |

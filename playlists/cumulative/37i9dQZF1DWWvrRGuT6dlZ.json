@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: DAINASAURS. Artwork: Isu Kim.",
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: YQ Tan. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -8484,6 +8484,24 @@
       "duration_ms": 160000,
       "name": "GROOVE",
       "url": "https://open.spotify.com/track/5vYQvFiar2FAKb7Yl5SER6"
+    },
+    {
+      "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/2c0Ob6XBvaA2fMOEs2hUHO"
+      },
+      "artists": [
+        {
+          "name": "YQ Tan",
+          "url": "https://open.spotify.com/artist/65G2qO6LLXUzOkFzXax2nm"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147555,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/4KfnCEXq1zFR5UILSVbbkU"
     },
     {
       "album": {
@@ -20171,6 +20189,24 @@
     },
     {
       "album": {
+        "name": "Siapa Diriku",
+        "url": "https://open.spotify.com/album/10cLHwpwI31RFkKfbCTLYp"
+      },
+      "artists": [
+        {
+          "name": "Marsya Qistina",
+          "url": "https://open.spotify.com/artist/1unuBJjFaJV6kE063C6THx"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192700,
+      "name": "Siapa Diriku",
+      "url": "https://open.spotify.com/track/33Srq5ouch0bt2zaHABGud"
+    },
+    {
+      "album": {
         "name": "Sick Sad Love Song",
         "url": "https://open.spotify.com/album/5ZyGPSv12xrGf1tyFbk7n4"
       },
@@ -27740,6 +27776,24 @@
       "duration_ms": 208941,
       "name": "\u6c92\u4eba\u544a\u8a34\u6211",
       "url": "https://open.spotify.com/track/1FkVTnsWEj7QwIt6Yzi0mg"
+    },
+    {
+      "album": {
+        "name": "\u6ca1\u5173\u7cfb",
+        "url": "https://open.spotify.com/album/5jnwzgXLCQF5TjN38E3XDS"
+      },
+      "artists": [
+        {
+          "name": "LOEWEN \u6d1b\u6587",
+          "url": "https://open.spotify.com/artist/0t01iYK7btEIOlOgcbaHTE"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270703,
+      "name": "\u6ca1\u5173\u7cfb",
+      "url": "https://open.spotify.com/track/5f8RxIrDnpWChZ8ymWlZhu"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60084,
+  "num_followers": 60078,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-05-28 21:00:27",
       "album": {
-        "name": "\u00c4l\u00e4 sano sua rumaksi",
-        "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
-      },
-      "artists": [
-        {
-          "name": "ELLIMEI",
-          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
-        }
-      ],
-      "duration_ms": 153135,
-      "name": "\u00c4l\u00e4 sano sua rumaksi",
-      "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
-    },
-    {
-      "added_at": "2026-05-28 21:00:27",
-      "album": {
         "name": "Rockstar (feat. Janna)",
         "url": "https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 174900,
       "name": "Rockstar (feat. Janna)",
       "url": "https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR"
+    },
+    {
+      "added_at": "2026-05-28 21:00:27",
+      "album": {
+        "name": "\u00c4l\u00e4 sano sua rumaksi",
+        "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        }
+      ],
+      "duration_ms": 153135,
+      "name": "\u00c4l\u00e4 sano sua rumaksi",
+      "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
     },
     {
       "added_at": "2026-05-28 21:00:27",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-05-28 21:00:27",
       "album": {
-        "name": "Running Through My Head",
-        "url": "https://open.spotify.com/album/1Tap373TJJ0bN1YzMohbXj"
-      },
-      "artists": [
-        {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        }
-      ],
-      "duration_ms": 159969,
-      "name": "Running Through My Head",
-      "url": "https://open.spotify.com/track/1o88DMOCUYqQC2AQM824gV"
-    },
-    {
-      "added_at": "2026-05-28 21:00:27",
-      "album": {
         "name": "Kaksi lensi yli k\u00e4enpes\u00e4n",
         "url": "https://open.spotify.com/album/63NrrYAALeBh1JATf2CxzW"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 260869,
       "name": "Kaksi lensi yli k\u00e4enpes\u00e4n",
       "url": "https://open.spotify.com/track/3ZHJj8COm4waKlogKExd3H"
+    },
+    {
+      "added_at": "2026-05-28 21:00:27",
+      "album": {
+        "name": "Running Through My Head",
+        "url": "https://open.spotify.com/album/1Tap373TJJ0bN1YzMohbXj"
+      },
+      "artists": [
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "duration_ms": 159969,
+      "name": "Running Through My Head",
+      "url": "https://open.spotify.com/track/1o88DMOCUYqQC2AQM824gV"
     },
     {
       "added_at": "2026-05-28 21:00:27",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-05-28 21:00:27",
       "album": {
-        "name": "Sulhanen",
-        "url": "https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30"
-      },
-      "artists": [
-        {
-          "name": "Aleksanteri Hakaniemi",
-          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Sulhanen",
-      "url": "https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT"
-    },
-    {
-      "added_at": "2026-05-28 21:00:27",
-      "album": {
         "name": "OK (feat. ANI)",
         "url": "https://open.spotify.com/album/2g6fLu9kfMCuv59elnWu73"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 149750,
       "name": "OK (feat. ANI)",
       "url": "https://open.spotify.com/track/3nOafOYJ5ix2TuUDXFet2k"
+    },
+    {
+      "added_at": "2026-05-28 21:00:27",
+      "album": {
+        "name": "Sulhanen",
+        "url": "https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30"
+      },
+      "artists": [
+        {
+          "name": "Aleksanteri Hakaniemi",
+          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Sulhanen",
+      "url": "https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT"
     },
     {
       "added_at": "2026-05-28 21:00:27",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-05-28 21:00:27",
       "album": {
-        "name": "Camouflage",
-        "url": "https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo"
-      },
-      "artists": [
-        {
-          "name": "Olavi Uusivirta",
-          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Talking Heads",
-      "url": "https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS"
-    },
-    {
-      "added_at": "2026-05-28 21:00:27",
-      "album": {
         "name": "tuntuu niin paljon itkett\u00e4\u00e4",
         "url": "https://open.spotify.com/album/2fGfEH9IlmR2QHnxTRqHbm"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 195770,
       "name": "kerro kerro kuvastin",
       "url": "https://open.spotify.com/track/7H93gPvGL8uwKZkUB6zVDH"
+    },
+    {
+      "added_at": "2026-05-28 21:00:27",
+      "album": {
+        "name": "Camouflage",
+        "url": "https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo"
+      },
+      "artists": [
+        {
+          "name": "Olavi Uusivirta",
+          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Talking Heads",
+      "url": "https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS"
     },
     {
       "added_at": "2026-05-28 21:00:27",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2026-05-28 21:00:27",
       "album": {
-        "name": "Viimeiseen hengenvetoon",
-        "url": "https://open.spotify.com/album/22h46Y8b4gQkLi5vrVT9HZ"
+        "name": "Itken jos mua huvittaa",
+        "url": "https://open.spotify.com/album/5GXtveP0s6zMPn0DNi4zN5"
       },
       "artists": [
         {
-          "name": "Vilma Alina",
-          "url": "https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19"
+          "name": "Maustetyt\u00f6t",
+          "url": "https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I"
         }
       ],
-      "duration_ms": 201341,
-      "name": "Viimeiseen hengenvetoon",
-      "url": "https://open.spotify.com/track/4t3vRAfFDA9vuXE6iFAT7q"
+      "duration_ms": 238826,
+      "name": "Ent\u00e4 jos en p\u00e4rj\u00e4\u00e4k\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/7u7QfpxxJ4L8wlakNEPlar"
     }
   ],
   "unique_name": "Nousussa",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,049 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,063 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 6 | [Favelas \- Version orchestrale](https://open.spotify.com/track/43bOno6JMAfkdvGN2jVWIF) | [Degiheugi](https://open.spotify.com/artist/3V2paBXEoZIAhfZRJmo2jL) | [Favelas \(Version orchestrale\)](https://open.spotify.com/album/6aDEiPSm4CAPer1gpyqZiB) | 5:15 |
 | 7 | [Baby I'm Yours](https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [By Your Side](https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT) | 3:35 |
 | 8 | [To Let Myself Go](https://open.spotify.com/track/62d0YCTAtRcVQ8s44H9HbM) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [The Wanderings Of The Avener](https://open.spotify.com/album/7atFyt76W7KGXOEYKM9ywR) | 4:14 |
-| 9 | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/track/5Vg7mFXuEfcSbliMmcvRID) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Leita](https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo), [Soyuz](https://open.spotify.com/artist/2MhHUHbSBQksLp8EzgaRa8) | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/album/4RmvYkVHV97qDlgEyj4XKk) | 2:20 |
+| 9 | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/track/5Vg7mFXuEfcSbliMmcvRID) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Leita Butternut](https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo), [Soyuz](https://open.spotify.com/artist/2MhHUHbSBQksLp8EzgaRa8) | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/album/4RmvYkVHV97qDlgEyj4XKk) | 2:20 |
 | 10 | [This Head I Hold](https://open.spotify.com/track/0LVaveDmmoMEKhBGhVhfoI) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RmYavmwTVl0MOhfyySBJz) | 2:55 |
 | 11 | [Whisper](https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Max Chapman](https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5), [Mischief](https://open.spotify.com/artist/7r8O7K6KGJwVaP0w7P20bX) | [Whisper](https://open.spotify.com/album/3CPw3JYkY19cnFIlHeJyuM) | 3:21 |
 | 12 | [KILIMINI](https://open.spotify.com/track/1WZ2VE0DFne0VN5NzOdBEy) | [Ajar](https://open.spotify.com/artist/46OlTXwi8hanoxXHTE7E5z) | [BLEU MÉDITERRANÉE](https://open.spotify.com/album/6JP3vTxoeonxqKzGaQfI1i) | 2:24 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 18 | [Reverse](https://open.spotify.com/track/2yYegmCKFlh65V9nu4Qv9U) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Reverse](https://open.spotify.com/album/6b6MN7fR7zqegw6CFkvIB2) | 4:02 |
 | 19 | [Storm \(Edit\)](https://open.spotify.com/track/3EqtgULem9Ta7wEWBRgzOm) | [Sam Benaroya](https://open.spotify.com/artist/5QR1e164DAoLhJQkiNZcDi) | [Storm \(Edit\)](https://open.spotify.com/album/7gcMSD0odngjCS8u4Tz34y) | 5:21 |
 | 20 | [Moda Disko](https://open.spotify.com/track/7llxZeH1vrnl30QirUuwq0) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g), [Den Ze](https://open.spotify.com/artist/2zOTxRKSncCCTHLxwRfuMY) | [Moda](https://open.spotify.com/album/1n5T79xCj5x5WUYeYHh5MT) | 3:36 |
-| 21 | [DU BLEU, DES ÉTOILES](https://open.spotify.com/track/1S74OGHX0KAZQ57zEblJAV) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Leita](https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo) | [DU BLEU, DES ÉTOILES](https://open.spotify.com/album/2YVUzDhAmCl9oeBG3s31Jy) | 4:04 |
+| 21 | [DU BLEU, DES ÉTOILES](https://open.spotify.com/track/1S74OGHX0KAZQ57zEblJAV) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Leita Butternut](https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo) | [DU BLEU, DES ÉTOILES](https://open.spotify.com/album/2YVUzDhAmCl9oeBG3s31Jy) | 4:04 |
 | 22 | [Ipanema \(Cafuné\)](https://open.spotify.com/track/71lC5og1dZKT8gcl1WkMnc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [DIÁSPORA](https://open.spotify.com/album/3cbqI0ZeOCBcNeECWz0Iz8) | 3:33 |
 | 23 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 |
 | 24 | [Caroline \(Hold Tight\)](https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Come in, We're Open !](https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH) | 3:51 |

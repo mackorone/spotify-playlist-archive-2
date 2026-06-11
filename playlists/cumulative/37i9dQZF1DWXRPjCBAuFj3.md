@@ -4,7 +4,7 @@
 
 > E lei traballa dentro all'auto e l'auto è tutta scassata
 
-1,043 songs - 2 day 5 hr 42 min
+1,045 songs - 2 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Automatic RMX \(feat\. Baby Gang\)](https://open.spotify.com/track/0u3Hx0SSWhemODiuA7ZV14) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Automatic RMX \(feat\. Baby Gang\)](https://open.spotify.com/album/3j6szanjkO1lTjsL6xAPeo) | 2:10 | 2023-12-07 | 2024-01-10 |
 | [Avion](https://open.spotify.com/track/2RjEVSy0X1X9LMOeke924W) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Avion](https://open.spotify.com/album/6Ft2AKbiVmJiRYGIzS1I9y) | 3:13 | 2025-07-03 | 2025-08-13 |
 | [Ay Lala \(feat\. Baby Gang\)](https://open.spotify.com/track/7IFuCdfzWR9bKgIoOqJE4j) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Adwokat Diabla](https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf) | 3:56 | 2023-03-10 | 2023-03-25 |
+| [AYAYAY](https://open.spotify.com/track/3xPMN6Ojy4uV0jicQf5dYZ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [AYAYAY](https://open.spotify.com/album/3TV20ouePm2YUPAMSj4C0n) | 2:26 | 2026-06-10 |  |
 | [Ayo Technology](https://open.spotify.com/track/6kfQDanT6Buh4Wu73ghbav) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Curtis](https://open.spotify.com/album/6aAGx3HGsNoWvn6rMRHXBm) | 4:07 | 2025-09-30 | 2025-11-28 |
 | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/album/0tk8XMpaIuk587IlC8aIfP) | 2:58 | 2022-10-07 | 2022-12-13 |
 | [BABA \(Toma Tussi\)](https://open.spotify.com/track/5ZRM9cNzt2CS9eZyzEyRtZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [BABA \(Toma Tussi\)](https://open.spotify.com/album/1r9EOOBPe9kHk4NibkZcmK) | 2:00 | 2022-07-26 | 2023-10-07 |
@@ -485,6 +486,7 @@
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-10-21 | 2025-07-04 |
 | [J’comprends pas](https://open.spotify.com/track/1CxtymiucDK0AB9vgGZ6q2) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Que la famille](https://open.spotify.com/album/2LOyzVRA6BJgfgGxQj21O1) | 4:43 | 2022-10-14 | 2024-03-08 |
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-21 | 2024-03-16 |
+| [Kalashnikov](https://open.spotify.com/track/5tGZsRaBr98La6avokHGb3) | [DDM 80146](https://open.spotify.com/artist/0G8zq8IrKIR5at4Lsq2XmV), [Whizy](https://open.spotify.com/artist/5Cb508kGFzNJvPDsu9KgP2) | [Kalashnikov](https://open.spotify.com/album/0yY1DJ1LaPPX9eA9ZuklZZ) | 2:28 | 2026-06-10 |  |
 | [Kat Food](https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kat Food](https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks) | 4:46 | 2023-09-01 | 2024-01-13 |
 | [Kawasaki](https://open.spotify.com/track/1RlWEcC7lMl18n2gsgPUzE) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Kawasaki](https://open.spotify.com/album/6hSS1sEUm8gPtZVfmvlXBc) | 3:54 | 2024-01-18 | 2024-02-16 |
 | [KEANU REEVES \(feat\. Tedua\)](https://open.spotify.com/track/4b9sA1C7Y8OIO3AE0YvAw3) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 2:32 | 2025-09-09 | 2025-11-19 |

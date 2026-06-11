@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAABoXXkIdZ7vbElyLBUtPjsg",
+  "snapshot_id": "aidXgAAAAADaN3ZsOKQSkayt0YNX035G",
   "tracks": [
     {
       "added_at": null,
@@ -503,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Runnin' and Searchin'",
-        "url": "https://open.spotify.com/album/3eBwjqDE4nQ6MTcgCXh4nI"
+        "name": "JPEG RAW",
+        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
       },
       "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 186646,
-      "name": "Runnin' and Searchin'",
-      "url": "https://open.spotify.com/track/1WVXw5ovf3sTglDGnaSS91"
+      "duration_ms": 183634,
+      "name": "Don't Start (feat. Valerie June)",
+      "url": "https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf"
     },
     {
       "added_at": null,
@@ -555,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "JPEG RAW",
-        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
+        "name": "Runnin' and Searchin'",
+        "url": "https://open.spotify.com/album/3eBwjqDE4nQ6MTcgCXh4nI"
       },
       "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 183634,
-      "name": "Don't Start (feat. Valerie June)",
-      "url": "https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf"
+      "duration_ms": 186646,
+      "name": "Runnin' and Searchin'",
+      "url": "https://open.spotify.com/track/1WVXw5ovf3sTglDGnaSS91"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 245066,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
+      "duration_ms": 314320,
+      "name": "Pushin\u2019 Against A Stone",
+      "url": "https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 314320,
-      "name": "Pushin\u2019 Against A Stone",
-      "url": "https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3"
+      "duration_ms": 245066,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Within You - Moon And Stars / Acoustic",
+      "url": "https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Armageddon In A Summer Dress",
         "url": "https://open.spotify.com/album/4QHHLKn8d51lY9i6OiOohV"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 209426,
       "name": "Summer's End",
       "url": "https://open.spotify.com/track/1GOcYcVoojwz4FH1aD8ZKP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Within You - Moon And Stars / Acoustic",
-      "url": "https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq"
     },
     {
       "added_at": null,

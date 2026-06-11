@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,244 songs - 2 day 21 hr 10 min
+1,245 songs - 2 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1196,6 +1196,7 @@
 | [We Could Have It All](https://open.spotify.com/track/2exlWmUXIoMGpo5SvWXwN5) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [We Could Have It All](https://open.spotify.com/album/6Nm8yTBRXvqYY6LuGsvXHu) | 3:30 | 2022-04-08 | 2022-06-18 |
 | [We Love II](https://open.spotify.com/track/18L2vnxI3zt1xQjlpA88p1) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [We Love II](https://open.spotify.com/album/12JAk5LvhpwGjIfuROESwz) | 4:12 | 2025-07-17 | 2025-10-15 |
 | [We Made It](https://open.spotify.com/track/5GRM663KWRMOo3OOcGsSlP) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [We Made It](https://open.spotify.com/album/3AOoItOGEvBVpqtWGHTjtZ) | 2:37 | 2022-11-08 | 2023-02-01 |
+| [wear my flag](https://open.spotify.com/track/5I0H39YAcrVuNAj9B3dgkQ) | [eh ok!](https://open.spotify.com/artist/7MLMfTl0MHZrqeZtmPevl5) | [wear my flag](https://open.spotify.com/album/4gzSFJMjhZLFrHdBtQqXoi) | 2:32 | 2026-06-10 |  |
 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 | 2021-11-19 | 2022-02-18 |
 | [What Are We Proving](https://open.spotify.com/track/5J0WnlrYHDUzglZzyq3Rpn) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [What Are We Proving](https://open.spotify.com/album/7c2Mz03qiwZJuhqTSevtZL) | 4:38 | 2025-01-27 | 2025-05-01 |
 | [What If I Stay](https://open.spotify.com/track/0AFGePrpNwxHi0RkZcn2DT) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX) | [What If I Stay](https://open.spotify.com/album/2Cq1ho6qwefhOEZo3ydzw4) | 2:28 | 2024-07-18 | 2024-10-10 |

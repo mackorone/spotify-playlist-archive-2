@@ -1,13 +1,145 @@
 {
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [It All Started In May]. Artwork: Isu Kim.\n",
-  "num_followers": 72941,
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [Carousel Casualties]. Artwork: Isu Kim.\n",
+  "num_followers": 72943,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALdSjb22YQWowMl/qqczyYVDeU10",
+  "snapshot_id": "AAAAACo93MfOqqJD9sVxhuJwmor6b9Kp",
   "tracks": [
+    {
+      "added_at": "2026-06-10 05:00:35",
+      "album": {
+        "name": "nananabik",
+        "url": "https://open.spotify.com/album/4WwQ3SZ7zw5i8ibQ0XFBr4"
+      },
+      "artists": [
+        {
+          "name": "Carousel Casualties",
+          "url": "https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I"
+        }
+      ],
+      "duration_ms": 225503,
+      "name": "nananabik",
+      "url": "https://open.spotify.com/track/2qYsF9Zao6aQ6TsuGDoUwz"
+    },
+    {
+      "added_at": "2026-06-10 05:00:35",
+      "album": {
+        "name": "\u2018Di Minamadali",
+        "url": "https://open.spotify.com/album/1yBVGgcidle0Hoi8kg6Z58"
+      },
+      "artists": [
+        {
+          "name": "Trisha Denise",
+          "url": "https://open.spotify.com/artist/70yDAMLz4y4zF3qRVJpabz"
+        },
+        {
+          "name": "Soc Villanueva",
+          "url": "https://open.spotify.com/artist/6GKTPPsjdMWEsUDoRrfmNi"
+        },
+        {
+          "name": "Thyro Alfaro",
+          "url": "https://open.spotify.com/artist/6UQ0UX0CUYmGvpae5nt5J0"
+        }
+      ],
+      "duration_ms": 217714,
+      "name": "\u2018Di Minamadali",
+      "url": "https://open.spotify.com/track/5XFp8MZEBW1loCtpdIQIj5"
+    },
+    {
+      "added_at": "2026-06-10 05:00:35",
+      "album": {
+        "name": "Already / Only",
+        "url": "https://open.spotify.com/album/74QbAsq9OyI7TQtm9BFMQJ"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pison",
+          "url": "https://open.spotify.com/artist/21WOme7150HFQGghQw1MeJ"
+        }
+      ],
+      "duration_ms": 209219,
+      "name": "Already / Only",
+      "url": "https://open.spotify.com/track/1juV1TCsmEqNL03TVk8k5x"
+    },
+    {
+      "added_at": "2026-06-10 05:00:35",
+      "album": {
+        "name": "DOET",
+        "url": "https://open.spotify.com/album/3jCZqy3WXrOo73FI3rLLdO"
+      },
+      "artists": [
+        {
+          "name": "Xaint",
+          "url": "https://open.spotify.com/artist/76Fv5x1GEVrSXrsIHQxA4c"
+        },
+        {
+          "name": "Jeko Royo",
+          "url": "https://open.spotify.com/artist/5HX42nUgvxmShHsxivaApm"
+        }
+      ],
+      "duration_ms": 195688,
+      "name": "DOET",
+      "url": "https://open.spotify.com/track/3BUgSPP81wY0nTM7SKwqsI"
+    },
+    {
+      "added_at": "2026-06-10 05:00:35",
+      "album": {
+        "name": "Pickleball State of Mind",
+        "url": "https://open.spotify.com/album/7pUZv5cDQQlh9ZUHSUxO0y"
+      },
+      "artists": [
+        {
+          "name": "Wonggoys",
+          "url": "https://open.spotify.com/artist/3uqQZK7zlTcszhNr8EPLuR"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Pickleball State of Mind",
+      "url": "https://open.spotify.com/track/2u3RFFQfCx6lyZiGenZ2mY"
+    },
+    {
+      "added_at": "2026-06-10 05:00:35",
+      "album": {
+        "name": "CR3W",
+        "url": "https://open.spotify.com/album/77QmHN2ttnpdtCJ3deR3AD"
+      },
+      "artists": [
+        {
+          "name": "Slick V",
+          "url": "https://open.spotify.com/artist/1is3Qef9QssY4jS4Yfz8AM"
+        },
+        {
+          "name": "Matteyo",
+          "url": "https://open.spotify.com/artist/6AOsrmODyI5Bt3jGhMOZqS"
+        },
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "CR3W",
+      "url": "https://open.spotify.com/track/5Tp2b3NBMLF2qm2nhxiSFc"
+    },
+    {
+      "added_at": "2026-06-10 05:00:35",
+      "album": {
+        "name": "Nawawala't Bumabalik",
+        "url": "https://open.spotify.com/album/5E2tg04mcl5rrjjoY6tXDp"
+      },
+      "artists": [
+        {
+          "name": "Lynx",
+          "url": "https://open.spotify.com/artist/4mQuTsax5ozo0Dg0unNLfC"
+        }
+      ],
+      "duration_ms": 151653,
+      "name": "Nawawala't Bumabalik",
+      "url": "https://open.spotify.com/track/7rITUdMlQdzbZvYYFAWfaV"
+    },
     {
       "added_at": "2026-06-03 17:07:49",
       "album": {

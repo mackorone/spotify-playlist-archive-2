@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 113511,
+  "num_followers": 113527,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAABMaqS2EVKA53DNZYBsfLq7",
+  "snapshot_id": "aidXgAAAAAB1KI0iCigoHONI+ERgEule",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 339000,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/2i5lnmaZ9tB8pom8Br4KS5"
+      "duration_ms": 195746,
+      "name": "Boneyards",
+      "url": "https://open.spotify.com/track/0TIef4jRYHONrw4BVvDGT0"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 195746,
-      "name": "Boneyards",
-      "url": "https://open.spotify.com/track/0TIef4jRYHONrw4BVvDGT0"
+      "duration_ms": 339000,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/2i5lnmaZ9tB8pom8Br4KS5"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
+        "name": "Horizons (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 206374,
-      "name": "Devil's Calling",
-      "url": "https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8"
+      "duration_ms": 184853,
+      "name": "The Siren's Song",
+      "url": "https://open.spotify.com/track/6EhCOo20iD7JSvMP7fty7n"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizons (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
+        "name": "Ire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 184853,
-      "name": "The Siren's Song",
-      "url": "https://open.spotify.com/track/6EhCOo20iD7JSvMP7fty7n"
+      "duration_ms": 206374,
+      "name": "Devil's Calling",
+      "url": "https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 210012,
-      "name": "Into the Dark",
-      "url": "https://open.spotify.com/track/46ZYSOvGGQRFC5cbEHUNKi"
+      "duration_ms": 211733,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/7EuOA3u04bWOvNw6RZQZy7"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
+        "name": "Ire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 211733,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/7EuOA3u04bWOvNw6RZQZy7"
+      "duration_ms": 210012,
+      "name": "Into the Dark",
+      "url": "https://open.spotify.com/track/46ZYSOvGGQRFC5cbEHUNKi"
     },
     {
       "added_at": null,

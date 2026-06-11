@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Tigers Jaw",
-  "num_followers": 442053,
+  "num_followers": 441996,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "Oh No!",
+        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 193166,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
         "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 168975,
       "name": "MARRY KILL F*CK//",
       "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 193166,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "Stop Talking",
+        "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 200883,
+      "name": "Stop Talking",
+      "url": "https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "Cult Classic",
         "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Stop Talking",
-        "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX"
       },
       "artists": [
         {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
         }
       ],
-      "duration_ms": 200883,
-      "name": "Stop Talking",
-      "url": "https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H"
+      "duration_ms": 152101,
+      "name": "I See How It Is",
+      "url": "https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Eternal Youth",
-        "url": "https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 152101,
-      "name": "I See How It Is",
-      "url": "https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "HELLMODE",
         "url": "https://open.spotify.com/album/7Gw4NIOgnylpbryrOJksn9"
       },
@@ -1455,6 +1455,22 @@
       "duration_ms": 268397,
       "name": "DOUBT",
       "url": "https://open.spotify.com/track/24KYmcYFdSIzKJbKYpyOPO"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/0BeIgFzQGCKVqyJ60HusXH"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Never Said",
+      "url": "https://open.spotify.com/track/544eBBEk91c9mskOEO2Axw"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "american zombie",
-        "url": "https://open.spotify.com/album/4BjJWRGXLh0Gq4JoX8wavh"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 153211,
-      "name": "american zombie",
-      "url": "https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Head is Like a Sinking Stone",
         "url": "https://open.spotify.com/album/3e38ud0QvEybSeP6fTehXS"
       },
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Bambi",
-        "url": "https://open.spotify.com/album/0BeIgFzQGCKVqyJ60HusXH"
+        "name": "american zombie",
+        "url": "https://open.spotify.com/album/4BjJWRGXLh0Gq4JoX8wavh"
       },
       "artists": [
         {
-          "name": "Anxious",
-          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
         }
       ],
-      "duration_ms": 195826,
-      "name": "Never Said",
-      "url": "https://open.spotify.com/track/544eBBEk91c9mskOEO2Axw"
+      "duration_ms": 153211,
+      "name": "american zombie",
+      "url": "https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "i\u2019m still breathing",
-        "url": "https://open.spotify.com/album/2AyoTkItCVeDOWklLgo2KI"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 182234,
-      "name": "nosebleeds",
-      "url": "https://open.spotify.com/track/0SMRtXWXIn7Xxr2FyNpyOt"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Don't Let Me Get Too Low",
         "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 158999,
       "name": "Don't Let Me Get Too Low",
       "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "i\u2019m still breathing",
+        "url": "https://open.spotify.com/album/2AyoTkItCVeDOWklLgo2KI"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "duration_ms": 182234,
+      "name": "nosebleeds",
+      "url": "https://open.spotify.com/track/0SMRtXWXIn7Xxr2FyNpyOt"
     }
   ],
   "unique_name": "The Scene",

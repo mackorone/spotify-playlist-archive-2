@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,672 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,698 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 44 | [The Rocker](https://open.spotify.com/track/2qRF6tYwmXy6oMUSI4bKQA) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 5:15 |
 | 45 | [Haunted](https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 4:11 |
 | 46 | [Revelate](https://open.spotify.com/track/18OnYhBaL7FTC1mYonXPKv) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM) | [Fitzcarraldo](https://open.spotify.com/album/0Vjm2unCHuRexuJob6i6cu) | 3:46 |
-| 47 | [Mary](https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub) | [The 4 Of Us](https://open.spotify.com/artist/1Yr9lXq2m3KO4otqQKcllY), [Michael H\. Brauer](https://open.spotify.com/artist/2YUPBZYVy2KFNGeNILURg6) | [Songs For The Tempted](https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo) | 3:33 |
-| 48 | [Where's Me Jumper?](https://open.spotify.com/track/0wRBCcuhLoI85VbrPByx88) | [Sultans Of Ping F.C.](https://open.spotify.com/artist/6SdAlCpKHeAXKmNzvhuhSs), [Frank Mcnamara](https://open.spotify.com/artist/6gauCsjCSocvGc243BRdnT) | [Casual Sex In The Cineplex](https://open.spotify.com/album/3Nunc0C2S3K5heQ9VRQFPy) | 3:08 |
+| 47 | [Where's Me Jumper?](https://open.spotify.com/track/0wRBCcuhLoI85VbrPByx88) | [Sultans Of Ping F.C.](https://open.spotify.com/artist/6SdAlCpKHeAXKmNzvhuhSs), [Frank Mcnamara](https://open.spotify.com/artist/6gauCsjCSocvGc243BRdnT) | [Casual Sex In The Cineplex](https://open.spotify.com/album/3Nunc0C2S3K5heQ9VRQFPy) | 3:08 |
+| 48 | [Mary](https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub) | [The 4 Of Us](https://open.spotify.com/artist/1Yr9lXq2m3KO4otqQKcllY), [Michael H\. Brauer](https://open.spotify.com/artist/2YUPBZYVy2KFNGeNILURg6) | [Songs For The Tempted](https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo) | 3:33 |
 | 49 | [When We Were Young](https://open.spotify.com/track/4qrZQgux5HbzKblPGFY0y0) | [Whipping Boy](https://open.spotify.com/artist/3oadMDBL4Wv7F5lkVwRWy2) | [Heartworm](https://open.spotify.com/album/3vOq1lCyVUrnbqXK2ZYhRJ) | 2:50 |
 | 50 | [You Know It](https://open.spotify.com/track/4gks3Iym1kXtPRHMSITkMk) | [Republic Of Loose](https://open.spotify.com/artist/0t6MU9jroaufCbqZF6UpSU) | [Aaagh!](https://open.spotify.com/album/4ew7a5WNxErs5FDpF4H2eV) | 3:22 |
 

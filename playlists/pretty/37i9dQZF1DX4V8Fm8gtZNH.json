@@ -1,13 +1,129 @@
 {
   "description": "Our streets, our way. Listen to music from The Chi, now streaming on Paramount+ with Showtime. ",
-  "num_followers": 27599,
+  "num_followers": 27613,
   "original_name": "The Chi Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJzMk3QRHMtNEYdfgq6FUGt5Kbu6",
+  "snapshot_id": "AAAAAC9yPP6sw7FWVy+6Hj8/oE05ZaIB",
   "tracks": [
+    {
+      "added_at": "2026-06-10 15:06:15",
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 159669,
+      "name": "Heart On Ice",
+      "url": "https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6"
+    },
+    {
+      "added_at": "2026-06-10 15:06:15",
+      "album": {
+        "name": "It's Only Right",
+        "url": "https://open.spotify.com/album/1XA36DrqjH4G1g5GywN6da"
+      },
+      "artists": [
+        {
+          "name": "Big Que XXL",
+          "url": "https://open.spotify.com/artist/2lNR45NOGaJCDUv9giigy9"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "It's Only Right",
+      "url": "https://open.spotify.com/track/25DTWbrqMCTg134tV6zHk0"
+    },
+    {
+      "added_at": "2026-06-10 15:06:15",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/6pZglm4JbKCzcDmSyDPObU"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "duration_ms": 183499,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p"
+    },
+    {
+      "added_at": "2026-06-10 15:06:15",
+      "album": {
+        "name": "RAMONA PARK BROKE MY HEART",
+        "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 227873,
+      "name": "WHEN SPARKS FLY",
+      "url": "https://open.spotify.com/track/1jhdCONafFj1hzJsPvZx27"
+    },
+    {
+      "added_at": "2026-06-10 15:06:15",
+      "album": {
+        "name": "The Game (From THE CHI Season 7)",
+        "url": "https://open.spotify.com/album/7b6dOAOKrPIpJevvNs3HJt"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "duration_ms": 295340,
+      "name": "The Game (From THE CHI Season 7)",
+      "url": "https://open.spotify.com/track/5m3zJTghWcDqzMm7KeXdVH"
+    },
+    {
+      "added_at": "2026-06-10 15:06:15",
+      "album": {
+        "name": "Kool Tape",
+        "url": "https://open.spotify.com/album/6tYQcg6oLXxquAUQpUVi2y"
+      },
+      "artists": [
+        {
+          "name": "Durand the Rapper",
+          "url": "https://open.spotify.com/artist/7C87roQyV9v0lowFTVVBM8"
+        },
+        {
+          "name": "Jazzfeezy",
+          "url": "https://open.spotify.com/artist/7rxVJrgnsnQhgxg3QnHsmi"
+        }
+      ],
+      "duration_ms": 121565,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/72BJEGqknpyhkodPqaNZKE"
+    },
+    {
+      "added_at": "2026-06-10 15:06:15",
+      "album": {
+        "name": "Souled Out (Deluxe)",
+        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "Blue Dream",
+      "url": "https://open.spotify.com/track/4Y8MG7qcAMk7JB7Eebpcvu"
+    },
     {
       "added_at": "2026-05-26 12:54:21",
       "album": {

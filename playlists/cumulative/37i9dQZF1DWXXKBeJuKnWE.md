@@ -4,7 +4,7 @@
 
 > The home of heavy music\. Cover: Converge
 
-755 songs - 1 day 21 hr 18 min
+756 songs - 1 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-07-25 | 2025-09-12 |
 | [Black swan](https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [If Not Winter](https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM) | 4:25 | 2025-08-11 |  |
 | [Blackhole](https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Blackhole](https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI) | 3:20 | 2025-01-17 | 2025-09-12 |
-| [BLAME \(feat\. Corey Taylor\)](https://open.spotify.com/track/0m6wHoCD76aMVrKr5NWeHU) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [BLAME \(feat\. Corey Taylor\)](https://open.spotify.com/album/1LqHo7nmaZhSAoYAnk6tA4) | 4:22 | 2026-03-20 |  |
+| [BLAME \(feat\. Corey Taylor\)](https://open.spotify.com/track/0m6wHoCD76aMVrKr5NWeHU) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [BLAME \(feat\. Corey Taylor\)](https://open.spotify.com/album/1LqHo7nmaZhSAoYAnk6tA4) | 4:22 | 2026-03-20 | 2026-06-11 |
 | [Bleeders](https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Bleeders](https://open.spotify.com/album/3U2tS7mIbIbj3Vg7lREEOc) | 4:34 | 2024-07-24 | 2025-10-24 |
 | [Bleeding](https://open.spotify.com/track/6WPEREfyyWXcOUsRmrTlEM) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Death Melodies](https://open.spotify.com/album/7hMvX9SJmUEORfGoIlrLlB) | 3:18 | 2024-03-08 | 2024-05-24 |
 | [Blind Side Sonny](https://open.spotify.com/track/3yJIHyPa3J6SadRkhp5QsZ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Blind Side Sonny](https://open.spotify.com/album/3Q8URHjCFx82FDBf6BUeFJ) | 2:22 | 2024-10-04 | 2025-09-12 |
@@ -719,6 +719,7 @@
 | [W.T.F](https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [W.T.F](https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm) | 3:27 | 2025-02-07 | 2025-09-12 |
 | [Wait A Minute My Girl](https://open.spotify.com/track/6nDHNHOVNuWK48N24Fktcs) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 2:20 | 2022-11-10 | 2023-03-25 |
 | [Wake Up Calling](https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Wake Up Calling](https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L) | 3:49 | 2026-01-30 |  |
+| [Walk Away](https://open.spotify.com/track/48Np1VL2ERq3M1uRjZExEi) | [ARCHIVES](https://open.spotify.com/artist/5JV6t6VzxFApi5yd8XAMFq), [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Walk Away](https://open.spotify.com/album/1KJ5maNKrKCFKpHt1bF5zM) | 2:42 | 2026-06-08 |  |
 | [WAR](https://open.spotify.com/track/2Q4t8PCGdjy5Uk6uSxTYpD) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [FEAN IS WAR](https://open.spotify.com/album/28rByyY0tDhN0DfQ2cQiO1) | 4:17 | 2025-08-11 | 2025-09-12 |
 | [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 | 2023-03-23 | 2024-04-19 |
 | [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-01-20 | 2025-09-12 |

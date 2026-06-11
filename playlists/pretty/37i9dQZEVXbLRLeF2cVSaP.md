@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,490 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,497 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 22 | [ты че обиделась](https://open.spotify.com/track/36DnMjOyWBOZLgWYm2KWFz) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [sexyswag](https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc) | 1:30 |
 | 23 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 |
 | 24 | [they don’t know ’bout us](https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:44 |
-| 25 | [Супермаркет](https://open.spotify.com/track/0e7fQFxNi91TGwf0ezB8qj) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:34 |
+| 25 | [Супермаркет](https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:34 |
 | 26 | [Мальборо](https://open.spotify.com/track/4xHTTxGihlPr1gSbedKtd1) | [SAYAN](https://open.spotify.com/artist/2YsmO7ux7Vmi4kwQYnsQrQ) | [Мальборо](https://open.spotify.com/album/08vglVZPKBCDOKfs8zE4Ob) | 2:02 |
 | 27 | [детская травма](https://open.spotify.com/track/01d8gNoeZ2FGory2ru8Wgk) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [заставь меня плакать](https://open.spotify.com/album/30cAXP9iph7hbTDn0pvNy2) | 2:12 |
 | 28 | [Четыре тридцать](https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1) | 2:13 |
 | 29 | [Тону](https://open.spotify.com/track/3dxOjnX03UHPUYW7bBikVu) | [HOLLYFLAME](https://open.spotify.com/artist/4WSx41vaWVKu4rdK3VpTDX) | [Тону](https://open.spotify.com/album/0dooqoBNx1V9sTJM903uCy) | 2:43 |
-| 30 | [Нон стоп](https://open.spotify.com/track/2nmRH8nkluAFr3qI1ryavs) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:33 |
+| 30 | [Нон стоп](https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:33 |
 | 31 | [ты любишь танцевать](https://open.spotify.com/track/0nukg1QtwhP7jBbmeFKoiT) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [дели на два](https://open.spotify.com/album/6HKXYwvSyK42bwGhtYMG1I) | 2:25 |
 | 32 | [Банкомат](https://open.spotify.com/track/3rGOoMEEIBonQBGOX48yjB) | [DEAD BLONDE](https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z) | [СПЛЕТНИЦА](https://open.spotify.com/album/3KdIGJs1B4TarMpwCw6481) | 3:19 |
 | 33 | [прыгай, дура!](https://open.spotify.com/track/03L68NrZwxXbicqSO96BNr) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [заставь меня плакать](https://open.spotify.com/album/30cAXP9iph7hbTDn0pvNy2) | 1:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Beat It](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:18 |
 | 50 | [Body to Body](https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:09 |
 
-Snapshot ID: `MbuLAAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mbze2AAAAAAAAAAAAAAAAAAAAAAAAGVu`

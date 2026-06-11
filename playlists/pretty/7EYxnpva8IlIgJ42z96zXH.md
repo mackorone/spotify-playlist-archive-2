@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain](/playlists/plain/7EYxnpva8IlIgJ42z96zXH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7EYxnpva8IlIgJ42z96zXH)
 
-### [Hot Girl Workout 🏃🏻‍♀️ Run Club / Pilates / HIIT](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
+### [Weekly Workout 🏃](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 
-> Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym!
+> Fuel your gym routine with the best workout hits\. Beastmode and pump workout, wellness, health, running, pilates, HIIT, weightlifting, hits\. Featuring high\-energy pop, hyperpop and EDM, fitness beats from Calvin Harris, Alok, Ninajirachi, and more  to boost your motivation\. Updated weekly.
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,078 likes - 101 songs - 5 hr 18 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,072 likes - 101 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 100 | [Lose Yourself Again](https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Lose Yourself Again](https://open.spotify.com/album/4FYQpn00AtwMv3JgKye0Ws) | 4:19 |
 | 101 | [that's my beach!](https://open.spotify.com/track/1MtlL1N2wTI08qiMjcwEu7) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [that's my beach!](https://open.spotify.com/album/5k7qkM1p2MhUi4ES3uTtd6) | 3:18 |
 
-Snapshot ID: `AAAQht2dEiErXexNRD52qg0ogpDRTNhG`
+Snapshot ID: `AAAQi175nR0GVfj3iFMmeh/q8rTHmc5S`

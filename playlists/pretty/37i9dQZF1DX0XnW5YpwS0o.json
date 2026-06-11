@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 125895,
+  "num_followers": 125943,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
         "name": "Home of the Strange",
         "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 245727,
       "name": "Miracle Aligner",
       "url": "https://open.spotify.com/track/4iwpCp7qdDLngGI3gsVTza"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "A Mineral Love",
-        "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
         }
       ],
-      "duration_ms": 152333,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
+      "duration_ms": 227366,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB"
     }
   ],
   "unique_name": "Best of Indie 2016",

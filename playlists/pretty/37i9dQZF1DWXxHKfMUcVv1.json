@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 127323,
+  "num_followers": 127331,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "El Rey del Norte",
-        "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ternura",
-          "url": "https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "B\u00e1ilalo B\u00e1ilalo",
         "url": "https://open.spotify.com/album/20zOZgfdwPf5wiJYF033E9"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 168934,
       "name": "Lo Intentamos",
       "url": "https://open.spotify.com/track/53oLP8HW9lSk0ZYvTsDoIa"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "El Rey del Norte",
+        "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ternura",
+          "url": "https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -555,8 +555,8 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "En Las Calles",
-        "url": "https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF"
+        "name": "El Equilibrio",
+        "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
         }
       ],
-      "duration_ms": 161230,
-      "name": "En Las Calles",
-      "url": "https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5"
+      "duration_ms": 169928,
+      "name": "La Semilla",
+      "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -651,8 +651,8 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "El Equilibrio",
-        "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
+        "name": "En Las Calles",
+        "url": "https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
         }
       ],
-      "duration_ms": 169928,
-      "name": "La Semilla",
-      "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
+      "duration_ms": 161230,
+      "name": "En Las Calles",
+      "url": "https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5"
     },
     {
       "added_at": "2025-03-14 20:46:39",

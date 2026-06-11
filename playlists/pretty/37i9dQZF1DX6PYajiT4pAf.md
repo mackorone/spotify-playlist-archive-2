@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Rvfv, Ozuna, Taylor Swift y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,769 likes - 64 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,773 likes - 64 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

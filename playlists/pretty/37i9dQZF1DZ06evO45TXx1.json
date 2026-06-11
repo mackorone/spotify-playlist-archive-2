@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAD3r2tCqUWI8PEGRmuS6Pe+",
+  "snapshot_id": "aidXgAAAAAAWknZZOwE/kc47L3/hM7gw",
   "tracks": [
     {
       "added_at": null,
@@ -1287,34 +1287,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donas do Jogo 2",
-        "url": "https://open.spotify.com/album/5qq7LHmULVuDcxlGLSE7Qo"
+        "name": "NO PRIMEIRO ENCONTRO",
+        "url": "https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ"
       },
       "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Rizzi Get Busy",
-          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
+        {
+          "name": "Dj Chadin do C",
+          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
         }
       ],
-      "duration_ms": 197340,
-      "name": "Donas do Jogo 2",
-      "url": "https://open.spotify.com/track/2U9UpFV2WEjoAs9TqEb2ah"
+      "duration_ms": 147692,
+      "name": "NO PRIMEIRO ENCONTRO",
+      "url": "https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H"
     }
   ],
   "unique_name": "This Is Mc Luanna",

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,308 songs - 5 day 16 hr 21 min
+2,310 songs - 5 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1990,6 +1990,7 @@
 | [The Mother of Crime](https://open.spotify.com/track/47jduf1OUGAOOoJvVH7UPd) | [Ensemble Ex Materia](https://open.spotify.com/artist/3KsZjnoUK5ubNOJ3EaGQbr), [Peter Vukmirovic Stevens](https://open.spotify.com/artist/3MMqZNe5oDJDMg5PF3SVs6), [Strotter Inst.](https://open.spotify.com/artist/1cyD9LFZOUVGNUT7Bfyl6i), [Victoria Jordanova](https://open.spotify.com/artist/4wmvQrkLiTNQNcWrBGGO9M), [Jérôme Descamps](https://open.spotify.com/artist/0BVDk3RPAi2OMzeHlHYy8s) | [Ensemble Ex Materia](https://open.spotify.com/album/0CK8EbM5zLsONav7UnLbYe) | 7:35 | 2025-08-16 |  |
 | [The Ones Who Never Cried](https://open.spotify.com/track/6BLHIgf0SfCQMrkhW2VscI) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [The Ones Who Never Cried](https://open.spotify.com/album/3HlS45p0wcW2dLFSnU7JXx) | 3:39 | 2025-08-11 |  |
 | [The Only One](https://open.spotify.com/track/1FIa3ox06ehPePdtqDkPdT) | [Alex Gabriel](https://open.spotify.com/artist/42d97fn8MuX8haj1vzuWeH) | [In the Mood](https://open.spotify.com/album/7roJ1tKgqS4cd7YrEewO0b) | 3:34 | 2026-04-10 |  |
+| [The Overfitting Ex](https://open.spotify.com/track/3HyDtedJpJuCqzWuadPI2U) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [Symphony of Machine Learning](https://open.spotify.com/album/1Q8swnhp6sB7GR5MVlmyo5) | 4:08 | 2026-06-10 |  |
 | [The Pendulum of Neon](https://open.spotify.com/track/2BnjZOBRRRRw3n7FPBOYSe) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [The Great Void's Echo](https://open.spotify.com/album/4iBlc0gBxnwL8xNHNTZXf5) | 4:38 | 2026-05-19 |  |
 | [The Rush](https://open.spotify.com/track/0PBz4H0I5zQOon1fKZbTiU) | [Gardening Club](https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg) | [Gardening Club](https://open.spotify.com/album/2Ij0ymbmxaUSdEbWCjgJhW) | 1:36 | 2026-05-01 |  |
 | [the same \- jersey club remix](https://open.spotify.com/track/4GBWvxSQkTXJDbywwIw8J7) | [Ni$ha Da Chef](https://open.spotify.com/artist/6mbzGJFvDEgJKGCWFSMEQB) | [the same \(jersey club remix\)](https://open.spotify.com/album/0aMKGY5QRIyR2Cdrhnal0N) | 2:05 | 2026-03-23 |  |
@@ -2160,6 +2161,7 @@
 | [Volume](https://open.spotify.com/track/4kH8CT496lEGJe4SInfwjw) | [Ria](https://open.spotify.com/artist/3gnLRygDQ3Srtb0zQHgsFP), [THESAVRVS](https://open.spotify.com/artist/4vzJ5XfRFoyV5hyq7gHQ64) | [Volume](https://open.spotify.com/album/5EdvxVHZU7YM8dq8o6kBo4) | 2:51 | 2024-06-20 |  |
 | [Voyage](https://open.spotify.com/track/0rEfwncg6R9XGSvgOR3kjJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [The Collaborations II](https://open.spotify.com/album/4UnXSEkjflndnNVYuOGIzk) | 4:03 | 2026-03-18 |  |
 | [Vuelve a Ser Inevitable](https://open.spotify.com/track/1TPj2DlZJW30bIjJ9Iw8yu) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Vuelve a Ser Inevitable](https://open.spotify.com/album/53KVnC2pcEBzhnC6RdswIB) | 2:20 | 2026-04-25 |  |
+| [Vuelve, Vuelve](https://open.spotify.com/track/1C5alUEKjaeYJNoK7c5WGr) | [CER](https://open.spotify.com/artist/2lhN3pky6pkIZeXroIWnRg) | [Canta El Reggaeton](https://open.spotify.com/album/0fPpvRnqa8ZebfbwUXT1Zx) | 4:13 | 2026-06-10 |  |
 | [Vêm De Todo Lado](https://open.spotify.com/track/6pVdxokjHtddIwiu3THwmT) | [Golpe](https://open.spotify.com/artist/3kiKcCZ0XLmY2xmCbtsI9Y) | [Terroir](https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt) | 2:46 | 2024-02-06 |  |
 | [Wait For You](https://open.spotify.com/track/4oCZz2Lu6oF5Pz8i0cw7AG) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY) | [Wait For You](https://open.spotify.com/album/7yBnD4uTO5Y0yIhKkhlwGZ) | 2:21 | 2026-01-05 |  |
 | [Wake Up Your Lion](https://open.spotify.com/track/599474NocEEogJMIRpJHZP) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 3:29 | 2024-05-01 |  |

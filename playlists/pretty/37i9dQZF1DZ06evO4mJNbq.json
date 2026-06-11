@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3157,
+  "num_followers": 3158,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAADwHiznJcpjsir+/mRJTltC",
+  "snapshot_id": "aidXgAAAAABTx5JZ/6bg4JonQ/86+8qK",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evil Angel",
-        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 150233,
-      "name": "Drag Me to Hell",
-      "url": "https://open.spotify.com/track/79HDP4qmwaVq0mdajHOwhk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evil Angel (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 192260,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/730cOyBWglmh94hEvmLoJE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evil Angel",
+        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 150233,
+      "name": "Drag Me to Hell",
+      "url": "https://open.spotify.com/track/79HDP4qmwaVq0mdajHOwhk"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evil Angel",
-        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 215002,
-      "name": "Truth Tea",
-      "url": "https://open.spotify.com/track/5bognKHojz6lQ7EzangIpr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evil Angel (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 178793,
       "name": "Mad",
       "url": "https://open.spotify.com/track/4mm4gtJhqVxJPxNGDhNmrp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evil Angel",
+        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 215002,
+      "name": "Truth Tea",
+      "url": "https://open.spotify.com/track/5bognKHojz6lQ7EzangIpr"
     },
     {
       "added_at": null,

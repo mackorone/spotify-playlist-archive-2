@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 100531,
+  "num_followers": 100546,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAADbsKy2FvJ2ETWmpRIZM+fS",
+  "snapshot_id": "aidXgAAAAADxYnoXLNHRvSmiAnm2azxW",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 150421,
       "name": "Gustos VIP (En Vivo)",
       "url": "https://open.spotify.com/track/3h5Pt9Gab2aT10xKajUayZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
+        "url": "https://open.spotify.com/album/0JaJMJHnxPKVHVzNiZDICH"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 171743,
+      "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
+      "url": "https://open.spotify.com/track/66cxP4XwyVS4KjPVLFc5UH"
     },
     {
       "added_at": null,
@@ -419,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda (Vol.3)",
-        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 183409,
-      "name": "Botas Ariat",
-      "url": "https://open.spotify.com/track/5LIs1XTlzRRtHYjKsA9WIx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 206861,
       "name": "Vida De Locura",
       "url": "https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 183409,
+      "name": "Botas Ariat",
+      "url": "https://open.spotify.com/track/5LIs1XTlzRRtHYjKsA9WIx"
     },
     {
       "added_at": null,
@@ -483,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda (Vol.3)",
-        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 186301,
-      "name": "Barrio Xolo",
-      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 186261,
       "name": "Se Oyen Recio Los Disparos",
       "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 186301,
+      "name": "Barrio Xolo",
+      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
     },
     {
       "added_at": null,
@@ -547,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda (Vol.3)",
-        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "Ya Lo Decid\u00ed",
-      "url": "https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 148344,
       "name": "La Fiesta Ya Empezo",
       "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Ya Lo Decid\u00ed",
+      "url": "https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ"
     },
     {
       "added_at": null,
@@ -611,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda (Vol.3)",
-        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 147543,
-      "name": "El Mejor Del Mont\u00f3n",
-      "url": "https://open.spotify.com/track/0I18wPVPkFSPvJKSBoc5EA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Gwag",
         "url": "https://open.spotify.com/album/58ktIwAuPXNByw51ZCaf6z"
       },
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Guero",
-        "url": "https://open.spotify.com/album/1KeF2YyOYQz9VSfrJtRXuq"
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 124331,
-      "name": "El Guero",
-      "url": "https://open.spotify.com/track/56xZRR6LDp1KpIb28RdEwO"
+      "duration_ms": 147543,
+      "name": "El Mejor Del Mont\u00f3n",
+      "url": "https://open.spotify.com/track/0I18wPVPkFSPvJKSBoc5EA"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
       "duration_ms": 192728,
       "name": "Toxico",
       "url": "https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Guero",
+        "url": "https://open.spotify.com/album/1KeF2YyOYQz9VSfrJtRXuq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 124331,
+      "name": "El Guero",
+      "url": "https://open.spotify.com/track/56xZRR6LDp1KpIb28RdEwO"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
       "duration_ms": 168881,
       "name": "Sangre De Rancho",
       "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Musas",
-        "url": "https://open.spotify.com/album/03H8sPu8hNwdAW7SiGZXGi"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 144903,
-      "name": "Musas",
-      "url": "https://open.spotify.com/track/6cqXMULD4XYoQQyEUmL49M"
     }
   ],
   "unique_name": "This Is El de La Guitarra",

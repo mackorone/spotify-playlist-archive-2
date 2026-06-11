@@ -1,6 +1,6 @@
 {
   "description": "Sempre aggiornata. Con nuovi brani di Geolier, G. Mineiro, Tony Boy, IvanBi e molti altri. ",
-  "num_followers": 55589,
+  "num_followers": 55593,
   "original_name": "Novit\u00e0 Rap Italiano",
   "owner": {
     "name": "Spotify",
@@ -51,17 +51,21 @@
     {
       "added_at": "2026-06-09 10:05:44",
       "album": {
-        "name": "Cuore rotto",
+        "name": "Cuore rotto (feat. Finesse)",
         "url": "https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9"
       },
       "artists": [
         {
           "name": "Tony Boy",
           "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
         }
       ],
       "duration_ms": 140000,
-      "name": "Cuore rotto",
+      "name": "Cuore rotto (feat. Finesse)",
       "url": "https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN"
     },
     {

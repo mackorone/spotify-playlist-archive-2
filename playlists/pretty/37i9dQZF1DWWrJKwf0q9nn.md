@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,456 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,471 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 7 | [Ride On Me](https://open.spotify.com/track/5WZQkHYzUGBpUCgCk9eXgA) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Ride On Me](https://open.spotify.com/album/5yRI7CON1FuhWmw2jRAXX4) | 3:49 |
 | 8 | [Stay With Me Through The Night](https://open.spotify.com/track/3YvdiKCgmH1N5PHLUosWBF) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Stay With Me Through The Night](https://open.spotify.com/album/28EdPIAGo5czFuqTGseouO) | 2:37 |
 | 9 | [Sad Girls](https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Sad Girls](https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V) | 2:48 |
-| 10 | [Into You](https://open.spotify.com/track/5NrMSFRVMWykeZJpFGwc1O) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [Into You](https://open.spotify.com/album/4qCpj7C3VXs0cTMHM56CAc) | 2:19 |
+| 10 | [Into You](https://open.spotify.com/track/5NrMSFRVMWykeZJpFGwc1O) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Into You](https://open.spotify.com/album/4qCpj7C3VXs0cTMHM56CAc) | 2:19 |
 | 11 | [Four To The Floor](https://open.spotify.com/track/4UrHXNvA6u7Wb68nhjCK20) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Four To The Floor](https://open.spotify.com/album/6OvgUGqFkKbEOQ9UE4j9Oo) | 3:32 |
 | 12 | [Waterfalls](https://open.spotify.com/track/4G00JUkuKku2pXiQWKkkrl) | [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv) | [Waterfalls](https://open.spotify.com/album/6NfnYzHIed8OBWdN6wQ9I2) | 2:34 |
 | 13 | [Free Your Mind](https://open.spotify.com/track/4JqNT3CzwdtEvvMe2zOkxr) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Free Your Mind](https://open.spotify.com/album/52r9CUPMQVzJTl6MyKlrf0) | 3:27 |

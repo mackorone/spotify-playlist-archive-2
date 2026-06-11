@@ -2877,6 +2877,28 @@
     },
     {
       "album": {
+        "name": "denk je echt?",
+        "url": "https://open.spotify.com/album/65vSGfENRYEfhKk1kZYtp5"
+      },
+      "artists": [
+        {
+          "name": "sor",
+          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
+        },
+        {
+          "name": "GP UIT G",
+          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "denk je echt?",
+      "url": "https://open.spotify.com/track/6UlfCJtqwfWdzGTI7JHUVv"
+    },
+    {
+      "album": {
         "name": "Deuren",
         "url": "https://open.spotify.com/album/5t07wAr09HD0LS0nEIPthD"
       },

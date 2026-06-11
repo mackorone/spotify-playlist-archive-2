@@ -13787,6 +13787,24 @@
     },
     {
       "album": {
+        "name": "Paolo Conte",
+        "url": "https://open.spotify.com/album/0LFIPXXxCjybZoE6H0tswB"
+      },
+      "artists": [
+        {
+          "name": "Paolo Conte",
+          "url": "https://open.spotify.com/artist/7bAIYB0KGbYXlGbIjyFAcI"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251626,
+      "name": "Sparring Partner",
+      "url": "https://open.spotify.com/track/7p5jetoN7m7LeDKA2Mfhvv"
+    },
+    {
+      "album": {
         "name": "Sla Radical Dance Disco Club",
         "url": "https://open.spotify.com/album/0HHFfVAOIzKegm7pCAjHAh"
       },

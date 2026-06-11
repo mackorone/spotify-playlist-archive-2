@@ -4721,6 +4721,32 @@
     },
     {
       "album": {
+        "name": "SpaceFuji",
+        "url": "https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        },
+        {
+          "name": "Terry apala",
+          "url": "https://open.spotify.com/artist/1Ct52UFTjvAZu1pOuMWXY1"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "SpaceFuji",
+      "url": "https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l"
+    },
+    {
+      "album": {
         "name": "Speed",
         "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
       },

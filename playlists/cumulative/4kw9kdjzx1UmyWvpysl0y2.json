@@ -24805,6 +24805,24 @@
     },
     {
       "album": {
+        "name": "wear my flag",
+        "url": "https://open.spotify.com/album/4gzSFJMjhZLFrHdBtQqXoi"
+      },
+      "artists": [
+        {
+          "name": "eh ok!",
+          "url": "https://open.spotify.com/artist/7MLMfTl0MHZrqeZtmPevl5"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "wear my flag",
+      "url": "https://open.spotify.com/track/5I0H39YAcrVuNAj9B3dgkQ"
+    },
+    {
+      "album": {
         "name": "Whale Song",
         "url": "https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG"
       },

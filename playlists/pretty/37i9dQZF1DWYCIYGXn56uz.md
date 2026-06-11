@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Nicolò Filippucci
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,302 likes - 97 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,279 likes - 97 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 16 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 |
 | 17 | [Santa](https://open.spotify.com/track/1vwiqgddmKWo3Fqkk1UVqn) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Santa](https://open.spotify.com/album/0piXGpmV6Xx0Vm542TsG0Q) | 2:45 |
 | 18 | [Un Bel Casino](https://open.spotify.com/track/3qXwghIzrCe8io8SYGfiWz) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Un Bel Casino](https://open.spotify.com/album/7IDEKTMviDwAp2sDpzToBG) | 2:34 |
-| 19 | [Cuore rotto](https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Cuore rotto](https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9) | 2:20 |
+| 19 | [Cuore rotto \(feat\. Finesse\)](https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Cuore rotto \(feat\. Finesse\)](https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9) | 2:20 |
 | 20 | [LUNEDÌ NERO](https://open.spotify.com/track/06GjvENosCIhAzglC4bmOb) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [LUNEDÌ NERO](https://open.spotify.com/album/71wajF3ZJL5YVPdD6gVPl4) | 2:21 |
 | 21 | [Paraíso \(feat\. PRACI\)](https://open.spotify.com/track/3oFDugsZh7LccP3xzhOvYe) | [Cate Lumina](https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf), [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [CATALINA](https://open.spotify.com/album/7fqG8FHvN56MVDBZy08u1F) | 2:34 |
 | 22 | [PRIMADONNA](https://open.spotify.com/track/1FvUDxu2HRYXBlEq98fRbQ) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMADONNA](https://open.spotify.com/album/4V9Qxnq6EgjVluHd7eGRdb) | 2:54 |

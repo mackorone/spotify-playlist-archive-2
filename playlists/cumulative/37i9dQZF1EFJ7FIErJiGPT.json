@@ -1793,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172896,
+      "name": "TG4M",
+      "url": "https://open.spotify.com/track/4uoumbAMEMaKdtiv763jKz"
+    },
+    {
+      "album": {
         "name": "The Birds",
         "url": "https://open.spotify.com/album/1sAcHNDWJsKilDLzxBlBSF"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Sunship
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,412 likes - 75 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,529 likes - 75 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 13 | [Teardrops \(Flava 7" Mix\)](https://open.spotify.com/track/49hFJr1GCLuf0d7zeyyjIJ) | [Lovestation](https://open.spotify.com/artist/3LRRdfXOYGIcwLviuwDIf1) | [Teardrops](https://open.spotify.com/album/6AJuYuamYUyOkn34HJ2kH6) | 3:46 |
 | 14 | [Sambuca \- Original Mix \(Radio Edit\) \[feat\. Dennis G\]](https://open.spotify.com/track/4todOcpbt1Kpp4jl5x0r9h) | [Wideboys](https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi), [Dennis G](https://open.spotify.com/artist/3bNcjfsIse2W8WFGwxs5DA) | [Sambuca \(feat\. Dennis G\)](https://open.spotify.com/album/0mN3UsfFUA1JZFsWX8i3kg) | 3:24 |
 | 15 | [Has It Come to This?](https://open.spotify.com/track/35zEswqAFI1D41cmoBXOFK) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Original Pirate Material](https://open.spotify.com/album/0hkZGxfsFypXbjq15hM6U9) | 4:05 |
-| 16 | [All I Want \- Sunship Radio Edit](https://open.spotify.com/track/0tWdRXWDUd1gWLthXgk6Dp) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Mis\-Teeq](https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ) | 3:27 |
+| 16 | [I Refuse \(What You Want\) \- Industry Standard Radio Mix](https://open.spotify.com/track/6X00moMegr2nwytMZbiD5P) | [Somore](https://open.spotify.com/artist/1erEuKt8YFKmHz3qC4LViw), [Damon Trueitt](https://open.spotify.com/artist/00TSU8ZyeaRjUvvCOwbJey) | [I Refuse: Collected, Vol.1 \(Remixes\)](https://open.spotify.com/album/6AsGgCPli9nNHqsbtgM1v4) | 3:27 |
 | 17 | [Gabriel \(Live Garage Version\)](https://open.spotify.com/track/39gEBCOlL2IdbgLfdly2Ri) | [Roy Davis Jr.](https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8), [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY) | [Pay Close Attention : XL Recordings](https://open.spotify.com/album/19xt2EkDfNcbAdQzOVUttd) | 7:24 |
-| 18 | [I Refuse \(What You Want\) \- Industry Standard Radio Mix](https://open.spotify.com/track/6X00moMegr2nwytMZbiD5P) | [Somore](https://open.spotify.com/artist/1erEuKt8YFKmHz3qC4LViw), [Damon Trueitt](https://open.spotify.com/artist/00TSU8ZyeaRjUvvCOwbJey) | [I Refuse: Collected, Vol.1 \(Remixes\)](https://open.spotify.com/album/6AsGgCPli9nNHqsbtgM1v4) | 3:27 |
+| 18 | [All I Want \- Sunship Radio Edit](https://open.spotify.com/track/0tWdRXWDUd1gWLthXgk6Dp) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Mis\-Teeq](https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ) | 3:27 |
 | 19 | [Bound 4 da Reload \- Casualty](https://open.spotify.com/track/4UYrVcOhdVQ2L0ZwYliXNH) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf) | [Execute](https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8) | 4:52 |
 | 20 | [Sincere](https://open.spotify.com/track/2bbIrLn5rnn8uCsPBwf8vA) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Clubbed To Death](https://open.spotify.com/album/0OstemuKkqQrvIieOxmQzh) | 3:58 |
 | 21 | [Garage Girls \- Sunship Radio Edit](https://open.spotify.com/track/4P5Rntc1SI0IGeqlrWJQCq) | [Lonyo](https://open.spotify.com/artist/7ggOyf2aSSBXOS8RTvy9Mz), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Garage Girls](https://open.spotify.com/album/1fL1Un5OtmTDzL8jWOfy0M) | 3:20 |

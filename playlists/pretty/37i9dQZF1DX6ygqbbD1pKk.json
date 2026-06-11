@@ -1,15 +1,15 @@
 {
   "description": "Todos tus \u00e9xitos favoritos de Disney. Lilo & Stitch, Moana 2, Encanto y mucho m\u00e1s!",
-  "num_followers": 212755,
+  "num_followers": 212778,
   "original_name": "Disney Hits Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF6+CRcueiXMYlJ63mX+ldtHhzY7",
+  "snapshot_id": "AAAAAJRl2yxGZHtY5AfvStH1VW5IbD6w",
   "tracks": [
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Zoo (From \"Zootopia 2\")",
         "url": "https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
@@ -49,7 +49,23 @@
       "url": "https://open.spotify.com/track/65vseJi4kug0grGTTSmH2u"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
+      "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/5QKk5N5xJQGsWMhPM80Kfv"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Enredados",
         "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/199LDzwbUTc2wEroyRxhBM"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Tarzan (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/7wU1QpssLayUhbh9AO6lkm"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/4OIp3u67j4xFlsTRlDmpKf"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "De ti me enamor\u00e9 (De \"Soy Luna: Volver a rodar\" | Disney+)",
         "url": "https://open.spotify.com/album/3b47MJPMkf6IvHK5HIUuj1"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/6K9OORwOY5DzAsXTzJQ6iU"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Moana: un mar de aventuras (Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/2mkl0RWJn36fe0cX0oLahS"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Alas - Versi\u00f3n 2026 (De \"Soy Luna: Volver a rodar\" | Disney+)",
         "url": "https://open.spotify.com/album/08rVdBmY0ccAv3vmdKN9N9"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/0nsEiI2txKENWkjEeullsV"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/3f3eX1P1jcRAmnBggOCRo3"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/2PHO8EhBkqFQQ9JtQaAt0P"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Moana: un mar de aventuras (Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/6mHFhk4i8hhQbVnW1yleq2"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Mufasa: El Rey Le\u00f3n (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/6j9toIIF8bqjKm9kEPPzdE"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/5SplglyYgLKPaxzzsizG8h"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/6740sbqgB64LZopHUEiBG8"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "El Rey Leon (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/1DdGBTfcxge1ganY62TfpD"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/2BFnHiGCfLy5Z96yMeO50g"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Hawaiian Roller Coaster Ride (From \"Lilo & Stitch\")",
         "url": "https://open.spotify.com/album/39qk7h3gj7wtNHSzWIDd33"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/4SMyFD1nz2HFIlARsP8jyK"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Moana 2 (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/05GBXz3mIFU5MRgqYxn6hM"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/0M2ir8S1hd5DA757xTIrmv"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Mul\u00e1n (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/2IRrjrnWbqf5GPpg8lzGAq"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/6tSjLKma2kitI4azWbOK4W"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Elemental (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "La Bella y La Bestia (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/1grUQut8vgoI1fdRq6vVjq"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/3taMkY9CwwphIT4Ch1MEWq"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Enredados",
         "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/1DgS5IMm8ffbZ78GbIPlOM"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/1CK7FnJxNSZrQhEPLVVa2N"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Tarzan (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/7wU1QpssLayUhbh9AO6lkm"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/52lhNRar6eRdHwcO4u5KkY"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Aladd\u00edn (Edici\u00f3n Especial/Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/6GTcMZqvnPzBvOeylpRSdk"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Blanca Nieves (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/5P0ab0UkCa07CU0LNXdCSc"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/76pSjb8dSV1ZQ05mGWGDvV"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "El Rey Leon (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/1DdGBTfcxge1ganY62TfpD"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/5qTLa1r2rxIiO7Bc4RZaTO"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "La Princesa y el sapo (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/6fn8DNr1k7mVD1yRHIrcoe"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/74pJGDsreytr8eTgaG2nGW"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Aladd\u00edn (Banda De Sonido Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/7aPWDugGx9KNY4YGjBbDSs"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/5pGJgq1KxaRHEOZTD0egWL"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/5GqGavoD0DCHBcRxfRK7v1"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/3vAkxLPdOML7BEl0tUaB5z"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/4mEIqavz99DpHXxi3wK46I"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Zootopia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Canta y Cuenta: Toy Story",
         "url": "https://open.spotify.com/album/1XdGbS5wra2anoG0lOOVnS"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/1pWbMRdexwG9VEGMxq1zL2"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol/Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/4JMFuXaUW3P9P3l324vCoG"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/7DEIeEbkqRxINlC1S9a9dx"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "El Rey Leon (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/1DdGBTfcxge1ganY62TfpD"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/0ykKpOKpgH2ygZ607JR4A9"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/0W4UPlbJs8lgX1bAKxzavM"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Wish (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/17sSfXuykvQcFrW4QpxuF0"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/709XWSlEWADDCM5ulzix4i"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Moana: un mar de aventuras (Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/4RnN3TNgEKObmmrBbbTw9w"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "La Bella y La Bestia (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/1grUQut8vgoI1fdRq6vVjq"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/3NUHJBJAGh6eRqN9iuBFni"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Pocahontas (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/1g8v8yll56NuzDysJYsxpS"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/7AsZ5WyFcF0vGRdkPl0F87"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Mul\u00e1n (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/2IRrjrnWbqf5GPpg8lzGAq"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/4dUdp3SThqYRFFwFnA1cFa"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Soy Luna",
         "url": "https://open.spotify.com/album/1LG389RayU0XbgirX9GV8u"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/3sZFupNtxsH1HmVun5Bt0b"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Enredados",
         "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
@@ -861,7 +877,7 @@
       "url": "https://open.spotify.com/track/3Z4X358heVKuZttTdKfWFs"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Turning Red (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
@@ -897,7 +913,7 @@
       "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Soy Luna",
         "url": "https://open.spotify.com/album/1LG389RayU0XbgirX9GV8u"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/4wWo2EHTXBQJG2PvTHyrRd"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Bum bum, terremoto (De \"Playback: Una somos dos\" | Disney+)",
         "url": "https://open.spotify.com/album/1XVxfKtefJIkZvlcReb9nU"
@@ -945,7 +961,7 @@
       "url": "https://open.spotify.com/track/3IsMYvrVTExYztrNVzb7yS"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
@@ -961,7 +977,7 @@
       "url": "https://open.spotify.com/track/6dlqAP1A3eTXz6n3YAb9cx"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Raya y el \u00daltimo Drag\u00f3n (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/2oZQAdZR7MN3FAqyjamR0B"
@@ -977,7 +993,7 @@
       "url": "https://open.spotify.com/track/7BdR0he8VuKnBK94I8FlWf"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw"
@@ -1001,7 +1017,7 @@
       "url": "https://open.spotify.com/track/1DJICuMsoD3ZmhWTOPydKr"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "La vida es un sue\u00f1o (M\u00fasica de la serie de Disney Channel)",
         "url": "https://open.spotify.com/album/2w8grvlbdrMyufqShQa51v"
@@ -1017,7 +1033,7 @@
       "url": "https://open.spotify.com/track/68XTWDLuLSK7IrRQg2rfBU"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
@@ -1033,7 +1049,7 @@
       "url": "https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "El Rey Leon (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/1DdGBTfcxge1ganY62TfpD"
@@ -1057,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3DXND7voTuDQgPAGqbEyE8"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Aladd\u00edn (Edici\u00f3n Especial/Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk"
@@ -1073,7 +1089,7 @@
       "url": "https://open.spotify.com/track/4deFjaHvIsvW4WtKuxxvdN"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Frozen 2 (Banda Sonora Original en Espa\u00f1ol/Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/1ltVI90usp38HOd7QmSSD2"
@@ -1093,7 +1109,7 @@
       "url": "https://open.spotify.com/track/6UWaMec3jc3ESl5hfSaejU"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
@@ -1113,7 +1129,7 @@
       "url": "https://open.spotify.com/track/167XxZYPzDURPVxCvNQ9Mo"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw"
@@ -1137,7 +1153,7 @@
       "url": "https://open.spotify.com/track/1BKNatU4cpHxUAfET1Q9Ln"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "La Princesa y el sapo (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/6fn8DNr1k7mVD1yRHIrcoe"
@@ -1161,7 +1177,7 @@
       "url": "https://open.spotify.com/track/5c2gEGVPlMW4HNgLkAaBrq"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "El Mejor Guerrero (De \"Mul\u00e1n\")",
         "url": "https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F"
@@ -1177,7 +1193,7 @@
       "url": "https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Moana 2 (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/05GBXz3mIFU5MRgqYxn6hM"
@@ -1193,7 +1209,7 @@
       "url": "https://open.spotify.com/track/2Qtg47VF9l43R6NLvkp4VL"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "La vida es un sue\u00f1o (M\u00fasica de la serie de Disney Channel)",
         "url": "https://open.spotify.com/album/2w8grvlbdrMyufqShQa51v"
@@ -1209,7 +1225,7 @@
       "url": "https://open.spotify.com/track/6pUxqfTQ0rtJDzMNaGyscS"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
@@ -1225,7 +1241,7 @@
       "url": "https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Pocahontas (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/1g8v8yll56NuzDysJYsxpS"
@@ -1241,7 +1257,7 @@
       "url": "https://open.spotify.com/track/5EzMHt1dIPGDugHyXlp45a"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Up (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
@@ -1257,7 +1273,7 @@
       "url": "https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "High School Musical",
         "url": "https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci"
@@ -1277,7 +1293,7 @@
       "url": "https://open.spotify.com/track/0cqNGWvuukhCiKvEX7utys"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Cars (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
@@ -1293,7 +1309,7 @@
       "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
@@ -1309,7 +1325,7 @@
       "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "High School Musical",
         "url": "https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci"
@@ -1333,7 +1349,7 @@
       "url": "https://open.spotify.com/track/40RcMOyjymXFKBxlMuQJnA"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "Best Of Both Worlds",
         "url": "https://open.spotify.com/album/3z83ZnUFsc9mBNKbm6DEdI"
@@ -1349,7 +1365,7 @@
       "url": "https://open.spotify.com/track/2Jl67aezGtgrcKKVl9R2Ou"
     },
     {
-      "added_at": "2026-06-09 18:35:12",
+      "added_at": "2026-06-10 17:47:32",
       "album": {
         "name": "High School Musical",
         "url": "https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,368 likes - 90 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,374 likes - 90 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 55 | [Siete Higueras](https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf) | [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm), [Tarrago Ros](https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL) | [Coleccion Aniversario](https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW) | 2:27 |
 | 56 | [Te amare eternamente](https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo) | [Los Hermanos Barrios](https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:12 |
 | 57 | [Baile de Campo](https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn) | [Los Taitas del Chamame](https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u) | [Baile de Campo](https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g) | 2:45 |
-| 58 | [Siento haberte perdido](https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y) | [Monchito Merlo](https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:15 |
-| 59 | [Pájaro Chogüí](https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh) | [Juanjo Dominguez](https://open.spotify.com/artist/62JdZQLVhEnorpnkE2VdPo), [Raul Barboza](https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s) | [Pájaro Chogüí](https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4) | 2:18 |
+| 58 | [Pájaro Chogüí](https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh) | [Juanjo Dominguez](https://open.spotify.com/artist/62JdZQLVhEnorpnkE2VdPo), [Raul Barboza](https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s) | [Pájaro Chogüí](https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4) | 2:18 |
+| 59 | [Siento haberte perdido](https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y) | [Monchito Merlo](https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:15 |
 | 60 | [Al Gaucho Gil](https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc) | [Los Chaqueñísimos Cardozo](https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY) | [21 Grandes Exitos](https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W) | 3:26 |
 | 61 | [A villa Guillermina](https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg) | [Paquito Aranda](https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:50 |
 | 62 | [Jamás Te Podré Olvidar](https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh) | [Rosendo y Ofelia](https://open.spotify.com/artist/6VvdYwVXudhCWKn8sVo22j) | [Los 20 Años de Rosendo y Ofelia](https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC) | 2:23 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 83 | [Camino a las cuchillas](https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT) | [Los hermanos Cena](https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
 | 84 | [La Changa de los Domingos \- Chamamé](https://open.spotify.com/track/1C58csh64wznZj64hwV9gx) | [Anibal Maldonado](https://open.spotify.com/artist/6WEUDx5pkVqSRslfQxIVYi), [Silvio Quintana](https://open.spotify.com/artist/3Q4nmjdBoFnPBbrnHNvcgZ) | [Si el Campo Crece, Crece el País](https://open.spotify.com/album/3TrPDaLtRXg4iuXuMHgNqZ) | 4:07 |
 | 85 | [La dama misteriosa](https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:14 |
-| 86 | [El Gato Blanco](https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:19 |
+| 86 | [Barrio la Toma](https://open.spotify.com/track/71jdWvhtkU6xgOtFqxfavE) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:22 |
 | 87 | [Sentimiento Correntino](https://open.spotify.com/track/2mE721bufkCtgsJl2vlxy1) | [Coquimarola](https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy), [Óscar Fernández](https://open.spotify.com/artist/6vQUH7khnVVfYzJUoCiLBm) | [Muchachita Sos Mi Sueño](https://open.spotify.com/album/0QYObb1RYFFEdKtxxAQK4A) | 2:19 |
 | 88 | [Arroyo San Juan](https://open.spotify.com/track/0uQA7csjc7B3uiylwKBaa4) | [Crescencio Lezcano](https://open.spotify.com/artist/4HzGhAGdDYZmg8Jmwo6Zoy) | [Lluvia, Campo Y Chamamé](https://open.spotify.com/album/2useZrRLmYZ3528GbUmYTy) | 2:52 |
 | 89 | [Te sigo queriendo](https://open.spotify.com/track/6K7HQklyjHMsxqjMMXXRyB) | [Avelino Flores](https://open.spotify.com/artist/0CMySmSVU7SkK2NOycL4Mj) | [Chamame los 100 mejores temas Vol 3](https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc) | 2:32 |

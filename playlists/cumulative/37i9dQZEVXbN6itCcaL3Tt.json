@@ -22523,6 +22523,32 @@
     },
     {
       "album": {
+        "name": "PCC 3.0",
+        "url": "https://open.spotify.com/album/6gLwySNsAnEM8NisJ6JP7I"
+      },
+      "artists": [
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        },
+        {
+          "name": "Chris Carson",
+          "url": "https://open.spotify.com/artist/0gvoKJbY0q97HgBvPRmjMW"
+        },
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177269,
+      "name": "I nic poza tym",
+      "url": "https://open.spotify.com/track/7uS5OvsiezL2MMoPgOV2Qk"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -37040,7 +37066,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 199384,
       "name": "NIE MA NAS TAM",
       "url": "https://open.spotify.com/track/0QeaCgjAByJ9Z5cxwHqIq7"

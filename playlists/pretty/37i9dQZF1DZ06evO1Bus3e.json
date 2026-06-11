@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12705,
+  "num_followers": 12706,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAAxDaEKxtyPSNb3JPscC+bP",
+  "snapshot_id": "aidXgAAAAAD8CjZup+Rs2u1Wrrx8FHid",
   "tracks": [
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 229004,
-      "name": "Los Recuerdos (feat. Arsenal Efectivo)",
-      "url": "https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trap Romantix",
         "url": "https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 154867,
       "name": "XIX",
       "url": "https://open.spotify.com/track/2FzgBU1RKSl6yE4SPzVP6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 229004,
+      "name": "Los Recuerdos (feat. Arsenal Efectivo)",
+      "url": "https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8"
     },
     {
       "added_at": null,
@@ -455,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Coron\u00f3 La Vuelta",
-        "url": "https://open.spotify.com/album/7uqKY4vZdt0N6K0bUP9Qbg"
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1"
       },
       "artists": [
-        {
-          "name": "Josue",
-          "url": "https://open.spotify.com/artist/68czGBDG2AruZ6RMOwAXmc"
-        },
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 151536,
-      "name": "Ya Coron\u00f3 La Vuelta",
-      "url": "https://open.spotify.com/track/30ts9jAs2faKSvxAOb5FWg"
+      "duration_ms": 238116,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
     },
     {
       "added_at": null,
@@ -491,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1"
+        "name": "Ya Coron\u00f3 La Vuelta",
+        "url": "https://open.spotify.com/album/7uqKY4vZdt0N6K0bUP9Qbg"
       },
       "artists": [
+        {
+          "name": "Josue",
+          "url": "https://open.spotify.com/artist/68czGBDG2AruZ6RMOwAXmc"
+        },
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 238116,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
+      "duration_ms": 151536,
+      "name": "Ya Coron\u00f3 La Vuelta",
+      "url": "https://open.spotify.com/track/30ts9jAs2faKSvxAOb5FWg"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trap Romantix",
+        "url": "https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 203659,
+      "name": "Cuentame",
+      "url": "https://open.spotify.com/track/05HFx3DachZrnv9VvEGRyB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DDM Anthem",
         "url": "https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 258726,
       "name": "DDM Anthem",
       "url": "https://open.spotify.com/track/22ZE5l6Z9Z8I8eGk4Ty4OW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trap Romantix",
-        "url": "https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 203659,
-      "name": "Cuentame",
-      "url": "https://open.spotify.com/track/05HFx3DachZrnv9VvEGRyB"
     },
     {
       "added_at": null,

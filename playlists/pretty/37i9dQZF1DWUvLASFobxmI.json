@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. David Ornelas en portada.",
-  "num_followers": 530407,
+  "num_followers": 530429,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-05-30 05:26:57",
       "album": {
-        "name": "Hoy La Vi Pasar",
-        "url": "https://open.spotify.com/album/5pYF9PIn9tJmZB6Vk9qTmW"
-      },
-      "artists": [
-        {
-          "name": "Geru y Su Legion 7",
-          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Hoy La Vi Pasar",
-      "url": "https://open.spotify.com/track/5sdP4Y32tdclTWN9bIwKn0"
-    },
-    {
-      "added_at": "2026-05-30 05:26:57",
-      "album": {
         "name": "Resiliencia",
         "url": "https://open.spotify.com/album/1a6uJBZfQHnjZmVkmbCGqT"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 150440,
       "name": "El Estr\u00e9s",
       "url": "https://open.spotify.com/track/7wAkHI64oZwGRY20OkaEX7"
+    },
+    {
+      "added_at": "2026-05-30 05:26:57",
+      "album": {
+        "name": "Hoy La Vi Pasar",
+        "url": "https://open.spotify.com/album/5pYF9PIn9tJmZB6Vk9qTmW"
+      },
+      "artists": [
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Hoy La Vi Pasar",
+      "url": "https://open.spotify.com/track/5sdP4Y32tdclTWN9bIwKn0"
     },
     {
       "added_at": "2026-05-30 05:26:57",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-05-30 05:26:57",
       "album": {
+        "name": "Bajo El Agua",
+        "url": "https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 183051,
+      "name": "Bajo El Agua",
+      "url": "https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb"
+    },
+    {
+      "added_at": "2026-05-30 05:26:57",
+      "album": {
         "name": "Sabor A Sonora (En Vivo)",
         "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": "2026-05-30 05:26:57",
       "album": {
-        "name": "Bajo El Agua",
-        "url": "https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 183051,
-      "name": "Bajo El Agua",
-      "url": "https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb"
-    },
-    {
-      "added_at": "2026-05-30 05:26:57",
-      "album": {
         "name": "Migajero",
         "url": "https://open.spotify.com/album/3NruGax4ExQKseJLZ9N2su"
       },
@@ -659,26 +659,6 @@
       "duration_ms": 198421,
       "name": "Migajero",
       "url": "https://open.spotify.com/track/5epbktRwPpLwYz5mnBgNPq"
-    },
-    {
-      "added_at": "2026-05-30 05:26:57",
-      "album": {
-        "name": "Pa' D\u00f3nde",
-        "url": "https://open.spotify.com/album/59EYpnVskaEs2RuFjwZ4fq"
-      },
-      "artists": [
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
-        },
-        {
-          "name": "Bolela",
-          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Pa' D\u00f3nde",
-      "url": "https://open.spotify.com/track/3LzovbiayjAF9NBNw9rJr3"
     },
     {
       "added_at": "2026-05-30 05:26:57",
@@ -699,6 +679,26 @@
       "duration_ms": 198598,
       "name": "A Dios Le Ped\u00eda",
       "url": "https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3"
+    },
+    {
+      "added_at": "2026-05-30 05:26:57",
+      "album": {
+        "name": "Pa' D\u00f3nde",
+        "url": "https://open.spotify.com/album/59EYpnVskaEs2RuFjwZ4fq"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        },
+        {
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Pa' D\u00f3nde",
+      "url": "https://open.spotify.com/track/3LzovbiayjAF9NBNw9rJr3"
     },
     {
       "added_at": "2026-05-30 05:26:57",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-05-30 05:26:57",
       "album": {
+        "name": "TAN FACIL",
+        "url": "https://open.spotify.com/album/7HdSQ3SMFDG3CTlvbZqyhn"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Caro",
+          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
+        }
+      ],
+      "duration_ms": 162711,
+      "name": "TAN FACIL",
+      "url": "https://open.spotify.com/track/3mkgaNXg8UHd537YsUWQQj"
+    },
+    {
+      "added_at": "2026-05-30 05:26:57",
+      "album": {
         "name": "Apenas Prend\u00ed El Motor",
         "url": "https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 153885,
       "name": "Se Rindi\u00f3 El Amor",
       "url": "https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM"
-    },
-    {
-      "added_at": "2026-05-30 05:26:57",
-      "album": {
-        "name": "TAN FACIL",
-        "url": "https://open.spotify.com/album/7HdSQ3SMFDG3CTlvbZqyhn"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Caro",
-          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
-        }
-      ],
-      "duration_ms": 162711,
-      "name": "TAN FACIL",
-      "url": "https://open.spotify.com/track/3mkgaNXg8UHd537YsUWQQj"
     },
     {
       "added_at": "2026-05-30 05:26:57",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-05-30 05:26:57",
       "album": {
-        "name": "Corridos y Canciones",
-        "url": "https://open.spotify.com/album/0LE1F6QFKhO9jvM1bX7Agx"
-      },
-      "artists": [
-        {
-          "name": "Los Varones de Culiacan",
-          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
-        }
-      ],
-      "duration_ms": 140928,
-      "name": "Princesa Hermosa",
-      "url": "https://open.spotify.com/track/3c5C37V1YYSAfh6wwb1k9s"
-    },
-    {
-      "added_at": "2026-05-30 05:26:57",
-      "album": {
         "name": "Jammin' sessions",
         "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 171506,
       "name": "Gotas De Agua Dulce - Live",
       "url": "https://open.spotify.com/track/2GTj69Y6CI9UNjiFNRSb3C"
+    },
+    {
+      "added_at": "2026-05-30 05:26:57",
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0LE1F6QFKhO9jvM1bX7Agx"
+      },
+      "artists": [
+        {
+          "name": "Los Varones de Culiacan",
+          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
+        }
+      ],
+      "duration_ms": 140928,
+      "name": "Princesa Hermosa",
+      "url": "https://open.spotify.com/track/3c5C37V1YYSAfh6wwb1k9s"
     },
     {
       "added_at": "2026-05-30 05:26:57",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-05-30 05:26:57",
       "album": {
-        "name": "Seras Mia",
-        "url": "https://open.spotify.com/album/06W0RYfvO5ZVW2DpKOUy2A"
-      },
-      "artists": [
-        {
-          "name": "Los Varones de Culiacan",
-          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
-        }
-      ],
-      "duration_ms": 256587,
-      "name": "Seras Mia",
-      "url": "https://open.spotify.com/track/1eYNeNvks6wWxaIKL2mCtf"
-    },
-    {
-      "added_at": "2026-05-30 05:26:57",
-      "album": {
         "name": "Vivir con ella",
         "url": "https://open.spotify.com/album/5HsY1UVumFj3q4njaxApeU"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 184960,
       "name": "Vivir con ella",
       "url": "https://open.spotify.com/track/6E0FinAlvA6nUUWQaIrPN5"
+    },
+    {
+      "added_at": "2026-05-30 05:26:57",
+      "album": {
+        "name": "Seras Mia",
+        "url": "https://open.spotify.com/album/06W0RYfvO5ZVW2DpKOUy2A"
+      },
+      "artists": [
+        {
+          "name": "Los Varones de Culiacan",
+          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
+        }
+      ],
+      "duration_ms": 256587,
+      "name": "Seras Mia",
+      "url": "https://open.spotify.com/track/1eYNeNvks6wWxaIKL2mCtf"
     },
     {
       "added_at": "2026-05-30 05:26:57",

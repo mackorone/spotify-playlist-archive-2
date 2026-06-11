@@ -1,6 +1,6 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 46935,
+  "num_followers": 46944,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
@@ -199,26 +199,6 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
-        "name": "Fallin' (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/36084xkxfgcSMnaeWphBOY"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 266276,
-      "name": "Fallin' (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/5XFwDMO60LntXrFSWHPopc"
-    },
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
         "name": "Love is the New Gangsta",
         "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 223666,
       "name": "All That Matters (with Leon Thomas & AZ Chike)",
       "url": "https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
+        "name": "Fallin' (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/36084xkxfgcSMnaeWphBOY"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 266276,
+      "name": "Fallin' (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/5XFwDMO60LntXrFSWHPopc"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -443,6 +443,26 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
+        "name": "Love is the New Gangsta",
+        "url": "https://open.spotify.com/album/0P7rfrcXTzQwUR9q1nTDpq"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 182173,
+      "name": "On Me (with Odeal)",
+      "url": "https://open.spotify.com/track/6JoEoLh7ZS7Yx2DTnaPA9A"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 202421,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0"
-    },
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
-        "name": "Ashin' the Blunt (with Young Thug)",
-        "url": "https://open.spotify.com/album/4y46BTmwP9S67I2GgecbEL"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Ashin' the Blunt (with Young Thug)",
-      "url": "https://open.spotify.com/track/5adWDt4mPuryG0IoC1ZKu1"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -531,18 +531,22 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
-        "name": "Therapy at the Club",
-        "url": "https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP"
+        "name": "Ashin' the Blunt (with Young Thug)",
+        "url": "https://open.spotify.com/album/4y46BTmwP9S67I2GgecbEL"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Therapy at the Club",
-      "url": "https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn"
+      "duration_ms": 228586,
+      "name": "Ashin' the Blunt (with Young Thug)",
+      "url": "https://open.spotify.com/track/5adWDt4mPuryG0IoC1ZKu1"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -567,22 +571,18 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
-        "name": "Love is the New Gangsta",
-        "url": "https://open.spotify.com/album/0P7rfrcXTzQwUR9q1nTDpq"
+        "name": "Therapy at the Club",
+        "url": "https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 182173,
-      "name": "On Me (with Odeal)",
-      "url": "https://open.spotify.com/track/6JoEoLh7ZS7Yx2DTnaPA9A"
+      "duration_ms": 167000,
+      "name": "Therapy at the Club",
+      "url": "https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
-    },
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
         "name": "Solace II",
         "url": "https://open.spotify.com/album/0csdTMdBLQseo4FFt1nRXa"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 154105,
       "name": "Solace II",
       "url": "https://open.spotify.com/track/6qLshHZOHqWyAVRmSj4qip"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -779,26 +779,6 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
-        "name": "Before The Morning Light",
-        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 193672,
-      "name": "Speak Up",
-      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
-    },
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
         "name": "TAI CHI",
         "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 155744,
       "name": "Confession",
       "url": "https://open.spotify.com/track/0Z1NN59C1dt9NSpSR4xwMC"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
+        "name": "Before The Morning Light",
+        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 193672,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
-        "name": "Isn't It Beautiful",
-        "url": "https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 156997,
-      "name": "Isn't It Beautiful",
-      "url": "https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y"
-    },
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA"
       },
@@ -911,26 +895,6 @@
       "duration_ms": 196202,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
-    },
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
-        "name": "That Way",
-        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "That Way",
-      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -951,6 +915,42 @@
       "duration_ms": 159322,
       "name": "Touch me (feat. Ya Levis)",
       "url": "https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
+        "name": "Isn't It Beautiful",
+        "url": "https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 156997,
+      "name": "Isn't It Beautiful",
+      "url": "https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
+        "name": "That Way",
+        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "That Way",
+      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
+        "name": "Sunset in Paris",
+        "url": "https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Sunset in Paris",
+      "url": "https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
         "name": "On The Low",
         "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 150783,
       "name": "On The Low",
       "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
-    },
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
-        "name": "Sunset in Paris",
-        "url": "https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Sunset in Paris",
-      "url": "https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
+        "name": "Celine",
+        "url": "https://open.spotify.com/album/6YJUI25aCamOyfKgOij3dt"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 181727,
+      "name": "Celine",
+      "url": "https://open.spotify.com/track/5CJyViQs3FjWV0jSs3Ue59"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
         "name": "No Sign of Weakness",
         "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 173476,
       "name": "Pardon",
       "url": "https://open.spotify.com/track/4GHlt0rLK8dOC13iVAk1kO"
-    },
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
-        "name": "Celine",
-        "url": "https://open.spotify.com/album/6YJUI25aCamOyfKgOij3dt"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 181727,
-      "name": "Celine",
-      "url": "https://open.spotify.com/track/5CJyViQs3FjWV0jSs3Ue59"
     },
     {
       "added_at": "2026-06-05 00:01:28",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-06-05 00:01:28",
       "album": {
+        "name": "Summer Got You Wild",
+        "url": "https://open.spotify.com/album/3HSM5V0SBxk2G9MqU4RgNJ"
+      },
+      "artists": [
+        {
+          "name": "Samzii",
+          "url": "https://open.spotify.com/artist/2rIRdcRrB9NuzFNWZtIdLb"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "Summer Got You Wild",
+      "url": "https://open.spotify.com/track/2o0kcwr5KQ3Foum7JwSli7"
+    },
+    {
+      "added_at": "2026-06-05 00:01:28",
+      "album": {
         "name": "This Side of Love",
         "url": "https://open.spotify.com/album/4Mj0BcwVlj9Ub9XqPhvTPO"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 138500,
       "name": "This Side of Love",
       "url": "https://open.spotify.com/track/3qGDRNfWzv0znuGVnCr9cI"
-    },
-    {
-      "added_at": "2026-06-05 00:01:28",
-      "album": {
-        "name": "Summer Got You Wild",
-        "url": "https://open.spotify.com/album/3HSM5V0SBxk2G9MqU4RgNJ"
-      },
-      "artists": [
-        {
-          "name": "Samzii",
-          "url": "https://open.spotify.com/artist/2rIRdcRrB9NuzFNWZtIdLb"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "Summer Got You Wild",
-      "url": "https://open.spotify.com/track/2o0kcwr5KQ3Foum7JwSli7"
     }
   ],
   "unique_name": "Cocoa Butter ",

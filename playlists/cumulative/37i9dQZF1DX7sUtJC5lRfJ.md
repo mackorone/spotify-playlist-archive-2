@@ -4,13 +4,14 @@
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hà An Huy
 
-42 songs - 2 hr 36 min
+43 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [' CHẲNG CẦN BÌNH YÊN \|](https://open.spotify.com/track/2KadxdRVKWJy3ahMnlClhq) | [Hà An Huy](https://open.spotify.com/artist/6cz81gA7fLpRK4qKeLsGIn) | [' CHẲNG CẦN BÌNH YÊN \|](https://open.spotify.com/album/1xQoXghXMKGK3HadxpQuuA) | 3:43 | 2026-05-14 |  |
-| [1% \(feat\. PN\)](https://open.spotify.com/track/5bU2BptxMCGcO5xFQxErBy) | [Show It All Vietnam \(Tân Binh Toàn Năng\)](https://open.spotify.com/artist/4SiNg3BrvdFycwTlO6HGKN), [PN](https://open.spotify.com/artist/0EfEWOpWEbf6WP8rsQMSDM) | [1% \(feat\. PN\)](https://open.spotify.com/album/101scFLXstcirHZmPVjgXF) | 4:20 | 2026-04-23 |  |
+| [1% \(feat\. PN\)](https://open.spotify.com/track/5bU2BptxMCGcO5xFQxErBy) | [Show It All Vietnam \(Tân Binh Toàn Năng\)](https://open.spotify.com/artist/4SiNg3BrvdFycwTlO6HGKN), [PN](https://open.spotify.com/artist/0EfEWOpWEbf6WP8rsQMSDM) | [1% \(feat\. PN\)](https://open.spotify.com/album/101scFLXstcirHZmPVjgXF) | 4:20 | 2026-04-23 | 2026-06-11 |
 | [Anh Sẽ Đến Khi Em Cần](https://open.spotify.com/track/1tXFYeTfktEY8AXhAHW7dh) | [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT) | [Anh Sẽ Đến Khi Em Cần](https://open.spotify.com/album/7MJHLIDJJz2iWwOgWD5iaa) | 3:45 | 2026-05-31 |  |
+| [Biệt Khúc](https://open.spotify.com/track/4Sb2tLjJY1OfzME7SmnvN7) | [Tùng](https://open.spotify.com/artist/1TdtsDVivxc6PpkQdNuXdR) | [Biệt Khúc](https://open.spotify.com/album/22NxsRYy0rG5epgNOyssz8) | 5:40 | 2026-06-10 |  |
 | [Buông](https://open.spotify.com/track/2ZBi1KpCR0grEWRNgySqwg) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ) | [Buông](https://open.spotify.com/album/6ub8yuzsgJbYRdTd0ZgmLp) | 3:25 | 2026-04-23 |  |
 | [Bài Ca Em Viết \(feat\. Hustlang Robber\)](https://open.spotify.com/track/1a0pNJeGTKqnVjV2MN0WBT) | [Muộii](https://open.spotify.com/artist/0o3J7OHDa35b6AY7Ivj5j7), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv), [Lespace](https://open.spotify.com/artist/5VqJjr06RZ1ZSteos5sET2) | [Bài Ca Em Viết \(feat\. Hustlang Robber\)](https://open.spotify.com/album/76bEkP3pNdvS2KBPbloqBC) | 3:36 | 2026-04-23 |  |
 | [Bắt Cóc Con Tim](https://open.spotify.com/track/3ho1OQb9SFtCt3MIiRZ8Si) | [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Bắt Cóc Con Tim](https://open.spotify.com/album/538vBy7c27uatest2Eu58q) | 3:17 | 2026-04-23 |  |
@@ -29,7 +30,7 @@
 | [Không Thử Sao Biết](https://open.spotify.com/track/0PCmfXVEN74USLLa0P5qOa) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [NỔ](https://open.spotify.com/album/4CNU1B2QHdFryQ0jl9a00J) | 2:22 | 2026-04-23 |  |
 | [Khắp Cả Thế Giới](https://open.spotify.com/track/1n4dSgC0duF89Dh3DIFSOK) | [Luke D](https://open.spotify.com/artist/6Q8rdOp4MwNFF18K75sMzZ) | [Thương Em](https://open.spotify.com/album/1PaktgnaYRwS29sAYbvxEN) | 3:22 | 2026-04-23 |  |
 | [Lửa Gần Rơm](https://open.spotify.com/track/3AF1fXVAtkscCkW7mEVxUY) | [Quân A.P](https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi) | [Lửa Gần Rơm](https://open.spotify.com/album/3hObjbuaDU4N1o5IGO6yXx) | 3:11 | 2026-04-23 | 2026-05-04 |
-| [MAY KIN THANH DO](https://open.spotify.com/track/6o7CaOFyXiBSSkl8jHW5ou) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [TONoise](https://open.spotify.com/artist/2cobR2qFaGjfuIfxAXJXUo) | [MAY KIN THANH DO](https://open.spotify.com/album/5zRaeewm22BfnosVLVUtLx) | 2:37 | 2026-04-23 |  |
+| [MAY KIN THANH DO](https://open.spotify.com/track/6o7CaOFyXiBSSkl8jHW5ou) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [TONoise](https://open.spotify.com/artist/2cobR2qFaGjfuIfxAXJXUo) | [MAY KIN THANH DO](https://open.spotify.com/album/5zRaeewm22BfnosVLVUtLx) | 2:37 | 2026-04-23 | 2026-06-11 |
 | [Mong chúng ta hạnh phúc](https://open.spotify.com/track/4PPwOSiHrv4TnfS1O0ABli) | [Quang Vinh](https://open.spotify.com/artist/0IMvyEWySP665zddlejaSm), [Jin Ju](https://open.spotify.com/artist/5EZYHlogo0AymBkrVkDwPb) | [Mong chúng ta hạnh phúc](https://open.spotify.com/album/5fl92zABUdxe5HoKUAzfnn) | 3:46 | 2026-05-14 |  |
 | [Máy Bay Giấy \(ROCK\)](https://open.spotify.com/track/39rXWGPo9YlQgcc9dgwBhk) | [\(S\)TRONG](https://open.spotify.com/artist/7571XEqHqL61NDiLtWXhS5) | [Máy Bay Giấy \(ROCK\)](https://open.spotify.com/album/07N5ESHFvZhNIuYE1FKj85) | 3:39 | 2026-04-23 |  |
 | [Mùa Đông Không Lạnh \- Chọn Gì? Chọn ĐI! Version](https://open.spotify.com/track/4mOAUkATsQXnskxDJOXWCL) | [Chọn gì? Chọn đi!](https://open.spotify.com/artist/61ydMyohF67xBZmWSPA3YQ), [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [Mùa Đông Không Lạnh \(Chọn Gì? Chọn ĐI! Version\)](https://open.spotify.com/album/3LEuJn0WIckijCggkPnF32) | 3:02 | 2026-05-03 |  |

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23238,
+  "num_followers": 23239,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-06-08 19:51:53",
       "album": {
-        "name": "12 de Junho",
-        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 190588,
-      "name": "12 de Junho",
-      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
-    },
-    {
-      "added_at": "2026-06-08 19:51:53",
-      "album": {
         "name": "Coulda Shown You",
         "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 141130,
       "name": "Coulda Shown You",
       "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
+    },
+    {
+      "added_at": "2026-06-08 19:51:53",
+      "album": {
+        "name": "12 de Junho",
+        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "12 de Junho",
+      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
     },
     {
       "added_at": "2026-06-08 19:51:53",

@@ -4,7 +4,7 @@
 
 > Todos tus éxitos favoritos de Disney\. Lilo & Stitch, Moana 2, Encanto y mucho más!
 
-162 songs - 8 hr 14 min
+163 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Hombres de Acción Serán Hoy](https://open.spotify.com/track/6tSjLKma2kitI4azWbOK4W) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mulán \(Banda Sonora Original en Español\)](https://open.spotify.com/album/2IRrjrnWbqf5GPpg8lzGAq) | 3:20 | 2023-09-15 |  |
 | [How Far I'll Go \- Alessia Cara Version](https://open.spotify.com/track/3x3LDwksbVDJW0P1dAmX4u) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Moana \- Korean Original Motion Picture Soundtrack](https://open.spotify.com/album/4DICg8OwDUc3mR1Oi0Wxqe) | 2:55 | 2023-09-15 | 2024-09-12 |
 | [I Just Can't Wait to Be King \- From "The Lion King" Soundtrack](https://open.spotify.com/track/5iA6APikmuIeaAe9MMluny) | [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ), [Rowan Atkinson](https://open.spotify.com/artist/5U4QDnlOlmZx9MHV45EoDE), [Laura Williams](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) | [The Lion King: Special Edition](https://open.spotify.com/album/6BqcXoEgLpiGHQit2hXBIl) | 2:50 | 2023-09-15 | 2024-05-01 |
+| [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-10 |  |
 | [I2I](https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE), [Rosie Gaines](https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W) | [A Goofy Movie](https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P) | 4:01 | 2023-09-15 | 2025-11-08 |
 | [If Only](https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 3:49 | 2024-04-30 | 2025-11-08 |
 | [In This Place](https://open.spotify.com/track/2cOE7d35PyfAh9M7DglPk0) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Ralph Breaks the Internet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4YWNDk8pwKyWE9PhjCTiJG) | 3:21 | 2023-09-15 | 2025-11-08 |

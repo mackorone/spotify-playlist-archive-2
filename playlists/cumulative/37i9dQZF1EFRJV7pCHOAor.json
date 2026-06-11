@@ -3603,6 +3603,24 @@
     },
     {
       "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/2bxIY0usnXnh7MCdEhMCL5"
+      },
+      "artists": [
+        {
+          "name": "Mike D",
+          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219582,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/2QmLWxA1wy1Si2uojYby1q"
+    },
+    {
+      "album": {
         "name": "Sof\u00eda Vald\u00e9s",
         "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
       },

@@ -2213,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "DIE FOR U",
+        "url": "https://open.spotify.com/album/2xYMLWazjSSKtDnLbng9PZ"
+      },
+      "artists": [
+        {
+          "name": "BASSDOG",
+          "url": "https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127504,
+      "name": "DIE FOR U",
+      "url": "https://open.spotify.com/track/1IwKCRMBqcJVFsaclCu8dw"
+    },
+    {
+      "album": {
         "name": "DIGITAL",
         "url": "https://open.spotify.com/album/6pO4KZg5p64j4jy6A0gVac"
       },

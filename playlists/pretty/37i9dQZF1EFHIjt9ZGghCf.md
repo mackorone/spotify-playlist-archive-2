@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 842 likes - 138 songs - 15 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 843 likes - 138 songs - 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 114 | [Coming Home To You \(feat\. Roosevelt Stewart\)](https://open.spotify.com/track/7kKQvEaRv3VfcsqT03v1Zb) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [The Good Shepherd](https://open.spotify.com/album/2O83jwuM1ydrtVmRUax7W5) | 12:30 |
 | 115 | [Live in You](https://open.spotify.com/track/46k6y32iFPrDCYBGeFEVIU) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 3:01 |
 | 116 | [Demons](https://open.spotify.com/track/2a7FYpY6K2S1cMYFATnXNE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Demons](https://open.spotify.com/album/2PoiGMBNovY8pHHv2CzGk4) | 3:09 |
-| 117 | [Hero \- Live](https://open.spotify.com/track/4drKB02HQdI49FtImjXSj4) | [AMEN Music](https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [In The Light \(Live\)](https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl) | 11:41 |
-| 118 | [Gratitude + Great Are You Lord \(A Worship Medley\)](https://open.spotify.com/track/61J5caseGEBm3IB5kpjBmj) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Zac Rowe](https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD) | [Church Moments](https://open.spotify.com/album/2RTlVdXyZEVDEzVZY8e4W2) | 5:25 |
+| 117 | [Gratitude + Great Are You Lord \(A Worship Medley\)](https://open.spotify.com/track/61J5caseGEBm3IB5kpjBmj) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Zac Rowe](https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD) | [Church Moments](https://open.spotify.com/album/2RTlVdXyZEVDEzVZY8e4W2) | 5:25 |
+| 118 | [Hero \- Live](https://open.spotify.com/track/4drKB02HQdI49FtImjXSj4) | [AMEN Music](https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [In The Light \(Live\)](https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl) | 11:41 |
 | 119 | [Move Your Heart / Worthy](https://open.spotify.com/track/1zy5SRJL5RuM5ygzFXCWDh) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Mountains Move](https://open.spotify.com/album/16Y2cLHtfQOOZ6lpkYjE1J) | 4:33 |
 | 120 | [Have Your Way](https://open.spotify.com/track/629PLp2o0AlVaVcxsuiBkH) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [The Encounter](https://open.spotify.com/album/5QRPjd67zomlWLMcOwz8E6) | 5:20 |
 | 121 | [Campeón](https://open.spotify.com/track/3f85ozbzhf4wq7Vl7yxid7) | [Legado Music](https://open.spotify.com/artist/6NAa9sLEguLPdExVYn9tSW) | [Selah](https://open.spotify.com/album/17BYwDcMdfSMhOk9vfsiwy) | 5:48 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 137 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 138 | [Champion / Gratitude \- Live](https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU) | [Worship House](https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4), [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ) | 10:46 |
 
-Snapshot ID: `AcTynAAAAACnV4+5TVWVDdMT/G+LIJQx`
+Snapshot ID: `AcT4bgAAAADJT4pFccNwzlLw5Xu9qE22`

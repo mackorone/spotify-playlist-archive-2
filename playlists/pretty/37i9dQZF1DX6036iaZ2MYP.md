@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:   Pheelz
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,862 likes - 49 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,930 likes - 49 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

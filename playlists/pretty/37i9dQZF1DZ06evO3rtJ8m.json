@@ -1,12 +1,12 @@
 {
   "description": "This is Big Thief. The essential tracks, all in one playlist.",
-  "num_followers": 46195,
+  "num_followers": 46230,
   "original_name": "This Is Big Thief",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAACi94bol7i4JTtBTr82Wlwz",
+  "snapshot_id": "aidXgAAAAACc79oSYWv2DU6NK5dP99WA",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 123320,
-      "name": "Rock and Sing",
-      "url": "https://open.spotify.com/track/5kfH55pli3gCkprV3OJerd"
+      "duration_ms": 232466,
+      "name": "Two Hands",
+      "url": "https://open.spotify.com/track/75Y8OgF0HypPrCKcbYu3no"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 232466,
-      "name": "Two Hands",
-      "url": "https://open.spotify.com/track/75Y8OgF0HypPrCKcbYu3no"
+      "duration_ms": 123320,
+      "name": "Rock and Sing",
+      "url": "https://open.spotify.com/track/5kfH55pli3gCkprV3OJerd"
     },
     {
       "added_at": null,

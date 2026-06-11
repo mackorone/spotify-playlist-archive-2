@@ -4,7 +4,7 @@
 
 > 
 
-919 songs - 3 day 0 hr 9 min
+920 songs - 3 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,6 +743,7 @@
 | [Soul Brother](https://open.spotify.com/track/5ApFKWV3XjYW8fmWR4HsbI) | [Dalton](https://open.spotify.com/artist/1mhxhtwWXI7RbOxOo8IIfd) | [Alech / Soul Brother \(Habibi Funk 001\)](https://open.spotify.com/album/3D7BbNf0UCwSPHNkUC9ize) | 3:41 | 2024-01-25 |  |
 | [Soul Makossa](https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:24 | 2021-08-27 |  |
 | [South Sudan](https://open.spotify.com/track/0FgyQlCRZb6j5uT5jrrzy9) | [Gordon Koang](https://open.spotify.com/artist/4LsJGFIGPI5c0sOeKFtjQ1) | [Unity](https://open.spotify.com/album/66kjRjllHcoW1aXmC5yMgQ) | 8:05 | 2021-02-24 |  |
+| [Sparring Partner](https://open.spotify.com/track/7p5jetoN7m7LeDKA2Mfhvv) | [Paolo Conte](https://open.spotify.com/artist/7bAIYB0KGbYXlGbIjyFAcI) | [Paolo Conte](https://open.spotify.com/album/0LFIPXXxCjybZoE6H0tswB) | 4:11 | 2026-06-10 |  |
 | [Speed Racer](https://open.spotify.com/track/5kZbymDUiBrZu6QLddJOhL) | [Fernanda Abreu](https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh) | [Sla Radical Dance Disco Club](https://open.spotify.com/album/0HHFfVAOIzKegm7pCAjHAh) | 4:02 | 2021-06-01 |  |
 | [Sputla](https://open.spotify.com/track/1YIkwhcOW1Z0606rqiQgRI) | [Teaspoon Ndelu](https://open.spotify.com/artist/4bTL8Crz6YNEGHMO1QiCcY) | [Ke Kopa Madulo](https://open.spotify.com/album/1TNAgVusw6jRLFmbJuO97C) | 7:03 | 2024-04-11 |  |
 | [Sreo Sam Te](https://open.spotify.com/track/13VHQbMsvlzXvgpU43gxIJ) | [Branko Mataja](https://open.spotify.com/artist/3GUvYumHvxngYgB807pOOe) | [Traditional And Folk Songs Of Yugoslavia](https://open.spotify.com/album/296RQ1vxtAEuSB3I7fva0N) | 3:30 | 2023-01-23 |  |

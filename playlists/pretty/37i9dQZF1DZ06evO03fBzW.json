@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 121643,
+  "num_followers": 121673,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAACQcGOb2MeM1CMeTnVzsHZA",
+  "snapshot_id": "aidXgAAAAACJjERPrKZzgYdgvwHMfOlj",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Push And Shove",
-        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
+        "name": "What Is Wrong & What Is Right",
+        "url": "https://open.spotify.com/album/4JLiv2tvefCX7fESoEo3Me"
       },
       "artists": [
+        {
+          "name": "T.I.M.",
+          "url": "https://open.spotify.com/artist/7wfonq285Ez77TiowGAAAC"
+        },
+        {
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/0pBj903ovIkiNZpaWuW6QY"
+        },
         {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         },
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Mother's Finest",
+          "url": "https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H"
         }
       ],
-      "duration_ms": 306986,
-      "name": "Push And Shove",
-      "url": "https://open.spotify.com/track/1fvGs20dhb5eyiAurPO75y"
+      "duration_ms": 179840,
+      "name": "What Is Wrong & What Is Right (feat. Adrian Young of No Doubt)",
+      "url": "https://open.spotify.com/track/66MAVbjKx4ZcXNuiIgdvmD"
     },
     {
       "added_at": null,
@@ -315,30 +319,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Is Wrong & What Is Right",
-        "url": "https://open.spotify.com/album/4JLiv2tvefCX7fESoEo3Me"
+        "name": "Push And Shove",
+        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
       },
       "artists": [
-        {
-          "name": "T.I.M.",
-          "url": "https://open.spotify.com/artist/7wfonq285Ez77TiowGAAAC"
-        },
-        {
-          "name": "John Hayes",
-          "url": "https://open.spotify.com/artist/0pBj903ovIkiNZpaWuW6QY"
-        },
         {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         },
         {
-          "name": "Mother's Finest",
-          "url": "https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         }
       ],
-      "duration_ms": 179840,
-      "name": "What Is Wrong & What Is Right (feat. Adrian Young of No Doubt)",
-      "url": "https://open.spotify.com/track/66MAVbjKx4ZcXNuiIgdvmD"
+      "duration_ms": 306986,
+      "name": "Push And Shove",
+      "url": "https://open.spotify.com/track/1fvGs20dhb5eyiAurPO75y"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 269000,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/43N0WNTGfOruD0377oEeMo"
+      "duration_ms": 232346,
+      "name": "Big Distraction",
+      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 232346,
-      "name": "Big Distraction",
-      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
+      "duration_ms": 269000,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/43N0WNTGfOruD0377oEeMo"
     },
     {
       "added_at": null,

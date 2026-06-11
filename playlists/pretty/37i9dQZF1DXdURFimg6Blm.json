@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1482623,
+  "num_followers": 1482694,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -311,26 +311,6 @@
     {
       "added_at": "2026-05-29 04:01:44",
       "album": {
-        "name": "Still Into You",
-        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Still Into You",
-      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
-    },
-    {
-      "added_at": "2026-05-29 04:01:44",
-      "album": {
         "name": "Sad Girls",
         "url": "https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 168771,
       "name": "Sad Girls",
       "url": "https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot"
+    },
+    {
+      "added_at": "2026-05-29 04:01:44",
+      "album": {
+        "name": "Still Into You",
+        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Still Into You",
+      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
     },
     {
       "added_at": "2026-05-29 04:01:44",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-05-29 04:01:44",
       "album": {
+        "name": "LIGHTS GO OUT",
+        "url": "https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "LIGHTS GO OUT",
+      "url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw"
+    },
+    {
+      "added_at": "2026-05-29 04:01:44",
+      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 172727,
       "name": "POP DAT THANG - David Guetta Mix",
       "url": "https://open.spotify.com/track/1DyPR5YSPHlRhqRQQR4CGB"
-    },
-    {
-      "added_at": "2026-05-29 04:01:44",
-      "album": {
-        "name": "LIGHTS GO OUT",
-        "url": "https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "LIGHTS GO OUT",
-      "url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw"
     },
     {
       "added_at": "2026-05-29 04:01:44",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2026-05-29 04:01:44",
       "album": {
-        "name": "Turn Up The Dose",
-        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "Turn Up The Dose",
-      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
-    },
-    {
-      "added_at": "2026-05-29 04:01:44",
-      "album": {
         "name": "Second Nature",
         "url": "https://open.spotify.com/album/7AO7DuU0gu9m7ZuW9PYRPu"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 178834,
       "name": "Second Nature",
       "url": "https://open.spotify.com/track/48UKanzGLbagrgYxcH2cuS"
+    },
+    {
+      "added_at": "2026-05-29 04:01:44",
+      "album": {
+        "name": "Turn Up The Dose",
+        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "Turn Up The Dose",
+      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
     },
     {
       "added_at": "2026-05-29 04:01:44",
@@ -1583,22 +1583,18 @@
     {
       "added_at": "2026-05-29 04:01:44",
       "album": {
-        "name": "Homework (feat. Lancey Foux)",
-        "url": "https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi"
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
       },
       "artists": [
         {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
         }
       ],
-      "duration_ms": 154943,
-      "name": "Homework (feat. Lancey Foux)",
-      "url": "https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq"
+      "duration_ms": 163384,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
     },
     {
       "added_at": "2026-05-29 04:01:44",
@@ -1639,18 +1635,22 @@
     {
       "added_at": "2026-05-29 04:01:44",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
+        "name": "Homework (feat. Lancey Foux)",
+        "url": "https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi"
       },
       "artists": [
         {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
         }
       ],
-      "duration_ms": 163384,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
+      "duration_ms": 154943,
+      "name": "Homework (feat. Lancey Foux)",
+      "url": "https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq"
     },
     {
       "added_at": "2026-05-29 04:01:44",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2026-05-29 04:01:44",
       "album": {
+        "name": "Bite Down",
+        "url": "https://open.spotify.com/album/4nyDDuVwF54WlDiJ5sZzIZ"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 184545,
+      "name": "Bite Down",
+      "url": "https://open.spotify.com/track/4sCBDKHWDP3cBYrJW3fDzO"
+    },
+    {
+      "added_at": "2026-05-29 04:01:44",
+      "album": {
         "name": "Through The Pain (feat. Pozer)",
         "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
       },
@@ -1751,26 +1767,6 @@
     {
       "added_at": "2026-05-29 04:01:44",
       "album": {
-        "name": "Bad & U Know It",
-        "url": "https://open.spotify.com/album/6TbBK5N3eiHls18XDtsbTc"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 191669,
-      "name": "Bad & U Know It",
-      "url": "https://open.spotify.com/track/6isxpu62nHjVgBHGBWhbFl"
-    },
-    {
-      "added_at": "2026-05-29 04:01:44",
-      "album": {
         "name": "Work Your Body",
         "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
       },
@@ -1799,6 +1795,26 @@
       "duration_ms": 168706,
       "name": "Bigger Than Techno",
       "url": "https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3"
+    },
+    {
+      "added_at": "2026-05-29 04:01:44",
+      "album": {
+        "name": "Bad & U Know It",
+        "url": "https://open.spotify.com/album/6TbBK5N3eiHls18XDtsbTc"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 191669,
+      "name": "Bad & U Know It",
+      "url": "https://open.spotify.com/track/6isxpu62nHjVgBHGBWhbFl"
     },
     {
       "added_at": "2026-05-29 04:01:44",
@@ -1843,22 +1859,6 @@
     {
       "added_at": "2026-05-29 04:01:44",
       "album": {
-        "name": "Bite Down",
-        "url": "https://open.spotify.com/album/4nyDDuVwF54WlDiJ5sZzIZ"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 184545,
-      "name": "Bite Down",
-      "url": "https://open.spotify.com/track/4sCBDKHWDP3cBYrJW3fDzO"
-    },
-    {
-      "added_at": "2026-05-29 04:01:44",
-      "album": {
         "name": "Fuck My Computer (Frost Children Remix)",
         "url": "https://open.spotify.com/album/3mkVo55KYmJAxy21rPssZ4"
       },
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2026-05-29 04:01:44",
       "album": {
+        "name": "Bootay",
+        "url": "https://open.spotify.com/album/3zRetCsgHcvLrnEdaRiZsk"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Bootay",
+      "url": "https://open.spotify.com/track/1s0xmXddfQzw33uQ7eR0Cu"
+    },
+    {
+      "added_at": "2026-05-29 04:01:44",
+      "album": {
         "name": "CELEBRATION (Sara Landry Remix)",
         "url": "https://open.spotify.com/album/0wti1ZxzH9QwP4J4DJaYMq"
       },
@@ -1919,22 +1935,6 @@
     {
       "added_at": "2026-05-29 04:01:44",
       "album": {
-        "name": "Bootay",
-        "url": "https://open.spotify.com/album/3zRetCsgHcvLrnEdaRiZsk"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Bootay",
-      "url": "https://open.spotify.com/track/1s0xmXddfQzw33uQ7eR0Cu"
-    },
-    {
-      "added_at": "2026-05-29 04:01:44",
-      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/4lJuvmioRCQCHahAemAGzs"
       },
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2026-05-29 04:01:44",
       "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS"
-      },
-      "artists": [
-        {
-          "name": "Cobrah",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 212486,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC"
-    },
-    {
-      "added_at": "2026-05-29 04:01:44",
-      "album": {
         "name": "MISS YOU",
         "url": "https://open.spotify.com/album/7h3hcYLTSN45Xt666UXQxr"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 128516,
       "name": "MISS YOU",
       "url": "https://open.spotify.com/track/6uOVLKQbGwhjLVL6Gcbt8S"
+    },
+    {
+      "added_at": "2026-05-29 04:01:44",
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS"
+      },
+      "artists": [
+        {
+          "name": "Cobrah",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 212486,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC"
     },
     {
       "added_at": "2026-05-29 04:01:44",

@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 46127,
+  "num_followers": 46141,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAACnz0vIugF4A2t6kROki+GF",
+  "snapshot_id": "aidXgAAAAABptLlNAG27mmKvSngiPrD1",
   "tracks": [
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 176578,
-      "name": "Murda Musik (feat. Destroy Lonely)",
-      "url": "https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If Looks Could Kill",
         "url": "https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 272364,
       "name": "money & sex",
       "url": "https://open.spotify.com/track/2cQxzcGw5eUJtqIdYuRoLq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 176578,
+      "name": "Murda Musik (feat. Destroy Lonely)",
+      "url": "https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 169889,
-      "name": "New",
-      "url": "https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project X",
         "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 244376,
       "name": "Run + Ran",
       "url": "https://open.spotify.com/track/7dZ9oSkQlxo0kHEgyS8WSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 169889,
+      "name": "New",
+      "url": "https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V"
     },
     {
       "added_at": null,

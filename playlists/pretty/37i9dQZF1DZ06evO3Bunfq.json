@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 129963,
+  "num_followers": 129990,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAAOIc9FCPUd/ArCM0aFNEYT",
+  "snapshot_id": "aidXgAAAAACck6lazQQbgvlh9Y2htMWj",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Directo Hasta Arriba Vol.2",
+        "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 205450,
+      "name": "Bien LSD",
+      "url": "https://open.spotify.com/track/2amnc5Gwu9MipYWLRCWUIc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "Te Gustan Malos",
+      "url": "https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ve Como Ando",
         "url": "https://open.spotify.com/album/41CDstL6US0TQ9hVrIJJBL"
       },
@@ -619,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 246533,
-      "name": "Te Gustan Malos",
-      "url": "https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VNDO",
         "url": "https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 231529,
       "name": "VNDO",
       "url": "https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "16 Toneladas",
-        "url": "https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j"
-      },
-      "artists": [
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 206726,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
     },
     {
       "added_at": null,
@@ -687,6 +687,26 @@
       "duration_ms": 149987,
       "name": "Hablamos Rap",
       "url": "https://open.spotify.com/track/5WgDOzT3dxNLbPk02RNBPI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "16 Toneladas",
+        "url": "https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j"
+      },
+      "artists": [
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 206726,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
     },
     {
       "added_at": null,
@@ -754,15 +774,11 @@
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 205450,
-      "name": "Bien LSD",
-      "url": "https://open.spotify.com/track/2amnc5Gwu9MipYWLRCWUIc"
+      "duration_ms": 178285,
+      "name": "MDI",
+      "url": "https://open.spotify.com/track/6wmyFLsEpp2InF23Gar2v0"
     },
     {
       "added_at": null,
@@ -828,9 +844,9 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 178285,
-      "name": "MDI",
-      "url": "https://open.spotify.com/track/6wmyFLsEpp2InF23Gar2v0"
+      "duration_ms": 211588,
+      "name": "De Rol",
+      "url": "https://open.spotify.com/track/0ifXq1bF8z1NZFcqYxqiih"
     },
     {
       "added_at": null,
@@ -894,11 +910,19 @@
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 211588,
-      "name": "De Rol",
-      "url": "https://open.spotify.com/track/0ifXq1bF8z1NZFcqYxqiih"
+      "duration_ms": 280421,
+      "name": "El Cumbi\u00f3n",
+      "url": "https://open.spotify.com/track/18hfIdKEFDdXEwktiVSwCw"
     },
     {
       "added_at": null,
@@ -976,17 +1000,17 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         },
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
         },
         {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
         }
       ],
-      "duration_ms": 280421,
-      "name": "El Cumbi\u00f3n",
-      "url": "https://open.spotify.com/track/18hfIdKEFDdXEwktiVSwCw"
+      "duration_ms": 247157,
+      "name": "Me Prende",
+      "url": "https://open.spotify.com/track/5G7cnNQ07y1ZKwkWkdkECe"
     },
     {
       "added_at": null,
@@ -1035,22 +1059,6 @@
       "duration_ms": 210645,
       "name": "Mecha Corta",
       "url": "https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Qu\u00e9 Buen Fiest\u00f3n",
-      "url": "https://open.spotify.com/track/4wunXNPvuNXmqY6NzT1CIC"
     }
   ],
   "unique_name": "This Is Dharius",

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/7EYxnpva8IlIgJ42z96zXH.md) - cumulative - [plain](/playlists/plain/7EYxnpva8IlIgJ42z96zXH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7EYxnpva8IlIgJ42z96zXH)
 
-### [Hot Girl Workout 🏃🏻‍♀️ Run Club / Pilates / HIIT](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
+### [Weekly Workout 🏃](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 
-> Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym!
+> Fuel your gym routine with the best workout hits\. Beastmode and pump workout, wellness, health, running, pilates, HIIT, weightlifting, hits\. Featuring high\-energy pop, hyperpop and EDM, fitness beats from Calvin Harris, Alok, Ninajirachi, and more  to boost your motivation\. Updated weekly.
 
 1,106 songs - 2 day 10 hr 4 min
 

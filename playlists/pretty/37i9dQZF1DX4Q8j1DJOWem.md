@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 ### [RADAR Thailand](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: pami
+> ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: JayQ
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,624 likes - 34 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,628 likes - 34 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 27 | [Crv](https://open.spotify.com/track/4L2DOfgRpdSF0Qs5WNsaIh) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [Tsunami](https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu) | 3:39 |
 | 28 | [ABUM](https://open.spotify.com/track/4fua2kyOh4I2wQGjuLtSYc) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [ABUM](https://open.spotify.com/album/2rPwuobO3nwliWwrw3IK8F) | 3:32 |
 | 29 | [จับกุม \(JUB KUM\)](https://open.spotify.com/track/3r4H68mQ7kFORbqnSL151b) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [จับกุม \(JUB KUM\)](https://open.spotify.com/album/4qCctbbJBvQxMayG7409eD) | 3:32 |
-| 30 | [WANNA LOVE](https://open.spotify.com/track/0VGPOiDOejgKnYtqHnqxsu) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [WANNA LOVE](https://open.spotify.com/album/1GMiGFyLTq9kM6PlBEK7v3) | 2:50 |
+| 30 | [HOW ARE YOU](https://open.spotify.com/track/42PY0meRTLVpVn3Qv9iJKZ) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [HOW ARE YOU](https://open.spotify.com/album/1pmvKyNoyuvK4mwblZHiiw) | 3:26 |
 | 31 | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/track/4dgvGtPwlchPHgLQ7el2P9) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/album/4gf7kuptrv0VvYa6qNyyD5) | 3:26 |
 | 32 | [Roo Gun](https://open.spotify.com/track/68v61y5TQzhK6cbUZQ7E3K) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [Tsunami](https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu) | 4:15 |
 | 33 | [ThaiKids](https://open.spotify.com/track/4GlV2xjoki70itp4GMFPgo) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [ThaiKids](https://open.spotify.com/album/7bRV2jXhlJVxHGdA4h7pIy) | 3:18 |
-| 34 | [HOW ARE YOU](https://open.spotify.com/track/42PY0meRTLVpVn3Qv9iJKZ) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [HOW ARE YOU](https://open.spotify.com/album/1pmvKyNoyuvK4mwblZHiiw) | 3:26 |
+| 34 | [WANNA LOVE](https://open.spotify.com/track/0VGPOiDOejgKnYtqHnqxsu) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [WANNA LOVE](https://open.spotify.com/album/1GMiGFyLTq9kM6PlBEK7v3) | 2:50 |
 
 Snapshot ID: `AAAAALnE7k1ZjtOKVC1TcwiTGpwQUfst`

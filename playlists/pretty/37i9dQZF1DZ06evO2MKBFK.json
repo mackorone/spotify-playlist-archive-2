@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 637212,
+  "num_followers": 637199,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAADtqstAqxJTg8cmJB7zr5d9",
+  "snapshot_id": "aidXgAAAAAAoLFxvL71+Hlu8YEaTfYg9",
   "tracks": [
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+        "name": "THE BEST OF BIGBANG 2006-2014",
+        "url": "https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 222989,
-      "name": "Wings (\ub0a0\uac1c) [Daesung Solo]",
-      "url": "https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB"
+      "duration_ms": 233400,
+      "name": "Baby Baby - Japanese Version",
+      "url": "https://open.spotify.com/track/0DQ8eRAcGG1iUIdqk6RFhq"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE BEST OF BIGBANG 2006-2014",
-        "url": "https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp"
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 233400,
-      "name": "Baby Baby - Japanese Version",
-      "url": "https://open.spotify.com/track/0DQ8eRAcGG1iUIdqk6RFhq"
+      "duration_ms": 222989,
+      "name": "Wings (\ub0a0\uac1c) [Daesung Solo]",
+      "url": "https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lollipop Pt.2",
-        "url": "https://open.spotify.com/album/4VPoZSOEnpfUu36fILrqA1"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 200248,
-      "name": "Lollipop Part.2",
-      "url": "https://open.spotify.com/track/7jJnHoPel2hxKFlcLgTmoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIGBANG Vol.1",
         "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 194280,
       "name": "Dirty Cash",
       "url": "https://open.spotify.com/track/0yZKieKXhoehUMVpYiGwWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lollipop Pt.2",
+        "url": "https://open.spotify.com/album/4VPoZSOEnpfUu36fILrqA1"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 200248,
+      "name": "Lollipop Part.2",
+      "url": "https://open.spotify.com/track/7jJnHoPel2hxKFlcLgTmoJ"
     }
   ],
   "unique_name": "This Is BIGBANG",

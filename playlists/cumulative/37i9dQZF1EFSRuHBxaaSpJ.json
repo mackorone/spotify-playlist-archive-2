@@ -1483,6 +1483,28 @@
     },
     {
       "album": {
+        "name": "Africa Jungle",
+        "url": "https://open.spotify.com/album/3a4GHBBwkr3v9U27eJO2Iw"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204506,
+      "name": "Populaire",
+      "url": "https://open.spotify.com/track/7IxOQnwvlxI7g1HFzGiFF7"
+    },
+    {
+      "album": {
         "name": "The Last Race",
         "url": "https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8"
       },

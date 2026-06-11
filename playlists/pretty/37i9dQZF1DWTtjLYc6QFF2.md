@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Українські виконавиць на повну гучність! Добірка створена спільно з YUVI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,690 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,693 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 59 | [Вустами](https://open.spotify.com/track/60fqXJFMWMYDNYhK5Bc1fC) | [dari march](https://open.spotify.com/artist/5n4I8EuJLtIR6nxCiz8ZzN) | [Вустами](https://open.spotify.com/album/6Q9TOMZCNowx4nHPu2yGkW) | 3:27 |
 | 60 | [архіви](https://open.spotify.com/track/2dSJl8M1zb7hM4aMLQHwZn) | [anjiie](https://open.spotify.com/artist/5v05f8Lq6UW2yuPA3Op9Dt) | [архіви](https://open.spotify.com/album/0zSCT64Eq2j1q8J8XeD98S) | 1:58 |
 
-Snapshot ID: `AAAAABs4NHBnpdkhAWECp4Ipx+ufwroA`
+Snapshot ID: `AAAAADNsB7+G3jiEdte4dwC/2dzxwEpR`

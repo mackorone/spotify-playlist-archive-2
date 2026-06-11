@@ -4,12 +4,13 @@
 
 > This is Orla Gartland\. The essential tracks, all in one playlist.
 
-38 songs - 2 hr 3 min
+39 songs - 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Afterlife \- demo](https://open.spotify.com/track/3OKVZxc0bnYfKUEX8Y6uTC) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet \(Anniversary Edition\)](https://open.spotify.com/album/2YhwPEmRaJz5oMqxmCx5U5) | 1:23 | 2026-03-20 |  |
 | [All of Them Dreams](https://open.spotify.com/track/6owLSHQ9u2jU9CRidHyA9B) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB), [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 2:56 | 2026-03-20 |  |
+| [At The End Of The Day](https://open.spotify.com/track/027WTQSQPb9Yna2nDmax0O) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [At The End Of The Day](https://open.spotify.com/album/4zjje3LG2MbggFIV5hOcF6) | 3:37 | 2026-06-11 |  |
 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 | 2026-03-20 |  |
 | [Between My Teeth](https://open.spotify.com/track/07FNKVJKWX08paQiethhD0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Between My Teeth](https://open.spotify.com/album/3fBRVoGUUtSE06mXUgLTYG) | 3:16 | 2026-03-20 |  |
 | [Codependency](https://open.spotify.com/track/0o2BJHj9wQTCb5UfY7R7jl) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:11 | 2026-03-20 |  |

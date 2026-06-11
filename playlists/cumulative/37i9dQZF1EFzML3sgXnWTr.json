@@ -1581,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Sanremo 2026 - Strings & Piano Version",
+        "url": "https://open.spotify.com/album/06hb15M2F0YbNC5XpoPovN"
+      },
+      "artists": [
+        {
+          "name": "Couverture",
+          "url": "https://open.spotify.com/artist/5MnkPWhF25sUyQKjkmFazf"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194200,
+      "name": "Per sempre si",
+      "url": "https://open.spotify.com/track/5FvH6VAvolNEooauCJFmA5"
+    },
+    {
+      "album": {
         "name": "Per sempre si",
         "url": "https://open.spotify.com/album/1A6M19FUfVtHlDQOFDEQgo"
       },

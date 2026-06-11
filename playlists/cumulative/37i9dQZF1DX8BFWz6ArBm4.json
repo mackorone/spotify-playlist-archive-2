@@ -2128,7 +2128,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 184661,
       "name": "Kapnogona",
       "url": "https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti"
@@ -2392,6 +2392,24 @@
       "duration_ms": 202576,
       "name": "Krifos Paradisos",
       "url": "https://open.spotify.com/track/0TFPLCfaXZ0DVYGpa4psV9"
+    },
+    {
+      "album": {
+        "name": "Lathos Sou",
+        "url": "https://open.spotify.com/album/2922T1lHkRFUz3MU6Pr3sK"
+      },
+      "artists": [
+        {
+          "name": "Ilias Vrettos",
+          "url": "https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202894,
+      "name": "Lathos Sou",
+      "url": "https://open.spotify.com/track/2vDJ8rZVKKDQvzeZknZpMH"
     },
     {
       "album": {

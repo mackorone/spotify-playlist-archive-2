@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-565 songs - 1 day 11 hr 4 min
+567 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [COUNTRY ON ME](https://open.spotify.com/track/0j0JXColubcMwPRQhdm5c2) | [The 508](https://open.spotify.com/artist/7aQxyxGdTVk0NvKqtyjMxB), [akaMahaj](https://open.spotify.com/artist/7rVsc3VNUC6LSpFC9fBdLa) | [COUNTRY ON ME](https://open.spotify.com/album/5DhQ7sKwjxqaWFffYJOT8h) | 4:44 | 2026-03-16 | 2026-04-21 |
 | [Coven's Flame](https://open.spotify.com/track/4TGeM6SOXg0XvJLzboYEfk) | [Z\-Cocoon](https://open.spotify.com/artist/04AOWpqtCLXZHtZ1ECOayN) | [Coven's Flame](https://open.spotify.com/album/7veP7vZZ18BeXjA63JeV0h) | 4:33 | 2025-11-29 | 2025-12-17 |
 | [Crave Me](https://open.spotify.com/track/57RNSA7UvxIV13b5HvqVER) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Crave Me](https://open.spotify.com/album/0KocF2JEya9AGF7RD9VAJK) | 2:31 | 2026-05-19 |  |
+| [Crazy Daisy](https://open.spotify.com/track/133PlUjwPZmQAh2kaj2UKB) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Crazy Daisy](https://open.spotify.com/album/3ICfnKzG5KfMtFynfFzo2r) | 3:20 | 2026-06-10 |  |
 | [Crimini e violenza](https://open.spotify.com/track/3mVOjo2V6Q9MepH5niV1JP) | [Gli Intrusi](https://open.spotify.com/artist/6GlgcfcuxlQVKi1OYnISWG) | [Crimini e violenza](https://open.spotify.com/album/7LCpxBa1j7WiBrC9DIaDMQ) | 4:13 | 2026-04-27 | 2026-05-26 |
 | [Cruisin' The Pike](https://open.spotify.com/track/1giSRFi2qO3IO87tvmPyya) | [Drew Barrett](https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX) | [Cruisin' The Pike](https://open.spotify.com/album/3yTyYRxHm5cFfJYqUhxK36) | 4:39 | 2025-09-28 | 2025-12-17 |
 | [Crush!](https://open.spotify.com/track/41Lzk8mCq71gZPnbLiK81X) | [Marcus Dufray](https://open.spotify.com/artist/3N76PbL6PF7qP3BlH44Svq) | [Crush!](https://open.spotify.com/album/2yEKvtGlCDheDMXPRuAJTr) | 4:39 | 2025-11-09 | 2025-12-17 |
@@ -156,6 +157,7 @@
 | [Efimero Amor](https://open.spotify.com/track/6Ms8BHznJ328BEW4hGPEo1) | [Kort Funes](https://open.spotify.com/artist/5C5AL8ee4M0UzxPxjK1oLQ) | [Efimero Amor](https://open.spotify.com/album/1CGTRd3Gm6f8d5tQTqcvtR) | 4:44 | 2026-04-23 |  |
 | [EL CONGELADOR](https://open.spotify.com/track/1Lnuym6raYt4j61Lqlb6qE) | [VicenticoMusic](https://open.spotify.com/artist/3ejOmbwBSMeVpvtt29yr3K) | [EL CONGELADOR](https://open.spotify.com/album/1sq0bzeQMr8etlaCrXa8pQ) | 3:56 | 2026-02-03 | 2026-03-18 |
 | [El Dilema](https://open.spotify.com/track/4agirhYgist2lFc31siLMJ) | [Jules Daud](https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI) | [El Dilema](https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen) | 2:34 | 2025-11-22 | 2025-12-17 |
+| [El Homo Clickens](https://open.spotify.com/track/49Oc3I1yEyTz3l25jPeCKy) | [KekoYoma](https://open.spotify.com/artist/7GldhIgOZLcj8PlZltwg1V) | [El Homo Clickens](https://open.spotify.com/album/5bdDEmbCYtXo3HznVvwOIL) | 3:33 | 2026-06-10 |  |
 | [El Rock No Esta En Tu Ropa](https://open.spotify.com/track/3DGdbW7SbmdwT9P3tLfhAb) | [Todo Podrido](https://open.spotify.com/artist/4jVIYvQsjLqSJgR9ePsJRQ) | [Encantados](https://open.spotify.com/album/6vGyGiCIjk9FecwFAfXmhp) | 2:54 | 2025-09-29 | 2025-12-17 |
 | [Empiezo a Creer](https://open.spotify.com/track/1lzwwRYzUb3BotVYxuoQ2z) | [Coto privado](https://open.spotify.com/artist/1TmFxjLLIPQFgmha4yIXh8) | [Escrito en el Lavabo](https://open.spotify.com/album/6khlI7NYlitPiEALNeqoVE) | 4:34 | 2025-10-29 | 2025-12-17 |
 | [Empty Rooms](https://open.spotify.com/track/6qfsVMk4hXxG8UmM2ROAYe) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Empty Rooms](https://open.spotify.com/album/16ct0XLkheDyM0vjZ2Mi9C) | 4:01 | 2025-09-30 | 2025-12-17 |

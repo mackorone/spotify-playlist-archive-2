@@ -1,6 +1,6 @@
 {
   "description": "det handler ik' om alder, men om young soundsss \ud83e\udd60",
-  "num_followers": 47163,
+  "num_followers": 47165,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
+        "name": "Skyklapper",
+        "url": "https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz"
+      },
+      "artists": [
+        {
+          "name": "Rosa",
+          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
+        }
+      ],
+      "duration_ms": 173259,
+      "name": "Skyklapper",
+      "url": "https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 183788,
       "name": "Blue Flame",
       "url": "https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Skyklapper",
-        "url": "https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz"
-      },
-      "artists": [
-        {
-          "name": "Rosa",
-          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "Skyklapper",
-      "url": "https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Tag Mig Som Jeg Er",
-        "url": "https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH"
-      },
-      "artists": [
-        {
-          "name": "KALASET",
-          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
-        }
-      ],
-      "duration_ms": 195748,
-      "name": "Tag Mig Som Jeg Er",
-      "url": "https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "Alt hvad jeg vil",
         "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
       },
@@ -415,38 +399,18 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "I Made It (feat. Andreas Odbjerg)",
-        "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
+        "name": "Tag Mig Som Jeg Er",
+        "url": "https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH"
       },
       "artists": [
         {
-          "name": "JOSVA",
-          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
-        },
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+          "name": "KALASET",
+          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
         }
       ],
-      "duration_ms": 209923,
-      "name": "I Made It (feat. Andreas Odbjerg)",
-      "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
+      "duration_ms": 195748,
+      "name": "Tag Mig Som Jeg Er",
+      "url": "https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -471,6 +435,22 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
         "name": "Var det dig, der var derinde?",
         "url": "https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 255223,
       "name": "Var det dig, der var derinde?",
       "url": "https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "I Made It (feat. Andreas Odbjerg)",
+        "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
+      },
+      "artists": [
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        },
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 209923,
+      "name": "I Made It (feat. Andreas Odbjerg)",
+      "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -619,38 +619,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Ring, n\u00e5r du har tid",
-        "url": "https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        },
-        {
-          "name": "Kristoffer Jessen",
-          "url": "https://open.spotify.com/artist/5Y5GcPvX5dQ3mSE8LGxQLC"
-        },
-        {
-          "name": "Pernille Rosendahl",
-          "url": "https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE"
-        },
-        {
-          "name": "Pia Raug",
-          "url": "https://open.spotify.com/artist/3MijIIZW05AY9gC0rpdPbm"
-        },
-        {
-          "name": "S\u00f8ren Huss",
-          "url": "https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P"
-        }
-      ],
-      "duration_ms": 394340,
-      "name": "Ring, n\u00e5r du har tid",
-      "url": "https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "Mandag Til Fredag",
         "url": "https://open.spotify.com/album/4RXOrQQ1XUGZkn4klKcIem"
       },
@@ -683,18 +651,34 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "S\u00e6tter Sig Fast",
-        "url": "https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4"
+        "name": "Ring, n\u00e5r du har tid",
+        "url": "https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy"
       },
       "artists": [
         {
-          "name": "will",
-          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        },
+        {
+          "name": "Kristoffer Jessen",
+          "url": "https://open.spotify.com/artist/5Y5GcPvX5dQ3mSE8LGxQLC"
+        },
+        {
+          "name": "Pernille Rosendahl",
+          "url": "https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE"
+        },
+        {
+          "name": "Pia Raug",
+          "url": "https://open.spotify.com/artist/3MijIIZW05AY9gC0rpdPbm"
+        },
+        {
+          "name": "S\u00f8ren Huss",
+          "url": "https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P"
         }
       ],
-      "duration_ms": 176083,
-      "name": "S\u00e6tter Sig Fast",
-      "url": "https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW"
+      "duration_ms": 394340,
+      "name": "Ring, n\u00e5r du har tid",
+      "url": "https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -711,6 +695,22 @@
       "duration_ms": 200164,
       "name": "Venter Jo Bare",
       "url": "https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "S\u00e6tter Sig Fast",
+        "url": "https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4"
+      },
+      "artists": [
+        {
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+        }
+      ],
+      "duration_ms": 176083,
+      "name": "S\u00e6tter Sig Fast",
+      "url": "https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Bobler",
-        "url": "https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE"
-      },
-      "artists": [
-        {
-          "name": "Lea Romea",
-          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
-        }
-      ],
-      "duration_ms": 161764,
-      "name": "Bobler",
-      "url": "https://open.spotify.com/track/4w77uY6YcGkd8vznIs0sF7"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "GUTWORK",
         "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 203373,
       "name": "Nights Like These",
       "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "Bobler",
+        "url": "https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE"
+      },
+      "artists": [
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        }
+      ],
+      "duration_ms": 161764,
+      "name": "Bobler",
+      "url": "https://open.spotify.com/track/4w77uY6YcGkd8vznIs0sF7"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Big Mistake",
-        "url": "https://open.spotify.com/album/6Hvh4GrjdaKUQWkIpXmjnU"
-      },
-      "artists": [
-        {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
-        }
-      ],
-      "duration_ms": 215078,
-      "name": "Big Mistake",
-      "url": "https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "Til Enden Og Tilbage (feat. Ungklang)",
         "url": "https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
+        "name": "Big Mistake",
+        "url": "https://open.spotify.com/album/6Hvh4GrjdaKUQWkIpXmjnU"
+      },
+      "artists": [
+        {
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
+        }
+      ],
+      "duration_ms": 215078,
+      "name": "Big Mistake",
+      "url": "https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
         "name": "Stay 4 U",
         "url": "https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7"
       },
@@ -1079,6 +1079,26 @@
       "duration_ms": 184444,
       "name": "Stay 4 U",
       "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/5J6zC2NlbGa1tzjxwBCNPs"
+      },
+      "artists": [
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        },
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "duration_ms": 162855,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/7jbGdPdS1cZmnGmJgIxsUK"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -1115,54 +1135,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Kraftidiot",
-        "url": "https://open.spotify.com/album/37jQgF1Jh6vaofnRFT8A82"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 165521,
-      "name": "Idiot",
-      "url": "https://open.spotify.com/track/2kz6Tlbmx37JJmehWobN1x"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "i'll quit quitting",
-        "url": "https://open.spotify.com/album/6uCjsjUW7XE64ag0bTUvZk"
-      },
-      "artists": [
-        {
-          "name": "Thea Dora",
-          "url": "https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD"
-        }
-      ],
-      "duration_ms": 198810,
-      "name": "i'll quit quitting",
-      "url": "https://open.spotify.com/track/50QHiazBVpbsOKfFIrBR2k"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Ind I Solen",
-        "url": "https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b"
-      },
-      "artists": [
-        {
-          "name": "Kayak",
-          "url": "https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz"
-        }
-      ],
-      "duration_ms": 227037,
-      "name": "Ind I Solen",
-      "url": "https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "H\u00f8j P\u00e5 Livet",
         "url": "https://open.spotify.com/album/1Ggt1HjgSTmk2udoeFsnYa"
       },
@@ -1183,22 +1155,50 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/5J6zC2NlbGa1tzjxwBCNPs"
+        "name": "i'll quit quitting",
+        "url": "https://open.spotify.com/album/6uCjsjUW7XE64ag0bTUvZk"
       },
       "artists": [
         {
-          "name": "GUZO",
-          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
-        },
-        {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+          "name": "Thea Dora",
+          "url": "https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD"
         }
       ],
-      "duration_ms": 162855,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/7jbGdPdS1cZmnGmJgIxsUK"
+      "duration_ms": 198810,
+      "name": "i'll quit quitting",
+      "url": "https://open.spotify.com/track/50QHiazBVpbsOKfFIrBR2k"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "tense present",
+        "url": "https://open.spotify.com/album/3Y3jFgpvIJY3tT7h8y9FbT"
+      },
+      "artists": [
+        {
+          "name": "lucca",
+          "url": "https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N"
+        }
+      ],
+      "duration_ms": 127992,
+      "name": "cool words",
+      "url": "https://open.spotify.com/track/2YemLBdJSJQAwndrKhPgqb"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "Kraftidiot",
+        "url": "https://open.spotify.com/album/37jQgF1Jh6vaofnRFT8A82"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 165521,
+      "name": "Idiot",
+      "url": "https://open.spotify.com/track/2kz6Tlbmx37JJmehWobN1x"
     }
   ],
   "unique_name": "ung kniv ",

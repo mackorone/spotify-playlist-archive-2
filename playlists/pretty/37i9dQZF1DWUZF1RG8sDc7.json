@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 165062,
+  "num_followers": 165077,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 267840,
+      "name": "A Besitos",
+      "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "La Historia Continua",
         "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 315862,
       "name": "10 Razones para Amarte",
       "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
         "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
       },
@@ -1019,26 +1035,6 @@
       "duration_ms": 303266,
       "name": "Jugu\u00e9 Con Su Amor",
       "url": "https://open.spotify.com/track/17KTrCLUYzh2V3bSmfVKo4"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Historia Musical",
-        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
-      },
-      "artists": [
-        {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
-        },
-        {
-          "name": "David Rendon",
-          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
-        }
-      ],
-      "duration_ms": 306280,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/3vjJiSh9xzWwMo0PxptiLe"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+        "name": "Historia Musical",
+        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
       },
       "artists": [
         {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "David Rendon",
+          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
         }
       ],
-      "duration_ms": 297746,
-      "name": "Como duele el frio",
-      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
+      "duration_ms": 306280,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/3vjJiSh9xzWwMo0PxptiLe"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > Indiepop in het Nederlands\. Cover: Igor
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,412 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,414 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 38 | [Bang Dat Ik Spring](https://open.spotify.com/track/7mGEyicqCXj4lvtIq71I8R) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4), [Saartje Van Camp](https://open.spotify.com/artist/4F6ezMqheQX1B8dBFnuJ1s) | [Bang Dat Ik Spring](https://open.spotify.com/album/0Cpxp6XmrxJjmTsb1MJwn2) | 3:06 |
 | 39 | [Was Het Nou Maar Zo](https://open.spotify.com/track/16109XiqzxPp5UrwFTB285) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Was Het Nou Maar Zo \(EP\)](https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada) | 3:14 |
 | 40 | [Apotheek \- SIROJ Version](https://open.spotify.com/track/15BnW7ZSLvXkXzf5MjNpe5) | [SIROJ](https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Versions](https://open.spotify.com/album/3wUueIoejrx9j3nbVqOTA8) | 3:12 |
-| 41 | [Zie mij graag](https://open.spotify.com/track/1pc1xnIszMNn3fg3HJHZA9) | [Bovenste Knoopje Open](https://open.spotify.com/artist/74ZDRWqO6aHeLRjAaugQej), [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Zie mij graag](https://open.spotify.com/album/3LE9BSOO5lfrLq8bw5eZEG) | 4:32 |
+| 41 | [Komt Goed](https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Kubus In Een Ballenbak](https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR) | 2:33 |
 | 42 | [Mommy](https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Mommy](https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU) | 2:54 |
 | 43 | [Nederland](https://open.spotify.com/track/6lByEnaXlZS78u7YxvKEF4) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4), [Vinkenoog](https://open.spotify.com/artist/6AGDhC3w4fUUMOwuzQlysK) | [Nederland](https://open.spotify.com/album/45DRLkQnQCjxiPDLrK0x63) | 3:04 |
-| 44 | [Komt Goed](https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Kubus In Een Ballenbak](https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR) | 2:33 |
+| 44 | [Zie mij graag](https://open.spotify.com/track/1pc1xnIszMNn3fg3HJHZA9) | [Bovenste Knoopje Open](https://open.spotify.com/artist/74ZDRWqO6aHeLRjAaugQej), [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Zie mij graag](https://open.spotify.com/album/3LE9BSOO5lfrLq8bw5eZEG) | 4:32 |
 | 45 | [In NL Mag Je Een Vrouw Slaan](https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [In NL Mag Je Een Vrouw Slaan](https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe) | 2:30 |
-| 46 | [DON'T BELIEVE DE KRANT](https://open.spotify.com/track/4j3R4MpvwHA9LRJgejoe7q) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND 2](https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug) | 3:38 |
-| 47 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
+| 46 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
+| 47 | [DON'T BELIEVE DE KRANT](https://open.spotify.com/track/4j3R4MpvwHA9LRJgejoe7q) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND 2](https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug) | 3:38 |
 | 48 | [Fata Morgana](https://open.spotify.com/track/58bCOr6hgtcNvBSdGViKFQ) | [PAULIEN](https://open.spotify.com/artist/2YjTYpJ0JQB1CZ6P5v2G4b) | [Fata Morgana](https://open.spotify.com/album/3l1nxL3R1vPTsevFUMX97H) | 2:38 |
 | 49 | [Normaal Toen](https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Normaal Toen](https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10) | 3:14 |
-| 50 | [Kan Je Niet Blijven?](https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Kan Je Niet Blijven?](https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI) | 3:35 |
+| 50 | [Maskers](https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Maskers](https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO) | 3:21 |
 
 Snapshot ID: `AAAAABsiNsMpRF8EahXlGFvDW8gwUp1E`

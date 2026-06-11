@@ -1,6 +1,6 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Dumama",
-  "num_followers": 2069,
+  "num_followers": 2082,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
+        "name": "ODO",
+        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "ODO",
+      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
         "name": "Sinatanale",
         "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 214956,
       "name": "Sinatanale",
       "url": "https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
-        "name": "ODO",
-        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
-      },
-      "artists": [
-        {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "ODO",
-      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -511,18 +511,18 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Mighty",
-        "url": "https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3"
+        "name": "Ngibongiseni",
+        "url": "https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72"
       },
       "artists": [
         {
-          "name": "SaxbyTwins",
-          "url": "https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ"
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
         }
       ],
-      "duration_ms": 233880,
-      "name": "Mighty",
-      "url": "https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K"
+      "duration_ms": 156000,
+      "name": "Ngibongiseni",
+      "url": "https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -543,18 +543,18 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Ngibongiseni",
-        "url": "https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72"
+        "name": "Mighty",
+        "url": "https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3"
       },
       "artists": [
         {
-          "name": "Sjava",
-          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+          "name": "SaxbyTwins",
+          "url": "https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Ngibongiseni",
-      "url": "https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU"
+      "duration_ms": 233880,
+      "name": "Mighty",
+      "url": "https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -1291,8 +1291,8 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "KHALANWAHA",
-        "url": "https://open.spotify.com/album/7kuWlNLAPzPeGuUliVibgI"
+        "name": "Holu Lufuno",
+        "url": "https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu"
       },
       "artists": [
         {
@@ -1300,13 +1300,13 @@
           "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
         },
         {
-          "name": "Nduduzo Makhathini",
-          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+          "name": "NOGA",
+          "url": "https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn"
         }
       ],
-      "duration_ms": 311845,
-      "name": "KHALANWAHA",
-      "url": "https://open.spotify.com/track/5fC3oT3rRF7itnkIV8JZbY"
+      "duration_ms": 201959,
+      "name": "Holu Lufuno",
+      "url": "https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -1379,8 +1379,8 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Holu Lufuno",
-        "url": "https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu"
+        "name": "KHALANWAHA",
+        "url": "https://open.spotify.com/album/7kuWlNLAPzPeGuUliVibgI"
       },
       "artists": [
         {
@@ -1388,13 +1388,13 @@
           "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
         },
         {
-          "name": "NOGA",
-          "url": "https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn"
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
         }
       ],
-      "duration_ms": 201959,
-      "name": "Holu Lufuno",
-      "url": "https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub"
+      "duration_ms": 311845,
+      "name": "KHALANWAHA",
+      "url": "https://open.spotify.com/track/5fC3oT3rRF7itnkIV8JZbY"
     }
   ],
   "unique_name": "Afro Indie",

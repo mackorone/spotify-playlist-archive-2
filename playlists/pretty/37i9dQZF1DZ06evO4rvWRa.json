@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638656,
+  "num_followers": 1638663,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAD5QtGM6/Zbf8C79et+9IBC",
+  "snapshot_id": "aidXgAAAAACdUNEhwsGJ78AcbsjLBIik",
   "tracks": [
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World of Walker, Season One: Rise of the Drones",
-        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 202210,
-      "name": "Eroina",
-      "url": "https://open.spotify.com/track/4KIy6jNEmGFl33RU84iL5P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerworld 2.0",
         "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 156937,
       "name": "Dancing in love",
       "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World of Walker, Season One: Rise of the Drones",
+        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "duration_ms": 202210,
+      "name": "Eroina",
+      "url": "https://open.spotify.com/track/4KIy6jNEmGFl33RU84iL5P"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World of Walker, Season One: Rise of the Drones",
-        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/4JUonhFVjyHzWpUQFIaKZs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/2OmTdaXM8mvpi28xTxT5Y6"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 191861,
       "name": "Void",
       "url": "https://open.spotify.com/track/6KwgfZhSWwrjDriUVNjVpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World of Walker, Season One: Rise of the Drones",
+        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/4JUonhFVjyHzWpUQFIaKZs"
     },
     {
       "added_at": null,

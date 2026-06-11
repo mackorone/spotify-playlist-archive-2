@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Wait For Dark",
+        "url": "https://open.spotify.com/album/2madKsttGJIXf3yTMIS5oE"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258850,
+      "name": "Wait For Dark",
+      "url": "https://open.spotify.com/track/5LCYfYYsJN96vzy9a8SqIY"
+    },
+    {
+      "album": {
         "name": "Fixed It All",
         "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
       },

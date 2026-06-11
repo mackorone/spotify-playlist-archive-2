@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno. Photographer: Kevin Mazur via Getty Images",
-  "num_followers": 181284,
+  "num_followers": 181323,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,26 @@
     {
       "added_at": "2026-05-28 22:01:43",
       "album": {
+        "name": "Love Within",
+        "url": "https://open.spotify.com/album/2ZVcdV2EuArlBdAvTHTmvf"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        }
+      ],
+      "duration_ms": 224328,
+      "name": "Love Within",
+      "url": "https://open.spotify.com/track/0O5J5xw0Geb9csWY6rg3uj"
+    },
+    {
+      "added_at": "2026-05-28 22:01:43",
+      "album": {
         "name": "Saga",
         "url": "https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 144960,
       "name": "RACER",
       "url": "https://open.spotify.com/track/7IqrsY0SHIDdWgIJMIUzpZ"
-    },
-    {
-      "added_at": "2026-05-28 22:01:43",
-      "album": {
-        "name": "Love Within",
-        "url": "https://open.spotify.com/album/2ZVcdV2EuArlBdAvTHTmvf"
-      },
-      "artists": [
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        },
-        {
-          "name": "Mark Reeve",
-          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
-        }
-      ],
-      "duration_ms": 224328,
-      "name": "Love Within",
-      "url": "https://open.spotify.com/track/0O5J5xw0Geb9csWY6rg3uj"
     },
     {
       "added_at": "2026-05-28 22:01:43",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-05-28 22:01:43",
       "album": {
-        "name": "Ray Of Solar (Mau P Remix)",
-        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Ray Of Solar - Mau P Remix",
-      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
-    },
-    {
-      "added_at": "2026-05-28 22:01:43",
-      "album": {
         "name": "Coming On Strong",
         "url": "https://open.spotify.com/album/6qqZ1VQ8VV1FtG7aZThEG4"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 243967,
       "name": "Coming On Strong",
       "url": "https://open.spotify.com/track/3OxO5qycdP6Rg6dFgefWFZ"
+    },
+    {
+      "added_at": "2026-05-28 22:01:43",
+      "album": {
+        "name": "Ray Of Solar (Mau P Remix)",
+        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Ray Of Solar - Mau P Remix",
+      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
     },
     {
       "added_at": "2026-05-28 22:01:43",
@@ -1167,18 +1167,22 @@
     {
       "added_at": "2026-05-28 22:01:43",
       "album": {
-        "name": "Talking",
-        "url": "https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS"
+        "name": "Friend Of Mine",
+        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
       },
       "artists": [
         {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
         }
       ],
-      "duration_ms": 244590,
-      "name": "Talking",
-      "url": "https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K"
+      "duration_ms": 213333,
+      "name": "Friend Of Mine",
+      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
     },
     {
       "added_at": "2026-05-28 22:01:43",
@@ -1207,22 +1211,18 @@
     {
       "added_at": "2026-05-28 22:01:43",
       "album": {
-        "name": "Friend Of Mine",
-        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
+        "name": "Talking",
+        "url": "https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        },
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Friend Of Mine",
-      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
+      "duration_ms": 244590,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K"
     },
     {
       "added_at": "2026-05-28 22:01:43",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-05-28 22:01:43",
       "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/4paVM4hXl2Lq9EhngKRpWy"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 298739,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/72fsISRF1G1vDUVPwbTgMO"
+    },
+    {
+      "added_at": "2026-05-28 22:01:43",
+      "album": {
         "name": "Drum Death",
         "url": "https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 170644,
       "name": "Drum Death",
       "url": "https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E"
-    },
-    {
-      "added_at": "2026-05-28 22:01:43",
-      "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/4paVM4hXl2Lq9EhngKRpWy"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 298739,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/72fsISRF1G1vDUVPwbTgMO"
     },
     {
       "added_at": "2026-05-28 22:01:43",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2026-05-28 22:01:43",
       "album": {
-        "name": "I Look Good",
-        "url": "https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 164659,
-      "name": "I Look Good",
-      "url": "https://open.spotify.com/track/2nO5YCEAQLPYKLbza7N64Z"
-    },
-    {
-      "added_at": "2026-05-28 22:01:43",
-      "album": {
         "name": "Do You EP",
         "url": "https://open.spotify.com/album/5FuiFhKEYrgrOnMck9cXqb"
       },
@@ -1615,26 +1595,6 @@
       "duration_ms": 221769,
       "name": "Do You",
       "url": "https://open.spotify.com/track/59Omhh3MqpuvUXvVoRdiBH"
-    },
-    {
-      "added_at": "2026-05-28 22:01:43",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 146090,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T"
     },
     {
       "added_at": "2026-05-28 22:01:43",
@@ -1659,6 +1619,46 @@
       "duration_ms": 177405,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/2SUUs5xx9z1XPp46MYegiE"
+    },
+    {
+      "added_at": "2026-05-28 22:01:43",
+      "album": {
+        "name": "I Look Good",
+        "url": "https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 164659,
+      "name": "I Look Good",
+      "url": "https://open.spotify.com/track/2nO5YCEAQLPYKLbza7N64Z"
+    },
+    {
+      "added_at": "2026-05-28 22:01:43",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 146090,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T"
     },
     {
       "added_at": "2026-05-28 22:01:43",
@@ -2007,26 +2007,18 @@
     {
       "added_at": "2026-05-28 22:01:43",
       "album": {
-        "name": "Parallax",
-        "url": "https://open.spotify.com/album/6bojyA0Daix0B91oRJW5wM"
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/6vT0TayGsjWbeBu8mS7yQV"
       },
       "artists": [
         {
-          "name": "Layla Benitez",
-          "url": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
-        },
-        {
-          "name": "Jono Stephenson",
-          "url": "https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL"
-        },
-        {
-          "name": "Henri Bergmann",
-          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
         }
       ],
-      "duration_ms": 228629,
-      "name": "Parallax",
-      "url": "https://open.spotify.com/track/0UgLmLX6DUkRsMmosFDfLb"
+      "duration_ms": 195726,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/6CCMEOmpBDtetTzmP8if9o"
     },
     {
       "added_at": "2026-05-28 22:01:43",
@@ -2051,18 +2043,26 @@
     {
       "added_at": "2026-05-28 22:01:43",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/6vT0TayGsjWbeBu8mS7yQV"
+        "name": "Parallax",
+        "url": "https://open.spotify.com/album/6bojyA0Daix0B91oRJW5wM"
       },
       "artists": [
         {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+          "name": "Layla Benitez",
+          "url": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
+        },
+        {
+          "name": "Jono Stephenson",
+          "url": "https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL"
+        },
+        {
+          "name": "Henri Bergmann",
+          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
         }
       ],
-      "duration_ms": 195726,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/6CCMEOmpBDtetTzmP8if9o"
+      "duration_ms": 228629,
+      "name": "Parallax",
+      "url": "https://open.spotify.com/track/0UgLmLX6DUkRsMmosFDfLb"
     },
     {
       "added_at": "2026-05-28 22:01:43",
@@ -2431,6 +2431,26 @@
     {
       "added_at": "2026-05-28 22:01:43",
       "album": {
+        "name": "Get Together",
+        "url": "https://open.spotify.com/album/0jVG0suPDGpQnrKgdPgCKm"
+      },
+      "artists": [
+        {
+          "name": "Henri Bergmann",
+          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+        },
+        {
+          "name": "CENKK",
+          "url": "https://open.spotify.com/artist/7is6F8lENDaS4DaNGFXSeu"
+        }
+      ],
+      "duration_ms": 235642,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/7BK5HTZRTfKdHHZ7mQrrpP"
+    },
+    {
+      "added_at": "2026-05-28 22:01:43",
+      "album": {
         "name": "Inside Your Mind",
         "url": "https://open.spotify.com/album/2BgHXg7wPsbsdSISHjLBLj"
       },
@@ -2451,26 +2471,6 @@
       "duration_ms": 174252,
       "name": "Inside Your Mind",
       "url": "https://open.spotify.com/track/16h1oek8xjdszxudIyjFg3"
-    },
-    {
-      "added_at": "2026-05-28 22:01:43",
-      "album": {
-        "name": "Get Together",
-        "url": "https://open.spotify.com/album/0jVG0suPDGpQnrKgdPgCKm"
-      },
-      "artists": [
-        {
-          "name": "Henri Bergmann",
-          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
-        },
-        {
-          "name": "CENKK",
-          "url": "https://open.spotify.com/artist/7is6F8lENDaS4DaNGFXSeu"
-        }
-      ],
-      "duration_ms": 235642,
-      "name": "Get Together",
-      "url": "https://open.spotify.com/track/7BK5HTZRTfKdHHZ7mQrrpP"
     },
     {
       "added_at": "2026-05-28 22:01:43",
@@ -2531,26 +2531,26 @@
     {
       "added_at": "2026-05-28 22:01:43",
       "album": {
-        "name": "Downfall",
-        "url": "https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH"
+        "name": "Nothing Ever Changes (Camelphat Remix)",
+        "url": "https://open.spotify.com/album/0SkcnpoGxDAbhHcj9LA0tk"
       },
       "artists": [
         {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         },
         {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
         },
         {
-          "name": "braev",
-          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         }
       ],
-      "duration_ms": 236975,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
+      "duration_ms": 258236,
+      "name": "Nothing Ever Changes - Camelphat Remix",
+      "url": "https://open.spotify.com/track/2g0mTSsQCz7C36ee5Varka"
     }
   ],
   "unique_name": "Melodic Techno Elements",

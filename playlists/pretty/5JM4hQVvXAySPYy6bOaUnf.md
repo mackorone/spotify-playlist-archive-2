@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JM4hQVvXAySPYy6bOaUnf.md) - [plain]
 
 > For the quiet hours when the world sleeps, and your thoughts speak the loudest.
 
-[Jinaexc](https://open.spotify.com/user/cheyx001) - 2 likes - 52 songs - 3 hr 13 min
+[Jinaexc](https://open.spotify.com/user/cheyx001) - 1 like - 52 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

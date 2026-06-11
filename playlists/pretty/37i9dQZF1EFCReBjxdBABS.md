@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 75 | [Easy for You to Say](https://open.spotify.com/track/6l6AwR3Vp9tGt97OE1bdPs) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3cZg2kg86yLwTyMoBv5bBC) | 3:19 |
 | 76 | [Slip on Back](https://open.spotify.com/track/5YHCNCgU0qXXf33yKlkBM9) | [Jaden Hamilton](https://open.spotify.com/artist/2Hee241e76SakjULcG18OH) | [Jaden Hamilton](https://open.spotify.com/album/0wGXb4LwelW4nLNeJ5jWm3) | 2:53 |
 | 77 | [Anymore](https://open.spotify.com/track/7bRCQGyX5rjV8M6qDU0th1) | [Remy Garrison](https://open.spotify.com/artist/3sgAiri5AHS9UmXrfiUQjV) | [Anymore](https://open.spotify.com/album/3mkGhTANP45x6mzKKKw5DZ) | 2:59 |
-| 78 | [Maybe Not](https://open.spotify.com/track/1PkMxo1SQtehhsM3GuYd4g) | [Temecula Road](https://open.spotify.com/artist/6NBjdxIPyMnOSmkkwd5UZT) | [Maybe Not](https://open.spotify.com/album/4djCJK2VULqp1Okwc6Sx51) | 2:57 |
-| 79 | [Broken Hearts Break](https://open.spotify.com/track/4Zxz5nRPkPDzTfau5WG3g6) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Broken Hearts](https://open.spotify.com/album/3nhHTXUL4eEFE6LRD8Fo0n) | 3:33 |
+| 78 | [Broken Hearts Break](https://open.spotify.com/track/4Zxz5nRPkPDzTfau5WG3g6) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Broken Hearts](https://open.spotify.com/album/3nhHTXUL4eEFE6LRD8Fo0n) | 3:33 |
+| 79 | [Maybe Not](https://open.spotify.com/track/1PkMxo1SQtehhsM3GuYd4g) | [Temecula Road](https://open.spotify.com/artist/6NBjdxIPyMnOSmkkwd5UZT) | [Maybe Not](https://open.spotify.com/album/4djCJK2VULqp1Okwc6Sx51) | 2:57 |
 | 80 | [Head Start on a Heartbreak](https://open.spotify.com/track/09YHbsgK2ushf9Cq0RkM2X) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [The 3rd](https://open.spotify.com/album/338PUzOE2YzbuGeYPEp50N) | 3:08 |
 | 81 | [Having It All](https://open.spotify.com/track/5xeASgqvLB3WOUkND2zfrZ) | [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn) | [Miss California](https://open.spotify.com/album/1XcCJgdR5mdwmY38BwO3o5) | 2:53 |
 | 82 | [Morning Person](https://open.spotify.com/track/2m9e4YyrrpMjlm7wVVwQ0N) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Dive Bar Beauty Queen](https://open.spotify.com/album/2stHI1R40N24BTQ0EIGccF) | 3:40 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 129 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 130 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcTykgAAAABr/yeL/Kx1v/h2tZNXOYeV`
+Snapshot ID: `AcT4bgAAAAA8VQ7YVQy6isOiHF9CZXeH`

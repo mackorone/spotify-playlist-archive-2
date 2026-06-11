@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 563252,
+  "num_followers": 563257,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
+        "name": "Kau Rumahku",
+        "url": "https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "duration_ms": 275250,
+      "name": "Kau Rumahku",
+      "url": "https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
         "name": "Tresno liyane",
         "url": "https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 290000,
       "name": "Tresno liyane",
       "url": "https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
-        "name": "Kau Rumahku",
-        "url": "https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO"
-      },
-      "artists": [
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        }
-      ],
-      "duration_ms": 275250,
-      "name": "Kau Rumahku",
-      "url": "https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN"
     },
     {
       "added_at": "2026-02-27 14:15:13",

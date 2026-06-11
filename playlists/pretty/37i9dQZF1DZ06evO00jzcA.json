@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 487522,
+  "num_followers": 487546,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAB+kvG59UaY8Ca2aotbWCWq",
+  "snapshot_id": "aidXgAAAAAC0gMSgq6ZWWFcYWi3CXHoF",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock And Roll Over",
-        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Hard Luck Woman",
-      "url": "https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
         "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 254613,
       "name": "I Love It Loud - 2022 Remastered",
       "url": "https://open.spotify.com/track/600p5yFQWKHxqEvejm6GfN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Hard Luck Woman",
+      "url": "https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock And Roll Over",
-        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Calling Dr. Love",
-      "url": "https://open.spotify.com/track/7xD7MvjAdZkx1YICschIuI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 169026,
       "name": "Shout It Out Loud",
       "url": "https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Calling Dr. Love",
+      "url": "https://open.spotify.com/track/7xD7MvjAdZkx1YICschIuI"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock And Roll Over",
-        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crazy Nights",
         "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 198466,
       "name": "Turn On The Night",
       "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW"
     },
     {
       "added_at": null,

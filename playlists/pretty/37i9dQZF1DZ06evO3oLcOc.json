@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 229370,
+  "num_followers": 229375,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAAVA1l1uK/NpglrNKi6y4Cx",
+  "snapshot_id": "aidXgAAAAABW395eIhX/0Xml5cCfTNEz",
   "tracks": [
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Deal - Single",
-        "url": "https://open.spotify.com/album/4QHBlDKmCY3eY4vOwmkmB0"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 217286,
-      "name": "Real Deal",
-      "url": "https://open.spotify.com/track/5Rv4qhjI9MMJmLpM0iHIKV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hotel California (Deluxe)",
         "url": "https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 221493,
       "name": "Switch Lanes",
       "url": "https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real Deal - Single",
+        "url": "https://open.spotify.com/album/4QHBlDKmCY3eY4vOwmkmB0"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 217286,
+      "name": "Real Deal",
+      "url": "https://open.spotify.com/track/5Rv4qhjI9MMJmLpM0iHIKV"
     },
     {
       "added_at": null,

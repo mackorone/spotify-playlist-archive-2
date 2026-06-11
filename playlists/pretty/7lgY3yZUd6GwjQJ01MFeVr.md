@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music! Cover: Cameron Whitcomb
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,956 likes - 112 songs - 5 hr 51 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,954 likes - 113 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,5 +120,6 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 110 | [South of the Suburbs](https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH) | [Matt Bazinet](https://open.spotify.com/artist/7pcLNmIGVmsj9nKMOdByct) | [South of the Suburbs](https://open.spotify.com/album/4dGbCXED2kmME8i4NQywvf) | 2:48 |
 | 111 | [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 |
 | 112 | [The Climb](https://open.spotify.com/track/5TFrCaVcHteA1QbGwwIJD6) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [The Climb](https://open.spotify.com/album/4wgM4DAqjKCY9t3zQ6cU3W) | 3:50 |
+| 113 | [Hometown Heroes \(feat\. Dean Brody\)](https://open.spotify.com/track/6p7rRIvBUDsWkJoJpTYMIo) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv), [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Hometown Heroes \(feat\. Dean Brody\)](https://open.spotify.com/album/7oNjPhQc4OEP93PWPFecsp) | 3:43 |
 
-Snapshot ID: `AAAfhtny5etPNsl5FjggROl09LJLBh7t`
+Snapshot ID: `AAAfh2Mx/KbOPfcBqEzW/Cw+AKfoDpEL`

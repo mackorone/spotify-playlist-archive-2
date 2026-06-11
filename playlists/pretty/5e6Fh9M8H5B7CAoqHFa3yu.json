@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 335,
+  "num_followers": 336,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKF5RoQKAPj2zovSxlCLQB9htFlbV3",
+  "snapshot_id": "AAAKGS5BdEYGe2KM6kokS2zE380PksHm",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -40499,6 +40499,38 @@
       "duration_ms": 278413,
       "name": "Sei",
       "url": "https://open.spotify.com/track/5v0WRPhkz1LnrAQc07JLGB"
+    },
+    {
+      "added_at": "2026-06-10 08:16:31",
+      "album": {
+        "name": "Canta El Reggaeton",
+        "url": "https://open.spotify.com/album/0fPpvRnqa8ZebfbwUXT1Zx"
+      },
+      "artists": [
+        {
+          "name": "CER",
+          "url": "https://open.spotify.com/artist/2lhN3pky6pkIZeXroIWnRg"
+        }
+      ],
+      "duration_ms": 253120,
+      "name": "Vuelve, Vuelve",
+      "url": "https://open.spotify.com/track/1C5alUEKjaeYJNoK7c5WGr"
+    },
+    {
+      "added_at": "2026-06-10 08:25:12",
+      "album": {
+        "name": "Symphony of Machine Learning",
+        "url": "https://open.spotify.com/album/1Q8swnhp6sB7GR5MVlmyo5"
+      },
+      "artists": [
+        {
+          "name": "m78 Studio",
+          "url": "https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT"
+        }
+      ],
+      "duration_ms": 248121,
+      "name": "The Overfitting Ex",
+      "url": "https://open.spotify.com/track/3HyDtedJpJuCqzWuadPI2U"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

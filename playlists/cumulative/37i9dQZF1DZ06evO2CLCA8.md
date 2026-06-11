@@ -4,7 +4,7 @@
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-125 songs - 7 hr 51 min
+126 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Alright for Now \- Live](https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Live Anthology](https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh) | 2:49 | 2022-06-14 | 2026-01-24 |
 | [American Girl](https://open.spotify.com/track/53LwBS4bovyljsMlLqGfd6) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty And The Heartbreakers](https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER) | 3:34 | 2024-08-01 |  |
 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 | 2022-01-11 | 2024-08-01 |
-| [American Girl \- Live at the Fillmore, 1997](https://open.spotify.com/track/1Pbu4tX4D7H9zCNuXuynp8) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 2:31 | 2026-05-11 |  |
+| [American Girl \- 2026 Mix \- Extended Version](https://open.spotify.com/track/7qbC0IzRSOvC7SsY65mtF6) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [American Girl \(2026 Mix \- Extended Version\)](https://open.spotify.com/album/2UTK5FPKmBFD8g0ggwkaTb) | 3:59 | 2026-06-11 |  |
+| [American Girl \- Live at the Fillmore, 1997](https://open.spotify.com/track/1Pbu4tX4D7H9zCNuXuynp8) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 2:31 | 2026-05-11 | 2026-06-11 |
 | [Angel Dream \(No\. 4\)](https://open.spotify.com/track/0tFF03AX223mZHNmMhnBvQ) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [She's the One \(Songs and Music from the Motion Picture\)](https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto) | 2:27 | 2022-01-11 |  |
 | [Anything That's Rock 'N' Roll](https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty And The Heartbreakers](https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER) | 2:24 | 2024-07-29 |  |
 | [Anything That's Rock 'n' Roll](https://open.spotify.com/track/2AX3BnBmNwR2lHZhkKvmXJ) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 2:24 | 2022-01-11 | 2024-07-29 |

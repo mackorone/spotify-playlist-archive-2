@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78259,
+  "num_followers": 78262,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/5PlzsOCOn76AF8NnmjScU8"
-      },
-      "artists": [
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        },
-        {
-          "name": "ASHWARYA",
-          "url": "https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk"
-        }
-      ],
-      "duration_ms": 235647,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/7Ksw8nf3U4g8rcJOoFkxaT"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Speed Dating",
         "url": "https://open.spotify.com/album/4BuCifUv2tHplBzCGMWGZ1"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 167172,
       "name": "Speed Dating",
       "url": "https://open.spotify.com/track/5j2sGJpwHBdSOiTBFG9cX0"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/5PlzsOCOn76AF8NnmjScU8"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "ASHWARYA",
+          "url": "https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk"
+        }
+      ],
+      "duration_ms": 235647,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/7Ksw8nf3U4g8rcJOoFkxaT"
     },
     {
       "added_at": "2025-12-03 12:15:55",

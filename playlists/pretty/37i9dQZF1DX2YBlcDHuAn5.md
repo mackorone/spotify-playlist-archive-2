@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,935 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,930 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 45 | [Good Riddance & Goodbye](https://open.spotify.com/track/5qah0qyBq6iG8sRjtfPu7e) | [INA ROSE](https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA) | [Good Riddance & Goodbye](https://open.spotify.com/album/4fJjNjrXI8Kg06UwA30ImI) | 3:07 |
 | 46 | [Buckle Down](https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Buckle Down](https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2) | 2:46 |
 | 47 | [Good As Gone](https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf) | [Koen Vael](https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx) | [Good As Gone](https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50) | 3:45 |
-| 48 | [BP Love](https://open.spotify.com/track/7mDbzMJplzWKZxrula4ddy) | [Jessica Allossery](https://open.spotify.com/artist/40GxtoOMHs0ux7Wfs3C8Ob), [The Butterfly Room](https://open.spotify.com/artist/6iPsFW8Vx81G68wYEaioQA) | [BP Love](https://open.spotify.com/album/2DZbccCK8sWid5r8GCwtS2) | 2:06 |
+| 48 | [The Fire Inside](https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [The Fire Inside](https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp) | 3:35 |
 | 49 | [This Night's Alright](https://open.spotify.com/track/75Mp2Ww9Ni8GLRa8u69yYU) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Wanderings](https://open.spotify.com/album/5drfnFk0N0p4J4gN9spx5l) | 3:41 |
-| 50 | [For Once](https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [For Once](https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf) | 3:57 |
+| 50 | [BP Love](https://open.spotify.com/track/7mDbzMJplzWKZxrula4ddy) | [Jessica Allossery](https://open.spotify.com/artist/40GxtoOMHs0ux7Wfs3C8Ob), [The Butterfly Room](https://open.spotify.com/artist/6iPsFW8Vx81G68wYEaioQA) | [BP Love](https://open.spotify.com/album/2DZbccCK8sWid5r8GCwtS2) | 2:06 |
 
 Snapshot ID: `AAAAAJ5/qyaquOHDw/ZhhLNR2FSgFEQV`

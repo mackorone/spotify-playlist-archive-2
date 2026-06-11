@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 524638,
+  "num_followers": 524716,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAABKvg1ARazA+X9Myk5xL0mc",
+  "snapshot_id": "aidXgAAAAADOTvJFZjUHIgUxEUip5hr6",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "Rushmere",
-      "url": "https://open.spotify.com/track/7Kyfw8u6etOY1OkeEw2cMy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Babel (Deluxe Version)",
         "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
       },
@@ -275,8 +259,24 @@
     {
       "added_at": null,
       "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/7Kyfw8u6etOY1OkeEw2cMy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
       },
       "artists": [
         {
@@ -290,7 +290,7 @@
       ],
       "duration_ms": 178200,
       "name": "Badlands (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+      "url": "https://open.spotify.com/track/1kSdbaUZOEQTC8RmoxOYeA"
     },
     {
       "added_at": null,
@@ -307,6 +307,22 @@
       "duration_ms": 312626,
       "name": "Tompkins Square Park",
       "url": "https://open.spotify.com/track/7rQ3Gz0M6eMUCOQf4fs0qq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/1WdzzLMa5xbKQxAQvT7A81"
     },
     {
       "added_at": null,
@@ -331,22 +347,6 @@
       "duration_ms": 245106,
       "name": "The Boxer feat. Mumford & Sons and Paul Simon",
       "url": "https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Babel",
-      "url": "https://open.spotify.com/track/1WdzzLMa5xbKQxAQvT7A81"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "The Wolf",
-      "url": "https://open.spotify.com/track/2KQrrkOaaQWltWn6toCmfL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Babel (Deluxe Version)",
         "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 314893,
       "name": "Lover of the Light",
       "url": "https://open.spotify.com/track/3ZQYhvXr4SXcmiWqmEnRS0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/2KQrrkOaaQWltWn6toCmfL"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 339720,
+      "name": "Ghosts That We Knew",
+      "url": "https://open.spotify.com/track/1XN57COv6cbcIZ1LhYtxQd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Traveller (Special Edition)",
         "url": "https://open.spotify.com/album/56M5UIQo7xgQvoOUwkK05D"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 266930,
       "name": "There Will Be Time",
       "url": "https://open.spotify.com/track/55omUd9gTCJr0higmW58BA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 339720,
-      "name": "Ghosts That We Knew",
-      "url": "https://open.spotify.com/track/1XN57COv6cbcIZ1LhYtxQd"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Christian Nodal📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,843 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,856 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 69 | [El Hielo Está Quemando](https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Hielo Está Quemando](https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ) | 3:09 |
 | 70 | [Allá Donde Vayas](https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl) | [Angela Fonte](https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw) | [Allá Donde Vayas](https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn) | 3:33 |
 | 71 | [Pintando sueños](https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG) | [Mariacho Ay Ay Ay](https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2) | [Pintando sueños](https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x) | 3:42 |
-| 72 | [Mi México Mestizo](https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo) | [Sant Orozco](https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG) | [Mi México Mestizo](https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv) | 2:26 |
-| 73 | [Después de ti](https://open.spotify.com/track/2uRsNDeNZgY4DbZBNipqjC) | [Victor Rodhes](https://open.spotify.com/artist/1EzmmoR7JjsuoBfojkT3Dk) | [Después de ti](https://open.spotify.com/album/5W52gZ0j0XGg5S0dsOs9Vf) | 3:42 |
+| 72 | [Después de ti](https://open.spotify.com/track/2uRsNDeNZgY4DbZBNipqjC) | [Victor Rodhes](https://open.spotify.com/artist/1EzmmoR7JjsuoBfojkT3Dk) | [Después de ti](https://open.spotify.com/album/5W52gZ0j0XGg5S0dsOs9Vf) | 3:42 |
+| 73 | [Mi México Mestizo](https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo) | [Sant Orozco](https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG) | [Mi México Mestizo](https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv) | 2:26 |
 | 74 | [Señor Dios](https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Señor Dios](https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe) | 3:09 |
 | 75 | [El Último Beso](https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e) | [Eddy Y Samu](https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn) | [El Último Beso](https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S) | 2:49 |
 | 76 | [Olvidarte](https://open.spotify.com/track/2TD16DpXgveHeMqrKzCc0W) | [Horacio de Jesús](https://open.spotify.com/artist/7KKH9zlrjetM4JvkzrvDNY) | [Olvidarte](https://open.spotify.com/album/4k2PMe609GRbQjzUztSDWh) | 2:38 |

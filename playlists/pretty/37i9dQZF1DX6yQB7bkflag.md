@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Malcolm Todd
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,567 likes - 77 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,563 likes - 77 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

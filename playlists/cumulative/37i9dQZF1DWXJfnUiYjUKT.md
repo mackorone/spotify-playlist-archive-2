@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world, with Taylor Swift on the cover.
 
-22,524 songs - 49 day 17 hr 55 min
+22,525 songs - 49 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6665,6 +6665,7 @@
 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 | 2024-08-30 | 2024-09-07 |
 | [Finally Fine](https://open.spotify.com/track/6JQlOSz9Jd03zn7C3aq0TU) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Finally Fine](https://open.spotify.com/album/60YVVq3JqH321hltQuKXlr) | 2:24 | 2022-09-16 | 2022-09-24 |
 | [Finally Free](https://open.spotify.com/track/5qELFdy1PLLinCg5462HES) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series Season 3 \(Episode 1\) \[From "High School Musical: The Musical: The Series \(Season 3\)"\]](https://open.spotify.com/album/6lKBnP2FxDAFxUHVIxuvDC) | 3:17 | 2022-07-29 | 2022-08-05 |
+| [Find A Way](https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Find A Way](https://open.spotify.com/album/2ecM4rRHCVgxRGB5RZV5yK) | 2:34 | 2026-06-05 |  |
 | [Find A Way](https://open.spotify.com/track/51ehuSdtKvrsBGNWLOfQWE) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Find A Way](https://open.spotify.com/album/1trmWSMiO6NDBnnDDDhsy8) | 3:32 | 2024-05-10 | 2024-05-18 |
 | [FIND GOD \(feat\. Dominic Fike\)](https://open.spotify.com/track/51RDaTRAEHSitpeucJiHyU) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [BULLDAWG](https://open.spotify.com/album/4b0qE7wgMfoDD5HU9NOPiH) | 3:59 | 2026-05-15 | 2026-05-23 |
 | [Find Love](https://open.spotify.com/track/7BaExHeRww0LxV4yuYIFSL) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 4:37 | 2022-01-21 | 2022-01-28 |

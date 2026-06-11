@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Petrina DeLacey
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,263 likes - 74 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,287 likes - 74 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 73 | [Something Greater](https://open.spotify.com/track/1BB08C42ZCxoMa97OgYLi7) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Something Greater](https://open.spotify.com/album/7qUfmnn51RAzZhCCHSoH1V) | 2:42 |
 | 74 | [Bitter Cup](https://open.spotify.com/track/1aC2XHu88jjgv3k6Eumd8C) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4), [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Bitter Cup](https://open.spotify.com/album/1MYvXf2utnr7N7ZzEwPsqH) | 2:36 |
 
-Snapshot ID: `AAAAANd8QLn06USqsYDUoCr9t5kKazX1`
+Snapshot ID: `AAAAAKlZgd3XXW+3Z+OR4CF/aLo6yQmW`

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 
 ### [Spotify House at CMA Fest 2026](https://open.spotify.com/playlist/37i9dQZF1DX6HIvDVo75RY)
 
-> Spotify House at Ole Red on Broadway is BACK for 2026! We've curated three incredible days of live music \- see you June 4\-6 in Nashville!
+> Thanks to everyone who came out and enjoyed Spotify House at Ole Red during CMA Fest with us!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,960 likes - 77 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,025 likes - 77 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Happen To Me](https://open.spotify.com/track/1vgourDwo7hFFamSxepvar) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Famous Back Home](https://open.spotify.com/album/4ALnU1TkEJ01SfM3yblwy5) | 3:03 |
-| 2 | [Cruise](https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:28 |
+| 1 | [Cruise](https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:28 |
+| 2 | [Happen To Me](https://open.spotify.com/track/1vgourDwo7hFFamSxepvar) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Famous Back Home](https://open.spotify.com/album/4ALnU1TkEJ01SfM3yblwy5) | 3:03 |
 | 3 | [Tequila](https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:16 |
 | 4 | [Born To Die](https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Born To Die](https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27) | 2:45 |
 | 5 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 | 76 | [PSYCHOLOGICAL](https://open.spotify.com/track/01Wks6wJa8Fx9YgyioPWEt) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [PSYCHOLOGICAL](https://open.spotify.com/album/3OJHtMDeHk1ZR3U7z8brM5) | 3:16 |
 | 77 | [We Can Always Move On](https://open.spotify.com/track/616Xu0RK8RbTkYSDIkB60B) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [We Can Always Move On](https://open.spotify.com/album/5Uuls0XJdjxmEFqTbPwY1H) | 3:19 |
 
-Snapshot ID: `AAAAAKSG2RiorsIX/ge/4X91JsX+MPUY`
+Snapshot ID: `AAAAAPs3MY8azC19r8c70cD4EbQlEceE`

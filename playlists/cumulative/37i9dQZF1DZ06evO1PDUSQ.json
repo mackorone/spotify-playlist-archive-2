@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "At The End Of The Day",
+        "url": "https://open.spotify.com/album/4zjje3LG2MbggFIV5hOcF6"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217120,
+      "name": "At The End Of The Day",
+      "url": "https://open.spotify.com/track/027WTQSQPb9Yna2nDmax0O"
+    },
+    {
+      "album": {
         "name": "Everybody Needs a Hero",
         "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
       },

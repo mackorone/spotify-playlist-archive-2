@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,238 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,239 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 36 | [Fora do Normal](https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs) | [THIFREE](https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv), [Vignoli](https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Fora do Normal](https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5) | 2:54 |
 | 37 | [Soul da Noite.](https://open.spotify.com/track/0HSnywq4MlYwAfuaKCbWnQ) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [LilBoy Bruce](https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn) | [Guetto Wave’s](https://open.spotify.com/album/1JLnx4QiONuJC1LH54GK6C) | 3:13 |
 | 38 | [Só pra você](https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc) | [Dash Foreal](https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA) | [Músicas Para Mulheres, Vol\. 1](https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF) | 2:47 |
-| 39 | [12 de Junho](https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [12 de Junho](https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4) | 3:10 |
-| 40 | [Coulda Shown You](https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg) | [Lucca DL](https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Coulda Shown You](https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n) | 2:21 |
+| 39 | [Coulda Shown You](https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg) | [Lucca DL](https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Coulda Shown You](https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n) | 2:21 |
+| 40 | [12 de Junho](https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [12 de Junho](https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4) | 3:10 |
 | 41 | [Porta Aberta](https://open.spotify.com/track/7vjdDgdZpqdK0JDMN3Gio5) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP) | [Porta Aberta](https://open.spotify.com/album/418Bw99V7nkdsTZ69Rya5H) | 2:47 |
 | 42 | [Halo](https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Halo](https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4) | 3:11 |
 | 43 | [A Beira Mar](https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH) | [Jhayam](https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I), [Zeferina](https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr), [D3javú](https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ) | [A Beira Mar](https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N) | 3:48 |

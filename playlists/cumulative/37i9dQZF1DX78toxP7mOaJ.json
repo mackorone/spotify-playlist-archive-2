@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Lina-Mariah",
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: LEMONSUCKR",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -762,6 +762,24 @@
       "duration_ms": 202887,
       "name": "A Little Less",
       "url": "https://open.spotify.com/track/5He1bjR7YKGzKi48UXzYVG"
+    },
+    {
+      "album": {
+        "name": "A Muted TV",
+        "url": "https://open.spotify.com/album/2CApiqUNucJ3iXyPviTTHv"
+      },
+      "artists": [
+        {
+          "name": "Reclus.\u00c9",
+          "url": "https://open.spotify.com/artist/77myKiTzTz50cL8cMxBuvV"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246845,
+      "name": "A Muted TV",
+      "url": "https://open.spotify.com/track/4RqrtnQcEQjbPPQLgS0Y5r"
     },
     {
       "album": {
@@ -12830,7 +12848,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 222068,
       "name": "Fajitas (Poliz Navidad)",
       "url": "https://open.spotify.com/track/1eg4vCSaV8hdAPPuyH2UkD"
@@ -12888,6 +12906,28 @@
       "duration_ms": 168277,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/45e7TKWcYH9HcBkWFn4oUi"
+    },
+    {
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/5veFWqynkJ8Fk7n611Xvd2"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        },
+        {
+          "name": "Ntsika",
+          "url": "https://open.spotify.com/artist/0OJZLTuFdww9IGthPZE8uN"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/3ZGLEDbtQ9RERCk9NczSFc"
     },
     {
       "album": {
@@ -15824,7 +15864,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 148093,
       "name": "Grazer",
       "url": "https://open.spotify.com/track/6x5YxvJ6jFKTSCNU8FfJ2U"
@@ -28351,6 +28391,24 @@
     },
     {
       "album": {
+        "name": "Perennials",
+        "url": "https://open.spotify.com/album/0SKU0Z1SONpjkKPVPxew2F"
+      },
+      "artists": [
+        {
+          "name": "Continental Breakfast Club",
+          "url": "https://open.spotify.com/artist/6qxAaGbV0z4Eteqinyanp1"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238114,
+      "name": "Perennials",
+      "url": "https://open.spotify.com/track/4oOXIvjBmaFyGRTlMgIx7a"
+    },
+    {
+      "album": {
         "name": "Biting Heels",
         "url": "https://open.spotify.com/album/3ebmGyTFXk74mBNYspqEwy"
       },
@@ -31544,7 +31602,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 135277,
       "name": "Safeword",
       "url": "https://open.spotify.com/track/5AgbD4ZSxrAPkG9YqSbX9B"
@@ -34809,6 +34867,24 @@
     },
     {
       "album": {
+        "name": "Stain",
+        "url": "https://open.spotify.com/album/6HVBzBJLeI9yDFf0IprO85"
+      },
+      "artists": [
+        {
+          "name": "LEMONSUCKR",
+          "url": "https://open.spotify.com/artist/3GOEpVQKFuVvZeFAyu8a8M"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187949,
+      "name": "Stain",
+      "url": "https://open.spotify.com/track/6VDZf8IXQapl5FGw2nduU6"
+    },
+    {
+      "album": {
         "name": "Stain Helicopter",
         "url": "https://open.spotify.com/album/29fh9w86vYCQgIAJXCXr6d"
       },
@@ -37964,7 +38040,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 204994,
       "name": "The Weight",
       "url": "https://open.spotify.com/track/37auVkMndiZtMGrMc1xKJA"
@@ -41268,7 +41344,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 168818,
       "name": "Wild Connection",
       "url": "https://open.spotify.com/track/2bmRxQi3Jt42vE0xcFWEp5"
@@ -42012,7 +42088,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 176430,
       "name": "XO",
       "url": "https://open.spotify.com/track/7AJo6FdBPHCkyZ00euEKNg"
@@ -42441,6 +42517,24 @@
     },
     {
       "album": {
+        "name": "Your name, It's walking",
+        "url": "https://open.spotify.com/album/5NRMCI38bjhgYnlA8gfSJa"
+      },
+      "artists": [
+        {
+          "name": "Truck Violence",
+          "url": "https://open.spotify.com/artist/37hhPwqpgSJ3sVixiThL0l"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224656,
+      "name": "Your name, It's walking",
+      "url": "https://open.spotify.com/track/3ssApJUHcFBrgeuG69vqh9"
+    },
+    {
+      "album": {
         "name": "Little Green House",
         "url": "https://open.spotify.com/album/0YCfpM119gohGGBYBLECfj"
       },
@@ -42600,6 +42694,24 @@
       "duration_ms": 273603,
       "name": "Zombies",
       "url": "https://open.spotify.com/track/3gpW3GpvFgOJSJBDlSXDUl"
+    },
+    {
+      "album": {
+        "name": "\u5186\u76f8 \uff5cEnso",
+        "url": "https://open.spotify.com/album/13JammOxbOwU9ft8PElfDT"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "\u30c7\u30c8\u30ed\u30a4\u30c8\uff5cDetoroito",
+      "url": "https://open.spotify.com/track/6DZbO6wJuGzUyy2lARqAmC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ"

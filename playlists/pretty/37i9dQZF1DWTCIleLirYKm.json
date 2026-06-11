@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Colby Acuff",
-  "num_followers": 219782,
+  "num_followers": 219886,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-06-05 15:44:50",
       "album": {
-        "name": "Streetlights",
-        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Angel from Montgomery - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
-    },
-    {
-      "added_at": "2026-06-05 15:44:50",
-      "album": {
         "name": "Good Godly Woman",
         "url": "https://open.spotify.com/album/7iYaPN9HmhLoEPCnptvOfw"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 147598,
       "name": "Good Godly Woman",
       "url": "https://open.spotify.com/track/6GWMddXRoGtOQRMwxItviV"
+    },
+    {
+      "added_at": "2026-06-05 15:44:50",
+      "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Angel from Montgomery - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
     },
     {
       "added_at": "2026-06-05 15:44:50",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-06-05 15:44:50",
       "album": {
-        "name": "Shine On Rainy Day",
-        "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z"
       },
       "artists": [
         {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
         }
       ],
-      "duration_ms": 270413,
-      "name": "Black Crow",
-      "url": "https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG"
+      "duration_ms": 374440,
+      "name": "Ghosts Of Mississippi",
+      "url": "https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2"
     },
     {
       "added_at": "2026-06-05 15:44:50",
@@ -699,18 +699,18 @@
     {
       "added_at": "2026-06-05 15:44:50",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z"
+        "name": "Shine On Rainy Day",
+        "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
       },
       "artists": [
         {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
         }
       ],
-      "duration_ms": 374440,
-      "name": "Ghosts Of Mississippi",
-      "url": "https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2"
+      "duration_ms": 270413,
+      "name": "Black Crow",
+      "url": "https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG"
     },
     {
       "added_at": "2026-06-05 15:44:50",

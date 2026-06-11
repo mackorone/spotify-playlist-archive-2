@@ -4,7 +4,7 @@
 
 > This is Autechre\. The essential tracks, all in one playlist.
 
-247 songs - 1 day 4 hr 11 min
+248 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Perlence Suns](https://open.spotify.com/track/34v4euyzXrKagV44iVyRCK) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice.Quadrange.ep.ae](https://open.spotify.com/album/4sdrE1wszmZUWIgH1PzGNU) | 4:06 | 2025-10-21 | 2025-12-09 |
 | [Phylopn](https://open.spotify.com/track/3Yx4Tv6ery7PyOvo3e2noc) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice \(Versions\)](https://open.spotify.com/album/3EhXQYoLSUFXkDDSxrLHx1) | 2:40 | 2025-09-16 | 2025-12-15 |
 | [Piezo](https://open.spotify.com/track/3CfCnydtVUfmXgogGIDzGc) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 8:00 | 2022-05-29 | 2022-10-13 |
-| [PIOBmx](https://open.spotify.com/track/6u3LT0WFk9Fq0WrnvUirWf) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ) | 7:37 | 2023-11-10 |  |
+| [PIOBmx](https://open.spotify.com/track/6u3LT0WFk9Fq0WrnvUirWf) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ) | 7:37 | 2023-11-10 | 2026-06-11 |
 | [PIOBmx](https://open.spotify.com/track/3coNfMLhjfCggjfb5velIx) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/31nThm3LyQVvrndqxhvjWl) | 7:37 | 2022-05-29 | 2022-09-21 |
 | [Pir](https://open.spotify.com/track/6Y1rwwVQz7dGfZxU9AFp9l) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [EP7](https://open.spotify.com/album/1KaTIdAepIJDxbSEEL3M2z) | 3:31 | 2022-05-31 | 2022-10-11 |
 | [Pir](https://open.spotify.com/track/7KqchmQ1hlHszPlEiLMGme) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [EP7](https://open.spotify.com/album/2SthTfQKOf6AMzU4QajZfW) | 3:32 | 2023-06-19 | 2025-02-01 |
@@ -221,6 +221,7 @@
 | [SonDEre\-ix](https://open.spotify.com/track/65VBB9HgAoTicmtsgQKHxL) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice \(Versions\)](https://open.spotify.com/album/3EhXQYoLSUFXkDDSxrLHx1) | 3:27 | 2025-09-26 | 2025-10-06 |
 | [SonDEremawe](https://open.spotify.com/track/2B2Lsya6y6hPHRkXwguQ1T) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/3ZXEJLSFbQ13rhevpc7L0Y) | 1:21 | 2022-10-07 | 2023-02-16 |
 | [SonDEremawe](https://open.spotify.com/track/2cQpsMbqMXcorQU3sLWlMh) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK) | 1:21 | 2023-02-15 |  |
+| [st epreo](https://open.spotify.com/track/3wZRp3RxU9xGUklf8LyKOb) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4) | 4:08 | 2026-06-11 |  |
 | [Stud](https://open.spotify.com/track/6AqxYCmYLvFZdIdUL6igOY) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 9:40 | 2022-06-03 | 2022-10-13 |
 | [Sublimit](https://open.spotify.com/track/21RW0mA9UTezry0xqjnZR1) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Untilted](https://open.spotify.com/album/7bcwwfwkWvYbDW72ooywDQ) | 15:52 | 2022-06-09 | 2022-07-28 |
 | [SURRIPERE](https://open.spotify.com/track/1QgwIsEImygAEt5vWDwd7P) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Draft 7.30](https://open.spotify.com/album/08kNtBJ5LHFgxOV8PodiQw) | 11:23 | 2022-05-29 | 2022-10-11 |

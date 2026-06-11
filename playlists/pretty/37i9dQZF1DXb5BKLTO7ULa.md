@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Taylor Swift, Robert van Hemert, KI/KI, Zoë Tauran & LUNA en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,529 likes - 92 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,513 likes - 92 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 58 | [Plovdiv](https://open.spotify.com/track/1ueEWmZWwBHhERb9BMAkCZ) | [Tramhaus](https://open.spotify.com/artist/5HXrUfoDwofY8lehLNIykB) | [Plovdiv](https://open.spotify.com/album/2FxFSPcz0lOMcWkOoxlThP) | 3:19 |
 | 59 | [Guardian](https://open.spotify.com/track/7G5HqMfPuRLvoTVfBg6FPu) | [Morpheus](https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX) | [Guardian](https://open.spotify.com/album/7cd7roz7SRwSDhvS7Q3pwC) | 3:36 |
 | 60 | [Rise](https://open.spotify.com/track/4ZVlJuGucOPx6IOomX3PQo) | [Jared Grant](https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd) | [Rise](https://open.spotify.com/album/2uambBN59gICeditHiIRvc) | 3:36 |
-| 61 | [Into You](https://open.spotify.com/track/5NrMSFRVMWykeZJpFGwc1O) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [Into You](https://open.spotify.com/album/4qCpj7C3VXs0cTMHM56CAc) | 2:19 |
+| 61 | [Into You](https://open.spotify.com/track/5NrMSFRVMWykeZJpFGwc1O) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Into You](https://open.spotify.com/album/4qCpj7C3VXs0cTMHM56CAc) | 2:19 |
 | 62 | [Monster](https://open.spotify.com/track/2kPlRtOUtXPdNhdCzFtUcf) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Monster](https://open.spotify.com/album/2wDflqQaz03NAZeKiSHdJi) | 2:50 |
 | 63 | [Wat Blijft Er Over?](https://open.spotify.com/track/05yLLrsDwNhgBD99q6d7IJ) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Wat Blijft Er Over?](https://open.spotify.com/album/4pktN68uPfRqFWH0mb6ko0) | 2:45 |
 | 64 | [Takes A Million](https://open.spotify.com/track/4dJQwHuv4LqCvDqq3zazWt) | [Loïs Lane](https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt) | [Takes A Million](https://open.spotify.com/album/2B8dQZbZ4oPDO7WL1Vu7xd) | 2:56 |

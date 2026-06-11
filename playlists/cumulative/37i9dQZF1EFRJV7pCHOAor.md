@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-214 songs - 11 hr 42 min
+215 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Trampoline](https://open.spotify.com/track/13vRZOdTJs1Zu5ZrblfDsy) | [Very Nice Person](https://open.spotify.com/artist/3yzsPSJ1D0m1ugX9U2yL0P) | [Trampoline](https://open.spotify.com/album/1JyR83IWoLzfzV7LdMi5jU) | 3:17 | 2026-03-08 |  |
 | [Trampoline](https://open.spotify.com/track/7p5jd7xEbVLwtuQQBKQhck) | [Very Nice Person](https://open.spotify.com/artist/3yzsPSJ1D0m1ugX9U2yL0P) | [Trampoline](https://open.spotify.com/album/6Yc22hJMoAe01X3hzGkug5) | 3:17 | 2025-10-26 | 2026-03-09 |
 | [Tramuntana](https://open.spotify.com/track/3aZTZQ3mu6GihdOry4xqpV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 3:55 | 2025-10-03 |  |
+| [True Colors](https://open.spotify.com/track/2QmLWxA1wy1Si2uojYby1q) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [True Colors](https://open.spotify.com/album/2bxIY0usnXnh7MCdEhMCL5) | 3:39 | 2026-06-10 |  |
 | [Un Momento](https://open.spotify.com/track/6tzLIT9jFxFAORt8P24tPX) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:43 | 2025-10-03 |  |
 | [VOID](https://open.spotify.com/track/3e6ebtUCZ0tZL1J7wvM8Xi) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 4:08 | 2025-10-03 |  |
 | [Waiting on You](https://open.spotify.com/track/7204ajWyC38ZbcuCULCI3e) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:31 | 2025-10-03 |  |

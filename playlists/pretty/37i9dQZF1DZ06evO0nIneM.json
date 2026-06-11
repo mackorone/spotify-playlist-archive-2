@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 94225,
+  "num_followers": 94224,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAD7SMMDWV8rfCNLBAyL7UnZ",
+  "snapshot_id": "aidXgAAAAAB/zzryFe2HxK1wAaKLt+xh",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zo Stil",
+        "url": "https://open.spotify.com/album/18DX3wMUWFEVCVx0xDOgss"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 240030,
+      "name": "Zo Stil",
+      "url": "https://open.spotify.com/track/6W74Ymk7rKgYBWfoG4tuKk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
         "url": "https://open.spotify.com/album/5JhhV6NYORFNFjJ7Xy270v"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 232666,
       "name": "Holiday In Spain",
       "url": "https://open.spotify.com/track/5OaQpcK7S28EitZlVQbWBQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zo Stil",
-        "url": "https://open.spotify.com/album/18DX3wMUWFEVCVx0xDOgss"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 240030,
-      "name": "Zo Stil",
-      "url": "https://open.spotify.com/track/6W74Ymk7rKgYBWfoG4tuKk"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "Donker Hart",
-      "url": "https://open.spotify.com/track/7slPUKikfw8lG5s5GvUd6K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Het Midden Van Alles",
         "url": "https://open.spotify.com/album/0x77neZ9jpTsX2RAhdCNB6"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 278813,
       "name": "Open Je Ogen",
       "url": "https://open.spotify.com/track/0TT4Qc6UEJAa9JNq4g714R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Donker Hart",
+      "url": "https://open.spotify.com/track/7slPUKikfw8lG5s5GvUd6K"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Vandaag",
-      "url": "https://open.spotify.com/track/5wHiVi4aj4J0fO8c4xB99G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alles Blijft Anders",
         "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 365026,
       "name": "Was Je Maar Hier",
       "url": "https://open.spotify.com/track/1zbwO2duYX0GQbfv717iat"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Vandaag",
+      "url": "https://open.spotify.com/track/5wHiVi4aj4J0fO8c4xB99G"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 210883,
-      "name": "Midzomernacht",
-      "url": "https://open.spotify.com/track/3TFsLvUmCf0f8gAs3BCuDo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watermakers",
         "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 232840,
       "name": "Monsters Slapen Nooit",
       "url": "https://open.spotify.com/track/6baKoyKHbiSRapbEixvE8M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 210883,
+      "name": "Midzomernacht",
+      "url": "https://open.spotify.com/track/3TFsLvUmCf0f8gAs3BCuDo"
     },
     {
       "added_at": null,

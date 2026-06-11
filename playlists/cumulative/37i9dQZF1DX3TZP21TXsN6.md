@@ -4,7 +4,7 @@
 
 > Nieuw: Miero YIC, PLUGOXHUSH, Ella, IKER en meer..
 
-604 songs - 1 day 2 hr 2 min
+605 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [decided](https://open.spotify.com/track/5whkgrYDmmJu0LMAk1pxRT) | [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [Miero YIC](https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ) | [decided](https://open.spotify.com/album/0eFtyBu1DrdO00a9OFE0Or) | 2:56 | 2025-12-11 | 2026-01-23 |
 | [Degradatie](https://open.spotify.com/track/1r2NF9qGlhOE1I4CaxwpeP) | [A3](https://open.spotify.com/artist/2vqe7PjQMa8qluZUGfWUML) | [Degradatie](https://open.spotify.com/album/2BdM34Vhz4W06U2OZK7V8Z) | 2:37 | 2025-07-17 | 2025-08-15 |
 | [Deja Vu](https://open.spotify.com/track/4fttKLb5Y7RJHi18Q3rNpk) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh), [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [Luxe problemen](https://open.spotify.com/album/4cHJVRvyiUPjYvz5w7YBpr) | 2:56 | 2026-03-26 | 2026-05-15 |
+| [denk je echt?](https://open.spotify.com/track/6UlfCJtqwfWdzGTI7JHUVv) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p) | [denk je echt?](https://open.spotify.com/album/65vSGfENRYEfhKk1kZYtp5) | 2:00 | 2026-06-10 |  |
 | [Deuren](https://open.spotify.com/track/42jy2xGOTW1w8zsSf9HKMZ) | [Homey](https://open.spotify.com/artist/0rUZZcbB1j3FJFvBvQ86UG), [DORTA](https://open.spotify.com/artist/5kvKtUiKqDtdvIRVj0iWlO) | [Deuren](https://open.spotify.com/album/5t07wAr09HD0LS0nEIPthD) | 2:30 | 2025-11-06 | 2025-12-12 |
 | [Deze Dagen](https://open.spotify.com/track/4LSccc1P5EA3qmgOZSeF1n) | [Meyrr](https://open.spotify.com/artist/6Fe4cI3PZcZFzxoMSVowWG), [Ralla](https://open.spotify.com/artist/4mLMkl774zwxOVGWfCUxj6) | [Deze Dagen](https://open.spotify.com/album/0cukgTEbJHdAEnYu5vGWkw) | 2:28 | 2026-01-29 | 2026-02-20 |
 | [Diamanten Ringen](https://open.spotify.com/track/6bcnWcmd5vcRnIhlpI3Uwl) | [Matarr](https://open.spotify.com/artist/73objEnuVYK9Kr3e3f6ciZ) | [Diamanten Ringen](https://open.spotify.com/album/41WUft0L4vsw7uba9rbYpZ) | 2:52 | 2026-04-30 |  |

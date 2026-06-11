@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: YUNG SAINT PAUL",
-  "num_followers": 912116,
+  "num_followers": 912078,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2026-06-05 17:30:07",
       "album": {
-        "name": "S\u00dcDDEUTSCHER TRAUM",
-        "url": "https://open.spotify.com/album/63MTsQycsoZruPgxHV5fb8"
-      },
-      "artists": [
-        {
-          "name": "FOURTY",
-          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
-        },
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 160527,
-      "name": "DO NOT DISTURB",
-      "url": "https://open.spotify.com/track/2DwcDfz4qgWrj4DhTtSKfb"
-    },
-    {
-      "added_at": "2026-06-05 17:30:07",
-      "album": {
         "name": "Alles",
         "url": "https://open.spotify.com/album/01BTZn6JgVZ6c4DmFwJ4SQ"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 187317,
       "name": "Alles",
       "url": "https://open.spotify.com/track/7DbBL1xhWnlSwQTNup2kwg"
+    },
+    {
+      "added_at": "2026-06-05 17:30:07",
+      "album": {
+        "name": "S\u00dcDDEUTSCHER TRAUM",
+        "url": "https://open.spotify.com/album/63MTsQycsoZruPgxHV5fb8"
+      },
+      "artists": [
+        {
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 160527,
+      "name": "DO NOT DISTURB",
+      "url": "https://open.spotify.com/track/2DwcDfz4qgWrj4DhTtSKfb"
     },
     {
       "added_at": "2026-06-05 17:30:07",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-06-05 17:30:07",
       "album": {
-        "name": "Bela",
-        "url": "https://open.spotify.com/album/41rooj0woLx6z05NeHIkaj"
-      },
-      "artists": [
-        {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
-        }
-      ],
-      "duration_ms": 139803,
-      "name": "Bela",
-      "url": "https://open.spotify.com/track/6ECv01XjUdP1of2IRZXg6P"
-    },
-    {
-      "added_at": "2026-06-05 17:30:07",
-      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/1cOvy0q3RBQyHV0BGPZhE5"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 170773,
       "name": "Drama",
       "url": "https://open.spotify.com/track/2Eoa4NYwOkVOc2fgOfuvb6"
+    },
+    {
+      "added_at": "2026-06-05 17:30:07",
+      "album": {
+        "name": "Bela",
+        "url": "https://open.spotify.com/album/41rooj0woLx6z05NeHIkaj"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 139803,
+      "name": "Bela",
+      "url": "https://open.spotify.com/track/6ECv01XjUdP1of2IRZXg6P"
     },
     {
       "added_at": "2026-06-05 17:30:07",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-06-05 17:30:07",
       "album": {
-        "name": "Pretty Privilege",
-        "url": "https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5"
-      },
-      "artists": [
-        {
-          "name": "ZAH1DE",
-          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
-        }
-      ],
-      "duration_ms": 145493,
-      "name": "Pretty Privilege",
-      "url": "https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy"
-    },
-    {
-      "added_at": "2026-06-05 17:30:07",
-      "album": {
         "name": "SCARFACE",
         "url": "https://open.spotify.com/album/3abCbGF8AUx1mXTQUhX5Sz"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 155092,
       "name": "SCARFACE",
       "url": "https://open.spotify.com/track/6kS7hWT4FYJqPmyMHMBHNn"
+    },
+    {
+      "added_at": "2026-06-05 17:30:07",
+      "album": {
+        "name": "Pretty Privilege",
+        "url": "https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        }
+      ],
+      "duration_ms": 145493,
+      "name": "Pretty Privilege",
+      "url": "https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy"
     },
     {
       "added_at": "2026-06-05 17:30:07",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2026-06-05 17:30:07",
       "album": {
-        "name": "Need it",
-        "url": "https://open.spotify.com/album/0A4zjnWfSBD2qNdpQeg8AB"
-      },
-      "artists": [
-        {
-          "name": "Jamin",
-          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
-        }
-      ],
-      "duration_ms": 138129,
-      "name": "Need it",
-      "url": "https://open.spotify.com/track/0mtUP661xI3ykFLYLwUipo"
-    },
-    {
-      "added_at": "2026-06-05 17:30:07",
-      "album": {
         "name": "MAYBACH TRUCK",
         "url": "https://open.spotify.com/album/0KvJUIcBIESCeMrrDDK39N"
       },
@@ -1835,26 +1819,6 @@
       "duration_ms": 108569,
       "name": "MAYBACH TRUCK",
       "url": "https://open.spotify.com/track/3i9job2A83v6yQ0zQEkZQT"
-    },
-    {
-      "added_at": "2026-06-05 17:30:07",
-      "album": {
-        "name": "Wellness",
-        "url": "https://open.spotify.com/album/0Ox4iFL2jD12fhmAjhofL7"
-      },
-      "artists": [
-        {
-          "name": "Fergy53",
-          "url": "https://open.spotify.com/artist/3XoTY8az7uO60cs72LN1K6"
-        },
-        {
-          "name": "Lucio101",
-          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
-        }
-      ],
-      "duration_ms": 85538,
-      "name": "Wellness",
-      "url": "https://open.spotify.com/track/1Ok8O709MCp94WXyUvRjp8"
     },
     {
       "added_at": "2026-06-05 17:30:07",
@@ -1879,6 +1843,22 @@
     {
       "added_at": "2026-06-05 17:30:07",
       "album": {
+        "name": "Need it",
+        "url": "https://open.spotify.com/album/0A4zjnWfSBD2qNdpQeg8AB"
+      },
+      "artists": [
+        {
+          "name": "Jamin",
+          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
+        }
+      ],
+      "duration_ms": 138129,
+      "name": "Need it",
+      "url": "https://open.spotify.com/track/0mtUP661xI3ykFLYLwUipo"
+    },
+    {
+      "added_at": "2026-06-05 17:30:07",
+      "album": {
         "name": "Yummy",
         "url": "https://open.spotify.com/album/1Bzce6pArJYiAJJBuMVDMf"
       },
@@ -1891,6 +1871,26 @@
       "duration_ms": 153490,
       "name": "Yummy",
       "url": "https://open.spotify.com/track/0soA9FP4NzRbIwwEvo5Vy6"
+    },
+    {
+      "added_at": "2026-06-05 17:30:07",
+      "album": {
+        "name": "Wellness",
+        "url": "https://open.spotify.com/album/0Ox4iFL2jD12fhmAjhofL7"
+      },
+      "artists": [
+        {
+          "name": "Fergy53",
+          "url": "https://open.spotify.com/artist/3XoTY8az7uO60cs72LN1K6"
+        },
+        {
+          "name": "Lucio101",
+          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
+        }
+      ],
+      "duration_ms": 85538,
+      "name": "Wellness",
+      "url": "https://open.spotify.com/track/1Ok8O709MCp94WXyUvRjp8"
     }
   ],
   "unique_name": "Shisha Club",

@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "(Don`t Wait For) The Next Call - Feat Sixxkiller",
       "url": "https://open.spotify.com/track/6rORsjerzCWPwCawd8T76m"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 384370,
       "name": "84",
       "url": "https://open.spotify.com/track/0Vl5voXWCbcXVnQKqJrIty"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 298602,
       "name": "A Story About A Girl (Live in Saskatoon, SK 2025)",
       "url": "https://open.spotify.com/track/6AgGKDLLmFzwd20vrCRjfi"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 172021,
       "name": "Agartha (A.G.A.R.T.H.A.)",
       "url": "https://open.spotify.com/track/6uIm6FvY147PjdFd6zj0O3"
@@ -352,6 +352,24 @@
       "duration_ms": 315221,
       "name": "Alnilam",
       "url": "https://open.spotify.com/track/0gRpx1wqzHalsr5VG4HTYs"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/6bexGcWjRYwdoY5dqZ0uWy"
+      },
+      "artists": [
+        {
+          "name": "Tretura",
+          "url": "https://open.spotify.com/artist/7jQpxzB17A6x6MtcSgf3ji"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297731,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5IkLKsgujaFYoHSm72JJjR"
     },
     {
       "album": {
@@ -500,7 +518,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -1866,6 +1884,24 @@
       "duration_ms": 163567,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/3cesGBFlKLX0Ff0SJD53B9"
+    },
+    {
+      "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/2w2XVGjOdHxOc992mIiJh0"
+      },
+      "artists": [
+        {
+          "name": "KAT",
+          "url": "https://open.spotify.com/artist/5UQXUSiWPn8CJIhTvok8fE"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290533,
+      "name": "Czas Zemsty",
+      "url": "https://open.spotify.com/track/0AYcAOGmCmECRizzlFGHWP"
     },
     {
       "album": {
@@ -3852,7 +3888,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 241927,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/5PMnDmYTGlkg15qvKhWc6E"
@@ -4108,7 +4144,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 149538,
       "name": "Gin N Tonic",
       "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
@@ -4996,7 +5032,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 300386,
       "name": "I'm not going home",
       "url": "https://open.spotify.com/track/4C0OtEuP48EI4VLJLpGkgR"
@@ -5230,7 +5266,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -5284,7 +5320,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 230173,
       "name": "It Gets Better",
       "url": "https://open.spotify.com/track/2y9aij92KXDUNEVQ77abWj"
@@ -5880,7 +5916,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -6036,7 +6072,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 238500,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
@@ -6686,7 +6722,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 247994,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
@@ -7260,7 +7296,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -7368,7 +7404,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -7494,7 +7530,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 213653,
       "name": "NineFortyFive",
       "url": "https://open.spotify.com/track/7JqZf9dGzwk8AYg1tP4UbA"
@@ -8324,7 +8360,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 210117,
       "name": "Pay The Price",
       "url": "https://open.spotify.com/track/5pBvfqml5qtDwgd8AeiYwH"
@@ -10128,7 +10164,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -10986,7 +11022,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 136615,
       "name": "The magic juice",
       "url": "https://open.spotify.com/track/6Jx1x1y4H1wc0UxPAeJyei"
@@ -11392,6 +11428,24 @@
       "duration_ms": 199200,
       "name": "There she goes",
       "url": "https://open.spotify.com/track/3XAjYWF73gnHcScCpPm7ne"
+    },
+    {
+      "album": {
+        "name": "These City Streets",
+        "url": "https://open.spotify.com/album/2tnlxcijFM3RZP3yj2sGqE"
+      },
+      "artists": [
+        {
+          "name": "VaterSon",
+          "url": "https://open.spotify.com/artist/3NqBT0IASKLOBA3yjWh7kl"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288104,
+      "name": "These City Streets",
+      "url": "https://open.spotify.com/track/3ZocmxFRkWcx2hLp0hce18"
     },
     {
       "album": {
@@ -12212,7 +12266,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 282133,
       "name": "Verschworen (Metropolis Remaster)",
       "url": "https://open.spotify.com/track/3nmFptZo0VDSeIps4eL6SO"
@@ -12338,7 +12392,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"

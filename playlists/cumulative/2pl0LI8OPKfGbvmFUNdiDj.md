@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-499 songs - 1 day 4 hr 8 min
+500 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A New Year's Wish](https://open.spotify.com/track/5lucHdCCRBRyUI1TLtQzCm) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [A New Year's Wish](https://open.spotify.com/album/64tDh5YS9ykrr9YyfGUJb3) | 2:58 | 2025-11-17 | 2026-01-05 |
 | [Accroche toi](https://open.spotify.com/track/5eTiKImP9vTuJ1OGdiHJ0G) | [Eric Hartereau](https://open.spotify.com/artist/05AKy1V7dOPuFuzLZHRtu7) | [Accroche toi](https://open.spotify.com/album/16ppv7cPXmMdz8lB9hPKYg) | 3:47 | 2026-01-06 | 2026-02-21 |
 | [Activate](https://open.spotify.com/track/7z8LVNE8KvsW4gOGXLAqRU) | [Torppsbride](https://open.spotify.com/artist/4AajIi9uAigYLb5TuldkdU) | [Activate](https://open.spotify.com/album/61st6LFxSJ2AsSjKDOaws0) | 3:40 | 2025-12-28 | 2026-01-25 |
+| [Addressed To Me](https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Addressed To Me](https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6) | 3:47 | 2026-06-11 |  |
 | [Aeon's End](https://open.spotify.com/track/0bb27f1MO2rIB9bemoFgrY) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Aeon's End](https://open.spotify.com/album/3coizvmbxb4VaoGcUusbg3) | 4:56 | 2026-03-06 | 2026-05-26 |
 | [After After Party](https://open.spotify.com/track/14cqxwBO5l313iuxce8zsh) | [Rique Riq](https://open.spotify.com/artist/3mVXAbJ1VvEs1DpdC6tHLT) | [No Rest 'Til Sunrise](https://open.spotify.com/album/3c7ImHtPFFtTTZTM7DbaWp) | 2:44 | 2025-11-17 | 2026-01-05 |
 | [Agony](https://open.spotify.com/track/0DEQ43RK58T3EkmKP9q2KF) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Voices/Agony](https://open.spotify.com/album/2aqLQJUqJTafF3BVEjXpke) | 2:01 | 2025-12-24 | 2026-01-15 |

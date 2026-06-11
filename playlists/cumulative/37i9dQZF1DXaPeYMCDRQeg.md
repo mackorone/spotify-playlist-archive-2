@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-506 songs - 1 day 7 hr 2 min
+507 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Cheers 2 U](https://open.spotify.com/track/3LbKnvAXxKptTqoUYkMmQP) | [Playa](https://open.spotify.com/artist/3bIAUCN08OjlkGrqRjJDji) | [Cheers 2 U](https://open.spotify.com/album/5GgQYeVZxYNcFW2eQPJMlZ) | 5:11 | 2024-12-20 |  |
 | [Cheetah Print \(feat\. Sexyy Red\)](https://open.spotify.com/track/1AFW3QBDjBmb4EL9gyiYhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 3:22 | 2026-05-22 |  |
 | [Cherish the Day](https://open.spotify.com/track/38QnxZJMktnt96bxalqgEl) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 6:18 | 2022-03-14 | 2023-02-11 |
+| [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 | 2026-06-10 |  |
 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 | 2021-12-15 | 2023-02-11 |
 | [Classic](https://open.spotify.com/track/3hZbi8AG14hRw5Skg7V8pl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [HABIBTI](https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno) | 2:59 | 2026-05-22 |  |
 | [Closer](https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7) | [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [Even Closer](https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw) | 3:49 | 2024-01-31 |  |

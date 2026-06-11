@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,679 likes - 278 songs - 13 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,680 likes - 278 songs - 13 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 51 | [Before I Let Go](https://open.spotify.com/track/6e9xnBJPs0y9omrSU3C3N4) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Great R&B](https://open.spotify.com/album/0ToSKqQnHTBeIVybrONR8V) | 3:56 |
 | 52 | [Shotta Flow 7](https://open.spotify.com/track/4O6klCRi5E7s5X0jA9u7VR) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow Series](https://open.spotify.com/album/6R8l6AT10mY3uuRugnQaLi) | 2:45 |
 | 53 | [Exotic](https://open.spotify.com/track/1zIb1bYJAo1UdR2Xf4oESb) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Starlito](https://open.spotify.com/artist/4SjND9kT6Ja5TSPZTyUUab) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:42 |
-| 54 | [Same Thing](https://open.spotify.com/track/2XEsbmynS9dLSzNSuZzfXF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:42 |
-| 55 | [From Now On \(feat\. Future\)](https://open.spotify.com/track/2wdgjxZPgtrPd8OUqMSuYh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:59 |
+| 54 | [From Now On \(feat\. Future\)](https://open.spotify.com/track/2wdgjxZPgtrPd8OUqMSuYh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:59 |
+| 55 | [Same Thing](https://open.spotify.com/track/2XEsbmynS9dLSzNSuZzfXF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:42 |
 | 56 | [Pound Town \(and Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(and Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 |
 | 57 | [c!ao \(feat\. Rondodasosa\)](https://open.spotify.com/track/63HrhoJeSnrEYjPMDQHCOv) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 3:32 |
 | 58 | [BUSSIN \(with Rob49\)](https://open.spotify.com/track/01KJrCWiFFdOkthB0rLFpq) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:44 |
@@ -251,8 +251,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 241 | [Teamo](https://open.spotify.com/track/0uzsFjCDC7T0E5F4hDcoGf) | [FTO Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Life of a SlimeCrook](https://open.spotify.com/album/3dYWvEeuKRCht48uU9DQjD) | 2:44 |
 | 242 | [Kidnapped](https://open.spotify.com/track/2ZmCMb8yfAjPIrgK74OnNm) | [Boston George](https://open.spotify.com/artist/7gten3sDCiuil5aBzq9Rej), [Diego](https://open.spotify.com/artist/6JMZQemAU6yRUWVc9e3gHo) | [Boston George & Diego](https://open.spotify.com/album/1bApVxEdfGoql7ExpWtdJW) | 3:28 |
 | 243 | [Jumpin Out The Jet](https://open.spotify.com/track/7pOxDOwGGn3iur0FKxUc9D) | [Ocho Sneak](https://open.spotify.com/artist/715AbbSRVWZCS89rW7JsS3), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Jumpin Out The Jet](https://open.spotify.com/album/03H4LFDv4OmKyuxqgRUoNu) | 3:00 |
-| 244 | [Brainstorm](https://open.spotify.com/track/1lANFRhSqsojJvmPNPyr1M) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:00 |
-| 245 | [Made It](https://open.spotify.com/track/31D1l1t2KsbSHBckUaTVSA) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Too Mobb](https://open.spotify.com/album/677OFWSuKf001ps33SImSW) | 3:25 |
+| 244 | [Made It](https://open.spotify.com/track/31D1l1t2KsbSHBckUaTVSA) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Too Mobb](https://open.spotify.com/album/677OFWSuKf001ps33SImSW) | 3:25 |
+| 245 | [Brainstorm](https://open.spotify.com/track/1lANFRhSqsojJvmPNPyr1M) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:00 |
 | 246 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 2:25 |
 | 247 | [About Us](https://open.spotify.com/track/1PqkIRQVDy7D0APmhieM0u) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:36 |
 | 248 | [Survive](https://open.spotify.com/track/4KJhY5MqIKg6Tqg9emw09d) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 1:57 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 277 | [Drill Back](https://open.spotify.com/track/3nHfvTt8iRbwnbIySfcfs9) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:12 |
 | 278 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 
-Snapshot ID: `AcTypgAAAACYqnZ74p36FDkHILWFG1rz`
+Snapshot ID: `AcT4bgAAAABA/vKGALDEyHmA53jw75F3`

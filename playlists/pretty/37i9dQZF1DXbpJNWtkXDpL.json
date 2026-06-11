@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 92483,
+  "num_followers": 92486,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,18 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
-        "name": "Me acuerdo",
-        "url": "https://open.spotify.com/album/4YAcD058WkYrsW9SI1xqxS"
+        "name": "dormir\u00e9 sin ti",
+        "url": "https://open.spotify.com/album/4wBC6f7WBr0YfVkUvJFqxz"
       },
       "artists": [
         {
-          "name": "Synthxsis",
-          "url": "https://open.spotify.com/artist/0bz4yo7STKjcaQ3qf8MQPB"
-        },
-        {
-          "name": "Arox",
-          "url": "https://open.spotify.com/artist/10RZK1JWHbfs5KXLlsl7Rn"
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
         }
       ],
-      "duration_ms": 227754,
-      "name": "Me acuerdo",
-      "url": "https://open.spotify.com/track/62W6Q8f8xdxRQQAjdCh0yZ"
+      "duration_ms": 197600,
+      "name": "dormir\u00e9 sin ti",
+      "url": "https://open.spotify.com/track/2FUnmux4XXAzdEf8ks1IhU"
     },
     {
       "added_at": "2026-05-29 06:00:07",
@@ -203,18 +199,22 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
-        "name": "dormir\u00e9 sin ti",
-        "url": "https://open.spotify.com/album/4wBC6f7WBr0YfVkUvJFqxz"
+        "name": "Me acuerdo",
+        "url": "https://open.spotify.com/album/4YAcD058WkYrsW9SI1xqxS"
       },
       "artists": [
         {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+          "name": "Synthxsis",
+          "url": "https://open.spotify.com/artist/0bz4yo7STKjcaQ3qf8MQPB"
+        },
+        {
+          "name": "Arox",
+          "url": "https://open.spotify.com/artist/10RZK1JWHbfs5KXLlsl7Rn"
         }
       ],
-      "duration_ms": 197600,
-      "name": "dormir\u00e9 sin ti",
-      "url": "https://open.spotify.com/track/2FUnmux4XXAzdEf8ks1IhU"
+      "duration_ms": 227754,
+      "name": "Me acuerdo",
+      "url": "https://open.spotify.com/track/62W6Q8f8xdxRQQAjdCh0yZ"
     },
     {
       "added_at": "2026-05-29 06:00:07",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
+        "name": "Obvio No",
+        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Obvio No",
+      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
+    },
+    {
+      "added_at": "2026-05-29 06:00:07",
+      "album": {
         "name": "PVT0 VACIO",
         "url": "https://open.spotify.com/album/3fHRGNZdgIImWaAv07A8Br"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 231129,
       "name": "PVT0 VACIO",
       "url": "https://open.spotify.com/track/0YbULd63UGmfwLX0SjJMnY"
-    },
-    {
-      "added_at": "2026-05-29 06:00:07",
-      "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-05-29 06:00:07",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
+        "name": "Victoria Miller",
+        "url": "https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt"
+      },
+      "artists": [
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Victoria Miller",
+      "url": "https://open.spotify.com/track/1A4pMPkvusJScnQ9HsqAv0"
+    },
+    {
+      "added_at": "2026-05-29 06:00:07",
+      "album": {
         "name": "CAMINO",
         "url": "https://open.spotify.com/album/0vUAfMyeqlXI2vHy22oKSw"
       },
@@ -555,18 +571,22 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
-        "name": "Victoria Miller",
-        "url": "https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt"
+        "name": "DRAMATIKA!",
+        "url": "https://open.spotify.com/album/5ZqzFxBPoYxPu2W9Bdvpvg"
       },
       "artists": [
         {
-          "name": "Valdo Rodriguez",
-          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        },
+        {
+          "name": "Lucca",
+          "url": "https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Victoria Miller",
-      "url": "https://open.spotify.com/track/1A4pMPkvusJScnQ9HsqAv0"
+      "duration_ms": 107437,
+      "name": "DRAMATIKA!",
+      "url": "https://open.spotify.com/track/4snjC5yjWPQlodLW6iN2o9"
     },
     {
       "added_at": "2026-05-29 06:00:07",
@@ -587,26 +607,6 @@
       "duration_ms": 203276,
       "name": "Uno Pal Otro",
       "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
-    },
-    {
-      "added_at": "2026-05-29 06:00:07",
-      "album": {
-        "name": "DRAMATIKA!",
-        "url": "https://open.spotify.com/album/5ZqzFxBPoYxPu2W9Bdvpvg"
-      },
-      "artists": [
-        {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
-        },
-        {
-          "name": "Lucca",
-          "url": "https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs"
-        }
-      ],
-      "duration_ms": 107437,
-      "name": "DRAMATIKA!",
-      "url": "https://open.spotify.com/track/4snjC5yjWPQlodLW6iN2o9"
     },
     {
       "added_at": "2026-05-29 06:00:07",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
-        "name": "HIPERSENTIMENTAL",
-        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "HIPERSENTIMENTAL",
-      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
-    },
-    {
-      "added_at": "2026-05-29 06:00:07",
-      "album": {
         "name": "Ping\u00fcinos",
         "url": "https://open.spotify.com/album/3V79Llwk7Lb9EUbsYd3wiG"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 196629,
       "name": "Ping\u00fcinos",
       "url": "https://open.spotify.com/track/6vmzWzScqJ70yumSCoNa3y"
+    },
+    {
+      "added_at": "2026-05-29 06:00:07",
+      "album": {
+        "name": "HIPERSENTIMENTAL",
+        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "HIPERSENTIMENTAL",
+      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
     },
     {
       "added_at": "2026-05-29 06:00:07",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
-        "name": "Cuenta mis pasos",
-        "url": "https://open.spotify.com/album/6OKxHgWUqC6BBwb8w8LHVg"
-      },
-      "artists": [
-        {
-          "name": "The Space Ocean",
-          "url": "https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb"
-        }
-      ],
-      "duration_ms": 217473,
-      "name": "Cuenta mis pasos",
-      "url": "https://open.spotify.com/track/7HrVWuwDDCbOk5tTryM3tE"
-    },
-    {
-      "added_at": "2026-05-29 06:00:07",
-      "album": {
         "name": "Bexos",
         "url": "https://open.spotify.com/album/2g91cAXqHmVJyEb3pO9rod"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 160661,
       "name": "Bexos",
       "url": "https://open.spotify.com/track/2mMDB5gmG6lNtxe1LDhmMO"
+    },
+    {
+      "added_at": "2026-05-29 06:00:07",
+      "album": {
+        "name": "Cuenta mis pasos",
+        "url": "https://open.spotify.com/album/6OKxHgWUqC6BBwb8w8LHVg"
+      },
+      "artists": [
+        {
+          "name": "The Space Ocean",
+          "url": "https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb"
+        }
+      ],
+      "duration_ms": 217473,
+      "name": "Cuenta mis pasos",
+      "url": "https://open.spotify.com/track/7HrVWuwDDCbOk5tTryM3tE"
     },
     {
       "added_at": "2026-05-29 06:00:07",

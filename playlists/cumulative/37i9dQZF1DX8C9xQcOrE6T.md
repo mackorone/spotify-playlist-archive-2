@@ -2,7 +2,7 @@
 
 ### [Disney Hits](https://open.spotify.com/playlist/37i9dQZF1DX8C9xQcOrE6T)
 
-> All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Lilo & Stitch.
+> All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Toy Story.
 
 266 songs - 13 hr 32 min
 

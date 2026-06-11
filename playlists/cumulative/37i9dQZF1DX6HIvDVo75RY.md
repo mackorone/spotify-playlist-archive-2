@@ -2,7 +2,7 @@
 
 ### [Spotify House at CMA Fest 2026](https://open.spotify.com/playlist/37i9dQZF1DX6HIvDVo75RY)
 
-> Spotify House at Ole Red on Broadway is BACK for 2026! We've curated three incredible days of live music \- see you June 4\-6 in Nashville!
+> Thanks to everyone who came out and enjoyed Spotify House at Ole Red during CMA Fest with us!
 
 488 songs - 1 day 2 hr 30 min
 

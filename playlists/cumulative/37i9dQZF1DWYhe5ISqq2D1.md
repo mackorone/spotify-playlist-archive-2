@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover: Lavt
 
-1,458 songs - 3 day 19 hr 51 min
+1,459 songs - 3 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [aiko ga tuduita mitaina](https://open.spotify.com/track/4Xp8BPH0XH1kvaRj0FCKLi) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [After All, All Mine](https://open.spotify.com/album/0KweSlxA28L6NhNqwRV5iO) | 3:02 | 2025-02-18 | 2025-02-26 |
 | [Aimayu](https://open.spotify.com/track/2iB24OTJfF6Gx1wjkJxX0n) | [Xiwum.](https://open.spotify.com/artist/4vgoKIbrBmS4kOXu6gd1aC) | [Aimayu](https://open.spotify.com/album/6GRTfTrsmQsaLaHBDENzid) | 3:18 | 2025-12-09 | 2025-12-17 |
 | [aishiteru](https://open.spotify.com/track/79iFhIEFTqS5YykBPUMcon) | [宇雪](https://open.spotify.com/artist/1XxIFOqghfXfAuvXiYPHEE) | [aishiteru](https://open.spotify.com/album/2KqF4NM13iQ5UaIFP3loUR) | 3:16 | 2025-06-11 | 2025-06-18 |
+| [AKANE On My Mind～饅頭こわい](https://open.spotify.com/track/5um4gHKgOovWuzsQJsErXn) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [AKANE On My Mind～饅頭こわい](https://open.spotify.com/album/2LXc1xtHy5x6eE3vXCou9B) | 4:18 | 2026-06-10 |  |
 | [Akimeki](https://open.spotify.com/track/0hbAvN27256Zd2wecZZba9) | [YAMORI](https://open.spotify.com/artist/2codmpRc4fctFpQQaEYUe7) | [Akimeki](https://open.spotify.com/album/4JdjJvwztEpiIiDKurLyh2) | 4:41 | 2024-11-13 | 2024-11-20 |
 | [Alien Love](https://open.spotify.com/track/0wOW4nIzqpAnZqyq9ROL9k) | [Kawabe Moto](https://open.spotify.com/artist/0BcWtTLPn8svqCdk4FnetR) | [Alien Love](https://open.spotify.com/album/4We6y661tiJBBa82U6AE6e) | 5:46 | 2026-05-05 | 2026-05-13 |
 | [Alive](https://open.spotify.com/track/2uoJ1GfCQHmwqmKNAYSauH) | [Soala](https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer) | [Alive](https://open.spotify.com/album/6EDT74EiZ5pKdiTuGpeD0O) | 3:31 | 2025-12-16 | 2026-02-12 |
@@ -631,7 +632,7 @@
 | [Twilight at Momochihama](https://open.spotify.com/track/6AWHTp4WcgABW90vCFryra) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [Twilight at Momochihama](https://open.spotify.com/album/6MgkdLi71hRDy3DF4XDlv3) | 2:59 | 2026-03-24 | 2026-04-01 |
 | [two drifters](https://open.spotify.com/track/3eJhGpKn8aLCPOZ2uPiWps) | [Skirt](https://open.spotify.com/artist/08mohCeV7TXJ7EASM6u6Cc) | [two drifters](https://open.spotify.com/album/2RGDUzS8MmT062IVgRELBa) | 3:53 | 2025-03-25 | 2025-04-02 |
 | [Two Of Us](https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Two Of Us](https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS) | 3:44 | 2025-10-14 | 2026-02-12 |
-| [Uh la la](https://open.spotify.com/track/3JwAXvxvN0Bzo8ftYsfYDY) | [lili maua](https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM) | [Uh la la](https://open.spotify.com/album/5odM7PUAtFhuBdH4Y8sfb3) | 2:40 | 2026-05-26 |  |
+| [Uh la la](https://open.spotify.com/track/3JwAXvxvN0Bzo8ftYsfYDY) | [lili maua](https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM) | [Uh la la](https://open.spotify.com/album/5odM7PUAtFhuBdH4Y8sfb3) | 2:40 | 2026-05-26 | 2026-06-11 |
 | [UMIO AND RURIA feat\. Haruomi Hosono](https://open.spotify.com/track/23xHvtqEIsiTbXsjOK6bGI) | [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [UMIO AND RURIA feat\. Haruomi Hosono](https://open.spotify.com/album/6LGcMW5XYPa6xEy2y1STup) | 2:36 | 2026-05-05 | 2026-05-13 |
 | [Underneath the Lights](https://open.spotify.com/track/2NOeS29mW1tNJ9oEuw0njn) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Underneath the Lights](https://open.spotify.com/album/1Ooh0rrEUtMuFq0bNTpJf5) | 3:56 | 2025-12-02 | 2025-12-29 |
 | [Uptown](https://open.spotify.com/track/4735slvOtCEHTg6gHdr2wV) | [KENT VALLEY](https://open.spotify.com/artist/16TsqZdOE4NBhgUe0d3up7) | [Uptown](https://open.spotify.com/album/6Iy04aO7N3s80TK70b2LmQ) | 4:46 | 2024-11-05 | 2024-11-13 |

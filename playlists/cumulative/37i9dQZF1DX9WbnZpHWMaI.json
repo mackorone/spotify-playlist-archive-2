@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 166000,
       "name": "Blasting Through the Speakers",
       "url": "https://open.spotify.com/track/72YcfDh7YXItRSoCpBWp86"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 195184,
       "name": "Clouded",
       "url": "https://open.spotify.com/track/5H6q2mrgtsDtw4yD1NU97T"
@@ -6332,6 +6332,24 @@
       "duration_ms": 185987,
       "name": "Her",
       "url": "https://open.spotify.com/track/16Vvd690cYoxmMvqaiTBwz"
+    },
+    {
+      "album": {
+        "name": "Shelter Our Time",
+        "url": "https://open.spotify.com/album/3Vgo7btukFs2mh6VO5faf6"
+      },
+      "artists": [
+        {
+          "name": "GiGi FM",
+          "url": "https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234352,
+      "name": "Here and Now",
+      "url": "https://open.spotify.com/track/0luvadXP7x1Sw9a3ocLALE"
     },
     {
       "album": {
@@ -11704,6 +11722,24 @@
       "duration_ms": 170629,
       "name": "Right Spot",
       "url": "https://open.spotify.com/track/2pgCADpQ8xzPTRt2YwmJue"
+    },
+    {
+      "album": {
+        "name": "Riot",
+        "url": "https://open.spotify.com/album/3zqvht3mWwHSc0sSY0JFpb"
+      },
+      "artists": [
+        {
+          "name": "Ellen Allien",
+          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159507,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/5SP8e2d99MyqtVx9wPHgnR"
     },
     {
       "album": {

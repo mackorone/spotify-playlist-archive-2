@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 77050,
+  "num_followers": 77056,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAADOkvxr/k73qiabk00x7Npl",
+  "snapshot_id": "aidXgAAAAACkCNUsJ7yd+QeU/ATP7kv4",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "Actin A Smoochie",
-      "url": "https://open.spotify.com/track/614PNsaI816SVsGQm4omXJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bully Freestyle",
         "url": "https://open.spotify.com/album/5EH7LpOYTjBhBrgxI18Lh2"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 124200,
       "name": "Bully Freestyle",
       "url": "https://open.spotify.com/track/039QTTXxpxtQxgsa6XcqRb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like..?",
+        "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Actin A Smoochie",
+      "url": "https://open.spotify.com/track/614PNsaI816SVsGQm4omXJ"
     },
     {
       "added_at": null,

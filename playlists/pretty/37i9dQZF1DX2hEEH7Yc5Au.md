@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 9m88
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,513 likes - 45 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,514 likes - 45 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 44 | [可不可以別讓風吹亂我的心](https://open.spotify.com/track/58i1Q8JLnYDRKVvMbXzdAY) | [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur), [香蘭 LAN](https://open.spotify.com/artist/4LTa8nPXk7C8zPSHUhXOCe) | [9OF9 ARCANA](https://open.spotify.com/album/6iqbRneVOIIJGbwHfUC9rS) | 4:00 |
 | 45 | [沒有你以後](https://open.spotify.com/track/7uroux8G4nwOYMJFUkZ1Mw) | [Miusa妙莎](https://open.spotify.com/artist/1itLcngrdYzeL6JRpEviDL) | [沒有你以後](https://open.spotify.com/album/4w4rXBqEo9WrOCc7n6AAmP) | 4:18 |
 
-Snapshot ID: `AAAAAPmfjKYTpvCKDi2VWMkqmgDhtsvt`
+Snapshot ID: `AAAAAHYr3Pf5k7rFk2uRR88NFynZJO9e`

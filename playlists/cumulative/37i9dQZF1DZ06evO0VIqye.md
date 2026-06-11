@@ -4,7 +4,7 @@
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 39 min
+105 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Crimson and Clover](https://open.spotify.com/track/4do0Z0rHdFUV3RSMxMQsdq) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 3:17 | 2025-03-08 | 2026-04-20 |
 | [Different](https://open.spotify.com/track/7z9pbrqVIennjBW8BfqYY2) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Unvarnished \(Expanded Edition\)](https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL) | 3:36 | 2025-05-07 | 2026-04-20 |
 | [Dirty Deeds](https://open.spotify.com/track/5EmjBlrR2TzVzyveICMllj) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM) | 3:17 | 2025-03-08 |  |
-| [Do You Wanna Touch Me \(Oh Yeah\)](https://open.spotify.com/track/1ux51KBPpzNVkraqeiXwGo) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr) | 3:43 | 2026-04-20 |  |
+| [Do You Wanna Touch Me \(Oh Yeah\)](https://open.spotify.com/track/1ux51KBPpzNVkraqeiXwGo) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr) | 3:43 | 2026-04-20 | 2026-06-11 |
+| [Do You Wanna Touch Me \(Oh Yeah\)](https://open.spotify.com/track/1DDU4sjDx9ouus7tk8S46c) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB) | 3:46 | 2026-06-11 |  |
 | [Do You Wanna Touch Me \(Oh Yeah\)](https://open.spotify.com/track/6Xprc4GuCejWA3BjU5knyw) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:46 | 2025-03-08 | 2026-04-20 |
 | [Everyday People](https://open.spotify.com/track/2XsBSbENuPJNqp50W3iy48) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Album \(Expanded Edition\)](https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G) | 2:39 | 2025-03-08 | 2026-04-19 |
 | [Everyday People](https://open.spotify.com/track/3tafV5ntIMSZRYIWkFFiR2) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Album \(Expanded Edition\)](https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas) | 2:39 | 2026-04-19 |  |
@@ -80,7 +81,7 @@
 | [Real Wild Child](https://open.spotify.com/track/5bjjrtqrwNXi7mqigEnBr9) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Flashback](https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL) | 1:35 | 2026-04-21 |  |
 | [Rebel, Rebel](https://open.spotify.com/track/7M73Fj5VKCn37at0myvTCn) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Music from the Original Motion Picture\)](https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja) | 4:10 | 2025-03-08 | 2026-04-19 |
 | [Rebel, Rebel](https://open.spotify.com/track/0aMC6R5oEtQuhbxJuUQtSq) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Flashback](https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL) | 4:10 | 2026-04-19 |  |
-| [Ridin' With James Dean](https://open.spotify.com/track/4yfTyI6lNFNmi4IhI4hgpZ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa) | 3:17 | 2026-05-23 |  |
+| [Ridin' With James Dean](https://open.spotify.com/track/4yfTyI6lNFNmi4IhI4hgpZ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa) | 3:17 | 2026-05-23 | 2026-06-11 |
 | [Ridin' With James Dean](https://open.spotify.com/track/5C9C1h2gF9bpVLUXAqWG7W) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 3:17 | 2025-03-08 | 2026-05-23 |
 | [Roadrunner](https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 3:33 | 2025-03-08 |  |
 | [Roadrunner USA \(1990 Version\)](https://open.spotify.com/track/0brwJjW5cYLuxXaBOMY1Za) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM) | 3:34 | 2026-04-05 | 2026-04-14 |
@@ -103,6 +104,7 @@
 | [Victim of Circumstance](https://open.spotify.com/track/1VGP4asQMmeyd1PHVFN54d) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:54 | 2025-03-08 | 2026-04-21 |
 | [Victim of Circumstance](https://open.spotify.com/track/1xLQkXYNUY4sequtLRmGYD) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/1MYPH5YMxk1auN13mcfLvh) | 2:54 | 2026-04-21 |  |
 | [Wildside \- feat\. Joan Jett](https://open.spotify.com/track/1zaXFoTfjdNpZyMHnlWGSj) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Dream Into It](https://open.spotify.com/album/4Trti87I17wUxMIymbKcZG) | 3:36 | 2025-04-27 |  |
+| [Wooly Bully](https://open.spotify.com/track/0FDzI3JpnrDxYyaxJU6AwN) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB) | 2:20 | 2026-06-11 |  |
 | [Wooly Bully](https://open.spotify.com/track/4Hx70nlFBSkxkI8lwYRYxC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:20 | 2025-03-08 | 2026-05-03 |
 | [You Don't Know What You've Got](https://open.spotify.com/track/42SrdgnUq7wXgQdllzgm4X) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr) | 3:42 | 2026-04-20 |  |
 | [You Don't Know What You've Got](https://open.spotify.com/track/3zGNujVVkUT07mGLgoT5an) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:43 | 2025-03-08 | 2026-04-19 |

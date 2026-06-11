@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Santana, Becky G
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 52,253 likes - 128 songs - 6 hr 49 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 52,241 likes - 128 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

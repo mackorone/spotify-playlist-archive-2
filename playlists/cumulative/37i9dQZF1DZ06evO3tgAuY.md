@@ -4,7 +4,7 @@
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-92 songs - 4 hr 9 min
+93 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bsod3](https://open.spotify.com/track/1rgHdprGGmImOaPwwfGQXD) | [GHT Official](https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Bsod3](https://open.spotify.com/album/7iYg0CAEK4TRhUjIblmrHx) | 3:14 | 2024-08-25 |  |
 | [Canchame](https://open.spotify.com/track/20RQ9mAluOQ3SLHK3MgLX8) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Canchame](https://open.spotify.com/album/3DEQ1q5V010o1E8zoCSVvr) | 3:30 | 2024-08-08 | 2025-08-23 |
 | [Chavalo Serio \- En Vivo](https://open.spotify.com/track/3xqtqir31h4pU9InbaIYS8) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 2:07 | 2024-08-08 | 2024-11-05 |
+| [Copa](https://open.spotify.com/track/4HSQu9jV9WrADVgo9wW1Kk) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe), [Tu Musica](https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa) | [Copa](https://open.spotify.com/album/3Hygvhaxw3UB4kRknoCDRe) | 3:20 | 2026-06-11 |  |
 | [Culichi Vibes](https://open.spotify.com/track/3jZ9JwUMPDvcbk3APnk7c9) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Culichi Vibes](https://open.spotify.com/album/4Qb6M1XyHrgR4zwlyPs4bS) | 3:09 | 2024-10-11 |  |
 | [Dejate Llevar](https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Abelardo Nevarez](https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr) | [Dejate Llevar](https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe) | 2:40 | 2024-08-08 | 2026-04-17 |
 | [DESDE MIS OJOS](https://open.spotify.com/track/1d4ZXTWSIN8VgVNjbL1Xfr) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Bastian](https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD) | [DESDE MIS OJOS](https://open.spotify.com/album/5KBbLAlIiPxbIJ0DD6fVh4) | 2:07 | 2025-10-12 |  |
@@ -85,7 +86,7 @@
 | [RZR Rojo](https://open.spotify.com/track/4O5wR64RB2ZjyekGRalbMj) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [RZR Rojo](https://open.spotify.com/album/3ooQzMHUnEgvmhcdwQlr6I) | 1:52 | 2024-08-08 |  |
 | [RZR Rojo \- En Vivo](https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 1:50 | 2024-08-08 | 2025-12-22 |
 | [Será](https://open.spotify.com/track/1GdveMmBNitc3qL041jx2c) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Doña Soledad](https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W) | 2:43 | 2025-01-25 |  |
-| [SI MUERO MAÑANA](https://open.spotify.com/track/1yK2XEuvQ161TQB5SEixCC) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 2:33 | 2025-11-27 |  |
+| [SI MUERO MAÑANA](https://open.spotify.com/track/1yK2XEuvQ161TQB5SEixCC) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 2:33 | 2025-11-27 | 2026-06-11 |
 | [SI MUERO MAÑANA](https://open.spotify.com/track/7mtmncbC1w0bS4tXTJ3zG7) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [SI MUERO MAÑANA](https://open.spotify.com/album/13LEgMWI5Y6w4nHIpDcdfw) | 2:33 | 2025-11-22 | 2025-11-27 |
 | [Sin Faramaya](https://open.spotify.com/track/5HwVM6aaOp7uJvFIrtgYt7) | [Ely Rosario](https://open.spotify.com/artist/4q8CrAeEOvqwXcwkOtUVZn), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Sin Faramaya](https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY) | 2:24 | 2024-08-08 |  |
 | [This Is The End \- En Vivo](https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Rubio](https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy) | [This Is The End \(En Vivo\)](https://open.spotify.com/album/2Gv0dgR654JYphwcViwYwU) | 3:16 | 2024-08-08 | 2025-04-28 |

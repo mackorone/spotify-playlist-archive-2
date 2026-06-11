@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > We highly recommend Los Angeles DJ A/S/L 🔥🐀 metropolis is your home for the best indie dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,257 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,206 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

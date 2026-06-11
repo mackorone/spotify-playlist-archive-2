@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1443565,
+  "num_followers": 1443705,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAABwo+odi0DqUAVDobhhmADD",
+  "snapshot_id": "aidXgAAAAAAu4K2o61aFf1hVDZlaZZc0",
   "tracks": [
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 196266,
-      "name": "Midwest Indigo",
-      "url": "https://open.spotify.com/track/7GVQS66ukm48XZVymA3ZUg"
+      "duration_ms": 229120,
+      "name": "My Blood",
+      "url": "https://open.spotify.com/track/5HeKOKc4phmLn8e4I7EkzD"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 229120,
-      "name": "My Blood",
-      "url": "https://open.spotify.com/track/5HeKOKc4phmLn8e4I7EkzD"
+      "duration_ms": 196266,
+      "name": "Midwest Indigo",
+      "url": "https://open.spotify.com/track/7GVQS66ukm48XZVymA3ZUg"
     },
     {
       "added_at": null,

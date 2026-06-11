@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 93635,
+  "num_followers": 93637,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAADuRLrtLE8Qoy3hB9uvUUh4",
+  "snapshot_id": "aidXgAAAAAD7RfnWCgIJW7eg9ABKWQwy",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 54600,
-      "name": "Monosyllabic Girl",
-      "url": "https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coaster",
         "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 127853,
       "name": "We Called It America",
       "url": "https://open.spotify.com/track/01ao83UjxvRIQazIxruwmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 54600,
+      "name": "Monosyllabic Girl",
+      "url": "https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 141200,
-      "name": "Lori Meyers",
-      "url": "https://open.spotify.com/track/1BqrOpxmeKJG5uzewLFpv2"
+      "duration_ms": 78271,
+      "name": "The Quass",
+      "url": "https://open.spotify.com/track/56Cpy3VcGAzjxDqtdB3adO"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 78271,
-      "name": "The Quass",
-      "url": "https://open.spotify.com/track/56Cpy3VcGAzjxDqtdB3adO"
+      "duration_ms": 141200,
+      "name": "Lori Meyers",
+      "url": "https://open.spotify.com/track/1BqrOpxmeKJG5uzewLFpv2"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ribbed",
-        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 104466,
-      "name": "Green Corn",
-      "url": "https://open.spotify.com/track/7a8JLhUwa7IWKEKsyJjk9X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What Are We Doing This For (feat. Codefendants)",
         "url": "https://open.spotify.com/album/2p1N83Rk1luMeQ2Ml99u6y"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 100935,
       "name": "What Are We Doing This For (feat. Codefendants)",
       "url": "https://open.spotify.com/track/3gqq3eT4HQX7nIxCf2qFTa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ribbed",
+        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 104466,
+      "name": "Green Corn",
+      "url": "https://open.spotify.com/track/7a8JLhUwa7IWKEKsyJjk9X"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ribbed",
-        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 146933,
-      "name": "The Moron Brothers",
-      "url": "https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
         "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 164226,
       "name": "We Threw Gasoline.......",
       "url": "https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ribbed",
+        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 146933,
+      "name": "The Moron Brothers",
+      "url": "https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI"
     },
     {
       "added_at": null,

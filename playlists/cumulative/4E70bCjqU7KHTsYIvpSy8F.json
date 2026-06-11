@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Pokedance",
+        "url": "https://open.spotify.com/album/6juwrPAxZ0xFi1qVoueJBd"
+      },
+      "artists": [
+        {
+          "name": "Anya Forger",
+          "url": "https://open.spotify.com/artist/5FYzLgVpScfNAOgOcmRWL2"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75483,
+      "name": "Pokedance",
+      "url": "https://open.spotify.com/track/4OCrTRAYKTOUIeuCy4fuXJ"
+    },
+    {
+      "album": {
         "name": "Taste of Life II",
         "url": "https://open.spotify.com/album/5nwzhW58OFOWwQiCYIffJc"
       },

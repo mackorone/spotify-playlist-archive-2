@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: IDK",
-  "num_followers": 23229,
+  "num_followers": 23233,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -687,26 +687,6 @@
     {
       "added_at": "2026-05-28 21:00:25",
       "album": {
-        "name": "PLAYBOY CITY",
-        "url": "https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        },
-        {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
-        }
-      ],
-      "duration_ms": 123191,
-      "name": "A.D.S.",
-      "url": "https://open.spotify.com/track/4mbf5d3c5YsqEEnJQlVrzV"
-    },
-    {
-      "added_at": "2026-05-28 21:00:25",
-      "album": {
         "name": "Birkin Baby",
         "url": "https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 194118,
       "name": "Birkin Baby",
       "url": "https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc"
+    },
+    {
+      "added_at": "2026-05-28 21:00:25",
+      "album": {
+        "name": "PLAYBOY CITY",
+        "url": "https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "duration_ms": 123191,
+      "name": "A.D.S.",
+      "url": "https://open.spotify.com/track/4mbf5d3c5YsqEEnJQlVrzV"
     },
     {
       "added_at": "2026-05-28 21:00:25",

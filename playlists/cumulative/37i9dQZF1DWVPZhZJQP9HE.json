@@ -16345,6 +16345,24 @@
     },
     {
       "album": {
+        "name": "VALAYAL GOLUSU",
+        "url": "https://open.spotify.com/album/0bA1037iLb0YxXi4Ql1EwI"
+      },
+      "artists": [
+        {
+          "name": "Junior Nithya",
+          "url": "https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "VALAYAL GOLUSU",
+      "url": "https://open.spotify.com/track/6zbhIEf4Vi0j6enoeM47KZ"
+    },
+    {
+      "album": {
         "name": "Valimai Kooduthey",
         "url": "https://open.spotify.com/album/0pMNdeffLwJaVnaPMnStz0"
       },

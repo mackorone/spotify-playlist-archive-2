@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Grab a drink and relax to the Jazz played in the background at the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,666 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,742 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 19 | [I Waited For You](https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Volume 2](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 3:29 |
 | 20 | [Don't You Know I Care](https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [I Just Dropped By To Say Hello](https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F) | 4:10 |
 | 21 | [Show Me The Way To Go Home](https://open.spotify.com/track/6BDZ7gY8WT9BaVQAljmuWM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Easy Does It](https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR) | 2:44 |
-| 22 | [I Was Doing All Right](https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 4:06 |
-| 23 | [I Didn't Know What Time It Was](https://open.spotify.com/track/28eFULERb1L9fTQ3mVHGAG) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Crazy And Mixed Up](https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO) | 3:57 |
+| 22 | [I Didn't Know What Time It Was](https://open.spotify.com/track/28eFULERb1L9fTQ3mVHGAG) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Crazy And Mixed Up](https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO) | 3:57 |
+| 23 | [I Was Doing All Right](https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 4:06 |
 | 24 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 |
 | 25 | [I Just Dropped By To Say Hello](https://open.spotify.com/track/3zd5NKvdzT6HC6moiCI3Ol) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [I Just Dropped By To Say Hello](https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F) | 4:05 |
 | 26 | [All The Way \- Rudy Van Gelder Edition / 2007 / Digital Remaster](https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Candy \(Remastered\)](https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL) | 7:27 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 55 | [Waiter, Make Mine Blues](https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 3:20 |
 | 56 | [I Guess I'll Have To Change My Plan](https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants '56](https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1) | 9:29 |
 | 57 | [It's Only A Paper Moon](https://open.spotify.com/track/4qKMHZqa4jSBPUCT9NL6kd) | [Morgana King](https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH) | [Sings The Blues](https://open.spotify.com/album/28T3uReFtvHdOo0rcztcxY) | 2:42 |
-| 58 | [When Day Is Done](https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 4:25 |
-| 59 | [My Conception](https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 4:44 |
+| 58 | [My Conception](https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 4:44 |
+| 59 | [When Day Is Done](https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 4:25 |
 | 60 | [You Turned The Tables On Me](https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS) | 3:43 |
 | 61 | [Trav'lin Light](https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 3:44 |
 | 62 | [The Things We Did Last Summer](https://open.spotify.com/track/0ijX6kf5z4BDTEZCVKUKr2) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Comin' On](https://open.spotify.com/album/3wY41DkrRiCgdK3VqIyBmr) | 6:17 |

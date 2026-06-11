@@ -1,6 +1,6 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Diljit Dosanjh",
-  "num_followers": 249016,
+  "num_followers": 249023,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-05-29 07:11:05",
       "album": {
-        "name": "Jaan Jaan",
-        "url": "https://open.spotify.com/album/2nWzZ2Xbihu2S24TDNq3XD"
-      },
-      "artists": [
-        {
-          "name": "Happy Raikoti",
-          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Jaan Jaan",
-      "url": "https://open.spotify.com/track/5BJOzVKikgE07uvP68ZMEv"
-    },
-    {
-      "added_at": "2026-05-29 07:11:05",
-      "album": {
         "name": "Prapti",
         "url": "https://open.spotify.com/album/59sOvHVkj2wJi2BTVhNkqK"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 154666,
       "name": "Prapti",
       "url": "https://open.spotify.com/track/0gEhZ4ulZhj0hd5FuFxokw"
+    },
+    {
+      "added_at": "2026-05-29 07:11:05",
+      "album": {
+        "name": "Jaan Jaan",
+        "url": "https://open.spotify.com/album/2nWzZ2Xbihu2S24TDNq3XD"
+      },
+      "artists": [
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Jaan Jaan",
+      "url": "https://open.spotify.com/track/5BJOzVKikgE07uvP68ZMEv"
     },
     {
       "added_at": "2026-05-29 07:11:05",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-05-29 07:11:05",
       "album": {
-        "name": "Velly",
-        "url": "https://open.spotify.com/album/3qbaI4GmRZWimFATOlgUyH"
-      },
-      "artists": [
-        {
-          "name": "NIJJAR",
-          "url": "https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W"
-        },
-        {
-          "name": "Deepak Dhillon",
-          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Velly",
-      "url": "https://open.spotify.com/track/7aHL9Rmjb55riIdxSSxUu9"
-    },
-    {
-      "added_at": "2026-05-29 07:11:05",
-      "album": {
         "name": "Munda Inj Da Nahi",
         "url": "https://open.spotify.com/album/64hOWWXcdDmcknzrlgH59u"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 168888,
       "name": "Munda Inj Da Nahi",
       "url": "https://open.spotify.com/track/2tcqtUZtO8ObxtTVMP5hqf"
+    },
+    {
+      "added_at": "2026-05-29 07:11:05",
+      "album": {
+        "name": "Velly",
+        "url": "https://open.spotify.com/album/3qbaI4GmRZWimFATOlgUyH"
+      },
+      "artists": [
+        {
+          "name": "NIJJAR",
+          "url": "https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W"
+        },
+        {
+          "name": "Deepak Dhillon",
+          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Velly",
+      "url": "https://open.spotify.com/track/7aHL9Rmjb55riIdxSSxUu9"
     },
     {
       "added_at": "2026-05-29 07:11:05",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2026-05-29 07:11:05",
       "album": {
-        "name": "Leeran",
-        "url": "https://open.spotify.com/album/3NMsrH8WfExCju9HqkIsOE"
-      },
-      "artists": [
-        {
-          "name": "Balkar Ankhila",
-          "url": "https://open.spotify.com/artist/73QlE5yHfDqfYGENOTY4be"
-        },
-        {
-          "name": "Manjinder Gulshan",
-          "url": "https://open.spotify.com/artist/6nSGdRvoskYIMt3o68BVrw"
-        }
-      ],
-      "duration_ms": 141923,
-      "name": "Leeran",
-      "url": "https://open.spotify.com/track/14K9uoBKLESF07UYpLPiSN"
-    },
-    {
-      "added_at": "2026-05-29 07:11:05",
-      "album": {
         "name": "32 Dand",
         "url": "https://open.spotify.com/album/167zp2W8XeoyZZg6z8EOkg"
       },
@@ -1111,6 +1091,46 @@
       "duration_ms": 163887,
       "name": "32 Dand",
       "url": "https://open.spotify.com/track/1fbswZJRi9UJq35TJmtJ7c"
+    },
+    {
+      "added_at": "2026-05-29 07:11:05",
+      "album": {
+        "name": "Leeran",
+        "url": "https://open.spotify.com/album/3NMsrH8WfExCju9HqkIsOE"
+      },
+      "artists": [
+        {
+          "name": "Balkar Ankhila",
+          "url": "https://open.spotify.com/artist/73QlE5yHfDqfYGENOTY4be"
+        },
+        {
+          "name": "Manjinder Gulshan",
+          "url": "https://open.spotify.com/artist/6nSGdRvoskYIMt3o68BVrw"
+        }
+      ],
+      "duration_ms": 141923,
+      "name": "Leeran",
+      "url": "https://open.spotify.com/track/14K9uoBKLESF07UYpLPiSN"
+    },
+    {
+      "added_at": "2026-05-29 07:11:05",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5bxIO37XtNj4k4PW5vMlUJ"
+      },
+      "artists": [
+        {
+          "name": "R Nait",
+          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
+        },
+        {
+          "name": "Deepak Dhillon",
+          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/2QbFuHbPKNWgpqIFQYsUwS"
     },
     {
       "added_at": "2026-05-29 07:11:05",
@@ -1139,26 +1159,6 @@
       "duration_ms": 170025,
       "name": "Deshat",
       "url": "https://open.spotify.com/track/513QDSc6hcS8aaYteh9jhw"
-    },
-    {
-      "added_at": "2026-05-29 07:11:05",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/5bxIO37XtNj4k4PW5vMlUJ"
-      },
-      "artists": [
-        {
-          "name": "R Nait",
-          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
-        },
-        {
-          "name": "Deepak Dhillon",
-          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/2QbFuHbPKNWgpqIFQYsUwS"
     },
     {
       "added_at": "2026-05-29 07:11:05",
@@ -1203,6 +1203,30 @@
     {
       "added_at": "2026-05-29 07:11:05",
       "album": {
+        "name": "Graph",
+        "url": "https://open.spotify.com/album/5ahdDmuYBvzCYI2kCo2cS0"
+      },
+      "artists": [
+        {
+          "name": "Ranjit Bawa",
+          "url": "https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "duration_ms": 155121,
+      "name": "Graph",
+      "url": "https://open.spotify.com/track/6GcHqqvdC7W9j46h78hAgg"
+    },
+    {
+      "added_at": "2026-05-29 07:11:05",
+      "album": {
         "name": "Teri Jatti",
         "url": "https://open.spotify.com/album/0Zk3kP2aRCnklHxq9Gs4q1"
       },
@@ -1235,30 +1259,6 @@
       "duration_ms": 158312,
       "name": "Mirza",
       "url": "https://open.spotify.com/track/1h0ts09H1zEQFccguhMYR2"
-    },
-    {
-      "added_at": "2026-05-29 07:11:05",
-      "album": {
-        "name": "Graph",
-        "url": "https://open.spotify.com/album/5ahdDmuYBvzCYI2kCo2cS0"
-      },
-      "artists": [
-        {
-          "name": "Ranjit Bawa",
-          "url": "https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn"
-        },
-        {
-          "name": "Bunty Bains",
-          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
-        },
-        {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
-        }
-      ],
-      "duration_ms": 155121,
-      "name": "Graph",
-      "url": "https://open.spotify.com/track/6GcHqqvdC7W9j46h78hAgg"
     },
     {
       "added_at": "2026-05-29 07:11:05",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-05-29 07:11:05",
       "album": {
+        "name": "Lala Lala",
+        "url": "https://open.spotify.com/album/7HnJnv2r43VyQKBAtWChVA"
+      },
+      "artists": [
+        {
+          "name": "SABBA",
+          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
+        }
+      ],
+      "duration_ms": 156103,
+      "name": "Lala Lala",
+      "url": "https://open.spotify.com/track/54ZQ2j0hUi3pMyGAVCnswr"
+    },
+    {
+      "added_at": "2026-05-29 07:11:05",
+      "album": {
         "name": "Farmhouse",
         "url": "https://open.spotify.com/album/3pt2TFlHkZ7RPLX3sQuLvm"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 233313,
       "name": "Jitt Da Swad",
       "url": "https://open.spotify.com/track/2QvDGjDnWnqPT3Yetnpr7v"
-    },
-    {
-      "added_at": "2026-05-29 07:11:05",
-      "album": {
-        "name": "Lala Lala",
-        "url": "https://open.spotify.com/album/7HnJnv2r43VyQKBAtWChVA"
-      },
-      "artists": [
-        {
-          "name": "SABBA",
-          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
-        }
-      ],
-      "duration_ms": 156103,
-      "name": "Lala Lala",
-      "url": "https://open.spotify.com/track/54ZQ2j0hUi3pMyGAVCnswr"
     },
     {
       "added_at": "2026-05-29 07:11:05",
@@ -2031,26 +2031,22 @@
     {
       "added_at": "2026-05-29 07:11:05",
       "album": {
-        "name": "Bhangra Challenge",
-        "url": "https://open.spotify.com/album/4oHr0BZjQ5L1UdJoPekIPd"
+        "name": "Red Eyes",
+        "url": "https://open.spotify.com/album/1dEfQJHIyCDrgPOC1LitIu"
       },
       "artists": [
         {
-          "name": "Groovy K",
-          "url": "https://open.spotify.com/artist/3CVSilbBjktoYHjchkt6US"
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
         },
         {
           "name": "Gurlez Akhtar",
           "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        },
-        {
-          "name": "PBN",
-          "url": "https://open.spotify.com/artist/0VzfZ6oTUwavynHoN4Uuxf"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Bhangra Challenge",
-      "url": "https://open.spotify.com/track/02DPibwhdEZ6JSsGjX0zPr"
+      "duration_ms": 163124,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/5GZ85mz2Xp6aWuly0RXVTM"
     },
     {
       "added_at": "2026-05-29 07:11:05",
@@ -2075,22 +2071,26 @@
     {
       "added_at": "2026-05-29 07:11:05",
       "album": {
-        "name": "Red Eyes",
-        "url": "https://open.spotify.com/album/1dEfQJHIyCDrgPOC1LitIu"
+        "name": "Bhangra Challenge",
+        "url": "https://open.spotify.com/album/4oHr0BZjQ5L1UdJoPekIPd"
       },
       "artists": [
         {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+          "name": "Groovy K",
+          "url": "https://open.spotify.com/artist/3CVSilbBjktoYHjchkt6US"
         },
         {
           "name": "Gurlez Akhtar",
           "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "PBN",
+          "url": "https://open.spotify.com/artist/0VzfZ6oTUwavynHoN4Uuxf"
         }
       ],
-      "duration_ms": 163124,
-      "name": "Red Eyes",
-      "url": "https://open.spotify.com/track/5GZ85mz2Xp6aWuly0RXVTM"
+      "duration_ms": 170000,
+      "name": "Bhangra Challenge",
+      "url": "https://open.spotify.com/track/02DPibwhdEZ6JSsGjX0zPr"
     },
     {
       "added_at": "2026-05-29 07:11:05",

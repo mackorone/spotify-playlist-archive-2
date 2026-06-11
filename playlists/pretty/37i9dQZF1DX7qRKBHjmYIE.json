@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con RaiNao.",
-  "num_followers": 744282,
+  "num_followers": 744220,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -883,18 +883,18 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "no te vayas",
-        "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
+        "name": "bandOlerO",
+        "url": "https://open.spotify.com/album/4ci6a270otpgbQ0J1sWGi9"
       },
       "artists": [
         {
-          "name": "Sparklmami",
-          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+          "name": "Oliver Berg",
+          "url": "https://open.spotify.com/artist/7jJ4OfX2RBNl7dK4MG5JZv"
         }
       ],
-      "duration_ms": 194890,
-      "name": "no te vayas",
-      "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
+      "duration_ms": 196034,
+      "name": "bandOlerO",
+      "url": "https://open.spotify.com/track/6fzvTjGv5I65Waaam5UTVv"
     },
     {
       "added_at": "2026-05-29 18:58:50",
@@ -931,18 +931,18 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "bandOlerO",
-        "url": "https://open.spotify.com/album/4ci6a270otpgbQ0J1sWGi9"
+        "name": "no te vayas",
+        "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
       },
       "artists": [
         {
-          "name": "Oliver Berg",
-          "url": "https://open.spotify.com/artist/7jJ4OfX2RBNl7dK4MG5JZv"
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
         }
       ],
-      "duration_ms": 196034,
-      "name": "bandOlerO",
-      "url": "https://open.spotify.com/track/6fzvTjGv5I65Waaam5UTVv"
+      "duration_ms": 194890,
+      "name": "no te vayas",
+      "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
     },
     {
       "added_at": "2026-05-29 18:58:50",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "miau",
-        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
-      },
-      "artists": [
-        {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
-        }
-      ],
-      "duration_ms": 206366,
-      "name": "miau",
-      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
-    },
-    {
-      "added_at": "2026-05-29 18:58:50",
-      "album": {
         "name": "aunquetelopida",
         "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 180631,
       "name": "aunquetelopida",
       "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
+    },
+    {
+      "added_at": "2026-05-29 18:58:50",
+      "album": {
+        "name": "miau",
+        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "duration_ms": 206366,
+      "name": "miau",
+      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
     },
     {
       "added_at": "2026-05-29 18:58:50",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "Me Caigo",
-        "url": "https://open.spotify.com/album/3mIzqnZrrwgdJx7ojyFU9v"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 103650,
-      "name": "Me Caigo",
-      "url": "https://open.spotify.com/track/0Q9YmrINbpJss0MBVSfMeE"
-    },
-    {
-      "added_at": "2026-05-29 18:58:50",
-      "album": {
         "name": "N\u00edtido",
         "url": "https://open.spotify.com/album/4jvLDuUoWJRUWcMc6VZk41"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 165529,
       "name": "Ecos",
       "url": "https://open.spotify.com/track/6OcofGGF5dzeql46GJbG3k"
+    },
+    {
+      "added_at": "2026-05-29 18:58:50",
+      "album": {
+        "name": "Me Caigo",
+        "url": "https://open.spotify.com/album/3mIzqnZrrwgdJx7ojyFU9v"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 103650,
+      "name": "Me Caigo",
+      "url": "https://open.spotify.com/track/0Q9YmrINbpJss0MBVSfMeE"
     },
     {
       "added_at": "2026-05-29 18:58:50",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "Cenizas En El Desierto",
-        "url": "https://open.spotify.com/album/0EST70rsJHUzaSJEpcb32B"
-      },
-      "artists": [
-        {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        }
-      ],
-      "duration_ms": 204265,
-      "name": "Cenizas En El Desierto",
-      "url": "https://open.spotify.com/track/4gAaHL8HR58hvHXrvSh5sY"
-    },
-    {
-      "added_at": "2026-05-29 18:58:50",
-      "album": {
         "name": "Mil Noches",
         "url": "https://open.spotify.com/album/1UAZW8Tx2rBGn5AZwl0pjF"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 164584,
       "name": "Mil Noches",
       "url": "https://open.spotify.com/track/5uVq7FwYvcXrE0nWfRYqxn"
+    },
+    {
+      "added_at": "2026-05-29 18:58:50",
+      "album": {
+        "name": "Cenizas En El Desierto",
+        "url": "https://open.spotify.com/album/0EST70rsJHUzaSJEpcb32B"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "duration_ms": 204265,
+      "name": "Cenizas En El Desierto",
+      "url": "https://open.spotify.com/track/4gAaHL8HR58hvHXrvSh5sY"
     },
     {
       "added_at": "2026-05-29 18:58:50",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "otro d\u00eda m\u00e1s",
-        "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 151264,
-      "name": "otro d\u00eda m\u00e1s",
-      "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
-    },
-    {
-      "added_at": "2026-05-29 18:58:50",
-      "album": {
         "name": "Q.I.S",
         "url": "https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 223910,
       "name": "Q.I.S - feat. maye",
       "url": "https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt"
+    },
+    {
+      "added_at": "2026-05-29 18:58:50",
+      "album": {
+        "name": "otro d\u00eda m\u00e1s",
+        "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "duration_ms": 151264,
+      "name": "otro d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
     },
     {
       "added_at": "2026-05-29 18:58:50",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "cruz",
-        "url": "https://open.spotify.com/album/5SQWT4ckCwTAsQx5JQPL1U"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 244356,
-      "name": "cruz",
-      "url": "https://open.spotify.com/track/6vZgsNY09pbOhjHEjWd3Wf"
-    },
-    {
-      "added_at": "2026-05-29 18:58:50",
-      "album": {
         "name": "Menina",
         "url": "https://open.spotify.com/album/4MhqyWnIJOp0WeLSBMl6CO"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 182167,
       "name": "Menina",
       "url": "https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh"
+    },
+    {
+      "added_at": "2026-05-29 18:58:50",
+      "album": {
+        "name": "cruz",
+        "url": "https://open.spotify.com/album/5SQWT4ckCwTAsQx5JQPL1U"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "duration_ms": 244356,
+      "name": "cruz",
+      "url": "https://open.spotify.com/track/6vZgsNY09pbOhjHEjWd3Wf"
     },
     {
       "added_at": "2026-05-29 18:58:50",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
+        "name": "BLANCOMEZCLILLA",
+        "url": "https://open.spotify.com/album/51KnHsifhTBkSyhuRXexBQ"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 187903,
+      "name": "a veces casi siempre",
+      "url": "https://open.spotify.com/track/3IV0SbTSu2JhBIeGfesPeJ"
+    },
+    {
+      "added_at": "2026-05-29 18:58:50",
+      "album": {
         "name": "karma",
         "url": "https://open.spotify.com/album/2xMf32apRnpyCvxtXBRYkB"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 150960,
       "name": "karma",
       "url": "https://open.spotify.com/track/2AHiQVyuaGHOERDPVlxWRT"
-    },
-    {
-      "added_at": "2026-05-29 18:58:50",
-      "album": {
-        "name": "BLANCOMEZCLILLA",
-        "url": "https://open.spotify.com/album/51KnHsifhTBkSyhuRXexBQ"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 187903,
-      "name": "a veces casi siempre",
-      "url": "https://open.spotify.com/track/3IV0SbTSu2JhBIeGfesPeJ"
     }
   ],
   "unique_name": "Mixto",

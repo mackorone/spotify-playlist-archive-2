@@ -1,6 +1,6 @@
 {
   "description": "no drill e na bola \u00e9 \ud83c\udde7\ud83c\uddf7 , tlgd",
-  "num_followers": 1445415,
+  "num_followers": 1445296,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,38 @@
     {
       "added_at": "2026-06-08 15:56:10",
       "album": {
+        "name": "Beck e Sexo",
+        "url": "https://open.spotify.com/album/79ffKOg9PSwNHghrRMjSz3"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 267540,
+      "name": "Beck e Sexo",
+      "url": "https://open.spotify.com/track/6qpeFSXG1J8xAVXUJVoNh5"
+    },
+    {
+      "added_at": "2026-06-08 15:56:10",
+      "album": {
         "name": "A Vida \u00e9 Um Freestyle",
         "url": "https://open.spotify.com/album/4H28oDneeI0Q0yY297UB71"
       },
@@ -743,38 +775,6 @@
       "duration_ms": 269268,
       "name": "Neguin Desaforado",
       "url": "https://open.spotify.com/track/3gbpdmzWYwqumooISINF9S"
-    },
-    {
-      "added_at": "2026-06-08 15:56:10",
-      "album": {
-        "name": "Beck e Sexo",
-        "url": "https://open.spotify.com/album/79ffKOg9PSwNHghrRMjSz3"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 267540,
-      "name": "Beck e Sexo",
-      "url": "https://open.spotify.com/track/6qpeFSXG1J8xAVXUJVoNh5"
     },
     {
       "added_at": "2026-06-08 15:56:10",
@@ -971,6 +971,34 @@
     {
       "added_at": "2026-06-08 15:56:10",
       "album": {
+        "name": "Muito Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        },
+        {
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+        },
+        {
+          "name": "Anderson Nem",
+          "url": "https://open.spotify.com/artist/1XftCIaBOOZWO9Y5yUeAun"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Voltar pra Casa",
+      "url": "https://open.spotify.com/track/0oEgPFuiD0NXqiyCH6DDEY"
+    },
+    {
+      "added_at": "2026-06-08 15:56:10",
+      "album": {
         "name": "BASE: Climinha",
         "url": "https://open.spotify.com/album/2d09hK3Q5aWnNd56bTjahR"
       },
@@ -999,34 +1027,6 @@
       "duration_ms": 217446,
       "name": "Taca l\u00e1 dentro",
       "url": "https://open.spotify.com/track/21NA0L0QejKf8QneWSGzfD"
-    },
-    {
-      "added_at": "2026-06-08 15:56:10",
-      "album": {
-        "name": "Muito Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        },
-        {
-          "name": "Machadez",
-          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
-        },
-        {
-          "name": "Anderson Nem",
-          "url": "https://open.spotify.com/artist/1XftCIaBOOZWO9Y5yUeAun"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Voltar pra Casa",
-      "url": "https://open.spotify.com/track/0oEgPFuiD0NXqiyCH6DDEY"
     },
     {
       "added_at": "2026-06-08 15:56:10",

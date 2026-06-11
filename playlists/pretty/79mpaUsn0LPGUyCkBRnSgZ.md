@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 722 songs - 1 day 22 hr 34 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 723 songs - 1 day 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -730,5 +730,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 720 | [The Age of Innocence](https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 2:06 |
 | 721 | [Open the Fucking Fantasy](https://open.spotify.com/track/3c1CDgtFAPJkkKnBMkGlZ4) | [Black Moth Super Rainbow](https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l) | [Soft New Magic Dream](https://open.spotify.com/album/0ymqPRrABPL10xvZShIMIe) | 4:00 |
 | 722 | [ようこそ、夏の王国へ](https://open.spotify.com/track/2H7gT6zL5qSeAqTpfDqlWu) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [夏・全・開](https://open.spotify.com/album/1amISkdWujGVaDuLJPfDt9) | 4:01 |
+| 723 | [I Ate the Most](https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:06 |
 
-Snapshot ID: `AAAJHI3mgxNmR+Z8SmqbuxNzI0ZSlXSG`
+Snapshot ID: `AAAJHYGEMPM4nIXzkQsiwP4dNh6V8Psp`

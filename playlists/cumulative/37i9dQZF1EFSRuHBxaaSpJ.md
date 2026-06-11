@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-97 songs - 5 hr 4 min
+98 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Ouais x4 / Wake Up](https://open.spotify.com/track/23JfoAyYt1CJvQQ6uaa7Ze) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 4:32 | 2024-12-11 |  |
 | [Papel](https://open.spotify.com/track/2cqnmtSYMDRUBWDkFJWlXj) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 3:16 | 2024-06-07 |  |
 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 | 2024-07-23 |  |
+| [Populaire](https://open.spotify.com/track/7IxOQnwvlxI7g1HFzGiFF7) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Africa Jungle](https://open.spotify.com/album/3a4GHBBwkr3v9U27eJO2Iw) | 3:24 | 2026-06-10 |  |
 | [Poursuite](https://open.spotify.com/track/1NNAd8UmD0qmWwykyRxNGC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [The Last Race](https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8) | 3:27 | 2026-01-15 |  |
 | [Promets moi](https://open.spotify.com/track/6pgjSqpayCvO5PAGZTI5Eg) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:48 | 2024-06-07 |  |
 | [QUE DES PROBLEMES](https://open.spotify.com/track/4IDoRmotkACHfWpuuijLWh) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [PANDEMONIUM](https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM) | 2:57 | 2026-05-20 |  |

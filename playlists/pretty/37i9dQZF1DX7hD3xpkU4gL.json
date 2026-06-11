@@ -1,6 +1,6 @@
 {
   "description": "Para cantar muy bajito... o a voz en grito.",
-  "num_followers": 504170,
+  "num_followers": 504204,
   "original_name": "Las 100 mejores baladas rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
-    },
-    {
-      "added_at": "2025-02-07 08:52:35",
-      "album": {
         "name": "El Viaje de Copperpot",
         "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -567,6 +551,22 @@
       "duration_ms": 334106,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
+    },
+    {
+      "added_at": "2025-02-07 08:52:35",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -755,18 +755,18 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D"
+        "name": "Coraz\u00f3n Latino",
+        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         }
       ],
-      "duration_ms": 248640,
-      "name": "Vamos a Darnos Tiempo",
-      "url": "https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl"
+      "duration_ms": 262440,
+      "name": "D\u00edgale",
+      "url": "https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "Coraz\u00f3n Latino",
-        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D"
       },
       "artists": [
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 262440,
-      "name": "D\u00edgale",
-      "url": "https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2"
+      "duration_ms": 248640,
+      "name": "Vamos a Darnos Tiempo",
+      "url": "https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 308389,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
-    },
-    {
-      "added_at": "2025-02-07 08:52:35",
-      "album": {
         "name": "2 (Remasterizado 2017)",
         "url": "https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 245560,
       "name": "Hoy tengo ganas de ti",
       "url": "https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ"
+    },
+    {
+      "added_at": "2025-02-07 08:52:35",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 308389,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "Luz V",
-        "url": "https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o"
-      },
-      "artists": [
-        {
-          "name": "Luz Casal",
-          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
-        }
-      ],
-      "duration_ms": 247680,
-      "name": "No me importa nada",
-      "url": "https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol"
-    },
-    {
-      "added_at": "2025-02-07 08:52:35",
-      "album": {
         "name": "Me Enamor\u00e9 De Ti",
         "url": "https://open.spotify.com/album/01akT8TopYGRiYtyeN0qTU"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 206173,
       "name": "Me Enamor\u00e9 De Ti",
       "url": "https://open.spotify.com/track/6DT0LvU0a2wI3RN7SQs8P6"
+    },
+    {
+      "added_at": "2025-02-07 08:52:35",
+      "album": {
+        "name": "Luz V",
+        "url": "https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o"
+      },
+      "artists": [
+        {
+          "name": "Luz Casal",
+          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
+        }
+      ],
+      "duration_ms": 247680,
+      "name": "No me importa nada",
+      "url": "https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "Cara A Cara",
-        "url": "https://open.spotify.com/album/0etPi7dhXGp6ax4LXLesNC"
-      },
-      "artists": [
-        {
-          "name": "Los Chunguitos",
-          "url": "https://open.spotify.com/artist/5dRk8JyA2Tg9wL0iiTqbVu"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Me Quedo Contigo",
-      "url": "https://open.spotify.com/track/3ROd8cCRdRJpeh6P2zTAJk"
-    },
-    {
-      "added_at": "2025-02-07 08:52:35",
-      "album": {
         "name": "Bailar El Viento",
         "url": "https://open.spotify.com/album/62lZaizcM3SNQqs6rZG8kS"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 226160,
       "name": "Ya No",
       "url": "https://open.spotify.com/track/4lWnNqKJmhxrgzidQmXB94"
+    },
+    {
+      "added_at": "2025-02-07 08:52:35",
+      "album": {
+        "name": "Cara A Cara",
+        "url": "https://open.spotify.com/album/0etPi7dhXGp6ax4LXLesNC"
+      },
+      "artists": [
+        {
+          "name": "Los Chunguitos",
+          "url": "https://open.spotify.com/artist/5dRk8JyA2Tg9wL0iiTqbVu"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "Me Quedo Contigo",
+      "url": "https://open.spotify.com/track/3ROd8cCRdRJpeh6P2zTAJk"
     }
   ],
   "unique_name": "Las 100 mejores baladas rom\u00e1nticas",

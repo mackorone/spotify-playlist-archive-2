@@ -1,6 +1,6 @@
 {
   "description": "Easy listening for a comfortable drive.",
-  "num_followers": 298414,
+  "num_followers": 298457,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
+        "name": "Some Type of Love",
+        "url": "https://open.spotify.com/album/5t4A7Loq1pKRFlkBOs1O2O"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 190453,
+      "name": "Marvin Gaye (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/6ukMqDxnOPOgoHdak7Kyp3"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 298133,
       "name": "Such A Simple Thing",
       "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "Some Type of Love",
-        "url": "https://open.spotify.com/album/5t4A7Loq1pKRFlkBOs1O2O"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 190453,
-      "name": "Marvin Gaye (feat. Meghan Trainor)",
-      "url": "https://open.spotify.com/track/6ukMqDxnOPOgoHdak7Kyp3"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
+        "name": "Something to Be",
+        "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
+      },
+      "artists": [
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Ever the Same",
+      "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
         "name": "Let It All Go",
         "url": "https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 280757,
       "name": "Let It All Go",
       "url": "https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "Something to Be",
-        "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
-      },
-      "artists": [
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Ever the Same",
-      "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "No Woman",
-      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Amos Lee",
         "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 160453,
       "name": "Colors",
       "url": "https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "No Woman",
+      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/319oKHutG8MS3EFFUF00Th"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/0uKRoLqNIs76XJOgCqAc2c"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 249146,
       "name": "If I Were a Boy",
       "url": "https://open.spotify.com/track/2jppsxdHlNHz9eK0QyYlTq"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/319oKHutG8MS3EFFUF00Th"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/0uKRoLqNIs76XJOgCqAc2c"
     },
     {
       "added_at": "2024-07-05 23:01:26",

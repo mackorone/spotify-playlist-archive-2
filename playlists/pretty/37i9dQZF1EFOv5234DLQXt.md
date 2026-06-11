@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,625 likes - 119 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,624 likes - 119 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 22 | [Magia](https://open.spotify.com/track/1qxW7VuoZFyO0UQHR8XWcB) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 4:28 |
 | 23 | [Corazón Delator \- Remasterizado 2007](https://open.spotify.com/track/2zaZ81JI8KbYaL7210BB0U) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:12 |
 | 24 | [Un Millón de Años Luz](https://open.spotify.com/track/13AxiqSPgMeUhRCjo3zla0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 5:04 |
-| 25 | [Zona de Promesas \(with Gustavo Cerati\)](https://open.spotify.com/track/1YBSWq2Wc7cwgHgvHvMm2Z) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Cantora 2](https://open.spotify.com/album/3pnyaihZuauVqbp3SiRy3r) | 3:58 |
-| 26 | [Canción Animal](https://open.spotify.com/track/4Ht9U5DfSVdW1J6zCwh0P4) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:07 |
+| 25 | [Canción Animal](https://open.spotify.com/track/4Ht9U5DfSVdW1J6zCwh0P4) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:07 |
+| 26 | [Zona de Promesas \(with Gustavo Cerati\)](https://open.spotify.com/track/1YBSWq2Wc7cwgHgvHvMm2Z) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Cantora 2](https://open.spotify.com/album/3pnyaihZuauVqbp3SiRy3r) | 3:58 |
 | 27 | [Sobredosis De T.V.](https://open.spotify.com/track/07J7TC2stMffmg5FM3lGQC) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:10 |
 | 28 | [El Rito \- Remasterizado 2007](https://open.spotify.com/track/61Hl37BKbYcSelJ3Sd8oU0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 6:06 |
 | 29 | [Fuerza Natural](https://open.spotify.com/track/4nISKMNTbWKrZpGFI44pIz) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 4:49 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 118 | [Uno Entre Mil](https://open.spotify.com/track/6acGFk7EsZFCzgziXulVFM) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 3:53 |
 | 119 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
 
-Snapshot ID: `AcTynAAAAABmLHwchM+r/KTfTGTYHKU5`
+Snapshot ID: `AcT4bgAAAADzhY29KN0TlPP9ar1Uc9/1`

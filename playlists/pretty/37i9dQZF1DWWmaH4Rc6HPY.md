@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! ANASOF en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,739 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,747 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,18 +32,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 22 | [Desastres Fabulosos](https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Desastres Fabulosos](https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09) | 2:43 |
 | 23 | [Mentiras Arriesgadas](https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Mentiras Arriesgadas](https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80) | 3:32 |
 | 24 | [Nada por Hecho \(feat\. Leiva\)](https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Nada por Hecho \(feat\. Leiva\)](https://open.spotify.com/album/6dD5pmen05khim74MHtYC9) | 3:28 |
-| 25 | [Poder Quererme](https://open.spotify.com/track/4YvBNOLXZwD2wIojl2mKqa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Poder Quererme](https://open.spotify.com/album/4o47GmQFZxJK2fcaTMu9gF) | 4:26 |
-| 26 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP) | 3:05 |
+| 25 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP) | 3:05 |
+| 26 | [Poder Quererme](https://open.spotify.com/track/4YvBNOLXZwD2wIojl2mKqa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Poder Quererme](https://open.spotify.com/album/4o47GmQFZxJK2fcaTMu9gF) | 4:26 |
 | 27 | [Los Paracaídas](https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Los Paracaídas](https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF) | 3:09 |
 | 28 | [Caída Libre \(feat\. Robe\)](https://open.spotify.com/track/72srxlWIL6dDou3Po23Fw2) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Caída Libre \(feat\. Robe\)](https://open.spotify.com/album/2ChN0TP75AcjsIBP5x5tQs) | 3:31 |
 | 29 | [Amanecidos](https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tormentas Inesperadas](https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl) | 4:24 |
 | 30 | [Cinco Horas Menos](https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Jet Love](https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ) | 3:23 |
 | 31 | [Antes Que Me Vaya](https://open.spotify.com/track/1QAhBJKdPM569bXLy8jO4I) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [Antes Que Me Vaya](https://open.spotify.com/album/6WavcUIxvGNdxrF6ify2xQ) | 3:26 |
-| 32 | [Se Me Va](https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Se Me Va](https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf) | 3:33 |
-| 33 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 |
+| 32 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 |
+| 33 | [Se Me Va](https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Se Me Va](https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf) | 3:33 |
 | 34 | [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 |
-| 35 | [qué ves en mí?](https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [qué ves en mí? / interesante](https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw) | 3:24 |
-| 36 | [Como Queremos](https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Miel de Azar](https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma) | 3:12 |
+| 35 | [Como Queremos](https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Miel de Azar](https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma) | 3:12 |
+| 36 | [qué ves en mí?](https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [qué ves en mí? / interesante](https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw) | 3:24 |
 | 37 | [Películas De Acción](https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Películas De Acción](https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk) | 3:33 |
 | 38 | [TIEMPO OFF](https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [CUERPOS, Vol\. 1](https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV) | 3:46 |
 | 39 | [Zero \(Feat\. Zaira Jabnell\)](https://open.spotify.com/track/669OFp5ut5nydyepuuS0Eg) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Zaira Jabnell](https://open.spotify.com/artist/603fftWMCkmq7E98J2WzD0) | [Zero](https://open.spotify.com/album/36qFySoOy3b1rfHDqg5olY) | 4:32 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 71 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
 | 72 | [Cierro los Ojos](https://open.spotify.com/track/3qByYQ9c9LOOHvZnpt3E68) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Cierro los Ojos / Órbita](https://open.spotify.com/album/2wd3lGe7d7guA57Kpj8Z6O) | 3:52 |
 | 73 | [Quito](https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Quito](https://open.spotify.com/album/3R4TPnl5iUd2lXL8zMO4pY) | 2:59 |
-| 74 | [odio a primera vista](https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0) | [odio a primera vista](https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu) | 3:06 |
-| 75 | [Nadie](https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [La vida de Nadie](https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi) | 2:47 |
+| 74 | [Nadie](https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [La vida de Nadie](https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi) | 2:47 |
+| 75 | [odio a primera vista](https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0) | [odio a primera vista](https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu) | 3:06 |
 
 Snapshot ID: `AAAAABfw6O6L+ZnEXTJQm+nD0Bo17evg`

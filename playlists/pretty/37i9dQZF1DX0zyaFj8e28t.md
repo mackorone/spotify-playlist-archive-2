@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,513 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,550 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 25 | [Je dois m'en aller](https://open.spotify.com/track/7fxvGz4A606ADmsAGT5r4Q) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:26 |
 | 26 | [Le parking des anges](https://open.spotify.com/track/0gNkBJ8M4S5pKaxEJuQEI5) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Marc Lavoine](https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc) | 3:56 |
 | 27 | [Pourvu qu'elles soient douces](https://open.spotify.com/track/2gNyCHDGyHrw3lCpT9LqlY) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Ainsi Soit Je](https://open.spotify.com/album/69x2VirNYhaRWQDxV1EX7F) | 4:52 |
-| 28 | [D'amour ou d'amitié](https://open.spotify.com/track/7o4JMsKg9Et6s0qb6jWmof) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:58 |
-| 29 | [T'en va pas](https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8) | [Elsa Lunghini](https://open.spotify.com/artist/4Uk5eLOfWucThb2X4QLcX1) | [L'essentiel](https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym) | 5:28 |
+| 28 | [T'en va pas](https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8) | [Elsa Lunghini](https://open.spotify.com/artist/4Uk5eLOfWucThb2X4QLcX1) | [L'essentiel](https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym) | 5:28 |
+| 29 | [D'amour ou d'amitié](https://open.spotify.com/track/7o4JMsKg9Et6s0qb6jWmof) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:58 |
 | 30 | [Si j'étais un homme](https://open.spotify.com/track/0qnN7RceovLP58nCY0fdME) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [En flèche](https://open.spotify.com/album/2ywSgXs2EVLGQMQGy2ZRIi) | 4:49 |
 | 31 | [Duel au soleil \- 2006 Remaster](https://open.spotify.com/track/0DmECgkk7chNyhf4kaHaLN) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Pop Satori \(2006 Remaster\)](https://open.spotify.com/album/0epJLxAqo8DfByqlQs1Xdb) | 4:21 |
 | 32 | [En rouge et noir](https://open.spotify.com/track/1Gcv4C4s4aJTtm8THwEdFN) | [Jeanne Mas](https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR) | [Best of Jeanne Mas 2004](https://open.spotify.com/album/4pTDSN6BHeCYXI3hkojANx) | 4:28 |

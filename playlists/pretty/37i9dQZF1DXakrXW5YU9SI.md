@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Słońce, leżak i letnia błogość w dźwiękach ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,598 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,626 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 49 | [fanga](https://open.spotify.com/track/2vCWv3JLlnMutYv06YTeaB) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [fanga](https://open.spotify.com/album/4cJ9oXUARUhwkJVYEzgxix) | 3:23 |
 | 50 | [Mam nadzieję](https://open.spotify.com/track/38DWD30XnDQ7ue5kNbXi1M) | [Maja Kleszcz](https://open.spotify.com/artist/3i9lbUfrdHKmGe5CJz2XjA), [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mam nadzieję](https://open.spotify.com/album/4WDtmCu86ZAV6C7Lvk4Bsk) | 3:53 |
 | 51 | [Wołam](https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Wołam](https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41) | 2:46 |
-| 52 | [Imię](https://open.spotify.com/track/7xgvGlzuUn9yLXmyFAsq4U) | [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Imię](https://open.spotify.com/album/7Hpjd4c0HqZM2LwPeFWeZ9) | 2:32 |
-| 53 | [Grawitacja](https://open.spotify.com/track/580hVA2gNGGXw3A7lRGt4o) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2), [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Grawitacja](https://open.spotify.com/album/7z7UtlzDsbXxFbQNHDSfJ8) | 3:03 |
-| 54 | [Młodość](https://open.spotify.com/track/4mYR5ZHRHDBYkDkuKotVC2) | [Wojciech Baranowski](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Waniliowy](https://open.spotify.com/album/7zsZMoCJbrGrAEOwVGIZFY) | 3:38 |
+| 52 | [Młodość](https://open.spotify.com/track/4mYR5ZHRHDBYkDkuKotVC2) | [Wojciech Baranowski](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Waniliowy](https://open.spotify.com/album/7zsZMoCJbrGrAEOwVGIZFY) | 3:38 |
+| 53 | [Imię](https://open.spotify.com/track/7xgvGlzuUn9yLXmyFAsq4U) | [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Imię](https://open.spotify.com/album/7Hpjd4c0HqZM2LwPeFWeZ9) | 2:32 |
+| 54 | [Grawitacja](https://open.spotify.com/track/580hVA2gNGGXw3A7lRGt4o) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2), [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Grawitacja](https://open.spotify.com/album/7z7UtlzDsbXxFbQNHDSfJ8) | 3:03 |
 | 55 | [GŁUPIA](https://open.spotify.com/track/7L8Y0M4iJHoKqZtW0Z45gg) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [GŁUPIA](https://open.spotify.com/album/51QUkIF35JlCTSccXGt1r4) | 2:35 |
-| 56 | [z tobą nie myślę o ex](https://open.spotify.com/track/2FoIW8dYXSyAIcqEKpJ8qC) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [z tobą nie myślę o ex](https://open.spotify.com/album/6a6JfOMttbeVYsCaKN5Ruo) | 2:52 |
-| 57 | [Melatonina \(Dzień\)](https://open.spotify.com/track/5ucaM6MjNqTfKRaqKGnbSN) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Melatonina \(Dzień\)](https://open.spotify.com/album/0T8hFzFFAVNQ4FFNhksD3v) | 2:26 |
+| 56 | [Melatonina \(Dzień\)](https://open.spotify.com/track/5ucaM6MjNqTfKRaqKGnbSN) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Melatonina \(Dzień\)](https://open.spotify.com/album/0T8hFzFFAVNQ4FFNhksD3v) | 2:26 |
+| 57 | [z tobą nie myślę o ex](https://open.spotify.com/track/2FoIW8dYXSyAIcqEKpJ8qC) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [z tobą nie myślę o ex](https://open.spotify.com/album/6a6JfOMttbeVYsCaKN5Ruo) | 2:52 |
 | 58 | [WSZYSTKO](https://open.spotify.com/track/2GPQ8HjBA9KvQcsGduVOUX) | [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD) | [WSZYSTKO](https://open.spotify.com/album/3GrbrV75vsH22JdIHRzScV) | 3:32 |
 | 59 | [BO TYLKO CIEBIE TU MAM](https://open.spotify.com/track/0fK3dCZ0HZApNpX14zMmJ1) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP) | [BO TYLKO CIEBIE TU MAM](https://open.spotify.com/album/0Ib7YnoURJv2WOnGws50jV) | 2:39 |
 | 60 | [Herbaciana](https://open.spotify.com/track/45Ou9sZ8lp14zQKOTWwPRE) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62), [Michał Rajca](https://open.spotify.com/artist/6ohnGF7EJugDureSIvIIWe) | [Herbaciana](https://open.spotify.com/album/2arsGcjiMa2Y86deEL0FEb) | 3:09 |

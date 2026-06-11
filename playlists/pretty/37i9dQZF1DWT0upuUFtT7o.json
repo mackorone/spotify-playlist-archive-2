@@ -1,13 +1,45 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Rian Brazil",
-  "num_followers": 256419,
+  "num_followers": 256429,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADIAgaUkXqjASmK+/tfqp6jIcDBM",
+  "snapshot_id": "AAAAAN50rzooI7ZxRQQJS3qcBaiBIpMt",
   "tracks": [
+    {
+      "added_at": "2026-06-10 16:09:57",
+      "album": {
+        "name": "Petrol",
+        "url": "https://open.spotify.com/album/6XVReo02T5qkrGrPdjuSUs"
+      },
+      "artists": [
+        {
+          "name": "Shye01",
+          "url": "https://open.spotify.com/artist/1yQ06dHVyba0CHgMAiNS58"
+        }
+      ],
+      "duration_ms": 121418,
+      "name": "Justice",
+      "url": "https://open.spotify.com/track/2clie3tcvcFlpeSQbnhkyh"
+    },
+    {
+      "added_at": "2026-06-10 16:09:57",
+      "album": {
+        "name": "Tracksuit",
+        "url": "https://open.spotify.com/album/65wgsL4qA1L6VV7lvQhDQP"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Tracksuit",
+      "url": "https://open.spotify.com/track/5uYIouXXqHxc8G8fVavWq2"
+    },
     {
       "added_at": "2026-05-27 04:00:16",
       "album": {
@@ -23,6 +55,70 @@
       "duration_ms": 175666,
       "name": "Lick The Flame",
       "url": "https://open.spotify.com/track/32TOQ5loDzoipxm7qLgkv3"
+    },
+    {
+      "added_at": "2026-06-10 16:09:57",
+      "album": {
+        "name": "2027",
+        "url": "https://open.spotify.com/album/2M4SnKRBwairBEwY7lQT57"
+      },
+      "artists": [
+        {
+          "name": "venus mae",
+          "url": "https://open.spotify.com/artist/3fFWuyLT7JFtW4fOd1YI3o"
+        }
+      ],
+      "duration_ms": 147770,
+      "name": "2027",
+      "url": "https://open.spotify.com/track/4UC6rVu31qAgIDy6NZRU6K"
+    },
+    {
+      "added_at": "2026-06-10 16:09:57",
+      "album": {
+        "name": "Gretchen",
+        "url": "https://open.spotify.com/album/0uB6srYMGEDsmgE4sMzZj0"
+      },
+      "artists": [
+        {
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+        }
+      ],
+      "duration_ms": 171597,
+      "name": "Gretchen",
+      "url": "https://open.spotify.com/track/255KD8LTcbK1sqJVqtYwpe"
+    },
+    {
+      "added_at": "2026-06-10 16:09:57",
+      "album": {
+        "name": "Going about my day",
+        "url": "https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV"
+      },
+      "artists": [
+        {
+          "name": "Lola Hammerich",
+          "url": "https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40"
+        }
+      ],
+      "duration_ms": 357000,
+      "name": "Going about my day",
+      "url": "https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14"
+    },
+    {
+      "added_at": "2026-06-10 16:09:57",
+      "album": {
+        "name": "garden",
+        "url": "https://open.spotify.com/album/2uZQ9xiJnKy1TCTaOdBfGK"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "garden",
+      "url": "https://open.spotify.com/track/11sRSIkYZckr2QnPPNqss5"
     },
     {
       "added_at": "2026-05-20 16:23:12",
@@ -41,20 +137,36 @@
       "url": "https://open.spotify.com/track/42EW9h83a492E9z9Kh4n0y"
     },
     {
-      "added_at": "2026-05-29 04:02:21",
+      "added_at": "2026-06-10 16:09:57",
       "album": {
-        "name": "JACKIE'S BACK",
-        "url": "https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI"
+        "name": "two crows",
+        "url": "https://open.spotify.com/album/1WMsTboGCN24oLXoyYIH2u"
       },
       "artists": [
         {
-          "name": "ASHMOOR",
-          "url": "https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8"
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
         }
       ],
-      "duration_ms": 159250,
-      "name": "JACKIE'S BACK",
-      "url": "https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8"
+      "duration_ms": 249386,
+      "name": "two crows",
+      "url": "https://open.spotify.com/track/0c9LZHh6EBmE8JZdy2nd1q"
+    },
+    {
+      "added_at": "2026-06-10 16:09:57",
+      "album": {
+        "name": "Art of Suggestion",
+        "url": "https://open.spotify.com/album/4C4cMisgt6r0VwHv211f3R"
+      },
+      "artists": [
+        {
+          "name": "Asha Jefferies",
+          "url": "https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Art of Suggestion",
+      "url": "https://open.spotify.com/track/05tK6vKJJmFe3yDMw9wsLH"
     },
     {
       "added_at": "2026-05-13 15:04:02",
@@ -75,54 +187,6 @@
       "duration_ms": 182991,
       "name": "Salt",
       "url": "https://open.spotify.com/track/7ceXS6lQW6ypMvRumTvJXm"
-    },
-    {
-      "added_at": "2026-05-27 04:00:16",
-      "album": {
-        "name": "Charlotte",
-        "url": "https://open.spotify.com/album/2ATLGEbRabpIoZUXaXbZFk"
-      },
-      "artists": [
-        {
-          "name": "mal sounds",
-          "url": "https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "Charlotte",
-      "url": "https://open.spotify.com/track/7KgXJXYVylryirh1gNQ6LI"
-    },
-    {
-      "added_at": "2026-05-27 04:00:16",
-      "album": {
-        "name": "Car Park Cult",
-        "url": "https://open.spotify.com/album/2RaXVH29avsBTY4pLMZID5"
-      },
-      "artists": [
-        {
-          "name": "Mia Lord",
-          "url": "https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Car Park Cult",
-      "url": "https://open.spotify.com/track/0Ca74YE1XGRR6QcreQUDrq"
-    },
-    {
-      "added_at": "2026-05-20 16:23:12",
-      "album": {
-        "name": "BEST FRIEND",
-        "url": "https://open.spotify.com/album/4XT24ABR707MaW74Ap0XqK"
-      },
-      "artists": [
-        {
-          "name": "Carver Jones",
-          "url": "https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid"
-        }
-      ],
-      "duration_ms": 141383,
-      "name": "BEST FRIEND",
-      "url": "https://open.spotify.com/track/6uC01mhcVUqMZCmz0czKIn"
     },
     {
       "added_at": "2026-05-27 04:00:16",
@@ -155,6 +219,134 @@
       "duration_ms": 166167,
       "name": "i wait, i sink",
       "url": "https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN"
+    },
+    {
+      "added_at": "2026-06-10 16:09:57",
+      "album": {
+        "name": "City Song",
+        "url": "https://open.spotify.com/album/7oxROZAed2GKG445YpMOw6"
+      },
+      "artists": [
+        {
+          "name": "Anya True",
+          "url": "https://open.spotify.com/artist/434RAZcodjM2CnvNOU66kP"
+        }
+      ],
+      "duration_ms": 237241,
+      "name": "City Song",
+      "url": "https://open.spotify.com/track/6ooXgSknViVHVuQN7f0cc5"
+    },
+    {
+      "added_at": "2026-06-10 16:09:57",
+      "album": {
+        "name": "Kissing",
+        "url": "https://open.spotify.com/album/39pzo4GRyA5n2C8OurFeYM"
+      },
+      "artists": [
+        {
+          "name": "Juice Webster",
+          "url": "https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "Kissing",
+      "url": "https://open.spotify.com/track/76Rw0OZbQGagv5k5afl8mE"
+    },
+    {
+      "added_at": "2026-06-10 16:09:57",
+      "album": {
+        "name": "Sick Little Star",
+        "url": "https://open.spotify.com/album/1uEeitL5GJOsIaoxmG7ATz"
+      },
+      "artists": [
+        {
+          "name": "Noelle Sucks",
+          "url": "https://open.spotify.com/artist/2kj9J1mkap7VGmtgqJi5yB"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "2nd Guesser",
+      "url": "https://open.spotify.com/track/5RA3QA1S8DtYJ2zWGdjd1n"
+    },
+    {
+      "added_at": "2026-05-27 04:00:16",
+      "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/2ATLGEbRabpIoZUXaXbZFk"
+      },
+      "artists": [
+        {
+          "name": "mal sounds",
+          "url": "https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "Charlotte",
+      "url": "https://open.spotify.com/track/7KgXJXYVylryirh1gNQ6LI"
+    },
+    {
+      "added_at": "2026-06-10 16:09:57",
+      "album": {
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/68xP2NPfSLLmVjJ6SYMT8W"
+      },
+      "artists": [
+        {
+          "name": "Asal Hazel",
+          "url": "https://open.spotify.com/artist/0Qnzp2no3f8GqBNh7Jywtt"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/4FvPEmDNN1oZDj7sqUNTWv"
+    },
+    {
+      "added_at": "2026-05-27 04:00:16",
+      "album": {
+        "name": "Car Park Cult",
+        "url": "https://open.spotify.com/album/2RaXVH29avsBTY4pLMZID5"
+      },
+      "artists": [
+        {
+          "name": "Mia Lord",
+          "url": "https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Car Park Cult",
+      "url": "https://open.spotify.com/track/0Ca74YE1XGRR6QcreQUDrq"
+    },
+    {
+      "added_at": "2026-05-29 04:02:21",
+      "album": {
+        "name": "JACKIE'S BACK",
+        "url": "https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI"
+      },
+      "artists": [
+        {
+          "name": "ASHMOOR",
+          "url": "https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "JACKIE'S BACK",
+      "url": "https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8"
+    },
+    {
+      "added_at": "2026-05-20 16:23:12",
+      "album": {
+        "name": "BEST FRIEND",
+        "url": "https://open.spotify.com/album/4XT24ABR707MaW74Ap0XqK"
+      },
+      "artists": [
+        {
+          "name": "Carver Jones",
+          "url": "https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid"
+        }
+      ],
+      "duration_ms": 141383,
+      "name": "BEST FRIEND",
+      "url": "https://open.spotify.com/track/6uC01mhcVUqMZCmz0czKIn"
     },
     {
       "added_at": "2026-05-06 17:59:13",
@@ -1011,218 +1203,6 @@
       "duration_ms": 172016,
       "name": "some thing special",
       "url": "https://open.spotify.com/track/5C1axVGQqPrmZMzFA7pE6R"
-    },
-    {
-      "added_at": "2026-04-01 16:00:37",
-      "album": {
-        "name": "Tethered",
-        "url": "https://open.spotify.com/album/3UhgtMPRpwgdjVkExAGZOo"
-      },
-      "artists": [
-        {
-          "name": "Eilish Constance",
-          "url": "https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj"
-        }
-      ],
-      "duration_ms": 203312,
-      "name": "Tethered",
-      "url": "https://open.spotify.com/track/0r3lhQvFpzXSgm86156k1w"
-    },
-    {
-      "added_at": "2026-03-11 17:52:17",
-      "album": {
-        "name": "Never change, love you always",
-        "url": "https://open.spotify.com/album/4Zdz41nIVoVftrPWRVwIWW"
-      },
-      "artists": [
-        {
-          "name": "Bedelia",
-          "url": "https://open.spotify.com/artist/2y1uY0iJhBmQ2pbJpj94Vz"
-        }
-      ],
-      "duration_ms": 204554,
-      "name": "Do you miss me at all",
-      "url": "https://open.spotify.com/track/2qNlbiYVufbqIvxBugp3Rf"
-    },
-    {
-      "added_at": "2026-04-08 16:00:06",
-      "album": {
-        "name": "Too High",
-        "url": "https://open.spotify.com/album/2D4dPVB0sqry9nQsstRz22"
-      },
-      "artists": [
-        {
-          "name": "justineisdreaming",
-          "url": "https://open.spotify.com/artist/2oMHMRgVWBUPkVVHlA2m9G"
-        }
-      ],
-      "duration_ms": 189803,
-      "name": "Too High",
-      "url": "https://open.spotify.com/track/2wdTJYMzFUwerk3ogZdyS0"
-    },
-    {
-      "added_at": "2026-03-25 16:00:36",
-      "album": {
-        "name": "Behind The Wings",
-        "url": "https://open.spotify.com/album/1ANVPaZLBRPTmQc3ara4ON"
-      },
-      "artists": [
-        {
-          "name": "gianna",
-          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
-        }
-      ],
-      "duration_ms": 198048,
-      "name": "Start at the End",
-      "url": "https://open.spotify.com/track/3Hoe1YtEchcNP7Jn5ff5Lz"
-    },
-    {
-      "added_at": "2026-04-01 16:00:37",
-      "album": {
-        "name": "Postinternetfame / Self Tape",
-        "url": "https://open.spotify.com/album/34pUJjYymPU7jioThphtiR"
-      },
-      "artists": [
-        {
-          "name": "Quiet Light",
-          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
-        }
-      ],
-      "duration_ms": 141864,
-      "name": "Postinternetfame",
-      "url": "https://open.spotify.com/track/1EiHTft00amQg7z5TX2lLh"
-    },
-    {
-      "added_at": "2026-04-01 16:00:37",
-      "album": {
-        "name": "Whole World As Vigil",
-        "url": "https://open.spotify.com/album/1FijSy0VEvdrUTNCwJqgRJ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Auder",
-          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
-        }
-      ],
-      "duration_ms": 297252,
-      "name": "say nothing",
-      "url": "https://open.spotify.com/track/14kvSSMXYjRRath6EaxGlg"
-    },
-    {
-      "added_at": "2026-04-01 16:00:37",
-      "album": {
-        "name": "Detach",
-        "url": "https://open.spotify.com/album/1iuKoseytcSoJYP1ZruahH"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Detach",
-      "url": "https://open.spotify.com/track/7aGNMANsxb9b4x6r5AmfKt"
-    },
-    {
-      "added_at": "2026-03-25 16:00:36",
-      "album": {
-        "name": "Never Do It Right",
-        "url": "https://open.spotify.com/album/0YKIrcu1jkPb9MUbObGtUb"
-      },
-      "artists": [
-        {
-          "name": "Noah Praise God",
-          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
-        }
-      ],
-      "duration_ms": 248198,
-      "name": "Never Do It Right",
-      "url": "https://open.spotify.com/track/0mV4QNbQb0t7rqKz35sOUa"
-    },
-    {
-      "added_at": "2026-03-25 16:00:36",
-      "album": {
-        "name": "herts on fire",
-        "url": "https://open.spotify.com/album/04G4D5LWqd7hmTIiAUHxEs"
-      },
-      "artists": [
-        {
-          "name": "svn4vr",
-          "url": "https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B"
-        }
-      ],
-      "duration_ms": 119741,
-      "name": "where did everybody go after the show",
-      "url": "https://open.spotify.com/track/3TQNYcQpNk68ANvFCkodeM"
-    },
-    {
-      "added_at": "2026-03-25 16:00:36",
-      "album": {
-        "name": "To Be Fine",
-        "url": "https://open.spotify.com/album/7l3mAmNxvG0g4lGbQ5lE65"
-      },
-      "artists": [
-        {
-          "name": "LUELLA",
-          "url": "https://open.spotify.com/artist/5EuEIhWiYpGRPeDZKfHfV9"
-        }
-      ],
-      "duration_ms": 156828,
-      "name": "To Be Fine",
-      "url": "https://open.spotify.com/track/56VBBKn2Vr2YB06ytez7Sm"
-    },
-    {
-      "added_at": "2026-03-18 17:42:54",
-      "album": {
-        "name": "Crisscross Way",
-        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
-      },
-      "artists": [
-        {
-          "name": "ggwendolyn",
-          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
-        }
-      ],
-      "duration_ms": 164344,
-      "name": "Crisscross Way",
-      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
-    },
-    {
-      "added_at": "2026-02-25 17:24:17",
-      "album": {
-        "name": "I Know!",
-        "url": "https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW"
-      },
-      "artists": [
-        {
-          "name": "Swapmeet",
-          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
-        }
-      ],
-      "duration_ms": 214304,
-      "name": "I Know!",
-      "url": "https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t"
-    },
-    {
-      "added_at": "2026-03-18 17:42:54",
-      "album": {
-        "name": "Crutch",
-        "url": "https://open.spotify.com/album/4zyDCy2bDu6BZKYcDIYlOl"
-      },
-      "artists": [
-        {
-          "name": "lil ket",
-          "url": "https://open.spotify.com/artist/4eRIX5JhG8gg3Hk5T9EqJ7"
-        },
-        {
-          "name": "David Grey",
-          "url": "https://open.spotify.com/artist/06W41FIA9jGjGvEXonnrfC"
-        }
-      ],
-      "duration_ms": 151356,
-      "name": "Crutch",
-      "url": "https://open.spotify.com/track/1dS0XYWVtLNrkfyG8VAfEa"
     }
   ],
   "unique_name": "Fresh Finds Indie",

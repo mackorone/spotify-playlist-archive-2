@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132679,
+  "num_followers": 132684,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAAxIK0Y+rwjm5a9vhvc1WYG",
+  "snapshot_id": "aidXgAAAAAD6mvxdOFHW1MWzDGJCFTGr",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siga em Frente",
-        "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 253004,
-      "name": "Lugar Santo",
-      "url": "https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jerusal\u00e9m e Eu",
         "url": "https://open.spotify.com/album/7tuxsnL55xrxw4GjIugQhK"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 313306,
       "name": "Jerusal\u00e9m e Eu",
       "url": "https://open.spotify.com/track/6rQ3Z7rzm7XAt620Nqk4lo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siga em Frente",
+        "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 253004,
+      "name": "Lugar Santo",
+      "url": "https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 419263,
-      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Com os Olhos da F\u00e9",
         "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 287602,
       "name": "Com os Olhos da F\u00e9",
       "url": "https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 419263,
+      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Esoterica
 
-282 songs - 13 hr 22 min
+283 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Some Day](https://open.spotify.com/track/7z7IvpSd8hAXZM73L8Y3Ag) | [Kyla Blac](https://open.spotify.com/artist/1kwzoZ4QgiipDIZF5UzWpz) | [Some Day](https://open.spotify.com/album/0kwrnDyLze42o9jAVJiWSD) | 3:12 | 2024-11-29 | 2025-05-30 |
 | [Some More](https://open.spotify.com/track/7qZOtiN7oiDpKqEVW7szZc) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Some More](https://open.spotify.com/album/6hpBTb0X11p3Tp3hVtf09C) | 2:02 | 2025-10-10 | 2025-10-25 |
 | [Sonfo](https://open.spotify.com/track/4gqI025AvVoK8qvTju5zN8) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Sonfo](https://open.spotify.com/album/0nZYkn0faXzsBY5JnwN4Mu) | 2:59 | 2025-09-05 | 2025-10-09 |
+| [SpaceFuji](https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Terry apala](https://open.spotify.com/artist/1Ct52UFTjvAZu1pOuMWXY1), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SpaceFuji](https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP) | 3:19 | 2026-06-05 |  |
 | [Speed](https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo) | 2:54 | 2025-11-14 |  |
 | [Stay Far](https://open.spotify.com/track/10e3UqAjkFbHOIr85l9vrN) | [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Stay Far](https://open.spotify.com/album/1VqUiyDvMZetDUxttTeDfa) | 2:37 | 2026-02-27 |  |
 | [Still I Shine](https://open.spotify.com/track/5q4fvEhTbYw4a2lolAD3Hm) | [Amara](https://open.spotify.com/artist/7KQyGCLgWoO7IDu4I8Votk) | [Still I Shine](https://open.spotify.com/album/3UoMhwvsM0iN095JOdKLhM) | 1:29 | 2026-01-09 | 2026-05-01 |

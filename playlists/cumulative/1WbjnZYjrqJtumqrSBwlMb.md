@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,334 songs - 3 day 9 hr 58 min
+1,335 songs - 3 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1140,6 +1140,7 @@
 | [The End](https://open.spotify.com/track/0L3STJ13YPoscCLmzn9ziW) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp), [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY), [Cynthoni](https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6) | [Stardust](https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X) | 8:43 | 2025-12-02 |  |
 | [The End.](https://open.spotify.com/track/6s2yqZbiPNPL1B2IeCMsUA) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 1:52 | 2025-07-03 |  |
 | [The Everglades \(For Leonard\)](https://open.spotify.com/track/5TztAWoMbNwmAxMR7sNpjD) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 2:56 | 2024-01-30 |  |
+| [the feeling](https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [the feeling](https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u) | 4:35 | 2026-06-11 |  |
 | [The Feeling of Drifting Apart](https://open.spotify.com/track/34KbKD39tNltI27Duvdm0M) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You \(Deluxe\)](https://open.spotify.com/album/3ttPsHix6tJ7mqV8BcwOFp) | 3:05 | 2021-11-03 |  |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-13 |  |
 | [The Garden](https://open.spotify.com/track/0xUeLKG6g1vGXSlHDsLKAf) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 6:20 | 2023-04-07 |  |

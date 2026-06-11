@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144668,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/52LUfqJkuNuoP9X7Btyubz"
+    },
+    {
+      "album": {
         "name": "EVERYTHING IS LOVE",
         "url": "https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp"
       },

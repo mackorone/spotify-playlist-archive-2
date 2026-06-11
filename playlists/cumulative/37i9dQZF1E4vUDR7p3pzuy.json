@@ -446,7 +446,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 219425,
       "name": "Again",
       "url": "https://open.spotify.com/track/32RlMu4tqWNlWUfEJDSRXP"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 264441,
       "name": "All the Things I Could've Done",
       "url": "https://open.spotify.com/track/3lBB3QBBf8Sv0EJ3hBLYqv"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 194285,
       "name": "Avere Vent\u2019Anni",
       "url": "https://open.spotify.com/track/5IJ1mEnfHPGVO2IKBNTRIM"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 219852,
       "name": "Big Old Mommy",
       "url": "https://open.spotify.com/track/1U00ElMIAgXyPkvoz16vFu"
@@ -1824,7 +1824,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 158571,
       "name": "Broken Strings",
       "url": "https://open.spotify.com/track/7wexiA4PQ2hIt2CSylzyNe"
@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 211981,
       "name": "Castle of love II",
       "url": "https://open.spotify.com/track/5S7AVhwllnAQ3ZOgf7SnLn"
@@ -2864,7 +2864,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 284000,
       "name": "Creatures",
       "url": "https://open.spotify.com/track/1urEpOSEqOpGFYWO1fl4Rw"
@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 249213,
       "name": "Cross Over",
       "url": "https://open.spotify.com/track/3AI4CMMCPiomwJb0qUM2JW"
@@ -3414,6 +3414,24 @@
       "duration_ms": 258683,
       "name": "Deep Fake Heaven",
       "url": "https://open.spotify.com/track/4Kpl7vYWPBb4upHb9nkvY4"
+    },
+    {
+      "album": {
+        "name": "Deerslayer",
+        "url": "https://open.spotify.com/album/3eZMtVR294gDulrx9AsAOB"
+      },
+      "artists": [
+        {
+          "name": "M.R. Arocho",
+          "url": "https://open.spotify.com/artist/1meCX8paJTqBhYz0wc2UfZ"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291201,
+      "name": "Deerslayer",
+      "url": "https://open.spotify.com/track/33hRehaG2yHnh7AYokJHNN"
     },
     {
       "album": {
@@ -4464,7 +4482,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 201526,
       "name": "Fear Of Love",
       "url": "https://open.spotify.com/track/2iaqIN46Ag9tfrb4h6AStT"
@@ -4716,7 +4734,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 281093,
       "name": "Flying Above",
       "url": "https://open.spotify.com/track/3KxLL2A8iaViZNq5wkBr58"
@@ -5672,7 +5690,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 124346,
       "name": "Help I'm Alive - Edit Slowed",
       "url": "https://open.spotify.com/track/5uCBspPgSxKqnj7Lx6tl6J"
@@ -5946,7 +5964,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 172605,
       "name": "Homebody",
       "url": "https://open.spotify.com/track/1oWVMlsltrtxzyht83O7Xi"
@@ -6357,6 +6375,24 @@
     },
     {
       "album": {
+        "name": "i'm no good @writing songs.demo",
+        "url": "https://open.spotify.com/album/4EzyurDZaR4vi5CoJriHdK"
+      },
+      "artists": [
+        {
+          "name": "earthfather",
+          "url": "https://open.spotify.com/artist/1vzEPc7tDxpodqB3ceycIh"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "i'm no good @writing songs.demo",
+      "url": "https://open.spotify.com/track/1P4R4eOXqKXj0vfL4hxqMe"
+    },
+    {
+      "album": {
         "name": "Another Fiasco",
         "url": "https://open.spotify.com/album/7bEzRgNRfiddDKfpUL6GW8"
       },
@@ -6591,6 +6627,24 @@
     },
     {
       "album": {
+        "name": "Inside of a magnolia",
+        "url": "https://open.spotify.com/album/5fTB0FcbMYDKZ87A666srP"
+      },
+      "artists": [
+        {
+          "name": "Dragons of Stone",
+          "url": "https://open.spotify.com/artist/1sDczqWOy2A7spQWrJJJYZ"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Inside of a magnolia",
+      "url": "https://open.spotify.com/track/2mONSUriKABbVj4fbrVUvX"
+    },
+    {
+      "album": {
         "name": "She Wants Revenge (Expanded Edition)",
         "url": "https://open.spotify.com/album/606XPKmKKokbQk0cECWYbz"
       },
@@ -6624,7 +6678,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 300657,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/5OpELtr3dNunXMon9HCoo1"
@@ -7480,7 +7534,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 253020,
       "name": "Lich Tree",
       "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
@@ -7516,7 +7570,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 262226,
       "name": "Life on a chain",
       "url": "https://open.spotify.com/track/5H0c1YApnVuiXwXxHPDQIO"
@@ -7606,7 +7660,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 148000,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/0WxMCIhAMjWaoCp81b57An"
@@ -8190,7 +8244,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 126000,
       "name": "METALLIC BEAST",
       "url": "https://open.spotify.com/track/7p4KjkqL2J7xSv08Ap6XSz"
@@ -8644,7 +8698,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 157920,
       "name": "My Place",
       "url": "https://open.spotify.com/track/5DbtmCIsreWgX7LEKStfWj"
@@ -10436,7 +10490,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 199084,
       "name": "Sand Or Mortar",
       "url": "https://open.spotify.com/track/39GehNemGZqQdWoUAIlkPD"
@@ -11418,7 +11472,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 178396,
       "name": "Sober & High",
       "url": "https://open.spotify.com/track/7nbpDrYUJLUo1vac6D7cfD"
@@ -11768,7 +11822,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 346079,
       "name": "Stay",
       "url": "https://open.spotify.com/track/11USUsmzuVO2BeCBxx9ZzV"
@@ -12100,7 +12154,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 252750,
       "name": "Suspension",
       "url": "https://open.spotify.com/track/62UFFJ0n5385Q8ZY1Z6WsX"
@@ -12176,7 +12230,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 146391,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/41qAz938Ldd6EDiDFabseu"
@@ -13851,6 +13905,24 @@
     },
     {
       "album": {
+        "name": "Commemorate",
+        "url": "https://open.spotify.com/album/2MBYk2ZANUFYsexjD0hs6i"
+      },
+      "artists": [
+        {
+          "name": "Witch of the Vale",
+          "url": "https://open.spotify.com/artist/7axp614rqaTEKnaeQJ8F3V"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199541,
+      "name": "Trust the Pain",
+      "url": "https://open.spotify.com/track/1mx38pvy0aNRdig8o3NRko"
+    },
+    {
+      "album": {
         "name": "Truth Behind The Lies",
         "url": "https://open.spotify.com/album/1iCfPzIOgxd4SwWudJq3E4"
       },
@@ -14284,7 +14356,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-11",
       "duration_ms": 229120,
       "name": "Vicious Vulture",
       "url": "https://open.spotify.com/track/36Bm2yVkgC35fVBCQ28jkh"

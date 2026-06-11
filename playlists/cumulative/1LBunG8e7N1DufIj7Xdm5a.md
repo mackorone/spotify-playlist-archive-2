@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,445 songs - 9 day 21 hr 47 min
+4,447 songs - 9 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1821,6 +1821,7 @@
 | [Hooligan](https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:02 | 2026-04-12 |  |
 | [Hope](https://open.spotify.com/track/1PHGQ4S3BYzVjlJzBTmA1u) | [Time To Act](https://open.spotify.com/artist/1BVpWWRehngvGon8JXiAiq), [Midnight Mastermind](https://open.spotify.com/artist/71cdh6bParEyNIpqdkzuiT), [Anza](https://open.spotify.com/artist/7mc3mMH1cDDlVDaLdmZMtE) | [Hope](https://open.spotify.com/album/6UHZnGqUt5hfVv95aWZf9F) | 2:39 | 2026-02-01 |  |
 | [Hopefully...The Last Goodbye.](https://open.spotify.com/track/5106evLuvMederRfQlZUpr) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Hopefully...The Last Goodbye.](https://open.spotify.com/album/5iQCgvwhhtC3cWs8EqqJEv) | 2:14 | 2025-07-11 |  |
+| [Hora Extra](https://open.spotify.com/track/4053HFfOXn9Do320YTig0A) | [CLT S/IA](https://open.spotify.com/artist/3tDyxGelWbCsYiOa6ygWGv), [Lia Liberty](https://open.spotify.com/artist/143AjJas8i1bJCHcwcI1Sm) | [CLT \- Correndo, Lutando, Tentando](https://open.spotify.com/album/5uBU3B5F3ES12hKCGSkVvW) | 4:14 | 2026-06-10 |  |
 | [Horizon](https://open.spotify.com/track/0D4yi2JyZjA6DnPzwnKzWa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 3:03 | 2025-09-17 |  |
 | [Horizon \(another\)](https://open.spotify.com/track/1FzKHWKKuW7tvBHaoXZ1YT) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 2:43 | 2025-09-17 |  |
 | [Horizons](https://open.spotify.com/track/27IAMy3JCw9sHoRbSssHCE) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 3:03 | 2025-10-09 |  |
@@ -1964,6 +1965,7 @@
 | [Intro \- Lo Scommettitore](https://open.spotify.com/track/6X50QZJawVfUBLZTU64SzM) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Lo Scommettitore](https://open.spotify.com/album/5IfnJZpGKhohKV3yjQUuc0) | 1:12 | 2025-04-04 |  |
 | [Invierno, recordar](https://open.spotify.com/track/7vr3JUqR1ePVTunGlEShPs) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Estaciones](https://open.spotify.com/album/6cPmSd73dLyqLlaEMXQrOD) | 2:43 | 2026-04-12 |  |
 | [Invierno, tenue luz](https://open.spotify.com/track/74E2et14iIdFgTRCY9kDPx) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Estaciones](https://open.spotify.com/album/6cPmSd73dLyqLlaEMXQrOD) | 2:30 | 2026-04-12 |  |
+| [Invisible](https://open.spotify.com/track/0aP3LYmLNtqVo2snExQMlQ) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [Invisible](https://open.spotify.com/album/0hMHlldCdHj7tFHvGNC5yt) | 6:37 | 2026-06-10 |  |
 | [Io sono Mimì](https://open.spotify.com/track/2B01btrmxsnDQv4VifXquI) | [Mimì Scano](https://open.spotify.com/artist/0GsT5bKZFG4ECfrFS25S4Q) | [Io sono Mimì](https://open.spotify.com/album/0mRGy8RZcfOJVbd6Kfjit3) | 3:05 | 2026-02-13 |  |
 | [IO SONO QUI](https://open.spotify.com/track/0OLOmMmkbfMY3c39PtjXqy) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [IO SONO QUI](https://open.spotify.com/album/3nrsk9jpePUmSKLpti0HoO) | 4:16 | 2025-06-01 |  |
 | [Io vivo](https://open.spotify.com/track/1vczhIDK1x7QkcbSIhhiVF) | [Acudo](https://open.spotify.com/artist/2MThqxPPasmHbVF2DB9RkF) | [Io vivo](https://open.spotify.com/album/5bLk4pIX5FF1710OA8XXi2) | 3:41 | 2025-06-06 |  |

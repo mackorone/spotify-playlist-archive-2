@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,648 likes - 277 songs - 14 hr 52 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,652 likes - 286 songs - 15 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -285,5 +285,14 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 275 | [Bleach](https://open.spotify.com/track/1lH6zEMSZHul8Mbj5y4wtf) | [mischa and the bear](https://open.spotify.com/artist/3cFTwm9iMUeFMNMmrnb1s6) | [Bleach](https://open.spotify.com/album/7KJ9r2YHllq5jnGCceHHEY) | 3:16 |
 | 276 | [Annabel Lee](https://open.spotify.com/track/24trlYsqKf6zQHMbtI5DM8) | [Anton](https://open.spotify.com/artist/5ZwvlOmddwRvA3nwQXY13r) | [Annabel Lee](https://open.spotify.com/album/33LJVjtrXwt8jA0dGaUZnr) | 2:49 |
 | 277 | [Emergency Exit Only](https://open.spotify.com/track/4jZbOJLvgmb17iK1mCosvu) | [Rust Assembly](https://open.spotify.com/artist/3hQQymTzwZPzi1cW1eHhUJ) | [Modern Sins](https://open.spotify.com/album/7MlNfZHV6cDYHsZIiGnyJY) | 3:03 |
+| 278 | [Enemy](https://open.spotify.com/track/4I9xmZk16UtBCbKKbahKzt) | [B3N J4Y](https://open.spotify.com/artist/2CRdivwsMfGbPA9Ks6k8S0) | [Enemy](https://open.spotify.com/album/6ZISWkrXz6Fce6AZmN6aBL) | 2:52 |
+| 279 | [Can you find me, you, us?](https://open.spotify.com/track/4Vy43mZwMGaZYauuhozOuN) | [Sam Gracie](https://open.spotify.com/artist/576fzEKY5nF0A41qBjc5eu), [Cece](https://open.spotify.com/artist/3D3cjIlmXdnZchg4cHnlDN), [Avid Beats](https://open.spotify.com/artist/7l0hdGnWLiYaomWmrFS8cZ) | [Can you find me, you, us?](https://open.spotify.com/album/4Cz8mBNj8UHi2K2uMPHvos) | 2:41 |
+| 280 | [Plot Plan Marry](https://open.spotify.com/track/1tZfwg6NbnAYIPPJaJ9ZEl) | [Angryoldogs](https://open.spotify.com/artist/7cHpausiZERLZ4zvljNVo9) | [Plot Plan Marry](https://open.spotify.com/album/2pRH6wYaa7E43h1jlEGtpG) | 2:42 |
+| 281 | [In The Snow](https://open.spotify.com/track/7lUM5HOPzaMYZLv7Rr3KuP) | [Vane](https://open.spotify.com/artist/574EpCX5szDnIiCiyntBAO) | [In The Snow](https://open.spotify.com/album/2OP4BOygZ0MwZXeB46vMlH) | 3:29 |
+| 282 | [Dangerous Game](https://open.spotify.com/track/5pWtbDJqsk1eIh3liX7rhF) | [Evan Fahey](https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi) | [Dangerous Game](https://open.spotify.com/album/4jVEvRuwWZUxpGVxCVulWK) | 2:30 |
+| 283 | [You fill my life](https://open.spotify.com/track/3mfd2t6gCPVT4EPTshodMW) | [Debora Gioè](https://open.spotify.com/artist/6C9jZZoxXCFasaJ989cQyd) | [You fill my life](https://open.spotify.com/album/2QHcqrhbL3napTYSiPdBWI) | 3:23 |
+| 284 | [close to you](https://open.spotify.com/track/3XczO5hMAOLn2nuwSnXXEP) | [luizday](https://open.spotify.com/artist/1Pp6JUjIdcuyy49ZMUGJh5) | [After The Fire](https://open.spotify.com/album/1Pr3PW22wuuDXFY30vx5h4) | 2:56 |
+| 285 | [You & I Bright Our Day](https://open.spotify.com/track/3aUdQKTQJ20EKpqkv2aDuO) | [Thee Phoniques](https://open.spotify.com/artist/4aOlREicgEGbc226Uo05yN) | [Afterglow & Heartbreak](https://open.spotify.com/album/5vw6BIcRFggUB0cpT2kiTf) | 3:13 |
+| 286 | [Buried Crown](https://open.spotify.com/track/1NGoi9MJ1DmQ6CVRGwMWvc) | [Boundless Echoes](https://open.spotify.com/artist/6MabNjOvXDNYufvCBf8vQA) | [Buried Crown](https://open.spotify.com/album/6eJcArNJRhB1UauhCB3Eit) | 3:05 |
 
-Snapshot ID: `AAA5QNHbIdFXmoCGOyeVR4iuhrKznifg`
+Snapshot ID: `AAA5SVH/a2MoKmvME+lkHed03/f4pt7j`

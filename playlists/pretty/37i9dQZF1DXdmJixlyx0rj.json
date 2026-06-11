@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: I\u00d6N)",
-  "num_followers": 37272,
+  "num_followers": 37278,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-06-03 12:46:57",
       "album": {
+        "name": "IF U WANT IT",
+        "url": "https://open.spotify.com/album/3X4dqVdCKZJQneZ6Nn8IDr"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "duration_ms": 340660,
+      "name": "I DON'T CARE",
+      "url": "https://open.spotify.com/track/0N9WQE0WCPetQduRvRRu1r"
+    },
+    {
+      "added_at": "2026-06-03 12:46:57",
+      "album": {
         "name": "Nocturne 07 (for aerse)",
         "url": "https://open.spotify.com/album/3cs88X4vsJW3H5O69QC9GN"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 152473,
       "name": "Nocturne 07 (for aerse)",
       "url": "https://open.spotify.com/track/3CV5geHX47MIejxoQ9evgA"
-    },
-    {
-      "added_at": "2026-06-03 12:46:57",
-      "album": {
-        "name": "IF U WANT IT",
-        "url": "https://open.spotify.com/album/3X4dqVdCKZJQneZ6Nn8IDr"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
-        }
-      ],
-      "duration_ms": 340660,
-      "name": "I DON'T CARE",
-      "url": "https://open.spotify.com/track/0N9WQE0WCPetQduRvRRu1r"
     },
     {
       "added_at": "2026-06-03 12:46:57",
@@ -663,30 +663,6 @@
     {
       "added_at": "2026-06-03 12:46:57",
       "album": {
-        "name": "Do It Like That (Alan Walker Remix)",
-        "url": "https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 139441,
-      "name": "Do It Like That (Alan Walker Remix)",
-      "url": "https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ"
-    },
-    {
-      "added_at": "2026-06-03 12:46:57",
-      "album": {
         "name": "3D (feat. Jack Harlow) (MK Remix)",
         "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
       },
@@ -707,6 +683,30 @@
       "duration_ms": 186241,
       "name": "3D (feat. Jack Harlow) (MK Remix)",
       "url": "https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy"
+    },
+    {
+      "added_at": "2026-06-03 12:46:57",
+      "album": {
+        "name": "Do It Like That (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 139441,
+      "name": "Do It Like That (Alan Walker Remix)",
+      "url": "https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ"
     },
     {
       "added_at": "2026-06-03 12:46:57",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-06-03 12:46:57",
       "album": {
-        "name": "everybody dies",
-        "url": "https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 152079,
-      "name": "everybody dies",
-      "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
-    },
-    {
-      "added_at": "2026-06-03 12:46:57",
-      "album": {
         "name": "MONA LISA (Remix so fine)",
         "url": "https://open.spotify.com/album/7F8rn56kgdWo2Vnn5NhMYp"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 185142,
       "name": "MONA LISA (Afro House Remix)",
       "url": "https://open.spotify.com/track/2lN3Z7lWjGcR0CJ1jOyb9W"
+    },
+    {
+      "added_at": "2026-06-03 12:46:57",
+      "album": {
+        "name": "everybody dies",
+        "url": "https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 152079,
+      "name": "everybody dies",
+      "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
     },
     {
       "added_at": "2026-06-03 12:46:57",
@@ -843,6 +843,26 @@
     {
       "added_at": "2026-06-03 12:46:57",
       "album": {
+        "name": "Keep My Light On",
+        "url": "https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Keep My Light On",
+      "url": "https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou"
+    },
+    {
+      "added_at": "2026-06-03 12:46:57",
+      "album": {
         "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
         "url": "https://open.spotify.com/album/4FJWDOLq0eiu0WGrJHqZfo"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 64389,
       "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
       "url": "https://open.spotify.com/track/05w1GGQQl1NEw0hEznuANx"
-    },
-    {
-      "added_at": "2026-06-03 12:46:57",
-      "album": {
-        "name": "Keep My Light On",
-        "url": "https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Raiden",
-          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Keep My Light On",
-      "url": "https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou"
     },
     {
       "added_at": "2026-06-03 12:46:57",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-06-03 12:46:57",
       "album": {
-        "name": "Unstable",
-        "url": "https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI"
-      },
-      "artists": [
-        {
-          "name": "Itzel",
-          "url": "https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Unstable",
-      "url": "https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp"
-    },
-    {
-      "added_at": "2026-06-03 12:46:57",
-      "album": {
         "name": "Falling In Love (feat. Natalie Major)",
         "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2026-06-03 12:46:57",
       "album": {
+        "name": "Unstable",
+        "url": "https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI"
+      },
+      "artists": [
+        {
+          "name": "Itzel",
+          "url": "https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Unstable",
+      "url": "https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp"
+    },
+    {
+      "added_at": "2026-06-03 12:46:57",
+      "album": {
         "name": "iScreaM Vol.24 : Perfume Remixes",
         "url": "https://open.spotify.com/album/3skTjLZNSAmGdEMY1qSRhc"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 168973,
       "name": "Perfume - Jafunk Remix",
       "url": "https://open.spotify.com/track/6l0ak0PKqf4DOLnlrhgIe9"
-    },
-    {
-      "added_at": "2026-06-03 12:46:57",
-      "album": {
-        "name": "Lucky Star",
-        "url": "https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR"
-      },
-      "artists": [
-        {
-          "name": "The Deep",
-          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
-        }
-      ],
-      "duration_ms": 162681,
-      "name": "Lucky Star",
-      "url": "https://open.spotify.com/track/3dmcBgER1RS6vTFbQVVVjt"
     },
     {
       "added_at": "2026-06-03 12:46:57",
@@ -1575,22 +1559,18 @@
     {
       "added_at": "2026-06-03 12:46:57",
       "album": {
-        "name": "SPAZ",
-        "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
+        "name": "Lucky Star",
+        "url": "https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR"
       },
       "artists": [
         {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
         }
       ],
-      "duration_ms": 169506,
-      "name": "Bassister (Feat. Kid Milli)",
-      "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
+      "duration_ms": 162681,
+      "name": "Lucky Star",
+      "url": "https://open.spotify.com/track/3dmcBgER1RS6vTFbQVVVjt"
     },
     {
       "added_at": "2026-06-03 12:46:57",
@@ -1611,18 +1591,22 @@
     {
       "added_at": "2026-06-03 12:46:57",
       "album": {
-        "name": "silkysmooth 05",
-        "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
+        "name": "SPAZ",
+        "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
       },
       "artists": [
         {
-          "name": "Silly Silky",
-          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
         }
       ],
-      "duration_ms": 181536,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
+      "duration_ms": 169506,
+      "name": "Bassister (Feat. Kid Milli)",
+      "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
     },
     {
       "added_at": "2026-06-03 12:46:57",
@@ -1643,6 +1627,22 @@
       "duration_ms": 190312,
       "name": "Iab",
       "url": "https://open.spotify.com/track/3uTfD1qpztCCQ55ifHJ982"
+    },
+    {
+      "added_at": "2026-06-03 12:46:57",
+      "album": {
+        "name": "silkysmooth 01",
+        "url": "https://open.spotify.com/album/0ozNLYHixaeddRLPLL9o8S"
+      },
+      "artists": [
+        {
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+        }
+      ],
+      "duration_ms": 242014,
+      "name": "murmur",
+      "url": "https://open.spotify.com/track/6KqF60TpACu4mtCCvqkNoN"
     },
     {
       "added_at": "2026-06-03 12:46:57",
@@ -1683,38 +1683,6 @@
     {
       "added_at": "2026-06-03 12:46:57",
       "album": {
-        "name": "Love Tune: Rewired",
-        "url": "https://open.spotify.com/album/5ZY7p28JBut9fdAOo8ge9B"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 184936,
-      "name": "SOS - Miami Bass Remix",
-      "url": "https://open.spotify.com/track/6mY0rdvsLjLQi2NIUCmph2"
-    },
-    {
-      "added_at": "2026-06-03 12:46:57",
-      "album": {
-        "name": "silkysmooth 01",
-        "url": "https://open.spotify.com/album/0ozNLYHixaeddRLPLL9o8S"
-      },
-      "artists": [
-        {
-          "name": "Silly Silky",
-          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
-        }
-      ],
-      "duration_ms": 242014,
-      "name": "murmur",
-      "url": "https://open.spotify.com/track/6KqF60TpACu4mtCCvqkNoN"
-    },
-    {
-      "added_at": "2026-06-03 12:46:57",
-      "album": {
         "name": "Pirate (R3HAB Remix)",
         "url": "https://open.spotify.com/album/0TOiUQo6nKVZOUZI7IM77r"
       },
@@ -1731,6 +1699,38 @@
       "duration_ms": 312000,
       "name": "Pirate (R3HAB Remix)",
       "url": "https://open.spotify.com/track/0ioCVkKxggJFTolmDwU3Bx"
+    },
+    {
+      "added_at": "2026-06-03 12:46:57",
+      "album": {
+        "name": "Love Tune: Rewired",
+        "url": "https://open.spotify.com/album/5ZY7p28JBut9fdAOo8ge9B"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 184936,
+      "name": "SOS - Miami Bass Remix",
+      "url": "https://open.spotify.com/track/6mY0rdvsLjLQi2NIUCmph2"
+    },
+    {
+      "added_at": "2026-06-03 12:46:57",
+      "album": {
+        "name": "silkysmooth 05",
+        "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
+      },
+      "artists": [
+        {
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+        }
+      ],
+      "duration_ms": 181536,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
     },
     {
       "added_at": "2026-06-03 12:46:57",
@@ -1831,18 +1831,22 @@
     {
       "added_at": "2026-06-03 12:46:57",
       "album": {
-        "name": "Residue",
-        "url": "https://open.spotify.com/album/04qz3xZdam9aGpU4kkfl6k"
+        "name": "iScreaM Vol.14 : Peaches Remixes",
+        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
       },
       "artists": [
         {
-          "name": "xiihu",
-          "url": "https://open.spotify.com/artist/1VkBOxWu1Zt1mdsd7Ex1u1"
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
         }
       ],
-      "duration_ms": 157600,
-      "name": "Residue",
-      "url": "https://open.spotify.com/track/6uOgK7b93PDAdofUK1fomL"
+      "duration_ms": 199453,
+      "name": "Peaches - SUMIN Remix",
+      "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
     },
     {
       "added_at": "2026-06-03 12:46:57",
@@ -1867,22 +1871,18 @@
     {
       "added_at": "2026-06-03 12:46:57",
       "album": {
-        "name": "iScreaM Vol.14 : Peaches Remixes",
-        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
+        "name": "Residue",
+        "url": "https://open.spotify.com/album/04qz3xZdam9aGpU4kkfl6k"
       },
       "artists": [
         {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+          "name": "xiihu",
+          "url": "https://open.spotify.com/artist/1VkBOxWu1Zt1mdsd7Ex1u1"
         }
       ],
-      "duration_ms": 199453,
-      "name": "Peaches - SUMIN Remix",
-      "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
+      "duration_ms": 157600,
+      "name": "Residue",
+      "url": "https://open.spotify.com/track/6uOgK7b93PDAdofUK1fomL"
     },
     {
       "added_at": "2026-06-03 12:46:57",

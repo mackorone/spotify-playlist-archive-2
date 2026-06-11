@@ -4,7 +4,7 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-151 songs - 7 hr 7 min
+152 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,11 +19,12 @@
 | [..FEISTY \- Oppidan remix](https://open.spotify.com/track/5beNaMT2Ffq0UQim5b7cuA) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB002 REMIXES](https://open.spotify.com/album/5qAnms6h7rHldnpQFKIgS9) | 2:41 | 2026-03-08 | 2026-03-13 |
 | [808](https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [808](https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI) | 2:21 | 2024-03-16 | 2025-09-24 |
 | [808 \(feat\. BIA\) \- VIP Mix](https://open.spotify.com/track/7JXv5zT2ScZD5M817AsiwD) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [808 \(feat\. BIA\) \[VIP Mix\]](https://open.spotify.com/album/0zRU6f717s06UmamIWvt6p) | 2:41 | 2024-06-30 | 2024-07-27 |
+| [a woman is a god \(BIA Remix\)](https://open.spotify.com/track/2hHaYh7P2cbuvuNBZK6brg) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [a woman is a god \(BIA Remix\)](https://open.spotify.com/album/6H3o2TGF69uezBCpFzcooK) | 2:58 | 2026-06-11 |  |
 | [a woman is a god \- BIA Remix](https://open.spotify.com/track/1bjKLAHQUcSOK6zBr9ZgDv) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [a woman is a god \(BIA Remix\)](https://open.spotify.com/album/1GM7yBzzTnJ7TvTysxvaQj) | 2:58 | 2022-10-28 | 2023-04-07 |
 | [AUTOMATIC \(feat\. Doe Boy & 42 Dugg\)](https://open.spotify.com/track/0PDno6z7Wn9gPYLn75QEMZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 3:09 | 2022-10-28 | 2025-07-20 |
 | [AWAKE](https://open.spotify.com/track/1785aAEXTfWVNB3y3z78en) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 2:20 | 2025-10-26 | 2025-12-19 |
 | [back it up](https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 2:17 | 2024-02-26 |  |
-| [BAD GUY](https://open.spotify.com/track/2iijN864tg1fz4OxklAieE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 2:18 | 2025-10-12 |  |
+| [BAD GUY](https://open.spotify.com/track/2iijN864tg1fz4OxklAieE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 2:18 | 2025-10-12 | 2026-06-11 |
 | [BADSIDE](https://open.spotify.com/track/4i52IhZoFDXVxKhJewywbs) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BADSIDE](https://open.spotify.com/album/3j7poPDs9oT3VEMtPdw8jf) | 3:44 | 2022-10-28 | 2023-04-25 |
 | [Bamba \(feat\. Aitch & BIA\)](https://open.spotify.com/track/7nFJSfGvvV0WjatTZN6QYi) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bamba \(feat\. Aitch & BIA\)](https://open.spotify.com/album/3cOBmVLauHdg4S3F7sJHyF) | 3:23 | 2022-10-28 | 2023-12-14 |
 | [Bamba \(feat\. Aitch & BIA\)](https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 3:23 | 2023-12-13 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 118143,
+  "num_followers": 118181,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-05-29 04:01:50",
       "album": {
+        "name": "Sensual Disguise EP",
+        "url": "https://open.spotify.com/album/5a4tu8Yr8PQDN9fOooSBmA"
+      },
+      "artists": [
+        {
+          "name": "GENNARO",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 190656,
+      "name": "Te Conoci",
+      "url": "https://open.spotify.com/track/15YgNVANAkLbiNligewd1R"
+    },
+    {
+      "added_at": "2026-05-29 04:01:50",
+      "album": {
         "name": "Olvidarte (feat. Emilia)",
         "url": "https://open.spotify.com/album/6uanfipX4dnLaQ0PIvaj5K"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 157500,
       "name": "Olvidarte (feat. Emilia)",
       "url": "https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp"
-    },
-    {
-      "added_at": "2026-05-29 04:01:50",
-      "album": {
-        "name": "Sensual Disguise EP",
-        "url": "https://open.spotify.com/album/5a4tu8Yr8PQDN9fOooSBmA"
-      },
-      "artists": [
-        {
-          "name": "GENNARO",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        }
-      ],
-      "duration_ms": 190656,
-      "name": "Te Conoci",
-      "url": "https://open.spotify.com/track/15YgNVANAkLbiNligewd1R"
     },
     {
       "added_at": "2026-05-29 04:01:50",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2026-05-29 04:01:50",
       "album": {
-        "name": "Si Vas Al mar",
-        "url": "https://open.spotify.com/album/180iVVSyWKcPtT4RoPIMy4"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        }
-      ],
-      "duration_ms": 256475,
-      "name": "Si Vas Al mar",
-      "url": "https://open.spotify.com/track/1oU2mTReAEUNlQdC6e4IAp"
-    },
-    {
-      "added_at": "2026-05-29 04:01:50",
-      "album": {
         "name": "Marrakesh",
         "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 179512,
       "name": "Playa Y Arena",
       "url": "https://open.spotify.com/track/5TUiAVSMflM4URvewjSNjF"
+    },
+    {
+      "added_at": "2026-05-29 04:01:50",
+      "album": {
+        "name": "Si Vas Al mar",
+        "url": "https://open.spotify.com/album/180iVVSyWKcPtT4RoPIMy4"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        }
+      ],
+      "duration_ms": 256475,
+      "name": "Si Vas Al mar",
+      "url": "https://open.spotify.com/track/1oU2mTReAEUNlQdC6e4IAp"
     },
     {
       "added_at": "2026-05-29 04:01:50",
@@ -1991,22 +1991,22 @@
     {
       "added_at": "2026-05-29 04:01:50",
       "album": {
-        "name": "La bohemia",
-        "url": "https://open.spotify.com/album/6xQ8fWvwPReZSU4uRkUI8p"
+        "name": "Vamos A La Playa",
+        "url": "https://open.spotify.com/album/3geRmvgFf5Bnei4MaCblqL"
       },
       "artists": [
         {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         },
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Miranda",
+          "url": "https://open.spotify.com/artist/6Cm8HAcz329ltnH1h5s68Y"
         }
       ],
-      "duration_ms": 228764,
-      "name": "La bohemia",
-      "url": "https://open.spotify.com/track/5E8eu7Jfj7dkZgnbMOPtwK"
+      "duration_ms": 176818,
+      "name": "Vamos A La Playa (Feat. Miranda)",
+      "url": "https://open.spotify.com/track/7jhZ9ObYAmlHSoP6w6xB9g"
     }
   ],
   "unique_name": "Latin House",

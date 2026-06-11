@@ -1905,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "Crazy Daisy",
+        "url": "https://open.spotify.com/album/3ICfnKzG5KfMtFynfFzo2r"
+      },
+      "artists": [
+        {
+          "name": "Echo Boulevard",
+          "url": "https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200492,
+      "name": "Crazy Daisy",
+      "url": "https://open.spotify.com/track/133PlUjwPZmQAh2kaj2UKB"
+    },
+    {
+      "album": {
         "name": "Crimini e violenza",
         "url": "https://open.spotify.com/album/7LCpxBa1j7WiBrC9DIaDMQ"
       },
@@ -2742,6 +2760,24 @@
       "duration_ms": 154180,
       "name": "El Dilema",
       "url": "https://open.spotify.com/track/4agirhYgist2lFc31siLMJ"
+    },
+    {
+      "album": {
+        "name": "El Homo Clickens",
+        "url": "https://open.spotify.com/album/5bdDEmbCYtXo3HznVvwOIL"
+      },
+      "artists": [
+        {
+          "name": "KekoYoma",
+          "url": "https://open.spotify.com/artist/7GldhIgOZLcj8PlZltwg1V"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213504,
+      "name": "El Homo Clickens",
+      "url": "https://open.spotify.com/track/49Oc3I1yEyTz3l25jPeCKy"
     },
     {
       "album": {

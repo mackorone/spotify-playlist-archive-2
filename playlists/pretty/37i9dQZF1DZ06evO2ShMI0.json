@@ -1,12 +1,12 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 212058,
+  "num_followers": 212077,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiYGAAAAAAAwv55uDyv30IzdnOnv6F7v",
+  "snapshot_id": "aidXgAAAAADhbIALoyVT1pETbh1dCU5y",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planetario",
-        "url": "https://open.spotify.com/album/7dmyvQjdhoCpU5qT73k3Yc"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Tibio Corazon",
-      "url": "https://open.spotify.com/track/23FltX27Jle4ytbc5UPvAL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EV+",
         "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 260967,
       "name": "Por el Resto de Tus D\u00edas",
       "url": "https://open.spotify.com/track/5rdHg2px3yuSOFd9r6bGxQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planetario",
+        "url": "https://open.spotify.com/album/7dmyvQjdhoCpU5qT73k3Yc"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Tibio Corazon",
+      "url": "https://open.spotify.com/track/23FltX27Jle4ytbc5UPvAL"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guerra Gaucha",
-        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "El Dia Es Claro",
-      "url": "https://open.spotify.com/track/158FXFTt5lWmsD4uHmjgZZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EV+",
         "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 283408,
       "name": "Qu\u00e9 Hacemos",
       "url": "https://open.spotify.com/track/7DBRvlHX8PiPm3jm3K8UQD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guerra Gaucha",
+        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "El Dia Es Claro",
+      "url": "https://open.spotify.com/track/158FXFTt5lWmsD4uHmjgZZ"
     },
     {
       "added_at": null,
