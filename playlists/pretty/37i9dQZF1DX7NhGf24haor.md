@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Primeshock & Villain
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,459 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,487 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Come To Life](https://open.spotify.com/track/3kvBy8bH3AZfjugicZWQHz) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1), [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6) | [Come To Life](https://open.spotify.com/album/0bZ62TbVCRNBvGyiALjIXd) | 3:01 |
-| 2 | [Superstar](https://open.spotify.com/track/3QkvNErxtiBBNGALJmDAAF) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Superstar](https://open.spotify.com/album/7j8aqgl5OZQxlR8r0y0cp1) | 3:27 |
-| 3 | [circles](https://open.spotify.com/track/2sBVa02Hx3RLkxAeXh0mic) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Demi Kanon](https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ) | [circles](https://open.spotify.com/album/0mmKwsk2SW6XbpesQHHv6C) | 3:22 |
-| 4 | [RE:WIND](https://open.spotify.com/track/1c8QLxV7UADtwVw6WLP01h) | [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy) | [RE:WIND EP](https://open.spotify.com/album/1dOmceZkXuypADS6ySvtkC) | 2:56 |
-| 5 | [Deep Dive \- Official Relevatez Anthem 2026](https://open.spotify.com/track/5ePtnvj6qnazK1QpNbelSt) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3), [Sarah Anglionin](https://open.spotify.com/artist/2rgyrW6ADyl42MjTUymTL5) | [Deep Dive \(Official Relevatez Anthem 2026\)](https://open.spotify.com/album/4hKq6SzVNsqOI2lraq2CGW) | 3:25 |
-| 6 | [Jiiieehaaaa \(Warrior Workout 2026 OST\)](https://open.spotify.com/track/7LaudOZfVVX4K8pIpzyRja) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Diss Reaction](https://open.spotify.com/artist/7fZ9A0D8CDfKcC3dHVfFB6) | [Jiiieehaaaa \(Warrior Workout 2026 OST\)](https://open.spotify.com/album/78QmadtrN5axEatsJPecBR) | 2:39 |
-| 7 | [Free Your Mind](https://open.spotify.com/track/4JqNT3CzwdtEvvMe2zOkxr) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Free Your Mind](https://open.spotify.com/album/52r9CUPMQVzJTl6MyKlrf0) | 3:27 |
-| 8 | [SORRY MAMA](https://open.spotify.com/track/0SHR6X8IJXaxsRYaUt7nhg) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349) | [SORRY MAMA](https://open.spotify.com/album/3xog9gL4XqVuAEOwLY043O) | 2:41 |
+| 2 | [SORRY MAMA](https://open.spotify.com/track/0SHR6X8IJXaxsRYaUt7nhg) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349) | [SORRY MAMA](https://open.spotify.com/album/3xog9gL4XqVuAEOwLY043O) | 2:41 |
+| 3 | [Superstar](https://open.spotify.com/track/3QkvNErxtiBBNGALJmDAAF) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Superstar](https://open.spotify.com/album/7j8aqgl5OZQxlR8r0y0cp1) | 3:27 |
+| 4 | [Deep Dive \- Official Relevatez Anthem 2026](https://open.spotify.com/track/5ePtnvj6qnazK1QpNbelSt) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3), [Sarah Anglionin](https://open.spotify.com/artist/2rgyrW6ADyl42MjTUymTL5) | [Deep Dive \(Official Relevatez Anthem 2026\)](https://open.spotify.com/album/4hKq6SzVNsqOI2lraq2CGW) | 3:25 |
+| 5 | [RE:WIND](https://open.spotify.com/track/1c8QLxV7UADtwVw6WLP01h) | [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy) | [RE:WIND EP](https://open.spotify.com/album/1dOmceZkXuypADS6ySvtkC) | 2:56 |
+| 6 | [circles](https://open.spotify.com/track/2sBVa02Hx3RLkxAeXh0mic) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Demi Kanon](https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ) | [circles](https://open.spotify.com/album/0mmKwsk2SW6XbpesQHHv6C) | 3:22 |
+| 7 | [Jiiieehaaaa \(Warrior Workout 2026 OST\)](https://open.spotify.com/track/7LaudOZfVVX4K8pIpzyRja) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Diss Reaction](https://open.spotify.com/artist/7fZ9A0D8CDfKcC3dHVfFB6) | [Jiiieehaaaa \(Warrior Workout 2026 OST\)](https://open.spotify.com/album/78QmadtrN5axEatsJPecBR) | 2:39 |
+| 8 | [Free Your Mind](https://open.spotify.com/track/4JqNT3CzwdtEvvMe2zOkxr) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Free Your Mind](https://open.spotify.com/album/52r9CUPMQVzJTl6MyKlrf0) | 3:27 |
 | 9 | [Legacy \(Atlantis\)](https://open.spotify.com/track/1yS050rMwTPRPMiJbWsiE5) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E), [Dj Konik](https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531) | [Legacy \(Atlantis\)](https://open.spotify.com/album/7AIXK7enG45nkNzpBzKPJT) | 3:07 |
 | 10 | [Dirty Bassline](https://open.spotify.com/track/3KFAczT5MjQPkZW8mHibML) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL) | [Dirty Bassline](https://open.spotify.com/album/1iezA1XBoMgZZkQfbZnmw6) | 2:33 |
 | 11 | [In Flames](https://open.spotify.com/track/43sK2g9v9ArbvT0Op0Hvom) | [Unique](https://open.spotify.com/artist/10e2OpyOdgZ2qE359Wp6Q6), [Sanctuary](https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ) | [In Flames](https://open.spotify.com/album/0av3XQqeZ9ykTSYXrBioLN) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Outlast](https://open.spotify.com/track/763LvMXwKPjS65yBFdwRwd) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Outlast](https://open.spotify.com/album/7hybV6kgKeP3n7VXuB0zSM) | 3:25 |
 | 100 | [SHOWTIME](https://open.spotify.com/track/5PyCdYdgWA8oT9u4GUkm0s) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD) | [SHOWTIME](https://open.spotify.com/album/6PYXHMIZVbdzAM1JbU0Zbp) | 2:41 |
 
-Snapshot ID: `AAAAAIc/6dURAhFjEzu/h6fK7VVPUCNK`
+Snapshot ID: `AAAAACu0jXW15/powKw/92DTqfC/sLsG`

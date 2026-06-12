@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-564 songs - 1 day 2 hr 56 min
+565 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [IDGAF](https://open.spotify.com/track/4N90rKC3I3BQyROLHtXFIc) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [IDGAF](https://open.spotify.com/album/3wAV4RmAtuVVKUy7HWrK2i) | 3:21 | 2025-02-14 |  |
 | [Illusion](https://open.spotify.com/track/7Kqqg2agWjcT0nBVpzqA4B) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Illusion](https://open.spotify.com/album/159iw0k9cDQehxfOECRZgW) | 3:27 | 2022-10-27 | 2023-02-04 |
 | [Impeccable](https://open.spotify.com/track/5QLYGIPM6a5ZikKcn6hj48) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Impeccable](https://open.spotify.com/album/0ZBPGCXv01PeTM6kCMBjyi) | 2:21 | 2024-08-30 | 2025-04-27 |
+| [In The Dark](https://open.spotify.com/track/1ikBG3dhSAhHarwUVW1CyQ) | [WAKE](https://open.spotify.com/artist/7Jk1Iang46XcykdfRYK1al), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [In The Dark](https://open.spotify.com/album/3e7zouZDtg0HxoB0t23EJb) | 3:45 | 2026-06-12 |  |
 | [In The Dark \(feat\. Maria Mathea\)](https://open.spotify.com/track/7xsbPoykY9CaBblguhsFDF) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Maria Mathea](https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp) | [In The Dark \(feat\. Maria Mathea\)](https://open.spotify.com/album/5T6MkcNfbHXM0GqxBTtprV) | 2:53 | 2024-02-16 | 2025-04-27 |
 | [Incorrect](https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill EP](https://open.spotify.com/album/4kvK5arUig0hxgylXxdKR8) | 2:54 | 2022-05-06 | 2022-08-06 |
 | [INOXENTE \- Steve Aoki & Dee Mad Remix](https://open.spotify.com/track/719e5fPCJE34Lb3a6upwhV) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Dee Mad](https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI) | [INOXENTE \(Steve Aoki & Dee Mad Remix\)](https://open.spotify.com/album/3OL3ZtuxuF4czRXHoQBLOi) | 3:00 | 2023-05-05 | 2025-04-27 |

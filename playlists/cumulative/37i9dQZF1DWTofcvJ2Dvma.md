@@ -4,7 +4,7 @@
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-493 songs - 20 hr 44 min
+499 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Adventure Therapy](https://open.spotify.com/track/5MDx3A4IYVsqEv05oZiyhZ) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU) | [Adventure Therapy](https://open.spotify.com/album/5WVIvopT9KzjMvGNL48z3c) | 2:01 | 2022-03-14 | 2022-07-29 |
 | [after dark](https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [after dark](https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM) | 2:21 | 2024-01-19 |  |
 | [After Surf Sandwich](https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:32 | 2022-03-14 | 2023-01-06 |
+| [Airwaves](https://open.spotify.com/track/7zYFxN4pPMXiyQyOM3HYDq) | [weightless minutes](https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN) | [Airwaves](https://open.spotify.com/album/4JQi7ZVg7yLWVp6IAGxeUd) | 2:00 | 2026-06-11 |  |
 | [Alana Kane](https://open.spotify.com/track/3ppjtvIsZZKhpqE9Kum87O) | [Sepia Tapes](https://open.spotify.com/artist/3PuHZwsr0txnw9NMq6b1kT) | [Alana Kane](https://open.spotify.com/album/1tsjznN93sGCO8veCY0GC7) | 1:55 | 2022-06-02 | 2023-06-21 |
 | [All For Us](https://open.spotify.com/track/1Y7cZDAKu7Fz7aw3MfATw1) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [All For Us](https://open.spotify.com/album/1xBCh5TykgEUgaDdcdEHvH) | 2:32 | 2023-08-10 | 2024-01-20 |
 | [Alone In Town](https://open.spotify.com/track/3YSMxn9PMuLn25EXyBplpd) | [Gereoux](https://open.spotify.com/artist/1Euv0945nayOdRB6RTLDZz) | [Alone In Town](https://open.spotify.com/album/1cXiG685Ny0feXVwplO4XI) | 2:33 | 2022-03-14 | 2024-01-20 |
@@ -157,7 +158,7 @@
 | [Forestfire](https://open.spotify.com/track/63WlzhPsPJZbUoQkNYPC0r) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Forestfire](https://open.spotify.com/album/0Q8h75JOwbfoyCXD9axYbj) | 2:06 | 2022-09-22 | 2024-01-20 |
 | [formula too complex](https://open.spotify.com/track/5hje2hLvJnZaWwZX691Kb7) | [next without for](https://open.spotify.com/artist/6fJ41pCfWP0xVKvxfQcjbU) | [formula too complex](https://open.spotify.com/album/12VmmoSnPwngumo6RjvTPe) | 1:46 | 2022-06-22 | 2023-06-21 |
 | [Fornax](https://open.spotify.com/track/7DKitKQSauKSZwHcxzjSxN) | [Hi Clowdz](https://open.spotify.com/artist/224dp7xyE3vjLLnTuQJbjg) | [Fornax](https://open.spotify.com/album/77pzMwn3p8J11d07aj8tP0) | 3:26 | 2022-03-14 | 2022-10-26 |
-| [Forrest](https://open.spotify.com/track/0t0jeNPpefsuhh31UPn1pK) | [Mr Davies](https://open.spotify.com/artist/2gLbE2Cr7iD5hNTTTFgY2K) | [Forrest](https://open.spotify.com/album/5O00VXNEsXB7F8XqZfWfSY) | 2:44 | 2024-01-19 |  |
+| [Forrest](https://open.spotify.com/track/0t0jeNPpefsuhh31UPn1pK) | [Mr Davies](https://open.spotify.com/artist/2gLbE2Cr7iD5hNTTTFgY2K) | [Forrest](https://open.spotify.com/album/5O00VXNEsXB7F8XqZfWfSY) | 2:44 | 2024-01-19 | 2026-06-12 |
 | [Found Again](https://open.spotify.com/track/7dpUEIl7zaIc0Mf1clzLta) | [Loe Brezy](https://open.spotify.com/artist/5ioMPzIi3WiKXfrS8n3bau) | [Found Again](https://open.spotify.com/album/4n6pT7xqvxcwNXgRcanMNM) | 1:59 | 2022-09-22 | 2023-06-21 |
 | [Free](https://open.spotify.com/track/4OyKGxXkpoW7jtm0lZKLUc) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Free](https://open.spotify.com/album/6pG5ZUYAjeEjTNrU1SUsKt) | 2:07 | 2022-10-25 | 2024-01-20 |
 | [Fuchsia feels](https://open.spotify.com/track/2gXSwRnW7InBeKoRYsSJUD) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [Fuchsia feels](https://open.spotify.com/album/0KhoufvXxSPxEguGr83Sak) | 2:02 | 2022-07-28 | 2024-01-20 |
@@ -167,6 +168,7 @@
 | [Ganges](https://open.spotify.com/track/4RZB877JhzYTNzzFdixZPD) | [Morgentau](https://open.spotify.com/artist/5z2Z0tyyjq1lSTqci3Yejo) | [Ganges](https://open.spotify.com/album/2Lm2ZsJm7htVuUtiD0j08z) | 4:28 | 2022-03-14 | 2022-06-23 |
 | [Gentle](https://open.spotify.com/track/6SCNLaxZas2Hqalh4zeAGr) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Gentle](https://open.spotify.com/album/5lx736CiAjCBRgrqgqF5dt) | 3:30 | 2022-09-22 | 2024-01-20 |
 | [Getthrough](https://open.spotify.com/track/3zjYDopjIYG87BUKJiobB3) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [Getthrough](https://open.spotify.com/album/4yInGnArjz6KqBDY7Bh2Yy) | 1:41 | 2022-12-21 | 2023-06-21 |
+| [Getting There](https://open.spotify.com/track/6WuRi1AJsdOcfWEddjaD1W) | [Plaxon](https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM) | [Getting There](https://open.spotify.com/album/2qskPgr72MeWhSSwYh5lAu) | 2:22 | 2026-06-11 |  |
 | [Gloom](https://open.spotify.com/track/2JRn07cPxiOqz1AQqeJ3U5) | [Mumblo](https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z) | [Gloom](https://open.spotify.com/album/2ZBpfVQ6ML1drkMltgRQTN) | 2:32 | 2024-01-19 |  |
 | [Glow](https://open.spotify.com/track/7Hge20vUWFF7V2kt2g20So) | [Benjamin August](https://open.spotify.com/artist/5mYtzsopZvARbaLrR0puNS) | [Glow](https://open.spotify.com/album/0kE1MMrjOc4XFCGs90wkOI) | 2:51 | 2022-08-11 | 2022-11-26 |
 | [go to gate](https://open.spotify.com/track/75NF20zhwzBw4hzlTdXCiQ) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [go to gate](https://open.spotify.com/album/154PKEs0imbq9gnqEsf2h6) | 2:29 | 2022-10-25 | 2024-01-20 |
@@ -278,6 +280,7 @@
 | [Mindless Mindfulness](https://open.spotify.com/track/4Q3lxCkx5E1J5jO8K4ZU8Q) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Mindless Mindfulness](https://open.spotify.com/album/1xL3DGAtPd2FGuDBtGlA1n) | 2:33 | 2024-01-19 | 2025-09-19 |
 | [Minimoon](https://open.spotify.com/track/6TvwBBJWZ5Bfz2igsE0TwS) | [\[LO\]](https://open.spotify.com/artist/7iF96rlSu8OqaTPxA6oaRq) | [Intellection](https://open.spotify.com/album/7lX8uAKKNtkjUP6degOl5r) | 2:39 | 2022-03-14 | 2022-04-22 |
 | [miracle moments](https://open.spotify.com/track/6snIEB81asah6vQbdaOG9Z) | [flotate](https://open.spotify.com/artist/1WCXAKhgy8iunT7CJfHXZS) | [miracle moments](https://open.spotify.com/album/6UkZPXSF0d6J2HU6zRH3E1) | 2:36 | 2022-03-14 | 2024-01-20 |
+| [missed call](https://open.spotify.com/track/6UhYs7pfrh2JrKloQRVPoT) | [Beats on 21st](https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5) | [missed call](https://open.spotify.com/album/5bLEKyyF1BJzcUzMS1srdm) | 2:22 | 2026-06-11 |  |
 | [Molecular Force](https://open.spotify.com/track/15cnM6N7rgjv7mBAHLiG63) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Molecular Force](https://open.spotify.com/album/4av4XmjYKDALjdQKSTozLZ) | 1:42 | 2022-03-14 | 2023-01-25 |
 | [moon inhale](https://open.spotify.com/track/3AwO7k4camAuHP5jaowl0D) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [moon inhale](https://open.spotify.com/album/3wrPhTn9llGGlRbVtvZudr) | 2:08 | 2024-01-19 |  |
 | [Moonlight](https://open.spotify.com/track/5rf9tzfMIgIjVpmw3lOhbj) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Moonlight](https://open.spotify.com/album/1EOSQiuVg0y047NtusKRUE) | 3:46 | 2023-06-20 | 2023-08-11 |
@@ -288,6 +291,7 @@
 | [morning vibes](https://open.spotify.com/track/5n1DPnDhK6yWe8BjNIt9p8) | [flotate](https://open.spotify.com/artist/1WCXAKhgy8iunT7CJfHXZS) | [morning vibes](https://open.spotify.com/album/2KdexWlZI2sqY6HTdz2G75) | 2:03 | 2023-08-10 | 2024-01-20 |
 | [mosaic maker](https://open.spotify.com/track/3oOFrBFkh8vvEOhBgzB9PR) | [Rollin Hand](https://open.spotify.com/artist/7oKCQiTL5z1a63V76WyDtw) | [mosaic maker](https://open.spotify.com/album/3vGv2KrRg2QRh8vLbhgggR) | 2:31 | 2022-06-22 | 2024-01-20 |
 | [Mr\. Beuford's Hotel](https://open.spotify.com/track/1HOtm36fmarBFzghxDGGWU) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [Mr\. Beuford's Hotel](https://open.spotify.com/album/5T0jJnH4GCFhnvEtTl3Uka) | 2:15 | 2022-08-11 | 2024-01-20 |
+| [mundane](https://open.spotify.com/track/3EFJfaGxe3I75IWsnGfgE3) | [lowbitdreams](https://open.spotify.com/artist/0sfM4yVfrwrRTkQu9fOGBy) | [mundane](https://open.spotify.com/album/3vuL6jGjipAocE4FAFjSQb) | 2:28 | 2026-06-11 |  |
 | [My Cat Picks Cactus Flowers](https://open.spotify.com/track/6yi6V9pR18642tim9GlHdG) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [My Cat Picks Cactus Flowers](https://open.spotify.com/album/2tDJDcZyS9wTgIxj7qz4wu) | 2:17 | 2023-08-10 | 2024-01-20 |
 | [My greenhouse](https://open.spotify.com/track/6X0XSp7bFsgUwvkx5Qlix9) | [Cumulus Clouds](https://open.spotify.com/artist/2fDTMkLhW2WqPDobcohAZC) | [My greenhouse](https://open.spotify.com/album/6lQfts5lYwKlmnh1uQvJoT) | 2:10 | 2022-06-22 | 2022-10-26 |
 | [Necklace \- Coffe Ambience](https://open.spotify.com/track/6UbEwbpoVMUDNG94ART8qm) | [Azurenity](https://open.spotify.com/artist/670tCQfj3LeVsUqb2SY4Rs) | [Necklace](https://open.spotify.com/album/5Bl50pCXxV6cRISd7uNcFu) | 2:34 | 2022-06-02 | 2023-01-06 |
@@ -334,6 +338,7 @@
 | [Pure Water](https://open.spotify.com/track/2ZLJrHbLNkj8rrnh9ECyxU) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Pure Water](https://open.spotify.com/album/0pdsUyxPplZqjQ2oRBkmcD) | 2:57 | 2024-01-19 |  |
 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 | 2022-09-01 | 2024-01-20 |
 | [Purrfect](https://open.spotify.com/track/06FHrzf7psD6ow7W4SH5Ks) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Still Sloppy](https://open.spotify.com/album/0hAwuOO6cx2uTvd5Egx7UA) | 2:18 | 2022-06-22 | 2023-01-25 |
+| [quiet stories](https://open.spotify.com/track/53SIQUu8UytBBUGso9m1RB) | [cosmo cat](https://open.spotify.com/artist/1noZJDxgC7jVP1t4Vgowms) | [quiet stories](https://open.spotify.com/album/46WWGYOqQmznEgil5VjOlh) | 2:08 | 2026-06-11 |  |
 | [Quorum](https://open.spotify.com/track/5GwCOO49kn56a7dEYuA50v) | [\[LO\]](https://open.spotify.com/artist/7iF96rlSu8OqaTPxA6oaRq) | [Numinous](https://open.spotify.com/album/0EQyvDk9fzlUjaJxHOlZAM) | 2:48 | 2022-03-14 | 2023-01-06 |
 | [Radio Beats](https://open.spotify.com/track/1kam4Z5I1d0Ia7u6sAgxSk) | [Kibunde](https://open.spotify.com/artist/53W7kqgUgfbnfgPXkK7r0g) | [Radio Beats](https://open.spotify.com/album/4mwnukawHOuhJRQT03qZUI) | 2:16 | 2022-03-14 | 2023-01-06 |
 | [Rain Check](https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Rain Check](https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8) | 2:16 | 2022-03-14 | 2022-07-29 |
@@ -401,6 +406,7 @@
 | [Special Moment](https://open.spotify.com/track/3WUYyDhbATJbWl2jBUC3Ep) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Patagonia](https://open.spotify.com/album/4FMUZ2ZmbVgb9m9xJJQzeg) | 3:05 | 2022-06-02 | 2024-01-20 |
 | [Spectrum](https://open.spotify.com/track/1qzXoba3chO4kHx4OVBfzZ) | [low&slow](https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL) | [Spectrum](https://open.spotify.com/album/5Hov5AHP7YKnOgQbYwmFJw) | 2:21 | 2022-09-01 | 2023-10-06 |
 | [spinal chords](https://open.spotify.com/track/0SPakj2sm0Q3oJ4rEj9Jhi) | [fontatron](https://open.spotify.com/artist/5rwl3ry7Yx0YuONcyezg4d) | [spinal chords](https://open.spotify.com/album/2I5Tv05AQHsYQc8EAuD48x) | 2:15 | 2024-01-19 |  |
+| [spindles](https://open.spotify.com/track/3kVVAA4ebps67EurjLg54S) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [spindles](https://open.spotify.com/album/5xfRbg5MSbRsCUSYrRezlX) | 2:26 | 2026-06-11 |  |
 | [Spirits](https://open.spotify.com/track/7cIah2OvEEfMk05ujFZxWI) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Tabla Yoga Healing](https://open.spotify.com/album/1X0MXAy0e7W7lIvv4CJeBB) | 3:13 | 2022-03-14 | 2023-01-25 |
 | [Spots](https://open.spotify.com/track/1smzJLamcRIHcHUT82opTR) | [Cardamom](https://open.spotify.com/artist/55z2VFr6FxKYEOctgA2ICi) | [Spots](https://open.spotify.com/album/3KntBPi6tFBDBXZHE3O1pr) | 2:35 | 2022-03-14 | 2023-11-18 |
 | [spring](https://open.spotify.com/track/6mpcfOpE6QGqRKHlaJuRkP) | [slowseventeen](https://open.spotify.com/artist/09h6Xfv6UuvH9rIjAASA2X) | [spring](https://open.spotify.com/album/3efxXYGDQvWZFTqarrykWX) | 2:23 | 2022-03-14 | 2022-10-26 |

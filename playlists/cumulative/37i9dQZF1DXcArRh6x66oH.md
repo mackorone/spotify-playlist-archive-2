@@ -2,9 +2,9 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> roots run deep with Sam Barber
+> roots run deep with Charles Wesley Godwin and Wyatt Flores
 
-480 songs - 1 day 4 hr 43 min
+481 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Her](https://open.spotify.com/track/6Ym7UF7000PoA6MZha7ugt) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Her](https://open.spotify.com/album/7JERMt53TQC4z2Pn4nPUYi) | 3:08 | 2023-05-05 | 2023-10-01 |
 | [Here \(with Chris Stapleton\)](https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Prizefighter](https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0) | 3:11 | 2026-03-19 |  |
 | [Here Lies the Fool](https://open.spotify.com/track/0RvDQ5Kp6uI2IAhGZT2V3o) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Here Lies the Fool](https://open.spotify.com/album/3JU7dOvlocukChNhrVrtnj) | 4:12 | 2025-02-07 |  |
+| [Hey There Son \(feat\. Wyatt Flores\)](https://open.spotify.com/track/6bxxxlnPtYLDCFJiHEnJ9s) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC), [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Hey There Son](https://open.spotify.com/album/7vYGf3JgUNorLT6jW9j8w9) | 4:08 | 2026-06-12 |  |
 | [High Standards](https://open.spotify.com/track/66A7J1dZ2mKWXB6EODRZaH) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Rhinestoned](https://open.spotify.com/album/5XEFMMgAByAZq8rYn6hE6t) | 4:16 | 2025-06-27 |  |
 | [Highway One](https://open.spotify.com/track/0DDEMOmsAYI6VhU7N0uuaU) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [Better Days](https://open.spotify.com/album/4L3WZZeHrQFHJiluGVzrQ2) | 3:14 | 2026-05-01 | 2026-05-26 |
 | [Highway One](https://open.spotify.com/track/3Q5eAxBtYLpDXnM2o2DJmI) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [Highway One](https://open.spotify.com/album/4yBz1RyADWkwXT6Uhswgpz) | 3:14 | 2025-02-28 |  |

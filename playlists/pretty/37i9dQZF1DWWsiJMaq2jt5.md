@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:7nmNPZucUmo9x6Mh5llOoZ">Guest Julka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,540 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,536 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 24 | [TRUDNO TAK](https://open.spotify.com/track/0CMtY3hiPRaTNdZBb3dUXr) | [Młoda Niki](https://open.spotify.com/artist/0u0v2kVNfDCRjSlND4Od44) | [TRUDNO TAK](https://open.spotify.com/album/43KPoxqmsizIREPXQBcikm) | 1:33 |
 | 25 | [W końcu cię odnajdę](https://open.spotify.com/track/1AwJywnwSt9L7czgkc8mD9) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF), [Lisek](https://open.spotify.com/artist/6NLNdYvnVRWIDdiOBY26fX) | [W końcu cię odnajdę](https://open.spotify.com/album/0Y81ELFTlNCfdkgyvig04t) | 3:04 |
 | 26 | [Urodziny](https://open.spotify.com/track/5jDFz5U9zmWQOcjaikRN9z) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Urodziny](https://open.spotify.com/album/7aTEQlpAOsCxFR2Ru91unM) | 3:42 |
-| 27 | [disco polo](https://open.spotify.com/track/5NbCT5QeNlMAx8ajdL1ujx) | [Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [disco polo](https://open.spotify.com/album/7GbztmbuYf6NogISYjaD6P) | 3:04 |
+| 27 | [disco polo](https://open.spotify.com/track/5NbCT5QeNlMAx8ajdL1ujx) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [disco polo](https://open.spotify.com/album/7GbztmbuYf6NogISYjaD6P) | 3:04 |
 | 28 | [Jak autobus po mieście](https://open.spotify.com/track/6xN1I0OusRB4q49oFxzasz) | [Julia Przybylska](https://open.spotify.com/artist/3OSpVIczY7n8Mhz02orZTP) | [Jak autobus po mieście](https://open.spotify.com/album/6Dmz9cFWmUynb4SkQD6Uiv) | 2:28 |
 | 29 | [Wrak](https://open.spotify.com/track/5MAw7TYR8eiUlGYw0gK2fu) | [Clayknot](https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7) | [Spacer](https://open.spotify.com/album/317YOZRnfMKljmf5IwTc7Q) | 2:54 |
 | 30 | [Wdech](https://open.spotify.com/track/7izajqmC7mX02Gcdt6BAuI) | [Ganczarska](https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo) | [PO PORĘCZY](https://open.spotify.com/album/2kzYY3CFa9s0ZWJCHKuPA7) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Malutki Kurs](https://open.spotify.com/track/0V9PI6bfJRWVXVQjSfe5N0) | [Ta Malutka](https://open.spotify.com/artist/26FbAbNbTz8cKQveTYSYNe) | [Malutki Kurs](https://open.spotify.com/album/0eBl8MsPHakmAjOK4NDMm9) | 3:00 |
 | 50 | [Musisz Dać Mi Czas](https://open.spotify.com/track/0XgUVLgmWMTtbZBAdqcBGF) | [NIKI ZEY](https://open.spotify.com/artist/0EbXnNYpjhTmDdvlgAa175) | [Musisz Dać Mi Czas](https://open.spotify.com/album/4SEuYe98soP5QDr9UaYqOa) | 3:00 |
 
-Snapshot ID: `AAAAANgrt2qPlLou3HsD+DI0EJ0zL/z2`
+Snapshot ID: `AAAAAAPIU43lPpoUf7+DtTCbT+ryzj0Z`

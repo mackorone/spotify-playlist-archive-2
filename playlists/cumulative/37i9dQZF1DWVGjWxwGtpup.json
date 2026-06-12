@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : Ozuna",
+  "description": "Tous les hits latino du moment sont ici. Photo : J Balvin x Rayan Castro",
   "name": "Caliente",
   "tracks": [
     {
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 178098,
       "name": "Cantalo",
       "url": "https://open.spotify.com/track/5C2rHupK7Y5GnPyKT6D9d7"
@@ -1942,6 +1942,24 @@
       "duration_ms": 221373,
       "name": "Comernos",
       "url": "https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV"
+    },
+    {
+      "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/0dQQNapuO631RSnGLl0oTA"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177742,
+      "name": "Comme au cin\u00e9ma",
+      "url": "https://open.spotify.com/track/6ulsztRQFzuHNWswC3bzjF"
     },
     {
       "album": {
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 207600,
       "name": "De Lejitos",
       "url": "https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8"
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 188513,
       "name": "Dos Amantes",
       "url": "https://open.spotify.com/track/5Nnd7tvjwHjexXjhbl0WSD"
@@ -3633,6 +3651,24 @@
     },
     {
       "album": {
+        "name": "FKU",
+        "url": "https://open.spotify.com/album/4YkA8MnqY14HDjulbI6si7"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "FKU",
+      "url": "https://open.spotify.com/track/6acngtmZomwDxEurq8OlAB"
+    },
+    {
+      "album": {
         "name": "Flow Diferente",
         "url": "https://open.spotify.com/album/01GKrdP6K77Ajz3u1heJ7n"
       },
@@ -3648,6 +3684,40 @@
       "duration_ms": 138352,
       "name": "Flow Diferente",
       "url": "https://open.spotify.com/track/2KcL07oaGGoiXlvaB4bnen"
+    },
+    {
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/06RhYSAgH9jdM6j1iaDcv0"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Adriana C",
+          "url": "https://open.spotify.com/artist/7oBUfgdK5Q8PBdT9QsTgHE"
+        },
+        {
+          "name": "RedOne",
+          "url": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232941,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/7EqulVHbWDM0SR2e2IFpDv"
     },
     {
       "album": {
@@ -5931,6 +6001,24 @@
     },
     {
       "album": {
+        "name": "Mi Yo De Antes",
+        "url": "https://open.spotify.com/album/6fg1BYMy7ZcZ4uRJ728xno"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184041,
+      "name": "Mi Yo De Antes",
+      "url": "https://open.spotify.com/track/5JYGc8GO8v3He5zzzL8F6J"
+    },
+    {
+      "album": {
         "name": "Mil Veces",
         "url": "https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S"
       },
@@ -6810,7 +6898,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 184217,
       "name": "PA' LO BONITO",
       "url": "https://open.spotify.com/track/4CwjBJDjhjYeGTzajJe0qP"
@@ -9553,6 +9641,28 @@
     },
     {
       "album": {
+        "name": "MILLITO",
+        "url": "https://open.spotify.com/album/4sM9en2HVm09baxTpvBKH0"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "UVA",
+      "url": "https://open.spotify.com/track/32J4IaXWBhYUSWkH1mVAfN"
+    },
+    {
+      "album": {
         "name": "IDGAF ERA",
         "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
       },
@@ -9630,7 +9740,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 168866,
       "name": "VFC",
       "url": "https://open.spotify.com/track/4cY1IXeIhd00hdQxZj82zD"

@@ -4,7 +4,7 @@
 
 > Discover the best hits of Lebanon.
 
-134 songs - 7 hr 52 min
+136 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bukra Ahla](https://open.spotify.com/track/1XY2yjkH0QlflcX3cp3j5f) | [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Bukra Ahla](https://open.spotify.com/album/6g3GiO6nDZm1yQWPyuXUsB) | 2:40 | 2022-04-12 | 2024-04-19 |
 | [Bukra Ahla](https://open.spotify.com/track/52XkiamJRqW7uFLoJkCMLk) | [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Bukra Ahla](https://open.spotify.com/album/7AtI3mqZDFTInh0Y6YbJA5) | 2:40 | 2021-09-10 | 2025-02-04 |
 | [Chou B Oul](https://open.spotify.com/track/3svYE1Y2bTBiLWYeKukRxF) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Chou B Oul](https://open.spotify.com/album/79AMPUKJDB8qM7YhWJKi38) | 3:05 | 2025-10-10 |  |
+| [Chou Meshta2li](https://open.spotify.com/track/489M9YlC0nOZeWY7ljkXfX) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Chou Meshta2li](https://open.spotify.com/album/6hMW6x28JG2O1k3UVBmpbN) | 2:51 | 2026-06-11 |  |
 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 | 2021-09-10 |  |
 | [El Gharam](https://open.spotify.com/track/4ftJYQr9ulW9FqvAEwkCLE) | [Ayman Amin](https://open.spotify.com/artist/111T2kttkTK8Qai0y7atPf) | [El Gharam](https://open.spotify.com/album/1JwJeplulq3fthyojYDqQG) | 3:59 | 2023-03-13 | 2024-04-19 |
 | [El Gharam](https://open.spotify.com/track/0dwZqQiIwv2di8DU4S0DTc) | [Ayman Amin](https://open.spotify.com/artist/111T2kttkTK8Qai0y7atPf), [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [El Gharam](https://open.spotify.com/album/4ClOMPFeRbiVFOhBVCTcoX) | 3:59 | 2021-09-10 | 2025-10-11 |
@@ -114,6 +115,7 @@
 | [Shukran Al Azimi](https://open.spotify.com/track/1MyidauIXGOGLnBofG144s) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Shukran Al Azimi](https://open.spotify.com/album/5VYPNhTrzle09iOTmbHmLv) | 3:34 | 2022-08-26 | 2022-11-13 |
 | [Shukran Al Azimi](https://open.spotify.com/track/71zge5rSChnbvlrTDKxPGJ) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [12 Sa'a](https://open.spotify.com/album/0XyZg6l3LAHV9XBoZ6rQ1O) | 3:34 | 2022-04-12 | 2024-04-19 |
 | [Shukran Al Azimi](https://open.spotify.com/track/3nEjEnNRyXNcN6nWoalMvp) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [12 Sa'a](https://open.spotify.com/album/7yWLsrNU17dhFesO9R7EZa) | 3:34 | 2021-09-10 | 2024-10-09 |
+| [Shul Matloub](https://open.spotify.com/track/5JaF17AfofuEjc5jAC27IS) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Shul Matloub](https://open.spotify.com/album/3utTAcuGsFnvDhfHhZA51x) | 1:48 | 2026-06-11 |  |
 | [Tak Tak Albi](https://open.spotify.com/track/5CjPwqpFmFU9z6LsUXdetV) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Tak Tak Albi](https://open.spotify.com/album/3Uxi4zHfS5wjTeFYuLgAsI) | 4:03 | 2025-10-10 |  |
 | [Tango El Hob](https://open.spotify.com/track/0MiQdhtcbj2LyXLpRGThL6) | [Gabriel Abdel Nour](https://open.spotify.com/artist/4IMFj5lZtKrcR5xEWmB9ZR) | [Tango El Hob](https://open.spotify.com/album/0YqXhIByqAbo6bzbnxIhMW) | 5:19 | 2021-09-10 | 2025-10-11 |
 | [Tawaam Hayati](https://open.spotify.com/track/0OiH9KupQNLSsklFEOaLS2) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa](https://open.spotify.com/album/5XIpOWNfS3eGY9RSxtsg8Q) | 3:54 | 2025-10-11 | 2025-11-05 |

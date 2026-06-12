@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Internet Cafe
+> Discover your new favourite artists from UK&IE\. Cover: Pixie McCann
 
-359 songs - 19 hr 14 min
+360 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Like You Are For Me](https://open.spotify.com/track/46kq5YIZR735eci0ZerNly) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Like You Are For Me](https://open.spotify.com/album/4KD1vLTfYjEEa6QbI1pnsd) | 3:28 | 2025-03-14 |  |
 | [Liquid Gold 25](https://open.spotify.com/track/1rYbXnLbSM6jL1LXzNtkqA) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Liquid Gold 25](https://open.spotify.com/album/3OvjycFnKUyECyZyxnCe3x) | 4:27 | 2025-01-31 |  |
 | [little things](https://open.spotify.com/track/01m94gvzukbNDEZGjjhx4R) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [little things](https://open.spotify.com/album/4VUImLdCRQZ7lDm8gqNrDL) | 2:45 | 2022-10-06 |  |
+| [Living in Memory](https://open.spotify.com/track/0Oh0bIJoGD0KM48pEKDm3z) | [Pixie McCann](https://open.spotify.com/artist/2JT4el59Lvkj4FrhbzdBSu) | [Indigo, Vibrant and New](https://open.spotify.com/album/67nJ95a1e01XxgMjNZkXRN) | 3:42 | 2026-06-11 |  |
 | [LOCK OFF](https://open.spotify.com/track/75a2Fusn6ySL6yVACqYmp9) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [LOCK OFF](https://open.spotify.com/album/6r7d0q8bj7YdOVp5ZgkteW) | 2:24 | 2022-04-28 |  |
 | [LOML](https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [LOML](https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf) | 2:57 | 2024-02-16 |  |
 | [lost in her phone](https://open.spotify.com/track/2SsMgATz0w6t594iTbxhS8) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [u the real star here](https://open.spotify.com/album/0luZl88eJJKPPGq4W4ITUf) | 2:54 | 2022-11-18 |  |

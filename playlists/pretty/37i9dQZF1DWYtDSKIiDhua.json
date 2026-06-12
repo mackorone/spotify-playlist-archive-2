@@ -1,13 +1,33 @@
 {
-  "description": "R&B and good vibe tracks for your current mood. Cover: Jeff Bernat",
-  "num_followers": 149088,
+  "description": "R&B and good vibe tracks for your current mood. Cover: THE-DREAM",
+  "num_followers": 149084,
   "original_name": "mood. ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPQEvetD6Jt5GHaiQF6bFJw86u1P",
+  "snapshot_id": "AAAAAHRFo5eg7CbP57u0Z9dUCFP15LXM",
   "tracks": [
+    {
+      "added_at": "2026-06-11 18:00:19",
+      "album": {
+        "name": "Tampa",
+        "url": "https://open.spotify.com/album/2PFL5PkWDL00RVI2B0vntA"
+      },
+      "artists": [
+        {
+          "name": "THE-DREAM",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 218025,
+      "name": "Tampa (feat. USHER)",
+      "url": "https://open.spotify.com/track/1spHLxrlBblm3s12J4892k"
+    },
     {
       "added_at": "2026-05-28 18:00:17",
       "album": {
@@ -41,6 +61,26 @@
       "url": "https://open.spotify.com/track/5m0UFKwzACWZBRACdP19kc"
     },
     {
+      "added_at": "2026-06-11 18:00:19",
+      "album": {
+        "name": "Lick Back",
+        "url": "https://open.spotify.com/album/2LxyJEQVsDwEQlZ9ED5QT4"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        }
+      ],
+      "duration_ms": 215873,
+      "name": "Lick Back (feat. JUVENILE)",
+      "url": "https://open.spotify.com/track/2vPNudNPvPXQIRIcPa0fMq"
+    },
+    {
       "added_at": "2026-05-28 18:00:17",
       "album": {
         "name": "Weight On Me - A COLORS SHOW",
@@ -59,6 +99,22 @@
       "duration_ms": 214703,
       "name": "Weight On Me - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6IOEkOEs5n8lI29nqX1LIG"
+    },
+    {
+      "added_at": "2026-06-11 18:00:19",
+      "album": {
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Something Bout It",
+      "url": "https://open.spotify.com/track/0ATYGGx8AP7w0tsTsC1L4o"
     },
     {
       "added_at": "2026-05-28 18:00:17",
@@ -1347,26 +1403,6 @@
     {
       "added_at": "2026-05-08 02:00:02",
       "album": {
-        "name": "crybaby",
-        "url": "https://open.spotify.com/album/6PUJXA5GwBJ1yqFIoU3M6l"
-      },
-      "artists": [
-        {
-          "name": "CHUNGYOON",
-          "url": "https://open.spotify.com/artist/7ajAOl7CQF2ZIc3n23pUAr"
-        },
-        {
-          "name": "aiai",
-          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "crybaby (feat. aiai)",
-      "url": "https://open.spotify.com/track/2icmtCLDrMJZjO0rFGJXNF"
-    },
-    {
-      "added_at": "2026-05-08 02:00:02",
-      "album": {
         "name": "VACANCY EP",
         "url": "https://open.spotify.com/album/5pSghB9L1CsF2iu5CtqQs0"
       },
@@ -1455,26 +1491,6 @@
     {
       "added_at": "2026-05-08 02:00:02",
       "album": {
-        "name": "SHOW YOUR LOVE",
-        "url": "https://open.spotify.com/album/58ck8JaQilltGtwQd98XUv"
-      },
-      "artists": [
-        {
-          "name": "Maia",
-          "url": "https://open.spotify.com/artist/1ma5eSgw4el6YDXfhfZ3JC"
-        },
-        {
-          "name": "karan",
-          "url": "https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8"
-        }
-      ],
-      "duration_ms": 192857,
-      "name": "SHOW YOUR LOVE",
-      "url": "https://open.spotify.com/track/2gosyc6Y3NrVJiiE0eSP5D"
-    },
-    {
-      "added_at": "2026-05-08 02:00:02",
-      "album": {
         "name": "All I got left",
         "url": "https://open.spotify.com/album/1s3tMzs6GFE6vsWHGgvz4q"
       },
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2026-05-08 02:00:02",
       "album": {
-        "name": "FALL AGAIN",
-        "url": "https://open.spotify.com/album/5DLrerqf7OKlJskTZOAlYn"
-      },
-      "artists": [
-        {
-          "name": "Noni",
-          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
-        }
-      ],
-      "duration_ms": 188745,
-      "name": "FALL AGAIN",
-      "url": "https://open.spotify.com/track/303TW5JcL5wE8nPhyb0XRV"
-    },
-    {
-      "added_at": "2026-05-08 02:00:02",
-      "album": {
         "name": "you",
         "url": "https://open.spotify.com/album/2UKoS0WE1NdjriJlOjRSPq"
       },
@@ -1619,22 +1619,6 @@
       "duration_ms": 218122,
       "name": "Friends Again",
       "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
-    },
-    {
-      "added_at": "2026-05-08 02:00:02",
-      "album": {
-        "name": "deep",
-        "url": "https://open.spotify.com/album/0C7ns8jOxZ5oGbfvCd2Mbg"
-      },
-      "artists": [
-        {
-          "name": "Jess Connelly",
-          "url": "https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "deep",
-      "url": "https://open.spotify.com/track/60qBMrnq0QgV2PD378i4Oy"
     },
     {
       "added_at": "2026-05-08 02:00:02",

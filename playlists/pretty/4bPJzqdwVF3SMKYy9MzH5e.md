@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,388 songs - 5 day 8 hr 9 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,389 songs - 5 day 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2396,5 +2396,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2386 | [Sky Kisses \(на танцполе\)](https://open.spotify.com/track/2lRf1plEz8do7tTtXlZWFB) | [Kedr Livanskiy](https://open.spotify.com/artist/7deuX0YejjlcB4uLcdgEDW) | [Your Need](https://open.spotify.com/album/2c6FcKInAkAqZI0yNQXa9C) | 3:12 |
 | 2387 | [Ultra Terrorific Fantasy](https://open.spotify.com/track/2NZW8M76gciBAZcpq3ds1D) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [ULTRA](https://open.spotify.com/album/7LDNQYVFZoapHCep1A2dYr) | 1:38 |
 | 2388 | [Shut Me Down](https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG) | [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC) | [Clammy](https://open.spotify.com/album/14eOPm3XAA8CVb6csdvVU8) | 3:06 |
+| 2389 | [Gore Louvre](https://open.spotify.com/track/2WY1UCJb21XDNztuSEK4Em) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Gore Louvre](https://open.spotify.com/album/1u208a9J6Nl9LLgAs0oHXJ) | 3:00 |
 
-Snapshot ID: `AAAFWouF1svKuThsae+wzn2YK+eXPsoF`
+Snapshot ID: `AAAFWz5jzQWknaPxsWU+7w/8B9Ql2zN8`

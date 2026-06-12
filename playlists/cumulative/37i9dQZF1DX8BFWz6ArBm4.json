@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Aspa",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Petros Iakovidis",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 198912,
       "name": "Antisimvatiki Sxesi",
       "url": "https://open.spotify.com/track/1iqDMi4MyYsxj2aAivSsdC"
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 168500,
       "name": "Gia Tin Epomeni",
       "url": "https://open.spotify.com/track/1Y3hauJlkq8GXIJ1YOnpDH"
@@ -2406,7 +2406,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 202894,
       "name": "Lathos Sou",
       "url": "https://open.spotify.com/track/2vDJ8rZVKKDQvzeZknZpMH"
@@ -2464,6 +2464,24 @@
       "duration_ms": 255430,
       "name": "Lekes",
       "url": "https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8"
+    },
+    {
+      "album": {
+        "name": "Lemonia Mou",
+        "url": "https://open.spotify.com/album/7CoZkSE8IKiifsbOh3GU46"
+      },
+      "artists": [
+        {
+          "name": "Lefteris Pantazis",
+          "url": "https://open.spotify.com/artist/5ZCCZxsnf0NCy3LBpPtH9Q"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152829,
+      "name": "Lemonia Mou",
+      "url": "https://open.spotify.com/track/3Ypd9akQZ1uisFau9qWi73"
     },
     {
       "album": {
@@ -2630,7 +2648,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 181894,
       "name": "Mavra Matia",
       "url": "https://open.spotify.com/track/3KpyeBandv07ri3WUu111o"
@@ -2688,7 +2706,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 222397,
       "name": "Me 'Geia Sou",
       "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
@@ -2982,6 +3000,24 @@
       "duration_ms": 166105,
       "name": "Na Giriseis Pou",
       "url": "https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc"
+    },
+    {
+      "album": {
+        "name": "Na Girnouses Piso",
+        "url": "https://open.spotify.com/album/5eL4oCsMNUNGr0M2kCXnpA"
+      },
+      "artists": [
+        {
+          "name": "Stamatis Gonidis",
+          "url": "https://open.spotify.com/artist/5By2qsuXvDrrlvRfyy6Kyk"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200576,
+      "name": "Na Girnouses Piso",
+      "url": "https://open.spotify.com/track/2opshSqvan9kufDbZSmbzw"
     },
     {
       "album": {
@@ -4833,6 +4869,46 @@
     },
     {
       "album": {
+        "name": "Thimizeis Kati Apo Ellada",
+        "url": "https://open.spotify.com/album/0XE3PFWYxFVowo50Sm5S03"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194099,
+      "name": "Thimizeis Kati Apo Ellada",
+      "url": "https://open.spotify.com/track/6A9SlQ6TcZC0YeQurcjFXg"
+    },
+    {
+      "album": {
+        "name": "Ti Gynaika Eisai Esy",
+        "url": "https://open.spotify.com/album/6yIieDqzL1ASOvYuNHHQ0R"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195112,
+      "name": "Ti Gynaika Eisai Esy",
+      "url": "https://open.spotify.com/track/4ZMm0xfWp58dWcBfrQ1FrW"
+    },
+    {
+      "album": {
         "name": "Ti Na Peis",
         "url": "https://open.spotify.com/album/6QmmLzsWwX5KVpIrwsKT95"
       },
@@ -5476,7 +5552,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 227789,
       "name": "Yposinidito",
       "url": "https://open.spotify.com/track/39pggFowhEJLR6jEnYzEb1"

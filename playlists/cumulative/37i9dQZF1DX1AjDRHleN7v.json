@@ -2241,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "Pura Ingratid\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3h5MMdQJZOo5N2Kt4WMVrf"
+      },
+      "artists": [
+        {
+          "name": "Papas Da L\u00edngua",
+          "url": "https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258260,
+      "name": "Pura Ingratid\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4jsPYyPv2R3z1waJd0EADf"
+    },
+    {
+      "album": {
         "name": "Caf\u00e9 da MaLu, Vol. 04",
         "url": "https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD"
       },
@@ -2592,7 +2610,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 240000,
       "name": "Refletir (Resista)",
       "url": "https://open.spotify.com/track/0MI5P7TQYEjyTnQVQisbZB"

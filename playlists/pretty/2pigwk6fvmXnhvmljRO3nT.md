@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,429 songs - 21 day 11 hr 34 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,431 songs - 21 day 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8437,5 +8437,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8427 | [Gotoubun no Kimochi](https://open.spotify.com/track/3XaDR0Rz5FBCB6TdMDEiKP) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Kimochi](https://open.spotify.com/album/3qf1Z6azFzTUlghCyPWfSX) | 3:42 |
 | 8428 | [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/track/5NEKjqTQPKiqOiOG8YxLdS) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Victory](https://open.spotify.com/album/4iAAzGGkdywnwP5O4Vpuun) | 3:52 |
 | 8429 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 |
+| 8430 | [Waltzing Flutes \- Remastered](https://open.spotify.com/track/2Ixa97FzjMRIEs9hCr7VLx) | [Manfred Minnich](https://open.spotify.com/artist/4KAS3VK0EeF1wMkyu0xOg8), [Manfred Minnich Strings](https://open.spotify.com/artist/23yrZtKsihxOgO511Ko6sW) | [Vintage Pearls: Retro Things with Strings](https://open.spotify.com/album/71psHM2kuCTkqLFJLrfxGa) | 2:10 |
+| 8431 | [Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q) | 2:43 |
 
-Snapshot ID: `AAAL+3V6Z5ryHzZIOyOqZQC4pYkX/8AJ`
+Snapshot ID: `AAAL/XFIcBe6QJfzsU2ipU+i806CAlb+`

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1069,
+  "num_followers": 1076,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGRJlX9TaERmF9OW9vBHM/QrUMEi56",
+  "snapshot_id": "AAAGSViTIsG7fGd4/tRDctkrhGYg3OJO",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1971,6 +1971,86 @@
       "duration_ms": 292766,
       "name": "Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo (No es tan dif\u00edcil)",
       "url": "https://open.spotify.com/track/7c3n6e35HWPu8jFZsGP2ZD"
+    },
+    {
+      "added_at": "2026-06-11 13:44:19",
+      "album": {
+        "name": "Sch\u00f6n und dumm",
+        "url": "https://open.spotify.com/album/0LIfzYI7U1mP56NgLwQ7TU"
+      },
+      "artists": [
+        {
+          "name": "Seelenpein",
+          "url": "https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV"
+        }
+      ],
+      "duration_ms": 232411,
+      "name": "Sch\u00f6n und dumm",
+      "url": "https://open.spotify.com/track/2C1cJLs5i7whe4nxVbSHs6"
+    },
+    {
+      "added_at": "2026-06-11 13:52:27",
+      "album": {
+        "name": "Fake Illusion",
+        "url": "https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P"
+      },
+      "artists": [
+        {
+          "name": "Taylor D",
+          "url": "https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg"
+        }
+      ],
+      "duration_ms": 184621,
+      "name": "Fake Illusion",
+      "url": "https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0"
+    },
+    {
+      "added_at": "2026-06-11 14:13:26",
+      "album": {
+        "name": "A Light On The Horizon",
+        "url": "https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw"
+      },
+      "artists": [
+        {
+          "name": "Slackrr",
+          "url": "https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu"
+        }
+      ],
+      "duration_ms": 221460,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/0ZjhuatJiL7b3x9bVRAVRm"
+    },
+    {
+      "added_at": "2026-06-11 14:22:08",
+      "album": {
+        "name": "Pocket Friend",
+        "url": "https://open.spotify.com/album/4eJU1HUt931tQ3dlte1ENP"
+      },
+      "artists": [
+        {
+          "name": "The Wild Life",
+          "url": "https://open.spotify.com/artist/6v89r44ZBn2egA98VSHrTD"
+        }
+      ],
+      "duration_ms": 201270,
+      "name": "Pocket Friend",
+      "url": "https://open.spotify.com/track/1o3vJA4CscYdUMNALRorHX"
+    },
+    {
+      "added_at": "2026-06-11 14:32:46",
+      "album": {
+        "name": "Fixed Up (Remastered)",
+        "url": "https://open.spotify.com/album/2Wwy5fnDfPGoXhkKmBcVFM"
+      },
+      "artists": [
+        {
+          "name": "The Fuzes",
+          "url": "https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Hey Woman",
+      "url": "https://open.spotify.com/track/6wdZHEXuu5JWMyydPlMeqt"
     }
   ],
   "unique_name": "Unsigned Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,933 likes - 639 songs - 1 day 16 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,935 likes - 639 songs - 1 day 16 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -648,4 +648,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 638 | [Facetime](https://open.spotify.com/track/15PJRwSIxYCtG72eS0lP0i) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Addicted To Nostalgia](https://open.spotify.com/album/14TFuH1XAcLG7DAU0wFWiA) | 2:00 |
 | 639 | [No Stopping Us](https://open.spotify.com/track/6LL7k9NYdw4niljdYF7Pg9) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [HOPE!!](https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b) | 2:21 |
 
-Snapshot ID: `AcT4bgAAAACZXNWFRch0diUEuoHA0f4I`
+Snapshot ID: `AcT98AAAAAB42gtqadnARp20BVdjmf4r`

@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,324 songs - 2 day 2 hr 39 min
+1,325 songs - 2 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -832,6 +832,7 @@
 | [no stress](https://open.spotify.com/track/0lYQNQEUcPIIpiAo00x58l) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [no stress](https://open.spotify.com/album/00IcnpcG1Kqt7RhCRUlwiy) | 2:21 | 2023-03-16 |  |
 | [no way back](https://open.spotify.com/track/72vhwaCoLwzCACdcqOaWAO) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [no way back](https://open.spotify.com/album/1xJN1I3OjDaIMKUOtToyMY) | 1:58 | 2022-05-13 | 2022-05-20 |
 | [NoHo Walks](https://open.spotify.com/track/1TyXDp22IIpopBKJUdoLcZ) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [NoHo Walks](https://open.spotify.com/album/0Zjpq0e6GZzxhvtPkMIxDb) | 1:40 | 2022-09-16 | 2023-08-04 |
+| [northern light](https://open.spotify.com/track/17c2b2WvFsQtQGGkRW8psl) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [northern light](https://open.spotify.com/album/4W5n9TkA0dHZC3TLvfFCpp) | 2:32 | 2026-06-11 |  |
 | [Norway](https://open.spotify.com/track/06Co3dkZW9abpw0feyJWl5) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Starcrossed](https://open.spotify.com/album/628FcjCPi9j1F27RG47lHs) | 2:08 | 2022-04-15 | 2022-12-10 |
 | [Nostalgia](https://open.spotify.com/track/12zINLpjdMmXVesmTDP63h) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Nostalgia](https://open.spotify.com/album/5GJo1YoJaHfV19pQF3Pn21) | 2:20 | 2022-08-05 | 2022-10-01 |
 | [not noise](https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [not noise](https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt) | 2:28 | 2024-08-08 | 2025-07-16 |
@@ -989,7 +990,7 @@
 | [Scarab](https://open.spotify.com/track/5h2s0zBUwkXtpzjOPekVj8) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [YODAKA](https://open.spotify.com/artist/52ZLqRmHoenePZnJpjjnRn) | [Torch the Croud](https://open.spotify.com/album/3kSyuJArxPotBfTyNCfs53) | 2:43 | 2022-10-28 | 2023-10-06 |
 | [Scenery](https://open.spotify.com/track/0q7hWEmXW4wFGo4u1RrriA) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME) | [Scenery](https://open.spotify.com/album/1F85ZcndEEfLMCrABfeZ9t) | 2:10 | 2021-11-10 | 2022-07-22 |
 | [scenes from another life](https://open.spotify.com/track/29ZdsH6u53GwzmPeGpKyUv) | [Osaki](https://open.spotify.com/artist/5mBv1P6ffkM2YlJvsBJlze), [eva gomi tenshi](https://open.spotify.com/artist/7JBpVroVCsNZPJeuUMtLnI) | [scenes from another life](https://open.spotify.com/album/6b30Mv5Hqt3HaXwt7QlV9X) | 2:34 | 2022-09-09 | 2023-10-06 |
-| [schoolyard at night](https://open.spotify.com/track/0xcQHLr7ZYeH5XZFHGOTqv) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [schoolyard at night](https://open.spotify.com/album/0vOsJxkkypBHLMmTHoCiEr) | 2:14 | 2025-07-18 |  |
+| [schoolyard at night](https://open.spotify.com/track/0xcQHLr7ZYeH5XZFHGOTqv) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [schoolyard at night](https://open.spotify.com/album/0vOsJxkkypBHLMmTHoCiEr) | 2:14 | 2025-07-18 | 2026-06-12 |
 | [scribbles](https://open.spotify.com/track/4hUpTnXcCjpHdtw9mB1RRL) | [jaxtun](https://open.spotify.com/artist/6OmeKMPyPWWmugowWQ68Pn) | [scribbles](https://open.spotify.com/album/2Vo1xrp2aY30iGCZNl0hE1) | 2:01 | 2022-07-22 | 2025-07-16 |
 | [sea foam](https://open.spotify.com/track/2NDAE4SuAs9GJnaLnLfMm7) | [sound butler](https://open.spotify.com/artist/6aSAkIrQshhK1BKhiPxh0O) | [sea foam](https://open.spotify.com/album/3N8nceU4xeqqsqIe90KS1X) | 2:19 | 2021-11-10 | 2022-04-08 |
 | [Season Pass](https://open.spotify.com/track/2Y1zvgPmwllGl2HQQZE8Mv) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Season Pass](https://open.spotify.com/album/3NzhqJzF747huNWpevdDUP) | 2:03 | 2023-04-20 | 2024-11-21 |
@@ -1098,7 +1099,7 @@
 | [Street Dweller](https://open.spotify.com/track/1Lc5NGQ2hLpilvDo0cDiZn) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Street Dweller](https://open.spotify.com/album/2X0HZ9Nt5w3GjaNE2mu66r) | 2:16 | 2022-12-16 | 2025-07-16 |
 | [Street Window](https://open.spotify.com/track/5OnOCfUbfMAgilTGZUPabd) | [Cloudroom](https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z) | [Street Window](https://open.spotify.com/album/0zxr1wsSAjkmvie0QHATuo) | 2:06 | 2025-11-05 |  |
 | [Strictly Loose](https://open.spotify.com/track/2U4r3gFf9R0hLDts0580Qx) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Strictly Loose](https://open.spotify.com/album/2PcjZfTCPyXwlUGohddzCA) | 2:16 | 2023-04-27 | 2025-07-16 |
-| [Stupendo](https://open.spotify.com/track/2gnWPEE1fkJ0xBgAbQVeZs) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [Stupendo](https://open.spotify.com/album/5O8Ex4wTyJqWyDzyH83wbD) | 2:05 | 2026-04-24 | 2026-05-30 |
+| [Stupendo](https://open.spotify.com/track/2gnWPEE1fkJ0xBgAbQVeZs) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [Stupendo](https://open.spotify.com/album/5O8Ex4wTyJqWyDzyH83wbD) | 2:05 | 2026-04-24 |  |
 | [Stussy](https://open.spotify.com/track/0OjvOvXXEaWpWP3J8hfwKk) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Stussy](https://open.spotify.com/album/36q17oo5LpxFExpzshZ1Vx) | 2:46 | 2022-12-23 |  |
 | [Suburbia Drive](https://open.spotify.com/track/57P3uC190Yc9VYmaHeMEqO) | [Hector Mazza](https://open.spotify.com/artist/3ceaS5uC2QpuBHUwmfZ5wX) | [Suburbia Drive](https://open.spotify.com/album/34uScT0otY4ovm3BLlYeTC) | 1:18 | 2021-11-10 | 2022-06-10 |
 | [Sudden Change](https://open.spotify.com/track/5Afsgt5QEt2aKPRplLfr6T) | [Lonely Joyman](https://open.spotify.com/artist/4UZYBPHjHcnzMuyBFMFaWn) | [A Bit of Colour](https://open.spotify.com/album/0crbtKJilhMawp13NZej5d) | 1:53 | 2023-09-29 | 2025-07-16 |
@@ -1136,7 +1137,7 @@
 | [Swiss Cheese Plant](https://open.spotify.com/track/5JziHwEPGqYD1lpHxf0E12) | [Foliage Beats](https://open.spotify.com/artist/16L0BcRMMckwUB3XFvgAe1) | [Swiss Cheese Plant](https://open.spotify.com/album/2vgbcYHLuA6ddj0re96qHx) | 1:35 | 2022-05-20 | 2023-09-16 |
 | [Sympatico](https://open.spotify.com/track/00wAjOnYrasIIeK9YKWboT) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm) | [Dreams of Angels](https://open.spotify.com/album/1tYvaSCdQ7H7z8bPJis7zI) | 2:36 | 2022-06-10 | 2022-06-17 |
 | [Tadar](https://open.spotify.com/track/3bbzTSD6TSfjbn6kiWOogR) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Khayana](https://open.spotify.com/album/1D5Ey1JTJH0b6VbgJxdrsJ) | 1:49 | 2021-11-10 | 2025-11-26 |
-| [Take Me Back](https://open.spotify.com/track/4uLHZisb2folVt5JJam396) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Take Me Back](https://open.spotify.com/album/45KoVoEqDqMBArWzy78lfO) | 2:01 | 2023-09-01 |  |
+| [Take Me Back](https://open.spotify.com/track/4uLHZisb2folVt5JJam396) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Take Me Back](https://open.spotify.com/album/45KoVoEqDqMBArWzy78lfO) | 2:01 | 2023-09-01 | 2026-06-12 |
 | [take me to nowhere](https://open.spotify.com/track/0jF2RMGrau0IA7eCX2iKy3) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4) | [take me to nowhere](https://open.spotify.com/album/1gNobdqJ8AzDZDYiw0vTfs) | 1:37 | 2022-12-09 |  |
 | [Take the Back Roads](https://open.spotify.com/track/0F0xZC5P82Ov3hdFdZwi7M) | [Sidezz](https://open.spotify.com/artist/130OLOykvWZS3fkhSq1GrR) | [Take the Back Roads](https://open.spotify.com/album/20dzRKRbeTMZ0121L6Xn50) | 2:27 | 2021-11-10 | 2022-09-03 |
 | [Take the Last Train](https://open.spotify.com/track/5cUC6PSmzWvOxeL6amUt9d) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Take the Last Train](https://open.spotify.com/album/5ESdOIvqhOJcoXTvRZKsEo) | 1:39 | 2022-04-15 | 2022-12-10 |

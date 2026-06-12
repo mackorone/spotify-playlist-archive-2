@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Himra",
+  "description": "Le meilleur du rap africain francophone. Photo : TRK.",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -184,6 +184,24 @@
       "duration_ms": 124027,
       "name": "Abodan",
       "url": "https://open.spotify.com/track/6bTKdDliSSHz9rA2LBHz3H"
+    },
+    {
+      "album": {
+        "name": "Abom\u00e9",
+        "url": "https://open.spotify.com/album/0WqoDWUKxOTAiT6r1Z0gxz"
+      },
+      "artists": [
+        {
+          "name": "Jojo le Barbu",
+          "url": "https://open.spotify.com/artist/2vTdlbSIfq0koZNrQB2WV9"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172490,
+      "name": "Abom\u00e9",
+      "url": "https://open.spotify.com/track/5UXDh8RkSAP0xC9J9SOhgY"
     },
     {
       "album": {
@@ -621,6 +639,24 @@
     },
     {
       "album": {
+        "name": "BAKARY SAMAKE",
+        "url": "https://open.spotify.com/album/2DqT7IcHeeqnjMoAeo2L4J"
+      },
+      "artists": [
+        {
+          "name": "Benzolamelo",
+          "url": "https://open.spotify.com/artist/03BQDdUudnaUqRp45kAcM7"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109994,
+      "name": "BAKARY SAMAKE",
+      "url": "https://open.spotify.com/track/1NZC193DI69GEZUkzQnxVj"
+    },
+    {
+      "album": {
         "name": "BALMAIN 2",
         "url": "https://open.spotify.com/album/53nox1t9KXk756ZZSqyNvk"
       },
@@ -1043,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "C BZ",
+        "url": "https://open.spotify.com/album/1QkKYgfBRgdJ0Prrbf85AN"
+      },
+      "artists": [
+        {
+          "name": "Cash Crime",
+          "url": "https://open.spotify.com/artist/7ycoKUNT2nsxYHaJMJBOyn"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133565,
+      "name": "C BZ",
+      "url": "https://open.spotify.com/track/56d99YIxzEh9vru7zZpg06"
+    },
+    {
+      "album": {
         "name": "C'est Chaud",
         "url": "https://open.spotify.com/album/2NvPS6rbzPMzNL7COR3b6L"
       },
@@ -1266,7 +1320,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 146666,
       "name": "Carr\u00e9 VIP",
       "url": "https://open.spotify.com/track/6ruPUqKQpGvk8kkKoJlHzp"
@@ -2769,6 +2823,24 @@
     },
     {
       "album": {
+        "name": "FREESTYLE VATOS #1",
+        "url": "https://open.spotify.com/album/6Mx1MTnGd1JmDoC9h48ttA"
+      },
+      "artists": [
+        {
+          "name": "LESSA",
+          "url": "https://open.spotify.com/artist/65KaByjfpccoSYXiADWtxB"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154576,
+      "name": "FREESTYLE VATOS #1",
+      "url": "https://open.spotify.com/track/6Sb1CS60M3Ks5dWkSsGUwc"
+    },
+    {
+      "album": {
         "name": "GAMME 2 BOSS",
         "url": "https://open.spotify.com/album/7FNEycoTOLPCJdat5EoIGs"
       },
@@ -4170,10 +4242,28 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 214511,
       "name": "MATA SOUA (Enjaillement)",
       "url": "https://open.spotify.com/track/1QGL1q1p9nu32nGJBlSvoB"
+    },
+    {
+      "album": {
+        "name": "MATATA",
+        "url": "https://open.spotify.com/album/4F7jRvnwDtwF5bD66NyxVh"
+      },
+      "artists": [
+        {
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133758,
+      "name": "MATATA",
+      "url": "https://open.spotify.com/track/5do88OelExklNmPNf17iu1"
     },
     {
       "album": {
@@ -4496,7 +4586,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 169655,
       "name": "Moyo",
       "url": "https://open.spotify.com/track/02CJ2HE3SPd4i5gOSAJiGZ"
@@ -4522,6 +4612,24 @@
       "duration_ms": 160551,
       "name": "M\u00e9lang\u00e9 (feat. DAVINHOR)",
       "url": "https://open.spotify.com/track/0NocF4Xg0qUClKzJaXEu9X"
+    },
+    {
+      "album": {
+        "name": "Nan Bon",
+        "url": "https://open.spotify.com/album/0b8HT84RMh2cxRLCAuoVWO"
+      },
+      "artists": [
+        {
+          "name": "Iba One",
+          "url": "https://open.spotify.com/artist/3f63uWQYi2tLKaONH44oSv"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Nan Bon",
+      "url": "https://open.spotify.com/track/2tn3frf6WwtihkeUjMVKSc"
     },
     {
       "album": {
@@ -4598,7 +4706,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 176173,
       "name": "Nienza",
       "url": "https://open.spotify.com/track/35fJYNbufm2t3YK16O1FUj"
@@ -4824,6 +4932,24 @@
       "duration_ms": 156951,
       "name": "Numero 10",
       "url": "https://open.spotify.com/track/407HIkHf9AwjUAjd6I9MoO"
+    },
+    {
+      "album": {
+        "name": "Numero Uno",
+        "url": "https://open.spotify.com/album/73qQxBMhIMQM9DaWMupZD4"
+      },
+      "artists": [
+        {
+          "name": "TRK.",
+          "url": "https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173471,
+      "name": "Numero Uno",
+      "url": "https://open.spotify.com/track/314dh0kgderW6Sil3rWDtl"
     },
     {
       "album": {
@@ -5174,7 +5300,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 188960,
       "name": "Pas Toucher (feat. Fanicko)",
       "url": "https://open.spotify.com/track/0bRW67DKXwALmPn6KWJ45u"
@@ -5552,7 +5678,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 132260,
       "name": "Recommence",
       "url": "https://open.spotify.com/track/3ELmcYIi0PXmFXrnLeKwIt"

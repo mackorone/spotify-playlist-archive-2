@@ -16859,6 +16859,24 @@
     },
     {
       "album": {
+        "name": "Dream (Live) | Spotify Fresh Finds x Sounds That Move",
+        "url": "https://open.spotify.com/album/5u6RY2PmWZgt6qgU0zCmD8"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177280,
+      "name": "Dream (Live) | Spotify Fresh Finds x Sounds That Move",
+      "url": "https://open.spotify.com/track/10GNH2MWGnwR4fui0NwPF2"
+    },
+    {
+      "album": {
         "name": "Dream Girl Concept",
         "url": "https://open.spotify.com/album/71y0h4MsFOus0gRfqNtyWE"
       },
@@ -54976,7 +54994,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 366502,
       "name": "Summer Card",
       "url": "https://open.spotify.com/track/3Q0LhQkqusn71J7kkxcIZS"

@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Get Worship
 
-388 songs - 1 day 14 hr 39 min
+389 songs - 1 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/track/6ZxiEkmFOQGA5xrLiV3yTS) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/album/3iALD5FS2raKNCjouli13t) | 5:01 | 2023-07-21 | 2023-09-26 |
 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Em Teus Braços \(Acústico\)](https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik) | 4:15 | 2022-09-09 | 2025-02-01 |
 | [Em Todas As Áreas \(Milagres\)](https://open.spotify.com/track/5oqnLlkjFuXzz1xe6Aj8dT) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Em Todas As Áreas \(Milagres\)](https://open.spotify.com/album/3WzDtNKZhRwa5MsIxypB6y) | 4:57 | 2025-10-03 |  |
+| [Então Crê \- Ao Vivo](https://open.spotify.com/track/5GHdI8eTjCGaB4ANef0320) | [Sara Evelyn](https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Então Crê \(Ao Vivo\)](https://open.spotify.com/album/3qeZzBOxA7DZAUfsgrDqsW) | 6:04 | 2026-06-12 |  |
 | [Então Profetiza](https://open.spotify.com/track/0U7QgnQNNjC1WhcEOPm6xI) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Então Profetiza](https://open.spotify.com/album/5R9xXreLrZnG7fYGbeHPHs) | 4:19 | 2023-09-25 | 2024-04-20 |
 | [Era Deus](https://open.spotify.com/track/7FCZXSFH10ZcwgaGKXaDYj) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Era Deus](https://open.spotify.com/album/5qUCNqOs1lbiZmiizjYBwp) | 4:45 | 2022-09-09 | 2024-12-14 |
 | [Escape](https://open.spotify.com/track/6z5hadHglLMtp2sf8L8Or9) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh) | [Escape](https://open.spotify.com/album/1OZP7A6bb4HPNXLwhmVNfj) | 4:33 | 2025-01-31 |  |
@@ -328,7 +329,7 @@
 | [Sou Grato Por Seu Amor](https://open.spotify.com/track/0uV1U1d1qOCcmRjJbNgHJT) | [Get Worship](https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp), [Get Records](https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67), [Vinicius Cruz](https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V) | [Sou Grato Por Seu Amor](https://open.spotify.com/album/0LA7WSnJyjxq1AYFf8vgsw) | 5:11 | 2026-05-07 |  |
 | [Sou Grato Por Seu Amor](https://open.spotify.com/track/5y07NTJg6NkDLW3fkrxDW5) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9) | [Sou Grato Por Seu Amor](https://open.spotify.com/album/3kJU9RxCRq1Fga1uyBpLxa) | 4:58 | 2026-05-07 | 2026-05-22 |
 | [Sublime \- Ao Vivo](https://open.spotify.com/track/0PEkKjD8bgssfDbKUzKQ21) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Caio Freitas](https://open.spotify.com/artist/7ffCL7plBaDkeHkQyLjz59) | [Meia Noite \(Ao Vivo\)](https://open.spotify.com/album/0jRjSI7vj4r16D1HeePfIa) | 7:25 | 2025-05-21 |  |
-| [Sê Valente / Deus Vai Te Guiar / O Cego De Jericó \(Ao Vivo\)](https://open.spotify.com/track/3haojhxI65M4wDLPzNPPn3) | [Michele do Pandeiro](https://open.spotify.com/artist/01CFvZuAQEjTxH4Ab3yzzn) | [Jesus, Eu, Vocês E O Pandeiro \(Ao Vivo\)](https://open.spotify.com/album/4EIy665Pi9Rhn82zvVsWXL) | 5:52 | 2026-03-02 |  |
+| [Sê Valente / Deus Vai Te Guiar / O Cego De Jericó \(Ao Vivo\)](https://open.spotify.com/track/3haojhxI65M4wDLPzNPPn3) | [Michele do Pandeiro](https://open.spotify.com/artist/01CFvZuAQEjTxH4Ab3yzzn) | [Jesus, Eu, Vocês E O Pandeiro \(Ao Vivo\)](https://open.spotify.com/album/4EIy665Pi9Rhn82zvVsWXL) | 5:52 | 2026-03-02 | 2026-06-12 |
 | [Só Existe Um Lugar \- Ao Vivo](https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Só Existe Um Lugar \(Ao Vivo\)](https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN) | 7:07 | 2022-09-09 | 2023-05-20 |
 | [Só Tenho a Ti](https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Só Tenho a Ti](https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ) | 2:33 | 2023-04-28 | 2023-06-03 |
 | [Tantos Mares \- Ao Vivo](https://open.spotify.com/track/7FOPTUmEJ3ByYW9ag9cZJ3) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Gabriella Stehling](https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ), [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1) | [Tantos Mares \(Ao Vivo\)](https://open.spotify.com/album/5qpIR86WhNYZzkwNo56x1P) | 4:43 | 2026-02-06 |  |

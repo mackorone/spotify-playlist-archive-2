@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 149573,
+  "num_followers": 149595,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
+        "name": "I'm So Blessed (Kids Version)",
+        "url": "https://open.spotify.com/album/6u8pIu6yjPPcKGKCS1Q3wQ"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 228484,
+      "name": "I'm So Blessed (Kids Version)",
+      "url": "https://open.spotify.com/track/68hSNh609axwveqPvsPgGQ"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
         "name": "Brave Performance Tracks",
         "url": "https://open.spotify.com/album/38i0L7rD9dn8eW9LlBXjvc"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 208945,
       "name": "Brave",
       "url": "https://open.spotify.com/track/4IpWEf6JwSGVSW3nC1SG10"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
-        "name": "I'm So Blessed (Kids Version)",
-        "url": "https://open.spotify.com/album/6u8pIu6yjPPcKGKCS1Q3wQ"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 228484,
-      "name": "I'm So Blessed (Kids Version)",
-      "url": "https://open.spotify.com/track/68hSNh609axwveqPvsPgGQ"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Noah's Ark",
-        "url": "https://open.spotify.com/album/2d2QmUb4A24jKT8XOuYWup"
-      },
-      "artists": [
-        {
-          "name": "Good News Guys",
-          "url": "https://open.spotify.com/artist/038QYILIEprTICwzqqU0jY"
-        }
-      ],
-      "duration_ms": 247826,
-      "name": "Noah\u2019s Tool Song",
-      "url": "https://open.spotify.com/track/5O0xXWn6F22vREhajrP4Nc"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "God Be With You Til We Meet Again",
         "url": "https://open.spotify.com/album/4lUY2FB6ypdlFrxzC5Z4Yg"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 192880,
       "name": "God Be With You Til We Meet Again",
       "url": "https://open.spotify.com/track/1z7pM2McaOzIhwbac3NqM0"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "Noah's Ark",
+        "url": "https://open.spotify.com/album/2d2QmUb4A24jKT8XOuYWup"
+      },
+      "artists": [
+        {
+          "name": "Good News Guys",
+          "url": "https://open.spotify.com/artist/038QYILIEprTICwzqqU0jY"
+        }
+      ],
+      "duration_ms": 247826,
+      "name": "Noah\u2019s Tool Song",
+      "url": "https://open.spotify.com/track/5O0xXWn6F22vREhajrP4Nc"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
+        "name": "Thank You Jesus",
+        "url": "https://open.spotify.com/album/1JB2VmkBVE3SQOKPj6Z4uh"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Kids",
+          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "God Is So Good",
+      "url": "https://open.spotify.com/track/75Bunn94DbQP7xgwdfXzu8"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
         "name": "Worship in The Word (Live)",
         "url": "https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ"
       },
@@ -567,38 +583,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Thank You Jesus",
-        "url": "https://open.spotify.com/album/1JB2VmkBVE3SQOKPj6Z4uh"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Kids",
-          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "God Is So Good",
-      "url": "https://open.spotify.com/track/75Bunn94DbQP7xgwdfXzu8"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
-        "name": "Living Color",
-        "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
-      },
-      "artists": [
-        {
-          "name": "Elevation Church Kids",
-          "url": "https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5"
-        }
-      ],
-      "duration_ms": 238624,
-      "name": "See A Victory",
-      "url": "https://open.spotify.com/track/5cNG0V1wLEVJlq8CPzEXwH"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "This Is My Father's World (From Pippa And The Singing Tree)",
         "url": "https://open.spotify.com/album/7qaxZz4ttunI9fG24X1lN3"
       },
@@ -619,22 +603,18 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Your Ways (Isaiah 55) [Live]",
-        "url": "https://open.spotify.com/album/6h3ij29LgLW3qannd61h1Q"
+        "name": "Living Color",
+        "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
       },
       "artists": [
         {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        },
-        {
-          "name": "Kingdom Kids",
-          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
+          "name": "Elevation Church Kids",
+          "url": "https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5"
         }
       ],
-      "duration_ms": 242235,
-      "name": "Your Ways (Isaiah 55) - Live",
-      "url": "https://open.spotify.com/track/3jmXhvsA6Y9SQX5HohC26n"
+      "duration_ms": 238624,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/5cNG0V1wLEVJlq8CPzEXwH"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -651,6 +631,26 @@
       "duration_ms": 160618,
       "name": "Romans 3:23-24 (English Standard Version)",
       "url": "https://open.spotify.com/track/2ICElIE0vfuMxLMNFUuFUS"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "Your Ways (Isaiah 55) [Live]",
+        "url": "https://open.spotify.com/album/6h3ij29LgLW3qannd61h1Q"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Kingdom Kids",
+          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
+        }
+      ],
+      "duration_ms": 242235,
+      "name": "Your Ways (Isaiah 55) - Live",
+      "url": "https://open.spotify.com/track/3jmXhvsA6Y9SQX5HohC26n"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
+        "name": "Jesus Loves Me",
+        "url": "https://open.spotify.com/album/3KOm9XWmIqqVmGbcovRnUS"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        }
+      ],
+      "duration_ms": 86575,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/70AOGWKZWH7cuiNnaTiTZ5"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
         "name": "Worship in the Word, Vol. 3 (Live)",
         "url": "https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 290281,
       "name": "Your Name (Psalm 40) - Live",
       "url": "https://open.spotify.com/track/7Dmap2QHdFFuoweoQxNrNm"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
-        "name": "Jesus Loves Me",
-        "url": "https://open.spotify.com/album/3KOm9XWmIqqVmGbcovRnUS"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Kids",
-          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
-        }
-      ],
-      "duration_ms": 86575,
-      "name": "Jesus Loves Me",
-      "url": "https://open.spotify.com/track/70AOGWKZWH7cuiNnaTiTZ5"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Top 50 Kids' Praise! Company",
-        "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
-      },
-      "artists": [
-        {
-          "name": "Kids Praise Co.",
-          "url": "https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V"
-        }
-      ],
-      "duration_ms": 240373,
-      "name": "How Great Is Our God",
-      "url": "https://open.spotify.com/track/0QWFvWKOnA9giC28sQnCfy"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "Best Day of My Life",
         "url": "https://open.spotify.com/album/7dBJvgDpKP4aF9DzkRdz7u"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
+        "name": "Top 50 Kids' Praise! Company",
+        "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
+      },
+      "artists": [
+        {
+          "name": "Kids Praise Co.",
+          "url": "https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V"
+        }
+      ],
+      "duration_ms": 240373,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0QWFvWKOnA9giC28sQnCfy"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
         "name": "100 Singalong Songs For Kids",
         "url": "https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 94466,
       "name": "I've Got Peace Like A River",
       "url": "https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "Top 25 Kids' Praise Songs 2012",
+        "url": "https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Kids",
+          "url": "https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Let It Rise",
+      "url": "https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -855,18 +871,18 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Top 25 Kids' Praise Songs 2012",
-        "url": "https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ"
+        "name": "Let My Light Shine",
+        "url": "https://open.spotify.com/album/6YTSa6nh81zLwXc7SIFIHI"
       },
       "artists": [
         {
-          "name": "Maranatha! Kids",
-          "url": "https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n"
+          "name": "KidSpring",
+          "url": "https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc"
         }
       ],
-      "duration_ms": 213400,
-      "name": "Let It Rise",
-      "url": "https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI"
+      "duration_ms": 166709,
+      "name": "Let My Light Shine",
+      "url": "https://open.spotify.com/track/1kGmEkiS3Xpf48qrfw4HR8"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -883,22 +899,6 @@
       "duration_ms": 191641,
       "name": "What a Friend We Have in Jesus",
       "url": "https://open.spotify.com/track/4xkFOA8DO1C00ouosWZkJ3"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
-        "name": "Let My Light Shine",
-        "url": "https://open.spotify.com/album/6YTSa6nh81zLwXc7SIFIHI"
-      },
-      "artists": [
-        {
-          "name": "KidSpring",
-          "url": "https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc"
-        }
-      ],
-      "duration_ms": 166709,
-      "name": "Let My Light Shine",
-      "url": "https://open.spotify.com/track/1kGmEkiS3Xpf48qrfw4HR8"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "I Could Sing Of Your Love Forever Kids",
-        "url": "https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj"
-      },
-      "artists": [
-        {
-          "name": "I Could Sing Kids Performers",
-          "url": "https://open.spotify.com/artist/13sPKIaXpiW7mFr3cgCb02"
-        }
-      ],
-      "duration_ms": 257333,
-      "name": "You're Worthy Of My Praise",
-      "url": "https://open.spotify.com/track/18u6SPiW95kfpWTg4zfYvZ"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "Give Me Oil In My Lamp",
         "url": "https://open.spotify.com/album/5710M92hn0jDFel2kencbw"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 168140,
       "name": "Give Me Oil In My Lamp",
       "url": "https://open.spotify.com/track/0yzwHHM7jOWmC9fBUxWePf"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "I Could Sing Of Your Love Forever Kids",
+        "url": "https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj"
+      },
+      "artists": [
+        {
+          "name": "I Could Sing Kids Performers",
+          "url": "https://open.spotify.com/artist/13sPKIaXpiW7mFr3cgCb02"
+        }
+      ],
+      "duration_ms": 257333,
+      "name": "You're Worthy Of My Praise",
+      "url": "https://open.spotify.com/track/18u6SPiW95kfpWTg4zfYvZ"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "The Creation (Genesis 1:1)",
-        "url": "https://open.spotify.com/album/57gEQgjvTWgrn7OpgqCRCU"
+        "name": "The Dead Sea Squirrels: He\u2019s Alive!",
+        "url": "https://open.spotify.com/album/6s4GeJmlMXQ1lmVYCzc2LN"
       },
       "artists": [
         {
-          "name": "The Wonder Kids",
-          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+          "name": "The Dead Sea Squirrels",
+          "url": "https://open.spotify.com/artist/1BwiYrbAUlk61IA7Tl4OOC"
         }
       ],
-      "duration_ms": 97085,
-      "name": "The Creation (Genesis 1:1)",
-      "url": "https://open.spotify.com/track/6P0Ght8RuSmm0eiN61c6Xn"
+      "duration_ms": 188960,
+      "name": "He\u2019s Alive",
+      "url": "https://open.spotify.com/track/3lIvkEtf41IW9GDtGJVPhA"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "The Dead Sea Squirrels: He\u2019s Alive!",
-        "url": "https://open.spotify.com/album/6s4GeJmlMXQ1lmVYCzc2LN"
+        "name": "The Creation (Genesis 1:1)",
+        "url": "https://open.spotify.com/album/57gEQgjvTWgrn7OpgqCRCU"
       },
       "artists": [
         {
-          "name": "The Dead Sea Squirrels",
-          "url": "https://open.spotify.com/artist/1BwiYrbAUlk61IA7Tl4OOC"
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
         }
       ],
-      "duration_ms": 188960,
-      "name": "He\u2019s Alive",
-      "url": "https://open.spotify.com/track/3lIvkEtf41IW9GDtGJVPhA"
+      "duration_ms": 97085,
+      "name": "The Creation (Genesis 1:1)",
+      "url": "https://open.spotify.com/track/6P0Ght8RuSmm0eiN61c6Xn"
     },
     {
       "added_at": "2026-05-12 05:39:19",

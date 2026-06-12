@@ -4,7 +4,7 @@
 
 > 
 
-8,642 songs - 22 day 0 hr 35 min
+8,644 songs - 22 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3596,6 +3596,7 @@
 | [Landing in Love](https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Take\-off](https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV) | 2:45 | 2025-07-27 |  |
 | [Language](https://open.spotify.com/track/4RnvS1tmh1ERhjXX6dxv95) | [Paperboy Fabe](https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Language](https://open.spotify.com/album/2MsWCeQjZlSfHFjDm5DYR1) | 2:30 | 2025-01-15 |  |
 | [Languid and Quiet Moment](https://open.spotify.com/track/7gusXTarARmpgoLZAfv21r) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Forest of Jnana and Vidya \(Original Game Soundtrack\)](https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr) | 1:07 | 2025-11-29 |  |
+| [Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q) | 2:43 | 2026-06-11 |  |
 | [Larger Than Life](https://open.spotify.com/track/0CsgyUE97xzlaDTOHVHEIQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future \(The Extended Edition\)](https://open.spotify.com/album/5eXL40WFKPjdCw0NZrRcJI) | 3:24 | 2025-01-03 |  |
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2025-01-03 |  |
 | [Last Call](https://open.spotify.com/track/7iOhWWYjhhQiXzF4o4HhXN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 12:40 | 2025-01-03 |  |
@@ -7008,6 +7009,7 @@
 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 | 2025-01-03 |  |
 | [WalkOnBy \(feat\. Earl Sweatshirt & Rae Khalil\)](https://open.spotify.com/track/36dXojpK4JbefZoCLRVVMF) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Why Lawd?](https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe) | 3:47 | 2025-01-04 |  |
 | [Waltz No\. 1, Collapse](https://open.spotify.com/track/0J2lmSTQQWhTiglHDbhLWm) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Op\. 1: Multiverse](https://open.spotify.com/album/7unO1Rhkr8bhZaE3y0QRU3) | 2:36 | 2025-03-23 |  |
+| [Waltzing Flutes \- Remastered](https://open.spotify.com/track/2Ixa97FzjMRIEs9hCr7VLx) | [Manfred Minnich](https://open.spotify.com/artist/4KAS3VK0EeF1wMkyu0xOg8), [Manfred Minnich Strings](https://open.spotify.com/artist/23yrZtKsihxOgO511Ko6sW) | [Vintage Pearls: Retro Things with Strings](https://open.spotify.com/album/71psHM2kuCTkqLFJLrfxGa) | 2:10 | 2026-06-11 |  |
 | [Wandering Clouds](https://open.spotify.com/track/2WD19ZbjQn0GRNPPSnfAzy) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Millelith's Watch \(Original Game Soundtrack\)](https://open.spotify.com/album/26mat5fAFSQnto8pFSQHbb) | 2:09 | 2025-11-29 |  |
 | [Wanna Be Me](https://open.spotify.com/track/6EBWOAKdrGSVePYBfUGFmq) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season](https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt) | 4:08 | 2025-01-15 |  |
 | [Wanna Be Startin' Somethin'](https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 6:03 | 2025-01-04 |  |

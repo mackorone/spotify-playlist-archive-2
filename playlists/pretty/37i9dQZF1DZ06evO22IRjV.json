@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 31076,
+  "num_followers": 31078,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAABbiCTvyDtnXV4doIPKO3Uw",
+  "snapshot_id": "aiipAAAAAAAH02M9fVvqE4S5kJ/TlySA",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COLORS",
+        "url": "https://open.spotify.com/album/2eRkUeDSQpD0AuSUyR39nB"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 93786,
+      "name": "COLORS -CODE GEASS OPENING MIX-",
+      "url": "https://open.spotify.com/track/6xUBXdVdzs50AvqARndD1A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FLOW THE BEST \u301c\u30a2\u30cb\u30e1\u7e1b\u308a\u301c",
         "url": "https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO"
       },
@@ -111,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FLOW ANIME BEST",
+        "url": "https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 196880,
+      "name": "Re:member",
+      "url": "https://open.spotify.com/track/7eyNBX6ffLGH4q2Ef0Xbvz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FLOW ANIME BEST \u6975",
         "url": "https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG"
       },
@@ -127,38 +159,6 @@
       "duration_ms": 258906,
       "name": "7-seven-",
       "url": "https://open.spotify.com/track/780QeWn8OYJXSqpNTgt5pY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FLOW ANIME BEST",
-        "url": "https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "DAYS",
-      "url": "https://open.spotify.com/track/0V11khqCtoJ0VksqBsN44x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COLORS",
-        "url": "https://open.spotify.com/album/2eRkUeDSQpD0AuSUyR39nB"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 93786,
-      "name": "COLORS -CODE GEASS OPENING MIX-",
-      "url": "https://open.spotify.com/track/6xUBXdVdzs50AvqARndD1A"
     },
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 196880,
-      "name": "Re:member",
-      "url": "https://open.spotify.com/track/7eyNBX6ffLGH4q2Ef0Xbvz"
+      "duration_ms": 251253,
+      "name": "DAYS",
+      "url": "https://open.spotify.com/track/0V11khqCtoJ0VksqBsN44x"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW ANIME BEST \u6975",
-        "url": "https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        },
-        {
-          "name": "Diana Garnet",
-          "url": "https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/5mdvXxeJTn71DzTtTyOfxQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GET BACK",
         "url": "https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 279733,
       "name": "Answer",
       "url": "https://open.spotify.com/track/0lDEkAEv0QuxJGZ1nn4JIx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOW ANIME BEST \u6975",
+        "url": "https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "Diana Garnet",
+          "url": "https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/5mdvXxeJTn71DzTtTyOfxQ"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "INNOSENSE Special Edition",
-        "url": "https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV"
+        "name": "MICROCOSM",
+        "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 242373,
-      "name": "INNOSENSE",
-      "url": "https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl"
+      "duration_ms": 214773,
+      "name": "CALLING",
+      "url": "https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "INNOSENSE Special Edition",
+        "url": "https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "INNOSENSE",
+      "url": "https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LIVING DEAD",
         "url": "https://open.spotify.com/album/1CiISbUXSpFx4B4lRYC43P"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 230080,
       "name": "LIVING DEAD",
       "url": "https://open.spotify.com/track/2KeciA7fNyj5ia3nMznhMQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MICROCOSM",
-        "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "CALLING",
-      "url": "https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Howling",
-        "url": "https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        },
-        {
-          "name": "GRANRODEO",
-          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
-        }
-      ],
-      "duration_ms": 91906,
-      "name": "Howling -TV Size-",
-      "url": "https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAYS",
         "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
       },
@@ -743,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
-        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+        "name": "Howling",
+        "url": "https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL"
       },
       "artists": [
         {
           "name": "FLOW",
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "GRANRODEO",
+          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
         }
       ],
-      "duration_ms": 234293,
-      "name": "Hero's Come Back!!",
-      "url": "https://open.spotify.com/track/2HHrHcz3gbWOwaSogkbyxh"
+      "duration_ms": 91906,
+      "name": "Howling -TV Size-",
+      "url": "https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb"
     },
     {
       "added_at": null,
@@ -816,9 +800,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 207706,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/7LXqkSIXTDs1D4GLA0GTHE"
+      "duration_ms": 234293,
+      "name": "Hero's Come Back!!",
+      "url": "https://open.spotify.com/track/2HHrHcz3gbWOwaSogkbyxh"
     },
     {
       "added_at": null,
@@ -851,6 +835,26 @@
       "duration_ms": 238906,
       "name": "\u30e2\u30e1\u30f3\u30c8",
       "url": "https://open.spotify.com/track/5wjYZIKLKUge6lFO89gUAU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVE & JUSTICE/\u8d85\u4eba",
+        "url": "https://open.spotify.com/album/4ebTHusKua4S15NXgAVbFX"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "LOVE & JUSTICE",
+      "url": "https://open.spotify.com/track/5g8RurzBblZMTsM69wnyCv"
     }
   ],
   "unique_name": "This Is FLOW",

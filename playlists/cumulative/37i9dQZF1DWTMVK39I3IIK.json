@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "det handler ik' om alder, men om young soundsss \ud83e\udd60",
+  "description": "young soundsss \ud83e\udd60",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 192314,
       "name": "Anna",
       "url": "https://open.spotify.com/track/1aTvtqzdNdivWqhPY7G9z0"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 215078,
       "name": "Big Mistake",
       "url": "https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 165500,
       "name": "Bye Sofia",
       "url": "https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 163948,
       "name": "Den Lykkelige Ungdom",
       "url": "https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI"
@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6YBO3bVKIZgS2R6AE9eSby"
+      },
+      "artists": [
+        {
+          "name": "School of X",
+          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149271,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2GSY5xLQQdgBcbf04nlNm3"
+    },
+    {
+      "album": {
         "name": "v\u00e5gner",
         "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
       },
@@ -1986,7 +2004,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 182807,
       "name": "Errr",
       "url": "https://open.spotify.com/track/4ecSUTrx8xrIlwprm8bhwU"
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 148521,
       "name": "Et Sted p\u00e5 Vesterbro",
       "url": "https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ"
@@ -2584,7 +2602,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 148413,
       "name": "Gi' Mig",
       "url": "https://open.spotify.com/track/6TuyzcroVkiqQZUXlJE3LC"
@@ -3258,7 +3276,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 170288,
       "name": "Hvor Sv\u00e6rt Kan Det V\u00e6re",
       "url": "https://open.spotify.com/track/2kIGmHdCeslh6nxVoNUNGS"
@@ -3454,7 +3472,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 198810,
       "name": "i'll quit quitting",
       "url": "https://open.spotify.com/track/50QHiazBVpbsOKfFIrBR2k"
@@ -3512,7 +3530,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 165521,
       "name": "Idiot",
       "url": "https://open.spotify.com/track/2kz6Tlbmx37JJmehWobN1x"
@@ -3628,10 +3646,28 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 227037,
       "name": "Ind I Solen",
       "url": "https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz"
+    },
+    {
+      "album": {
+        "name": "Ingen Bund",
+        "url": "https://open.spotify.com/album/72yYt6zHgG6qQkgXNpPqLx"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219124,
+      "name": "Ingen Bund",
+      "url": "https://open.spotify.com/track/6Wh43ZGGQycgGfw2fj7wy3"
     },
     {
       "album": {
@@ -4332,7 +4368,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 258797,
       "name": "Lige Meget Hvor Langt Du Er",
       "url": "https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23"
@@ -4350,7 +4386,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 150488,
       "name": "Lige s\u00e5 fucked som mig",
       "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
@@ -5846,7 +5882,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 236624,
       "name": "Se Mig",
       "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"
@@ -6232,7 +6268,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 184444,
       "name": "Stay 4 U",
       "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
@@ -6886,7 +6922,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 174627,
       "name": "Troede Det Var Os",
       "url": "https://open.spotify.com/track/0o7TS3c91RbVB0MKX6KsXL"
@@ -7268,7 +7304,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 154285,
       "name": "Undskyld",
       "url": "https://open.spotify.com/track/6Wau9vZtw62qiHfBOFnsfy"
@@ -7514,7 +7550,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 198812,
       "name": "Verona",
       "url": "https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw"

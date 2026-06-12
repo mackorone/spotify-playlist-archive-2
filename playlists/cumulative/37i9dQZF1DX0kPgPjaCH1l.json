@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Dear God",
+        "url": "https://open.spotify.com/album/3WlgPk9gJBgxb8NrsZXUnv"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Dear God",
+      "url": "https://open.spotify.com/track/6N93363KAGUQFviDFAmuhz"
+    },
+    {
+      "album": {
         "name": "Dis Year",
         "url": "https://open.spotify.com/album/1mFajKbOGTphsgYXWqI6xk"
       },
@@ -1172,6 +1190,32 @@
       "duration_ms": 137631,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
+    },
+    {
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/76VDoUkaQPQ0UrgBKnKajv"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119347,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU"
     },
     {
       "album": {
@@ -1592,7 +1636,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 184884,
       "name": "Kalluba",
       "url": "https://open.spotify.com/track/3dw5ojqXRDMQBRBVrNebJb"
@@ -2246,7 +2290,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 138031,
       "name": "Polanco",
       "url": "https://open.spotify.com/track/7g5AHKoB3pi5YjfcC2rbdj"
@@ -2488,7 +2532,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 202300,
       "name": "Scenes",
       "url": "https://open.spotify.com/track/0Pdp2f6EmVtuaDciWeg32N"
@@ -3022,7 +3066,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "What They Want?",
       "url": "https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3"

@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Sonny Gullage
 
-350 songs - 20 hr 34 min
+351 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Hole in my Pocket](https://open.spotify.com/track/4oh43xqoxC717eB5JNZwt1) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Hole in my Pocket](https://open.spotify.com/album/27QYUwNoXfRVlLw7x8FOQ4) | 4:18 | 2023-02-13 | 2024-06-01 |
 | [Horizons](https://open.spotify.com/track/11QOYYPPQoYKAlOYDs6Foy) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/48xIyVPW1JMDszgWRvA7YP) | 2:37 | 2021-03-26 | 2022-03-26 |
 | [Howl For Me Daddy](https://open.spotify.com/track/3Gze7X3OVJ0Ulgea8n6Zqo) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [One Night In Miami..\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1i3pkaGXNV3kdn54InaVHF) | 2:25 | 2021-02-05 | 2022-03-26 |
+| [Hurt Like Home](https://open.spotify.com/track/7MIegYUVaJAT6DwZ0pZfLD) | [Sara Hartman](https://open.spotify.com/artist/1Vx5fzRUd7A1j40B8E3Yqo) | [Hurt Like Home](https://open.spotify.com/album/4rrDizvv6BRc6DWXJKsWu9) | 4:09 | 2026-06-12 |  |
 | [I Feel The Love](https://open.spotify.com/track/67eYI9jbt7DZQgKfo7A2Kg) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [I Feel The Love](https://open.spotify.com/album/0MPJo2L3RIXShVMtBkZTMS) | 2:59 | 2023-02-17 | 2024-07-13 |
 | [I Never Like It When You Leave](https://open.spotify.com/track/2Kp5p8jiWH42gJVv4cHNBZ) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [I Never Like It When You Leave](https://open.spotify.com/album/0Q84Iiq3eoEpJ1DedX64x9) | 3:14 | 2021-02-05 | 2022-03-26 |
 | [I want it all](https://open.spotify.com/track/5tr9wAeWpd5IXH15PZuIPW) | [Omido](https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh), [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Rick Jansen](https://open.spotify.com/artist/53lSnB02n045g5jMu0ItCz) | [I want it all](https://open.spotify.com/album/6HQIBMSqvLJ65qcCR1PD4T) | 2:47 | 2024-04-12 |  |

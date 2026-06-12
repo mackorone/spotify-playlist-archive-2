@@ -4,7 +4,7 @@
 
 > The best new dance tracks from independent artists & labels\. Featuring Delilah\. Curated by human Spotify editors.
 
-3,541 songs - 9 day 13 hr 26 min
+3,542 songs - 9 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -893,6 +893,7 @@
 | [dream](https://open.spotify.com/track/2tzoLvKBygTxkv8x1cVc0P) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [badman jungle rave ting](https://open.spotify.com/album/1zBPqXbFTUsNgsenOFwMrz) | 4:00 | 2022-02-23 | 2022-03-24 |
 | [Dream](https://open.spotify.com/track/3a0AsqDY11P66dLEKy1Mzf) | [Marc Gonen](https://open.spotify.com/artist/7xdcLkcWfAhUVQGmQFwoRf) | [Dream](https://open.spotify.com/album/0ZNLNGlAMyibdrhHXyBzQQ) | 2:55 | 2024-11-13 | 2025-02-27 |
 | [DREAM](https://open.spotify.com/track/3Gv4iRTcFcDJ3n12vCyWst) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [DREAM](https://open.spotify.com/album/6eY2K479XOyF57yyf7u4wl) | 4:23 | 2026-03-05 | 2026-05-01 |
+| [Dream \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/track/10GNH2MWGnwR4fui0NwPF2) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Dream \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/album/5u6RY2PmWZgt6qgU0zCmD8) | 2:57 | 2026-06-11 |  |
 | [Dream Girl Concept](https://open.spotify.com/track/6cLHOG8UZtIhN34kFojN1u) | [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3), [Tyris White](https://open.spotify.com/artist/1SBcHDPYhONiDucltWQLLm), [Jide](https://open.spotify.com/artist/6EDGpM5rVt6GsOh5ypS04Y) | [Dream Girl Concept](https://open.spotify.com/album/71y0h4MsFOus0gRfqNtyWE) | 3:39 | 2021-12-01 | 2022-01-13 |
 | [Dream Imagine](https://open.spotify.com/track/0fdo2UpFfNeHDB2VQIWtBp) | [Jenichi](https://open.spotify.com/artist/4NUkbJyEevYq0C6AfNAugI) | [Find Peace](https://open.spotify.com/album/78PA9KuKW0oizPV05NIJYD) | 5:44 | 2023-03-01 | 2023-03-16 |
 | [Dream Pop](https://open.spotify.com/track/4GMCDKBPHg9STZ9UOsaf4I) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Dream Pop](https://open.spotify.com/album/5JK9rnjBYwtUREj0uTl76z) | 5:57 | 2022-04-07 | 2022-06-09 |
@@ -2898,7 +2899,7 @@
 | [Sugarblood](https://open.spotify.com/track/1PSg1nZUOAkp7bLYrUF4fY) | [Birthday in Texas](https://open.spotify.com/artist/35SYTkkKBjuA75X0FoLRjA) | [Sugarblood](https://open.spotify.com/album/2qqyp5V8vtlXSi4VB5fkMs) | 2:36 | 2026-05-29 |  |
 | [Suggestion](https://open.spotify.com/track/1KkSLiDiwusO1x3Ob8Z8P2) | [Fran Valdivieso](https://open.spotify.com/artist/4guxJfujrQB0QSyCuH3f5o) | [Suggestion](https://open.spotify.com/album/6KQWSz123qvwU5vZXyUkTA) | 2:50 | 2022-04-13 | 2022-04-28 |
 | [Sum Ting Low](https://open.spotify.com/track/3cRi9A0lmIWuBZKEnm4TAT) | [Myledo](https://open.spotify.com/artist/2MfH45PGYjcDzOVTBQYwjp) | [The Slow Down](https://open.spotify.com/album/6fmzmTmdjetEgAjbgPWKh8) | 4:13 | 2022-06-29 | 2022-07-28 |
-| [Summer Card](https://open.spotify.com/track/3Q0LhQkqusn71J7kkxcIZS) | [SDK](https://open.spotify.com/artist/7hN6wFQYdWHD7KnfV0CVnA), [Simone De Kunovich](https://open.spotify.com/artist/6qEYuBlZWeehY6RxWCpA0r) | [Summer Card](https://open.spotify.com/album/3od5UAhncfYXEiHwkYqk0K) | 6:06 | 2026-04-15 |  |
+| [Summer Card](https://open.spotify.com/track/3Q0LhQkqusn71J7kkxcIZS) | [SDK](https://open.spotify.com/artist/7hN6wFQYdWHD7KnfV0CVnA), [Simone De Kunovich](https://open.spotify.com/artist/6qEYuBlZWeehY6RxWCpA0r) | [Summer Card](https://open.spotify.com/album/3od5UAhncfYXEiHwkYqk0K) | 6:06 | 2026-04-15 | 2026-06-12 |
 | [Summer Ghost](https://open.spotify.com/track/5JgMjiJyXPFYL8EWWSGYxq) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Summer Ghost](https://open.spotify.com/album/0F1GxhsuQCQUjNNGu12hSe) | 5:10 | 2023-01-18 | 2023-03-09 |
 | [summer high](https://open.spotify.com/track/0SRnhXZQJnWe5LpXmALHxA) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [summer high](https://open.spotify.com/album/5r9KJXVoPFOhxg9WXX3XbZ) | 2:56 | 2024-06-12 | 2024-08-08 |
 | [Summer Song](https://open.spotify.com/track/0irCvaGzA3rfbGbBwVuJnF) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Summer Song](https://open.spotify.com/album/6tHlqMpLU2nGPGuWUdRBvg) | 3:18 | 2025-09-05 | 2025-10-11 |

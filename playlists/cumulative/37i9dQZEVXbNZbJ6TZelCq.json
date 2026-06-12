@@ -4306,7 +4306,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 134399,
       "name": "Balans",
       "url": "https://open.spotify.com/track/0JK8MMdQNg1hHV51b2lsBA"
@@ -17355,6 +17355,28 @@
     },
     {
       "album": {
+        "name": "Ursarinho",
+        "url": "https://open.spotify.com/album/4C6OBgnEjXgnTAZstlzYwp"
+      },
+      "artists": [
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+        },
+        {
+          "name": "Arkanian",
+          "url": "https://open.spotify.com/artist/1LdNutYy0xoGpKCDCj2k1p"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134051,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/1qlK7THuXE8UUmiBcfvwWj"
+    },
+    {
+      "album": {
         "name": "Vise Lucide",
         "url": "https://open.spotify.com/album/4dMhOd1UUuBTSBUOApvMKM"
       },
@@ -22710,7 +22732,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 170738,
       "name": "ishh",
       "url": "https://open.spotify.com/track/24acrQtUSgDEIsuzGtjREy"
@@ -28720,7 +28742,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 266162,
       "name": "minte-ma",
       "url": "https://open.spotify.com/track/7hb4G6q7fpYQiaiNE4gzcI"
@@ -28898,6 +28920,36 @@
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "album": {
+        "name": "MODEL",
+        "url": "https://open.spotify.com/album/5jhLnTl5jvOfiw7tDM6Eog"
+      },
+      "artists": [
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        },
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
+        },
+        {
+          "name": "21SIIEMPRE",
+          "url": "https://open.spotify.com/artist/5EgunYI2GFYRdYCIJc77ky"
+        },
+        {
+          "name": "Marrio Nadal",
+          "url": "https://open.spotify.com/artist/27yMeJYLmDll0Cc3URZlyK"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233281,
+      "name": "MODEL",
+      "url": "https://open.spotify.com/track/0g0CvffYlfUznjEGe86Fpd"
     },
     {
       "album": {
@@ -38812,7 +38864,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 197845,
       "name": "Savarina",
       "url": "https://open.spotify.com/track/1bxvAh3tyCH6HjQf8g8MYH"
@@ -43860,7 +43912,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 152919,
       "name": "Talentul meu misto",
       "url": "https://open.spotify.com/track/0yjJTXH95Be8yfjtmzxS05"
@@ -46556,7 +46608,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 153000,
       "name": "Tratamente",
       "url": "https://open.spotify.com/track/2beoq3iRO5pp23aeJlgK87"

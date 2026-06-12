@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: H\u00e9ra Barnab\u00e1s",
+  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Kolibri",
   "name": "Nemazapop",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 211636,
       "name": "024",
       "url": "https://open.spotify.com/track/4cUIRhXmcBsI3JdP18Ld8f"
+    },
+    {
+      "album": {
+        "name": "1%",
+        "url": "https://open.spotify.com/album/7CS8xqnsr8hihSZBNGH69n"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218675,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/3nMdLmpwXWPE8JtJ8bQQVn"
     },
     {
       "album": {
@@ -60,6 +78,24 @@
       "duration_ms": 231669,
       "name": "23:59",
       "url": "https://open.spotify.com/track/3dvJKnKErvpMNFwh15jHCB"
+    },
+    {
+      "album": {
+        "name": "H\u00e9ra",
+        "url": "https://open.spotify.com/album/1IEtuvTgixEj2jmiGxOuFc"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ra Barnab\u00e1s",
+          "url": "https://open.spotify.com/artist/42xKpR9Qeev4I5IFby0WUR"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206829,
+      "name": "4 akkordos sz\u00e1mok",
+      "url": "https://open.spotify.com/track/6Phs4DJE9Vb7mMCZnHIH9m"
     },
     {
       "album": {
@@ -336,10 +372,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 232293,
       "name": "Alb\u00e9rlet",
       "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
+    },
+    {
+      "album": {
+        "name": "ALL-IN",
+        "url": "https://open.spotify.com/album/5OBtMgai6IIIudhnm0hGBz"
+      },
+      "artists": [
+        {
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+        },
+        {
+          "name": "V\u00e1rkonyi Csib\u00e9szek",
+          "url": "https://open.spotify.com/artist/1RoqJqUGdtcjnKyGARoWF3"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218508,
+      "name": "ALL-IN",
+      "url": "https://open.spotify.com/track/2y4F6BLHSKnwfaML1PVWk0"
     },
     {
       "album": {
@@ -1046,7 +1104,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 305024,
       "name": "B\u00faj\u00f3cska",
       "url": "https://open.spotify.com/track/3KWQMZIqa8YvuA3WhpzoeB"
@@ -1118,7 +1176,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 171034,
       "name": "chill cheez brgr",
       "url": "https://open.spotify.com/track/2ex6K0PLnmBkhXXfvvi31L"
@@ -1539,6 +1597,28 @@
     },
     {
       "album": {
+        "name": "LAKKATLAN SZEEGET",
+        "url": "https://open.spotify.com/album/5AtXdTEllUA0nbKhC1iyQI"
+      },
+      "artists": [
+        {
+          "name": "cibi",
+          "url": "https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf"
+        },
+        {
+          "name": "ROSE MAY",
+          "url": "https://open.spotify.com/artist/3xAMdoZgV5uPPm6qeZl08I"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "DONEKIRK",
+      "url": "https://open.spotify.com/track/019GjG59HXJGly9yuhDb7n"
+    },
+    {
+      "album": {
         "name": "Dorodango",
         "url": "https://open.spotify.com/album/3SndELrZ85zlgPOJ0E69b0"
       },
@@ -1554,7 +1634,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 178500,
       "name": "Dorodango",
       "url": "https://open.spotify.com/track/4QPn4xdd16uPtoKZoH7Tgi"
@@ -3009,6 +3089,24 @@
     },
     {
       "album": {
+        "name": "i was wrong",
+        "url": "https://open.spotify.com/album/7EXMGa3bhTuRvarlYcGI05"
+      },
+      "artists": [
+        {
+          "name": "The Anahit",
+          "url": "https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178432,
+      "name": "i was wrong",
+      "url": "https://open.spotify.com/track/6YMgZe04qLOXyc84DCyTHN"
+    },
+    {
+      "album": {
         "name": "I'M OK",
         "url": "https://open.spotify.com/album/2bkmcYbQ2qxT8HBQQOVYpE"
       },
@@ -3188,6 +3286,24 @@
       "duration_ms": 354312,
       "name": "J\u00f3 lenne m\u00e1r tudni",
       "url": "https://open.spotify.com/track/0M2OiMQw7dI7N2dAYtwsOg"
+    },
+    {
+      "album": {
+        "name": "J\u00d3ZAN/R\u00c9SZEG",
+        "url": "https://open.spotify.com/album/1OykYHci8wuWxkslRPbcIg"
+      },
+      "artists": [
+        {
+          "name": "Szabikeyz",
+          "url": "https://open.spotify.com/artist/7cyFxt9SpkC7aQb8yULboZ"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "J\u00d3ZAN",
+      "url": "https://open.spotify.com/track/3Aa3Eth7M63JulIce5rtnz"
     },
     {
       "album": {
@@ -3627,6 +3743,28 @@
     },
     {
       "album": {
+        "name": "K\u00f6szi",
+        "url": "https://open.spotify.com/album/56kLFYIxLorgmAY1wZuTed"
+      },
+      "artists": [
+        {
+          "name": "Zaporozsec",
+          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+        },
+        {
+          "name": "Mez\u0151 Misi",
+          "url": "https://open.spotify.com/artist/3ABBNYcEBmkQHx3ASmvJze"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207541,
+      "name": "K\u00f6szi",
+      "url": "https://open.spotify.com/track/00nULt6n8Hb3DYJNopXJKF"
+    },
+    {
+      "album": {
         "name": "csendh\u00e1bor\u00edt\u00e1s?!",
         "url": "https://open.spotify.com/album/1xjOE1GQmQQzq0OCae1XMl"
       },
@@ -3714,6 +3852,24 @@
       "duration_ms": 227076,
       "name": "legeslegkisebb kir\u00e1lyfi",
       "url": "https://open.spotify.com/track/4zr2XMav7r9Tzl86Qza94R"
+    },
+    {
+      "album": {
+        "name": "Legfontosabbak",
+        "url": "https://open.spotify.com/album/3HHv5quyHRsWwRe6Qfv10B"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ra Barnab\u00e1s",
+          "url": "https://open.spotify.com/artist/42xKpR9Qeev4I5IFby0WUR"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192529,
+      "name": "Legfontosabbak",
+      "url": "https://open.spotify.com/track/1IPrR0DyuvItRQ4aUTKOu1"
     },
     {
       "album": {
@@ -4997,6 +5153,24 @@
     },
     {
       "album": {
+        "name": "Ler\u00e1ngatom",
+        "url": "https://open.spotify.com/album/0wkW9LugeTcpFKqpSgXr4l"
+      },
+      "artists": [
+        {
+          "name": "BRUMIKO",
+          "url": "https://open.spotify.com/artist/5SVttRH8PTal59RNTpPGpE"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227111,
+      "name": "Nem hagyod",
+      "url": "https://open.spotify.com/track/4DsQwKwCfe0hsEiKBywE2l"
+    },
+    {
+      "album": {
         "name": "Nem is te lenn\u00e9l",
         "url": "https://open.spotify.com/album/1qpvzozX4lqGZ7eFHqKrCy"
       },
@@ -5506,7 +5680,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 240000,
       "name": "Porcel\u00e1n",
       "url": "https://open.spotify.com/track/0FNjdCG1BYCOH2YjStCH9P"
@@ -5620,7 +5794,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 258000,
       "name": "PROMETHEUS",
       "url": "https://open.spotify.com/track/4xrgqIfC0sqzcIKFA5bdTT"
@@ -5952,7 +6126,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 232069,
       "name": "R\u00f3zsasz\u00edn zaj",
       "url": "https://open.spotify.com/track/2YpdOnTuIKRv37plCoGc7d"
@@ -6426,7 +6600,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 282000,
       "name": "Szeg\u00e9nyk\u00e9m",
       "url": "https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X"
@@ -6567,6 +6741,28 @@
     },
     {
       "album": {
+        "name": "Szil\u00e1nkok",
+        "url": "https://open.spotify.com/album/3do3YI0XDOwP50ujHfw4Gc"
+      },
+      "artists": [
+        {
+          "name": "Korinna",
+          "url": "https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH"
+        },
+        {
+          "name": "UTAZ\u00d8",
+          "url": "https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246265,
+      "name": "Szil\u00e1nkok",
+      "url": "https://open.spotify.com/track/2u8iSrFqIwMuIlCNRp5IdQ"
+    },
+    {
+      "album": {
         "name": "sziv\u00e1rv\u00e1ny v\u00e9g\u00e9n",
         "url": "https://open.spotify.com/album/49awHTFD5CufV8OlYDpRGW"
       },
@@ -6626,6 +6822,24 @@
       "duration_ms": 193500,
       "name": "Sz\u00e1z sug\u00e1r",
       "url": "https://open.spotify.com/track/5Jvp9WtAeW2uhtwfoZyPTL"
+    },
+    {
+      "album": {
+        "name": "sz\u00e1z \u00e9v",
+        "url": "https://open.spotify.com/album/6dhGWgOEs8SDGFCb0xnZr7"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259900,
+      "name": "sz\u00e1z \u00e9v",
+      "url": "https://open.spotify.com/track/4W4thMn3tukHjnp4DFuoFp"
     },
     {
       "album": {
@@ -6702,6 +6916,24 @@
       "duration_ms": 238650,
       "name": "sz\u00e9pk\u00e1rtya",
       "url": "https://open.spotify.com/track/6379MBtXfAEoDGSdNBNnje"
+    },
+    {
+      "album": {
+        "name": "Sz\u00edven \u00fctnek a m\u00e9lyek",
+        "url": "https://open.spotify.com/album/31fF9TEfPk5yCoVrmiGz1o"
+      },
+      "artists": [
+        {
+          "name": "Lenkke_",
+          "url": "https://open.spotify.com/artist/4tX2dLblK9T1yJ9s6dYjZr"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270830,
+      "name": "Sz\u00edven \u00fctnek a m\u00e9lyek",
+      "url": "https://open.spotify.com/track/7cpvbgMfldIejIVFMpUiVZ"
     },
     {
       "album": {
@@ -7178,7 +7410,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 190724,
       "name": "Utcasarki f\u00e9ny",
       "url": "https://open.spotify.com/track/4hXUyPaRvIleZ0kyxfFw8R"
@@ -7254,7 +7486,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 155000,
       "name": "Vakrep\u00fcl\u00e9s",
       "url": "https://open.spotify.com/track/1AzLHDq6saPBrR9CHyySDs"
@@ -7294,7 +7526,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 147000,
       "name": "Var\u00e1zsl\u00f3",
       "url": "https://open.spotify.com/track/5EPQGeSQ6UdYXJorfacReL"
@@ -7366,7 +7598,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 171666,
       "name": "vesz\u00e9lyes utc\u00e1k",
       "url": "https://open.spotify.com/track/1tBuxxLlbZ7YXV4PcxfKQJ"
@@ -7912,7 +8144,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 182307,
       "name": "\u00c9n is f\u00e9lek",
       "url": "https://open.spotify.com/track/7dKqTGA3UDcNvZjmGygjjB"
@@ -8042,6 +8274,24 @@
       "duration_ms": 214062,
       "name": "\u00dagy esett",
       "url": "https://open.spotify.com/track/3jfa29wwCyzGe2bLC8wP7m"
+    },
+    {
+      "album": {
+        "name": "\u00daszunk az \u00e1rral",
+        "url": "https://open.spotify.com/album/1EtIyDqDAdNQc7LbZmGrku"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "\u00daszunk az \u00e1rral",
+      "url": "https://open.spotify.com/track/6nHlJ0Iq3lGzggoQ3v1OHj"
     },
     {
       "album": {

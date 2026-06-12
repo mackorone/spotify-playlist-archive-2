@@ -2,7 +2,7 @@
 
 ### [Bipolar Superstar Radio](https://open.spotify.com/playlist/37i9dQZF1E4tfR7pI5SYMM)
 
-> With Lockjaw, Dystopian X Vision, SCHANZ and more
+> With Dystopian X Vision, Lockjaw, SCHANZ and more
 
 740 songs - 2 day 3 hr 18 min
 

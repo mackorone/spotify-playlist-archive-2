@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: NO TIME FOR SILENCE
+> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: quiet morning
 
-317 songs - 17 hr 16 min
+319 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [PHASES](https://open.spotify.com/track/79oTiBLxuzMqY4WVFxdFek) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [PHASES](https://open.spotify.com/album/6kj5QQJhYMvQZfdy9RJnS3) | 1:53 | 2024-09-19 | 2024-12-05 |
 | [Pick 'Em Up \(Theme Song from "Affyn \- Buddy Arena"\)](https://open.spotify.com/track/5EJEftAM7FGp3rqzqlGTAj) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [Pick 'Em Up \(Theme Song from "Affyn \- Buddy Arena"\)](https://open.spotify.com/album/3ObMniiI2YCYoaNXWhWBYW) | 2:52 | 2024-06-27 | 2024-12-05 |
 | [PIPI](https://open.spotify.com/track/3gSyEHJ8a9j933LJfsguqP) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [PIPI](https://open.spotify.com/album/6L6Tkt4i4EXAhy3MwmyM2p) | 2:39 | 2025-04-15 | 2026-04-07 |
+| [Play2TheWhistle](https://open.spotify.com/track/1RtY9R9KBqwDYGytgH7hQJ) | [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251), [MISTER TWO FIVE](https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o) | [Play2TheWhistle](https://open.spotify.com/album/2MkPNjFGKn6PTzAYCGGwK3) | 3:45 | 2026-06-11 |  |
 | [POPSTAR IN THE MAKING](https://open.spotify.com/track/3YnWu48vw1cLKTFIyIcprx) | [J308](https://open.spotify.com/artist/4vgQ1thwWytHhdUL742Ul1) | [POPSTAR IN THE MAKING](https://open.spotify.com/album/6vR888Yjx5OAwKqJT2Wzex) | 1:31 | 2026-04-06 |  |
 | [Precious](https://open.spotify.com/track/1tLWU4cpSMyLsJzG6BQDHT) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's Pouring](https://open.spotify.com/album/60u6CvUZEwYU5Q0u3n7i7N) | 3:01 | 2025-03-27 | 2025-04-16 |
 | [PROMISES](https://open.spotify.com/track/2CoMW742irWjgbI4zFpK7Z) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [WHERE ARE YOU NOW THAT IT'S OVER?](https://open.spotify.com/album/0vZ2TnJ14bTm1KbHYUFHU0) | 3:18 | 2025-04-15 | 2026-04-07 |
@@ -290,6 +291,7 @@
 | [Ting Tang Raya](https://open.spotify.com/track/2LEeHghDTUIRDCUPp7qA51) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Ewal](https://open.spotify.com/artist/1qM3N86kXp85fgj9eJE88O) | [Ting Tang Raya](https://open.spotify.com/album/0Qctzr846ys97tTdmeyaBs) | 2:52 | 2026-03-20 | 2026-04-07 |
 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 | 2025-09-08 | 2025-10-17 |
 | [touch](https://open.spotify.com/track/1nEczAnjXD3Jvbau01ee0x) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [touch](https://open.spotify.com/album/62CpwDDgZotecv71VLERpm) | 2:42 | 2026-04-06 |  |
+| [Track 5](https://open.spotify.com/track/2PWyhubh6VvSTlrw5w3m6t) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [under my skin](https://open.spotify.com/album/1OVLexXEgHSqEyJCfMsSLS) | 0:00 | 2026-06-11 |  |
 | [Tulips \(Stage Edit\)](https://open.spotify.com/track/2zc01klD7NZTPeHiPHQiS8) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [ORANGE JUICE BOX](https://open.spotify.com/album/0BQUOCZhZ7Tr7kkF004AQn) | 2:23 | 2026-04-06 |  |
 | [two6](https://open.spotify.com/track/79WsiHq3MECac1NzpzlW42) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8), [Kalou](https://open.spotify.com/artist/2votViQhLfXxz7JT97jhZu) | [two6](https://open.spotify.com/album/5lzP7mWrt4aAoeWEkJNTDU) | 3:22 | 2026-03-20 | 2026-04-07 |
 | [Udara \(From Astro Originals "FRAMED"\)](https://open.spotify.com/track/6657DgGU1WPHIopNQ6O4B8) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Udara \(From Astro Originals "FRAMED"\)](https://open.spotify.com/album/4Zxcug5c4qmcsYg52BH2yM) | 3:28 | 2025-04-15 | 2025-09-09 |

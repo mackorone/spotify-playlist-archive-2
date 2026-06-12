@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Harsha Vardhan",
-  "num_followers": 19811,
+  "num_followers": 19817,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMRmJg7EwdzIZi6hganDid5/8DRH",
+  "snapshot_id": "AAAAABWba08uKvujXHTReBm5GdZBGl5x",
   "tracks": [
     {
       "added_at": "2026-06-10 10:19:16",
@@ -191,6 +191,62 @@
       "duration_ms": 184846,
       "name": "Sundari Sundari",
       "url": "https://open.spotify.com/track/6Lg938ZCEBYRxTFvkIfnmf"
+    },
+    {
+      "added_at": "2026-06-11 08:44:03",
+      "album": {
+        "name": "Malare Unnai Kaana (A Cappella)",
+        "url": "https://open.spotify.com/album/2fEkX87R3OXJmXl1DvwpDw"
+      },
+      "artists": [
+        {
+          "name": "Satish GM Benilda",
+          "url": "https://open.spotify.com/artist/5ZTqNLoPXr3MQwxbCeYi9B"
+        },
+        {
+          "name": "Jagadeesh Kumar Balraj",
+          "url": "https://open.spotify.com/artist/6vS08NxeEwSRd6Tdt3iMwt"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Malare Unnai Kaana (A Cappella)",
+      "url": "https://open.spotify.com/track/1memLus2OlpRwDDRbuZB8f"
+    },
+    {
+      "added_at": "2026-06-11 08:44:03",
+      "album": {
+        "name": "En Kadhali",
+        "url": "https://open.spotify.com/album/6KvBP0lXW8tVy8Lc0bE3hX"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Francis John",
+          "url": "https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d"
+        },
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "En Kadhali",
+      "url": "https://open.spotify.com/track/22G7gaLarS2lmRJzO7tHcT"
+    },
+    {
+      "added_at": "2026-06-11 08:44:03",
+      "album": {
+        "name": "Sooniyakaari",
+        "url": "https://open.spotify.com/album/2SguHLzs6VxKQZYaMiwVui"
+      },
+      "artists": [
+        {
+          "name": "Mayukha Shankar",
+          "url": "https://open.spotify.com/artist/4v1wYqDHF7bFwyxSNph2Vt"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Soonyakaari - Acoustic Mix",
+      "url": "https://open.spotify.com/track/6ejDC3VdrvQqiK2MTxNxtF"
     },
     {
       "added_at": "2026-05-23 12:56:43",

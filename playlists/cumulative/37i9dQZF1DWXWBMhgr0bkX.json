@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Emerging pop for every mood\ud83e\udee1 \ncover: Holly Humberstone",
+  "description": "Emerging pop for every mood\ud83e\udee1 \ncover: Rose Gray",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -924,6 +924,24 @@
     {
       "album": {
         "name": "The Veil Has Spoken",
+        "url": "https://open.spotify.com/album/0uCz0AF1WRNSfa2cTXOYa4"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hu",
+          "url": "https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137558,
+      "name": "An Unfinished Love Song",
+      "url": "https://open.spotify.com/track/0r1JWi0OLye16Qkxx67pmB"
+    },
+    {
+      "album": {
+        "name": "The Veil Has Spoken",
         "url": "https://open.spotify.com/album/6a7FVJG6wFnYINUP2uxt6f"
       },
       "artists": [
@@ -934,7 +952,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 259233,
       "name": "An Unfinished Love Song",
       "url": "https://open.spotify.com/track/0kdKWz0b2yv71QIjJnAqP7"
@@ -2250,7 +2268,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 174945,
       "name": "Birthday Makeup",
       "url": "https://open.spotify.com/track/3dV2zlpwJBCyQ9saGkBExd"
@@ -4235,6 +4253,24 @@
     },
     {
       "album": {
+        "name": "Club To Your Arms",
+        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191596,
+      "name": "Club To Your Arms",
+      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
+    },
+    {
+      "album": {
         "name": "Coasting",
         "url": "https://open.spotify.com/album/32t0ImhVhPJY8BQf3GpJUR"
       },
@@ -4304,6 +4340,24 @@
       "duration_ms": 198189,
       "name": "Colour On The Wall",
       "url": "https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV"
+    },
+    {
+      "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/78wzkaj5dqgjfggOEuqMUZ"
+      },
+      "artists": [
+        {
+          "name": "Asha Banks",
+          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175747,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6"
     },
     {
       "album": {
@@ -6119,6 +6173,24 @@
     },
     {
       "album": {
+        "name": "Earthworm",
+        "url": "https://open.spotify.com/album/543k82dYTEPXCyzse0Gg7v"
+      },
+      "artists": [
+        {
+          "name": "Laizer",
+          "url": "https://open.spotify.com/artist/1xuLVQC0qd8GzPcnJ4gs22"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176277,
+      "name": "Earthworm",
+      "url": "https://open.spotify.com/track/4wSMuydBSmSJ7RU60E7DlL"
+    },
+    {
+      "album": {
         "name": "East Coast EP",
         "url": "https://open.spotify.com/album/0LC6rKWuEBQ1Z27R6oW4RU"
       },
@@ -7672,7 +7744,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 167500,
       "name": "from a distance",
       "url": "https://open.spotify.com/track/5Xo9eCy3TPtTB8kZtPXJN4"
@@ -8230,7 +8302,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 179486,
       "name": "Good Pretender",
       "url": "https://open.spotify.com/track/7IxhCU5h0NJNJjZsNkEVg8"
@@ -9268,7 +9340,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 153413,
       "name": "Holiday Song",
       "url": "https://open.spotify.com/track/4MVVgMXCGofoegZyc9BxUW"
@@ -10273,6 +10345,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Missing You",
+        "url": "https://open.spotify.com/album/7DDzmuXdzqq7UDCbXTBeWo"
+      },
+      "artists": [
+        {
+          "name": "CHARLS",
+          "url": "https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195413,
+      "name": "I'm Not Missing You",
+      "url": "https://open.spotify.com/track/5Bz6cuqsEYVCbkZWJO0XbA"
+    },
+    {
+      "album": {
         "name": "I'm The Problem",
         "url": "https://open.spotify.com/album/3MUm8wKKt2wUkjeclggGNJ"
       },
@@ -10648,7 +10738,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 220800,
       "name": "in my body",
       "url": "https://open.spotify.com/track/50nUvAn8Aag64TnXbLRD8V"
@@ -10688,6 +10778,24 @@
       "duration_ms": 163215,
       "name": "In My Space",
       "url": "https://open.spotify.com/track/1xBtnSp5hNB20Da3YcvvfZ"
+    },
+    {
+      "album": {
+        "name": "In The Name Of Healing (from the Prime Original Movie \u2018Your Fault: London\u2019)",
+        "url": "https://open.spotify.com/album/1T0yBHa2eKYVtAXMu7UxCn"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157076,
+      "name": "In The Name Of Healing - from the Prime Original Movie \u2018Your Fault: London\u2019",
+      "url": "https://open.spotify.com/track/6nnt4dluOfRFlrZawFHTbc"
     },
     {
       "album": {
@@ -12470,7 +12578,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 229659,
       "name": "Lovemesick",
       "url": "https://open.spotify.com/track/49lewRjU3Hv6OfGCbEZBZN"
@@ -12600,6 +12708,24 @@
       "duration_ms": 183157,
       "name": "LYING",
       "url": "https://open.spotify.com/track/2qbohFSDPNG92x2stESnOD"
+    },
+    {
+      "album": {
+        "name": "ma na\u2019isni",
+        "url": "https://open.spotify.com/album/7tA7HkegCgdZFAxKC3ishK"
+      },
+      "artists": [
+        {
+          "name": "Maria Taktouk",
+          "url": "https://open.spotify.com/artist/207Vgvsb7qqxajcD1LvWoL"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115863,
+      "name": "ma na\u2019isni",
+      "url": "https://open.spotify.com/track/264pRJzxYHJdTvuuvgNlfB"
     },
     {
       "album": {
@@ -13068,7 +13194,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 203821,
       "name": "Memory Of You",
       "url": "https://open.spotify.com/track/03HzjjG5PNUCvp8Y9Vbbvd"
@@ -13975,6 +14101,24 @@
     },
     {
       "album": {
+        "name": "New Position",
+        "url": "https://open.spotify.com/album/4yqNtTdwYhotRXMsDRt2sO"
+      },
+      "artists": [
+        {
+          "name": "Tom Aspaul",
+          "url": "https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167423,
+      "name": "New Position",
+      "url": "https://open.spotify.com/track/29bqLqENyXoYYS4RgjEDmm"
+    },
+    {
+      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/7bzdQyFdF4kjk6KgjD9R6W"
       },
@@ -14832,7 +14976,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 183543,
       "name": "papercut",
       "url": "https://open.spotify.com/track/4f3O9Ws3QdyaCUmye01Rmk"
@@ -15848,7 +15992,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 233285,
       "name": "PURGER",
       "url": "https://open.spotify.com/track/5LtShaglSNyf4IqjyCFqnj"
@@ -16958,7 +17102,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 261151,
       "name": "See It In Your Eyes",
       "url": "https://open.spotify.com/track/4GET941SSmrEcmArGbvxhI"
@@ -17254,6 +17398,24 @@
       "duration_ms": 233035,
       "name": "She Knows I'm Nice",
       "url": "https://open.spotify.com/track/20XDCUqj008V72g1BpJJ8U"
+    },
+    {
+      "album": {
+        "name": "She's Like Me",
+        "url": "https://open.spotify.com/album/3o0l4GY2j7Jq1ZquMvmUSC"
+      },
+      "artists": [
+        {
+          "name": "Marti Perramon",
+          "url": "https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165692,
+      "name": "She's Like Me",
+      "url": "https://open.spotify.com/track/4wJeuAI2Ed632BdC4rBN1t"
     },
     {
       "album": {
@@ -18543,6 +18705,24 @@
     },
     {
       "album": {
+        "name": "Stop Me Dead",
+        "url": "https://open.spotify.com/album/37XRrMkAxD04z1scC9AgxF"
+      },
+      "artists": [
+        {
+          "name": "Kerr Mercer",
+          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151794,
+      "name": "Stop Me Dead",
+      "url": "https://open.spotify.com/track/0JiNzR7D3lpOumnlUGnKjU"
+    },
+    {
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/71GP0asXIktlgEL8t3qcyk"
       },
@@ -19739,6 +19919,24 @@
     },
     {
       "album": {
+        "name": "The Pavement",
+        "url": "https://open.spotify.com/album/7ccdqbOO6BGC2p76PFODaZ"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gordon",
+          "url": "https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184720,
+      "name": "The Pavement",
+      "url": "https://open.spotify.com/track/6V30H2ExMpKrJ3eMJ7QByY"
+    },
+    {
+      "album": {
         "name": "The Poet",
         "url": "https://open.spotify.com/album/2FKQwczm0Wfup1OpXrNXL2"
       },
@@ -20864,7 +21062,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 244713,
       "name": "Violent Thoughts",
       "url": "https://open.spotify.com/track/1N0TsyGpNhyErrvJyKFQHq"
@@ -21012,6 +21210,24 @@
       "duration_ms": 196814,
       "name": "We're Not The Same",
       "url": "https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw"
+    },
+    {
+      "album": {
+        "name": "Weight On Me",
+        "url": "https://open.spotify.com/album/4Se8RHq2O13HbDeGeSxPVM"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148695,
+      "name": "Weight On Me",
+      "url": "https://open.spotify.com/track/45duzYferoDQWzJ51oDoHh"
     },
     {
       "album": {
@@ -21174,6 +21390,24 @@
       "duration_ms": 205768,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U"
+    },
+    {
+      "album": {
+        "name": "Where\u2019s My Bikini",
+        "url": "https://open.spotify.com/album/0kZoa3mz2zdbYvPTwNAhoi"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159106,
+      "name": "Where's My Bikini",
+      "url": "https://open.spotify.com/track/37or6sHEsIQ2afxg2A1srK"
     },
     {
       "album": {
@@ -21750,7 +21984,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 192268,
       "name": "You Can Try Me",
       "url": "https://open.spotify.com/track/6Um7iaDJaaYqzHw3yB1Jo0"

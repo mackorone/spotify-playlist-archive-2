@@ -980,7 +980,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 538000,
       "name": "Aruna Chandra",
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
@@ -2048,6 +2048,32 @@
       "duration_ms": 382009,
       "name": "Burn Through",
       "url": "https://open.spotify.com/track/1fgjv0A82xSTAymPVwQQ79"
+    },
+    {
+      "album": {
+        "name": "Burn Tonight",
+        "url": "https://open.spotify.com/album/71LmEhiOz3TpmiJ1O34v31"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Alex Culross",
+          "url": "https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Burn Tonight",
+      "url": "https://open.spotify.com/track/7rET0ECdQK6UVbrFMDvHxv"
     },
     {
       "album": {
@@ -5314,7 +5340,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 222376,
       "name": "Horagon",
       "url": "https://open.spotify.com/track/587PvnSzSvgRju1m8TAPmY"
@@ -8600,6 +8626,32 @@
       "duration_ms": 237865,
       "name": "Numb - Joris Voorn Remix, Edit",
       "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
+    },
+    {
+      "album": {
+        "name": "NXTBND",
+        "url": "https://open.spotify.com/album/02MACaW4gvaAzQroyXuLZN"
+      },
+      "artists": [
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "Dirty Doering",
+          "url": "https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea"
+        },
+        {
+          "name": "Unseen.",
+          "url": "https://open.spotify.com/artist/6UdQkz07ovbUYhACTLoXor"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405120,
+      "name": "NXTBND",
+      "url": "https://open.spotify.com/track/41BDMq1Qt76MKrrnKDvJki"
     },
     {
       "album": {

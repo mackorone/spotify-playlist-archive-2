@@ -38642,6 +38642,24 @@
     {
       "album": {
         "name": "The One",
+        "url": "https://open.spotify.com/album/3FgU348qPgRlGCAWKvAyZI"
+      },
+      "artists": [
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162346,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/2nG2kgL2gTXd9s2RmD0u18"
+    },
+    {
+      "album": {
+        "name": "The One",
         "url": "https://open.spotify.com/album/75HPK1U9upzIFxstRrlRPL"
       },
       "artists": [

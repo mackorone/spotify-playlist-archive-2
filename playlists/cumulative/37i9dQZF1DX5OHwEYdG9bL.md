@@ -2,15 +2,16 @@
 
 ### [K\-Pop Music Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX5OHwEYdG9bL)
 
-> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: LE SSERAFIM\) \(Enjoy a playlist of songs that support music video features!\)
+> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: BABYMONSTER\) \(Enjoy a playlist of songs that support music video features!\)
 
-235 songs - 12 hr 52 min
+244 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2.0](https://open.spotify.com/track/5lHPZtFxKQUYcyj978Zr8R) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2.0](https://open.spotify.com/album/0pEgqcP3SuI4xfMciW4Wf8) | 3:49 | 2026-04-02 |  |
 | [2.0](https://open.spotify.com/track/6GglPDAGjgX3PzbA7VrTVN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2.0](https://open.spotify.com/album/1X1ez8izXta4OsubqpMoA8) | 3:49 | 2026-04-02 |  |
 | [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/44dQsteUZzZ5aN1uS8lhRj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/1PtRZuSJNqM03FYgdbzWih) | 3:10 | 2026-04-07 |  |
+| [4 Flowers](https://open.spotify.com/track/1qqOBKgUU5E9d3vQHV3lP0) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [4 Flowers](https://open.spotify.com/album/6juelTCCFH2EyDobhyS1Xo) | 3:22 | 2026-06-12 |  |
 | [96ers](https://open.spotify.com/track/2zRAU3xCwdikTrvGPq5pSC) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [96ers](https://open.spotify.com/album/2SJPyeGSD1fJXINbkufRu9) | 3:06 | 2025-07-15 | 2025-08-20 |
 | [ACAI](https://open.spotify.com/track/2XQCOrGdBuQ1iYTyP8UgeX) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [ACAI](https://open.spotify.com/album/5U1N7lWqz3ZeHpn52IE1Ys) | 3:07 | 2026-06-08 |  |
 | [ACAI \(Conceptual Performance Film\)](https://open.spotify.com/track/7hiIV5dJXegq1tkaVsdUCY) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [ACAI \(Conceptual Performance Film\)](https://open.spotify.com/album/1pNAWrkwa5KobO6WCHENQs) | 3:01 | 2026-06-08 |  |
@@ -18,7 +19,9 @@
 | [All My Poetry](https://open.spotify.com/track/0xqSbnjCNg0QBw3Jt3jBai) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [All My Poetry](https://open.spotify.com/album/2OFHzxTlpEhToP5S7FKrXn) | 4:24 | 2025-07-15 |  |
 | [APT.](https://open.spotify.com/track/04h58ACw3A2hC6xKsZOkST) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/5sSwBYZvbca0i7G6yUCVXA) | 2:52 | 2025-07-15 | 2025-08-20 |
 | [ASAP](https://open.spotify.com/track/1zhULUXEKRUis8u4umC4TO) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [ASAP](https://open.spotify.com/album/2UaodruL7eqPlQ1UrwtCEN) | 2:51 | 2025-07-15 | 2025-08-20 |
+| [Atmos](https://open.spotify.com/track/5X0YteLMOVzyio80vivuns) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atmos](https://open.spotify.com/album/07Cr3FTh0iRlF1DZv47iPF) | 3:22 | 2026-06-12 |  |
 | [ATTITUDE](https://open.spotify.com/track/6gvEiMMXUoumTPlE9Bf7sF) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ATTITUDE](https://open.spotify.com/album/7h3zFyuLEfqFp0zNJRs9di) | 3:26 | 2025-07-15 | 2025-08-20 |
+| [Baby Flower](https://open.spotify.com/track/65y0pfYfWo3w7qYnN8vWc3) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Baby Flower](https://open.spotify.com/album/4etBqPICMIg0tfH3q0se0d) | 3:11 | 2026-06-12 |  |
 | [Baby, Honey](https://open.spotify.com/track/4aScgS59UgkUjZsnYYfGHT) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Baby, Honey](https://open.spotify.com/album/53YWR2QYfULvJSuh2FOJSC) | 2:30 | 2026-03-20 |  |
 | [Back to Life](https://open.spotify.com/track/25McmaHvco0apX3blisYct) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/3jv3vrNtHF2fVMSJOS03RO) | 4:26 | 2025-12-03 |  |
 | [Back to Life](https://open.spotify.com/track/77ooqrLCZf4BNv3IroN49X) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/3KEEBXaOJPzdBj6adRlMIw) | 4:26 | 2025-12-03 |  |
@@ -58,6 +61,7 @@
 | [CLIK CLAK](https://open.spotify.com/track/73csuvlBLsqkP1N2F7pmFL) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [CLIK CLAK](https://open.spotify.com/album/5fetQAo0NE59oLCW9YhuEV) | 2:54 | 2025-07-15 | 2025-08-20 |
 | [CLUTCH](https://open.spotify.com/track/1ohqxGIHSLC7vZYoGROO6K) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [CLUTCH](https://open.spotify.com/album/1KNf2Iok5y5NPdA1aYId4f) | 2:15 | 2025-12-03 |  |
 | [COLOR](https://open.spotify.com/track/1Jaows3McLBNt0boIQgS66) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [COLOR](https://open.spotify.com/album/2GPauO3tagKkr3dVBVRfKy) | 3:06 | 2025-10-24 |  |
+| [Cotton Candy \(Feat\. Kylie of KIIRAS\)](https://open.spotify.com/track/4qshRkGZf8Wx9szJCR0FFs) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2) | [Cotton Candy \(Feat\. Kylie of KIIRAS\)](https://open.spotify.com/album/4OldT2lMoGVkWfiiW4pb9M) | 3:33 | 2026-06-12 |  |
 | [Countdown!](https://open.spotify.com/track/0iQVe9A63Xt0BP7coM0Hyx) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Countdown!](https://open.spotify.com/album/0taftDrN45IRWjeQIfyoyX) | 3:35 | 2025-07-15 |  |
 | [Countdown!](https://open.spotify.com/track/3zzSkxx2JhVthLIo4aaM3p) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Countdown!](https://open.spotify.com/album/2U6jC4iYqqFC9OfwMZ4cK1) | 3:35 | 2025-07-15 |  |
 | [Crazier](https://open.spotify.com/track/5bgpAtvOFcNP0N3jjIDXpV) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Crazier](https://open.spotify.com/album/6k2vpQgr7NOAnvPzuzcHCN) | 3:08 | 2025-08-13 |  |
@@ -66,6 +70,7 @@
 | [Creatures \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/3WotTZr6P3Y7faSFC82nPO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Creatures \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/1l9nBUyvVRmv03XYfv6NYA) | 3:11 | 2026-06-01 |  |
 | [Crown](https://open.spotify.com/track/0frJ0IhhIOSWodge5fwKb5) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Crown](https://open.spotify.com/album/2xgWak2XDGZyBnGtVIkUJp) | 3:31 | 2026-01-19 |  |
 | [Dash](https://open.spotify.com/track/2eUExqqFOpckGJG7faJMeW) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Dash](https://open.spotify.com/album/3f1MBI3Z9BTZ8N1kaX46sV) | 3:58 | 2025-07-15 | 2025-08-20 |
+| [DDI RO RI](https://open.spotify.com/track/4pKCIM6LQowiGak1lkymxz) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [DDI RO RI](https://open.spotify.com/album/11APOWQvzunwVquigB7umx) | 3:18 | 2026-06-12 |  |
 | [ddok ddok ddok](https://open.spotify.com/track/3gYInUz6sp2ujSizzUdZeg) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/4gHuTmtRrcGHwgijzB7yR2) | 2:40 | 2026-05-12 |  |
 | [Dirty Work](https://open.spotify.com/track/26sWZviugh9BjAe5X61dzY) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/72ORvl4lM3vVPzT94dY2cD) | 3:09 | 2025-07-15 |  |
 | [Dirty Work](https://open.spotify.com/track/2LK8E55VY0DNq7X6XV93lE) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/3OJd8RS97G1BnlXQQ4MBFl) | 3:09 | 2025-07-15 |  |
@@ -79,6 +84,7 @@
 | [DUMB](https://open.spotify.com/track/0ZHPYDSqdFpRbE1BwDlWmw) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [DUMB](https://open.spotify.com/album/1t4XzEiLgt2Vz1ajM6aDe0) | 4:15 | 2025-10-24 |  |
 | [DUMB](https://open.spotify.com/track/7H5O7Mij8oihoFo7DTujwZ) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [DUMB](https://open.spotify.com/album/62DrJOgv8LV4birLd9v0Jl) | 4:15 | 2025-10-24 |  |
 | [earthquake](https://open.spotify.com/track/5BN58VCKLFCWz4CNDOcK2E) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [earthquake](https://open.spotify.com/album/4KSkjIPHLCi7XmYpQWw2GF) | 4:26 | 2025-07-15 | 2025-08-20 |
+| [ECHO](https://open.spotify.com/track/6vg1KinOhWAUjUBGtjdpAH) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [ECHO](https://open.spotify.com/album/1NcHfJXX1eQ60bTq8NHqbg) | 2:54 | 2026-06-12 |  |
 | [Express Mode](https://open.spotify.com/track/6bC8XJEDFjVssz7bqQqqUW) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Express Mode](https://open.spotify.com/album/5pgS5bndmBADEMvmA2tYIZ) | 3:24 | 2025-07-15 |  |
 | [EXTRA](https://open.spotify.com/track/3b7yWZLtpsIvMpFcpAUNIB) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [EXTRA](https://open.spotify.com/album/4WMbS63FXGUjrbUmJFb7v3) | 2:35 | 2025-07-15 |  |
 | [Fame](https://open.spotify.com/track/4J33yFqdxzMqAvg20MklJf) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Fame](https://open.spotify.com/album/4IqA6vB0ww8IOIxTA1CNRe) | 3:41 | 2025-12-03 |  |
@@ -119,7 +125,9 @@
 | [Ice Cream](https://open.spotify.com/track/5De6B7Rh8ablBQMDQBB1fy) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/65Qzv9eW5oSY6ZtXsTdJsR) | 3:08 | 2026-03-30 |  |
 | [Ice On My Teeth](https://open.spotify.com/track/3BF9ocYbjnntrh7kNnvChi) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Ice On My Teeth](https://open.spotify.com/album/0FAJNe9ryBqwz4OX54Fk9g) | 3:23 | 2025-07-15 | 2025-08-20 |
 | [ICONIC](https://open.spotify.com/track/0L8R3vaftF6BzpHZyUMWR0) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [ICONIC](https://open.spotify.com/album/2YR4bqtSIcevAAIL6ugpeT) | 2:45 | 2025-08-13 |  |
+| [IF I](https://open.spotify.com/track/7acnYIMed1CEVBRfgv4T7M) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [IF I](https://open.spotify.com/album/2SmHfHMy1drmPoVkzglr7g) | 3:07 | 2026-06-12 |  |
 | [iLy](https://open.spotify.com/track/4wQMGzwKdgnpik2AJ81vZ8) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [iLy](https://open.spotify.com/album/0DA2VA8d6JXdusekR5RuvP) | 4:07 | 2025-08-13 |  |
+| [In Between Seasons](https://open.spotify.com/track/1MI7Dk3ObVXMAeRmnZWbbU) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [In Between Seasons](https://open.spotify.com/album/4GpqrNkAhRcvxcieAHwLSW) | 2:57 | 2026-06-12 |  |
 | [In Your Fantasy](https://open.spotify.com/track/7q7iVKbWMR94PDkISAhPk1) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [In Your Fantasy](https://open.spotify.com/album/0YFyx3qXjTfpRY7kSDfsw1) | 3:41 | 2025-07-15 |  |
 | [It's Me](https://open.spotify.com/track/3cD5mr6KeFMlmgzAWdVZR7) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [It's Me](https://open.spotify.com/album/5RA8rcgYD1RCgdZgzgP8nE) | 2:26 | 2026-05-04 |  |
 | [JUMP](https://open.spotify.com/track/3XaN4U1mgxoT77CGX0KMHy) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/0KXjWDuZPu0ZmhSCPeWuGS) | 3:13 | 2025-07-15 |  |
@@ -129,6 +137,7 @@
 | [KNOW ABOUT ME](https://open.spotify.com/track/4yyV25B51NJRkaxqqqIoxY) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [KNOW ABOUT ME](https://open.spotify.com/album/45MqZrq0eLKq3Nm6NDqUaK) | 2:53 | 2025-07-15 |  |
 | [La La Love Me](https://open.spotify.com/track/67HEeCRSWYzGfZEqgwl51b) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [La La Love Me](https://open.spotify.com/album/6RaOlm1b2E4KbcfSHfP6LI) | 3:10 | 2025-07-15 |  |
 | [Lemon Drop](https://open.spotify.com/track/09d3tp7hN0NrXMUdzJg8pB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Lemon Drop](https://open.spotify.com/album/09IydXd1KOgReAONummjt5) | 3:43 | 2025-07-15 |  |
+| [Like a Bubble](https://open.spotify.com/track/7LgDSRShxEGYpfF4NarHSx) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Like a Bubble](https://open.spotify.com/album/5RJ5xtdKiJnGgtCoEibdhc) | 3:27 | 2026-06-12 |  |
 | [like JENNIE](https://open.spotify.com/track/2cYzrDoBQNHuZ1a8gn91Qx) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [like JENNIE](https://open.spotify.com/album/18D8t8yEsudCJfFYIzcEI1) | 3:02 | 2025-07-15 | 2025-08-20 |
 | [LOOK AT ME](https://open.spotify.com/track/7LUZEEGVPp2SsMUlUKg6sq) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [LOOK AT ME](https://open.spotify.com/album/2JiloDVxdzXC2DfLbUms7m) | 2:47 | 2025-12-13 |  |
 | [Loose \(Korean Ver.\)](https://open.spotify.com/track/03HHGNtjpS5K6fRcwlX3Sx) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose \(Korean Ver.\)](https://open.spotify.com/album/47tBLYvFev5FbtKO9PHlWm) | 4:06 | 2025-07-15 |  |

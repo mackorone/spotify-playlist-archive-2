@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Jeninho, Mariana Fagundes
+> O melhor do sertanejo em uma só playlist! Foto: Felipe e Rodrigo
 
 400 songs - 18 hr 46 min
 
@@ -357,7 +357,7 @@
 | [Sumiu Na Sexta \- Ao Vivo](https://open.spotify.com/track/3cWEn1jo6Ui1SysgZZ5Tw2) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Sumiu Na Sexta \(Ao Vivo\)](https://open.spotify.com/album/0UqEKXDvDqP0goxMf4EQWF) | 2:53 | 2025-02-26 | 2025-06-07 |
 | [Só Não Divulga](https://open.spotify.com/track/3HquWF2pZmWYu3WAEP9Heb) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Só Não Divulga](https://open.spotify.com/album/007jctHYAC50QpRyU3Cnj2) | 2:40 | 2021-12-31 | 2022-03-18 |
 | [TADINHA](https://open.spotify.com/track/0K7qMa0JqOIETkWmQXmQvw) | [Raffa Torres](https://open.spotify.com/artist/6jncnjvxMwbLIEYDhwsGlu), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [ALMA \- PARTE 1](https://open.spotify.com/album/6MxCEhK9taTuUO6Ephm983) | 3:51 | 2026-06-08 |  |
-| [Te Amar É Meu Talento \- Ao Vivo](https://open.spotify.com/track/0Jn2mV8cW1bkTGkyuB26Fs) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Te Amar É Meu Talento \(Ao Vivo\)](https://open.spotify.com/album/6WspHQm4g3ZBk44vUr6jDd) | 2:43 | 2026-02-27 |  |
+| [Te Amar É Meu Talento \- Ao Vivo](https://open.spotify.com/track/0Jn2mV8cW1bkTGkyuB26Fs) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Te Amar É Meu Talento \(Ao Vivo\)](https://open.spotify.com/album/6WspHQm4g3ZBk44vUr6jDd) | 2:43 | 2026-02-27 | 2026-06-12 |
 | [Te Amar É Meu Talento \- Ao Vivo](https://open.spotify.com/track/2qG8U0e7uBqwu5vlV1oKNf) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Sertanejo Respira \(Ao Vivo Em Goiânia\)](https://open.spotify.com/album/0p6IyKCVANLx7knOPSvw2P) | 2:43 | 2026-05-28 |  |
 | [Te Amo Demais](https://open.spotify.com/track/4xxeEWGQNFQ6qehlnev5LS) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol.1](https://open.spotify.com/album/24aslPrdihuSQ59jrB2eBB) | 3:25 | 2022-07-22 | 2023-02-17 |
 | [Te Esqueci Sem Querer \- Ao Vivo Em Brasília](https://open.spotify.com/track/5yscNPMHmhqHQX9B9GFzMp) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP3\)](https://open.spotify.com/album/2Tywwz9yenoTruRAZGXVBY) | 2:31 | 2023-05-19 | 2023-11-11 |

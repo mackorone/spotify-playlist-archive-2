@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: Klozer, Babylon, Newaile\)
+> Trendy & Chill Korean R&B music\. \(Cover: JAY B\)
 
 919 songs - 2 day 0 hr 31 min
 

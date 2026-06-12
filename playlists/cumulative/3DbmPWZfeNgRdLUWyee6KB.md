@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,172 songs - 2 day 20 hr 27 min
+1,176 songs - 2 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Come for You](https://open.spotify.com/track/3WcUaI6OlsVjte1AcW5ZA7) | [Adrian Wang](https://open.spotify.com/artist/3ppXRwJyEfcCNHLVplAIty) | [Come for You](https://open.spotify.com/album/4mvzVDqpeeJccInD7wqylR) | 2:43 | 2025-12-22 | 2026-01-24 |
 | [Come lei](https://open.spotify.com/track/7pWSs58SctIWBRe6bWspQX) | [Manu](https://open.spotify.com/artist/5AK9t3BFB3I1Qp2rY2RVZj) | [Come lei](https://open.spotify.com/album/2I3Ck3pqjouTkDMlHSQEtN) | 3:26 | 2026-05-21 |  |
 | [Comet](https://open.spotify.com/track/6fnAreKpR7wLGCIriWYqKy) | [Jen Maria](https://open.spotify.com/artist/6LXXN0kA6nSD6stIwAoznN) | [Comet](https://open.spotify.com/album/5yyHzetOVS0qhwnInA5eWx) | 3:43 | 2026-01-03 | 2026-02-03 |
+| [Coming on Too Strong](https://open.spotify.com/track/5CIfISXBoPboo4otAbYT2A) | [Cael Dadian](https://open.spotify.com/artist/46jXUfvQSM7aDYDv7YadFU), [Grace Marie Glenn](https://open.spotify.com/artist/4MX6ZaxWVv7ucry2Ln7qSS) | [Coming on Too Strong](https://open.spotify.com/album/7BOClUiiGklgrRkN4aECsV) | 2:49 | 2026-06-11 |  |
 | [Como un haz de luz](https://open.spotify.com/track/04XWohJeHUzAyQqLF9yK4x) | [Shoni Shed](https://open.spotify.com/artist/0DYNizLSPnjfU0cK1W9CLD) | [Silencio Vivo](https://open.spotify.com/album/3cn6VKPGgmkJe6zKprMEpj) | 3:48 | 2025-12-17 | 2026-01-15 |
 | [Confession to Make](https://open.spotify.com/track/4BWbeI8yxhm6syj4P3K9yl) | [DJ Kosho](https://open.spotify.com/artist/4v0mYxAmKlG7pDYuiUfm87) | [Confession to Make](https://open.spotify.com/album/45O096QdrsBc5oRpQ7kVi2) | 3:53 | 2026-04-07 | 2026-05-03 |
 | [Cool Breeze](https://open.spotify.com/track/0uX7UsvCZzbjbJsFyqbdUR) | [Ben Carringer](https://open.spotify.com/artist/5Xs7la5VzfvqDJD2KfVhL6) | [Cool Breeze](https://open.spotify.com/album/5mcOE9xiQGH9rvaAW1H8Op) | 3:35 | 2026-03-03 | 2026-03-25 |
@@ -319,6 +320,7 @@
 | [Fire Fire](https://open.spotify.com/track/5kocHOL5zvOMxyi5ajD95W) | [Miss Marielle](https://open.spotify.com/artist/4jDARgo4Odf7OslYnqZVlx) | [Odd Creations](https://open.spotify.com/album/7ywm5pYJfnPdnK7cC1owlx) | 2:22 | 2026-02-23 | 2026-03-25 |
 | [Fire of a Romance](https://open.spotify.com/track/01VaTr7Ogz81bKPB4ElbD9) | [Luke Assem](https://open.spotify.com/artist/0TqL3o1xboCvsPXD4A8cF0) | [Fire of a Romance](https://open.spotify.com/album/3X9jGTNs2rqdVCkHi0DFo1) | 2:52 | 2026-01-20 | 2026-02-20 |
 | [Fire on the Loose](https://open.spotify.com/track/1PAoqXpSbjeagxXwWi0tnV) | [Peder Pan](https://open.spotify.com/artist/2YOBFNivm8nZxtcXuSKQFV) | [Fire on the Loose](https://open.spotify.com/album/0aXK8rfirbKzeH9MoXniX5) | 4:04 | 2026-02-08 | 2026-03-07 |
+| [First Kiss](https://open.spotify.com/track/4MoYQiwBZqFX4DfCn7kQQ6) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [First Kiss](https://open.spotify.com/album/3sAIi79IKg3rmjV4RKtUL0) | 3:24 | 2026-06-11 |  |
 | [Fish Tank](https://open.spotify.com/track/2hDnvkxpCSo57nPmEMN6ND) | [Buckeye Belle](https://open.spotify.com/artist/1f5o9LL9uj7X7KOBVpSiGa) | [I'd Rather Be Sleeping](https://open.spotify.com/album/4sBEZPvbIVcubfxcde4KOR) | 3:44 | 2026-04-08 | 2026-05-14 |
 | [Floto](https://open.spotify.com/track/0cpVDFhmJ5mRssyaE8ZjAo) | [Manu Geijo](https://open.spotify.com/artist/1Lcqhy5qgKAS6bvwjXIoxs) | [Floto](https://open.spotify.com/album/2Z8DVQAobcZtSFHc05afHk) | 3:58 | 2026-02-25 | 2026-03-25 |
 | [FLY \- Original Mix](https://open.spotify.com/track/0KGD6zRqbj2EgGeAmwB76v) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [J1 GTB](https://open.spotify.com/artist/6mm0pxFY41cqM9kjJve4jH) | [FLY \(Original Mix\)](https://open.spotify.com/album/5MUfhF7oOQvpysNAphGwEm) | 2:58 | 2026-04-02 | 2026-05-03 |
@@ -395,6 +397,7 @@
 | [Hoarfrost on the Leaves](https://open.spotify.com/track/4rh2luTj2JgaUjCLMs87nq) | [Nik & Kat](https://open.spotify.com/artist/5RIdtHfccAeXNQJ42OtvYR) | [Hoarfrost on the Leaves](https://open.spotify.com/album/0ssYYWQ1coLTD2U4QedwoZ) | 3:54 | 2025-12-22 | 2026-01-24 |
 | [Hold Me Close](https://open.spotify.com/track/4Y21eeDE3adB2k1e9vzwQa) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Tin Zelkova](https://open.spotify.com/album/30tP41z2vLygy8SEe42pM3) | 3:56 | 2026-01-26 | 2026-02-28 |
 | [Hold On Til You Let Go \(Tourist Version\)](https://open.spotify.com/track/7nkBhPsOjWRjvTGZI1DPyz) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Hold On Til You Let Go](https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf) | 3:03 | 2025-12-18 | 2026-01-15 |
+| [Hold On to Me](https://open.spotify.com/track/7whzmesy0DZeWOE38UlMSL) | [Snow64](https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ) | [Hold On to Me](https://open.spotify.com/album/6InHKXyhCLZxcCNzyPR4A4) | 3:31 | 2026-06-11 |  |
 | [Holidays \(On My Way\)](https://open.spotify.com/track/4aPN4TKpYy5CZ8P6ObzXab) | [December Fades](https://open.spotify.com/artist/2HDGyFz7k2ZtvHMeWOlsdi) | [Holidays \(On My Way\)](https://open.spotify.com/album/5L36ZToFRhAACWuRFGHwt2) | 4:03 | 2025-12-19 | 2026-01-15 |
 | [Hollow Days \(Stay Strong\)](https://open.spotify.com/track/0uZKF2peoPdsw2xz1b0CT9) | [Saguru](https://open.spotify.com/artist/61qZ7es6fFlppv6I1r32V8) | [Hollow Days \(Stay Strong\)](https://open.spotify.com/album/2vnTOWTxiWasF7U9STtcfT) | 3:22 | 2025-10-21 | 2025-11-29 |
 | [Hollow Eyes](https://open.spotify.com/track/0BY1CFp97qI8opvS0KbD4z) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [Hollow Eyes](https://open.spotify.com/album/2dmxukyWSXkjiSeD1eGsPL) | 3:23 | 2026-04-21 | 2026-06-05 |
@@ -723,6 +726,7 @@
 | [ON GOD](https://open.spotify.com/track/5xyGLGhyPb09LTE5v8Ggwc) | [KPND](https://open.spotify.com/artist/00Lcjy0q0KyumzQZeSNxxI) | [ACTIVE BRO 2 \(DELUXE\)](https://open.spotify.com/album/5Ud8Ktev0D1GnkKnSI0uHS) | 2:32 | 2026-02-11 | 2026-03-15 |
 | [On My List](https://open.spotify.com/track/3Q3NnHKP9TWYCYc29lJ9Xs) | [Nuna Shoesmith Sextet](https://open.spotify.com/artist/27DutwUI3nP1AZa96t8SuD) | [Courage](https://open.spotify.com/album/22yRsZW1KCaJdUe74GSdKq) | 3:48 | 2023-04-20 | 2025-11-29 |
 | [On My Way](https://open.spotify.com/track/1NSXdzBae5YVJz1ZBD6y2L) | [OVRTME](https://open.spotify.com/artist/0yqsiKLq7oRCKSDBPk6Rm4) | [On My Way](https://open.spotify.com/album/4Fl8nGmtLOZjiObvfLoL9q) | 3:05 | 2026-01-31 | 2026-02-28 |
+| [On My Way](https://open.spotify.com/track/5SajpJwLg8EFpHJ9dWUSDG) | [Snow64](https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ) | [On My Way](https://open.spotify.com/album/5tWElJ2aG2MSjd7XFwR8A9) | 3:18 | 2026-06-11 |  |
 | [One Big Love](https://open.spotify.com/track/1TacV2Z6hOXpC0Wxm4GeVx) | [Maria Maltseva](https://open.spotify.com/artist/19a7inyeBBxVwWxFY1n5Lf) | [One Big Love](https://open.spotify.com/album/5wEsY96xkxGfqsmoUM6Un6) | 3:45 | 2025-12-22 | 2026-01-24 |
 | [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 | 2026-03-26 | 2026-04-22 |
 | [Open Range\_Master](https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [Open Range\_Master](https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU) | 2:11 | 2026-05-06 | 2026-06-05 |

@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 64389,
+  "num_followers": 64399,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
+        "name": "Love in TV World",
+        "url": "https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 243022,
+      "name": "Love in TV World",
+      "url": "https://open.spotify.com/track/71gxvSj62Daqer8F57b22C"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
         "name": "Kim Hyun Chul 10Th \"Sale\"",
         "url": "https://open.spotify.com/album/6xqjeBCnTkA68QjSNmwOst"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 214265,
       "name": "Drive (Feat. George)",
       "url": "https://open.spotify.com/track/3reKqA2i3YSgBFtEZaqDB9"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
-        "name": "Love in TV World",
-        "url": "https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 243022,
-      "name": "Love in TV World",
-      "url": "https://open.spotify.com/track/71gxvSj62Daqer8F57b22C"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "5min to heartbreak",
-        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "5min to heartbreak",
-      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "Lonely Night",
         "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 194373,
       "name": "Lonely Night",
       "url": "https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "5min to heartbreak",
+        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "5min to heartbreak",
+      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "Elastic Love",
-        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Elastic Love",
-      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "Sparkling",
         "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 231294,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "Elastic Love",
+        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Elastic Love",
+      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "Onstage Digging Club Seoul Part.05",
-        "url": "https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d"
-      },
-      "artists": [
-        {
-          "name": "DAYBREAK",
-          "url": "https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2"
-        }
-      ],
-      "duration_ms": 294308,
-      "name": "You always - Digging Club Seoul Ver.",
-      "url": "https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "Cocktail love",
         "url": "https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 204053,
       "name": "Cocktail love",
       "url": "https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "Onstage Digging Club Seoul Part.05",
+        "url": "https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d"
+      },
+      "artists": [
+        {
+          "name": "DAYBREAK",
+          "url": "https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2"
+        }
+      ],
+      "duration_ms": 294308,
+      "name": "You always - Digging Club Seoul Ver.",
+      "url": "https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1363,22 +1363,18 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "The Story Of The Year (feat. Wonwoo)",
-        "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR"
       },
       "artists": [
         {
-          "name": "PARKMOONCHI",
-          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
-        },
-        {
-          "name": "Wonwoo",
-          "url": "https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f"
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
         }
       ],
-      "duration_ms": 253948,
-      "name": "The Story Of The Year (feat. Wonwoo)",
-      "url": "https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj"
+      "duration_ms": 220000,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1399,18 +1395,22 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "Good Luck",
-        "url": "https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR"
+        "name": "The Story Of The Year (feat. Wonwoo)",
+        "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
       },
       "artists": [
         {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+          "name": "PARKMOONCHI",
+          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
+        },
+        {
+          "name": "Wonwoo",
+          "url": "https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Good Luck",
-      "url": "https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM"
+      "duration_ms": 253948,
+      "name": "The Story Of The Year (feat. Wonwoo)",
+      "url": "https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "Dance with me",
-        "url": "https://open.spotify.com/album/5Sc06S5Xx70hzYNyOlUT68"
-      },
-      "artists": [
-        {
-          "name": "Yein",
-          "url": "https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ"
-        }
-      ],
-      "duration_ms": 210789,
-      "name": "Dance with me",
-      "url": "https://open.spotify.com/track/5FjWYxObr9sutnoyn0zFg2"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "Beautiful Night - The 4th Mini Album",
         "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 214560,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "Dance with me",
+        "url": "https://open.spotify.com/album/5Sc06S5Xx70hzYNyOlUT68"
+      },
+      "artists": [
+        {
+          "name": "Yein",
+          "url": "https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ"
+        }
+      ],
+      "duration_ms": 210789,
+      "name": "Dance with me",
+      "url": "https://open.spotify.com/track/5FjWYxObr9sutnoyn0zFg2"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyun Chul",
-          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "It`s Been A While (Maxim City Summer Life c.f)",
-      "url": "https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "Pink Funky",
         "url": "https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 197240,
       "name": "Self Camera",
       "url": "https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Chul",
+          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "It`s Been A While (Maxim City Summer Life c.f)",
+      "url": "https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl"
     },
     {
       "added_at": "2026-04-23 02:17:51",

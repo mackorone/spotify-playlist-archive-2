@@ -6,7 +6,7 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAQaMW7LhdQF8egf3MpBW73XO9dUHlx",
+  "snapshot_id": "AAAQcL2w4PM2WH2F6ru1XufSUlvHJRw8",
   "tracks": [
     {
       "added_at": "2026-05-12 03:36:45",
@@ -143,6 +143,38 @@
       "duration_ms": 185777,
       "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
       "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-06-11 15:32:29",
+      "album": {
+        "name": "Nero",
+        "url": "https://open.spotify.com/album/15dZWWJkvTO6O5xqwCzcZl"
+      },
+      "artists": [
+        {
+          "name": "Dead Hand",
+          "url": "https://open.spotify.com/artist/0yacjrFvJqylCSuaEsOPct"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "In Good Faith",
+      "url": "https://open.spotify.com/track/68YFWj8trbwWZJPQMLRFO6"
+    },
+    {
+      "added_at": "2026-06-11 15:22:40",
+      "album": {
+        "name": "Sullen Freak",
+        "url": "https://open.spotify.com/album/1WRommDffbgERpjcR73nIS"
+      },
+      "artists": [
+        {
+          "name": "Certain Things",
+          "url": "https://open.spotify.com/artist/4H0knsbOya73QdC4lzxv7p"
+        }
+      ],
+      "duration_ms": 101043,
+      "name": "Sullen Freak",
+      "url": "https://open.spotify.com/track/1X1XPu1wrVyeDv1sGqK0bL"
     },
     {
       "added_at": "2026-06-10 15:10:08",
@@ -899,70 +931,6 @@
       "duration_ms": 97871,
       "name": "GFY",
       "url": "https://open.spotify.com/track/6oWuRFYxv9GTz2Nrf3Y7BP"
-    },
-    {
-      "added_at": "2026-05-11 14:43:54",
-      "album": {
-        "name": "ADHD",
-        "url": "https://open.spotify.com/album/21KImwvcGgPCxsrFjuJNqz"
-      },
-      "artists": [
-        {
-          "name": "CorMae",
-          "url": "https://open.spotify.com/artist/4D5AqxIGoCoCHMB0IfAkWx"
-        }
-      ],
-      "duration_ms": 179441,
-      "name": "ADHD",
-      "url": "https://open.spotify.com/track/4h69Egql0rKPDVp13LrrBX"
-    },
-    {
-      "added_at": "2026-05-11 14:42:33",
-      "album": {
-        "name": "You Flinched Paul!",
-        "url": "https://open.spotify.com/album/0XzrlYlbqG2g53KZ2pMqhj"
-      },
-      "artists": [
-        {
-          "name": "Ransom Note",
-          "url": "https://open.spotify.com/artist/6tJfplBomt656jEDLZf58F"
-        }
-      ],
-      "duration_ms": 140293,
-      "name": "You Flinched Paul!",
-      "url": "https://open.spotify.com/track/68MjmPVPRmPAiDsRgf5SW1"
-    },
-    {
-      "added_at": "2026-05-11 14:40:39",
-      "album": {
-        "name": "Fun Sucker",
-        "url": "https://open.spotify.com/album/334p9QnEnPk7HTKGoqNxlP"
-      },
-      "artists": [
-        {
-          "name": "Undercity Kings",
-          "url": "https://open.spotify.com/artist/0MI2WP1twJJQV3OnFY6Slm"
-        }
-      ],
-      "duration_ms": 57007,
-      "name": "FUN SUCKER",
-      "url": "https://open.spotify.com/track/1TuBnOiMpcftxcBs4LDoPM"
-    },
-    {
-      "added_at": "2026-05-11 14:18:26",
-      "album": {
-        "name": "Bring You Back",
-        "url": "https://open.spotify.com/album/39xfESFxWASwVu6CBJJ8i5"
-      },
-      "artists": [
-        {
-          "name": "Tackle",
-          "url": "https://open.spotify.com/artist/6mEjnZ7to0xvEYyuIvUdXl"
-        }
-      ],
-      "duration_ms": 189151,
-      "name": "Bring You Back",
-      "url": "https://open.spotify.com/track/38XC9TOfjyc83NpcRek9ty"
     },
     {
       "added_at": "2026-05-12 07:18:39",
@@ -3435,6 +3403,22 @@
       "duration_ms": 170756,
       "name": "Unique",
       "url": "https://open.spotify.com/track/0XpAW2Oh7Kn2pvz00S60gX"
+    },
+    {
+      "added_at": "2026-06-11 15:53:12",
+      "album": {
+        "name": "nomad",
+        "url": "https://open.spotify.com/album/6PpcohKzSTc8n3UOOLYbBl"
+      },
+      "artists": [
+        {
+          "name": "Noorag",
+          "url": "https://open.spotify.com/artist/00pawg55oM8J4PPbekB1IT"
+        }
+      ],
+      "duration_ms": 168312,
+      "name": "nomad",
+      "url": "https://open.spotify.com/track/3qZpVtOkVmO5vTcAPhpf2l"
     }
   ],
   "unique_name": "Shuffle Roulette",

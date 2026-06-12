@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: TRIANGLE DES BERMUDES
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Tiakola
 
-949 songs - 1 day 22 hr 9 min
+950 songs - 1 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 | 2022-06-30 | 2022-08-26 |
 | [Méchante \- Bonus](https://open.spotify.com/track/3NBSAeAixlWOpyTUuSePMZ) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [era 24](https://open.spotify.com/album/3AtIL5qSiwp7dXB7Hjr8Nx) | 2:15 | 2023-12-14 | 2024-01-26 |
 | [méli\-mélo](https://open.spotify.com/track/1kEVqYA0JMm0qKQqykm7gE) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [HOPE\. : Imani](https://open.spotify.com/album/2PPf6NnvTFfJivaHNxczFn) | 2:33 | 2026-03-26 |  |
+| [Mélo Décalé](https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo Décalé](https://open.spotify.com/album/0CPYOg6Axx4W3qFGqqbNcc) | 2:36 | 2026-06-11 |  |
 | [Mélodie](https://open.spotify.com/track/2kDTpQZdRcBVNXJVyVePAy) | [Sifoor](https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj) | [O'bosso, Vol\. 2 \(Afro Swing Don Edition\)](https://open.spotify.com/album/3FgQafXs5a8qM9ZuhUF4RH) | 2:49 | 2022-03-10 | 2022-03-16 |
 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 | 2022-02-10 | 2022-06-24 |
 | [Na nko](https://open.spotify.com/track/2JabqDTQuQ1vqNi6tYVbKE) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR) | [Na nko](https://open.spotify.com/album/1KCsbYW5kIb3lDaMhByDqS) | 2:44 | 2023-12-14 | 2024-03-01 |
@@ -738,7 +739,7 @@
 | [Rebanav 126bpm](https://open.spotify.com/track/0zJ73feFCS8807usUclLWo) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Rebanav 126bpm](https://open.spotify.com/album/1pHOXBLIMAns5o6IZl4t9M) | 2:06 | 2025-11-06 |  |
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-03-16 | 2023-05-05 |
 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 | 2022-11-17 | 2022-12-24 |
-| [Remise En Question](https://open.spotify.com/track/3gAwPBCKggT7RxPetHdb6J) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Dany Synthé](https://open.spotify.com/artist/2zTuJejwDNORTLRCkQPbHy) | [Remise En Question](https://open.spotify.com/album/2cnHnXcToWxLuO2U2zUjG3) | 3:03 | 2026-02-12 |  |
+| [Remise En Question](https://open.spotify.com/track/3gAwPBCKggT7RxPetHdb6J) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Dany Synthé](https://open.spotify.com/artist/2zTuJejwDNORTLRCkQPbHy) | [Remise En Question](https://open.spotify.com/album/2cnHnXcToWxLuO2U2zUjG3) | 3:03 | 2026-02-12 | 2026-06-12 |
 | [Reviens jamais](https://open.spotify.com/track/6xmLySMOP7u8AG5RCMTYre) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Reviens jamais](https://open.spotify.com/album/746WkKV7QPnIwwupgfGDaU) | 2:41 | 2024-10-17 | 2025-03-07 |
 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 | 2023-09-14 | 2023-11-17 |
 | [Rien à dire](https://open.spotify.com/track/01qwxKwItx2m5AzjvRYret) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Rien à dire](https://open.spotify.com/album/2qncGONjvDtkZvx8k5SqCO) | 2:55 | 2024-01-18 | 2024-05-03 |

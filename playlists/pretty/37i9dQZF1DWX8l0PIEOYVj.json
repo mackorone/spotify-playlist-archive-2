@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass \ud83d\udef8 featuring Adventure Club",
-  "num_followers": 474792,
+  "num_followers": 474782,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1471,6 +1471,30 @@
     {
       "added_at": "2026-06-09 18:40:35",
       "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/7jdmw56fXUz5RHyVHXZ6X4"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/5zJWZLWlChbh820KLmMPIF"
+    },
+    {
+      "added_at": "2026-06-09 18:40:35",
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/7sVd8b6lVLOWfshRtXqvTX"
       },
@@ -1499,26 +1523,22 @@
     {
       "added_at": "2026-06-09 18:40:35",
       "album": {
-        "name": "Rise Up",
-        "url": "https://open.spotify.com/album/7jdmw56fXUz5RHyVHXZ6X4"
+        "name": "Just A Mirage",
+        "url": "https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr"
       },
       "artists": [
         {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
         },
         {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Amidy",
-          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+          "name": "ILLUSIO",
+          "url": "https://open.spotify.com/artist/6rMBEaw5vp8wycwK4dleKp"
         }
       ],
-      "duration_ms": 285000,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/5zJWZLWlChbh820KLmMPIF"
+      "duration_ms": 288000,
+      "name": "Just A Mirage",
+      "url": "https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ"
     },
     {
       "added_at": "2026-06-09 18:40:35",
@@ -1543,26 +1563,6 @@
     {
       "added_at": "2026-06-09 18:40:35",
       "album": {
-        "name": "Just A Mirage",
-        "url": "https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        },
-        {
-          "name": "ILLUSIO",
-          "url": "https://open.spotify.com/artist/6rMBEaw5vp8wycwK4dleKp"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Just A Mirage",
-      "url": "https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ"
-    },
-    {
-      "added_at": "2026-06-09 18:40:35",
-      "album": {
         "name": "How To Say Goodbye",
         "url": "https://open.spotify.com/album/2h4nay97Z8MU7NYnllHMsB"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-06-09 18:40:35",
       "album": {
-        "name": "Swimming In The Sky",
-        "url": "https://open.spotify.com/album/6t6EpphDwNwRTLpDMT22t5"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Swimming In The Sky",
-      "url": "https://open.spotify.com/track/3xZyOAfKRK2LTPgrZY8U76"
-    },
-    {
-      "added_at": "2026-06-09 18:40:35",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/6IMTzt0m9cTMn97VD8QIFX"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 234000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1XFdS4vhVl4g4vT1AV2kyb"
+    },
+    {
+      "added_at": "2026-06-09 18:40:35",
+      "album": {
+        "name": "Swimming In The Sky",
+        "url": "https://open.spotify.com/album/6t6EpphDwNwRTLpDMT22t5"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Swimming In The Sky",
+      "url": "https://open.spotify.com/track/3xZyOAfKRK2LTPgrZY8U76"
     },
     {
       "added_at": "2026-06-09 18:40:35",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2026-06-09 18:40:35",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/1lFkp4cM4tWA7s66CbCyua"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/6wrfjapgdCBiKvLDuqJKTW"
-    },
-    {
-      "added_at": "2026-06-09 18:40:35",
-      "album": {
         "name": "XE3 (Whethan Turn)",
         "url": "https://open.spotify.com/album/1Zg6vOcUQAZfltTLYhmqpr"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 233513,
       "name": "XE3 (Whethan Turn)",
       "url": "https://open.spotify.com/track/0uUQq7tP8upuBaN6cmQuqx"
+    },
+    {
+      "added_at": "2026-06-09 18:40:35",
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/1lFkp4cM4tWA7s66CbCyua"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/6wrfjapgdCBiKvLDuqJKTW"
     },
     {
       "added_at": "2026-06-09 18:40:35",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2026-06-09 18:40:35",
       "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj"
+    },
+    {
+      "added_at": "2026-06-09 18:40:35",
+      "album": {
         "name": "Shark (ILLENIUM 2014 Remix)",
         "url": "https://open.spotify.com/album/3YtfxpDQVIdWyjLCilq1Q1"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 307200,
       "name": "Shark - ILLENIUM 2014 Remix",
       "url": "https://open.spotify.com/track/4ogWtNQ8YN3NEhLzx9eqnq"
-    },
-    {
-      "added_at": "2026-06-09 18:40:35",
-      "album": {
-        "name": "Autopilot",
-        "url": "https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Autopilot",
-      "url": "https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj"
     },
     {
       "added_at": "2026-06-09 18:40:35",
@@ -2279,26 +2279,6 @@
     {
       "added_at": "2026-06-09 18:40:35",
       "album": {
-        "name": "A Million Faces",
-        "url": "https://open.spotify.com/album/4AIGSBw2tBI47wUTLoWBgM"
-      },
-      "artists": [
-        {
-          "name": "Vanic",
-          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
-        },
-        {
-          "name": "RAEYA",
-          "url": "https://open.spotify.com/artist/4uAnzMtsxff9YdDsr5gzEu"
-        }
-      ],
-      "duration_ms": 282461,
-      "name": "Swept in a Feeling",
-      "url": "https://open.spotify.com/track/1AVVC94cFK3xbgJmv2eikk"
-    },
-    {
-      "added_at": "2026-06-09 18:40:35",
-      "album": {
         "name": "Meet Me In The Middle",
         "url": "https://open.spotify.com/album/0Wmc5Dl0zjqmdM1LoEEfor"
       },
@@ -2315,6 +2295,26 @@
       "duration_ms": 215238,
       "name": "Meet Me In The Middle",
       "url": "https://open.spotify.com/track/5OKgJEB1FKe4CGctSNkdNS"
+    },
+    {
+      "added_at": "2026-06-09 18:40:35",
+      "album": {
+        "name": "A Million Faces",
+        "url": "https://open.spotify.com/album/4AIGSBw2tBI47wUTLoWBgM"
+      },
+      "artists": [
+        {
+          "name": "Vanic",
+          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
+        },
+        {
+          "name": "RAEYA",
+          "url": "https://open.spotify.com/artist/4uAnzMtsxff9YdDsr5gzEu"
+        }
+      ],
+      "duration_ms": 282461,
+      "name": "Swept in a Feeling",
+      "url": "https://open.spotify.com/track/1AVVC94cFK3xbgJmv2eikk"
     },
     {
       "added_at": "2026-06-09 18:40:35",
@@ -2619,6 +2619,26 @@
     {
       "added_at": "2026-06-09 18:40:35",
       "album": {
+        "name": "My Home",
+        "url": "https://open.spotify.com/album/4nD3TyJBcyOTz5B0s1mAVq"
+      },
+      "artists": [
+        {
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+        },
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "duration_ms": 177662,
+      "name": "My Home",
+      "url": "https://open.spotify.com/track/6pzdG5KXCi3zGvchmPlCsO"
+    },
+    {
+      "added_at": "2026-06-09 18:40:35",
+      "album": {
         "name": "Ellowyn",
         "url": "https://open.spotify.com/album/4YqVaLHc9gho26oNaUMdTS"
       },
@@ -2651,26 +2671,6 @@
       "duration_ms": 164785,
       "name": "Have My Heart",
       "url": "https://open.spotify.com/track/33lIbOLfF200gictVibk9O"
-    },
-    {
-      "added_at": "2026-06-09 18:40:35",
-      "album": {
-        "name": "My Home",
-        "url": "https://open.spotify.com/album/4nD3TyJBcyOTz5B0s1mAVq"
-      },
-      "artists": [
-        {
-          "name": "Chassi",
-          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
-        },
-        {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
-        }
-      ],
-      "duration_ms": 177662,
-      "name": "My Home",
-      "url": "https://open.spotify.com/track/6pzdG5KXCi3zGvchmPlCsO"
     },
     {
       "added_at": "2026-06-09 18:40:35",
@@ -2799,6 +2799,26 @@
     {
       "added_at": "2026-06-09 18:40:35",
       "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/3p1yNakKEt3OHZMfrPn716"
+      },
+      "artists": [
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        },
+        {
+          "name": "Danny Olson",
+          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/73LVojFnu6bZ3ae1OOZb7U"
+    },
+    {
+      "added_at": "2026-06-09 18:40:35",
+      "album": {
         "name": "Southern Skies",
         "url": "https://open.spotify.com/album/6ZhWtq4KVqC7UIPPOy6Yc4"
       },
@@ -2819,26 +2839,6 @@
       "duration_ms": 293538,
       "name": "Southern Skies",
       "url": "https://open.spotify.com/track/0O0RDDBxt18mZxDu43waB8"
-    },
-    {
-      "added_at": "2026-06-09 18:40:35",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/3p1yNakKEt3OHZMfrPn716"
-      },
-      "artists": [
-        {
-          "name": "Hoang",
-          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
-        },
-        {
-          "name": "Danny Olson",
-          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/73LVojFnu6bZ3ae1OOZb7U"
     },
     {
       "added_at": "2026-06-09 18:40:35",
@@ -2867,6 +2867,22 @@
     {
       "added_at": "2026-06-09 18:40:35",
       "album": {
+        "name": "Superluminal",
+        "url": "https://open.spotify.com/album/6FPhibUXT8Y0f6RwfKJUII"
+      },
+      "artists": [
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        }
+      ],
+      "duration_ms": 328890,
+      "name": "Superluminal",
+      "url": "https://open.spotify.com/track/4DGpTIyJgbxL5k3Ka5GqOe"
+    },
+    {
+      "added_at": "2026-06-09 18:40:35",
+      "album": {
         "name": "The Tides of Change",
         "url": "https://open.spotify.com/album/5SPflqUwNSJq81aZO8od4l"
       },
@@ -2887,22 +2903,6 @@
       "duration_ms": 366250,
       "name": "The Maelstrom",
       "url": "https://open.spotify.com/track/4Ons8a7tdAUJwI959dEMem"
-    },
-    {
-      "added_at": "2026-06-09 18:40:35",
-      "album": {
-        "name": "Superluminal",
-        "url": "https://open.spotify.com/album/6FPhibUXT8Y0f6RwfKJUII"
-      },
-      "artists": [
-        {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
-        }
-      ],
-      "duration_ms": 328890,
-      "name": "Superluminal",
-      "url": "https://open.spotify.com/track/4DGpTIyJgbxL5k3Ka5GqOe"
     },
     {
       "added_at": "2026-06-09 18:40:35",

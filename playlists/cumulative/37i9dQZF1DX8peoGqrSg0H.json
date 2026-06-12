@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Daou Pittaya",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JAOKHUN",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -3718,7 +3718,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 219200,
       "name": "See You Somewhere - From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35",
       "url": "https://open.spotify.com/track/3iTOd09b4Dsz1QucpGMivX"
@@ -4860,7 +4860,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 165454,
       "name": "when i \u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08 (sad)",
       "url": "https://open.spotify.com/track/16sGtww9VFoWmqGlK6HGdY"
@@ -5080,7 +5080,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 195000,
       "name": "WORKING U",
       "url": "https://open.spotify.com/track/3dptvNUnmOKJfg4wbnSV08"
@@ -5716,6 +5716,24 @@
       "duration_ms": 242000,
       "name": "\u0e02\u0e2d\u0e23\u0e49\u0e2d\u0e07\u0e2d\u0e22\u0e48\u0e32\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22 (0%)",
       "url": "https://open.spotify.com/track/6vWV47f7qrDRcsm7fi71qj"
+    },
+    {
+      "album": {
+        "name": "While I'm away",
+        "url": "https://open.spotify.com/album/5bDsVtGFlIsqnrWnOgIK7W"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219047,
+      "name": "\u0e02\u0e2d\u0e41\u0e04\u0e48\u0e19\u0e35\u0e49 (Forever n ever)",
+      "url": "https://open.spotify.com/track/6uS1yKSfktHNN7o4AradRV"
     },
     {
       "album": {
@@ -15251,6 +15269,24 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e17\u0e19\u0e23\u0e31\u0e01 (Tanrak) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Ticket to Heaven \u0e40\u0e14\u0e47\u0e01\u0e0a\u0e32\u0e22\u0e44\u0e21\u0e48\u0e44\u0e1b\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c\"]",
+        "url": "https://open.spotify.com/album/3EnVrSOOm8xDUhc6t0GdQA"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240923,
+      "name": "\u0e41\u0e17\u0e19\u0e23\u0e31\u0e01 (Tanrak) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Ticket to Heaven \u0e40\u0e14\u0e47\u0e01\u0e0a\u0e32\u0e22\u0e44\u0e21\u0e48\u0e44\u0e1b\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c\"",
+      "url": "https://open.spotify.com/track/4CfKSYXHVwmNeW5mHnLjEl"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
         "url": "https://open.spotify.com/album/2XWxn9NFOs09U5PjNi85DF"
       },
@@ -15792,6 +15828,24 @@
       "duration_ms": 247398,
       "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
       "url": "https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e25\u0e01\u0e08\u0e33\u0e25\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/6l1llI25E2QNq8rYXImlPY"
+      },
+      "artists": [
+        {
+          "name": "JAOKHUN",
+          "url": "https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230180,
+      "name": "\u0e42\u0e25\u0e01\u0e08\u0e33\u0e25\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/0qcMrwso3fjyMT3NPV4QX9"
     },
     {
       "album": {

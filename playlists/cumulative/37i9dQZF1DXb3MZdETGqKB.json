@@ -2541,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Hurt Like Home",
+        "url": "https://open.spotify.com/album/4rrDizvv6BRc6DWXJKsWu9"
+      },
+      "artists": [
+        {
+          "name": "Sara Hartman",
+          "url": "https://open.spotify.com/artist/1Vx5fzRUd7A1j40B8E3Yqo"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249377,
+      "name": "Hurt Like Home",
+      "url": "https://open.spotify.com/track/7MIegYUVaJAT6DwZ0pZfLD"
+    },
+    {
+      "album": {
         "name": "I Feel The Love",
         "url": "https://open.spotify.com/album/0MPJo2L3RIXShVMtBkZTMS"
       },

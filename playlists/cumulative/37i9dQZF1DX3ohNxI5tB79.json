@@ -766,7 +766,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 237210,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
@@ -3868,7 +3868,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 328330,
       "name": "Make It Make Sense",
       "url": "https://open.spotify.com/track/0k9KBWUYj1P9crxj4vb2QW"
@@ -6814,6 +6814,32 @@
       "duration_ms": 170865,
       "name": "Upside",
       "url": "https://open.spotify.com/track/1eRvvnfpeisIH2JY07equa"
+    },
+    {
+      "album": {
+        "name": "Velvet Skin",
+        "url": "https://open.spotify.com/album/6TjeF0EKnF9fzeXcL6C4kq"
+      },
+      "artists": [
+        {
+          "name": "Stirmouth",
+          "url": "https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        },
+        {
+          "name": "Mariji",
+          "url": "https://open.spotify.com/artist/4yWy9OzNlfl1Mv8jw7HCXR"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195541,
+      "name": "Velvet Skin",
+      "url": "https://open.spotify.com/track/14ZrUnQdGBk96IO1AynT9n"
     },
     {
       "album": {

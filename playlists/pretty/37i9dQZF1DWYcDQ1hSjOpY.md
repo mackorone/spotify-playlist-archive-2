@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,183,879 likes - 276 songs - 12 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,184,211 likes - 276 songs - 12 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 275 | [Calluna](https://open.spotify.com/track/5BqZDkpCaxJSeko76x3MDA) | [Quiescente](https://open.spotify.com/artist/3ks3BPJbvfi7mAENbrPqXI) | [Calluna](https://open.spotify.com/album/1ExQNkTODjmchbJ9zKT2pG) | 2:40 |
 | 276 | [Calm](https://open.spotify.com/track/1y1tGrvyAhi2AFZnwZRHfs) | [Willian Mcgrow](https://open.spotify.com/artist/4K2nKDCPEtBoPLVPC3j2tT) | [Calm](https://open.spotify.com/album/2C1rXK25cEh5AebaLzFMa6) | 2:24 |
 
-Snapshot ID: `AAAAAEbPXKkxCV4D44oVSD+ZI4NzTIKg`
+Snapshot ID: `AAAAACCH/3TFIrRXWaSzG6iXwYylb4Hg`

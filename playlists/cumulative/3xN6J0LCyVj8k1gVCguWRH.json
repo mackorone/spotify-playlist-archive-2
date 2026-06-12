@@ -46429,6 +46429,24 @@
     },
     {
       "album": {
+        "name": "I Can't Do This Forever",
+        "url": "https://open.spotify.com/album/4GaGug4gS2urN9kLnjALcC"
+      },
+      "artists": [
+        {
+          "name": "minimum champion",
+          "url": "https://open.spotify.com/artist/0EFlMuWkopYB0h8ENMr6id"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220539,
+      "name": "I Can't Do This Forever",
+      "url": "https://open.spotify.com/track/3gn7hhS1ZgOObQa8gWN4M7"
+    },
+    {
+      "album": {
         "name": "I Can't Fall Asleep",
         "url": "https://open.spotify.com/album/3DxECJI2qLBi65Bc3MfUJg"
       },
@@ -62538,7 +62556,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 127403,
       "name": "MALETA",
       "url": "https://open.spotify.com/track/33iAFMnDiA8aECvVzqYBHy"
@@ -85258,6 +85276,24 @@
       "duration_ms": 155648,
       "name": "Santa Please",
       "url": "https://open.spotify.com/track/2NwUk7uSq6YN9LUuNPrLmN"
+    },
+    {
+      "album": {
+        "name": "Santa Rosa Sky",
+        "url": "https://open.spotify.com/album/3GmFYLh4XwQ0gfJoES1d0E"
+      },
+      "artists": [
+        {
+          "name": "Laura Sumner",
+          "url": "https://open.spotify.com/artist/2SQolJGk2zty2ONFz6Tf0T"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190213,
+      "name": "Santa Rosa Sky",
+      "url": "https://open.spotify.com/track/4Wkh5YDAFUsyLaU0DHHFhY"
     },
     {
       "album": {

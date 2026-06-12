@@ -1,79 +1,31 @@
 {
-  "description": "det handler ik' om alder, men om young soundsss \ud83e\udd60",
-  "num_followers": 47165,
+  "description": "young soundsss \ud83e\udd60",
+  "num_followers": 47169,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOFava3YB4cMXNlm3IjMcdhEIEUW",
+  "snapshot_id": "AAAAALSf6mSS1++aTxY0K9weWvCANCwE",
   "tracks": [
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
-        "name": "Hvor Sv\u00e6rt Kan Det V\u00e6re",
-        "url": "https://open.spotify.com/album/7edNDcl8N2ui3j2DI8aLs7"
+        "name": "Ingen Bund",
+        "url": "https://open.spotify.com/album/72yYt6zHgG6qQkgXNpPqLx"
       },
       "artists": [
         {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
         }
       ],
-      "duration_ms": 170288,
-      "name": "Hvor Sv\u00e6rt Kan Det V\u00e6re",
-      "url": "https://open.spotify.com/track/2kIGmHdCeslh6nxVoNUNGS"
+      "duration_ms": 219124,
+      "name": "Ingen Bund",
+      "url": "https://open.spotify.com/track/6Wh43ZGGQycgGfw2fj7wy3"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Fra ingenting til noget",
-        "url": "https://open.spotify.com/album/2bQRAwymZ1IJevDEqB6d9c"
-      },
-      "artists": [
-        {
-          "name": "Nikolaj Manuel Vonsild",
-          "url": "https://open.spotify.com/artist/1PWTPCO6vddVyU1g1TxCcO"
-        }
-      ],
-      "duration_ms": 208837,
-      "name": "Fra ingenting til noget",
-      "url": "https://open.spotify.com/track/3V8sVLw7yu3JHg0IWwkfaZ"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "S\u00f8n",
-        "url": "https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8n",
-          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
-        }
-      ],
-      "duration_ms": 164734,
-      "name": "Satellitter",
-      "url": "https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "eeelluminagee",
-        "url": "https://open.spotify.com/album/5z0tTAvea9bCu1yO6g6VXM"
-      },
-      "artists": [
-        {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
-        }
-      ],
-      "duration_ms": 208216,
-      "name": "eeelluminagee",
-      "url": "https://open.spotify.com/track/3CNH1O6Yxyw9Hx9ewlSRdy"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "kendt mig en uge",
         "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
@@ -89,7 +41,39 @@
       "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "S\u00f8n",
+        "url": "https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8n",
+          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
+        }
+      ],
+      "duration_ms": 164734,
+      "name": "Satellitter",
+      "url": "https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "eeelluminagee",
+        "url": "https://open.spotify.com/album/5z0tTAvea9bCu1yO6g6VXM"
+      },
+      "artists": [
+        {
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
+        }
+      ],
+      "duration_ms": 208216,
+      "name": "eeelluminagee",
+      "url": "https://open.spotify.com/track/3CNH1O6Yxyw9Hx9ewlSRdy"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Livet Er For Kort",
         "url": "https://open.spotify.com/album/2yxKdiluzCssx2saJ4h3NF"
@@ -105,7 +89,7 @@
       "url": "https://open.spotify.com/track/6QynJvly6ZcSpcEweJwQEt"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Hvorfor skulle jeg vide det?",
         "url": "https://open.spotify.com/album/360MgRzxQLYOT70TgyPyg4"
@@ -125,7 +109,7 @@
       "url": "https://open.spotify.com/track/2PtVNvdWQDCVgmviVljEBr"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Kan Du M\u00e6rke Suset?",
         "url": "https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty"
@@ -141,7 +125,7 @@
       "url": "https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Kaster Mig Ud I",
         "url": "https://open.spotify.com/album/74kVeuJxuJsrANODEwI8VL"
@@ -157,7 +141,7 @@
       "url": "https://open.spotify.com/track/37Z0AVOT6JIQssoNth5J0f"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "v\u00e5gner",
         "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
@@ -173,7 +157,7 @@
       "url": "https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Ur\u00f8rlig (feat. Karoline Mousing)",
         "url": "https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX"
@@ -193,7 +177,7 @@
       "url": "https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "lao shi",
         "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
@@ -209,7 +193,7 @@
       "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Til Solen Er Sort",
         "url": "https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz"
@@ -225,7 +209,7 @@
       "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "GENSTART",
         "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
@@ -241,7 +225,7 @@
       "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Sytten",
         "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
@@ -257,27 +241,7 @@
       "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Troede Det Var Os",
-        "url": "https://open.spotify.com/album/7DqmAsltUZkIQNC60FJK2W"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        },
-        {
-          "name": "Emma Sehested H\u00f8eg",
-          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
-        }
-      ],
-      "duration_ms": 174627,
-      "name": "Troede Det Var Os",
-      "url": "https://open.spotify.com/track/0o7TS3c91RbVB0MKX6KsXL"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Skyklapper",
         "url": "https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz"
@@ -293,7 +257,7 @@
       "url": "https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx"
@@ -317,7 +281,7 @@
       "url": "https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Dagdr\u00f8mmeri",
         "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
@@ -333,23 +297,7 @@
       "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Mig Og Min Mund",
-        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 159539,
-      "name": "Mig Og Min Mund",
-      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Gav Det Et Skud",
         "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
@@ -365,23 +313,23 @@
       "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
-        "name": "Undskyld",
-        "url": "https://open.spotify.com/album/2TURzDtJyIqpYaU7NFhmkb"
+        "name": "Mig Og Min Mund",
+        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
       },
       "artists": [
         {
-          "name": "Karoline Mousing",
-          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Undskyld",
-      "url": "https://open.spotify.com/track/6Wau9vZtw62qiHfBOFnsfy"
+      "duration_ms": 159539,
+      "name": "Mig Og Min Mund",
+      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Alt hvad jeg vil",
         "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
@@ -397,7 +345,7 @@
       "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Tag Mig Som Jeg Er",
         "url": "https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH"
@@ -413,43 +361,7 @@
       "url": "https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "bl\u00e5 n\u00e6tter",
-        "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
-      },
-      "artists": [
-        {
-          "name": "Lea Ey\u00f0bj\u00f8rg",
-          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
-        },
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 158708,
-      "name": "bl\u00e5 n\u00e6tter",
-      "url": "https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Var det dig, der var derinde?",
         "url": "https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb"
@@ -469,7 +381,43 @@
       "url": "https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "bl\u00e5 n\u00e6tter",
+        "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
+      },
+      "artists": [
+        {
+          "name": "Lea Ey\u00f0bj\u00f8rg",
+          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
+        },
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 158708,
+      "name": "bl\u00e5 n\u00e6tter",
+      "url": "https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "I Made It (feat. Andreas Odbjerg)",
         "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
@@ -489,7 +437,7 @@
       "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Udsving",
         "url": "https://open.spotify.com/album/6DBNLC079WFCQ6tH40cV08"
@@ -505,7 +453,7 @@
       "url": "https://open.spotify.com/track/5mali68oFTzZtYlDAR4cHX"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Uendelighed",
         "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
@@ -521,7 +469,7 @@
       "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "En Stor Lykkelig Familie",
         "url": "https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh"
@@ -537,71 +485,7 @@
       "url": "https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Spring summer",
-        "url": "https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 128012,
-      "name": "Spring summer",
-      "url": "https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "FORLADMIGEJ",
-        "url": "https://open.spotify.com/album/1YgMrux0tYh6IXpwdHPVio"
-      },
-      "artists": [
-        {
-          "name": "OLIVVER",
-          "url": "https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO"
-        }
-      ],
-      "duration_ms": 148413,
-      "name": "Gi' Mig",
-      "url": "https://open.spotify.com/track/6TuyzcroVkiqQZUXlJE3LC"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Synger Bare",
-        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 107812,
-      "name": "Synger Bare",
-      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Det sker alt for tit",
-        "url": "https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB"
-      },
-      "artists": [
-        {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
-        }
-      ],
-      "duration_ms": 187422,
-      "name": "Det sker alt for tit",
-      "url": "https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Sweetheart",
         "url": "https://open.spotify.com/album/4WxyYrADTCr2OOuzX9AURz"
@@ -617,7 +501,55 @@
       "url": "https://open.spotify.com/track/1Dq0FH27wkPeddOo3N57Pc"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Spring summer",
+        "url": "https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "duration_ms": 128012,
+      "name": "Spring summer",
+      "url": "https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Synger Bare",
+        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 107812,
+      "name": "Synger Bare",
+      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Det sker alt for tit",
+        "url": "https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB"
+      },
+      "artists": [
+        {
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+        }
+      ],
+      "duration_ms": 187422,
+      "name": "Det sker alt for tit",
+      "url": "https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Mandag Til Fredag",
         "url": "https://open.spotify.com/album/4RXOrQQ1XUGZkn4klKcIem"
@@ -633,7 +565,7 @@
       "url": "https://open.spotify.com/track/2LA30t2wNFyjgvbyms415y"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Folk Forsvinder",
         "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
@@ -649,7 +581,7 @@
       "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Ring, n\u00e5r du har tid",
         "url": "https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy"
@@ -681,7 +613,7 @@
       "url": "https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Venter Jo Bare",
         "url": "https://open.spotify.com/album/7lrnQyioFl5ZAUauLNpCCg"
@@ -697,7 +629,7 @@
       "url": "https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "S\u00e6tter Sig Fast",
         "url": "https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4"
@@ -713,7 +645,7 @@
       "url": "https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "4CANTOS",
         "url": "https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw"
@@ -729,7 +661,7 @@
       "url": "https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "H\u00e6ng En Mand",
         "url": "https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa"
@@ -745,7 +677,7 @@
       "url": "https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Kun for os",
         "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
@@ -761,7 +693,7 @@
       "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
@@ -777,7 +709,7 @@
       "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Hvis jeg ku'",
         "url": "https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c"
@@ -793,7 +725,7 @@
       "url": "https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Barn Af Venedig",
         "url": "https://open.spotify.com/album/7md2UVqllUni4xa7373rXi"
@@ -809,23 +741,23 @@
       "url": "https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
-        "name": "S\u00f8vnl\u00f8s",
-        "url": "https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN"
+        "name": "Fra ingenting til noget",
+        "url": "https://open.spotify.com/album/2bQRAwymZ1IJevDEqB6d9c"
       },
       "artists": [
         {
-          "name": "Fri\u00f0a Saiya",
-          "url": "https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm"
+          "name": "Nikolaj Manuel Vonsild",
+          "url": "https://open.spotify.com/artist/1PWTPCO6vddVyU1g1TxCcO"
         }
       ],
-      "duration_ms": 149304,
-      "name": "S\u00f8vnl\u00f8s",
-      "url": "https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN"
+      "duration_ms": 208837,
+      "name": "Fra ingenting til noget",
+      "url": "https://open.spotify.com/track/3V8sVLw7yu3JHg0IWwkfaZ"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Jeg h\u00e5ber (feat. Mekdes)",
         "url": "https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG"
@@ -845,7 +777,23 @@
       "url": "https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "S\u00f8vnl\u00f8s",
+        "url": "https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0a Saiya",
+          "url": "https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm"
+        }
+      ],
+      "duration_ms": 149304,
+      "name": "S\u00f8vnl\u00f8s",
+      "url": "https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "S\u00e6tter Alt P\u00e5 Spil",
         "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
@@ -861,23 +809,7 @@
       "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Anna",
-        "url": "https://open.spotify.com/album/1EjQLRWtKkSF9jjvktpS1O"
-      },
-      "artists": [
-        {
-          "name": "ABSURD",
-          "url": "https://open.spotify.com/artist/5g2Fj5Ecjr8HQX5hqltsRv"
-        }
-      ],
-      "duration_ms": 192314,
-      "name": "Anna",
-      "url": "https://open.spotify.com/track/1aTvtqzdNdivWqhPY7G9z0"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "GUTWORK",
         "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
@@ -893,7 +825,7 @@
       "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Bobler",
         "url": "https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE"
@@ -909,7 +841,7 @@
       "url": "https://open.spotify.com/track/4w77uY6YcGkd8vznIs0sF7"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Pissoir",
         "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
@@ -925,7 +857,7 @@
       "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "sad song",
         "url": "https://open.spotify.com/album/3M4kVE1218U6n9Qh6JQ03I"
@@ -941,7 +873,7 @@
       "url": "https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "F\u00f8rhen",
         "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
@@ -957,131 +889,7 @@
       "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Errr",
-        "url": "https://open.spotify.com/album/2y0oCsmZNt5cm9mxUvABFm"
-      },
-      "artists": [
-        {
-          "name": "A Good Year",
-          "url": "https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j"
-        },
-        {
-          "name": "Suisse air",
-          "url": "https://open.spotify.com/artist/3aYP9prAwAH0eNSR4zMiZl"
-        }
-      ],
-      "duration_ms": 182807,
-      "name": "Errr",
-      "url": "https://open.spotify.com/track/4ecSUTrx8xrIlwprm8bhwU"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Uden T\u00f8j P\u00e5",
-        "url": "https://open.spotify.com/album/2Wulhz0KDC8b9ZHIAwL2gW"
-      },
-      "artists": [
-        {
-          "name": "Karla Korsbak",
-          "url": "https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC"
-        }
-      ],
-      "duration_ms": 154023,
-      "name": "Uden T\u00f8j P\u00e5",
-      "url": "https://open.spotify.com/track/2yJGqPpHkLEQJH1t1dKGyS"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Pisk",
-        "url": "https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1"
-      },
-      "artists": [
-        {
-          "name": "Ganger",
-          "url": "https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT"
-        },
-        {
-          "name": "Choir Of Young Believers",
-          "url": "https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7"
-        }
-      ],
-      "duration_ms": 230635,
-      "name": "Klubben (feat. Choir Of Young Believers)",
-      "url": "https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Ekkoer",
-        "url": "https://open.spotify.com/album/0iVMwoK9qjCMMFDariqDVa"
-      },
-      "artists": [
-        {
-          "name": "Laura Vejlby",
-          "url": "https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ"
-        }
-      ],
-      "duration_ms": 161195,
-      "name": "Ekkoer",
-      "url": "https://open.spotify.com/track/48JWAZ5llPwoW51EdYKrYO"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Til Enden Og Tilbage (feat. Ungklang)",
-        "url": "https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu"
-      },
-      "artists": [
-        {
-          "name": "Cyd",
-          "url": "https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A"
-        },
-        {
-          "name": "Ungklang",
-          "url": "https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD"
-        }
-      ],
-      "duration_ms": 189831,
-      "name": "Til Enden Og Tilbage (feat. Ungklang)",
-      "url": "https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Big Mistake",
-        "url": "https://open.spotify.com/album/6Hvh4GrjdaKUQWkIpXmjnU"
-      },
-      "artists": [
-        {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
-        }
-      ],
-      "duration_ms": 215078,
-      "name": "Big Mistake",
-      "url": "https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Stay 4 U",
-        "url": "https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 184444,
-      "name": "Stay 4 U",
-      "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "Bitter",
         "url": "https://open.spotify.com/album/5J6zC2NlbGa1tzjxwBCNPs"
@@ -1101,39 +909,95 @@
       "url": "https://open.spotify.com/track/7jbGdPdS1cZmnGmJgIxsUK"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
-        "name": "B\u00e6nkevarmer",
-        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
+        "name": "Uden T\u00f8j P\u00e5",
+        "url": "https://open.spotify.com/album/2Wulhz0KDC8b9ZHIAwL2gW"
       },
       "artists": [
         {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+          "name": "Karla Korsbak",
+          "url": "https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC"
         }
       ],
-      "duration_ms": 234138,
-      "name": "Uden At T\u00e6nke P\u00e5 Dig",
-      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
+      "duration_ms": 154023,
+      "name": "Uden T\u00f8j P\u00e5",
+      "url": "https://open.spotify.com/track/2yJGqPpHkLEQJH1t1dKGyS"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
-        "name": "Marianne og Henrik",
-        "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
+        "name": "Pisk",
+        "url": "https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1"
       },
       "artists": [
         {
-          "name": "Sofie1998",
-          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+          "name": "Ganger",
+          "url": "https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT"
+        },
+        {
+          "name": "Choir Of Young Believers",
+          "url": "https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7"
         }
       ],
-      "duration_ms": 180664,
-      "name": "Marianne og Henrik",
-      "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
+      "duration_ms": 230635,
+      "name": "Klubben (feat. Choir Of Young Believers)",
+      "url": "https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Til Enden Og Tilbage (feat. Ungklang)",
+        "url": "https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu"
+      },
+      "artists": [
+        {
+          "name": "Cyd",
+          "url": "https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A"
+        },
+        {
+          "name": "Ungklang",
+          "url": "https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD"
+        }
+      ],
+      "duration_ms": 189831,
+      "name": "Til Enden Og Tilbage (feat. Ungklang)",
+      "url": "https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Ekkoer",
+        "url": "https://open.spotify.com/album/0iVMwoK9qjCMMFDariqDVa"
+      },
+      "artists": [
+        {
+          "name": "Laura Vejlby",
+          "url": "https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ"
+        }
+      ],
+      "duration_ms": 161195,
+      "name": "Ekkoer",
+      "url": "https://open.spotify.com/track/48JWAZ5llPwoW51EdYKrYO"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Verona",
+        "url": "https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 198812,
+      "name": "Verona",
+      "url": "https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "H\u00f8j P\u00e5 Livet",
         "url": "https://open.spotify.com/album/1Ggt1HjgSTmk2udoeFsnYa"
@@ -1153,23 +1017,7 @@
       "url": "https://open.spotify.com/track/4xCCiECABvVCXE0UZb0k9t"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "i'll quit quitting",
-        "url": "https://open.spotify.com/album/6uCjsjUW7XE64ag0bTUvZk"
-      },
-      "artists": [
-        {
-          "name": "Thea Dora",
-          "url": "https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD"
-        }
-      ],
-      "duration_ms": 198810,
-      "name": "i'll quit quitting",
-      "url": "https://open.spotify.com/track/50QHiazBVpbsOKfFIrBR2k"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
         "name": "tense present",
         "url": "https://open.spotify.com/album/3Y3jFgpvIJY3tT7h8y9FbT"
@@ -1185,20 +1033,164 @@
       "url": "https://open.spotify.com/track/2YemLBdJSJQAwndrKhPgqb"
     },
     {
-      "added_at": "2026-06-04 22:01:11",
+      "added_at": "2026-06-11 22:02:13",
       "album": {
-        "name": "Kraftidiot",
-        "url": "https://open.spotify.com/album/37jQgF1Jh6vaofnRFT8A82"
+        "name": "B\u00e6nkevarmer",
+        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
       },
       "artists": [
         {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
         }
       ],
-      "duration_ms": 165521,
-      "name": "Idiot",
-      "url": "https://open.spotify.com/track/2kz6Tlbmx37JJmehWobN1x"
+      "duration_ms": 234138,
+      "name": "Uden At T\u00e6nke P\u00e5 Dig",
+      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Marianne og Henrik",
+        "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
+      },
+      "artists": [
+        {
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+        }
+      ],
+      "duration_ms": 180664,
+      "name": "Marianne og Henrik",
+      "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Ind I Solen",
+        "url": "https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b"
+      },
+      "artists": [
+        {
+          "name": "Kayak",
+          "url": "https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz"
+        }
+      ],
+      "duration_ms": 227037,
+      "name": "Ind I Solen",
+      "url": "https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6YBO3bVKIZgS2R6AE9eSby"
+      },
+      "artists": [
+        {
+          "name": "School of X",
+          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
+        }
+      ],
+      "duration_ms": 149271,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2GSY5xLQQdgBcbf04nlNm3"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Lige s\u00e5 fucked som mig",
+        "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
+      },
+      "artists": [
+        {
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+        }
+      ],
+      "duration_ms": 150488,
+      "name": "Lige s\u00e5 fucked som mig",
+      "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Et Sted p\u00e5 Vesterbro",
+        "url": "https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn"
+      },
+      "artists": [
+        {
+          "name": "Augusta Schackinger",
+          "url": "https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm"
+        }
+      ],
+      "duration_ms": 148521,
+      "name": "Et Sted p\u00e5 Vesterbro",
+      "url": "https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Den Lykkelige Ungdom",
+        "url": "https://open.spotify.com/album/3fJ3oOrnnde9HHFCzu0xfo"
+      },
+      "artists": [
+        {
+          "name": "Pauline",
+          "url": "https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl"
+        }
+      ],
+      "duration_ms": 163948,
+      "name": "Den Lykkelige Ungdom",
+      "url": "https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Lige Meget Hvor Langt Du Er",
+        "url": "https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA"
+      },
+      "artists": [
+        {
+          "name": "KALASET",
+          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
+        }
+      ],
+      "duration_ms": 258797,
+      "name": "Lige Meget Hvor Langt Du Er",
+      "url": "https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Elsk Mig",
+        "url": "https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU"
+      },
+      "artists": [
+        {
+          "name": "Joyce",
+          "url": "https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow"
+        }
+      ],
+      "duration_ms": 236624,
+      "name": "Se Mig",
+      "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "The Way She Says Goodbye",
+        "url": "https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB"
+      },
+      "artists": [
+        {
+          "name": "Emily Bowen",
+          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Bye Sofia",
+      "url": "https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW"
     }
   ],
   "unique_name": "ung kniv ",

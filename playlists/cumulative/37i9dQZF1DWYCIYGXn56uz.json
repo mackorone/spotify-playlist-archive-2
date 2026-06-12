@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: Nicol\u00f2 Filippucci",
+  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f cover: Samurai Jay",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -1834,6 +1834,28 @@
       "duration_ms": 175991,
       "name": "BABY RED HOT",
       "url": "https://open.spotify.com/track/4VejoE0TRIFFy4sZWNFzUL"
+    },
+    {
+      "album": {
+        "name": "Bacio alla fran\u00e7ais",
+        "url": "https://open.spotify.com/album/1SgEIfrGfPiQYMF4AGaOsv"
+      },
+      "artists": [
+        {
+          "name": "Astol",
+          "url": "https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy"
+        },
+        {
+          "name": "Nick Garnier",
+          "url": "https://open.spotify.com/artist/22FTF2sRe1pNWQKrotCSRy"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148695,
+      "name": "Bacio alla fran\u00e7ais",
+      "url": "https://open.spotify.com/track/1Sqfmqc9kfb3pDMiur1hcl"
     },
     {
       "album": {
@@ -4887,7 +4909,7 @@
     },
     {
       "album": {
-        "name": "Cuore rotto (feat. Finesse)",
+        "name": "Cuore rotto",
         "url": "https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9"
       },
       "artists": [
@@ -4904,7 +4926,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 140000,
-      "name": "Cuore rotto (feat. Finesse)",
+      "name": "Cuore rotto",
       "url": "https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN"
     },
     {
@@ -5214,6 +5236,24 @@
       "duration_ms": 176190,
       "name": "Del + e del -",
       "url": "https://open.spotify.com/track/3XLiJfgPLGbOhemWzuNpHO"
+    },
+    {
+      "album": {
+        "name": "DENTRO DILUVIA",
+        "url": "https://open.spotify.com/album/5SkINBtfpE87HNuTjRktEz"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Stimolo",
+          "url": "https://open.spotify.com/artist/4EhjjoVdrX6UUIs7H95WJW"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149714,
+      "name": "DENTRO DILUVIA",
+      "url": "https://open.spotify.com/track/6Vt4pPtxaARaxI0dAuYhbR"
     },
     {
       "album": {
@@ -6040,6 +6080,32 @@
       "duration_ms": 159000,
       "name": "D\u00c9SOL\u00c9E",
       "url": "https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS"
+    },
+    {
+      "album": {
+        "name": "\u00c8 O G.",
+        "url": "https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd"
+      },
+      "artists": [
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        },
+        {
+          "name": "Flatpearl",
+          "url": "https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R"
+        },
+        {
+          "name": "Succo",
+          "url": "https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111692,
+      "name": "E Allora",
+      "url": "https://open.spotify.com/track/1XzHasEgB7QoXXtoD3sUKY"
     },
     {
       "album": {
@@ -7473,6 +7539,24 @@
     },
     {
       "album": {
+        "name": "LE PERSONE NON CAMBIANO",
+        "url": "https://open.spotify.com/album/3PbTJ1bd2Ye3WdSED8RtWs"
+      },
+      "artists": [
+        {
+          "name": "Fraym",
+          "url": "https://open.spotify.com/artist/1HeBlt1CllyguHJj5t8jme"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Galleggiare",
+      "url": "https://open.spotify.com/track/6BwRjiVBkVdZ8YooSUyBgC"
+    },
+    {
+      "album": {
         "name": "gazzelle",
         "url": "https://open.spotify.com/album/3KqWIQgm1RcpT6Smf0QJJ9"
       },
@@ -8210,7 +8294,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 137952,
       "name": "Halo",
       "url": "https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e"
@@ -15718,7 +15802,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 204300,
       "name": "Precipitando",
       "url": "https://open.spotify.com/track/66dPIcMkaUhlPiknMRwSS8"
@@ -15762,7 +15846,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 192240,
       "name": "PRIGIONE (feat. Federica Abbate)",
       "url": "https://open.spotify.com/track/3qNEMIzq8O3z8ALVyubFpz"
@@ -19176,6 +19260,24 @@
       "duration_ms": 195000,
       "name": "SUPEREROI",
       "url": "https://open.spotify.com/track/1nND6VDerwJxLaUwVVCp28"
+    },
+    {
+      "album": {
+        "name": "Sweet Panorama",
+        "url": "https://open.spotify.com/album/20mUgc86HD7BsTvjtrHDO7"
+      },
+      "artists": [
+        {
+          "name": "Emma Muscat",
+          "url": "https://open.spotify.com/artist/112CaF6ayJD0CIe64FjhhX"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Sweet Panorama",
+      "url": "https://open.spotify.com/track/2BOL025Qdl4IU0o48irbED"
     },
     {
       "album": {

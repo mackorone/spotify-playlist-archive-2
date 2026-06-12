@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,447 songs - 9 day 21 hr 57 min
+4,448 songs - 9 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1095,6 +1095,7 @@
 | [Drill Shiit](https://open.spotify.com/track/204G33iY2R17eXbrLqcujJ) | [Prince MSK](https://open.spotify.com/artist/2uBjCmm2Y4L5UeYwe4JvL8) | [Drill Shiit](https://open.spotify.com/album/6AK5fztTMgzPCzCdJ9WNW2) | 2:12 | 2025-06-04 |  |
 | [DRIPPIN PIMPIN](https://open.spotify.com/track/2AeBrHrV1qn4ZlYY2NuGkF) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:14 | 2025-09-08 |  |
 | [drop dead](https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead \(taken that eurostar to france video\)](https://open.spotify.com/album/6yWUYijJvHyjvcw43abyWD) | 3:44 | 2026-06-04 |  |
+| [Drop It](https://open.spotify.com/track/42PVBtF5l7oduR8hc1MV6u) | [Cobra queen](https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc) | [Drop It](https://open.spotify.com/album/6KPUGArw4CAk5S3iIw0ChK) | 3:33 | 2026-06-11 |  |
 | [Drowned in Happiness](https://open.spotify.com/track/3ZfD9vM0hFD9brYtkIOfLA) | [Yoga Meditation](https://open.spotify.com/artist/6bXLqExfY3jgaJU0Uuyhd2) | [Drowned in Happiness](https://open.spotify.com/album/2ig521z90zucSyjziFjJXo) | 12:33 | 2025-06-04 |  |
 | [Drowning In Shadows](https://open.spotify.com/track/7jmsA5Z8QAUzALUKbOdeKQ) | [Dark Sirens](https://open.spotify.com/artist/4CSodsgXfqKTUuXpNcFZQG) | [Bhula Do Mujhe](https://open.spotify.com/album/2Ush8qugIh8gZIdDWmhhk0) | 4:31 | 2025-07-02 |  |
 | [Drug Addict](https://open.spotify.com/track/00XB6iV4vugA4ZZgpZyAQ6) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Drug Addict](https://open.spotify.com/album/4NRsBPa8n5fKZesdlYpWmc) | 1:23 | 2025-10-14 |  |

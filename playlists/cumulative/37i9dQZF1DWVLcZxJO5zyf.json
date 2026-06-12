@@ -282,7 +282,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 128971,
       "name": "Abalo Psicol\u00f3gico",
       "url": "https://open.spotify.com/track/5SX0VdH95qpDfUOmDUQ5pj"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 160284,
       "name": "antes que voc\u00ea v\u00e1",
       "url": "https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD"
@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "Caipiranhas",
+        "url": "https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116097,
+      "name": "Caipiranhas",
+      "url": "https://open.spotify.com/track/5OqyGoao9eplES1cFvA4JZ"
+    },
+    {
+      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 156656,
       "name": "Caos e Sal",
       "url": "https://open.spotify.com/track/2S3zSAStwmnXTbQkYwur7G"
@@ -2954,6 +2972,28 @@
       "duration_ms": 183428,
       "name": "Down, Down, Down",
       "url": "https://open.spotify.com/track/0rJZEBFFrIsNLpJ5ZKjfZt"
+    },
+    {
+      "album": {
+        "name": "SANDRA ELETR\u00d4NICA",
+        "url": "https://open.spotify.com/album/2yVXAGytmz2Evn002WJ8m3"
+      },
+      "artists": [
+        {
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        },
+        {
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218482,
+      "name": "Drogas, Sexo, Techno, Repete!",
+      "url": "https://open.spotify.com/track/4wUsRZiduP97n8NDTPbNch"
     },
     {
       "album": {
@@ -5760,6 +5800,24 @@
       "duration_ms": 166027,
       "name": "Mundo de Porcelana - JAMM\u2019 Remix",
       "url": "https://open.spotify.com/track/1yjC9abvbPmHbdMouI7BHK"
+    },
+    {
+      "album": {
+        "name": "Inimagin\u00e1vel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1AjehfvtwQTt5vFZMbv8Ue"
+      },
+      "artists": [
+        {
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189073,
+      "name": "M\u00e1gica - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
     },
     {
       "album": {

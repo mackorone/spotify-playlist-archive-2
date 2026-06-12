@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-04",
-  "description": "Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars. \n\nCover: Esoterica",
+  "description": "Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars. \n\nCover: Bloody Civilian",
   "name": "Women of Afro",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 183576,
       "name": "Back to Sender",
       "url": "https://open.spotify.com/track/64ZaQ1kHO8HbPLN2EHuvIi"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 197333,
       "name": "Bando (feat. Pharrell Williams & Quavo)",
       "url": "https://open.spotify.com/track/2QfnsYXUpkiCNG56W2aW7I"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 155428,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/46VDIPUk3Q1i1otgAwhI2k"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 130000,
       "name": "Bongolo Cigar",
       "url": "https://open.spotify.com/track/7imLxDsO8VPbnbkt4EPOOK"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 197647,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/7yeC0Li94ZmAwxVW5qApUw"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 198260,
       "name": "Don't Go Far",
       "url": "https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 160909,
       "name": "Don't Suffer (feat. Winny)",
       "url": "https://open.spotify.com/track/0Wsa980EcwCu3CaEbJ5Cdl"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 200343,
       "name": "Downgrade",
       "url": "https://open.spotify.com/track/6IhO11SSzhI4wFYKEZx2bl"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 140505,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5KkV60IH22ERQHfNxkGa1G"
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 134482,
       "name": "Feel",
       "url": "https://open.spotify.com/track/2Rnw1jwFHyQcpSdUe7Te7c"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 174466,
       "name": "Follow Follow (feat. Deela & Paxslim)",
       "url": "https://open.spotify.com/track/7mJACMFhTNQHae48V6L6g4"
@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 121846,
       "name": "French Tips",
       "url": "https://open.spotify.com/track/4AhDxbAKP8S3qU9rJKGsZf"
@@ -1849,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Hate That I Love You",
+        "url": "https://open.spotify.com/album/6mNgkMoCmIAuQuFDTfMu8M"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157759,
+      "name": "Hate That I Love You",
+      "url": "https://open.spotify.com/track/4Z5WbiyKtTMFWgqK7ErFKv"
+    },
+    {
+      "album": {
         "name": "Head Start",
         "url": "https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb"
       },
@@ -1878,7 +1896,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 168979,
       "name": "Heart on Fire",
       "url": "https://open.spotify.com/track/7tXVIybZ82zYhowStV0epZ"
@@ -2042,7 +2060,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 153573,
       "name": "I Believe In Better",
       "url": "https://open.spotify.com/track/4DQ5zn0wZytaZYM6UjLlMY"
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 152542,
       "name": "Imaramma",
       "url": "https://open.spotify.com/track/0dZBb8uUCZWZlxsj1uNNxl"
@@ -2176,7 +2194,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 159272,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/2TEG4RhpqMUNBLbE8JlUXu"
@@ -2278,7 +2296,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 138504,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6wp51Blr97YhW0vXxtYlMf"
@@ -2314,7 +2332,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 164232,
       "name": "Jerlosi",
       "url": "https://open.spotify.com/track/02d7jeFQvddWvpI4pXGS3K"
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 195642,
       "name": "Keep on Rocking",
       "url": "https://open.spotify.com/track/45zEXK2pGjbpD19Gkq8lC4"
@@ -2612,7 +2630,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 368000,
       "name": "Kwasinda Mana",
       "url": "https://open.spotify.com/track/5AAQl0V7jWGaVvFVmRtm1F"
@@ -2630,7 +2648,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 131307,
       "name": "Ladida",
       "url": "https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F"
@@ -2678,7 +2696,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 195000,
       "name": "Lady",
       "url": "https://open.spotify.com/track/6pGHJg3PgQilpDhg9QPJXQ"
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 134260,
       "name": "Lego",
       "url": "https://open.spotify.com/track/0jSFSPrWTXzpHCwaN81W6t"
@@ -2932,7 +2950,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 161684,
       "name": "Lukaku",
       "url": "https://open.spotify.com/track/1d1XEBuQ4NrlJIKJgYKWYt"
@@ -3142,7 +3160,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 128646,
       "name": "Mending Mending",
       "url": "https://open.spotify.com/track/4RcawBRpZN1x6HFAPLtCFC"
@@ -3218,7 +3236,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 152666,
       "name": "Moon",
       "url": "https://open.spotify.com/track/2OV2fA4h3zqWm705ntPM9x"
@@ -3382,7 +3400,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 143288,
       "name": "My B\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/1M4hppqYK76xSSI7qdNCkr"
@@ -3456,7 +3474,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 333451,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO"
@@ -3492,7 +3510,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 206373,
       "name": "Ndolo",
       "url": "https://open.spotify.com/track/3d9fVcAraiePVZpJtd4Ke2"
@@ -3572,7 +3590,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 169843,
       "name": "No Games",
       "url": "https://open.spotify.com/track/4Sh32wmapklcUk7JgbItFF"
@@ -3616,7 +3634,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 184880,
       "name": "No Shakin",
       "url": "https://open.spotify.com/track/2s2FYJhU7KpOSWECdTIV0m"
@@ -3948,7 +3966,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 136062,
       "name": "On A Low",
       "url": "https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR"
@@ -4468,7 +4486,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 156200,
       "name": "sankofa",
       "url": "https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj"
@@ -4602,7 +4620,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 197960,
       "name": "Sigui",
       "url": "https://open.spotify.com/track/7ynLG1doKPwOCebr3PTNGo"
@@ -4638,7 +4656,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 159416,
       "name": "Sisi Eko",
       "url": "https://open.spotify.com/track/0iPX2MzMxXjQxT3Bcu3W5J"
@@ -4656,7 +4674,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 192910,
       "name": "Skin to Skin",
       "url": "https://open.spotify.com/track/78Vky7Swizorjcwiw3p0do"
@@ -4950,7 +4968,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 290909,
       "name": "Thobela",
       "url": "https://open.spotify.com/track/2nbIOACMsrzwJRffLmysWa"
@@ -5051,6 +5069,24 @@
     },
     {
       "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174823,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
+    },
+    {
+      "album": {
         "name": "TRABZ",
         "url": "https://open.spotify.com/album/5b9bt1fofoZKmzGnPrcnPd"
       },
@@ -5084,7 +5120,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 160074,
       "name": "Trump",
       "url": "https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3"
@@ -5106,7 +5142,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 127726,
       "name": "TUFF TIMES 2.0 (feat. AratheJay)",
       "url": "https://open.spotify.com/track/5Co15LP8Gbm8FVBTrqnAYY"
@@ -5172,7 +5208,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 185927,
       "name": "Vibes on Vibes (feat. Olamide)",
       "url": "https://open.spotify.com/track/4rxFF4dNlg86J29KCedZGO"
@@ -5198,7 +5234,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 192547,
       "name": "victory!",
       "url": "https://open.spotify.com/track/0Af32lFc5aU4EtmVZKfpdj"
@@ -5330,7 +5366,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 154213,
       "name": "Whoa",
       "url": "https://open.spotify.com/track/6leE8w6yd8P051dfqpb8n8"
@@ -5428,7 +5464,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 162912,
       "name": "Work Me Out (with Wizkid)",
       "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
@@ -5472,7 +5508,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 129924,
       "name": "Yahooboy",
       "url": "https://open.spotify.com/track/3gxE784U3RHs338iapWwos"
@@ -5512,7 +5548,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 175714,
       "name": "Yolo",
       "url": "https://open.spotify.com/track/0lqXbEtZXcQ6TjEGyANB2g"

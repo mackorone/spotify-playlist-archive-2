@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \uc2e0\ud604\uc9c0)\nLet's party with cheerful Korean trot medley.",
+  "description": "\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \uc190\ud0dc\uc9c4)\nLet's party with cheerful Korean trot medley.",
   "name": "K-\ud2b8\ub86f \uc2a4\ud0c0 (K-Trot Stars)",
   "tracks": [
     {
@@ -6706,6 +6706,24 @@
       "duration_ms": 272973,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2mVbMxChs8tNPvIMbYebpV"
+    },
+    {
+      "album": {
+        "name": "Summer Nostalgia",
+        "url": "https://open.spotify.com/album/4eMk4d7TOYZo69TaCqjbJG"
+      },
+      "artists": [
+        {
+          "name": "Son Tae Jin",
+          "url": "https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "I Believe in Music",
+      "url": "https://open.spotify.com/track/3upRses06rg98T445QDmTh"
     },
     {
       "album": {

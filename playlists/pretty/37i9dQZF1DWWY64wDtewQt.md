@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,733,666 likes - 99 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,736,614 likes - 99 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 88 | [Faz de Chicote](https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0) | [Lyu](https://open.spotify.com/artist/56zHTpLLVZ6otn4eInVwJf), [ITALO SENA](https://open.spotify.com/artist/1YVpgYKow2RgW5ZDLmApGf), [DJ PBeats](https://open.spotify.com/artist/6tQDQivRhULyEMBCneS7f9), [DJ VYZ](https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F) | [Faz de Chicote](https://open.spotify.com/album/2cuIEt1nONL2bu9HnSXjVT) | 2:30 |
 | 89 | [NUNCA MUDA?](https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H) | [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF) | [NUNCA MUDA?](https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2) | 1:21 |
 | 90 | [MONTAGEM RELACIONISTA JUDICIAL RKT \- Super Slowed](https://open.spotify.com/track/3MPNlK986yp4QOFBChLeEJ) | [DJ Raulipues](https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG), [DJ SILVER ZN](https://open.spotify.com/artist/5Tw17pvNrZXqQdR9mS2iwf), [DJ MZK 07](https://open.spotify.com/artist/1gmTz8LJrWE1de6mXsmOnT) | [MONTAGEM RELACIONISTA JUDICIAL RKT](https://open.spotify.com/album/3LU0DRjeMAUlGV4vGEyCdS) | 1:11 |
-| 91 | [Turu R9 \- Slowed](https://open.spotify.com/track/4aMdNP3vuboq7t8BPZ4rE1) | [DJ Ikeraus](https://open.spotify.com/artist/21zPGluD0MD68ctSgkuMXi), [MC FERNANDINHO FN](https://open.spotify.com/artist/5lfW7OqzTLDhvIcHFpxFDB), [MC BN](https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe) | [Turu R9](https://open.spotify.com/album/7cNqBJdXx8dgoXegihUPVN) | 1:18 |
+| 91 | [Turu R9 \- Slowed](https://open.spotify.com/track/4aMdNP3vuboq7t8BPZ4rE1) | [DJ Ikeraus](https://open.spotify.com/artist/21zPGluD0MD68ctSgkuMXi), [MC FERNANDINHO FN](https://open.spotify.com/artist/5lfW7OqzTLDhvIcHFpxFDB), [MC BN](https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe), [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g) | [Turu R9](https://open.spotify.com/album/7cNqBJdXx8dgoXegihUPVN) | 1:18 |
 | 92 | [X\-TALI](https://open.spotify.com/track/6yIkBXij6NSjmRGRpQupqO) | [MXCCREE](https://open.spotify.com/artist/7qIgmxSjoXEeifSVDh8nIt), [DJ GL3CHEKY](https://open.spotify.com/artist/1dX1zejt24Ojiu0lX4T1ZM), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX) | [X\-TALI](https://open.spotify.com/album/6dNugoBYWvUDQDtLurImhw) | 1:12 |
 | 93 | [VISION](https://open.spotify.com/track/4gkFITdBI8imDCSrukDT6p) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC), [HXVSAGE](https://open.spotify.com/artist/6iokCqd4ghi6IqTEJKT12q), [Duduzinho](https://open.spotify.com/artist/5lneW4gwuALhTWZSDdz1rY) | [UDISTRUCT](https://open.spotify.com/album/50i96D7O8CCFwS0VAiuC5o) | 1:49 |
 | 94 | [FUNK INFERNAL](https://open.spotify.com/track/56BZSVROHDzuiYM8C2Zv3y) | [DYGO](https://open.spotify.com/artist/6ZhleMHIGIpjkBHrQDl4G7), [Mxng0](https://open.spotify.com/artist/1KoTNs0Ev2KGs7AF5lWlx3) | [FUNK INFERNAL](https://open.spotify.com/album/3Iw0jAPzwgmuqSIWQa9i8W) | 1:30 |

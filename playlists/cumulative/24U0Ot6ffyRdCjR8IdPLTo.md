@@ -2,7 +2,7 @@
 
 ### [Pop Focus \| Pop Music for ADHD, Studying, Stress, and Anxiety](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
 
-> Get in the zone with this fresh mix of chill music to study to \| anti anxiety and stress music
+> 🎧 Study Pop Focus 🧠\. Enhance concentration &amp; beat anxiety with the best chill Pop, perfect for ADHD, studying &amp; deep work\. Featuring artists like Olivia Rodrigo, Billie Eilish, Conan Gray &amp; rising indie pop gems\. Dive into calm, academic focus\. Updated weekly! Like &amp; Save for peak performance.
 
 401 songs - 21 hr 59 min
 

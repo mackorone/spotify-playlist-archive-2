@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "It's all about the song \ud83c\udf3c\ncover: Alyssa Grace",
+  "description": "It's all about the song \ud83c\udf37\ncover: Kingfishr",
   "name": "Common Thread",
   "tracks": [
     {
@@ -886,6 +886,24 @@
     {
       "album": {
         "name": "Avalanche",
+        "url": "https://open.spotify.com/album/2o38T5smDfQ80fINv26kSS"
+      },
+      "artists": [
+        {
+          "name": "Alex Amor",
+          "url": "https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229270,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/3IngAWFKAXX5VGIGPWcVJa"
+    },
+    {
+      "album": {
+        "name": "Avalanche",
         "url": "https://open.spotify.com/album/1UGJkfsqde4wVIEScLVBZe"
       },
       "artists": [
@@ -1743,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "Bridge Over The Tears I\u2019ve Cried",
+        "url": "https://open.spotify.com/album/29o4FuVRTIYGF5QnjY7740"
+      },
+      "artists": [
+        {
+          "name": "James Emmanuel",
+          "url": "https://open.spotify.com/artist/1V4RGSGobXXjpikiHlO2ex"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177306,
+      "name": "Bridge Over The Tears I've Cried",
+      "url": "https://open.spotify.com/track/6vEU6pQh7GbdKhaJc3KHX0"
+    },
+    {
+      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/6HLBwOi2bT7e0Yoc2Kvs83"
       },
@@ -2104,7 +2140,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 201154,
       "name": "Cathedral Walls",
       "url": "https://open.spotify.com/track/7buEnaMzbYwlCNB2BnauAl"
@@ -2183,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Cherry Stains & Dumb Flings",
+        "url": "https://open.spotify.com/album/4dKrgqI0puBWF5zPSRvyuk"
+      },
+      "artists": [
+        {
+          "name": "Maya Lane",
+          "url": "https://open.spotify.com/artist/0lJErEVo2bXW4P2nsOmf25"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254750,
+      "name": "Cherry Stains & Dumb Flings",
+      "url": "https://open.spotify.com/track/4mtGF9xKLLnkrSPoU9wVoJ"
+    },
+    {
+      "album": {
         "name": "Starflower",
         "url": "https://open.spotify.com/album/0q1bZDVdjplQau86UJRMCa"
       },
@@ -2248,7 +2302,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 190842,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
@@ -3321,6 +3375,24 @@
     },
     {
       "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/0Mkp9SwKBxJ65jmpnfG2xa"
+      },
+      "artists": [
+        {
+          "name": "Mathilda Homer",
+          "url": "https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164350,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/2UP3h2s5LYVLMMUwjKzVdg"
+    },
+    {
+      "album": {
         "name": "Shhugar",
         "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
       },
@@ -3448,6 +3520,24 @@
       "duration_ms": 194466,
       "name": "Don't Wanna Take It Slow",
       "url": "https://open.spotify.com/track/3p8oeg4lwleZwm0TygNK4A"
+    },
+    {
+      "album": {
+        "name": "Don't You Know",
+        "url": "https://open.spotify.com/album/6N990tXerv286f4znveHjL"
+      },
+      "artists": [
+        {
+          "name": "LAUV",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146064,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/1mgiMU5E6hXziopHOjIZn4"
     },
     {
       "album": {
@@ -4140,7 +4230,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 198760,
       "name": "favourite friend",
       "url": "https://open.spotify.com/track/3c0gvWCpdkBQCbCaHK8lgY"
@@ -4594,7 +4684,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 206733,
       "name": "Follow",
       "url": "https://open.spotify.com/track/0j1V65IKWSgTyQZdBMrd5U"
@@ -4732,6 +4822,24 @@
       "duration_ms": 160147,
       "name": "FOREVER AGAIN",
       "url": "https://open.spotify.com/track/3CVQG2E6CL91pTeggbJOSj"
+    },
+    {
+      "album": {
+        "name": "Forget About Dying",
+        "url": "https://open.spotify.com/album/3AAoNXTUzdYYLJxUYNwu0z"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246463,
+      "name": "Forget About Dying",
+      "url": "https://open.spotify.com/track/1lvYKAbExBkmc79NQtzTHh"
     },
     {
       "album": {
@@ -6304,7 +6412,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 228836,
       "name": "I Can't Love You Anymore",
       "url": "https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn"
@@ -6434,7 +6542,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 159210,
       "name": "I Know I Know",
       "url": "https://open.spotify.com/track/1Ot6QuJzCY66UdLK1ci3sc"
@@ -6982,7 +7090,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 185467,
       "name": "If You Know",
       "url": "https://open.spotify.com/track/7nki95n3XOj7QvzdiHBrNs"
@@ -7062,6 +7170,24 @@
       "duration_ms": 222782,
       "name": "In Other Words",
       "url": "https://open.spotify.com/track/03qAI5HA2LS4Bm8SGpTp1X"
+    },
+    {
+      "album": {
+        "name": "In The Name Of Healing (from the Prime Original Movie \u2018Your Fault: London\u2019)",
+        "url": "https://open.spotify.com/album/1T0yBHa2eKYVtAXMu7UxCn"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157076,
+      "name": "In The Name Of Healing - from the Prime Original Movie \u2018Your Fault: London\u2019",
+      "url": "https://open.spotify.com/track/6nnt4dluOfRFlrZawFHTbc"
     },
     {
       "album": {
@@ -7608,7 +7734,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 161075,
       "name": "Kingdom of Fear",
       "url": "https://open.spotify.com/track/5NIrBJ64wXc8eZB317cmqZ"
@@ -8116,7 +8242,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 231117,
       "name": "Lonelier In Heaven",
       "url": "https://open.spotify.com/track/5qCElyP7yuoJNqgWi8CiyL"
@@ -8332,7 +8458,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 210617,
       "name": "Love Free",
       "url": "https://open.spotify.com/track/01jbsYrGogrTEsaUvv77db"
@@ -8750,7 +8876,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 259751,
       "name": "Mary",
       "url": "https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3"
@@ -9136,6 +9262,24 @@
       "duration_ms": 200888,
       "name": "My Anchor",
       "url": "https://open.spotify.com/track/6jKsniHayxHB66j0m7v2Se"
+    },
+    {
+      "album": {
+        "name": "My Baby Loves Me for Free (demo)",
+        "url": "https://open.spotify.com/album/7pn4oUMpRiHNvVPc9b6cBd"
+      },
+      "artists": [
+        {
+          "name": "Tadhg Nolan",
+          "url": "https://open.spotify.com/artist/4yUZ8bF7Zu3tkUoUmLiI6B"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121544,
+      "name": "My Baby Loves Me For Free - demo",
+      "url": "https://open.spotify.com/track/2QNhVsgY7qQ2yEu4lkhgAv"
     },
     {
       "album": {
@@ -10272,7 +10416,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 256353,
       "name": "Overdrawn",
       "url": "https://open.spotify.com/track/2biAEf8gmyqFzxCq9V6pVg"
@@ -11113,6 +11257,24 @@
     },
     {
       "album": {
+        "name": "Rituals",
+        "url": "https://open.spotify.com/album/0H3fYvMsYfLI6z3vy8sP7g"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149680,
+      "name": "Rituals",
+      "url": "https://open.spotify.com/track/5DgyQ6b7OnqD7LqN6zEy7a"
+    },
+    {
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/2k8wId2DpvL2Obm1Y6qELs"
       },
@@ -11428,6 +11590,24 @@
       "duration_ms": 211926,
       "name": "SAME TIME",
       "url": "https://open.spotify.com/track/76xS3SRc9Zv5ntHoabMN8R"
+    },
+    {
+      "album": {
+        "name": "Sarah Waiting in the Car",
+        "url": "https://open.spotify.com/album/5T5O6msqf9kRXEjIWcWPjA"
+      },
+      "artists": [
+        {
+          "name": "Elanor Moss",
+          "url": "https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185848,
+      "name": "Sarah Waiting in the Car",
+      "url": "https://open.spotify.com/track/7Ag75m1s3ktxU6QBGABu3S"
     },
     {
       "album": {
@@ -12199,6 +12379,24 @@
     },
     {
       "album": {
+        "name": "So Long Baby",
+        "url": "https://open.spotify.com/album/5MOUosVXRt2KvTmpy091xD"
+      },
+      "artists": [
+        {
+          "name": "Dirty Blond",
+          "url": "https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203706,
+      "name": "So Long Baby",
+      "url": "https://open.spotify.com/track/2gvRGKDwoBys2tuLpSc2ij"
+    },
+    {
+      "album": {
         "name": "Falling Into Place",
         "url": "https://open.spotify.com/album/19EeD9KxRuWzZaIka0q9af"
       },
@@ -12740,7 +12938,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 187894,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4INsj2eftBckdIxtp29tpN"
@@ -12963,6 +13161,24 @@
     },
     {
       "album": {
+        "name": "Sunday Afternoon",
+        "url": "https://open.spotify.com/album/1dQeY1B5fEGOpY8f6heGWY"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213375,
+      "name": "Sunday Afternoon",
+      "url": "https://open.spotify.com/track/5xYzP7BZkXSJfVcduPIbqq"
+    },
+    {
+      "album": {
         "name": "Falling Into Place",
         "url": "https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ"
       },
@@ -13148,6 +13364,24 @@
       "duration_ms": 252000,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/6iXV73rmEjpgUdlVOdB8OE"
+    },
+    {
+      "album": {
+        "name": "Swimming, Crying",
+        "url": "https://open.spotify.com/album/7dNgXVt7jCd5QchLE701GX"
+      },
+      "artists": [
+        {
+          "name": "Gretta Ray",
+          "url": "https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273930,
+      "name": "Swimming, Crying",
+      "url": "https://open.spotify.com/track/2UGflaT34H95OkhndWi9GN"
     },
     {
       "album": {
@@ -13874,7 +14108,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 179294,
       "name": "The Right Thing",
       "url": "https://open.spotify.com/track/1ebEkMXsAvHf1q1vCG770o"
@@ -14090,7 +14324,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 184109,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/7gVVb2Tpoc4S9fkfm4j5if"
@@ -14809,6 +15043,24 @@
     },
     {
       "album": {
+        "name": "up in flames",
+        "url": "https://open.spotify.com/album/1KWt6kmeRFqWKdIejOuUFr"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153034,
+      "name": "up in flames",
+      "url": "https://open.spotify.com/track/3b0rwuNBl2V9ziCvdRGi1j"
+    },
+    {
+      "album": {
         "name": "Space Hurts",
         "url": "https://open.spotify.com/album/2Ui10TWQIabivg41HaHP41"
       },
@@ -15218,7 +15470,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 200000,
       "name": "We Were Only Young",
       "url": "https://open.spotify.com/track/6SzPfJJegDfsltDble6ZSG"
@@ -15388,6 +15640,24 @@
       "duration_ms": 193393,
       "name": "When I Close My Eyes",
       "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"
+    },
+    {
+      "album": {
+        "name": "When I Get Drunk (I Want You Boy)",
+        "url": "https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205720,
+      "name": "When I Get Drunk (I Want You Boy)",
+      "url": "https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY"
     },
     {
       "album": {
@@ -15803,6 +16073,24 @@
     },
     {
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu"
+    },
+    {
+      "album": {
         "name": "Wolf River",
         "url": "https://open.spotify.com/album/134mZBbvgtMVVdxG1BItmx"
       },
@@ -15976,7 +16264,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 177683,
       "name": "Worst Mistake",
       "url": "https://open.spotify.com/track/3xaQnCDHjzz7wyc5Ng6nru"
@@ -16092,6 +16380,24 @@
       "duration_ms": 177000,
       "name": "You Don't Care About Me",
       "url": "https://open.spotify.com/track/7e4EoaW3Dz8fW6EsSwdXye"
+    },
+    {
+      "album": {
+        "name": "Master of Goodbye",
+        "url": "https://open.spotify.com/album/2JnSlEZRsF7IdEsdnoajIi"
+      },
+      "artists": [
+        {
+          "name": "Isaac Levi",
+          "url": "https://open.spotify.com/artist/4g75VELuqAmS29Xhlu7ZFC"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176117,
+      "name": "You Don\u2019t Love Me",
+      "url": "https://open.spotify.com/track/3t6oBroGQU9T74ul4ZcB1a"
     },
     {
       "album": {

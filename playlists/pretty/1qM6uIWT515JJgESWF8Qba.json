@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 469,
+  "num_followers": 471,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAB0DRyYwodevaDBVZFDXtol+ApA+De",
+  "snapshot_id": "AAAB0g5zA2zt/6KBqSw24vlMrQc/VYK3",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1071,6 +1071,38 @@
       "duration_ms": 196356,
       "name": "Finding You",
       "url": "https://open.spotify.com/track/5jCpLxpsNUM2QU7sa5FuLO"
+    },
+    {
+      "added_at": "2026-06-11 14:22:18",
+      "album": {
+        "name": "Pocket Friend",
+        "url": "https://open.spotify.com/album/4eJU1HUt931tQ3dlte1ENP"
+      },
+      "artists": [
+        {
+          "name": "The Wild Life",
+          "url": "https://open.spotify.com/artist/6v89r44ZBn2egA98VSHrTD"
+        }
+      ],
+      "duration_ms": 201270,
+      "name": "Pocket Friend",
+      "url": "https://open.spotify.com/track/1o3vJA4CscYdUMNALRorHX"
+    },
+    {
+      "added_at": "2026-06-11 14:32:49",
+      "album": {
+        "name": "Fixed Up (Remastered)",
+        "url": "https://open.spotify.com/album/2Wwy5fnDfPGoXhkKmBcVFM"
+      },
+      "artists": [
+        {
+          "name": "The Fuzes",
+          "url": "https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Hey Woman",
+      "url": "https://open.spotify.com/track/6wdZHEXuu5JWMyydPlMeqt"
     }
   ],
   "unique_name": "Local Rock Bands",

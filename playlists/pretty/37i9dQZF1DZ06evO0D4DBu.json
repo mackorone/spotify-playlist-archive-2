@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211145,
+  "num_followers": 211140,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAACAKP/V7a0qA7LxAhUolz/Z",
+  "snapshot_id": "aiipAAAAAACJMewUmZF3ZydMMRKoOiaf",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
-        "url": "https://open.spotify.com/album/25KYUrojMfQ12t7IRan2Vx"
+        "name": "Acid Rap (10th Anniversary - Complete Edition)",
+        "url": "https://open.spotify.com/album/3rYMmOfNQlWXYrbd8yXqJ1"
       },
       "artists": [
-        {
-          "name": "Francis and the Lights",
-          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
-        },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 195356,
-      "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
-      "url": "https://open.spotify.com/track/0VaIsQoIQY10uxBrOyZ5cQ"
+      "duration_ms": 215062,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ"
     },
     {
       "added_at": null,
@@ -411,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acid Rap (10th Anniversary - Complete Edition)",
-        "url": "https://open.spotify.com/album/3rYMmOfNQlWXYrbd8yXqJ1"
+        "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
+        "url": "https://open.spotify.com/album/25KYUrojMfQ12t7IRan2Vx"
       },
       "artists": [
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 215062,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ"
+      "duration_ms": 195356,
+      "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
+      "url": "https://open.spotify.com/track/0VaIsQoIQY10uxBrOyZ5cQ"
     },
     {
       "added_at": null,

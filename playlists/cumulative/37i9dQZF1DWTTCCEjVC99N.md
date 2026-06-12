@@ -4,7 +4,7 @@
 
 > The biggest Arabic songs in the 2000's\. Cover: Nancy Ajram
 
-186 songs - 14 hr 33 min
+186 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Oum O2af](https://open.spotify.com/track/02hyp5EqS8Wu6F3gbAGYLM) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Oum O2af](https://open.spotify.com/album/7cyeJu1PlHROs9F0au7XCR) | 3:26 | 2021-12-06 | 2024-04-19 |
 | [Qusad Einy](https://open.spotify.com/track/4k9cMYGwCfSNa0wFCN0uDo) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Lealy Nahary](https://open.spotify.com/album/09ZgqimPMu3VdlvZn5WpZg) | 4:24 | 2023-09-15 | 2025-07-01 |
 | [Romeo \- \(Remix\)](https://open.spotify.com/track/5t8zynpImoaWW7lWsbjL23) | [Essam Karika](https://open.spotify.com/artist/0c8w2lYzFdZkCOVtJj7QdW) | [El Wad El Afreet](https://open.spotify.com/album/67t6yJFj6PZ1RDMiRIlOWC) | 3:10 | 2021-12-06 |  |
-| [Sabry Aalil](https://open.spotify.com/track/7qLXBcYW78is9LygQBziAU) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Garh Tany](https://open.spotify.com/album/7iykGeMdxOdYtNRtYCNaMA) | 4:49 | 2021-12-06 |  |
+| [Sabry Aalil](https://open.spotify.com/track/7qLXBcYW78is9LygQBziAU) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Garh Tany](https://open.spotify.com/album/7iykGeMdxOdYtNRtYCNaMA) | 4:34 | 2021-12-06 |  |
 | [Sahran](https://open.spotify.com/track/0HZC3QV8Q9gyqgsFBsCTVQ) | [Ahmed El Sherif](https://open.spotify.com/artist/11rEfO1VJ1WYgXEeXCNLfM) | [Bein Enass](https://open.spotify.com/album/5vLNsP0MNjlN6WZWI3CmbR) | 3:50 | 2021-12-06 |  |
 | [Sahran](https://open.spotify.com/track/00DbktJaraSOSOFwcuy0PT) | [Ahmed El Sherif](https://open.spotify.com/artist/11rEfO1VJ1WYgXEeXCNLfM) | [Moscow Orient Beat](https://open.spotify.com/album/1DZZvFiMPhdF0vM797fRu8) | 3:50 | 2021-12-06 | 2022-11-13 |
 | [Sahran](https://open.spotify.com/track/5uAJgzYTVgK9hjub859HYo) | [Ahmed El Sherif](https://open.spotify.com/artist/11rEfO1VJ1WYgXEeXCNLfM) | [Bein Enass](https://open.spotify.com/album/0Yg9xrcC64uwzvZWJfdO35) | 3:50 | 2021-12-06 | 2024-04-19 |

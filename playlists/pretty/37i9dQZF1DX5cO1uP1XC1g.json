@@ -1,12 +1,12 @@
 {
   "description": "The Hottest Arabic Music.\nCover: Sherine",
-  "num_followers": 589231,
+  "num_followers": 589271,
   "original_name": "Yalla ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACWoyajIbzLJ0RjMp4YumA/ELAJV",
+  "snapshot_id": "AAAAAGmdXjmXVLGmOiaecM6qpiH90kWI",
   "tracks": [
     {
       "added_at": "2026-05-23 04:20:21",
@@ -161,6 +161,22 @@
       "url": "https://open.spotify.com/track/3Kp763XugDGvPyVjRtWF6L"
     },
     {
+      "added_at": "2026-06-11 16:35:42",
+      "album": {
+        "name": "Chou Meshta2li",
+        "url": "https://open.spotify.com/album/6hMW6x28JG2O1k3UVBmpbN"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "duration_ms": 171627,
+      "name": "Chou Meshta2li",
+      "url": "https://open.spotify.com/track/489M9YlC0nOZeWY7ljkXfX"
+    },
+    {
       "added_at": "2026-05-23 04:20:21",
       "album": {
         "name": "Kazdoura",
@@ -179,22 +195,6 @@
       "duration_ms": 201702,
       "name": "Kazdoura",
       "url": "https://open.spotify.com/track/0Br77SqBisRvGY6yLXzpxz"
-    },
-    {
-      "added_at": "2026-05-23 04:20:21",
-      "album": {
-        "name": "Chou Nater (\u2018\u2018Bel Haram\u2019\u2019 Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1Ozz6B4Db11A8jdF2hVW9E"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 195773,
-      "name": "Chou Nater - \u2018\u2018Bel Haram\u2019\u2019 Series Soundtrack",
-      "url": "https://open.spotify.com/track/5edPMA7qQWgeqR5M4KqaUz"
     },
     {
       "added_at": "2026-05-23 04:20:21",
@@ -331,18 +331,18 @@
     {
       "added_at": "2026-05-23 04:20:21",
       "album": {
-        "name": "BOOMX3",
-        "url": "https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F"
+        "name": "Chou Nater (\u2018\u2018Bel Haram\u2019\u2019 Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1Ozz6B4Db11A8jdF2hVW9E"
       },
       "artists": [
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
         }
       ],
-      "duration_ms": 176000,
-      "name": "BOOMX3",
-      "url": "https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse"
+      "duration_ms": 195773,
+      "name": "Chou Nater - \u2018\u2018Bel Haram\u2019\u2019 Series Soundtrack",
+      "url": "https://open.spotify.com/track/5edPMA7qQWgeqR5M4KqaUz"
     },
     {
       "added_at": "2026-05-23 04:20:21",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-05-23 04:20:21",
       "album": {
-        "name": "\u062e\u0644\u064a\u0646\u064a \u0623\u0634\u0648\u0641\u0643",
-        "url": "https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc"
-      },
-      "artists": [
-        {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
-        }
-      ],
-      "duration_ms": 316250,
-      "name": "\u0628\u064a\u0643\u0644\u0645\u0648\u0646\u064a",
-      "url": "https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T"
-    },
-    {
-      "added_at": "2026-05-23 04:20:21",
-      "album": {
         "name": "Lammah",
         "url": "https://open.spotify.com/album/6Slm5v59bwaVCCVVIiCrQM"
       },
@@ -895,22 +879,6 @@
       "duration_ms": 210714,
       "name": "\u0647\u064a\u062c\u064a\u0644\u064a \u0645\u0648\u062c\u0648\u0639",
       "url": "https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn"
-    },
-    {
-      "added_at": "2026-05-23 04:20:21",
-      "album": {
-        "name": "Esmek Eh",
-        "url": "https://open.spotify.com/album/5BeEQxslkgF497LOzD8fBU"
-      },
-      "artists": [
-        {
-          "name": "Amir Eid",
-          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
-        }
-      ],
-      "duration_ms": 190328,
-      "name": "Esmek Eh",
-      "url": "https://open.spotify.com/track/3bG2kL6F0M71u4j9Du8lSC"
     }
   ],
   "unique_name": "Yalla ",

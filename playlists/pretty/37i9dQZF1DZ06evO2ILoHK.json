@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 12962,
+  "num_followers": 12969,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAADj+QkbHblpNVO8y9A+K5YB",
+  "snapshot_id": "aiipAAAAAACfvDYB2sAUZ8R0Z5sU2tUe",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 201475,
-      "name": "Time Waster",
-      "url": "https://open.spotify.com/track/6KkVR92mAwsA7d011KEFoi"
+      "duration_ms": 204421,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/5AmoC1x1Tlj2kI5LXHysif"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 204421,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/5AmoC1x1Tlj2kI5LXHysif"
+      "duration_ms": 201475,
+      "name": "Time Waster",
+      "url": "https://open.spotify.com/track/6KkVR92mAwsA7d011KEFoi"
     },
     {
       "added_at": null,

@@ -9645,6 +9645,36 @@
     },
     {
       "album": {
+        "name": "Tujhpe Fida (From \"Raja The Raja\")",
+        "url": "https://open.spotify.com/album/1bOzkpMubc7fNqkBtOfasQ"
+      },
+      "artists": [
+        {
+          "name": "Mark K Robin",
+          "url": "https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Shaktisree Gopalan",
+          "url": "https://open.spotify.com/artist/0t4eFzytRmqMTKts5o479S"
+        },
+        {
+          "name": "Manoj Juloori",
+          "url": "https://open.spotify.com/artist/4RHf5dGYBz9vxjObYVsVJv"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208148,
+      "name": "Tujhpe Fida (From \"Raja The Raja\")",
+      "url": "https://open.spotify.com/track/617NE1TzQtmY4BBrYidAoR"
+    },
+    {
+      "album": {
         "name": "Ullaasam (From \"Saripodhaa Sanivaaram\")",
         "url": "https://open.spotify.com/album/6Pofs9s7Bm0UVK94nenVJs"
       },
@@ -10006,7 +10036,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 289999,
       "name": "Vinnavugaa",
       "url": "https://open.spotify.com/track/6WMvmjn8unOOKS6t4MdRlz"

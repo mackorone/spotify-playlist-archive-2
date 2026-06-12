@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Victor Wembanyama
+> Fourth quarter, two minutes left .\. get locked in\. Cover: OG Anunoby and The New York Knicks
 
 916 songs - 1 day 22 hr 37 min
 

@@ -4,12 +4,12 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-167 songs - 9 hr 11 min
+169 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 AM](https://open.spotify.com/track/3IKhzC08BuwN0YVpMdZFHe) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ) | [4 AM](https://open.spotify.com/album/5O7F4MV99gG4bJvuPKCCbT) | 2:21 | 2024-09-26 | 2025-08-30 |
-| [90 Cent](https://open.spotify.com/track/3rnNHMpqStQ9YBYyaYS0uQ) | [MAALI](https://open.spotify.com/artist/1tWEsCzc6lDTYH6oaTAHh0) | [90 Cent](https://open.spotify.com/album/6fJR80HOK80mvljPwXjGgW) | 2:48 | 2025-08-21 |  |
+| [90 Cent](https://open.spotify.com/track/3rnNHMpqStQ9YBYyaYS0uQ) | [MAALI](https://open.spotify.com/artist/1tWEsCzc6lDTYH6oaTAHh0) | [90 Cent](https://open.spotify.com/album/6fJR80HOK80mvljPwXjGgW) | 2:48 | 2025-08-21 | 2026-06-12 |
 | [A Little Thing Called Love](https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [A Little Thing Called Love](https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q) | 2:50 | 2023-06-30 | 2025-03-07 |
 | [Abiria 57](https://open.spotify.com/track/1ADsOgfWWPQ4DWdGNGaEgC) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Abiria 57](https://open.spotify.com/album/3YEf58ED9yoANNvtI31pEn) | 3:16 | 2024-06-13 | 2025-08-30 |
 | [African Girl](https://open.spotify.com/track/6VZGwceCEs3wdSKcA5YUWU) | [Naomi Wachira](https://open.spotify.com/artist/6UzW9COOI8GxiDEmlStQEH) | [African Girl](https://open.spotify.com/album/6xk50pJfC0JtA7YsWpqE1x) | 4:50 | 2023-06-30 | 2024-04-19 |
@@ -74,6 +74,7 @@
 | [I DON'T NEED YOU, SO YOU COULD TELL ME IF I'M GUD](https://open.spotify.com/track/4uCsJlsvglqasORJnmmLng) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [I DON'T NEED YOU, SO YOU COULD TELL ME IF I'M GUD](https://open.spotify.com/album/2SsTE9YTu4w18gmMG7TH8s) | 3:37 | 2025-10-30 | 2025-12-12 |
 | [I.L.Y.T](https://open.spotify.com/track/3yNHWokhFDXxUVWGzDQMkr) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [I.L.Y.T](https://open.spotify.com/album/1DOi6JPaZLKcdTMAkpxkcq) | 4:01 | 2024-08-02 | 2026-04-24 |
 | [It's You](https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [It's You](https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM) | 2:34 | 2024-01-26 | 2024-12-06 |
+| [Just a Broken Man](https://open.spotify.com/track/3GX1b6kvDibWj508w4V5bn) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Attara](https://open.spotify.com/artist/7q9Oam3CwOj6bP7JfSPApN) | [Just a Broken Man](https://open.spotify.com/album/422bEccKOhT1YE10lLThrF) | 3:35 | 2026-06-12 |  |
 | [Just Another She \- Remix](https://open.spotify.com/track/6UyYrCjFdisFwd0ryUr24g) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [Monique Burger](https://open.spotify.com/artist/3GOf6SKBeQM7EQvRtSrBDQ), [Thewrathofsponge](https://open.spotify.com/artist/7Hoj9MRu3nFiYfbWy3Reot) | [Just Another She \(Remix\)](https://open.spotify.com/album/7Bgei9RjJqWYyOr1iK3Ow1) | 3:21 | 2023-09-01 | 2024-04-27 |
 | [Kati Ya Wote](https://open.spotify.com/track/7xNud1xrc6CW1M0mWZdPXY) | [Men of Soul](https://open.spotify.com/artist/5mPJHiCJYwEVxDcuEXwK5n) | [Footprints](https://open.spotify.com/album/1KJ9WZ1twqmPoV5mvbW3is) | 4:33 | 2023-06-30 | 2023-10-24 |
 | [Khartoum](https://open.spotify.com/track/1Kuz7MiQz9rUPVt5ggCMJ7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Khartoum](https://open.spotify.com/album/1YOKyxfaTIT5rFF8uooQS1) | 3:31 | 2024-03-15 | 2025-03-07 |
@@ -96,7 +97,7 @@
 | [Mwanga We Wajua](https://open.spotify.com/track/7K6kgMnTPLqR8p04M6dG8H) | [Hope Hajir](https://open.spotify.com/artist/1pK84UqJKAOW6uOWmpR5cN) | [Mwanga We Wajua](https://open.spotify.com/album/34iOJa2njy5Ym74bpxLeVl) | 1:23 | 2023-06-30 | 2024-04-27 |
 | [My Light](https://open.spotify.com/track/0ODhQkKwD6Sg3nIFK7GD7R) | [Webi](https://open.spotify.com/artist/4LaQmo86osci1uCq11mcIH) | [Let The Light In EP](https://open.spotify.com/album/3KcggRmGrhbU47A71dJ4HH) | 6:01 | 2023-06-30 | 2023-10-24 |
 | [Nakungoja](https://open.spotify.com/track/2eXcfadwFQqOuxsBV3YIvQ) | [Iminza](https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2) | [Nakungoja](https://open.spotify.com/album/5B3APlvJ1MTbaLrNFFsdqE) | 2:28 | 2025-08-21 |  |
-| [Narcissus](https://open.spotify.com/track/3VOiBodB2ZqAhaA1kbtmuM) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Narcissus](https://open.spotify.com/album/5rmgacCroc3SaJKLI6Gvbc) | 2:11 | 2025-06-13 |  |
+| [Narcissus](https://open.spotify.com/track/3VOiBodB2ZqAhaA1kbtmuM) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Narcissus](https://open.spotify.com/album/5rmgacCroc3SaJKLI6Gvbc) | 2:11 | 2025-06-13 | 2026-06-12 |
 | [Next to You](https://open.spotify.com/track/6jzTlL6HZzakz2kTUU38WG) | [Macua](https://open.spotify.com/artist/41ODikbo3Wh2SWsZORQJIh), [Attara](https://open.spotify.com/artist/7q9Oam3CwOj6bP7JfSPApN) | [Next to You](https://open.spotify.com/album/2nRJDMEAicvIZv4NQp5z1E) | 2:43 | 2026-02-05 |  |
 | [Ni Bless](https://open.spotify.com/track/4HLmDtZB8X4jBBPr1AcJCQ) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Ni Bless](https://open.spotify.com/album/4Dt2N6dyKmLmLqWRS5kYs3) | 3:33 | 2026-04-02 |  |
 | [Njia Moja](https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL) | [Rafiiki](https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn) | [Njia Moja](https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp) | 3:32 | 2023-06-30 | 2024-05-04 |
@@ -128,6 +129,7 @@
 | [Sauti Zetu](https://open.spotify.com/track/4LSlYUvb6C815POmrSwLT8) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Indie Deep](https://open.spotify.com/album/2TfG4mWoaE0xhsM7mYZMaI) | 2:21 | 2026-03-19 |  |
 | [SAYSHEDO](https://open.spotify.com/track/0Wh4nSocGrb1BZJiDvQlNq) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [SAYSHEDO](https://open.spotify.com/album/6lR5MnvtmNMazttWd0OBzW) | 1:54 | 2024-10-03 | 2025-08-22 |
 | [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 | 2023-06-30 | 2023-12-09 |
+| [Send Me](https://open.spotify.com/track/0vPgSGYunBbg7sgCrPXb1n) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP), [Sidi](https://open.spotify.com/artist/1z1ghaqp3itYXYwBpCcXr1) | [Send Me](https://open.spotify.com/album/3qauMtgyeqRsJHXKjj0i6Y) | 4:26 | 2026-06-12 |  |
 | [She](https://open.spotify.com/track/6aNR1tbrRtamWleMigQs4J) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [She](https://open.spotify.com/album/2s3pBPqxmcbmy1Zct8Ezu5) | 3:38 | 2023-06-30 | 2024-08-24 |
 | [Shelter](https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Shelter](https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW) | 3:06 | 2024-02-22 | 2025-08-22 |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2023-06-30 | 2024-10-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,514 songs - 10 day 1 hr 23 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,515 songs - 10 day 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4522,5 +4522,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4512 | [Hands of God](https://open.spotify.com/track/3ker5A7IVbjfi5gtjnIE0m) | [Destroy the Moon](https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt) | [Hands of God](https://open.spotify.com/album/0MmtQzwcyyyfRl0U6Ok6cN) | 5:35 |
 | 4513 | [Invisible](https://open.spotify.com/track/0aP3LYmLNtqVo2snExQMlQ) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [Invisible](https://open.spotify.com/album/0hMHlldCdHj7tFHvGNC5yt) | 6:37 |
 | 4514 | [Hora Extra](https://open.spotify.com/track/4053HFfOXn9Do320YTig0A) | [CLT S/IA](https://open.spotify.com/artist/3tDyxGelWbCsYiOa6ygWGv), [Lia Liberty](https://open.spotify.com/artist/143AjJas8i1bJCHcwcI1Sm) | [CLT \- Correndo, Lutando, Tentando](https://open.spotify.com/album/5uBU3B5F3ES12hKCGSkVvW) | 4:14 |
+| 4515 | [Drop It](https://open.spotify.com/track/42PVBtF5l7oduR8hc1MV6u) | [Cobra queen](https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc) | [Drop It](https://open.spotify.com/album/6KPUGArw4CAk5S3iIw0ChK) | 3:33 |
 
-Snapshot ID: `AAAI2zqTlFdX3YIxNJAaqfLv7u7q7bvi`
+Snapshot ID: `AAAI3MHT9Mhq8JFh8/Uy7Py60IPmyoGd`

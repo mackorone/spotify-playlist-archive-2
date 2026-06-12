@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-327 songs - 1 day 20 hr 35 min
+328 songs - 1 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [We Lift You High \- Live](https://open.spotify.com/track/6rm0BbPPEKc9vYvdBIdrS7) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Eunice Ojo](https://open.spotify.com/artist/4NNB6zlRndbf7fkwBix5Un) | [We Lift You High \(Live\)](https://open.spotify.com/album/1Or8OQZyIuEaftRgQAMaaj) | 6:54 | 2024-12-20 | 2025-04-11 |
 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 | 2024-10-11 |  |
 | [We Want More](https://open.spotify.com/track/5N9pjQ7A0Jb37wjAquMCYD) | [Tony Richie](https://open.spotify.com/artist/3rWOkbS2stonIeXCFKZ9wm), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [We Want More](https://open.spotify.com/album/1AiXWLmThkIw2jF9e1RPWd) | 17:03 | 2024-09-06 | 2024-12-20 |
+| [We Worship You](https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [We Worship You](https://open.spotify.com/album/761nroFet61Jlnvs5FAx8c) | 8:17 | 2026-06-12 |  |
 | [What A Beauty To Behold \- Live](https://open.spotify.com/track/6BcRgQXx99DNv6BFEQwmgZ) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO) | [What A Beauty To Behold \(Live\)](https://open.spotify.com/album/5Jpn86ta1C3jne9e3Gy9Kx) | 7:54 | 2025-05-02 | 2025-05-30 |
 | [When We Praise \- Live](https://open.spotify.com/track/0ywYHxQ0Yq7ILuK0bxj9uW) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [When We Praise \(Live\)](https://open.spotify.com/album/2FtpYQeSNgU8BA4MhgvkdZ) | 5:44 | 2024-08-30 | 2024-11-15 |
 | [Who Is Like The Lord \- LIVE](https://open.spotify.com/track/73TY0ezTyS10sBzN61ULS9) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Uwana Etuk](https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3) | [Who Is Like The Lord \(LIVE\)](https://open.spotify.com/album/1BlFPOk2ErZz4GVi9Lbdqe) | 9:49 | 2025-08-22 | 2025-10-10 |

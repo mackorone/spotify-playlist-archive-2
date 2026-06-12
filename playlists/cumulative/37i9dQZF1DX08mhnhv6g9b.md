@@ -2,7 +2,7 @@
 
 ### [This Is BTS](https://open.spotify.com/playlist/37i9dQZF1DX08mhnhv6g9b)
 
-> Check out BTS's <a href="https://open.spotify.com/track/5REQfCD9ZRdEedJI5SWSEa?si=9eJTL\-8PRHOIUiFx4ln41Q&pi=\-1cSpwezSo2dP">'SWIM'</a> music video!
+> What track is BTS's Spotify\-exclusive music video coming out on the 19th? Vote now to guess!
 
 559 songs - 1 day 8 hr 44 min
 

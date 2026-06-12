@@ -1,12 +1,12 @@
 {
   "description": "Today's top country music! Cover: Cameron Whitcomb",
-  "num_followers": 34954,
+  "num_followers": 34953,
   "original_name": "Top Country Hits",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAfh2Mx/KbOPfcBqEzW/Cw+AKfoDpEL",
+  "snapshot_id": "AAAfiDNFD7pNZxazPtTTBqd7i6jnKMTo",
   "tracks": [
     {
       "added_at": "2026-04-01 18:42:42",
@@ -235,6 +235,26 @@
       "duration_ms": 190282,
       "name": "Bet On That",
       "url": "https://open.spotify.com/track/7DOqRPa9Z5jEHRdo3zyLPo"
+    },
+    {
+      "added_at": "2026-06-10 20:19:04",
+      "album": {
+        "name": "Hometown Heroes (feat. Dean Brody)",
+        "url": "https://open.spotify.com/album/7oNjPhQc4OEP93PWPFecsp"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        },
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "duration_ms": 223538,
+      "name": "Hometown Heroes (feat. Dean Brody)",
+      "url": "https://open.spotify.com/track/6p7rRIvBUDsWkJoJpTYMIo"
     },
     {
       "added_at": "2026-05-04 14:04:18",
@@ -1875,26 +1895,6 @@
       "duration_ms": 230680,
       "name": "The Climb",
       "url": "https://open.spotify.com/track/5TFrCaVcHteA1QbGwwIJD6"
-    },
-    {
-      "added_at": "2026-06-10 20:19:04",
-      "album": {
-        "name": "Hometown Heroes (feat. Dean Brody)",
-        "url": "https://open.spotify.com/album/7oNjPhQc4OEP93PWPFecsp"
-      },
-      "artists": [
-        {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
-        },
-        {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
-        }
-      ],
-      "duration_ms": 223538,
-      "name": "Hometown Heroes (feat. Dean Brody)",
-      "url": "https://open.spotify.com/track/6p7rRIvBUDsWkJoJpTYMIo"
     }
   ],
   "unique_name": "Top Country Hits",

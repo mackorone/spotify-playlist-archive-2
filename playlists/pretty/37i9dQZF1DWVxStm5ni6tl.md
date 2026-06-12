@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every month\. Cover: GUS, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,792 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,796 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 39 | [Ask For Help](https://open.spotify.com/track/5Js3bkZ0bu4VC63UdoKOyM) | [Tajiez](https://open.spotify.com/artist/2vMWGURIvqAbuZ6zMBHL0R), [Gaudz](https://open.spotify.com/artist/0xj1LxM0gHYGUc0m9c2rkk), [ay3demi](https://open.spotify.com/artist/7gcq03kJfgHiW2qPTwS6q1) | [TAJI TUESDAYS: Act 5 \(Purple\)](https://open.spotify.com/album/6kvs9SOhaCFfuIoQ6LTdCf) | 3:32 |
 | 40 | [Cake & Tea with your DEMONS](https://open.spotify.com/track/5WJzRhMcEpl6NpgpTbdMB8) | [Laura Roy](https://open.spotify.com/artist/5QPrSgtPwMPMdDNWQyQDXR) | [Late Bloomer Season](https://open.spotify.com/album/76JBiQbCSHoy436xf2UDjo) | 3:40 |
 
-Snapshot ID: `AAAAAEpubka/61euzvdVhRXYZcXu8zBN`
+Snapshot ID: `AAAAAHdG4Lqru5uAqaX04JsFpZ+6vTOK`

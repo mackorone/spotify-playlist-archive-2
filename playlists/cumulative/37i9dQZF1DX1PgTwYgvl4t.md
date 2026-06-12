@@ -4,10 +4,11 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI?si=0pFwlycWSQ2EW\-aA6W\-b4A>Tkeyz</a>
 
-396 songs - 2 day 1 hr 24 min
+399 songs - 2 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Aanu Ni](https://open.spotify.com/track/6Xlk1BRpm8popHswG85vsw) | [BisiManuel](https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO) | [Aanu Ni](https://open.spotify.com/album/1bbzsjqKvhvYaJCBiskpET) | 3:42 | 2026-06-12 |  |
 | [Able God](https://open.spotify.com/track/4CkDjy3zvHHDNm51joKmst) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Able God](https://open.spotify.com/album/6pwOhF1h9S0TKheP28rNLa) | 3:33 | 2025-04-25 | 2025-06-20 |
 | [Adonai](https://open.spotify.com/track/2w74zoXGcIDVf1bPa52Bx8) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/18s4VVZoZFyokvcqDCnUu8) | 8:31 | 2026-04-01 | 2026-04-07 |
 | [Adonai \(Live\)](https://open.spotify.com/track/6EO8yo02KrqUeJ19p0DEVF) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Adonai \(Live\)](https://open.spotify.com/album/043Bn5dBFA5O0wNTGG7uGm) | 4:41 | 2024-11-15 | 2025-01-10 |
@@ -117,6 +118,7 @@
 | [Father of Mercy \- Live](https://open.spotify.com/track/77WplLxjyTqMbGbna6KcNy) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Father of Mercy \(Live\)](https://open.spotify.com/album/5eCW348te086qwrCs6ja8N) | 11:36 | 2025-08-22 | 2026-01-02 |
 | [Father of Spirits](https://open.spotify.com/track/1Ug4WIqyKGOtmWBtDZFJmQ) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [Father of Spirits](https://open.spotify.com/album/0ajIcGggC0wq91mzRTVsT6) | 14:11 | 2024-05-09 |  |
 | [Favour](https://open.spotify.com/track/0mxvkw5NNGXugvh5qVORjx) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Favour](https://open.spotify.com/album/6MRFqruKFqEQlSl6P4Ge1k) | 5:57 | 2025-02-28 |  |
+| [Fear Of God \- Live](https://open.spotify.com/track/4QtxQDR3S5AyJ4iXMwateA) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rahama \(Live\)](https://open.spotify.com/album/4kQttyy3r4QbpxPwL3ImZl) | 9:55 | 2026-06-12 |  |
 | [Fire on my Altar](https://open.spotify.com/track/3weOyLmKQGAEwEyhMYUxsz) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Fire on my Altar](https://open.spotify.com/album/2sNGMK8jCbywP4dUAZpBbU) | 10:39 | 2024-05-09 | 2026-04-24 |
 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 | 2024-05-09 |  |
 | [From The Rising](https://open.spotify.com/track/5ds4VdSTfXXXFifcCGWYZe) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 4:15 | 2026-04-01 | 2026-04-07 |
@@ -382,6 +384,7 @@
 | [Yeshua](https://open.spotify.com/track/6fp0BwcKc8m9FxqmWzust5) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:06 | 2026-04-01 | 2026-04-07 |
 | [YESHUA](https://open.spotify.com/track/04Qt7m7pOUmOPFM3ivDtkR) | [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [YESHUA](https://open.spotify.com/album/65AzitOWZVn6TG7M2DYZYq) | 9:27 | 2025-03-21 | 2025-03-28 |
 | [Yeshua \- Live](https://open.spotify.com/track/5cAhcefkbJ98RPfHeQfyfB) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Hunger \- From Our Heart to Yours \(Live\)](https://open.spotify.com/album/5mvzsp0rnXmZYDKqVa88ac) | 4:46 | 2025-06-24 |  |
+| [You Alone Are Worthy](https://open.spotify.com/track/6VLHU1X7vCzXkLLoB6i3UB) | [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS), [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r) | [Journey in Worship, Vol\. 2](https://open.spotify.com/album/5weO28xLSyodBcNhW81Cor) | 5:33 | 2026-06-12 |  |
 | [You Alone Are Worthy / Lord Because of Me](https://open.spotify.com/track/27dvD5NNzjJEAXMu7s44Mr) | [Wale Adenuga](https://open.spotify.com/artist/0s7YJetebaV73NYYtMx1E2) | [Songs for Generations](https://open.spotify.com/album/3OD5WwFzklKlShbCRfVJYD) | 7:25 | 2026-04-01 | 2026-04-07 |
 | [You Are Always There](https://open.spotify.com/track/2u1XE762ploDotScizdgh5) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In His Presence, Vol\. 2](https://open.spotify.com/album/3I2lS8vcbdBS76PfAJ4fDP) | 8:25 | 2024-05-09 |  |
 | [You Are Big](https://open.spotify.com/track/67b6GI1kkVALLH5O5IWQb7) | [Joshua Adedeji](https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh) | [You Are Big](https://open.spotify.com/album/7IuHbchUxKM8jXuwV9D3sX) | 6:20 | 2024-10-25 | 2024-12-13 |

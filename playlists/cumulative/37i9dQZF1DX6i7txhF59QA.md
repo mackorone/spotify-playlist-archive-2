@@ -2,9 +2,9 @@
 
 ### [K\-트롯 스타 \(K\-Trot Stars\)](https://open.spotify.com/playlist/37i9dQZF1DX6i7txhF59QA)
 
-> 신나는 트로트 멜로디를 즐겨보세요! \(커버: 신현지\)<br/>Let's party with cheerful Korean trot medley.
+> 신나는 트로트 멜로디를 즐겨보세요! \(커버: 손태진\)<br/>Let's party with cheerful Korean trot medley.
 
-1,103 songs - 2 day 15 hr 6 min
+1,104 songs - 2 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [I am a fool](https://open.spotify.com/track/6rRGeZZrlXPaOJ4yvMdqqt) | [Hyeyeon Kang](https://open.spotify.com/artist/4hW9QstyUJL1ZcnxT248kN) | [MISS TROT2 PRELIMINARY BEST PART1](https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU) | 2:23 | 2022-04-22 | 2025-01-06 |
 | [I am a man](https://open.spotify.com/track/2B25J3FLTUkmpyhKGt1OGc) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk) | 3:37 | 2024-10-27 | 2025-05-01 |
 | [I Believe](https://open.spotify.com/track/2mVbMxChs8tNPvIMbYebpV) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART32](https://open.spotify.com/album/2ILRXQMJw8fGbuz7vhvShU) | 4:32 | 2022-05-03 | 2022-07-18 |
+| [I Believe in Music](https://open.spotify.com/track/3upRses06rg98T445QDmTh) | [Son Tae Jin](https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS) | [Summer Nostalgia](https://open.spotify.com/album/4eMk4d7TOYZo69TaCqjbJG) | 3:37 | 2026-06-11 |  |
 | [I collapse](https://open.spotify.com/track/0B1UGyhwmxjkAPXfXuWhU0) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART15](https://open.spotify.com/album/1UgH4tI8dEaChllPEOCs6i) | 3:16 | 2022-05-03 | 2022-05-10 |
 | [I cried](https://open.spotify.com/track/4OQyfnMZhVGGqeCX9bpol1) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 2:53 | 2022-05-03 | 2022-05-30 |
 | [I don't know yet what love is](https://open.spotify.com/track/5MenhS1Q4C4gPjfT8N0NJW) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART31](https://open.spotify.com/album/4XlwWbWwoFf8yBp2iksviX) | 3:46 | 2022-05-03 | 2022-07-25 |

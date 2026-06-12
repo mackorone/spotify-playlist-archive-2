@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las música en México en compañía de iza tkm
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,486 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,491 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 41 | [AYER \- Plugg conciencia](https://open.spotify.com/track/2cmGC5QRB7mNufvsGwwaZM) | [Mikeanyway](https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M), [Young Dune](https://open.spotify.com/artist/2O6WxYXVduRSokMq8JHHkT), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8), [Glazzz](https://open.spotify.com/artist/2LptcTnQCzCsnlSVr8sEbz) | [AYER \(Plugg conciencia\)](https://open.spotify.com/album/0WwrrFr6K8BBUgyjjuA2FR) | 3:13 |
 | 42 | [ati!](https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [ati!](https://open.spotify.com/album/7gXPJM8yYWrp9kqZZasOvc) | 2:28 |
 | 43 | [Pingüinos](https://open.spotify.com/track/6vmzWzScqJ70yumSCoNa3y) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Pingüinos](https://open.spotify.com/album/3V79Llwk7Lb9EUbsYd3wiG) | 3:16 |
-| 44 | [HIPERSENTIMENTAL](https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [HIPERSENTIMENTAL](https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f) | 2:45 |
-| 45 | [El alma de la fiesta](https://open.spotify.com/track/512TbNoyJjDVaCfid6NYh3) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Manuel \(Ojalá que nunca escuches este disco\)](https://open.spotify.com/album/2V2m6U5rE9O6zVhWJW8rVm) | 2:05 |
-| 46 | [La Culpable](https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [La Culpable](https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R) | 3:57 |
-| 47 | [Trampa](https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Trampa](https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T) | 2:32 |
+| 44 | [El alma de la fiesta](https://open.spotify.com/track/512TbNoyJjDVaCfid6NYh3) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Manuel \(Ojalá que nunca escuches este disco\)](https://open.spotify.com/album/2V2m6U5rE9O6zVhWJW8rVm) | 2:05 |
+| 45 | [HIPERSENTIMENTAL](https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [HIPERSENTIMENTAL](https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f) | 2:45 |
+| 46 | [Trampa](https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Trampa](https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T) | 2:32 |
+| 47 | [La Culpable](https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [La Culpable](https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R) | 3:57 |
 | 48 | [Se Va Se Va](https://open.spotify.com/track/7A3vj4M64VDkcxzPkziR5s) | [Dylan Coronel](https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j), [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh) | [Se Va Se Va](https://open.spotify.com/album/4ZfqMbCFTpljyPoVxDQseE) | 3:15 |
 | 49 | [En el sur \- REMIX](https://open.spotify.com/track/7h31UFRcfMvKgBKIWDWVFg) | [¡Carly](https://open.spotify.com/artist/0K8Zo9AanUegE8ld2OLkHd), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Glorygl0ck](https://open.spotify.com/artist/4BKfnmgVx0UB6a7tzD4AfL) | [En el sur//Flakita \(REMIX\)](https://open.spotify.com/album/77xAgVySzn76nQ2fNNYLac) | 3:06 |
 | 50 | [NO SÉ NI CÓMO ESTÁS](https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS), [matt](https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy) | [NO SÉ NI CÓMO ESTÁS](https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv) | 3:12 |

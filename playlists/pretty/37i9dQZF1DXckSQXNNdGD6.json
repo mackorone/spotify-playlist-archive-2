@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Guitarricadelafuente.",
-  "num_followers": 21902,
+  "num_followers": 21903,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-06-08 07:44:23",
       "album": {
+        "name": "Pantal\u00f3n",
+        "url": "https://open.spotify.com/album/1kkCB6Bojsi2NWWToffYSU"
+      },
+      "artists": [
+        {
+          "name": "BAJOCERO X",
+          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
+        }
+      ],
+      "duration_ms": 125753,
+      "name": "Pantal\u00f3n",
+      "url": "https://open.spotify.com/track/0A7IGl98y4xBSZaSV5UVjD"
+    },
+    {
+      "added_at": "2026-06-08 07:44:23",
+      "album": {
         "name": "Manual de Romer\u00eda",
         "url": "https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 138947,
       "name": "coraz\u00f3n distante",
       "url": "https://open.spotify.com/track/1Db7H5M0JHVrSjeA8uufwS"
-    },
-    {
-      "added_at": "2026-06-08 07:44:23",
-      "album": {
-        "name": "Pantal\u00f3n",
-        "url": "https://open.spotify.com/album/1kkCB6Bojsi2NWWToffYSU"
-      },
-      "artists": [
-        {
-          "name": "BAJOCERO X",
-          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
-        }
-      ],
-      "duration_ms": 125753,
-      "name": "Pantal\u00f3n",
-      "url": "https://open.spotify.com/track/0A7IGl98y4xBSZaSV5UVjD"
     },
     {
       "added_at": "2026-06-08 07:44:23",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-06-08 07:44:23",
       "album": {
-        "name": "Bandolero",
-        "url": "https://open.spotify.com/album/5c6b7AbvBmCTZwmuwjWiQE"
-      },
-      "artists": [
-        {
-          "name": "David Rees",
-          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
-        }
-      ],
-      "duration_ms": 157924,
-      "name": "Bandolero",
-      "url": "https://open.spotify.com/track/03zEcizMmmeaZ6jCZ077ap"
-    },
-    {
-      "added_at": "2026-06-08 07:44:23",
-      "album": {
         "name": "Hoy ya no",
         "url": "https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 160064,
       "name": "Hoy ya no",
       "url": "https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz"
+    },
+    {
+      "added_at": "2026-06-08 07:44:23",
+      "album": {
+        "name": "Bandolero",
+        "url": "https://open.spotify.com/album/5c6b7AbvBmCTZwmuwjWiQE"
+      },
+      "artists": [
+        {
+          "name": "David Rees",
+          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
+        }
+      ],
+      "duration_ms": 157924,
+      "name": "Bandolero",
+      "url": "https://open.spotify.com/track/03zEcizMmmeaZ6jCZ077ap"
     },
     {
       "added_at": "2026-06-08 07:44:23",

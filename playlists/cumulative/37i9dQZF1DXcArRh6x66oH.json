@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "roots run deep with Sam Barber",
+  "description": "roots run deep with Charles Wesley Godwin and Wyatt Flores",
   "name": "homegrown",
   "tracks": [
     {
@@ -3528,6 +3528,28 @@
       "duration_ms": 252208,
       "name": "Here Lies the Fool",
       "url": "https://open.spotify.com/track/0RvDQ5Kp6uI2IAhGZT2V3o"
+    },
+    {
+      "album": {
+        "name": "Hey There Son",
+        "url": "https://open.spotify.com/album/7vYGf3JgUNorLT6jW9j8w9"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        },
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248977,
+      "name": "Hey There Son (feat. Wyatt Flores)",
+      "url": "https://open.spotify.com/track/6bxxxlnPtYLDCFJiHEnJ9s"
     },
     {
       "album": {

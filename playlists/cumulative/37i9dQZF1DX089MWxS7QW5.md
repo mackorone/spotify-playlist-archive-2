@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 박세정\(Park Se Jung\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 주니\(JUNNY\)\)
 
-647 songs - 1 day 10 hr 41 min
+649 songs - 1 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Heart To Fall](https://open.spotify.com/track/6AHrOU6Gw6eBVQx78ZTIof) | [soopie](https://open.spotify.com/artist/67TcqgP8aUJAf3hJ8S9n6Q) | [Heart To Fall](https://open.spotify.com/album/2DRJkndM4ojKSxpLLk2MZf) | 4:18 | 2026-05-21 |  |
 | [Heart to heart](https://open.spotify.com/track/2OikEjMn13Na4ciQLamuQb) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Kim Young Geun](https://open.spotify.com/artist/2gYn9xPkHXRkKnVnzRc4RZ) | [Heart to heart](https://open.spotify.com/album/5gZJYpnMA0nogHoAV3MtfU) | 3:01 | 2025-09-18 | 2026-04-13 |
 | [heartache](https://open.spotify.com/track/2W3eDfdnFboHHilObGYmJm) | [SO HYUN](https://open.spotify.com/artist/5VLiLdWwqGX5eyXqog2le1) | [heartache](https://open.spotify.com/album/3K83Uwok7tqoyzwxuxE2ug) | 2:44 | 2025-03-13 | 2025-06-21 |
+| [Heaven Can Wait](https://open.spotify.com/track/7zOyWqFGjoSjswmWWDukhA) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Heaven Can Wait](https://open.spotify.com/album/1A4EiE5aWH0s25aIAMNOzD) | 3:28 | 2026-06-11 |  |
 | [hellbound](https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [hellbound](https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo) | 3:07 | 2025-01-24 | 2025-05-21 |
 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 | 2023-12-06 | 2024-05-01 |
 | [Hero](https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Hero](https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM) | 2:30 | 2022-05-28 | 2022-08-13 |
@@ -382,6 +383,7 @@
 | [Mother](https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Mother](https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ) | 2:56 | 2022-05-28 | 2022-07-05 |
 | [MUSIC \(Feat\. LEE CHANHYUK\)](https://open.spotify.com/track/3SYveDpgawfdQtiMDlm4gi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [MUSIC](https://open.spotify.com/album/1dWHATlZ1wxvpTwCUV0TR0) | 2:39 | 2025-06-20 | 2025-11-26 |
 | [MY BAD](https://open.spotify.com/track/1Fp1aWRIK78nrKN3femdpi) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [I LOVE YOU, MY BAD](https://open.spotify.com/album/7eQwYtraQhqcKqMWPH9fD3) | 2:52 | 2025-09-01 | 2026-03-20 |
+| [My Gravity](https://open.spotify.com/track/57B0qkzXUntlW1LiCAayBL) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [My Gravity](https://open.spotify.com/album/10wM1ZrpvmMAnXxrVfkc1d) | 3:41 | 2026-06-11 |  |
 | [My Home](https://open.spotify.com/track/4d3y4RHBHrQGZcoTAHsfcT) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [My Home](https://open.spotify.com/album/0HozvH2bWEQSkUXVZ0yuKL) | 3:36 | 2025-05-13 | 2025-09-02 |
 | [MY LOVE \(feat\. RAVI\)](https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE&LOVE](https://open.spotify.com/album/1PYXDudDPVlluVB6sv0aY8) | 3:25 | 2022-06-14 | 2022-10-05 |
 | [My Memory](https://open.spotify.com/track/6pSNLABOjuqymQSkfyXuGt) | [Hawoong](https://open.spotify.com/artist/57saO8Z8WQgBNCfhRc1i3G) | [My Memory](https://open.spotify.com/album/22osHqy2luFmK18jEc39MZ) | 3:28 | 2025-04-18 | 2025-08-06 |

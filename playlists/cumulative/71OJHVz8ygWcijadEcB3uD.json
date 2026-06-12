@@ -8477,6 +8477,24 @@
     },
     {
       "album": {
+        "name": "O Som do Quase",
+        "url": "https://open.spotify.com/album/5niCm6FwwaokTRXcuaVVNB"
+      },
+      "artists": [
+        {
+          "name": "Andre Thanatos",
+          "url": "https://open.spotify.com/artist/2WYOgSQsYe0F3Xr8JzDRyC"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296320,
+      "name": "Ultima Chance De Virar",
+      "url": "https://open.spotify.com/track/3K8D93J8zi3wtDqYy7eBe9"
+    },
+    {
+      "album": {
         "name": "Uncertainty (revised)",
         "url": "https://open.spotify.com/album/5ExbRMcir2PK3XZUdym4Ez"
       },

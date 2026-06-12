@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 176000,
       "name": "BOOMX3",
       "url": "https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse"
@@ -1358,6 +1358,24 @@
       "duration_ms": 239454,
       "name": "Chokran la vie",
       "url": "https://open.spotify.com/track/2U8ErvM7WUELQ5rhXFQIUz"
+    },
+    {
+      "album": {
+        "name": "Chou Meshta2li",
+        "url": "https://open.spotify.com/album/6hMW6x28JG2O1k3UVBmpbN"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171627,
+      "name": "Chou Meshta2li",
+      "url": "https://open.spotify.com/track/489M9YlC0nOZeWY7ljkXfX"
     },
     {
       "album": {
@@ -2308,7 +2326,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 190328,
       "name": "Esmek Eh",
       "url": "https://open.spotify.com/track/3bG2kL6F0M71u4j9Du8lSC"
@@ -7558,7 +7576,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 316250,
       "name": "\u0628\u064a\u0643\u0644\u0645\u0648\u0646\u064a",
       "url": "https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T"

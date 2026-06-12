@@ -532,7 +532,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 103946,
       "name": "Black Mesa (feat. Joan Lorring & Leslie Howard) - [Joris Voorn Remix] [Mixed]",
       "url": "https://open.spotify.com/track/7etsqxB6RZWBImUKly4b5c"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 297401,
       "name": "Heat Leak",
       "url": "https://open.spotify.com/track/1wKboGIaFO0bjBQgcy794b"
@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 251920,
       "name": "The Clock and the Dial",
       "url": "https://open.spotify.com/track/6pqeBMxpZE0RqYbJOoWUBe"
@@ -3090,10 +3090,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 534430,
       "name": "The Shield",
       "url": "https://open.spotify.com/track/5dmviv6oMhKDHSUiI2AX0a"
+    },
+    {
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/10VIuwTOJBJy22e4INZbE0"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "The Sudden Rush",
+      "url": "https://open.spotify.com/track/6W0k7N3ugB2Zy4Ti4HLUlb"
     },
     {
       "album": {
@@ -3108,7 +3126,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 208000,
       "name": "The Sudden Rush",
       "url": "https://open.spotify.com/track/7ic8N154Eqo5Gd5fU38Zku"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Introducing RADAR Singapore & Malaysia Class of 2026. Cover: NO TIME FOR SILENCE",
+  "description": "Introducing RADAR Singapore & Malaysia Class of 2026. Cover: quiet morning",
   "name": "RADAR SG & MY",
   "tracks": [
     {
@@ -4353,6 +4353,28 @@
     },
     {
       "album": {
+        "name": "Play2TheWhistle",
+        "url": "https://open.spotify.com/album/2MkPNjFGKn6PTzAYCGGwK3"
+      },
+      "artists": [
+        {
+          "name": "Mary Sue",
+          "url": "https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251"
+        },
+        {
+          "name": "MISTER TWO FIVE",
+          "url": "https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225750,
+      "name": "Play2TheWhistle",
+      "url": "https://open.spotify.com/track/1RtY9R9KBqwDYGytgH7hQJ"
+    },
+    {
+      "album": {
         "name": "POPSTAR IN THE MAKING",
         "url": "https://open.spotify.com/album/6vR888Yjx5OAwKqJT2Wzex"
       },
@@ -5426,6 +5448,24 @@
       "duration_ms": 162409,
       "name": "touch",
       "url": "https://open.spotify.com/track/1nEczAnjXD3Jvbau01ee0x"
+    },
+    {
+      "album": {
+        "name": "under my skin",
+        "url": "https://open.spotify.com/album/1OVLexXEgHSqEyJCfMsSLS"
+      },
+      "artists": [
+        {
+          "name": "quiet morning",
+          "url": "https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/2PWyhubh6VvSTlrw5w3m6t"
     },
     {
       "album": {

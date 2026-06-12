@@ -2,9 +2,9 @@
 
 ### [folk & otoño](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
 
-> indie folk latino de estación\. Foto: Gepe y Macario Martínez
+> Folk latino de estación\. Foto: Alondra Bravo
 
-369 songs - 20 hr 12 min
+375 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Curarte](https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 3:03 | 2023-12-07 | 2024-04-19 |
 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2022-05-20 | 2023-12-14 |
 | [Cuéntanos Lo Que Pasó…](https://open.spotify.com/track/2qNkCvTOfJFdXglLsjzwBO) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Cuéntanos Lo Que Pasó…](https://open.spotify.com/album/2AqxjpMBlOA9RZx8RWbmju) | 3:02 | 2023-10-06 | 2024-09-27 |
+| [Cántaro](https://open.spotify.com/track/4eBVeZUc2R0AQjJdi9YfWc) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Cántaro](https://open.spotify.com/album/29MidgxHNX8oOv7R2neAUH) | 1:59 | 2026-06-12 |  |
 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/1oFbEDVpdRzwHzHUFzvYXB) | [Marina Wil](https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4) | [Cómo Te Extraño Mi Amor](https://open.spotify.com/album/2AonQQKJGi66GsGSaajA7L) | 3:34 | 2023-08-11 | 2024-09-27 |
 | [Cómo Viene Tu Amor](https://open.spotify.com/track/5J2wXlzzG1CrRm8zMmwFaB) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Cómo Viene Tu Amor](https://open.spotify.com/album/3LonceOAnPu6MqEpUuvP8M) | 2:51 | 2026-05-22 |  |
 | [Dame](https://open.spotify.com/track/297Vr1chPCF0607I0g80IJ) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Dame](https://open.spotify.com/album/3QSi2Fj1FUjE3Uu2K5Gfh4) | 4:04 | 2023-04-07 | 2023-10-07 |
@@ -248,8 +249,10 @@
 | [Novio Intelectual](https://open.spotify.com/track/3FY0MSjwKGbviDgvwMmix1) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Novio Intelectual](https://open.spotify.com/album/7MhKDU7f5tAR6DjtUoLNNg) | 3:14 | 2023-06-09 | 2023-09-16 |
 | [Nube Negra](https://open.spotify.com/track/3ZeKDpDvthhspRGiosXkIQ) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Nube Negra](https://open.spotify.com/album/1hfFHStwTqvGuaERkgjyka) | 3:05 | 2023-05-12 | 2023-06-24 |
 | [Nuestras Formas](https://open.spotify.com/track/3FsYdqpzwud7ZRjLRHi21S) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof), [Peperina](https://open.spotify.com/artist/3lDXYMlB5VIBZdLoIZNC2r) | [Nuestras Formas](https://open.spotify.com/album/30TBSDnmG0b4mjZHuUeXYE) | 2:31 | 2023-10-26 | 2026-04-25 |
+| [Nueva Canción](https://open.spotify.com/track/7EZzmKbCbfCiEqA6R9Scy9) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [Canciones del Río](https://open.spotify.com/album/2dJbcky0oG63lOXAxgeOsB) | 3:55 | 2026-06-12 |  |
 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 | 2023-08-18 | 2024-09-27 |
 | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN) | 2:58 | 2023-06-09 | 2023-06-24 |
+| [não sei](https://open.spotify.com/track/6scveQ1yU9Q1GGn9Bq1D18) | [BLAYA](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [não sei](https://open.spotify.com/album/3VaoXJ6aHs2yfkmZ05F8Ei) | 2:46 | 2026-06-12 |  |
 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 | 2022-05-20 | 2022-08-27 |
 | [Ojos de Camello](https://open.spotify.com/track/6fSsdyxsmvfQjH7tXY9SAa) | [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l), [Alex Serhan](https://open.spotify.com/artist/4YlZJvPOBNvWa3oPQbvlxF) | [Ojos de Camello](https://open.spotify.com/album/5cWSxcGA9ZHpqApjZuqZgj) | 3:33 | 2022-05-20 | 2023-04-09 |
 | [Ojos Viejos](https://open.spotify.com/track/331jpq4eMaLd5bw7oM2ZIm) | [Clara Ballestero](https://open.spotify.com/artist/3BpPBrcj89LCkZJykqXrRL), [David Bensimon](https://open.spotify.com/artist/618xJLHv3QguoWJighQJJH) | [Ojos Viejos](https://open.spotify.com/album/6m1fsCTrBhLDPCsWce3jCZ) | 4:57 | 2025-07-18 |  |
@@ -278,6 +281,7 @@
 | [poco a poquito](https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [poco a poquito](https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b) | 2:48 | 2023-08-04 | 2024-09-27 |
 | [Polvo de estrellas](https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3), [Gerardo Nieto](https://open.spotify.com/artist/1jYImiKsH7041qqudv5oJ2) | [Los Abrazos son Instantes Decisivos Vol\. II](https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL) | 3:44 | 2023-09-08 | 2024-09-27 |
 | [Por el Bien de los Dos](https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 2:39 | 2023-06-23 | 2026-05-29 |
+| [Por Lo Que Fui](https://open.spotify.com/track/1ZHY3vG0MBEOrDWC0Qw6Zo) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Por Lo Que Fui](https://open.spotify.com/album/6ESsai3sJCvvUKexH1nRqC) | 4:17 | 2026-06-12 |  |
 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 | 2023-07-14 | 2026-05-29 |
 | [Postre](https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK) | 3:00 | 2022-11-11 | 2023-04-15 |
 | [Postre](https://open.spotify.com/track/1OBjbKYarukVRG2AYqIXsi) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/3ayGisd0er515a1Vq3zhqN) | 3:00 | 2022-05-20 | 2022-12-18 |
@@ -315,6 +319,7 @@
 | [t quiero baby](https://open.spotify.com/track/5Ism0pljdp59O89F22begB) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [t quiero baby](https://open.spotify.com/album/7hAtgp27UmRzzUdsaHL8DG) | 2:26 | 2023-07-14 | 2023-08-10 |
 | [tal vez, no sé](https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj) | [Poli Sallustro](https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [tal vez, no sé](https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla) | 3:44 | 2023-06-23 | 2026-05-29 |
 | [Tampoco Poco](https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Tampoco Poco](https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r) | 3:00 | 2023-05-12 | 2026-05-29 |
+| [Tantas veces](https://open.spotify.com/track/2JTmRrAI91fg47eeOYXZsL) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Tantas veces](https://open.spotify.com/album/5xVDtdIZIFz0Hzr6Age8qS) | 3:11 | 2026-06-12 |  |
 | [Tarde](https://open.spotify.com/track/5VwuCUQvJszJiMCkRLuQ75) | [Facundo Grandío](https://open.spotify.com/artist/4Wkm55LBgLyt4MQh78QqJK), [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc) | [Tarde](https://open.spotify.com/album/5t7iy0R6a1WbOKYn1OWBno) | 2:32 | 2026-01-30 |  |
 | [Te Vi Llegar](https://open.spotify.com/track/3nCpJyVWHs4kZEt7YHMmlu) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Te Vi Llegar](https://open.spotify.com/album/2zfz1eDKYqFNonW0krxxPa) | 2:01 | 2024-03-07 | 2024-09-27 |
 | [Technicolor](https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7) | [Yael Meyer](https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r) | [Technicolor](https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1) | 3:14 | 2022-05-20 | 2023-05-20 |
@@ -334,6 +339,7 @@
 | [Trance](https://open.spotify.com/track/6DLb7WbfYJmIu2f40B9G4T) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Trance](https://open.spotify.com/album/52vCupeM1LskVDxdpwuiXQ) | 4:01 | 2024-10-25 |  |
 | [trece](https://open.spotify.com/track/7gFN7bu7EW7jNXKHDrKfHd) | [tommy 3 balas](https://open.spotify.com/artist/2toYLRPVyQ0VTBzja0WBBL) | [trece](https://open.spotify.com/album/7HXSoYe3CcsYWsDwBFTnwZ) | 2:52 | 2022-05-20 | 2023-03-10 |
 | [Tu Despedida](https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Tu Despedida](https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX) | 3:54 | 2022-05-20 | 2023-04-15 |
+| [tu forma de quedarte](https://open.spotify.com/track/2WxTePUukKebGCy1IZwcbO) | [Alondra Bravo](https://open.spotify.com/artist/1ziR8FcSwB1AyqYyJsXhE4) | [tu forma de quedarte](https://open.spotify.com/album/5FieXebBefb1w5FXSiMygZ) | 4:12 | 2026-06-12 |  |
 | [Tu Nombre](https://open.spotify.com/track/6nTACiUMLcPh7mjfGXCFjA) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Tu Nombre](https://open.spotify.com/album/0NvNtFrr5XEUUDSt5hytL0) | 3:01 | 2022-05-20 | 2023-04-09 |
 | [Tur Blues](https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Tur Blues](https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg) | 3:33 | 2022-05-20 | 2025-12-25 |
 | [ULTIMO LUNES](https://open.spotify.com/track/7EIA3El5BmyYVd8t5ju7yr) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [ULTIMO LUNES](https://open.spotify.com/album/30SK5R5X3VhGYQfiEjW0ai) | 2:56 | 2026-05-29 |  |

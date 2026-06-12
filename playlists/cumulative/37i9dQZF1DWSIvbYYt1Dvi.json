@@ -3998,7 +3998,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 68063,
       "name": "Dona de Casa",
       "url": "https://open.spotify.com/track/21HI2SdE0gKyzMX3ge45If"
@@ -4382,6 +4382,32 @@
       "duration_ms": 145573,
       "name": "Eu Fiz o Jogo Virar",
       "url": "https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl"
+    },
+    {
+      "album": {
+        "name": "Eu J\u00e1 Digitei (Apaguei Pra Todos)",
+        "url": "https://open.spotify.com/album/5yVMofQVKhZOE0hMAy51a9"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Edubeatz",
+          "url": "https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123857,
+      "name": "Eu J\u00e1 Digitei (Apaguei Pra Todos)",
+      "url": "https://open.spotify.com/track/2N6bFlTi6Ps3K44adrgmuQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Rayi Putra, Farrel Hilal",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Kaleb J",
   "name": "JIVVA",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 135223,
       "name": "baby baby",
       "url": "https://open.spotify.com/track/4tpuIKc3GVRxlUmOTSjO1l"
@@ -1665,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Gerilya Cinta",
+        "url": "https://open.spotify.com/album/03BZzhN6nhvK2mHB8Bjmtf"
+      },
+      "artists": [
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188127,
+      "name": "Gerilya Cinta",
+      "url": "https://open.spotify.com/track/3KY5EGVVpbacFw79dpricc"
+    },
+    {
+      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/05rZ3AQMXe6OwkU53QoCPy"
       },
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 180000,
       "name": "i'm still here",
       "url": "https://open.spotify.com/track/5eMUGXMkukhd4GUB5aENaF"
@@ -2436,6 +2454,24 @@
       "duration_ms": 283714,
       "name": "Kau Yang Ku Tunggu",
       "url": "https://open.spotify.com/track/3cfcNcSHFCocpMJuKaKBIy"
+    },
+    {
+      "album": {
+        "name": "kebal sakit",
+        "url": "https://open.spotify.com/album/2OtZ1ZkJuH62Zk6XeinGH6"
+      },
+      "artists": [
+        {
+          "name": "Rieru Shindou",
+          "url": "https://open.spotify.com/artist/1c8xMWXPJl4Wlp7YMzfLvJ"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210228,
+      "name": "kebal sakit",
+      "url": "https://open.spotify.com/track/4w4kSuOL6kqhZLckNXunzv"
     },
     {
       "album": {
@@ -3887,6 +3923,28 @@
     },
     {
       "album": {
+        "name": "salah paham (lagi)",
+        "url": "https://open.spotify.com/album/4IAe0xHPY58mIyDRpYdq17"
+      },
+      "artists": [
+        {
+          "name": "Syahravi",
+          "url": "https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ"
+        },
+        {
+          "name": "RINNI",
+          "url": "https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208762,
+      "name": "salah paham (lagi)",
+      "url": "https://open.spotify.com/track/4Hv3IiRfNraG3pWYgL7F72"
+    },
+    {
+      "album": {
         "name": "Sampai Kita Jadi Tua",
         "url": "https://open.spotify.com/album/1jlvdtwI733LB4iOPyPN5p"
       },
@@ -4286,7 +4344,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 168514,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/48RtOdZydalAcG5S8LkgiY"

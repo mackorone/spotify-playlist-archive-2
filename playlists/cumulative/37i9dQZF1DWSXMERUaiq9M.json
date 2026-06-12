@@ -133,6 +133,28 @@
     },
     {
       "album": {
+        "name": "300G",
+        "url": "https://open.spotify.com/album/59grAMlOifI3fj7sn4PEXg"
+      },
+      "artists": [
+        {
+          "name": "Kobosil",
+          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
+        },
+        {
+          "name": "Bekkaa",
+          "url": "https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "300G",
+      "url": "https://open.spotify.com/track/1bEEcI2bUAmKsFom25RLhC"
+    },
+    {
+      "album": {
         "name": "4 Da Ravers",
         "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
       },
@@ -548,7 +570,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 168000,
       "name": "All Day",
       "url": "https://open.spotify.com/track/0UEfI61QKDh4VX3aSWQH3u"
@@ -1224,7 +1246,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 305032,
       "name": "Bass Go",
       "url": "https://open.spotify.com/track/5uzDTJpmseicKPwzB9q5VG"
@@ -1636,7 +1658,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 155156,
       "name": "Bounce Otra Vez",
       "url": "https://open.spotify.com/track/6cQqbHE7XkhK890yIn4N9o"
@@ -1854,7 +1876,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 271480,
       "name": "Bury Me In Amsterdam",
       "url": "https://open.spotify.com/track/6EIBlRManf7F8iZpWK75m3"
@@ -2066,6 +2088,32 @@
       "duration_ms": 164121,
       "name": "Call Me Babe",
       "url": "https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev"
+    },
+    {
+      "album": {
+        "name": "Call You Papi",
+        "url": "https://open.spotify.com/album/2OUAtAAQ213zNMRpRv6cAc"
+      },
+      "artists": [
+        {
+          "name": "Krimsonn",
+          "url": "https://open.spotify.com/artist/5AmxhPl99r1cBm9WqrIuyU"
+        },
+        {
+          "name": "Vansessy",
+          "url": "https://open.spotify.com/artist/38vdpGagAziiq1vcExNTwA"
+        },
+        {
+          "name": "Cassie Ann",
+          "url": "https://open.spotify.com/artist/5LJRswr6IhkRRkq1EHDuwj"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154064,
+      "name": "Call You Papi",
+      "url": "https://open.spotify.com/track/0mHJCPvlPsFN0xcAFrryx5"
     },
     {
       "album": {
@@ -2727,6 +2775,28 @@
     },
     {
       "album": {
+        "name": "Dance In The Light",
+        "url": "https://open.spotify.com/album/0QVgj3nXq5v9kDhx8Ox3cF"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230886,
+      "name": "Dance In The Light",
+      "url": "https://open.spotify.com/track/7hFfVcwHyNWVTbLCdT4wnz"
+    },
+    {
+      "album": {
         "name": "Dance MothaF*cka",
         "url": "https://open.spotify.com/album/5jhVzi7YcXjPNuIrCCcPBo"
       },
@@ -2870,7 +2940,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 163034,
       "name": "DEJA VU",
       "url": "https://open.spotify.com/track/0OgheDXBeWdcSPNO7QkZPz"
@@ -3358,7 +3428,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 196916,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8"
@@ -5523,6 +5593,28 @@
     },
     {
       "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/3y0qcXyeeIp4plTFm2epPN"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Alt8",
+          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205012,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/4U4XNkHA99dkqFbOxc8OjL"
+    },
+    {
+      "album": {
         "name": "Havana Bounce",
         "url": "https://open.spotify.com/album/78f1sQGjkzuQbS7boCVv8w"
       },
@@ -5596,7 +5688,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 289909,
       "name": "HEADLIGHT",
       "url": "https://open.spotify.com/track/0u8Da3Edux0LKYDph9B3Un"
@@ -5731,6 +5823,24 @@
     },
     {
       "album": {
+        "name": "Himalayan Bounce",
+        "url": "https://open.spotify.com/album/5lxdzznEaqiyAVbFcfSkor"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Himalayan Bounce",
+      "url": "https://open.spotify.com/track/67OeTJLt0tetwk5JA66CwA"
+    },
+    {
+      "album": {
         "name": "HOLA",
         "url": "https://open.spotify.com/album/5CYpyWvIH6dyjyL5YkT36D"
       },
@@ -5746,7 +5856,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 126375,
       "name": "HOLA",
       "url": "https://open.spotify.com/track/5MMIEnzuNFRAXKdhSQv0Qc"
@@ -6650,7 +6760,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 142404,
       "name": "IN THE SHADOWS",
       "url": "https://open.spotify.com/track/3lTtxsL760aDvnjQENvqc2"
@@ -7467,6 +7577,24 @@
     },
     {
       "album": {
+        "name": "Rave Kid EP",
+        "url": "https://open.spotify.com/album/62kW3kk96aliqD1B9bpWJ1"
+      },
+      "artists": [
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "LaLaLo",
+      "url": "https://open.spotify.com/track/1bZNXnAUa5lhXrh1cGnR9F"
+    },
+    {
+      "album": {
         "name": "Laser Beams",
         "url": "https://open.spotify.com/album/14igiMIUMS40wKZgr28UxO"
       },
@@ -7580,7 +7708,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 132203,
       "name": "Left Me For Dead",
       "url": "https://open.spotify.com/track/17Rdds5FknIO35ZuUqC1q2"
@@ -8278,7 +8406,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 201290,
       "name": "MAKE DA RAVE",
       "url": "https://open.spotify.com/track/17RQChStJoGxkfwmpfjVNl"
@@ -9662,7 +9790,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/0spV7kRavzOYJYKzOf8zSl"
@@ -11984,7 +12112,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 158780,
       "name": "Sin miedo",
       "url": "https://open.spotify.com/track/0mkUD2LmmaMQA0H6LQvs1I"
@@ -12865,6 +12993,24 @@
     },
     {
       "album": {
+        "name": "TAKE CONTROL",
+        "url": "https://open.spotify.com/album/0VfYn1i7i3YccgtWijDeFg"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Roberts",
+          "url": "https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169901,
+      "name": "TAKE CONTROL",
+      "url": "https://open.spotify.com/track/4KxMIYFJYXEL58c5JfyE66"
+    },
+    {
+      "album": {
         "name": "Take Control",
         "url": "https://open.spotify.com/album/11svDuwq5MQ9fYdrpqEALh"
       },
@@ -12934,7 +13080,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 184004,
       "name": "Tease Me",
       "url": "https://open.spotify.com/track/3TvOSkPw2VAPZE74mku6et"
@@ -13286,7 +13432,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 154054,
       "name": "The Roots",
       "url": "https://open.spotify.com/track/1JtBa11kybNEQ8YP4XwKKp"
@@ -13428,6 +13574,28 @@
       "duration_ms": 124500,
       "name": "Throw It Back",
       "url": "https://open.spotify.com/track/1RiUCViwSix0tpcJAkUikB"
+    },
+    {
+      "album": {
+        "name": "TICK TOCK (RAVE O'CLOCK)",
+        "url": "https://open.spotify.com/album/7uDj0bu6c0WZ3HdDjMU1j7"
+      },
+      "artists": [
+        {
+          "name": "Lupage",
+          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
+        },
+        {
+          "name": "JO KX",
+          "url": "https://open.spotify.com/artist/60SpGg7FwnDgU2iBzOTGs5"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "TICK TOCK (RAVE O'CLOCK)",
+      "url": "https://open.spotify.com/track/2l7PbkQGcwkyLQwtfCCMnF"
     },
     {
       "album": {
@@ -13976,7 +14144,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 193745,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/4RdVUi6qXpyIebizY2zTQD"

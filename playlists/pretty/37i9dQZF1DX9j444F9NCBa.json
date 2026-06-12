@@ -1,29 +1,13 @@
 {
   "description": "Gentle instrumental covers of known songs.",
-  "num_followers": 1204313,
+  "num_followers": 1204701,
   "original_name": "Calming Instrumental Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKF+bTH8f0kLxuAsvYjOjTpaODPX",
+  "snapshot_id": "AAAAAD70JJX9J4sP1bDgwkODYIXm+Bdg",
   "tracks": [
-    {
-      "added_at": "2026-05-29 14:23:18",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/5cyRp3LNdeffNPIWWFmCxC"
-      },
-      "artists": [
-        {
-          "name": "Phileas Galle",
-          "url": "https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68"
-        }
-      ],
-      "duration_ms": 219187,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/67Ar1CRAeJ8zmgCxXiSsIj"
-    },
     {
       "added_at": "2026-05-29 14:23:18",
       "album": {
@@ -71,22 +55,6 @@
       "duration_ms": 147809,
       "name": "Iris",
       "url": "https://open.spotify.com/track/21JyM0ZFwj14HLPBRdIidP"
-    },
-    {
-      "added_at": "2026-05-29 14:23:18",
-      "album": {
-        "name": "Sweater Weather",
-        "url": "https://open.spotify.com/album/3dADTxNe7R3LLA4j83IT7E"
-      },
-      "artists": [
-        {
-          "name": "Elias Vennberg",
-          "url": "https://open.spotify.com/artist/3miBDeJljfO3UV4CDc1q8B"
-        }
-      ],
-      "duration_ms": 145369,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/7I05Ub5CEjMO8YIaJEtcVw"
     },
     {
       "added_at": "2026-05-29 14:23:18",
@@ -187,22 +155,6 @@
     {
       "added_at": "2026-05-29 14:23:18",
       "album": {
-        "name": "Beauty And A Beat",
-        "url": "https://open.spotify.com/album/771vVsTsYFWSjm4UCs8pvB"
-      },
-      "artists": [
-        {
-          "name": "Man In The Moon",
-          "url": "https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz"
-        }
-      ],
-      "duration_ms": 178383,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/3xGz1yHLwSqFojO5L429qH"
-    },
-    {
-      "added_at": "2026-05-29 14:23:18",
-      "album": {
         "name": "Starman",
         "url": "https://open.spotify.com/album/13UHUrqgM0SJKIlIWEEba3"
       },
@@ -219,50 +171,34 @@
     {
       "added_at": "2026-05-29 14:23:18",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/2Smbg9yigOUljVnk4HRPAd"
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6iFnTh7yJX21BmQHE7sd6d"
       },
       "artists": [
         {
-          "name": "Blue Spov",
-          "url": "https://open.spotify.com/artist/0v4UETzymroBlTsmlVCdNa"
+          "name": "Aidan Jennings",
+          "url": "https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o"
         }
       ],
-      "duration_ms": 212182,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/0nviVIOaSeiE5IgcoiCj53"
+      "duration_ms": 148317,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/00zboRdO7yjPazc4J7d3EB"
     },
     {
       "added_at": "2026-05-29 14:23:18",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/7GkR7MgoB8K7fVntprF7Bf"
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/1YB6dXLdeUIdwtyuRym3YH"
       },
       "artists": [
         {
-          "name": "Otis J. Hart",
-          "url": "https://open.spotify.com/artist/5PN2bToM1pb2WeRrMInjfT"
+          "name": "Fiona Greenly",
+          "url": "https://open.spotify.com/artist/1o7MqXOsAEoLkc9YEj7m9c"
         }
       ],
-      "duration_ms": 227877,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/3K6sfBeFE5O3O79SqZV1yv"
-    },
-    {
-      "added_at": "2026-05-29 14:23:18",
-      "album": {
-        "name": "I Just Might",
-        "url": "https://open.spotify.com/album/6XIKBq7AzpI4948ehDZdPK"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tomas",
-          "url": "https://open.spotify.com/artist/2uflvyKj2mPIzddN3MEjLs"
-        }
-      ],
-      "duration_ms": 194157,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/6cUMicvOMvc2IO42Wxhiuz"
+      "duration_ms": 177000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/7aCNLsACBDq1AhIdESyIr2"
     },
     {
       "added_at": "2026-05-29 14:23:18",
@@ -315,18 +251,18 @@
     {
       "added_at": "2026-05-29 14:23:18",
       "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6iFnTh7yJX21BmQHE7sd6d"
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/510NDFUG6t6G6ESArhK9HS"
       },
       "artists": [
         {
-          "name": "Aidan Jennings",
-          "url": "https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o"
+          "name": "Simon Koch",
+          "url": "https://open.spotify.com/artist/6X1UMdYVnTzCJgLryxnbcs"
         }
       ],
-      "duration_ms": 148317,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/00zboRdO7yjPazc4J7d3EB"
+      "duration_ms": 123624,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/77WVPfm3iseIYSEzrarIMC"
     },
     {
       "added_at": "2026-05-29 14:23:18",
@@ -347,22 +283,6 @@
     {
       "added_at": "2026-05-29 14:23:18",
       "album": {
-        "name": "Bad Day",
-        "url": "https://open.spotify.com/album/4qCXYMWUlG7mSbB3TLJpuC"
-      },
-      "artists": [
-        {
-          "name": "Arlo Thiem",
-          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
-        }
-      ],
-      "duration_ms": 221401,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/0QdXhy1NEPdmnLpcnANzLP"
-    },
-    {
-      "added_at": "2026-05-29 14:23:18",
-      "album": {
         "name": "Cruel Summer",
         "url": "https://open.spotify.com/album/0VIIn0PAxzpBMPM3B4vRHo"
       },
@@ -375,22 +295,6 @@
       "duration_ms": 163958,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/2CdBf80bJhjfR6gM2qO5Sp"
-    },
-    {
-      "added_at": "2026-05-29 14:23:18",
-      "album": {
-        "name": "Take Me To Church",
-        "url": "https://open.spotify.com/album/7e1Gabpqu7HTRpDH00rurP"
-      },
-      "artists": [
-        {
-          "name": "Asher Moreau",
-          "url": "https://open.spotify.com/artist/13PX2wdFfIRZ47RLgMZjq0"
-        }
-      ],
-      "duration_ms": 178705,
-      "name": "Take Me To Church",
-      "url": "https://open.spotify.com/track/0OMqhP4WR0L2HOyLa6CNHa"
     },
     {
       "added_at": "2026-05-29 14:23:18",
@@ -427,22 +331,6 @@
     {
       "added_at": "2026-05-29 14:23:18",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/510NDFUG6t6G6ESArhK9HS"
-      },
-      "artists": [
-        {
-          "name": "Simon Koch",
-          "url": "https://open.spotify.com/artist/6X1UMdYVnTzCJgLryxnbcs"
-        }
-      ],
-      "duration_ms": 123624,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/77WVPfm3iseIYSEzrarIMC"
-    },
-    {
-      "added_at": "2026-05-29 14:23:18",
-      "album": {
         "name": "Don't you (forget about me)",
         "url": "https://open.spotify.com/album/62AfSthGAMGooKPvTUuZm3"
       },
@@ -475,6 +363,22 @@
     {
       "added_at": "2026-05-29 14:23:18",
       "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/2yWHVaVYNQbJIhcSDVnde9"
+      },
+      "artists": [
+        {
+          "name": "Alexander Windale",
+          "url": "https://open.spotify.com/artist/0HkHkfvuF0nxswWANtem18"
+        }
+      ],
+      "duration_ms": 166492,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/3zohOG2bCU8uKPEd7IXT2e"
+    },
+    {
+      "added_at": "2026-05-29 14:23:18",
+      "album": {
         "name": "Everybody Wants to Rule the World",
         "url": "https://open.spotify.com/album/3W7MfwaDkTkWqrcYR6oE3R"
       },
@@ -487,38 +391,6 @@
       "duration_ms": 157050,
       "name": "Everybody Wants to Rule the World",
       "url": "https://open.spotify.com/track/7MqKp8wxNTV4Qos6s2diVh"
-    },
-    {
-      "added_at": "2026-05-29 14:23:18",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/1YB6dXLdeUIdwtyuRym3YH"
-      },
-      "artists": [
-        {
-          "name": "Fiona Greenly",
-          "url": "https://open.spotify.com/artist/1o7MqXOsAEoLkc9YEj7m9c"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/7aCNLsACBDq1AhIdESyIr2"
-    },
-    {
-      "added_at": "2026-05-29 14:23:18",
-      "album": {
-        "name": "If I Ain't Got You",
-        "url": "https://open.spotify.com/album/26aYsNou3jXJx66ZeywvB8"
-      },
-      "artists": [
-        {
-          "name": "Carl Fredman",
-          "url": "https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU"
-        }
-      ],
-      "duration_ms": 221222,
-      "name": "If I Ain't Got You",
-      "url": "https://open.spotify.com/track/2y8MsTG4gQ1G2hC5nWbQBx"
     },
     {
       "added_at": "2026-05-29 14:23:18",
@@ -551,6 +423,22 @@
       "duration_ms": 173198,
       "name": "Bette Davis Eyes",
       "url": "https://open.spotify.com/track/7d3L9ZQmTLUUs4382231TU"
+    },
+    {
+      "added_at": "2026-05-29 14:23:18",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/6sMhEX0noNb7GCGdacBdo7"
+      },
+      "artists": [
+        {
+          "name": "Heather Riley",
+          "url": "https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV"
+        }
+      ],
+      "duration_ms": 263875,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/4NfqOLPYiJyc9G6ph9UuMZ"
     },
     {
       "added_at": "2026-05-29 14:23:18",
@@ -683,22 +571,6 @@
     {
       "added_at": "2026-05-29 14:23:18",
       "album": {
-        "name": "I'm Like a Bird",
-        "url": "https://open.spotify.com/album/5v16a9pJchQbDZs3Ek528N"
-      },
-      "artists": [
-        {
-          "name": "Falk Tyler",
-          "url": "https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu"
-        }
-      ],
-      "duration_ms": 168600,
-      "name": "I'm Like A Bird",
-      "url": "https://open.spotify.com/track/6lzk90e6rDkBZmg2O0iiEW"
-    },
-    {
-      "added_at": "2026-05-29 14:23:18",
-      "album": {
         "name": "Can't Stop the Feeling",
         "url": "https://open.spotify.com/album/7fzzZkgfVFP8YKXXYH4D9e"
       },
@@ -743,22 +615,6 @@
       "duration_ms": 195966,
       "name": "Easy on me",
       "url": "https://open.spotify.com/track/5Qxt1qqgNGaoXUb0lSvaJJ"
-    },
-    {
-      "added_at": "2026-05-29 14:23:18",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/6sMhEX0noNb7GCGdacBdo7"
-      },
-      "artists": [
-        {
-          "name": "Heather Riley",
-          "url": "https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV"
-        }
-      ],
-      "duration_ms": 263875,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/4NfqOLPYiJyc9G6ph9UuMZ"
     },
     {
       "added_at": "2026-05-29 14:23:18",
@@ -871,22 +727,6 @@
       "duration_ms": 171369,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/23PNwyg8r5ckWbB67J45NS"
-    },
-    {
-      "added_at": "2026-05-29 14:23:18",
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/2yWHVaVYNQbJIhcSDVnde9"
-      },
-      "artists": [
-        {
-          "name": "Alexander Windale",
-          "url": "https://open.spotify.com/artist/0HkHkfvuF0nxswWANtem18"
-        }
-      ],
-      "duration_ms": 166492,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/3zohOG2bCU8uKPEd7IXT2e"
     },
     {
       "added_at": "2026-05-29 14:23:18",
@@ -1401,6 +1241,22 @@
       "url": "https://open.spotify.com/track/0lyj9SQRKOg5hEOUzkmwZd"
     },
     {
+      "added_at": "2026-06-11 18:18:21",
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/4ANtz0euMNdAZS1NBXKf9E"
+      },
+      "artists": [
+        {
+          "name": "Liam Dunn",
+          "url": "https://open.spotify.com/artist/6QpB7K9h7sFd0acffHgrwb"
+        }
+      ],
+      "duration_ms": 145671,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/3PRRa4dwDkFCy9eSkJ9uDe"
+    },
+    {
       "added_at": "2026-05-29 14:23:18",
       "album": {
         "name": "Something",
@@ -1673,6 +1529,22 @@
       "url": "https://open.spotify.com/track/5uoOSG79SKKkw7F7wyqkRJ"
     },
     {
+      "added_at": "2026-06-11 18:18:21",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/0J5S1l3Ii2aGDH6t6B1JUZ"
+      },
+      "artists": [
+        {
+          "name": "Velvet Touch",
+          "url": "https://open.spotify.com/artist/2o3VOSLA8a9tPU0kfclKHM"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/5hIVXvMjjdK4sOnl6XaKPH"
+    },
+    {
       "added_at": "2026-05-29 14:23:18",
       "album": {
         "name": "Fix You",
@@ -1703,6 +1575,38 @@
       "duration_ms": 169926,
       "name": "Home",
       "url": "https://open.spotify.com/track/4SvH7Mx1ZDUOCMDghA3gGO"
+    },
+    {
+      "added_at": "2026-06-11 18:18:21",
+      "album": {
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/4tBX8nzQagGSFn1LvPBMzb"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Palmer",
+          "url": "https://open.spotify.com/artist/0Z8TgF0yUXApLDi2aV1dSN"
+        }
+      ],
+      "duration_ms": 171318,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4v4TQL0zZUalWpttyMgNF2"
+    },
+    {
+      "added_at": "2026-06-11 18:18:21",
+      "album": {
+        "name": "Be My Mistake",
+        "url": "https://open.spotify.com/album/2pl9xEuwJjEZNfgTIP6EJf"
+      },
+      "artists": [
+        {
+          "name": "Olavi Heed",
+          "url": "https://open.spotify.com/artist/5SPqbJUyrKqG0sWvYDecAa"
+        }
+      ],
+      "duration_ms": 217628,
+      "name": "Be My Mistake",
+      "url": "https://open.spotify.com/track/0WY5pNhJTjXLYuYApsSzQM"
     },
     {
       "added_at": "2026-05-29 14:23:18",
@@ -1783,6 +1687,22 @@
       "duration_ms": 174960,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/5Ejj6d6NWhR1g9oymWBlm2"
+    },
+    {
+      "added_at": "2026-06-11 18:18:21",
+      "album": {
+        "name": "Hot Stuff",
+        "url": "https://open.spotify.com/album/5ZnNdAao2CgA3cobDitQog"
+      },
+      "artists": [
+        {
+          "name": "Sander Bjerke",
+          "url": "https://open.spotify.com/artist/5CNvO8oqz1vgXgVLKA4ehv"
+        }
+      ],
+      "duration_ms": 197828,
+      "name": "Hot Stuff",
+      "url": "https://open.spotify.com/track/0vXHSZjKoNAsrD0FJfqsn9"
     },
     {
       "added_at": "2026-05-29 14:23:18",
@@ -2059,6 +1979,22 @@
     {
       "added_at": "2026-05-29 14:23:18",
       "album": {
+        "name": "Ziggy Stardust",
+        "url": "https://open.spotify.com/album/5YwgKHL6IbgAcg91qAqE1w"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kahn",
+          "url": "https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Ziggy Stardust",
+      "url": "https://open.spotify.com/track/7s20sxFe7br4GhPUBgCERZ"
+    },
+    {
+      "added_at": "2026-05-29 14:23:18",
+      "album": {
         "name": "I won't let the sun go down on me",
         "url": "https://open.spotify.com/album/0jjBB5aIr8mMgypCdwSmkw"
       },
@@ -2121,6 +2057,22 @@
       "url": "https://open.spotify.com/track/51q9sjxT1PNjgRTPWBRuha"
     },
     {
+      "added_at": "2026-06-11 18:18:21",
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/3tUIMVFfL1MU7HC5L4sLlQ"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "duration_ms": 173624,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/2GYewQA5xHPJUn2baNR3Ub"
+    },
+    {
       "added_at": "2026-05-29 14:23:18",
       "album": {
         "name": "Holy",
@@ -2151,6 +2103,22 @@
       "duration_ms": 218581,
       "name": "Someone like you",
       "url": "https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG"
+    },
+    {
+      "added_at": "2026-06-11 18:18:21",
+      "album": {
+        "name": "Where The Streets Have No Name",
+        "url": "https://open.spotify.com/album/1CyGN6dC2BrhF0WXNCNUTh"
+      },
+      "artists": [
+        {
+          "name": "Ross Ware",
+          "url": "https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q"
+        }
+      ],
+      "duration_ms": 169787,
+      "name": "Where The Streets Have No Name",
+      "url": "https://open.spotify.com/track/0iwIdXQHWuyU7Ze6wBnNun"
     },
     {
       "added_at": "2026-05-29 14:23:18",
@@ -2199,6 +2167,22 @@
       "duration_ms": 151484,
       "name": "Words",
       "url": "https://open.spotify.com/track/6HWTR9SN6kjWSirXAq9tXI"
+    },
+    {
+      "added_at": "2026-06-11 18:18:21",
+      "album": {
+        "name": "When You Say Nothing At All",
+        "url": "https://open.spotify.com/album/1heo44LPMiIUkFQjiQjrM3"
+      },
+      "artists": [
+        {
+          "name": "Mino Lawrence",
+          "url": "https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/6j0tjTQ6Pz3tB0O8uix2Eo"
     },
     {
       "added_at": "2026-05-29 14:23:18",
@@ -2329,6 +2313,22 @@
       "url": "https://open.spotify.com/track/2FXgKMM1anXLM8o4jpgqMr"
     },
     {
+      "added_at": "2026-06-11 18:18:21",
+      "album": {
+        "name": "Viva La Vida",
+        "url": "https://open.spotify.com/album/5tU4IeqW5okLOFooZqzAFF"
+      },
+      "artists": [
+        {
+          "name": "Vidar Arvidsson",
+          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
+        }
+      ],
+      "duration_ms": 197690,
+      "name": "Californication",
+      "url": "https://open.spotify.com/track/6KF0ASfUw7mzIIWOmRFI7z"
+    },
+    {
       "added_at": "2026-05-29 14:23:18",
       "album": {
         "name": "Titanium",
@@ -2393,20 +2393,20 @@
       "url": "https://open.spotify.com/track/2bVMZxVFHsK2DvYNQQzosE"
     },
     {
-      "added_at": "2026-05-29 14:23:18",
+      "added_at": "2026-06-11 18:18:21",
       "album": {
-        "name": "Ziggy Stardust",
-        "url": "https://open.spotify.com/album/5YwgKHL6IbgAcg91qAqE1w"
+        "name": "Wonder Woman",
+        "url": "https://open.spotify.com/album/17q5zFGbh3XNEtEhOjyIpw"
       },
       "artists": [
         {
-          "name": "Samuel Kahn",
-          "url": "https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb"
+          "name": "Man In The Moon",
+          "url": "https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Ziggy Stardust",
-      "url": "https://open.spotify.com/track/7s20sxFe7br4GhPUBgCERZ"
+      "duration_ms": 198374,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6KO3K2Iu0EHOIbSRibo7M8"
     }
   ],
   "unique_name": "Calming Instrumental Covers",

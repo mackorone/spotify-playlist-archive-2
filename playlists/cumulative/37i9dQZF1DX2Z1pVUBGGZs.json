@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries \ud83e\uddfa\ncover: Malcolm Todd",
+  "description": "a playlist without boundaries \ud83d\udc7d cover: amie blu",
   "name": "Our Generation",
   "tracks": [
     {
@@ -474,7 +474,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 450574,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/3pRC68ju71MW3CwcpueO2c"
@@ -1002,6 +1002,24 @@
       "duration_ms": 143583,
       "name": "ARE U SERIOUS?",
       "url": "https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH"
+    },
+    {
+      "album": {
+        "name": "armageddon",
+        "url": "https://open.spotify.com/album/4KjzmZSSwxNHDb6fAekTr1"
+      },
+      "artists": [
+        {
+          "name": "chi",
+          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187118,
+      "name": "armageddon",
+      "url": "https://open.spotify.com/track/3dulPY59IY7L0hZeuNV1kE"
     },
     {
       "album": {
@@ -3227,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/67FCh7PYKRuKlp8TrjK7Zu"
+      },
+      "artists": [
+        {
+          "name": "Quinn Oulton",
+          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155210,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/1Y564qo4Kb0LvGnbTqKbk7"
+    },
+    {
+      "album": {
         "name": "The Late Bloomer",
         "url": "https://open.spotify.com/album/6MNlfbLZxmnEFQxxeSpmna"
       },
@@ -3982,7 +4018,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 195050,
       "name": "DARLING",
       "url": "https://open.spotify.com/track/2zq3pwi2tlf96KbnZqDYvq"
@@ -4564,7 +4600,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 182395,
       "name": "DON'T ASK!",
       "url": "https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA"
@@ -4932,6 +4968,24 @@
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
+      "album": {
+        "name": "Earthworm",
+        "url": "https://open.spotify.com/album/543k82dYTEPXCyzse0Gg7v"
+      },
+      "artists": [
+        {
+          "name": "Laizer",
+          "url": "https://open.spotify.com/artist/1xuLVQC0qd8GzPcnJ4gs22"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176277,
+      "name": "Earthworm",
+      "url": "https://open.spotify.com/track/4wSMuydBSmSJ7RU60E7DlL"
     },
     {
       "album": {
@@ -6830,7 +6884,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 204357,
       "name": "Halfway Round The World",
       "url": "https://open.spotify.com/track/3kWEvYnVvqwJDNiKz76yBV"
@@ -7916,7 +7970,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 139784,
       "name": "I Expect Better",
       "url": "https://open.spotify.com/track/5GR30tXyjrKUb5LcWya8zn"
@@ -8692,6 +8746,24 @@
       "duration_ms": 172307,
       "name": "IN MY HEAD",
       "url": "https://open.spotify.com/track/5xOQIw4Q5BpEMX4IQSojV3"
+    },
+    {
+      "album": {
+        "name": "She Won't Let Go",
+        "url": "https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD"
+      },
+      "artists": [
+        {
+          "name": "SISTRA",
+          "url": "https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147800,
+      "name": "In Two",
+      "url": "https://open.spotify.com/track/2chCyZz2DG5uRasGN40x28"
     },
     {
       "album": {
@@ -9802,7 +9874,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 162412,
       "name": "Lights Off",
       "url": "https://open.spotify.com/track/3RH8lBYK7rpmRmyYY79t0J"
@@ -9918,6 +9990,24 @@
       "duration_ms": 147906,
       "name": "Little White Lie",
       "url": "https://open.spotify.com/track/3GPUrIPWpqIFdIqL8Spyla"
+    },
+    {
+      "album": {
+        "name": "Indigo, Vibrant and New",
+        "url": "https://open.spotify.com/album/67nJ95a1e01XxgMjNZkXRN"
+      },
+      "artists": [
+        {
+          "name": "Pixie McCann",
+          "url": "https://open.spotify.com/artist/2JT4el59Lvkj4FrhbzdBSu"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222214,
+      "name": "Living in Memory",
+      "url": "https://open.spotify.com/track/0Oh0bIJoGD0KM48pEKDm3z"
     },
     {
       "album": {
@@ -10178,7 +10268,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 176887,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa"
@@ -10514,6 +10604,24 @@
       "duration_ms": 159000,
       "name": "Mad House",
       "url": "https://open.spotify.com/track/62LAis8PVHATb0eqooUev1"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240100,
+      "name": "maggots for brains",
+      "url": "https://open.spotify.com/track/22l7ocwYpEYGvYpM9T2C5K"
     },
     {
       "album": {
@@ -12921,6 +13029,24 @@
     },
     {
       "album": {
+        "name": "punch",
+        "url": "https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4"
+      },
+      "artists": [
+        {
+          "name": "Daisy*",
+          "url": "https://open.spotify.com/artist/5D9FTN2RO8AWdm57L9CVeH"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195357,
+      "name": "punch",
+      "url": "https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA"
+    },
+    {
+      "album": {
         "name": "punch drunk",
         "url": "https://open.spotify.com/album/51jVSMSNc2agfJgp7sPnFm"
       },
@@ -14245,6 +14371,24 @@
     },
     {
       "album": {
+        "name": "SIMP 4 U",
+        "url": "https://open.spotify.com/album/4oqQMSGJ8PImETmerljN5Q"
+      },
+      "artists": [
+        {
+          "name": "YAII",
+          "url": "https://open.spotify.com/artist/7MvPAMS30HN4K095Vm4N30"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135692,
+      "name": "SIMP 4 U",
+      "url": "https://open.spotify.com/track/1VrREfQ1MXoiRULw3eYl3N"
+    },
+    {
+      "album": {
         "name": "sittingbugs",
         "url": "https://open.spotify.com/album/3Vd5FIDFKa5jeM5CMWdp5I"
       },
@@ -14919,6 +15063,24 @@
     },
     {
       "album": {
+        "name": "Southern Youth",
+        "url": "https://open.spotify.com/album/4vS8e6ggYLuO6eMNwbqRYg"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242029,
+      "name": "Southern Youth",
+      "url": "https://open.spotify.com/track/1PWh0ypifsoAUUN2HtZMpq"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/0XFMxuZD5kbRlBSP5UZI8h"
       },
@@ -15308,7 +15470,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 176368,
       "name": "STOP",
       "url": "https://open.spotify.com/track/2487dSsY2qY7OZxbhSdqDp"
@@ -16878,7 +17040,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 184650,
       "name": "Treading Water",
       "url": "https://open.spotify.com/track/2vy2VwvIHGUowBOvyTb9gg"
@@ -17580,7 +17742,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 143872,
       "name": "waste your pain",
       "url": "https://open.spotify.com/track/3dwJ7YOq1ypxSZrh5GkZas"
@@ -18002,6 +18164,24 @@
       "duration_ms": 251294,
       "name": "Where'd It Go Wrong?",
       "url": "https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0"
+    },
+    {
+      "album": {
+        "name": "WHERE\u2019S THE FUN?",
+        "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205794,
+      "name": "WHERE\u2019S THE FUN?",
+      "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
     },
     {
       "album": {

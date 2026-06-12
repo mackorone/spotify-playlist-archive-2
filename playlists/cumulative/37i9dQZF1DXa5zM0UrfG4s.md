@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-467 songs - 21 hr 22 min
+468 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Hem Till Dig](https://open.spotify.com/track/0dAA6gGibdlYXiYFyzWDX7) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Hem Till Dig](https://open.spotify.com/album/2oIJCQbcw2uqu4rQ7RmOv4) | 3:12 | 2021-12-16 | 2022-10-16 |
 | [Her er det liv](https://open.spotify.com/track/4ffdNW62Z6XaS8XQrrvQcp) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Her er det liv](https://open.spotify.com/album/2YVX4cPRpeL4YhSY6KxElv) | 3:03 | 2024-04-25 | 2024-06-26 |
 | [Her kommer sola](https://open.spotify.com/track/2LBXXYTmL89PQO0xDTd4hY) | [Frøya](https://open.spotify.com/artist/2w8eUfLsUbiX7MQyTW13S6) | [Jenta Fra Landet](https://open.spotify.com/album/4cbJTnB9KIXPuyjRwUiqKw) | 3:06 | 2021-12-16 | 2022-07-05 |
+| [Her og no](https://open.spotify.com/track/5MnPKJKEnNpwf3gzBitObq) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Her og no](https://open.spotify.com/album/3UzSZqAsJtaE3fK504GEpB) | 3:26 | 2026-06-11 |  |
 | [Her og nå](https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X) | [River](https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5) | [Her og nå](https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e) | 2:16 | 2025-08-07 | 2026-05-08 |
 | [HET](https://open.spotify.com/track/5RaQUKpL2DtpEPFhnddC65) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [The Pineapple Squad](https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi) | [HET](https://open.spotify.com/album/5RlQuD6gyCSIVgx4rQxXRX) | 2:47 | 2022-06-02 | 2022-07-13 |
 | [HEY FRÖKEN](https://open.spotify.com/track/4rBpRg5KKRBj8jTshSMSeE) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [HEY FRÖKEN](https://open.spotify.com/album/1jaQS1Kw0HAfiyIWOUrDUA) | 2:13 | 2024-02-08 | 2024-02-16 |
@@ -339,7 +340,7 @@
 | [Partyjoik](https://open.spotify.com/track/180k05Dn11ylHDEkIzvssR) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:34 | 2024-02-15 | 2025-07-11 |
 | [Partyjoik](https://open.spotify.com/track/74mJCN9Yr4aTxRM7AbS4FI) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Partyjoik](https://open.spotify.com/album/0y18OXhsVZFe0xVABQO1g1) | 2:34 | 2022-02-03 | 2022-08-05 |
 | [Pengene eller Livet](https://open.spotify.com/track/7kjaJxq0ilgPOUY0IpDq3V) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Pengene eller Livet](https://open.spotify.com/album/10eqaM5ACUHLLIQEtYA0ld) | 2:40 | 2026-04-16 |  |
-| [Pickup truck](https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Pickup truck](https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx) | 3:30 | 2025-06-12 |  |
+| [Pickup truck](https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Pickup truck](https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx) | 3:30 | 2025-06-12 | 2026-06-12 |
 | [PIGA & DRÄNG](https://open.spotify.com/track/3TqNrIB75lAx8rJBzyLNhX) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [PIGA & DRÄNG](https://open.spotify.com/album/2hv4vzbU53T6bjOSv0vpm0) | 2:28 | 2023-08-17 | 2023-10-11 |
 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 | 2021-12-16 | 2025-08-08 |
 | [Polisen](https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Polisen](https://open.spotify.com/album/4dVz4LIb33QKCJoxQPYyNL) | 2:34 | 2021-12-16 | 2024-02-09 |

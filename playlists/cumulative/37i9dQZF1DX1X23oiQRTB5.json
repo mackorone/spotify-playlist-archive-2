@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Hamza au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Gazo x La Mano 1.9 x La Rvfleuze au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -192,6 +192,24 @@
       "duration_ms": 201373,
       "name": "22",
       "url": "https://open.spotify.com/track/3iarwMZyDiCy1p4M553MWw"
+    },
+    {
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/0gxlIJihKIchpuZSFF4Dkm"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143649,
+      "name": "22",
+      "url": "https://open.spotify.com/track/0XT26JAQgLYOwcrwvpbY69"
     },
     {
       "album": {
@@ -5105,6 +5123,24 @@
     },
     {
       "album": {
+        "name": "Maracan\u00e3",
+        "url": "https://open.spotify.com/album/2NxksJ1HvTdFXQ9CnP535o"
+      },
+      "artists": [
+        {
+          "name": "Lagui",
+          "url": "https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Maracan\u00e3",
+      "url": "https://open.spotify.com/track/2cG3gLsTpuZgFNY7u5KFSW"
+    },
+    {
+      "album": {
         "name": "Match",
         "url": "https://open.spotify.com/album/1DyKKChdiu0IdEZvz4yt4U"
       },
@@ -6084,7 +6120,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 177867,
       "name": "NOUS#2",
       "url": "https://open.spotify.com/track/6RtlWji8Xzg4beZYSTkDUU"
@@ -6299,6 +6335,24 @@
     },
     {
       "album": {
+        "name": "Pangor (Swalalala)",
+        "url": "https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt"
+      },
+      "artists": [
+        {
+          "name": "Djaksparo",
+          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121704,
+      "name": "Pangor (Swalalala)",
+      "url": "https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP"
+    },
+    {
+      "album": {
         "name": "DOM PERIGNON CRYING",
         "url": "https://open.spotify.com/album/6OnLV2MfyGb0H9SEEa8Slc"
       },
@@ -6390,7 +6444,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 183573,
       "name": "Parle moi",
       "url": "https://open.spotify.com/track/0u3X2FAuek7g4K2a7Nw5Om"
@@ -6866,7 +6920,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 201142,
       "name": "Printemps",
       "url": "https://open.spotify.com/track/4KMbIojhnl6R2BLuxdSguR"
@@ -7128,6 +7182,24 @@
       "duration_ms": 186951,
       "name": "R.A.S.",
       "url": "https://open.spotify.com/track/1nIxCTbXldWJXeQB2h4Lyh"
+    },
+    {
+      "album": {
+        "name": "RAP d\u2019arabe",
+        "url": "https://open.spotify.com/album/5k4CfMeOgL4wICbkzmWODJ"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00eff",
+          "url": "https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181829,
+      "name": "RAP d\u2019arabe",
+      "url": "https://open.spotify.com/track/6GptmYh60KaZ2QfUEfjOby"
     },
     {
       "album": {
@@ -7786,7 +7858,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 172258,
       "name": "SIERRA LEONE",
       "url": "https://open.spotify.com/track/6cGkG0fTz1Kgle6PHj7Rnh"

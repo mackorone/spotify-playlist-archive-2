@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Best blends of Electronic music across Africa. Cover: Sofiya Nzau",
+  "description": "Best blends of Electronic music across Africa. Cover: Hirabe, Mura, DJayPaps",
   "name": "Oontz",
   "tracks": [
     {
@@ -4469,6 +4469,32 @@
     },
     {
       "album": {
+        "name": "Nishike (Dandara Remix)",
+        "url": "https://open.spotify.com/album/3Bl8FCDUNwyLV7kiiAJyHH"
+      },
+      "artists": [
+        {
+          "name": "Dan Bay",
+          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Dandara",
+          "url": "https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Nishike - Dandara Remix",
+      "url": "https://open.spotify.com/track/13MRWh5A5PgcGzaMDCiVEC"
+    },
+    {
+      "album": {
         "name": "Njaula Ibe",
         "url": "https://open.spotify.com/album/7F5UexBPN27lepE3dPNiPw"
       },
@@ -5503,6 +5529,32 @@
     },
     {
       "album": {
+        "name": "Saka Mali",
+        "url": "https://open.spotify.com/album/4G2ybqvYcxfzF9ZoqTTlQM"
+      },
+      "artists": [
+        {
+          "name": "Hiribae",
+          "url": "https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3"
+        },
+        {
+          "name": "Mura",
+          "url": "https://open.spotify.com/artist/1bpcn6wsTlAC2ntuOHksLd"
+        },
+        {
+          "name": "DJayPaps",
+          "url": "https://open.spotify.com/artist/1de8H9NN6wiUOb7UMFVywT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369214,
+      "name": "Saka Mali",
+      "url": "https://open.spotify.com/track/5iMIKFKvGdxElQp1m1E3dT"
+    },
+    {
+      "album": {
         "name": "Salama",
         "url": "https://open.spotify.com/album/3TTdPM58VQnCExT87kle4v"
       },
@@ -5984,6 +6036,32 @@
       "duration_ms": 242198,
       "name": "Sondans",
       "url": "https://open.spotify.com/track/5BcMZEJoHhPu1HWX9qeWLA"
+    },
+    {
+      "album": {
+        "name": "Sondela",
+        "url": "https://open.spotify.com/album/0yAP06TIl8IHtAX7us3CP1"
+      },
+      "artists": [
+        {
+          "name": "Dos Rios",
+          "url": "https://open.spotify.com/artist/2sdnT22dSJMlN2uJHJwgKX"
+        },
+        {
+          "name": "Serghmarie",
+          "url": "https://open.spotify.com/artist/0Mi7l8fh6fEGf4ZXjAI5Ea"
+        },
+        {
+          "name": "Am\u00e8",
+          "url": "https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Sondela",
+      "url": "https://open.spotify.com/track/1F6tnpdRWWRmnL6XC3W1k5"
     },
     {
       "album": {

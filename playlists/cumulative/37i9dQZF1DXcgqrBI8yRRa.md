@@ -4,7 +4,7 @@
 
 > Trending rn.
 
-1,142 songs - 2 day 15 hr 53 min
+1,143 songs - 2 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1069,7 +1069,8 @@
 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 | 2024-03-05 | 2024-03-30 |
 | [Vuka \(feat\. Thukuthela\)](https://open.spotify.com/track/24fRfn3FOM4xk02aE4wief) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [Jazzworx](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Vuka \(feat\. Thukuthela\)](https://open.spotify.com/album/2kOXA5AceS4b8bfjtZW4nE) | 5:27 | 2025-03-07 | 2025-07-05 |
 | [Vuma Dlozi Lami \(feat\. Ancestral Rituals\)](https://open.spotify.com/track/0DGP0pRR8yz4OW2xxjIskt) | [Issa sisdoh](https://open.spotify.com/artist/1ccVv6sg5vGPpJ77qAt6yI), [Ancestral Rituals](https://open.spotify.com/artist/00GORbFeDmlAUD96S9joup) | [Vuma Dlozi Lami \(feat\. Ancestral Rituals\)](https://open.spotify.com/album/5tM3THh1UUzsUiULDPHv0k) | 6:20 | 2025-06-27 | 2025-07-05 |
-| [WAGWAN](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ALL ROADS LEAD HOME](https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID) | 2:07 | 2026-04-20 |  |
+| [Wa](https://open.spotify.com/track/5KX0YeCNKaOc3XhhDHi3mI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:23 | 2026-06-12 |  |
+| [WAGWAN](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ALL ROADS LEAD HOME](https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID) | 2:07 | 2026-04-20 | 2026-06-12 |
 | [Wahala](https://open.spotify.com/track/58J6sUOut4BA4WHJ8FYmNm) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Wahala](https://open.spotify.com/album/7s33yfAOWEmFFhMoD98MRK) | 3:27 | 2024-08-09 | 2024-10-15 |
 | [Warning \(feat Shandesh & PhabloOn The Beat\)](https://open.spotify.com/track/4c6BwCMZqdBPLrjhOuFRiS) | [SA Music](https://open.spotify.com/artist/6yiPh3PFWK34lW1jQYNTTK), [Shandesh](https://open.spotify.com/artist/33FCLEvz74Vgp3uUdO9rKL), [PhabloOn The Beat](https://open.spotify.com/artist/5KJ1lsxb8EZBAeiyTDNvSo) | [Fly High Lekompo](https://open.spotify.com/album/6Co7G3TPxYuHFNqWUmcLIo) | 4:28 | 2025-05-01 | 2025-05-17 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2024-02-06 | 2025-07-05 |

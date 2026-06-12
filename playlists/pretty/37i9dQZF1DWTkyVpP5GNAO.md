@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Marcos Vidal, Marcos Witt, & Marco Barrientos
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,414 likes - 70 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,451 likes - 70 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

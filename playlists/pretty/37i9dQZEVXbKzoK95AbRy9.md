@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,508 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,611 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [É Que Eu Não Te Esqueci 💔](https://open.spotify.com/track/3D71jvd5cyuaW5c3jBCw4i) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Fire Arena ❤️‍🔥](https://open.spotify.com/album/5XBlACB0p8q28Or9SiCSBL) | 2:43 |
 | 50 | [Ilusão De Ótica \- Ao Vivo](https://open.spotify.com/track/44CTudFZ0kbaIF9n0jk7oU) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Envolvente \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/1OkdRmcGgEGkotlkG1E9q2) | 2:59 |
 
-Snapshot ID: `Mbze2AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mb4wWAAAAAAAAAAAAAAAAAAAAAAAAGVu`

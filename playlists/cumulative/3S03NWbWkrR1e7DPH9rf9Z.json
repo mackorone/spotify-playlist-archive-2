@@ -728,7 +728,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 172374,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/1kaKPvkPPFugFENneFGFUV"
@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 172176,
       "name": "Happy Revolution",
       "url": "https://open.spotify.com/track/6K22fmkCwrLdzqLUixb6Q1"
@@ -4049,6 +4049,24 @@
     },
     {
       "album": {
+        "name": "Shut Me Out",
+        "url": "https://open.spotify.com/album/5719X2MCVrjOX4O2lByMgv"
+      },
+      "artists": [
+        {
+          "name": "Detmex",
+          "url": "https://open.spotify.com/artist/4wBopwyJ1F228LOOFb6qT8"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156798,
+      "name": "Shut Me Out",
+      "url": "https://open.spotify.com/track/6yPsIhudMKCzbFeI096frL"
+    },
+    {
+      "album": {
         "name": "Shut Up (Nicky Romero Edit)",
         "url": "https://open.spotify.com/album/6xDbkZNGfGx5SOi0fbag3c"
       },
@@ -4356,7 +4374,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 206160,
       "name": "The Motto - Ti\u00ebsto\u2019s VIP Mix",
       "url": "https://open.spotify.com/track/6NNpXXkpPDZKxdavZbVhwJ"
@@ -4996,7 +5014,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 162870,
       "name": "We Are Free",
       "url": "https://open.spotify.com/track/36vCzShuqcVtAikqtpPTmT"
@@ -5066,7 +5084,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 190153,
       "name": "We Don't Care - SaberZ Remix",
       "url": "https://open.spotify.com/track/0ZP7z0N7Fui5YWs6g1kHYF"

@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 217920,
       "name": "365",
       "url": "https://open.spotify.com/track/3gL7OwN0YWlodBBgsTlnIX"
@@ -148,7 +148,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 288374,
       "name": "A Lot Like Heaven - Space Motion Remix",
       "url": "https://open.spotify.com/track/2hT5X2DjHG7D6vmhTWBDsG"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 157847,
       "name": "Abraza",
       "url": "https://open.spotify.com/track/5LTG0kxIlsJp6n5QIUKBo2"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 323221,
       "name": "Another Dimension - Extended Mix",
       "url": "https://open.spotify.com/track/6JvxvazbCGARCcZKm8qsCf"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 232968,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/5HZbrOgpctobRrFdksmlWc"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 159768,
       "name": "Bailar La Noche",
       "url": "https://open.spotify.com/track/0hVlaZguiVpWYchBmiG7CQ"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 243987,
       "name": "Before My Eyes - Club Mix",
       "url": "https://open.spotify.com/track/7cB6udL2tVOJgC16ty7GfZ"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 196363,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2E6yJ8ZmW2Oap0umIbZH2f"
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 226874,
       "name": "Break The Loop",
       "url": "https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1"
@@ -4082,7 +4082,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 169090,
       "name": "DONA",
       "url": "https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS"
@@ -4126,7 +4126,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 236975,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
@@ -4659,6 +4659,28 @@
     },
     {
       "album": {
+        "name": "Elysium",
+        "url": "https://open.spotify.com/album/2FWPJEb6I1Qjcy85UCwM4e"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mia",
+          "url": "https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq"
+        },
+        {
+          "name": "MAMI",
+          "url": "https://open.spotify.com/artist/5ggst36NN0Gj7JRv5pMKql"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219031,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/3SwWCfF9zT1A34ar3iDaaI"
+    },
+    {
+      "album": {
         "name": "Empser",
         "url": "https://open.spotify.com/album/157SjE3YrxvGXjdCMuE4Oq"
       },
@@ -5028,7 +5050,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 238125,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/6m1B316ZF6UpDQwhz34Zfr"
@@ -5068,7 +5090,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 198808,
       "name": "Eusexua - Anyma Remix",
       "url": "https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6"
@@ -5536,7 +5558,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 288115,
       "name": "Find A Way - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/4KoCo18Zg02uv72tyofFKf"
@@ -5852,7 +5874,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 240714,
       "name": "For a Feeling (feat. RHODES) - Adam Sellouk & Y do I Remix",
       "url": "https://open.spotify.com/track/17g0qkplMw3ejgGpDd2GJj"
@@ -5922,7 +5944,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 258545,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r"
@@ -5958,10 +5980,28 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 187200,
       "name": "Four Elements",
       "url": "https://open.spotify.com/track/3tgiIyHKe9vuxBbkLSDBT1"
+    },
+    {
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/4bfFEP8XU77Tqw96oIzd8i"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163664,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S"
     },
     {
       "album": {
@@ -6348,7 +6388,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 184477,
       "name": "girl$ - Layton Giordani Remix",
       "url": "https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz"
@@ -6550,7 +6590,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 197416,
       "name": "Glowing",
       "url": "https://open.spotify.com/track/2lL7pDoVpRcHSkAbpoe2Yi"
@@ -6984,7 +7024,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 187968,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/2X3MVthrKaaP8RbrEen8UJ"
@@ -7102,7 +7142,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 227117,
       "name": "Healing",
       "url": "https://open.spotify.com/track/1tRD1LXAAy2VPKwdVoHIMI"
@@ -7954,7 +7994,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 209090,
       "name": "I Will Find You",
       "url": "https://open.spotify.com/track/74XpVeIclja8aFEtCQq1Y5"
@@ -8082,7 +8122,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 226191,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/5LO4bhSlr5ypfNzU1wrziq"
@@ -9342,7 +9382,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 470400,
       "name": "Level One",
       "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
@@ -9861,6 +9901,24 @@
     },
     {
       "album": {
+        "name": "Lost Connection",
+        "url": "https://open.spotify.com/album/3cFAVf5F1IAoORVoZkflHT"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361755,
+      "name": "Lost Connection",
+      "url": "https://open.spotify.com/track/5NO7YEaffLjr9AxIYXKxbi"
+    },
+    {
+      "album": {
         "name": "Lost My Mind",
         "url": "https://open.spotify.com/album/3vUMb6M2VrUH3750wk7HrV"
       },
@@ -9876,7 +9934,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 119869,
       "name": "Lost My Mind",
       "url": "https://open.spotify.com/track/7HyS0rgA4t34Ri1dYA95oH"
@@ -10150,7 +10208,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 241889,
       "name": "Made For Love",
       "url": "https://open.spotify.com/track/12PHxHRb1eBihhxHOxxF6O"
@@ -10274,7 +10332,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 181875,
       "name": "MANTRA",
       "url": "https://open.spotify.com/track/4G6RcByL6hwtBJdhJDniFf"
@@ -11384,7 +11442,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 352833,
       "name": "NEMESIS",
       "url": "https://open.spotify.com/track/0WU8HGx7cQJsaqd9TAxDMx"
@@ -11502,7 +11560,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 203947,
       "name": "Nina",
       "url": "https://open.spotify.com/track/57C4WkNxsGbr6Xrd77ZcW2"
@@ -11666,7 +11724,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 220824,
       "name": "Nobodys Land",
       "url": "https://open.spotify.com/track/65qOWxtvJI8dHZGKIX8epj"
@@ -11810,7 +11868,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 405120,
       "name": "NXTBND",
       "url": "https://open.spotify.com/track/41BDMq1Qt76MKrrnKDvJki"
@@ -12436,7 +12494,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 230087,
       "name": "Pankrepas",
       "url": "https://open.spotify.com/track/39Ynos9s3WJPvss8z4JBg8"
@@ -12542,7 +12600,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 216653,
       "name": "Paradise (Feat. Jem Cooke)",
       "url": "https://open.spotify.com/track/6IB7ACtFpfxFbUR06pA7Xc"
@@ -13218,7 +13276,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 286928,
       "name": "Pull Out",
       "url": "https://open.spotify.com/track/3yLZ9iZRFJokbQypcIetjo"
@@ -14618,7 +14676,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 192626,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh"
@@ -14914,6 +14972,24 @@
       "duration_ms": 201500,
       "name": "Sierra",
       "url": "https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp"
+    },
+    {
+      "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/0SZZObF5dWDlmOdiDIWxQV"
+      },
+      "artists": [
+        {
+          "name": "PALASTIC",
+          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225468,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/32jE2x4NmL5z0XVH3iSxkx"
     },
     {
       "album": {
@@ -15491,6 +15567,24 @@
     },
     {
       "album": {
+        "name": "Step Into Your Mind",
+        "url": "https://open.spotify.com/album/5YmJ00nNC2M66WR0nhxoCy"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Step Into Your Mind",
+      "url": "https://open.spotify.com/track/2w1qucwFjnkjn4LRWhFjr1"
+    },
+    {
+      "album": {
         "name": "Sternstunde (Joris Voorn Edit)",
         "url": "https://open.spotify.com/album/3fPRdy4lb6bycInc7nBqAG"
       },
@@ -15772,7 +15866,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 210000,
       "name": "Sweet Disposition - ARTBAT Remix",
       "url": "https://open.spotify.com/track/0NInmbZliZg9hCrw5HgDuf"
@@ -16408,7 +16502,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 364687,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/7BG10c8LCWJKEZlPqwQDpG"
@@ -16426,7 +16520,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 200683,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/2MxYP7fPz6IZMTSfVaJuww"
@@ -17254,7 +17348,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 222249,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/1rBhIXBniWaeGINWQORMTH"
@@ -18526,7 +18620,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 297002,
       "name": "We Could Be Love (Fideles Remix)",
       "url": "https://open.spotify.com/track/6u4O8qYi83mw1ECH8UkDjD"
@@ -18760,7 +18854,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 161571,
       "name": "What U Like",
       "url": "https://open.spotify.com/track/5NGGduqBiTra1Fbkl3NjBZ"
@@ -18826,6 +18920,32 @@
       "duration_ms": 202500,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d"
+    },
+    {
+      "album": {
+        "name": "WHEREVER YOU ARE",
+        "url": "https://open.spotify.com/album/1muSg3FjOJyWqnlAjOXTGJ"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+        },
+        {
+          "name": "1LINE",
+          "url": "https://open.spotify.com/artist/0iMmDsJ0jR725VnnuimI67"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285600,
+      "name": "WHEREVER YOU ARE",
+      "url": "https://open.spotify.com/track/0oG75Fub50IHhrn9qKXBjO"
     },
     {
       "album": {
@@ -19080,7 +19200,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 158769,
       "name": "Yogen",
       "url": "https://open.spotify.com/track/68xerRWgQrWYhVaojwmOXe"

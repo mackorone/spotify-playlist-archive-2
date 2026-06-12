@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Aanu Ni",
+        "url": "https://open.spotify.com/album/1bbzsjqKvhvYaJCBiskpET"
+      },
+      "artists": [
+        {
+          "name": "BisiManuel",
+          "url": "https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222977,
+      "name": "Aanu Ni",
+      "url": "https://open.spotify.com/track/6Xlk1BRpm8popHswG85vsw"
+    },
+    {
+      "album": {
         "name": "Able God",
         "url": "https://open.spotify.com/album/6pwOhF1h9S0TKheP28rNLa"
       },
@@ -2144,6 +2162,24 @@
       "duration_ms": 357208,
       "name": "Favour",
       "url": "https://open.spotify.com/track/0mxvkw5NNGXugvh5qVORjx"
+    },
+    {
+      "album": {
+        "name": "Rahama (Live)",
+        "url": "https://open.spotify.com/album/4kQttyy3r4QbpxPwL3ImZl"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 595178,
+      "name": "Fear Of God - Live",
+      "url": "https://open.spotify.com/track/4QtxQDR3S5AyJ4iXMwateA"
     },
     {
       "album": {
@@ -7502,6 +7538,28 @@
       "duration_ms": 286591,
       "name": "Yeshua - Live",
       "url": "https://open.spotify.com/track/5cAhcefkbJ98RPfHeQfyfB"
+    },
+    {
+      "album": {
+        "name": "Journey in Worship, Vol. 2",
+        "url": "https://open.spotify.com/album/5weO28xLSyodBcNhW81Cor"
+      },
+      "artists": [
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        },
+        {
+          "name": "Daniel Ojo",
+          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333500,
+      "name": "You Alone Are Worthy",
+      "url": "https://open.spotify.com/track/6VLHU1X7vCzXkLLoB6i3UB"
     },
     {
       "album": {

@@ -345,6 +345,28 @@
     },
     {
       "album": {
+        "name": "A Thing I Like",
+        "url": "https://open.spotify.com/album/4eIYf9ATBQ7NeAuyNUU2Qy"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "PBee",
+          "url": "https://open.spotify.com/artist/2ltl5IUN4CbKKt58lWycXT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154909,
+      "name": "A Thing I Like",
+      "url": "https://open.spotify.com/track/6ZDbOXXPFVyCMjd5cfnUOU"
+    },
+    {
+      "album": {
         "name": "Abasakom",
         "url": "https://open.spotify.com/album/1Rjd0CPRKWz0EGwh0Qaj8r"
       },
@@ -752,6 +774,28 @@
       "duration_ms": 202501,
       "name": "Akokoa",
       "url": "https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR"
+    },
+    {
+      "album": {
+        "name": "Sexy Highlife",
+        "url": "https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Bosom P-Yung",
+          "url": "https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127969,
+      "name": "Akosua Broni",
+      "url": "https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf"
     },
     {
       "album": {
@@ -2481,6 +2525,40 @@
     },
     {
       "album": {
+        "name": "Call Me (feat. Tu Musica)",
+        "url": "https://open.spotify.com/album/7KGGOyDqwiIvmKIMwDQolX"
+      },
+      "artists": [
+        {
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Call Me (feat. Tu Musica)",
+      "url": "https://open.spotify.com/track/0AaelNpgby0eOH8Z6QvBbd"
+    },
+    {
+      "album": {
         "name": "Can't Stop",
         "url": "https://open.spotify.com/album/6cCTaxR21qeaaWjdPWpo19"
       },
@@ -3705,6 +3783,28 @@
     },
     {
       "album": {
+        "name": "EVERLASTING",
+        "url": "https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139487,
+      "name": "EVERLASTING",
+      "url": "https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G"
+    },
+    {
+      "album": {
         "name": "Everyday (Essikafo Ammba Ntem)",
         "url": "https://open.spotify.com/album/7M9I9kebrA4DgSqIrf8ncy"
       },
@@ -4214,6 +4314,24 @@
       "duration_ms": 140917,
       "name": "Figure Say",
       "url": "https://open.spotify.com/track/0FHC1TCjY49MvH1BL7cpv4"
+    },
+    {
+      "album": {
+        "name": "Find A Way",
+        "url": "https://open.spotify.com/album/2ecM4rRHCVgxRGB5RZV5yK"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB"
     },
     {
       "album": {
@@ -7942,7 +8060,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 151456,
       "name": "No Competition",
       "url": "https://open.spotify.com/track/3fkkMbPuXiOw9gHbgnktnk"

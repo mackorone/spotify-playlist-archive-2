@@ -4,7 +4,7 @@
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-960 songs - 2 day 3 hr 27 min
+961 songs - 2 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [How and Why](https://open.spotify.com/track/1ZZzsWH20AiwCQnsTHxbnW) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [How and Why](https://open.spotify.com/album/2E1V1P1SBtdBjmA8j5Kpou) | 4:21 | 2025-11-20 | 2025-12-05 |
 | [How I Get](https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY) | 3:39 | 2026-03-01 | 2026-04-01 |
 | [HOW STRANGE?](https://open.spotify.com/track/4IQw9pS2PfMsYYeTkZ5CGy) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [HOW STRANGE?](https://open.spotify.com/album/29KjlAdATsp7XF6Pp08fXa) | 2:57 | 2023-10-19 | 2023-11-24 |
+| [Hula Hoop \(feat\. Tuerie\)](https://open.spotify.com/track/6C5SCWr6dl6XrPbMqweqee) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg), [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a) | [Chroniques terrestres, Vol\. 2](https://open.spotify.com/album/0KIS7MHEcUoYxmQFzsPN3T) | 3:23 | 2026-05-31 |  |
 | [Humains après tout](https://open.spotify.com/track/1SddnrGqOScznWZNnhWnv8) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Humains après tout](https://open.spotify.com/album/32C0qziCh9lCnOujTtF3gd) | 2:22 | 2022-04-21 | 2022-05-13 |
 | [Human Race](https://open.spotify.com/track/0kqLwnIhgshbOHgT4ni8sf) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Human Race](https://open.spotify.com/album/4KDVtCo3HqL1QHrSmx4uH0) | 2:07 | 2025-03-13 | 2025-03-21 |
 | [HÂTE DE VIVRE](https://open.spotify.com/track/5WHBv4A7s71zPJEUBwh29v) | [Dajak](https://open.spotify.com/artist/4UzhGDGnyLajt5ZoeEciGh) | [SOLAR STEREO](https://open.spotify.com/album/63CNNQAFo5dLHPV70fU1ed) | 5:25 | 2026-01-15 | 2026-03-02 |

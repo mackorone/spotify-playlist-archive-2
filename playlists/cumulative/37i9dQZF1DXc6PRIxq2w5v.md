@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos
 
-522 songs - 1 day 3 hr 5 min
+523 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Amor](https://open.spotify.com/track/6eB2GVvJ1bm3eJGxNALUYV) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [É Muito Além do Trap](https://open.spotify.com/album/0RPd1wiTPAcphQ456H0itw) | 2:16 | 2023-11-03 | 2023-12-23 |
 | [Amor de Deus](https://open.spotify.com/track/5T34BcD9g2JLASC9HuaMlP) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Amor de Deus](https://open.spotify.com/album/1iEdczsn5jPpUvQyn0PYLL) | 4:05 | 2024-09-07 | 2024-11-15 |
 | [Amor Freestyle](https://open.spotify.com/track/7BCHx6GN874jNeeuTBGhqE) | [GBZIN](https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Amor Freestyle](https://open.spotify.com/album/45cdilGFj6SLZ6sChb664R) | 2:48 | 2025-01-17 |  |
-| [Amor Ágape](https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Amor Ágape](https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc) | 5:26 | 2023-06-16 |  |
+| [Amor Ágape](https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Amor Ágape](https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc) | 5:26 | 2023-06-16 | 2026-06-12 |
 | [Apologetas](https://open.spotify.com/track/5VO6wd9GZRZUQSq149WuIM) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1) | [Apologetas](https://open.spotify.com/album/634hOgzEX0ZjtPLI52bCTm) | 2:58 | 2022-09-02 | 2023-02-04 |
 | [Aquebrantado](https://open.spotify.com/track/2xb1pT7KjRB6XKS4yAgu7b) | [LP Maromba](https://open.spotify.com/artist/1rnDCA1L6frTG0LeaTvUnu), [Lou twb](https://open.spotify.com/artist/5p280uiHU0e284i1QvNroa) | [Aquebrantado](https://open.spotify.com/album/0EWR2u8tkVhGnJ48xgyvvk) | 3:19 | 2023-10-06 | 2023-10-23 |
 | [AQUI TÁ MEU CORAÇÃO \(feat\. MellowBeatz\)](https://open.spotify.com/track/7oHFW8VPbPafn7EjNNT0KV) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [MellowBeatz](https://open.spotify.com/artist/0ubntF0OwcTIoq3DorJqU5) | [ENTRE CÉU E ONDAS \- Vol.1](https://open.spotify.com/album/0dSOUXMV0pLaFCnY93aIdN) | 2:31 | 2022-04-01 | 2022-08-20 |
@@ -128,6 +128,7 @@
 | [Detalhes](https://open.spotify.com/track/1Bie0bzOswMPKBznGUv3Bb) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00) | [Detalhes](https://open.spotify.com/album/35Ig0rbCPiBZYvlDXe3X4H) | 3:18 | 2025-08-01 |  |
 | [Deus Conhece Tudo](https://open.spotify.com/track/3ZopgP6BJqLb5e555Wmgqu) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [CT Missões](https://open.spotify.com/artist/4e3kAOlMHkUbadrcs9MLhE) | [Soundtrack](https://open.spotify.com/album/6gArENQ5ALPN26mSe3rInz) | 3:18 | 2024-12-27 | 2025-02-07 |
 | [Deus Cuida](https://open.spotify.com/track/4iYEZ1Btjmp5r9ptHjyL6X) | [Moskitto](https://open.spotify.com/artist/3okdXZyurX68tcNnjx0HQM), [O Peter](https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K), [NÓIZ](https://open.spotify.com/artist/6IlYtq3ebcUBZW2bckVD2E) | [Deus Cuida](https://open.spotify.com/album/36IQgfUXwd9ZHIgQaFrSAE) | 3:18 | 2024-12-27 | 2025-05-16 |
+| [Deus Me Estendeu Sua Mão](https://open.spotify.com/track/6pn8UkB7vFhHtAFhmWwnP9) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Deus Me Estendeu Sua Mão](https://open.spotify.com/album/11H96prjfGCKxIHVAuVLYH) | 2:47 | 2026-06-12 |  |
 | [Deus Não Usa Rolex](https://open.spotify.com/track/1z4UoXYJNZiyGPfCyLRrWk) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Deus Não Usa Rolex](https://open.spotify.com/album/03lo8KNZ2ruPaxTgVexzDD) | 1:44 | 2023-09-01 | 2024-06-15 |
 | [Deus É Bom](https://open.spotify.com/track/6EPTq7EQn8jrUPo3UoS61C) | [Beny Free](https://open.spotify.com/artist/2lTTvwwN7aNG21tKXHP8bU), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Deus É Bom](https://open.spotify.com/album/5OhSGZ4nQNqTRB90G43Noq) | 2:53 | 2022-08-19 | 2022-09-03 |
 | [Deus É Bom](https://open.spotify.com/track/1yQfknWn5iUhLmFjutmZWF) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV), [MjayOficial](https://open.spotify.com/artist/0z2I4S7RlzK2MlVTa4KDze) | [Deus É Bom](https://open.spotify.com/album/2Y5WtCfmk7JPphX2vLHJ5D) | 2:15 | 2024-09-20 | 2024-10-26 |

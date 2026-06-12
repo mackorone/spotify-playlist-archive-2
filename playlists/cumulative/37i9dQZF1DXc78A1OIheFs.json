@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "call me yours",
+        "url": "https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204622,
+      "name": "call me yours",
+      "url": "https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm"
+    },
+    {
+      "album": {
         "name": "CANADA - versions",
         "url": "https://open.spotify.com/album/3Mc1kDzI0RPfibegrVzYhj"
       },
@@ -3004,7 +3022,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 217073,
       "name": "Just Not Into You",
       "url": "https://open.spotify.com/track/1IixYZT6QHVItNi9LVbFnl"
@@ -3576,7 +3594,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 197328,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL"
@@ -3660,6 +3678,24 @@
       "duration_ms": 188245,
       "name": "Mazda Familia",
       "url": "https://open.spotify.com/track/2OCU63YuZVNuBZa8IDO99J"
+    },
+    {
+      "album": {
+        "name": "me > you",
+        "url": "https://open.spotify.com/album/1kZzG0qQSy63IoyUhR8t9u"
+      },
+      "artists": [
+        {
+          "name": "Imani-J",
+          "url": "https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160946,
+      "name": "me > you",
+      "url": "https://open.spotify.com/track/0aZJvezapQq2aKdIA8T9fG"
     },
     {
       "album": {
@@ -5818,7 +5854,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 184684,
       "name": "The War On Art",
       "url": "https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz"
@@ -6214,6 +6250,24 @@
       "duration_ms": 136000,
       "name": "Waiho I te Toipoto",
       "url": "https://open.spotify.com/track/6mJIPmsIYoTtaKH3fL7Ccb"
+    },
+    {
+      "album": {
+        "name": "Want Him Bad!",
+        "url": "https://open.spotify.com/album/5wQ5vWXmJS5mXurCCxwBlR"
+      },
+      "artists": [
+        {
+          "name": "emerson",
+          "url": "https://open.spotify.com/artist/6LcSy8gx2Eb1FVRd1NoONZ"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201382,
+      "name": "Want Him Bad!",
+      "url": "https://open.spotify.com/track/6PZ7Do8XEtVofsAUCJ68Xt"
     },
     {
       "album": {

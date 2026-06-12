@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 599940,
+  "num_followers": 599974,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/52tsXG23F7He5OUMX0wm2r"
+      },
+      "artists": [
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+        },
+        {
+          "name": "Stryker",
+          "url": "https://open.spotify.com/artist/5sDpkzowsJkqkTLzw2r8eF"
+        }
+      ],
+      "duration_ms": 560571,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/76y17k5O5MZ2YipoDtIRN7"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Shingara",
         "url": "https://open.spotify.com/album/45ykr0hh1ZI3hhyBMLNZWs"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 317746,
       "name": "Shingara",
       "url": "https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Dusk Till Dawn",
-        "url": "https://open.spotify.com/album/52tsXG23F7He5OUMX0wm2r"
-      },
-      "artists": [
-        {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
-        },
-        {
-          "name": "Stryker",
-          "url": "https://open.spotify.com/artist/5sDpkzowsJkqkTLzw2r8eF"
-        }
-      ],
-      "duration_ms": 560571,
-      "name": "Dusk Till Dawn",
-      "url": "https://open.spotify.com/track/76y17k5O5MZ2YipoDtIRN7"
     },
     {
       "added_at": "2025-08-15 04:00:20",

@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: Kashus Culpepper
 
-184 songs - 12 hr 49 min
+186 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All on My Mind \- Acoustic](https://open.spotify.com/track/4piJ8pnoRvC5sqMEpbH0FA) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind \(Acoustic\)](https://open.spotify.com/album/7tz2tP0MyzjpNg13tgRyx9) | 3:49 | 2020-11-05 |  |
 | [Alone With My Thoughts](https://open.spotify.com/track/45nBiCH0KOZxBGGSgjlLLK) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 4:14 | 2024-03-08 |  |
 | [Always Say I Love You \(At The End Of Your Goodbyes\)](https://open.spotify.com/track/6ziHTglnnwomBLV8ZNEGRz) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [Damage Control](https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH) | 4:03 | 2021-02-26 | 2023-12-14 |
+| [Back To You](https://open.spotify.com/track/16G7Tb9GfRqdWSYay8mrww) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Back To You](https://open.spotify.com/album/6ayxx0srRAmla64vekhSmG) | 4:38 | 2026-06-12 |  |
 | [Beautiful Stranger](https://open.spotify.com/track/3G5zOkX5R6i6QDuyY7xNRH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:07 | 2020-11-05 |  |
 | [Been My Last](https://open.spotify.com/track/4r7ZdD5korTwjnbe1mezoK) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Halfway Home By Morning](https://open.spotify.com/album/6yxTsj35RwLCNGm60hlf7h) | 3:44 | 2020-11-05 | 2022-07-29 |
 | [Been My Last](https://open.spotify.com/track/55LQy7ZJejUaTTiSN8TK9D) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 3:44 | 2020-11-05 | 2024-03-09 |
@@ -67,7 +68,7 @@
 | [I'm Gonna Find Another You](https://open.spotify.com/track/2KbKSPA3oHnZGlreYLGA92) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/6feeQj5H1QIpt1y17F1jJG) | 2:39 | 2020-11-05 | 2022-07-29 |
 | [I'm Gonna Find Another You](https://open.spotify.com/track/0bYDebBlQxsDR4hCgbbpOW) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 2:43 | 2020-11-05 | 2022-09-03 |
 | [I'm Leaving \- The Circle Session, 2023](https://open.spotify.com/track/6f1OkhQzergSERbJT4IIbe) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [I'm Leaving \(The Circle Session, 2023\)](https://open.spotify.com/album/0cQqT0QeuqNC52MPYhpwTv) | 5:19 | 2023-11-10 | 2024-04-19 |
-| [I'm Only Lonely](https://open.spotify.com/track/4bkjWF12Zz5Ri60OiHbNFV) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 5:28 | 2020-11-05 |  |
+| [I'm Only Lonely](https://open.spotify.com/track/4bkjWF12Zz5Ri60OiHbNFV) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 5:28 | 2020-11-05 | 2026-06-12 |
 | [If There Was a Way](https://open.spotify.com/track/51qxhpLKVMSslaDSbqGjgs) | [Rosie Flores](https://open.spotify.com/artist/112VrRSCpsoUkVgnxZvD1w) | [Simple Case of the Blues](https://open.spotify.com/album/0BhHUwgNZxOSNkS0d89Mu9) | 4:25 | 2020-11-05 |  |
 | [If There Was a Way](https://open.spotify.com/track/7h4hCfrO02xSxQs6NgBXY4) | [Rosie Flores](https://open.spotify.com/artist/112VrRSCpsoUkVgnxZvD1w) | [Simple Case of the Blues](https://open.spotify.com/album/13la0jdzx3vrRcbwf6PBXU) | 4:25 | 2020-11-05 | 2024-04-19 |
 | [In Every Heart](https://open.spotify.com/track/76mL8jSzIJGybicOOMP3up) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Let Me Get By](https://open.spotify.com/album/0nE6b7My7kpkI9dRs0pGoV) | 6:20 | 2020-11-05 | 2024-09-07 |
@@ -77,7 +78,7 @@
 | [Is There Something I Should Know](https://open.spotify.com/track/70vU4pqCiPVJVo6N04Kamz) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [The Beautiful Lowdown](https://open.spotify.com/album/60crLBQx2RHQQfDoDXdnke) | 4:29 | 2020-11-05 |  |
 | [I’m Leaving \- The Circle Session, 2023](https://open.spotify.com/track/0EaeEbXhVlWzdr32YgNYB8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [I’m Leaving \(The Circle Session, 2023\)](https://open.spotify.com/album/5WfzSDKTMXLKiQOHFR0ozY) | 5:19 | 2023-11-10 |  |
 | [Johnnie Ray](https://open.spotify.com/track/5v6dtKoPkH8wJVqfOROJqD) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 2](https://open.spotify.com/album/6wfjOYh05Xg6xCxAdxRrN8) | 3:44 | 2020-11-05 |  |
-| [Jordan](https://open.spotify.com/track/69XVjPC0IHe4N87lVCgjAT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Jordan](https://open.spotify.com/album/1ZeucgZuXgsLMM7Bm5wXGO) | 5:01 | 2024-01-26 |  |
+| [Jordan](https://open.spotify.com/track/69XVjPC0IHe4N87lVCgjAT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Jordan](https://open.spotify.com/album/1ZeucgZuXgsLMM7Bm5wXGO) | 5:01 | 2024-01-26 | 2026-06-12 |
 | [Just as I Am](https://open.spotify.com/track/1ySF874duyvjE9qQ6AOlzg) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Try Me](https://open.spotify.com/album/20m1ng48JtN2TiODHLyH65) | 6:23 | 2020-11-05 | 2024-04-12 |
 | [Just As I Am](https://open.spotify.com/track/265GyouACrBchvNoHHkkuu) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Try Me](https://open.spotify.com/album/7fEch4BxgISBtcklzK1Xex) | 6:23 | 2020-11-05 |  |
 | [Katrina](https://open.spotify.com/track/6Ktr87bevDceLjUC3xtLAt) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Anders Osborne](https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888) | [Freedom & Dreams](https://open.spotify.com/album/1GwtFx5UsUEbfoDDgs5KoC) | 5:01 | 2020-11-05 |  |
@@ -166,6 +167,7 @@
 | [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 | 2020-11-05 | 2023-08-26 |
 | [They Never Pay Me](https://open.spotify.com/track/6FblM1pI9C3mZng2qPzXBj) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Sunset Avenue](https://open.spotify.com/album/0DPnQNdHFY8kxsXwhCyaDk) | 3:33 | 2020-11-05 | 2022-07-29 |
 | [Time To Leave](https://open.spotify.com/track/5TUCm5o4qf5y47EnyHStZy) | [Rich Robinson](https://open.spotify.com/artist/7lEokLkF9CWjEBogNWcV69) | [Flux](https://open.spotify.com/album/0aCwNu0L6QMcSexzdUjcGD) | 4:58 | 2020-11-05 | 2022-09-03 |
+| [Tired Of Being Right](https://open.spotify.com/track/3tBVNBfssuwjzq1OnDgLnO) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Tired Of Being Right](https://open.spotify.com/album/3KflUuOWzvY89rSbs33sh0) | 4:49 | 2026-06-12 |  |
 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 | 2020-11-05 |  |
 | [Try Me](https://open.spotify.com/track/1OqIafVbegBpzFIONJsSX2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/34puSs63TscNNMGLCjF7qY) | 3:14 | 2020-11-05 | 2024-04-19 |
 | [Try Me](https://open.spotify.com/track/5vjbpawQ7l5Qdgwh1WafWe) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/2c2cFKHtezKf5Fna1rZO4T) | 3:14 | 2020-11-05 | 2026-04-11 |

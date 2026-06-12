@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Madonna
 
-2,103 songs - 4 day 7 hr 1 min
+2,104 songs - 4 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1834,6 +1834,7 @@
 | [The Love](https://open.spotify.com/track/3XijPEn57kQXslTicIpy5J) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [The Love](https://open.spotify.com/album/4kG9LIFl6dYNUSLjABjTbV) | 2:21 | 2023-12-29 | 2024-03-02 |
 | [The Magic Key](https://open.spotify.com/track/6vHkJ4L8gqCwedvhXkSCsa) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [One\-T](https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI) | [The Magic Key](https://open.spotify.com/album/015JXvTq9kGDXlJs0z8fYY) | 2:51 | 2023-07-21 | 2023-09-16 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-11-05 | 2021-12-24 |
+| [The One](https://open.spotify.com/track/2nG2kgL2gTXd9s2RmD0u18) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [The One](https://open.spotify.com/album/3FgU348qPgRlGCAWKvAyZI) | 2:42 | 2026-05-29 |  |
 | [The One](https://open.spotify.com/track/2HZNAqaeO3llxJReGhFhyX) | [LIMONADE](https://open.spotify.com/artist/0MJJvDrHdl7GGYostfweWJ), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [The One](https://open.spotify.com/album/75HPK1U9upzIFxstRrlRPL) | 2:30 | 2023-08-18 | 2023-10-21 |
 | [The One](https://open.spotify.com/track/7DNlr75yw0OcYLgYXvmGY1) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The One](https://open.spotify.com/album/1ejxqX9sf8WXahJzVrjD2s) | 3:54 | 2026-05-15 |  |
 | [The One You Loved](https://open.spotify.com/track/0AlcFExSrUb1bzDnrIhop6) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [The One You Loved](https://open.spotify.com/album/07ubSgIqQzfYFPxXH0HTQA) | 3:08 | 2026-04-17 | 2026-06-06 |

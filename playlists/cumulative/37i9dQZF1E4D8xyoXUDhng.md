@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Mississippi Mass Choir, Kurt Carr & The Kurt Carr Singers, Smokie Norful and more
+> With Mississippi Mass Choir, Vanessa Bell Armstrong, Donald Lawrence & The Tri\-City Singers and more
 
 2,005 songs - 6 day 11 hr 6 min
 

@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 167091,
       "name": "Alternate Your Rhythm",
       "url": "https://open.spotify.com/track/0L4WpH0sgL6JM4exo7Hcva"
@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 293053,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/5Q90SFWTHIld2Qw13d4jfz"
@@ -3718,7 +3718,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 207000,
       "name": "Checkmate",
       "url": "https://open.spotify.com/track/4WXu03JF0IF5royyfgJ7Fl"
@@ -4640,6 +4640,24 @@
       "duration_ms": 334285,
       "name": "Croce",
       "url": "https://open.spotify.com/track/1WFlFVMRyCc0tP0tdQCaDw"
+    },
+    {
+      "album": {
+        "name": "Nightrun",
+        "url": "https://open.spotify.com/album/54KKhMyoArI61A0AohyKxS"
+      },
+      "artists": [
+        {
+          "name": "Disguised",
+          "url": "https://open.spotify.com/artist/3eIDHfo94uKVDqWrLDRgCG"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300418,
+      "name": "Crusher Wheels",
+      "url": "https://open.spotify.com/track/6voF5MHxCwlVOtkliMmMVb"
     },
     {
       "album": {
@@ -5707,6 +5725,28 @@
     },
     {
       "album": {
+        "name": "Domino (Space 92 Remix)",
+        "url": "https://open.spotify.com/album/3RVpReOX57xE9g6OdqaXtF"
+      },
+      "artists": [
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Domino - Space 92 Remix",
+      "url": "https://open.spotify.com/track/2sksm6zC7U7fRmAGSQICiF"
+    },
+    {
+      "album": {
         "name": "We Control",
         "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
       },
@@ -6442,7 +6482,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 295111,
       "name": "ECSTASY IS",
       "url": "https://open.spotify.com/track/4EBh2TofS1mpQEOhSzjPGh"
@@ -7294,7 +7334,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 122326,
       "name": "Fame Dealer",
       "url": "https://open.spotify.com/track/6eKT0RzPyHnhZ25kd4hOIY"
@@ -7594,7 +7634,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 296842,
       "name": "Fire Fire",
       "url": "https://open.spotify.com/track/1lXikzvPoTyB1EukdMsO2t"
@@ -9534,7 +9574,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 187204,
       "name": "Hey Boy Hey Girl",
       "url": "https://open.spotify.com/track/2rA8cERrKzSDF1mBWo0nMb"
@@ -9646,7 +9686,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 234629,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0OqFToPNFjF9MVUfHBnDBK"
@@ -9950,7 +9990,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 493667,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
@@ -10889,6 +10929,24 @@
     },
     {
       "album": {
+        "name": "It's the E",
+        "url": "https://open.spotify.com/album/3Fq6jiFykXaz4Pb43Bgp1s"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214179,
+      "name": "It's the E",
+      "url": "https://open.spotify.com/track/7csV2fJMu6gv458oBqsoMK"
+    },
+    {
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/7hmLe7YvaSKDqbY7OTsRwk"
       },
@@ -10944,7 +11002,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 326000,
       "name": "Jammer",
       "url": "https://open.spotify.com/track/5OGb1quuU0BZcDHPNyTUU1"
@@ -11332,6 +11390,24 @@
       "duration_ms": 206616,
       "name": "KOALA",
       "url": "https://open.spotify.com/track/322yrwaIaTkmpGbuJ7nfev"
+    },
+    {
+      "album": {
+        "name": "Zera",
+        "url": "https://open.spotify.com/album/1vBQqoI6ewbKgmQLYZp7B0"
+      },
+      "artists": [
+        {
+          "name": "Len Faki",
+          "url": "https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309500,
+      "name": "KOBOLD",
+      "url": "https://open.spotify.com/track/68zgXgST1ZbM0LEAIZU1R5"
     },
     {
       "album": {
@@ -12249,6 +12325,28 @@
     },
     {
       "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/2So5KksOczbeRumtJNYsC4"
+      },
+      "artists": [
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        },
+        {
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259287,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/4geV2DpX6uWP2oymqOIh6P"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/1ZApiaODz4vJMQhz3FZnJD"
       },
@@ -12526,6 +12624,24 @@
       "duration_ms": 338507,
       "name": "Magic Button",
       "url": "https://open.spotify.com/track/3qcwB0cNFrLt2wzQZl57Mg"
+    },
+    {
+      "album": {
+        "name": "Ready To Rock / Magic In You",
+        "url": "https://open.spotify.com/album/6mAAuau7jAWAR40tOW47O5"
+      },
+      "artists": [
+        {
+          "name": "Sam Paganini",
+          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219649,
+      "name": "Magic In You - Edit",
+      "url": "https://open.spotify.com/track/3nrT6SiujRG4Hhyskgx5hq"
     },
     {
       "album": {
@@ -13327,6 +13443,32 @@
     },
     {
       "album": {
+        "name": "MOJA",
+        "url": "https://open.spotify.com/album/7xGSQtMiL9agKSzTZwsRkY"
+      },
+      "artists": [
+        {
+          "name": "Moto Moto",
+          "url": "https://open.spotify.com/artist/1WEZB9rnrxrk1FQePn7apt"
+        },
+        {
+          "name": "Nico Banfi",
+          "url": "https://open.spotify.com/artist/7Et37M7KmMFEd57BfFi7Hh"
+        },
+        {
+          "name": "The Wilds",
+          "url": "https://open.spotify.com/artist/7yrR3vzpYp6Ms9n6tfLwGo"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214925,
+      "name": "MOJA",
+      "url": "https://open.spotify.com/track/6429uJnrGSSfdr9VuYpp2U"
+    },
+    {
+      "album": {
         "name": "Moneypulated EP",
         "url": "https://open.spotify.com/album/2WicuaOdsF2UznsWnwnx0f"
       },
@@ -13560,6 +13702,28 @@
       "duration_ms": 213913,
       "name": "Move Within",
       "url": "https://open.spotify.com/track/6qpz5t0jlknlD2JWWc4M6A"
+    },
+    {
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/5cgWFOpEQFfLmCFiHkKMKJ"
+      },
+      "artists": [
+        {
+          "name": "Veerus",
+          "url": "https://open.spotify.com/artist/7GZGpDZcYVX1wrbaOoDWOH"
+        },
+        {
+          "name": "Mattia Saviolo",
+          "url": "https://open.spotify.com/artist/0CHQALTC4ovqi6EU4xvUeq"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210223,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6ICzXKl0LrsjyBHCb3ugQ4"
     },
     {
       "album": {
@@ -14140,7 +14304,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 163600,
       "name": "Never Gonna Stop",
       "url": "https://open.spotify.com/track/207Amza0GLd8dJdAoRZM3Y"
@@ -14392,6 +14556,24 @@
       "duration_ms": 350203,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/2NQGvfgBl5jtkhHB9vVksa"
+    },
+    {
+      "album": {
+        "name": "Nightrun",
+        "url": "https://open.spotify.com/album/54KKhMyoArI61A0AohyKxS"
+      },
+      "artists": [
+        {
+          "name": "Disguised",
+          "url": "https://open.spotify.com/artist/3eIDHfo94uKVDqWrLDRgCG"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300390,
+      "name": "Nightrun",
+      "url": "https://open.spotify.com/track/2WBp1xHdt0AyCyzsy57Ytw"
     },
     {
       "album": {
@@ -17972,7 +18154,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 239774,
       "name": "Route 27 - Alex Stein & Victor Ruiz Remix",
       "url": "https://open.spotify.com/track/1KcoibEQeIEFodYDTWJ9Bn"
@@ -18678,6 +18860,24 @@
       "duration_ms": 257142,
       "name": "Set It Right",
       "url": "https://open.spotify.com/track/6wPbHSau3mYqdwBzAMnjtI"
+    },
+    {
+      "album": {
+        "name": "Set The Tone",
+        "url": "https://open.spotify.com/album/3wRXVr9XAwiv0a094v2rd7"
+      },
+      "artists": [
+        {
+          "name": "1st Elemental",
+          "url": "https://open.spotify.com/artist/3aCm3RcFirqQylv4fEECbc"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394000,
+      "name": "Set The Tone",
+      "url": "https://open.spotify.com/track/0CwR8AW83fbSnU5gOg5sBh"
     },
     {
       "album": {
@@ -19793,6 +19993,46 @@
     },
     {
       "album": {
+        "name": "Stiller Traum",
+        "url": "https://open.spotify.com/album/1s6VLeQJAxl1fS4mPgEJ1K"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214634,
+      "name": "Stiller Traum",
+      "url": "https://open.spotify.com/track/3LNKLcqu63l01DIvWx7R1T"
+    },
+    {
+      "album": {
+        "name": "Stimulation (Thomas Schumacher Edit)",
+        "url": "https://open.spotify.com/album/44nQUWiubp70z1TrFz6LG0"
+      },
+      "artists": [
+        {
+          "name": "Franco Smith",
+          "url": "https://open.spotify.com/artist/2uDxGjpjAlx0drkaBZnHs7"
+        },
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Stimulation - Thomas Schumacher Edit",
+      "url": "https://open.spotify.com/track/6QlHYR7Eycfxk9XFiTwCm7"
+    },
+    {
+      "album": {
         "name": "Strange World (Joyhauser Remix)",
         "url": "https://open.spotify.com/album/5piz86w9SPA1YqoOPRRGrz"
       },
@@ -20078,7 +20318,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 338576,
       "name": "Symphonie des Seins",
       "url": "https://open.spotify.com/track/1nxhI6XxM3PYr44NehXtep"
@@ -20844,7 +21084,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 172381,
       "name": "The Currency Is Trust",
       "url": "https://open.spotify.com/track/5CaBvNxQknk4UPZutTvN3G"
@@ -22033,6 +22273,24 @@
     },
     {
       "album": {
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/0HaJDbYBZN22d0Fe3dS3u7"
+      },
+      "artists": [
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240652,
+      "name": "Transcend",
+      "url": "https://open.spotify.com/track/7EtsSDClnohbfThEcoqe2d"
+    },
+    {
+      "album": {
         "name": "Transcendence",
         "url": "https://open.spotify.com/album/3DHH6Bv6smiXc04k6oaed7"
       },
@@ -22066,6 +22324,28 @@
       "duration_ms": 264944,
       "name": "Transformer - Original Mix",
       "url": "https://open.spotify.com/track/2VQDsarsCp6Ozz10buneOA"
+    },
+    {
+      "album": {
+        "name": "Transmission",
+        "url": "https://open.spotify.com/album/1deQ7t7C4Nf6NyZHUOfKpH"
+      },
+      "artists": [
+        {
+          "name": "Nelayan",
+          "url": "https://open.spotify.com/artist/4fYxGwfAZYoZoYaqfqI3rU"
+        },
+        {
+          "name": "Romain Say",
+          "url": "https://open.spotify.com/artist/0laG6AXKYHGmj3gmZCO827"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222608,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/6tNTkvxxlEi6ehYDjchLNM"
     },
     {
       "album": {
@@ -22493,6 +22773,24 @@
     },
     {
       "album": {
+        "name": "No Contour",
+        "url": "https://open.spotify.com/album/4uc8EuT7nrP2eMjjM5uvX2"
+      },
+      "artists": [
+        {
+          "name": "Axel Karakasis",
+          "url": "https://open.spotify.com/artist/4pSTrXj1UWXdQZWE7Twa4V"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324335,
+      "name": "Undersense",
+      "url": "https://open.spotify.com/track/2JSu2yhFHyXX6aiyOFDniT"
+    },
+    {
+      "album": {
         "name": "Understanding",
         "url": "https://open.spotify.com/album/1I8feYCpPX0M6OnoTtUEzQ"
       },
@@ -22718,7 +23016,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 217058,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/79KAx78Oi5FHl4gRkKOzG6"
@@ -22856,6 +23154,24 @@
       "duration_ms": 318725,
       "name": "Vision",
       "url": "https://open.spotify.com/track/47Ul1gEtbJAjQ9JnqjwdYH"
+    },
+    {
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/2tHb48kL57C2arenMhCEY3"
+      },
+      "artists": [
+        {
+          "name": "Jay Lumen",
+          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340000,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/1MGG9fmIOcmYhogKACvtGc"
     },
     {
       "album": {
@@ -23390,7 +23706,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 210014,
       "name": "whatever you do",
       "url": "https://open.spotify.com/track/7tYkpOOHN2YB5RhFkLPs6R"

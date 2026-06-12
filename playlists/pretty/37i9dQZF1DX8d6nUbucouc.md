@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,469 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,477 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 36 | [Doag](https://open.spotify.com/track/0YUwC8n3xid9r0udhAhMNV) | [Great Minds](https://open.spotify.com/artist/1FRYercTve9gszoIb619JS), [Kleine Viezerik](https://open.spotify.com/artist/6csZsTGgzYXAlEAoERKo4s), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Great Minds](https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z) | 4:12 |
 | 37 | [Groen Gras](https://open.spotify.com/track/5wXlDrQxS9w7bYHH0XUTEA) | [Fakkelbrigade](https://open.spotify.com/artist/3NGONi5kwXaIZBCfZOqS1r) | [Colucci Era \(Standard version\)](https://open.spotify.com/album/2X2AKav7dnZkuIj2h0CzM0) | 3:59 |
 | 38 | [Trots](https://open.spotify.com/track/3yMOCMDQIRQglxHdjGfP7G) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Nooit Meer Terug](https://open.spotify.com/album/4Na1lbtiN4GSoNgY9Hrhvw) | 5:30 |
-| 39 | [U Wait](https://open.spotify.com/track/1p8zXLMnUsZa04rPs8FnL8) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 5:35 |
-| 40 | [Mijn Hossel](https://open.spotify.com/track/3yIqk7jtR7frUAMhterXDN) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Jayh.nl](https://open.spotify.com/album/3piHncMB0TEczcyL2w39w8) | 4:17 |
+| 39 | [Mijn Hossel](https://open.spotify.com/track/3yIqk7jtR7frUAMhterXDN) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Jayh.nl](https://open.spotify.com/album/3piHncMB0TEczcyL2w39w8) | 4:17 |
+| 40 | [U Wait](https://open.spotify.com/track/1p8zXLMnUsZa04rPs8FnL8) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 5:35 |
 | 41 | [Voor Dough](https://open.spotify.com/track/1xHyBiAmpjDeYlEEEl57OB) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Rock & Roll](https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS) | 3:45 |
 | 42 | [Hindabuilding](https://open.spotify.com/track/7vlBabEKsS3HFR5Bhqi8dH) | [Hydroboyz](https://open.spotify.com/artist/5GfHBi9C9eO3icfEgcBOrv) | [Alleen Maar Nette Mensen](https://open.spotify.com/album/2Ys1FuzId7YHRQfO60WpOj) | 4:25 |
 | 43 | [Buschauffeur](https://open.spotify.com/track/3N1qohiQ5xPgoYg9m0McId) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Du Zoon](https://open.spotify.com/album/3Ud6DOZSPYKFqxMPWjzvKU) | 2:59 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 81 | [Hope](https://open.spotify.com/track/7h48dkSTXujPAVexMuvO6a) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2) | [Mindstate](https://open.spotify.com/album/7jlGRCzUvTDKA96ivxTytk) | 4:32 |
 | 82 | [Plakka](https://open.spotify.com/track/1bPQ0PV4DWY2rnYjXs5bek) | [Jawat](https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg) | [Ut Zwarte Aap](https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI) | 2:17 |
 | 83 | [Guillotine](https://open.spotify.com/track/2HTpaXLYOFVViETfrxrjm6) | [Zwart Licht](https://open.spotify.com/artist/0w8HhtFVgF0tqeiFGFRaiZ) | [Bliksemschicht](https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp) | 2:49 |
-| 84 | [Thuis \(feat\. Per.verz\)](https://open.spotify.com/track/23g7NQGXBLc8f37KUgy0QC) | [Engel & Just](https://open.spotify.com/artist/0lvQ5K8AsLvcLZqyWWfchM) | [Thuis \(feat\. Per.verz\)](https://open.spotify.com/album/2mKBe45b3fvO7yNVzAlYm0) | 4:04 |
-| 85 | [Soms Gaat Het Mis](https://open.spotify.com/track/788HqVM9tvdzeVeHqp60VW) | [Raymtzer](https://open.spotify.com/artist/3ybiWTDJvKidAlwSqwCU8p) | [Soms Gaat Het Mis](https://open.spotify.com/album/7hreym7UT47rKfIqhfnLMf) | 3:13 |
+| 84 | [Soms Gaat Het Mis](https://open.spotify.com/track/788HqVM9tvdzeVeHqp60VW) | [Raymtzer](https://open.spotify.com/artist/3ybiWTDJvKidAlwSqwCU8p) | [Soms Gaat Het Mis](https://open.spotify.com/album/7hreym7UT47rKfIqhfnLMf) | 3:13 |
+| 85 | [Thuis \(feat\. Per.verz\)](https://open.spotify.com/track/23g7NQGXBLc8f37KUgy0QC) | [Engel & Just](https://open.spotify.com/artist/0lvQ5K8AsLvcLZqyWWfchM) | [Thuis \(feat\. Per.verz\)](https://open.spotify.com/album/2mKBe45b3fvO7yNVzAlYm0) | 4:04 |
 | 86 | [Punt](https://open.spotify.com/track/48CfE8EAxOnx0OlWz51Zv5) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [Boulimia](https://open.spotify.com/album/1aIaaBADEDECJDFlhzyKXV) | 3:40 |
 | 87 | [Batterij](https://open.spotify.com/track/6lcwYclQz58gfAZrgAmBBx) | [Jawat](https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg) | [Ut Zwarte Aap](https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI) | 2:43 |
 | 88 | [Generaal](https://open.spotify.com/track/2uE3STwXESU4UvO5rZkkVC) | [Opgeduveld](https://open.spotify.com/artist/2itHVhH84RBGG9RsKyj5Yz) | [Opgeduveld](https://open.spotify.com/album/5rpa2P52leivrXWEOU0vdL) | 4:23 |

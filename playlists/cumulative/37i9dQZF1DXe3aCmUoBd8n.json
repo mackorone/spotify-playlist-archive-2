@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Top Sharqi hits right now. Cover: Bessan Ismail",
+  "description": "Top Sharqi hits right now. Cover: AL SHAMI",
   "name": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
   "tracks": [
     {
@@ -270,6 +270,24 @@
       "duration_ms": 135060,
       "name": "Al Kawn Janni Maak",
       "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
+    },
+    {
+      "album": {
+        "name": "Al Kaysar",
+        "url": "https://open.spotify.com/album/2nLOFHz8g2kP99PX5HyKPQ"
+      },
+      "artists": [
+        {
+          "name": "Assala",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280917,
+      "name": "Al Kaysar",
+      "url": "https://open.spotify.com/track/0NTIqYkabZBj6jlSSaGshQ"
     },
     {
       "album": {
@@ -961,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Chou Meshta2li",
+        "url": "https://open.spotify.com/album/6hMW6x28JG2O1k3UVBmpbN"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171627,
+      "name": "Chou Meshta2li",
+      "url": "https://open.spotify.com/track/489M9YlC0nOZeWY7ljkXfX"
+    },
+    {
+      "album": {
         "name": "Dawri Sar",
         "url": "https://open.spotify.com/album/4XnQZAbNysFQyFlYSHEzw4"
       },
@@ -979,7 +1015,7 @@
     },
     {
       "album": {
-        "name": "Dayman Heik",
+        "name": "Dayman Heik / \u062f\u0627\u064a\u0645\u0627\u064b \u0647\u064a\u0643",
         "url": "https://open.spotify.com/album/0M3A5TjPd4Hp556PBoGP0c"
       },
       "artists": [
@@ -996,7 +1032,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168000,
-      "name": "Dayman Heik",
+      "name": "Dayman Heik / \u062f\u0627\u064a\u0645\u0627\u064b \u0647\u064a\u0643",
       "url": "https://open.spotify.com/track/5TA7eJhh32dROR5sotDL9d"
     },
     {
@@ -1106,7 +1142,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 192115,
       "name": "El Ensan",
       "url": "https://open.spotify.com/track/2YFsPzMVVNNS0hk3gGlcZs"
@@ -1792,6 +1828,24 @@
       "duration_ms": 190000,
       "name": "Kelna Mnenjar",
       "url": "https://open.spotify.com/track/0KGZNoR5kZ1aUw83pfunng"
+    },
+    {
+      "album": {
+        "name": "Khab El Asham",
+        "url": "https://open.spotify.com/album/4mqC1Zq9Rwa51x8pLHG95Y"
+      },
+      "artists": [
+        {
+          "name": "Amjad Jomaa",
+          "url": "https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201308,
+      "name": "Khab El Asham",
+      "url": "https://open.spotify.com/track/6E8KBtR1n504G4D0bNUeRQ"
     },
     {
       "album": {
@@ -2500,7 +2554,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 205500,
       "name": "Reef Al Ain",
       "url": "https://open.spotify.com/track/4XJLSMhfdZF5l8dltDLDFM"
@@ -3042,7 +3096,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 172427,
       "name": "Wein",
       "url": "https://open.spotify.com/track/1QSMPPfQD7uMBbT0KN1ey2"

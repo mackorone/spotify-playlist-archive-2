@@ -2,9 +2,9 @@
 
 ### [alt.rock](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 Isla Mujeres
+> rock alternativo argentino\. <br/>📷 La Grecia
 
-343 songs - 19 hr 28 min
+346 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [de amor](https://open.spotify.com/track/2aTErhZNKXlUIh9OBHcMAF) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [de amor](https://open.spotify.com/album/47gnNZkAo3cBhbWwZL2DYW) | 2:25 | 2025-09-19 | 2026-04-04 |
 | [De Cero A Cien X Essentials \#1](https://open.spotify.com/track/3HsgtlddNm8Q9zoKkgwsUo) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Elsidechain](https://open.spotify.com/artist/0DubQNvKAkkXWIIC2jImhU) | [De Cero A Cien X Essentials \#1](https://open.spotify.com/album/4JDgTCvoC6nbyjDkE2F9OW) | 3:01 | 2022-03-25 | 2023-03-25 |
 | [Decilo](https://open.spotify.com/track/1VwdEHTP3qy6bNlEtmqaJq) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [MEIEN](https://open.spotify.com/artist/7ciZlFBa0GrlGHL2jfeKGU), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [MEIEN](https://open.spotify.com/album/4bczaWboiY4MjOWuou1zFS) | 3:13 | 2026-04-03 |  |
-| [Decí Quién Sos](https://open.spotify.com/track/6gVriaJMpNMmW3vofUg4WF) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Decí Quién Sos](https://open.spotify.com/album/23fdxtNFlfad7ajBLeMyLY) | 4:22 | 2026-04-10 |  |
+| [Decí Quién Sos](https://open.spotify.com/track/6gVriaJMpNMmW3vofUg4WF) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Decí Quién Sos](https://open.spotify.com/album/23fdxtNFlfad7ajBLeMyLY) | 4:22 | 2026-04-10 | 2026-06-12 |
 | [Denadie](https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Denadie](https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G) | 3:06 | 2022-03-25 | 2023-03-25 |
 | [Desarme](https://open.spotify.com/track/3DFvHld21TA5Vl38QAYA2y) | [Caravanas](https://open.spotify.com/artist/3xzFRbFGhL6hN18f7HK5b4) | [BAJO TIERRA LOS HUESOS SIGUEN HACIENDO RUIDO](https://open.spotify.com/album/1zXC56Fm22dtmxH5dcHXxk) | 3:06 | 2026-04-03 |  |
 | [Descansar](https://open.spotify.com/track/2hljYNWDu9nsXKJTRQ2xCq) | [La Grecia](https://open.spotify.com/artist/5eAzahInrBCojLVv1oKRlJ) | [Descansar](https://open.spotify.com/album/5Mp7GKFlEVk2jQQlXCcGVY) | 4:24 | 2025-11-14 | 2026-04-04 |
@@ -159,7 +159,7 @@
 | [HC Disnei](https://open.spotify.com/track/7nozKIKtdSH48GSxQ2Kt6P) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Homogénica](https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt), [Lagrimitas](https://open.spotify.com/artist/6ciaCuNXH1oI9zNW0Wrm9a) | [HC Disnei](https://open.spotify.com/album/2W2jxvKviaq8lVRbkrJXRC) | 2:51 | 2025-04-18 | 2026-04-04 |
 | [Hermoso desastre](https://open.spotify.com/track/5XZI1mfoqDtGSOJKwanXxl) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Hermoso desastre](https://open.spotify.com/album/5JLx5GobXUJcikXTyAWuSw) | 3:16 | 2026-04-17 |  |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-03-25 | 2025-11-14 |
-| [Hienas](https://open.spotify.com/track/3Fcaiko1BbbviiIrCsSt9c) | [mamá glitch](https://open.spotify.com/artist/2wxT6SRtxESURlsXrfEeFn) | [Hienas](https://open.spotify.com/album/4RsFfIRqpNykovYJe5yKxF) | 4:26 | 2024-05-09 |  |
+| [Hienas](https://open.spotify.com/track/3Fcaiko1BbbviiIrCsSt9c) | [mamá glitch](https://open.spotify.com/artist/2wxT6SRtxESURlsXrfEeFn) | [Hienas](https://open.spotify.com/album/4RsFfIRqpNykovYJe5yKxF) | 4:26 | 2024-05-09 | 2026-06-12 |
 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-03-25 | 2023-03-25 |
 | [Hoy cuando salga de casa...](https://open.spotify.com/track/7lTDcFIFlhGUE03TizKExU) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Hoy cuando salga de casa...](https://open.spotify.com/album/5BzczAoMriF2t6uhSZO3J8) | 4:42 | 2025-07-25 | 2026-04-04 |
 | [Hoy Quiero Hacer Lo Que Me Gusta](https://open.spotify.com/track/2pALJdjVALSlW5WXbxva8k) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Hoy Quiero Hacer Lo Que Me Gusta](https://open.spotify.com/album/22pygsnb57HgmLe0nEhIlB) | 2:09 | 2023-06-02 | 2026-02-28 |
@@ -194,7 +194,7 @@
 | [Lo Que Guarden Tus Ojos](https://open.spotify.com/track/71fxuzel9fUGYTOTaQDb4g) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Lo Que Guarden Tus Ojos](https://open.spotify.com/album/7At1MTQ5r0FoGocoMMR68k) | 3:16 | 2022-03-25 | 2023-03-25 |
 | [Los Capitanes](https://open.spotify.com/track/1f0tv1b07Kq83uC3u4RdP5) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Los Capitanes](https://open.spotify.com/album/2W73rRbpaz3T5Nddun5MVr) | 2:51 | 2025-03-28 | 2026-04-04 |
 | [Los Colores](https://open.spotify.com/track/7AMHUYpP3VOaNlhmjlqbZq) | [Fantasmagoria](https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn) | [Ahora / Después](https://open.spotify.com/album/611UzKp2VkiUPFK5xbobyT) | 4:25 | 2022-03-25 | 2023-03-25 |
-| [Lugares](https://open.spotify.com/track/4C1N58C20e0yxD8GwIQeBV) | [SHOOSH](https://open.spotify.com/artist/1WNMpyIs1PTzPLklyRRpfb) | [Suena Raro](https://open.spotify.com/album/0oVNAHJ3zRqC6qXOlRYT7l) | 3:36 | 2026-04-03 |  |
+| [Lugares](https://open.spotify.com/track/4C1N58C20e0yxD8GwIQeBV) | [SHOOSH](https://open.spotify.com/artist/1WNMpyIs1PTzPLklyRRpfb) | [Suena Raro](https://open.spotify.com/album/0oVNAHJ3zRqC6qXOlRYT7l) | 3:36 | 2026-04-03 | 2026-06-12 |
 | [Mabel](https://open.spotify.com/track/0OpNsqH1hrjqw188yJ2j2U) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [yo también les tengo miedo](https://open.spotify.com/album/5YzQqEKXoOFwlaEDccr3zN) | 2:48 | 2025-09-29 |  |
 | [Magic Town](https://open.spotify.com/track/6gzSzsdssXUUNEOcGDOxMX) | [Las Tussi](https://open.spotify.com/artist/5Zc1hvy8HoaA0vymJgcx6Q) | [Jajaquejaja](https://open.spotify.com/album/2W7fauQ4SgZnhNO3lDLSZH) | 2:01 | 2023-03-23 | 2024-07-13 |
 | [Mala Influencia](https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mala Influencia](https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P) | 2:13 | 2023-12-15 | 2026-04-04 |
@@ -225,6 +225,7 @@
 | [no es tan fácil](https://open.spotify.com/track/1Aa5B7cONt6ek2NutulwxM) | [Crisá](https://open.spotify.com/artist/58PubHmiueRj6gAeYAepHl) | [cuál es el último recuerdo que guardas?](https://open.spotify.com/album/6Gm85LzOSJByz6EV7A7CFN) | 3:44 | 2026-04-03 |  |
 | [No esperes nada](https://open.spotify.com/track/2zUu0Yxl8kbawwgemMv1Xt) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [No esperes nada](https://open.spotify.com/album/7wwlW8Om4ZeOHNDdD1TIpr) | 3:54 | 2026-04-10 | 2026-05-29 |
 | [No está todo tan mal](https://open.spotify.com/track/2O7CqCcjia8Sus1TktG17o) | [Mis peores enemigos](https://open.spotify.com/artist/22LHabWSUjUAg3UP4PPjN4) | [Tiempos mejores](https://open.spotify.com/album/5nryhGFH7mema081Q4ahda) | 3:46 | 2026-04-03 |  |
+| [No hay amor que nos salve](https://open.spotify.com/track/1kqUmSQ2uc8EEpuw532wun) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [No hay amor que nos salve](https://open.spotify.com/album/5UUpnZzBLF3J6GAbXbfu4l) | 2:52 | 2026-06-12 |  |
 | [No Los Pueden Separar](https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [No Los Pueden Separar](https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j) | 2:22 | 2024-04-19 |  |
 | [No Pares \(Sí, sí\)](https://open.spotify.com/track/1Q7Gq9wfgvEiQr5ErcD0Ks) | [La Grecia](https://open.spotify.com/artist/5eAzahInrBCojLVv1oKRlJ) | [Lady Garrón](https://open.spotify.com/album/5GpowTlDdjO8288epvUtWK) | 3:17 | 2025-12-05 | 2026-04-04 |
 | [no puedo volver](https://open.spotify.com/track/2LN4fRBRHEmhipl7OjQ9e1) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Medianoche Radio Club](https://open.spotify.com/album/1Bhx6as8YJyXPhRUS8rHj1) | 3:46 | 2022-03-25 | 2023-03-25 |
@@ -240,6 +241,7 @@
 | [Nube](https://open.spotify.com/track/6016U5kfHuP9AEktlYZfzr) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 1:10 | 2022-03-25 | 2022-07-29 |
 | [Nubes de Alcohol](https://open.spotify.com/track/7LBjclxGuOUl3S2Bflr2s8) | [MUJERCITAS TERROR](https://open.spotify.com/artist/5QUEG6gkH6BMeKEV92IJO1) | [Nubes de Alcohol](https://open.spotify.com/album/5xqsW9u1RfPh4ltVNZiGtV) | 3:17 | 2026-04-03 |  |
 | [Nuevo Plano](https://open.spotify.com/track/7cA4kcht49w4hcC6YYG0Ce) | [Entidad Animada](https://open.spotify.com/artist/2fa4MkhFQbeYbxkvHF3M7P) | [Nuevo Plano](https://open.spotify.com/album/6F5WoawljfNJDKEFQHNVKr) | 2:25 | 2023-07-14 | 2026-04-04 |
+| [Nunca lo van a Entender \- Spotify Sessions](https://open.spotify.com/track/0GGoZVwLBRuRTxz2qY19Tw) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BLAIR \- Spotify Sessions](https://open.spotify.com/album/3i0tFySe2LNwrrMJ430gLT) | 4:10 | 2026-06-12 |  |
 | [Oro y Barro](https://open.spotify.com/track/3n3nEclXD69K27BqpqjXHB) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC) | [Oro y Barro](https://open.spotify.com/album/15txAv95srdrDAPnK1Clcc) | 3:29 | 2023-03-23 | 2023-08-12 |
 | [Orquesta China](https://open.spotify.com/track/1MLx64q9VADddmBXP8DQ05) | [Clamor](https://open.spotify.com/artist/4LbaOuP0EEYLfOLQczfBLV) | [Para No Olvidarte](https://open.spotify.com/album/0s2J7yRCNDtiYC4pZNAXZL) | 3:30 | 2026-04-03 |  |
 | [Pagando de Más](https://open.spotify.com/track/4BMyL8QxN9W5jE4ia12l2G) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Barato Ideal](https://open.spotify.com/album/3vHJZa6kVgGjot5mgsjOUg) | 2:51 | 2024-02-02 | 2025-05-17 |
@@ -332,6 +334,7 @@
 | [Un poco triste](https://open.spotify.com/track/7pdxm9LvnfOWE0Vr8wibJz) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Un poco triste](https://open.spotify.com/album/0JhTvPGfVl8RU9rYjRjHrC) | 2:09 | 2026-05-01 |  |
 | [Un Rayo de Sol](https://open.spotify.com/track/0oAJBvPkXfLcA1Gh01jcdi) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [29:09:00](https://open.spotify.com/album/0jS4ed8WizhMKAqpafgrJf) | 4:54 | 2023-03-23 | 2024-11-30 |
 | [Una Canción](https://open.spotify.com/track/6uEZio7p3zHhIPSUiTFnLC) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7), [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Una Canción](https://open.spotify.com/album/4AR7pIVOrcS7KYeVJF9BpG) | 2:42 | 2023-03-23 | 2023-07-29 |
+| [Una Lapicera Clavada en el Corazón \(En Vivo\)](https://open.spotify.com/track/7a4yl8x5ycWCwepUEt48zX) | [La Grecia](https://open.spotify.com/artist/5eAzahInrBCojLVv1oKRlJ) | [En Vivo Niceto Club](https://open.spotify.com/album/3ATIMeiIMkuujwJmTlBXsj) | 3:44 | 2026-06-12 |  |
 | [Una Temporada en el Invierno](https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Una Temporada en el Invierno](https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy) | 3:56 | 2024-08-12 |  |
 | [Vecinos](https://open.spotify.com/track/7zM7vEt3CEHasWxqRomYuu) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT) | [Vecinos](https://open.spotify.com/album/5balPtR0c16V31I9KdBBm2) | 2:01 | 2025-04-25 |  |
 | [Veneno](https://open.spotify.com/track/3u25jJHH7zuhsh4gCO7kf0) | [Tobias Indigo](https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc) | [Ahora Que Te Gusta El Rock](https://open.spotify.com/album/6HgMAQiz2FbvgoeuQ9kKgl) | 2:44 | 2025-04-25 | 2026-04-04 |

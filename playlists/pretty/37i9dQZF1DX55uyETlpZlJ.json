@@ -1,13 +1,29 @@
 {
-  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Gubbi - Sumanth Shetty",
-  "num_followers": 27038,
+  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK - Alok ",
+  "num_followers": 27039,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAGhV7znFVUIPa58YawU4recorlJ",
+  "snapshot_id": "AAAAAHrkUo+u5GMzA8kRbvy/ts5/nLm6",
   "tracks": [
+    {
+      "added_at": "2026-06-11 04:39:16",
+      "album": {
+        "name": "Ninna Bitre",
+        "url": "https://open.spotify.com/album/1IPsEqLhi5ZM8j2XFowtIs"
+      },
+      "artists": [
+        {
+          "name": "All Ok",
+          "url": "https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV"
+        }
+      ],
+      "duration_ms": 206460,
+      "name": "Ninna Bitre",
+      "url": "https://open.spotify.com/track/6L5O8chJfyrfCAdLgAB9Ux"
+    },
     {
       "added_at": "2026-05-29 10:38:39",
       "album": {

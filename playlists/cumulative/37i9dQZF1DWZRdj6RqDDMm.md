@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Neon Adejo
 
-658 songs - 1 day 12 hr 34 min
+659 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,7 +411,7 @@
 | [No Time](https://open.spotify.com/track/5a9HRdpLc7eIqbz9DxHzq1) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Annie Daymar](https://open.spotify.com/artist/3xjZKxoPWWG1akLsPpNfsS) | [No Time](https://open.spotify.com/album/3oedHJYo52AdWfQ7PFHeqB) | 2:09 | 2026-02-06 |  |
 | [No Trouble](https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [No Trouble](https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB) | 2:50 | 2023-10-20 | 2024-04-06 |
 | [No Turning Back](https://open.spotify.com/track/6X06ssOplf4RQb1L48qZVX) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Lofi & Jesus: Sober Journal](https://open.spotify.com/album/000LlWeGQHw4GGOY7gj2rn) | 3:26 | 2025-01-31 | 2025-02-28 |
-| [No Weapon](https://open.spotify.com/track/1rS9xwUy0cdeb5u5Rnga4Q) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [No Weapon](https://open.spotify.com/album/4AFSWnW3fNNwbMpnuXgbBH) | 1:41 | 2026-01-30 |  |
+| [No Weapon](https://open.spotify.com/track/1rS9xwUy0cdeb5u5Rnga4Q) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [No Weapon](https://open.spotify.com/album/4AFSWnW3fNNwbMpnuXgbBH) | 1:41 | 2026-01-30 | 2026-06-12 |
 | [No worries "Hakuna Matata"](https://open.spotify.com/track/4LPNjHRpM05jnwnOvNnOv7) | [Olawale Godwin Ogunleye](https://open.spotify.com/artist/5HiUycuLo5NBzSGHaSPBDv) | [No worries "Hakuna Matata"](https://open.spotify.com/album/1pCGqsVRRsVCNazBr3O7j5) | 3:25 | 2025-08-01 | 2025-09-05 |
 | [Not A Man](https://open.spotify.com/track/7z8Xz0y7g8Edd5XFpBMZlg) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Not A Man](https://open.spotify.com/album/0kSOEznkAQGUU9aNgoIQHN) | 3:46 | 2025-12-05 | 2026-02-27 |
 | [Not Alone](https://open.spotify.com/track/1AhlSnL6e6WP5gRBTZfru6) | [Aydeji](https://open.spotify.com/artist/02abeDILFY7L8Rt1N7NisI), [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7) | [First](https://open.spotify.com/album/4MquUNoaNXgXOPWAHutN2V) | 3:19 | 2024-09-06 | 2024-11-08 |
@@ -618,6 +618,7 @@
 | [We Pray](https://open.spotify.com/track/782yvAXARMNYwa6UYUNT0F) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Ruthie Namaganda](https://open.spotify.com/artist/2SPhsCFGKEMyOHfk5FWBc4), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [We Pray \(See a Miracle\)](https://open.spotify.com/album/3cmnxmwsuSQDPsWpvEsBoS) | 3:15 | 2026-02-13 |  |
 | [We Raise A Sound](https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [We Raise A Sound](https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU) | 7:12 | 2023-10-20 |  |
 | [WE WIN](https://open.spotify.com/track/2TyuOEMOSZf7I523X6ZqYz) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [WE WIN](https://open.spotify.com/album/0FsoY0yxDj0Qg5NOnvFX2Y) | 4:02 | 2024-03-01 | 2024-04-06 |
+| [Weather I Chop Thank You](https://open.spotify.com/track/0F8quSF7MOsLe7IHtiI1g6) | [Mighty Michael](https://open.spotify.com/artist/2V0ApJSHLc9n4uI3MEkwlY) | [Weather I Chop Thank You](https://open.spotify.com/album/022zBTIOViHJrcAUiJiTem) | 2:47 | 2026-06-12 |  |
 | [What a Friend](https://open.spotify.com/track/25Tb8E2kjW27ryWghggfDm) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [What a Friend](https://open.spotify.com/album/6mnMbRsGMAH4nzecSQvU6Q) | 2:15 | 2026-01-09 |  |
 | [What More](https://open.spotify.com/track/3sZpoD3qr89HOJORDAO02s) | [MaryJane Nweke](https://open.spotify.com/artist/7GcL0el74n5UvZY4mtyhaW) | [What More](https://open.spotify.com/album/3uO9NzmOYbzCGTdXXcT50g) | 5:23 | 2023-10-20 | 2024-01-26 |
 | [What's on your mind?](https://open.spotify.com/track/3AvnVkCpr9Ux8xQxtUpRqn) | [Shadrach SBS](https://open.spotify.com/artist/2eKjftX5gKorRAzO2ECBtb) | [What's on your mind?](https://open.spotify.com/album/1ybEUj5exmZpufSJztvapl) | 1:32 | 2024-05-03 | 2024-07-05 |

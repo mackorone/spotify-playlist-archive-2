@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: Sqiniseko SinQ, Danya Devs",
+  "description": "Proudly Southern African Afropop gems. Cover: K.O",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -4425,6 +4425,32 @@
     },
     {
       "album": {
+        "name": "Hotela (feat. Danya Devs & Scotts Maphuma)",
+        "url": "https://open.spotify.com/album/7Mt5ovrmbhl67kOsxDTtdg"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "Danya Devs",
+          "url": "https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234482,
+      "name": "Hotela (feat. Danya Devs & Scotts Maphuma)",
+      "url": "https://open.spotify.com/track/5GXhOvp73Pvx7N1JH8BVgX"
+    },
+    {
+      "album": {
         "name": "I Cant Give Up Now",
         "url": "https://open.spotify.com/album/5GbAhxDtsxMeeoEMNJHpuT"
       },
@@ -7637,6 +7663,24 @@
     },
     {
       "album": {
+        "name": "Lo engizomthola manje",
+        "url": "https://open.spotify.com/album/6QTfpbJVuRJBtPdxi38F9N"
+      },
+      "artists": [
+        {
+          "name": "Intabayasedubai",
+          "url": "https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281102,
+      "name": "Lo engizomthola manje",
+      "url": "https://open.spotify.com/track/5Ud9AglmSQDILqTS0sDn3n"
+    },
+    {
+      "album": {
         "name": "Loadshedding",
         "url": "https://open.spotify.com/album/1TaufpxojdcNP4BnqmNZQe"
       },
@@ -9322,7 +9366,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 188275,
       "name": "Ndizokunika (feat. WalkMaTall)",
       "url": "https://open.spotify.com/track/01vI0YdsnaJsfwcMNdY8SC"
@@ -16538,7 +16582,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 145714,
       "name": "ZULU",
       "url": "https://open.spotify.com/track/6ZPRhIMGp6AZXN9N0RPhPe"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Blaqbonez",
+  "description": "Hip hop and rap music from Nigeria. Cover: 6uff",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -3743,6 +3743,24 @@
     },
     {
       "album": {
+        "name": "Dear God",
+        "url": "https://open.spotify.com/album/3WlgPk9gJBgxb8NrsZXUnv"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Dear God",
+      "url": "https://open.spotify.com/track/6N93363KAGUQFviDFAmuhz"
+    },
+    {
+      "album": {
         "name": "EZIOKWU",
         "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
       },
@@ -5890,10 +5908,28 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 134960,
       "name": "GIVENCHY",
       "url": "https://open.spotify.com/track/7BWjBUUdElPrt810wy2pKb"
+    },
+    {
+      "album": {
+        "name": "Go Again",
+        "url": "https://open.spotify.com/album/0S9ZGL0e712EkZQ9nuFOW6"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Go Again",
+      "url": "https://open.spotify.com/track/6zoLCHH5mKApNOmTsmVYhN"
     },
     {
       "album": {
@@ -6058,7 +6094,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 159183,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4yl8E3WBL0TdCxhwPyytgI"
@@ -7414,6 +7450,28 @@
       "duration_ms": 134896,
       "name": "Ise Oluwa",
       "url": "https://open.spotify.com/track/640JNqmCoELpUVGPGZ1OeV"
+    },
+    {
+      "album": {
+        "name": "OUT OF SIGHT - OUT OF MIND: VOLUME 1",
+        "url": "https://open.spotify.com/album/3SI2TRyo5q8NwyfIZEy6ZP"
+      },
+      "artists": [
+        {
+          "name": "Ycee",
+          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172784,
+      "name": "ISLAND GIRLS",
+      "url": "https://open.spotify.com/track/1FXaBqoI5KFH8uR8UBiGI9"
     },
     {
       "album": {
@@ -9482,7 +9540,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 173571,
       "name": "Motion",
       "url": "https://open.spotify.com/track/1P01bDBrTKGVhjpr47RFTT"
@@ -9770,7 +9828,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 147945,
       "name": "na money",
       "url": "https://open.spotify.com/track/42S2tic3eB9e3mGp87qdxG"
@@ -12710,6 +12768,28 @@
       "duration_ms": 187669,
       "name": "RING RING (feat. Tay Iwar)",
       "url": "https://open.spotify.com/track/1DqkGssR98fA9ms2ut4dj5"
+    },
+    {
+      "album": {
+        "name": "Ripper's Fate",
+        "url": "https://open.spotify.com/album/4lgOFpzSFOgxOnmfFB6kIB"
+      },
+      "artists": [
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        },
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149032,
+      "name": "Ripper's Fate",
+      "url": "https://open.spotify.com/track/7vAG802uK3ACnXRokc6VIX"
     },
     {
       "album": {

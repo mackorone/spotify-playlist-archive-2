@@ -4,7 +4,7 @@
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-82 songs - 7 hr 25 min
+83 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Luv](https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Inner Garden](https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa) | 7:09 | 2025-06-28 |  |
 | [Mary Go Round](https://open.spotify.com/track/1DTRyqSQ6CfDs46Ft9vUpR) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 3:41 | 2025-06-28 |  |
 | [Momma's Groove \(Jimpster's Hip Replacement Mix\)](https://open.spotify.com/track/3SYFuQxFvEVrOD54vW0Hu7) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Momma's Groove](https://open.spotify.com/album/0nhS8liVSY8PBQQ1Arc9sQ) | 7:33 | 2025-06-28 |  |
+| [Moon In Daylight](https://open.spotify.com/track/3GVlEZB6GERFuXtPCSC87j) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF) | 6:56 | 2026-06-12 |  |
 | [MOSS](https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 3:02 | 2025-06-28 |  |
 | [MOSS Pt\. 3 \(My Luva\)](https://open.spotify.com/track/3M71L3e1y6Xps6ojwlPLM2) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 4:23 | 2025-07-02 | 2026-01-03 |
 | [Music For The Gods](https://open.spotify.com/track/60mWMUdenqnSjEqPVOpomd) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Aquarian Moon](https://open.spotify.com/album/7L9DbyxlXNlTwrtsVBTYuy) | 6:40 | 2025-10-06 | 2026-05-24 |
@@ -83,7 +84,7 @@
 | [Tom's Bar](https://open.spotify.com/track/6etoe7269ZeOzKzVrVeJkL) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 4:10 | 2025-06-28 |  |
 | [Unity In Diversity \- Yoruba Soul remix](https://open.spotify.com/track/57P7hxlQURGja8UM0Ev7zh) | [Han Litz Group](https://open.spotify.com/artist/6MSkUkujTUMZW8MhL4kcIX), [Han Litz](https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Yoruba Soul](https://open.spotify.com/artist/1KoS8cnCKnhjqR4Smd2ZJC) | [Unity In Diversity \(Yoruba Soul remix\)](https://open.spotify.com/album/0nqcNC7FT5QR7eNXgbu09v) | 5:03 | 2025-07-06 | 2025-10-05 |
 | [Walkin' in Paris](https://open.spotify.com/track/6FT47gn7jWEL31VHB41UZw) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 5:04 | 2026-01-15 |  |
-| [Water Mocassins](https://open.spotify.com/track/7zxMIYo0C7P3W1mST4d6Lz) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Iamone](https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1) | 5:39 | 2025-09-13 |  |
+| [Water Mocassins](https://open.spotify.com/track/7zxMIYo0C7P3W1mST4d6Lz) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Iamone](https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1) | 5:39 | 2025-09-13 | 2026-06-12 |
 | [We Call Love](https://open.spotify.com/track/0orJzfilEns6w4Qo7TMibG) | [Art Department](https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD) | [We Call Love](https://open.spotify.com/album/1FCRVkwVO9nrIzEWrIoYhv) | 6:18 | 2025-09-10 |  |
 | [We Call Love](https://open.spotify.com/track/5e6hni5EtDjcZcgFYYqPH2) | [Art Department](https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD) | [The Drawing Board](https://open.spotify.com/album/1rhHpHi0n3ZqE9tP28SUVL) | 6:19 | 2025-06-28 |  |
 | [We Can Change This World \- Yoruba Soul Mix](https://open.spotify.com/track/7peX22FQZymDyGq2a7e1ZR) | [Dj Spinna](https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2), [Heavy](https://open.spotify.com/artist/4k504xMp2InbnaJP0qyFX0), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 7:06 | 2025-06-28 | 2025-07-08 |

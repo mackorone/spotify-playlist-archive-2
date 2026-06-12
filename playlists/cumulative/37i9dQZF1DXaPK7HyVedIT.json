@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: VINNE",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: RUBACK",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -613,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Alienation",
+        "url": "https://open.spotify.com/album/03B945dt4sHuEUKFaLo6Ac"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158413,
+      "name": "Alienation",
+      "url": "https://open.spotify.com/track/12p2uuwxJ2Hlwt9YkZ3Ixe"
+    },
+    {
+      "album": {
         "name": "Alive and Aware",
         "url": "https://open.spotify.com/album/29HFxfP82OKhDq7ZmaA2aU"
       },
@@ -980,7 +998,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 181417,
       "name": "Amor en Miami",
       "url": "https://open.spotify.com/track/0AGXJn0vNyFHJNA4B5oF13"
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 225230,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0IOqpcWps9MQLQz3noAVKR"
@@ -3848,6 +3866,32 @@
       "duration_ms": 205952,
       "name": "Crackle",
       "url": "https://open.spotify.com/track/5RnsrH0kGOTk3jpMlOtqHI"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/4sQQVxHM7n5r40or6e6cZZ"
+      },
+      "artists": [
+        {
+          "name": "Dre Guazzelli",
+          "url": "https://open.spotify.com/artist/4NnfyZ8ExJjtf6vuWHPoNl"
+        },
+        {
+          "name": "Tom Keller",
+          "url": "https://open.spotify.com/artist/47tRWcCRai6k1FiR33rX5V"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355200,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2JK3u8ADAVeZIV0jIHkxro"
     },
     {
       "album": {
@@ -5354,6 +5398,24 @@
       "duration_ms": 224000,
       "name": "Eixo",
       "url": "https://open.spotify.com/track/1iu3Hor5ARrLhWRvngSyhx"
+    },
+    {
+      "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/6q1F2vHv0r7z38IafdnUzu"
+      },
+      "artists": [
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187814,
+      "name": "El Ni\u00f1o",
+      "url": "https://open.spotify.com/track/7Mg58xNYB3yOpyouHvlllW"
     },
     {
       "album": {
@@ -7022,7 +7084,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 232093,
       "name": "Freaky 1",
       "url": "https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB"
@@ -11175,6 +11237,24 @@
     },
     {
       "album": {
+        "name": "LIKE THIS LIKE THAT",
+        "url": "https://open.spotify.com/album/24B81ZmXHfF8LT8QxPv7ih"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199687,
+      "name": "LIKE THIS LIKE THAT",
+      "url": "https://open.spotify.com/track/55lkHzjFX0dymgA1wY1m0y"
+    },
+    {
+      "album": {
         "name": "Live Without Love (Kiko Franco Remix)",
         "url": "https://open.spotify.com/album/3fYlfqz4S9JZ5Znnc6N4LE"
       },
@@ -11340,7 +11420,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 156021,
       "name": "Losing My Head",
       "url": "https://open.spotify.com/track/0QlIzRUHe0ZnBMyU2QNZsT"
@@ -13041,6 +13121,24 @@
     },
     {
       "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/0QIhWrS61ESZsQ2HnNTDFK"
+      },
+      "artists": [
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188139,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/3x485UchDgT9jdncu4TMFw"
+    },
+    {
+      "album": {
         "name": "My Mind",
         "url": "https://open.spotify.com/album/1kY5pJbnsqMO1rN8DTdOhI"
       },
@@ -13122,7 +13220,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 146484,
       "name": "My Time",
       "url": "https://open.spotify.com/track/6qWI0OPscA0MW4G6kjWGUg"
@@ -14690,6 +14788,28 @@
       "duration_ms": 155520,
       "name": "Party Crashers",
       "url": "https://open.spotify.com/track/2gVxKVSXaj9AONYkw2AUZc"
+    },
+    {
+      "album": {
+        "name": "Cutting Thread",
+        "url": "https://open.spotify.com/album/2l3soHjdwpJifx0Nn7Jh1N"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        },
+        {
+          "name": "Warrior Queen",
+          "url": "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194568,
+      "name": "Party Criminal",
+      "url": "https://open.spotify.com/track/3fRURTdeiyrZMRKpyFtDbE"
     },
     {
       "album": {
@@ -16532,7 +16652,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 170537,
       "name": "Set Me Free - R\u00e1dio Edit",
       "url": "https://open.spotify.com/track/3240jnbMK07ufMoL8kxtar"
@@ -19973,6 +20093,32 @@
     },
     {
       "album": {
+        "name": "Vida Passageira",
+        "url": "https://open.spotify.com/album/0JvpismjshezhHk6qltzqw"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Brisotti",
+          "url": "https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161993,
+      "name": "Vida Passageira",
+      "url": "https://open.spotify.com/track/2r8EseX5JeIxVAGvLyRD3d"
+    },
+    {
+      "album": {
         "name": "Voc\u00ea Chegou",
         "url": "https://open.spotify.com/album/6y079nJ40NbY5Qnad8nnpl"
       },
@@ -20014,6 +20160,28 @@
       "duration_ms": 182769,
       "name": "Vodka",
       "url": "https://open.spotify.com/track/0NFLot7aYjdkJon2mMN5lG"
+    },
+    {
+      "album": {
+        "name": "V\u00e1rias Mina",
+        "url": "https://open.spotify.com/album/6WkkBfnKRFryg1VCebdEfV"
+      },
+      "artists": [
+        {
+          "name": "Whighle",
+          "url": "https://open.spotify.com/artist/1mnkzYGcsPQFR3wonZgPLv"
+        },
+        {
+          "name": "MC Flavinho",
+          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "V\u00e1rias Mina",
+      "url": "https://open.spotify.com/track/1ahPqocdzGpxQe7UazMe6X"
     },
     {
       "album": {
@@ -20946,7 +21114,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 302362,
       "name": "Ypsilon",
       "url": "https://open.spotify.com/track/0uwUEWkwJTIgWLKD1VHZMr"

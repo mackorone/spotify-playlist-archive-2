@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover: Mbuzeni",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover: LIMIT NALA",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -1422,7 +1422,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 264000,
       "name": "Ikamelo",
       "url": "https://open.spotify.com/track/4d9geaDmZFl9xooDaKHCWV"
@@ -4273,6 +4273,24 @@
     },
     {
       "album": {
+        "name": "Imizamo Yami",
+        "url": "https://open.spotify.com/album/3Lfbsj7w7y2qzKbnDsicPI"
+      },
+      "artists": [
+        {
+          "name": "Feza",
+          "url": "https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258324,
+      "name": "Sengithole Omunye",
+      "url": "https://open.spotify.com/track/46rac4X07nXvGTPezZKMSu"
+    },
+    {
+      "album": {
         "name": "Sengize Ngamthola",
         "url": "https://open.spotify.com/album/0xNTVdgtDwuo5D4FxjJqeS"
       },
@@ -4662,7 +4680,7 @@
       },
       "artists": [
         {
-          "name": "Umdumazi",
+          "name": "uMdumazi",
           "url": "https://open.spotify.com/artist/1FaD9YX3OovAhntq4aV1DC"
         },
         {

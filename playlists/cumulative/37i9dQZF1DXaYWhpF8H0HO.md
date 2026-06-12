@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Tatiana
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Ridh
 
-646 songs - 1 day 13 hr 43 min
+651 songs - 1 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Everyday In Love](https://open.spotify.com/track/3rPRI5eW9ypP4Lghe9iq7Z) | [SAÈ](https://open.spotify.com/artist/1HtIXiM6wEmcQQ3K7IM2BO) | [Everyday In Love](https://open.spotify.com/album/0SWLkZ2hvi66HTbjcQ6uMo) | 3:24 | 2025-07-10 | 2025-08-29 |
 | [Everything](https://open.spotify.com/track/52Mn4DYE32LNrHnHp9dWSE) | [Inthesky](https://open.spotify.com/artist/6cpT3fcSO6kNyiBCy0DNTw) | [Everything](https://open.spotify.com/album/2DG74M1TvezzaglnsunUau) | 5:15 | 2025-10-23 | 2026-04-24 |
 | [Everything You Do](https://open.spotify.com/track/27CVbET14b05MftdN4j9kG) | [Abe Hoed](https://open.spotify.com/artist/3FGtrvyMWYYnEyCtityD8y) | [Everything You Do](https://open.spotify.com/album/3l4vWe5jklk2yyILb7VU17) | 4:00 | 2025-01-17 | 2025-09-30 |
+| [Everywhere I Go](https://open.spotify.com/track/54pOjg9ZcVQ9P3kpfTROcX) | [Faye Risakotta](https://open.spotify.com/artist/6yd6MjAk4TydGHSGdVKFuv) | [Everywhere I Go](https://open.spotify.com/album/1nYijA8RVjYS58U1P0mSkU) | 3:52 | 2026-06-11 |  |
 | [eyes closed](https://open.spotify.com/track/4ulnoshXvEKyzwaYETxa5g) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [eyes closed](https://open.spotify.com/album/2OGwtsWKnsRiATyy6wFfHa) | 3:08 | 2024-06-27 | 2024-08-02 |
 | [Fade](https://open.spotify.com/track/6ZMImaADsVEfPjkk7HlcTS) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fade](https://open.spotify.com/album/4HaJqLpzs9dIYrZULKImav) | 3:18 | 2024-06-27 | 2024-07-27 |
 | [FALL AGAIN](https://open.spotify.com/track/303TW5JcL5wE8nPhyb0XRV) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [FALL AGAIN](https://open.spotify.com/album/5DLrerqf7OKlJskTZOAlYn) | 3:08 | 2026-02-12 |  |
@@ -194,6 +195,7 @@
 | [Fallin’ \(feat\. Assia Keva\)](https://open.spotify.com/track/1NaC5MbdtiGR3ot2EDHF6v) | [Ankadiov](https://open.spotify.com/artist/2dCGSLwiJ8mBhGM9noHFYi), [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Fallin’ \(feat\. Assia Keva\)](https://open.spotify.com/album/5zT1ZfIceq8hRmQBy6mxvW) | 3:26 | 2024-07-23 | 2024-09-27 |
 | [Famous](https://open.spotify.com/track/2qKXQjN3b2igYZXNFZ6eu0) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Famous](https://open.spotify.com/album/11jxNLPRRRS43Fbv2MFe1K) | 2:29 | 2025-08-21 | 2026-05-22 |
 | [Favorite Art](https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Favorite Art](https://open.spotify.com/album/42btgmtHPBE4Moq3luRC2z) | 2:53 | 2024-06-27 | 2025-01-24 |
+| [FEEL ALIVE](https://open.spotify.com/track/0a1q1T30ziPZNCA35D5OIQ) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [FEEL ALIVE](https://open.spotify.com/album/0OrLF1qhA5RPtmGZOJATFj) | 3:16 | 2026-06-11 |  |
 | [Feeling for You](https://open.spotify.com/track/0NA1nlCQ9BlRbbY8F6UTN9) | [LONE](https://open.spotify.com/artist/5HeBFZyF0fqXHw7SU1xZHF) | [Feeling for You](https://open.spotify.com/album/49FXRUWF9fMNgV5BF8vAyk) | 4:13 | 2024-06-27 | 2024-07-27 |
 | [Feels Like We're Still a Lover](https://open.spotify.com/track/62YskeUHdVoZiLge8ORBrt) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Feels Like We're Still a Lover](https://open.spotify.com/album/0O3xNA5pIZZc8N6L1GF60G) | 4:54 | 2024-08-23 | 2025-01-24 |
 | [Feenin' \- Andezzz Remix](https://open.spotify.com/track/19CfTZUocbSgUJrQGjgvPs) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7), [Andezzz](https://open.spotify.com/artist/2fbpowgwOj5DqZt6IZHzWd) | [Feenin'](https://open.spotify.com/album/4cZ5TWhsqDaZrU9c9cxuoC) | 4:52 | 2024-06-27 | 2024-07-24 |
@@ -265,6 +267,7 @@
 | [high](https://open.spotify.com/track/3idBrMwX5Kcl5e2LOEW8P3) | [Olivia Pardede](https://open.spotify.com/artist/2cuE5tGqzoDkpipSAmWhsD) | [high](https://open.spotify.com/album/0iFVOKmAwq5QxHoZIlsDLD) | 3:38 | 2025-09-05 | 2025-12-06 |
 | [HIGHER](https://open.spotify.com/track/2INBpgdpRNNfUhCBPjNo4a) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [HIGHER](https://open.spotify.com/album/011fc3cGSjwlMpQg0NyLa3) | 4:13 | 2024-09-12 | 2025-01-24 |
 | [hold me tight](https://open.spotify.com/track/5vMYg1wLg1ZK5vOweoRorf) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [hold me tight](https://open.spotify.com/album/2jJOkzVvP8iEFYjfl6qLeA) | 3:11 | 2024-06-27 | 2025-01-24 |
+| [Hompimpa](https://open.spotify.com/track/5Nk61wJGbPJNBIbnQG9vNl) | [Marbles](https://open.spotify.com/artist/5f5BQHYqjKGpSrgawqYWHQ) | [Hompimpa](https://open.spotify.com/album/05IfOdDr0KqGCW80njvArX) | 2:19 | 2026-06-11 |  |
 | [Hoping You'll Be Mine](https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Hoping You'll Be Mine](https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8) | 3:22 | 2024-06-27 | 2025-01-24 |
 | [Hourglass Reverie](https://open.spotify.com/track/3jPKfIQXRWeADuTMdG0Itr) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Hourglass Reverie](https://open.spotify.com/album/3g9PzlwyA8Hz8BMOxlJLHo) | 3:27 | 2025-04-10 | 2025-05-09 |
 | [How Could You Still Love Me](https://open.spotify.com/track/0l7pTIk20PHJZxNYgQcON1) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [How Could You Still Love Me](https://open.spotify.com/album/4nTE31Iy6lAONpS9kT6v33) | 4:24 | 2024-07-11 | 2024-10-11 |
@@ -361,6 +364,7 @@
 | [Long As](https://open.spotify.com/track/1o33oTcVEUuQxAYwAggNCB) | [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj) | [Long As](https://open.spotify.com/album/2GtovgeYPY24W1bgd1Zc3a) | 2:55 | 2025-10-03 | 2025-12-06 |
 | [Looking for Love in Wrong Places](https://open.spotify.com/track/4gngdFoZ9jGJcHAlbjWmIZ) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Looking for Love in Wrong Places](https://open.spotify.com/album/1KN2KKeuWwdkimahJ0lmFp) | 4:05 | 2025-05-29 |  |
 | [Lord](https://open.spotify.com/track/5fQgdQVocpLazUUuGi6rIN) | [Stereocase](https://open.spotify.com/artist/1H8zzYCYxryALUVj91EYgs) | [Lord](https://open.spotify.com/album/35Agdm0pdanvTKfdUYRJXM) | 3:41 | 2024-06-27 | 2024-09-06 |
+| [lose](https://open.spotify.com/track/6muxq0hXyW4m6rPR102PFc) | [Ridh](https://open.spotify.com/artist/0tqCMm24TzsA9pbhqbjbv1) | [lose](https://open.spotify.com/album/0gOdeAwXicLZ9BgHkyLYDy) | 3:29 | 2026-06-11 |  |
 | [Lost Boy](https://open.spotify.com/track/3XUbRD75LhSFEcku8vHWr9) | [Bagus Bhaskara](https://open.spotify.com/artist/2sSwBNcY8Up3WiJFMZqOoY) | [Lost Boy](https://open.spotify.com/album/4pjc4AaYUsvolOnghgFdlS) | 3:32 | 2025-07-24 | 2025-10-04 |
 | [lost house](https://open.spotify.com/track/3t5AKlTYNJtTSX37YMJeZa) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [lost house](https://open.spotify.com/album/4XXvzEo31hxbfgayRWWE2R) | 3:57 | 2024-06-27 | 2024-09-06 |
 | [Lost In A Maze](https://open.spotify.com/track/6kvAnBR8HBGIG73ASyhF5Z) | [Incircle.](https://open.spotify.com/artist/6N1cdKDau7Es37PJzDcBiI) | [Lost In A Maze](https://open.spotify.com/album/60eBVoIjdn8xemWPWFSljj) | 5:28 | 2024-06-27 | 2024-08-10 |
@@ -538,6 +542,7 @@
 | [Speak Of Flames](https://open.spotify.com/track/76hET7hfrplSsQvUxrMu7e) | [ALFRED](https://open.spotify.com/artist/2zsYdYIawqVd6sFYuwR9RE) | [Speak of Flames](https://open.spotify.com/album/24rL7DtY3GT14ITPm3a4jU) | 4:53 | 2025-10-23 | 2025-12-06 |
 | [Special Kind \(YOU\)](https://open.spotify.com/track/3OCwU4Lj0jLFhGxHW9zthj) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [Special Kind \(YOU\)](https://open.spotify.com/album/7rsovGJzVONLVbeBjELz51) | 2:20 | 2025-04-24 | 2025-05-30 |
 | [special wishes 3](https://open.spotify.com/track/4n2F4nUFAEZwYNJ5dFQ8CU) | [Kareem Soenharjo](https://open.spotify.com/artist/3a8I3dOLEe0Mliys7Jaxdp) | [special wishes 3](https://open.spotify.com/album/2hVfef0fTfby543LtGPmgP) | 2:38 | 2024-12-12 | 2025-07-18 |
+| [Spice Girl](https://open.spotify.com/track/0JMBgkp5eCTPk5q7V667dw) | [Syeqy](https://open.spotify.com/artist/4z5jmISKhWSg24Wk6s0U0p) | [Spice Girl](https://open.spotify.com/album/4pCvmdF7ja8quomnhDkQ4b) | 2:52 | 2026-06-11 |  |
 | [SPLIT](https://open.spotify.com/track/2IfF66ZKFHsyoqBI1llkyx) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [SPLIT](https://open.spotify.com/album/0cjjgDrwEWPxrc5GyqNhZz) | 3:13 | 2024-06-27 | 2024-08-02 |
 | [stasis](https://open.spotify.com/track/2wDbO57z9mAGligAmR3j5T) | [brrr](https://open.spotify.com/artist/3vrbcpXGhZhRuD7gihiOnl) | [stasis](https://open.spotify.com/album/1RkAMBCqWjmoEzYYRKdtrV) | 4:13 | 2025-09-29 | 2025-10-04 |
 | [Stay](https://open.spotify.com/track/1Mk7OXg1AxopGOWsPL5GQf) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [Stay](https://open.spotify.com/album/1oA3WqpcTfAGsYzMixuToO) | 4:02 | 2026-04-23 |  |

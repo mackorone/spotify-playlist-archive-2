@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,239 likes - 34 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,241 likes - 35 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 6 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
 | 7 | [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 |
 | 8 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 |
-| 9 | [linknb](https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [linknb](https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc) | 1:55 |
-| 10 | [Talk On The Hill](https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Talk On The Hill](https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y) | 3:27 |
+| 9 | [Talk On The Hill](https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Talk On The Hill](https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y) | 3:27 |
+| 10 | [linknb](https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [linknb](https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc) | 1:55 |
 | 11 | [Chanson triste \(feat\. a6el\)](https://open.spotify.com/track/1sc6lYULJA1X0s1yT9r2p3) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt), [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Chanson triste \(feat\. a6el\)](https://open.spotify.com/album/0eGdXwZZ95NTZwOjR0G13Q) | 2:24 |
 | 12 | [La Cumbia De Virgil](https://open.spotify.com/track/2r9OniMnG9dXIPCvLtjuwf) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [La Cumbia De Virgil](https://open.spotify.com/album/725hLNSjmqBjOIYPG89hN3) | 2:36 |
 | 13 | [lts here](https://open.spotify.com/track/1KpkbuhBrbk3e9hO8xFWjL) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Easy EP](https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH) | 2:34 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 21 | [Maman](https://open.spotify.com/track/4rDiyfZtqk03FTzQ4M8tg4) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Maman](https://open.spotify.com/album/0gxk8tI9M0cupnLHBaQUjw) | 2:47 |
 | 22 | [Jeunes et cons](https://open.spotify.com/track/2Rr4xbCfYjJKQ5qdezU2N3) | [Shades](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Jeunes et cons](https://open.spotify.com/album/25IsT97AyumsVb8MLT6ccg) | 3:09 |
 | 23 | [Anomalie](https://open.spotify.com/track/7BjtnFWiaBWdbr5nKF6ogB) | [Revers Gagnant](https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8), [Jade Mansion](https://open.spotify.com/artist/4L5L8gnE5hd4dMWMLbk59O) | [Anomalie](https://open.spotify.com/album/6YgQgvhLzxNDNZMu8Z8rC7) | 3:41 |
-| 24 | [Paris\-Madrid](https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Paris\-Madrid](https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH) | 3:19 |
-| 25 | [Voicetrack Generation](https://open.spotify.com/track/41gmO7kWreWhpNxlHWHODa) | [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa), [ring noord](https://open.spotify.com/artist/2LG15MTQyH0AMfeCMjdr8A) | [Voicetrack Generation](https://open.spotify.com/album/1KR4NBbIq5TzITwiomAykm) | 4:13 |
+| 24 | [Voicetrack Generation](https://open.spotify.com/track/41gmO7kWreWhpNxlHWHODa) | [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa), [ring noord](https://open.spotify.com/artist/2LG15MTQyH0AMfeCMjdr8A) | [Voicetrack Generation](https://open.spotify.com/album/1KR4NBbIq5TzITwiomAykm) | 4:13 |
+| 25 | [Paris\-Madrid](https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Paris\-Madrid](https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH) | 3:19 |
 | 26 | [Comète](https://open.spotify.com/track/6qHOXV3i98NzBq3akdRgWS) | [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Comète](https://open.spotify.com/album/0vLx3DkZgkthJ3cSjazKqp) | 2:43 |
 | 27 | [With You](https://open.spotify.com/track/1gqGxha8dJi77aR5x18Mzg) | [I Am Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [With You](https://open.spotify.com/album/1h4JGEOMUYsGrJa9OsB2aG) | 3:49 |
 | 28 | [Bad Boy](https://open.spotify.com/track/1DSzMuDGO6aaxpcj5iIiT5) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [Bad Boy](https://open.spotify.com/album/4Gj5Hju12pBbPPdlMdVSMo) | 2:40 |
@@ -42,5 +42,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 32 | [Replay](https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [Replay](https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0) | 2:56 |
 | 33 | [DJ Please](https://open.spotify.com/track/1u1xK8c5mC3mktwPbYzlhZ) | [Zonmai](https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU) | [DJ Please](https://open.spotify.com/album/05ji6ExwRNau8A0L70yNln) | 2:31 |
 | 34 | [hardcore](https://open.spotify.com/track/4ShHkTTpQtvBhBDsAZ7HbL) | [Alvin Amaïzo](https://open.spotify.com/artist/4lhjjDpsGu9roJmU0TNlGh) | [hardcore](https://open.spotify.com/album/0JNl62tBnwsPAx8tc79zzJ) | 3:24 |
+| 35 | [Hula Hoop \(feat\. Tuerie\)](https://open.spotify.com/track/6C5SCWr6dl6XrPbMqweqee) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg), [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a) | [Chroniques terrestres, Vol\. 2](https://open.spotify.com/album/0KIS7MHEcUoYxmQFzsPN3T) | 3:23 |
 
 Snapshot ID: `AAAAAIf6KT4BzyZ0uGrCw2M+Y5fwaej5`

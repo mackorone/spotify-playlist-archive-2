@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > The biggest Arabic songs in the 2000's\. Cover: Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,895 likes - 86 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,948 likes - 86 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ya Tab Tab](https://open.spotify.com/track/4gk2kIAnfcLhZe1hQ3jC5g) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Ya Tab Tab](https://open.spotify.com/album/4YwYcMDoBFkq3Ht4tTRIQi) | 4:22 |
 | 2 | [معقول](https://open.spotify.com/track/3QopR32frEHu5QwWkG4xdL) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [معقول](https://open.spotify.com/album/0IoUZAoBAIyldt7snnSb9T) | 3:56 |
-| 3 | [Sabry Aalil](https://open.spotify.com/track/7qLXBcYW78is9LygQBziAU) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Garh Tany](https://open.spotify.com/album/7iykGeMdxOdYtNRtYCNaMA) | 4:49 |
+| 3 | [Sabry Aalil](https://open.spotify.com/track/7qLXBcYW78is9LygQBziAU) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Garh Tany](https://open.spotify.com/album/7iykGeMdxOdYtNRtYCNaMA) | 4:34 |
 | 4 | [Kol Yuom Fe Omry](https://open.spotify.com/track/5SnZwtWr4RcHClLaQxO5q8) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ahla Dounya](https://open.spotify.com/album/2lbMDIUyYAxZCGzqCFf2L3) | 5:22 |
 | 5 | [ستة الصبح](https://open.spotify.com/track/4XwmkLMuFc96k7BJmXLUZF) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [حسين الجسمي ٢٠١٠](https://open.spotify.com/album/4cLgnSoT9jUsfT3YWwuMCs) | 4:26 |
 | 6 | [Bahebak Ana](https://open.spotify.com/track/2Gl2ROXZQDuAYTKz9HRZ5S) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [2006](https://open.spotify.com/album/4m4onoYSUvA8O8JF4i6Ehu) | 5:08 |

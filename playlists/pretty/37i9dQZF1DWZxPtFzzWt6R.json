@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 112674,
+  "num_followers": 112703,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
+        "name": "Situa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "duration_ms": 261967,
+      "name": "Situa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
         "name": "Quem \u00c9 Como Tu, Senhor?",
         "url": "https://open.spotify.com/album/6EDEC4aFYSkngJJHfbFVAj"
       },
@@ -339,42 +355,6 @@
       "duration_ms": 331061,
       "name": "Quem \u00c9 Como Tu, Senhor?",
       "url": "https://open.spotify.com/track/1nNS0y2jhHcCBFMHWTUS5p"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
-        "name": "Melhor Heran\u00e7a",
-        "url": "https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Franco",
-          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Melhor Heran\u00e7a",
-      "url": "https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
-        "name": "Situa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
-      },
-      "artists": [
-        {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
-        }
-      ],
-      "duration_ms": 261967,
-      "name": "Situa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -399,6 +379,26 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
+        "name": "Melhor Heran\u00e7a",
+        "url": "https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Franco",
+          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Melhor Heran\u00e7a",
+      "url": "https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
         "name": "Como eu Te Amo Deus",
         "url": "https://open.spotify.com/album/1hZif2WY3WGbnarLgKUjbJ"
       },
@@ -411,26 +411,6 @@
       "duration_ms": 186118,
       "name": "Como eu Te Amo Deus",
       "url": "https://open.spotify.com/track/1unkmTfcblkjHWIhZLSFhE"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
-        "name": "Quando Ele Me Encontrou",
-        "url": "https://open.spotify.com/album/3wxJ8sKGsa7nU0FWhgUFnt"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Gretter Records",
-          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
-        }
-      ],
-      "duration_ms": 232606,
-      "name": "Quando Ele Me Encontrou",
-      "url": "https://open.spotify.com/track/2nLqsRDvELrDP36sFHg3bh"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -451,6 +431,26 @@
       "duration_ms": 249824,
       "name": "Somente Filho (Ao Vivo)",
       "url": "https://open.spotify.com/track/1ykJvFCm52W7knHC0mwoD1"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
+        "name": "Quando Ele Me Encontrou",
+        "url": "https://open.spotify.com/album/3wxJ8sKGsa7nU0FWhgUFnt"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Gretter Records",
+          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
+        }
+      ],
+      "duration_ms": 232606,
+      "name": "Quando Ele Me Encontrou",
+      "url": "https://open.spotify.com/track/2nLqsRDvELrDP36sFHg3bh"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
+        "name": "A Resposta \u00c9 Deus",
+        "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 256450,
+      "name": "A Resposta \u00c9 Deus",
+      "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
         "name": "Louvor Ra\u00edz",
         "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 254000,
       "name": "Oliveira Verdadeira",
       "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
-        "name": "A Resposta \u00c9 Deus",
-        "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 256450,
-      "name": "A Resposta \u00c9 Deus",
-      "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
     },
     {
       "added_at": "2026-02-27 03:01:13",

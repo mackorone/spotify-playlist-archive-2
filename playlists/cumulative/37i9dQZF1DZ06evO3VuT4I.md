@@ -4,7 +4,7 @@
 
 > This is Suzanne Ciani\. The essential tracks, all in one playlist.
 
-145 songs - 12 hr 11 min
+146 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Midnight Rendezvous](https://open.spotify.com/track/4Otn2jAeW577E6tVVb3gJ7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 3:30 | 2023-04-05 | 2023-08-06 |
 | [Midnight Rendezvous](https://open.spotify.com/track/6tnvxeYDrXFQo576xBXRsh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 3:31 | 2022-05-29 | 2026-03-08 |
 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 | 2022-05-29 |  |
-| [Mother's Song](https://open.spotify.com/track/6W4j8iooBlnZGKxYziaJT5) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:38 | 2022-06-02 |  |
+| [Mother's Song](https://open.spotify.com/track/6W4j8iooBlnZGKxYziaJT5) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:38 | 2022-06-02 | 2026-06-12 |
 | [Mozart](https://open.spotify.com/track/4d1prmnOfbPlO0n03tUC1Q) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:11 | 2022-05-29 |  |
 | [Neverland](https://open.spotify.com/track/2Q0WqaHMpXRA8l2rCvlkrw) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:52 | 2022-05-29 |  |
 | [Neverland](https://open.spotify.com/track/18iUc1Ae1t6PoSrQvl9ftP) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Neverland](https://open.spotify.com/album/7BCWK1H2v9yHHAD4otEXGt) | 3:56 | 2024-07-17 | 2026-04-18 |
@@ -116,6 +116,7 @@
 | [Section 3: Contrapuntal](https://open.spotify.com/track/1NockpZTzwjWZ1FNaSqc1Z) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Simon Dobson](https://open.spotify.com/artist/4sYhuNqiZ8eTJDvW1OmIiq) | [CIANI/ORKEST](https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl) | 12:12 | 2026-06-10 |  |
 | [Section 4: Animal Kingdom](https://open.spotify.com/track/3MY4B4mOAg2gGJzVlQcbI8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Simon Dobson](https://open.spotify.com/artist/4sYhuNqiZ8eTJDvW1OmIiq) | [CIANI/ORKEST](https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl) | 6:42 | 2026-06-10 |  |
 | [Section 5: Chase Scene](https://open.spotify.com/track/4vMALDK0cYPOwOHoTtLzZU) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Simon Dobson](https://open.spotify.com/artist/4sYhuNqiZ8eTJDvW1OmIiq) | [CIANI/ORKEST](https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl) | 11:05 | 2026-06-11 |  |
+| [Section 7: White Noise](https://open.spotify.com/track/2bWVNK6p6cBg7rE0t2Bx1O) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Simon Dobson](https://open.spotify.com/artist/4sYhuNqiZ8eTJDvW1OmIiq) | [CIANI/ORKEST](https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl) | 10:08 | 2026-06-12 |  |
 | [She Said Yes](https://open.spotify.com/track/4rMYs3LbxL590HCdmQb5mF) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:55 | 2024-10-31 | 2026-02-24 |
 | [Silver Ship](https://open.spotify.com/track/3sWBvGaYnq0cDN6lNNNAIt) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:49 | 2022-05-30 | 2026-03-31 |
 | [Simple Song \- Live](https://open.spotify.com/track/6M64D6EyQPPkQLuLH1EGfs) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:15 | 2022-06-05 | 2026-06-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 
 > for the late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,899 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,901 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 88 | [Losing You](https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Losing You](https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX) | 3:27 |
 | 89 | [Another Life](https://open.spotify.com/track/4e4pO1c9DUlBwMEzN1iS3v) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Take Two](https://open.spotify.com/album/4h4Qdr8JqB24QhrfL98Rym) | 1:53 |
 | 90 | [New Hands/Writers Block](https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [New Hands/Writers Block](https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u) | 2:54 |
-| 91 | [White Doves](https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2) | [Aanya Martin](https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY) | [White Doves](https://open.spotify.com/album/7jfXg6oFsxqAzGpCTH8lgc) | 4:44 |
-| 92 | [Mini Excursion](https://open.spotify.com/track/41vPgM81KFafqEaJSzx6SE) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [Negro Impacto](https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3) | 3:07 |
+| 91 | [Mini Excursion](https://open.spotify.com/track/41vPgM81KFafqEaJSzx6SE) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [Negro Impacto](https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3) | 3:07 |
+| 92 | [White Doves](https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2) | [Aanya Martin](https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY) | [White Doves](https://open.spotify.com/album/7jfXg6oFsxqAzGpCTH8lgc) | 4:44 |
 | 93 | [Intertwined](https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5), [PEACH.](https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6) | [Intertwined](https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt) | 5:52 |
 | 94 | [B P D](https://open.spotify.com/track/0HUJhDhDiBPwpGEBoP8kUe) | [jena keating](https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H) | [B P D](https://open.spotify.com/album/29rkxPGJziha2y2wNfiiI3) | 2:35 |
 | 95 | [Be Afraid](https://open.spotify.com/track/6ZncAMDN2Hv2QrXiSntgoy) | [Shanaz Dorsett](https://open.spotify.com/artist/5Fe6NAp8J07lnWU8WoVdym) | [Be Afraid](https://open.spotify.com/album/61VZRCv0rz2wTlICr42KK1) | 3:19 |

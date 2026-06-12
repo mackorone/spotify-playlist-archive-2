@@ -364,7 +364,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 209311,
       "name": "Angels",
       "url": "https://open.spotify.com/track/3wPo5lpmpYEE2qGM0yFNX1"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 210449,
       "name": "Back 2 Front",
       "url": "https://open.spotify.com/track/2fUNlLJrzdX1uoK6pMwuai"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 144510,
       "name": "Better Me",
       "url": "https://open.spotify.com/track/4bojZve0xCpsRJNEzHf6Bv"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 175500,
       "name": "Can't Decide - MJ Cole Remix",
       "url": "https://open.spotify.com/track/2hc8in5qc3AbKHHZ8KQq4T"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 238297,
       "name": "DARWIN",
       "url": "https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj"
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 155326,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2LsJ4sBvlz0V6MDCbwy4Bn"
@@ -2178,6 +2178,28 @@
       "duration_ms": 214545,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7EtMCF0mdAksJoPalQxhE8"
+    },
+    {
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/4bSmJOf87mSPM7WzPmOGEO"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        },
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210225,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/2j8x2hs47Lh6HYptG85ihf"
     },
     {
       "album": {
@@ -2380,6 +2402,28 @@
       "duration_ms": 186671,
       "name": "Fine Art",
       "url": "https://open.spotify.com/track/6X1tnPU11ApdBxtQuMrFUm"
+    },
+    {
+      "album": {
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr"
+      },
+      "artists": [
+        {
+          "name": "Desmond",
+          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
+        },
+        {
+          "name": "Dr\u00e9ya Mac",
+          "url": "https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160285,
+      "name": "Fino",
+      "url": "https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA"
     },
     {
       "album": {
@@ -2820,7 +2864,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 167000,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/5Ed9pT75zW25Ig7kM3UB90"
@@ -3476,7 +3520,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 213333,
       "name": "I'm Not Alone - MPH Remix",
       "url": "https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx"
@@ -4118,6 +4162,28 @@
       "duration_ms": 182535,
       "name": "LIVE",
       "url": "https://open.spotify.com/track/3R6qn37G6CB5LysMYM4LP0"
+    },
+    {
+      "album": {
+        "name": "Long Goodbye",
+        "url": "https://open.spotify.com/album/2nMTpO7M30ejb2XkIWotGX"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214222,
+      "name": "Long Goodbye",
+      "url": "https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t"
     },
     {
       "album": {
@@ -5220,7 +5286,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 194666,
       "name": "Only Thing",
       "url": "https://open.spotify.com/track/2SejgFmszB8YDZdJEQCG2D"
@@ -5634,7 +5700,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 152998,
       "name": "Point Of No Return //",
       "url": "https://open.spotify.com/track/2cxgR1NIV5limwOSUcz5MX"
@@ -6396,7 +6462,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 169130,
       "name": "Shine",
       "url": "https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo"
@@ -6646,10 +6712,28 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 215538,
       "name": "Sober",
       "url": "https://open.spotify.com/track/4rlEqGtM0PXoYjQKL2vPLB"
+    },
+    {
+      "album": {
+        "name": "Soft Launch",
+        "url": "https://open.spotify.com/album/5Tz488MiDp66kE7x3JFscO"
+      },
+      "artists": [
+        {
+          "name": "Fold",
+          "url": "https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215294,
+      "name": "Soft Launch",
+      "url": "https://open.spotify.com/track/0kfsClyGOCFtuDA1dpZx3V"
     },
     {
       "album": {
@@ -7030,7 +7114,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 167518,
       "name": "Swept Away",
       "url": "https://open.spotify.com/track/13epcBWtRTdyiBHhfdimrI"
@@ -8004,7 +8088,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 172548,
       "name": "Welcome 2 LDN (feat. Flowdan)",
       "url": "https://open.spotify.com/track/74yRHYEYFueRYYDriUFNIH"

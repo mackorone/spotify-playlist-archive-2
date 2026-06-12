@@ -836,7 +836,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 196800,
       "name": "CABARET",
       "url": "https://open.spotify.com/track/3XugphjZV5ITxjG06dQzbO"
@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Chlahbiya",
+        "url": "https://open.spotify.com/album/0YXWg7nVytp6QE9yjKJU4S"
+      },
+      "artists": [
+        {
+          "name": "Mounim Slimani",
+          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194366,
+      "name": "Chlahbiya",
+      "url": "https://open.spotify.com/track/30U031LnjvezZQZu9eSexR"
+    },
+    {
+      "album": {
         "name": "Chokatni",
         "url": "https://open.spotify.com/album/42I8TdFZaqY6lvoe6MxXw9"
       },
@@ -930,7 +948,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 176053,
       "name": "Choufi",
       "url": "https://open.spotify.com/track/3Pj5F8bu39hoqiV3E13EzT"
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 153253,
       "name": "DOGA DOGA",
       "url": "https://open.spotify.com/track/1xKzqe7UKEmLEtd7K1KyY8"
@@ -2333,6 +2351,24 @@
     },
     {
       "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/531r0snKCGKu4Eb6yNMsNS"
+      },
+      "artists": [
+        {
+          "name": "Lakamura",
+          "url": "https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/2QVScxNp2qLnKflRftE2Kx"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/4djU41ryFZF6OzAgFuuEI4"
       },
@@ -3284,6 +3320,28 @@
       "duration_ms": 170172,
       "name": "Sarini",
       "url": "https://open.spotify.com/track/60fjrgy5EwyWmN8PhQVBKY"
+    },
+    {
+      "album": {
+        "name": "DESPERADO",
+        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "SATA 9TTALA",
+      "url": "https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo"
     },
     {
       "album": {

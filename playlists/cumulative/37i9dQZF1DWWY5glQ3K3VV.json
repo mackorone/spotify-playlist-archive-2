@@ -4772,7 +4772,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 245853,
       "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
       "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
@@ -6092,6 +6092,24 @@
       "duration_ms": 237693,
       "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/50DsGEqRiQr6KdEYi0NuSP"
+    },
+    {
+      "album": {
+        "name": "QUE VIDA",
+        "url": "https://open.spotify.com/album/2D7Q9GWyjMhMVq4IUiCVPb"
+      },
+      "artists": [
+        {
+          "name": "Kaio",
+          "url": "https://open.spotify.com/artist/2BzZXUAluD524rcOBbVnG1"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "SAUDADE",
+      "url": "https://open.spotify.com/track/0iZiYlVmMy4JqokUYBShIi"
     },
     {
       "album": {

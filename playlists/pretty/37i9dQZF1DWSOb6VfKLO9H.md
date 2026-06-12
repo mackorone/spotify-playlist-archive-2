@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 
 > Alle oude party tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,324 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,349 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 | 55 | [Casablanca](https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc) | [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS) | [Update](https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N) | 2:26 |
 | 56 | [Hard 2 Get](https://open.spotify.com/track/3HL8nLF6RelXx4b3DOFDsR) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [MGSEASON 2](https://open.spotify.com/album/3MpfM8o6cvwSM2l2Cs7XHQ) | 2:36 |
 | 57 | [Chemistry \(feat\. Mula B\)](https://open.spotify.com/track/32KaEzzoNXtjTyMT55ZT7y) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Dashawn](https://open.spotify.com/album/1Oxf0qjQqyYUvFDhLcKFb0) | 2:47 |
-| 58 | [Zulke Dingen Doe Je](https://open.spotify.com/track/5YQOSocjiojsG8inUrXQj1) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf), [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [Geisha EP](https://open.spotify.com/album/5TxKh9tiVmbmM5fnqvpbBE) | 2:58 |
-| 59 | [wine slow \- remix](https://open.spotify.com/track/0zhMdm2j0y1NmJAQN3GhsZ) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [IDALY](https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA) | 3:45 |
+| 58 | [wine slow \- remix](https://open.spotify.com/track/0zhMdm2j0y1NmJAQN3GhsZ) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [IDALY](https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA) | 3:45 |
+| 59 | [Zulke Dingen Doe Je](https://open.spotify.com/track/5YQOSocjiojsG8inUrXQj1) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf), [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [Geisha EP](https://open.spotify.com/album/5TxKh9tiVmbmM5fnqvpbBE) | 2:58 |
 | 60 | [Rompe](https://open.spotify.com/track/4YaKdKVcrM6Gf5ZALtp0gI) | [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Rompe](https://open.spotify.com/album/3rZb8GgKNTUgL4MZYFoacP) | 3:04 |
 | 61 | [501](https://open.spotify.com/track/0Fl4PBfIwC5G1IQAF1luUm) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [501](https://open.spotify.com/album/5MdGB34tCSO0HoZINzaX0Y) | 2:07 |
 | 62 | [Big Man](https://open.spotify.com/track/6bJ9c5VIx8jbf5U34qHAFm) | [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Big Man](https://open.spotify.com/album/5GKqyIUHBWSwyCF1apkT9X) | 2:43 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Vendredi sur Mer",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Ar\u00f8ne",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "anomalisa",
+        "url": "https://open.spotify.com/album/18Phw82VCT9uOhPThdC5ly"
+      },
+      "artists": [
+        {
+          "name": "satine",
+          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155265,
+      "name": "anomalisa",
+      "url": "https://open.spotify.com/track/0QqoIiNASyVnhFpVxMyka0"
+    },
+    {
+      "album": {
         "name": "Appel de d\u00e9tresse",
         "url": "https://open.spotify.com/album/6HqJN4WwVxjeSdML6pNBUT"
       },
@@ -554,7 +572,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 179174,
       "name": "Attrape-coeurs",
       "url": "https://open.spotify.com/track/0DDJ7CDsq1Ecnl1jYDPEPE"
@@ -616,6 +634,24 @@
       "duration_ms": 160070,
       "name": "Autod\u00e9fense",
       "url": "https://open.spotify.com/track/2D7IEFxCt1DU1mac0K8yEL"
+    },
+    {
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6IjkYVPY8heFHd2povfZDU"
+      },
+      "artists": [
+        {
+          "name": "Yan Wagner",
+          "url": "https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227043,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/79s3f9LorVKsIQDqvuVYqJ"
     },
     {
       "album": {
@@ -1575,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "Comme des amoureux",
+        "url": "https://open.spotify.com/album/01Nqb5B3xrGlcjQCScOCgG"
+      },
+      "artists": [
+        {
+          "name": "Arca M",
+          "url": "https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182430,
+      "name": "Comme des amoureux",
+      "url": "https://open.spotify.com/track/5BKwGKUmot2rwiuMPt5qMW"
+    },
+    {
+      "album": {
         "name": "Comme des hy\u00e8nes",
         "url": "https://open.spotify.com/album/7gyRUNtOcs0LnDlVZRI96P"
       },
@@ -1752,7 +1806,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 150285,
       "name": "coucou les potes",
       "url": "https://open.spotify.com/track/1R8EXTuGZPIJehG5kDR1rC"
@@ -1846,7 +1900,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 135493,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/2bgvaT8tWrRFKUdq5YcQ1q"
@@ -1882,7 +1936,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 216774,
       "name": "C\u0152UR TITANE",
       "url": "https://open.spotify.com/track/1UfqVe7OZltMAJxyvkoLw7"
@@ -2084,6 +2138,28 @@
       "duration_ms": 197586,
       "name": "Dis(t)dance",
       "url": "https://open.spotify.com/track/3ij2QXYi7ybKR2BZB744zb"
+    },
+    {
+      "album": {
+        "name": "Distance & Promesse",
+        "url": "https://open.spotify.com/album/4eqzhu8OD1a9IdVXbidJem"
+      },
+      "artists": [
+        {
+          "name": "Louise BSX",
+          "url": "https://open.spotify.com/artist/0K0qPfDtibs5hshkAY2HFs"
+        },
+        {
+          "name": "Sarah Maison",
+          "url": "https://open.spotify.com/artist/5z9QnVuCb67N9a6lyu6ghe"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Distance & Promesse",
+      "url": "https://open.spotify.com/track/47YZBZAmc83cH38uypc30Y"
     },
     {
       "album": {
@@ -3018,7 +3094,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 199186,
       "name": "Homme du feu (Solitaire)",
       "url": "https://open.spotify.com/track/6no2voZZ0PIbn5Pd0Ja559"
@@ -3946,6 +4022,28 @@
       "duration_ms": 201989,
       "name": "JUSTE AMIS",
       "url": "https://open.spotify.com/track/1L9xCQ6PYyAgHqGfFPXC9N"
+    },
+    {
+      "album": {
+        "name": "Piquer un cheveu",
+        "url": "https://open.spotify.com/album/1lY2iMNzbgEcQCTajmqJJp"
+      },
+      "artists": [
+        {
+          "name": "Leo Leonard",
+          "url": "https://open.spotify.com/artist/6L5xt8tlUenliGJgVHKwfd"
+        },
+        {
+          "name": "Philippe Katerine",
+          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209786,
+      "name": "Kalashnikov girl",
+      "url": "https://open.spotify.com/track/2jgLFjckEsoVHYO4yUJ7Zx"
     },
     {
       "album": {
@@ -7027,6 +7125,24 @@
     },
     {
       "album": {
+        "name": "reviens me voir",
+        "url": "https://open.spotify.com/album/7agmXLWwV9uPwhLj1zJGOM"
+      },
+      "artists": [
+        {
+          "name": "kissed",
+          "url": "https://open.spotify.com/artist/6tkcFCnXVayNKi5OWeVpoi"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171630,
+      "name": "reviens me voir",
+      "url": "https://open.spotify.com/track/5gTZonkwbJM2Ls5bjqUpaj"
+    },
+    {
+      "album": {
         "name": "Revoir le monde",
         "url": "https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk"
       },
@@ -7414,7 +7530,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 176835,
       "name": "Seulement cette fois",
       "url": "https://open.spotify.com/track/517lGwcYzVNjzkAbkjTss4"
@@ -7526,7 +7642,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 212020,
       "name": "Si tu meurs",
       "url": "https://open.spotify.com/track/1LDMAUnwUgeKBwK83bet2w"
@@ -8450,6 +8566,24 @@
       "duration_ms": 165500,
       "name": "Tovsk",
       "url": "https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD"
+    },
+    {
+      "album": {
+        "name": "le rose c'est hasbeen",
+        "url": "https://open.spotify.com/album/6ZW6GRq5HYL7z6P3o7b6t2"
+      },
+      "artists": [
+        {
+          "name": "Marie Jay",
+          "url": "https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/5x0k4z6vLe43YybPUwENQz"
     },
     {
       "album": {

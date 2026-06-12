@@ -2,7 +2,7 @@
 
 ### [Hit Repeat](https://open.spotify.com/playlist/37i9dQZF1DX574gardB2et)
 
-> The hits you just keep coming back to\. Cover: Tame Impala
+> The hits you just keep coming back to\. Cover: The Kid LAROI
 
 187 songs - 10 hr 26 min
 

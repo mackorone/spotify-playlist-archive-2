@@ -1375,6 +1375,32 @@
     },
     {
       "album": {
+        "name": "Replay - Exagerado",
+        "url": "https://open.spotify.com/album/1f5BuZlEvSS9C39pkyVG2S"
+      },
+      "artists": [
+        {
+          "name": "Replay",
+          "url": "https://open.spotify.com/artist/2sU3iCEcMHp4l2vR02pUqI"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Exagerado",
+      "url": "https://open.spotify.com/track/2HB3UIxBLv2Uu1Vxwsoz8H"
+    },
+    {
+      "album": {
         "name": "Musica para Churrasco, Vol. 2",
         "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
       },
@@ -2184,7 +2210,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 186400,
       "name": "Minha Flor Meu Beb\u00ea",
       "url": "https://open.spotify.com/track/3VLOFtKRjgGTpfqjbiK4wi"

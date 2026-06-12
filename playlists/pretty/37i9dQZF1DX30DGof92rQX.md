@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Asim Azhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,168 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,195 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 2 | [Woh](https://open.spotify.com/track/1GDJhAiO9tqjMuDWFad0IF) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Woh](https://open.spotify.com/album/2tbamcNG4xK0jKrd1lSzXX) | 3:57 |
 | 3 | [Husna Di Sarkar](https://open.spotify.com/track/7C1tMBdoav72OBnAgqE68B) | [Roach Killa](https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS), [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Husna Di Sarkar](https://open.spotify.com/album/1VBFZpjy5aZeIpQDnShsi0) | 2:27 |
 | 4 | [Guzara](https://open.spotify.com/track/6KdQqhjbBgexTPtgCkfLbR) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Guzara](https://open.spotify.com/album/2c13pvTJsBYxd9LsB7l395) | 2:45 |
-| 5 | [KHAYAL](https://open.spotify.com/track/6iLARAw87ATUTrqYx04p1I) | [rizvye](https://open.spotify.com/artist/0MTMRFf0JEdHdVEwrWnrIU) | [KHAYAL](https://open.spotify.com/album/2NxyzyqZL97qnvSIUyEWfr) | 2:50 |
+| 5 | [Mujasme](https://open.spotify.com/track/5gMd2h4GqiwJ4n2pIYaqKL) | [Malihaa](https://open.spotify.com/artist/60nVICLgl6zIgetp48OZCZ), [Zain kazmi](https://open.spotify.com/artist/4S8tOzdNUO2KGLn7bXyWmr) | [Mujasme](https://open.spotify.com/album/3jHUm7JWRkgANp2eisxH0r) | 3:33 |
 | 6 | [Tujhe Jaane Diya](https://open.spotify.com/track/6Rr7svtdopFeE6gOYmqxct) | [Ad](https://open.spotify.com/artist/4ldvEYM1XaAPCtyyWqeZ6v), [Arfeen Raza](https://open.spotify.com/artist/2un6oSRbi6B3MEma7cVYpf), [Shazz\-E](https://open.spotify.com/artist/0iWvzjzGeXANooCF5EzjE1), [Hibara](https://open.spotify.com/artist/4NIXDr9dOJrAV4cs3d6VQf) | [Tujhe Jaane Diya](https://open.spotify.com/album/7vPS3esSMdWmASMcEeQo6F) | 3:34 |
 | 7 | [Roye \(feat\. Hassan Hayat Khan\)](https://open.spotify.com/track/3gh6DwuQALtWKLaEHqUza9) | [Boss Menn](https://open.spotify.com/artist/6l3Cv46bf92QuX8VaIqdXz), [Hassan Hayat Khan](https://open.spotify.com/artist/7pZvI8CG46RY4b7Wbi9I4J) | [Roye \(feat\. Hassan Hayat Khan\)](https://open.spotify.com/album/66nRiu0pNSsziZJM6g0XKk) | 2:26 |
 | 8 | [Sun Yaara](https://open.spotify.com/track/4ZTvMKH6oNuAFaguKsjrGf) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [The Night Of Song](https://open.spotify.com/album/4EdbflXbLHHdr811w4SpfQ) | 5:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 79 | [Main Wo Nahi](https://open.spotify.com/track/0jg78sSq67ZNtK3bn2mKBN) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF), [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Main Wo Nahi](https://open.spotify.com/album/3Qdus0uqB8lJQNMrYrRtvJ) | 3:51 |
 | 80 | [Lovestruck](https://open.spotify.com/track/3j34rJMliX9YYZlFYWX1rd) | [Mudabbir Azeez Jamall](https://open.spotify.com/artist/7HX5PwfHdsoLD7dDdY0f7l), [The Hashtags](https://open.spotify.com/artist/2I98zL3Q63jrawDI778pmV) | [The Unsent Messages](https://open.spotify.com/album/3klHtYs0xMUwU8uC19AUxt) | 3:11 |
 
-Snapshot ID: `AAAAAD5DfIUX/8X49ZdGQIox83nvzmjy`
+Snapshot ID: `AAAAAPCVMxglVRMrEzBIG0UiCg9gk/PS`

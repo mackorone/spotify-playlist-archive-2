@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: LA Priest",
+  "description": "New music off the beaten track. Cover: Sofie Royer",
   "name": "OFF POP",
   "tracks": [
     {
@@ -9277,6 +9277,32 @@
     },
     {
       "album": {
+        "name": "LIFE XI",
+        "url": "https://open.spotify.com/album/3c85hbXRpPmxtJgxSZE7yq"
+      },
+      "artists": [
+        {
+          "name": "Nathan Daisy",
+          "url": "https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf"
+        },
+        {
+          "name": "Taras Bazeev",
+          "url": "https://open.spotify.com/artist/3tUuyM5RyjpHXGOJ2w83xA"
+        },
+        {
+          "name": "JAW",
+          "url": "https://open.spotify.com/artist/05BpORreAobgNUA5feAsui"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169043,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/0fdnLCIu4Y3AbHzYtm3bRj"
+    },
+    {
+      "album": {
         "name": "Friends Don't Break Up",
         "url": "https://open.spotify.com/album/4V3XoF3hfXwTQqGYyJC3WF"
       },
@@ -16441,6 +16467,28 @@
     },
     {
       "album": {
+        "name": "Lovers On The Dancefloor",
+        "url": "https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153088,
+      "name": "Lovers On The Dancefloor",
+      "url": "https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct"
+    },
+    {
+      "album": {
         "name": "Lovin You",
         "url": "https://open.spotify.com/album/0xxlWA40DcSNiofv6t88yL"
       },
@@ -22595,6 +22643,24 @@
     },
     {
       "album": {
+        "name": "Sesquicentennial",
+        "url": "https://open.spotify.com/album/6oA7RFLJEdoJBlRWrsIb0a"
+      },
+      "artists": [
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192105,
+      "name": "Sesquicentennial",
+      "url": "https://open.spotify.com/track/2mL6kQBqh3uy8RqYftposl"
+    },
+    {
+      "album": {
         "name": "Set You Free",
         "url": "https://open.spotify.com/album/55NADInZR3P0WdgcEBWoDE"
       },
@@ -24664,7 +24730,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 227326,
       "name": "Strike a Fire (feat. Cults)",
       "url": "https://open.spotify.com/track/2TZBden0i5zcEM7B2te0Wx"
@@ -26698,7 +26764,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 372266,
       "name": "This Must Be It - Alan Dixon Remix",
       "url": "https://open.spotify.com/track/3y9OqWZj2nHQ1mTigvmtof"

@@ -7173,6 +7173,24 @@
     },
     {
       "album": {
+        "name": "Blue Flame",
+        "url": "https://open.spotify.com/album/6rkKXY6Pkx2PahR4hMPh3x"
+      },
+      "artists": [
+        {
+          "name": "Chinza Dopeness",
+          "url": "https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "Blue Flame",
+      "url": "https://open.spotify.com/track/5q2Pt5EN2hMueGcxWUj0Yk"
+    },
+    {
+      "album": {
         "name": "Blue Hour",
         "url": "https://open.spotify.com/album/4xN879Ajx367eznHMordyZ"
       },
@@ -9808,7 +9826,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 163997,
       "name": "COLD DINNERCOLD DINNER",
       "url": "https://open.spotify.com/track/6aryaaeKpWhIz7aBgat7XT"
@@ -22084,7 +22102,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 150880,
       "name": "IRL (In Real Life)",
       "url": "https://open.spotify.com/track/2i2fYwH6pNAhmm6mBUo6pj"
@@ -39325,6 +39343,28 @@
     },
     {
       "album": {
+        "name": "SAMURAI SOUL (feat. Cookie Plant)",
+        "url": "https://open.spotify.com/album/0PIsfrGa9DHfPm2k5U7wJk"
+      },
+      "artists": [
+        {
+          "name": "vividboooy",
+          "url": "https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F"
+        },
+        {
+          "name": "Cookie Plant",
+          "url": "https://open.spotify.com/artist/0uPed9p8jwlzB2zn9g1Mpe"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220857,
+      "name": "SAMURAI SOUL (feat. Cookie Plant)",
+      "url": "https://open.spotify.com/track/5b47pkXo99WVVS05dWWqhH"
+    },
+    {
+      "album": {
         "name": "SANTANA",
         "url": "https://open.spotify.com/album/0yhunnWzCrnd0MQQ4FoYku"
       },
@@ -48981,6 +49021,28 @@
     },
     {
       "album": {
+        "name": "Get Litty? (Deluxe)",
+        "url": "https://open.spotify.com/album/6UMWTseCkEKRCrR5cJ8DYE"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        },
+        {
+          "name": "NORIKIYO",
+          "url": "https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176344,
+      "name": "WASSUP (feat. NORIKIYO)",
+      "url": "https://open.spotify.com/track/0dHRNAuFbHNnTAx4bWbZPx"
+    },
+    {
+      "album": {
         "name": "Wasted EP",
         "url": "https://open.spotify.com/album/0bbYBrfOzGRUaXegV1hNbb"
       },
@@ -53110,7 +53172,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 193202,
       "name": "\u307e\u30fc\u3044\u3044\u3084",
       "url": "https://open.spotify.com/track/7dtY6CoVdmqXtiLwjL20xi"

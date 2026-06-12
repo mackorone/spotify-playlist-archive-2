@@ -3287,6 +3287,28 @@
     },
     {
       "album": {
+        "name": "breathe",
+        "url": "https://open.spotify.com/album/6I5AZZAixliwotjWRyrx4F"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241256,
+      "name": "breathe",
+      "url": "https://open.spotify.com/track/6ifoDLGesgTpLfrWzCyEZF"
+    },
+    {
+      "album": {
         "name": "Breathe Me Back To Life",
         "url": "https://open.spotify.com/album/5qcMz7TUHmkGN8gXQLOAT3"
       },

@@ -4,7 +4,7 @@
 
 > fazer uma grana, pegar um jet fds, anima?? // Kisha zO
 
-376 songs - 17 hr 34 min
+377 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Descarga](https://open.spotify.com/track/75qF622p0zgMNIovwLPI5M) | [Mana Bella](https://open.spotify.com/artist/66FBWTFzY82EfrJewrOdOk), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Descarga](https://open.spotify.com/album/2uBGG3T9SmhNDfpyenSnyx) | 3:03 | 2025-09-26 | 2026-03-14 |
 | [DESCONFORTO](https://open.spotify.com/track/0zpFEPoAYy6AhWCMdTvgxO) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [DESCONFORTO](https://open.spotify.com/album/61aImIc7x4qJMqkcOVFITq) | 3:38 | 2025-04-14 | 2025-07-12 |
 | [DESLIZA \- Slide Remix](https://open.spotify.com/track/05A0fzgw1LCQhdvsCCSGeL) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 4:03 | 2024-05-24 | 2024-07-16 |
+| [Destino em Papéis](https://open.spotify.com/track/6901cgMx3F5s2J2HKFZf5T) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Ryam Beatz](https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY) | [MEUS ERROS DE NOVO](https://open.spotify.com/album/3jm5RUaGwTaCjVQyRd6x7m) | 2:58 | 2026-06-12 |  |
 | [Di Cantin](https://open.spotify.com/track/356CwzCo3A8DAePdSEA4u6) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD), [Manel Beats](https://open.spotify.com/artist/5IU9FllWIyNyECvitNqJ5j) | [VÊNUS 95](https://open.spotify.com/album/72ONRFXSWFtgf5QzZbKeuq) | 3:33 | 2022-11-18 | 2023-04-22 |
 | [Diaba](https://open.spotify.com/track/1Wj0h3MIeATuBNnxnbAmEu) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Diaba](https://open.spotify.com/album/7xC3hSIL2joMNxIXxKQa0h) | 2:45 | 2022-03-11 | 2022-06-18 |
 | [Difere](https://open.spotify.com/track/6AgGeM4gmmSxWJeIblSa5G) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Marreta](https://open.spotify.com/artist/0glk5tMutCR844wvAoFJ8J) | [Difere](https://open.spotify.com/album/1CqyxG4xsl7HoqBPGwWVhQ) | 2:12 | 2022-05-27 | 2023-04-22 |
@@ -277,7 +278,7 @@
 | [Porta Malas](https://open.spotify.com/track/4oYbNX6n4aVdyNrLalcjo4) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Porta Mala](https://open.spotify.com/album/6PRJZZi5iupZTLCklur4bs) | 2:01 | 2022-08-12 | 2022-08-27 |
 | [Postura de Braba](https://open.spotify.com/track/5HfQbACsPDEKVkjhJYqYKe) | [Kloe](https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Postura de Braba](https://open.spotify.com/album/3HzyX6tFFie2A0U0vYKb0z) | 2:08 | 2023-07-21 | 2023-09-16 |
 | [Potranca](https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 3:36 | 2022-03-11 | 2023-09-02 |
-| [Pq Vc Não Me Liga?](https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [winx](https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY) | [É Disso Que Eu Me Alimento](https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg) | 2:58 | 2025-07-11 |  |
+| [Pq Vc Não Me Liga?](https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [winx](https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY) | [É Disso Que Eu Me Alimento](https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg) | 2:58 | 2025-07-11 | 2026-06-12 |
 | [Preta Classe A](https://open.spotify.com/track/2uI42avrqy1JJOJVoYAfev) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm) | [Encruzilhada](https://open.spotify.com/album/2zDnQA4s9S567Jc2EP14bq) | 3:13 | 2024-11-22 | 2025-04-02 |
 | [Preta f\* quente](https://open.spotify.com/track/2330GWgB2sdm1XIqhrp97W) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Cacau 50% , Vol.2](https://open.spotify.com/album/7eW65C6hstcMmJGsLTvrgG) | 2:19 | 2026-06-08 |  |
 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 | 2022-03-11 | 2024-01-27 |

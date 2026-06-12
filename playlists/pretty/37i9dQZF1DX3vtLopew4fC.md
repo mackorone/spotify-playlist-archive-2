@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to Dominique Fils\-Aimé and Canadian women at full volume!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,507 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,506 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 39 | [Don't Know What You Had](https://open.spotify.com/track/6b6pR3qqxczVBF8SJgozvH) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Don't Know What You Had](https://open.spotify.com/album/78UfjpfV2EXDtiR7qbXzfu) | 3:16 |
 | 40 | [Outta Sight](https://open.spotify.com/track/1GYg1Xrtp6AABpeBkBua0M) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO) | [Outta Sight](https://open.spotify.com/album/0X4B9tRNAMZsTRlj6YUpLa) | 3:45 |
 
-Snapshot ID: `AAAAAOvoqrZx3AT6OXM3sVGNtBuWwxpy`
+Snapshot ID: `AAAAALRem+71aoTwkeR1N+bWJaEeRbrh`

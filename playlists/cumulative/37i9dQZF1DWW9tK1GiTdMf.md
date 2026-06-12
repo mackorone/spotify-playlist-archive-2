@@ -2,9 +2,9 @@
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> canzoni per un'estate non proprio felice 🥀 cover: OTTOBRE
+> canzoni per un'estate non proprio felice 🥀 cover: SCAR
 
-1,711 songs - 3 day 6 hr 35 min
+1,717 songs - 3 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Estranei](https://open.spotify.com/track/2aaYebc5xvUxaXUXhxkHFJ) | [Random](https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Estranei](https://open.spotify.com/album/5tL8W7fnVBt3KoPS2E7wvH) | 2:49 | 2022-05-06 | 2022-06-03 |
 | [Eterno](https://open.spotify.com/track/0rQkA80MShuqQt7epTeSlA) | [Leon Faun](https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos) | [LEON](https://open.spotify.com/album/7a8pBg426ohFGpFaYWsvHf) | 2:30 | 2024-03-21 | 2024-06-21 |
 | [ETERNO](https://open.spotify.com/track/37JQXz4X0yGlpPTOwCZs9H) | [Supernino](https://open.spotify.com/artist/1qOclNcsOrRniIPNXpvl9I) | [ETERNO](https://open.spotify.com/album/6ACoSO1CQpc7n3KTgRjy73) | 2:22 | 2024-07-18 | 2024-10-18 |
+| [EUFORIA X SEMPRE](https://open.spotify.com/track/3N71nzozIIXSfJEmhFCy2s) | [EUFORIA](https://open.spotify.com/artist/16lbAhDR415StnqDDa4UpO) | [EUFORIA X SEMPRE](https://open.spotify.com/album/1kDvja6cY1ppFurQ7IrIWn) | 2:36 | 2026-06-11 |  |
 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 | 2023-03-09 | 2023-04-28 |
 | [EVIDENTE](https://open.spotify.com/track/1SO2cC7r3NTkKpwG689hQt) | [Aspettativa](https://open.spotify.com/artist/0FBFBr8Z7ZaTk8X7jevnRk) | [EVIDENTE](https://open.spotify.com/album/2jqvnsKvQq5jcheP8NVsSp) | 2:16 | 2022-07-21 | 2022-07-28 |
 | [EX](https://open.spotify.com/track/0s2a4lDkvChIBsDfoa69ET) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [EX](https://open.spotify.com/album/0KiFaI9kD81ebvrIkGO7Ff) | 2:02 | 2023-06-15 | 2023-07-14 |
@@ -566,6 +567,7 @@
 | [Filo Spinato](https://open.spotify.com/track/6VJVWqHntNtlBslzyfGGg9) | [Sunken](https://open.spotify.com/artist/167oxjyR82Rs8XinJirzvm) | [Filo Spinato](https://open.spotify.com/album/1zGhIyMT7wYfcREJqLMvcL) | 2:15 | 2026-04-02 |  |
 | [Finchè non mi addormento](https://open.spotify.com/track/0w9Rll2MNFeLssLrZHX4Nc) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Kalimera](https://open.spotify.com/album/1AtSqGiMAB2C2MaZHtfSuF) | 3:04 | 2025-12-11 |  |
 | [Finché Non Mi Seppelliscono](https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:48 | 2022-05-06 | 2022-06-03 |
+| [Fiocco rosso \(feat\. Piccolo\)](https://open.spotify.com/track/4OUFixO9c4KDUuqXPHSg3R) | [SCAR](https://open.spotify.com/artist/2COZ1UNN4kWa65mYMVH1JZ), [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO) | [Esordienti 1994](https://open.spotify.com/album/7feRUSGS3HffjLaYzeOPPS) | 3:02 | 2026-06-11 |  |
 | [FIORE A TESTA IN GIÙ](https://open.spotify.com/track/1XNdMOwUjFoGHe6x28gm1Y) | [Karakaz](https://open.spotify.com/artist/5bGf7yGh4gz8vn6azMKq4u) | [HOMO](https://open.spotify.com/album/5QKEC7sTKcbFJepOJ9REoS) | 2:47 | 2026-01-22 | 2026-02-06 |
 | [Fiori d'arancio](https://open.spotify.com/track/1xEC3MRBTPdgLmMXNylGx7) | [Def](https://open.spotify.com/artist/0KxwYP84fvKoG9dVGvAmRM) | [Fiori d'arancio](https://open.spotify.com/album/3QXWTYx0SMw2C0G47R7jXY) | 2:34 | 2025-11-20 | 2025-12-19 |
 | [FIORI MORTI](https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [FIORI MORTI](https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O) | 2:16 | 2022-05-06 | 2022-06-28 |
@@ -578,6 +580,7 @@
 | [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 | 2022-09-19 | 2022-10-28 |
 | [fmk \(with blackbear\) \- messier](https://open.spotify.com/track/5CO8EbwcxnvA28O7NCDKfJ) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\) \[messier\]](https://open.spotify.com/album/6awuYwlqz9cN5h3yCOffbg) | 3:06 | 2022-10-27 | 2023-02-24 |
 | [FMSB](https://open.spotify.com/track/4kvwbG4d1b1plJCl4TPwl0) | [Kate Klein](https://open.spotify.com/artist/67DWV4ny2wOneRM4QoLfLO) | [FMSB](https://open.spotify.com/album/1M3KyMAEKO9mr5JvP4SueF) | 1:56 | 2025-02-27 | 2025-03-21 |
+| [Fo Love](https://open.spotify.com/track/3YecG7Zvk9EMxZheKcxnNW) | [unit](https://open.spotify.com/artist/4f85B9VIqMNfRjj2eDhkmy) | [Fo Love](https://open.spotify.com/album/0YdkLkJL4yHOeyHF649yjd) | 2:11 | 2026-06-11 |  |
 | [focaccia](https://open.spotify.com/track/2XcZfhnRjXlbe3hx8iJems) | [VOLPI](https://open.spotify.com/artist/5wmojKMSezsXJ9pRUaVUJ7) | [6 canzoni fatte a mano](https://open.spotify.com/album/7plojj2nI99PeneCwfzHgo) | 3:24 | 2026-01-29 |  |
 | [FOLLI](https://open.spotify.com/track/6GrNnPS1fS40ZCxZ73b1JI) | [Bobby Wanna](https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH) | [FOLLI](https://open.spotify.com/album/7Cj1uKSvSrJg62NEyt15Rt) | 2:51 | 2022-06-23 | 2022-09-02 |
 | [FOMO](https://open.spotify.com/track/2lSrqHxp8kxEtlI7eSLUnx) | [Verde Acqua](https://open.spotify.com/artist/4XDCeN5DgXMioJGfRVpghP) | [FOMO](https://open.spotify.com/album/1U0Q8qa8DybCOYYOOftJzc) | 2:34 | 2022-12-01 | 2022-12-24 |
@@ -1097,6 +1100,7 @@
 | [Ora Mi Passa](https://open.spotify.com/track/0C8yrNoe1xYsvvf17Qj73Z) | [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [Ora Mi Passa](https://open.spotify.com/album/43K2Up7GyWcwDJXko0sS10) | 2:39 | 2025-02-06 | 2025-04-25 |
 | [ORE PERSE](https://open.spotify.com/track/5wUbjo4pTWZSLpuXLy199u) | [Keiden](https://open.spotify.com/artist/7vDYluyeES43WBk8Jk29Ib) | [ORE PERSE](https://open.spotify.com/album/2lYwiE7zv2fZkye9AA1tWi) | 2:21 | 2024-12-12 | 2025-01-31 |
 | [OSSA ROTTE](https://open.spotify.com/track/185Ya9DGLbTlaoaost47gS) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [OSSA ROTTE](https://open.spotify.com/album/1BmGvg7lKEa0G5JEwQbBZ9) | 2:53 | 2024-05-02 | 2024-10-18 |
+| [Ossessivo Compulsivo](https://open.spotify.com/track/6CuJknQ8PaMHOzXw0P74mn) | [AyEm](https://open.spotify.com/artist/6EmlTOLU2nKoltjhXC1oqS) | [Ossessivo Compulsivo](https://open.spotify.com/album/0dMtwh2pnLkRaiA906MAgJ) | 2:15 | 2026-06-11 |  |
 | [OTTOBRE](https://open.spotify.com/track/2EaYpdHtbZOpbhz7xnEEjz) | [TRC](https://open.spotify.com/artist/5DB3toEwvOwRexy5lDhjZo) | [OTTOBRE](https://open.spotify.com/album/6pJMdxKlCy3OX0mVqHbbi9) | 2:53 | 2023-11-09 | 2024-03-22 |
 | [outlaw overture](https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [lost americana](https://open.spotify.com/album/30aIA1FrouOX9kHxP4dEr6) | 5:02 | 2025-08-07 | 2025-09-19 |
 | [Pa//Pa//Pa](https://open.spotify.com/track/4ccc1MIs8TX2jbrBE7gUrj) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [Pa//Pa//Pa](https://open.spotify.com/album/2nZiIMoTyp5KWnmPR2MsSq) | 3:03 | 2026-01-08 | 2026-02-25 |
@@ -1124,6 +1128,7 @@
 | [peggio per te](https://open.spotify.com/track/1XkOV0IbbzZ9tC3UcAeRjF) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8), [G.bit](https://open.spotify.com/artist/0NmtgATbZcejMnRU5ixeSs) | [peggio per te](https://open.spotify.com/album/6XiHGfiJ1AJPcYDGIinT2o) | 2:10 | 2024-05-09 | 2024-07-12 |
 | [PEGGIO X ME](https://open.spotify.com/track/4wf7JDYqfgerUSm7o5D5Xj) | [LIL CIU](https://open.spotify.com/artist/1gIo0q3Sj8MHi9DRqiOJlW) | [PEGGIO X ME](https://open.spotify.com/album/0Ty4csTDjqi50rfMUECSR4) | 2:16 | 2023-12-14 | 2024-01-19 |
 | [Peggiore Mostro](https://open.spotify.com/track/1GbP7LY61Ep0gaU3rVv1FM) | [GRACE](https://open.spotify.com/artist/5AVXKxGMQaToDCdbBqGlIR) | [Peggiore Mostro](https://open.spotify.com/album/3JAjJ9QXpqCpwstS8HzfsZ) | 2:16 | 2024-04-18 | 2024-06-01 |
+| [PENSAMI + FORTE](https://open.spotify.com/track/68YhFfjXOORniqsSL1wCPT) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [PENSAMI + FORTE](https://open.spotify.com/album/7bVQZGfsaoNASKRS9H8Hlp) | 2:23 | 2026-06-11 |  |
 | [PENSAVO FOSSE AMORE](https://open.spotify.com/track/6IYQF6zaOxhn8OGFivyT5J) | [Sad Twins](https://open.spotify.com/artist/7IB0pjMcXuxaYe1QNSlO6P) | [PENSAVO FOSSE AMORE](https://open.spotify.com/album/3Rr2xikWPobfmJoC8pW1bK) | 2:41 | 2024-10-17 | 2025-01-17 |
 | [penso a te](https://open.spotify.com/track/7jvDfz3I1JZYOaW4c5plrc) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [penso a te](https://open.spotify.com/album/1ezAixItQx43roebtin0Bc) | 2:22 | 2022-09-22 | 2023-01-13 |
 | [Pepsi & Coca](https://open.spotify.com/track/0RWIowbjnc4RkIGLkR0N9h) | [Danien & Theø](https://open.spotify.com/artist/0UyLfzwH9SXflwWW7GDHfa) | [La dolce vita](https://open.spotify.com/album/6VHmqfHzv5ln7pHg11TWQd) | 2:04 | 2024-02-15 | 2024-04-14 |
@@ -1292,6 +1297,7 @@
 | [S.O.S.](https://open.spotify.com/track/6qPZeHIq9rLk705nz3NUMo) | [FANTASMA DI ME](https://open.spotify.com/artist/3nnxeSXklp4PjXcjxfxe5l) | [S.O.S.](https://open.spotify.com/album/0ydPhoAHnl5TsMAbLjdHqf) | 3:09 | 2024-02-15 | 2024-03-22 |
 | [SABBIE MOBILI](https://open.spotify.com/track/6SOtdbnV35PwIVLpFhMfnu) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [SABBIE MOBILI](https://open.spotify.com/album/17d7difDoVQ3pjgbURerM0) | 2:21 | 2022-05-06 | 2022-06-03 |
 | [Sad Girl Summer](https://open.spotify.com/track/52ITJgaQHGQ4Uxnqz44jWP) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Summer](https://open.spotify.com/album/6BD3f64782idv4IF2npufe) | 3:13 | 2022-05-26 | 2022-06-17 |
+| [sahara](https://open.spotify.com/track/3K37C1Phi85Qt6ddVoropT) | [ioemeg](https://open.spotify.com/artist/1iAww5f7OY85PWZiYGgYxE) | [ventisette](https://open.spotify.com/album/4M2r4GSZMknxC0yTa8V8L9) | 2:40 | 2026-06-11 |  |
 | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/track/6Mr6xOUz5beVAGwOS31NkA) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/album/60THqqLuqBeheWV1eda4im) | 3:00 | 2026-01-01 | 2026-01-15 |
 | [Sala Pesi](https://open.spotify.com/track/3jDNbVYq1S8Y2zQ2lDihVc) | [Hello Mimmi](https://open.spotify.com/artist/3IifAvWIrEkwQlXr5e97w7) | [Sala Pesi](https://open.spotify.com/album/6NmGOky1QChJ2bskMWmyj8) | 2:36 | 2025-10-16 | 2025-11-07 |
 | [Salice](https://open.spotify.com/track/04xLRTZiC7MoWR4zYdsQIi) | [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk), [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [Salice](https://open.spotify.com/album/1KETHPt4P9yeJwQLnw7bkK) | 3:49 | 2022-05-12 | 2022-05-20 |

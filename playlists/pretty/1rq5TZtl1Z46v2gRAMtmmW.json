@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31886,
+  "num_followers": 31888,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAARpw/mrVQDI48A+cvmYy9ohuXe/okt",
+  "snapshot_id": "AAARq4ZO4BRSAHa/pYcPPYJioZBmpFyE",
   "tracks": [
     {
       "added_at": "2026-06-10 17:55:44",
@@ -39,6 +39,26 @@
       "duration_ms": 237487,
       "name": "Quakin'",
       "url": "https://open.spotify.com/track/5BgDE3nvkSuJIWPL8T1zlO"
+    },
+    {
+      "added_at": "2026-06-11 09:52:14",
+      "album": {
+        "name": "Live By You",
+        "url": "https://open.spotify.com/album/1EgStPVLsZqTf1yi1sTntI"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        },
+        {
+          "name": "CASISDEAD",
+          "url": "https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs"
+        }
+      ],
+      "duration_ms": 110639,
+      "name": "Live By You",
+      "url": "https://open.spotify.com/track/5mtlKEDbzO1a4Nz8q7odng"
     },
     {
       "added_at": "2026-06-10 17:57:00",
@@ -947,6 +967,26 @@
       "duration_ms": 165523,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT"
+    },
+    {
+      "added_at": "2026-06-11 16:33:49",
+      "album": {
+        "name": "Macho",
+        "url": "https://open.spotify.com/album/3UjAbo0BXxVm8YASitir9v"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "duration_ms": 262188,
+      "name": "Macho",
+      "url": "https://open.spotify.com/track/1lfrEfIqFx5uUrJInBub0n"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

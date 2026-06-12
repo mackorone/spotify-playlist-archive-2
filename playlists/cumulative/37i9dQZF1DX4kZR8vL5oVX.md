@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec marguerite \(du titre \#1 au \#16\).
 
-2,016 songs - 4 day 8 hr 20 min
+2,017 songs - 4 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Belle](https://open.spotify.com/track/02MJ7tsWDTcZSADrruVhIV) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Belle](https://open.spotify.com/album/3g5nDsYn2YjfR37RPYSVzG) | 2:38 | 2022-11-08 | 2022-12-01 |
 | [Belle](https://open.spotify.com/track/7kmslsDZxmi87QwTsXEuaH) | [Paola](https://open.spotify.com/artist/7izxlZDhSich8F2ukPd3pc) | [Belle](https://open.spotify.com/album/1poQ0HjBQiJARpbeMcgGqu) | 2:23 | 2024-03-05 | 2024-06-05 |
 | [Belle pour une renoie](https://open.spotify.com/track/14UChneY1Dj9AqlhaxGxh6) | [Awa Imani](https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i) | [Belle pour une renoie](https://open.spotify.com/album/3jOKcUX2Bi1R2kKD5tURNB) | 2:27 | 2022-05-05 | 2022-06-01 |
+| [bellevie](https://open.spotify.com/track/5gLrC8G7RwfxsiX2ICNZTa) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [bellevie](https://open.spotify.com/album/23vv5Kj5UbC7uT2cjbe778) | 3:01 | 2026-06-11 |  |
 | [Bend Your Back \- A COLORS SHOW](https://open.spotify.com/track/2HZi15KL2f3tQQPe0RKWq4) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Bend Your Back \- A COLORS SHOW](https://open.spotify.com/album/1EvPift4GR1Ndh7dZedjYn) | 2:30 | 2025-04-02 | 2025-05-07 |
 | [Benti](https://open.spotify.com/track/2czmqUI8rI4bhaEmhk4gkk) | [Biaziouka](https://open.spotify.com/artist/6hYHx2DaFd4QyiKNBs2UT8) | [Benti](https://open.spotify.com/album/6LHkEqJNjns3qj2HcFQK3n) | 2:58 | 2022-08-02 | 2022-09-07 |
 | [BESOIN D’AIDE](https://open.spotify.com/track/5CEWMqB95jpi0SJrJDMCtk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Lili Aux Paradis Artificiels : Tome 2](https://open.spotify.com/album/75LINdXh5zzpnz5wIbDrpi) | 2:28 | 2023-08-01 | 2023-09-06 |
@@ -902,7 +903,7 @@
 | [La Baleine](https://open.spotify.com/track/5dO4lKt0Rp4gmzQlMBDepp) | [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [Mama Forgot Her Name Was Miracle](https://open.spotify.com/album/1NAj9wcrGT9kDZLgbgYA8H) | 3:47 | 2022-04-05 | 2022-05-04 |
 | [La belle époque](https://open.spotify.com/track/4DHuh5umihj3cgiuyQ7jbE) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [La belle époque](https://open.spotify.com/album/68mbwN9aTDYGlgWzhTKPoe) | 2:52 | 2023-04-04 | 2023-05-03 |
 | [La bohème](https://open.spotify.com/track/22AqCxA8ratERaDPoBmZAO) | [L.E.J](https://open.spotify.com/artist/7kKKMBmEtyQcPb9idicNr7) | [La bohème](https://open.spotify.com/album/4CZ7eszyvir5bCCO1FcQyJ) | 3:29 | 2023-01-03 | 2023-02-01 |
-| [la boss](https://open.spotify.com/track/6xrDSwUTjEbFDmEaAjUQab) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [la boss](https://open.spotify.com/album/7u74BHRRxw58frd6WU1995) | 2:46 | 2026-03-03 |  |
+| [la boss](https://open.spotify.com/track/6xrDSwUTjEbFDmEaAjUQab) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [la boss](https://open.spotify.com/album/7u74BHRRxw58frd6WU1995) | 2:46 | 2026-03-03 | 2026-06-12 |
 | [La Boulette \(Génération Nan Nan\)](https://open.spotify.com/track/1Vf09Cxf2jqSkU6sfueYAq) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM) | [Dans Ma Bulle](https://open.spotify.com/album/1ZlqqgXvzlq8kZBKsY0hWO) | 3:51 | 2026-05-05 | 2026-06-03 |
 | [La chanson d'amour](https://open.spotify.com/track/1Ylc7I9K1eShClEH1NLFBo) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La chanson d'amour](https://open.spotify.com/album/71VvbsJXaYjuYienm7G1j7) | 3:27 | 2026-03-03 | 2026-05-06 |
 | [La chanson du bal](https://open.spotify.com/track/1n45k011rLRO3qsafiuMjE) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Rayons Gamma](https://open.spotify.com/album/6ehX4nmU1nqwljgu7ZPbbn) | 3:54 | 2024-11-05 | 2024-12-04 |

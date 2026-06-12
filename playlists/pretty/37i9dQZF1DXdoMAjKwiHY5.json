@@ -1,13 +1,29 @@
 {
   "description": "Got Fray-fever? Or craving some DeGraw-delights? Board the Train-train and enjoy these pop-rock favorites.",
-  "num_followers": 30910,
+  "num_followers": 30916,
   "original_name": "Jupiter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOA552830rdFHBZuJAFTuaBgpraZ",
+  "snapshot_id": "AAAAAD6Zzeag/mTfXefxVtY1efTaRef3",
   "tracks": [
+    {
+      "added_at": "2026-06-12 04:01:21",
+      "album": {
+        "name": "Pennsylvania Turnpike",
+        "url": "https://open.spotify.com/album/5PcRDcKPzr2dORUnRWROwQ"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 220179,
+      "name": "Pennsylvania Turnpike",
+      "url": "https://open.spotify.com/track/4gXjzDndwLo65Mtc6zsNeZ"
+    },
     {
       "added_at": "2026-03-13 04:00:41",
       "album": {
@@ -103,22 +119,6 @@
       "duration_ms": 199866,
       "name": "Known You Always",
       "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "Long Yellow Dress",
-        "url": "https://open.spotify.com/album/5cDUm4xijWkKovh69cUL3H"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 189770,
-      "name": "Long Yellow Dress",
-      "url": "https://open.spotify.com/track/5LKidZHW0GGEhFjwBHgq1E"
     },
     {
       "added_at": "2023-07-06 17:34:38",

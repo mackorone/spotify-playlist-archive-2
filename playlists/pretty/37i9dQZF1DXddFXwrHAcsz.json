@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 80's! Cover: Andr\u00e9 Hazes",
-  "num_followers": 74252,
+  "num_followers": 74267,
   "original_name": "80's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
+        "name": "Rob 100",
+        "url": "https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T"
+      },
+      "artists": [
+        {
+          "name": "Rob De Nijs",
+          "url": "https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K"
+        }
+      ],
+      "duration_ms": 291360,
+      "name": "Open Einde",
+      "url": "https://open.spotify.com/track/54CctrS6IHUuIxi5vLgW5i"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
         "name": "Mijn Levenslied",
         "url": "https://open.spotify.com/album/1ZsiKqXJH3U7qN6pX3nHme"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "Zullen We Dansen - Het Beste Van De Dijk 1981 - 2006",
-        "url": "https://open.spotify.com/album/6rH1vmQTFjbXmCRYYtD2Q3"
-      },
-      "artists": [
-        {
-          "name": "De Dijk",
-          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "Binnen Zonder Kloppen",
-      "url": "https://open.spotify.com/track/3MclndtcndEVz0gKOXdM71"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
         "name": "Hazes 100",
         "url": "https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K"
       },
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "Rob 100",
-        "url": "https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T"
+        "name": "Zullen We Dansen - Het Beste Van De Dijk 1981 - 2006",
+        "url": "https://open.spotify.com/album/6rH1vmQTFjbXmCRYYtD2Q3"
       },
       "artists": [
         {
-          "name": "Rob De Nijs",
-          "url": "https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K"
+          "name": "De Dijk",
+          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
         }
       ],
-      "duration_ms": 291360,
-      "name": "Open Einde",
-      "url": "https://open.spotify.com/track/54CctrS6IHUuIxi5vLgW5i"
+      "duration_ms": 285666,
+      "name": "Binnen Zonder Kloppen",
+      "url": "https://open.spotify.com/track/3MclndtcndEVz0gKOXdM71"
     },
     {
       "added_at": "2022-10-11 07:08:55",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Monsta entra na zona. ",
+  "description": "Mizzy Miles & Wet Bed Gang entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -2615,6 +2615,36 @@
     },
     {
       "album": {
+        "name": "Batota",
+        "url": "https://open.spotify.com/album/0jDIsrtDQ5blnZtjKyicQ4"
+      },
+      "artists": [
+        {
+          "name": "bapcat",
+          "url": "https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou"
+        },
+        {
+          "name": "Isak",
+          "url": "https://open.spotify.com/artist/7kG7pv7ChRRM7UvWANusR7"
+        },
+        {
+          "name": "Zigarro",
+          "url": "https://open.spotify.com/artist/1VCW4Jb8zoJLddJBQ75VJq"
+        },
+        {
+          "name": "Armando Teles",
+          "url": "https://open.spotify.com/artist/1fgTXVfHGvor0DgoVJXaka"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Batota",
+      "url": "https://open.spotify.com/track/3Hyz45EN8Bc4rBGj6VjGKF"
+    },
+    {
+      "album": {
         "name": "Bebe 1 Copo e Desfruta",
         "url": "https://open.spotify.com/album/4bQWCONT2jD4NlKWG6SzWa"
       },
@@ -4960,7 +4990,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 168000,
       "name": "CONSUMIDO",
       "url": "https://open.spotify.com/track/3cbS7t4i10qhBUQMo94NYo"
@@ -7273,6 +7303,32 @@
     },
     {
       "album": {
+        "name": "EX n\u00e3o \u00e9 Plano B",
+        "url": "https://open.spotify.com/album/7qoxTIAKVtCJO1yu6cZaSs"
+      },
+      "artists": [
+        {
+          "name": "ROCHA.SNJ",
+          "url": "https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8"
+        },
+        {
+          "name": "Dbraz",
+          "url": "https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl"
+        },
+        {
+          "name": "Simba.",
+          "url": "https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134615,
+      "name": "EX n\u00e3o \u00e9 Plano B",
+      "url": "https://open.spotify.com/track/76K950pTxuGVZyxKkl4o8j"
+    },
+    {
+      "album": {
         "name": "Exagera",
         "url": "https://open.spotify.com/album/6LwyooZ5dTDYaFFxyzMdHf"
       },
@@ -8770,7 +8826,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 163926,
       "name": "Gym",
       "url": "https://open.spotify.com/track/2nopx6gLRaqFHNT6tTMfs7"
@@ -8992,6 +9048,28 @@
       "duration_ms": 113829,
       "name": "Hoje",
       "url": "https://open.spotify.com/track/6MDcpI3jbYdG7nkieRyAKC"
+    },
+    {
+      "album": {
+        "name": "HOJE ACORDEI CHATEADO",
+        "url": "https://open.spotify.com/album/1eENakNELwb8xoYDZvPoLQ"
+      },
+      "artists": [
+        {
+          "name": "Sippinpurpp",
+          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
+        },
+        {
+          "name": "Pulla",
+          "url": "https://open.spotify.com/artist/5ErBgmtP1N6p83k3OF59Al"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224428,
+      "name": "HOJE ACORDEI CHATEADO",
+      "url": "https://open.spotify.com/track/6iccFYVQeLlrpdLTYJjR7s"
     },
     {
       "album": {
@@ -10224,7 +10302,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 266152,
       "name": "Linguagem",
       "url": "https://open.spotify.com/track/5wRVkvXzeXa8aG9MFDHUp0"
@@ -12900,7 +12978,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 185714,
       "name": "Nicar\u00e1gua",
       "url": "https://open.spotify.com/track/4aLlcsrnfL0987VrLjUXd5"
@@ -14194,6 +14272,28 @@
       "duration_ms": 132857,
       "name": "OMBRO AMIGO",
       "url": "https://open.spotify.com/track/2bhQVnVDVp6SopfqsnRUEh"
+    },
+    {
+      "album": {
+        "name": "ON EST L\u00c0 (feat. Wet Bed Gang)",
+        "url": "https://open.spotify.com/album/0M14SqaCcdPVegOFFgpJkv"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "ON EST L\u00c0 (feat. Wet Bed Gang)",
+      "url": "https://open.spotify.com/track/6EWt6TUm52Dr5RgL2L5e4c"
     },
     {
       "album": {
@@ -16062,6 +16162,32 @@
       "duration_ms": 178337,
       "name": "Pull Up na C",
       "url": "https://open.spotify.com/track/6g6UypqyS4f1mNmf8lVZfE"
+    },
+    {
+      "album": {
+        "name": "Purifica",
+        "url": "https://open.spotify.com/album/2oeIe9A8Ip9kCq4DixMzaC"
+      },
+      "artists": [
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk"
+        },
+        {
+          "name": "Altifridi",
+          "url": "https://open.spotify.com/artist/5EDJuUceEPf5Lzw4DviGv1"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Purifica",
+      "url": "https://open.spotify.com/track/4ia0f8cQrQGB1oe2WfROO7"
     },
     {
       "album": {
@@ -19521,6 +19647,56 @@
     },
     {
       "album": {
+        "name": "Tr\u00e1fico n\u00b02 / Dama da Noite",
+        "url": "https://open.spotify.com/album/6wu0RQWFn5BH2SerKYNUO2"
+      },
+      "artists": [
+        {
+          "name": "Vado M\u00e1s Ki \u00c1s",
+          "url": "https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG"
+        },
+        {
+          "name": "Deezy",
+          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
+        },
+        {
+          "name": "Traficante D'Arte",
+          "url": "https://open.spotify.com/artist/06MFQ7wtovNj0lEUJoIeyF"
+        },
+        {
+          "name": "Stev\u00e3o NDM",
+          "url": "https://open.spotify.com/artist/5JpEb19393qOrYgRniHY6h"
+        },
+        {
+          "name": "Missy Bity",
+          "url": "https://open.spotify.com/artist/454cRoiGliscM95RXMHeMY"
+        },
+        {
+          "name": "Landim",
+          "url": "https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh"
+        },
+        {
+          "name": "Myriiam",
+          "url": "https://open.spotify.com/artist/6zg4moJfc93wjVVOhE1tK7"
+        },
+        {
+          "name": "DSB 1224",
+          "url": "https://open.spotify.com/artist/2stDBehct4FMgEapZ92nLg"
+        },
+        {
+          "name": "Valter Ls",
+          "url": "https://open.spotify.com/artist/6tUbiFgsJZ1mTC4XU7EIAW"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435696,
+      "name": "Tr\u00e1fico n\u00b02 / Dama da Noite",
+      "url": "https://open.spotify.com/track/6srwAFrvqjV4tt0rkzzHRw"
+    },
+    {
+      "album": {
         "name": "Tr\u00eas Vezes Grande",
         "url": "https://open.spotify.com/album/1U3W5zTFOCntnnoQ4Se6NP"
       },
@@ -21328,7 +21504,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 264349,
       "name": "\u00daltimo Som",
       "url": "https://open.spotify.com/track/29N97G4aN0GBPh5qIHNZTa"

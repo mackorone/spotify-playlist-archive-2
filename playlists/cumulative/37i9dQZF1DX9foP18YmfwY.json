@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Can\u00e7\u00f5es de um Cora\u00e7\u00e3o Sereno",
+        "url": "https://open.spotify.com/album/4pozEgu5OwgwNSCv2Op6OW"
+      },
+      "artists": [
+        {
+          "name": "Pe. Zezinho, SCJ",
+          "url": "https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149743,
+      "name": "Cora\u00e7\u00e3o Sagrado",
+      "url": "https://open.spotify.com/track/1Er3YhGPoKQSLlUtrTKJZu"
+    },
+    {
+      "album": {
         "name": "Cuida do Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1TfXGA6U3oMPo7cQUwPApS"
       },
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 286000,
       "name": "Nada Temerei",
       "url": "https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2"

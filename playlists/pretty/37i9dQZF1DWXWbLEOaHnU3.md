@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,940 likes - 75 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,974 likes - 75 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 53 | [Carmen](https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [Invisible Reality](https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An) | [Carmen](https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF) | 4:03 |
 | 54 | [Vikings](https://open.spotify.com/track/4ZkFgEWxurnQt1IA2nKL8z) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Vikings](https://open.spotify.com/album/1cjtiYZGIm7ItJbJMLIjul) | 5:25 |
 | 55 | [Ecstasy of Gold \- P.R.O.G\. Remix](https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu) | [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2), [P.R.O.G.](https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f) | [Ecstasy of Gold \(P.R.O.G\. Remix\)](https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo) | 5:20 |
-| 56 | [Shingara](https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL) | [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B), [3Form](https://open.spotify.com/artist/6z14QEpwhH5l5jpNypfTNs), [Psyfeature](https://open.spotify.com/artist/36n64MsjDNcijIzOojYw2F) | [Shingara](https://open.spotify.com/album/45ykr0hh1ZI3hhyBMLNZWs) | 5:17 |
-| 57 | [Dusk Till Dawn](https://open.spotify.com/track/76y17k5O5MZ2YipoDtIRN7) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Stryker](https://open.spotify.com/artist/5sDpkzowsJkqkTLzw2r8eF) | [Dusk Till Dawn](https://open.spotify.com/album/52tsXG23F7He5OUMX0wm2r) | 9:20 |
+| 56 | [Dusk Till Dawn](https://open.spotify.com/track/76y17k5O5MZ2YipoDtIRN7) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Stryker](https://open.spotify.com/artist/5sDpkzowsJkqkTLzw2r8eF) | [Dusk Till Dawn](https://open.spotify.com/album/52tsXG23F7He5OUMX0wm2r) | 9:20 |
+| 57 | [Shingara](https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL) | [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B), [3Form](https://open.spotify.com/artist/6z14QEpwhH5l5jpNypfTNs), [Psyfeature](https://open.spotify.com/artist/36n64MsjDNcijIzOojYw2F) | [Shingara](https://open.spotify.com/album/45ykr0hh1ZI3hhyBMLNZWs) | 5:17 |
 | 58 | [Nova Sinfonia](https://open.spotify.com/track/61nuwR2CfUzU3CyZevDVbe) | [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6), [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Nova Sinfonia](https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ) | 4:28 |
 | 59 | [Antiwar \- NoFace Remix](https://open.spotify.com/track/7s0ouUua8cX2Kf3fV29RLn) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Krunch](https://open.spotify.com/artist/630OCzczUeeccCj9DjhQWn), [NoFace](https://open.spotify.com/artist/6PAtGHecrbY8xa7i2ct5Fs) | [Antiwar \(Noface Remix\)](https://open.spotify.com/album/1LFQvmgubwxEuWePb4Nc9r) | 8:16 |
 | 60 | [Behind](https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ) | [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Deep Kontakt](https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna) | [Behind](https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt) | 4:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 148 songs - 8 hr 32 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 152 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,5 +156,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 146 | [Wrong](https://open.spotify.com/track/4vs331HyhkvSlQwOPkGPtk) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Americana On A Lagos Blue Rock](https://open.spotify.com/album/4gUY3HMagU8huWCUVgMX16) | 2:41 |
 | 147 | [Intermission \- Original](https://open.spotify.com/track/14skYqogUOAkmOTCxpVobr) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Little Prancer Album \(Original\)](https://open.spotify.com/album/7jKlfljcyErn60wEuVdUj7) | 1:17 |
 | 148 | [House of Love \- New Wave](https://open.spotify.com/track/7lSsw6wirwlKWSdsYhQOva) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [House of Love \(New Wave\)](https://open.spotify.com/album/75tS39CPVd8tUeuGvRkHIB) | 4:59 |
+| 149 | [First Kiss](https://open.spotify.com/track/4MoYQiwBZqFX4DfCn7kQQ6) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [First Kiss](https://open.spotify.com/album/3sAIi79IKg3rmjV4RKtUL0) | 3:24 |
+| 150 | [On My Way](https://open.spotify.com/track/5SajpJwLg8EFpHJ9dWUSDG) | [Snow64](https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ) | [On My Way](https://open.spotify.com/album/5tWElJ2aG2MSjd7XFwR8A9) | 3:18 |
+| 151 | [Hold On to Me](https://open.spotify.com/track/7whzmesy0DZeWOE38UlMSL) | [Snow64](https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ) | [Hold On to Me](https://open.spotify.com/album/6InHKXyhCLZxcCNzyPR4A4) | 3:31 |
+| 152 | [Coming on Too Strong](https://open.spotify.com/track/5CIfISXBoPboo4otAbYT2A) | [Cael Dadian](https://open.spotify.com/artist/46jXUfvQSM7aDYDv7YadFU), [Grace Marie Glenn](https://open.spotify.com/artist/4MX6ZaxWVv7ucry2Ln7qSS) | [Coming on Too Strong](https://open.spotify.com/album/7BOClUiiGklgrRkN4aECsV) | 2:49 |
 
-Snapshot ID: `AAAVFBa8MO5JpdbS+1o58c+ApCwlmLec`
+Snapshot ID: `AAAVGCHhL6sTtOVda2KS1rWFmzF3oevY`

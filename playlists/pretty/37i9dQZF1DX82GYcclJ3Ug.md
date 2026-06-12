@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Vince Staples
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,460 likes - 150 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,421 likes - 150 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 109 | [Time Machine](https://open.spotify.com/track/0Id1uGKixXaLt8v4wFfUS6) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Time Machine](https://open.spotify.com/album/6nygUYRnelgPrDgOTSvV3U) | 3:45 |
 | 110 | [Boys In Blue](https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Boys In Blue](https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH) | 2:33 |
 | 111 | [Big Money](https://open.spotify.com/track/0Bdy8Pp4DCWrHvPxnp6m5x) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Big Money](https://open.spotify.com/album/6EhUKGVIJA2AJhjLWgyWbE) | 2:59 |
-| 112 | [Tiger Blood](https://open.spotify.com/track/33GW7UkXxsIDwb0tWL99q5) | [Houndmouth](https://open.spotify.com/artist/5E3ZpulF9dBTGYE6njBV2P) | [Tiger Blood](https://open.spotify.com/album/5VXuq0HNXIadIwJrQmaIxP) | 3:52 |
+| 112 | [Tiger Blood](https://open.spotify.com/track/33GW7UkXxsIDwb0tWL99q5) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Tiger Blood](https://open.spotify.com/album/5VXuq0HNXIadIwJrQmaIxP) | 3:52 |
 | 113 | [Mirror](https://open.spotify.com/track/2eVt2Wmtqtdf1BN2HgkSLy) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Mirror](https://open.spotify.com/album/0V7gyAhkYCmmYTBRvSQEEm) | 3:19 |
 | 114 | [Highs and Lows](https://open.spotify.com/track/2jqYwfkkbi9c4nTsRap9RL) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Highs and Lows](https://open.spotify.com/album/5nYfSJY34atP95u6wGEUNw) | 3:43 |
 | 115 | [Star v](https://open.spotify.com/track/3Wo5cXSG9DdFkbYruZgBmh) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Something is a shell .](https://open.spotify.com/album/2QlGlvLUEon9SaUGNj78cy) | 3:47 |

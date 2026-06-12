@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: mute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,484 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,485 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [i hate you SO!](https://open.spotify.com/track/3LqTSlBTBQLDx6w4jmrw8d) | [Jduck](https://open.spotify.com/artist/7IwfHqIXDXJZXIG2VBrPE9) | [i hate you SO!](https://open.spotify.com/album/15NzqO29dBTZVyT00BBOOZ) | 3:27 |
 | 50 | [ROULETTE](https://open.spotify.com/track/3q7NEyNVAA7SvgR9glnV3K) | [INC MATAWEE](https://open.spotify.com/artist/2pGlpKAhNMQRDy1pwtNJcg) | [ROULETTE](https://open.spotify.com/album/2bzjk8AxeAeTJm7yWiaPqC) | 2:47 |
 
-Snapshot ID: `AAAAAL9r7UuPDnsiqmpxSodYj2zfqc58`
+Snapshot ID: `AAAAAM1Fb3+Mv/wihFnhoeOrBYUJLnIs`

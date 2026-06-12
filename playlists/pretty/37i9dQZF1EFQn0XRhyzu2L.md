@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,598 likes - 412 songs - 23 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,600 likes - 412 songs - 23 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -421,4 +421,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 411 | [Special Kind of Car](https://open.spotify.com/track/5Y2MOU4T2DjkQIW11UdoGY) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Skin of My Teeth](https://open.spotify.com/album/4jzeGZV3144y1G0cvGSoOw) | 3:39 |
 | 412 | [Stomp Clap](https://open.spotify.com/track/5ieaW1q5L7UWaFYqOTyUmn) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Skin of My Teeth](https://open.spotify.com/album/4jzeGZV3144y1G0cvGSoOw) | 1:54 |
 
-Snapshot ID: `AcT4bgAAAACqsTN0Bl9kByyvsr/Up6vL`
+Snapshot ID: `AcT98AAAAADvAKO8hbQuV0AWL2oeVSGz`

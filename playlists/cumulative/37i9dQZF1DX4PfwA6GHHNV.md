@@ -4,7 +4,7 @@
 
 > afrobeats daqui, de fora, de todos os cantos
 
-274 songs - 13 hr 29 min
+275 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [O Que Ela Tem?](https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja) | [Volpato](https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl), [BETINHO](https://open.spotify.com/artist/51CZxgpuuYyBfyM99WEnWa), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [O Que Ela Tem?](https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7) | 2:13 | 2023-11-24 | 2024-04-27 |
 | [Oceano](https://open.spotify.com/track/2c4suE33LALjs5wGWAnD4F) | [Young Piva](https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH), [Dactes](https://open.spotify.com/artist/2zYKxqey1SNN4lFLjMw0FS) | [Encruzilhada](https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk) | 2:42 | 2023-09-15 | 2024-03-30 |
 | [Oh Não \- Ao Vivo](https://open.spotify.com/track/4OjfLZXliygHX2OeXKmc9i) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 1:52 | 2023-12-08 | 2024-02-17 |
-| [OHNANA](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [OHNANA](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2025-06-27 |  |
+| [OHNANA](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [OHNANA](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2025-06-27 | 2026-06-12 |
+| [Olé, Olé!](https://open.spotify.com/track/2Nt7cLUs1DuT6AckyYDK1B) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Olé, Olé!](https://open.spotify.com/album/1IsX7sfobRLBqRowRIuwOH) | 2:44 | 2026-06-12 |  |
 | [Online](https://open.spotify.com/track/6q0eaSM4WDEHavJ9BSbIfq) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW), [Pivet Panda](https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu) | [Unicórnio](https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS) | 2:55 | 2023-10-27 | 2024-11-09 |
 | [Pagar Pra Ter](https://open.spotify.com/track/3Sr0nvA4P1D0QYHjrp1CjU) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 3:05 | 2023-09-15 | 2024-12-07 |
 | [PAM PAM PAM](https://open.spotify.com/track/0Jy98AVBQ0EFiACEwQV4dm) | [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW), [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Rafa Chagas](https://open.spotify.com/artist/5E6d0spG1AuXwfawbh02i9), [Shuna](https://open.spotify.com/artist/1fZ72u620OxAroHzfsFPAW) | [PAM PAM PAM](https://open.spotify.com/album/2UTdGdcWNA4B4NCoIfe7Ge) | 3:32 | 2024-01-19 | 2024-03-16 |

@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover: Lavt
 
-1,459 songs - 3 day 19 hr 56 min
+1,460 songs - 3 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,7 +842,7 @@
 | [アットマーク](https://open.spotify.com/track/2d0etH4i903Fg9V2q3SJni) | [blend house](https://open.spotify.com/artist/7EJ2VmS1zTceVLXZWXw2Dt) | [アットマーク](https://open.spotify.com/album/6YUOQDhOOqouokTBwFw3hF) | 5:03 | 2025-01-21 | 2025-01-29 |
 | [アニムスヘイブン](https://open.spotify.com/track/7cKoafWOIHW3R3CG7eXWm7) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [アニムスヘイブン](https://open.spotify.com/album/77ycLnkh7FjoJ2k43b4Ybt) | 3:06 | 2026-02-11 | 2026-05-05 |
 | [アネモネ](https://open.spotify.com/track/0SB9l1vbYG5A44AJFlmc7J) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [アネモネ](https://open.spotify.com/album/4ZmyxpMBVaajJWiyhweSUv) | 3:17 | 2025-02-25 | 2025-04-23 |
-| [アネモネ](https://open.spotify.com/track/3y76xMbyScW3J7Ffh7nDs0) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [アネモネ](https://open.spotify.com/album/5IyDpdQLT9lw1gxvLAovYg) | 3:12 | 2026-05-26 |  |
+| [アネモネ](https://open.spotify.com/track/3y76xMbyScW3J7Ffh7nDs0) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [アネモネ](https://open.spotify.com/album/5IyDpdQLT9lw1gxvLAovYg) | 3:12 | 2026-05-26 | 2026-06-12 |
 | [アノナミダ](https://open.spotify.com/track/7uqpc1gTQNCdhNmLnlGNSY) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [TAAR](https://open.spotify.com/artist/7MMmb0i2DjUg6Umom4nrh4) | [アノナミダ](https://open.spotify.com/album/5Kr6J9RTnMn9E3xIYZ9YtD) | 3:30 | 2025-01-28 | 2025-04-02 |
 | [アビス](https://open.spotify.com/track/0OKoqIO4N5HGaRwj55KbAr) | [のんぴー](https://open.spotify.com/artist/0JEql610gvFzhlnZZkI4we) | [アビス](https://open.spotify.com/album/2V1kpXIUuxgr5tc2EfuXKN) | 3:09 | 2025-07-08 | 2025-07-16 |
 | [アロエ](https://open.spotify.com/track/6yigUYGbHwYbzDys7Js9vo) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [アロエ](https://open.spotify.com/album/3c9oQXto9vXIvYDSJQnGDR) | 3:57 | 2025-01-21 | 2025-06-12 |
@@ -1064,6 +1064,7 @@
 | [一途な女の子。](https://open.spotify.com/track/06fMKL5WAQtTOgGW2CD90H) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [一途な女の子。](https://open.spotify.com/album/2Agow1p20GVdYvyfOKDRoB) | 2:59 | 2025-04-29 | 2025-11-26 |
 | [万有引力](https://open.spotify.com/track/4hnDjwAp3MiblSJdhHIdpA) | [Broken Kangaroo](https://open.spotify.com/artist/2x88RJdG7aCmPZQAzlGUeo) | [Sirius](https://open.spotify.com/album/2G0VI7msUENRHGF7WWwniq) | 4:44 | 2025-02-25 | 2025-03-05 |
 | [万有引力](https://open.spotify.com/track/0xkACrg0TkMPckKLYiYCUZ) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [万有引力](https://open.spotify.com/album/59JLYJ8cudSkhUL2hgN3Us) | 2:15 | 2025-08-12 | 2025-09-17 |
+| [三文ロマンスショー](https://open.spotify.com/track/2r8ZgxFjUuaqAfY432umyz) | [サカキナオ](https://open.spotify.com/artist/6KF1YD2BKIf24nY3qd6LeN) | [三文ロマンスショー](https://open.spotify.com/album/2ivyNzCGSFJwbPnGMISDp0) | 2:58 | 2026-06-10 |  |
 | [不可幸力](https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 3:20 | 2024-07-02 | 2024-12-25 |
 | [不可逆的幸福論\[Rerec\]](https://open.spotify.com/track/26OjRFw6vbUSXa0nEZxBiU) | [CONNECTION](https://open.spotify.com/artist/5AdJjBuXW9YHZC3GdafHxM), [Naoya Shiraishi](https://open.spotify.com/artist/7clXeVAnCACBE1VX1AnAQS) | [不可逆的幸福論\[Rerec\]](https://open.spotify.com/album/1kcYFXSRvrqE6cOfBT3pM7) | 3:33 | 2026-03-17 | 2026-03-25 |
 | [不器用な僕らの歌](https://open.spotify.com/track/6i3J1Phb5cOuVcmswcfHD1) | [アツキタケトモ](https://open.spotify.com/artist/53ZtiUmgk4elH0IGLs7P3g) | [不器用な僕らの歌](https://open.spotify.com/album/56qtJnNoIgWdPE5JU9g4Wl) | 4:17 | 2026-03-03 | 2026-03-11 |

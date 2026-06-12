@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-135 songs - 7 hr 57 min
+136 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Film](https://open.spotify.com/track/0g1pfaF11B4Lo8oO8RgtW2) | [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Film](https://open.spotify.com/album/0gsJfbVgA2BL7xsGXuT9JO) | 4:18 | 2025-12-20 | 2026-02-02 |
 | [Forever Yours](https://open.spotify.com/track/2phRDv92tyNX5XNezzf6GK) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Reinhard Zwisler](https://open.spotify.com/artist/71ye10XRGQdJ2l9s8LZENB) | [Forever Yours](https://open.spotify.com/album/3c6u2ytsTyiXEOizWF493Z) | 3:55 | 2023-10-12 |  |
 | [From Darkness to Light](https://open.spotify.com/track/4qvY2noGKvg2OFcTpQe0FJ) | [Barbara Borgelin](https://open.spotify.com/artist/3IsHx0vZYapvC5YBkFOv2V) | [From Darkness to Light](https://open.spotify.com/album/6Faby9zPGISHqe1PubDajM) | 3:54 | 2025-10-31 | 2025-12-17 |
+| [Funky Music Makes Me Lose It](https://open.spotify.com/track/0a2P9IK5t02PRXBqTO3nlM) | [lofthouse leo](https://open.spotify.com/artist/1rpet0LMvxIvChVSUpmuXV) | [Funky Music Makes Me Lose It](https://open.spotify.com/album/3EhtKfElVLsWID6fuuw2qp) | 3:40 | 2026-06-11 |  |
 | [Futon Party](https://open.spotify.com/track/56tS3PlbE47mE5OyyAn3iR) | [MAD SCORPIO](https://open.spotify.com/artist/3TSVFRgaIY3m3zGiM8SrhB) | [Futon Party](https://open.spotify.com/album/4E6OYYnsAsLy8NMnJ6DRQA) | 3:42 | 2025-12-05 | 2025-12-17 |
 | [Født til kærlighed](https://open.spotify.com/track/3iCWrBz2lKiLROBiRFtsid) | [Milly Nou](https://open.spotify.com/artist/4e3dKWaqu93gNcZ70r9scr) | [Født til kærlighed](https://open.spotify.com/album/4R7dD6mpx8yGCvvbfklOnr) | 4:01 | 2025-12-06 | 2026-02-02 |
 | [Gladiator](https://open.spotify.com/track/0n89Qtx2dUkjeO7iO4nlJ5) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [DESTINY UNKNOWN](https://open.spotify.com/album/2dx5eaDJuRYmA3kvGjHn5k) | 1:41 | 2025-06-28 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Accessory",
+  "description": "Underground indie rock gems. Cover: Wishy",
   "name": "undercurrents",
   "tracks": [
     {
@@ -456,7 +456,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 237049,
       "name": "_you never really get that far_ (Coldplay cover)",
       "url": "https://open.spotify.com/track/3LadbhRQVnK6UTtK2YzzlZ"
@@ -2778,7 +2778,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 294084,
       "name": "beauty is blinding",
       "url": "https://open.spotify.com/track/0RQBmAWV8SepWJ5xWyYOXh"
@@ -2980,6 +2980,24 @@
       "duration_ms": 163986,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp"
+    },
+    {
+      "album": {
+        "name": "Best Dressed",
+        "url": "https://open.spotify.com/album/4tj9Ieh0z3ZO4OZ6vUHson"
+      },
+      "artists": [
+        {
+          "name": "Harmony Tividad",
+          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227626,
+      "name": "Best Dressed",
+      "url": "https://open.spotify.com/track/1P155k7woJOPbHxxMceaa0"
     },
     {
       "album": {
@@ -7028,7 +7046,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 149929,
       "name": "Cruise Ship Designer",
       "url": "https://open.spotify.com/track/4bxf0SkBztnpD2pmG4E3XE"
@@ -7176,7 +7194,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 153573,
       "name": "Cup of Loneliness",
       "url": "https://open.spotify.com/track/3F81ZndWmQF7GDTX7Wz5gs"
@@ -7659,6 +7677,24 @@
     },
     {
       "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/4EOD7DDzAXnpBIpMCfWTyW"
+      },
+      "artists": [
+        {
+          "name": "Chat Pile",
+          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245293,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/5PbFV0TfKx6tojTmbRkQDX"
+    },
+    {
+      "album": {
         "name": "Deep Diving",
         "url": "https://open.spotify.com/album/26TkLAiSMFSbKFXiveepTM"
       },
@@ -7742,7 +7778,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 270040,
       "name": "Deer In The Headlights",
       "url": "https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b"
@@ -9806,7 +9842,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 192000,
       "name": "Even Mountains Erode",
       "url": "https://open.spotify.com/track/58kHTh4O40lBfpVAZNdaAW"
@@ -10776,7 +10812,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 172325,
       "name": "FIG TREE",
       "url": "https://open.spotify.com/track/5Gc96BrAvQwVPHSTNAuM9o"
@@ -12297,6 +12333,24 @@
     },
     {
       "album": {
+        "name": "gloss",
+        "url": "https://open.spotify.com/album/5cB6ytAOOS0PSbkWewmteI"
+      },
+      "artists": [
+        {
+          "name": "horse",
+          "url": "https://open.spotify.com/artist/6V9Tfh0YmcoTEBKd35s9ql"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178280,
+      "name": "gloss",
+      "url": "https://open.spotify.com/track/4954IoAJu2QJAYZBDWTn6F"
+    },
+    {
+      "album": {
         "name": "Race",
         "url": "https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m"
       },
@@ -12348,6 +12402,24 @@
       "duration_ms": 200586,
       "name": "Go Slow",
       "url": "https://open.spotify.com/track/7B7CJVHZq5EPzylyt87vB5"
+    },
+    {
+      "album": {
+        "name": "God Made A Farmer",
+        "url": "https://open.spotify.com/album/48p0saufBb3vLyr7eAANoW"
+      },
+      "artists": [
+        {
+          "name": "Ok Cowgirl",
+          "url": "https://open.spotify.com/artist/5foQBLMKT1paX8PAI12iH8"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "God Made A Farmer",
+      "url": "https://open.spotify.com/track/2kN8BJRhPohoBzHdVyLXjb"
     },
     {
       "album": {
@@ -12658,7 +12730,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 228266,
       "name": "Grassoline",
       "url": "https://open.spotify.com/track/1AFm1o1oldrWibRlz483cv"
@@ -15086,7 +15158,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 203186,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/6wL3cuhOPz17kioLBs2Ger"
@@ -15356,7 +15428,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 153333,
       "name": "I LOVE MY FRIENDS",
       "url": "https://open.spotify.com/track/1x81fp7WVuqc666iGSxr1Y"
@@ -15656,7 +15728,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 211321,
       "name": "I Wanna Fight You",
       "url": "https://open.spotify.com/track/5Px4EcSHCpXhxDLdOBEkFg"
@@ -18176,7 +18248,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 198188,
       "name": "Layla",
       "url": "https://open.spotify.com/track/6VN3BKyXPSRmsNsWF7vwwB"
@@ -18608,7 +18680,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 158813,
       "name": "Like You Really Mean It",
       "url": "https://open.spotify.com/track/0U4tYhjC0SEe4HUETW8s4Y"
@@ -19156,7 +19228,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 268000,
       "name": "Love Is Deeper",
       "url": "https://open.spotify.com/track/2yXtOcn5kCOJVEoad75rqd"
@@ -19412,6 +19484,24 @@
       "duration_ms": 275284,
       "name": "loveseat",
       "url": "https://open.spotify.com/track/5HUImpx9hit2FQQZV3dsuB"
+    },
+    {
+      "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/0ndzE2uEr9PRIUqu7C7lgQ"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202093,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/1sbUpyzfqdSSthfycDcf0e"
     },
     {
       "album": {
@@ -19822,7 +19912,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 165121,
       "name": "Maybe Not Tonight",
       "url": "https://open.spotify.com/track/1NeYdwfqPVmmItoaBNq7KJ"
@@ -20006,7 +20096,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 166556,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/4m0DUFZIHDZljTX3A9viUJ"
@@ -20695,6 +20785,24 @@
     },
     {
       "album": {
+        "name": "Mouse",
+        "url": "https://open.spotify.com/album/5wEIxcoAinFbBzlOoFSbvG"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297391,
+      "name": "Mouse",
+      "url": "https://open.spotify.com/track/54qjFrJ9cTjPzaGjCanyWS"
+    },
+    {
+      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX"
       },
@@ -21262,7 +21370,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 184780,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/5hEx9Ws13eMrgt8ocXnwmf"
@@ -21334,7 +21442,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 268146,
       "name": "New Day",
       "url": "https://open.spotify.com/track/7jNyUsj10k8W1zPk4Em3Ge"
@@ -22252,7 +22360,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 258480,
       "name": "O The Wind",
       "url": "https://open.spotify.com/track/1g6uKWaSuBruqXt3U21Okj"
@@ -22714,7 +22822,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 215609,
       "name": "Only Girl (Single Version)",
       "url": "https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP"
@@ -25406,7 +25514,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 244106,
       "name": "Sage",
       "url": "https://open.spotify.com/track/3BrHd9alz5uL6KwI2A5fmG"
@@ -25918,7 +26026,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 234099,
       "name": "Sentry",
       "url": "https://open.spotify.com/track/5SFwml6SjVbEvDWm0gh2me"
@@ -26134,7 +26242,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 251374,
       "name": "Shadow Stealer",
       "url": "https://open.spotify.com/track/15JRNk1Xr4ZNYBczGooGBv"
@@ -26510,7 +26618,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 137000,
       "name": "silver and gold",
       "url": "https://open.spotify.com/track/1IuNjcvA7heWSCoqJChPhn"
@@ -27062,7 +27170,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 118000,
       "name": "Snug Barber",
       "url": "https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv"
@@ -28276,7 +28384,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 126680,
       "name": "Star",
       "url": "https://open.spotify.com/track/5yhXwNpMauiItH4zsJJveb"
@@ -28576,7 +28684,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 171311,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/7I1uAxTOm7pbSncfMMI1Nt"
@@ -31132,7 +31240,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 227733,
       "name": "toothless coal",
       "url": "https://open.spotify.com/track/2O97w7awL82TSgGiEgTY0L"
@@ -31168,7 +31276,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 222547,
       "name": "Touch Base",
       "url": "https://open.spotify.com/track/48qeE7lY6PzSwBsLOn7mbO"
@@ -31733,6 +31841,24 @@
     },
     {
       "album": {
+        "name": "Twenty Five",
+        "url": "https://open.spotify.com/album/5S8VhWs7lVObWfbQ4z88Yc"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "Twenty Five",
+      "url": "https://open.spotify.com/track/23iWJrcd1Vcs7wbCVvQETO"
+    },
+    {
+      "album": {
         "name": "Twilight Living",
         "url": "https://open.spotify.com/album/09SiuB29IpmdEeoGjkhS0p"
       },
@@ -31852,7 +31978,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 224842,
       "name": "two shots in and sobbing",
       "url": "https://open.spotify.com/track/4MOs5IcNNQNOgVuUIeYEFh"
@@ -32058,7 +32184,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 201230,
       "name": "Unforgiven",
       "url": "https://open.spotify.com/track/4nVpEwdqM0aaAQSqqSM7cH"

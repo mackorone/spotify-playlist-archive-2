@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Strictly for the streets. Cover: BossMan Dlow",
+  "description": "Strictly for the streets. Cover: G Herbo",
   "name": "Out The Mud",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 213812,
       "name": "1 Chance",
       "url": "https://open.spotify.com/track/7xO17adfb1WLRTD626Qdyh"
@@ -5630,7 +5630,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 148388,
       "name": "Blue Devils (feat. DaBaby) - Remix",
       "url": "https://open.spotify.com/track/29a9AZPAMPSifXvDnk4h3b"
@@ -5776,7 +5776,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 131291,
       "name": "Boogieman",
       "url": "https://open.spotify.com/track/4oxDHyzQF7QgUBtm9AT3fH"
@@ -5794,7 +5794,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 131291,
       "name": "Boogieman",
       "url": "https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd"
@@ -6708,7 +6708,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 111699,
       "name": "Butta B",
       "url": "https://open.spotify.com/track/2r7PywSTrql5YQFMUi5PlA"
@@ -6726,7 +6726,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 111699,
       "name": "Butta B",
       "url": "https://open.spotify.com/track/5LjDN2H72mbTcahtSbhEfD"
@@ -11625,6 +11625,24 @@
     },
     {
       "album": {
+        "name": "Everywhere I Go",
+        "url": "https://open.spotify.com/album/3qyi9MmblYr0QrX6gi6TVv"
+      },
+      "artists": [
+        {
+          "name": "Tay-K",
+          "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87120,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/34m26K64fX2OtUVov3z1Ej"
+    },
+    {
+      "album": {
         "name": "Ghost Mode",
         "url": "https://open.spotify.com/album/5bEfOL1sP6CiGnWSCSAOlL"
       },
@@ -14264,7 +14282,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 167177,
       "name": "GANG BIZNESS feat paygotti",
       "url": "https://open.spotify.com/track/1DYNFDydkNSKjV7Mlg9Ves"
@@ -14286,7 +14304,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 167177,
       "name": "GANG BIZNESS feat paygotti",
       "url": "https://open.spotify.com/track/7MBxU6dqMPl4LAC7XacEkv"
@@ -15342,6 +15360,24 @@
       "duration_ms": 126164,
       "name": "Go",
       "url": "https://open.spotify.com/track/1HQFiEOMA4k4lPCnUMFwDm"
+    },
+    {
+      "album": {
+        "name": "Lil Herb: Lil Heroin Edition",
+        "url": "https://open.spotify.com/album/5Twc3EUBe2WocJkTLjszCW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140768,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/61j87rRrHwgiLTlDQDOhFP"
     },
     {
       "album": {
@@ -16710,7 +16746,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 150119,
       "name": "Hard Times (feat. Hurricane Wisdom)",
       "url": "https://open.spotify.com/track/4Tw2Bd0Mtw0JSIdu2st5Kc"
@@ -17332,6 +17368,24 @@
       "duration_ms": 144493,
       "name": "HERE COME THEM KILLAS",
       "url": "https://open.spotify.com/track/3RcMaUNVButHp2Jab3UFwN"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/4FBdE4UaNsPu304tVNE71B"
+      },
+      "artists": [
+        {
+          "name": "Noodah05",
+          "url": "https://open.spotify.com/artist/16uhNmbZpVmy71NUwOk1DJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155863,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/0B3riypKGIcXHXKs7uzssE"
     },
     {
       "album": {
@@ -18292,7 +18346,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 110875,
       "name": "How I'm Livin",
       "url": "https://open.spotify.com/track/0sNkVVkBnJRQmIe40tntqg"
@@ -18456,7 +18510,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 154777,
       "name": "How To Bip",
       "url": "https://open.spotify.com/track/64rP4gEgmxJ8Jg5nN3fzDo"
@@ -18482,7 +18536,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 154777,
       "name": "How To Bip",
       "url": "https://open.spotify.com/track/7btm6Amqf5fcSttlOxo00y"
@@ -19112,7 +19166,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 162889,
       "name": "I Need Dat",
       "url": "https://open.spotify.com/track/6jWwhGfAulWd2OkaMUaO4R"
@@ -20048,6 +20102,28 @@
       "duration_ms": 140572,
       "name": "Internet Trolls",
       "url": "https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD"
+    },
+    {
+      "album": {
+        "name": "Kut Da Fan On 2",
+        "url": "https://open.spotify.com/album/4rqwSmvXmD4uyV7G4wKnRl"
+      },
+      "artists": [
+        {
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Interview (with YTB Fatt)",
+      "url": "https://open.spotify.com/track/3p5GrjmjZTgEZNcbwJjRvg"
     },
     {
       "album": {
@@ -22456,7 +22532,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 191053,
       "name": "LETTER TO MY YN",
       "url": "https://open.spotify.com/track/2BKojtQhgJSOoPVQgl8zgl"
@@ -22976,6 +23052,24 @@
       "duration_ms": 112941,
       "name": "Lion Eyes",
       "url": "https://open.spotify.com/track/6MZoicv1j68tNiSJyKwNrB"
+    },
+    {
+      "album": {
+        "name": "Rise Against My Broken Odds",
+        "url": "https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154470,
+      "name": "Live By The Gun",
+      "url": "https://open.spotify.com/track/1cpqfHfrxhO07YlSqUGCjQ"
     },
     {
       "album": {
@@ -25654,6 +25748,28 @@
       "duration_ms": 143147,
       "name": "Motion God",
       "url": "https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS"
+    },
+    {
+      "album": {
+        "name": "Kodak The Blessing",
+        "url": "https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "G Thugg",
+          "url": "https://open.spotify.com/artist/07gfosp4umnedbY4PmP8KG"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265639,
+      "name": "Move (feat. G Thugg)",
+      "url": "https://open.spotify.com/track/3p5s3c8vx7TY8mIUfDIaDh"
     },
     {
       "album": {
@@ -29360,7 +29476,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Outfit (with 21 Savage)",
       "url": "https://open.spotify.com/track/6B2FtBtIds4rqeLPTW0D76"
@@ -29382,7 +29498,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 177000,
       "name": "Outfit (with 21 Savage)",
       "url": "https://open.spotify.com/track/7ffZyi3DyQr8Q2612gcqwr"
@@ -30034,7 +30150,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 183969,
       "name": "Part 2",
       "url": "https://open.spotify.com/track/1UcbCnSGJMbM9JMQnLthpf"
@@ -30289,6 +30405,28 @@
     },
     {
       "album": {
+        "name": "Kodak The Blessing",
+        "url": "https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Albee Al",
+          "url": "https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179907,
+      "name": "Peter Roll (feat. Albee Al)",
+      "url": "https://open.spotify.com/track/69K0V1iC63J23bphgsdVQL"
+    },
+    {
+      "album": {
         "name": "7220",
         "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
       },
@@ -30384,7 +30522,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 240651,
       "name": "PIECES ON MY NECK. FT. 21 SAVAGE.",
       "url": "https://open.spotify.com/track/4TDYdPYPWOAEUpNoKhe706"
@@ -30406,7 +30544,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 240651,
       "name": "PIECES ON MY NECK. FT. 21 SAVAGE.",
       "url": "https://open.spotify.com/track/57WdIHBSsisHLhn2gdsXr7"
@@ -32058,6 +32196,24 @@
       "duration_ms": 211653,
       "name": "Rambo",
       "url": "https://open.spotify.com/track/0lihymBRdQmqdUFDTMyLRU"
+    },
+    {
+      "album": {
+        "name": "Rangin Bells",
+        "url": "https://open.spotify.com/album/0LqxMfxc3xcrjHJQ8rq04p"
+      },
+      "artists": [
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120058,
+      "name": "Rangin Bells",
+      "url": "https://open.spotify.com/track/1vebhVZ7oM6d353DBYboHS"
     },
     {
       "album": {
@@ -38646,7 +38802,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 207777,
       "name": "Stressed",
       "url": "https://open.spotify.com/track/0YKijWRtqotIR5EUmR2eyt"
@@ -38664,7 +38820,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 207777,
       "name": "Stressed",
       "url": "https://open.spotify.com/track/15LA3MVEKT2t5IQeUUNmZy"
@@ -39200,6 +39356,32 @@
       "duration_ms": 180250,
       "name": "Swear to God (feat. Future)",
       "url": "https://open.spotify.com/track/0N3A0tvQ3ppZerKA8Gsztp"
+    },
+    {
+      "album": {
+        "name": "Lil Herb: Lil Heroin Edition",
+        "url": "https://open.spotify.com/album/5Twc3EUBe2WocJkTLjszCW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Doowop",
+          "url": "https://open.spotify.com/artist/4px7UWqdofTYmKCZgbyG0V"
+        },
+        {
+          "name": "Big Opp",
+          "url": "https://open.spotify.com/artist/32dqY5hdEsWLMZVG7asCq0"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201398,
+      "name": "Swerv n Nem (feat. Doowop & Big Opp)",
+      "url": "https://open.spotify.com/track/7kMvwrWmkfM4YKBXovw7os"
     },
     {
       "album": {
@@ -40764,7 +40946,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 136622,
       "name": "Thug Club",
       "url": "https://open.spotify.com/track/4r4gzZPBiISYG3go1kuS8v"
@@ -44086,7 +44268,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 140487,
       "name": "Went Legit",
       "url": "https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP"
@@ -44104,7 +44286,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 140538,
       "name": "Went Legit (Bonus)",
       "url": "https://open.spotify.com/track/4ZSJifET0qPf7XtPrtV6EN"
@@ -44770,7 +44952,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 174545,
       "name": "Who Me",
       "url": "https://open.spotify.com/track/1pqyJl8BFWacoGfJ9ZF9As"

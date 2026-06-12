@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 100400,
       "name": "A Bicycle Built For Two",
       "url": "https://open.spotify.com/track/3Gl8UbHiKTMp3bnZx3dooc"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 105575,
       "name": "Boogieman Boogie",
       "url": "https://open.spotify.com/track/6EjVi0xapUs3DekiAOfJpT"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 63345,
       "name": "Captain Dog",
       "url": "https://open.spotify.com/track/4UMC2NPwi3iarOtkmdMmQm"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 85984,
       "name": "Everybody Wash Your Hands",
       "url": "https://open.spotify.com/track/6Aa2f5khjAv0xj3FMRHHGt"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 67993,
       "name": "Her Name Is Keia",
       "url": "https://open.spotify.com/track/55ffAqdRtmKsm8msJhNTmn"
@@ -3505,6 +3505,28 @@
     },
     {
       "album": {
+        "name": "Disney Jr. Music: Marvel's Spidey and His Amazing Friends - Rescue-Webs",
+        "url": "https://open.spotify.com/album/00E2m8DX1ROAZ0YTz6LIYR"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130344,
+      "name": "Rescue-Webs Go!",
+      "url": "https://open.spotify.com/track/3LRvOxEXrstePaYkDx08WS"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Ready for Preschool Vol. 1",
         "url": "https://open.spotify.com/album/7EmFGJEsdiXwYZACc5wy2o"
       },
@@ -3574,7 +3596,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 87530,
       "name": "Sh-Sh-Sh-Shapes",
       "url": "https://open.spotify.com/track/3x6WKRRJY5ccuXZcu4O8Rd"
@@ -4152,7 +4174,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 154803,
       "name": "The Hero Inside",
       "url": "https://open.spotify.com/track/2E8CnvqCshMmOMNL8EH4QD"
@@ -4192,7 +4214,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 69893,
       "name": "The Lily Pad Blues",
       "url": "https://open.spotify.com/track/4SZV2hSDowhBrswUlhP51I"
@@ -4688,7 +4710,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 150840,
       "name": "Way Out - \"Miles From Tomorrowland\" Theme",
       "url": "https://open.spotify.com/track/1lMU6VynSYhXb6tfVWHDWm"

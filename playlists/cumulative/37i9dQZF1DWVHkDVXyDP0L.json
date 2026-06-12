@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: RAGEFLOWER",
+  "description": "New and local indie noise. Cover: South Summit",
   "name": "Local Noise",
   "tracks": [
     {
@@ -596,7 +596,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 207206,
       "name": "All For Nothing",
       "url": "https://open.spotify.com/track/337Prs8OIwpMmsyO26QCPE"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 179485,
       "name": "Attention",
       "url": "https://open.spotify.com/track/2hywpEEjU5tqMrUPZD0vfi"
@@ -7257,6 +7257,24 @@
     },
     {
       "album": {
+        "name": "Hurracane",
+        "url": "https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185572,
+      "name": "Hurracane",
+      "url": "https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc"
+    },
+    {
+      "album": {
         "name": "Forgiving Spree",
         "url": "https://open.spotify.com/album/4K6yiQ5TlZyqXU4TTHqWgl"
       },
@@ -7380,6 +7398,24 @@
       "duration_ms": 166588,
       "name": "I HATE RICH CUNTS",
       "url": "https://open.spotify.com/track/12cPzoY08JZVx7JnJNtGak"
+    },
+    {
+      "album": {
+        "name": "I Killed Satan",
+        "url": "https://open.spotify.com/album/6Lnf993SBZvxQoJGVKzp7r"
+      },
+      "artists": [
+        {
+          "name": "Battlesnake",
+          "url": "https://open.spotify.com/artist/2jrvVsbr886ElfLO355U3y"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210951,
+      "name": "I Killed Satan",
+      "url": "https://open.spotify.com/track/2yLodN25W5PJVheWxj7Dtz"
     },
     {
       "album": {
@@ -9113,6 +9149,24 @@
     },
     {
       "album": {
+        "name": "Lunch Money",
+        "url": "https://open.spotify.com/album/5d1OI49ZAH9m7aOICesn0G"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216208,
+      "name": "Lunch Money",
+      "url": "https://open.spotify.com/track/4JZGQcEMSJq4U0j438uNds"
+    },
+    {
+      "album": {
         "name": "Good At Avoiding",
         "url": "https://open.spotify.com/album/0fboYok1cz3aEAerkTdu1T"
       },
@@ -9304,7 +9358,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 280547,
       "name": "Mantis",
       "url": "https://open.spotify.com/track/4H7gZWrCfKN4Yc8HMGvmNw"
@@ -10284,6 +10338,24 @@
       "duration_ms": 115971,
       "name": "New Pet",
       "url": "https://open.spotify.com/track/2BcR8vY2MMNMALVQQQN7L7"
+    },
+    {
+      "album": {
+        "name": "RUN IT BACK",
+        "url": "https://open.spotify.com/album/0PSuvb9N4opuNDBsMOKcRN"
+      },
+      "artists": [
+        {
+          "name": "South Summit",
+          "url": "https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "NEW WORLD",
+      "url": "https://open.spotify.com/track/2z4h97jzhrbUuDmGuVGTpn"
     },
     {
       "album": {
@@ -11883,6 +11955,24 @@
     },
     {
       "album": {
+        "name": "Marginalia",
+        "url": "https://open.spotify.com/album/24tPRjQC2xJJBHiQlu65ot"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178455,
+      "name": "Quiet When You\u2019re Listening",
+      "url": "https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg"
+    },
+    {
+      "album": {
         "name": "GODSPEED",
         "url": "https://open.spotify.com/album/7CUuQk7lCT1Stgs5bqt9hY"
       },
@@ -11984,7 +12074,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 179712,
       "name": "Ratbags!",
       "url": "https://open.spotify.com/track/3bw1WOeyPscl722tsPEcDT"
@@ -12460,6 +12550,24 @@
       "duration_ms": 116202,
       "name": "Rocketship",
       "url": "https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG"
+    },
+    {
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/7GYagap5OF6hoaGyfHCzLc"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/3sWBZQBdlKzc5HedwrSBo9"
     },
     {
       "album": {
@@ -13450,7 +13558,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 201666,
       "name": "Silver Bullet",
       "url": "https://open.spotify.com/track/5kePuQb32DnG04KanvphDW"
@@ -15026,7 +15134,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 143400,
       "name": "Talking to Ghosts",
       "url": "https://open.spotify.com/track/0AVnIiTL0DFJ7mnfEVTlly"

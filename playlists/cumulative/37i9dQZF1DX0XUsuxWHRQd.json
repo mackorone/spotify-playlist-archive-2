@@ -18785,6 +18785,24 @@
     },
     {
       "album": {
+        "name": "Block Music",
+        "url": "https://open.spotify.com/album/60JjM21U15tdaMbiYv3naR"
+      },
+      "artists": [
+        {
+          "name": "Shawnna",
+          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202760,
+      "name": "Gettin' Some",
+      "url": "https://open.spotify.com/track/4uNisev7PGUAixBOagpgyY"
+    },
+    {
+      "album": {
         "name": "Ghetto",
         "url": "https://open.spotify.com/album/4Z8QeomU8aaUTATnF8STy3"
       },

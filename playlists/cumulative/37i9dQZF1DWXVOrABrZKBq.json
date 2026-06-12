@@ -6392,8 +6392,12 @@
       },
       "artists": [
         {
-          "name": "Merci Manon & LeDji",
-          "url": "https://open.spotify.com/artist/5EypuNhqwPmbbebtA2OA7a"
+          "name": "Merci Manon",
+          "url": "https://open.spotify.com/artist/7tg2NaDZgB7xRlFuRGtlsy"
+        },
+        {
+          "name": "LeDji",
+          "url": "https://open.spotify.com/artist/0u4SuQvBKJ7zwNWT3RWkph"
         },
         {
           "name": "Nawfal",
@@ -7210,12 +7214,16 @@
       },
       "artists": [
         {
-          "name": "OPUS CREW x faust.opcm",
-          "url": "https://open.spotify.com/artist/25X8XWhUn6C72BVjEr0uyv"
+          "name": "Opus Crew",
+          "url": "https://open.spotify.com/artist/5Mfsm0jJWnltGxluaz7Wnp"
         },
         {
           "name": "Linkrust",
           "url": "https://open.spotify.com/artist/3W6MD03BtPEx7yJnj9jT2z"
+        },
+        {
+          "name": "faust.opcm",
+          "url": "https://open.spotify.com/artist/2N6VZ1YQa8TPTYpE6L6gtK"
         }
       ],
       "date_added": "2026-06-05",

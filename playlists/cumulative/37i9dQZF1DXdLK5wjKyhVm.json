@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Place to Stay",
+        "url": "https://open.spotify.com/album/63mSg4SXxk0PmXpyfFFSLU"
+      },
+      "artists": [
+        {
+          "name": "Moonloop",
+          "url": "https://open.spotify.com/artist/4mHQKN5WYx4x5Ynwx91ZGg"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133781,
+      "name": "A Place to Stay",
+      "url": "https://open.spotify.com/track/5QSUKfdV3a8TnxMSszYx55"
+    },
+    {
+      "album": {
         "name": "Adam & Eve",
         "url": "https://open.spotify.com/album/3f4VKn62ZlxpULUeacSGlm"
       },
@@ -1548,7 +1566,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 151310,
       "name": "coffee club",
       "url": "https://open.spotify.com/track/6rYskggFhg7dnBn4XmcOzV"
@@ -2520,7 +2538,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 158666,
       "name": "empty heads",
       "url": "https://open.spotify.com/track/78CZWFmBaPAWNmm1k14Vis"
@@ -4991,6 +5009,24 @@
     },
     {
       "album": {
+        "name": "luna",
+        "url": "https://open.spotify.com/album/0Ulqx3t5v6zQUNANppe9C4"
+      },
+      "artists": [
+        {
+          "name": "herbstreit",
+          "url": "https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138500,
+      "name": "luna",
+      "url": "https://open.spotify.com/track/2iYVFJqf0xytX4otStZztD"
+    },
+    {
+      "album": {
         "name": "Luna's Room",
         "url": "https://open.spotify.com/album/5maaezf8bjRFduUW2ozZFF"
       },
@@ -5206,6 +5242,24 @@
       "duration_ms": 131124,
       "name": "Marbles",
       "url": "https://open.spotify.com/track/4JwQjAOrGDCQEpySgCAEtl"
+    },
+    {
+      "album": {
+        "name": "marina",
+        "url": "https://open.spotify.com/album/3V0g5TBn21mP3ScYWfq6b5"
+      },
+      "artists": [
+        {
+          "name": "nurse noir",
+          "url": "https://open.spotify.com/artist/3d777CYj1CxUWukg7Btbxm"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144237,
+      "name": "marina",
+      "url": "https://open.spotify.com/track/1wQIfNYmTjt1TCuPKqrbKH"
     },
     {
       "album": {
@@ -6160,7 +6214,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 125234,
       "name": "oldkeys",
       "url": "https://open.spotify.com/track/6Dle7iZGTOyVzbxpvsKTi1"
@@ -6764,7 +6818,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 125714,
       "name": "Rainseat",
       "url": "https://open.spotify.com/track/7Aw4NIhyuW9hyF5WxtKN9m"
@@ -7190,7 +7244,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 124113,
       "name": "Sail Setter",
       "url": "https://open.spotify.com/track/2zdcTEiOSuMUM3ZoO32o1q"
@@ -8068,7 +8122,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 129428,
       "name": "Still Peel",
       "url": "https://open.spotify.com/track/42iHmiI473J28DeSQkde0h"

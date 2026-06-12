@@ -4,7 +4,7 @@
 
 > Listen to the best Rock musics🔥.
 
-515 songs - 1 day 7 hr 13 min
+516 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,6 +466,7 @@
 | [Trap](https://open.spotify.com/track/6BGMw6koS4faW3o7gUyD6I) | [ASTRAVERA](https://open.spotify.com/artist/2XNoKrX4h4fUqj6bxjgweI) | [Trap](https://open.spotify.com/album/1yDKB1oslJBiCboLKpvzYx) | 4:46 | 2025-07-19 |  |
 | [Trattore elettrico](https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Trattore elettrico](https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq) | 3:39 | 2025-04-16 |  |
 | [Tu veux du fric](https://open.spotify.com/track/1K8iNo9h6XliHQirVWga5H) | [Cody Blackstone](https://open.spotify.com/artist/5GqF0wXj5zyOE5O5gcOkqC) | [Instant T](https://open.spotify.com/album/4PuvykWwdBaxjdxNSkoX2f) | 3:06 | 2025-04-06 |  |
+| [Ultima Chance De Virar](https://open.spotify.com/track/3K8D93J8zi3wtDqYy7eBe9) | [Andre Thanatos](https://open.spotify.com/artist/2WYOgSQsYe0F3Xr8JzDRyC) | [O Som do Quase](https://open.spotify.com/album/5niCm6FwwaokTRXcuaVVNB) | 4:56 | 2026-06-11 |  |
 | [Uncertainty \- revised](https://open.spotify.com/track/4pTwIHwtiJES57SAxoMK0a) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr) | [Uncertainty \(revised\)](https://open.spotify.com/album/5ExbRMcir2PK3XZUdym4Ez) | 3:12 | 2025-08-01 |  |
 | [Uptown](https://open.spotify.com/track/5RStUYyaXhOaTW99Od0xXS) | [DJ Miles](https://open.spotify.com/artist/4GlTgnPHAlEzkUFMHADol3) | [Sunset Groove \(Vol 2\)](https://open.spotify.com/album/5OB8D1L2NFFkQYoJX71ULm) | 2:01 | 2025-08-01 |  |
 | [Us Against the World](https://open.spotify.com/track/4BWQQ0rIQUNkJ9Evz9BKDO) | [Mynxx](https://open.spotify.com/artist/5mECqG3e91RUoOxLoXUDOX) | [Us Against the World](https://open.spotify.com/album/4yeMzfM9s7GVBy4CoEn5q1) | 3:01 | 2025-05-16 |  |

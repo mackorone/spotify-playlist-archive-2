@@ -1949,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "Das allerletzte Mal",
+        "url": "https://open.spotify.com/album/67khZPkN7ogkVg871EOkM7"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "Das allerletzte Mal",
+      "url": "https://open.spotify.com/track/0QCqpJMIFxBXwJ7uVPx48T"
+    },
+    {
+      "album": {
         "name": "Man On The Moon: The End Of Day (Int'l Version)",
         "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
       },
@@ -1968,6 +1986,28 @@
       "duration_ms": 281746,
       "name": "Day 'N' Nite - Crookers Remix",
       "url": "https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e"
+    },
+    {
+      "album": {
+        "name": "Dein Ex",
+        "url": "https://open.spotify.com/album/7DE5WS1wrGhbihrOsvXErZ"
+      },
+      "artists": [
+        {
+          "name": "VACEUS",
+          "url": "https://open.spotify.com/artist/6qljWnORzJ53TDIjEZUejw"
+        },
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160814,
+      "name": "Dein Ex",
+      "url": "https://open.spotify.com/track/4yeGkxl3AX6duKvU1mk3Jj"
     },
     {
       "album": {
@@ -3183,6 +3223,28 @@
     },
     {
       "album": {
+        "name": "Girl Dinner",
+        "url": "https://open.spotify.com/album/0jMdcj5k0s2VTW8P0WptQl"
+      },
+      "artists": [
+        {
+          "name": "Robbensohn",
+          "url": "https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf"
+        },
+        {
+          "name": "Milli",
+          "url": "https://open.spotify.com/artist/6Rqtw9iL1TvPQgJJNu1tx3"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143846,
+      "name": "Girl Dinner",
+      "url": "https://open.spotify.com/track/5ByU1TXNh8wkeDcpdULcyi"
+    },
+    {
+      "album": {
         "name": "Girl You Know It's True (Remix)",
         "url": "https://open.spotify.com/album/7JnXqGSQeMlboWuJpNGJAS"
       },
@@ -3512,7 +3574,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 164750,
       "name": "HERZ MACHT BAMM",
       "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
@@ -4112,7 +4174,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 140326,
       "name": "J\u00dcRGEN KLINSMANN",
       "url": "https://open.spotify.com/track/7tq1Vmap2HLusP6b5rO1y2"
@@ -5208,7 +5270,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 127515,
       "name": "milf",
       "url": "https://open.spotify.com/track/4PM8wADJ21uw2I5wvSUGvA"
@@ -5692,6 +5754,24 @@
       "duration_ms": 219870,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/1eUkZEhwbZkkhNfgA1qVyA"
+    },
+    {
+      "album": {
+        "name": "noch einmal",
+        "url": "https://open.spotify.com/album/24LtM9ddmmk9EEBdEBz8Bz"
+      },
+      "artists": [
+        {
+          "name": "2 Engel & Charlie",
+          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153614,
+      "name": "noch einmal",
+      "url": "https://open.spotify.com/track/4X5miU9XyqLBNVzuo7Vo0W"
     },
     {
       "album": {
@@ -8220,7 +8300,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
@@ -8544,7 +8624,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 137837,
       "name": "Zelten auf Kies",
       "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"
@@ -8584,7 +8664,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 128974,
       "name": "Zukunft",
       "url": "https://open.spotify.com/track/0g1joZDeT7BuxCf9bwl1v0"

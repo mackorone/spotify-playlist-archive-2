@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PTGGjeMigF.md) - [plain]
 
 > Enjoy the SEVENTEEN world tour \[RIGHT HERE\] LIVE SET including the voices of them on stage! \(세븐틴의 무대 멘트와 목소리가 포함된 \[RIGHT HERE\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,005 likes - 30 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,008 likes - 30 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PTGGjeMigF.md) - [plain]
 | 4 | [RIGHT HERE Stage Ment 1](https://open.spotify.com/track/6L0aAnBCyhM7xnmAKspQkE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN RIGHT HERE WORLD TOUR Audio Liners](https://open.spotify.com/album/6gFtZnroIh0aYrHkSdCZjp) | 11:28 |
 | 5 | [Ash](https://open.spotify.com/track/5kc5p2mwO2GFq93zw5ZFWV) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Face the Sun](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:21 |
 | 6 | [Crush](https://open.spotify.com/track/68kHuoBxtNcWZWxBu1V007) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Attacca](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 2:49 |
-| 7 | [Water](https://open.spotify.com/track/1DQGGkXu9SIwWiK5uuBvcO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 2:31 |
+| 7 | [Water](https://open.spotify.com/track/1DQGGkXu9SIwWiK5uuBvcO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SPILL THE FEELS](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 2:31 |
 | 8 | [Monster](https://open.spotify.com/track/1RMnVmHGSvxlexnenQEXSb) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEENTH HEAVEN](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 2:39 |
-| 9 | [Rain](https://open.spotify.com/track/6rp55IcEsq3nJgTc0kMa0h) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:20 |
+| 9 | [Rain](https://open.spotify.com/track/6rp55IcEsq3nJgTc0kMa0h) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SPILL THE FEELS](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:20 |
 | 10 | [Lilili Yabbay](https://open.spotify.com/track/55M6WlPDc8WID9UcmWjbYM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [TEEN, AGE](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:31 |
-| 11 | [Candy](https://open.spotify.com/track/3CEm0R0huTRT1IcxYhuTWv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:03 |
+| 11 | [Candy](https://open.spotify.com/track/3CEm0R0huTRT1IcxYhuTWv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SPILL THE FEELS](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:03 |
 | 12 | [Cheers to youth](https://open.spotify.com/track/1XvOEvWtfa879Wk1wKHZ1M) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [17 IS RIGHT HERE](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:11 |
 | 13 | [Our dawn is hotter than day](https://open.spotify.com/track/2EGRE8lyfRRGuq7spra3eR) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [YOU MAKE MY DAY](https://open.spotify.com/album/5VmjGHq779chFVL7dgLbyo) | 3:32 |
 | 14 | [Not Alone \(Korean Ver.\)](https://open.spotify.com/track/1cqUmROW9Pxm7bCNYcQg7i) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [17 IS RIGHT HERE](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:18 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PTGGjeMigF.md) - [plain]
 | 18 | [Ima \-Even if the world ends tomorrow\- \(Korean Ver.\)](https://open.spotify.com/track/2NSCKPxS53FFgIOgiMAFZy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [17 IS RIGHT HERE](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:11 |
 | 19 | [RIGHT HERE Stage Ment 2](https://open.spotify.com/track/0HZzsLkfCluYMEZY2pSbSZ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN RIGHT HERE WORLD TOUR Audio Liners](https://open.spotify.com/album/6gFtZnroIh0aYrHkSdCZjp) | 7:02 |
 | 20 | [Home](https://open.spotify.com/track/2Zp4i8aIXc1dGoP7m1wOpa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [YOU MADE MY DAWN](https://open.spotify.com/album/2Ng7FzZoNzpj4z8VRDHyb5) | 3:23 |
-| 21 | [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 |
+| 21 | [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SPILL THE FEELS](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 |
 | 22 | [RIGHT HERE Stage Ment 3](https://open.spotify.com/track/4L23CD3Uow1hdXFOYiXnV3) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN RIGHT HERE WORLD TOUR Audio Liners](https://open.spotify.com/album/6gFtZnroIh0aYrHkSdCZjp) | 7:01 |
 | 23 | [March](https://open.spotify.com/track/5Av3flFGhQPu960OvjeNhm) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Face the Sun](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:16 |
 | 24 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [FML](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 |

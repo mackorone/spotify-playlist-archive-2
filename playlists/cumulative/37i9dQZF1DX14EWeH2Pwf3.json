@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Artie 5ive in cover della playlist urban pi\u00f9 grande d'Italia \ud83d\udd25",
+  "description": "Tony Boy in cover della playlist urban pi\u00f9 grande d'Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -1551,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/3mFxzu5rkiqHh8P6xqJc7B"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154625,
+      "name": "AL\u00d2",
+      "url": "https://open.spotify.com/track/7HTOxu5M1b9zYUj7CGsK4K"
+    },
+    {
+      "album": {
         "name": "Musica Triste",
         "url": "https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN"
       },
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 122627,
       "name": "ANCELOTTI",
       "url": "https://open.spotify.com/track/4UFP9J6zLvb6rnkXByjYtH"
@@ -2124,6 +2142,28 @@
       "duration_ms": 205307,
       "name": "Armato (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/6fgLw0VwPmQtjSmvfCVC6u"
+    },
+    {
+      "album": {
+        "name": "Arricchiti (feat. Gu\u00e8)",
+        "url": "https://open.spotify.com/album/5r8qz3XZd9YULzc47y8Nd5"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155268,
+      "name": "Arricchiti (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/7agE2kK4XZnjRrbwnVJV1T"
     },
     {
       "album": {
@@ -3120,7 +3160,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 126947,
       "name": "BERLUSCONI",
       "url": "https://open.spotify.com/track/0Ur1Orl66Xij0d36vLuHj4"
@@ -4589,6 +4629,24 @@
     },
     {
       "album": {
+        "name": "Capricci",
+        "url": "https://open.spotify.com/album/2XCmtiGZTLdRWaLrjLwbTA"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "Capricci",
+      "url": "https://open.spotify.com/track/5gdDKOwfOXRkGV7yx6mNWU"
+    },
+    {
+      "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/4dVaqGJejR0tcnwIgdaWpJ"
       },
@@ -4808,7 +4866,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 201391,
       "name": "Cattive Abitudini \ud807\udfe0 (con Salmo, Colapesce)",
       "url": "https://open.spotify.com/track/7DE2ngDnQgLQM43PeKrAoG"
@@ -6217,7 +6275,7 @@
     },
     {
       "album": {
-        "name": "Cuore rotto (feat. Finesse)",
+        "name": "Cuore rotto",
         "url": "https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9"
       },
       "artists": [
@@ -6234,7 +6292,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 140000,
-      "name": "Cuore rotto (feat. Finesse)",
+      "name": "Cuore rotto",
       "url": "https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN"
     },
     {
@@ -8798,7 +8856,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 172031,
       "name": "Fredda come l'inferno",
       "url": "https://open.spotify.com/track/7L5upZvE5pdCQveaZbvk8K"
@@ -11512,7 +11570,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 200869,
       "name": "L'astronauta",
       "url": "https://open.spotify.com/track/5SKziDfyRfyHgqjvDFWcJ9"
@@ -12958,7 +13016,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 139647,
       "name": "Mai",
       "url": "https://open.spotify.com/track/4VLr4Esg0hHSVoNjs19u3u"
@@ -16259,6 +16317,32 @@
     },
     {
       "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/3mFxzu5rkiqHh8P6xqJc7B"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Quest",
+          "url": "https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187529,
+      "name": "OLTRE ALLA COLLINA (feat. Tedua, Quest)",
+      "url": "https://open.spotify.com/track/1MwLLJdkaI4hmB0jbPOvK0"
+    },
+    {
+      "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
       },
@@ -18281,6 +18365,24 @@
     },
     {
       "album": {
+        "name": "PORTANDO IL PESO",
+        "url": "https://open.spotify.com/album/358cLvndXP5cbPIvg2o5uw"
+      },
+      "artists": [
+        {
+          "name": "Visino Bianco",
+          "url": "https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "portando il peso",
+      "url": "https://open.spotify.com/track/1shB1wr5n1OPA5hMbUm0GH"
+    },
+    {
+      "album": {
         "name": "Incubi",
         "url": "https://open.spotify.com/album/10SKT9rzO48WQRmzzmjstN"
       },
@@ -18844,7 +18946,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 173613,
       "name": "Quando Voglio",
       "url": "https://open.spotify.com/track/25KME3ppdakx670F46k124"
@@ -19884,6 +19986,32 @@
       "duration_ms": 123762,
       "name": "Scama",
       "url": "https://open.spotify.com/track/4yoixiIoVeayqPFfAxIYo1"
+    },
+    {
+      "album": {
+        "name": "SCARAFAGGI (feat. Danno)",
+        "url": "https://open.spotify.com/album/6enXFlrDWOOlhMaZmg3qIJ"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159574,
+      "name": "SCARAFAGGI (feat. Danno)",
+      "url": "https://open.spotify.com/track/4cgGC1Zyv1FwgikPYdxDe9"
     },
     {
       "album": {
@@ -22068,7 +22196,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 146070,
       "name": "Tik Tak",
       "url": "https://open.spotify.com/track/1EcleequgzPMvN9EvA9R0j"

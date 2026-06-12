@@ -3181,6 +3181,24 @@
     },
     {
       "album": {
+        "name": "Nampenda Bwana",
+        "url": "https://open.spotify.com/album/5pJs0mBsYBmZUTENIQMIx9"
+      },
+      "artists": [
+        {
+          "name": "Moji Shortbabaa",
+          "url": "https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Nampenda Bwana",
+      "url": "https://open.spotify.com/track/2Xcr13VQX7RBswpBtO19Xg"
+    },
+    {
+      "album": {
         "name": "Nangoja",
         "url": "https://open.spotify.com/album/2xFzZjxc6ULZEOv1JPTk9M"
       },
@@ -6632,6 +6650,24 @@
       "duration_ms": 970500,
       "name": "Yesu Tu",
       "url": "https://open.spotify.com/track/1y7pd47wfMl8bnoBPyJXLv"
+    },
+    {
+      "album": {
+        "name": "Yoyo",
+        "url": "https://open.spotify.com/album/03VvutM1txcETp75KZwHE8"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Yoyo",
+      "url": "https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXa9bqOzK42BZ"

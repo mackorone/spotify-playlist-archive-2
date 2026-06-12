@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,806,076 likes - 203 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,806,771 likes - 203 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 202 | [Nightflora](https://open.spotify.com/track/2OLP1fGXBb3Jhizk1WWCad) | [Nimara](https://open.spotify.com/artist/7CXl2o7bsSWCVfw670J1TZ) | [Nightflora](https://open.spotify.com/album/1ZydkZqgSTyHlG5NzZTUQD) | 2:14 |
 | 203 | [Effortless Elevation](https://open.spotify.com/track/6KRvdB6Z22sVh2bWsUygpV) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Effortless Elevation](https://open.spotify.com/album/17Vojtcm2uTAqFjfbOySRI) | 2:26 |
 
-Snapshot ID: `AAAAAEdJxKIBMv+u6bEMTrVbJ8SLYreB`
+Snapshot ID: `AAAAAOE1nRFqyad6f0UATR7+FeXvxt/Q`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by GAGG E, D Freek & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,761 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,769 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 37 | [HM CONTESSA](https://open.spotify.com/track/6aefMJaRlZQvyZsf5Sz6VN) | [Ishrant Pandit](https://open.spotify.com/artist/4vyK3QxD8ZsVgPdcW83Vn3) | [HM CONTESSA](https://open.spotify.com/album/136cWgUrTdS1jDd8hBzP55) | 2:54 |
 | 38 | [Leave Home](https://open.spotify.com/track/1y5AOofUxkIGc9JckAOXYM) | [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [Leave Home](https://open.spotify.com/album/2U0o2KPHZ4EhBfQmO80PBG) | 2:27 |
 | 39 | [Rebel](https://open.spotify.com/track/6JHCz2iCn7Arxxx0GRBSov) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bermuda Triangle](https://open.spotify.com/album/6a7nrbUhXwFEJQ1xWCbNnh) | 1:56 |
-| 40 | [Dream Chaser](https://open.spotify.com/track/5tO4Y0hhF3Vc2WMnQM958H) | [Gurman](https://open.spotify.com/artist/7swUmsKVJJiB1ntYlPZyAp), [Rav Dhaliwal](https://open.spotify.com/artist/2x2eS4kR5UBsnuOPqXi9IN) | [Dream Chaser](https://open.spotify.com/album/4sdyRwSVw4CQroTz7gIG5e) | 2:24 |
+| 40 | [Dream Chaser](https://open.spotify.com/track/5tO4Y0hhF3Vc2WMnQM958H) | [Gurman](https://open.spotify.com/artist/7swUmsKVJJiB1ntYlPZyAp), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [Dream Chaser](https://open.spotify.com/album/4sdyRwSVw4CQroTz7gIG5e) | 2:24 |
 | 41 | [D.F.T](https://open.spotify.com/track/34tq8JvImP4ya5Ho3lakC7) | [Mukul Verma](https://open.spotify.com/artist/7CoPUqZrA6s6x8Iqa4eY6H), [Shivocx](https://open.spotify.com/artist/67JPexZh8hfYOvnPTAoB4r) | [D.F.T](https://open.spotify.com/album/14t8tsOkXdLc0lN3NiF6jq) | 2:22 |
 | 42 | [Do You Know](https://open.spotify.com/track/5juF7jhd6srtRaLmIvj2l3) | [Partap Kakra](https://open.spotify.com/artist/2f5dZwnkq6LIHv0TXlUJAz) | [Do You Know](https://open.spotify.com/album/2QwCGZNGT0VYVt718i8UOD) | 2:41 |
 | 43 | [Can't Rush](https://open.spotify.com/track/6M358wtdS6THkavlIpGcp3) | [Lv Nijjar](https://open.spotify.com/artist/2TVUSjd2MO6VokD436FPgB), [The Sam](https://open.spotify.com/artist/6ePsxI5AaumPoTJ8xnsQ7E), [Ohi Taran](https://open.spotify.com/artist/4DHNQaoF6bD7sF0ykHC9ZA) | [Can't Rush](https://open.spotify.com/album/5SABvFWChSMWYkZ3hFgXNb) | 2:28 |

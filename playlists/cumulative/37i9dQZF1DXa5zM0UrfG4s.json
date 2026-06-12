@@ -3985,6 +3985,24 @@
     },
     {
       "album": {
+        "name": "Her og no",
+        "url": "https://open.spotify.com/album/3UzSZqAsJtaE3fK504GEpB"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206022,
+      "name": "Her og no",
+      "url": "https://open.spotify.com/track/5MnPKJKEnNpwf3gzBitObq"
+    },
+    {
+      "album": {
         "name": "Her og n\u00e5",
         "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
       },
@@ -6638,7 +6656,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 210857,
       "name": "Pickup truck",
       "url": "https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists and labels every Wednesday\. Cover: Mirar
+> New music by the heaviest independent artists and labels every Wednesday\. Cover: Our Chronicle
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,628 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,676 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 49 | [Gigantic Parasite Tongue](https://open.spotify.com/track/4Bv4jUCR08CSoDQRqhIPdT) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Gigantic Parasite Tongue](https://open.spotify.com/album/3Hq9OZHYIsZYrpitjtO9EH) | 4:17 |
 | 50 | [Aftermath](https://open.spotify.com/track/77vlVBy2iasW2jiiLlp3te) | [Portal\-Hex](https://open.spotify.com/artist/3zV1v3t3Vo7SmZp4Ex5mFl) | [Aftermath](https://open.spotify.com/album/6uHmy5T2n3zGQF8HDqyC1b) | 4:46 |
 
-Snapshot ID: `AAAAAJre2IAzrOMvAfITkDOt8iWGxO4T`
+Snapshot ID: `AAAAAGBTTK+3PyLTixpPZwOt/pQ4U6y+`

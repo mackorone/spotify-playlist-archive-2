@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Rayi Putra, Farrel Hilal
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Kaleb J
 
-262 songs - 15 hr 25 min
+265 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Apa Kabar](https://open.spotify.com/track/57AzzQHGqd9QO0eBCzfq0W) | [Radhini](https://open.spotify.com/artist/7KwNYf1K0Qt3sV7DtVHWcU) | [Apa Kabar](https://open.spotify.com/album/3tQx2RPsvOKCJ02ETZ3hR9) | 3:11 | 2025-01-23 | 2025-10-17 |
 | [Arti Kehidupan](https://open.spotify.com/track/0SGcJpFys6vSrSMPMpMBdC) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Loving You Like This](https://open.spotify.com/album/3davMx4cy50svq19sHjvhI) | 3:36 | 2025-11-27 |  |
 | [Baby \(Let Me Go\)](https://open.spotify.com/track/1SHu7U29GaqDQscph7k8Ha) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Latinka](https://open.spotify.com/artist/6ns8FM7VeO27uESowfbvx2), [Nael Larumunde](https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O) | [Baby \(Let Me Go\)](https://open.spotify.com/album/3TqYCWuv8yVfBwzDE0xJ0H) | 4:08 | 2025-02-14 | 2025-08-01 |
-| [baby baby](https://open.spotify.com/track/4tpuIKc3GVRxlUmOTSjO1l) | [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [baby baby](https://open.spotify.com/album/366EcV8N6cVuZ0QYZ5Yia7) | 2:15 | 2026-03-05 |  |
+| [baby baby](https://open.spotify.com/track/4tpuIKc3GVRxlUmOTSjO1l) | [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [baby baby](https://open.spotify.com/album/366EcV8N6cVuZ0QYZ5Yia7) | 2:15 | 2026-03-05 | 2026-06-12 |
 | [Baby July](https://open.spotify.com/track/10Yqzw7epmxfTzbZ03p1zX) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Baby July](https://open.spotify.com/album/3rrJ11EUeMVmCB7UkHOe3y) | 3:19 | 2025-07-31 |  |
 | [Back 2 You](https://open.spotify.com/track/5io7Qe2zh7px5elpRJk5oC) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Back 2 You](https://open.spotify.com/album/3XR3yBBYAP8Kq5q1Vh6j7p) | 2:37 | 2025-09-18 | 2026-02-06 |
 | [BACK 2 YOU](https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [BACK 2 YOU](https://open.spotify.com/album/2c7Osih348dWoitmLUvVAh) | 3:41 | 2025-09-18 |  |
@@ -92,6 +92,7 @@
 | [Game 4 2](https://open.spotify.com/track/7CbXF4RZUPoQyEdAlY3QkZ) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Game 4 2](https://open.spotify.com/album/6WZkKEJEhTO1F8kP81flBp) | 5:01 | 2025-06-26 | 2025-10-24 |
 | [Game For Two](https://open.spotify.com/track/1F5Oci0fJkRxcIFNMuHoJn) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [Game For Two](https://open.spotify.com/album/5KYHeW8EoSYqFXji9DuV4c) | 3:38 | 2025-03-20 | 2025-08-01 |
 | [Gelora Bertemu](https://open.spotify.com/track/3nErXdVzREIXdSxxMuPaYL) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Gelora Bertemu](https://open.spotify.com/album/309Xx2lM5PhrOk3pBaNXt9) | 4:02 | 2024-10-03 | 2025-05-02 |
+| [Gerilya Cinta](https://open.spotify.com/track/3KY5EGVVpbacFw79dpricc) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Gerilya Cinta](https://open.spotify.com/album/03BZzhN6nhvK2mHB8Bjmtf) | 3:08 | 2026-06-11 |  |
 | [Glow](https://open.spotify.com/track/6xWfKqMv4ebAIVGYbvo7o4) | [Wizzy](https://open.spotify.com/artist/3nFxNn6bmS2fT5WMgF87Ls) | [Glow](https://open.spotify.com/album/05rZ3AQMXe6OwkU53QoCPy) | 3:00 | 2025-08-07 | 2026-04-10 |
 | [GOAT](https://open.spotify.com/track/1ARGO5jcbNkka0uGRaIa3S) | [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [GOAT](https://open.spotify.com/album/4aNePmRNnjTOVh3PgqtNxT) | 2:15 | 2026-06-04 |  |
 | [GODSENT](https://open.spotify.com/track/5yB61NwWlnkl4bhkSt9U58) | [Ave](https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A), [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [GODSENT](https://open.spotify.com/album/0dCT0a09AvxePqgaenF3l1) | 3:04 | 2026-05-21 |  |
@@ -115,7 +116,7 @@
 | [I DON'T WANNA \(BE YOU\)](https://open.spotify.com/track/2WCMo9QlX9wxYhMPNS7OiF) | [Gavendri](https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w) | [I DON'T WANNA \(BE YOU\)](https://open.spotify.com/album/0neAOjh7pob5T9hroLg3Pz) | 3:18 | 2026-04-23 |  |
 | [I Got It](https://open.spotify.com/track/4Ls4LzbMz0EeOzAU56SOQZ) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [I Got It](https://open.spotify.com/album/08lXeWhZXYVe6SSVF7EFxX) | 3:00 | 2025-02-14 | 2025-08-01 |
 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 | 2025-07-17 | 2026-03-06 |
-| [i'm still here](https://open.spotify.com/track/5eMUGXMkukhd4GUB5aENaF) | [BLINGOUTKID](https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN) | [i'm still here](https://open.spotify.com/album/1fAms58lBFVczbL1ZYD8xy) | 3:00 | 2026-03-12 |  |
+| [i'm still here](https://open.spotify.com/track/5eMUGXMkukhd4GUB5aENaF) | [BLINGOUTKID](https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN) | [i'm still here](https://open.spotify.com/album/1fAms58lBFVczbL1ZYD8xy) | 3:00 | 2026-03-12 | 2026-06-12 |
 | [Ibukota](https://open.spotify.com/track/3qQAJe7GwWt0r4Aa19Jorf) | [Traffic Jam](https://open.spotify.com/artist/1CNVTPOO0uV2uXIILfHMPM) | [Ibukota](https://open.spotify.com/album/1LhKzOU1Kxeg2HxrOm6TCS) | 3:30 | 2025-10-02 |  |
 | [If Only](https://open.spotify.com/track/5igPUqZAso9bMHVCpS5USI) | [The Skuy](https://open.spotify.com/artist/2SunSofBVWqLykk0g7aQ1z) | [If Only](https://open.spotify.com/album/7jiLRF1NvlGC2Acr3d7okL) | 4:01 | 2025-10-09 | 2026-02-13 |
 | [Issa Goodbye](https://open.spotify.com/track/3YaA4d6ukGO85nWrukkFae) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Issa Goodbye](https://open.spotify.com/album/1nJyDbakUhIJnOfhbcg0jx) | 3:36 | 2024-10-03 | 2025-05-02 |
@@ -131,6 +132,7 @@
 | [Kamu Lagi](https://open.spotify.com/track/5iEExVSeZBQc5sbUv1JxlT) | [Chelsea Tilford](https://open.spotify.com/artist/2gf6zGKR3WeY9DrWcnkLo8) | [Kamu Lagi](https://open.spotify.com/album/0gx3y0XlQ86q4ITqEqPdy0) | 2:45 | 2026-03-05 |  |
 | [Kau Pilih Dia](https://open.spotify.com/track/1BupzCNunldnbAHPi7yChV) | [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH), [Mas Jordan](https://open.spotify.com/artist/60DER02sQPfuD32Y5e5LC1), [Malikoendang](https://open.spotify.com/artist/5F8bwX8A27eKQp8FZw0fZI) | [Kau Pilih Dia](https://open.spotify.com/album/2fiSKPE4Ki58GVOnlwjcfR) | 4:01 | 2024-10-03 | 2026-05-08 |
 | [Kau Yang Ku Tunggu](https://open.spotify.com/track/3cfcNcSHFCocpMJuKaKBIy) | [4Forty](https://open.spotify.com/artist/2iPl5vIjxypuXafk4mxLZi), [Bona Pascal](https://open.spotify.com/artist/0ujG1cBXUHF00YhR8pT4MS) | [Kau Yang Ku Tunggu](https://open.spotify.com/album/4alohhT5dEehzGyTpmkYZN) | 4:43 | 2026-05-21 |  |
+| [kebal sakit](https://open.spotify.com/track/4w4kSuOL6kqhZLckNXunzv) | [Rieru Shindou](https://open.spotify.com/artist/1c8xMWXPJl4Wlp7YMzfLvJ) | [kebal sakit](https://open.spotify.com/album/2OtZ1ZkJuH62Zk6XeinGH6) | 3:30 | 2026-06-11 |  |
 | [Keliling](https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Keliling](https://open.spotify.com/album/3q9Q1LA1ZWOVeH4oITyTPx) | 2:59 | 2026-03-12 |  |
 | [Keluh](https://open.spotify.com/track/4YCEwufcKpKulCa6tJlAjD) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Dreane](https://open.spotify.com/album/0dbhJr4XSB9SRuYB8sTnmi) | 2:38 | 2025-06-05 | 2025-10-24 |
 | [Kembali](https://open.spotify.com/track/76yvmHDxe0lISOmgDsDV3X) | [Christo Edgar](https://open.spotify.com/artist/7i2vbzCSBa8v9jj9BG4jLz), [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ) | [Kembali](https://open.spotify.com/album/3iO4HlncpgrtG0VFvoSxKp) | 2:51 | 2025-05-22 | 2025-10-10 |
@@ -207,6 +209,7 @@
 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 | 2024-10-03 | 2026-05-22 |
 | [Safe Spot](https://open.spotify.com/track/50y0uV8SoSDYslBNZTKlhY) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Safe Spot](https://open.spotify.com/album/55Xq0PeZm8bR3Aimi8xayS) | 3:52 | 2025-09-18 | 2026-06-05 |
 | [Salah Paham](https://open.spotify.com/track/75itNZTt1HF4CdfxAr0Ld1) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Salah Paham](https://open.spotify.com/album/3hFH41buob1oT4Lyf7Cf8k) | 3:27 | 2025-10-24 | 2026-02-20 |
+| [salah paham \(lagi\)](https://open.spotify.com/track/4Hv3IiRfNraG3pWYgL7F72) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ), [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [salah paham \(lagi\)](https://open.spotify.com/album/4IAe0xHPY58mIyDRpYdq17) | 3:28 | 2026-06-11 |  |
 | [Sampai Kita Jadi Tua](https://open.spotify.com/track/1NnEN2eunhro9y6BMkcGPj) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Sampai Kita Jadi Tua](https://open.spotify.com/album/1jlvdtwI733LB4iOPyPN5p) | 3:34 | 2024-10-03 | 2025-05-30 |
 | [Satellites](https://open.spotify.com/track/0Zrz6L9L4tPxsxLvOU22iZ) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [Satellites](https://open.spotify.com/album/0hZQAfI8flXYmK4PgonzzI) | 3:39 | 2026-03-27 |  |
 | [Satu Hari Tanpa Kita](https://open.spotify.com/track/511lgmyXJ2BApxUU6mKAYd) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Satu Hari Tanpa Kita](https://open.spotify.com/album/0aJ7G5YyWHt2kWG9kOxxKZ) | 4:32 | 2025-07-17 | 2025-11-21 |
@@ -227,7 +230,7 @@
 | [Sini](https://open.spotify.com/track/6hc5Ryshu6sdcJSShDQc8F) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Sini](https://open.spotify.com/album/312vsgcSCjvlPvKVriVXQg) | 3:58 | 2024-10-03 |  |
 | [Siratan](https://open.spotify.com/track/2TNQiEVrgQhwj3akf8nPhz) | [Haira](https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db) | [Nuansa Romansa](https://open.spotify.com/album/4VXfamSWSkK2CTv6hUPImL) | 3:45 | 2025-05-29 | 2025-11-14 |
 | [Siren Song](https://open.spotify.com/track/5yYHvzPuaSHrzP6TncTjjD) | [Dennis Linggar](https://open.spotify.com/artist/4Ht5zocCwfIenYeBolxXxt), [JPecs](https://open.spotify.com/artist/2RaLCgWRwHSBJySoMVZi1U) | [Siren Song](https://open.spotify.com/album/1BiUsd9jcyUGAPlJqyoPXZ) | 3:00 | 2026-05-01 |  |
-| [Slow Ride](https://open.spotify.com/track/48RtOdZydalAcG5S8LkgiY) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [Slow Ride](https://open.spotify.com/album/0TydQJLAnqnm5rJzGbp640) | 2:48 | 2026-03-27 |  |
+| [Slow Ride](https://open.spotify.com/track/48RtOdZydalAcG5S8LkgiY) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [Slow Ride](https://open.spotify.com/album/0TydQJLAnqnm5rJzGbp640) | 2:48 | 2026-03-27 | 2026-06-12 |
 | [SO ASU](https://open.spotify.com/track/56TRhAB4SqpRn5NdqHSAFy) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [SO ASU](https://open.spotify.com/album/00r0dUE6PBHPNVsBsddH7t) | 2:36 | 2025-10-09 |  |
 | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/track/4y5HTa0xfMGORsMhy26n3X) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/album/2XgJC0WVIe0cyDvdIQO19u) | 4:41 | 2024-12-13 |  |
 | [Someday Somewhere Someplace Somehow](https://open.spotify.com/track/5iW3qqHG5YUOA2cM2Aw23h) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [Someday Somewhere Someplace Somehow](https://open.spotify.com/album/5RkP7eRvPKleO6u6GHbrAP) | 4:22 | 2024-10-03 | 2025-10-17 |

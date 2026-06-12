@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 282834,
+  "num_followers": 282858,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
+        "name": "If You Could Be My Sweetheart",
+        "url": "https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt"
+      },
+      "artists": [
+        {
+          "name": "Chad Harrison",
+          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "If You Could Be My Sweetheart",
+      "url": "https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
         "name": "Courvoisier",
         "url": "https://open.spotify.com/album/1Jt3GNK0Dg7YZqKvF68kRu"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 147104,
       "name": "Courvoisier",
       "url": "https://open.spotify.com/track/2Ma2iAaH8Q8OhbXUsg95sN"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
-        "name": "If You Could Be My Sweetheart",
-        "url": "https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt"
-      },
-      "artists": [
-        {
-          "name": "Chad Harrison",
-          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "If You Could Be My Sweetheart",
-      "url": "https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5KLQOtW3tmMLCdMx16UGVv"
-      },
-      "artists": [
-        {
-          "name": "DJ Q",
-          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
-        },
-        {
-          "name": "K Dot",
-          "url": "https://open.spotify.com/artist/76jXqVvxWJNHFGF5DDkVjb"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/5EkR9ususo4utxW0hdYjv0"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
         "name": "Excuses / Dem Ones",
         "url": "https://open.spotify.com/album/0zxktwa5kjbYbfI0PZFf4K"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 277787,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/4cNwGH7jW3oXpu4ZLxyF2X"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5KLQOtW3tmMLCdMx16UGVv"
+      },
+      "artists": [
+        {
+          "name": "DJ Q",
+          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
+        },
+        {
+          "name": "K Dot",
+          "url": "https://open.spotify.com/artist/76jXqVvxWJNHFGF5DDkVjb"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/5EkR9ususo4utxW0hdYjv0"
     },
     {
       "added_at": "2026-05-29 11:02:46",

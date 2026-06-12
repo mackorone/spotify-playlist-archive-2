@@ -6959,6 +6959,28 @@
     },
     {
       "album": {
+        "name": "Chroniques terrestres, Vol. 2",
+        "url": "https://open.spotify.com/album/0KIS7MHEcUoYxmQFzsPN3T"
+      },
+      "artists": [
+        {
+          "name": "Voyou",
+          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
+        },
+        {
+          "name": "Tuerie",
+          "url": "https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203053,
+      "name": "Hula Hoop (feat. Tuerie)",
+      "url": "https://open.spotify.com/track/6C5SCWr6dl6XrPbMqweqee"
+    },
+    {
+      "album": {
         "name": "Humains apr\u00e8s tout",
         "url": "https://open.spotify.com/album/32C0qziCh9lCnOujTtF3gd"
       },

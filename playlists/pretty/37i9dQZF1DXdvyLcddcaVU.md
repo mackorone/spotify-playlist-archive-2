@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,434 likes - 79 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,561 likes - 79 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sexy Nana](https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Sexy Nana](https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30) | 2:36 |
-| 2 | [Pangor](https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP) | [Djaksparo](https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA) | [Pangor](https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt) | 2:01 |
+| 2 | [Pangor \(Swalalala\)](https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP) | [Djaksparo](https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA) | [Pangor \(Swalalala\)](https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt) | 2:01 |
 | 3 | [Maladie](https://open.spotify.com/track/4zPb5wNcdTy15BgBvRVNYM) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/6UAi4kLruZxXwJbo5aDJ1Q) | 3:12 |
 | 4 | [Paris](https://open.spotify.com/track/3kql0qldZ3x5qUxwmUgYGa) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [RESTART](https://open.spotify.com/album/6AjfJo32ltHVnKEhHrnz0L) | 2:52 |
 | 5 | [Pineapple](https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Pineapple](https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx) | 2:40 |

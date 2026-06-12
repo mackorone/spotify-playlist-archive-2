@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Ayşe Hatun Önal
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,635 likes - 61 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,636 likes - 61 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 60 | [Yalnızlık Senfonisi \- Hamam Sessions](https://open.spotify.com/track/3S4FaMhDIyh6OONlKroZMl) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Yalnızlık Senfonisi \(Hamam Sessions\)](https://open.spotify.com/album/7ALaAoGFRHzZQOfe45bzQp) | 4:10 |
 | 61 | [Tam İstediğim Gibisin \- Canlı @Vaha Studios](https://open.spotify.com/track/6Tu6r306ixLd5468JJUTBL) | [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l) | [Tam İstediğim Gibisin \(Canlı @Vaha Studios\)](https://open.spotify.com/album/0OfrzjkC30RQPK079vZCgk) | 3:36 |
 
-Snapshot ID: `AAAAAIqfNhpYCfHjoaee+k8Z+97o111/`
+Snapshot ID: `AAAAALAi9nJHKzdSu+uWcbOKdgZGkFWN`

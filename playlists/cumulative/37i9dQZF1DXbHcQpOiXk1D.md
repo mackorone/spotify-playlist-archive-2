@@ -2,9 +2,9 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: corto.alto
+> The best from Britain's vibrant scene\. Cover: Yazmin Lacey
 
-814 songs - 2 day 8 hr 39 min
+815 songs - 2 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,7 +613,7 @@
 | [Soar](https://open.spotify.com/track/7F8HGHuxgKJ6ISlbX2NJuW) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Uniri](https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA) | [Soar](https://open.spotify.com/album/5FLNHUP6N4lNCGbQdd6Vdu) | 2:34 | 2024-02-02 | 2024-04-13 |
 | [Soften](https://open.spotify.com/track/3X9yLXt2yAbeCwTUc6dyVU) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Soften](https://open.spotify.com/album/0bDHHs74NH4n7Ta8TwfzlP) | 4:11 | 2026-05-14 |  |
 | [Some Rain Must Fall](https://open.spotify.com/track/7bXGshtzy2q4qfndkageDQ) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Where Light Settles](https://open.spotify.com/album/12zXswD56NoDPTM8zlR9Co) | 5:50 | 2026-05-14 |  |
-| [Something Blues](https://open.spotify.com/track/4rCFwBw0zbsUZ3LYA9gqvA) | [Tanhai Collective](https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73) | [Something Blues](https://open.spotify.com/album/2hWRAC4tDLgUskaJAu8kex) | 5:07 | 2025-08-07 |  |
+| [Something Blues](https://open.spotify.com/track/4rCFwBw0zbsUZ3LYA9gqvA) | [Tanhai Collective](https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73) | [Something Blues](https://open.spotify.com/album/2hWRAC4tDLgUskaJAu8kex) | 5:07 | 2025-08-07 | 2026-06-12 |
 | [Something I Said](https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2) | 3:16 | 2022-07-28 | 2022-10-02 |
 | [Something I Said](https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R) | 3:16 | 2022-10-14 | 2024-01-13 |
 | [something will happen](https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [something will happen](https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC) | 2:59 | 2024-05-09 | 2025-03-07 |
@@ -662,6 +662,7 @@
 | [Sweet Nirvana](https://open.spotify.com/track/4up8iER7w4bFgY7Ta2bnXR) | [Immy](https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7) | [Sweet Nirvana](https://open.spotify.com/album/6mCbs9E7goC0O7Ktv1l6M0) | 3:08 | 2023-12-22 | 2024-06-15 |
 | [Sweet Shop](https://open.spotify.com/track/66LXZLB5neVWhdeEx56qjS) | [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Sweet Shop](https://open.spotify.com/album/5BN6H5RXllnqNrRmt0cthQ) | 3:50 | 2021-12-17 | 2022-05-27 |
 | [sweet wurli](https://open.spotify.com/track/3SMt4rUCBTQUEDwtpGZv71) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [sweet wurli](https://open.spotify.com/album/5GkioWixxU8los60AvybaX) | 3:03 | 2021-12-17 | 2022-07-28 |
+| [Sweetest Season](https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Sweetest Season](https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U) | 2:50 | 2026-06-11 |  |
 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 | 2025-04-10 |  |
 | [Sydney](https://open.spotify.com/track/1Xfa2TNdqr5GpzrCMs8AT0) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [Awake You Lie](https://open.spotify.com/album/5oBL12HIjoMOIqfGKSXU9Z) | 4:28 | 2022-03-08 | 2022-03-09 |
 | [Sydney](https://open.spotify.com/track/5ITvU6QiEjeijrPBruWK0o) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [Sydney](https://open.spotify.com/album/74cFr1mhloboC2kfMb6B8R) | 4:28 | 2022-03-24 | 2022-04-19 |

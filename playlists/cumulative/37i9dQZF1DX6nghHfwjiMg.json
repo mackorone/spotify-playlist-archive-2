@@ -1595,6 +1595,28 @@
     },
     {
       "album": {
+        "name": "EL TESORO PERDIDO",
+        "url": "https://open.spotify.com/album/2UDGaQCkSR4TeGnQ05sdIX"
+      },
+      "artists": [
+        {
+          "name": "C\u00edgaro",
+          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
+        },
+        {
+          "name": "Cocodrilo P&B",
+          "url": "https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150322,
+      "name": "EL TESORO PERDIDO",
+      "url": "https://open.spotify.com/track/0zF8LdXJHaIJwu1ChfMzDq"
+    },
+    {
+      "album": {
         "name": "Emblema",
         "url": "https://open.spotify.com/album/2MXupQ2U7M4KdPyxGx7INp"
       },
@@ -2948,7 +2970,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 172592,
       "name": "Lluvioso",
       "url": "https://open.spotify.com/track/2Ls7UJ3wbTOQrDkyvZALwo"
@@ -3323,6 +3345,28 @@
     },
     {
       "album": {
+        "name": "Me Vas A Arruinar La Vida",
+        "url": "https://open.spotify.com/album/4m8n48maT7XkU3oUvY7IOt"
+      },
+      "artists": [
+        {
+          "name": "143leti",
+          "url": "https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr"
+        },
+        {
+          "name": "Roxxee",
+          "url": "https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152859,
+      "name": "Me Vas A Arruinar La Vida",
+      "url": "https://open.spotify.com/track/4bgC68HZdpSTcieiuO98yA"
+    },
+    {
+      "album": {
         "name": "MECHA",
         "url": "https://open.spotify.com/album/4Zj1zVjvxbCxnsdmN8gnfV"
       },
@@ -3426,6 +3470,24 @@
       "duration_ms": 266203,
       "name": "Mi Propio Para\u00edso",
       "url": "https://open.spotify.com/track/3JYUCQOHCkbvnZLZjpRQxc"
+    },
+    {
+      "album": {
+        "name": "Miedo a Perder",
+        "url": "https://open.spotify.com/album/11L5tAiqwL0yphZ8otsuvG"
+      },
+      "artists": [
+        {
+          "name": "esperanzah.",
+          "url": "https://open.spotify.com/artist/1vRM1MjuevPK5oTTYOoZS6"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162470,
+      "name": "Miedo a Perder",
+      "url": "https://open.spotify.com/track/6aFnCfH43VO2yRNTzXT3lg"
     },
     {
       "album": {
@@ -4186,7 +4248,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 164705,
       "name": "OKUPAS",
       "url": "https://open.spotify.com/track/1JFOzm5blyqrenJCWaUDQs"
@@ -4800,7 +4862,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 171826,
       "name": "QU\u00c9 IMPORTA",
       "url": "https://open.spotify.com/track/5nzoLQgpSa9bwXFva3FhHE"

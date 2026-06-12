@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Arches ",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: MIDNIGHT COWBOY",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 187835,
       "name": "1 step at a time",
       "url": "https://open.spotify.com/track/5OWPByz3yIouPj6rmFBZIE"
+    },
+    {
+      "album": {
+        "name": "10 Feet Tall",
+        "url": "https://open.spotify.com/album/1Fl4U0Sl946aR4jIduAMbu"
+      },
+      "artists": [
+        {
+          "name": "Mr Koo",
+          "url": "https://open.spotify.com/artist/63Jj7uHeJZ9ygXaesiq6MF"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216917,
+      "name": "10 Feet Tall",
+      "url": "https://open.spotify.com/track/3Wbz6JRkIOv0tQgVGFzkIE"
     },
     {
       "album": {
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 175536,
       "name": "Artemis",
       "url": "https://open.spotify.com/track/5QGBYinMzaEQzdGLEkt2VI"
@@ -3556,7 +3574,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 120961,
       "name": "crave",
       "url": "https://open.spotify.com/track/4q64ngXLP3jM1OfGNPN7PH"
@@ -3922,7 +3940,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 147500,
       "name": "Dear Frosty",
       "url": "https://open.spotify.com/track/1zHgBwJ9tJXIewPPv8qved"
@@ -7518,7 +7536,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 183605,
       "name": "HOLD ME CLOSE",
       "url": "https://open.spotify.com/track/6VLbzl504TVmnw8P4MCwvC"
@@ -7540,6 +7558,42 @@
       "duration_ms": 181721,
       "name": "hold on",
       "url": "https://open.spotify.com/track/1tOoCgu8aSXnB7eJxrKulV"
+    },
+    {
+      "album": {
+        "name": "Hold on, hold on",
+        "url": "https://open.spotify.com/album/4UEyLVnQfG243jzNbsqJGu"
+      },
+      "artists": [
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157661,
+      "name": "Hold on, hold on",
+      "url": "https://open.spotify.com/track/1TbP7GUO4DdTDHW9VWXEuH"
+    },
+    {
+      "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/7M80eK7ZSZKxJPafg0Oa9p"
+      },
+      "artists": [
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214841,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/4VbtOuJBkhR8WPSp8CTSDl"
     },
     {
       "album": {
@@ -8076,7 +8130,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 217197,
       "name": "I Don't Like Me",
       "url": "https://open.spotify.com/track/1MFbS9WwBlQgCXfTqMp8U4"
@@ -9236,7 +9290,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 177757,
       "name": "Jingle Bop",
       "url": "https://open.spotify.com/track/1gGmwi5ZgsPEBJHTjiFBoL"
@@ -11325,6 +11379,24 @@
     },
     {
       "album": {
+        "name": "I Give Up",
+        "url": "https://open.spotify.com/album/1J5WBtEink75FpyXwZPf9g"
+      },
+      "artists": [
+        {
+          "name": "Juniper Care",
+          "url": "https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256381,
+      "name": "May Babies",
+      "url": "https://open.spotify.com/track/0RXBMkuiiFPO9PX8mC3Otn"
+    },
+    {
+      "album": {
         "name": "Mayhem",
         "url": "https://open.spotify.com/album/0UHaYY78EnwiDxGZ2HzYcV"
       },
@@ -13194,6 +13266,24 @@
       "duration_ms": 172235,
       "name": "OG (\u539f\u4f86\u7684\u5e7c\u7a1a)",
       "url": "https://open.spotify.com/track/5FjssN5oHpyTxyEnScTrqK"
+    },
+    {
+      "album": {
+        "name": "No Smoking Club (for animals)",
+        "url": "https://open.spotify.com/album/4p05k3JGN98hfkFdrYcP00"
+      },
+      "artists": [
+        {
+          "name": "Science Noodles",
+          "url": "https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Oh I Love You,oh I Do - for animals",
+      "url": "https://open.spotify.com/track/7nMjlmygrrk9v8mbY1E5z8"
     },
     {
       "album": {
@@ -16001,6 +16091,24 @@
     },
     {
       "album": {
+        "name": "Shy Away",
+        "url": "https://open.spotify.com/album/60sV27UR1E0AQsEcPAGXxV"
+      },
+      "artists": [
+        {
+          "name": "COPAK",
+          "url": "https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245856,
+      "name": "Shy Away",
+      "url": "https://open.spotify.com/track/6si3gqiANd1aEuX6SclGTq"
+    },
+    {
+      "album": {
         "name": "Sick And Tired",
         "url": "https://open.spotify.com/album/6mO84EaybYVN9XlkSHPQOb"
       },
@@ -16118,7 +16226,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 234610,
       "name": "Simone Rocha Thug",
       "url": "https://open.spotify.com/track/2X99rzpKtPdSbFiSHljUZA"
@@ -20464,7 +20572,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 196776,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/5JmDcBEAvOQJ5m4nx3AF9S"
@@ -22359,6 +22467,24 @@
     },
     {
       "album": {
+        "name": "\u4f62\u4f62\u4f62",
+        "url": "https://open.spotify.com/album/6ZSEXHkCxfQdSQfgXMVTvz"
+      },
+      "artists": [
+        {
+          "name": "MIDNIGHT COWBOY",
+          "url": "https://open.spotify.com/artist/1yA9oQkytFUpfFdnppJnIC"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118088,
+      "name": "\u4f62\u4f62\u4f62",
+      "url": "https://open.spotify.com/track/7tQ51rBIX1CZf8hxfdBek5"
+    },
+    {
+      "album": {
         "name": "\u4fc4\u7f85\u65af\u5957\u5a03",
         "url": "https://open.spotify.com/album/3nf6gzVG3xePPlqqUA20g0"
       },
@@ -23268,6 +23394,24 @@
       "duration_ms": 230357,
       "name": "\u539f\u4f86\u767c\u73fe",
       "url": "https://open.spotify.com/track/7MNkxlV4Oj4OgEOS0RfQRs"
+    },
+    {
+      "album": {
+        "name": "\u539f\u5730\u6d88\u5931",
+        "url": "https://open.spotify.com/album/6O15ST0SmR4tPiYGqGZPsc"
+      },
+      "artists": [
+        {
+          "name": "Chancharlie",
+          "url": "https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290191,
+      "name": "\u539f\u5730\u6d88\u5931",
+      "url": "https://open.spotify.com/track/2JiOdHNcYRCaUnHhJYIozr"
     },
     {
       "album": {
@@ -24840,7 +24984,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 319260,
       "name": "\u5c0f\u8c46\u5cf6 Shodoshima",
       "url": "https://open.spotify.com/track/00c5ijgAuEUHOgzQi0wtW3"
@@ -27264,7 +27408,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 251219,
       "name": "\u6709\u6642\u5019 Sometimes",
       "url": "https://open.spotify.com/track/5JCRM4tFTAVqWDyChuzXoJ"
@@ -29002,7 +29146,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 230270,
       "name": "\u7169\u60f1\u5403\u6389\u767d\u65e5\u5922",
       "url": "https://open.spotify.com/track/05FRKsVTxx4oigV33g1dFg"
@@ -31122,7 +31266,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 141913,
       "name": "\u9053\u5225\u5f8c\u6709\u7a7a\u9593\u6574\u7406",
       "url": "https://open.spotify.com/track/1IZMZOt5GGjmmXY9OI9tOi"
@@ -31532,7 +31676,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 544000,
       "name": "\u96ea\u570b",
       "url": "https://open.spotify.com/track/2ycEK1Haz9TXjNNwYs2Hgm"

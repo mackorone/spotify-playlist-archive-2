@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-303 songs - 19 hr 52 min
+304 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Acércate](https://open.spotify.com/track/2azYY9f1jGswkxs2nfO9E9) | [Karims](https://open.spotify.com/artist/7EFb6T1OU7uXKO44eVZSPv), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Dj Chiqui Dubs](https://open.spotify.com/artist/26C0KVcIbuJQdOP2r9MYin) | [Acércate](https://open.spotify.com/album/2SzHwNth8hDFwvt78CJmdP) | 3:49 | 2022-05-06 | 2022-07-28 |
 | [Agua Nueva](https://open.spotify.com/track/0SNOtKlYtfNzv0fg0gdBCh) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Agua Nueva](https://open.spotify.com/album/5LztDzrA8CF02H92LddtOl) | 3:42 | 2022-05-06 | 2025-10-01 |
 | [Ahora Lo Sé](https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Ahora Lo Sé](https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC) | 4:16 | 2023-08-03 | 2024-07-20 |
-| [Al Final](https://open.spotify.com/track/0pc8uz5erBUl2LEgBQuVg0) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Mentiras Lado B](https://open.spotify.com/album/5WLuDZiaytqLtMQwqQ09Rv) | 2:48 | 2022-07-01 |  |
+| [Al Final](https://open.spotify.com/track/0pc8uz5erBUl2LEgBQuVg0) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Mentiras Lado B](https://open.spotify.com/album/5WLuDZiaytqLtMQwqQ09Rv) | 2:48 | 2022-07-01 | 2026-06-12 |
 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 | 2022-05-06 |  |
 | [Algo Mejor](https://open.spotify.com/track/68gpEjXas61xmdZin01DcQ) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Algo Mejor](https://open.spotify.com/album/7xyf2OQgFuQnwbvaCi8QwX) | 3:58 | 2022-05-06 | 2022-07-29 |
 | [Algo mejor \- Remastered](https://open.spotify.com/track/0iITTpeIsR2NQIv1QiIkKx) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:58 | 2022-07-01 | 2024-04-19 |
@@ -272,6 +272,7 @@
 | [Todo Se Detiene \- Remix](https://open.spotify.com/track/3GEatKHlv5dxiJfmLOmdUB) | [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [Kitra](https://open.spotify.com/artist/5FXik3bAr5hw3toDNlr0Qk) | [Todo Se Detiene \(Remix\)](https://open.spotify.com/album/3hSigS5dtdOpIoFCQfY2bT) | 3:15 | 2022-07-01 | 2022-07-24 |
 | [Todo Tiene Su Tiempo](https://open.spotify.com/track/1TyyXiIMIL0yhYQqv5GfUs) | [Mamma Motta](https://open.spotify.com/artist/49C3kSJ3U0It8eGGwXWzrF) | [Elevándote](https://open.spotify.com/album/1AzhzZ8JOMRL0bOMzhdF8H) | 4:51 | 2022-05-06 | 2022-07-26 |
 | [Torito](https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Torito](https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4) | 3:16 | 2022-05-06 |  |
+| [Trenchtown rock](https://open.spotify.com/track/4XYPh5gOB5cj02SE0NEig8) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Sergio Rotman](https://open.spotify.com/artist/5LIztkABrgk6Qzb7XUSaSA), [Soul Reggae](https://open.spotify.com/artist/0pid9Vzg6fTn41JwVIVCJB) | [Soul Reggae](https://open.spotify.com/album/0ilGytXUMqHh6DPYQSmFqk) | 3:38 | 2026-06-12 |  |
 | [Trinchera](https://open.spotify.com/track/2FkXL4Apgf4gSUYsr8HVK5) | [Moral Distraida](https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv) | [Trinchera](https://open.spotify.com/album/5mU3SDcjGeeljvFj85pLa4) | 4:24 | 2022-07-01 | 2024-09-28 |
 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 | 2022-05-06 |  |
 | [Tu Meta](https://open.spotify.com/track/1tDqJHfDFQzlkc4lsOsjME) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Tu Meta](https://open.spotify.com/album/38gfEqVNccvnpezMwBkWky) | 4:48 | 2022-05-06 | 2022-08-25 |

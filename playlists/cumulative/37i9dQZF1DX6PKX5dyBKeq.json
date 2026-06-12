@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Pozer",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: K-Trap, Young Adz",
   "name": "Rap UK",
   "tracks": [
     {
@@ -8331,6 +8331,28 @@
     },
     {
       "album": {
+        "name": "CAN'T SAY NO",
+        "url": "https://open.spotify.com/album/6rYTovwPPhceDNj70ZBUOA"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Young Adz",
+          "url": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176703,
+      "name": "CAN'T SAY NO",
+      "url": "https://open.spotify.com/track/7abSTQbiSxP8sI3S0by8no"
+    },
+    {
+      "album": {
         "name": "Can't Sleep",
         "url": "https://open.spotify.com/album/0M3d3V9MMgDnUzcXZPhxNI"
       },
@@ -9470,7 +9492,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 121714,
       "name": "Citrus",
       "url": "https://open.spotify.com/track/2C4vHzE0k8sLh3CqMffZMF"
@@ -12002,6 +12024,32 @@
       "duration_ms": 161682,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/6ELFxOoIfp4A0yK7wFEFsv"
+    },
+    {
+      "album": {
+        "name": "DID IT AGAIN",
+        "url": "https://open.spotify.com/album/4SAiYbnAeG0Y8jPJj51HbA"
+      },
+      "artists": [
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        },
+        {
+          "name": "Elzzz",
+          "url": "https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "DID IT AGAIN",
+      "url": "https://open.spotify.com/track/2MfWz9bUFvQyxK2lGygobj"
     },
     {
       "album": {
@@ -34116,7 +34164,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 131200,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/1s8of3zPu47Y4EtrNtaU4F"

@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 159582,
+  "num_followers": 159581,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALfp83R5m+AtWIFCrE8fua7o0kfI",
+  "snapshot_id": "AAAAAFCrHQQxRsQZ/g8wV2lVyz8+VkFP",
   "tracks": [
+    {
+      "added_at": "2026-06-12 04:00:23",
+      "album": {
+        "name": "Hurt Like Home",
+        "url": "https://open.spotify.com/album/4rrDizvv6BRc6DWXJKsWu9"
+      },
+      "artists": [
+        {
+          "name": "Sara Hartman",
+          "url": "https://open.spotify.com/artist/1Vx5fzRUd7A1j40B8E3Yqo"
+        }
+      ],
+      "duration_ms": 249377,
+      "name": "Hurt Like Home",
+      "url": "https://open.spotify.com/track/7MIegYUVaJAT6DwZ0pZfLD"
+    },
     {
       "added_at": "2026-03-20 04:00:40",
       "album": {

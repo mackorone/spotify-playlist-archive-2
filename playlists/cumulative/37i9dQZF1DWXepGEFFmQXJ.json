@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Lainey Wilson",
+  "description": "The cream of today's country crop. Cover: Wade Forster",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 299453,
       "name": "Anything But Me",
       "url": "https://open.spotify.com/track/0A1gnuKVww2zEcZcu7seyu"
@@ -4637,6 +4637,24 @@
     },
     {
       "album": {
+        "name": "Been There Done That",
+        "url": "https://open.spotify.com/album/7DctejlgEzk5lMv8H34l0B"
+      },
+      "artists": [
+        {
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179846,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3e98KFohMydiffbocGQgbH"
+    },
+    {
+      "album": {
         "name": "Crisco",
         "url": "https://open.spotify.com/album/70GWxgdMF8ybDcY4JX9SEE"
       },
@@ -4666,7 +4684,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 202359,
       "name": "CROOKED ROAD",
       "url": "https://open.spotify.com/track/47sb7pIsZeJ7v19Pcy8yZy"
@@ -9684,7 +9702,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 195332,
       "name": "Hurts Like You",
       "url": "https://open.spotify.com/track/1peocLBzSV3Nl3VI0ZSQcr"
@@ -20847,6 +20865,24 @@
     },
     {
       "album": {
+        "name": "Stages",
+        "url": "https://open.spotify.com/album/2QNByn9FQiPfOfqUQe4BzG"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242204,
+      "name": "Vaquero",
+      "url": "https://open.spotify.com/track/76VoxMKinufqqOnycLncAJ"
+    },
+    {
+      "album": {
         "name": "Walk a Straight Line",
         "url": "https://open.spotify.com/album/76fPezEx4UhZ7Tmh4Suefn"
       },
@@ -21400,6 +21436,24 @@
       "duration_ms": 185146,
       "name": "When I Ain't Lookin'",
       "url": "https://open.spotify.com/track/0des8iQjWbqSGkn89w7AWr"
+    },
+    {
+      "album": {
+        "name": "The Night Champion",
+        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206633,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/4u5XzrHO0w17YdLRBCEKrR"
     },
     {
       "album": {

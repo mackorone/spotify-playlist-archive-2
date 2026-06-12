@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43430,
+  "num_followers": 43431,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAauCcGogyQExDeKttmO/dyfan1/UWI",
+  "snapshot_id": "AAAaurQqhclWDdWe75nyUJB7E3IpltC2",
   "tracks": [
+    {
+      "added_at": "2026-06-12 04:00:47",
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/3e7zouZDtg0HxoB0t23EJb"
+      },
+      "artists": [
+        {
+          "name": "WAKE",
+          "url": "https://open.spotify.com/artist/7Jk1Iang46XcykdfRYK1al"
+        },
+        {
+          "name": "Luma",
+          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
+        }
+      ],
+      "duration_ms": 225521,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/1ikBG3dhSAhHarwUVW1CyQ"
+    },
+    {
+      "added_at": "2026-06-12 04:00:47",
+      "album": {
+        "name": "Crumbcore",
+        "url": "https://open.spotify.com/album/6U1ZiuIfbwGMdsdElavUpD"
+      },
+      "artists": [
+        {
+          "name": "Crumb Pit",
+          "url": "https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I"
+        }
+      ],
+      "duration_ms": 120454,
+      "name": "Don't Hit My Line",
+      "url": "https://open.spotify.com/track/77FfSlC9rCXmbSyLLoEjUI"
+    },
     {
       "added_at": "2026-06-05 04:00:47",
       "album": {

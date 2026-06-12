@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,205 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,206 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 | 41 | [Batonga](https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Logozo](https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw) | 4:36 |
 | 42 | [An African](https://open.spotify.com/track/1jxVp3UVwaRwB4EgSAFnIf) | [Idris Elba](https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [An African](https://open.spotify.com/album/3Z7hDe1tt7ThkDD1ssyjH2) | 2:35 |
 | 43 | [Sparrow](https://open.spotify.com/track/04UXkVSkHOs0mVYLjscGwM) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Shadow](https://open.spotify.com/album/4BQM4MfxSGAD5UKnTKRGiR) | 6:34 |
-| 44 | [The World Will Know](https://open.spotify.com/track/2cTSxcvyIXDwyorRLGpHFE) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [In Color: Part One](https://open.spotify.com/album/3fZ67qdEbXqdaGJP2uQhcg) | 3:44 |
-| 45 | [Ponto De Mutação \(feat\. Angélique Kidjo\)](https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Quanto Mais Curtido Melhor](https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX) | 4:15 |
+| 44 | [Ponto De Mutação \(feat\. Angélique Kidjo\)](https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Quanto Mais Curtido Melhor](https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX) | 4:15 |
+| 45 | [The World Will Know](https://open.spotify.com/track/2cTSxcvyIXDwyorRLGpHFE) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [In Color: Part One](https://open.spotify.com/album/3fZ67qdEbXqdaGJP2uQhcg) | 3:44 |
 | 46 | [Lon Lon](https://open.spotify.com/track/2OkyKCr8Mo41hwLBlzI9ci) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 4:54 |
 | 47 | [Biko](https://open.spotify.com/track/13s4gI9ikHbtRKXkYU4idI) | [Playing For Change](https://open.spotify.com/artist/645m90txZTycwJGdZTWscc), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Songs For Humanity](https://open.spotify.com/album/0VHLyRLc8JCXBPc1xKvsbR) | 6:05 |
-| 48 | [Fifa](https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Fifa](https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm) | 3:57 |
-| 49 | [Afirika](https://open.spotify.com/track/1EAZC4QpvwM5tbeZmoLun1) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 4:14 |
+| 48 | [Afirika](https://open.spotify.com/track/1EAZC4QpvwM5tbeZmoLun1) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 4:14 |
+| 49 | [Fifa](https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Fifa](https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm) | 3:57 |
 | 50 | [Keep Rising \- The Woman King](https://open.spotify.com/track/7iWpBQjJWsJJfm3g8GFi7I) | [Jessy Wilson](https://open.spotify.com/artist/16mVBCP9OKYqPuGlzS61uP), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Keep Rising \(The Woman King\)](https://open.spotify.com/album/1ekbLXEL0o8JQT9yX8piWJ) | 3:14 |
 
-Snapshot ID: `aidXgAAAAACoHP6LH4SF7DblLDZf1mRn`
+Snapshot ID: `aiipAAAAAAB7+6eOw16QypXQp8OZ1zsb`

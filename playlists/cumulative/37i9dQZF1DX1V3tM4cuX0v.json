@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 \u043d\u0430\u0439\u0433\u0430\u0440\u044f\u0447\u0456\u0448\u0438\u0445 \u043f\u0456\u0441\u0435\u043d\u044c \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Nikow",
+  "description": "50 \u043d\u0430\u0439\u0433\u0430\u0440\u044f\u0447\u0456\u0448\u0438\u0445 \u043f\u0456\u0441\u0435\u043d\u044c \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Jerry Heil",
   "name": "Hot Hits \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "tracks": [
     {
@@ -430,6 +430,24 @@
       "duration_ms": 224136,
       "name": "Cry For Me",
       "url": "https://open.spotify.com/track/7a0RHaJoqL2Sjf0gra68Pc"
+    },
+    {
+      "album": {
+        "name": "Dark Disco",
+        "url": "https://open.spotify.com/album/7Hq8LBMrhMHlhmNe9Z0Azd"
+      },
+      "artists": [
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213442,
+      "name": "Dark Disco",
+      "url": "https://open.spotify.com/track/3fsxkZeWu1EVSr9XcPtHkQ"
     },
     {
       "album": {
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 178824,
       "name": "Ridnym - Eurovision Version",
       "url": "https://open.spotify.com/track/44DemLB8ChS8AaN9haWsgU"
@@ -1681,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "\u0411\u043e\u0436\u0435, \u044f \u0432\u043a\u043e\u0445\u0430\u043b\u0430\u0441\u044f",
+        "url": "https://open.spotify.com/album/3ZpsZTCAm4QxRcWC5JaqDY"
+      },
+      "artists": [
+        {
+          "name": "SKYLERR",
+          "url": "https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177656,
+      "name": "\u0411\u043e\u0436\u0435, \u044f \u0432\u043a\u043e\u0445\u0430\u043b\u0430\u0441\u044f",
+      "url": "https://open.spotify.com/track/7DpVqdnyRcgxxgnyJX4qsh"
+    },
+    {
+      "album": {
         "name": "\u0411\u0443\u0440\u0435\u0432\u0456\u044f\u043c\u0438",
         "url": "https://open.spotify.com/album/7xOUWVVIMccfuLyUskG9eX"
       },
@@ -1700,6 +1736,24 @@
       "duration_ms": 227560,
       "name": "\u0411\u0443\u0440\u0435\u0432\u0456\u044f\u043c\u0438",
       "url": "https://open.spotify.com/track/0LydTnU3RQKbgMCKFWQ5nS"
+    },
+    {
+      "album": {
+        "name": "\u0411\u0406\u0422 \u0422\u0420\u0415\u041c\u0411\u0406\u0422",
+        "url": "https://open.spotify.com/album/7zQqGhAv8NAo9ip1xLTCbj"
+      },
+      "artists": [
+        {
+          "name": "\u041d\u0456\u043a\u0456\u0442\u0430 \u041a\u0456\u0441\u0435\u043b\u044c\u043e\u0432",
+          "url": "https://open.spotify.com/artist/0OK2yr1GTqeX6ND3TlWnAp"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217468,
+      "name": "\u0411\u0406\u0422 \u0422\u0420\u0415\u041c\u0411\u0406\u0422",
+      "url": "https://open.spotify.com/track/72O13xbRNI6TcTbeCIPRV5"
     },
     {
       "album": {
@@ -2210,7 +2264,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 232728,
       "name": "\u0417\u0430\u043b\u0438\u0448\u0430\u0439\u0441\u044f",
       "url": "https://open.spotify.com/track/4TGTna6ft6UaFobFf1FcHK"
@@ -3082,7 +3136,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 182035,
       "name": "\u041f\u0440\u0438\u0432\u0456\u0442. Hello",
       "url": "https://open.spotify.com/track/6hZJocUHCjpSmWOghwdHkL"

@@ -2735,6 +2735,24 @@
     },
     {
       "album": {
+        "name": "BLAIR - Spotify Sessions",
+        "url": "https://open.spotify.com/album/3i0tFySe2LNwrrMJ430gLT"
+      },
+      "artists": [
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273880,
+      "name": "Entre Can\u00edbales - Spotify Sessions",
+      "url": "https://open.spotify.com/track/52Ngz2qYhOtptQJHvebuea"
+    },
+    {
+      "album": {
         "name": "Tuy",
         "url": "https://open.spotify.com/album/1tVav7LGyDau9Ie7foUNgb"
       },
@@ -4654,7 +4672,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 362240,
       "name": "Los Salieris De Charly",
       "url": "https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj"
@@ -5786,6 +5804,24 @@
       "duration_ms": 206720,
       "name": "Nos Siguen Pegando Abajo",
       "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
+    },
+    {
+      "album": {
+        "name": "Nueva Marea",
+        "url": "https://open.spotify.com/album/2rm7VX2dPyvYkulFn2QxRY"
+      },
+      "artists": [
+        {
+          "name": "Pizza",
+          "url": "https://open.spotify.com/artist/5mPqQbrTKLRgUPNNVo47Cv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236128,
+      "name": "Nueva Marea",
+      "url": "https://open.spotify.com/track/2HEOllycvvFDBMfriflkmw"
     },
     {
       "album": {
@@ -7900,7 +7936,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 211992,
       "name": "Tu Encanto",
       "url": "https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol"
@@ -8270,7 +8306,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 218982,
       "name": "Una contra otra",
       "url": "https://open.spotify.com/track/5QLkrUv0GuJFDTWHB6iR9g"
@@ -8766,6 +8802,24 @@
       "duration_ms": 191469,
       "name": "\u00bfQu\u00e9 Vas A Hacer Tan Sola Hoy? - Spotify Singles",
       "url": "https://open.spotify.com/track/65Qjvcf4RFQPwwkz7T6l76"
+    },
+    {
+      "album": {
+        "name": "\u00daltima batalla",
+        "url": "https://open.spotify.com/album/4HrP70OUZyPCCpnuYqbNl6"
+      },
+      "artists": [
+        {
+          "name": "Ale Kurz",
+          "url": "https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224192,
+      "name": "\u00daltima batalla",
+      "url": "https://open.spotify.com/track/6VFptb4LlBvdQ98aOYIunR"
     },
     {
       "album": {

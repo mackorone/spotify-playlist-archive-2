@@ -211,6 +211,28 @@
     },
     {
       "album": {
+        "name": "+NOVO",
+        "url": "https://open.spotify.com/album/58PwqPXW8aXygdZq0EyBTn"
+      },
+      "artists": [
+        {
+          "name": "Bra\u00e3o",
+          "url": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
+        },
+        {
+          "name": "Ronni",
+          "url": "https://open.spotify.com/artist/4NpGJnEgJfK0ZHIcVWkNlj"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160083,
+      "name": "+NOVO",
+      "url": "https://open.spotify.com/track/0LcdTHNQ5wjGNxTlrPXO3V"
+    },
+    {
+      "album": {
         "name": "01 N\u00e3o \u00c9 02",
         "url": "https://open.spotify.com/album/2paL9EMEJaM0YAGGHSLvpl"
       },
@@ -6184,7 +6206,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 225103,
       "name": "Born Lost In My Era",
       "url": "https://open.spotify.com/track/4nbo93HAquVVHfikH1lawD"
@@ -8102,6 +8124,32 @@
       "duration_ms": 154285,
       "name": "Cbzn Session #04",
       "url": "https://open.spotify.com/track/2KCsWPi8vmAlWzaMFkGQXu"
+    },
+    {
+      "album": {
+        "name": "CE TEM MEDO DE MACUMBA?",
+        "url": "https://open.spotify.com/album/5TsFbmQxuFFx4MNFzsU3LZ"
+      },
+      "artists": [
+        {
+          "name": "bastos",
+          "url": "https://open.spotify.com/artist/42OnyjaPbpvwmMxWO8ll3W"
+        },
+        {
+          "name": "Vertigo",
+          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
+        },
+        {
+          "name": "Flexinz",
+          "url": "https://open.spotify.com/artist/44fWl4J6gokhzR44qChmio"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119937,
+      "name": "CE TEM MEDO DE MACUMBA?",
+      "url": "https://open.spotify.com/track/4CPOK53KHv02CoOTF4Vzmd"
     },
     {
       "album": {
@@ -10190,6 +10238,28 @@
       "duration_ms": 149910,
       "name": "CPF",
       "url": "https://open.spotify.com/track/2yfFKqdTeG9HvXnYvuc9lX"
+    },
+    {
+      "album": {
+        "name": "ugo.exe",
+        "url": "https://open.spotify.com/album/3mJbVw5GcZMpvldIdIquuH"
+      },
+      "artists": [
+        {
+          "name": "Ugovhb",
+          "url": "https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG"
+        },
+        {
+          "name": "loonyjetski",
+          "url": "https://open.spotify.com/artist/1TPQ578HtBYpfgpzNJIs93"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85128,
+      "name": "creepypasta",
+      "url": "https://open.spotify.com/track/6jZYyKtNL2yQGx61qf3WAW"
     },
     {
       "album": {
@@ -17696,7 +17766,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 130117,
       "name": "FREE MELLY",
       "url": "https://open.spotify.com/track/3hEI7WrviDaM1C3kbaWohU"
@@ -18124,7 +18194,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 153346,
       "name": "fuck w me",
       "url": "https://open.spotify.com/track/3LiiZTrpQTlRoQ9qFDFVF4"
@@ -19326,6 +19396,24 @@
       "duration_ms": 226909,
       "name": "HARD ROCK",
       "url": "https://open.spotify.com/track/6yoNYLJ7enbygKXF50Af72"
+    },
+    {
+      "album": {
+        "name": "HATER",
+        "url": "https://open.spotify.com/album/6RRUXGqtEZ3fktTPDbICyx"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119999,
+      "name": "HATER",
+      "url": "https://open.spotify.com/track/01FUn7iAIN8IRdMTPCP1aB"
     },
     {
       "album": {
@@ -21670,7 +21758,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 158375,
       "name": "KPeruana",
       "url": "https://open.spotify.com/track/3Kj9NvkBEHUXobIWjzX6xX"

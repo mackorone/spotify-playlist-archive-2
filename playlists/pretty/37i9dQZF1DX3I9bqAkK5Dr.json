@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Damini Bhatla, Manisha Eerabathini, Pho",
-  "num_followers": 44247,
+  "num_followers": 44260,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABc6ka7BNQ/cbDXSY88JpYiooRtT",
+  "snapshot_id": "AAAAADbwja9BXnAeXil84PQh6eg5QWAX",
   "tracks": [
     {
       "added_at": "2026-06-10 06:10:52",
@@ -33,6 +33,26 @@
       "url": "https://open.spotify.com/track/63D9vDB9RFoteyS2AgM0Jw"
     },
     {
+      "added_at": "2026-06-12 00:10:05",
+      "album": {
+        "name": "Chinuku Laaga Kurisi",
+        "url": "https://open.spotify.com/album/4a166Rh0km13lU8DLJtNWT"
+      },
+      "artists": [
+        {
+          "name": "Saicharan Bhaskaruni",
+          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
+        },
+        {
+          "name": "Shashank Bhaskaruni",
+          "url": "https://open.spotify.com/artist/6IwTtuEKKoggjUtPgcObwD"
+        }
+      ],
+      "duration_ms": 192656,
+      "name": "Chinuku Laaga Kurisi",
+      "url": "https://open.spotify.com/track/7omKsGRYfRTM3tuf2CCIr2"
+    },
+    {
       "added_at": "2026-06-10 06:10:52",
       "album": {
         "name": "Neelo Unna Shakti",
@@ -51,6 +71,38 @@
       "duration_ms": 334886,
       "name": "Neelo Unna Shakti",
       "url": "https://open.spotify.com/track/37N0pehYBuG4DGRdx3Q93u"
+    },
+    {
+      "added_at": "2026-06-12 00:10:05",
+      "album": {
+        "name": "Madhubala",
+        "url": "https://open.spotify.com/album/7vi9SXQBVm25vBkkimoj0i"
+      },
+      "artists": [
+        {
+          "name": "Sanskari",
+          "url": "https://open.spotify.com/artist/3aIui8O5th8gOzC0YRVN6R"
+        }
+      ],
+      "duration_ms": 256875,
+      "name": "Madhubala",
+      "url": "https://open.spotify.com/track/5o4kha1RHAiifURjebyaW5"
+    },
+    {
+      "added_at": "2026-06-12 00:10:05",
+      "album": {
+        "name": "Kaattey",
+        "url": "https://open.spotify.com/album/1WghfNsJYXtwDNSs7H1cvG"
+      },
+      "artists": [
+        {
+          "name": "brownkiddreams",
+          "url": "https://open.spotify.com/artist/2RJmN0J5H4v0i9SQ0wDrPY"
+        }
+      ],
+      "duration_ms": 120819,
+      "name": "Kaattey",
+      "url": "https://open.spotify.com/track/2e5S5dEUM4HVz53iffsTQr"
     },
     {
       "added_at": "2026-05-29 09:39:40",
@@ -1477,26 +1529,6 @@
       "url": "https://open.spotify.com/track/4uG8FKVfBaZ7AqK7z3gmEu"
     },
     {
-      "added_at": "2025-11-20 10:22:12",
-      "album": {
-        "name": "Thenela Vanala",
-        "url": "https://open.spotify.com/album/4C7gHf2uvW2pdbSfCrgLUS"
-      },
-      "artists": [
-        {
-          "name": "Veeha",
-          "url": "https://open.spotify.com/artist/6w4uvzVKaujaFJx6HokFBL"
-        },
-        {
-          "name": "Charan Arjun",
-          "url": "https://open.spotify.com/artist/75yCfkTG0b56BdrEhoNreg"
-        }
-      ],
-      "duration_ms": 180125,
-      "name": "Thenela Vanala",
-      "url": "https://open.spotify.com/track/0Tug4GRIUPSAPD3D5renfm"
-    },
-    {
       "added_at": "2026-01-16 18:30:21",
       "album": {
         "name": "Jabili Nene (Rewind)",
@@ -1669,30 +1701,6 @@
       "url": "https://open.spotify.com/track/15RHsBDuuYBP93t2GibTYF"
     },
     {
-      "added_at": "2025-11-21 06:19:37",
-      "album": {
-        "name": "Nene Ila",
-        "url": "https://open.spotify.com/album/4or2dpWYU3XqNEbssjOZQN"
-      },
-      "artists": [
-        {
-          "name": "Ayaan",
-          "url": "https://open.spotify.com/artist/6spST6ycDQVKJ7ErwvDsjS"
-        },
-        {
-          "name": "Aditi Bhavaraju",
-          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
-        },
-        {
-          "name": "Shravan Pakalapati",
-          "url": "https://open.spotify.com/artist/0BWC5EnVELcjkDBbsI2mtZ"
-        }
-      ],
-      "duration_ms": 354390,
-      "name": "Nene Ila",
-      "url": "https://open.spotify.com/track/4Pu8BNqEffuLFDvnpyIdbD"
-    },
-    {
       "added_at": "2025-12-19 05:03:08",
       "album": {
         "name": "Seenu Gaani Dawath",
@@ -1843,22 +1851,6 @@
       "duration_ms": 205290,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/3l5EhKoxEuLXacDSVriuYy"
-    },
-    {
-      "added_at": "2025-11-20 07:17:33",
-      "album": {
-        "name": "Cheliya",
-        "url": "https://open.spotify.com/album/3hqJlxtPFccOcBIVlqHKTk"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Cheliya",
-      "url": "https://open.spotify.com/track/5lhfZHPPPvgHsvlEoQIEZC"
     },
     {
       "added_at": "2026-04-15 06:57:01",

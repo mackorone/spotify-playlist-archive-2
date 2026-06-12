@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Dawid Podsiad\u0142o",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Kasia Sienkiewicz",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 234719,
       "name": "Ajabym",
       "url": "https://open.spotify.com/track/3iHBWAK3zlN2267gZtofuv"
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 159485,
       "name": "BO TYLKO CIEBIE TU MAM",
       "url": "https://open.spotify.com/track/0fK3dCZ0HZApNpX14zMmJ1"
@@ -1488,6 +1488,24 @@
       "duration_ms": 226285,
       "name": "Bursztynowe Koraliki",
       "url": "https://open.spotify.com/track/5hoFcKelVv20tFGK46X4rY"
+    },
+    {
+      "album": {
+        "name": "Dotknij / Burza",
+        "url": "https://open.spotify.com/album/5U1O4X8XPsiGXitVQLYNFR"
+      },
+      "artists": [
+        {
+          "name": "Daria Marx",
+          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170474,
+      "name": "Burza",
+      "url": "https://open.spotify.com/track/5S9ajRyJf3gW7Ep8EeKVmy"
     },
     {
       "album": {
@@ -3150,7 +3168,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 222252,
       "name": "Do Ciebie",
       "url": "https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq"
@@ -5318,7 +5336,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 167000,
       "name": "Ile?",
       "url": "https://open.spotify.com/track/0XJvZK2nhyVwfwhwMF1Z8L"
@@ -6078,7 +6096,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 209094,
       "name": "Kiecka",
       "url": "https://open.spotify.com/track/71lu3UluezyT9QFCNuYcPV"
@@ -7322,6 +7340,32 @@
       "duration_ms": 158500,
       "name": "LOVESONG",
       "url": "https://open.spotify.com/track/7496oBsqMZXTkKYK9nls14"
+    },
+    {
+      "album": {
+        "name": "LUBIMY",
+        "url": "https://open.spotify.com/album/0qzTWFez1xu7JsZm8sqWqT"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR"
+        },
+        {
+          "name": "Skolim",
+          "url": "https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA"
+        },
+        {
+          "name": "Donatan",
+          "url": "https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148831,
+      "name": "LUBIMY",
+      "url": "https://open.spotify.com/track/1oGFMmJsbgif8ZVxMREseR"
     },
     {
       "album": {
@@ -9257,6 +9301,28 @@
     },
     {
       "album": {
+        "name": "narcyz",
+        "url": "https://open.spotify.com/album/3UHSRBAWsOVucoSl8uULCs"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        },
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "narcyz",
+      "url": "https://open.spotify.com/track/44y8Xzr5pLcdaQDAN9R7LB"
+    },
+    {
+      "album": {
         "name": "Nareszcie",
         "url": "https://open.spotify.com/album/70G6XGkSM2CWedDGAS22Dm"
       },
@@ -9704,7 +9770,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 232850,
       "name": "Nie masz si\u0142 to p\u0142acz",
       "url": "https://open.spotify.com/track/5NIc6PrM1pmEiRCTRdUSgp"
@@ -13628,7 +13694,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 164501,
       "name": "SERCE I ROZUM",
       "url": "https://open.spotify.com/track/4JzOzyns9PvRQz72kSEQmg"
@@ -15168,7 +15234,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 144798,
       "name": "TIK TAK",
       "url": "https://open.spotify.com/track/1RUKZd3qdHK888dktUx9UT"
@@ -15638,6 +15704,24 @@
       "duration_ms": 188023,
       "name": "Tylko gest",
       "url": "https://open.spotify.com/track/2cHOEJcqGGNv3GVDxgF579"
+    },
+    {
+      "album": {
+        "name": "Tylko My",
+        "url": "https://open.spotify.com/album/199kLe1uSOlO4TwseBuOVl"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130039,
+      "name": "Tylko My",
+      "url": "https://open.spotify.com/track/2uuvl8raTa0NMQqSAFBjnn"
     },
     {
       "album": {
@@ -17048,7 +17132,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 199736,
       "name": "WSZYSTKO NA NIC",
       "url": "https://open.spotify.com/track/0PuNQogi1Fw7Yh78WcpYWB"
@@ -17161,6 +17245,28 @@
     },
     {
       "album": {
+        "name": "Yeti i W obj\u0119ciach",
+        "url": "https://open.spotify.com/album/6gp2qShAeyYIU02kQpso1u"
+      },
+      "artists": [
+        {
+          "name": "Artur Rojek",
+          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
+        },
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200610,
+      "name": "Yeti",
+      "url": "https://open.spotify.com/track/7DYO7Dj1RlPPnCpXpB5ynK"
+    },
+    {
+      "album": {
         "name": "Eksperyment",
         "url": "https://open.spotify.com/album/2OvhnHJfqojWQkbRMAXSDO"
       },
@@ -17260,7 +17366,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 161538,
       "name": "Z Tob\u0105 by\u0107 (love u like that)",
       "url": "https://open.spotify.com/track/08y6uLM8jQePtUOSEWJTuj"

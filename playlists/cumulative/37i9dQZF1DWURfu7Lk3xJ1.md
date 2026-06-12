@@ -4,7 +4,7 @@
 
 > breathe slow, drift soft 🪷 calm beats to uncover the stillness within
 
-537 songs - 21 hr 6 min
+542 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [afterglow](https://open.spotify.com/track/2VK6aUwSCVCyMEuLYPWgoB) | [Parth](https://open.spotify.com/artist/4zwPxQ2RjoZaHRiorx99i6), [Nessen](https://open.spotify.com/artist/2WX7ariBgaxbv7XOjO8GGt) | [afterglow](https://open.spotify.com/album/3XtigdUDyNTpYAjImpsanU) | 2:43 | 2022-11-11 | 2022-11-19 |
 | [afterthought](https://open.spotify.com/track/2pyIsphe6DooZRSExreQEJ) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [afterthought](https://open.spotify.com/album/23QpEq74jS4B7MpJRT1CEv) | 2:50 | 2024-02-09 | 2024-06-14 |
 | [against the tide](https://open.spotify.com/track/0IPf9wes4r5NA1xwX5FxKb) | [steenhoff](https://open.spotify.com/artist/3J24HdM0kVVmwkh4jdumZi) | [against the tide](https://open.spotify.com/album/3lecFA5VmUcLe8T3vD1f2A) | 2:22 | 2022-09-09 | 2023-08-30 |
+| [Airwaves](https://open.spotify.com/track/7zYFxN4pPMXiyQyOM3HYDq) | [weightless minutes](https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN) | [Airwaves](https://open.spotify.com/album/4JQi7ZVg7yLWVp6IAGxeUd) | 2:00 | 2026-06-11 |  |
 | [All The What Ifs](https://open.spotify.com/track/0q81gA7hGOGaIyOCLbYayb) | [Project AER](https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP), [v i v](https://open.spotify.com/artist/3Zieh1I7GDWSW8MGSDGApX) | [I'm Okay](https://open.spotify.com/album/4xgwXLSmSQPhaOZZ3mMoEZ) | 2:40 | 2022-10-07 | 2023-09-22 |
 | [Along the lines](https://open.spotify.com/track/33UVNXx0dE5Bx3dzhz4DjX) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Along the lines](https://open.spotify.com/album/1NWkFsGdaQGyD86slsaSCE) | 2:24 | 2023-01-20 | 2025-12-20 |
 | [Along The Way](https://open.spotify.com/track/2KC2CIX4TSoGouJ9K26fli) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Along The Way](https://open.spotify.com/album/2SXQxfGeEhbjHKIWpmhrrj) | 1:47 | 2023-06-09 |  |
@@ -116,6 +117,7 @@
 | [Daffodil](https://open.spotify.com/track/5hX2PkApzbk9jw4bwz5MYo) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Daffodil](https://open.spotify.com/album/2vqbcYmHOcCq98XNHcOuQr) | 2:23 | 2022-09-09 | 2022-11-20 |
 | [Daffodil](https://open.spotify.com/track/7v0GVnXyUwE31aqCAQcWY3) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Daffodil](https://open.spotify.com/album/2v6XMvE2IPI8K32IwpJn3C) | 2:23 | 2022-11-18 | 2023-09-22 |
 | [Dancing Forever](https://open.spotify.com/track/0LrxsHsaS4hCoJ2XdqVNhr) | [Qushy](https://open.spotify.com/artist/156wti6EEtzclFPBm50lUH) | [Dancing Forever \- Ambience](https://open.spotify.com/album/2dDjy11GKzpjujxXrEcYtE) | 2:16 | 2022-09-09 | 2023-08-30 |
+| [dandelion](https://open.spotify.com/track/708ttNiZv5RrG9PRaZhXSP) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [dandelion](https://open.spotify.com/album/3trZio7jNam3p2kmpNk1aE) | 2:29 | 2026-06-11 |  |
 | [Daydreams](https://open.spotify.com/track/3KCWxQPkTwRsK2E1lBsCLY) | [Wild Sonics](https://open.spotify.com/artist/6ULP2CXHFgmJjhdVoZNo8H) | [Garden Gloamings](https://open.spotify.com/album/64asxcd63XB67LWk0ZRETo) | 2:30 | 2023-08-18 | 2026-02-20 |
 | [Deep Affection](https://open.spotify.com/track/438FpYzYrcrWFFTH84KrI8) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [New Beginning](https://open.spotify.com/album/4V9t2VbNccEAxhockfJovc) | 2:38 | 2022-11-18 | 2023-08-30 |
 | [Deep Affection](https://open.spotify.com/track/717gydHl2e27f5temk2yyc) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [New Beginning](https://open.spotify.com/album/41fruNAkolL6oaIma2fnSJ) | 2:38 | 2022-09-30 | 2022-11-24 |
@@ -258,6 +260,7 @@
 | [Letting You Know](https://open.spotify.com/track/1s1bUlSPztqpgKGTdpc2PD) | [mennasa](https://open.spotify.com/artist/3J5F3p73CQAPPPbQzlLHUk) | [Letting You Know](https://open.spotify.com/album/0MtI7XE2yinw8ikKZbiEws) | 2:56 | 2022-12-09 | 2024-03-22 |
 | [Levitate](https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Levitate](https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX) | 2:11 | 2023-09-08 | 2025-12-20 |
 | [liaison](https://open.spotify.com/track/7ynqgM0yV20EW4IwZ0Midz) | [redknobs](https://open.spotify.com/artist/69cokHbMaS4QTveywGMSUN) | [liaison](https://open.spotify.com/album/76JTRe7VNwOt4iTYlXVIg3) | 2:23 | 2022-09-09 | 2025-12-20 |
+| [Lift Me Up](https://open.spotify.com/track/2NVgsAXkhLmdTJjzqPZMSk) | [Sleepy Titan](https://open.spotify.com/artist/4ehFI3LIUrDNhMXTR1XCdL) | [Lift Me Up](https://open.spotify.com/album/0x3IOMctZbakULYuDhLot7) | 2:32 | 2026-06-11 |  |
 | [Light Years Away](https://open.spotify.com/track/0NnGOsVYJJ0SX7Twq5PARG) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [Out Of Orbit](https://open.spotify.com/album/33hcdj1xEZrV2LMMRFs6q0) | 2:30 | 2023-09-08 | 2023-10-06 |
 | [Light Years Away](https://open.spotify.com/track/27esLzalhIbSXCNvPlAUfH) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [Out Of Orbit](https://open.spotify.com/album/0YjNahI1L5bQdDrl6Fq8TN) | 2:30 | 2023-01-20 | 2023-09-16 |
 | [Little Soul](https://open.spotify.com/track/4Ht6KepmTnEG0yymwBZkWS) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [Little Soul](https://open.spotify.com/album/0F699U3BSLCfkYqOZFE0Zg) | 2:09 | 2022-09-09 | 2023-10-27 |
@@ -371,6 +374,7 @@
 | [Purple Sky](https://open.spotify.com/track/1vSGmKm49xTrc4nzhkQ5Oa) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Purple Sky](https://open.spotify.com/album/6svxvqUaD5PKTQvjD303T7) | 2:07 | 2022-11-18 | 2022-12-15 |
 | [Purple Sky](https://open.spotify.com/track/4MjQ2ViBJketrS9Ub3MRpA) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Purple Sky](https://open.spotify.com/album/39RqaB9nZz8zZ1qGrEBJmU) | 2:07 | 2022-09-30 | 2022-11-20 |
 | [Quiet Path](https://open.spotify.com/track/66eCBCACOZ9UIuC12dawP6) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk) | [Quiet Path](https://open.spotify.com/album/4E9njGkCY7yzUm4nIoXUma) | 2:20 | 2023-08-18 | 2023-09-08 |
+| [quiet stories](https://open.spotify.com/track/53SIQUu8UytBBUGso9m1RB) | [cosmo cat](https://open.spotify.com/artist/1noZJDxgC7jVP1t4Vgowms) | [quiet stories](https://open.spotify.com/album/46WWGYOqQmznEgil5VjOlh) | 2:08 | 2026-06-11 |  |
 | [Radiant](https://open.spotify.com/track/6W97XqA8NrUQgGdNaXWB5n) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Radiant](https://open.spotify.com/album/6QaVyVq8YDg2KGStrIlQ5M) | 1:48 | 2023-03-20 | 2023-08-30 |
 | [Rain In July](https://open.spotify.com/track/4oHehRJn9BcMDsRb6Hhkax) | [Lunaco](https://open.spotify.com/artist/1ExbHTwjAHCB0JBa5Jk7VK), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Rain In July](https://open.spotify.com/album/3Dkz1hyD9TJtM2Rki0LyVd) | 2:34 | 2022-11-18 | 2023-08-30 |
 | [Rain Reverie](https://open.spotify.com/track/5A3eMTARV2hVzgCNS47CZl) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Breathing Space](https://open.spotify.com/album/3X9TTMLkGioGksEZkWNMd5) | 2:08 | 2022-11-18 | 2023-01-20 |
@@ -392,6 +396,7 @@
 | [Rosso](https://open.spotify.com/track/3pscNS95UxbGBl9JY0SsFP) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Rosso](https://open.spotify.com/album/0VBXpCv2RP6ekq7rtGpX7w) | 2:01 | 2023-02-07 | 2023-09-29 |
 | [rounded](https://open.spotify.com/track/1hWQ2g5lhisTnOMWHJeHFW) | [yellow book](https://open.spotify.com/artist/6JE9upCogY91a2Tm5UB8fe) | [rounded](https://open.spotify.com/album/2bcjechlcxRXyO1yGjFHTh) | 1:48 | 2023-10-06 | 2026-02-20 |
 | [Royal Parties](https://open.spotify.com/track/274KFsYmjRMNmiZ6MZgg0A) | [Frank Emmy](https://open.spotify.com/artist/1jfdbHiE0eZM9RXWlsh3Gm) | [Royal Parties](https://open.spotify.com/album/0vqr17tuyvIzxtaP8W9uZ0) | 2:46 | 2023-11-17 | 2026-02-20 |
+| [ruminate](https://open.spotify.com/track/2cnl9RpR3mxuo5r11QlMCY) | [loyCOY](https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7) | [ruminate](https://open.spotify.com/album/5xUbGb8AghQhbihScHlH49) | 2:10 | 2026-06-11 |  |
 | [Safe Lines](https://open.spotify.com/track/4NYsjmwUAP7YnuwhVK0NVz) | [Enoki](https://open.spotify.com/artist/1ioPe940lafF8R9ejGRRpW) | [Safe Lines](https://open.spotify.com/album/5jhukSqjKsW3erE3uaMGnt) | 2:00 | 2022-09-09 | 2022-10-29 |
 | [safely](https://open.spotify.com/track/6Okq0eiISWNzUvtQ2DILBe) | [Cafe Burrito](https://open.spotify.com/artist/1njjr5nwqbiRtFnoKPylMR) | [safely](https://open.spotify.com/album/3h6JHhSvEeZIG0bbPiD6zi) | 2:30 | 2023-07-17 | 2026-02-20 |
 | [said & done](https://open.spotify.com/track/3ZLXYsLYDagaczN7eeh6xo) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [said & done](https://open.spotify.com/album/2sOQxN0wUhPnoT0SJN7vcx) | 2:02 | 2022-09-09 | 2026-06-10 |

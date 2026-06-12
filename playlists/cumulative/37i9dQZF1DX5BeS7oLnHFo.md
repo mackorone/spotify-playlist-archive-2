@@ -4,7 +4,7 @@
 
 > كافيار الراب المحلّي
 
-88 songs - 4 hr 12 min
+89 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [بدايات](https://open.spotify.com/track/0fhqxwrZvlq9b3wlKQvKkO) | [AwabTheRapper](https://open.spotify.com/artist/3vp9zXL4KXZZaZ64Pp6W5X), [WD Alzain](https://open.spotify.com/artist/3mzfnmgUapSxcuTwgjDwFB) | [بدايات](https://open.spotify.com/album/2INHlJhKf8FNId99YNWxDX) | 2:55 | 2025-10-02 | 2025-10-08 |
 | [براند](https://open.spotify.com/track/0bMkuGfY0DFEfZ3Y5szHpx) | [Khalz](https://open.spotify.com/artist/6Ypyp6sAbGndh7J0EMfope), [MOHAMEDMEM](https://open.spotify.com/artist/4V2oeE3lVCRjk6GnL0fsBI) | [براند](https://open.spotify.com/album/02adwhzPLgQhBCiAHW3oZe) | 2:37 | 2024-06-24 | 2025-10-04 |
 | [بسيط ايفكتڤ](https://open.spotify.com/track/0AHVNC8und8XJU61876q0o) | [Dattune](https://open.spotify.com/artist/7KV81tK9fACDT7gCl4pFmj), [DZEEZ دزيز](https://open.spotify.com/artist/0NwIwzq4fV5i0LNEC7Vtwg) | [بسيط ايفكتڤ](https://open.spotify.com/album/4Gf35Uc9uEEi5M9qWKGA5c) | 1:35 | 2024-06-24 | 2024-09-20 |
+| [تاكل خشب](https://open.spotify.com/track/6F3nkMMR3lrBmy87e4TMDa) | [DTPNOOZ](https://open.spotify.com/artist/4TVnCMyC8C645LUw2fqq2w) | [تاكل خشب](https://open.spotify.com/album/2fFKDW0fAZEe16pHFMhV70) | 2:53 | 2026-06-11 |  |
 | [تصعيد](https://open.spotify.com/track/6SixeQLcrCufbftSxj6Lha) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [تصعيد](https://open.spotify.com/album/1FT5dI5XoVAS0gat6yq8gi) | 2:04 | 2024-11-26 | 2025-10-03 |
 | [جولاتي](https://open.spotify.com/track/0M28xWD3YAydVlZU5K1OAG) | [Barry](https://open.spotify.com/artist/0BatFhnuo1dJ632u37igwo) | [جولاتي](https://open.spotify.com/album/5LFqbT78b7K4S8ARXlZZdh) | 2:38 | 2025-12-18 | 2026-02-13 |
 | [ذا يوث](https://open.spotify.com/track/6oOmNuCn3DtEm6esZc42BQ) | [Khalz](https://open.spotify.com/artist/6Ypyp6sAbGndh7J0EMfope) | [ذا يوث](https://open.spotify.com/album/4JBr0ctu1dWtJvarwrwMdN) | 3:09 | 2024-06-24 | 2025-04-30 |

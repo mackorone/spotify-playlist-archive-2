@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de AK4:20
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,194 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,189 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 27 | [MAGNATA](https://open.spotify.com/track/6FBcaOaJPmz1n64Y26WeI1) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V) | [MAGNATA](https://open.spotify.com/album/5QvE1pdXnRBTnbdxVPrtrl) | 1:56 |
 | 28 | [Siciliano](https://open.spotify.com/track/6z1LXHyx2AwwQGXoMUjjbV) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Siciliano](https://open.spotify.com/album/3cYJzm7oqoJXyw3VX3Ohkp) | 3:13 |
 | 29 | [Ski Mask](https://open.spotify.com/track/0LpriRPZ9jTRRD9cMfOgLK) | [Queen Parker](https://open.spotify.com/artist/5NqWNYHuqvJl4qSXk9gI1b), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Ski Mask](https://open.spotify.com/album/1LwWMKZWCsI04Y9vCsp9ba) | 1:57 |
-| 30 | [CLAP](https://open.spotify.com/track/0WF17ZUQCLX2eIgq99bIUe) | [JulianoChieff](https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [Savage Bright](https://open.spotify.com/artist/6BrFszfIlVIvrox20vz3uQ) | [CLAP](https://open.spotify.com/album/7djt3Er4AULCNXTFlgnYrk) | 2:45 |
+| 30 | [CLAP](https://open.spotify.com/track/0WF17ZUQCLX2eIgq99bIUe) | [JulianoChieff](https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [Brillo](https://open.spotify.com/artist/6BrFszfIlVIvrox20vz3uQ) | [CLAP](https://open.spotify.com/album/7djt3Er4AULCNXTFlgnYrk) | 2:45 |
 | 31 | [Pensamos Rapido](https://open.spotify.com/track/2JhcDJFVkMS9fxEuCAgIYb) | [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Pensamos Rapido](https://open.spotify.com/album/0VlSYkqFo1Dq7KVqkjxQm0) | 2:15 |
 | 32 | [Amiri Jeans](https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [King Fly](https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc) | [La Luz Es Única](https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB) | 2:16 |
 | 33 | [Freestyle 2](https://open.spotify.com/track/31sjR1a4RChnmDJxyspqUp) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V) | [Freestyle 2](https://open.spotify.com/album/1xJkLFwNBBNoKSnXfwJzwV) | 2:45 |

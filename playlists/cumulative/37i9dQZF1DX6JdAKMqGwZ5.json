@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Michael Foster.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Ganges.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -432,7 +432,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 181569,
       "name": "Aa Hermana",
       "url": "https://open.spotify.com/track/52LbkOsKnSGobyEymMN65C"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 162857,
       "name": "Aprend\u00ed a Vivir Sin Ti",
       "url": "https://open.spotify.com/track/0mj3UYxVRsWMNf2kXizk5p"
@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 209054,
       "name": "B12",
       "url": "https://open.spotify.com/track/32J7VpF5WAwnMEyDbm5SKB"
@@ -2112,6 +2112,28 @@
       "duration_ms": 164538,
       "name": "Capacidad",
       "url": "https://open.spotify.com/track/3a05DEOKql1GI1dqLXHzJf"
+    },
+    {
+      "album": {
+        "name": "Cara de mentireira",
+        "url": "https://open.spotify.com/album/0eptVnMOLACSaGlhfJ5EdW"
+      },
+      "artists": [
+        {
+          "name": "ORTIGA",
+          "url": "https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6"
+        },
+        {
+          "name": "PatataOnStereo",
+          "url": "https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Cara de mentireira",
+      "url": "https://open.spotify.com/track/3P74AK43hAi7EEKhE6rdqM"
     },
     {
       "album": {
@@ -3903,6 +3925,24 @@
     },
     {
       "album": {
+        "name": "Cabriola (Relato Breve)",
+        "url": "https://open.spotify.com/album/6rsC5QPi6SoEbMGWgYKfU7"
+      },
+      "artists": [
+        {
+          "name": "Dianka",
+          "url": "https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Dulcinea",
+      "url": "https://open.spotify.com/track/1q02PqPVPSnZ3I5LcTr06r"
+    },
+    {
+      "album": {
         "name": "d\u00b4ESCARNIO",
         "url": "https://open.spotify.com/album/2JNJtZgFI9JuxOy7qpeFeQ"
       },
@@ -4689,6 +4729,24 @@
     },
     {
       "album": {
+        "name": "El viernes estoy bien (El s\u00e1bado estoy mal)",
+        "url": "https://open.spotify.com/album/50hG1Y3NP3VaOPSqndPwSX"
+      },
+      "artists": [
+        {
+          "name": "Pavlenha",
+          "url": "https://open.spotify.com/artist/3AbsiDlRF2eFggJ3DVaH6O"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203887,
+      "name": "El viernes estoy bien (El s\u00e1bado estoy mal)",
+      "url": "https://open.spotify.com/track/6cfG3UQoBGPOSmrW3WyGMC"
+    },
+    {
+      "album": {
         "name": "El \u00c1rbol [2007]",
         "url": "https://open.spotify.com/album/2phzFk3T28u6PPq7oIONNe"
       },
@@ -5092,7 +5150,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 197237,
       "name": "EsoEsArte",
       "url": "https://open.spotify.com/track/5D0UZZwYKHh3CvUqnkgpw1"
@@ -6234,6 +6292,24 @@
       "duration_ms": 157894,
       "name": "Hay Alg\u00fan Sitio",
       "url": "https://open.spotify.com/track/4MtM2WJhglzbF4cMEVEZXe"
+    },
+    {
+      "album": {
+        "name": "Hazte As\u00ed",
+        "url": "https://open.spotify.com/album/5dN0kCN5uxaxdfEJglhdHa"
+      },
+      "artists": [
+        {
+          "name": "joseluis",
+          "url": "https://open.spotify.com/artist/5x6IvwLFRH9IsqNFJWkJq4"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234359,
+      "name": "Hazte As\u00ed",
+      "url": "https://open.spotify.com/track/23p63gg6ExDPBGZxa8vu7n"
     },
     {
       "album": {
@@ -8304,7 +8380,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 162296,
       "name": "Los Domingos",
       "url": "https://open.spotify.com/track/17EBdkmbePVN8Zm6dmfPIH"
@@ -8330,6 +8406,24 @@
       "duration_ms": 148336,
       "name": "Los hijos del odio",
       "url": "https://open.spotify.com/track/1NZ45VxktEqT6hXpcV7J68"
+    },
+    {
+      "album": {
+        "name": "Love Is The Answer",
+        "url": "https://open.spotify.com/album/5HRJWH5QAxAuZSVrMeWlCY"
+      },
+      "artists": [
+        {
+          "name": "Christian Mira",
+          "url": "https://open.spotify.com/artist/0HuAwHfaRSfgqI4caXvVPs"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175476,
+      "name": "Love Is The Answer",
+      "url": "https://open.spotify.com/track/0v4Lkhx4SUcI9XHmgGFroc"
     },
     {
       "album": {
@@ -8898,7 +8992,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 147487,
       "name": "Me da igual",
       "url": "https://open.spotify.com/track/5GhPY7com5UF8FOeYUczAF"
@@ -9278,7 +9372,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 161500,
       "name": "Mi querido vino blanco",
       "url": "https://open.spotify.com/track/053j2JKI8hEZKVvz6D36dt"
@@ -10863,6 +10957,24 @@
     },
     {
       "album": {
+        "name": "n\u00e3o sei",
+        "url": "https://open.spotify.com/album/3VaoXJ6aHs2yfkmZ05F8Ei"
+      },
+      "artists": [
+        {
+          "name": "BLAYA",
+          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166259,
+      "name": "n\u00e3o sei",
+      "url": "https://open.spotify.com/track/6scveQ1yU9Q1GGn9Bq1D18"
+    },
+    {
+      "album": {
         "name": "sangre y sal",
         "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
       },
@@ -12194,7 +12306,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 169756,
       "name": "Qui\u00e9n Soy",
       "url": "https://open.spotify.com/track/19YThG1ZdhciilFWmtkHhJ"
@@ -13483,6 +13595,24 @@
     },
     {
       "album": {
+        "name": "SOLITA",
+        "url": "https://open.spotify.com/album/7qy9aobwiyapLVKzzShbiB"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166750,
+      "name": "SOLITA",
+      "url": "https://open.spotify.com/track/3Imod564t7ps4Ds8BocRAI"
+    },
+    {
+      "album": {
         "name": "Solo Quer\u00eda Probar",
         "url": "https://open.spotify.com/album/0keWXIkbDuB1e5XSFD1TLX"
       },
@@ -14068,6 +14198,24 @@
       "duration_ms": 158362,
       "name": "TERT\u00daLIA",
       "url": "https://open.spotify.com/track/5MRAABYrkqqzgDsjX5Lt3y"
+    },
+    {
+      "album": {
+        "name": "Teskiya",
+        "url": "https://open.spotify.com/album/28dIXjCG8vMtgBE14wVFyq"
+      },
+      "artists": [
+        {
+          "name": "CURRO",
+          "url": "https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137551,
+      "name": "Teskiya",
+      "url": "https://open.spotify.com/track/2oc3n11K6mqke5KcASGH58"
     },
     {
       "album": {

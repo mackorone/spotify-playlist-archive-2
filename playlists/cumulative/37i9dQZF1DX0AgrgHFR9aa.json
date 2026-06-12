@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : BEN plg",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Sa\u00eff",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 222762,
       "name": "Dis moi pourquoi",
       "url": "https://open.spotify.com/track/6wZCnXIWzUO0F20oujZwrL"
@@ -2460,7 +2460,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 234062,
       "name": "D\u00e9posez vos armes",
       "url": "https://open.spotify.com/track/4vmzo4oNgXckV1RoyKKzd2"
@@ -3436,7 +3436,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 127346,
       "name": "HORCRUXE",
       "url": "https://open.spotify.com/track/2ZwNJHE3wxAYlWbno8cdYR"
@@ -3890,6 +3890,24 @@
       "duration_ms": 171428,
       "name": "Jesse Pinkman",
       "url": "https://open.spotify.com/track/6FHvVwQEGoASwz9gWMwHTc"
+    },
+    {
+      "album": {
+        "name": "JEUNE P\u00c9GU",
+        "url": "https://open.spotify.com/album/3AHYoxoGUFbG7WeBvh5QkY"
+      },
+      "artists": [
+        {
+          "name": "Campesino",
+          "url": "https://open.spotify.com/artist/6YZvEinSwiLu5iwQSZVqUE"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155198,
+      "name": "JEUNE P\u00c9GU",
+      "url": "https://open.spotify.com/track/1wsqmqdYaklkAunk5GYDye"
     },
     {
       "album": {
@@ -4574,7 +4592,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 169959,
       "name": "La o\u00f9 ils ne vivent pas",
       "url": "https://open.spotify.com/track/3kwMLmLzbHYja01IeFs8ad"
@@ -4812,6 +4830,24 @@
       "duration_ms": 133910,
       "name": "LE FLEUVE",
       "url": "https://open.spotify.com/track/6AAanmuKQ91qu8uElHBALL"
+    },
+    {
+      "album": {
+        "name": "le mal je m'en sers",
+        "url": "https://open.spotify.com/album/3JD5P6gVV94cNgLqKXYzpD"
+      },
+      "artists": [
+        {
+          "name": "Brass",
+          "url": "https://open.spotify.com/artist/6KXzXCAytbihhQEBybFTkB"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174478,
+      "name": "le mal je m'en sers",
+      "url": "https://open.spotify.com/track/3oVqhtItOc4NqlyPFrODBN"
     },
     {
       "album": {
@@ -5232,7 +5268,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 146000,
       "name": "LES CHIFFRES DU LOTO",
       "url": "https://open.spotify.com/track/0POy05GJkYY5bsPb1bI9su"
@@ -5801,6 +5837,24 @@
     },
     {
       "album": {
+        "name": "Mauvaise \u00c9toile",
+        "url": "https://open.spotify.com/album/3V1bjLLMf9XLLgBtgJMYMb"
+      },
+      "artists": [
+        {
+          "name": "Dibson",
+          "url": "https://open.spotify.com/artist/3I2ayKNkuX0gqKPZDBnxNk"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Mauvaise \u00c9toile",
+      "url": "https://open.spotify.com/track/6UXYywFBtJURLDz7oDWrup"
+    },
+    {
+      "album": {
         "name": "CHEVAL DE TROIE vol 1",
         "url": "https://open.spotify.com/album/0pJ3dx9f4JJs9N1dqyep6h"
       },
@@ -6316,7 +6370,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 148363,
       "name": "No Face No Case (feat. M\u00e9dine)",
       "url": "https://open.spotify.com/track/0PwgwkGs8Wmj8RNpagXipR"
@@ -6471,6 +6525,24 @@
     },
     {
       "album": {
+        "name": "Nuance",
+        "url": "https://open.spotify.com/album/275XHq51797534UaytJL81"
+      },
+      "artists": [
+        {
+          "name": "VERSIONBETA7",
+          "url": "https://open.spotify.com/artist/2YvuJOwUvNHDJQAOApnBBR"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158241,
+      "name": "Nuance",
+      "url": "https://open.spotify.com/track/2NU3UacejCGdwKxvlXsxdX"
+    },
+    {
+      "album": {
         "name": "Mes r\u00eaves m'emp\u00eachent de dormir",
         "url": "https://open.spotify.com/album/06DuPh5RuDfF36vRxMN2NI"
       },
@@ -6566,7 +6638,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 160415,
       "name": "OLD FASHIONED",
       "url": "https://open.spotify.com/track/0yPywOEzkOYsczKUveiRe5"
@@ -7076,7 +7148,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 196319,
       "name": "POST MORTEM",
       "url": "https://open.spotify.com/track/3TCCU4uJ1InKQ8ELemwJDo"
@@ -7533,6 +7605,24 @@
     },
     {
       "album": {
+        "name": "Quelques Notes",
+        "url": "https://open.spotify.com/album/4Hswbup2cnUh399NFsfgtT"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9my",
+          "url": "https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418938,
+      "name": "Quelques Notes",
+      "url": "https://open.spotify.com/track/52ZXG9rKujY4uJi7p4XDKW"
+    },
+    {
+      "album": {
         "name": "Quincy P",
         "url": "https://open.spotify.com/album/10Uzu6H80gQ1W8XeUIM6AL"
       },
@@ -7544,7 +7634,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 138580,
       "name": "Quincy P",
       "url": "https://open.spotify.com/track/0dtoAKd76z1oXVvNmXV1aT"
@@ -7891,6 +7981,24 @@
     },
     {
       "album": {
+        "name": "Rick Ross",
+        "url": "https://open.spotify.com/album/3G4yVlhdNso8Dm4UcJVaUp"
+      },
+      "artists": [
+        {
+          "name": "Rousnam",
+          "url": "https://open.spotify.com/artist/2swYfXhkzkb8s8djG6UjSm"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166374,
+      "name": "Rick Ross",
+      "url": "https://open.spotify.com/track/2NSA6XLOaX5coBomjolJJB"
+    },
+    {
+      "album": {
         "name": "ROSE (MILKTAPE)",
         "url": "https://open.spotify.com/album/6gUXAxsd4VXyA64ndb9D9q"
       },
@@ -7982,6 +8090,32 @@
       "duration_ms": 139133,
       "name": "RUBIS",
       "url": "https://open.spotify.com/track/0VA5yP6vM863LUYxtp5JcG"
+    },
+    {
+      "album": {
+        "name": "VENUS",
+        "url": "https://open.spotify.com/album/7shQEPq10ov7H9iiKboHoy"
+      },
+      "artists": [
+        {
+          "name": "Rocca",
+          "url": "https://open.spotify.com/artist/7yz7tVF8i1Jr6roiq5CUuD"
+        },
+        {
+          "name": "Kyo Itachi",
+          "url": "https://open.spotify.com/artist/5PRPuZbf1ia2JcLdxBxtXB"
+        },
+        {
+          "name": "Jungle Jack",
+          "url": "https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236803,
+      "name": "R\u00c9FLEXION",
+      "url": "https://open.spotify.com/track/7nvLLpg7BDh4dSXxzy0YFL"
     },
     {
       "album": {
@@ -8203,6 +8337,28 @@
     },
     {
       "album": {
+        "name": "si bo",
+        "url": "https://open.spotify.com/album/6SzTJxySks3jRVonLW45PC"
+      },
+      "artists": [
+        {
+          "name": "Vulax",
+          "url": "https://open.spotify.com/artist/2WNzDCBl2ibX17FoW5byBc"
+        },
+        {
+          "name": "ange",
+          "url": "https://open.spotify.com/artist/4Z07W9SCuNeImQlwTXsczG"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163680,
+      "name": "si bo",
+      "url": "https://open.spotify.com/track/6piAUWjAyS28UOWcCMIkJp"
+    },
+    {
+      "album": {
         "name": "si seulement",
         "url": "https://open.spotify.com/album/26h8d1yrM8gIefySp2NEew"
       },
@@ -8284,6 +8440,24 @@
       "duration_ms": 122548,
       "name": "Si un jour tu pars",
       "url": "https://open.spotify.com/track/1I1Y7kQXYNYsvuLWzkfqe5"
+    },
+    {
+      "album": {
+        "name": "Si vous saviez",
+        "url": "https://open.spotify.com/album/1WDgZu4NvHgY0UA3nnpwAC"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00eff",
+          "url": "https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176832,
+      "name": "Si vous saviez",
+      "url": "https://open.spotify.com/track/3nJOoJrZkfN06hoq4d9VX0"
     },
     {
       "album": {
@@ -8832,7 +9006,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 159798,
       "name": "Tu vis, t'apprends",
       "url": "https://open.spotify.com/track/6ybtjbboDQn9iAUtaa1AR0"
@@ -9042,6 +9216,48 @@
       "duration_ms": 172282,
       "name": "V (freestyle)",
       "url": "https://open.spotify.com/track/5iJfXfTbeOB7aOvHazG76n"
+    },
+    {
+      "album": {
+        "name": "Va piano",
+        "url": "https://open.spotify.com/album/7ymC3dDFWMaNLavKnuHZxY"
+      },
+      "artists": [
+        {
+          "name": "L'ami Caccio",
+          "url": "https://open.spotify.com/artist/2I1eSf1CyqmhvvOYLVt16p"
+        },
+        {
+          "name": "Tous Salopards",
+          "url": "https://open.spotify.com/artist/4a6poWE8mnf8k8xyPOuR41"
+        },
+        {
+          "name": "HERMANO SALVATORE",
+          "url": "https://open.spotify.com/artist/3EhPsv3pjHnBAm4CyrxGAh"
+        },
+        {
+          "name": "Lamanif",
+          "url": "https://open.spotify.com/artist/5qqlI8MD9sw16kuVwKUTe9"
+        },
+        {
+          "name": "Poz",
+          "url": "https://open.spotify.com/artist/5wMZu1c9b1zM5OTDZl77qj"
+        },
+        {
+          "name": "Nef",
+          "url": "https://open.spotify.com/artist/2MoCd4vlRZqkACyH7mX4ms"
+        },
+        {
+          "name": "Aksang",
+          "url": "https://open.spotify.com/artist/0WU8x1v3G1hjLvOLSCGXTp"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291666,
+      "name": "Va piano",
+      "url": "https://open.spotify.com/track/45wSscJTsy9KeWC9emWFY6"
     },
     {
       "album": {

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123817,
+  "num_followers": 123808,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVdjwaOyRyjsFSvQux+wojIYUMy5Zh",
+  "snapshot_id": "AAAVd3nTYFxqxXa05hgw61yjVTrS7oCd",
   "tracks": [
+    {
+      "added_at": "2026-06-11 14:02:18",
+      "album": {
+        "name": "breathe",
+        "url": "https://open.spotify.com/album/6I5AZZAixliwotjWRyrx4F"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 241256,
+      "name": "breathe",
+      "url": "https://open.spotify.com/track/6ifoDLGesgTpLfrWzCyEZF"
+    },
     {
       "added_at": "2026-06-10 14:19:27",
       "album": {

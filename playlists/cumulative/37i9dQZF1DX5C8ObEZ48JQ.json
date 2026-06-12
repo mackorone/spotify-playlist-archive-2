@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 231562,
       "name": "better",
       "url": "https://open.spotify.com/track/3yNPijn8ek1rbsnqdNTS0K"
@@ -3650,7 +3650,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 148571,
       "name": "Bring You Home",
       "url": "https://open.spotify.com/track/7odIv0UuSvwHOAYJS0EK6S"
@@ -5650,7 +5650,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 157910,
       "name": "Cut You Off",
       "url": "https://open.spotify.com/track/7olSeEjcLypVdWRrDD7Uap"
@@ -5892,7 +5892,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 205363,
       "name": "Dee",
       "url": "https://open.spotify.com/track/4DJdyqEbSMi8sN08lc4KpC"
@@ -6804,7 +6804,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 227102,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6GEhHFB78AHQ1FKLLhm0eo"
@@ -7746,7 +7746,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 181875,
       "name": "Fall",
       "url": "https://open.spotify.com/track/3ZGLEDbtQ9RERCk9NczSFc"
@@ -11084,7 +11084,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 130000,
       "name": "HOW E DEY BE (HEDB)",
       "url": "https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1"
@@ -11866,7 +11866,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 162456,
       "name": "Ifeoma",
       "url": "https://open.spotify.com/track/3Dt1dGG3OLQ2j9FynaYPYZ"
@@ -14298,7 +14298,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 263933,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/4axIBRv8PhXrRBZEuWfb5p"
@@ -15494,6 +15494,24 @@
       "duration_ms": 219937,
       "name": "Malome",
       "url": "https://open.spotify.com/track/1FNkjvrxmAWEests4qk8vX"
+    },
+    {
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/4Zf7ktaekWbM4RAW56QAqN"
+      },
+      "artists": [
+        {
+          "name": "Rorisang Sechele",
+          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260346,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/0WtT81xVf7FERbo6SdoFE1"
     },
     {
       "album": {
@@ -20504,7 +20522,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 165782,
       "name": "Power",
       "url": "https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX"
@@ -20880,7 +20898,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 170691,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/3oSOAmX3az2ekWnOZrWqRN"
@@ -22528,7 +22546,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 181714,
       "name": "Serial Kisser",
       "url": "https://open.spotify.com/track/6xpOCLTrc9IEuwPuFuGO6F"
@@ -23194,7 +23212,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 136679,
       "name": "Slow",
       "url": "https://open.spotify.com/track/51vTd5iLJvD6qdZuyKXcCN"
@@ -23252,7 +23270,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 127500,
       "name": "Small Town",
       "url": "https://open.spotify.com/track/5Xgq3fIqSug7ALemSaBxHO"
@@ -25098,7 +25116,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 145305,
       "name": "T Fare (seXyy!!)",
       "url": "https://open.spotify.com/track/0uFsObl0zTfLCE9WYJypL6"
@@ -25358,7 +25376,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 171111,
       "name": "Tena",
       "url": "https://open.spotify.com/track/3H5n3Wn5mwQrUbnTArjsMH"
@@ -26038,7 +26056,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 267007,
       "name": "Time Away",
       "url": "https://open.spotify.com/track/3WkOq6BS0yWlyGi5nm2dYL"
@@ -26926,7 +26944,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 110000,
       "name": "UNFORGETTABLE",
       "url": "https://open.spotify.com/track/3J9h0mH4syTbYV1nzyOGKv"

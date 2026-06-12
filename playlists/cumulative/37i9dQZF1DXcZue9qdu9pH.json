@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 168000,
       "name": "90 Cent",
       "url": "https://open.spotify.com/track/3rnNHMpqStQ9YBYyaYS0uQ"
@@ -1361,6 +1361,28 @@
     },
     {
       "album": {
+        "name": "Just a Broken Man",
+        "url": "https://open.spotify.com/album/422bEccKOhT1YE10lLThrF"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Attara",
+          "url": "https://open.spotify.com/artist/7q9Oam3CwOj6bP7JfSPApN"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Just a Broken Man",
+      "url": "https://open.spotify.com/track/3GX1b6kvDibWj508w4V5bn"
+    },
+    {
+      "album": {
         "name": "Just Another She (Remix)",
         "url": "https://open.spotify.com/album/7Bgei9RjJqWYyOr1iK3Ow1"
       },
@@ -1800,7 +1822,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 131868,
       "name": "Narcissus",
       "url": "https://open.spotify.com/track/3VOiBodB2ZqAhaA1kbtmuM"
@@ -2426,6 +2448,28 @@
       "duration_ms": 228983,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF"
+    },
+    {
+      "album": {
+        "name": "Send Me",
+        "url": "https://open.spotify.com/album/3qauMtgyeqRsJHXKjj0i6Y"
+      },
+      "artists": [
+        {
+          "name": "Clark Keeng",
+          "url": "https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP"
+        },
+        {
+          "name": "Sidi",
+          "url": "https://open.spotify.com/artist/1z1ghaqp3itYXYwBpCcXr1"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Send Me",
+      "url": "https://open.spotify.com/track/0vPgSGYunBbg7sgCrPXb1n"
     },
     {
       "album": {

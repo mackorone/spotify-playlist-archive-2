@@ -4,7 +4,7 @@
 
 > 100% rock brasileiro\. Foto: BAD LUV
 
-639 songs - 1 day 11 hr 46 min
+641 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Amor Crazy](https://open.spotify.com/track/1IrycH2mqyBvpLKBRYpaBw) | [Maria do Relento](https://open.spotify.com/artist/2ZJAUr36IZp6pSiegYWRJP) | [Amor Crazy](https://open.spotify.com/album/6y6xzCuGIaUglvlKWeuVw7) | 3:01 | 2022-01-14 | 2022-07-02 |
 | [Amor Incondicional \- Charlie Mix](https://open.spotify.com/track/6Zydg3hj9nNtaHTkXviV4F) | [Edgard Scandurra](https://open.spotify.com/artist/3vtWRZWIVKm71NMsOudVaF), [Benzina aka Scandurra](https://open.spotify.com/artist/3Graw2y2nCA7hFdwMdoSLc), [Charlie Crooijmans](https://open.spotify.com/artist/1pU0rInm1Tgn4QLyqR6RTv) | [Amor Incondicional](https://open.spotify.com/album/3uv17SLDy9qkRV7uS5RxSG) | 4:22 | 2025-05-09 | 2025-10-04 |
 | [Andando de SK8](https://open.spotify.com/track/2J8hc2jstcvn7yH3fbvOEb) | [Tchello](https://open.spotify.com/artist/7m7zHLfw3T0SAZxYVRrE5h) | [Andando de SK8](https://open.spotify.com/album/5xHLWqJjt6svcBPyvvXfl1) | 2:40 | 2022-04-08 | 2022-09-03 |
-| [Anedonia](https://open.spotify.com/track/7I0L7nWg533yzThpuNnMkd) | [Hellbenders](https://open.spotify.com/artist/0V8ho5TS0MIhzlchtBuv7N) | [Anedonia](https://open.spotify.com/album/7y1buR3p6Hr9aK2NszCNN9) | 2:24 | 2026-05-15 |  |
+| [Anedonia](https://open.spotify.com/track/7I0L7nWg533yzThpuNnMkd) | [Hellbenders](https://open.spotify.com/artist/0V8ho5TS0MIhzlchtBuv7N) | [Anedonia](https://open.spotify.com/album/7y1buR3p6Hr9aK2NszCNN9) | 2:24 | 2026-05-15 | 2026-06-12 |
 | [Anestesiado](https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [Anestesiado](https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ) | 2:54 | 2022-05-13 | 2023-01-28 |
 | [Antes do Café da Manhã](https://open.spotify.com/track/3GKIFtFwTy0HZZjRXyuzjT) | [Gustavo Kaly](https://open.spotify.com/artist/2APbW9Syz4fKotQHXryChK), [wander wildner](https://open.spotify.com/artist/3kkd2ywd7eR5uPocPzTwFE) | [Antes do Café da Manhã](https://open.spotify.com/album/6PfgLe8cF6aNgMmvGubrqV) | 4:04 | 2023-02-24 | 2023-10-21 |
 | [Antes do Fim](https://open.spotify.com/track/6EBMOVo0Z7axH4LO0cYz6c) | [Versalle](https://open.spotify.com/artist/1Z5eMWseuXfjpB1qb0i7TH) | [Antes do Fim](https://open.spotify.com/album/7opPi58oGdMw3QRej7drBd) | 2:52 | 2022-04-15 | 2022-08-06 |
@@ -78,7 +78,7 @@
 | [Bate Panela](https://open.spotify.com/track/13OJMd3V0nnIbm3R3fTpUd) | [Canto Cego](https://open.spotify.com/artist/6QTbpmAmWmgLk7O1cZlXin), [Marcão Baixada](https://open.spotify.com/artist/02Xp0I7fq1yPQa9980WCYJ) | [Bate Panela](https://open.spotify.com/album/69Nz7QQzQDs1crUYiXMsAs) | 3:00 | 2022-11-11 | 2023-01-21 |
 | [Be My Baby](https://open.spotify.com/track/69CkhPFeQ0AtCiAcCCUoSD) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Be My Baby](https://open.spotify.com/album/2IYfkuMtLbbH3cUU9oaZkv) | 2:22 | 2024-07-12 | 2024-08-10 |
 | [Bem Acompanhada](https://open.spotify.com/track/7FLA5HH8TKp8MIwkJJ6tdg) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts) | [Bem Acompanhada](https://open.spotify.com/album/1BATwZiFwFEX89v1lc7NmA) | 3:08 | 2022-09-17 | 2022-10-29 |
-| [Bem Antes do Fim](https://open.spotify.com/track/0Te74cRk1wl0sectOmG00B) | [Camelazul](https://open.spotify.com/artist/0OpbJESafN7nBjojau8nTh) | [Bem Antes do Fim](https://open.spotify.com/album/3xpBEZeSa5RYdid47ZRstx) | 2:55 | 2026-05-08 |  |
+| [Bem Antes do Fim](https://open.spotify.com/track/0Te74cRk1wl0sectOmG00B) | [Camelazul](https://open.spotify.com/artist/0OpbJESafN7nBjojau8nTh) | [Bem Antes do Fim](https://open.spotify.com/album/3xpBEZeSa5RYdid47ZRstx) | 2:55 | 2026-05-08 | 2026-06-12 |
 | [Bem Mais Perto do Céu](https://open.spotify.com/track/58HEh6Eyq01mPoiV84NhVC) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Bem Mais Perto do Céu](https://open.spotify.com/album/3fIRoT59Ag2XM26UkXh4aH) | 3:22 | 2023-04-14 | 2023-07-29 |
 | [Berrini](https://open.spotify.com/track/0qbgGOjkWnWrjBj91QPTsV) | [Molho Negro](https://open.spotify.com/artist/51aX6xmdT0iMI1FNCONTzR) | [Berrini](https://open.spotify.com/album/3Y8jVYw1s5O5bHSdzMrr7N) | 3:09 | 2022-07-29 | 2023-11-11 |
 | [Beyond the Dream](https://open.spotify.com/track/2TJn2Jgac1U5a2gIb66gKL) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Beyond the Dream](https://open.spotify.com/album/4RbdRqdEwnWjcTGeYKUNz1) | 4:04 | 2026-04-03 |  |
@@ -338,6 +338,7 @@
 | [MERGULHO](https://open.spotify.com/track/5IiXMO5gSehzrwdcYV1IYy) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [L A B I R I N T 0](https://open.spotify.com/album/41YFkzhUoaJqjz2NwQtJiP) | 4:00 | 2022-09-17 | 2022-11-26 |
 | [Metade Verdade](https://open.spotify.com/track/3XZgXb3XNjpPzUFFvAk6u2) | [Skolta](https://open.spotify.com/artist/0uVN3qgcVCwOUh5kvPQr51) | [Metade Verdade](https://open.spotify.com/album/2HrP56DCGpb1KvI0EksF0k) | 2:57 | 2022-02-18 | 2022-04-09 |
 | [Meu Funeral](https://open.spotify.com/track/0nwbEO0x8BsTOytFMHiEwk) | [Meu Funeral](https://open.spotify.com/artist/6GEXLxhbbkxEeYkL9sl64X) | [Tropicore Hardcal](https://open.spotify.com/album/2ZoeMMRAmtpvfJBj7ieso6) | 2:28 | 2022-05-13 | 2022-05-28 |
+| [Milésima Canção de Amor](https://open.spotify.com/track/7i4KxwoMRBkuVIzuaedcVI) | [Acústicos & Valvulados](https://open.spotify.com/artist/03tVZ2sA0yyShSEgFdBpYX), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK) | [Milésima Canção de Amor](https://open.spotify.com/album/18POgEkS3ZzUseIBFh8fqM) | 3:29 | 2026-06-12 |  |
 | [Mina](https://open.spotify.com/track/4YeJk4DpwDJmUIblg5uIMf) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Mina](https://open.spotify.com/album/3b37659m8j3fvRca3zrjAX) | 2:57 | 2022-01-14 | 2022-11-19 |
 | [Minha Essência é Essa](https://open.spotify.com/track/1nfY3lPdBRWKpcUD0IIes8) | [The Kira Justice](https://open.spotify.com/artist/0h00Bh6AN0E9SOnMVInpcN) | [Minha Essência é Essa](https://open.spotify.com/album/7BhRjF9uhRpzx6qgpXVeRm) | 3:49 | 2022-01-14 | 2022-10-01 |
 | [Minha Mulher \(Demo Aa 2002\)](https://open.spotify.com/track/4FF04gTcWUXNme7g5FEEhp) | [Comunidade Nin\-jitsu](https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg) | [Minha Mulher \(Demo Aa 2002\)](https://open.spotify.com/album/3mwUKuY9J1GlhiEMJNwlNw) | 3:20 | 2024-05-31 | 2024-06-08 |
@@ -595,6 +596,7 @@
 | [Tudo Bem \- Vivo na Cecília](https://open.spotify.com/track/4fOwcmgwY65EMAITLxriEe) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [Tudo Bem \(Vivo na Cecília\)](https://open.spotify.com/album/7m1eQeEmTXA2mMgKFhxvAf) | 2:59 | 2024-02-02 | 2024-04-19 |
 | [Tudo Destruído](https://open.spotify.com/track/1EJ7ENX4o7pKn6w6R6HGxB) | [Matanza Inc](https://open.spotify.com/artist/7bk87UI7INqojGTxngyfhk) | [Tudo Destruído](https://open.spotify.com/album/4m8NyqdTP1zcSEKHZiHzVp) | 3:09 | 2022-05-27 | 2023-08-19 |
 | [Tudo Destruído](https://open.spotify.com/track/7EPwsHvqVODaeRh66XYRrX) | [Matanza Inc](https://open.spotify.com/artist/7bk87UI7INqojGTxngyfhk) | [Retórica Diabólica](https://open.spotify.com/album/4uWRpVbCWpk5JFRlaavO9X) | 3:09 | 2023-08-18 | 2023-11-11 |
+| [Tudo Isso Brilha](https://open.spotify.com/track/0I5L27CvSdFOV39WN75asc) | [Colibri](https://open.spotify.com/artist/3R9wxOS0XWvgNBJZxtXi4y) | [3R \(Pt\. III\)](https://open.spotify.com/album/7CsDn8RkdFY7yzVFxfcoRJ) | 5:50 | 2026-06-12 |  |
 | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/track/3Pa5IoNR5UdlVAV9jXP1kM) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz) | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/album/4lBsuqZrMDmgTgZwQaqLMd) | 3:14 | 2022-11-25 | 2025-02-15 |
 | [Tudo o Que Restou](https://open.spotify.com/track/5TsTThSny1hH1Tq2iDWzwc) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Prelúdio](https://open.spotify.com/album/6OKgt0A7OuJWiixvcyqDBk) | 3:56 | 2026-04-03 | 2026-04-25 |
 | [Tudo por Nada \- Acústico](https://open.spotify.com/track/5XyPbaCM4pSMGV9ZsnANnH) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [Voz, Violão & Rock'n'roll \(Acústico\)](https://open.spotify.com/album/5jMa7BnjOAj0U8nAO9JhYG) | 4:26 | 2023-03-17 | 2023-04-09 |

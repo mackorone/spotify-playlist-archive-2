@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women who open up the pit. Cover: Amy Lee of Evanescence, Poppy & Courtney LaPlante of Spiritbox",
-  "num_followers": 784675,
+  "num_followers": 784794,
   "original_name": "Women of Metal",
   "owner": {
     "name": "Spotify",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "Pitch Black Sunset",
-        "url": "https://open.spotify.com/album/7gnr6a0QR9Cq8HQtENW1MB"
-      },
-      "artists": [
-        {
-          "name": "The Hellfreaks",
-          "url": "https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr"
-        }
-      ],
-      "duration_ms": 268039,
-      "name": "Weeping Willow",
-      "url": "https://open.spotify.com/track/3d0l1isydFqQz7TNWx9wtR"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 172653,
       "name": "Poison",
       "url": "https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
+        "name": "Pitch Black Sunset",
+        "url": "https://open.spotify.com/album/7gnr6a0QR9Cq8HQtENW1MB"
+      },
+      "artists": [
+        {
+          "name": "The Hellfreaks",
+          "url": "https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr"
+        }
+      ],
+      "duration_ms": 268039,
+      "name": "Weeping Willow",
+      "url": "https://open.spotify.com/track/3d0l1isydFqQz7TNWx9wtR"
     },
     {
       "added_at": "2026-04-27 18:28:08",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "Where Myth Becomes Memory",
-        "url": "https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO"
+        "name": "Breathe You In",
+        "url": "https://open.spotify.com/album/4tEKPkZKnt44d7hRQHLBfc"
       },
       "artists": [
         {
-          "name": "Rolo Tomassi",
-          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
+          "name": "Lauren Babic",
+          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
         }
       ],
-      "duration_ms": 234955,
-      "name": "Cloaked",
-      "url": "https://open.spotify.com/track/05mgMVDS9j4Wtci4MVSJWU"
+      "duration_ms": 220710,
+      "name": "Breathe You In",
+      "url": "https://open.spotify.com/track/680R0ratdk9o2M6nko18GG"
     }
   ],
   "unique_name": "Women of Metal",

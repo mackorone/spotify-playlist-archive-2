@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-637 songs - 1 day 11 hr 39 min
+638 songs - 1 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Jaan Da \(Rab Ki Dua\)](https://open.spotify.com/track/3BPckr3N2JP5gJogeKhA5w) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Tejas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Az61ohrjvnyHIccJj0qAt) | 4:27 | 2023-12-06 | 2024-01-09 |
 | [Jaane De](https://open.spotify.com/track/0R5j2VBVJ3FKpl72FZZhKJ) | [Aakash M.](https://open.spotify.com/artist/2UGEmBqXfvXhsqHZhM7YU2), [Ishan Krishan](https://open.spotify.com/artist/3a00s1dpBoSxGDi1tiVcTD) | [Jaane De](https://open.spotify.com/album/6TNOx8nr0fdrgYb4GrDqrN) | 3:45 | 2024-10-25 | 2025-04-12 |
 | [Jaane De](https://open.spotify.com/track/0S6wcmBlvyX2GUWuAHKdFp) | [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Ginny Diwan](https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2) | [CO\-ED \(Soundtrack from the series\)](https://open.spotify.com/album/668bPHbwQ9LyYC3CDvNTI4) | 2:16 | 2025-11-14 | 2026-01-15 |
+| [Jaane Jaan](https://open.spotify.com/track/10JvykekC3vfnHgLQFrmeF) | [Mohnish Gaikawad](https://open.spotify.com/artist/5ZnbId45CYwKtirU6tMOQT) | [Jaane Jaan](https://open.spotify.com/album/2vOsKeMzaj11HZTh4bSNdk) | 3:22 | 2026-06-11 |  |
 | [Jaane Kahan Ghum Tum](https://open.spotify.com/track/1SQlCcrCz3cC9rP7IvW9pj) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Jaane Kahan Ghum Tum](https://open.spotify.com/album/6KWVNcow6n4l3NRkRuWFzS) | 2:41 | 2024-10-21 | 2025-03-22 |
 | [Jaane Kya Baat Hai](https://open.spotify.com/track/5tiV8nUAsGczrg3LNMohpQ) | [Aditya Kambhampati](https://open.spotify.com/artist/00dVKOZFv0XpCJCunfFWEE) | [Jaane Kya Baat Hai](https://open.spotify.com/album/3acWR5o4Ugsy7P7dQluxVS) | 3:57 | 2024-08-18 | 2024-09-21 |
 | [Jaane Kyu](https://open.spotify.com/track/7qySY2915krbeg4qMs5viD) | [Arjun Tikadar](https://open.spotify.com/artist/6xVuJatFzZDvLRsU3mGAsn) | [Sutradhaar](https://open.spotify.com/album/5oMbGSVotj2qtZjGxnAvkc) | 3:03 | 2024-02-09 | 2024-03-05 |
@@ -478,7 +479,7 @@
 | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Varsha Gaur](https://open.spotify.com/artist/3QQsnfmVSorAOd1njZgys0) | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F) | 3:35 | 2023-06-14 | 2023-08-05 |
 | [Saanson Ki Mala \- Live Loop Version](https://open.spotify.com/track/0H2LYJrPFMEr5JmdNBSwUd) | [Bhuwin](https://open.spotify.com/artist/6vsLn0UxL3GhtYP7ghpF3t) | [Saanson Ki Mala \(Live Loop Version\)](https://open.spotify.com/album/1o90SCXyYBya1VybapCgjS) | 3:36 | 2025-10-15 | 2025-11-15 |
 | [Saare Badal](https://open.spotify.com/track/5MTi1rw6cAtPKY4SuyRYh5) | [Abhi Abhi](https://open.spotify.com/artist/636FbaY38o2XgzBNr1Rq8Z) | [Saare Badal](https://open.spotify.com/album/1RYWtFD73pspXEkm2v04ZA) | 3:30 | 2025-03-21 | 2025-07-17 |
-| [Saari Raat](https://open.spotify.com/track/2FuHwIdCmfTwjaXBOVmE76) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Saari Raat](https://open.spotify.com/album/5WnCiVjmZgdlazM3lEnUgj) | 2:17 | 2026-02-20 |  |
+| [Saari Raat](https://open.spotify.com/track/2FuHwIdCmfTwjaXBOVmE76) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Saari Raat](https://open.spotify.com/album/5WnCiVjmZgdlazM3lEnUgj) | 2:17 | 2026-02-20 | 2026-06-12 |
 | [Saari Umar](https://open.spotify.com/track/2H3Ybag8WuTdoaGVMCDqRl) | [Harish Budhwani](https://open.spotify.com/artist/1Gl7igag9ejxcepMCPDg4H) | [Saari Umar](https://open.spotify.com/album/4CLPALqNL9TZnE3gOIQ3C5) | 4:34 | 2023-05-17 | 2023-06-07 |
 | [Sab Kuch Mera \- Deep Heart](https://open.spotify.com/track/1VyPLU5X6p38r1IPMRLvgg) | [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Mann](https://open.spotify.com/artist/7744LvLjHQ5gxVAA6CQJ79) | [Sab Kuch Mera \(Deep Heart\)](https://open.spotify.com/album/7EkrO0mqn5b16y10sFELow) | 2:07 | 2024-06-27 | 2024-07-27 |
 | [Sab Sahi](https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Sab Sahi](https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE) | 3:24 | 2025-08-29 |  |

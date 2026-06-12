@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 
 > Here comes the Maestro with his best of 90s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,284 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,324 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 | 85 | [April Mayilae](https://open.spotify.com/track/1M3cGUO2LEX3XetZVt7FjE) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Idhayam](https://open.spotify.com/album/7hyFK0ME6aHt0LaitQSPQU) | 5:10 |
 | 86 | [Innum Ennai](https://open.spotify.com/track/3PyhTmwDjQzkYHbOKFtBFc) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Singaravelan](https://open.spotify.com/album/6tzNcu9zkuesvD1LEdlNPu) | 4:57 |
 | 87 | [Adukku Malli](https://open.spotify.com/track/7qA1TpcANRgQ1UVjA6vQN5) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Aavaram Poo](https://open.spotify.com/album/3VamRIu7F1JQvM5m8kFRsa) | 4:57 |
-| 88 | [Amma Amma Male](https://open.spotify.com/track/5vcAcFIWDtq49vPYoUx9M4) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Uzhaippali](https://open.spotify.com/album/7ri3KEOl6feNWTUBuVFUY5) | 5:02 |
-| 89 | [Sri Ranga Ranga](https://open.spotify.com/track/4UN1gjbPl7BnvNP65eNEge) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Uma Ramanan](https://open.spotify.com/artist/6GpH0yFzkhoxcoNrX6kw48) | [Mahanadi](https://open.spotify.com/album/20yp5nI15GhSmfYSy7RjkT) | 4:50 |
+| 88 | [Sri Ranga Ranga](https://open.spotify.com/track/4UN1gjbPl7BnvNP65eNEge) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Uma Ramanan](https://open.spotify.com/artist/6GpH0yFzkhoxcoNrX6kw48) | [Mahanadi](https://open.spotify.com/album/20yp5nI15GhSmfYSy7RjkT) | 4:50 |
+| 89 | [Amma Amma Male](https://open.spotify.com/track/5vcAcFIWDtq49vPYoUx9M4) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Uzhaippali](https://open.spotify.com/album/7ri3KEOl6feNWTUBuVFUY5) | 5:02 |
 | 90 | [Pen Manasu Azham Endru](https://open.spotify.com/track/3ViJgZdLc1V2ArpnXemNpx) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [En Rasavin Manasile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BTcuMvI2nrbRHh81PliTM) | 3:50 |
 | 91 | [Muthamizhe Muthamizhea](https://open.spotify.com/track/2D8kXO5XRjx9mwbHQtLDwT) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Raman Abdullah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xOf42Vnci5zVF0DnaGwY0) | 4:36 |
 | 92 | [Manakkum Malligai](https://open.spotify.com/track/3qwv9WR6s8sbqR4W1ENrF5) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Rickshaw Mama](https://open.spotify.com/album/6jZjT5hXr9l52693G4etGJ) | 5:04 |

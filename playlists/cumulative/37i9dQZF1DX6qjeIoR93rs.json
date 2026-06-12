@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Songs from Palestine, and to Palestine.",
+  "description": "\ud83c\uddf5\ud83c\uddf8",
   "name": "Palestine Hits",
   "tracks": [
     {
@@ -1804,7 +1804,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 192641,
       "name": "Rahu",
       "url": "https://open.spotify.com/track/7JdtjJxhTPcfDZWu1RfdlB"
@@ -1994,6 +1994,24 @@
       "duration_ms": 157800,
       "name": "Room",
       "url": "https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7"
+    },
+    {
+      "album": {
+        "name": "SABAH EL WARD / \u0635\u0628\u0627\u062d \u0627\u0644\u0648\u0631\u062f",
+        "url": "https://open.spotify.com/album/1q3WLPEx8Gozu40Yq71UJ1"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190906,
+      "name": "SABAH EL WARD / \u0635\u0628\u0627\u062d \u0627\u0644\u0648\u0631\u062f",
+      "url": "https://open.spotify.com/track/1xavkNqFWGuEMb3N3ZXbbG"
     },
     {
       "album": {
@@ -2457,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Ya Ret \u064a\u0627 \u0631\u064a\u062a",
+        "url": "https://open.spotify.com/album/3EvBD7JUXGc8q2FT0k40un"
+      },
+      "artists": [
+        {
+          "name": "Rola Azar",
+          "url": "https://open.spotify.com/artist/17WvUHY56BGNm6i6uTqyj1"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197326,
+      "name": "Ya Ret \u064a\u0627 \u0631\u064a\u062a",
+      "url": "https://open.spotify.com/track/2X8IEiMAiSCwbmL0OEN144"
+    },
+    {
+      "album": {
         "name": "Ya Samti",
         "url": "https://open.spotify.com/album/6Bcyb3titJoo0xFB3zea2f"
       },
@@ -2580,7 +2616,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 105763,
       "name": "Yamma Mweil il Hawa",
       "url": "https://open.spotify.com/track/1WD4wFa701ptHHbcNVyXwA"

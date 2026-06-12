@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Lagum",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Aretuza Lovi",
   "name": "Palco POP",
   "tracks": [
     {
@@ -3814,6 +3814,24 @@
       "duration_ms": 197414,
       "name": "Cadela",
       "url": "https://open.spotify.com/track/2SnRx1PETbpkY7vDPSP78n"
+    },
+    {
+      "album": {
+        "name": "Caipiranhas",
+        "url": "https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116097,
+      "name": "Caipiranhas",
+      "url": "https://open.spotify.com/track/5OqyGoao9eplES1cFvA4JZ"
     },
     {
       "album": {
@@ -9112,7 +9130,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 244809,
       "name": "Fruto do Tempo",
       "url": "https://open.spotify.com/track/4bK5J8VeSYMKmwSvyyHCNO"

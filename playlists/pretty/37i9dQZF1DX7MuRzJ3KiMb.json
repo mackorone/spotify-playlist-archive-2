@@ -1,6 +1,6 @@
 {
   "description": "aqu\u00ed est\u00e1n las joyas escondidas del 2025, elegidas por tus editores \ud83d\ude42\u200d\u2195\ufe0f",
-  "num_followers": 104791,
+  "num_followers": 104784,
   "original_name": "Las favoritas de tus editores 2025",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "C.A.P.S",
+        "url": "https://open.spotify.com/album/6HlzENT5LIAZoVq8LjP0iR"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "duration_ms": 163812,
+      "name": "No estaba tan mal",
+      "url": "https://open.spotify.com/track/3xSBUtVPeIxD9kiLHcKxx7"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "El \u00daltimo Baile",
         "url": "https://open.spotify.com/album/0ZoqHpiyTLn22Kw9uXa7si"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 237930,
       "name": "Volvamos a Ser Novios",
       "url": "https://open.spotify.com/track/3BzqVIUCqTOHjkNRtol9F3"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "C.A.P.S",
-        "url": "https://open.spotify.com/album/6HlzENT5LIAZoVq8LjP0iR"
-      },
-      "artists": [
-        {
-          "name": "Oney1",
-          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
-        }
-      ],
-      "duration_ms": 163812,
-      "name": "No estaba tan mal",
-      "url": "https://open.spotify.com/track/3xSBUtVPeIxD9kiLHcKxx7"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "VETIVER Y AMARETTO",
-        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 242857,
-      "name": "VETIVER Y AMARETTO",
-      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "R\u00d8Z \u2013 Spotify Sessions",
         "url": "https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 293166,
       "name": "CORA DE HIELO (feat. Natt Calma) \u2013 Spotify Sessions",
       "url": "https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "VETIVER Y AMARETTO",
+        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 242857,
+      "name": "VETIVER Y AMARETTO",
+      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Rockera",
-        "url": "https://open.spotify.com/album/6WUJzs31IjyNVuUwvd2u0w"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 177361,
-      "name": "alguien que yo no es",
-      "url": "https://open.spotify.com/track/7ceKunvNzGZRewf7DjakXK"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "T.V ADDICT",
         "url": "https://open.spotify.com/album/6KfTjOfKY3UKBHeonlTH8K"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 150346,
       "name": "drugz",
       "url": "https://open.spotify.com/track/5DWlVW2J2yojwgMtiLLFJp"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Rockera",
+        "url": "https://open.spotify.com/album/6WUJzs31IjyNVuUwvd2u0w"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 177361,
+      "name": "alguien que yo no es",
+      "url": "https://open.spotify.com/track/7ceKunvNzGZRewf7DjakXK"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "GUSTAR Y OFENDER",
-        "url": "https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd"
-      },
-      "artists": [
-        {
-          "name": "reybruja",
-          "url": "https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz"
-        }
-      ],
-      "duration_ms": 141762,
-      "name": "piso 20",
-      "url": "https://open.spotify.com/track/3Km8AtaJxGsCiT6u8Uhz1m"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Aurora (Remix)",
         "url": "https://open.spotify.com/album/6wEUiMr0TmgW4ibsAOXybW"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 188550,
       "name": "Aurora - Remix",
       "url": "https://open.spotify.com/track/1NwEZJ25OmqyDdzPJGrzWF"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "GUSTAR Y OFENDER",
+        "url": "https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd"
+      },
+      "artists": [
+        {
+          "name": "reybruja",
+          "url": "https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz"
+        }
+      ],
+      "duration_ms": 141762,
+      "name": "piso 20",
+      "url": "https://open.spotify.com/track/3Km8AtaJxGsCiT6u8Uhz1m"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "NI\u00d1O BUENO",
+        "url": "https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e"
+      },
+      "artists": [
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "duration_ms": 191375,
+      "name": "contraste",
+      "url": "https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "COMO DOS EXTRA\u00d1OS (feat. Santiago Motorizado)",
         "url": "https://open.spotify.com/album/0BtfSe5QLvZTlTrvcTO5Lc"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 172779,
       "name": "COMO DOS EXTRA\u00d1OS (feat. Santiago Motorizado)",
       "url": "https://open.spotify.com/track/1OzWR3TeXVCYw5OHgAHRo1"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "NI\u00d1O BUENO",
-        "url": "https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e"
-      },
-      "artists": [
-        {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
-        }
-      ],
-      "duration_ms": 191375,
-      "name": "contraste",
-      "url": "https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt"
     },
     {
       "added_at": "2025-12-03 13:16:51",

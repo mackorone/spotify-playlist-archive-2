@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30BEsx.md) - [plain]
 
 > This is Gautier Capuçon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,005 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,006 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30BEsx.md) - [plain]
 | 49 | [La vie en rose](https://open.spotify.com/track/4uDiP7xdjkD5fYhS6fypp8) | [Louiguy](https://open.spotify.com/artist/5YBGb1FUahcLMQj9F4C6B3), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Jerome Ducros](https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq), [Johanna Malangré](https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b), [Orchestre national de Bretagne](https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz) | [Sensations \- La vie en rose](https://open.spotify.com/album/3pe7hdB8lRhFolNvaV0Ubi) | 4:24 |
 | 50 | [Prelude and Fugue in D Major, BWV 850: I\. Prelude](https://open.spotify.com/track/7cFXFkxxeIDCu52cP2QBUB) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L) | [Focus with Bach](https://open.spotify.com/album/05LISIyECZIHTpuS2oyINW) | 1:31 |
 
-Snapshot ID: `aidXgAAAAABeW+41VIjkvEICm4Ze0+zq`
+Snapshot ID: `aiipAAAAAADYgmeD47wR7XGh7duH7X1c`

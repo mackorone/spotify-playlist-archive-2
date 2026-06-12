@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:3f5VCwd57gZsqMad28jyLV\">Maria Beth\u00e2nia</a>.",
-  "num_followers": 193853,
+  "num_followers": 193861,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,26 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
+        "name": "N\u00e3o Quero Te Querer",
+        "url": "https://open.spotify.com/album/6ynXVWAUOFYjmaOHxxLg4W"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        },
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 181480,
+      "name": "N\u00e3o Quero Te Querer",
+      "url": "https://open.spotify.com/track/0ciIs0Cw2gV9E4W3xMQkDk"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
         "name": "Sorriso negro",
         "url": "https://open.spotify.com/album/6Mpu9KUGFNTYJw6lQ5RcS8"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 209250,
       "name": "Um dia eu te encontro",
       "url": "https://open.spotify.com/track/37QAkaScwdWBOwj8pBpCLo"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
-        "name": "N\u00e3o Quero Te Querer",
-        "url": "https://open.spotify.com/album/6ynXVWAUOFYjmaOHxxLg4W"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        },
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 181480,
-      "name": "N\u00e3o Quero Te Querer",
-      "url": "https://open.spotify.com/track/0ciIs0Cw2gV9E4W3xMQkDk"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
+        "name": "Outra Ladeira",
+        "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
+      },
+      "artists": [
+        {
+          "name": "Let\u00edcia Fialho",
+          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
+        }
+      ],
+      "duration_ms": 228312,
+      "name": "Outra Ladeira",
+      "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
         "name": "Slap Sessions: Melly (Ao Vivo)",
         "url": "https://open.spotify.com/album/4IOY6NKMG3itD8WIW8rpgn"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Outra Ladeira",
-        "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
-      },
-      "artists": [
-        {
-          "name": "Let\u00edcia Fialho",
-          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
-        }
-      ],
-      "duration_ms": 228312,
-      "name": "Outra Ladeira",
-      "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Xote Destino",
         "url": "https://open.spotify.com/album/48k0NmZpRSAlrqgcMeFHbn"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Afim De Ver\u00e3o",
-        "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 300567,
-      "name": "Afim De Ver\u00e3o",
-      "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Black Orpheus (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5b2ozEvPDWvXiq98K3whfc"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 177000,
       "name": "Manha De Carnaval",
       "url": "https://open.spotify.com/track/1IF4NYiVd71yfaPicrYkMn"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "Afim De Ver\u00e3o",
+        "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 300567,
+      "name": "Afim De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
     },
     {
       "added_at": "2026-04-01 03:00:06",

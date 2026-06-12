@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: Skye Newman",
-  "num_followers": 85886,
+  "num_followers": 85884,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-05-15 13:00:30",
       "album": {
-        "name": "DIOR$AVAGE",
-        "url": "https://open.spotify.com/album/5NtMHvTP6K9N6xwtQ9q7R5"
-      },
-      "artists": [
-        {
-          "name": "Glocky",
-          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "DIOR$AVAGE",
-      "url": "https://open.spotify.com/track/6hJZntir08iWIAVRx8YAEh"
-    },
-    {
-      "added_at": "2026-05-15 13:00:30",
-      "album": {
         "name": "you call it love, i call it lie",
         "url": "https://open.spotify.com/album/1pRXCnckXX7ixU1fXTadFR"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 182771,
       "name": "you call it love, i call it lie",
       "url": "https://open.spotify.com/track/3rPxI0MTRbYp86Eb4Et8VA"
+    },
+    {
+      "added_at": "2026-05-15 13:00:30",
+      "album": {
+        "name": "DIOR$AVAGE",
+        "url": "https://open.spotify.com/album/5NtMHvTP6K9N6xwtQ9q7R5"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "DIOR$AVAGE",
+      "url": "https://open.spotify.com/track/6hJZntir08iWIAVRx8YAEh"
     },
     {
       "added_at": "2026-05-15 13:00:30",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-05-15 13:00:30",
       "album": {
-        "name": "Tiada Pengganti",
-        "url": "https://open.spotify.com/album/7vzNHzXi5yCbTRdc5eogmA"
-      },
-      "artists": [
-        {
-          "name": "Alpha",
-          "url": "https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t"
-        }
-      ],
-      "duration_ms": 188368,
-      "name": "Tiada Pengganti",
-      "url": "https://open.spotify.com/track/2Bfp4yZKfMJxCkScw7s1G3"
-    },
-    {
-      "added_at": "2026-05-15 13:00:30",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5UML5yybgZrFpHIMD3w7zY"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 222745,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0P4m0R5msH9E5I2CfQx7Dg"
+    },
+    {
+      "added_at": "2026-05-15 13:00:30",
+      "album": {
+        "name": "Tiada Pengganti",
+        "url": "https://open.spotify.com/album/7vzNHzXi5yCbTRdc5eogmA"
+      },
+      "artists": [
+        {
+          "name": "Alpha",
+          "url": "https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t"
+        }
+      ],
+      "duration_ms": 188368,
+      "name": "Tiada Pengganti",
+      "url": "https://open.spotify.com/track/2Bfp4yZKfMJxCkScw7s1G3"
     },
     {
       "added_at": "2026-05-15 13:00:30",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-05-15 13:00:30",
       "album": {
-        "name": "\u0e1c\u0e34\u0e14\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30 (Off Beat)",
-        "url": "https://open.spotify.com/album/1y9QFEwGrVNeni6D8XXgJS"
-      },
-      "artists": [
-        {
-          "name": "the ge",
-          "url": "https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7"
-        }
-      ],
-      "duration_ms": 174895,
-      "name": "\u0e1c\u0e34\u0e14\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30 (Off Beat)",
-      "url": "https://open.spotify.com/track/0iLTFTrTcXlIO9EjSgPCGl"
-    },
-    {
-      "added_at": "2026-05-15 13:00:30",
-      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 168552,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
+    },
+    {
+      "added_at": "2026-05-15 13:00:30",
+      "album": {
+        "name": "\u0e1c\u0e34\u0e14\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30 (Off Beat)",
+        "url": "https://open.spotify.com/album/1y9QFEwGrVNeni6D8XXgJS"
+      },
+      "artists": [
+        {
+          "name": "the ge",
+          "url": "https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7"
+        }
+      ],
+      "duration_ms": 174895,
+      "name": "\u0e1c\u0e34\u0e14\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30 (Off Beat)",
+      "url": "https://open.spotify.com/track/0iLTFTrTcXlIO9EjSgPCGl"
     },
     {
       "added_at": "2026-05-15 13:00:30",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-05-15 13:00:30",
       "album": {
-        "name": "Confidence",
-        "url": "https://open.spotify.com/album/6Wi1VvGkKgSuZLD5cXVBpK"
-      },
-      "artists": [
-        {
-          "name": "My Ugly Clementine",
-          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/6nvG4xm7xrTFeHOQkbOEj1"
-    },
-    {
-      "added_at": "2026-05-15 13:00:30",
-      "album": {
         "name": "Lagu Healing Kita",
         "url": "https://open.spotify.com/album/7B6oz3qkogH2Xy2kKCDTkZ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 212000,
       "name": "Lagu Healing Kita",
       "url": "https://open.spotify.com/track/6gwq7zQvoyqm3jOkwXKcMd"
+    },
+    {
+      "added_at": "2026-05-15 13:00:30",
+      "album": {
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/6Wi1VvGkKgSuZLD5cXVBpK"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/6nvG4xm7xrTFeHOQkbOEj1"
     },
     {
       "added_at": "2026-05-15 13:00:30",

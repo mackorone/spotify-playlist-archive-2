@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Knorst",
+  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Vintage Culture, Volkoder",
   "name": "mint brasil",
   "tracks": [
     {
@@ -1171,6 +1171,36 @@
     },
     {
       "album": {
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/52aIs9XfDwcst8addTu7qY"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Vikina",
+          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190384,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/5Tq2WD8fDVe35rzzDqkE6t"
+    },
+    {
+      "album": {
         "name": "Cry for You",
         "url": "https://open.spotify.com/album/2nK0DzcI9W8DBgES0WrbA2"
       },
@@ -1848,7 +1878,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 213375,
       "name": "EYES",
       "url": "https://open.spotify.com/track/77UBLe8jlRIxn8AsouUtS1"
@@ -1948,6 +1978,24 @@
       "duration_ms": 171562,
       "name": "FAME",
       "url": "https://open.spotify.com/track/5nV3WhVh188yQzYXgyCjBP"
+    },
+    {
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/7jA0S0W7JIEWmo8BbtYa0J"
+      },
+      "artists": [
+        {
+          "name": "GOBAITH",
+          "url": "https://open.spotify.com/artist/7m7cqf2HQsPXvAhfU2e320"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125760,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/63qvrFN0f14mwyzRVmvaL2"
     },
     {
       "album": {
@@ -2562,7 +2610,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 164308,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/00wJPHKCBlCTUxP6KuVSiT"
@@ -3032,7 +3080,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 142386,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/3o7B0xq8v84PnuSmi54ixW"
@@ -3084,6 +3132,28 @@
       "duration_ms": 159360,
       "name": "I Know",
       "url": "https://open.spotify.com/track/0iZDUCkSEzzBllavstdPsd"
+    },
+    {
+      "album": {
+        "name": "I Love a Robot",
+        "url": "https://open.spotify.com/album/4LyXPrLbtyfBYKK35DMlV7"
+      },
+      "artists": [
+        {
+          "name": "D-Nox",
+          "url": "https://open.spotify.com/artist/1TqcQwnBqloJrKkGs4l4LT"
+        },
+        {
+          "name": "Andr\u00e9 Moret",
+          "url": "https://open.spotify.com/artist/77TawwjtLlpegPo23bblci"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345483,
+      "name": "I Love a Robot - Radio Edit",
+      "url": "https://open.spotify.com/track/5bOoRLgZvjw1jkvyrH7jM9"
     },
     {
       "album": {
@@ -4186,10 +4256,40 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 186872,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/0BGAlBkICQWwW1VJK2A3vB"
+    },
+    {
+      "album": {
+        "name": "Messi",
+        "url": "https://open.spotify.com/album/4JkG9h2ZAmA4VWhOiwci5X"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Brasil",
+          "url": "https://open.spotify.com/artist/7MPhjKo9pLJ7mPJOOxeIf4"
+        },
+        {
+          "name": "Mary Zander",
+          "url": "https://open.spotify.com/artist/7hJLpw326kpcd3f3YXrVz1"
+        },
+        {
+          "name": "Jararaca Sound System",
+          "url": "https://open.spotify.com/artist/0tu9kO59fquOERFCdnqibF"
+        },
+        {
+          "name": "Antonio Carlos & Jocafi",
+          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Messi",
+      "url": "https://open.spotify.com/track/5C9uCCZzmsTZHuakgYPS6G"
     },
     {
       "album": {
@@ -4707,6 +4807,24 @@
     },
     {
       "album": {
+        "name": "On The Floor",
+        "url": "https://open.spotify.com/album/5snpsCc6Sq0mdkcaNr1SYO"
+      },
+      "artists": [
+        {
+          "name": "Kyllow",
+          "url": "https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261190,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/7cajEM2thmgQti2YN5tBDZ"
+    },
+    {
+      "album": {
         "name": "On The Way (Remix)",
         "url": "https://open.spotify.com/album/3tEUKiQwklKZ3WwVFfIT4g"
       },
@@ -4890,7 +5008,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 209771,
       "name": "Pill",
       "url": "https://open.spotify.com/track/0CP12bH6ES84AyycXYp1Si"
@@ -5040,6 +5158,24 @@
       "duration_ms": 212005,
       "name": "Portal 1111",
       "url": "https://open.spotify.com/track/29nyLx7artdrrOaDyjFjqL"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/4kJF3BV5d18wi2BsEWdxv8"
+      },
+      "artists": [
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/2zWuofQhXXENmYn7T10Cr4"
     },
     {
       "album": {
@@ -6086,7 +6222,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 130232,
       "name": "System Error",
       "url": "https://open.spotify.com/track/2RKGqUw14sYGxChBCymGa7"

@@ -4,7 +4,7 @@
 
 > Sweet sounds and welcoming vibes—come on in and stay for a while
 
-264 songs - 16 hr 32 min
+265 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [The Ship](https://open.spotify.com/track/2Szz5P9GX7eMcVqnTNvTGH) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [The Ship](https://open.spotify.com/album/2zXUfGUm40igqntMJnaFgX) | 4:14 | 2021-11-19 | 2024-08-02 |
 | [The Ship](https://open.spotify.com/track/5IHWAtuAGFJpesZPmxkWSV) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [The Ship](https://open.spotify.com/album/5JwL8oRLq3tLlCbGis5rAJ) | 4:14 | 2023-04-28 | 2024-04-19 |
 | [The Stone](https://open.spotify.com/track/58lbaLOsFcMKVCzvFZKnJh) | [Paul Greene](https://open.spotify.com/artist/189CwQJhg4MhnnqhdSAnZD) | [Freedom for Your Soul](https://open.spotify.com/album/6az4x5KWY3mQ1PpQWDdC05) | 3:44 | 2024-08-01 |  |
-| [The Sun Oh Yeah](https://open.spotify.com/track/3U57mXqMsaCGEWU2KlGRc9) | [Dave Simonett](https://open.spotify.com/artist/6CKy7Do4kT6GmeDoHTSvdr) | [The Sun Oh Yeah](https://open.spotify.com/album/19zgVzRekB6Iga2nn5pc39) | 4:32 | 2021-11-19 |  |
+| [The Sun Oh Yeah](https://open.spotify.com/track/3U57mXqMsaCGEWU2KlGRc9) | [Dave Simonett](https://open.spotify.com/artist/6CKy7Do4kT6GmeDoHTSvdr) | [The Sun Oh Yeah](https://open.spotify.com/album/19zgVzRekB6Iga2nn5pc39) | 4:32 | 2021-11-19 | 2026-06-12 |
 | [The Time for Flowers](https://open.spotify.com/track/2dzZaRN9Uqp1JEic2lQ4k5) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [The Time for Flowers](https://open.spotify.com/album/3xhTmtzpGjC8IjT84xhaRg) | 3:59 | 2021-11-19 | 2026-02-21 |
 | [The Trouble with Wanting](https://open.spotify.com/track/0a1Jael2mnrkLTyPetixjh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Canary / The Trouble with Wanting](https://open.spotify.com/album/20bxQ8Jv6hHhc53KFApRuL) | 3:55 | 2021-11-19 | 2026-02-21 |
 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 | 2022-05-16 | 2024-04-19 |
@@ -242,6 +242,7 @@
 | [Time We Made Time](https://open.spotify.com/track/5SlDLaAPEs7tm5TiHtbU72) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Time We Made Time](https://open.spotify.com/album/6tioLHErPLmjw9t3B24PKf) | 4:55 | 2022-05-16 | 2022-11-13 |
 | [Time We Made Time](https://open.spotify.com/track/5YZh8S8hKuaKB0Rs9XcLhW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Time We Made Time](https://open.spotify.com/album/5T1VfEDIptAH3Qet8NleOY) | 4:55 | 2021-11-19 | 2026-02-21 |
 | [Tiny Wooden Box](https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Tiny Wooden Box](https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850) | 4:07 | 2023-10-27 | 2026-02-21 |
+| [Undo](https://open.spotify.com/track/56g0RZZnk3NRAOxhELYdHj) | [RYMAN](https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj) | [Undo](https://open.spotify.com/album/5REc8JIZ9W788zAhBZHWIj) | 4:01 | 2026-06-12 |  |
 | [Uphill](https://open.spotify.com/track/2U8tmNAhE9LzmEoMABd5rk) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:01 | 2022-05-16 | 2024-04-19 |
 | [Uphill](https://open.spotify.com/track/3veerjbMOXcQgwWGk25rvp) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/1qjxKYNBHnir7rx2QMYMaZ) | 3:01 | 2021-11-19 | 2026-02-21 |
 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 | 2021-11-19 |  |

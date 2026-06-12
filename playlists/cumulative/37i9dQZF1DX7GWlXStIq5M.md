@@ -2,9 +2,9 @@
 
 ### [Palco POP](https://open.spotify.com/playlist/37i9dQZF1DX7GWlXStIq5M)
 
-> Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Lagum
+> Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Aretuza Lovi
 
-1,158 songs - 2 day 9 hr 23 min
+1,159 songs - 2 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Cada Linha](https://open.spotify.com/track/49gSrZDPSaWtmLZzkMW9Wt) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI), [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Cada Linha](https://open.spotify.com/album/11S0gVsVXpCpSUFYYiLADo) | 2:42 | 2026-05-01 |  |
 | [Cadeado](https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:48 | 2023-02-14 | 2023-09-30 |
 | [Cadela](https://open.spotify.com/track/2SnRx1PETbpkY7vDPSP78n) | [MARIA MIRANDA](https://open.spotify.com/artist/7179j5OUXPbeXiLXEHtNe3) | [Cadela](https://open.spotify.com/album/4JUoSnqGilwi1dk1HTQlUX) | 3:17 | 2025-08-19 | 2026-05-01 |
+| [Caipiranhas](https://open.spotify.com/track/5OqyGoao9eplES1cFvA4JZ) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe) | [Caipiranhas](https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA) | 1:56 | 2026-06-12 |  |
 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 | 2024-08-21 | 2025-03-08 |
 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 | 2023-08-04 | 2023-08-26 |
 | [Caliente](https://open.spotify.com/track/2TrAxb7dg65ZFHoMzrGhcN) | [Lily Nobre](https://open.spotify.com/artist/38SMTPnAWS5j9wALRSV7mD), [MC RUAN RZAN](https://open.spotify.com/artist/6H8R7o8nKuXWxG19X2XoVE), [Skorps](https://open.spotify.com/artist/4WolQpakht16d6Cs9Uh0xy) | [Caliente](https://open.spotify.com/album/7fzqKhbzHBuOnbo2yeTWr2) | 2:13 | 2023-10-06 | 2024-03-23 |
@@ -434,7 +435,7 @@
 | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ) | 3:22 | 2020-10-20 | 2023-02-15 |
 | [Freedom](https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Freedom](https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT) | 3:38 | 2023-10-27 | 2023-11-04 |
 | [Frenética](https://open.spotify.com/track/2c5N6MfGfjK6UluSl0LlQr) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Frenética](https://open.spotify.com/album/5OyDHVhhlBuAMGhiAKQgzC) | 2:34 | 2024-05-10 | 2024-06-08 |
-| [Fruto do Tempo](https://open.spotify.com/track/4bK5J8VeSYMKmwSvyyHCNO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Fruto Do Tempo](https://open.spotify.com/album/3fHaNVV7o76HmvDVehDxID) | 4:04 | 2026-03-27 |  |
+| [Fruto do Tempo](https://open.spotify.com/track/4bK5J8VeSYMKmwSvyyHCNO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Fruto Do Tempo](https://open.spotify.com/album/3fHaNVV7o76HmvDVehDxID) | 4:04 | 2026-03-27 | 2026-06-12 |
 | [fugitivos :\)](https://open.spotify.com/track/7pR26BEmHIqKzHxeJvhth6) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [fugitivos :\)](https://open.spotify.com/album/3KQJDIJ0CzU7hHqlwEFglu) | 3:26 | 2023-02-14 | 2023-07-29 |
 | [Fui Eu](https://open.spotify.com/track/0WNvVEICbJHAqNzGFCDbGy) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [ESTEVEZ](https://open.spotify.com/artist/5yH9W1LzE41x3JLYZg3Bkb) | [Maloqueiro Romântico](https://open.spotify.com/album/7Bxps6gouwgh9yoUuDx78K) | 2:32 | 2023-03-03 | 2023-08-19 |
 | [furta\-cor](https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [furta\-cor](https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT) | 2:45 | 2025-04-25 | 2026-02-07 |

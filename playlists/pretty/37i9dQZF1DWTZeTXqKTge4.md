@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Souldia
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,908 likes - 95 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,909 likes - 95 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 45 | [Phone Numbers](https://open.spotify.com/track/1XGlWjrNG4RRip8G7iXCdQ) | [DO, the Outcast](https://open.spotify.com/artist/2VCNkwwvTrXkHJ09SbssUP), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Lightitupav](https://open.spotify.com/artist/388JJVyR92c0JwTkEPOiHB), [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [LUX Ultra](https://open.spotify.com/album/4GtRDAsovOqx7Wv0qLrzII) | 2:53 |
 | 46 | [Chapitre](https://open.spotify.com/track/1bBldfyoOZsZbs8ln0vtQn) | [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW), [Sins '99](https://open.spotify.com/artist/004pH23lbCq906vbJ6UAdg) | [Chapitre](https://open.spotify.com/album/6NNuPmpsifJj38yJ9U7zR3) | 3:04 |
 | 47 | [Stuck dans mon mind](https://open.spotify.com/track/28MYgGOrEUf7sKyvbYWMUA) | [JULIU$](https://open.spotify.com/artist/6ifeyY7Ovg6EJqCWUHabXQ) | [Stuck dans mon mind](https://open.spotify.com/album/5WHXsCdrYWm4Q0rdFQ9xa0) | 2:59 |
-| 48 | [la mm merde](https://open.spotify.com/track/2E65VzB28mJw8uH3SY5J1z) | [Merci Manon & LeDji](https://open.spotify.com/artist/5EypuNhqwPmbbebtA2OA7a), [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr) | [Merci LeDji](https://open.spotify.com/album/2dJ4p1m9gxTHYFhXqgKh3G) | 2:30 |
+| 48 | [la mm merde](https://open.spotify.com/track/2E65VzB28mJw8uH3SY5J1z) | [Merci Manon](https://open.spotify.com/artist/7tg2NaDZgB7xRlFuRGtlsy), [LeDji](https://open.spotify.com/artist/0u4SuQvBKJ7zwNWT3RWkph), [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr) | [Merci LeDji](https://open.spotify.com/album/2dJ4p1m9gxTHYFhXqgKh3G) | 2:30 |
 | 49 | [BASSE COUTURE](https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [BASSE COUTURE](https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc) | 2:51 |
 | 50 | [64BINKS](https://open.spotify.com/track/24kmCgHeEreDw16npFBbBE) | [NANII](https://open.spotify.com/artist/1Srwnwnweg4tOoujcFXD1W) | [64BINKS](https://open.spotify.com/album/2cpLJdBuFDyaGOYFoRagby) | 2:28 |
 | 51 | [Moi et Mon Gang](https://open.spotify.com/track/03dEtdwTMUs9x0JIFDsxxP) | [Yellow Rice](https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD), [RYZE](https://open.spotify.com/artist/4jcVG3pRqEh7iy3YHTym3J), [Montex](https://open.spotify.com/artist/3BJjfscuEDaZv67skSDCTg), [BIGG REESH](https://open.spotify.com/artist/2mLrTurDfQm3CRjpwivStQ) | [Moi et Mon Gang](https://open.spotify.com/album/0D0Sq1ONUm93e4P4jNFeYC) | 3:34 |

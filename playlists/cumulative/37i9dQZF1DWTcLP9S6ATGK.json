@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Rio Lahskart, Andi Rianto",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Kenriz",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -5433,6 +5433,24 @@
     },
     {
       "album": {
+        "name": "Hatiku Bukan Batu",
+        "url": "https://open.spotify.com/album/5NWcShCk84VjC2BQhx0VtY"
+      },
+      "artists": [
+        {
+          "name": "Repvblik",
+          "url": "https://open.spotify.com/artist/7tohsn2AQCjic6ktgTbhU4"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223898,
+      "name": "Hatiku Bukan Batu",
+      "url": "https://open.spotify.com/track/5IJNSKKfuJViNCACuQxHxv"
+    },
+    {
+      "album": {
         "name": "Hatiku Telah Mati",
         "url": "https://open.spotify.com/album/3Vj4jhntHOq4iozf3VFx9S"
       },
@@ -5953,6 +5971,24 @@
     },
     {
       "album": {
+        "name": "Ingin Pulang",
+        "url": "https://open.spotify.com/album/32qsslFXDGu31tlymIcVlZ"
+      },
+      "artists": [
+        {
+          "name": "Inocent Purwanto",
+          "url": "https://open.spotify.com/artist/4XTKI7Gl0YBmD6J5Ga0KwQ"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233409,
+      "name": "Ingin Pulang",
+      "url": "https://open.spotify.com/track/5o7lt41fSsIQEoII8XtxhC"
+    },
+    {
+      "album": {
         "name": "Ini Panggung Sandiwara",
         "url": "https://open.spotify.com/album/5xrCorNSSyFkMWaSjocK83"
       },
@@ -6163,6 +6199,24 @@
     },
     {
       "album": {
+        "name": "(Jangan) Jatuh Cinta",
+        "url": "https://open.spotify.com/album/1l1ET8aN8W78ajd5RJ9lpc"
+      },
+      "artists": [
+        {
+          "name": "Dee Lestari",
+          "url": "https://open.spotify.com/artist/1mCcTwpEABnSVB4D8rXfRN"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201950,
+      "name": "Jadi Udara",
+      "url": "https://open.spotify.com/track/6yJhH3vYp2W5zuJjAtixsq"
+    },
+    {
+      "album": {
         "name": "Jahat Sekali",
         "url": "https://open.spotify.com/album/7uGeYMbJ1fAcPRywmZbVFv"
       },
@@ -6268,6 +6322,24 @@
       "duration_ms": 150731,
       "name": "Jangan Baper",
       "url": "https://open.spotify.com/track/5eGZW5WmjK4287BlW1t6B1"
+    },
+    {
+      "album": {
+        "name": "Jangan Buang Aku (From \"Jangan Buang Ibu\")",
+        "url": "https://open.spotify.com/album/3tMhg0MILsOCiIvXU6KwhP"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243620,
+      "name": "Jangan Buang Aku - From \"Jangan Buang Ibu\"",
+      "url": "https://open.spotify.com/track/6301hTQ5Nfhslz9nuwTY44"
     },
     {
       "album": {
@@ -11779,6 +11851,24 @@
     },
     {
       "album": {
+        "name": "puisi lama",
+        "url": "https://open.spotify.com/album/4Drty5NWppimN5X6tuYXt7"
+      },
+      "artists": [
+        {
+          "name": "buN",
+          "url": "https://open.spotify.com/artist/3ehgRVx1JRzUs3cydKG09b"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209125,
+      "name": "puisi lama",
+      "url": "https://open.spotify.com/track/6VQodtAc2AhGeFZwsAUarC"
+    },
+    {
+      "album": {
         "name": "Pulang",
         "url": "https://open.spotify.com/album/1chUn9HkqnLMTgmpG1Vdx9"
       },
@@ -14041,6 +14131,24 @@
     },
     {
       "album": {
+        "name": "Semesta",
+        "url": "https://open.spotify.com/album/7DIuyyWBJwaqFwVUJGxTfL"
+      },
+      "artists": [
+        {
+          "name": "Kenriz",
+          "url": "https://open.spotify.com/artist/0KNqyNkuttIabEfX3lSUuT"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Semesta",
+      "url": "https://open.spotify.com/track/7BMJc5ZALrkYLjI5XmjVfk"
+    },
+    {
+      "album": {
         "name": "Hitam Putih",
         "url": "https://open.spotify.com/album/5rTrfbcQlTr807zJKhH5zN"
       },
@@ -14596,6 +14704,24 @@
       "duration_ms": 222920,
       "name": "Setelah Kau Pergi",
       "url": "https://open.spotify.com/track/5yHaKQv2PU3Gzvv7dU0kYG"
+    },
+    {
+      "album": {
+        "name": "Setengah Hadir",
+        "url": "https://open.spotify.com/album/6UGf7q0SBWekEU9TmLrz7m"
+      },
+      "artists": [
+        {
+          "name": "Nakei",
+          "url": "https://open.spotify.com/artist/6QR5ebgmPLS9iSfBn5Dpns"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Setengah Hadir",
+      "url": "https://open.spotify.com/track/5csZMOzWY8o1yFWS1IlsFR"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Indie Update](https://open.spotify.com/playlist/37i9dQZF1DXbBKF9yWSvWR)
 
-> Wekelijkse update met de beste Indie releases\. Cover: Sarah Julia \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\)
+> Wekelijkse update met de beste Indie releases\. Cover: Isolde Lasoen
 
 871 songs - 2 day 3 hr 7 min
 

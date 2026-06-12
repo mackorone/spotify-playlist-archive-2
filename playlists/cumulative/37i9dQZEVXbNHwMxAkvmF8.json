@@ -12870,7 +12870,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 156678,
       "name": "Gyerekek",
       "url": "https://open.spotify.com/track/08na9p4pgKiHEoxZQwMdB2"
@@ -13374,7 +13374,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
@@ -18446,7 +18446,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Lidokain",
       "url": "https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx"
@@ -30623,6 +30623,24 @@
     },
     {
       "album": {
+        "name": "SZABADABB",
+        "url": "https://open.spotify.com/album/5yV5nkqCkv6yxGKdd8CyIE"
+      },
+      "artists": [
+        {
+          "name": "BALKAN VIP",
+          "url": "https://open.spotify.com/artist/4BsLUhw1OJirbGZrIyd1GN"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212459,
+      "name": "SZABADABB",
+      "url": "https://open.spotify.com/track/0Yh8IsAQqaleHcdiMCmu5y"
+    },
+    {
+      "album": {
         "name": "Torz",
         "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
       },
@@ -34632,7 +34650,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 236523,
       "name": "utema",
       "url": "https://open.spotify.com/track/6rrn0Jzt0dDSQ9B1ZBiuCt"
@@ -36068,7 +36086,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 157586,
       "name": "WAY TOO HIGH",
       "url": "https://open.spotify.com/track/17WIFL0Bicx4Eo3133nu4S"

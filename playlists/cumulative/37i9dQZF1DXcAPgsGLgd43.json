@@ -1415,6 +1415,32 @@
     },
     {
       "album": {
+        "name": "Batonga",
+        "url": "https://open.spotify.com/album/0iXDBvcWsZaRPYHsFrlAfC"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169180,
+      "name": "Batonga",
+      "url": "https://open.spotify.com/track/6KhYXzR7FRt3UoVjC54fzh"
+    },
+    {
+      "album": {
         "name": "Batucada",
         "url": "https://open.spotify.com/album/42lkhLfrZK7M3Sx5C2tJPH"
       },
@@ -2006,7 +2032,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 183012,
       "name": "Calabazo",
       "url": "https://open.spotify.com/track/7y5qPjhd5ZCztJIahQt1Mz"
@@ -3432,6 +3458,32 @@
       "duration_ms": 145908,
       "name": "Delante",
       "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
+    },
+    {
+      "album": {
+        "name": "Delirando",
+        "url": "https://open.spotify.com/album/5rpIArxqU0mIe7h9pbP9cP"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        },
+        {
+          "name": "Ang\u00e9lica Garcia",
+          "url": "https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341000,
+      "name": "Delirando",
+      "url": "https://open.spotify.com/track/1aYt9J6gJAMGTaiceHtzmG"
     },
     {
       "album": {
@@ -7101,6 +7153,28 @@
     },
     {
       "album": {
+        "name": "Morena Mia",
+        "url": "https://open.spotify.com/album/0BY6BA6sIywNDNgg2ut9SB"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        },
+        {
+          "name": "Mathieu Ruz",
+          "url": "https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210476,
+      "name": "Morena Mia",
+      "url": "https://open.spotify.com/track/6BMMnimimXSMzMwiNM78NT"
+    },
+    {
+      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
       },
@@ -7426,7 +7500,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 188650,
       "name": "No Pare",
       "url": "https://open.spotify.com/track/4E6M6muDadCiTQ72KUELbB"
@@ -8636,7 +8710,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 377000,
       "name": "Que Rico",
       "url": "https://open.spotify.com/track/4d0EQg1pramdmWPKcIaGWh"

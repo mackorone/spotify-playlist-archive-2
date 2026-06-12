@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: Day1",
+  "description": "The best new AUS & NZ Rap. Cover: Rops1",
   "name": "Local Hype",
   "tracks": [
     {
@@ -2095,6 +2095,24 @@
     },
     {
       "album": {
+        "name": "Back 2 Back",
+        "url": "https://open.spotify.com/album/3che3Imd2n4Tte2JEZVLWM"
+      },
+      "artists": [
+        {
+          "name": "Rops1",
+          "url": "https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Back 2 Back",
+      "url": "https://open.spotify.com/track/7dJsy8JHa5wRS1vXQW0FoY"
+    },
+    {
+      "album": {
         "name": "Back Then",
         "url": "https://open.spotify.com/album/3crncbKSH0N4NZ6b5SloP6"
       },
@@ -3188,6 +3206,28 @@
       "duration_ms": 137142,
       "name": "BigBag",
       "url": "https://open.spotify.com/track/0RBxEXzaKvC3ZQIQV5WftZ"
+    },
+    {
+      "album": {
+        "name": "Bikie (feat. phreshboyswag)",
+        "url": "https://open.spotify.com/album/7w67SKfPInpvvOloNTTIQU"
+      },
+      "artists": [
+        {
+          "name": "Sidney Phillips",
+          "url": "https://open.spotify.com/artist/0S3fNZXYsaHufrQq3GsO2T"
+        },
+        {
+          "name": "phreshboyswag",
+          "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188893,
+      "name": "Bikie (feat. phreshboyswag)",
+      "url": "https://open.spotify.com/track/2APeZ1qvACrgCGEv7vt9Yu"
     },
     {
       "album": {
@@ -8509,6 +8549,24 @@
     },
     {
       "album": {
+        "name": "FAIR DINKUM",
+        "url": "https://open.spotify.com/album/4pyxnGUHJvDanfdvtgduqO"
+      },
+      "artists": [
+        {
+          "name": "Sollyy",
+          "url": "https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156375,
+      "name": "FAIR DINKUM",
+      "url": "https://open.spotify.com/track/22je5kAHjwf98UwKbLUfh8"
+    },
+    {
+      "album": {
         "name": "FAKE",
         "url": "https://open.spotify.com/album/1rGP95d57c4ovnzxNEfQDC"
       },
@@ -10456,7 +10514,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 189000,
       "name": "Get That",
       "url": "https://open.spotify.com/track/7C0NUZjmIYuUg4YkDc6Uf8"
@@ -13436,7 +13494,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 167795,
       "name": "If E Dey Go",
       "url": "https://open.spotify.com/track/3WUCGHBeXOd9JVCR1aNbkU"
@@ -13502,6 +13560,24 @@
       "duration_ms": 197000,
       "name": "If You Asking Me",
       "url": "https://open.spotify.com/track/3G6Vyc9oNc2HcbwDekndpW"
+    },
+    {
+      "album": {
+        "name": "HAIRY",
+        "url": "https://open.spotify.com/album/1OpqcIEmyASxe2vHuWz1pH"
+      },
+      "artists": [
+        {
+          "name": "WHO SHOT SCOTT",
+          "url": "https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195063,
+      "name": "IM YOUR ALIEN",
+      "url": "https://open.spotify.com/track/7MFu1gxAYjKcxY45JrVAPZ"
     },
     {
       "album": {
@@ -19044,7 +19120,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 123016,
       "name": "NO MAS",
       "url": "https://open.spotify.com/track/4HUurRgqiQtbgBUbydsE80"
@@ -27634,7 +27710,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 151265,
       "name": "THREESIXFIVE",
       "url": "https://open.spotify.com/track/5awriPtey6bIb1xqF87QCz"
@@ -30760,7 +30836,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 189986,
       "name": "whistle while I walk",
       "url": "https://open.spotify.com/track/1b4ZJ97qyW0PAAydBfBcIz"

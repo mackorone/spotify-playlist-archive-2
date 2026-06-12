@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: DJ Seinfeld
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,584 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,587 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Enterprise](https://open.spotify.com/track/6FGiBBgovna7p0UmacliZY) | [jonty](https://open.spotify.com/artist/6YJHE94iyYJhyxsg8QKXT2) | [Enterprise](https://open.spotify.com/album/6UxXYyL7JaGF7UDFK6elee) | 4:40 |
 | 100 | [Re:connection](https://open.spotify.com/track/6PsFGnGFl0fTmSUWw4h4XF) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Re:connection](https://open.spotify.com/album/0Z6XYZezT9d0lFm6XrTvrn) | 4:23 |
 
-Snapshot ID: `AAAAAF01GuJZBSPV0YaW8v7bHGkqtXOJ`
+Snapshot ID: `AAAAANv92ndUxYI4eAjiAOEkEcEtw/z9`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "New folk & americana driving the current, every week. Cover: Mon Rov\u00eea",
+  "description": "New folk & americana driving the current, every week. Cover: Jensen McRae",
   "name": "Folk Frequency",
   "tracks": [
     {
@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Just My Friend",
+        "url": "https://open.spotify.com/album/5VQqBCiCDRrQJg3jFQvqli"
+      },
+      "artists": [
+        {
+          "name": "Jordan Patterson",
+          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "Just My Friend",
+      "url": "https://open.spotify.com/track/7lbIYhWkuK5j96KeoUHgaW"
+    },
+    {
+      "album": {
         "name": "Urban Driftwood",
         "url": "https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ"
       },
@@ -1661,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "Taboo",
+        "url": "https://open.spotify.com/album/1g3VI1UlJcKDPP4bDihhdB"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219973,
+      "name": "One More Cowboy",
+      "url": "https://open.spotify.com/track/2wkmQmHZLIUqmzgg2blK6j"
+    },
+    {
+      "album": {
         "name": "Out Loud",
         "url": "https://open.spotify.com/album/0CDlc31GOpMUKyEU9pJX5X"
       },
@@ -2018,6 +2054,32 @@
       "duration_ms": 225266,
       "name": "South Gotta Change",
       "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
+    },
+    {
+      "album": {
+        "name": "Spring / Clarion",
+        "url": "https://open.spotify.com/album/6lO0dNLDQIo3GSJ6tgQcDZ"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        },
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75562,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/7d70u4B2GwWLp9divxNa2c"
     },
     {
       "album": {

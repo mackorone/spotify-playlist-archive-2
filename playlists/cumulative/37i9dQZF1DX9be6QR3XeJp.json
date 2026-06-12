@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Internet Cafe",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Pixie McCann",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -3274,6 +3274,24 @@
       "duration_ms": 165860,
       "name": "little things",
       "url": "https://open.spotify.com/track/01m94gvzukbNDEZGjjhx4R"
+    },
+    {
+      "album": {
+        "name": "Indigo, Vibrant and New",
+        "url": "https://open.spotify.com/album/67nJ95a1e01XxgMjNZkXRN"
+      },
+      "artists": [
+        {
+          "name": "Pixie McCann",
+          "url": "https://open.spotify.com/artist/2JT4el59Lvkj4FrhbzdBSu"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222214,
+      "name": "Living in Memory",
+      "url": "https://open.spotify.com/track/0Oh0bIJoGD0KM48pEKDm3z"
     },
     {
       "album": {

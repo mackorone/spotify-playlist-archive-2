@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 193433,
       "name": "About Nothing",
       "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
@@ -1210,6 +1210,24 @@
       "duration_ms": 265625,
       "name": "Breaking Up Is Hard To Do",
       "url": "https://open.spotify.com/track/7BMEbFtMbTuacawRXMQ0kC"
+    },
+    {
+      "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ"
+      },
+      "artists": [
+        {
+          "name": "The Magnolia",
+          "url": "https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208173,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
     },
     {
       "album": {
@@ -3126,7 +3144,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 171480,
       "name": "Fortfarande vi",
       "url": "https://open.spotify.com/track/4RXAKqPueNdZbqC18wP2lG"
@@ -5819,6 +5837,24 @@
     },
     {
       "album": {
+        "name": "Liten o stor",
+        "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312103,
+      "name": "Liten o stor",
+      "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
+    },
+    {
+      "album": {
         "name": "Little Human",
         "url": "https://open.spotify.com/album/2TOprA3fQujE2Fb4Yz1j2y"
       },
@@ -7861,6 +7897,32 @@
     },
     {
       "album": {
+        "name": "R\u00f6k i dina \u00f6gon",
+        "url": "https://open.spotify.com/album/2Fn6Q9UqLJKmHGHzbjjrW6"
+      },
+      "artists": [
+        {
+          "name": "bob hund",
+          "url": "https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx"
+        },
+        {
+          "name": "Popkollo Stockholm",
+          "url": "https://open.spotify.com/artist/1bN6McVlKkx0rj73J2qNG3"
+        },
+        {
+          "name": "Esther",
+          "url": "https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333200,
+      "name": "R\u00f6k i dina \u00f6gon",
+      "url": "https://open.spotify.com/track/4JnyGZxCIbMJKQ60u7qYor"
+    },
+    {
+      "album": {
         "name": "R\u00f6r vid mig",
         "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
       },
@@ -9740,7 +9802,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 182567,
       "name": "T\u00e5rar",
       "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"

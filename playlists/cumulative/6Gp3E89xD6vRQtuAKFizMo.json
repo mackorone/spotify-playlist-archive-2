@@ -5269,6 +5269,28 @@
     },
     {
       "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/3e7zouZDtg0HxoB0t23EJb"
+      },
+      "artists": [
+        {
+          "name": "WAKE",
+          "url": "https://open.spotify.com/artist/7Jk1Iang46XcykdfRYK1al"
+        },
+        {
+          "name": "Luma",
+          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225521,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/1ikBG3dhSAhHarwUVW1CyQ"
+    },
+    {
+      "album": {
         "name": "In The Dark (feat. Maria Mathea)",
         "url": "https://open.spotify.com/album/5T6MkcNfbHXM0GqxBTtprV"
       },

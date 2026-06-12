@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Ndarboy Genk
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: OMWAWES
 
-588 songs - 2 day 1 hr 23 min
+590 songs - 2 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Bahagiamu Loroku](https://open.spotify.com/track/2klu3MQzMY8SLw2s680TCP) | [Twentynine](https://open.spotify.com/artist/2qcBwl4HXW2OWYkanzzkuL) | [Bahagiamu Loroku](https://open.spotify.com/album/18RWsY2cVFby8RVDfXF9pw) | 4:07 | 2024-10-18 | 2025-02-21 |
 | [Baik Baik Saja](https://open.spotify.com/track/7mbUZGtg6TvjTRzd1G3cDm) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Baik Baik Saja](https://open.spotify.com/album/5v7pFwFKldF7xm3Jj5PI72) | 4:07 | 2025-03-20 | 2025-05-23 |
 | [Bajirut](https://open.spotify.com/track/2d7MsxaYJC0NSNw0u0WrWv) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Bajirut](https://open.spotify.com/album/63aUmI5XPt0Bt2BhM1bx6i) | 5:05 | 2024-11-14 | 2025-03-21 |
+| [BALENI](https://open.spotify.com/track/6ApxnvWcGnt45Du1AQyhLd) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu) | [BALENI](https://open.spotify.com/album/66m0SRdVzSxrNDhVUw0R0Q) | 5:33 | 2026-06-11 |  |
 | [Balik Kanan Wae](https://open.spotify.com/track/3r55XFoo88uz9e084F2RFU) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Balik Kanan Wae](https://open.spotify.com/album/73xxVGK2GFvA8yxTBvDjGz) | 4:06 | 2022-05-26 | 2023-05-20 |
 | [Banyu Moto](https://open.spotify.com/track/1UqXKWMR9HXUSabmXxxUiB) | [Sleman Receh](https://open.spotify.com/artist/0jcgtGZTWxoepAUgADwcHP) | [Banyu Moto](https://open.spotify.com/album/4aeI54j6CouhfK7LqwJpCV) | 4:09 | 2022-05-26 | 2023-12-09 |
 | [BAPAK](https://open.spotify.com/track/4egkSlCKoapEw6H9vFIHnN) | [Gildcoustic](https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU) | [BAPAK](https://open.spotify.com/album/430DIwr1nkXiIhJnvH5ASZ) | 4:53 | 2025-03-27 | 2025-06-27 |
@@ -482,6 +483,7 @@
 | [Segara Madu](https://open.spotify.com/track/4kMtihSvVqRhr45eK5uz39) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Segara Madu](https://open.spotify.com/album/1KljrA6Su3zWyhLPZt9byR) | 4:41 | 2024-11-21 | 2025-09-20 |
 | [Segara Madu \- Live](https://open.spotify.com/track/7Id7tgYD70axlBdCtDTzk3) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Segara Madu \(Live\)](https://open.spotify.com/album/6l7CzsJBYEFlf8SbPOdY6K) | 5:55 | 2025-08-21 | 2025-11-14 |
 | [Segara Madu \- Live](https://open.spotify.com/track/0qVtwT8OOMIYyzEhKAsf45) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Segara Madu \(Live\)](https://open.spotify.com/album/1H4fbANs1S0ZsSBCuWVlOg) | 6:00 | 2024-11-28 | 2025-02-21 |
+| [Sego Bubur](https://open.spotify.com/track/0LbxWBk6IeAAqrOHf2ls54) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Sego Bubur](https://open.spotify.com/album/7lnclsFtu2nLlS3jfRjwxL) | 4:44 | 2026-06-11 |  |
 | [Sekip \(Setia Kui Pekok\)](https://open.spotify.com/track/4ZiayQbjKSz98hbUygBrc6) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sekip \(Setia Kui Pekok\)](https://open.spotify.com/album/1tnRVtz5YEMb8eagnIkgz6) | 5:28 | 2026-05-21 |  |
 | [Sekti](https://open.spotify.com/track/4L7Jom9mgHDWSprlUSK2jq) | [Suliyana](https://open.spotify.com/artist/4TJKjrYnqDXwBi1xJ5CyUc) | [Sekti](https://open.spotify.com/album/2DBAfqXXPegevjiLQLwllO) | 4:42 | 2024-10-24 | 2025-06-27 |
 | [Sekuat Atiku](https://open.spotify.com/track/0Fb8DFh95IctjwyPU25eZo) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sekuat Atiku](https://open.spotify.com/album/1RNdZCb01OGZ6m9mYpuoNn) | 4:42 | 2022-05-26 | 2022-06-10 |

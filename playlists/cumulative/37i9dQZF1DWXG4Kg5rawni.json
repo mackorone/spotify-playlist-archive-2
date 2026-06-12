@@ -417,6 +417,28 @@
     },
     {
       "album": {
+        "name": "Cantares",
+        "url": "https://open.spotify.com/album/0YkLal3wUjbk9c02TekuVO"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        },
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205593,
+      "name": "Deus me deu voc\u00ea Aleluia",
+      "url": "https://open.spotify.com/track/3pgViD9u5HevoCKdgdS7dG"
+    },
+    {
+      "album": {
         "name": "Deus Voc\u00ea e Eu",
         "url": "https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU"
       },
@@ -762,7 +784,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 230878,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"

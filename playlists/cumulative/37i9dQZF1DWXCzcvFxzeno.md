@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-378 songs - 1 day 1 hr 33 min
+379 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [CWWDBI](https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [CWWDBI](https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI) | 3:19 | 2024-10-24 | 2025-07-25 |
 | [Daitarn](https://open.spotify.com/track/1e11DOVqj6bIxTuoGdYDcI) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Daitarn](https://open.spotify.com/album/3y7pMrwrSgyGfNDVfKO7cU) | 3:23 | 2025-07-25 | 2025-10-11 |
 | [Dam Dam Dam](https://open.spotify.com/track/2xBXLFJRja72cfOVR4o8WY) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Vortek's](https://open.spotify.com/artist/6Ztv937rk7iQxBObBW9ye0) | [Dam Dam Dam](https://open.spotify.com/album/2Mm67B8tYrlGiFyOq0wzpw) | 5:48 | 2024-11-29 |  |
+| [Dance In The Light](https://open.spotify.com/track/7hFfVcwHyNWVTbLCdT4wnz) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Dance In The Light](https://open.spotify.com/album/0QVgj3nXq5v9kDhx8Ox3cF) | 3:50 | 2026-06-11 |  |
 | [Dance MothaF\*cka \- David Temessi Rework](https://open.spotify.com/track/3nVdemOGu6iLeDFpyS8KIf) | [Deep91](https://open.spotify.com/artist/7k4JimOV8Sn7yXbPbjbvBW), [David Temessi](https://open.spotify.com/artist/0SH8Lcl8vQXfyIDVRGSRwP) | [Dance MothaF\*cka \(David Temessi Rework\)](https://open.spotify.com/album/2plhnrhPtvomfOwjj22Aoc) | 5:15 | 2024-11-13 | 2025-02-13 |
 | [DANCE NOW](https://open.spotify.com/track/7dLFPSD8NW1duFyR8bUEfe) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [DANCE NOW](https://open.spotify.com/album/3yoZGo9bYG7n1gW9lR3XJr) | 4:00 | 2025-05-23 |  |
 | [Dance With The Devil \(The 6th Gate\) \(Reinier Zonneveld Remix\)](https://open.spotify.com/track/4MD1o8JcULNAz85S6Ld57J) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Dance With The Devil \(The 6th Gate\) \(Reinier Zonneveld Remix\)](https://open.spotify.com/album/7eTVuYNi1UiN2cinZkJp56) | 3:12 | 2024-04-09 | 2025-10-22 |
@@ -144,7 +145,7 @@
 | [Full Belly](https://open.spotify.com/track/3FO2udFq5htKXTN61UwDNU) | [Cera Khin](https://open.spotify.com/artist/49QMv0RvuxcUG8Xk6YweEz) | [Full Belly](https://open.spotify.com/album/3RzpO4RjhbgfiAJjmxoM67) | 5:17 | 2024-04-09 | 2024-08-17 |
 | [Fury](https://open.spotify.com/track/19VttUxQp2uerPFEZoLQGi) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Fury EP](https://open.spotify.com/album/4FDkRB2ZvvFP6yo5MONB6E) | 4:00 | 2025-11-07 | 2026-02-11 |
 | [Get High](https://open.spotify.com/track/3cCaThaCDh36KtTR64QWrv) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Get High](https://open.spotify.com/album/1inNSojfp9GpD1UjNsQqSP) | 2:26 | 2026-04-10 |  |
-| [Get Naughty](https://open.spotify.com/track/2jLJXddJOrdDh8XiL0K9nt) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Get Naughty](https://open.spotify.com/album/4xknrXxDZWckpqXI2v4Fgo) | 1:57 | 2025-04-25 |  |
+| [Get Naughty](https://open.spotify.com/track/2jLJXddJOrdDh8XiL0K9nt) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Get Naughty](https://open.spotify.com/album/4xknrXxDZWckpqXI2v4Fgo) | 1:57 | 2025-04-25 | 2026-06-12 |
 | [Get Ready](https://open.spotify.com/track/50VU7qfIoUAqG1tzJwtmzh) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Father 808](https://open.spotify.com/artist/6sggmB5DTVWDcShHGMqYi6) | [Get Ready](https://open.spotify.com/album/2afAHCgfm4r4unfH8lI7kR) | 2:14 | 2025-04-04 | 2026-05-15 |
 | [GET THE FUCK OUT](https://open.spotify.com/track/5Hb3P9vrw0364dyW82Uyjd) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [GET THE FUCK OUT](https://open.spotify.com/album/71MKbWH7kgU3xHaj05KxXK) | 2:49 | 2025-03-19 |  |
 | [Get Up](https://open.spotify.com/track/3cwufpzK10CqK1wFWZCRxj) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [Get Up](https://open.spotify.com/album/25UZcKrzHZ5LqkSQfX1nSL) | 3:09 | 2025-02-07 | 2025-02-21 |

@@ -19907,6 +19907,24 @@
     },
     {
       "album": {
+        "name": "Drop It",
+        "url": "https://open.spotify.com/album/6KPUGArw4CAk5S3iIw0ChK"
+      },
+      "artists": [
+        {
+          "name": "Cobra queen",
+          "url": "https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213420,
+      "name": "Drop It",
+      "url": "https://open.spotify.com/track/42PVBtF5l7oduR8hc1MV6u"
+    },
+    {
+      "album": {
         "name": "Drowned in Happiness",
         "url": "https://open.spotify.com/album/2ig521z90zucSyjziFjJXo"
       },

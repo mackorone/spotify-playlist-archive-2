@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAgXDQhdIIIuolIcPKvn4xzHFaaJHuM",
+  "snapshot_id": "AAAgXnBxkMBwWKNCAo1qMCCXNaSp5ALd",
   "tracks": [
     {
       "added_at": "2022-05-03 16:09:53",
@@ -4847,6 +4847,42 @@
       "duration_ms": 534213,
       "name": "Found God in a Tomato",
       "url": "https://open.spotify.com/track/4xBFKgS6VAmpmeoG0WJ9Pl"
+    },
+    {
+      "added_at": "2026-06-11 21:11:23",
+      "album": {
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 212002,
+      "name": "ME JALO",
+      "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
+    },
+    {
+      "added_at": "2026-06-11 21:13:01",
+      "album": {
+        "name": "Con dolor",
+        "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 203732,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/64sCDUnbNVjhWyfYmVrTOD"
     }
   ],
   "unique_name": "main ",

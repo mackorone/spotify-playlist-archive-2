@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Asim Azhar
 
-538 songs - 1 day 4 hr 53 min
+539 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Khamoshiyan](https://open.spotify.com/track/5gPFmi4oRZ5OUVw8Z2OZZU) | [khalidkhan](https://open.spotify.com/artist/1lRlnbVFAKIvQzclGBSA6j) | [Khamoshiyan](https://open.spotify.com/album/4u8s4kNAftLqvP6Kt5S5QU) | 2:41 | 2026-01-09 | 2026-02-21 |
 | [Khasara](https://open.spotify.com/track/1TWkdQ2k7ysSYwla66Ys6I) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Khasara](https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA) | 2:40 | 2026-03-27 | 2026-06-05 |
 | [KHAT](https://open.spotify.com/track/57wCsgKjm7TNHgvLmyy7ny) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Hassan Rai](https://open.spotify.com/artist/7mdBGoLdvF4OqvedvcgiuE), [Qasim Dahir](https://open.spotify.com/artist/1yk4ylocCYUE7BP6mwRNar) | [KHAT](https://open.spotify.com/album/0Yc93fOJGWuvjKIoEmsEhV) | 3:20 | 2025-11-14 | 2026-04-25 |
-| [KHAYAL](https://open.spotify.com/track/6iLARAw87ATUTrqYx04p1I) | [rizvye](https://open.spotify.com/artist/0MTMRFf0JEdHdVEwrWnrIU) | [KHAYAL](https://open.spotify.com/album/2NxyzyqZL97qnvSIUyEWfr) | 2:50 | 2026-06-05 |  |
+| [KHAYAL](https://open.spotify.com/track/6iLARAw87ATUTrqYx04p1I) | [rizvye](https://open.spotify.com/artist/0MTMRFf0JEdHdVEwrWnrIU) | [KHAYAL](https://open.spotify.com/album/2NxyzyqZL97qnvSIUyEWfr) | 2:50 | 2026-06-05 | 2026-06-12 |
 | [Khilnay Ko](https://open.spotify.com/track/3afvJxGQgUDWUG3mEAdPQr) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 4:29 | 2025-04-18 | 2025-05-02 |
 | [Khizaan](https://open.spotify.com/track/3WDxldpZLZkjVCwE892DVp) | [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Khizaan](https://open.spotify.com/album/2PJV2dGwrn0OROSL1sNYUo) | 2:44 | 2024-06-28 | 2024-11-08 |
 | [Khoya](https://open.spotify.com/track/0rFvqsz0TII4elXOlyweNe) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Khoya](https://open.spotify.com/album/1GHCk7MgEtpsw9m7zpdMd3) | 2:46 | 2025-11-07 | 2026-04-25 |
@@ -328,6 +328,7 @@
 | [moon](https://open.spotify.com/track/0dzEAbC8W01T1uJb1BDRtA) | [Bilal Khalid](https://open.spotify.com/artist/2KsaM9MOzw8IxyaxiN9YXf), [Daniyaal Omar](https://open.spotify.com/artist/2GbKYLI5CCtuGpz1tdubYz), [MUSAFIRR](https://open.spotify.com/artist/6cyLY2qToYqZzBOtJMdL4b) | [moon](https://open.spotify.com/album/6tPqgaMe31wJ0PYNG0LoBu) | 3:39 | 2024-06-28 | 2025-01-17 |
 | [Mouj](https://open.spotify.com/track/01JBOoSGUT0zBWW5jZJyd7) | [Roziisho](https://open.spotify.com/artist/5fKtW6lU8M96Yg77YddvG2) | [Mouj](https://open.spotify.com/album/7jZempsIS4n60E240JuApE) | 3:43 | 2025-12-12 | 2025-12-21 |
 | [Msg](https://open.spotify.com/track/6Lin0LjvIgmUxTFYi16Oe3) | [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv), [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy) | [Msg](https://open.spotify.com/album/4Ayso3L8vfUZVX2et93vlR) | 3:13 | 2026-05-15 |  |
+| [Mujasme](https://open.spotify.com/track/5gMd2h4GqiwJ4n2pIYaqKL) | [Malihaa](https://open.spotify.com/artist/60nVICLgl6zIgetp48OZCZ), [Zain kazmi](https://open.spotify.com/artist/4S8tOzdNUO2KGLn7bXyWmr) | [Mujasme](https://open.spotify.com/album/3jHUm7JWRkgANp2eisxH0r) | 3:33 | 2026-06-11 |  |
 | [Mujh Se Duur](https://open.spotify.com/track/0wCtnWUf3RrjUWSWM4FhP8) | [Eid Milan](https://open.spotify.com/artist/7BKTvq04dovtVmBCJN2jQj) | [LOLLYWOOD TAPES](https://open.spotify.com/album/57mBQ0Rbj7gyllup5448wy) | 1:13 | 2025-06-11 | 2025-08-09 |
 | [Mukhlis](https://open.spotify.com/track/3PLNFpswlz1PuscQkDnbwX) | [Zain Avaan](https://open.spotify.com/artist/1gCUJ5ROBafToK5BttUm9y) | [Mukhlis](https://open.spotify.com/album/23u6QC8BpfpVEHQGmHatpx) | 3:33 | 2026-01-09 | 2026-05-16 |
 | [Mumtaaz](https://open.spotify.com/track/5K31v6y0QwaeRRABsCr84R) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Mumtaaz](https://open.spotify.com/album/68UHkfoFPcC5MvJVcpeBIt) | 3:31 | 2025-02-11 | 2025-09-18 |

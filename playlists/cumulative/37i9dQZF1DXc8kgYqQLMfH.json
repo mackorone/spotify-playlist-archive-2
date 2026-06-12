@@ -15657,6 +15657,24 @@
     },
     {
       "album": {
+        "name": "northern light",
+        "url": "https://open.spotify.com/album/4W5n9TkA0dHZC3TLvfFCpp"
+      },
+      "artists": [
+        {
+          "name": "nearly monday",
+          "url": "https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "northern light",
+      "url": "https://open.spotify.com/track/17c2b2WvFsQtQGGkRW8psl"
+    },
+    {
+      "album": {
         "name": "Starcrossed",
         "url": "https://open.spotify.com/album/628FcjCPi9j1F27RG47lHs"
       },
@@ -18642,7 +18660,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 134153,
       "name": "schoolyard at night",
       "url": "https://open.spotify.com/track/0xcQHLr7ZYeH5XZFHGOTqv"
@@ -20720,7 +20738,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 125217,
       "name": "Stupendo",
       "url": "https://open.spotify.com/track/2gnWPEE1fkJ0xBgAbQVeZs"
@@ -21432,7 +21450,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 121379,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/4uLHZisb2folVt5JJam396"

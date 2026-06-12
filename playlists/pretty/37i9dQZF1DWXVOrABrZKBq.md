@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: Hamza
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,902 likes - 99 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,913 likes - 99 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 4 | [Kendall](https://open.spotify.com/track/0wBAbM87bxaz3q1tzAawEM) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Blanco nemesis](https://open.spotify.com/album/1CVD0XgRZjmkeO11U90NPo) | 3:13 |
 | 5 | [SEPT ANS DE MALHEUR \(titre permanent\)](https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [SEPT ANS DE MALHEUR \(titre temporaire\)](https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40) | 4:05 |
 | 6 | [ATL](https://open.spotify.com/track/6FfgsAZ4s1D6X7jKNpw7lt) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [ATL](https://open.spotify.com/album/727sWTkDYJa8EcqR7uLrt2) | 2:43 |
-| 7 | [léger et pensif](https://open.spotify.com/track/3bnfha00IGe5KqDSbpDx5a) | [OPUS CREW x faust.opcm](https://open.spotify.com/artist/25X8XWhUn6C72BVjEr0uyv), [Linkrust](https://open.spotify.com/artist/3W6MD03BtPEx7yJnj9jT2z) | [léger et pensif](https://open.spotify.com/album/2a3j6ZGeb4q2JY2lnX1Dgj) | 2:33 |
+| 7 | [léger et pensif](https://open.spotify.com/track/3bnfha00IGe5KqDSbpDx5a) | [Opus Crew](https://open.spotify.com/artist/5Mfsm0jJWnltGxluaz7Wnp), [Linkrust](https://open.spotify.com/artist/3W6MD03BtPEx7yJnj9jT2z), [faust.opcm](https://open.spotify.com/artist/2N6VZ1YQa8TPTYpE6L6gtK) | [léger et pensif](https://open.spotify.com/album/2a3j6ZGeb4q2JY2lnX1Dgj) | 2:33 |
 | 8 | [La Vraie Vie \(Freestyle des Flammes\)](https://open.spotify.com/track/65MTKzHYUo4gBC6USD8LiI) | [Juste Shani](https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR) | [La Vraie Vie \(Freestyle des Flammes\)](https://open.spotify.com/album/3YKokVCs4GaS1TCPMBJWNZ) | 2:41 |
 | 9 | [Velar](https://open.spotify.com/track/0cYBP022NcGl6DOmSPhv5h) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [DRAKKAR](https://open.spotify.com/album/24v0IedAru6yCDoqE3X6Th) | 2:30 |
 | 10 | [FYL](https://open.spotify.com/track/7FetoUd1SoaTlagkGND9QN) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [FYL](https://open.spotify.com/album/5qFTEABkPuMuy5pfmXpshM) | 2:16 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 56 | [24/24](https://open.spotify.com/track/3v6FQZ8dgWHFwbil7iT13P) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [WIXO & LA2S](https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN) | [CAPITALE DU CRIME RADIO, vol\. 3 \(Réédition\)](https://open.spotify.com/album/0vhzK5IMkcyrVLbzavscLC) | 3:06 |
 | 57 | [Talbin](https://open.spotify.com/track/6qotpxzDLFbYDDkj5nXicF) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Talbin](https://open.spotify.com/album/5TeuZYlsiQts3IAl4GenQG) | 3:02 |
 | 58 | [LAST DANCE](https://open.spotify.com/track/7FoAioGJbGEFzaYeYsCFyP) | [Mandyspie](https://open.spotify.com/artist/1EKlBG4TgOac9aboMbphiM) | [LAST DANCE](https://open.spotify.com/album/55Z2x8GSGa3xMiHxrIb341) | 2:24 |
-| 59 | [la mm merde](https://open.spotify.com/track/2E65VzB28mJw8uH3SY5J1z) | [Merci Manon & LeDji](https://open.spotify.com/artist/5EypuNhqwPmbbebtA2OA7a), [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr) | [Merci LeDji](https://open.spotify.com/album/2dJ4p1m9gxTHYFhXqgKh3G) | 2:30 |
+| 59 | [la mm merde](https://open.spotify.com/track/2E65VzB28mJw8uH3SY5J1z) | [Merci Manon](https://open.spotify.com/artist/7tg2NaDZgB7xRlFuRGtlsy), [LeDji](https://open.spotify.com/artist/0u4SuQvBKJ7zwNWT3RWkph), [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr) | [Merci LeDji](https://open.spotify.com/album/2dJ4p1m9gxTHYFhXqgKh3G) | 2:30 |
 | 60 | [EL DORADO](https://open.spotify.com/track/5GX8HBKHyXPZBwgTLG8qil) | [Jamaz](https://open.spotify.com/artist/2bWmHhwTBuPiOsnSz9sjBC), [astro\_psykeman](https://open.spotify.com/artist/4tYwjRz3iiyIrno26moZmP) | [EL DORADO](https://open.spotify.com/album/14iPrBI6B68afnrfY9p1Zh) | 2:57 |
 | 61 | [Adriana](https://open.spotify.com/track/2ahQZyNCXAIf47IVhmg6CR) | [HOUZ](https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8) | [Adriana](https://open.spotify.com/album/5U2DUH3u917DzRWs058H7F) | 2:59 |
 | 62 | [Pineapple](https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Pineapple](https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx) | 2:40 |

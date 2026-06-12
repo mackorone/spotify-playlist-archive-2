@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 
 > 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: BTS\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,363 likes - 64 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,994 likes - 64 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

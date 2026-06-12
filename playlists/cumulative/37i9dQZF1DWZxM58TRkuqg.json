@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Ghea Indrawari",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Dee Lestari",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "ANTARA",
+        "url": "https://open.spotify.com/album/0r8cdVqedxyrH7hS43GIj9"
+      },
+      "artists": [
+        {
+          "name": "Stereo Wall",
+          "url": "https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235800,
+      "name": "ANTARA",
+      "url": "https://open.spotify.com/track/6s1Coqphc8f0X5suXcAg3x"
+    },
+    {
+      "album": {
         "name": "Cinta & Doa",
         "url": "https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro"
       },
@@ -870,7 +888,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 243370,
       "name": "april",
       "url": "https://open.spotify.com/track/2zoT19GQEv6XsZsINsMlc9"
@@ -1264,7 +1282,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 205724,
       "name": "BENCI KANGEN KAMU",
       "url": "https://open.spotify.com/track/5NoGTEb3dBGGEZrOHulFZK"
@@ -2418,6 +2436,24 @@
       "duration_ms": 237747,
       "name": "Cendana",
       "url": "https://open.spotify.com/track/0PKoCpeBjGdx6TTXPZVLbM"
+    },
+    {
+      "album": {
+        "name": "CEO (Menyala Queen)",
+        "url": "https://open.spotify.com/album/01l60f9C6y4AXBm62ItqxK"
+      },
+      "artists": [
+        {
+          "name": "Toton Caribo",
+          "url": "https://open.spotify.com/artist/0v1axjG0KwIz3aciZffFMu"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "CEO (Menyala Queen)",
+      "url": "https://open.spotify.com/track/5dTGdrFASArfsRjVAslt3T"
     },
     {
       "album": {
@@ -4581,6 +4617,24 @@
     },
     {
       "album": {
+        "name": "(Jangan) Jatuh Cinta",
+        "url": "https://open.spotify.com/album/1l1ET8aN8W78ajd5RJ9lpc"
+      },
+      "artists": [
+        {
+          "name": "Dee Lestari",
+          "url": "https://open.spotify.com/artist/1mCcTwpEABnSVB4D8rXfRN"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201950,
+      "name": "Jadi Udara",
+      "url": "https://open.spotify.com/track/6yJhH3vYp2W5zuJjAtixsq"
+    },
+    {
+      "album": {
         "name": "Jaga Nafas",
         "url": "https://open.spotify.com/album/4LNg3PmRJim465tTBQYD9d"
       },
@@ -4639,6 +4693,24 @@
     },
     {
       "album": {
+        "name": "Jangan Buang Aku (From \"Jangan Buang Ibu\")",
+        "url": "https://open.spotify.com/album/3tMhg0MILsOCiIvXU6KwhP"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243620,
+      "name": "Jangan Buang Aku - From \"Jangan Buang Ibu\"",
+      "url": "https://open.spotify.com/track/6301hTQ5Nfhslz9nuwTY44"
+    },
+    {
+      "album": {
         "name": "Jangan Lupa Pulang (Live at Aquarius Studio)",
         "url": "https://open.spotify.com/album/4sitdgmK4736e8SGpmdJfX"
       },
@@ -4694,6 +4766,28 @@
       "duration_ms": 248333,
       "name": "Jangan Pernah Berubah",
       "url": "https://open.spotify.com/track/5uX0htMpSvwsREZceYYmwi"
+    },
+    {
+      "album": {
+        "name": "Janji Setia",
+        "url": "https://open.spotify.com/album/0KuBeerNz7JtLRsvWDEbgg"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "MELONii",
+          "url": "https://open.spotify.com/artist/5IVgCOmq1RxhSQ9lcf3ZMi"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Janji Setia",
+      "url": "https://open.spotify.com/track/6cfod5D7hS31TbRtH16kQx"
     },
     {
       "album": {
@@ -5458,7 +5552,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 250285,
       "name": "Kepala, Pundak, Kerja Lagi - From \"Monster Pabrik Rambut\"",
       "url": "https://open.spotify.com/track/5UUols1KA2YqKMtnaRYgJA"
@@ -5534,7 +5628,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 257027,
       "name": "Kilometer",
       "url": "https://open.spotify.com/track/6S3JMRXaZXFj28IiIrIQxb"
@@ -6938,6 +7032,32 @@
       "duration_ms": 234589,
       "name": "Masing Masing",
       "url": "https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37"
+    },
+    {
+      "album": {
+        "name": "MATA-MATA",
+        "url": "https://open.spotify.com/album/44WFVswgPmlYvpAnmArE99"
+      },
+      "artists": [
+        {
+          "name": "Jacson Zeran",
+          "url": "https://open.spotify.com/artist/5YAtyYCXXQ7YPuowGWuqPp"
+        },
+        {
+          "name": "toton caribo",
+          "url": "https://open.spotify.com/artist/5GEfjP83E7JXgw1HbYmypD"
+        },
+        {
+          "name": "Wizz Baker",
+          "url": "https://open.spotify.com/artist/1T3IwrlpvSpP1PpqYcMw7K"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210984,
+      "name": "MATA-MATA",
+      "url": "https://open.spotify.com/track/4JuyCTIqnasjrNUPM8VbuF"
     },
     {
       "album": {
@@ -9668,7 +9788,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 328320,
       "name": "Sekip (Setia Kui Pekok)",
       "url": "https://open.spotify.com/track/4ZiayQbjKSz98hbUygBrc6"
@@ -10040,6 +10160,24 @@
       "duration_ms": 226956,
       "name": "Semenjak Ada Dirimu",
       "url": "https://open.spotify.com/track/5H4MSA6eIr6x1iBTn1vpMG"
+    },
+    {
+      "album": {
+        "name": "Semesta",
+        "url": "https://open.spotify.com/album/7DIuyyWBJwaqFwVUJGxTfL"
+      },
+      "artists": [
+        {
+          "name": "Kenriz",
+          "url": "https://open.spotify.com/artist/0KNqyNkuttIabEfX3lSUuT"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Semesta",
+      "url": "https://open.spotify.com/track/7BMJc5ZALrkYLjI5XmjVfk"
     },
     {
       "album": {
@@ -10912,7 +11050,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 276679,
       "name": "Sombar",
       "url": "https://open.spotify.com/track/0AQoBIdCoGCDweuMjpkV4q"
@@ -11064,7 +11202,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 226329,
       "name": "Stop Bilang Iya",
       "url": "https://open.spotify.com/track/6Klr3EiAe7M0djc2eEx5fZ"

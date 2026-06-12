@@ -4,7 +4,7 @@
 
 > 
 
-558 songs - 1 day 12 hr 21 min
+559 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Julia](https://open.spotify.com/track/3oUSdLtRYOSvXcLMrHctv7) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:39 | 2022-05-09 |  |
 | [JUMPER](https://open.spotify.com/track/45hgtWOyLVz3OhCh5r34cs) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [MORE! MORE! MORE!](https://open.spotify.com/album/7uNyQd3LR7HKGPgaQVMQ0b) | 6:55 | 2025-10-15 |  |
 | [JUMPSHOT](https://open.spotify.com/track/4MCLIPlgV9CieD0V3bf6SL) | [Eldritch](https://open.spotify.com/artist/3x3F6t4cBw52hT89l1e4R1) | [JUMPSHOT](https://open.spotify.com/album/1ZD3tVmhqWsp4I4pFb5mZK) | 1:36 | 2024-10-03 |  |
+| [jupiter](https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [DIVE](https://open.spotify.com/album/0jfgGNDWmjcBLPKMyIMLYP) | 3:02 | 2026-06-11 |  |
 | [Kaafizyada](https://open.spotify.com/track/7vvmU5ayTrVWiNVxiwHLQI) | [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p) | [Nanku Sharma](https://open.spotify.com/album/3aDCenngjMgDz7oHd9mPGJ) | 2:44 | 2022-05-09 |  |
 | [Kane Train](https://open.spotify.com/track/7hgue2CGpzs1SCP9VswVyJ) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [A View of U](https://open.spotify.com/album/7GFmFwrDfsELfBtiuyW481) | 2:16 | 2022-05-09 |  |
 | [Katana Zero](https://open.spotify.com/track/71SeZt72wZ6TrB1yx0NFFq) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Katana Zero](https://open.spotify.com/album/3yHqNEHNwa4EsB4BCrayQs) | 4:29 | 2020-04-12 |  |

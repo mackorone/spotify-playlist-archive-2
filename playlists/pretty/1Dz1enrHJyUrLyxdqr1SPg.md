@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-[enilsounds](https://open.spotify.com/user/enilsounds) - 2,018 likes - 85 songs - 4 hr 50 min
+[enilsounds](https://open.spotify.com/user/enilsounds) - 2,018 likes - 86 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,6 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 | 83 | [Old Soul](https://open.spotify.com/track/4zoyn0XwZ2MysyRYxNcTCp) | [Herald K](https://open.spotify.com/artist/1rG4pmrcpdK5cmkqFDVXRk) | [Mythologies](https://open.spotify.com/album/4kxNO2xUxABCx3RP6CgpSb) | 3:18 |
 | 84 | [Old Fashioned Ways](https://open.spotify.com/track/5mV2AgllrsRFxAhIW5BbWW) | [Zak Lee](https://open.spotify.com/artist/26wDf5wgzkSyP5ANaufYgm) | [Old Fashioned Ways](https://open.spotify.com/album/6QJUwfncx3cNbp6N5p0L8p) | 3:05 |
 | 85 | [Le Ombre Della Notte](https://open.spotify.com/track/7ewBgQDZTMzYLICjSqkBI1) | [Ilario Schanzer](https://open.spotify.com/artist/551HaqOHmPu8wZ9e4vWljl) | [Le Ombre Della Notte](https://open.spotify.com/album/432h1Nl6GfSmkgBHktsEID) | 3:58 |
+| 86 | [Funky Music Makes Me Lose It](https://open.spotify.com/track/0a2P9IK5t02PRXBqTO3nlM) | [lofthouse leo](https://open.spotify.com/artist/1rpet0LMvxIvChVSUpmuXV) | [Funky Music Makes Me Lose It](https://open.spotify.com/album/3EhtKfElVLsWID6fuuw2qp) | 3:40 |
 
-Snapshot ID: `AABjUZUBsr2PJ+eFt8VZ5teeYJGPUuHN`
+Snapshot ID: `AABjUkAiA4GbLYzSXgmmXrNkCHDjLL0F`

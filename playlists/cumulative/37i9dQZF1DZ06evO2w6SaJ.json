@@ -140,7 +140,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 302226,
       "name": "Black Cloud",
       "url": "https://open.spotify.com/track/0SIa8GRLXT0vKov2O45O5V"
@@ -986,6 +986,24 @@
       "duration_ms": 232933,
       "name": "Think Fast",
       "url": "https://open.spotify.com/track/19EWKf8NGkwSA5SIg9PoYb"
+    },
+    {
+      "album": {
+        "name": "The Gift Of Game",
+        "url": "https://open.spotify.com/album/4hLQA4V348qQjKKDGlYEYV"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232960,
+      "name": "Think Fast - Explicit Album Version",
+      "url": "https://open.spotify.com/track/6crdw80t2FE2xPlooMopLp"
     },
     {
       "album": {

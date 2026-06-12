@@ -3954,7 +3954,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 205106,
       "name": "Can't Stop Loving You",
       "url": "https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa"
@@ -6494,7 +6494,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 142701,
       "name": "Drip",
       "url": "https://open.spotify.com/track/7A8TjnegZwDGOhWaQetlfE"
@@ -10590,7 +10590,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 241632,
       "name": "Hold You Close",
       "url": "https://open.spotify.com/track/3oAkenLgVAQNhZMYPr2xQx"
@@ -12569,6 +12569,28 @@
     },
     {
       "album": {
+        "name": "Jenny",
+        "url": "https://open.spotify.com/album/45LjJbvIYb8wPx0AH6lHUF"
+      },
+      "artists": [
+        {
+          "name": "Kiss Protocol",
+          "url": "https://open.spotify.com/artist/2t4pAVH5GhTsJEPdgonxr3"
+        },
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97965,
+      "name": "Jenny",
+      "url": "https://open.spotify.com/track/5ov235IWNsLM2vuDeSx25W"
+    },
+    {
+      "album": {
         "name": "JOY (Take To The Light) [niina Remix]",
         "url": "https://open.spotify.com/album/2VWbBgHJPlTrUyjtfKS7JD"
       },
@@ -12806,7 +12828,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 240344,
       "name": "Keep Suffering",
       "url": "https://open.spotify.com/track/3WlZq0r2ujGvuRE57F6SIr"
@@ -14092,6 +14114,24 @@
       "duration_ms": 134528,
       "name": "Losing my mind <3",
       "url": "https://open.spotify.com/track/3S9zQDwOt2SWxvMwdxRt1a"
+    },
+    {
+      "album": {
+        "name": "Lost Signal",
+        "url": "https://open.spotify.com/album/5kThtU5Z2FvPVAvjA0opCQ"
+      },
+      "artists": [
+        {
+          "name": "Internet Cafe",
+          "url": "https://open.spotify.com/artist/53k5QCjTcDkWtbltJLSIq6"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153258,
+      "name": "Lost Signal",
+      "url": "https://open.spotify.com/track/2I597clj5PJWixyMR47HRi"
     },
     {
       "album": {
@@ -16451,6 +16491,24 @@
     },
     {
       "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/5Temir79WPxflPU00Tv4Qp"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226973,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2yNe0KpyIimbKYeIhWrdKF"
+    },
+    {
+      "album": {
         "name": "Ocean Park",
         "url": "https://open.spotify.com/album/0yeD1nVEzdWiZwFokSKiEI"
       },
@@ -16516,7 +16574,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 190663,
       "name": "OH MY GOD I'M DREAMING",
       "url": "https://open.spotify.com/track/2qQeEJVIF6Jp6nstEIkfur"
@@ -20609,6 +20667,28 @@
     },
     {
       "album": {
+        "name": "Space Lover",
+        "url": "https://open.spotify.com/album/5O61UmgWh4iGLHiDaVFnBt"
+      },
+      "artists": [
+        {
+          "name": "Seah",
+          "url": "https://open.spotify.com/artist/1TpMVu71X4YNKNi7E1HBNO"
+        },
+        {
+          "name": "Whos Fault",
+          "url": "https://open.spotify.com/artist/4Biuvz61tKXgbVNUH4uTDS"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245243,
+      "name": "Space Lover",
+      "url": "https://open.spotify.com/track/0KBcxs5d1w9xjCUSczfKXA"
+    },
+    {
+      "album": {
         "name": "Speed Dating",
         "url": "https://open.spotify.com/album/4BuCifUv2tHplBzCGMWGZ1"
       },
@@ -21166,6 +21246,28 @@
       "duration_ms": 168506,
       "name": "Stolen - Namasenda Remix",
       "url": "https://open.spotify.com/track/6fIPNpjZu5qdOTmnGJArBS"
+    },
+    {
+      "album": {
+        "name": "Stop Me Now",
+        "url": "https://open.spotify.com/album/0L9OUlRFAXiSEzqdVp8ANQ"
+      },
+      "artists": [
+        {
+          "name": "Melo Nada",
+          "url": "https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI"
+        },
+        {
+          "name": "k8 Smurf",
+          "url": "https://open.spotify.com/artist/3Lp5ukuF2128XV8G3v8y8X"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182142,
+      "name": "Stop Me Now",
+      "url": "https://open.spotify.com/track/6UaWppmgyoRH9svCwFmzAr"
     },
     {
       "album": {
@@ -22609,6 +22711,28 @@
     },
     {
       "album": {
+        "name": "thumbs",
+        "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "thumbs",
+      "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
+    },
+    {
+      "album": {
         "name": "Time Goes By",
         "url": "https://open.spotify.com/album/1pzWzxEYfQ1pp04EAJgy9r"
       },
@@ -23980,7 +24104,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 161207,
       "name": "Want (Need) - Baobei Remix",
       "url": "https://open.spotify.com/track/56vBgebKOhEnhg4Ttcth53"

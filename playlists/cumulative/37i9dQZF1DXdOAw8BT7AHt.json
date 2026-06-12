@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "Hoopla",
+        "url": "https://open.spotify.com/album/4OmO1a6jKotWwguSeQzLBa"
+      },
+      "artists": [
+        {
+          "name": "Weird Nightmare",
+          "url": "https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215414,
+      "name": "Baby Don't",
+      "url": "https://open.spotify.com/track/66tbzPuNTAXPfmVsdJ9yBr"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
       },
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 163371,
       "name": "Black Site",
       "url": "https://open.spotify.com/track/1Ufkxti23z1OxXAVoSU5MM"
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 186000,
       "name": "Box In The Basement",
       "url": "https://open.spotify.com/track/44r3djxJsaQTlddoeW5hjh"
@@ -2154,6 +2172,24 @@
       "duration_ms": 162312,
       "name": "Burning Down The Curtains",
       "url": "https://open.spotify.com/track/0dvAk9oM4wIyEJjpre6mcQ"
+    },
+    {
+      "album": {
+        "name": "Burning Out",
+        "url": "https://open.spotify.com/album/0jaqIbGbS0cFqRlHlqjGDB"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198232,
+      "name": "Burning Out",
+      "url": "https://open.spotify.com/track/3075JUjtjJ2mGuy7eoOea2"
     },
     {
       "album": {
@@ -3226,6 +3262,24 @@
       "duration_ms": 176148,
       "name": "Death Snapped",
       "url": "https://open.spotify.com/track/5QMdVduYnE9gisDo5Gnnrb"
+    },
+    {
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/4EOD7DDzAXnpBIpMCfWTyW"
+      },
+      "artists": [
+        {
+          "name": "Chat Pile",
+          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245293,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/5PbFV0TfKx6tojTmbRkQDX"
     },
     {
       "album": {
@@ -4849,6 +4903,24 @@
     },
     {
       "album": {
+        "name": "Tales For The Rages",
+        "url": "https://open.spotify.com/album/2CENFr9gxUfFTmQ6Juoltj"
+      },
+      "artists": [
+        {
+          "name": "Piebald",
+          "url": "https://open.spotify.com/artist/4rOGGTXaYygtFIHsPgLKJv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185076,
+      "name": "Fun Destroyer",
+      "url": "https://open.spotify.com/track/78UOwac27Z0gICBrk5J3tX"
+    },
+    {
+      "album": {
         "name": "Funny Face",
         "url": "https://open.spotify.com/album/4qIrgQeD5wthdEzvh8Ggqz"
       },
@@ -6022,7 +6094,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 64733,
       "name": "I Don't Need To Be In Your Strike Zone",
       "url": "https://open.spotify.com/track/6pfgiW3ugfx2gSv1H9WY5W"
@@ -6318,6 +6390,24 @@
       "duration_ms": 111666,
       "name": "I'm The Outside",
       "url": "https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO"
+    },
+    {
+      "album": {
+        "name": "Down On Earth",
+        "url": "https://open.spotify.com/album/0ZFmlWgygmNkqn01heNfqq"
+      },
+      "artists": [
+        {
+          "name": "Turnover",
+          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274666,
+      "name": "I'm Up, I'm Up",
+      "url": "https://open.spotify.com/track/4upyTJHHcg6JiRrryaL63p"
     },
     {
       "album": {
@@ -7216,7 +7306,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 148666,
       "name": "Life's Close",
       "url": "https://open.spotify.com/track/5YV615cDSYrOUoPcAb3dD5"
@@ -7306,7 +7396,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 242413,
       "name": "little pieces",
       "url": "https://open.spotify.com/track/6edMmG3Ru1pfHSheSYVuha"
@@ -7346,6 +7436,28 @@
       "duration_ms": 212157,
       "name": "Long Line",
       "url": "https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD"
+    },
+    {
+      "album": {
+        "name": "Long Tooth",
+        "url": "https://open.spotify.com/album/5nmaxgEP5Kgwx2POEfNOlY"
+      },
+      "artists": [
+        {
+          "name": "Cancer Bats",
+          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
+        },
+        {
+          "name": "Brooklyn Doran",
+          "url": "https://open.spotify.com/artist/6Bh4Wmbb3LfoS8J5TXpQcj"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205853,
+      "name": "Long Tooth (feat. Brooklyn Doran)",
+      "url": "https://open.spotify.com/track/6HTAqQPGlhDbvvUa7bU1oA"
     },
     {
       "album": {
@@ -7540,7 +7652,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 98970,
       "name": "Lou's Got The Flu",
       "url": "https://open.spotify.com/track/2a8zRA9jnK4rCjvApfZkG5"
@@ -9511,6 +9623,24 @@
     },
     {
       "album": {
+        "name": "Power In Numbers",
+        "url": "https://open.spotify.com/album/0zQAQcwwAthTDWdsajR8AK"
+      },
+      "artists": [
+        {
+          "name": "Ho99o9",
+          "url": "https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172772,
+      "name": "Power In Numbers",
+      "url": "https://open.spotify.com/track/58OXps27n41UlUfW8rGETg"
+    },
+    {
+      "album": {
         "name": "Pray To That",
         "url": "https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo"
       },
@@ -10889,6 +11019,24 @@
     },
     {
       "album": {
+        "name": "SLC Punk on an SSRI",
+        "url": "https://open.spotify.com/album/4pDQNh9OZslJBJDtaBPPSg"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177613,
+      "name": "SLC Punk on an SSRI",
+      "url": "https://open.spotify.com/track/2ahuaNEKa0RsVrX4lI1k4F"
+    },
+    {
+      "album": {
         "name": "SLEEP WHEN I'M DEAD",
         "url": "https://open.spotify.com/album/3mjfzxnjJZdqNHV72bwiA9"
       },
@@ -11365,6 +11513,24 @@
     },
     {
       "album": {
+        "name": "Magazine",
+        "url": "https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3"
+      },
+      "artists": [
+        {
+          "name": "YHWH Nailgun",
+          "url": "https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78618,
+      "name": "Stillness Blues",
+      "url": "https://open.spotify.com/track/2gciAqLCO3sPUWF6WDIR2F"
+    },
+    {
+      "album": {
         "name": "stone cold summer",
         "url": "https://open.spotify.com/album/3fQgWMLRBqYqGgB1mhSAmi"
       },
@@ -11452,6 +11618,24 @@
       "duration_ms": 194273,
       "name": "Straight Up (Needy)",
       "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
+    },
+    {
+      "album": {
+        "name": "Strung Out",
+        "url": "https://open.spotify.com/album/5Yp0CrLzZ4c9frmDeRNU6K"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204102,
+      "name": "Strung Out",
+      "url": "https://open.spotify.com/track/6hI2j5A91BzhH3qQbFAXJx"
     },
     {
       "album": {
@@ -11722,7 +11906,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 131079,
       "name": "Target Practice",
       "url": "https://open.spotify.com/track/1N3LYk2u9cSGnH1x5ODoqD"
@@ -12368,7 +12552,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 221719,
       "name": "This Thing is Old",
       "url": "https://open.spotify.com/track/4h0fR9diodQffQvz9cSRaJ"
@@ -13147,6 +13331,28 @@
     },
     {
       "album": {
+        "name": "American Football (LP4)",
+        "url": "https://open.spotify.com/album/3fhKJU3nUfduKj9YhEAoGf"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        },
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320573,
+      "name": "Wake Her Up",
+      "url": "https://open.spotify.com/track/0DvVy1XSbcRatqCTxs4yWK"
+    },
+    {
+      "album": {
         "name": "Harder Than It Looks",
         "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
       },
@@ -13440,7 +13646,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 114386,
       "name": "When Kevin Gets Free",
       "url": "https://open.spotify.com/track/2NqWTLHUCTzWC1L0jXEwIc"
@@ -13632,7 +13838,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 198983,
       "name": "Will",
       "url": "https://open.spotify.com/track/2yYos0GmwgrPZAHOnpsSdM"
@@ -13758,7 +13964,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 176430,
       "name": "XO",
       "url": "https://open.spotify.com/track/7AJo6FdBPHCkyZ00euEKNg"

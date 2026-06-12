@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 822 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 825 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 37 | [StrOngerrr \(Feat\. Loco, MINO\)](https://open.spotify.com/track/6mzxQgOkdymXCCz8A7wyz9) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [MUGGLES' MANSION](https://open.spotify.com/album/4SUzNglOur6GH4IGIbNGcr) | 4:45 |
 | 38 | [SAVED MY LIFE \(Prod\. Kidstone\)](https://open.spotify.com/track/14dJ7lD1iJhxfx6b4vutVY) | [UNEDUCATED KID](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [SAVED MY LIFE](https://open.spotify.com/album/3AMcOPFUmreqG9qamdjzfa) | 3:49 |
 | 39 | [GENERATION\(Prod\. Lean$moke\)](https://open.spotify.com/track/55ZNU07XDdynQMykHXYglz) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [GENERATION](https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b) | 3:34 |
-| 40 | [I'll Be Back](https://open.spotify.com/track/50Ype1T4rqWGPf7K49yvjn) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [24:26 \(5th Anniversary Remaster Edition\)](https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU) | 4:14 |
-| 41 | [SUPERNOVA \(Feat\. CHANGMO, GSoul & DUT2\)](https://open.spotify.com/track/0qaKZzxxFzRGnbvGmfcs5S) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:36 |
+| 40 | [SUPERNOVA \(Feat\. CHANGMO, GSoul & DUT2\)](https://open.spotify.com/track/0qaKZzxxFzRGnbvGmfcs5S) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:36 |
+| 41 | [I'll Be Back](https://open.spotify.com/track/50Ype1T4rqWGPf7K49yvjn) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [24:26 \(5th Anniversary Remaster Edition\)](https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU) | 4:14 |
 | 42 | [Nobody is perfect \(Prod\. Song Yoodam\)](https://open.spotify.com/track/0rmepzrZX9JO9Rnvx07fvr) | [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA) | [Unlock My Boss, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/03W3tRDeTtIvAvHFX598NR) | 2:56 |
 | 43 | [Not Like You \(HANLIM GYM X Han Yo Han, JUSTHIS\)](https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Not Like You \(HANLIM GYM X Han Yo Han, JUSTHIS\)](https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS) | 3:07 |
 | 44 | [진흙 속에서 피는 꽃 Flower from the Mud \(feat\. Kebee & MC Meta\)](https://open.spotify.com/track/3HQKOvG5jI7lLseS6ZT3ph) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Kebee & MC Meta](https://open.spotify.com/artist/3GBhjWz2r9Jd32b94VCGOI) | [The Real Me](https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE) | 5:13 |

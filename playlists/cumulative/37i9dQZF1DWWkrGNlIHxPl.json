@@ -1623,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Drive U Mad",
+        "url": "https://open.spotify.com/album/7DNLu7dMfMDFt9tnxbgTsD"
+      },
+      "artists": [
+        {
+          "name": "Eman Alali",
+          "url": "https://open.spotify.com/artist/6lV73BGgSYasE0ikD3Bs1W"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171723,
+      "name": "Drive U Mad",
+      "url": "https://open.spotify.com/track/61pKBial8w5aKgwgJmye19"
+    },
+    {
+      "album": {
         "name": "Drunk Calling",
         "url": "https://open.spotify.com/album/7eGSM40pIFMOEVofCb0r0n"
       },
@@ -2896,6 +2914,24 @@
       "duration_ms": 205179,
       "name": "Hasni",
       "url": "https://open.spotify.com/track/5CarMlAJR0q27OKXoShOAk"
+    },
+    {
+      "album": {
+        "name": "haute couture",
+        "url": "https://open.spotify.com/album/0diKSjW0eujjuxvrv42IYY"
+      },
+      "artists": [
+        {
+          "name": "MARCELINA",
+          "url": "https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111957,
+      "name": "haute couture",
+      "url": "https://open.spotify.com/track/0mn9t17WR4KEcF5a2eYUXG"
     },
     {
       "album": {
@@ -5184,7 +5220,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 166111,
       "name": "Ra2i2a",
       "url": "https://open.spotify.com/track/3rVzXNNZqxhwGn0azDDKZm"
@@ -5518,7 +5554,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 194195,
       "name": "ROLLERCOASTER",
       "url": "https://open.spotify.com/track/3QjwfqkglQOeUuyNKiK5oC"
@@ -6969,6 +7005,28 @@
     },
     {
       "album": {
+        "name": "Wait for Me",
+        "url": "https://open.spotify.com/album/4duiGyBEuWMrNuN1IfH4u8"
+      },
+      "artists": [
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        },
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194525,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/4CoE0GqJxgzLV1D9jJxQZI"
+    },
+    {
+      "album": {
         "name": "wait for you",
         "url": "https://open.spotify.com/album/5g079RFaVNf5fN2kn4wh2X"
       },
@@ -7170,7 +7228,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 138181,
       "name": "Who Pulled Up? (feat. Jeed)",
       "url": "https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt"

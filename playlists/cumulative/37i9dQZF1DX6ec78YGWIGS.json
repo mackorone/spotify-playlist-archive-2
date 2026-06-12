@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Juliana Gattas & Juana Rozas",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: 143leti",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -4242,7 +4242,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 122405,
       "name": "IMAN (Two Of Us)",
       "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
@@ -5722,6 +5722,28 @@
       "duration_ms": 178666,
       "name": "ME OYES",
       "url": "https://open.spotify.com/track/4OOBhhIndRwpgK5kagX6yh"
+    },
+    {
+      "album": {
+        "name": "Me Vas A Arruinar La Vida",
+        "url": "https://open.spotify.com/album/4m8n48maT7XkU3oUvY7IOt"
+      },
+      "artists": [
+        {
+          "name": "143leti",
+          "url": "https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr"
+        },
+        {
+          "name": "Roxxee",
+          "url": "https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152859,
+      "name": "Me Vas A Arruinar La Vida",
+      "url": "https://open.spotify.com/track/4bgC68HZdpSTcieiuO98yA"
     },
     {
       "album": {

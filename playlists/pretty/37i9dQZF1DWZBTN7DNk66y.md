@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBTN7DNk66y.md) - [plain]
 
 > El nuevo sonido de la canción sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,194 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,196 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBTN7DNk66y.md) - [plain]
 | 93 | [excusa barata](https://open.spotify.com/track/3mHi7UafB5tQrPkVHUe5pf) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4), [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [no te lo tomes personal](https://open.spotify.com/album/4777oKdCZIBGYYDPGvO4WL) | 3:40 |
 | 94 | [Chance](https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q) | [Santiago Alonso](https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw) | [Chance](https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd) | 2:52 |
 | 95 | [El Sol Está Mojado](https://open.spotify.com/track/0S5X7mezP843brjI9SfQr2) | [Inés Errandonea](https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [El Sol Está Mojado](https://open.spotify.com/album/4qIKaK2QH6RHfRdTItl4zY) | 4:15 |
-| 96 | [Desencanto](https://open.spotify.com/track/28Ogsga4ZqyJGWExacxOsz) | [Mariana Mazú](https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Desencanto](https://open.spotify.com/album/4MUR4uKmrMVTVnRrB7MrEZ) | 4:18 |
-| 97 | [SERENATA \- En Vivo en Anfitrión \- TV Pública](https://open.spotify.com/track/6GpGT7RTOhZ6YTMSDUorv5) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [SERENATA \(En Vivo en Anfitrión \- TV Pública\)](https://open.spotify.com/album/0gFDlNWDmcA3HTxN36EXji) | 4:24 |
-| 98 | [Desde Acá](https://open.spotify.com/track/5bJvfOO8J3ay2XTXa5FUUP) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6), [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Desde Acá](https://open.spotify.com/album/4kdJ2IogQLYTkqiWbM50fl) | 4:12 |
+| 96 | [Desde Acá](https://open.spotify.com/track/5bJvfOO8J3ay2XTXa5FUUP) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6), [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Desde Acá](https://open.spotify.com/album/4kdJ2IogQLYTkqiWbM50fl) | 4:12 |
+| 97 | [Desencanto](https://open.spotify.com/track/28Ogsga4ZqyJGWExacxOsz) | [Mariana Mazú](https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Desencanto](https://open.spotify.com/album/4MUR4uKmrMVTVnRrB7MrEZ) | 4:18 |
+| 98 | [SERENATA \- En Vivo en Anfitrión \- TV Pública](https://open.spotify.com/track/6GpGT7RTOhZ6YTMSDUorv5) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [SERENATA \(En Vivo en Anfitrión \- TV Pública\)](https://open.spotify.com/album/0gFDlNWDmcA3HTxN36EXji) | 4:24 |
 | 99 | [Soles en la Luna \- Ma'ẽna anga](https://open.spotify.com/track/4PHtYJhjIaK1PJHZxF10qJ) | [Purahei Soul](https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p) | [Viaje](https://open.spotify.com/album/0axvfQLHypEXhvM6wccZHk) | 2:58 |
 | 100 | [Cobquecura](https://open.spotify.com/track/5ZnFgUWXHN7mfxcLWb4adt) | [Seba Alfaro](https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk) | [Sur](https://open.spotify.com/album/1ktpb9wyvA5xAt3wP6lCLK) | 3:13 |
 

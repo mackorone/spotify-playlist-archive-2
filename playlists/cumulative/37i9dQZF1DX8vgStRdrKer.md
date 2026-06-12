@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-801 songs - 2 day 20 hr 57 min
+802 songs - 2 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Infinity](https://open.spotify.com/track/4m6skbhTVYDH4VAix5VhD8) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Infinity](https://open.spotify.com/album/3crM24IhsBAT89dd46Lp48) | 3:41 | 2025-10-17 | 2026-05-31 |
 | [Ire](https://open.spotify.com/track/0W1vPzlP2eVEgo3XULHbV4) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7) | [YATO](https://open.spotify.com/album/0cVmZ0zxXp2993CWZMyZXE) | 3:45 | 2025-11-14 | 2026-02-07 |
 | [It's all about Jesus](https://open.spotify.com/track/0033J9wHuQAuOAGrDrQGyQ) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Domnik](https://open.spotify.com/artist/25sThYyRb0zAJxvrHSRlEx), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY) | [It's all about Jesus](https://open.spotify.com/album/0uJrIIeTqcJJuP0R53sRfP) | 2:26 | 2025-06-06 | 2025-06-13 |
+| [It's You](https://open.spotify.com/track/4OgUgupBlYskKutfX6UsTw) | [Ayiba](https://open.spotify.com/artist/4ZzlkDq3VrsPW4TYhgAJiY) | [It's You](https://open.spotify.com/album/5GkyAi0MXss5cgtxmCTrqI) | 4:16 | 2026-06-12 |  |
 | [Iye re](https://open.spotify.com/track/6jsLwIpy0Ygel1E4Pb044R) | [Labisi](https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8) | [Iye re](https://open.spotify.com/album/1chftQ5YF2mVv9o8Wab8zG) | 2:56 | 2026-04-24 |  |
 | [iZono Zami](https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp) | [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [iZono Zami](https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b) | 5:19 | 2024-03-22 | 2025-01-24 |
 | [Jabulani Sesingabantwana \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jabulani Sesingabantwana \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/1pKQ3u99NvR1u1qj7b1Y5u) | 7:35 | 2024-02-09 | 2024-07-12 |
@@ -633,7 +634,7 @@
 | [Show Me Lovin'](https://open.spotify.com/track/1lTJTRB7P8JRGOBgdHEjtB) | [SOA](https://open.spotify.com/artist/6JNOzeDNUQNPAROqUGTh8I) | [The Beatitudes](https://open.spotify.com/album/5QSP0GUV6mE651JpRuNYcT) | 2:51 | 2025-08-01 |  |
 | [Show me who you are](https://open.spotify.com/track/6k0QtdLw2UEvCYaWEyblux) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Show me who you are](https://open.spotify.com/album/1ovVxj4bjUtvPe3ZMd6wG2) | 3:16 | 2025-05-30 | 2025-10-03 |
 | [Show Up \- Live](https://open.spotify.com/track/64QSlc4hsh1ABuNkiyrIWg) | [Ema Onyx](https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Show Up \(Live\)](https://open.spotify.com/album/1J1n3e15bHM3wgP6O2U24o) | 8:45 | 2025-07-11 |  |
-| [Sing](https://open.spotify.com/track/2vaKwFtTvNmq2PAbKtxPpH) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Sing](https://open.spotify.com/album/775gzUzBh5ga4fThcVEflT) | 3:18 | 2025-08-01 |  |
+| [Sing](https://open.spotify.com/track/2vaKwFtTvNmq2PAbKtxPpH) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Sing](https://open.spotify.com/album/775gzUzBh5ga4fThcVEflT) | 3:18 | 2025-08-01 | 2026-06-12 |
 | [Sing Hallelujah](https://open.spotify.com/track/7tV5kspyHg9hM9hMAnMXSG) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Sing Hallelujah](https://open.spotify.com/album/1b46ZBLiS7hkot89IFTV9p) | 4:31 | 2024-08-30 | 2025-05-30 |
 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2023-09-15 | 2024-02-05 |
 | [Sleeping Giant](https://open.spotify.com/track/1nukUJZ8DeBCekANEmSy1g) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [Sleeping Giant](https://open.spotify.com/album/3dXNiiRGJkDlzQFl2ei2Dd) | 7:27 | 2025-06-13 | 2025-06-27 |

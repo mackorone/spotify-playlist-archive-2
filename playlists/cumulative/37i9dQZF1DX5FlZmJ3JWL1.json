@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "call me back",
+        "url": "https://open.spotify.com/album/22koXUTCFwgnWoeJSFizT1"
+      },
+      "artists": [
+        {
+          "name": "Ordinary Kid",
+          "url": "https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114906,
+      "name": "call me back",
+      "url": "https://open.spotify.com/track/5oBuuXTgVVLuIYaJlELm0f"
+    },
+    {
+      "album": {
         "name": "Coconut",
         "url": "https://open.spotify.com/album/1bk3ObntSufsULFDAS3h3c"
       },
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 127703,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/5qlUx9z0dElbbWFP8VRz4p"

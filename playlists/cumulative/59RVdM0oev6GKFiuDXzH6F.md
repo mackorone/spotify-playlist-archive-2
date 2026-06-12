@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,162 songs - 2 day 11 hr 53 min
+1,163 songs - 2 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1127,6 +1127,7 @@
 | [When We Were Young \(The Logical Song\)](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [When We Were Young \(The Logical Song\)](https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY) | 2:27 | 2023-11-10 | 2025-01-09 |
 | [When You Look At Me](https://open.spotify.com/track/0F2UzAXf3sBZwtg2cUCTNp) | [Sander Divino](https://open.spotify.com/artist/7hLVw9xpKDqBWS845jerYi), [TESS](https://open.spotify.com/artist/3n7GqhJ1ozC746OH8OrXLQ) | [When You Look At Me](https://open.spotify.com/album/4lxNGaPWnpHoTkDcGYUVMY) | 2:25 | 2024-07-26 | 2025-01-09 |
 | [Where Are You Tonight](https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Where Are You Tonight](https://open.spotify.com/album/3kTh1WrbtryqgS5SqYZ6AP) | 3:55 | 2024-06-28 | 2024-09-26 |
+| [Where Are You Tonight \(VIP Mix\)](https://open.spotify.com/track/4QIBRuiw4hUoWjvsYifFMe) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Where Are You Tonight \(VIP Mix\)](https://open.spotify.com/album/4HtNgDOeZms5u3UY4K7LsJ) | 4:08 | 2026-06-11 |  |
 | [Where U Are](https://open.spotify.com/track/159chK8eAQwSTPFU3uiMoV) | [Nash Hawkins](https://open.spotify.com/artist/6wzkhVbNxQuU9dWGmKLpP2) | [Adjustment](https://open.spotify.com/album/2nFYOpkhV7GZl2t3NKv5h2) | 2:32 | 2024-12-05 |  |
 | [Where You Are \- Gorgon City Remix](https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Where You Are \(Gorgon City Remix\)](https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg) | 4:42 | 2023-06-12 | 2023-07-14 |
 | [Whisky & Sin](https://open.spotify.com/track/0ROxCagCsgm86OXS1w4nzw) | [BLACK/WHITE](https://open.spotify.com/artist/1Hrkfoh0Vs5Fc6DeJM1CT0) | [Whisky & Sin](https://open.spotify.com/album/3c5T6M1MQIXtfXu25hntCg) | 3:16 | 2024-02-23 | 2024-03-01 |

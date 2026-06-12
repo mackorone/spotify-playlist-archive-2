@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,124 songs - 14 day 6 hr 22 min
+6,126 songs - 14 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2450,6 +2450,7 @@
 | [I Can See You Everywhere](https://open.spotify.com/track/4ZaB6FZ0DHN4N8sUPY3GPN) | [Wicked1](https://open.spotify.com/artist/5hKa0tMLs4S7CZEEwtMbJx), [KASTEYANA](https://open.spotify.com/artist/5nCKQBDvBKQQQU5aK9uiBP) | [I Can See You Everywhere](https://open.spotify.com/album/6exzlolodKbSQP0SYd0QSx) | 4:50 | 2025-02-18 | 2025-03-17 |
 | [I Can Take U](https://open.spotify.com/track/0KELOkaULluJVLY68rcKYh) | [Leo The Kind](https://open.spotify.com/artist/3HmMs6CCGjQvjCBcv26hhB) | [This Music Sh\*t Is Hard](https://open.spotify.com/album/6dX6YvWI70FFTbbhQoCmyi) | 2:10 | 2024-11-16 | 2024-11-28 |
 | [I Can Tell](https://open.spotify.com/track/27uspwFPzIxqpODQgujVaj) | [Dorian Duta](https://open.spotify.com/artist/4GUv5tQjyoIGgz2TGzyO2C) | [I Can Tell](https://open.spotify.com/album/0ZBYfH6tevVSrWrsbMpIVa) | 2:33 | 2023-02-17 | 2023-03-18 |
+| [I Can't Do This Forever](https://open.spotify.com/track/3gn7hhS1ZgOObQa8gWN4M7) | [minimum champion](https://open.spotify.com/artist/0EFlMuWkopYB0h8ENMr6id) | [I Can't Do This Forever](https://open.spotify.com/album/4GaGug4gS2urN9kLnjALcC) | 3:40 | 2026-06-11 |  |
 | [I Can't Fall Asleep](https://open.spotify.com/track/3tmRAkXXaNBmTRtC840pm4) | [Leena](https://open.spotify.com/artist/2HDCzXNBGpUWHK80bszC2O) | [I Can't Fall Asleep](https://open.spotify.com/album/3DxECJI2qLBi65Bc3MfUJg) | 3:28 | 2019-11-30 | 2019-12-11 |
 | [I Can't Get Next to You](https://open.spotify.com/track/2UclV6Lu93Ssh1spktn0Fp) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 3:48 | 2022-07-26 | 2024-04-30 |
 | [I Can't Stay](https://open.spotify.com/track/42iwetN6iWBRo315MmL3M8) | [Leah Isabella](https://open.spotify.com/artist/2VGr1x6cv0ejEebfymsDiB) | [I Can't Stay](https://open.spotify.com/album/3cdZjSL17bLLbMFvL0aCZf) | 3:41 | 2025-02-19 | 2025-04-28 |
@@ -3297,7 +3298,7 @@
 | [Make Time](https://open.spotify.com/track/4wznhUFYOrJBmueQaS1rJ3) | [Arpita](https://open.spotify.com/artist/6X1ZOnfJtkNfTVMH3aYVS0) | [Make Time](https://open.spotify.com/album/5IsgeqTbAzKKSIMk5U5ygp) | 3:24 | 2025-05-28 | 2025-06-18 |
 | [Make You](https://open.spotify.com/track/6cr9JxifS1bfI1bj3rUgCM) | [chae](https://open.spotify.com/artist/04bDQYNj7Aos39p2b1Vm31) | [Make You](https://open.spotify.com/album/3TXQ2243awOWcyHvGjzU91) | 3:41 | 2022-02-28 | 2022-03-17 |
 | [Mala Mujer](https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Mala Mujer](https://open.spotify.com/album/2pWiw92YRmqEpIUs5P1HAe) | 3:42 | 2024-03-26 | 2024-04-13 |
-| [MALETA](https://open.spotify.com/track/33iAFMnDiA8aECvVzqYBHy) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo), [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz) | [MALETA](https://open.spotify.com/album/4hNPcMTy177lAqUqjzo40o) | 2:07 | 2026-05-12 |  |
+| [MALETA](https://open.spotify.com/track/33iAFMnDiA8aECvVzqYBHy) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo), [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz) | [MALETA](https://open.spotify.com/album/4hNPcMTy177lAqUqjzo40o) | 2:07 | 2026-05-12 | 2026-06-12 |
 | [MALIBU](https://open.spotify.com/track/75VmXRms6eueG3VMFqXlit) | [Geraldo Marshall](https://open.spotify.com/artist/7iNs0oVSjWfSasbGDldVw8) | [MALIBU](https://open.spotify.com/album/5HMlw5EhmoSiYw0igdtFe3) | 3:22 | 2025-06-30 | 2025-07-12 |
 | [Malibu](https://open.spotify.com/track/7pWRgP7fu5mVG83ZslsIu1) | [justjonnie](https://open.spotify.com/artist/4XYBN28kcx4MmLU7bD3KvC) | [Malibu](https://open.spotify.com/album/4M1Bxo2mLwKJ9vfrkAt8vD) | 2:04 | 2023-06-02 | 2023-06-23 |
 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 | 2026-04-09 |  |
@@ -4494,6 +4495,7 @@
 | [Sangria](https://open.spotify.com/track/47IgSDN8Geml7rIpFfoaaT) | [H.MIL](https://open.spotify.com/artist/3DDL8chhP6vNMIqngs4VBr), [pre kai ro](https://open.spotify.com/artist/0oXFTo5u9yH1zht6gIt4wY) | [Sangria](https://open.spotify.com/album/072CH1UWkglrS6ZBNiZvqU) | 2:54 | 2022-05-19 | 2022-06-05 |
 | [Santa](https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W) | 3:13 | 2024-07-30 | 2024-08-13 |
 | [Santa Please](https://open.spotify.com/track/2NwUk7uSq6YN9LUuNPrLmN) | [Drea Dominique](https://open.spotify.com/artist/4ilEqaKvAQvMmmYkrKLyVn) | [Santa Please](https://open.spotify.com/album/1JFW694C19vMiLB8FEeIVD) | 2:35 | 2025-12-10 | 2026-01-01 |
+| [Santa Rosa Sky](https://open.spotify.com/track/4Wkh5YDAFUsyLaU0DHHFhY) | [Laura Sumner](https://open.spotify.com/artist/2SQolJGk2zty2ONFz6Tf0T) | [Santa Rosa Sky](https://open.spotify.com/album/3GmFYLh4XwQ0gfJoES1d0E) | 3:10 | 2026-06-11 |  |
 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 | 2022-07-26 | 2024-04-30 |
 | [Satellite](https://open.spotify.com/track/3WKk6tpOlFLHfFO3TjbtHY) | [Brainheart](https://open.spotify.com/artist/6WbG5UvM4fTvxSms7Gj2hI), [Brett Miller](https://open.spotify.com/artist/5WKSAch6loISTLupOa9Ilb) | [Satellite](https://open.spotify.com/album/63fqq3L24swfaSEo0oOxRf) | 3:30 | 2021-05-08 | 2021-05-23 |
 | [Satellite Love](https://open.spotify.com/track/5gSEEvtnkTm5O7F8oxtw9C) | [Nova Blu](https://open.spotify.com/artist/3yL32qScrUz9MVVTgBJh8v) | [Satellite Love](https://open.spotify.com/album/1HZDlRTsWiN2cDo9KbIPCK) | 3:52 | 2026-02-23 | 2026-03-07 |

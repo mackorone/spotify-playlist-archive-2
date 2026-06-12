@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,496 likes - 324 songs - 1 day 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,509 likes - 330 songs - 1 day 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -332,5 +332,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 322 | [Superfine Feeling \- Ashley Beedle's NSW Rejig \- 12" Edit](https://open.spotify.com/track/0wxwricAQkhkWoChdqoCRN) | [Rare Pleasure](https://open.spotify.com/artist/1Denphyud3EbymnUhwfwTW), [Ashley Beedle](https://open.spotify.com/artist/7gs54cZveSV3kraHmiGYDr) | [Superfine Feeling](https://open.spotify.com/album/68azCdGEME7PtUgkj5NyQH) | 10:13 |
 | 323 | [Black Majik](https://open.spotify.com/track/2brOYVbPEl8c6F0sAK4Nb7) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 3:19 |
 | 324 | [Coeur](https://open.spotify.com/track/5CwG9TTuRWEKtNwSl5qWlC) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi) | [Joker](https://open.spotify.com/album/4pMmWhrzk3PdHEcSLAHzvK) | 4:19 |
+| 325 | [Lemme Dance](https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lemme Dance](https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF) | 3:43 |
+| 326 | [Playground](https://open.spotify.com/track/1C2kDe2LqAofeuMm9A8ner) | [Arapu](https://open.spotify.com/artist/5bryZtVQyNPDVvvHf10YUN) | [Playground](https://open.spotify.com/album/65TYh9cUBfgJpVnJmo2x8E) | 4:27 |
+| 327 | [Turbo Rosso](https://open.spotify.com/track/1SxhMuT0ZquIphMXJ8yFAz) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Baby Run](https://open.spotify.com/album/7FFjxOPlJ3RZe5omgkKTpc) | 5:48 |
+| 328 | [Clouds](https://open.spotify.com/track/3lKWmAMpLDHNp5XWIAkDUR) | [Sedef Adasi](https://open.spotify.com/artist/4jY1cwyuyqQATeSI16ZeYD) | [Clouds](https://open.spotify.com/album/3yEgkrX4OzTkaoVAnUsglo) | 7:12 |
+| 329 | [Geht's noch?](https://open.spotify.com/track/7Ep4qBcgxQTa0QwnOrVEa9) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Geht's noch? \(21 Year Anniversary Pt\. 1\)](https://open.spotify.com/album/6KbnDVQVCobouAN8Mkc0B4) | 6:48 |
+| 330 | [South](https://open.spotify.com/track/6ewMrXOPZWzzx7MbLmXkWS) | [Fango](https://open.spotify.com/artist/0Ey5SuiHfEJX8DZzwyENz1) | [Cardinals](https://open.spotify.com/album/3mPpH1l17FOvqo6YRjbMw8) | 5:40 |
 
-Snapshot ID: `AAAAANy0/N2QVMz7DjYBB7OTzlDOSa7G`
+Snapshot ID: `AAAAADdLYFlEOjMeN/2SIpI4ze4C2UgB`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro ya est\u00e1 aqu\u00ed, con nuestra nueva promoci\u00f3n. Foto: Alcal\u00e1 Norte.",
+  "description": "El futuro ya est\u00e1 aqu\u00ed, con nuestra nueva promoci\u00f3n. Foto: Metrika.",
   "name": "RADAR Espa\u00f1a",
   "tracks": [
     {
@@ -1326,6 +1326,28 @@
       "duration_ms": 352773,
       "name": "dema\u00f1ananos\u00e9",
       "url": "https://open.spotify.com/track/0pEJny202NK5HL4fwYYJ5d"
+    },
+    {
+      "album": {
+        "name": "DEMONIAS MU\u00d1ECAS",
+        "url": "https://open.spotify.com/album/6hTlEVdpr7QRWBICFZR88z"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "Came Beats",
+          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168549,
+      "name": "DEMONIAS MU\u00d1ECAS",
+      "url": "https://open.spotify.com/track/1F22SGMpR8KQMijk1ihj4r"
     },
     {
       "album": {

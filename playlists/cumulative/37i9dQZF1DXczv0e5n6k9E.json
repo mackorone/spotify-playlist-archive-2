@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Yolte",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: CHEKKIS, HermesHermes, SKEZ",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1419,6 +1419,28 @@
     },
     {
       "album": {
+        "name": "ARRRONO",
+        "url": "https://open.spotify.com/album/5cEaNYrIoBNvjC1KXepMiZ"
+      },
+      "artists": [
+        {
+          "name": "duKYS",
+          "url": "https://open.spotify.com/artist/2sodpTtk7UOG4z5ZtIHg89"
+        },
+        {
+          "name": "Sardos97",
+          "url": "https://open.spotify.com/artist/119BqJ7qRURlIOb22caU5W"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170255,
+      "name": "ARRRONO",
+      "url": "https://open.spotify.com/track/45m5hy5CgN3h1ld5rmFpsi"
+    },
+    {
+      "album": {
         "name": "Royal",
         "url": "https://open.spotify.com/album/6NigROCnaigsr6FroYtDAu"
       },
@@ -1914,6 +1936,28 @@
       "duration_ms": 148571,
       "name": "Balkan",
       "url": "https://open.spotify.com/track/3w38tasao28UhiBOWLpN8g"
+    },
+    {
+      "album": {
+        "name": "TIGER LUV",
+        "url": "https://open.spotify.com/album/6srP9HJXcKA4lwfa8viVPJ"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Nucci",
+          "url": "https://open.spotify.com/artist/3YNm5MBjwq1QDeKQJq7wze"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162750,
+      "name": "BALKANIA",
+      "url": "https://open.spotify.com/track/2em4xTRYA34i6QVJ1kCpXH"
     },
     {
       "album": {
@@ -2578,7 +2622,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 179612,
       "name": "BOYKA",
       "url": "https://open.spotify.com/track/6XMikOosYV3xFiDOUFJ9LK"
@@ -2670,7 +2714,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 140071,
       "name": "BUONA SERA",
       "url": "https://open.spotify.com/track/6SiJxfVBdvSYpB2Mrbi3kA"
@@ -2696,6 +2740,28 @@
       "duration_ms": 174793,
       "name": "BURJ KHALIFA",
       "url": "https://open.spotify.com/track/2uJbZCgR4slJJvfJgaW10A"
+    },
+    {
+      "album": {
+        "name": "BUSINESS",
+        "url": "https://open.spotify.com/album/4jFritgZBQ4qAxUaN193VX"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "Corteo",
+          "url": "https://open.spotify.com/artist/7vHwSdqnwKnxJiMHFr0Edd"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "BUSINESS",
+      "url": "https://open.spotify.com/track/3djudakcBistWKRfuKdWuL"
     },
     {
       "album": {
@@ -2846,7 +2912,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 161589,
       "name": "CARTEL",
       "url": "https://open.spotify.com/track/1sH3C1vAF0x9lUz2viD8t6"
@@ -3210,6 +3276,28 @@
       "duration_ms": 177250,
       "name": "Comeback #2",
       "url": "https://open.spotify.com/track/4OCAVaEDpDtczmBYOV3yTs"
+    },
+    {
+      "album": {
+        "name": "TIGER LUV",
+        "url": "https://open.spotify.com/album/6srP9HJXcKA4lwfa8viVPJ"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "CON CALMA",
+      "url": "https://open.spotify.com/track/3vXDf3EBZ0gmz6rkMkM3po"
     },
     {
       "album": {
@@ -4930,7 +5018,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 204677,
       "name": "Euthini",
       "url": "https://open.spotify.com/track/4HltTeBPNfc6bE6Wn4Sjzp"
@@ -6401,6 +6489,36 @@
     },
     {
       "album": {
+        "name": "Cruel Summer 3",
+        "url": "https://open.spotify.com/album/5PLaA1KlPRZx1DUm7PhN15"
+      },
+      "artists": [
+        {
+          "name": "DJ Stephan",
+          "url": "https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "Athena Manoukian",
+          "url": "https://open.spotify.com/artist/22YSp71UhSbFP7OP5jx3r0"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "GREEK LOVE",
+      "url": "https://open.spotify.com/track/5FrtqrsOJd15eXWtKA88vD"
+    },
+    {
+      "album": {
         "name": "GreeKs",
         "url": "https://open.spotify.com/album/56XOp7JXGSPrnjYmbdVRLV"
       },
@@ -6600,6 +6718,58 @@
       "duration_ms": 119153,
       "name": "HABIBI",
       "url": "https://open.spotify.com/track/0CPhqd0ZX0CUW2qU5uZP2q"
+    },
+    {
+      "album": {
+        "name": "HAHAHA",
+        "url": "https://open.spotify.com/album/6jJ4tAmcSwmJyFrFVkvHtt"
+      },
+      "artists": [
+        {
+          "name": "Khay Be",
+          "url": "https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y"
+        },
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        },
+        {
+          "name": "JACK",
+          "url": "https://open.spotify.com/artist/1lnEx1FwS23OzDhfsUnLAf"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188233,
+      "name": "HAHAHA",
+      "url": "https://open.spotify.com/track/4agkvRh2xfTlFPfJ5ZpRTQ"
+    },
+    {
+      "album": {
+        "name": "HAHAHA 2",
+        "url": "https://open.spotify.com/album/0ArcAZ824nDh744VaKOB1r"
+      },
+      "artists": [
+        {
+          "name": "CHEKKIS",
+          "url": "https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO"
+        },
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "SKEZ",
+          "url": "https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176511,
+      "name": "HAHAHA 2",
+      "url": "https://open.spotify.com/track/5EAy0J6wLVOb0qR9eR9Rsa"
     },
     {
       "album": {
@@ -7506,7 +7676,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 171000,
       "name": "JUMANJI",
       "url": "https://open.spotify.com/track/4J036kBffeOpN84878AiHc"
@@ -9341,6 +9511,32 @@
     },
     {
       "album": {
+        "name": "THE LAST G",
+        "url": "https://open.spotify.com/album/6wdG7mhiLVjA6HoFcdbrfa"
+      },
+      "artists": [
+        {
+          "name": "Nervous",
+          "url": "https://open.spotify.com/artist/7FdRvCyJYz6yvMGjYuIVpN"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Vic",
+          "url": "https://open.spotify.com/artist/5YudBCmkkzJXFxiK5qduR9"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "MAXAIRIA KAI GLOCK",
+      "url": "https://open.spotify.com/track/5cmtBXdKq8BfztlEDTY0ii"
+    },
+    {
+      "album": {
         "name": "MBAPPE",
         "url": "https://open.spotify.com/album/2FRgTjahtyzUQG8A3ZaaDT"
       },
@@ -9966,7 +10162,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 133894,
       "name": "MONH SOU",
       "url": "https://open.spotify.com/track/7w0AdTkXv0UU1Xbzyaj9c7"
@@ -11238,7 +11434,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 129964,
       "name": "ONE OF A KIND",
       "url": "https://open.spotify.com/track/5aGg7kZXLHSnBqgCAvTvQ7"
@@ -11624,6 +11820,32 @@
       "duration_ms": 167251,
       "name": "PALI",
       "url": "https://open.spotify.com/track/48tcwflLj2v1mDsPQnjxN7"
+    },
+    {
+      "album": {
+        "name": "PALOMA",
+        "url": "https://open.spotify.com/album/6N6d32REL5sGP4p01xflLr"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "MENJU",
+          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "PALOMA",
+      "url": "https://open.spotify.com/track/2mSredandhqq7qSD2LVhn6"
     },
     {
       "album": {
@@ -13620,7 +13842,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 167297,
       "name": "S 500",
       "url": "https://open.spotify.com/track/1sEdiB9Dhf81Pg9Gv2LQhb"
@@ -15826,7 +16048,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 135375,
       "name": "TRELOS",
       "url": "https://open.spotify.com/track/5QynrK0NuCLiK8fotZVpbN"

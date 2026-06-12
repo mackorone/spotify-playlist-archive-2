@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,504 songs - 3 day 23 hr 18 min
+2,506 songs - 3 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -742,13 +742,14 @@
 | [Fender Bender](https://open.spotify.com/track/6hogWoj5zE1i8pLS7pyXwz) | [Alkis Siokis](https://open.spotify.com/artist/4B7RMdxD9keX7PCQIpOs5O) | [Fender Bender](https://open.spotify.com/album/2xhosSPWPwfqIfPLRCtDYT) | 2:39 | 2022-04-15 | 2022-12-17 |
 | [Fernvale](https://open.spotify.com/track/6lP0M5Lx3ME3TzRijzRwic) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [But First Coffee](https://open.spotify.com/album/07qI7oGYsBI3sWFyuh0JD6) | 1:26 | 2022-04-15 | 2022-05-27 |
 | [Ferrochrome](https://open.spotify.com/track/10yzr6JwWrvxVuJnFKSe6B) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [Ferrochrome](https://open.spotify.com/album/4MSQHrcg30VMIWxCskZzjO) | 2:22 | 2022-04-15 | 2022-10-08 |
+| [fields](https://open.spotify.com/track/7utLW2in8MZjdmNlxkv5cC) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [Maple Sleep](https://open.spotify.com/artist/69fsNsWG9WfmYwyLgt2ARu) | [fields](https://open.spotify.com/album/3zGuqSAuPhVZSIZAgMb8CG) | 1:50 | 2026-06-11 |  |
 | [Fields of Flowers](https://open.spotify.com/track/2Ltyyje29jtFSN5WLUkZTB) | [Hazue](https://open.spotify.com/artist/3YnVojTjzOoV0xMr7Am0EU), [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f) | [Fields of Flowers](https://open.spotify.com/album/4SvSY8V8tqKRyWeLCruqtB) | 2:06 | 2026-02-20 |  |
 | [fight the flab](https://open.spotify.com/track/5NkFP4QgCvAA050xLpTxBk) | [teen mtnt](https://open.spotify.com/artist/1ALWskzFjZDKZiaBNigjr4) | [fight the flab](https://open.spotify.com/album/1aCURXh2Alk0Uj1Yw39CYY) | 2:19 | 2023-07-13 | 2024-10-30 |
 | [fika](https://open.spotify.com/track/3HcQcCDKDa5a1rRhH7fsPn) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [fika](https://open.spotify.com/album/0DqHffRxIV0AoPVIl6uZJq) | 1:44 | 2024-10-11 |  |
 | [Filter FFP4](https://open.spotify.com/track/16eop82y32gTrd2j1MaNpQ) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Filter FFP4](https://open.spotify.com/album/4MkKgGIsJONe4nsXWnbEEf) | 1:55 | 2023-02-13 | 2025-05-05 |
 | [Final Destination](https://open.spotify.com/track/5uaIokPB63EyNp2e0nbRpN) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh) | [Final Destination](https://open.spotify.com/album/0CFOKN17H7EWQ7dmtA5dpy) | 2:07 | 2023-02-06 | 2023-09-29 |
 | [find whats lost](https://open.spotify.com/track/2iDjJIo3TsomxvqSNd2k1i) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [find whats lost](https://open.spotify.com/album/0CXb8FVMWwuEcLZuVYTUGm) | 2:08 | 2024-11-08 | 2026-02-07 |
-| [finding the surface](https://open.spotify.com/track/2zCfxO5i0sZalxD36ydDZh) | [rasbora](https://open.spotify.com/artist/4wquevbkDU8HqWvxboIzYF) | [finding the surface](https://open.spotify.com/album/1SrSia7EHV4lzAxRmT8FyZ) | 1:42 | 2026-05-08 |  |
+| [finding the surface](https://open.spotify.com/track/2zCfxO5i0sZalxD36ydDZh) | [rasbora](https://open.spotify.com/artist/4wquevbkDU8HqWvxboIzYF) | [finding the surface](https://open.spotify.com/album/1SrSia7EHV4lzAxRmT8FyZ) | 1:42 | 2026-05-08 | 2026-06-12 |
 | [Findings](https://open.spotify.com/track/46dzk7cORXnFdegl7aNK3I) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Findings](https://open.spotify.com/album/5am6AqmZgScCkMkjWfoGs2) | 2:17 | 2024-01-19 | 2025-01-27 |
 | [finesse](https://open.spotify.com/track/4vHR6RgtHgcv2BvHmBMEED) | [Papillon](https://open.spotify.com/artist/5iwgB05OKM42R6wQSMeChU), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w) | [finesse](https://open.spotify.com/album/3nDmwcQbQLrc3zCxAMFtXZ) | 2:08 | 2023-04-03 | 2024-02-09 |
 | [Finger Painting](https://open.spotify.com/track/3d0MPatL3b3jvmbjdcCFwo) | [Hillways](https://open.spotify.com/artist/4UHkYUJbceL48XowKrC4Mg) | [Finger Painting](https://open.spotify.com/album/0v85RUxCwvCBRYyiHDCxby) | 3:18 | 2025-05-23 | 2025-07-18 |
@@ -1180,6 +1181,7 @@
 | [Left the TV On](https://open.spotify.com/track/0jhQ9mEXaYAG4oEfwQ4Y3d) | [Cloudroom](https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z) | [Left the TV On](https://open.spotify.com/album/5YLw5U6ifXRWuVE8EzJSaE) | 2:17 | 2026-02-06 |  |
 | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/track/3r92YrLWSVmwbCpyl0saJ1) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/album/1d6qrcmACFopMLcBqBhe5A) | 3:03 | 2022-12-16 | 2025-07-11 |
 | [Lemon Gardens](https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU) | [rosetta's stone](https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ) | [Lemon Gardens](https://open.spotify.com/album/3L6NZBTSSTtmy1fsiMc3Wg) | 2:38 | 2023-07-13 | 2024-12-15 |
+| [Lemon Light](https://open.spotify.com/track/7JdylVz7tX89wDo2JL54zU) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Lemon Light](https://open.spotify.com/album/7wzUtYUfzB0GhMWhPUu61c) | 2:17 | 2026-06-11 |  |
 | [Lemon Trees](https://open.spotify.com/track/1RploDh8Zwc5W5KIMeXFdd) | [Louie's Tapes](https://open.spotify.com/artist/1i45GyHWCJJn5N5KrRAZdj), [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Lemon Trees](https://open.spotify.com/album/7dXPuTfamgtq3U8d1gS7fW) | 2:01 | 2024-11-15 | 2024-12-07 |
 | [lemonade](https://open.spotify.com/track/7ugbUqIuXfg3UVxbIsK3Vd) | [Jungle Hit](https://open.spotify.com/artist/6zMsK4j9ppsNd4hry9P1bd) | [lemonade](https://open.spotify.com/album/17uTT5xBuHUU4WvCmKOtvr) | 2:10 | 2022-04-15 | 2022-10-14 |
 | [Lemonade Waves](https://open.spotify.com/track/6ovbhJchg5kGdayDjhUV60) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Lemonade Waves](https://open.spotify.com/album/4MiCj4Rn6yw3HLdpeXbVrX) | 2:49 | 2022-06-10 | 2023-03-25 |
@@ -2375,7 +2377,7 @@
 | [Virtue](https://open.spotify.com/track/2bcwdq26TGOyEFRINRbvg5) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Virtue](https://open.spotify.com/album/0HO2Dv3ukrUlTl46T7Gc7e) | 2:41 | 2022-11-18 | 2023-09-16 |
 | [visions](https://open.spotify.com/track/0AXavmNLkcAphlTGQ8ryS5) | [Stacy Bridge](https://open.spotify.com/artist/0l9jUDI4PJdVxQGNof28SD) | [visions](https://open.spotify.com/album/51ksQiSeWO0c4j6SNSZBZ5) | 2:20 | 2022-11-25 | 2025-07-11 |
 | [Vitalization](https://open.spotify.com/track/3pp6vpEactYNh8gVMTt5Bk) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Frodas](https://open.spotify.com/album/6YywwAQYRqLBMuQTchAeZc) | 1:59 | 2022-05-27 | 2024-05-14 |
-| [Void](https://open.spotify.com/track/2UdBrtmAdAKu7bfC3WUgcv) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Void](https://open.spotify.com/album/487yOSsqOPxqMtckj07yUD) | 3:03 | 2026-03-13 |  |
+| [Void](https://open.spotify.com/track/2UdBrtmAdAKu7bfC3WUgcv) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Void](https://open.spotify.com/album/487yOSsqOPxqMtckj07yUD) | 3:03 | 2026-03-13 | 2026-06-12 |
 | [volume 2](https://open.spotify.com/track/4sf3dg5AfMRjVjCkWHyMZl) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [volume 2](https://open.spotify.com/album/3uLQRyDao4BVvwPU9eiF6Z) | 1:55 | 2025-04-11 | 2025-06-14 |
 | [Vortex](https://open.spotify.com/track/5gUG9ivCY3V5DRW8301SbS) | [Zeitgeister](https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl) | [Vortex](https://open.spotify.com/album/5a9qEcg5nTzr7ZIPVO8FQk) | 2:04 | 2024-08-23 |  |
 | [Voyager I](https://open.spotify.com/track/5jBUgazLXovmLGbaMaBXAz) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Voyager I](https://open.spotify.com/album/0xMT2wIw012AXByuwmumtx) | 2:08 | 2022-04-15 | 2022-08-12 |

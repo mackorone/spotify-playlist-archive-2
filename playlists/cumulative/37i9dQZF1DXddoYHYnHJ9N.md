@@ -4,14 +4,15 @@
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: ByeAlex és a Slepp & Nagy Bogi
 
-229 songs - 11 hr 17 min
+231 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 | 2025-08-25 | 2026-04-01 |
 | [21 Rózsaszál](https://open.spotify.com/track/7L3baFE8EUbk7jbp2o4XB0) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [21 Rózsaszál](https://open.spotify.com/album/2Xf8aTbtaF1lEvTRQy4HVj) | 4:15 | 2025-12-01 | 2026-02-18 |
 | [45 Primo](https://open.spotify.com/track/1iJSUAeT5x2fooS8jFg7cy) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [IGAZIAKÉRT](https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1) | 2:36 | 2024-07-01 | 2024-10-22 |
-| [8](https://open.spotify.com/track/19eAMzR3dZZVdPMfCkU1Wb) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [A MASZK](https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y) | 2:25 | 2026-05-04 |  |
+| [8](https://open.spotify.com/track/19eAMzR3dZZVdPMfCkU1Wb) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [A MASZK](https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y) | 2:25 | 2026-05-04 | 2026-06-12 |
+| [8](https://open.spotify.com/track/0zvQXz24Tq1WNWJykRPLIW) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [A MASZK](https://open.spotify.com/album/1exGBKhmAcCjayRrbeYIAY) | 2:25 | 2026-06-08 |  |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-10 | 2025-06-10 |
 | [Afro Beat](https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 3:12 | 2024-07-01 | 2025-09-12 |
 | [AFTERPARTY \- Bruno](https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [AFTERPARTY \(Bruno\)](https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd) | 2:24 | 2025-09-22 |  |
@@ -137,7 +138,8 @@
 | [No Woman No Cry](https://open.spotify.com/track/3AwRMZhguWChK8Vvdu4ebG) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [No Woman No Cry](https://open.spotify.com/album/5w7pVxcVHoXWs6By2NEDbQ) | 2:38 | 2024-07-01 | 2025-08-20 |
 | [Nosztalgia](https://open.spotify.com/track/33FPGRObmoMXs2oWY9H9lk) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor \(Part 3\)](https://open.spotify.com/album/7xDuQfy7GG77mu9BGwQT04) | 3:09 | 2025-02-10 | 2025-11-18 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-07-15 | 2024-10-22 |
-| [NU MĂ LASĂ](https://open.spotify.com/track/4f7QJX2A3SK4aVSK9bh4r5) | [Tóth Andi](https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu), [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA) | [NU MĂ LASĂ](https://open.spotify.com/album/53k7aEfUyjep2mkaviZRNl) | 2:43 | 2025-12-15 |  |
+| [NU MĂ LASĂ](https://open.spotify.com/track/4f7QJX2A3SK4aVSK9bh4r5) | [Tóth Andi](https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu), [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA) | [NU MĂ LASĂ](https://open.spotify.com/album/53k7aEfUyjep2mkaviZRNl) | 2:43 | 2025-12-15 | 2026-06-12 |
+| [NU MĂ LASĂ](https://open.spotify.com/track/4mDYVoej7k84AvCfPtZwN2) | [Tóth Andi](https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu), [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA) | [NU MĂ LASĂ](https://open.spotify.com/album/2Oc4ifFq1kbeREYsIwEqnU) | 2:43 | 2026-06-08 |  |
 | [OHMAMMA](https://open.spotify.com/track/2oKmNG8j56GqcX4XxyYcax) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [OHMAMMA](https://open.spotify.com/album/0FI47MJzrv0dDT38VZaJEu) | 2:48 | 2025-08-25 |  |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-03-31 | 2026-03-24 |
 | [Orgonabokor](https://open.spotify.com/track/0I76u5NBRWclnf3KEnS33v) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor \(Part 1\)](https://open.spotify.com/album/19gTH12mvxBSHgiSjOfdpq) | 3:35 | 2025-01-13 | 2025-05-06 |

@@ -4,7 +4,7 @@
 
 > start your day right ☕️ wake up with some warm and slow Jazz
 
-766 songs - 1 day 21 hr 16 min
+768 songs - 1 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [At A Glance](https://open.spotify.com/track/0rlmAIIhMnD1750HZibwLD) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [At A Glance](https://open.spotify.com/album/3QX4fX7HOzTIQZj0wOThD5) | 4:10 | 2023-12-22 | 2024-09-10 |
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-05-17 | 2023-02-24 |
 | [At the end of the day](https://open.spotify.com/track/0flOyulYWI5aqATizzKxdU) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [At the end of the day](https://open.spotify.com/album/4hBDyCoutcG2IhvK1p87P8) | 3:36 | 2024-05-10 | 2025-02-25 |
-| [Autumn Embrace](https://open.spotify.com/track/3a2EtryAoijDMEAOaFSxqH) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Autumn Embrace](https://open.spotify.com/album/2DxBhqTHXlvOPiGGb4tB4k) | 2:33 | 2023-08-10 |  |
+| [Autumn Embrace](https://open.spotify.com/track/3a2EtryAoijDMEAOaFSxqH) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Autumn Embrace](https://open.spotify.com/album/2DxBhqTHXlvOPiGGb4tB4k) | 2:33 | 2023-08-10 | 2026-06-12 |
 | [Autumn In New York](https://open.spotify.com/track/62FrtiVepyS9UGfcTPhu7W) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Autumn In New York](https://open.spotify.com/album/1bfAtOefGFjr2k6eQicSzJ) | 4:19 | 2022-09-29 | 2023-03-10 |
 | [Autumn Nocturne](https://open.spotify.com/track/751ioCiRxLWziIfPWGQ6ur) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Autumn Nocturne](https://open.spotify.com/album/7KBFqb2rTLsCdjQz64bf8M) | 3:07 | 2022-08-16 | 2023-02-24 |
 | [Autumn Once Again](https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Autumn Once Again](https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk) | 4:44 | 2022-10-27 | 2024-07-23 |
@@ -272,6 +272,7 @@
 | [I Know Too Well](https://open.spotify.com/track/6tKDtGWfRkozO6r0kwsyYr) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [I Know Too Well](https://open.spotify.com/album/2CkXWv8Yaq4Si9IXgAVvbc) | 3:26 | 2022-09-29 | 2024-04-24 |
 | [I Love the Way You Smile](https://open.spotify.com/track/6hufmiqs1HOt6585VQZbPl) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [I Love the Way You Smile](https://open.spotify.com/album/4jSX3loHpkuPn7SrO5UxN2) | 3:29 | 2024-08-19 | 2025-04-24 |
 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2022-05-17 | 2024-06-01 |
+| [I Miss Us](https://open.spotify.com/track/3mrCcMMnDwnMrZ4RKqbbLU) | [Dave Gordon Trio](https://open.spotify.com/artist/2vQ0rZrPfwWwg0ntFYJzfe) | [I Miss Us](https://open.spotify.com/album/4lYl3a6695pgIdJZRSDbuj) | 2:32 | 2026-06-12 |  |
 | [I Must Have...](https://open.spotify.com/track/3f0xlekdmFFhKD3uubnbPs) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [I Must Have...](https://open.spotify.com/album/3j2pW9MYuiSTeNZhUEyizJ) | 3:13 | 2024-04-17 | 2025-09-24 |
 | [I Remember You](https://open.spotify.com/track/1k2KhAnHidiCUsTyOiJtr2) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [I Remember You](https://open.spotify.com/album/1fRZ3SYAcAoTeiK2h7SNE0) | 3:02 | 2022-10-13 | 2023-02-10 |
 | [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 | 2022-11-24 | 2024-07-13 |
@@ -403,6 +404,7 @@
 | [Mellow Moments](https://open.spotify.com/track/3YGVTfSxTCuDykWrENqmGp) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Mellow Moments](https://open.spotify.com/album/1ewVy7oBv5CLUM7htj4oFk) | 3:08 | 2023-04-27 |  |
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-01 | 2026-03-19 |
 | [Midnight Kiss](https://open.spotify.com/track/24cotmQXHqpfCQ7Z5eJxyd) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Midnight Kiss](https://open.spotify.com/album/7qIZh1SsBiFq5djjkz2aFo) | 3:00 | 2025-07-23 |  |
+| [Midnight Sun](https://open.spotify.com/track/6HATVFMZcPhegPvtbCgein) | [Sam Creese](https://open.spotify.com/artist/4clo4DnnChvymuKlxBeg7q) | [Midnight Sun](https://open.spotify.com/album/4HiKCprDCtoLD6D9fvsxZc) | 3:02 | 2026-06-12 |  |
 | [Milford Sound](https://open.spotify.com/track/1x0FdcEh7F8h1u8Zl9wdcc) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Milford Sound](https://open.spotify.com/album/0VgwZU5kHyc6i3A0WPqApx) | 4:19 | 2024-05-23 | 2025-06-06 |
 | [Mindtricks](https://open.spotify.com/track/7iiaBzL2JWTDMphCxAHyF1) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Mindtricks](https://open.spotify.com/album/5HHtmh3GHkQcoXomNJcO6N) | 3:32 | 2025-08-19 | 2025-09-24 |
 | [Mirabelle](https://open.spotify.com/track/5ZZUajubKFkpNW9eI8pedD) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Mirabelle](https://open.spotify.com/album/6svrhdbZqSWr6lUuoF16nV) | 3:42 | 2025-04-23 |  |
@@ -746,7 +748,7 @@
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-06 | 2024-11-06 |
 | [Without A Song](https://open.spotify.com/track/3hg8V1W00TkOUKtRlUbqse) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Without A Song](https://open.spotify.com/album/364hqhXnP6wHIfyg6y6bhG) | 3:48 | 2025-02-03 | 2025-03-19 |
 | [Wonderful Is Short](https://open.spotify.com/track/7AeoW54UXtfDBV2WpWSR6f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Wonderful Is Short](https://open.spotify.com/album/0MnKnVzed2dgfNvcz2vsfE) | 3:36 | 2023-12-15 | 2024-07-16 |
-| [Wondering Why](https://open.spotify.com/track/6elT0vXS7ILjH24M9ChchR) | [Joe Monder](https://open.spotify.com/artist/1MFKCh7c4J90T9NjgAV8xl) | [Wondering Why](https://open.spotify.com/album/1wawwHxVgD35dDW2O8uZiD) | 3:19 | 2025-02-03 |  |
+| [Wondering Why](https://open.spotify.com/track/6elT0vXS7ILjH24M9ChchR) | [Joe Monder](https://open.spotify.com/artist/1MFKCh7c4J90T9NjgAV8xl) | [Wondering Why](https://open.spotify.com/album/1wawwHxVgD35dDW2O8uZiD) | 3:19 | 2025-02-03 | 2026-06-12 |
 | [Wooden String](https://open.spotify.com/track/7A0Tfue4lSnzJsudy5m7y9) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Wooden String](https://open.spotify.com/album/0JNbiCpZInQlQcYnRzVGZS) | 3:24 | 2023-08-10 | 2024-09-10 |
 | [Worry and Gossip](https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Worry and Gossip](https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV) | 3:41 | 2023-10-13 | 2025-07-16 |
 | [Would You Be So Kind](https://open.spotify.com/track/5rdkWQtSU6UT2Fg6MuwsNa) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [Would You Be So Kind](https://open.spotify.com/album/7KkBDxCXqxEOkpFi4WaXtX) | 4:05 | 2023-12-08 | 2025-02-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-20",
-  "description": "East Africa queens in their music bag. Cover: Blue3",
+  "description": "East Africa queens in their music bag. Cover: Teslah",
   "name": "Malkia",
   "tracks": [
     {
@@ -614,7 +614,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 192631,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"
@@ -770,6 +770,24 @@
       "duration_ms": 205680,
       "name": "Halichachi",
       "url": "https://open.spotify.com/track/6SWpURhRKx8IN6IXzCSV2S"
+    },
+    {
+      "album": {
+        "name": "Hate That I Love You",
+        "url": "https://open.spotify.com/album/6mNgkMoCmIAuQuFDTfMu8M"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157759,
+      "name": "Hate That I Love You",
+      "url": "https://open.spotify.com/track/4Z5WbiyKtTMFWgqK7ErFKv"
     },
     {
       "album": {
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 156786,
       "name": "Some Body",
       "url": "https://open.spotify.com/track/44koYo4DjHx8TdgvTKPcwn"
@@ -3222,6 +3240,24 @@
       "duration_ms": 155782,
       "name": "Touching on My Baby",
       "url": "https://open.spotify.com/track/4TQqtk6JQD6pYBOhiIrNwd"
+    },
+    {
+      "album": {
+        "name": "Miss Understood",
+        "url": "https://open.spotify.com/album/302aQy8UeU99sWA9CcFgRE"
+      },
+      "artists": [
+        {
+          "name": "Teslah",
+          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/1vmlAOkpXxfclPeg0pdgdn"
     },
     {
       "album": {

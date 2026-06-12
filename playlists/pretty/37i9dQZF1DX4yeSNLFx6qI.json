@@ -1,6 +1,6 @@
 {
   "description": "sad songs 4 sad days.",
-  "num_followers": 1673680,
+  "num_followers": 1673291,
   "original_name": "canciones tristes que me recuerdan a ti",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-05-29 19:51:10",
       "album": {
+        "name": "Crecer",
+        "url": "https://open.spotify.com/album/1wZsIe0ESdi5lxbdfng3Wg"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Crecer",
+      "url": "https://open.spotify.com/track/5QFGoDnMHWCFSvF2g0mz2I"
+    },
+    {
+      "added_at": "2026-05-29 19:51:10",
+      "album": {
         "name": "IDGAF ERA",
         "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 170081,
       "name": "Saberte Querer",
       "url": "https://open.spotify.com/track/3L7wOKpveQxiCDlp5rpkeN"
-    },
-    {
-      "added_at": "2026-05-29 19:51:10",
-      "album": {
-        "name": "Crecer",
-        "url": "https://open.spotify.com/album/1wZsIe0ESdi5lxbdfng3Wg"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Crecer",
-      "url": "https://open.spotify.com/track/5QFGoDnMHWCFSvF2g0mz2I"
     },
     {
       "added_at": "2026-05-29 19:51:10",
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-05-29 19:51:10",
       "album": {
-        "name": "Estemos Donde Estemos",
-        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
+        "name": "Viernes 13 V (Me repito a diario)",
+        "url": "https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6"
       },
       "artists": [
         {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
         }
       ],
-      "duration_ms": 107320,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
+      "duration_ms": 220235,
+      "name": "Viernes 13 V - Me repito a diario",
+      "url": "https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ"
     },
     {
       "added_at": "2026-05-29 19:51:10",
@@ -743,18 +743,18 @@
     {
       "added_at": "2026-05-29 19:51:10",
       "album": {
-        "name": "Viernes 13 V (Me repito a diario)",
-        "url": "https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6"
+        "name": "Estemos Donde Estemos",
+        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
       },
       "artists": [
         {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 220235,
-      "name": "Viernes 13 V - Me repito a diario",
-      "url": "https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ"
+      "duration_ms": 107320,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
     },
     {
       "added_at": "2026-05-29 19:51:10",

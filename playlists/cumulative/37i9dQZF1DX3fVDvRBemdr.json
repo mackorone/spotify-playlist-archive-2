@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop releases. Cover: Robert van Hemert",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: Jeffrey Heesen",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -760,7 +760,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 158040,
       "name": "Als Ik Alles Van Tevoren Had Geweten",
       "url": "https://open.spotify.com/track/451PfxIL6AaODyulfXyh5O"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 170976,
       "name": "Als Ik Jou Niet Bij Me Heb",
       "url": "https://open.spotify.com/track/7GBTyiQDOCvlXgzvMAr6SV"
@@ -872,6 +872,24 @@
       "duration_ms": 143203,
       "name": "Als Ik Naar Malaga Ga",
       "url": "https://open.spotify.com/track/7xkDCLLtAYQ4nHjOIKXnZ6"
+    },
+    {
+      "album": {
+        "name": "Als Je De Keuze Had",
+        "url": "https://open.spotify.com/album/2Tex2k6PHIJQssAYP30zLP"
+      },
+      "artists": [
+        {
+          "name": "Thomas Berge",
+          "url": "https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161782,
+      "name": "Als Je De Keuze Had",
+      "url": "https://open.spotify.com/track/1FZM8dP0aTz018IYwdGH46"
     },
     {
       "album": {
@@ -1863,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Ciao Bella",
+        "url": "https://open.spotify.com/album/0FMnHACMC82LQsydTkC2wE"
+      },
+      "artists": [
+        {
+          "name": "William Burg",
+          "url": "https://open.spotify.com/artist/4NsbHQrXLybMMQCmVBHo2y"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220327,
+      "name": "Ciao Bella",
+      "url": "https://open.spotify.com/track/0ZloOnyJxaMAvQZzphxur4"
+    },
+    {
+      "album": {
         "name": "Ciao Ciao Amore",
         "url": "https://open.spotify.com/album/5QXHryB0ATrELcdlb1vgSv"
       },
@@ -1910,7 +1946,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 147599,
       "name": "Code Rood",
       "url": "https://open.spotify.com/track/0luT3jn3g1gahcH8jXR0ig"
@@ -2270,7 +2306,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 173553,
       "name": "De Avond Is Van Ons",
       "url": "https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx"
@@ -2992,7 +3028,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 161760,
       "name": "Dit Is Liefde",
       "url": "https://open.spotify.com/track/12Pp1mW2jMyBExl6lbl4pg"
@@ -3565,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "Er Hangt Iets In De Lucht (Amore)",
+        "url": "https://open.spotify.com/album/6buRqDbSFtPWbIQE6U9yLZ"
+      },
+      "artists": [
+        {
+          "name": "Corry Konings",
+          "url": "https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141834,
+      "name": "Er Hangt Iets In De Lucht (Amore)",
+      "url": "https://open.spotify.com/track/07bJRyAngiJbVGLmkyv447"
+    },
+    {
+      "album": {
         "name": "Esmeralda 2.0",
         "url": "https://open.spotify.com/album/2872EPy52W10CTQJAKuWjG"
       },
@@ -3594,7 +3648,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 167000,
       "name": "Even Uit De Bocht",
       "url": "https://open.spotify.com/track/0zKfn8Vnakmhx8lGoOAvyH"
@@ -4207,6 +4261,24 @@
     },
     {
       "album": {
+        "name": "Geweest Is Geweest",
+        "url": "https://open.spotify.com/album/5zYkAkqlag5B299gitBMgy"
+      },
+      "artists": [
+        {
+          "name": "Frank Verkooyen",
+          "url": "https://open.spotify.com/artist/4ufIflZBqkBtxKDjEJ624G"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174523,
+      "name": "Geweest Is Geweest",
+      "url": "https://open.spotify.com/track/5tuFIPgPtR8zyOkp1wX84f"
+    },
+    {
+      "album": {
         "name": "Gewoon Omdat Het Kan",
         "url": "https://open.spotify.com/album/4Igks3lKCilN0C2CONNSPi"
       },
@@ -4362,7 +4434,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 153567,
       "name": "Gouden Lach",
       "url": "https://open.spotify.com/track/1cRsgsAIU4AMPor92Uk8HX"
@@ -4654,7 +4726,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 213046,
       "name": "Het Is Nooit Goed",
       "url": "https://open.spotify.com/track/7rG5ZsdzBvwd3QwBbxZddr"
@@ -5102,7 +5174,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 170199,
       "name": "Iedere Traan",
       "url": "https://open.spotify.com/track/7JA43P5JrAf0H9VBvcXrEb"
@@ -5983,6 +6055,24 @@
     },
     {
       "album": {
+        "name": "Ik Zeg Je Eerlijk",
+        "url": "https://open.spotify.com/album/2cW7y4ET4N7O7q5Frqdbwd"
+      },
+      "artists": [
+        {
+          "name": "Bart van Loon",
+          "url": "https://open.spotify.com/artist/38EELn2H0CCdzeyndHc0xA"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162250,
+      "name": "Ik Zeg Je Eerlijk",
+      "url": "https://open.spotify.com/track/5HJH8rVHZBPxXS0FQFRljp"
+    },
+    {
+      "album": {
         "name": "Ik zou het zo weer overdoen",
         "url": "https://open.spotify.com/album/1D4PQXSWNPlISYnbFBQZuh"
       },
@@ -5994,7 +6084,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 205918,
       "name": "Ik zou het zo weer overdoen",
       "url": "https://open.spotify.com/track/3VmopKB6zV3SOkZBlsV0ZZ"
@@ -6106,7 +6196,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 164390,
       "name": "In Een Seconde",
       "url": "https://open.spotify.com/track/0fRkU8uUsdd6F7BCTo1YHD"
@@ -6464,6 +6554,24 @@
       "duration_ms": 177906,
       "name": "Je Hoeft Niet Altijd 6 Te Gooien",
       "url": "https://open.spotify.com/track/70Sp0UadiXctJcNdJRhGxK"
+    },
+    {
+      "album": {
+        "name": "Je Weet Niet Wat Je Mist",
+        "url": "https://open.spotify.com/album/6ibwU9gWM7PpCvrnJRozhp"
+      },
+      "artists": [
+        {
+          "name": "Samantha Steenwijk",
+          "url": "https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183616,
+      "name": "Je Weet Niet Wat Je Mist",
+      "url": "https://open.spotify.com/track/1TUABuqFdbTfcboSfXS9TU"
     },
     {
       "album": {
@@ -7669,6 +7777,24 @@
     },
     {
       "album": {
+        "name": "Lekk\u00e2h Bakk\u00fbh Op Scheveningen",
+        "url": "https://open.spotify.com/album/7cx8yvUXzIvWLctBG1bpqR"
+      },
+      "artists": [
+        {
+          "name": "Chicco",
+          "url": "https://open.spotify.com/artist/2xH3vTSU0GizfUrgYMauZb"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Lekk\u00e2h Bakk\u00fbh Op Scheveningen",
+      "url": "https://open.spotify.com/track/5hxJrnTdXWNmVuzUc78bIM"
+    },
+    {
+      "album": {
         "name": "Lepeltje Lepeltje",
         "url": "https://open.spotify.com/album/0DVe1xzbi2amHHvkhuaZuB"
       },
@@ -7829,6 +7955,24 @@
     },
     {
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/6S3VVsDn0RCwIlSDRIT4uc"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153635,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/6VDELF4AaHeGlZujv8LaF8"
+    },
+    {
+      "album": {
         "name": "Losse Pols",
         "url": "https://open.spotify.com/album/20qZLdxkV8zZciN7zv4QZa"
       },
@@ -7870,7 +8014,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 148726,
       "name": "Loterij",
       "url": "https://open.spotify.com/track/3DHw2e8NLC88aFEGvRGMVz"
@@ -8076,7 +8220,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 207830,
       "name": "Mama Waar Ben Je Nou",
       "url": "https://open.spotify.com/track/7lt4KtDKN2eWPWSKoRIUub"
@@ -8112,7 +8256,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 186346,
       "name": "Maria Gonzales",
       "url": "https://open.spotify.com/track/5ODWgY245uHGXi68qnoeQM"
@@ -8648,6 +8792,24 @@
       "duration_ms": 170394,
       "name": "Neem Nog Wat Drinken Van Mij",
       "url": "https://open.spotify.com/track/5A4D0fo5gOPkCg7gA6CBxp"
+    },
+    {
+      "album": {
+        "name": "Nergens Anders",
+        "url": "https://open.spotify.com/album/0uRnA7qbvfQCz12VAtQodA"
+      },
+      "artists": [
+        {
+          "name": "Bob Offenberg",
+          "url": "https://open.spotify.com/artist/3IGnL1mAn5yUoRsk3k3ZvO"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "Nergens Anders",
+      "url": "https://open.spotify.com/track/4DjNoN2DWSdkCOGppJzkw6"
     },
     {
       "album": {
@@ -9190,7 +9352,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 179379,
       "name": "Op Het Randje Van De Liefde",
       "url": "https://open.spotify.com/track/0LJFFFhlWBYSFWwN3buOw5"
@@ -9530,6 +9692,28 @@
       "duration_ms": 142933,
       "name": "Rad van Fortuin",
       "url": "https://open.spotify.com/track/2svKnbJyLGfyRtcwRDbIUB"
+    },
+    {
+      "album": {
+        "name": "Rijk",
+        "url": "https://open.spotify.com/album/1hXCaI82l8yrQVAXL45YyR"
+      },
+      "artists": [
+        {
+          "name": "Mick Harren",
+          "url": "https://open.spotify.com/artist/3rC0vVL6atCESm1dahvBDl"
+        },
+        {
+          "name": "Emma La Croix",
+          "url": "https://open.spotify.com/artist/78Lk31Zy11zeyc09ZrC9mP"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187562,
+      "name": "Rijk",
+      "url": "https://open.spotify.com/track/1bqjF7uW3vrOh4NMNAPoUT"
     },
     {
       "album": {
@@ -10177,6 +10361,24 @@
     },
     {
       "album": {
+        "name": "Straatmuzikant (Speel nog een liedje voor mij)",
+        "url": "https://open.spotify.com/album/0zTSvonQekvOuy74xoAmEx"
+      },
+      "artists": [
+        {
+          "name": "Danny Canters",
+          "url": "https://open.spotify.com/artist/6KS0mrfstgGP5BTrZnlFGG"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152142,
+      "name": "Straatmuzikant (Speel nog een liedje voor mij)",
+      "url": "https://open.spotify.com/track/0xsurT4FZfLGllSgpNuHSP"
+    },
+    {
+      "album": {
         "name": "Suavemente, Dans Met Mij",
         "url": "https://open.spotify.com/album/26N1Eca9A56lXptg6u9T9M"
       },
@@ -10196,6 +10398,24 @@
       "duration_ms": 190476,
       "name": "Suavemente, Dans Met Mij",
       "url": "https://open.spotify.com/track/2GLSRL3sIOQR5TTppRqkjj"
+    },
+    {
+      "album": {
+        "name": "Sukkel In Amsterdam",
+        "url": "https://open.spotify.com/album/4BZtc7WginNmJ0YvgZdILP"
+      },
+      "artists": [
+        {
+          "name": "Menzo Kortland",
+          "url": "https://open.spotify.com/artist/5JYcpYghE4LdLUgFxCLuS5"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165441,
+      "name": "Sukkel In Amsterdam",
+      "url": "https://open.spotify.com/track/42kcDroM4Qo3LeQ3ig8qVu"
     },
     {
       "album": {
@@ -11113,6 +11333,24 @@
     },
     {
       "album": {
+        "name": "Voor Jou Betekent Liefde Niets",
+        "url": "https://open.spotify.com/album/0KfBDmaAEwbijrjHrV9pCr"
+      },
+      "artists": [
+        {
+          "name": "Menno Aben",
+          "url": "https://open.spotify.com/artist/2Jc9IdaUSgqGtF202EB1zL"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191095,
+      "name": "Voor Jou Betekent Liefde Niets",
+      "url": "https://open.spotify.com/track/0nm88HUSs2TQghRSMVjmYQ"
+    },
+    {
+      "album": {
         "name": "Voor Jouw Sorry",
         "url": "https://open.spotify.com/album/77xheE0ZobmmAaspl7SuPV"
       },
@@ -11452,7 +11690,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 138000,
       "name": "Wat Heb Ik Te Verliezen",
       "url": "https://open.spotify.com/track/6eFq9ZXV2pCOpow76FIsRc"
@@ -12512,7 +12750,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 126976,
       "name": "Zij Hoort Bij Mij",
       "url": "https://open.spotify.com/track/4NzVNVrPqz7APlA5C0TuBP"

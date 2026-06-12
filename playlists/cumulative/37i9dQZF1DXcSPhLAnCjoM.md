@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Frérot" de Jérémy Frérot  est le Grand Hit de la semaine.
+> "Soirée mondaine" d'Oria  est le Grand Hit de la semaine.
 
 337 songs - 17 hr 14 min
 

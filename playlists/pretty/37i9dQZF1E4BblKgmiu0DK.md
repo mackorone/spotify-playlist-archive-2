@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4BblKgmiu0DK.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It's Not You \- SC Radio Mix](https://open.spotify.com/track/1gswIHZ2LUd4YYTo2Rw5CV) | [Renee Cassar](https://open.spotify.com/artist/5HZGH1vb26Yn4T6ec1Rcft) | [It's Not You \(SC Radio Mix\)](https://open.spotify.com/album/1JDlPO6TgnZGI1dXPOqbut) | 3:33 |
-| 2 | [Hot](https://open.spotify.com/track/7j6c6VqsViRPY1x7JnjsuA) | [jules](https://open.spotify.com/artist/1jRM4ff3eCNqwHZWFjzHqI) | [Hot](https://open.spotify.com/album/54wxv01KgngcHkfwP65KhA) | 2:11 |
+| 2 | [Hot](https://open.spotify.com/track/7j6c6VqsViRPY1x7JnjsuA) | [jules](https://open.spotify.com/artist/1OsVfaqK7kVA73NJOdsoVQ) | [Hot](https://open.spotify.com/album/54wxv01KgngcHkfwP65KhA) | 2:11 |
 | 3 | [Saffa Thunder Circuit](https://open.spotify.com/track/47Dq0bOMpW8nx9iWqHhp9O) | [Tssara](https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB) | [Voltage Across the Afterglow](https://open.spotify.com/album/1G8KPK66i6qpi3l31gFkIM) | 1:51 |
 | 4 | [Democracy Don't Die Quiet](https://open.spotify.com/track/310RSr2bawiy09nV0OPVTg) | [Lilith Krüger](https://open.spotify.com/artist/2QGh2nTXO9UEUogmecBM9U) | [Democracy Don't Die Quiet](https://open.spotify.com/album/3NwJX8T9MvtyxuEY9zHhnc) | 4:00 |
 | 5 | [Part Of You](https://open.spotify.com/track/6Bs4jja3M3kRObQMwWIVtV) | [ASEA](https://open.spotify.com/artist/5eRltBx78ejSeDjotwu2o6) | [Part Of You](https://open.spotify.com/album/2e23K1xaWlNc7ChGWGanxC) | 3:23 |

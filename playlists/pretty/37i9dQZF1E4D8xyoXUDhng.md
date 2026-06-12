@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Mississippi Mass Choir, Kurt Carr & The Kurt Carr Singers, Smokie Norful and more
+> With Mississippi Mass Choir, Vanessa Bell Armstrong, Donald Lawrence & The Tri\-City Singers and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 395 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 396 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

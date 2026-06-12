@@ -506,7 +506,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 179441,
       "name": "ADHD",
       "url": "https://open.spotify.com/track/4h69Egql0rKPDVp13LrrBX"
@@ -3446,7 +3446,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 189151,
       "name": "Bring You Back",
       "url": "https://open.spotify.com/track/38XC9TOfjyc83NpcRek9ty"
@@ -9546,7 +9546,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 57007,
       "name": "FUN SUCKER",
       "url": "https://open.spotify.com/track/1TuBnOiMpcftxcBs4LDoPM"
@@ -12602,6 +12602,24 @@
       "duration_ms": 181826,
       "name": "Impostor",
       "url": "https://open.spotify.com/track/5M2Xbywtmoe2wdhHy7gMHe"
+    },
+    {
+      "album": {
+        "name": "Nero",
+        "url": "https://open.spotify.com/album/15dZWWJkvTO6O5xqwCzcZl"
+      },
+      "artists": [
+        {
+          "name": "Dead Hand",
+          "url": "https://open.spotify.com/artist/0yacjrFvJqylCSuaEsOPct"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225786,
+      "name": "In Good Faith",
+      "url": "https://open.spotify.com/track/68YFWj8trbwWZJPQMLRFO6"
     },
     {
       "album": {
@@ -17470,6 +17488,24 @@
       "duration_ms": 260000,
       "name": "no.fucks",
       "url": "https://open.spotify.com/track/3fMNF2npGKxToYRe3HHYVq"
+    },
+    {
+      "album": {
+        "name": "nomad",
+        "url": "https://open.spotify.com/album/6PpcohKzSTc8n3UOOLYbBl"
+      },
+      "artists": [
+        {
+          "name": "Noorag",
+          "url": "https://open.spotify.com/artist/00pawg55oM8J4PPbekB1IT"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168312,
+      "name": "nomad",
+      "url": "https://open.spotify.com/track/3qZpVtOkVmO5vTcAPhpf2l"
     },
     {
       "album": {
@@ -24021,6 +24057,24 @@
     },
     {
       "album": {
+        "name": "Sullen Freak",
+        "url": "https://open.spotify.com/album/1WRommDffbgERpjcR73nIS"
+      },
+      "artists": [
+        {
+          "name": "Certain Things",
+          "url": "https://open.spotify.com/artist/4H0knsbOya73QdC4lzxv7p"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101043,
+      "name": "Sullen Freak",
+      "url": "https://open.spotify.com/track/1X1XPu1wrVyeDv1sGqK0bL"
+    },
+    {
+      "album": {
         "name": "Isthmos",
         "url": "https://open.spotify.com/album/4bRGZ3UMOpuUflHCSVhBFc"
       },
@@ -29598,7 +29652,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 140293,
       "name": "You Flinched Paul!",
       "url": "https://open.spotify.com/track/68MjmPVPRmPAiDsRgf5SW1"

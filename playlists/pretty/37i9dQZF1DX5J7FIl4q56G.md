@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Mastodon
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,750 likes - 130 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,810 likes - 130 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

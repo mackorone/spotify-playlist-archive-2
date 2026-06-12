@@ -8578,7 +8578,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 101067,
       "name": "No Weapon",
       "url": "https://open.spotify.com/track/1rS9xwUy0cdeb5u5Rnga4Q"
@@ -12986,6 +12986,24 @@
       "duration_ms": 242256,
       "name": "WE WIN",
       "url": "https://open.spotify.com/track/2TyuOEMOSZf7I523X6ZqYz"
+    },
+    {
+      "album": {
+        "name": "Weather I Chop Thank You",
+        "url": "https://open.spotify.com/album/022zBTIOViHJrcAUiJiTem"
+      },
+      "artists": [
+        {
+          "name": "Mighty Michael",
+          "url": "https://open.spotify.com/artist/2V0ApJSHLc9n4uI3MEkwlY"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167785,
+      "name": "Weather I Chop Thank You",
+      "url": "https://open.spotify.com/track/0F8quSF7MOsLe7IHtiI1g6"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's country crop\. Cover: Lainey Wilson
+> The cream of today's country crop\. Cover: Wade Forster
 
-1,223 songs - 2 day 19 hr 2 min
+1,226 songs - 2 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [American Trail](https://open.spotify.com/track/7JkuiX3FkJXUhGgLrJRYE3) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [American Trail](https://open.spotify.com/album/5dSsYiQTgjXPRhF4D0IvFX) | 4:15 | 2025-05-01 | 2025-06-06 |
 | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf) | 3:20 | 2023-03-09 | 2023-06-09 |
 | [Another One More Time](https://open.spotify.com/track/5hFeerouDWGm7W3w1rZZSU) | [Hurricane Fall](https://open.spotify.com/artist/2PKMFahF0XfzJ3nYQiXcA8) | [Another One More Time](https://open.spotify.com/album/7djskwMLcIadqH9Q5m0wXT) | 3:16 | 2021-12-30 | 2022-03-25 |
-| [Anything But Me](https://open.spotify.com/track/0A1gnuKVww2zEcZcu7seyu) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Anything But Me](https://open.spotify.com/album/1jpaJooKiwVkEIV4egj1Tz) | 4:59 | 2026-04-09 |  |
+| [Anything But Me](https://open.spotify.com/track/0A1gnuKVww2zEcZcu7seyu) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Anything But Me](https://open.spotify.com/album/1jpaJooKiwVkEIV4egj1Tz) | 4:59 | 2026-04-09 | 2026-06-12 |
 | [ANYTHING LIKE ME](https://open.spotify.com/track/5JTy7gXHt5k9cXf0HFhpda) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [ANYTHING LIKE ME](https://open.spotify.com/album/39c1pwrGbKxOZhVQkMCzM4) | 3:35 | 2022-02-24 | 2022-07-15 |
 | [Anytime, Anywhere, Antoinette](https://open.spotify.com/track/5clq7hPIaE3VUB0mqnKIjn) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [Anytime, Anywhere, Antoinette](https://open.spotify.com/album/3hQ0qTkMTio82I4gIJkm4r) | 4:18 | 2026-06-04 |  |
 | [Around You](https://open.spotify.com/track/2xBD9IFDSEHKYBJnOVINeL) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Around You](https://open.spotify.com/album/2DjVglDAwN9ThKCqlwmGry) | 3:54 | 2025-01-30 | 2025-03-14 |
@@ -256,8 +256,9 @@
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-06-27 | 2024-11-01 |
 | [Cowboys Were Kings](https://open.spotify.com/track/3ycLnlRMlN9dOdGsJMWTJU) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Cowboys Were Kings](https://open.spotify.com/album/37Tv8IeglyTwzYmu4ODsep) | 3:15 | 2025-03-20 | 2025-07-05 |
 | [Cowgirl](https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowgirl](https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR) | 2:56 | 2026-06-05 |  |
+| [Crazy](https://open.spotify.com/track/3e98KFohMydiffbocGQgbH) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Been There Done That](https://open.spotify.com/album/7DctejlgEzk5lMv8H34l0B) | 2:59 | 2026-06-11 |  |
 | [Crisco](https://open.spotify.com/track/5pnWECOdwXO5tIyx1DqAeP) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crisco](https://open.spotify.com/album/70GWxgdMF8ybDcY4JX9SEE) | 2:56 | 2026-05-14 |  |
-| [CROOKED ROAD](https://open.spotify.com/track/47sb7pIsZeJ7v19Pcy8yZy) | [Dylan Wright](https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe) | [CROOKED ROAD](https://open.spotify.com/album/2zxfSHnDIzxmnfCsHrMgm3) | 3:22 | 2026-04-23 |  |
+| [CROOKED ROAD](https://open.spotify.com/track/47sb7pIsZeJ7v19Pcy8yZy) | [Dylan Wright](https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe) | [CROOKED ROAD](https://open.spotify.com/album/2zxfSHnDIzxmnfCsHrMgm3) | 3:22 | 2026-04-23 | 2026-06-12 |
 | [Cruise Control](https://open.spotify.com/track/3ZdNbkfAPiYxN53jYQOh4c) | [Jesse Dozzi](https://open.spotify.com/artist/5V6iCwSrD8np7jjVSxZH6f) | [Cruise Control](https://open.spotify.com/album/5xEP796HQV7XpByVpgZC9e) | 3:26 | 2024-09-19 | 2024-11-22 |
 | [Daffodils](https://open.spotify.com/track/5UNMwWjbKzj1hn4jSkk9tP) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [The Coastal Plain](https://open.spotify.com/album/4CVDGvkyx7NuuG04nqEBkJ) | 3:14 | 2024-08-15 | 2024-11-15 |
 | [Dammit Randy](https://open.spotify.com/track/1GUvNctSDGXpo7S3H3uxpT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Dammit Randy](https://open.spotify.com/album/5GU8B79H8LAguIyCyVh5A7) | 2:59 | 2024-06-27 | 2024-08-23 |
@@ -528,7 +529,7 @@
 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-03-24 | 2022-06-17 |
 | [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 | 2025-01-30 | 2025-03-14 |
 | [hungover](https://open.spotify.com/track/1p7V6RyEgPPPYRcvJSCpnF) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:18 | 2024-10-31 | 2025-02-14 |
-| [Hurts Like You](https://open.spotify.com/track/1peocLBzSV3Nl3VI0ZSQcr) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hurts Like You & Dollar and a Bottle](https://open.spotify.com/album/5Kpfd1RzsiKuWxlppISQUD) | 3:15 | 2026-05-07 |  |
+| [Hurts Like You](https://open.spotify.com/track/1peocLBzSV3Nl3VI0ZSQcr) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hurts Like You & Dollar and a Bottle](https://open.spotify.com/album/5Kpfd1RzsiKuWxlppISQUD) | 3:15 | 2026-05-07 | 2026-06-12 |
 | [Hurts the Best](https://open.spotify.com/track/1abnvxVAa8EEPS51JjuV9Q) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [Hurts the Best](https://open.spotify.com/album/2BBS4o7myEVNl21JAzLXAk) | 2:50 | 2023-09-21 | 2023-12-20 |
 | [I Ain't A Cowgirl](https://open.spotify.com/track/6TjRLpByCtpmatpCoFV9Na) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [I Ain't A Cowgirl](https://open.spotify.com/album/7vQmGhj7VW4TM4YeBN1nRW) | 3:01 | 2024-04-26 | 2024-07-05 |
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-04-17 | 2025-08-15 |
@@ -1125,6 +1126,7 @@
 | [Unglued](https://open.spotify.com/track/0a4LBxkuNMw8SMj5vX2EiM) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Work of Heart](https://open.spotify.com/album/54R9tAXXFNij2gxlcKnvdG) | 3:54 | 2026-03-26 | 2026-05-01 |
 | [Unspoken](https://open.spotify.com/track/5m3lptQnLIvBiw4188J1Tu) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Unspoken](https://open.spotify.com/album/44BqM9BOuRg6RHjZAfpYxB) | 2:39 | 2025-10-02 | 2026-02-13 |
 | [Until You](https://open.spotify.com/track/6b1nfXTSLwlgQGr5KRzIJZ) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [FALL](https://open.spotify.com/album/7LG72lIxM7uhlen8GyWmrz) | 3:17 | 2024-11-14 | 2025-02-07 |
+| [Vaquero](https://open.spotify.com/track/76VoxMKinufqqOnycLncAJ) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Stages](https://open.spotify.com/album/2QNByn9FQiPfOfqUQe4BzG) | 4:02 | 2026-06-11 |  |
 | [Walk a Straight Line](https://open.spotify.com/track/0KplVgxoofAxkihR8wOG54) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [Walk a Straight Line](https://open.spotify.com/album/76fPezEx4UhZ7Tmh4Suefn) | 4:07 | 2026-05-28 |  |
 | [Walked on Water \(feat\. Kesha\)](https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Obsessed](https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib) | 3:20 | 2024-08-15 | 2024-10-04 |
 | [WASTED \(with LECADE\)](https://open.spotify.com/track/77qx5ktXohwk10nBVcTWLh) | [Bella Mackenzie](https://open.spotify.com/artist/19RYEYplXisan3jUoqtBZL), [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [WASTED \(with LECADE\)](https://open.spotify.com/album/3MBu4QaiPfoEeUioVvyPt5) | 3:15 | 2024-08-29 | 2024-12-13 |
@@ -1155,6 +1157,7 @@
 | [Whatchawanna](https://open.spotify.com/track/3etK7qSs7H551b8KNPygjx) | [Cornell And Carr](https://open.spotify.com/artist/1koPqZFMCgdMCj4zxQcIh8) | [Whatchawanna](https://open.spotify.com/album/4GmKCBn3BCo41XByDKb1Wj) | 3:22 | 2021-12-30 | 2022-02-05 |
 | [Whatever That Was](https://open.spotify.com/track/1IZvC9nASVh0aNpZPDNIWe) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Whatever That Was](https://open.spotify.com/album/1UgmjpUG0YZPJ0f0MFhcaa) | 3:04 | 2026-04-02 | 2026-05-22 |
 | [When I Ain't Lookin'](https://open.spotify.com/track/0des8iQjWbqSGkn89w7AWr) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Waves On A Sunset](https://open.spotify.com/album/3BZLyz9vRkmsw7Q8UyX3dm) | 3:05 | 2024-10-03 | 2025-02-07 |
+| [When I'm Gone](https://open.spotify.com/track/4u5XzrHO0w17YdLRBCEKrR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:26 | 2026-06-11 |  |
 | [When It Rains It Pours](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 4:00 | 2022-09-15 | 2023-01-27 |
 | [When It Was Easy](https://open.spotify.com/track/75EJtBCswkmEXWnfTAP8DN) | [Brittany Maggs](https://open.spotify.com/artist/7nhHQaEhJJWxz51Eey1hQ0) | [When It Was Easy](https://open.spotify.com/album/5pjcZkvg4W6Whe7Ak292jG) | 2:19 | 2022-11-03 | 2023-03-31 |
 | [When Summer Rolls Around](https://open.spotify.com/track/1GMB1aiS4IT58g9LaUehcN) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [When Summer Rolls Around](https://open.spotify.com/album/5NMwJDRtnNbT8xmnBuEHry) | 2:54 | 2023-04-27 | 2023-08-25 |

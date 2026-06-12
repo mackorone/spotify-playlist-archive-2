@@ -4494,7 +4494,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 244595,
       "name": "Muya Mukhethwa - Live",
       "url": "https://open.spotify.com/track/1NqgZinyLOIdc4YXG2QVvb"
@@ -6826,6 +6826,44 @@
       "duration_ms": 123632,
       "name": "Thula Interlude",
       "url": "https://open.spotify.com/track/7uqfbyDg0dYr2pk8gnj3Gd"
+    },
+    {
+      "album": {
+        "name": "Thula Sizwe / I Shall Be Released",
+        "url": "https://open.spotify.com/album/6wK4WlDLgaOGMnBsvyVrxO"
+      },
+      "artists": [
+        {
+          "name": "Common People",
+          "url": "https://open.spotify.com/artist/4VJhzDgY4GJ4zOmNHtd3iZ"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Tommy Sims",
+          "url": "https://open.spotify.com/artist/1v5hoRyO2K9NNPm8GVOPEe"
+        },
+        {
+          "name": "Praise Paige",
+          "url": "https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195155,
+      "name": "Thula Sizwe / I Shall Be Released",
+      "url": "https://open.spotify.com/track/3f24AZKBhOBaKGpN2F0n52"
     },
     {
       "album": {

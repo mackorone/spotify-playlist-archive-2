@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: SOLAH",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Hybrid Minds",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -358,7 +358,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 202971,
       "name": "addicted",
       "url": "https://open.spotify.com/track/4N7jhOTacFaofcBi5Xo4CZ"
@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 204000,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/7b8Wj2A0WJJZkrE07NZmy2"
@@ -3513,6 +3513,28 @@
     },
     {
       "album": {
+        "name": "Bristol Style",
+        "url": "https://open.spotify.com/album/2pmoJw6JFuGQ2rM5MgPKSP"
+      },
+      "artists": [
+        {
+          "name": "Born On Road",
+          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160465,
+      "name": "Bristol Style",
+      "url": "https://open.spotify.com/track/7aJJbHsEtQ9A2Nhd89bn4t"
+    },
+    {
+      "album": {
         "name": "Burn For You",
         "url": "https://open.spotify.com/album/1PG1nONa6BxIrkmcEcemD6"
       },
@@ -4986,6 +5008,32 @@
       "duration_ms": 142720,
       "name": "Conveniency",
       "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
+    },
+    {
+      "album": {
+        "name": "Cool For Me",
+        "url": "https://open.spotify.com/album/3A9FgPrm5naJyVjl7rqaQj"
+      },
+      "artists": [
+        {
+          "name": "Sudley",
+          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
+        },
+        {
+          "name": "Ekko & Sidetrack",
+          "url": "https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL"
+        },
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Cool For Me",
+      "url": "https://open.spotify.com/track/1Sr93ailm3oNbn0FO3hM0l"
     },
     {
       "album": {
@@ -6710,7 +6758,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 212100,
       "name": "Dub Box",
       "url": "https://open.spotify.com/track/6WivDKWuPkpZ6cykfgRu6p"
@@ -7085,6 +7133,28 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/4kK6MvLVoIb3zjKKsqEIxw"
+      },
+      "artists": [
+        {
+          "name": "Jamezy",
+          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
+        },
+        {
+          "name": "Big Narstie",
+          "url": "https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179310,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4CS3nb5E2WEDWZJrQItzub"
+    },
+    {
+      "album": {
         "name": "Energy In My Town",
         "url": "https://open.spotify.com/album/3zcoHevhvey3aATgRSHnyc"
       },
@@ -7210,7 +7280,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 205517,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/297ySrktTXj5A0Zjc37GGM"
@@ -7254,7 +7324,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 187586,
       "name": "Everything But U",
       "url": "https://open.spotify.com/track/4jCsnuVEiEDXuRcx5E4Pdk"
@@ -9028,7 +9098,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 173793,
       "name": "Game Face",
       "url": "https://open.spotify.com/track/6kgXd7RL5jxU0BRk4C96yc"
@@ -11156,7 +11226,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 207525,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/6x6kuDhr2y4Ly3weZFje2C"
@@ -14298,7 +14368,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 289471,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/5vR6mlFh3pS3dFqkfW5H1N"
@@ -15356,7 +15426,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 179000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/7yzWoFEY4JxXt9lbucfTCt"
@@ -16126,7 +16196,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 171120,
       "name": "nevermind",
       "url": "https://open.spotify.com/track/65HhTJGa6fTZxKjNY2p9kp"
@@ -16823,6 +16893,24 @@
     },
     {
       "album": {
+        "name": "OMI",
+        "url": "https://open.spotify.com/album/55bm74Aagfh250FMrrHWV7"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134484,
+      "name": "OMI",
+      "url": "https://open.spotify.com/track/5Qm84NCxvTjtSqsTPnfpbH"
+    },
+    {
+      "album": {
         "name": "on & on",
         "url": "https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH"
       },
@@ -17264,7 +17352,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 198620,
       "name": "Open Road",
       "url": "https://open.spotify.com/track/44n5iu9DumPH2J63zPDl8z"
@@ -17712,7 +17800,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 215172,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/0BY1815gBUbRkcRGJWDOaC"
@@ -20188,7 +20276,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 211066,
       "name": "Satisfaction Skank - High Contrast Remix",
       "url": "https://open.spotify.com/track/61Z0yfhBej1doIseuLpo2d"
@@ -22822,7 +22910,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 266803,
       "name": "Sweet Sound",
       "url": "https://open.spotify.com/track/4YCkHYACVV91zOqLWDf1RV"
@@ -23927,6 +24015,24 @@
     },
     {
       "album": {
+        "name": "UNDISPUTED",
+        "url": "https://open.spotify.com/album/3WV2WpOhiq9a0SZjS3pcs9"
+      },
+      "artists": [
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176228,
+      "name": "Think I Am",
+      "url": "https://open.spotify.com/track/6H7Qr6HvsSpCVbn8EIjb4n"
+    },
+    {
+      "album": {
         "name": "Thinkin About",
         "url": "https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs"
       },
@@ -24334,6 +24440,24 @@
       "duration_ms": 257000,
       "name": "Tout De Sweet - Kyrist Remix",
       "url": "https://open.spotify.com/track/4d7jx7RhbK9wRopz6lxjLH"
+    },
+    {
+      "album": {
+        "name": "homesick",
+        "url": "https://open.spotify.com/album/3Oxq3sO3472prtEyVyaZ0l"
+      },
+      "artists": [
+        {
+          "name": "homesick",
+          "url": "https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/0vXtfiRKw4aytisBbduvLZ"
     },
     {
       "album": {
@@ -26172,7 +26296,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 213942,
       "name": "Who Dis",
       "url": "https://open.spotify.com/track/6ZsiQHwVQkMw0tBVBpQxq8"
@@ -26392,7 +26516,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 251077,
       "name": "WILD EYE",
       "url": "https://open.spotify.com/track/0gtrxU4ivIMZWK2Xfy8c8m"

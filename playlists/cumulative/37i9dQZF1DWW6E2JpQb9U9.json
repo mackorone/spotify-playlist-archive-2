@@ -2235,6 +2235,28 @@
     },
     {
       "album": {
+        "name": "El viento trae una copla (25 a\u00f1os - Hijos del culo)",
+        "url": "https://open.spotify.com/album/59Yuod5Fo7dG8qSsT2EGQH"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289021,
+      "name": "El viento trae una copla (25 a\u00f1os - Hijos del culo)",
+      "url": "https://open.spotify.com/track/65o0qdiAldrsvvQVoZaCgM"
+    },
+    {
+      "album": {
         "name": "Vivo Cosqu\u00edn Rock",
         "url": "https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR"
       },
@@ -2340,7 +2362,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 338123,
       "name": "EN LA CIUDAD DE LA FURIA - En Vivo",
       "url": "https://open.spotify.com/track/2fw3ujE8zbNVsl4EM7d0lR"
@@ -4476,7 +4498,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 163014,
       "name": "O No? - En Vivo",
       "url": "https://open.spotify.com/track/5sncjhKWpdlgwQDJtWTvDA"
@@ -6652,6 +6674,24 @@
       "duration_ms": 270994,
       "name": "Un Osito de Peluche de Taiwan - En Vivo en el Foro Sol",
       "url": "https://open.spotify.com/track/2NpLEVMOC12Tw789HdYRVS"
+    },
+    {
+      "album": {
+        "name": "En Vivo Niceto Club",
+        "url": "https://open.spotify.com/album/3ATIMeiIMkuujwJmTlBXsj"
+      },
+      "artists": [
+        {
+          "name": "La Grecia",
+          "url": "https://open.spotify.com/artist/5eAzahInrBCojLVv1oKRlJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224750,
+      "name": "Una Lapicera Clavada en el Coraz\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/7a4yl8x5ycWCwepUEt48zX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,033 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,041 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 49 | [SAANJH BHAYI](https://open.spotify.com/track/5FuvUFQ72H7rQOclk5squE) | [Nishtha Sharma](https://open.spotify.com/artist/6iWZHbyB2I9zNxfCJuSn10) | [SAANJH BHAYI](https://open.spotify.com/album/18W521Po5AvhnhO7hD7nim) | 3:27 |
 | 50 | [Tum Chatur Sughar](https://open.spotify.com/track/7adVzyJYNEWRbMokWBUpE1) | [Tanmay Deochake](https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR), [Sharayu Date](https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC) | [Tum Chatur Sughar](https://open.spotify.com/album/1NiNbmVjuaQhb706ijfhEC) | 4:24 |
 
-Snapshot ID: `AAAAAFNBc9i/Nvm28AQxarIs8lqlaPRE`
+Snapshot ID: `AAAAADu1NoYG7rMdnWIKnXqXWcPF+ZTy`

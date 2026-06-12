@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Ruthee",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Oscar Emch",
   "name": "le miel",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 131276,
       "name": "Allo Baby",
       "url": "https://open.spotify.com/track/2cBzcu5FBzsEdDtndDbvOm"
@@ -4449,6 +4449,28 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/1kgFMVQavdv4OOUeHwuSRn"
+      },
+      "artists": [
+        {
+          "name": "Oscar Emch",
+          "url": "https://open.spotify.com/artist/07n9zp5Qfn9tIPMhQlYzqm"
+        },
+        {
+          "name": "Anna Majidson",
+          "url": "https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222111,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/0KTl4fNPLmP7Fhff53QkTT"
+    },
+    {
+      "album": {
         "name": "In my way",
         "url": "https://open.spotify.com/album/1hTv6FuoCqToNZWI3lhaDC"
       },
@@ -5040,6 +5062,24 @@
       "duration_ms": 153103,
       "name": "Juliette + Rom\u00e9o",
       "url": "https://open.spotify.com/track/76bIquLytt10pGhlygRqjC"
+    },
+    {
+      "album": {
+        "name": "EGO'STRIP",
+        "url": "https://open.spotify.com/album/3NfIHvvShDhGkn1x41UVFE"
+      },
+      "artists": [
+        {
+          "name": "May Hi",
+          "url": "https://open.spotify.com/artist/6M3tXpbSUNyON6g1O9fYDf"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Jusqu'ici tout va bien",
+      "url": "https://open.spotify.com/track/3tCSDz7OiGQUTQNRkUqw0E"
     },
     {
       "album": {
@@ -5880,7 +5920,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 219415,
       "name": "Lettre",
       "url": "https://open.spotify.com/track/1CUIqcCDWdAnSHBT2qtc09"
@@ -6266,7 +6306,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 115662,
       "name": "Ma belle",
       "url": "https://open.spotify.com/track/0xss4ho1U8WEvkoR8IfHvU"
@@ -10698,6 +10738,24 @@
       "duration_ms": 160186,
       "name": "Tu sais que",
       "url": "https://open.spotify.com/track/5CvsjxPwSteTgzyuPaCHs7"
+    },
+    {
+      "album": {
+        "name": "tu sais tout",
+        "url": "https://open.spotify.com/album/3ChIEosAciQbGuVRgkw6gV"
+      },
+      "artists": [
+        {
+          "name": "Lyes Kaci",
+          "url": "https://open.spotify.com/artist/59hJAQqagh8q3ERA9gXwkx"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "tu sais tout",
+      "url": "https://open.spotify.com/track/5h4Urd9vrHE4BbLsVth8sn"
     },
     {
       "album": {

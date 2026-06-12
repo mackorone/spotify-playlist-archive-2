@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec marguerite \(du titre \#1 au \#16\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,575 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,572 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [la boss](https://open.spotify.com/track/6xrDSwUTjEbFDmEaAjUQab) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [la boss](https://open.spotify.com/album/7u74BHRRxw58frd6WU1995) | 2:46 |
+| 1 | [bellevie](https://open.spotify.com/track/5gLrC8G7RwfxsiX2ICNZTa) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [bellevie](https://open.spotify.com/album/23vv5Kj5UbC7uT2cjbe778) | 3:01 |
 | 2 | [Lili](https://open.spotify.com/track/0T0R06h8bFxkg8hIkPLcK4) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Lili](https://open.spotify.com/album/5HeBB6D3mwrrhQcDeDU5il) | 2:45 |
 | 3 | [Chess Game](https://open.spotify.com/track/3VPwH3VQ365g5Fu44jPkdv) | [Vera Daisies](https://open.spotify.com/artist/77Jay91YqitEbmGHlJwKei) | [Chess Game](https://open.spotify.com/album/7fJUaSvy8xcifr4YoaB8zB) | 2:22 |
 | 4 | [J'AI PLEURÉ](https://open.spotify.com/track/13FGRHuWnr8XG5aZi8cIRZ) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [MA CLAQUE](https://open.spotify.com/album/2YKDBOPbMvUi8cKBAv995n) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Replay](https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [Replay](https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0) | 2:56 |
 | 50 | [Vous ne m'aimerez pas](https://open.spotify.com/track/2woGqVedyjJbT0seK9lx4L) | [Sahëlie](https://open.spotify.com/artist/6Wntqhepe7sHSUaDMYxXDy) | [Téléscope](https://open.spotify.com/album/0DqEwfVAiWv3pk5c7jLWVj) | 2:50 |
 
-Snapshot ID: `AAAAADbGvBDhn8HHN4/caYtRIatzbJiP`
+Snapshot ID: `AAAAADMyOi7g0nRMFPAohJTdndqrIuvn`

@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Gabi Melim
+> Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Rod Melim
 
-944 songs - 1 day 23 hr 11 min
+946 songs - 1 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Cartões Postais](https://open.spotify.com/track/1fDE5tMYjqwrUIgBrkZdlQ) | [Rafa Martins](https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o) | [Cartões Postais](https://open.spotify.com/album/3dZsMCVQ2IrofYTC2MfE1y) | 2:04 | 2024-05-17 | 2024-12-13 |
 | [Casa](https://open.spotify.com/track/1G5ob1rdtY4ISrGVpV9qFm) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Casa](https://open.spotify.com/album/3oB9lIYSwUIXoYoUgignIu) | 3:46 | 2024-08-16 | 2025-01-18 |
 | [Casa Comigo?](https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Casa Comigo?](https://open.spotify.com/album/3wjR90Q98DFO8exvuwuYLr) | 2:39 | 2023-07-28 | 2023-12-02 |
-| [Caso de Amor](https://open.spotify.com/track/0aq5sraSVIpEHY9MZWZDyG) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 3:02 | 2026-04-17 |  |
+| [Caso de Amor](https://open.spotify.com/track/0aq5sraSVIpEHY9MZWZDyG) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 3:02 | 2026-04-17 | 2026-06-12 |
 | [Caso eu Case](https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Caso eu Case](https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN) | 3:35 | 2024-12-20 | 2026-03-28 |
 | [Cataflor](https://open.spotify.com/track/3KQgz9YoHSBPUZHHwZ6nbR) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Troco Likes 10 Anos](https://open.spotify.com/album/4ENAQW1v7CNmUjxJckfqI5) | 3:25 | 2026-03-27 | 2026-05-29 |
 | [Ceará](https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Ceará](https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx) | 2:12 | 2023-07-28 | 2024-07-06 |
@@ -273,7 +273,7 @@
 | [Desapaixonar](https://open.spotify.com/track/4GL2GTaFhPInsjmhNMSFd9) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Desapaixonar](https://open.spotify.com/album/0t3IQv7Y2zvBumYHhht8Gv) | 3:49 | 2022-08-05 | 2022-09-17 |
 | [Desassossego](https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [Desassossego](https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy) | 2:56 | 2026-01-30 |  |
 | [DESCOBRIDOR](https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [MEMÓRIAS \(de onde eu nunca fui\)](https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr) | 3:08 | 2022-05-13 | 2022-12-10 |
-| [Descomplica](https://open.spotify.com/track/5EtFeOIW4qKLYlMKnE343d) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg), [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Descomplica](https://open.spotify.com/album/5eYtbArx818qyC8Tjm2Nt5) | 3:32 | 2026-03-20 |  |
+| [Descomplica](https://open.spotify.com/track/5EtFeOIW4qKLYlMKnE343d) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg), [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Descomplica](https://open.spotify.com/album/5eYtbArx818qyC8Tjm2Nt5) | 3:32 | 2026-03-20 | 2026-06-12 |
 | [Desconectar](https://open.spotify.com/track/5k7iqWlybTTsHlyy9FbdiA) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [Bufalô](https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Desconectar](https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o) | 2:36 | 2023-07-28 | 2023-12-02 |
 | [desculpa, qualquer coisa](https://open.spotify.com/track/2S71g46OHOnyqmTmXns42D) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [tudo, eu, enfim.](https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq) | 3:54 | 2023-08-25 | 2023-10-29 |
 | [Desejos](https://open.spotify.com/track/6g3feIh4V5h3UMvuAifb4h) | [Bufalô](https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Desejos](https://open.spotify.com/album/28wJ7QldQ5pIVzaHxTWOu9) | 2:57 | 2023-09-29 | 2024-06-01 |
@@ -320,6 +320,7 @@
 | [Embriagado de Saudade](https://open.spotify.com/track/5efZJvbyTISLTujhMm3rcR) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Embriagado de Saudade](https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX) | 2:35 | 2022-08-05 | 2023-01-28 |
 | [Emocionado](https://open.spotify.com/track/7zsEdMgo3KhioogOlDlq8t) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Emocionado](https://open.spotify.com/album/09ybjat1ceg69wgLMHOl2S) | 2:46 | 2023-07-14 | 2023-08-19 |
 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 | 2024-02-23 | 2024-12-13 |
+| [Encontro das Marés](https://open.spotify.com/track/5U0lNrAPMBvgWs6nlo7MuV) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS) | [Faz de Conta](https://open.spotify.com/album/2pMhNADuJV4PfdYZhdCLUh) | 4:33 | 2026-06-12 |  |
 | [encontro de alma](https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [encontro de alma](https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz) | 3:05 | 2025-01-31 | 2025-06-28 |
 | [Enquanto O Dia Não Acabou](https://open.spotify.com/track/1FrXmfE6yDBU0O5wqxE8DW) | [J a u m](https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di), [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Enquanto O Dia Não Acabou](https://open.spotify.com/album/2ZOvUn9vzA6TI2Gw5IbWLM) | 2:48 | 2023-01-27 | 2023-04-15 |
 | [Então Volta](https://open.spotify.com/track/398kKBfVzVZk3WKgslVegy) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Então Volta](https://open.spotify.com/album/37DaFtlhCpwYVDiS8w5c69) | 3:09 | 2022-05-13 | 2022-10-11 |
@@ -528,6 +529,7 @@
 | [Mundo de Papel](https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar](https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ) | 2:13 | 2023-05-12 | 2023-11-04 |
 | [Mundo de Papel](https://open.spotify.com/track/72f0aOR0Tp6LH4KZ7whF4R) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar](https://open.spotify.com/album/1wpEtiyzTmdOQwRPmys3Ae) | 2:13 | 2023-10-27 | 2023-12-02 |
 | [My Loco](https://open.spotify.com/track/3dMVGhezyjym46tSWWcPYq) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP) | [My Loco](https://open.spotify.com/album/6LX1Kta2wgE3f2kG4iGGeI) | 2:30 | 2023-07-21 | 2023-08-19 |
+| [Mágica \- Acústico](https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B) | [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Inimaginável \(Acústico\)](https://open.spotify.com/album/1AjehfvtwQTt5vFZMbv8Ue) | 3:09 | 2026-06-12 |  |
 | [MÁQUINA DO TEMPO](https://open.spotify.com/track/5IhvMaUbuThd2dgW8cHthu) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [UMA ESPÉCIE DE AMOR PONTIAGUDA](https://open.spotify.com/album/2eVCig6pqPdQRQulBNgXay) | 2:52 | 2025-04-18 | 2025-05-23 |
 | [Mãe](https://open.spotify.com/track/5HiYi4cCIRPVr6HjbSqfCJ) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Mãe](https://open.spotify.com/album/2LdDGy12ITEQYX7sBUlz0v) | 2:42 | 2022-12-09 | 2023-01-28 |
 | [Mística](https://open.spotify.com/track/2ELzrSFShJep9kd20V3SAQ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Mística](https://open.spotify.com/album/4rXXHodNhHE97z1XoO8rzI) | 3:36 | 2024-04-09 | 2024-05-25 |

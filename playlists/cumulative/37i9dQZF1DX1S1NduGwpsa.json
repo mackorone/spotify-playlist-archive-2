@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Sofiane Pamart",
+  "description": "The best jazz new releases. Cover: Ibrahim Maalouf",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2495,6 +2495,48 @@
     },
     {
       "album": {
+        "name": "BRING THE LIGHT",
+        "url": "https://open.spotify.com/album/0yRhKkzF6PP50XGNsML1AR"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        },
+        {
+          "name": "Anthony Evans",
+          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Weedie Braimah",
+          "url": "https://open.spotify.com/artist/0gNcTRfbjxxOdXxSCoXluo"
+        },
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        },
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "BRING THE LIGHT",
+      "url": "https://open.spotify.com/track/6ugeNh75lWjctHoK42oAF0"
+    },
+    {
+      "album": {
         "name": "On Tour",
         "url": "https://open.spotify.com/album/1AnldJAf4toWcf1KOMUqMd"
       },
@@ -3244,7 +3286,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 196000,
       "name": "CHASING THE SUN",
       "url": "https://open.spotify.com/track/0qUqOkPmWP9o7e3GgM3Fgg"
@@ -3642,6 +3684,36 @@
       "duration_ms": 211813,
       "name": "Come Fly with Me",
       "url": "https://open.spotify.com/track/6Yzl0fJuDnNsQA3I1VVSCP"
+    },
+    {
+      "album": {
+        "name": "Come Fly With Me",
+        "url": "https://open.spotify.com/album/71jGcwG7pZ1lg9RqrIB3Gj"
+      },
+      "artists": [
+        {
+          "name": "Monty Alexander",
+          "url": "https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh"
+        },
+        {
+          "name": "Luke Sellick",
+          "url": "https://open.spotify.com/artist/4JmBOPedbbGZPb4hwcQy1S"
+        },
+        {
+          "name": "Jason Brown",
+          "url": "https://open.spotify.com/artist/0WSt6xUyHBsceCqUgcZTiv"
+        },
+        {
+          "name": "Bobby Thomas Jr.",
+          "url": "https://open.spotify.com/artist/1LBIHUhctWa6uNPFRdxPkt"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238706,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/5EPlm0OHGtqtXltUkjfoob"
     },
     {
       "album": {
@@ -4968,7 +5040,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 258228,
       "name": "ear to the cocoon",
       "url": "https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m"
@@ -9985,6 +10057,24 @@
     },
     {
       "album": {
+        "name": "Les Vacances",
+        "url": "https://open.spotify.com/album/0QLrp3E4USzaOa3rWTFWCf"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266320,
+      "name": "Les Vacances",
+      "url": "https://open.spotify.com/track/3ewE2BwxUcuzT2ctZdSbMJ"
+    },
+    {
+      "album": {
         "name": "Let It Ride (with Robert Glasper) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
         "url": "https://open.spotify.com/album/4C3DMnehzEcys0OYqOuH1G"
       },
@@ -11302,7 +11392,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 184560,
       "name": "Mean To Me",
       "url": "https://open.spotify.com/track/4Tp6SPIAAwGMuRZBzMZh1c"
@@ -11394,6 +11484,24 @@
       "duration_ms": 195000,
       "name": "Memories",
       "url": "https://open.spotify.com/track/1dpa9PDfIdUnXdJxHBoY1I"
+    },
+    {
+      "album": {
+        "name": "Menina Passarinho",
+        "url": "https://open.spotify.com/album/5KIVi8OLNVpmDkaRvCEDHm"
+      },
+      "artists": [
+        {
+          "name": "Curi\u00f3 Curi\u00f3",
+          "url": "https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229436,
+      "name": "Menina Passarinho",
+      "url": "https://open.spotify.com/track/04k3l4ziEySpRlfKcnjmBA"
     },
     {
       "album": {
@@ -11696,7 +11804,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 243356,
       "name": "Mlonje: Voices Joined",
       "url": "https://open.spotify.com/track/1vE3zkJhahSWRcDBPFQN9R"
@@ -14010,7 +14118,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 185150,
       "name": "Phoenix Rising",
       "url": "https://open.spotify.com/track/19pkb8WPfJyAmFvAmNOqDi"
@@ -14938,6 +15046,24 @@
       "duration_ms": 186399,
       "name": "Sal Al Malec\u00f3n",
       "url": "https://open.spotify.com/track/4r4pcD6Q0TK5MSfhJ6W16Z"
+    },
+    {
+      "album": {
+        "name": "Sanza Prayer",
+        "url": "https://open.spotify.com/album/79SBo7KEo6i8TLciomYTxC"
+      },
+      "artists": [
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133920,
+      "name": "Sanza Prayer",
+      "url": "https://open.spotify.com/track/0oe8vGXHJ0xWEK2eM0QKsb"
     },
     {
       "album": {
@@ -16715,6 +16841,24 @@
     },
     {
       "album": {
+        "name": "Sweetest Season",
+        "url": "https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170753,
+      "name": "Sweetest Season",
+      "url": "https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG"
+    },
+    {
+      "album": {
         "name": "Swing State",
         "url": "https://open.spotify.com/album/1JqmsqrK13m1nrvFdGIrTX"
       },
@@ -17240,7 +17384,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 290730,
       "name": "That's Why I Love My Baby",
       "url": "https://open.spotify.com/track/1CgkJxuZwhMsPNpQBDzr4S"
@@ -19364,7 +19508,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 372213,
       "name": "W 48th street",
       "url": "https://open.spotify.com/track/6ntInnVcDKeuZkwZInjv47"
@@ -20362,6 +20506,24 @@
       "duration_ms": 246946,
       "name": "Years Ago",
       "url": "https://open.spotify.com/track/1UDVHg7pt5G5KWJTvlkjJx"
+    },
+    {
+      "album": {
+        "name": "Chroniques terrestres, Vol. 2",
+        "url": "https://open.spotify.com/album/2HPtolpEfMswqNuJp5xV5v"
+      },
+      "artists": [
+        {
+          "name": "Voyou",
+          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212066,
+      "name": "Yemaya",
+      "url": "https://open.spotify.com/track/0KuRnOc37nAmoW0JYdStGY"
     },
     {
       "album": {

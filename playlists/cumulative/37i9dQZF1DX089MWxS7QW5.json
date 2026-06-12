@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: \ubc15\uc138\uc815(Park Se Jung))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: \uc8fc\ub2c8(JUNNY))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -4833,6 +4833,24 @@
     },
     {
       "album": {
+        "name": "Heaven Can Wait",
+        "url": "https://open.spotify.com/album/1A4EiE5aWH0s25aIAMNOzD"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208105,
+      "name": "Heaven Can Wait",
+      "url": "https://open.spotify.com/track/7zOyWqFGjoSjswmWWDukhA"
+    },
+    {
+      "album": {
         "name": "hellbound",
         "url": "https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo"
       },
@@ -7390,6 +7408,28 @@
       "duration_ms": 172000,
       "name": "MY BAD",
       "url": "https://open.spotify.com/track/1Fp1aWRIK78nrKN3femdpi"
+    },
+    {
+      "album": {
+        "name": "My Gravity",
+        "url": "https://open.spotify.com/album/10wM1ZrpvmMAnXxrVfkc1d"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        },
+        {
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "My Gravity",
+      "url": "https://open.spotify.com/track/57B0qkzXUntlW1LiCAayBL"
     },
     {
       "album": {

@@ -946,7 +946,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 171818,
       "name": "Afterlove",
       "url": "https://open.spotify.com/track/55jmy9odtjzzmRSZsDZhjW"
@@ -2930,7 +2930,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 168000,
       "name": "Bas Hum Do",
       "url": "https://open.spotify.com/track/0YM5djlXvCD6BtC3WOBc2T"
@@ -4653,6 +4653,24 @@
     },
     {
       "album": {
+        "name": "Chune Ishq'en",
+        "url": "https://open.spotify.com/album/1sU8WNSFTrE8hfgxtSFACP"
+      },
+      "artists": [
+        {
+          "name": "SAZGIR",
+          "url": "https://open.spotify.com/artist/2oAG6MjavkOWhvC97uf212"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Chune Ishq'en",
+      "url": "https://open.spotify.com/track/4PeNxF94ppeUKQDkGtXRul"
+    },
+    {
+      "album": {
         "name": "Chup",
         "url": "https://open.spotify.com/album/34yMfDhQgM0mpbWWtwq71r"
       },
@@ -5278,6 +5296,40 @@
       "duration_ms": 166677,
       "name": "Dard Adat",
       "url": "https://open.spotify.com/track/5dk10AE6gHAhgPWhichvif"
+    },
+    {
+      "album": {
+        "name": "Darmaan (feat. Lina Marie Marcelle & Veeru Shan)",
+        "url": "https://open.spotify.com/album/4gdxASATkXXU7phicz6aeD"
+      },
+      "artists": [
+        {
+          "name": "Humnava",
+          "url": "https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI"
+        },
+        {
+          "name": "Aaryan",
+          "url": "https://open.spotify.com/artist/0bYkfpew9s6FNJ4b6MVm7K"
+        },
+        {
+          "name": "Faheem uddin hunzai",
+          "url": "https://open.spotify.com/artist/31bt09yIuNKHYx3rpspuRB"
+        },
+        {
+          "name": "Lina Marie Marcelle",
+          "url": "https://open.spotify.com/artist/3sAFnrkf8Gi8NIHM4ePN5y"
+        },
+        {
+          "name": "Veeru Shan",
+          "url": "https://open.spotify.com/artist/09AQmT8DH8V3UuDxcHv2i6"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 637802,
+      "name": "Darmaan (feat. Lina Marie Marcelle & Veeru Shan)",
+      "url": "https://open.spotify.com/track/01UAgLMZtWdCz1jGjZ6suM"
     },
     {
       "album": {
@@ -6583,6 +6635,24 @@
     },
     {
       "album": {
+        "name": "Dobara",
+        "url": "https://open.spotify.com/album/4oAwVKI3e4eL0hIJbH8cWJ"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Adnan",
+          "url": "https://open.spotify.com/artist/13NwgJce79MFUgjbfpmLJb"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184111,
+      "name": "Dobara",
+      "url": "https://open.spotify.com/track/6uVHRGSfxaxWrilppxr2eI"
+    },
+    {
+      "album": {
         "name": "Don't Go!",
         "url": "https://open.spotify.com/album/2qaRGiVzUpjwxmHqoLefvq"
       },
@@ -7120,6 +7190,32 @@
       "duration_ms": 134400,
       "name": "Duur",
       "url": "https://open.spotify.com/track/5cRapTOc34KHJ9PHEUj57O"
+    },
+    {
+      "album": {
+        "name": "Duur Duur",
+        "url": "https://open.spotify.com/album/4JdG5DznKZ36X2k0owm3uW"
+      },
+      "artists": [
+        {
+          "name": "Farooq Got Audio",
+          "url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        },
+        {
+          "name": "AsherMusik",
+          "url": "https://open.spotify.com/artist/0M1EezTY7rRYZsN5uk2Xme"
+        },
+        {
+          "name": "Haider Ali",
+          "url": "https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146549,
+      "name": "Duur Duur",
+      "url": "https://open.spotify.com/track/0eIhOI7pb6wyV4W3cRJKIZ"
     },
     {
       "album": {
@@ -9004,6 +9100,28 @@
       "duration_ms": 305005,
       "name": "Hamari",
       "url": "https://open.spotify.com/track/6idIYsENl6JmD4is0NgNxG"
+    },
+    {
+      "album": {
+        "name": "Hamnavah",
+        "url": "https://open.spotify.com/album/1gjv6qLkIHAvIJowzFWEoK"
+      },
+      "artists": [
+        {
+          "name": "Sameed uddin",
+          "url": "https://open.spotify.com/artist/18sJF9gLn8G7ra6Gp3hor6"
+        },
+        {
+          "name": "IBTE",
+          "url": "https://open.spotify.com/artist/2A4brswhTCJrgr6ljclB58"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190432,
+      "name": "Hamnavah",
+      "url": "https://open.spotify.com/track/7hr4FCO42FNM1uI6Tnbrck"
     },
     {
       "album": {
@@ -11838,7 +11956,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 103312,
       "name": "Kaaliyan Raatan",
       "url": "https://open.spotify.com/track/2IRQAAp4Wtp2I7PDbt5X5r"
@@ -14480,7 +14598,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 123692,
       "name": "Maazi",
       "url": "https://open.spotify.com/track/0B4YYlxPsu13rEqs4gqdEQ"
@@ -18612,7 +18730,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 130000,
       "name": "Potion",
       "url": "https://open.spotify.com/track/0GVfyrfPHgvDHz5fA0OQKi"
@@ -20466,6 +20584,24 @@
       "duration_ms": 273250,
       "name": "Saazish",
       "url": "https://open.spotify.com/track/1VVArCukGssXhDixlIwvjh"
+    },
+    {
+      "album": {
+        "name": "Sabar",
+        "url": "https://open.spotify.com/album/3mujFAt0PTmIMjOLNB2h6Z"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144400,
+      "name": "Sabar",
+      "url": "https://open.spotify.com/track/0iS8bWM8xB18Dv8gWgM8yQ"
     },
     {
       "album": {
@@ -23586,7 +23722,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 193016,
       "name": "Tere Liye",
       "url": "https://open.spotify.com/track/5d52yhaB8NYuqHyOnlvUvc"
@@ -23608,6 +23744,24 @@
       "duration_ms": 216509,
       "name": "Tere Liye",
       "url": "https://open.spotify.com/track/571oP8e9n9lITcZ7cck1u6"
+    },
+    {
+      "album": {
+        "name": "Tere Naal Jeena",
+        "url": "https://open.spotify.com/album/3PBGpTxJEoCeCXcBV52hjs"
+      },
+      "artists": [
+        {
+          "name": "Hasan Nawaz",
+          "url": "https://open.spotify.com/artist/0HeIUGnFdiSrLXVFpED3M4"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Tere Naal Jeena",
+      "url": "https://open.spotify.com/track/5oP9EXzAKuvHKV45ZW56kU"
     },
     {
       "album": {
@@ -24812,7 +24966,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 214814,
       "name": "Tujhe Jaane Diya",
       "url": "https://open.spotify.com/track/6Rr7svtdopFeE6gOYmqxct"
@@ -25790,7 +25944,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-12",
       "duration_ms": 161538,
       "name": "WHAT YOU DID",
       "url": "https://open.spotify.com/track/0EUecJYr7UNAZICXdsOptY"
@@ -26350,6 +26504,24 @@
       "duration_ms": 158350,
       "name": "Yaaden",
       "url": "https://open.spotify.com/track/0hTrRRWATfIHjJ9OSMlsDI"
+    },
+    {
+      "album": {
+        "name": "Yaar",
+        "url": "https://open.spotify.com/album/0foCxfph1z0m2gByLYh5Pu"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Sohail",
+          "url": "https://open.spotify.com/artist/7J8OrVC7fcmcjPnsZEh1pP"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161518,
+      "name": "Yaar",
+      "url": "https://open.spotify.com/track/25QVWjKRrJs5rUPNbu5Osc"
     },
     {
       "album": {

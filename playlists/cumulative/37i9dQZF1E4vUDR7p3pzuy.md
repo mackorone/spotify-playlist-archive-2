@@ -2,7 +2,7 @@
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With JUST LIZZY, Mercury Teardrop, Evil Level Live and more
+> With JUST LIZZY, ade wahyu kelana, Red Mecca and more
 
 836 songs - 2 day 4 hr 51 min
 

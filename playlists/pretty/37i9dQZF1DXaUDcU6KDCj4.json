@@ -1,13 +1,309 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Bedouine",
-  "num_followers": 876597,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: The Army, The Navy",
+  "num_followers": 876615,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACkcqI4XUfETQYuD1WCQWUw8Hwph",
+  "snapshot_id": "AAAAAIkd5bgiWoXuhjf/OtfZSn3DKEk4",
   "tracks": [
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "Fake Brave Life",
+        "url": "https://open.spotify.com/album/2sDJqorHBWS3QPm8WW5jeo"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "duration_ms": 147343,
+      "name": "Stars Stay Awake",
+      "url": "https://open.spotify.com/track/0655XrFPQT3Z4vgmDqgXEi"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "America's Greatest Burnout",
+        "url": "https://open.spotify.com/album/7d5VuuhAWliS8ovhyYp73Q"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 227727,
+      "name": "America's Greatest Burnout",
+      "url": "https://open.spotify.com/track/47a91ZLVbrRX0WwYVGNcrx"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/1FpxFs3YgX34FKfEb8KbuN"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 207676,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/4GTd137gJz6LFQI3RFpQT5"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "rome",
+        "url": "https://open.spotify.com/album/6WdsZgUZGL7mOkU2YIoKdm"
+      },
+      "artists": [
+        {
+          "name": "Ethan Regan",
+          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+        }
+      ],
+      "duration_ms": 168727,
+      "name": "rome",
+      "url": "https://open.spotify.com/track/71yEXMwt8PTQAPT2mm9B1D"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "Masks Off",
+        "url": "https://open.spotify.com/album/1ADa0uCdQlkfKng3mYVF9C"
+      },
+      "artists": [
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        }
+      ],
+      "duration_ms": 222905,
+      "name": "The Ballad of Big Balls",
+      "url": "https://open.spotify.com/track/6WdDfuiqy4hLHAG9EfhvXF"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "The Landfill",
+        "url": "https://open.spotify.com/album/3sEtdTvDQsUmPLXaOuoWZd"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "Perhaps We're a Storm",
+      "url": "https://open.spotify.com/track/5W1Df1fQ6DvSYifN5A6k3N"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "AMATEUR AT BEST",
+        "url": "https://open.spotify.com/album/11QFWsQoSk0qQzrndUokih"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 201426,
+      "name": "AMATEUR AT BEST",
+      "url": "https://open.spotify.com/track/2ZlCllL9l6Xk3gGZFAUeU5"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "Old Lovers (feat. The Lumineers)",
+        "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 213188,
+      "name": "Old Lovers (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "Blast",
+        "url": "https://open.spotify.com/album/1pr5IFfgG6YcMGqyb7jyHZ"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Blast",
+      "url": "https://open.spotify.com/track/6iDEHohlNFZ6iMN4pqmFq0"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "If I Cannot Be Yours",
+        "url": "https://open.spotify.com/album/09dmWFX66Ikwa0GsNNgbfb"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "If I Cannot Be Yours",
+      "url": "https://open.spotify.com/track/6uh25H3MfizwNyfzyDswZs"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "Get It Honest",
+        "url": "https://open.spotify.com/album/47fVuqG7GHk19lwkZ6QuSZ"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 204447,
+      "name": "Get It Honest",
+      "url": "https://open.spotify.com/track/1dpzimHq4MYvnQi9zL6axK"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "Blackout [feat. Nolan Taylor]",
+        "url": "https://open.spotify.com/album/5g9FV0XhXPscs7z26SKpFl"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        },
+        {
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+        }
+      ],
+      "duration_ms": 256590,
+      "name": "Blackout [feat. Nolan Taylor]",
+      "url": "https://open.spotify.com/track/26pLSSwAk1LOxl2Q018cTb"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "Now & Then",
+        "url": "https://open.spotify.com/album/1nTmkFbrrq3YPOahCFVu2J"
+      },
+      "artists": [
+        {
+          "name": "Zach Seabaugh",
+          "url": "https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2"
+        }
+      ],
+      "duration_ms": 172649,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/5XWB9AS8o5nseDCf1YodVz"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "In Love with the Quiet",
+        "url": "https://open.spotify.com/album/3kGsQMQRoCHlE2kiT9Sy0x"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 234960,
+      "name": "In Love with the Quiet",
+      "url": "https://open.spotify.com/track/29dGc4ovA6xSpjuuhjWXQc"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "Illinois Again",
+        "url": "https://open.spotify.com/album/46ogyvsglHfzceKTtzcbNN"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 236223,
+      "name": "Illinois Again",
+      "url": "https://open.spotify.com/track/2VjZpK6FAhMxfJwBDMBeij"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "Joy & Despair",
+        "url": "https://open.spotify.com/album/3kC0MOqq6vxjAsFcTf52NY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Noordewier",
+          "url": "https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk"
+        }
+      ],
+      "duration_ms": 255281,
+      "name": "When The Dawn Breaks",
+      "url": "https://open.spotify.com/track/2pyTm14T04nkS3VPzRMscM"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0ykS7dhuuOX88fMSEFFEmn"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "duration_ms": 230365,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/6qlaTClZ1MjRRgG1DFCgSm"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "Maybe I",
+        "url": "https://open.spotify.com/album/13nUB2necu9oI2YY7DvnVb"
+      },
+      "artists": [
+        {
+          "name": "HAMISH",
+          "url": "https://open.spotify.com/artist/0vZ9bgfKD1AXIsJCIzqKsq"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Maybe I",
+      "url": "https://open.spotify.com/track/18jYNWSbg6MkuZUFBzZOIO"
+    },
     {
       "added_at": "2026-06-05 04:00:55",
       "album": {
@@ -457,7 +753,7 @@
       "artists": [
         {
           "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/5E3ZpulF9dBTGYE6njBV2P"
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
         }
       ],
       "duration_ms": 208026,
@@ -1549,7 +1845,7 @@
       "artists": [
         {
           "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/5E3ZpulF9dBTGYE6njBV2P"
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
         }
       ],
       "duration_ms": 232906,
@@ -2347,150 +2643,6 @@
       "duration_ms": 209435,
       "name": "Bones to Ashes, Dark to Light",
       "url": "https://open.spotify.com/track/69anr1rbMwtfBpOkKHP9pd"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Kissing The Ground",
-        "url": "https://open.spotify.com/album/2VlhBDoRmHdtU1HhxkpbU4"
-      },
-      "artists": [
-        {
-          "name": "Nell Mescal",
-          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
-        }
-      ],
-      "duration_ms": 230604,
-      "name": "Kissing The Ground",
-      "url": "https://open.spotify.com/track/1uBcmYV9Ihtu4QicLJAj9K"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "I Love You, Brae",
-        "url": "https://open.spotify.com/album/2BztvJNxd2JgKszB0NGr8m"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00e9ar",
-          "url": "https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Queenstown",
-      "url": "https://open.spotify.com/track/7EzhSMssOShDH5PfOW2sOe"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Hurt Again",
-        "url": "https://open.spotify.com/album/5EY4CNdNDZBuPcq2QqkIqo"
-      },
-      "artists": [
-        {
-          "name": "Dirty Blond",
-          "url": "https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Hurt Again",
-      "url": "https://open.spotify.com/track/3ZHVRTOyFkVBaQKXbMt74O"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Summer",
-        "url": "https://open.spotify.com/album/0ZRGex2LSlTPx9Na2PBqB5"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 201828,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/5wghHTSgz3KugE6b7QTm2e"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/0Wi1YKnlOHLUm3AlA7dGGW"
-      },
-      "artists": [
-        {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
-        }
-      ],
-      "duration_ms": 248148,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Shape of a Wave",
-        "url": "https://open.spotify.com/album/5az5VajugrAeaJzZDelfMG"
-      },
-      "artists": [
-        {
-          "name": "Steve Gunn",
-          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
-        }
-      ],
-      "duration_ms": 353773,
-      "name": "Shape of a Wave",
-      "url": "https://open.spotify.com/track/06UZzlvjsAYeeYlC1tBoWW"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Pretty Strange World",
-        "url": "https://open.spotify.com/album/7blTvGP8v1ZPpNWhOODugT"
-      },
-      "artists": [
-        {
-          "name": "Any Young Mechanic",
-          "url": "https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf"
-        }
-      ],
-      "duration_ms": 176460,
-      "name": "Pretty Strange World",
-      "url": "https://open.spotify.com/track/1ydmnM5TlvfUWdgMD2SeZS"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "If We Could, Would We",
-        "url": "https://open.spotify.com/album/14isRFBuLjdXwuQXes0WXr"
-      },
-      "artists": [
-        {
-          "name": "Gracie and Rachel",
-          "url": "https://open.spotify.com/artist/4jKFMEVOa9uon9utRFsLLX"
-        }
-      ],
-      "duration_ms": 197720,
-      "name": "Myself Again",
-      "url": "https://open.spotify.com/track/3fpaarYQRRWIb3BiSM4Ffa"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "I\u2019m Still Learning How To Leave You",
-        "url": "https://open.spotify.com/album/03E8Neqz8GSu5TFeaM5prG"
-      },
-      "artists": [
-        {
-          "name": "Harmony Tividad",
-          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
-        }
-      ],
-      "duration_ms": 215715,
-      "name": "I\u2019m Still Learning How To Leave You",
-      "url": "https://open.spotify.com/track/5NZz5xUh1Vgz6DesC5SKYZ"
     }
   ],
   "unique_name": "Fresh Folk",

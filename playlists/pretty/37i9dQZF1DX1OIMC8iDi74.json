@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \ud83d\udc51 with Dillon Francis",
-  "num_followers": 879514,
+  "num_followers": 879461,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2026-05-31 02:09:40",
       "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/4TxFxkekKZ0tBtcezdyeHB"
-      },
-      "artists": [
-        {
-          "name": "Getter",
-          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
-        },
-        {
-          "name": "Shakewell",
-          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
-        }
-      ],
-      "duration_ms": 251076,
-      "name": "STAB UP (feat. Shakewell)",
-      "url": "https://open.spotify.com/track/0kGpfbVDi9K8srRsJBeVla"
-    },
-    {
-      "added_at": "2026-05-31 02:09:40",
-      "album": {
         "name": "LOUDER",
         "url": "https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 135724,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX"
+    },
+    {
+      "added_at": "2026-05-31 02:09:40",
+      "album": {
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/4TxFxkekKZ0tBtcezdyeHB"
+      },
+      "artists": [
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "duration_ms": 251076,
+      "name": "STAB UP (feat. Shakewell)",
+      "url": "https://open.spotify.com/track/0kGpfbVDi9K8srRsJBeVla"
     },
     {
       "added_at": "2026-05-31 02:09:40",

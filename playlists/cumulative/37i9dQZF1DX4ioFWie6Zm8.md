@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound.
 
-257 songs - 18 hr 53 min
+258 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [God Loves When You're Dancing](https://open.spotify.com/track/5V0NHPKnWPID3uSu3qMtOt) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [God Loves When You're Dancing](https://open.spotify.com/album/0NSossGPF4S7c60AacPQJE) | 5:13 | 2026-05-25 |  |
 | [Good Things God Knows](https://open.spotify.com/track/5JJzSGrCDdPpyZAhBxVeNO) | [King Ayisoba](https://open.spotify.com/artist/6TQgRLQia206d3QvleDxen) | [Work Hard](https://open.spotify.com/album/0SYEzD4cVKiPEXK5gfsK4N) | 5:04 | 2023-03-14 | 2025-05-10 |
 | [Guelen](https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Djourou](https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u) | 5:32 | 2022-08-05 |  |
-| [Guramayle](https://open.spotify.com/track/04Db0jALfgMHtUkiHWGKIa) | [Gigi](https://open.spotify.com/artist/1FYxWc5xnvy86IeA7J6pn0) | [Gigi](https://open.spotify.com/album/3ax6wAvAW7QluZt7sQfjZB) | 4:27 | 2024-05-07 |  |
+| [Guramayle](https://open.spotify.com/track/04Db0jALfgMHtUkiHWGKIa) | [Gigi](https://open.spotify.com/artist/1FYxWc5xnvy86IeA7J6pn0) | [Gigi](https://open.spotify.com/album/3ax6wAvAW7QluZt7sQfjZB) | 4:27 | 2024-05-07 | 2026-06-12 |
 | [Hagerien Atinquat](https://open.spotify.com/track/7DVUgXzrVb0rXl1tZRRdd9) | [Getachew Kassa](https://open.spotify.com/artist/5y5AF4ynQmNYvyw3pfcIbj) | [Best of Getachew Kassa \(Ethiopian Contemporary Oldies Music\)](https://open.spotify.com/album/4BnubGo9y1INZbvAsfpXkc) | 4:49 | 2024-05-07 | 2025-12-12 |
 | [Hasabe \(My Worries\)](https://open.spotify.com/track/2SrZDFkUx0bna8oPlR7spy) | [Ayalew Mesfin](https://open.spotify.com/artist/66DQqgrnN1Tfr3e8ChRCw3) | [Hasabe](https://open.spotify.com/album/5pYrJ7IC38fEHudYN7AQ1R) | 3:56 | 2024-05-07 | 2024-09-25 |
 | [Hasabé](https://open.spotify.com/track/7I8UGMoawvaY2cHKAQtV5Z) | [Tèshomè Meteku](https://open.spotify.com/artist/4KFGKV6WLBQMoVJrxd3FRz) | [Hasabé and Others \(Ethiopiques\)](https://open.spotify.com/album/0TxMOWAvkXphdjykS4mDAq) | 3:58 | 2024-05-07 |  |
@@ -130,6 +130,7 @@
 | [Lanchi Biye with Tilahun Gessesse](https://open.spotify.com/track/0q0b9pvUgnwlNFsxnIt3D5) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz) | 3:08 | 2024-05-07 |  |
 | [Let's Start \(Edit with Intro\)](https://open.spotify.com/track/2pBCnp1nDhmkHb4YVWyVMj) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV), [Ginger Baker](https://open.spotify.com/artist/5xTbqEbkihxdjj2jyYSthw) | [Let's Start \(Edit\)](https://open.spotify.com/album/6TQzQnxoIGoF34pk8V5Mfu) | 3:41 | 2025-03-07 |  |
 | [Leul Aswededegn](https://open.spotify.com/track/7bS0A09pkBQdXgOki4tnMn) | [Fekereaddis Nekatebeb](https://open.spotify.com/artist/4xtga7H5KyhHeL75Si6yfD) | [Leul Aswededegn \(Ethiopian Contemporary Music\)](https://open.spotify.com/album/2noWFr8sMFADoWed9oDqCY) | 5:41 | 2024-05-07 | 2025-05-10 |
+| [Libambe Lingatshoni](https://open.spotify.com/track/4gvZ1qS1FPFrGBYAGMn3MQ) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Ndingubani](https://open.spotify.com/album/2gKgCmoD3I0QiSur9hT3eH) | 4:20 | 2026-06-12 |  |
 | [Love & Revolution \- Cinnamon Version](https://open.spotify.com/track/7dzstI8CD2wnmUiPVKI4Nh) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Love & Revolution \(Cinnamon Version\)](https://open.spotify.com/album/5SxM1dyBFCFrU4eB8RKpek) | 3:33 | 2025-03-07 |  |
 | [M'aa Kiana](https://open.spotify.com/track/4QDbcjFOBHunn5P6vlSeuE) | [Gerald Toto](https://open.spotify.com/artist/5yGh5A5zAzDYeAeSksnWiW), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Lokua Kanza](https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk) | [Bondeko](https://open.spotify.com/album/7clzPL1gMDlSCIKjkncP9Z) | 3:41 | 2022-08-05 |  |
 | [M'akoma Nnwom](https://open.spotify.com/track/33QHm7jL602ZYnYode81hO) | [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [M'akoma Nnwom](https://open.spotify.com/album/4z954EygLC25XwpBf9qO38) | 4:29 | 2025-03-07 |  |
@@ -202,7 +203,7 @@
 | [Seri Fu Sidi](https://open.spotify.com/track/75o9d7oVlZ2OQZOIJqaHox) | [Vieux Diop](https://open.spotify.com/artist/4eb4nhTKc0HeQmbtM7rIUo) | [Traditional Songs Of West Africa](https://open.spotify.com/album/6VKQNG7uICpflkFx7ExUCM) | 5:10 | 2022-08-05 | 2024-05-08 |
 | [Seydou](https://open.spotify.com/track/6sBdxZ5BBI8DWMF5uTAlW5) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/4Sm6fUyEAJ9ZkRUEencEsM) | 5:47 | 2023-12-22 | 2025-12-12 |
 | [Seydou](https://open.spotify.com/track/2SD12dIAtIKz39Sqp1LYPo) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | ["Folon".....The Past](https://open.spotify.com/album/1ban68aN7UrIS3MTKKp7SV) | 5:48 | 2022-08-05 | 2024-04-19 |
-| [Shanti Afrique](https://open.spotify.com/track/2Y6kZ9gBamX7edidvamGxs) | [Pops Mohamed](https://open.spotify.com/artist/1BpS3pvLEEb19kOktkdhM9), [Samia Mahbub Ahmad](https://open.spotify.com/artist/4w9qrHxo7GJmVurzLdwEMT) | [Braids](https://open.spotify.com/album/5jbPi5mVrs6HOCMtFFSdgI) | 6:44 | 2026-02-27 |  |
+| [Shanti Afrique](https://open.spotify.com/track/2Y6kZ9gBamX7edidvamGxs) | [Pops Mohamed](https://open.spotify.com/artist/1BpS3pvLEEb19kOktkdhM9), [Samia Mahbub Ahmad](https://open.spotify.com/artist/4w9qrHxo7GJmVurzLdwEMT) | [Braids](https://open.spotify.com/album/5jbPi5mVrs6HOCMtFFSdgI) | 6:44 | 2026-02-27 | 2026-06-12 |
 | [Shellela](https://open.spotify.com/track/69xPvlP5i5Rado4veDUQUc) | [Getatchew Mekurya](https://open.spotify.com/artist/3BJKbr8p7ED6GzAf1OeExO) | [Ethiopiques, Vol\. 14: Negus of Ethiopian Sax](https://open.spotify.com/album/2cqmpOhJfwWvTAJzpbdgnl) | 5:12 | 2024-05-07 | 2026-05-26 |
 | [Shimunmun](https://open.spotify.com/track/2tEYoQ64ePP6zzfI1XuudH) | [Ethiocolor](https://open.spotify.com/artist/6dHtzroZBCifurd5ByOGfe) | [Ethiocolor](https://open.spotify.com/album/68ySLbK7Xq1IMlrlbP19cS) | 7:30 | 2024-05-07 | 2024-09-25 |
 | [Sia](https://open.spotify.com/track/0gFd7V0BZLh1IEomUhLjk9) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/5B1f3qkeZb13XTu4a4hjHv) | 3:52 | 2023-03-14 | 2023-11-17 |

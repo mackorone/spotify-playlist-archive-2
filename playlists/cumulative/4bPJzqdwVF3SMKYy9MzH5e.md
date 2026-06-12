@@ -4,7 +4,7 @@
 
 > 
 
-2,415 songs - 5 day 9 hr 50 min
+2,416 songs - 5 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -864,6 +864,7 @@
 | [Goodbye, My Danish Sweetheart](https://open.spotify.com/track/5aBGhgBAQui7ESYNH0zFJB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 2:17 | 2022-10-30 |  |
 | [GOODMORNINGTOKYO!](https://open.spotify.com/track/0Q2n5yzl2XRqYbV77tZNYp) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [GOODMORNINGTOKYO!](https://open.spotify.com/album/2P4n4HSzB7ZHocIaIp96bD) | 2:30 | 2021-08-05 |  |
 | [Gordon Ramsay](https://open.spotify.com/track/1PNBqEIxQmeyP2uqpWtV2M) | [HL Wave](https://open.spotify.com/artist/1bqrqSeWJyuwoW91townnc), [Jhonny Flames](https://open.spotify.com/artist/2le7tjDgmIzYhSh5U2IXfR) | [Gordon Ramsay](https://open.spotify.com/album/7f6kPgkCoXyv6CfdirxgVN) | 2:21 | 2021-08-05 |  |
+| [Gore Louvre](https://open.spotify.com/track/2WY1UCJb21XDNztuSEK4Em) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Gore Louvre](https://open.spotify.com/album/1u208a9J6Nl9LLgAs0oHXJ) | 3:00 | 2026-06-11 |  |
 | [Got the Life](https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:45 | 2023-06-06 |  |
 | [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:27 | 2022-02-04 |  |
 | [Graduation](https://open.spotify.com/track/2oNLDoWxa2UniEXpF69oUJ) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Bonito Generation](https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH) | 3:19 | 2022-06-10 |  |

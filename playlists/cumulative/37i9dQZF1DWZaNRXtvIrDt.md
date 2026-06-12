@@ -4,7 +4,7 @@
 
 > A new world of alternative electronic music\. Cover: Surusinghe
 
-1,113 songs - 3 day 8 hr 5 min
+1,114 songs - 3 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Big Man](https://open.spotify.com/track/6i9Y0A1R8vqsmo3aET7ARf) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Big Man \(Skream Remix\)](https://open.spotify.com/album/3AGDVtzpfXNx8IKRTkjkpk) | 4:13 | 2024-12-12 | 2025-02-14 |
 | [Bikini](https://open.spotify.com/track/31CzWV6WdEgqsdYqO7d7Ik) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Bikini](https://open.spotify.com/album/2SgvSyaCqdi5w8pGbJOfME) | 2:39 | 2025-07-24 | 2025-10-13 |
 | [Birth4000](https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Birth4000](https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx) | 4:46 | 2023-11-23 | 2024-06-01 |
-| [Birth4000](https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 4:46 | 2025-10-13 |  |
+| [Birth4000](https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 4:46 | 2025-10-13 | 2026-06-12 |
 | [Bitter Suite](https://open.spotify.com/track/0WcwknCjqR4Mj6ZIB3f0QT) | [Tornado Wallace](https://open.spotify.com/artist/6GNWPphcJ5CtIwCJVV1lLT) | [Bitter Suite](https://open.spotify.com/album/0TeIFbIW5nPmmAUEJgDKsg) | 10:29 | 2025-05-01 | 2025-10-13 |
 | [Black And Blue](https://open.spotify.com/track/6g8ntuutiG4ubvDtVJOd1c) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [True Love And Its Consequences](https://open.spotify.com/album/0RaCyomR79XSN0bkzaecsf) | 3:26 | 2023-11-23 | 2024-04-30 |
 | [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 | 2023-06-29 | 2023-08-25 |
@@ -753,6 +753,7 @@
 | [Passed Me By](https://open.spotify.com/track/2nVxL1B523h70Gign7W2Le) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Passed Me By](https://open.spotify.com/album/3XXKD7oise1AekkRWE9aRu) | 4:03 | 2023-04-06 | 2023-04-28 |
 | [Passing Through Fyah](https://open.spotify.com/track/5Ky8y4EEEd2RopCSlAOGBn) | [Johnny Hunter](https://open.spotify.com/artist/5ovQVTwydXB759xXoJmN0E), [Remi Mazet](https://open.spotify.com/artist/6hFk7b6gczFlDsr56t7GKj) | [Passing Through Fyah](https://open.spotify.com/album/0zpFI6O3VArFbj04dB0M9F) | 5:15 | 2024-12-06 | 2025-02-14 |
 | [Passive Massive](https://open.spotify.com/track/41RPOiLfwmjy5WCATqFRrq) | [ANF](https://open.spotify.com/artist/0yEUBlEOtPhU1vEUVintkf), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [Dust\-e\-1](https://open.spotify.com/artist/6kpa0OfAlmtLnGykwMJWVu) | [Costly Blooms On The Eve of Collapse](https://open.spotify.com/album/0Vl2vMAITpKaFp9YiPmqnk) | 5:13 | 2023-09-14 | 2023-11-17 |
+| [Patang](https://open.spotify.com/track/6Ie7HJ977fl1svbQIqiqFY) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Marlon Lopez](https://open.spotify.com/artist/1D0mmSLwDys50XLi6A5b5m) | [Patang](https://open.spotify.com/album/33VlFHJP6rf5Q9a4JoLdLz) | 6:56 | 2026-06-11 |  |
 | [PBG001](https://open.spotify.com/track/6icdVp8XIwRXjjqwPXCic9) | [Eric Cloutier](https://open.spotify.com/artist/3f4eo0hX1eJqaxAAuAEMAt) | [Perpetual Booty Grooves Vol.1](https://open.spotify.com/album/5knCj7TFqzAWO0LmCRWo1w) | 5:55 | 2025-02-14 | 2025-06-27 |
 | [Pearl](https://open.spotify.com/track/1l4fsop2H0buZdcYaa7KM1) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Pearl](https://open.spotify.com/album/7uyyNpmNR8yE1MqPNnxik0) | 3:54 | 2024-09-12 | 2024-10-25 |
 | [People Are Good \- Indira Paganotto Twilight Remix](https://open.spotify.com/track/0YZw12okgfcN1fVcg0n1iH) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [People Are Good \(Remixes\)](https://open.spotify.com/album/6sLLqY8h5eINbeJZE8mYIk) | 8:57 | 2024-04-16 | 2024-06-01 |

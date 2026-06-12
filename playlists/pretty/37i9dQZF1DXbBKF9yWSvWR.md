@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 ### [Indie Update](https://open.spotify.com/playlist/37i9dQZF1DXbBKF9yWSvWR)
 
-> Wekelijkse update met de beste Indie releases\. Cover: Sarah Julia \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\)
+> Wekelijkse update met de beste Indie releases\. Cover: Isolde Lasoen
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,928 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,931 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Something Coming](https://open.spotify.com/track/7Mccn5WVVxJSfZJtYIwr2C) | [Roufaida](https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL) | [Something Coming](https://open.spotify.com/album/1JaE1WcQCIdhjq0qxVDMND) | 2:31 |
-| 2 | [car crash](https://open.spotify.com/track/3pZIEAyWZGj5vXa5wCFpoZ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [car crash](https://open.spotify.com/album/5NkG7lUGgJGy3oDw8xH4wl) | 3:22 |
-| 3 | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM) | 2:55 |
-| 4 | [First Light](https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [First Light](https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4) | 3:24 |
-| 5 | [Find My!](https://open.spotify.com/track/047e0SSWyaduEaaj7FypTC) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH), [Airport Crush](https://open.spotify.com/artist/5lyMit8lYJyuhoDmrK6913) | [Find My!](https://open.spotify.com/album/0ED8kAtCHP2zNCx3LVore7) | 3:22 |
-| 6 | [Dust in the Wind](https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Dust in the Wind](https://open.spotify.com/album/2jNfiECR8FRr7SsnLiZ7dJ) | 2:50 |
-| 7 | [Alive](https://open.spotify.com/track/7yIIloSZGZJ864ABEnpIZl) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Alive](https://open.spotify.com/album/31yC03QGDrq41epy9OCKap) | 3:28 |
-| 8 | [Nothing Is Forever](https://open.spotify.com/track/66gtR4jh2ZpaFcqr5IXoz0) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [Nothing Is Forever](https://open.spotify.com/album/36C4Gj8bEgbDRx4KQlNr0A) | 3:14 |
+| 1 | [Nothing Is Forever](https://open.spotify.com/track/66gtR4jh2ZpaFcqr5IXoz0) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [Nothing Is Forever](https://open.spotify.com/album/36C4Gj8bEgbDRx4KQlNr0A) | 3:14 |
+| 2 | [Something Coming](https://open.spotify.com/track/7Mccn5WVVxJSfZJtYIwr2C) | [Roufaida](https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL) | [Something Coming](https://open.spotify.com/album/1JaE1WcQCIdhjq0qxVDMND) | 2:31 |
+| 3 | [car crash](https://open.spotify.com/track/3pZIEAyWZGj5vXa5wCFpoZ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [car crash](https://open.spotify.com/album/5NkG7lUGgJGy3oDw8xH4wl) | 3:22 |
+| 4 | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM) | 2:55 |
+| 5 | [First Light](https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [First Light](https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4) | 3:24 |
+| 6 | [Find My!](https://open.spotify.com/track/047e0SSWyaduEaaj7FypTC) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH), [Airport Crush](https://open.spotify.com/artist/5lyMit8lYJyuhoDmrK6913) | [Find My!](https://open.spotify.com/album/0ED8kAtCHP2zNCx3LVore7) | 3:22 |
+| 7 | [Dust in the Wind](https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Dust in the Wind](https://open.spotify.com/album/2jNfiECR8FRr7SsnLiZ7dJ) | 2:50 |
+| 8 | [Alive](https://open.spotify.com/track/7yIIloSZGZJ864ABEnpIZl) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Alive](https://open.spotify.com/album/31yC03QGDrq41epy9OCKap) | 3:28 |
 | 9 | [Anakin](https://open.spotify.com/track/1X7HVxn4xYMv4nICmy8vR2) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Anakin](https://open.spotify.com/album/1WXsBe871YYYzR1RmSlkrA) | 3:23 |
 | 10 | [Love Is All](https://open.spotify.com/track/0owKuy8OjZorj3sl1nizkG) | [DeNohr](https://open.spotify.com/artist/04wDSR15tH9jQ3cPZZ0l2E) | [Love Is All](https://open.spotify.com/album/1d3P5XSpableiTtk4iXin7) | 2:41 |
 | 11 | [Island](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [Eyes Wide](https://open.spotify.com/track/3RYnZF3SYTxQ8Mys5daMzd) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [Eyes Wide](https://open.spotify.com/album/4sdkGycSaYg4n4O7rCi8a8) | 2:26 |
 | 100 | [Sunday Light](https://open.spotify.com/track/3aysr8fLK4g3qR6aaNITKM) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo), [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA), [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg), [Ellie Rowsell](https://open.spotify.com/artist/60t20hnY4HFbjM0sbJ07vc) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:02 |
 
-Snapshot ID: `AAAAAHaGN/ZRB8vBdUy8Oi9+cLoa7Ud0`
+Snapshot ID: `AAAAAJ9EnPq+HESLywyh1LOVnBkMD52G`

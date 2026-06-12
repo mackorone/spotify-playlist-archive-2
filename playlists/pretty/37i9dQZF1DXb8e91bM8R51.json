@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 53028,
+  "num_followers": 53029,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -1643,6 +1643,30 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
+        "name": "The Shallimar",
+        "url": "https://open.spotify.com/album/0bXkfJaK9qe8fzM91mIoY7"
+      },
+      "artists": [
+        {
+          "name": "Keith Murray",
+          "url": "https://open.spotify.com/artist/2bwR166mSJEJrYJqfyust3"
+        },
+        {
+          "name": "Funkality",
+          "url": "https://open.spotify.com/artist/4l7rxpEt5uiyD5kRljrJB3"
+        },
+        {
+          "name": "Brady Jo",
+          "url": "https://open.spotify.com/artist/7x4OXq2sqvXH99Z7kwpDpJ"
+        }
+      ],
+      "duration_ms": 230373,
+      "name": "The Shallimar",
+      "url": "https://open.spotify.com/track/5ilGsQhMaxLg0BiHzH8qWK"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
         "name": "COMMUNITY",
         "url": "https://open.spotify.com/album/0XAZV2Q7q57anNWzQPARET"
       },
@@ -1679,30 +1703,6 @@
       "duration_ms": 319180,
       "name": "COMMUNITY",
       "url": "https://open.spotify.com/track/3IDL1MuZlqnTBsfljKA0Jd"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
-        "name": "The Shallimar",
-        "url": "https://open.spotify.com/album/0bXkfJaK9qe8fzM91mIoY7"
-      },
-      "artists": [
-        {
-          "name": "Keith Murray",
-          "url": "https://open.spotify.com/artist/2bwR166mSJEJrYJqfyust3"
-        },
-        {
-          "name": "Funkality",
-          "url": "https://open.spotify.com/artist/4l7rxpEt5uiyD5kRljrJB3"
-        },
-        {
-          "name": "Brady Jo",
-          "url": "https://open.spotify.com/artist/7x4OXq2sqvXH99Z7kwpDpJ"
-        }
-      ],
-      "duration_ms": 230373,
-      "name": "The Shallimar",
-      "url": "https://open.spotify.com/track/5ilGsQhMaxLg0BiHzH8qWK"
     },
     {
       "added_at": "2026-05-07 21:17:30",
@@ -1799,6 +1799,78 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
+        "name": "LORD FORGIVE ME",
+        "url": "https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "LORD FORGIVE ME",
+      "url": "https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
+        "name": "THE HUSTLE CONTINUES",
+        "url": "https://open.spotify.com/album/6zFqKeygTGAmLEF2AXCfZO"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 198274,
+      "name": "SPEND IT",
+      "url": "https://open.spotify.com/track/15CaM867TKXMlgiU1wHH62"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
         "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
         "url": "https://open.spotify.com/album/1L87V0tvYy44z5A0F8dyUr"
       },
@@ -1831,54 +1903,6 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 222497,
-      "name": "Father Time (feat. Sampha)",
-      "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
-        "name": "LORD FORGIVE ME",
-        "url": "https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Fat Nwigwe",
-          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "LORD FORGIVE ME",
-      "url": "https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
         "name": "Carefree (with Femdot & Mick Jenkins)",
         "url": "https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t"
       },
@@ -1903,26 +1927,6 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
-        "name": "Taylor Allderdice",
-        "url": "https://open.spotify.com/album/5cpYhM2NdVjJXMy9uZhD2J"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "My Favorite Song",
-      "url": "https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
         "name": "Super",
         "url": "https://open.spotify.com/album/6Dt8m6lk18tTFafSPMuDeo"
       },
@@ -1939,26 +1943,22 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
-        "name": "THE HUSTLE CONTINUES",
-        "url": "https://open.spotify.com/album/6zFqKeygTGAmLEF2AXCfZO"
+        "name": "Taylor Allderdice",
+        "url": "https://open.spotify.com/album/5cpYhM2NdVjJXMy9uZhD2J"
       },
       "artists": [
         {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
           "name": "Juicy J",
           "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 198274,
-      "name": "SPEND IT",
-      "url": "https://open.spotify.com/track/15CaM867TKXMlgiU1wHH62"
+      "duration_ms": 232053,
+      "name": "My Favorite Song",
+      "url": "https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM"
     },
     {
       "added_at": "2026-05-07 21:17:30",

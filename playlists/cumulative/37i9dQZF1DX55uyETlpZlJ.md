@@ -2,9 +2,9 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Gubbi \- Sumanth Shetty
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK \- Alok
 
-676 songs - 1 day 14 hr 24 min
+677 songs - 1 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Ninagaagi](https://open.spotify.com/track/7pHniDKvON0JFbCuBB3s7m) | [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137), [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Ninagaagi](https://open.spotify.com/album/2shIXMDv01uAasSN4Xdh0h) | 3:12 | 2023-06-09 | 2023-06-20 |
 | [Ninagaagi](https://open.spotify.com/track/4pEyj2beXCpZrSoxfeu6nj) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninagaagi](https://open.spotify.com/album/4ua8AMfcoC231SEaTtJgsl) | 3:12 | 2023-06-27 | 2023-07-11 |
 | [Ninna Benna Haadi](https://open.spotify.com/track/7rJKZAjD15dDMyogLzmcRN) | [Pavan Kumar N R](https://open.spotify.com/artist/3bU2PMblhilv78x5bCCimy), [Pavan Kumar](https://open.spotify.com/artist/0O9NcedvhpUsBKGKFgFdfF) | [Ninna Benna Haadi](https://open.spotify.com/album/0rZA4ah0v6KbsJB9JyYmOV) | 2:36 | 2024-12-12 | 2025-03-20 |
+| [Ninna Bitre](https://open.spotify.com/track/6L5O8chJfyrfCAdLgAB9Ux) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Ninna Bitre](https://open.spotify.com/album/1IPsEqLhi5ZM8j2XFowtIs) | 3:26 | 2026-06-11 |  |
 | [Ninna Daari Kaayutali](https://open.spotify.com/track/3ooOeJYHc8J2xwJpmN5jmo) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [Ninna Daari Kaayutali](https://open.spotify.com/album/3LJwZsVk3zi3uhVIg3R0kC) | 3:09 | 2026-05-08 |  |
 | [Ninna Maatu](https://open.spotify.com/track/3ZYUDXKEHiZt165iWMHoiT) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Genius 7.0](https://open.spotify.com/artist/2nUMj3rQJbYwn47xH0UYnV) | [Ninna Maatu](https://open.spotify.com/album/3wx0ENl8ddRFBiHdmLDOIX) | 3:46 | 2023-04-06 | 2023-12-23 |
 | [Ninna Maduveyali](https://open.spotify.com/track/2RIO50cubGPxhSaf7lbA21) | [Sabik Sabi Puttur](https://open.spotify.com/artist/0ZUVnvAf9j1zQ8PVrROBQG), [Niyaz Nijju](https://open.spotify.com/artist/70VuXJ5CAUJyuYTBHfTnt7) | [Ninna Maduveyali](https://open.spotify.com/album/2v4iLTmeYe1J3WFQN9Qyzr) | 5:10 | 2023-02-24 | 2023-06-08 |

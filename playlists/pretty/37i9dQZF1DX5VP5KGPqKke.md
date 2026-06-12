@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VP5KGPqKke.md) - [plain]
 
 > Out at work, up the ladder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 11 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
