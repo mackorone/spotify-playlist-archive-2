@@ -5585,6 +5585,28 @@
     },
     {
       "album": {
+        "name": "Otro Abrigo",
+        "url": "https://open.spotify.com/album/1MjzhfXAHq75qYVw4XnIFs"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165162,
+      "name": "Otro Abrigo",
+      "url": "https://open.spotify.com/track/4gzMku4VVN3AKGtbrXE527"
+    },
+    {
+      "album": {
         "name": "Oye Cantinero",
         "url": "https://open.spotify.com/album/2HamJoEKIwTtCasZaQLiZx"
       },

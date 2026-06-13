@@ -6,8 +6,24 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAFATh+1oBz6EkUl6tzXL7zJQ0YYsdR",
+  "snapshot_id": "AAAFA5ff3N8V8WnvcL8CyJrzzj+AGlw8",
   "tracks": [
+    {
+      "added_at": "2026-06-12 19:31:07",
+      "album": {
+        "name": "WHAT IS THIS",
+        "url": "https://open.spotify.com/album/754rZ341KKFSNh9H6R3mFB"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "WHAT IS THIS",
+      "url": "https://open.spotify.com/track/4xfv1jl3laRNfk9jVAAcC0"
+    },
     {
       "added_at": "2026-05-22 12:35:34",
       "album": {

@@ -27,6 +27,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "NHO:PARLAY BOYZ",
+        "url": "https://open.spotify.com/album/37KdDPalzJJYobwfrq4vLi"
+      },
+      "artists": [
+        {
+          "name": "Eco$ystem",
+          "url": "https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk"
+        },
+        {
+          "name": "Baakio",
+          "url": "https://open.spotify.com/artist/36ws0N21AlYMI8YMyiz2Il"
+        },
+        {
+          "name": "Brw Zu",
+          "url": "https://open.spotify.com/artist/53HWqdmmLnvZOKd9hfUiDp"
+        },
+        {
+          "name": "Lowkeyhitmaker",
+          "url": "https://open.spotify.com/artist/4IO0VlLADpnIh3Ewvc8q9t"
+        },
+        {
+          "name": "NO HANDOUT",
+          "url": "https://open.spotify.com/artist/0opfecIJbYw0DOgkvjjDw0"
+        }
+      ],
+      "duration_ms": 165722,
+      "name": "HOMEGROWN",
+      "url": "https://open.spotify.com/track/0pMwh56IqW62E9uqyod3LB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Karmic Pt. I",
         "url": "https://open.spotify.com/album/17T3OYjaaUTZPxd7IAMHDM"
       },
@@ -79,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outcast Loyalty",
-        "url": "https://open.spotify.com/album/3wBmmo5J0hujCTHn5YMMu9"
-      },
-      "artists": [
-        {
-          "name": "The Outcastkid",
-          "url": "https://open.spotify.com/artist/4BUKPBM2FnGlDqnNKE9FYt"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Outcast Loyalty",
-      "url": "https://open.spotify.com/track/2umGgxNHbu7lpwfv743kNl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "not enn a diss",
         "url": "https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL"
       },
@@ -112,7 +128,7 @@
       "added_at": null,
       "album": {
         "name": "HiTTiN",
-        "url": "https://open.spotify.com/album/6ZXBNHw4VnIPA180AKrymZ"
+        "url": "https://open.spotify.com/album/3FrywWpcoJxNAmYPBciK2X"
       },
       "artists": [
         {
@@ -122,7 +138,7 @@
       ],
       "duration_ms": 174666,
       "name": "HiTTiN",
-      "url": "https://open.spotify.com/track/1xhtuJVJWTzXRGtDQQpS4B"
+      "url": "https://open.spotify.com/track/7FRpiyRMF0mw4OdM3BGhim"
     },
     {
       "added_at": null,
@@ -143,6 +159,22 @@
       "duration_ms": 111428,
       "name": "Hardy Boyz (feat. Bloodhound Lil Jeff)",
       "url": "https://open.spotify.com/track/3MIAujDDxkigmJfwHbFRyN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outcast Loyalty",
+        "url": "https://open.spotify.com/album/3wBmmo5J0hujCTHn5YMMu9"
+      },
+      "artists": [
+        {
+          "name": "The Outcastkid",
+          "url": "https://open.spotify.com/artist/4BUKPBM2FnGlDqnNKE9FYt"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Outcast Loyalty",
+      "url": "https://open.spotify.com/track/2umGgxNHbu7lpwfv743kNl"
     },
     {
       "added_at": null,
@@ -211,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "catastrophe",
-        "url": "https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 130422,
-      "name": "catastrophe",
-      "url": "https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloody Bruddas",
         "url": "https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i"
       },
@@ -239,6 +255,22 @@
       "duration_ms": 128312,
       "name": "AR-15",
       "url": "https://open.spotify.com/track/0y81SHgKhCA9pwuOPQPG9z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "catastrophe",
+        "url": "https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 130422,
+      "name": "catastrophe",
+      "url": "https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7"
     },
     {
       "added_at": null,
@@ -331,34 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Militia",
-        "url": "https://open.spotify.com/album/16oIr5VESM6EX3czVoOoM5"
+        "name": "HYPERNOVA.",
+        "url": "https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og"
       },
       "artists": [
         {
-          "name": "999 WRLD",
-          "url": "https://open.spotify.com/artist/1usm7Awsp5eDXChqp1oQ2v"
+          "name": "KA$HDAMI",
+          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
         }
       ],
-      "duration_ms": 110221,
-      "name": "Militia",
-      "url": "https://open.spotify.com/track/0pB7v6fha2WcS1QJlreciH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Narrow Road",
-        "url": "https://open.spotify.com/album/5G9CXkdUu2e4rys1cnasJn"
-      },
-      "artists": [
-        {
-          "name": "Favo",
-          "url": "https://open.spotify.com/artist/63zCqqFI6ZhxO5MHP00cAe"
-        }
-      ],
-      "duration_ms": 93226,
-      "name": "MITM",
-      "url": "https://open.spotify.com/track/4VtRuRYZHwErYuviKRE2Zb"
+      "duration_ms": 149508,
+      "name": "Switchin Sides",
+      "url": "https://open.spotify.com/track/0Qll2hFkRx6HDScTQwyxEM"
     },
     {
       "added_at": null,
@@ -379,18 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPERNOVA.",
-        "url": "https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og"
+        "name": "Militia",
+        "url": "https://open.spotify.com/album/16oIr5VESM6EX3czVoOoM5"
       },
       "artists": [
         {
-          "name": "KA$HDAMI",
-          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
+          "name": "999 WRLD",
+          "url": "https://open.spotify.com/artist/1usm7Awsp5eDXChqp1oQ2v"
         }
       ],
-      "duration_ms": 149508,
-      "name": "Switchin Sides",
-      "url": "https://open.spotify.com/track/0Qll2hFkRx6HDScTQwyxEM"
+      "duration_ms": 110221,
+      "name": "Militia",
+      "url": "https://open.spotify.com/track/0pB7v6fha2WcS1QJlreciH"
     },
     {
       "added_at": null,
@@ -439,54 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teen X",
-        "url": "https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM"
+        "name": "Narrow Road",
+        "url": "https://open.spotify.com/album/5G9CXkdUu2e4rys1cnasJn"
       },
       "artists": [
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "name": "Favo",
+          "url": "https://open.spotify.com/artist/63zCqqFI6ZhxO5MHP00cAe"
         }
       ],
-      "duration_ms": 106533,
-      "name": "Yale",
-      "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slay3d",
-        "url": "https://open.spotify.com/album/3RKcBezvMX6wXWRaUgEJ1q"
-      },
-      "artists": [
-        {
-          "name": "gothamrok",
-          "url": "https://open.spotify.com/artist/63PuOaP4fCF2PSA7caynRo"
-        }
-      ],
-      "duration_ms": 113418,
-      "name": "Slay3d",
-      "url": "https://open.spotify.com/track/54Sa4mrJAHcdFLUO1dlC6G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SurfBoard",
-        "url": "https://open.spotify.com/album/0QYqi8VfBF0V9A73F5RBYa"
-      },
-      "artists": [
-        {
-          "name": "GoodFinesse",
-          "url": "https://open.spotify.com/artist/0EAHtZWQM2YT88U4mZFKr8"
-        },
-        {
-          "name": "K7 the Finesser",
-          "url": "https://open.spotify.com/artist/4KUIUBkJYUqGcS9fkkoWZJ"
-        }
-      ],
-      "duration_ms": 148080,
-      "name": "SurfBoard",
-      "url": "https://open.spotify.com/track/0ufbERhFvpqXT7Sw6bcMRv"
+      "duration_ms": 93226,
+      "name": "MITM",
+      "url": "https://open.spotify.com/track/4VtRuRYZHwErYuviKRE2Zb"
     },
     {
       "added_at": null,
@@ -539,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
+      },
+      "artists": [
+        {
+          "name": "Cl4pers",
+          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
+        }
+      ],
+      "duration_ms": 163062,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Great Chaos",
         "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
       },
@@ -551,6 +547,54 @@
       "duration_ms": 182791,
       "name": "Nightcore 2",
       "url": "https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slay3d",
+        "url": "https://open.spotify.com/album/3RKcBezvMX6wXWRaUgEJ1q"
+      },
+      "artists": [
+        {
+          "name": "gothamrok",
+          "url": "https://open.spotify.com/artist/63PuOaP4fCF2PSA7caynRo"
+        }
+      ],
+      "duration_ms": 113418,
+      "name": "Slay3d",
+      "url": "https://open.spotify.com/track/54Sa4mrJAHcdFLUO1dlC6G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74"
+      },
+      "artists": [
+        {
+          "name": "Rayy Dubb",
+          "url": "https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h"
+        }
+      ],
+      "duration_ms": 165575,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LORD",
+        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 143112,
+      "name": "Which 1 / Klueless",
+      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
     },
     {
       "added_at": null,
@@ -579,34 +623,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voices In My Head",
-        "url": "https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74"
+        "name": "Wiseman Freestlye",
+        "url": "https://open.spotify.com/album/0phJFb8bWbZv9Z88hKEFkZ"
       },
       "artists": [
         {
-          "name": "Rayy Dubb",
-          "url": "https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h"
+          "name": "$t3PPA",
+          "url": "https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU"
         }
       ],
-      "duration_ms": 165575,
-      "name": "Voices In My Head",
-      "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
+      "duration_ms": 128079,
+      "name": "Wiseman Freestlye",
+      "url": "https://open.spotify.com/track/0sMqm4VQAnPkcs1wSSXpKU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "All By Myself",
-        "url": "https://open.spotify.com/album/2Z0ec3YGElJ1TrC1KBBbbt"
+        "name": "Teen X",
+        "url": "https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM"
       },
       "artists": [
         {
-          "name": "Cuo Zay",
-          "url": "https://open.spotify.com/artist/6yFzNwvuceOObkopessurR"
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 142013,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/7JZyUe08HBXocrXFTS23Lg"
+      "duration_ms": 106533,
+      "name": "Yale",
+      "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"
     },
     {
       "added_at": null,
@@ -627,50 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
+        "name": "I Live, I Die, I Live Again (Resurrected)",
+        "url": "https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2"
       },
       "artists": [
         {
-          "name": "Cl4pers",
-          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
         }
       ],
-      "duration_ms": 163062,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wiseman Freestlye",
-        "url": "https://open.spotify.com/album/0phJFb8bWbZv9Z88hKEFkZ"
-      },
-      "artists": [
-        {
-          "name": "$t3PPA",
-          "url": "https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU"
-        }
-      ],
-      "duration_ms": 128079,
-      "name": "Wiseman Freestlye",
-      "url": "https://open.spotify.com/track/0sMqm4VQAnPkcs1wSSXpKU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All 4 Bop",
-        "url": "https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb"
-      },
-      "artists": [
-        {
-          "name": "Curry B",
-          "url": "https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF"
-        }
-      ],
-      "duration_ms": 145841,
-      "name": "Telephones",
-      "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
+      "duration_ms": 160000,
+      "name": "No Blickout",
+      "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
     },
     {
       "added_at": null,
@@ -695,38 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LORD",
-        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 143112,
-      "name": "Which 1 / Klueless",
-      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Live, I Die, I Live Again (Resurrected)",
-        "url": "https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2"
-      },
-      "artists": [
-        {
-          "name": "Chuckyy",
-          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "No Blickout",
-      "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BALL HOGGIN",
         "url": "https://open.spotify.com/album/0WEh8EymKnVVTE5il6m5bN"
       },
@@ -743,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intervals",
-        "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
-      },
-      "artists": [
-        {
-          "name": "\u0141ee",
-          "url": "https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz"
-        }
-      ],
-      "duration_ms": 143775,
-      "name": "Intervals",
-      "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Price I Pay",
         "url": "https://open.spotify.com/album/0FujItN4Qr3bhxwWTl0voS"
       },
@@ -771,6 +735,22 @@
       "duration_ms": 161075,
       "name": "Price I Pay",
       "url": "https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intervals",
+        "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
+      },
+      "artists": [
+        {
+          "name": "\u0141ee",
+          "url": "https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz"
+        }
+      ],
+      "duration_ms": 143775,
+      "name": "Intervals",
+      "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
     },
     {
       "added_at": null,
@@ -815,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Talk",
-        "url": "https://open.spotify.com/album/1WzQqIOpYtVQ0XzgkWMzoJ"
-      },
-      "artists": [
-        {
-          "name": "Cuo Zay",
-          "url": "https://open.spotify.com/artist/6yFzNwvuceOObkopessurR"
-        }
-      ],
-      "duration_ms": 146586,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/50ClQ5PTkY2Sc3f0ynVxis"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bank Is Open",
         "url": "https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim"
       },
@@ -843,6 +807,34 @@
       "duration_ms": 138017,
       "name": "P!NK GUN",
       "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Starts Here 2",
+        "url": "https://open.spotify.com/album/4Ld1UydP1EfVCuETjJR824"
+      },
+      "artists": [
+        {
+          "name": "1mirs",
+          "url": "https://open.spotify.com/artist/1jQfAstIhnIaUoEMYaxHSq"
+        },
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        },
+        {
+          "name": "Ybcdul",
+          "url": "https://open.spotify.com/artist/5gMYyYkabVhQUt6FuaUJbC"
+        },
+        {
+          "name": "YoungBagChasers",
+          "url": "https://open.spotify.com/artist/2GzyKAB2qWkYXeuk0RtYYw"
+        }
+      ],
+      "duration_ms": 133815,
+      "name": "Bowls In The Underworld",
+      "url": "https://open.spotify.com/track/0Pgwc9wwiNgiD4ucHsyohr"
     },
     {
       "added_at": null,
@@ -863,6 +855,38 @@
       "duration_ms": 180389,
       "name": "Porsches In The Rain",
       "url": "https://open.spotify.com/track/0WMgVB4OEm5JEj08lBtBgf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/1WzQqIOpYtVQ0XzgkWMzoJ"
+      },
+      "artists": [
+        {
+          "name": "Cuo Zay",
+          "url": "https://open.spotify.com/artist/6yFzNwvuceOObkopessurR"
+        }
+      ],
+      "duration_ms": 146586,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/50ClQ5PTkY2Sc3f0ynVxis"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tap Hour",
+        "url": "https://open.spotify.com/album/3HNJHP1MXufbGbLoyDR0JT"
+      },
+      "artists": [
+        {
+          "name": "Ueecho",
+          "url": "https://open.spotify.com/artist/048Dbv78tdxtLrcBZ2s5Dp"
+        }
+      ],
+      "duration_ms": 120639,
+      "name": "Tap Hour",
+      "url": "https://open.spotify.com/track/5fB6BsaBff7NzskLlUDvHY"
     }
   ],
   "unique_name": "Taewitdak Radio",

@@ -4,7 +4,7 @@
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playli..\. DODODOK!
 
-135 songs - 6 hr 39 min
+136 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [HOT \(Slowed + Reverb ver.\)](https://open.spotify.com/track/4ljCeTrFEmUNuZ0lgvkUQN) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT \(English ver.\)](https://open.spotify.com/album/5fViZF1K5YS5ELyBCYpVno) | 3:29 | 2025-06-14 |  |
 | [HOT \(Sped Up ver.\)](https://open.spotify.com/track/2SRWvcXOUaNVCjJpQpQZkv) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT \(English ver.\)](https://open.spotify.com/album/5fViZF1K5YS5ELyBCYpVno) | 1:47 | 2025-06-14 |  |
 | [i don't know \(with HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:03 | 2024-03-29 |  |
+| [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 | 2026-06-12 |  |
 | [iffy iffy](https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:09 | 2026-05-26 |  |
 | [Impurities](https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:16 | 2023-05-01 |  |
 | [Irony](https://open.spotify.com/track/49CeyCugXaZV05J82ejVQh) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:24 | 2026-05-26 |  |

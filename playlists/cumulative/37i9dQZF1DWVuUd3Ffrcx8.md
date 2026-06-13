@@ -4,7 +4,7 @@
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Bebe Rexha\)
 
-882 songs - 1 day 23 hr 48 min
+882 songs - 1 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-21 | 2025-04-11 |
 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 | 2025-10-09 | 2025-11-28 |
 | [Fail](https://open.spotify.com/track/3wb0OtpuyUjZBOxa8HdxhL) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Fail](https://open.spotify.com/album/6EPz1cdBFPdjoXKdczgdbY) | 2:36 | 2024-07-25 | 2024-09-06 |
+| [Faking Smiles](https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 3:04 | 2026-06-12 |  |
 | [Fallin' \(feat\. Leon Thomas\)](https://open.spotify.com/track/5XFwDMO60LntXrFSWHPopc) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fallin' \(feat\. Leon Thomas\)](https://open.spotify.com/album/36084xkxfgcSMnaeWphBOY) | 4:26 | 2026-04-30 |  |
 | [Fame Won’t Love You \(feat\. Paris Hilton\)](https://open.spotify.com/track/7h2FujO8auY7s0hD4SCtZ4) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Fame Won’t Love You \(feat\. Paris Hilton\)](https://open.spotify.com/album/7iRrjlIP9COrhuNaX65WZb) | 3:19 | 2024-06-28 | 2024-07-12 |
 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-06-28 | 2024-07-27 |
@@ -801,7 +802,6 @@
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-07-25 | 2024-12-06 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2024-08-23 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-27 |
-| [Track 3](https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 0:00 | 2026-06-12 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-05-01 |
 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 | 2025-02-20 | 2025-04-18 |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2024-12-06 |

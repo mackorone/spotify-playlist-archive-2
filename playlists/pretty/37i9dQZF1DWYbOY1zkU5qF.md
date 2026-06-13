@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,367 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,409 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,17 +29,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 19 | [De Musica Ligera](https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT) | [Sámdalo](https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7) | [De Musica Ligera](https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK) | 2:54 |
 | 20 | [Despacito \- Acoustic](https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Despacito \(Acoustic\)](https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB) | 3:38 |
 | 21 | [Cuando Sale la Luna \(Deja Que Salga la Luna\) \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/1t4n4GkDFjUDr9tv586lVv) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cuando Sale la Luna \(Deja Que Salga la Luna\) \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/6CTLL46M0k07OzWmH9gfzs) | 4:51 |
-| 22 | [Nube Viajera](https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Nube Viajera](https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD) | 3:50 |
+| 22 | [LA CANCIÓN](https://open.spotify.com/track/1omu6hXw4JO0g4iiGnsX8q) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [LA CANCIÓN](https://open.spotify.com/album/0VNCAwo2Rs6gSyyutkSQMw) | 2:57 |
 | 23 | [Burbujas De Amor](https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Burbujas De Amor](https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq) | 4:03 |
-| 24 | [LA CANCIÓN](https://open.spotify.com/track/1omu6hXw4JO0g4iiGnsX8q) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [LA CANCIÓN](https://open.spotify.com/album/0VNCAwo2Rs6gSyyutkSQMw) | 2:57 |
-| 25 | [Me Hace Tanto Bien \- En Vivo](https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J) | [Mo Rivas](https://open.spotify.com/artist/6RfNQchFdYSfkgbAkoWMZz), [Carlos Law](https://open.spotify.com/artist/3nxhMRNxXV5givTbEvsjHD) | [Me Hace Tanto Bien \(En Vivo\)](https://open.spotify.com/album/64H5xJmU6jY4l5UVbeLLQh) | 3:08 |
-| 26 | [Rojo](https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Rojo](https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF) | 2:22 |
+| 24 | [Nube Viajera](https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Nube Viajera](https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD) | 3:50 |
+| 25 | [Rojo](https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Rojo](https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF) | 2:22 |
+| 26 | [Me Hace Tanto Bien \- En Vivo](https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J) | [Mo Rivas](https://open.spotify.com/artist/6RfNQchFdYSfkgbAkoWMZz), [Carlos Law](https://open.spotify.com/artist/3nxhMRNxXV5givTbEvsjHD) | [Me Hace Tanto Bien \(En Vivo\)](https://open.spotify.com/album/64H5xJmU6jY4l5UVbeLLQh) | 3:08 |
 | 27 | [No Bailes Sola \- Versión Acústica](https://open.spotify.com/track/3LfJzT37DkyzELlmmTWYgO) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Bailes Sola \(Versión Acústica\)](https://open.spotify.com/album/6JxnMDh4sNQs4sd6z5w0eo) | 3:09 |
 | 28 | [La Mejor Versión de Mi](https://open.spotify.com/track/2dD81TOEFUYhYG7x46CBwY) | [Carlo Gless](https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm) | [La Mejor Versión de Mi](https://open.spotify.com/album/6W9IzP6FXIdiI0QHr9yv5T) | 2:14 |
 | 29 | [Me Llamas \- Versión Acústica](https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap) | [Segundo Piso](https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659) | [Me Llamas \(Versión Acústica\)](https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG) | 3:30 |
 | 30 | [Eres](https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Eres](https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg) | 3:33 |
-| 31 | [Dembow \- Acoustic Version](https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy) | [Rebeca Luna](https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi) | [Acoustic Sessions](https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb) | 3:34 |
-| 32 | [Caramelo](https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s) | [Caramelo](https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK) | 3:09 |
+| 31 | [Caramelo](https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s) | [Caramelo](https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK) | 3:09 |
+| 32 | [Dembow \- Acoustic Version](https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy) | [Rebeca Luna](https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi) | [Acoustic Sessions](https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb) | 3:34 |
 | 33 | [Robarte Un Beso](https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Robarte Un Beso](https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L) | 2:53 |
 | 34 | [Escápate Conmigo](https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Covers, Vol\. 2](https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5) | 2:29 |
 | 35 | [Si Veo a Tu Mamá](https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Si Veo a Tu Mamá](https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh) | 2:40 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 58 | [Chantaje](https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y) | [Aberola](https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr) | [Chantaje](https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl) | 3:27 |
 | 59 | [Cuando Calienta El Sol](https://open.spotify.com/track/0ic53a5YySQxpEi14fRq6s) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Cuando Calienta El Sol](https://open.spotify.com/album/1fQp9n1xWOGAFfF3TOjMg2) | 2:39 |
 | 60 | [Dime Que No](https://open.spotify.com/track/44v0ugSESJkLjn9ZbSMc5m) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Dime Que No](https://open.spotify.com/album/7JfcZLkDCS64ip1f7bMsAn) | 4:51 |
-| 61 | [A Donde Vamos A Parar](https://open.spotify.com/track/4Zr7wmru0BGM1H6w5hayJ0) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [A Donde Vamos A Parar](https://open.spotify.com/album/4nGO0YbAEosTUlngS6m5HL) | 4:23 |
-| 62 | [A Dios Le Pido](https://open.spotify.com/track/0bJ4L7meNjdPyp9fsZk6Lr) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [A Dios Le Pido](https://open.spotify.com/album/4LOenPk4TGzP09GLdo2lSJ) | 4:18 |
+| 61 | [A Dios Le Pido](https://open.spotify.com/track/0bJ4L7meNjdPyp9fsZk6Lr) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [A Dios Le Pido](https://open.spotify.com/album/4LOenPk4TGzP09GLdo2lSJ) | 4:18 |
+| 62 | [A Donde Vamos A Parar](https://open.spotify.com/track/4Zr7wmru0BGM1H6w5hayJ0) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [A Donde Vamos A Parar](https://open.spotify.com/album/4nGO0YbAEosTUlngS6m5HL) | 4:23 |
 | 63 | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId) | [Jaime Kohen](https://open.spotify.com/artist/3dPV32rIkpT2Y7w8mwkg2l) | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil) | 3:38 |
 | 64 | [Fantasias](https://open.spotify.com/track/35iRS5s1Xro2LmPwHMGAAO) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [Fantasias](https://open.spotify.com/album/04rcBlUOjNeKoMqh8fHAdW) | 3:07 |
 | 65 | [Un año](https://open.spotify.com/track/0X0cGcn1tkNimeB2EKRZCq) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Un año](https://open.spotify.com/album/06kz8w5KKmpwS7JHZRhtUe) | 2:29 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 76 | [Ropa Cara](https://open.spotify.com/track/6m3FUyZ90V3eWdHPSafhm1) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Ropa Cara](https://open.spotify.com/album/1bgTQ6ggQ020SCTSLL8NP2) | 1:54 |
 | 77 | [Duele el Corazón](https://open.spotify.com/track/7f2gcdeYTCYbGvoljwzdCl) | [Bely Basarte](https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I) | [Duele el Corazón](https://open.spotify.com/album/0LML5tHNZSGzSEbaXKzlbY) | 2:15 |
 | 78 | [La Nave del Olvido](https://open.spotify.com/track/4O4qat7D2fs9iErTOXJcKk) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [La Nave del Olvido](https://open.spotify.com/album/38Ofq9oRq6PgGA33Z8goP0) | 2:55 |
-| 79 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/4Zuez3lI8S1J0AbC8gG0Zx) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/0sNyKcrJbxgd96dyN6wlIV) | 5:48 |
-| 80 | [Lento](https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [\(un poco + de\) FE](https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ) | 3:24 |
+| 79 | [Lento](https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [\(un poco + de\) FE](https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ) | 3:24 |
+| 80 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/4Zuez3lI8S1J0AbC8gG0Zx) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/0sNyKcrJbxgd96dyN6wlIV) | 5:48 |
 
 Snapshot ID: `AAAAAPJqHMOg/q4Hh6mldxmX21wY5/9x`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: LA Priest",
+  "description": "Beyond titles, beyond genre. Cover: GENER8ION",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -2901,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "Crown Jewel",
+        "url": "https://open.spotify.com/album/4pNYHMMs5C1lQwyCA4COEH"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241373,
+      "name": "Crown Jewel",
+      "url": "https://open.spotify.com/track/2RxCAkAfunFJbrImtXMcTR"
+    },
+    {
+      "album": {
         "name": "Crying Out For Love",
         "url": "https://open.spotify.com/album/3ee2pERWiIBRX2aPPW2DzZ"
       },
@@ -2988,6 +3006,24 @@
       "duration_ms": 310361,
       "name": "cutting grass",
       "url": "https://open.spotify.com/track/0ppaXTvuIgsCIEws6shvAX"
+    },
+    {
+      "album": {
+        "name": "So Help Me God",
+        "url": "https://open.spotify.com/album/1NRIhAmDSsF25lFAwv4pDt"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Lu",
+          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231368,
+      "name": "Cutting Off The Head Of A Ghost",
+      "url": "https://open.spotify.com/track/34h77avpCK81oQ6o6uT61x"
     },
     {
       "album": {
@@ -3736,7 +3772,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 107000,
       "name": "Don't Cheese Me Off",
       "url": "https://open.spotify.com/track/27uWMEs9zo3Yc2ZfgNvRKR"
@@ -6296,7 +6332,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 238086,
       "name": "Helicopters",
       "url": "https://open.spotify.com/track/2ofMsovltZ6Nn6wQz1ZphY"
@@ -8986,6 +9022,28 @@
       "duration_ms": 182360,
       "name": "Loud Thoughts (feat. Samba Jean-Baptiste)",
       "url": "https://open.spotify.com/track/2HPJLXIgTcNLw0KpThbyB6"
+    },
+    {
+      "album": {
+        "name": "Love & Tears",
+        "url": "https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yannis",
+          "url": "https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218946,
+      "name": "Love & Tears",
+      "url": "https://open.spotify.com/track/0USF54f34DPnAn9nEmqNIN"
     },
     {
       "album": {
@@ -12590,7 +12648,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 246727,
       "name": "Running To Pain",
       "url": "https://open.spotify.com/track/3TcuyO1stSlzxMQRb14M16"

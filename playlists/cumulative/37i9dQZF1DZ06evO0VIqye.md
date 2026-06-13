@@ -4,7 +4,7 @@
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-105 songs - 5 hr 45 min
+106 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Love Is All Around](https://open.spotify.com/track/6XnxqKeKxH9yl5VnDfKnjV) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Love Is All Around](https://open.spotify.com/album/4gupToLDb6Q3wV8QUsxeeM) | 2:23 | 2025-03-08 |  |
 | [Love Is Pain](https://open.spotify.com/track/689CSL6W1c4JdonfEB6q2L) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 3:07 | 2025-03-08 | 2026-04-19 |
 | [Love Is Pain](https://open.spotify.com/track/7s8dkp8b8cKKRuq1Q4ENcp) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/1MYPH5YMxk1auN13mcfLvh) | 3:07 | 2026-04-21 |  |
-| [Love Me Two Times](https://open.spotify.com/track/6HVTLhDdLmBabm7dRtIoaC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM) | 3:06 | 2025-03-08 |  |
+| [Love Me Two Times](https://open.spotify.com/track/0Rg2m4xJT2Ft9JME02mTaY) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV) | 3:06 | 2026-06-13 |  |
+| [Love Me Two Times](https://open.spotify.com/track/6HVTLhDdLmBabm7dRtIoaC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM) | 3:06 | 2025-03-08 | 2026-06-13 |
 | [Make Believe](https://open.spotify.com/track/5f1G7GzVZXBo2KZGGErUcc) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:08 | 2026-04-20 | 2026-04-24 |
 | [New Orleans](https://open.spotify.com/track/23HlNoDhdGInIMcg4U9vuA) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Glorious Results of a Misspent Youth \(Expanded Edition\)](https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF) | 2:53 | 2026-04-19 |  |
 | [New Orleans](https://open.spotify.com/track/51ReZrIWONjt5fKxVcmjEi) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Glorious Results of a Misspent Youth \(Expanded Edition\)](https://open.spotify.com/album/75T1W71zi6uGCXQPwodRQd) | 2:53 | 2025-03-08 | 2026-04-19 |

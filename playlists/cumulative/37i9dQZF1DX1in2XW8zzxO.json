@@ -403,6 +403,48 @@
     },
     {
       "album": {
+        "name": "Bang'bonile (feat. Djy Vino, Mbuzi & Seun1401)",
+        "url": "https://open.spotify.com/album/1jonCAw26DqFT1Kj8cnBSw"
+      },
+      "artists": [
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Mphoet",
+          "url": "https://open.spotify.com/artist/3B5JI7zbJHROUCXrwjhcXo"
+        },
+        {
+          "name": "Thatohatsi",
+          "url": "https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Djy Vino",
+          "url": "https://open.spotify.com/artist/7nZl3bYXhqwAHY8WWMMEZ8"
+        },
+        {
+          "name": "Mbuzi",
+          "url": "https://open.spotify.com/artist/4aQ6nptJSxRGD7fEeKEH6s"
+        },
+        {
+          "name": "Seun1401",
+          "url": "https://open.spotify.com/artist/0CPfPl6Fy7ueqMoxjZjmYb"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428571,
+      "name": "Bang'bonile (feat. Djy Vino, Mbuzi & Seun1401)",
+      "url": "https://open.spotify.com/track/5M1kWifN6OsUf26l41jx35"
+    },
+    {
+      "album": {
         "name": "Bass Outra !",
         "url": "https://open.spotify.com/album/2f8SzIxSBQW10s8ge33O59"
       },
@@ -3524,7 +3566,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 361400,
       "name": "Party Mode",
       "url": "https://open.spotify.com/track/2Y4WDb59HdxKezH8Ulo5OQ"

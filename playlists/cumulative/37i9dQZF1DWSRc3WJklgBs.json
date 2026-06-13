@@ -4583,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/7q301yxHP0Ct6EmfRO88FK"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "Calling Out For U",
+      "url": "https://open.spotify.com/track/7yal3wkT7U1BEDdKW9dZ9V"
+    },
+    {
+      "album": {
         "name": "Can We Pretend (The Remixes) (feat. Cash Cash)",
         "url": "https://open.spotify.com/album/0G5SBhGfYhS1n8b6HWNPEB"
       },
@@ -5868,6 +5886,28 @@
       "duration_ms": 187500,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/2Vf7umz71NibHBgzU3sQav"
+    },
+    {
+      "album": {
+        "name": "Comes Back Around",
+        "url": "https://open.spotify.com/album/2hDf71xnuci9i0ZdKLzPnl"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227102,
+      "name": "Comes Back Around",
+      "url": "https://open.spotify.com/track/23axNcNwz5HwYauDa6Njy7"
     },
     {
       "album": {
@@ -8344,6 +8384,28 @@
       "duration_ms": 217258,
       "name": "Eternity (feat. Lena Leon)",
       "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/3Fb9wQ7cRCBow2BOlcQ02H"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174146,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6vYpybZoGKDk5b7HVkJQ8p"
     },
     {
       "album": {
@@ -26577,7 +26639,7 @@
     },
     {
       "album": {
-        "name": "Sound of You (ft TEED)",
+        "name": "Sound of You (ft. TEED)",
         "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
       },
       "artists": [
@@ -26594,7 +26656,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 236528,
-      "name": "Sound of You (ft TEED)",
+      "name": "Sound of You (ft. TEED)",
       "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
     },
     {
@@ -26680,6 +26742,28 @@
       "duration_ms": 217133,
       "name": "Speechless (feat. Erika Sirola)",
       "url": "https://open.spotify.com/track/5SZlmqxoXgSLbLouwpx7CK"
+    },
+    {
+      "album": {
+        "name": "Spin Me Slowly (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/1YAcTt8kz8Pfyp5GzkiNKx"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182077,
+      "name": "Spin Me Slowly (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/4kSPUCwxN0KjrX8Q3uM3rY"
     },
     {
       "album": {
@@ -29700,6 +29784,28 @@
       "duration_ms": 226542,
       "name": "Throwback",
       "url": "https://open.spotify.com/track/0Vcv54XfyE2oktzHSZMxhr"
+    },
+    {
+      "album": {
+        "name": "thumbs",
+        "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "thumbs",
+      "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
     },
     {
       "album": {

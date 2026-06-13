@@ -552,7 +552,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 201904,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/5wS7FzcQV3iTq4dipOovOG"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 140624,
       "name": "Behaviour (feat. A.D.O.R.)",
       "url": "https://open.spotify.com/track/4GAVRZ9ABPQzvy0Nj4hGPy"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 163000,
       "name": "Big Space",
       "url": "https://open.spotify.com/track/6Uhy569s1JlYKwqI5k06ui"
@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 187727,
       "name": "BLAH BLAH BLAH",
       "url": "https://open.spotify.com/track/2ZVQo7aRQPW9LMi6CNdiRt"
@@ -1514,6 +1514,24 @@
       "duration_ms": 171225,
       "name": "Blurred Energy (feat. Lavrentia)",
       "url": "https://open.spotify.com/track/28iilvlmcjJ17N8zHEcwcA"
+    },
+    {
+      "album": {
+        "name": "Boom Boom Untz Untz",
+        "url": "https://open.spotify.com/album/3HLLWH4sH4oDQpjqdkF9A1"
+      },
+      "artists": [
+        {
+          "name": "Alinka",
+          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348923,
+      "name": "Boom Boom Untz Untz",
+      "url": "https://open.spotify.com/track/7tznNo9geODfcyE7mHITFY"
     },
     {
       "album": {
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 210461,
       "name": "Come Inside",
       "url": "https://open.spotify.com/track/3VO7bx0bxXJ8K5Rx4QVJQO"
@@ -2446,6 +2464,28 @@
       "duration_ms": 158840,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0"
+    },
+    {
+      "album": {
+        "name": "Devotion (feat. RYVM)",
+        "url": "https://open.spotify.com/album/28FAbAiAEdgb1l6FkTtRyR"
+      },
+      "artists": [
+        {
+          "name": "Hyzteria",
+          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
+        },
+        {
+          "name": "RYVM",
+          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202439,
+      "name": "Devotion (feat. RYVM)",
+      "url": "https://open.spotify.com/track/1F6P7J9OJAVW9tQTw9mlIs"
     },
     {
       "album": {
@@ -3267,6 +3307,24 @@
     },
     {
       "album": {
+        "name": "can we do it all again?",
+        "url": "https://open.spotify.com/album/4FRJ8Vn159vRiyLTdcGAWI"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221805,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K"
+    },
+    {
+      "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/0BVGCcx3DWdTu1ComULh5k"
       },
@@ -3417,6 +3475,24 @@
     },
     {
       "album": {
+        "name": "Fledermaus",
+        "url": "https://open.spotify.com/album/5NNzwkO0ViiqATMkTQ9LZR"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225483,
+      "name": "Fledermaus",
+      "url": "https://open.spotify.com/track/5ql94i5HmOxKpXPjElZ2j0"
+    },
+    {
+      "album": {
         "name": "Forever (feat. Malou & Yuna)",
         "url": "https://open.spotify.com/album/5Vg7VGD673yE2mDt4SxZD2"
       },
@@ -3524,7 +3600,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 201093,
       "name": "Freak",
       "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
@@ -3686,6 +3762,28 @@
       "duration_ms": 223618,
       "name": "Galvanize - Chris Lake Remix",
       "url": "https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S"
+    },
+    {
+      "album": {
+        "name": "Gangster Violins",
+        "url": "https://open.spotify.com/album/2QijvBctg6bTKPETYuFdqY"
+      },
+      "artists": [
+        {
+          "name": "BURNR",
+          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
+        },
+        {
+          "name": "S3PPA",
+          "url": "https://open.spotify.com/artist/0sIB3PokRCqqllNuzZ38NO"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204285,
+      "name": "Gangster Violins",
+      "url": "https://open.spotify.com/track/1DVvKelF73SbUaqzig2t8d"
     },
     {
       "album": {
@@ -4174,7 +4272,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 152561,
       "name": "Here In Your Arms",
       "url": "https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx"
@@ -5629,6 +5727,36 @@
     },
     {
       "album": {
+        "name": "Energy Crew Pt. 1",
+        "url": "https://open.spotify.com/album/3pDBOAKDjXCYjLswTu6vMe"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        },
+        {
+          "name": "Ellia Jaya",
+          "url": "https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO"
+        },
+        {
+          "name": "Wildish",
+          "url": "https://open.spotify.com/artist/4Ad0ieOmXbPzBc6zgtZPGp"
+        },
+        {
+          "name": "Aaron Pfeiffer",
+          "url": "https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Livin' It Up (feat. Aaron Pfeiffer)",
+      "url": "https://open.spotify.com/track/1HHKgaNHfXePWrd6e14evK"
+    },
+    {
+      "album": {
         "name": "Locked Away",
         "url": "https://open.spotify.com/album/5AxWy3hNmjoQjk9vTCbDXC"
       },
@@ -6500,6 +6628,24 @@
       "duration_ms": 170213,
       "name": "My Loving",
       "url": "https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg"
+    },
+    {
+      "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/3j9rXaxO48mtpkMy3yappf"
+      },
+      "artists": [
+        {
+          "name": "Cris Taylor",
+          "url": "https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211265,
+      "name": "Myself - Radio Edit",
+      "url": "https://open.spotify.com/track/0S2gw9QOjaiMV7juCvYjDC"
     },
     {
       "album": {
@@ -7416,7 +7562,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 153000,
       "name": "Pull Me Away",
       "url": "https://open.spotify.com/track/6Tee5H62YsZdE7tBIH3Nql"
@@ -8285,6 +8431,24 @@
     },
     {
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/7413HNkQgD1i9e3P1aZozT"
+      },
+      "artists": [
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148173,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/5m0SDNnxNOMwFXjoU35zfN"
+    },
+    {
+      "album": {
         "name": "So Good (feat. Kuuda)",
         "url": "https://open.spotify.com/album/5bbz0vL4jSp7q9qpKo7UU8"
       },
@@ -8580,7 +8744,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 179779,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8"
@@ -8686,6 +8850,24 @@
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "album": {
+        "name": "Strung Up",
+        "url": "https://open.spotify.com/album/322zopuhikyTpKNCtXm5Rh"
+      },
+      "artists": [
+        {
+          "name": "Kim Anh",
+          "url": "https://open.spotify.com/artist/3CbmT7nMALRWJrYYyKLz6z"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340000,
+      "name": "Strung Up",
+      "url": "https://open.spotify.com/track/5UHxsUVKizAtC52B0gLiIs"
     },
     {
       "album": {
@@ -9258,10 +9440,32 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 151959,
       "name": "terms and conditions",
       "url": "https://open.spotify.com/track/1NPfiTCBjiYUya7npwzbAY"
+    },
+    {
+      "album": {
+        "name": "terms and conditions (Beave Remix)",
+        "url": "https://open.spotify.com/album/1zOk7p3AvGqn5iaoylnsdo"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4LAkPgRk3KuPVOIe0fyinc"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149884,
+      "name": "terms and conditions - Beave Remix",
+      "url": "https://open.spotify.com/track/1E5NsA5N9Noohhmf2cGx5B"
     },
     {
       "album": {
@@ -10233,6 +10437,28 @@
     },
     {
       "album": {
+        "name": "Wanderlust (NTO Remix)",
+        "url": "https://open.spotify.com/album/6CQfWH6035BfYeksw1dmyf"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Wanderlust - NTO Remix",
+      "url": "https://open.spotify.com/track/7xZ9nzn0GZPpZgKRsIP0Yu"
+    },
+    {
+      "album": {
         "name": "Waste My Love",
         "url": "https://open.spotify.com/album/1EO0Y4276SxEbYcYjDHdtg"
       },
@@ -10582,7 +10808,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 221642,
       "name": "What's A Girl To Do",
       "url": "https://open.spotify.com/track/189M4F08qXZh02rjz8Qsdy"
@@ -10924,10 +11150,32 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 156318,
       "name": "Would U Still Love Me (feat. Cameron Whitcomb)",
       "url": "https://open.spotify.com/track/03w0lRrN7fzXyITv0ytl1Y"
+    },
+    {
+      "album": {
+        "name": "Would U Still Love Me (feat. Cameron Whitcomb) - VIP",
+        "url": "https://open.spotify.com/album/3rFJsvbc9D6kKFE5vibqft"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Would U Still Love Me (feat. Cameron Whitcomb) - VIP",
+      "url": "https://open.spotify.com/track/0Pbten8NbqYu33F8MIcANC"
     },
     {
       "album": {

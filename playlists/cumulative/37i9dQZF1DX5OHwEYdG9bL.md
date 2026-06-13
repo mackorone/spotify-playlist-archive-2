@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: BABYMONSTER\) \(Enjoy a playlist of songs that support music video features!\)
 
-244 songs - 13 hr 21 min
+245 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Ice Cream](https://open.spotify.com/track/5De6B7Rh8ablBQMDQBB1fy) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/65Qzv9eW5oSY6ZtXsTdJsR) | 3:08 | 2026-03-30 |  |
 | [Ice On My Teeth](https://open.spotify.com/track/3BF9ocYbjnntrh7kNnvChi) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Ice On My Teeth](https://open.spotify.com/album/0FAJNe9ryBqwz4OX54Fk9g) | 3:23 | 2025-07-15 | 2025-08-20 |
 | [ICONIC](https://open.spotify.com/track/0L8R3vaftF6BzpHZyUMWR0) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [ICONIC](https://open.spotify.com/album/2YR4bqtSIcevAAIL6ugpeT) | 2:45 | 2025-08-13 |  |
+| [ICONIC BY MISTAKE](https://open.spotify.com/track/74N8QkVmJgLKXMqHS27I3T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/0gjfMkpsH1y95M4wfe7WUJ) | 3:19 | 2026-06-12 |  |
 | [IF I](https://open.spotify.com/track/7acnYIMed1CEVBRfgv4T7M) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [IF I](https://open.spotify.com/album/2SmHfHMy1drmPoVkzglr7g) | 3:07 | 2026-06-12 |  |
 | [iLy](https://open.spotify.com/track/4wQMGzwKdgnpik2AJ81vZ8) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [iLy](https://open.spotify.com/album/0DA2VA8d6JXdusekR5RuvP) | 4:07 | 2025-08-13 |  |
 | [In Between Seasons](https://open.spotify.com/track/1MI7Dk3ObVXMAeRmnZWbbU) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [In Between Seasons](https://open.spotify.com/album/4GpqrNkAhRcvxcieAHwLSW) | 2:57 | 2026-06-12 |  |

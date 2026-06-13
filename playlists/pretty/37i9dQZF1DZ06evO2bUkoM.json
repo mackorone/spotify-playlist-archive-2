@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49153,
+  "num_followers": 49162,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAA6B0EHs9Uz9GOEIpzUJ7f3",
+  "snapshot_id": "ain6gAAAAADAw1vNNvZ2eUIvJH4gQDer",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greenlight",
-        "url": "https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy"
+        "name": "I'm Too Sensitive For This Shit",
+        "url": "https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 173240,
-      "name": "Greenlight",
-      "url": "https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4"
+      "duration_ms": 205028,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/70U8ngrsEOeqeVjcTrChd8"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Too Sensitive For This Shit",
-        "url": "https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp"
+        "name": "Greenlight",
+        "url": "https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 205028,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/70U8ngrsEOeqeVjcTrChd8"
+      "duration_ms": 173240,
+      "name": "Greenlight",
+      "url": "https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4"
     },
     {
       "added_at": null,

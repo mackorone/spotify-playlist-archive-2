@@ -2,9 +2,9 @@
 
 ### [Buckwild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> A full deck of country wild cards\. Bass\-heavy, up\-to\-no\-good anthems where the rules don’t apply\. Cover: Russell Dickerson
+> A full deck of country wild cards\. Bass\-heavy, up\-to\-no\-good anthems where the rules don’t apply\. Cover: Graham Barham
 
-527 songs - 1 day 2 hr 7 min
+528 songs - 1 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Mad I Need You](https://open.spotify.com/track/0om2jMPfaW2pBJs5i7axVv) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:19 | 2021-12-10 | 2022-01-08 |
 | [Man](https://open.spotify.com/track/55f35jEFEDIWCY9YDwf9r0) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Man](https://open.spotify.com/album/5Paf4g7Jw9SXsPaTHCqWwp) | 2:46 | 2023-11-17 | 2024-04-23 |
 | [Matador](https://open.spotify.com/track/0QqDkb5CrbgXWc71D9vhyN) | [Kevin Smiley](https://open.spotify.com/artist/6Km1v74PaJGilhxUmfAY1K), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Matador](https://open.spotify.com/album/49HOgVDTZLrQbNp06gKmzt) | 3:14 | 2024-08-23 | 2025-06-30 |
+| [MCCONAUGHEY](https://open.spotify.com/track/7rZ4LHJ5aZS8Sgl7S0EYjL) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [CLUB COUNTRY](https://open.spotify.com/album/72xjubhlXgVmYlplHsLfKf) | 3:10 | 2026-06-12 |  |
 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 | 2022-03-04 | 2025-06-30 |
 | [Me, Myself, and Wine](https://open.spotify.com/track/7eAtibYWYUJWgIcYA4Rke2) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Me, Myself, and Wine](https://open.spotify.com/album/35MumGCuVvvh3ne38mVzhq) | 3:12 | 2021-12-10 | 2022-01-08 |
 | [Miami \(feat\. Lil Wayne & Rick Ross\)](https://open.spotify.com/track/1j6a5zJGhyBlrvqsszBEeF) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Miami](https://open.spotify.com/album/03xHAanKM1Tt39480qsiOw) | 3:37 | 2025-07-25 |  |

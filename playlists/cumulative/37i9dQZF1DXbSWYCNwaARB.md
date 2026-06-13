@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: izna\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: LE SSERAFIM \(르세라핌\), 아일릿\(ILLIT\), KATSEYE\)
 
-632 songs - 1 day 8 hr 38 min
+633 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [COOL](https://open.spotify.com/track/7Cz1Ny3XhRz6KBT0YHVHyf) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki 4th Mini Album \[NEW RULES\]](https://open.spotify.com/album/3VRhzwIZ6kfd7CSirU2E7x) | 3:29 | 2020-10-13\* | 2022-04-16 |
 | [Cosmic](https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 3:45 | 2024-06-24 | 2024-09-16 |
 | [Crazier](https://open.spotify.com/track/5ZwQd0GrdvqyM0OmUGSEYB) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Crazier \- The 11th Album](https://open.spotify.com/album/7oHYGWTIBkoJLcg0ybZcbj) | 2:41 | 2025-08-04 | 2025-09-03 |
-| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-30 |  |
+| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-30 | 2026-06-13 |
 | [CRY FOR ME](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) | 3:24 | 2021-01-18 |  |
 | [Curiosity](https://open.spotify.com/track/6Kke9MonigeJKLSmlmRnWD) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET) | 3:09 | 2021-02-27 | 2021-03-18 |
 | [Curious](https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [CURIOUS](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) | 3:11 | 2024-08-06 | 2024-08-31 |
@@ -284,6 +284,7 @@
 | [Ice Cream](https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Ice Cream](https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR) | 3:00 | 2024-08-02 | 2024-10-28 |
 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/60jpDubMmVyR5molJp2TCm) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/album/0J1uiXQshfRtz2R8lgUlQk) | 2:55 | 2020-10-13\* | 2022-06-26 |
 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:57 | 2022-07-25 | 2022-09-17 |
+| [ICONIC BY MISTAKE](https://open.spotify.com/track/1PdN2pC5LYxnapVB8h6C6r) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 | 2026-06-12 |  |
 | [ICONS](https://open.spotify.com/track/0eYUPGR0tB6pP5YvE3zXaU) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ICONS](https://open.spotify.com/album/4BuL7zE1QTDoSlij13X4XI) | 3:08 | 2021-10-01 | 2022-06-22 |
 | [ICY](https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) | 3:11 | 2020-10-20 | 2022-07-13 |
 | [ICY BBY](https://open.spotify.com/track/7aQY8ckcvqNu0X20Wac4Zz) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [ICY BBY](https://open.spotify.com/album/58G2sRHq3C0Z1srLSRzwuV) | 3:02 | 2025-06-17 | 2025-06-28 |
@@ -366,9 +367,9 @@
 | [Me & You](https://open.spotify.com/track/0dSE54vYYvRNWzVTxE2xTL) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [WE](https://open.spotify.com/album/6Epnn9sgvvUrHdEf7JKjQb) | 3:23 | 2020-10-20 | 2022-04-02 |
 | [memeM](https://open.spotify.com/track/0qr3qIT7OrhzT33sW1syLI) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [memeM](https://open.spotify.com/album/4nhtnBY8owIQnOsnGQGqW9) | 2:52 | 2022-03-29 | 2022-04-21 |
 | [Memories](https://open.spotify.com/track/2JpFYEPqR04QNVkKjQMnv9) | [Girl Crush](https://open.spotify.com/artist/1KJKSM6Z1NTqcEHgNoUSbe) | [Memories](https://open.spotify.com/album/1DivatN2VQcEnKAsQzV8fh) | 3:01 | 2021-01-31 | 2022-05-07 |
-| [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 | 2024-09-06 | 2025-11-25 |
+| [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 | 2024-09-06 |  |
 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 | 2025-05-09 |  |
-| [METRONOME](https://open.spotify.com/track/0lcaaS20sIJaLeVsAyAiKf) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SET THE TEMPO](https://open.spotify.com/album/4s5mNvXC1yAcVUibN83EnB) | 2:59 | 2026-06-08 |  |
+| [METRONOME](https://open.spotify.com/track/0lcaaS20sIJaLeVsAyAiKf) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SET THE TEMPO](https://open.spotify.com/album/4s5mNvXC1yAcVUibN83EnB) | 2:59 | 2026-06-08 | 2026-06-13 |
 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-03 | 2025-06-07 |
 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 | 2025-05-14 | 2025-06-12 |
 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 | 2020-10-20 |  |

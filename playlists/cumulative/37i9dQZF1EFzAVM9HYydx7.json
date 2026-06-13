@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Trouble At The Henhouse",
+        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223133,
+      "name": "Ahead By A Century",
+      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
+    },
+    {
+      "album": {
         "name": "VORY",
         "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
       },

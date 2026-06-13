@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Pirlo
 
-162 songs - 8 hr 47 min
+163 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,13 +105,14 @@
 | [Macaroni](https://open.spotify.com/track/1fvectJae9RagHJqiOHNrl) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Macaroni](https://open.spotify.com/album/4p33iikBxMotuZjXAzRAla) | 2:48 | 2021-10-15 | 2022-08-20 |
 | [Makin Noi](https://open.spotify.com/track/1hIHfZuUxL9cqUAat01bQm) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Makin Noi](https://open.spotify.com/album/5Osdpx6HZWNnE8l5MjCwQs) | 2:42 | 2024-01-12 | 2024-06-29 |
 | [Malo H \- Remix](https://open.spotify.com/track/4tAxviSnEboFWHkvIyRo88) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Leandro Santos](https://open.spotify.com/artist/72taM7sOzAaGZ301OJahR4) | [Malo H \(Remix\)](https://open.spotify.com/album/5Z7a7ImvcLHz61suUaIQkJ) | 3:18 | 2025-05-27 |  |
-| [ManiKI](https://open.spotify.com/track/3eg2SVktHhkyH0djwJ51X5) | [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt) | [ManiKI](https://open.spotify.com/album/55RsGWoHmCAqm56r7tXtcR) | 2:14 | 2025-09-12 |  |
+| [ManiKI](https://open.spotify.com/track/3eg2SVktHhkyH0djwJ51X5) | [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt) | [ManiKI](https://open.spotify.com/album/55RsGWoHmCAqm56r7tXtcR) | 2:14 | 2025-09-12 | 2026-06-13 |
 | [Me Dejé Llevar](https://open.spotify.com/track/3Mc2Y3qgBL5WsQWjch3VVK) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Me Dejé Llevar](https://open.spotify.com/album/6xXpnfndZYsh8F5Tvtus5e) | 2:24 | 2022-01-28 | 2025-02-08 |
 | [ME DICES](https://open.spotify.com/track/4zBO7zkAFeJmufwJnOIN9K) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp) | [EL ANDROIDE](https://open.spotify.com/album/4hHr8IqArStD13dxMZqNM8) | 3:06 | 2025-12-12 |  |
 | [Me Vuelvo Del DIM](https://open.spotify.com/track/4D4QeJRcuThO84Yg1Yu4Tf) | [Sa!koro](https://open.spotify.com/artist/6LNkIoneVxdu31qUNsfRwa), [Milanezie](https://open.spotify.com/artist/6xcD5pcEiRobg9IXphHa5L) | [GRACIAS SA!KO](https://open.spotify.com/album/500MFNZFFYYlyfd8VJZcnT) | 2:18 | 2025-07-23 |  |
 | [Meterlo A Estudiar](https://open.spotify.com/track/2szyeDtOPaBLCenHCMgMP6) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [Meterlo A Estudiar](https://open.spotify.com/album/03tK5aJsBoDecyfb7EkuBz) | 2:45 | 2025-08-22 |  |
 | [Mi Imperio Romano](https://open.spotify.com/track/6Nl1sPqRe3H2ovczhCifYJ) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Mi Imperio Romano](https://open.spotify.com/album/0VYYcdYzRwFV8IXLWdn9RF) | 3:18 | 2025-04-04 | 2025-07-24 |
 | [Mil Curitas](https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:16 | 2022-04-08 | 2022-09-03 |
+| [MJ](https://open.spotify.com/track/7qDhfgtCbJxyXKtlQYHoue) | [Louis BPM](https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0) | [MJ](https://open.spotify.com/album/16Rm3FHsX7M5gxdkruCxAS) | 2:06 | 2026-06-12 |  |
 | [MR CHIMB4S](https://open.spotify.com/track/4EDhkGtlJRPf8fnonD0n5q) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Sjoy on the beat](https://open.spotify.com/artist/2JpD7COyH3RDoFJ1vneHOw) | [MR CHIMB4S](https://open.spotify.com/album/16CL0gZreRyXOHkovjxRjm) | 2:18 | 2025-08-15 | 2025-12-06 |
 | [MUÑECA DE URBA](https://open.spotify.com/track/3BYsz5bUXe92mkIZ7XEOpN) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [UNA VALIJA EN SENTIMIENTO](https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY) | 3:02 | 2025-08-08 | 2025-10-04 |
 | [Negro](https://open.spotify.com/track/1oiQSttaF5b3ZI5masPw6i) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/43q3UPszpuNHz8gBFwKBtg) | 3:17 | 2021-10-15 | 2025-08-02 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow.  Yeri Mua y Lucky Brown en portada",
+  "description": "Shawty lo que necesitas es darle flow.  iZaak y Chencho Corleone en portada",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -7956,7 +7956,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 182908,
       "name": "G\u00c1LDAR",
       "url": "https://open.spotify.com/track/64uFpeiHU2cTog7oWCuDW9"
@@ -8636,7 +8636,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 155984,
       "name": "JUGUETONA",
       "url": "https://open.spotify.com/track/2He0lOqVbHGlX05dYqQqcj"
@@ -15017,6 +15017,24 @@
     },
     {
       "album": {
+        "name": "PERDIDA",
+        "url": "https://open.spotify.com/album/2rzC5prMJJf2kfIEPdnXWc"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "PERDIDA",
+      "url": "https://open.spotify.com/track/3A6q2rUaWBYSzX59dbT6UZ"
+    },
+    {
+      "album": {
         "name": "OMAKASE",
         "url": "https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2"
       },
@@ -16160,7 +16178,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 218666,
       "name": "QHP PI\u00d1ATA",
       "url": "https://open.spotify.com/track/39PTRADxy0eQrK2CBTmyeG"
@@ -17715,6 +17733,36 @@
     },
     {
       "album": {
+        "name": "Se Le Ve",
+        "url": "https://open.spotify.com/album/2FbThz4XHG6MbcrF9shGN7"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Se Le Ve",
+      "url": "https://open.spotify.com/track/0ExNALbmBpY7IAZ2dzupnv"
+    },
+    {
+      "album": {
         "name": "SE LO JURO MOR",
         "url": "https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr"
       },
@@ -19148,7 +19196,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 159157,
       "name": "T T T",
       "url": "https://open.spotify.com/track/3IKxbI6tQV2cAiheQqt410"
@@ -21117,6 +21165,32 @@
     },
     {
       "album": {
+        "name": "Halley",
+        "url": "https://open.spotify.com/album/42oZh10oyfZgvM5NKdQvSq"
+      },
+      "artists": [
+        {
+          "name": "Baskiat",
+          "url": "https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171013,
+      "name": "Unas Diablas",
+      "url": "https://open.spotify.com/track/5mbCSmbnLu8KDx37WUIy3v"
+    },
+    {
+      "album": {
         "name": "Unfollow",
         "url": "https://open.spotify.com/album/7kZP9XNkAgcKMqhXWZG4PB"
       },
@@ -21140,6 +21214,28 @@
       "duration_ms": 196727,
       "name": "Unfollow",
       "url": "https://open.spotify.com/track/6GsD646HrIDJJpzoY9T1Rt"
+    },
+    {
+      "album": {
+        "name": "MILLITO",
+        "url": "https://open.spotify.com/album/4sM9en2HVm09baxTpvBKH0"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "UVA",
+      "url": "https://open.spotify.com/track/32J4IaXWBhYUSWkH1mVAfN"
     },
     {
       "album": {

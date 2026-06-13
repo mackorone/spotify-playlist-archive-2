@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Crookes. The essential tracks, all in one playlist.",
-  "num_followers": 35255,
+  "num_followers": 35264,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAAeidOmLZ7CMTSz8OqwE/ZW",
+  "snapshot_id": "ain6gAAAAADMWFn5swn37XlKpQTZv9sn",
   "tracks": [
     {
       "added_at": null,
@@ -428,9 +428,29 @@
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 178500,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/7k8b5u5fisGTDNahrJK6dw"
+      "duration_ms": 189371,
+      "name": "19th Floor",
+      "url": "https://open.spotify.com/track/3fKmIoHvrhBQMOITJYeyeb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pass the Salt (feat. Vince Staples)",
+        "url": "https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 167010,
+      "name": "Pass the Salt (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el"
     },
     {
       "added_at": null,
@@ -467,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pass the Salt (feat. Vince Staples)",
-        "url": "https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 167010,
-      "name": "Pass the Salt (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reminiscence EP",
         "url": "https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV"
       },
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 189371,
-      "name": "19th Floor",
-      "url": "https://open.spotify.com/track/3fKmIoHvrhBQMOITJYeyeb"
+      "duration_ms": 178500,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/7k8b5u5fisGTDNahrJK6dw"
     },
     {
       "added_at": null,

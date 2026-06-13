@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Colo de Deus
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,658 likes - 70 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,656 likes - 70 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 9 | [A Alegria do Senhor \- Ao Vivo](https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [A Alegria do Senhor \(Ao Vivo\)](https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy) | 3:40 |
 | 10 | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4) | 5:04 |
 | 11 | [Tudo Fica Bem](https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Tudo Fica Bem](https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE) | 5:04 |
-| 12 | [Pra Descobrir](https://open.spotify.com/track/2OdrzlIu1hxjbDeWaVYAhb) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Pra Descobrir](https://open.spotify.com/album/19eaAqFmX3ElvRtszgvPDV) | 4:17 |
-| 13 | [Rei da Glória](https://open.spotify.com/track/4MoyWz9gecTgUvnMdL0Xz9) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Pevê Brito](https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Rei da Glória](https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP) | 5:39 |
+| 12 | [Rei da Glória](https://open.spotify.com/track/4MoyWz9gecTgUvnMdL0Xz9) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Pevê Brito](https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Rei da Glória](https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP) | 5:39 |
+| 13 | [Pra Descobrir](https://open.spotify.com/track/2OdrzlIu1hxjbDeWaVYAhb) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Pra Descobrir](https://open.spotify.com/album/19eaAqFmX3ElvRtszgvPDV) | 4:17 |
 | 14 | [Resistência](https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Resistência](https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ) | 4:21 |
 | 15 | [Oração](https://open.spotify.com/track/12Eht2IPdkP2EaGf3TltkY) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Oração](https://open.spotify.com/album/5YL3CoA24koZIlSjfmZDnR) | 4:04 |
 | 16 | [Yeshua](https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Yeshua](https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20) | 5:46 |

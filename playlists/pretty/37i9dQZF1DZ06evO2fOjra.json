@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 572473,
+  "num_followers": 572568,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAACpo4pAs53NaQFHqA3zi4dm",
+  "snapshot_id": "ain6gAAAAAB//Sbqnis+Jn0+5QZBkBM6",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nothing",
-        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 172867,
-      "name": "Can You Hear Me",
-      "url": "https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Paradigm Shift (World Tour Edition)",
         "url": "https://open.spotify.com/album/7hrDDLfrAe8B5C2j5pTyyt"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 233389,
       "name": "Hater",
       "url": "https://open.spotify.com/track/6BB8UssAN7vuXzsJ5jTsbP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nothing",
+        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 172867,
+      "name": "Can You Hear Me",
+      "url": "https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9"
     },
     {
       "added_at": null,

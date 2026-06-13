@@ -1199,6 +1199,42 @@
     },
     {
       "album": {
+        "name": "last goodbye",
+        "url": "https://open.spotify.com/album/2b0AGO7zhU99K6RnmuzaXq"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212727,
+      "name": "last goodbye",
+      "url": "https://open.spotify.com/track/2Vt1fjZnyQaz97PzEq1YKD"
+    },
+    {
+      "album": {
+        "name": "TR.EE",
+        "url": "https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Layback",
+      "url": "https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7"
+    },
+    {
+      "album": {
         "name": "L&B",
         "url": "https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u"
       },
@@ -2166,6 +2202,24 @@
       "duration_ms": 210857,
       "name": "tokki",
       "url": "https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN"
+    },
+    {
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/3GP7l2bmXT6T2FNAzERwBr"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8756,
+  "num_followers": 8758,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAAAYAUnOUM74fc07+dv03bx/",
+  "snapshot_id": "ain6gAAAAABUbZClKKt5S3b1Hao/mOV+",
   "tracks": [
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 238277,
-      "name": "Renter's Anthem",
-      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Half Shadows",
         "url": "https://open.spotify.com/album/1jvY3JDZfN7n1mEJqkkApU"
       },
@@ -863,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
       "artists": [
         {
@@ -872,9 +856,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 127240,
-      "name": "Eternal",
-      "url": "https://open.spotify.com/track/15fgfl0mOgsWdf4lNN76ow"
+      "duration_ms": 238277,
+      "name": "Renter's Anthem",
+      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
     },
     {
       "added_at": null,
@@ -895,22 +879,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 191233,
-      "name": "Fried for the Night",
-      "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
+      "duration_ms": 127240,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/15fgfl0mOgsWdf4lNN76ow"
     },
     {
       "added_at": null,
@@ -931,6 +911,26 @@
       "duration_ms": 220934,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 191233,
+      "name": "Fried for the Night",
+      "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
     },
     {
       "added_at": null,

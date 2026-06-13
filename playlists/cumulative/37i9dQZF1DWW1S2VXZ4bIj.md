@@ -4,7 +4,7 @@
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: PURPEECH
 
-736 songs - 1 day 20 hr 43 min
+737 songs - 1 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [chemical](https://open.spotify.com/track/4gZYmq12u1dxD8USgIqbT6) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [chemical](https://open.spotify.com/album/68y6P2CuJMBjYhaVx8yPo6) | 3:23 | 2024-08-30 | 2024-10-12 |
 | [Chill](https://open.spotify.com/track/0jLunknItK9AujRCUYkVhn) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/7bRumRaEIgUBnHiwiORk6J) | 2:39 | 2025-04-24 | 2025-05-09 |
 | [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 | 2026-05-07 | 2026-05-23 |
+| [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 | 2026-06-12 |  |
 | [COUNTDOWN TO ONE](https://open.spotify.com/track/1KJ3KPPqfi0vhbl3anTzHD) | [Benzkhaokhwan](https://open.spotify.com/artist/7yH4XTziOEA3lmES4RExCy) | [COUNTDOWN TO ONE](https://open.spotify.com/album/48OOhtsat9kP7fn84LQ5tq) | 3:43 | 2025-12-26 | 2026-01-15 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2024-06-27 | 2024-09-27 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 | 2025-02-07 |

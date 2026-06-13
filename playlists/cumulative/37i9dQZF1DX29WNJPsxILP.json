@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Farhan Khan",
+  "description": "Best of Hindi Hip-Hop! Cover: Emiway Bantai",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -99,7 +99,7 @@
     },
     {
       "album": {
-        "name": "4.10",
+        "name": "4.1",
         "url": "https://open.spotify.com/album/0B4QhB4Acp4Ct9F8dkllWN"
       },
       "artists": [
@@ -116,7 +116,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169512,
-      "name": "4.10",
+      "name": "4.1",
       "url": "https://open.spotify.com/track/1AcoISAQZgYBflkE9JgOl4"
     },
     {
@@ -3006,7 +3006,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 180000,
       "name": "JAANE JAA",
       "url": "https://open.spotify.com/track/59UjekP5VpkJBxVkWIeOaW"
@@ -3032,6 +3032,28 @@
       "duration_ms": 155236,
       "name": "JAANEJAANA",
       "url": "https://open.spotify.com/track/2T6twxFVaatlhg5Ocz08Bw"
+    },
+    {
+      "album": {
+        "name": "CNSTNCY",
+        "url": "https://open.spotify.com/album/5KHA0yCtqnwGn4vX5Z9a2T"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        },
+        {
+          "name": "MC INSANE",
+          "url": "https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248181,
+      "name": "JAB TAK MEIN ZINDA HU",
+      "url": "https://open.spotify.com/track/3iKnnfDTKmhHWUXf1OCDPV"
     },
     {
       "album": {
@@ -3843,6 +3865,24 @@
     },
     {
       "album": {
+        "name": "CNSTNCY",
+        "url": "https://open.spotify.com/album/5KHA0yCtqnwGn4vX5Z9a2T"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "LEGEND",
+      "url": "https://open.spotify.com/track/6tl3vinLhuzAnDdwNk61OQ"
+    },
+    {
+      "album": {
         "name": "Lena Mera Naam",
         "url": "https://open.spotify.com/album/5QslV1zMHTGKnVrfckuysx"
       },
@@ -4480,7 +4520,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 155800,
       "name": "MY WAY",
       "url": "https://open.spotify.com/track/6BUFHcVxtGT0ySekzyxfMM"
@@ -5137,6 +5177,24 @@
     },
     {
       "album": {
+        "name": "CNSTNCY",
+        "url": "https://open.spotify.com/album/5KHA0yCtqnwGn4vX5Z9a2T"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "PRIMO",
+      "url": "https://open.spotify.com/track/6u0HXzj4NxCceC08nu7Ie6"
+    },
+    {
+      "album": {
         "name": "Public Notice",
         "url": "https://open.spotify.com/album/2ZzS0QaAJkh43G49uiquKS"
       },
@@ -5504,7 +5562,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 237998,
       "name": "SADAK 2.0",
       "url": "https://open.spotify.com/track/7jhPEKiDPU2hOhRJ7vv0Cg"

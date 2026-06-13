@@ -251,6 +251,28 @@
     },
     {
       "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/5GcB1Xp84uwf8iu5EMR7wl"
+      },
+      "artists": [
+        {
+          "name": "163Margs",
+          "url": "https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2"
+        },
+        {
+          "name": "Booter Bee",
+          "url": "https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125070,
+      "name": "44",
+      "url": "https://open.spotify.com/track/39SJPuVarUZXm5tytwxqbt"
+    },
+    {
+      "album": {
         "name": "4C",
         "url": "https://open.spotify.com/album/7EnjzadgMEZuvHumi8epdx"
       },
@@ -5578,7 +5600,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 272139,
       "name": "Everything In Between",
       "url": "https://open.spotify.com/track/28h396yBODu7HoselOtdZy"
@@ -14200,7 +14222,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 170760,
       "name": "Sexy Ladies (feat. UCB)",
       "url": "https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2"
@@ -16446,6 +16468,28 @@
       "duration_ms": 213559,
       "name": "Till The End",
       "url": "https://open.spotify.com/track/3q6ukSqULG76fWLw0aUByP"
+    },
+    {
+      "album": {
+        "name": "till the wheels fall off",
+        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "till the wheels fall off",
+      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
     },
     {
       "album": {

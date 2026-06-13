@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 364830,
+  "num_followers": 364851,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Glimmer / Change",
+        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
+      },
+      "artists": [
+        {
+          "name": "AGST",
+          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
+        }
+      ],
+      "duration_ms": 215125,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
         "url": "https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 240004,
       "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
       "url": "https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Glimmer / Change",
-        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
-      },
-      "artists": [
-        {
-          "name": "AGST",
-          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "At the End of the Day",
-        "url": "https://open.spotify.com/album/7Lb31BHTAcVO4bsiqyBEUv"
-      },
-      "artists": [
-        {
-          "name": "Remlarr",
-          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Electroptysis",
-      "url": "https://open.spotify.com/track/5S0RLQ2BlIdDtWrRk0b4qz"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Notilde Tapes, Vol. 1",
         "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
       },
@@ -1427,22 +1411,34 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "I Must Be Dreamin'",
-        "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
+        "name": "At the End of the Day",
+        "url": "https://open.spotify.com/album/7Lb31BHTAcVO4bsiqyBEUv"
       },
       "artists": [
         {
-          "name": "Luanmer",
-          "url": "https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD"
-        },
-        {
-          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
-          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+          "name": "Remlarr",
+          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
         }
       ],
-      "duration_ms": 223129,
-      "name": "I Must Be Dreamin'",
-      "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
+      "duration_ms": 221217,
+      "name": "Electroptysis",
+      "url": "https://open.spotify.com/track/5S0RLQ2BlIdDtWrRk0b4qz"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "NeoGeo FM",
+        "url": "https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2"
+      },
+      "artists": [
+        {
+          "name": "Zai Kowen",
+          "url": "https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB"
+        }
+      ],
+      "duration_ms": 170952,
+      "name": "Nostalgic Love",
+      "url": "https://open.spotify.com/track/03xrLbDBTxLPrJqM3RhIZd"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1467,18 +1463,38 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "NeoGeo FM",
-        "url": "https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2"
+        "name": "I Must Be Dreamin'",
+        "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
       },
       "artists": [
         {
-          "name": "Zai Kowen",
-          "url": "https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB"
+          "name": "Luanmer",
+          "url": "https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD"
+        },
+        {
+          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
+          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
         }
       ],
-      "duration_ms": 170952,
-      "name": "Nostalgic Love",
-      "url": "https://open.spotify.com/track/03xrLbDBTxLPrJqM3RhIZd"
+      "duration_ms": 223129,
+      "name": "I Must Be Dreamin'",
+      "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Talk Of The Dancefloor",
+        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
+        }
+      ],
+      "duration_ms": 202783,
+      "name": "I Didn't Know",
+      "url": "https://open.spotify.com/track/1j9YnP7bHVGzBr3DPiJyB8"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Talk Of The Dancefloor",
-        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
+        "name": "Showa",
+        "url": "https://open.spotify.com/album/5qOV4JCW6SC2cR9eZU5Hgv"
       },
       "artists": [
         {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
+          "name": "Flammy",
+          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
         }
       ],
-      "duration_ms": 202783,
-      "name": "I Didn't Know",
-      "url": "https://open.spotify.com/track/1j9YnP7bHVGzBr3DPiJyB8"
+      "duration_ms": 140483,
+      "name": "Showa",
+      "url": "https://open.spotify.com/track/3AiYEknQ4jvlUpHrCCxdfC"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1543,22 +1559,6 @@
       "duration_ms": 141873,
       "name": "DRENCH3D",
       "url": "https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Showa",
-        "url": "https://open.spotify.com/album/5qOV4JCW6SC2cR9eZU5Hgv"
-      },
-      "artists": [
-        {
-          "name": "Flammy",
-          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
-        }
-      ],
-      "duration_ms": 140483,
-      "name": "Showa",
-      "url": "https://open.spotify.com/track/3AiYEknQ4jvlUpHrCCxdfC"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Kudatah, Vol. 1",
-        "url": "https://open.spotify.com/album/0j21NLeNyi3QtU1Y8XJE7l"
+        "name": "ICE CREAM",
+        "url": "https://open.spotify.com/album/2U297DcmJRXYW0eOrgiSsF"
       },
       "artists": [
         {
-          "name": "Amherst",
-          "url": "https://open.spotify.com/artist/0OF3elZ9nfycVA9b2IQBAU"
+          "name": "glue70",
+          "url": "https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J"
         }
       ],
-      "duration_ms": 193761,
-      "name": "Just a Little",
-      "url": "https://open.spotify.com/track/4CqwRPsNgnrs05KGY2MXks"
+      "duration_ms": 161280,
+      "name": "Sometime's He's Pretty",
+      "url": "https://open.spotify.com/track/3nCA4kWJIZ5laYZHWIbzSU"
     }
   ],
   "unique_name": "Future Funk",

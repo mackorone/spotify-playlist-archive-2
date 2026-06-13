@@ -4,7 +4,7 @@
 
 > screaming at lucy through the screen like she can hear us
 
-393 songs - 21 hr 45 min
+394 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 | 2021-08-17 | 2022-07-29 |
 | [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 | 2022-10-28 | 2022-11-14 |
 | [Doubt of Revival](https://open.spotify.com/track/1ba4s0V7UuidW0PAWBAer9) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [Doubt of Revival](https://open.spotify.com/album/4JJRgLTqfdIxE0zSb6Rq4u) | 3:34 | 2021-04-30 | 2022-06-22 |
-| [Down Bad](https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:21 | 2025-04-04 |  |
+| [Down Bad](https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:21 | 2025-04-04 | 2026-06-13 |
 | [Drew Barrymore](https://open.spotify.com/track/06u5LrUpbosQlQ1QJFhPpG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 | 2021-04-30 | 2025-03-29 |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2022-06-30 |  |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-04-30 | 2022-04-20 |
@@ -237,6 +237,7 @@
 | [Locket](https://open.spotify.com/track/0bxcUgWlOURkU6lZt4zog0) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Locket](https://open.spotify.com/album/2Q61Zm3rOli876QegmVY50) | 5:18 | 2021-04-30 | 2022-04-20 |
 | [loml](https://open.spotify.com/track/3YkNIrAvbKNrrwwEd7NVLl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:37 | 2025-08-21 |  |
 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 | 2021-04-30 | 2025-03-29 |
+| [Love is in the Air, Pt\. 1](https://open.spotify.com/track/77Aup1j7jR1zxWFQes0Kav) | [Rock Burwell](https://open.spotify.com/artist/54zR4Rx1DyqpoUgcNPyscl) | [Obsession \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/295aVJ1pcfkOGRMODulEYs) | 2:04 | 2026-06-12 |  |
 | [Love on the Weekend](https://open.spotify.com/track/4T0Z5SG6t3r7XFUp4yfMi9) | [Aria Ohlsson](https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ) | [Love on the Weekend](https://open.spotify.com/album/2KtK1Topqqu9kvyZuJilNK) | 2:33 | 2021-04-30 | 2022-04-19 |
 | [love, or the lack thereof](https://open.spotify.com/track/2E1eJCNpEniIB1NsDqyGzR) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 3:07 | 2022-06-09 | 2022-11-13 |
 | [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 | 2025-08-21 |  |

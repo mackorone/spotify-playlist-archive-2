@@ -1,6 +1,6 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 964831,
+  "num_followers": 964859,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
-      },
-      "artists": [
-        {
-          "name": "Ouvindo",
-          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
-        }
-      ],
-      "duration_ms": 217935,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "When You Love Someone (Acoustic)",
         "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 210106,
       "name": "When You Love Someone - Acoustic",
       "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
+      },
+      "artists": [
+        {
+          "name": "Ouvindo",
+          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
+        }
+      ],
+      "duration_ms": 217935,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "The Bluebird of Happiness",
         "url": "https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 269920,
       "name": "Halo",
       "url": "https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "AOL Sessions",
-        "url": "https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Kiss Me (Acoustic)",
-      "url": "https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp"
+        "name": "AOL Sessions",
+        "url": "https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
         }
       ],
-      "duration_ms": 154764,
-      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/7a7v27v9qrwjKBbsqrCZt9"
+      "duration_ms": 193013,
+      "name": "Kiss Me (Acoustic)",
+      "url": "https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -975,18 +959,18 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Derivatives",
-        "url": "https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp"
       },
       "artists": [
         {
-          "name": "William Fitzsimmons",
-          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 192639,
-      "name": "I Kissed a Girl",
-      "url": "https://open.spotify.com/track/4TBZ0i75gIWHedxf6N4Qwc"
+      "duration_ms": 154764,
+      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/7a7v27v9qrwjKBbsqrCZt9"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1003,6 +987,22 @@
       "duration_ms": 183472,
       "name": "Don't Wanna Know - Acoustic Version",
       "url": "https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Derivatives",
+        "url": "https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4"
+      },
+      "artists": [
+        {
+          "name": "William Fitzsimmons",
+          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
+        }
+      ],
+      "duration_ms": 192639,
+      "name": "I Kissed a Girl",
+      "url": "https://open.spotify.com/track/4TBZ0i75gIWHedxf6N4Qwc"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Pine Hollow (Live)",
-        "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Jolene - Live",
-      "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Slide (Acoustic Version)",
         "url": "https://open.spotify.com/album/71psLPZdo5Y1yqdd5pQ37W"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 171611,
       "name": "Slide - Acoustic Version",
       "url": "https://open.spotify.com/track/0QSpX88FigdeGYsrAQZj9C"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Pine Hollow (Live)",
+        "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Jolene - Live",
+      "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "IDGAF (Remixes II)",
-        "url": "https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217785,
-      "name": "IDGAF - Acoustic",
-      "url": "https://open.spotify.com/track/5ZMb1d14RLl5NHAgZIwVHc"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Blood & Rust",
         "url": "https://open.spotify.com/album/3i0G8lTtnie5oGe4xJuicR"
       },
@@ -2019,18 +2003,18 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1"
+        "name": "IDGAF (Remixes II)",
+        "url": "https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq"
       },
       "artists": [
         {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 247816,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy"
+      "duration_ms": 217785,
+      "name": "IDGAF - Acoustic",
+      "url": "https://open.spotify.com/track/5ZMb1d14RLl5NHAgZIwVHc"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2051,18 +2035,34 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Home / Dirty Paws",
-        "url": "https://open.spotify.com/album/7eRqpbIX8zCdDGVlLrMuNn"
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1"
       },
       "artists": [
         {
-          "name": "Gardiner Sisters",
-          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
         }
       ],
-      "duration_ms": 173508,
-      "name": "Home / Dirty Paws",
-      "url": "https://open.spotify.com/track/24rFwAcC6eqPvyMuPynVGH"
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Acoustic Caf\u00e9",
+        "url": "https://open.spotify.com/album/73oIIoRDqSC8vpe0z1dFTU"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 280840,
+      "name": "I'm Yours - (From the Casa Nova Sessions)",
+      "url": "https://open.spotify.com/track/1QlWYpD8hrhmS0kDDWwgb8"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
+        "name": "Home / Dirty Paws",
+        "url": "https://open.spotify.com/album/7eRqpbIX8zCdDGVlLrMuNn"
+      },
+      "artists": [
+        {
+          "name": "Gardiner Sisters",
+          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
+        }
+      ],
+      "duration_ms": 173508,
+      "name": "Home / Dirty Paws",
+      "url": "https://open.spotify.com/track/24rFwAcC6eqPvyMuPynVGH"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
         "name": "Songs From Final Fantasy XV",
         "url": "https://open.spotify.com/album/5ZaWd8M09FAMH0otCM2M5D"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 245780,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/1FGvbfMafLBdymgrtGAZYh"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
-        "name": "Acoustic Caf\u00e9",
-        "url": "https://open.spotify.com/album/73oIIoRDqSC8vpe0z1dFTU"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 280840,
-      "name": "I'm Yours - (From the Casa Nova Sessions)",
-      "url": "https://open.spotify.com/track/1QlWYpD8hrhmS0kDDWwgb8"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2159,6 +2159,22 @@
       "duration_ms": 266626,
       "name": "Let Her Go - Acoustic",
       "url": "https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "The Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU"
+      },
+      "artists": [
+        {
+          "name": "Noah Guthrie",
+          "url": "https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3"
+        }
+      ],
+      "duration_ms": 233377,
+      "name": "Set Fire To The Rain",
+      "url": "https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2231,8 +2247,8 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
+        "name": "Send Me on My Way (Acoustic)",
+        "url": "https://open.spotify.com/album/1iAVTWqne8RsvIoicto48v"
       },
       "artists": [
         {
@@ -2240,9 +2256,9 @@
           "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
         }
       ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
+      "duration_ms": 187812,
+      "name": "Send Me on My Way (Acoustic)",
+      "url": "https://open.spotify.com/track/61tV4cFi7ECPLVdmcoTTf9"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2279,22 +2295,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "The Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU"
-      },
-      "artists": [
-        {
-          "name": "Noah Guthrie",
-          "url": "https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3"
-        }
-      ],
-      "duration_ms": 233377,
-      "name": "Set Fire To The Rain",
-      "url": "https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Stolen Dance",
         "url": "https://open.spotify.com/album/0Qt0bpaJqOxRqDy3eiGXAO"
       },
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Send Me on My Way (Acoustic)",
-        "url": "https://open.spotify.com/album/1iAVTWqne8RsvIoicto48v"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 187812,
-      "name": "Send Me on My Way (Acoustic)",
-      "url": "https://open.spotify.com/track/61tV4cFi7ECPLVdmcoTTf9"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0w8ZP4LJNTahWf43STWyIA"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 174360,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/5FwD0r8W7XSBtXc7Jb4HuC"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
     },
     {
       "added_at": "2026-03-17 11:56:41",

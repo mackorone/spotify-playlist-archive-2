@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153 likes - 199 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,154 likes - 199 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 70 | [Change Your Mind](https://open.spotify.com/track/74age2cUBw5mdUhGGbAtiM) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga](https://open.spotify.com/album/6MUwfeWeo93ZO0WhDFmt6T) | 3:42 |
 | 71 | [STAY WITH ME \- KR Ver.](https://open.spotify.com/track/6Bz2nEZLNYm1hEB3c3upoj) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [RISE](https://open.spotify.com/album/5g83RiFIYU6NlMIF5Wp8kk) | 3:22 |
 | 72 | [Revival \(feat\. Cheat Codes & MAX\)](https://open.spotify.com/track/3y6R5ohBabcdmbvhr1P1xC) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:12 |
-| 73 | [My Love Won't Let You Down](https://open.spotify.com/track/3Ms30cFnM7su9lCdwgnexR) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:54 |
-| 74 | [No\. 1 Obsession](https://open.spotify.com/track/6woglPpa9CWG2WsPrjzS1P) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:05 |
+| 73 | [No\. 1 Obsession](https://open.spotify.com/track/6woglPpa9CWG2WsPrjzS1P) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:05 |
+| 74 | [My Love Won't Let You Down](https://open.spotify.com/track/3Ms30cFnM7su9lCdwgnexR) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:54 |
 | 75 | [One Of Those Days](https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 4:15 |
 | 76 | [Evolve](https://open.spotify.com/track/1GYD0A2nWDmEB0lZp1GvSM) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:22 |
 | 77 | [Make This Song Cry](https://open.spotify.com/track/0iUQMaYF4PijgspAkghWMm) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [KIMBERLY: The People I Used to Know](https://open.spotify.com/album/2nIA5nr4NS4aYi5VWaUn5o) | 3:25 |
@@ -180,8 +180,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 170 | [Sans toi](https://open.spotify.com/track/7jRXuAMoc8mtQiSmG25Ptp) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Instinct](https://open.spotify.com/album/3JcdFdHgLEKvm11FA3Q83o) | 3:01 |
 | 171 | [Happy Birthday Sadness](https://open.spotify.com/track/4a84ine2fh0DOm387eKIf9) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Happy Birthday Sadness](https://open.spotify.com/album/5E9QiRbXT2TKHuirIJdZKa) | 2:59 |
 | 172 | [Time After Time](https://open.spotify.com/track/6aZnSlxQmeChHpuKMmYh0u) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Time After Time](https://open.spotify.com/album/4GpRAwq2wyt7GttDqZGLjA) | 3:33 |
-| 173 | [Go In, Go Hard](https://open.spotify.com/track/4hsxfRX87ev9PJr7Q1r6Vk) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Go In, Go Hard](https://open.spotify.com/album/0q8nigxLnyvnttpDxeaJIR) | 3:43 |
-| 174 | [Love So Big](https://open.spotify.com/track/0L9GHBiMuJqoP5hMScjKl7) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More? \(MORE!\)](https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M) | 2:34 |
+| 173 | [Love So Big](https://open.spotify.com/track/0L9GHBiMuJqoP5hMScjKl7) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More? \(MORE!\)](https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M) | 2:34 |
+| 174 | [Go In, Go Hard](https://open.spotify.com/track/4hsxfRX87ev9PJr7Q1r6Vk) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Go In, Go Hard](https://open.spotify.com/album/0q8nigxLnyvnttpDxeaJIR) | 3:43 |
 | 175 | [Blink](https://open.spotify.com/track/5HDZMVzjLIZ4Vqonax2qEK) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Real Love](https://open.spotify.com/album/0poYRqxEk5KDZREbJXv3lL) | 3:15 |
 | 176 | [Happy And You Know It](https://open.spotify.com/track/4h2WUyIHeiaJSLk7xnReBT) | [Samantha Harvey](https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ) | [Happy And You Know It](https://open.spotify.com/album/2ASwd53DqWKNtHVKoGoUP2) | 3:12 |
 | 177 | [Gazillionaire](https://open.spotify.com/track/0OxyOZVZjmra7k5gJ3Q3IT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell \(Deluxe\)](https://open.spotify.com/album/2RkBBR9ARKnTM4BDptb3tT) | 2:26 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 198 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 199 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `AcT98AAAAADkqK6lDhjm7rCtN4vgZdUi`
+Snapshot ID: `AcUDhgAAAAAwF4FodHLiO2if/AcSp9WO`

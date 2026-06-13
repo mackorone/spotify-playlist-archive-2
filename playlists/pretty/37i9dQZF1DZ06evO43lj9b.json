@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16637,
+  "num_followers": 16638,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAABwqYBG74klg59FQ0lblhCQ",
+  "snapshot_id": "ain6gAAAAAAYtohbyT1VdtYrj+poAElS",
   "tracks": [
     {
       "added_at": null,
@@ -511,38 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red, Black & Green",
-        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 333173,
-      "name": "Papa Was A Rolling Stone",
-      "url": "https://open.spotify.com/track/1PJQ2bQC60SmUqJrRyLDB3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Send Me",
-        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Everytime I See You",
-      "url": "https://open.spotify.com/track/3Ravb8XPBKL6sE2jqStRJf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumentals JID009",
         "url": "https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09"
       },
@@ -567,26 +535,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evolution: The Polydor Anthology",
-        "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
+        "name": "You Send Me",
+        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
       },
       "artists": [
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Dee Dee Bridgewater",
-          "url": "https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI"
-        },
-        {
-          "name": "Wayne Garfield",
-          "url": "https://open.spotify.com/artist/1GetcOtM6fZmV1JPZ1CSlO"
         }
       ],
-      "duration_ms": 180426,
-      "name": "Coffy Is The Color - From The \"Coffy\" Soundtrack",
-      "url": "https://open.spotify.com/track/68zf056H6baAiSGCuaEH2p"
+      "duration_ms": 217866,
+      "name": "Everytime I See You",
+      "url": "https://open.spotify.com/track/3Ravb8XPBKL6sE2jqStRJf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red, Black & Green",
+        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 333173,
+      "name": "Papa Was A Rolling Stone",
+      "url": "https://open.spotify.com/track/1PJQ2bQC60SmUqJrRyLDB3"
     },
     {
       "added_at": null,
@@ -615,18 +591,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red, Black & Green",
-        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+        "name": "Evolution: The Polydor Anthology",
+        "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
       },
       "artists": [
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Dee Dee Bridgewater",
+          "url": "https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI"
+        },
+        {
+          "name": "Wayne Garfield",
+          "url": "https://open.spotify.com/artist/1GetcOtM6fZmV1JPZ1CSlO"
         }
       ],
-      "duration_ms": 334360,
-      "name": "Day Dreaming",
-      "url": "https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8"
+      "duration_ms": 180426,
+      "name": "Coffy Is The Color - From The \"Coffy\" Soundtrack",
+      "url": "https://open.spotify.com/track/68zf056H6baAiSGCuaEH2p"
     },
     {
       "added_at": null,
@@ -647,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roy Ayers Delfonic Reworked #1",
-        "url": "https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy"
+        "name": "Red, Black & Green",
+        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
       },
       "artists": [
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Delfonic",
-          "url": "https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP"
         }
       ],
-      "duration_ms": 241133,
-      "name": "Green and Gold - Delfonic Rework",
-      "url": "https://open.spotify.com/track/42NO5tmaYgn8trdgg6UnhC"
+      "duration_ms": 334360,
+      "name": "Day Dreaming",
+      "url": "https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8"
     },
     {
       "added_at": null,
@@ -691,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red, Black & Green",
-        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+        "name": "Roy Ayers Delfonic Reworked #1",
+        "url": "https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy"
       },
       "artists": [
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Delfonic",
+          "url": "https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP"
         }
       ],
-      "duration_ms": 280466,
-      "name": "Red, Black & Green",
-      "url": "https://open.spotify.com/track/5EnsDu3iwxCIGhCFkDUlkY"
+      "duration_ms": 241133,
+      "name": "Green and Gold - Delfonic Rework",
+      "url": "https://open.spotify.com/track/42NO5tmaYgn8trdgg6UnhC"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 205167,
       "name": "Dangerous Vibes (Emmaculate Remix / Edit)",
       "url": "https://open.spotify.com/track/3amaan7P8O6DbkuFsgjbB9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red, Black & Green",
+        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 280466,
+      "name": "Red, Black & Green",
+      "url": "https://open.spotify.com/track/5EnsDu3iwxCIGhCFkDUlkY"
     },
     {
       "added_at": null,

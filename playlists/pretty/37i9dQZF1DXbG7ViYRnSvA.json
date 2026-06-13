@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 25209,
+  "num_followers": 25207,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "At Home",
-        "url": "https://open.spotify.com/album/6fzJXNScnMnyUiC5o8wz32"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 279453,
-      "name": "Coconut",
-      "url": "https://open.spotify.com/track/2h132oHTFg1aaZPcbSBWAm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Tawk Tomahawk",
         "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 275320,
       "name": "Nakamarra (feat. Q-Tip)",
       "url": "https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "At Home",
+        "url": "https://open.spotify.com/album/6fzJXNScnMnyUiC5o8wz32"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 279453,
+      "name": "Coconut",
+      "url": "https://open.spotify.com/track/2h132oHTFg1aaZPcbSBWAm"
     },
     {
       "added_at": "2022-10-01 16:00:00",

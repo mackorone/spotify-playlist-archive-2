@@ -2,7 +2,7 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: Kehlani
+> Where R&B lives\. Cover: Bryson Tiller
 
 831 songs - 1 day 22 hr 19 min
 

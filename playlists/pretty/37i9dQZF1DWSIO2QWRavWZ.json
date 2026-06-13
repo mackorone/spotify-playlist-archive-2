@@ -1,28 +1,48 @@
 {
-  "description": "New music from your favorite women.  Cover: FLO",
-  "num_followers": 232067,
+  "description": "New music from your favorite women.  Cover: Imani Imani",
+  "num_followers": 232084,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE+E8zRR7krzL/ihm4OQmqUB6dC3",
+  "snapshot_id": "AAAAAKm6fBrgvIo+g/vVNPhqGknbc5A9",
   "tracks": [
     {
       "added_at": "2026-06-05 04:04:03",
       "album": {
-        "name": "Don\u2019t Break Her Heart",
-        "url": "https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY"
+        "name": "Papercut",
+        "url": "https://open.spotify.com/album/5q3xwmFq7Hgfyq6UUCgwpf"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Imani Imani",
+          "url": "https://open.spotify.com/artist/6xVhh5b5hrrFjSjBcSuQRQ"
         }
       ],
-      "duration_ms": 224920,
-      "name": "Don\u2019t Break Her Heart",
-      "url": "https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6"
+      "duration_ms": 161843,
+      "name": "On Demand",
+      "url": "https://open.spotify.com/track/2AvfSSr0Wazcs643jYBzoO"
+    },
+    {
+      "added_at": "2026-06-12 08:13:38",
+      "album": {
+        "name": "A LITTLE VENGEANCE",
+        "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "DUSTY (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
     },
     {
       "added_at": "2026-06-05 04:04:03",
@@ -39,22 +59,6 @@
       "duration_ms": 125278,
       "name": "Recognize",
       "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
-    },
-    {
-      "added_at": "2026-06-05 04:04:03",
-      "album": {
-        "name": "CANDYLAND!",
-        "url": "https://open.spotify.com/album/1c4mq3KrEto6RdMFuFdisO"
-      },
-      "artists": [
-        {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "CANDYLAND!",
-      "url": "https://open.spotify.com/track/2TxEe5Rqfzq5z6JG7eEzlh"
     },
     {
       "added_at": "2026-05-01 07:00:07",
@@ -77,20 +81,52 @@
       "url": "https://open.spotify.com/track/1it6w7qVrXo10od5OMjn7H"
     },
     {
-      "added_at": "2026-06-05 04:04:03",
+      "added_at": "2026-06-12 08:13:38",
       "album": {
-        "name": "Papercut",
-        "url": "https://open.spotify.com/album/5q3xwmFq7Hgfyq6UUCgwpf"
+        "name": "Go To Hell",
+        "url": "https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt"
       },
       "artists": [
         {
-          "name": "Imani Imani",
-          "url": "https://open.spotify.com/artist/6xVhh5b5hrrFjSjBcSuQRQ"
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 161843,
-      "name": "On Demand",
-      "url": "https://open.spotify.com/track/2AvfSSr0Wazcs643jYBzoO"
+      "duration_ms": 208000,
+      "name": "Go To Hell",
+      "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
+    },
+    {
+      "added_at": "2026-06-05 04:04:03",
+      "album": {
+        "name": "Don\u2019t Break Her Heart",
+        "url": "https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 224920,
+      "name": "Don\u2019t Break Her Heart",
+      "url": "https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6"
+    },
+    {
+      "added_at": "2026-06-05 04:04:03",
+      "album": {
+        "name": "CANDYLAND!",
+        "url": "https://open.spotify.com/album/1c4mq3KrEto6RdMFuFdisO"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "CANDYLAND!",
+      "url": "https://open.spotify.com/track/2TxEe5Rqfzq5z6JG7eEzlh"
     },
     {
       "added_at": "2026-06-05 04:04:03",
@@ -125,20 +161,20 @@
       "url": "https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI"
     },
     {
-      "added_at": "2026-06-05 04:04:03",
+      "added_at": "2026-06-12 08:13:38",
       "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/1ZisyqUteFygp1mxrhh6pr"
+        "name": "FIRE BURNIN' THRU THE RAIN",
+        "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
       },
       "artists": [
         {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
         }
       ],
-      "duration_ms": 208695,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/3Xpw079r8oMTfgjCK7dfBB"
+      "duration_ms": 167394,
+      "name": "FIRE BURNIN' THRU THE RAIN",
+      "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
     },
     {
       "added_at": "2026-05-29 04:00:16",
@@ -209,6 +245,38 @@
       "url": "https://open.spotify.com/track/7ktnXbGn8XERn7H3LXWvJG"
     },
     {
+      "added_at": "2026-06-12 08:13:38",
+      "album": {
+        "name": "God Must Really Love Me",
+        "url": "https://open.spotify.com/album/2PgYxXmW7geBRncBAgpzNL"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/5EQFlXjVAQEv39DKvHSmdv"
+    },
+    {
+      "added_at": "2026-06-12 08:13:38",
+      "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/7uSGajdgpb9gFIbrZD5kMd"
+      },
+      "artists": [
+        {
+          "name": "Mai Anna",
+          "url": "https://open.spotify.com/artist/2fTXlJF6M8NKBXu5FBWdDT"
+        }
+      ],
+      "duration_ms": 262941,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/4qMTQM4BzpXCUUZnI9rUnG"
+    },
+    {
       "added_at": "2026-05-22 04:01:55",
       "album": {
         "name": "Map Of Her Shadow",
@@ -223,6 +291,118 @@
       "duration_ms": 181593,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w"
+    },
+    {
+      "added_at": "2026-06-05 04:04:03",
+      "album": {
+        "name": "Seen",
+        "url": "https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ"
+      },
+      "artists": [
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "duration_ms": 213061,
+      "name": "Kill For Us",
+      "url": "https://open.spotify.com/track/28LiTR1zZR1ELe42doTMLD"
+    },
+    {
+      "added_at": "2026-06-12 08:13:38",
+      "album": {
+        "name": "Not So Sweet",
+        "url": "https://open.spotify.com/album/6Zr7GLxnNwy9vVod25bpux"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "duration_ms": 235088,
+      "name": "Not So Sweet",
+      "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
+    },
+    {
+      "added_at": "2026-05-22 04:01:55",
+      "album": {
+        "name": "Left on RED",
+        "url": "https://open.spotify.com/album/5xBGTsaGc3BlKQweyj5PZw"
+      },
+      "artists": [
+        {
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
+        }
+      ],
+      "duration_ms": 145274,
+      "name": "On Sight",
+      "url": "https://open.spotify.com/track/3OQh9gEKxpLttwRfbSoJQQ"
+    },
+    {
+      "added_at": "2026-06-12 08:13:38",
+      "album": {
+        "name": "Wouldn't You Like To Know",
+        "url": "https://open.spotify.com/album/2dgLCpy0RFM2syxoLuCUwz"
+      },
+      "artists": [
+        {
+          "name": "Reign Judge",
+          "url": "https://open.spotify.com/artist/3G7N2G4Gpx0P8uBMu2Sv9v"
+        }
+      ],
+      "duration_ms": 207010,
+      "name": "Wouldn't You Like To Know",
+      "url": "https://open.spotify.com/track/6Cqt0IQ4OJEB0ndMCd7BI5"
+    },
+    {
+      "added_at": "2026-06-12 08:13:38",
+      "album": {
+        "name": "Sweetest Season",
+        "url": "https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 170753,
+      "name": "Sweetest Season",
+      "url": "https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG"
+    },
+    {
+      "added_at": "2026-06-12 08:13:38",
+      "album": {
+        "name": "Sunday Afternoon",
+        "url": "https://open.spotify.com/album/1dQeY1B5fEGOpY8f6heGWY"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "duration_ms": 213375,
+      "name": "Sunday Afternoon",
+      "url": "https://open.spotify.com/track/5xYzP7BZkXSJfVcduPIbqq"
+    },
+    {
+      "added_at": "2026-06-05 04:04:03",
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/1ZisyqUteFygp1mxrhh6pr"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/3Xpw079r8oMTfgjCK7dfBB"
     },
     {
       "added_at": "2026-06-05 04:04:03",
@@ -255,22 +435,6 @@
       "duration_ms": 224826,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/1FIHSjnhz7OtPokWOE7hD1"
-    },
-    {
-      "added_at": "2026-06-05 04:04:03",
-      "album": {
-        "name": "Seen",
-        "url": "https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ"
-      },
-      "artists": [
-        {
-          "name": "Latanya Alberto",
-          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
-        }
-      ],
-      "duration_ms": 213061,
-      "name": "Kill For Us",
-      "url": "https://open.spotify.com/track/28LiTR1zZR1ELe42doTMLD"
     },
     {
       "added_at": "2026-06-05 04:04:03",
@@ -323,22 +487,6 @@
       "duration_ms": 146400,
       "name": "Life is Unfair",
       "url": "https://open.spotify.com/track/4ZUNsrg67FyS47d8eLRV2I"
-    },
-    {
-      "added_at": "2026-05-22 04:01:55",
-      "album": {
-        "name": "Left on RED",
-        "url": "https://open.spotify.com/album/5xBGTsaGc3BlKQweyj5PZw"
-      },
-      "artists": [
-        {
-          "name": "REMI",
-          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
-        }
-      ],
-      "duration_ms": 145274,
-      "name": "On Sight",
-      "url": "https://open.spotify.com/track/3OQh9gEKxpLttwRfbSoJQQ"
     },
     {
       "added_at": "2026-05-29 04:00:16",
@@ -2417,26 +2565,6 @@
       "url": "https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid"
     },
     {
-      "added_at": "2025-10-24 04:00:29",
-      "album": {
-        "name": "love?... or something like it",
-        "url": "https://open.spotify.com/album/25zj1hLmeA7012yPvjstNy"
-      },
-      "artists": [
-        {
-          "name": "Halle",
-          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 241507,
-      "name": "know about me (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6ThcmoM9ZXYyNDm7AqtGTY"
-    },
-    {
       "added_at": "2025-10-10 07:33:06",
       "album": {
         "name": "The Art of Loving",
@@ -2559,58 +2687,6 @@
       "duration_ms": 183499,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "tmwtd",
-        "url": "https://open.spotify.com/album/6HWs956z785ALyfHLkzTYf"
-      },
-      "artists": [
-        {
-          "name": "Jordyn Simone",
-          "url": "https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb"
-        }
-      ],
-      "duration_ms": 193116,
-      "name": "tmwtd",
-      "url": "https://open.spotify.com/track/7zIS9pKDkKQVUedycOP6kK"
-    },
-    {
-      "added_at": "2025-09-26 04:27:04",
-      "album": {
-        "name": "COMPLICATED.",
-        "url": "https://open.spotify.com/album/3wUH9wMv6G0jdmmTFwDdI5"
-      },
-      "artists": [
-        {
-          "name": "Mnelia",
-          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
-        },
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "burn (feat. Tone Stith)",
-      "url": "https://open.spotify.com/track/1MIfNgBZ4IYOnXYSpP88mk"
-    },
-    {
-      "added_at": "2025-09-26 04:27:04",
-      "album": {
-        "name": "Cover Girl",
-        "url": "https://open.spotify.com/album/4SvP99rd8lr8wpDW8p55uq"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 180856,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/13BoUgeUpseJ35EuwuaGwL"
     },
     {
       "added_at": "2025-09-19 16:39:00",

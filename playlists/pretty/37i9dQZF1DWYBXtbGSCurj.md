@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 ### [Trap Ouro](https://open.spotify.com/playlist/37i9dQZF1DWYBXtbGSCurj)
 
-> O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Cashley
+> O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: KayG
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,067 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,178 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

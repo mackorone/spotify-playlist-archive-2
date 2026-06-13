@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,455 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,534 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 40 | [Si Tu No Estas](https://open.spotify.com/track/6cZ1wwLjxLgLqLlX6zuVkl) | [Sergio Torres y Los Dueños Del Swing](https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [A Pura Sangre](https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz) | 4:54 |
 | 41 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 |
 | 42 | [Te Soñé una Vez](https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD) | [Simplemente Naguel](https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh) | [Simplemente Nagüel](https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh) | 3:01 |
-| 43 | [Perra](https://open.spotify.com/track/5HgNYJmYucAPD2UpuQfL3t) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Filarmónica de Santa Fe](https://open.spotify.com/artist/3hNlZvzmCEeSSLBTvwJ7E6) | [Sinfónico 45 Años \- En Vivo](https://open.spotify.com/album/46VxYWDLPoZ9l3RFWQ2iDH) | 4:11 |
-| 44 | [A chillar a otra parte](https://open.spotify.com/track/4XTW9nuDuvGUObvZNpsYZu) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [25 Años \(Deluxe Edition\)](https://open.spotify.com/album/5Br3icgpgWZFf9Z4pKM7qx) | 2:00 |
+| 43 | [A chillar a otra parte](https://open.spotify.com/track/4XTW9nuDuvGUObvZNpsYZu) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [25 Años \(Deluxe Edition\)](https://open.spotify.com/album/5Br3icgpgWZFf9Z4pKM7qx) | 2:00 |
+| 44 | [Perra](https://open.spotify.com/track/5HgNYJmYucAPD2UpuQfL3t) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Filarmónica de Santa Fe](https://open.spotify.com/artist/3hNlZvzmCEeSSLBTvwJ7E6) | [Sinfónico 45 Años \- En Vivo](https://open.spotify.com/album/46VxYWDLPoZ9l3RFWQ2iDH) | 4:11 |
 | 45 | [Tu Cómo Estás](https://open.spotify.com/track/3ys4ck9oSE5NvxGdvVVKXx) | [Sergio Torres y Los Dueños Del Swing](https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [A Pura Sangre](https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz) | 3:38 |
 | 46 | [Una Calle Nos Separa](https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 3:24 |
 | 47 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 |

@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: YongYong\(용용\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,189 songs - 3 day 0 hr 9 min
+1,190 songs - 3 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -862,6 +862,7 @@
 | [SEOUL GIRL ♪ \(feat\. Lee Sung woo\)](https://open.spotify.com/track/5Nl1GOCTsOvGUKYW0DiA8Y) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Lee Sung Woo](https://open.spotify.com/artist/3nqqXiolhMec9F0aC9Bh5J) | [SEOUL GIRL ♪](https://open.spotify.com/album/63Xonf4RTjx10J1t6KhjCh) | 3:07 | 2024-04-30 | 2024-05-10 |
 | [Serenade Blue](https://open.spotify.com/track/0wfmq23ZBILF7kFDahpuTy) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Serenade Blue](https://open.spotify.com/album/2ZfGqm9pflkoHNlZolUgaw) | 4:35 | 2025-08-08 | 2025-09-04 |
 | [Sewer](https://open.spotify.com/track/5GRNf3MJ6uXAIwCapVMAJW) | [Seoyul](https://open.spotify.com/artist/38JkWE7udt33BlClPEOU6Z) | [Sewer](https://open.spotify.com/album/7tcEK9skePgz09OySRCAUL) | 4:02 | 2024-11-06 | 2024-11-30 |
+| [SHADOW](https://open.spotify.com/track/6SrrblihuGeDKOa91OnOFu) | [LEE JAEWOOK](https://open.spotify.com/artist/6x6yUAhXzIgufongB7oL26) | [SHADOW](https://open.spotify.com/album/6muSWdDksJvCmn7S5P4H7t) | 3:28 | 2026-06-12 |  |
 | [Shame On You](https://open.spotify.com/track/48bL0ze0DotIcUS2rQuEyS) | [DOCHI](https://open.spotify.com/artist/71fBNalGQfpvEttt414EIV) | [Shame On You](https://open.spotify.com/album/2SGMfisblO95lG7rMywqz0) | 3:09 | 2022-08-12 | 2022-08-19 |
 | [She](https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [She](https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9) | 3:14 | 2022-04-22 | 2023-12-05 |
 | [She's In The Rain](https://open.spotify.com/track/0TxSk5fpK01cBLV9ePqcE6) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/2rKkvzVCh5GD3yh5BYBJ4a) | 3:57 | 2022-04-12 | 2022-07-29 |
@@ -944,7 +945,7 @@
 | [Summer Was You](https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 4th Mini Album \[Lovestruck\]](https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt) | 3:12 | 2025-06-30 | 2025-10-11 |
 | [Sunburn](https://open.spotify.com/track/0bu7PlYH1oG9HNDFqKuj7x) | [WhiteUsedSocks](https://open.spotify.com/artist/6DOPRiywZshVyewhu0XTbY) | [Sunburn](https://open.spotify.com/album/4NopJoIie2kGycobjMxg1u) | 3:59 | 2024-04-09 | 2024-05-10 |
 | [Sunday7](https://open.spotify.com/track/2pQo1klRNseUPq4p4YU6Yj) | [Lee jinwoo](https://open.spotify.com/artist/4j0FFUQqt7izUZfogx2fvU) | [Sunday7](https://open.spotify.com/album/3iZ7mgY7G1R13ExcI5ykHb) | 3:15 | 2022-04-22 | 2022-04-29 |
-| [Sunshine Bless You](https://open.spotify.com/track/3KQ3fLAkMYyCWQLCi60zeE) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [FLOWERING](https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz) | 3:51 | 2026-04-09 |  |
+| [Sunshine Bless You](https://open.spotify.com/track/3KQ3fLAkMYyCWQLCi60zeE) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [FLOWERING](https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz) | 3:51 | 2026-04-09 | 2026-06-13 |
 | [Sunshine comedy club](https://open.spotify.com/track/1gIwGFcUuiTGO1PpFK5CYB) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Summer Vacation Edition](https://open.spotify.com/album/0uewCcf3M3m0TtKFpp1rl3) | 3:17 | 2025-07-31 | 2025-08-22 |
 | [Sunﬁsh](https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 7th Album 'GROWTH THEORY'](https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm) | 3:38 | 2024-09-02 | 2024-10-25 |
 | [SURF \(The Winning Try : Original Television Soundtrack\)](https://open.spotify.com/track/2czPfQZ5JCwUOBJERa5ljZ) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [The Winning Try OST Part.1](https://open.spotify.com/album/4ylHOz4UUwVwDnJRi7GiaA) | 3:16 | 2025-07-25 | 2025-08-01 |

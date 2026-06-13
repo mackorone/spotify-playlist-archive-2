@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano. Greeicy en portada",
+  "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano. ROBI y Wisin en portada",
   "name": "Flow Tranqui",
   "tracks": [
     {
@@ -698,7 +698,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 182496,
       "name": "AM",
       "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
@@ -4229,6 +4229,28 @@
     },
     {
       "album": {
+        "name": "En bucle",
+        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255875,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/12QOz99BmQf6niecivifM7"
+    },
+    {
+      "album": {
         "name": "FLORES",
         "url": "https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw"
       },
@@ -4564,7 +4586,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 181395,
       "name": "GROSER\u00cdAS",
       "url": "https://open.spotify.com/track/28A6f2ofNfhcbqjP4HxumT"
@@ -4687,6 +4709,24 @@
     },
     {
       "album": {
+        "name": "HAPPY \ud83e\udebd",
+        "url": "https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136007,
+      "name": "HAPPY \ud83e\udebd",
+      "url": "https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt"
+    },
+    {
+      "album": {
         "name": "HASTA ABAJO",
         "url": "https://open.spotify.com/album/2eM85kZYl1Lz7tjp0MTGo1"
       },
@@ -4754,7 +4794,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 180881,
       "name": "HASTA QUE ME ENAMORO",
       "url": "https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l"
@@ -5304,7 +5344,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 225270,
       "name": "Kilerito",
       "url": "https://open.spotify.com/track/3kGMgEDHQoWykByLL6Jut3"
@@ -6692,7 +6732,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 175631,
       "name": "Magia",
       "url": "https://open.spotify.com/track/03HmTwrG2zX0EAXMnMKaPB"
@@ -7460,7 +7500,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 188600,
       "name": "Mira Como Me Tienes",
       "url": "https://open.spotify.com/track/1A6uHSqJuqFPZX9RSAbfr0"
@@ -7660,7 +7700,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 158750,
       "name": "MUJERON",
       "url": "https://open.spotify.com/track/5k25eY71eKcGLJ7szb669M"
@@ -10353,6 +10393,28 @@
     },
     {
       "album": {
+        "name": "sorry si soy GRRRIS",
+        "url": "https://open.spotify.com/album/5nypepH4BfZG3INIDyLqiE"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204656,
+      "name": "Se me hace imposible olvidarte :(",
+      "url": "https://open.spotify.com/track/2nl9wkN8LfiQN6feen3HUX"
+    },
+    {
+      "album": {
         "name": "Gitana Kamp, Vol. I",
         "url": "https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2"
       },
@@ -12652,7 +12714,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 171428,
       "name": "YATES Y OLAS",
       "url": "https://open.spotify.com/track/5jAfQMsi6LijMv8OIOwdiz"
@@ -12840,7 +12902,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 168266,
       "name": "\u00bfQue Te Pas\u00f3?",
       "url": "https://open.spotify.com/track/6TyzdTASQrRujdjPP93AJe"

@@ -4,7 +4,7 @@
 
 > Nieuw: Giegd, Donson, Veertien en meer..
 
-619 songs - 1 day 2 hr 38 min
+620 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1 Voor De Money](https://open.spotify.com/track/30IzllhL2C7P2fOd34NNVW) | [Gilly](https://open.spotify.com/artist/5P6kllyzE7PLpjJECO5LnN), [Mosta Man](https://open.spotify.com/artist/2PGjtFV1GlVW6P5XXWpc6Y) | [1 Voor De Money](https://open.spotify.com/album/1t3LX443ehW5vNAYaJ7Xd0) | 2:34 | 2025-07-17 | 2025-08-29 |
 | [10.000 Vragen](https://open.spotify.com/track/73rj9Y6AuDfsXoVPfGGCmQ) | [Burkeys](https://open.spotify.com/artist/43OU5L8Wx3q4hSkooXrfaJ) | [10.000 Vragen](https://open.spotify.com/album/4qBP2TWMT2PBIMeSkcNoBH) | 2:02 | 2026-04-23 |  |
 | [10/10](https://open.spotify.com/track/7xgngrNmopJ549obUdrt7V) | [Mxxdy](https://open.spotify.com/artist/6xP9NJZcCjv4mbWMbyHQ8s) | [10/10](https://open.spotify.com/album/3Hn1DqMMR58OnTKmd8tt2S) | 3:54 | 2026-02-05 | 2026-03-20 |
+| [100 bricks](https://open.spotify.com/track/79V0ak67W2S4Rqjh4QLxqn) | [Bastosz](https://open.spotify.com/artist/6CtxmUMNLxhOEPh1S1mY4g) | [100 bricks](https://open.spotify.com/album/3v8cVjf0mzfSvtybfGn0UI) | 2:50 | 2026-06-11 |  |
 | [100.000 Mistakes](https://open.spotify.com/track/3NXJXHUMrd3Hj3bAlPKaOj) | [Tramo](https://open.spotify.com/artist/6iScCoy2D7zw7MLWNZETTb), [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Curved](https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr) | [100.000 Mistakes](https://open.spotify.com/album/0ikY46np7sr8m4dH4Wr12k) | 2:08 | 2025-10-31 | 2025-12-05 |
 | [1001 BARZ](https://open.spotify.com/track/4qIcCNNlz4WukuFAIIKvVg) | [MNTANA](https://open.spotify.com/artist/4ZkZCAS32lgrazURD5G52C) | [1001 BARZ](https://open.spotify.com/album/4rc8YDTXGVNSmPm1MtikIL) | 4:53 | 2025-07-17 | 2025-08-29 |
 | [101](https://open.spotify.com/track/5iagAmyHevYQhpBRFRiJ0F) | [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [101](https://open.spotify.com/album/1ZFICtj5yKkg6cXk9A4bU7) | 2:32 | 2025-08-14 | 2025-09-26 |
@@ -398,6 +399,7 @@
 | [Niet Als Ik](https://open.spotify.com/track/6Yuarkvu1lGFxjeZsYF5N3) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC), [Kili](https://open.spotify.com/artist/6A9qX1ebPIWADHzSSOGh8S), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Niet Als Ik](https://open.spotify.com/album/6SGFOb9kvLfvSdTTzFxAsj) | 2:24 | 2025-07-17 | 2025-08-15 |
 | [Niet Geven](https://open.spotify.com/track/2B53g8fU6OmblMdgaV4cmg) | [Stackz](https://open.spotify.com/artist/7JaoaPra85ySxiAoKeAUQS), [Vk](https://open.spotify.com/artist/1MFAuPu6RxxiK2DZR9PEDJ), [73RB](https://open.spotify.com/artist/3Dmnj37t2lC7tpMp983MJc), [73 De Pijp](https://open.spotify.com/artist/12iyh851ZpgQQ0iPIKefFJ), [Kaijoeyy](https://open.spotify.com/artist/5Ibp4CHqfwCHUgpdKVHbZN) | [Niet Geven](https://open.spotify.com/album/44uiJvk5unMsFNR7eI5Vb4) | 2:01 | 2026-01-29 | 2026-02-27 |
 | [Niet Gewoon](https://open.spotify.com/track/3d0oO5PkEgwgOveqKcWMo8) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK) | [Niet Gewoon](https://open.spotify.com/album/2ahYB0y9zVwNVXP6HMiF78) | 2:47 | 2025-10-23 | 2025-11-28 |
+| [Niet Meer Uit Het Veld Te Slaan](https://open.spotify.com/track/1qHhh32pwxoQAEeiuAefai) | [Brunzyn](https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9) | [B\-Elftal](https://open.spotify.com/album/0dmQxkArc75K2N9lwn573i) | 2:41 | 2026-06-11 |  |
 | [Niet Regular](https://open.spotify.com/track/5WboEjeHdnQWs8BM4VctWg) | [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr), [Webb](https://open.spotify.com/artist/0HiavH73VhiAkavoAAOLUD) | [Niet Regular](https://open.spotify.com/album/2eJYGKqVoEAEQDDsFUTxP6) | 2:58 | 2026-03-05 | 2026-04-17 |
 | [Niet Thuis Kom](https://open.spotify.com/track/7hjRcD50o3MX2UStKJUc4N) | [FOCUS](https://open.spotify.com/artist/4LPnjKJNGs4iU3gVbP2fUn), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Niet Thuis Kom](https://open.spotify.com/album/1xm4OmIkkn9zZtl5QeWkpx) | 2:00 | 2025-10-16 | 2025-11-28 |
 | [Niet Wat Het Was](https://open.spotify.com/track/1M27sYhpE9DMwj9jeELE8D) | [MRD](https://open.spotify.com/artist/1Ph1cqOn7flTxltVNis2l9) | [Niet Wat Het Was](https://open.spotify.com/album/4Pgf06QZMuzY2j7rNRmKBc) | 2:02 | 2026-01-22 | 2026-02-27 |
@@ -538,7 +540,6 @@
 | [Toxic](https://open.spotify.com/track/3mBKRgw8M1OHdgwAslBC1o) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Toxic](https://open.spotify.com/album/2wfF5J2pyHe1E4FlArcD5m) | 2:51 | 2026-02-26 | 2026-04-17 |
 | [TOXIC FIGHT](https://open.spotify.com/track/7abfIdlVR9lOV1PzsE3VjH) | [JLYONN](https://open.spotify.com/artist/3Sr8yFID3x8uvwq89Hg0z5), [Casso](https://open.spotify.com/artist/1yIaBf7VXDKcoIDGLoTMae) | [TOXIC FIGHT](https://open.spotify.com/album/572NkUumEViHVAeqK0SrvZ) | 2:43 | 2026-01-08 | 2026-02-13 |
 | [Traangas](https://open.spotify.com/track/5qSMTV0h230E9fMdQSw5xn) | [247Loosey](https://open.spotify.com/artist/6uaH5YMYW84lVDWbBFWk2x) | [Traangas](https://open.spotify.com/album/709gHo2vPrViEzGyLCIVyc) | 2:16 | 2026-05-28 |  |
-| [Track 3](https://open.spotify.com/track/1qHhh32pwxoQAEeiuAefai) | [Brunzyn](https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9) | [B\-Elftal](https://open.spotify.com/album/0dmQxkArc75K2N9lwn573i) | 0:00 | 2026-06-11 |  |
 | [Tranen \(feat\. Zeno\)](https://open.spotify.com/track/6YJyBs1vCRxAz9Y0nXUS6h) | [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9), [Zeno](https://open.spotify.com/artist/3DzZYAqD6HAy1XVai7Udb8) | [Andere Man](https://open.spotify.com/album/4F7HRc2bLbvOWKA2IoOisH) | 3:47 | 2026-01-29 | 2026-02-27 |
 | [Tranen In De Cel](https://open.spotify.com/track/3gVF52Vz9gZrxa1Kj8V3nf) | [ONA](https://open.spotify.com/artist/0qVMZghw6D4igvScey4gaZ) | [Tranen In De Cel](https://open.spotify.com/album/7c2SaKAfNJOt4rniHfwQFx) | 2:58 | 2026-03-04 | 2026-04-17 |
 | [Tranen van geluk](https://open.spotify.com/track/69simOdMpHxNHZbzUCVr1V) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN) | [Tranen van geluk](https://open.spotify.com/album/5b5QGAlnmhpB1ymUyZaAI3) | 2:25 | 2026-03-26 | 2026-05-15 |

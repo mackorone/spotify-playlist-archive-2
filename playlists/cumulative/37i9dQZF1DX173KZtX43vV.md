@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Ayra Starr
 
-931 songs - 1 day 21 hr 30 min
+933 songs - 1 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [24 Hours](https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [24 Hours](https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP) | 3:17 | 2026-05-21 | 2026-06-05 |
 | [25 To Life](https://open.spotify.com/track/07GY2b3PRJGX86M4dEJ4Ob) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM) | [25 To Life](https://open.spotify.com/album/496enUq96C9vB5c3k1fTfM) | 3:01 | 2026-01-16 | 2026-01-30 |
 | [3AM IN LONDON](https://open.spotify.com/track/6JjmWhEUTJubfPJjl5GzHt) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [3AM IN LONDON](https://open.spotify.com/album/6BK2g2jgtrjsQJWOjcykyQ) | 2:14 | 2025-11-14 | 2025-11-21 |
+| [44](https://open.spotify.com/track/39SJPuVarUZXm5tytwxqbt) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2), [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [44](https://open.spotify.com/album/5GcB1Xp84uwf8iu5EMR7wl) | 2:05 | 2026-06-12 |  |
 | [4C](https://open.spotify.com/track/2JZXSSxPJ49MHuY0GuexUN) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [4C](https://open.spotify.com/album/7EnjzadgMEZuvHumi8epdx) | 3:07 | 2025-11-14 | 2025-11-28 |
 | [4ME](https://open.spotify.com/track/06WPSC76RVnS9BB6wbVvgI) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [4ME](https://open.spotify.com/album/54MvfYwhX0EQSIXOXx4EHU) | 1:41 | 2026-05-07 | 2026-05-22 |
 | [6k Followers \- Bonus](https://open.spotify.com/track/4aUh8bdOVGTWsruzjsWOzi) | [Damzz](https://open.spotify.com/artist/0gIUtcSvpmZsNEGo3rusf4) | [Recency Bias V5](https://open.spotify.com/album/5TN0tQHvR7p5L2IkKPPBGq) | 1:46 | 2025-12-19 | 2026-01-16 |
@@ -291,7 +292,7 @@
 | [Eres Mi Sol](https://open.spotify.com/track/2HQh9rfhTNKaXPAQ5pbgGZ) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Eres Mi Sol](https://open.spotify.com/album/5e5ahnfq7I2zFNnHCPzIUM) | 3:16 | 2025-11-07 | 2025-11-14 |
 | [eternity in grace](https://open.spotify.com/track/6ul3fmUSaH8zbeVMVxmTEk) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [BLACKS LAW](https://open.spotify.com/album/3JG5TTWwvr0IEtb5OyKxWe) | 5:09 | 2025-10-31 | 2025-11-14 |
 | [Everest](https://open.spotify.com/track/0XUiK6UHJJP3X7aE8W2Aa9) | [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Everest](https://open.spotify.com/album/77OdE2O0ENIOP87xmqLhvV) | 2:03 | 2026-02-20 | 2026-02-27 |
-| [Everything In Between](https://open.spotify.com/track/28h396yBODu7HoselOtdZy) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Everything In Between](https://open.spotify.com/album/3H6Ef2HYxIGZ0tC6D8ReQ8) | 4:32 | 2026-06-04 |  |
+| [Everything In Between](https://open.spotify.com/track/28h396yBODu7HoselOtdZy) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Everything In Between](https://open.spotify.com/album/3H6Ef2HYxIGZ0tC6D8ReQ8) | 4:32 | 2026-06-04 | 2026-06-13 |
 | [Excusez\-moi](https://open.spotify.com/track/1rWOkxKXtt8oLhCKfdToaR) | [FourNine](https://open.spotify.com/artist/4t5tP3pvrx50ONnbos94lz), [D'larm](https://open.spotify.com/artist/0UkglgJtVtdxyiCWcc410a) | [Excusez\-moi](https://open.spotify.com/album/5uznG0cCdo1pSAk91AoFrG) | 1:56 | 2025-11-14 | 2025-11-21 |
 | [Expensive](https://open.spotify.com/track/09laGbkP9bV49m265Xtx7h) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Expensive](https://open.spotify.com/album/28v8MtvP2x9lmRXA5Imee1) | 3:10 | 2026-01-09 | 2026-01-16 |
 | [Facetime](https://open.spotify.com/track/15PJRwSIxYCtG72eS0lP0i) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Addicted To Nostalgia](https://open.spotify.com/album/14TFuH1XAcLG7DAU0wFWiA) | 2:00 | 2026-03-13 | 2026-03-27 |
@@ -724,7 +725,7 @@
 | [SERIOUS BUSINESS](https://open.spotify.com/track/3SZSE2sFX3eTWnQHGyEzzW) | [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3) | [SERIOUS BUSINESS](https://open.spotify.com/album/7pMv2qxejuovvplUkIGLFN) | 1:55 | 2026-06-11 |  |
 | [SET ME FREE](https://open.spotify.com/track/78QkphRTDf4v56ukEVzpLg) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [SET ME FREE](https://open.spotify.com/album/608WanTETSMRCF4FOpffBV) | 2:44 | 2026-03-27 | 2026-04-10 |
 | [Sex on the Beach](https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sex on the Beach](https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB) | 2:51 | 2025-12-12 | 2026-01-15 |
-| [Sexy Ladies \(feat\. UCB\)](https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [UCB](https://open.spotify.com/artist/65mylvvz3Onn8ZsFQoitfv) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:50 | 2026-06-04 |  |
+| [Sexy Ladies \(feat\. UCB\)](https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [UCB](https://open.spotify.com/artist/65mylvvz3Onn8ZsFQoitfv) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:50 | 2026-06-04 | 2026-06-13 |
 | [SHABA](https://open.spotify.com/track/3Mkn6UjdPtKdySe78jVfxg) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [SHABA](https://open.spotify.com/album/1yQJjYlbpPEsepf57EsyHA) | 2:01 | 2026-04-17 | 2026-05-01 |
 | [shake\_leg](https://open.spotify.com/track/0pdPeMA0ZtA5Pgdfkuh3Z7) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ) | [shake\_leg](https://open.spotify.com/album/2hcRHv6WmZTPxeGIA5EDxh) | 2:17 | 2026-04-10 | 2026-04-25 |
 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 | 2026-04-17 | 2026-05-01 |
@@ -840,6 +841,7 @@
 | [TikTok](https://open.spotify.com/track/3QQJIDLkXedm4tYj8oWmEA) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Carns Hill](https://open.spotify.com/artist/0BKkDZjC4e9k36ZvLM3DAm) | [TikTok](https://open.spotify.com/album/1DTngTdpHT7bjtoOVlAICY) | 2:28 | 2026-02-13 | 2026-02-27 |
 | [Til95](https://open.spotify.com/track/6RhMNlG85piPym1au9zWTZ) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Til95](https://open.spotify.com/album/1wrQ1BOVXdnDFyksxMuC70) | 2:16 | 2026-04-17 | 2026-05-01 |
 | [Till The End](https://open.spotify.com/track/3q6ukSqULG76fWLw0aUByP) | [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Till The End](https://open.spotify.com/album/5HlpevzllLaknAGqlanr92) | 3:33 | 2026-04-30 | 2026-05-08 |
+| [till the wheels fall off](https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [till the wheels fall off](https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm) | 2:49 | 2026-06-12 |  |
 | [Time](https://open.spotify.com/track/6pckSq4XRZGNpJZRXd84ez) | [James Emmanuel](https://open.spotify.com/artist/1V4RGSGobXXjpikiHlO2ex) | [Time](https://open.spotify.com/album/182YLGoathhhGy3V0BlrYO) | 3:43 | 2026-02-27 | 2026-03-06 |
 | [Time](https://open.spotify.com/track/3tPYn1ZloX3n0CgIrQ2eQR) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Last Time](https://open.spotify.com/album/1mdW99tJ6hs7YyPFaO11mI) | 2:41 | 2026-03-06 | 2026-03-20 |
 | [Time It Takes](https://open.spotify.com/track/7sQv9SUALl860ClpWjOKYy) | [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM), [scruz](https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn) | [Time It Takes](https://open.spotify.com/album/1m9LvFkyqQjOjshiGHb3Fz) | 2:31 | 2026-04-30 | 2026-05-08 |

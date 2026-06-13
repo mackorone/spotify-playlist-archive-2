@@ -1,12 +1,12 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 35406,
+  "num_followers": 35416,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAACi1aM2pUD3MMHMNbSftlR9",
+  "snapshot_id": "ain6gAAAAADUzkm4/lDfAdX9nbFLiO6y",
   "tracks": [
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
-        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 232253,
-      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
-      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+      "duration_ms": 232146,
+      "name": "UN DIA (ONE DAY)",
+      "url": "https://open.spotify.com/track/66x45Yh9x397PWpxMX0ZDT"
     },
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "Pens\u00e1ndote",
-      "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Summer Of Love",
         "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 184104,
       "name": "Summer of Love (Shawn Mendes & Tainy)",
       "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "Pens\u00e1ndote",
+      "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
     },
     {
       "added_at": null,
@@ -791,26 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
-        "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/7wQzePffBw59BtLjJULfel"
       },
       "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
         {
           "name": "Lauren Jauregui",
           "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
         },
         {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 188690,
-      "name": "NADA (with Lauren Jauregui & C. Tangana)",
-      "url": "https://open.spotify.com/track/1HxapZ1SrjH5LoYGz9aA4Z"
+      "duration_ms": 173548,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/5JoV39MFYbvWZwJlxq2722"
     },
     {
       "added_at": null,
@@ -835,22 +831,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/7wQzePffBw59BtLjJULfel"
+        "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
+        "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
       },
       "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
         {
           "name": "Lauren Jauregui",
           "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
         },
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
         }
       ],
-      "duration_ms": 173548,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/5JoV39MFYbvWZwJlxq2722"
+      "duration_ms": 188690,
+      "name": "NADA (with Lauren Jauregui & C. Tangana)",
+      "url": "https://open.spotify.com/track/1HxapZ1SrjH5LoYGz9aA4Z"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Sommer kann kommen 🙂‍↔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,574,414 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,574,525 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 42 | [AKON](https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [MOST VALUABLE PLAYA](https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v) | 2:18 |
 | 43 | [Loosen Up](https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Dawty](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8) | [Loosen Up](https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ) | 3:00 |
 | 44 | [LDNB](https://open.spotify.com/track/5O8HYf2CdbUJIQdd6PzAA7) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [LDNB](https://open.spotify.com/album/2CkZilgAxO2SxIshPTn1RQ) | 2:12 |
-| 45 | [With You \(feat\. Omah Lay\)](https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 |
-| 46 | [Your Body](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [Your Body](https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN) | 3:48 |
+| 45 | [Your Body](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [Your Body](https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN) | 3:48 |
+| 46 | [With You \(feat\. Omah Lay\)](https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 |
 | 47 | [Shabab\(e\)s im VIP](https://open.spotify.com/track/1JjHQ4lfAjbDq7wmOmH9wM) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [grünewürfelflow](https://open.spotify.com/album/4abdDHSZaiXkvPBlFD5cnv) | 1:55 |
 | 48 | [Sorry Papi](https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Sorry Papi](https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk) | 2:50 |
 | 49 | [Crazy For It](https://open.spotify.com/track/0nZUQdt97RJ429I0FuAO2r) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Vinson](https://open.spotify.com/artist/1ER9vmM8lqAB19a30WwA0b), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Crazy For It](https://open.spotify.com/album/6M1Ll5Gwpeyvpc0xYmhTT1) | 4:10 |

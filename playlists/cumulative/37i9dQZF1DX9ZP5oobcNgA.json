@@ -504,6 +504,44 @@
     {
       "album": {
         "name": "Vivaldi: Gloria / Handel: Dixit Dominus",
+        "url": "https://open.spotify.com/album/6UHOc5x250EPfUKKvx4fT0"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Angela Kazimierczuk",
+          "url": "https://open.spotify.com/artist/29ooH5TakUn2iNafnJUT8u"
+        },
+        {
+          "name": "Katherine Fuge",
+          "url": "https://open.spotify.com/artist/0A67d1Kg9y0mNiX4zUuw9b"
+        },
+        {
+          "name": "Monteverdi Choir",
+          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255693,
+      "name": "Dixit Dominus, HWV 232: Die Torrente in via bibet",
+      "url": "https://open.spotify.com/track/6bxf6pkgSmAAOrD24ZOa7Z"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: Gloria / Handel: Dixit Dominus",
         "url": "https://open.spotify.com/album/7pikDMmSZjD9jw2wEi2oqC"
       },
       "artists": [
@@ -614,44 +652,6 @@
       "duration_ms": 255693,
       "name": "Dixit Dominus, HWV 232: Die Torrente in via bibet",
       "url": "https://open.spotify.com/track/4tjILrO9lD8DC5ExpE520A"
-    },
-    {
-      "album": {
-        "name": "Vivaldi: Gloria / Handel: Dixit Dominus",
-        "url": "https://open.spotify.com/album/6UHOc5x250EPfUKKvx4fT0"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Angela Kazimierczuk",
-          "url": "https://open.spotify.com/artist/29ooH5TakUn2iNafnJUT8u"
-        },
-        {
-          "name": "Katherine Fuge",
-          "url": "https://open.spotify.com/artist/0A67d1Kg9y0mNiX4zUuw9b"
-        },
-        {
-          "name": "The Monteverdi Choir",
-          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        }
-      ],
-      "date_added": "2020-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 255693,
-      "name": "Dixit Dominus, HWV 232: Die Torrente in via bibet",
-      "url": "https://open.spotify.com/track/6bxf6pkgSmAAOrD24ZOa7Z"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Doja Cat. The essential tracks, all in one playlist.",
-  "num_followers": 1099316,
+  "num_followers": 1099377,
   "original_name": "This Is Doja Cat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAAAhtqIFo/OO0IqCVVhGC2E9",
+  "snapshot_id": "ain6gAAAAAAm8GIObYLUMz+Gq8urgAKP",
   "tracks": [
     {
       "added_at": null,
@@ -698,15 +698,11 @@
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 224468,
-      "name": "Take Me Dancing (feat. SZA)",
-      "url": "https://open.spotify.com/track/3jYMt6j13zQGXfFLaO3BKv"
+      "duration_ms": 223227,
+      "name": "Cards",
+      "url": "https://open.spotify.com/track/3C5yxZTCcDOi4pnFEnKJdC"
     },
     {
       "added_at": null,
@@ -778,11 +774,15 @@
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 223227,
-      "name": "Cards",
-      "url": "https://open.spotify.com/track/3C5yxZTCcDOi4pnFEnKJdC"
+      "duration_ms": 224468,
+      "name": "Take Me Dancing (feat. SZA)",
+      "url": "https://open.spotify.com/track/3jYMt6j13zQGXfFLaO3BKv"
     },
     {
       "added_at": null,

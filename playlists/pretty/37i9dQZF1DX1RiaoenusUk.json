@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 35046,
+  "num_followers": 35051,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -999,22 +999,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Afromama Jams",
-        "url": "https://open.spotify.com/album/5eLwYeM4bFzNhPiIPC4FiC"
+        "name": "Sedas",
+        "url": "https://open.spotify.com/album/0c8UFEPW3g6roJR38IUh2x"
       },
       "artists": [
         {
-          "name": "Afromama",
-          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
-        },
-        {
-          "name": "Low97",
-          "url": "https://open.spotify.com/artist/2y0suU2ggVXoogAbliPZD7"
+          "name": "SEDA",
+          "url": "https://open.spotify.com/artist/6nCnKNt7CTOHzLPyWn3sHl"
         }
       ],
-      "duration_ms": 183651,
-      "name": "Afromama Jams",
-      "url": "https://open.spotify.com/track/1tf8i6ceZQkUSi5LhNXG2q"
+      "duration_ms": 168375,
+      "name": "Sedas",
+      "url": "https://open.spotify.com/track/3pB89Vp80LDCGEuXdIvbG0"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1055,18 +1051,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Sedas",
-        "url": "https://open.spotify.com/album/0c8UFEPW3g6roJR38IUh2x"
+        "name": "Afromama Jams",
+        "url": "https://open.spotify.com/album/5eLwYeM4bFzNhPiIPC4FiC"
       },
       "artists": [
         {
-          "name": "SEDA",
-          "url": "https://open.spotify.com/artist/6nCnKNt7CTOHzLPyWn3sHl"
+          "name": "Afromama",
+          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
+        },
+        {
+          "name": "Low97",
+          "url": "https://open.spotify.com/artist/2y0suU2ggVXoogAbliPZD7"
         }
       ],
-      "duration_ms": 168375,
-      "name": "Sedas",
-      "url": "https://open.spotify.com/track/3pB89Vp80LDCGEuXdIvbG0"
+      "duration_ms": 183651,
+      "name": "Afromama Jams",
+      "url": "https://open.spotify.com/track/1tf8i6ceZQkUSi5LhNXG2q"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
+        "name": "F\u00e1bulas",
+        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
+      },
+      "artists": [
+        {
+          "name": "Alumine",
+          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
+        }
+      ],
+      "duration_ms": 259318,
+      "name": "F\u00e1bulas",
+      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
         "name": "Entr\u00e9gate",
         "url": "https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 223038,
       "name": "Entr\u00e9gate",
       "url": "https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
-        "name": "La Nave",
-        "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
-      },
-      "artists": [
-        {
-          "name": "Fonky Taxi",
-          "url": "https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Todo Atr\u00e1s",
-      "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "F\u00e1bulas",
-        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
+        "name": "La Nave",
+        "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
       },
       "artists": [
         {
-          "name": "Alumine",
-          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
+          "name": "Fonky Taxi",
+          "url": "https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre"
         }
       ],
-      "duration_ms": 259318,
-      "name": "F\u00e1bulas",
-      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
+      "duration_ms": 272373,
+      "name": "Todo Atr\u00e1s",
+      "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
+        "name": "No la Ves",
+        "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 259553,
+      "name": "No la Ves",
+      "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
         "name": "Nada Ser\u00eda Igual",
         "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 203056,
       "name": "Nada Ser\u00eda Igual",
       "url": "https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
-        "name": "No la Ves",
-        "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
-      },
-      "artists": [
-        {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
-        }
-      ],
-      "duration_ms": 259553,
-      "name": "No la Ves",
-      "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
         "name": "7 Am",
         "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
       },
@@ -1471,18 +1487,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
       "artists": [
         {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
         }
       ],
-      "duration_ms": 206142,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
+      "duration_ms": 131315,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 131315,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 210796,
       "name": "Selva",
       "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
-        "name": "Fiestas en las Nubes",
-        "url": "https://open.spotify.com/album/0Tiz6OfXDDjzRoGxvjKa9A"
-      },
-      "artists": [
-        {
-          "name": "INTI GARCIA",
-          "url": "https://open.spotify.com/artist/6xfsqkwKslZM1Ygk9HfKZL"
-        }
-      ],
-      "duration_ms": 162624,
-      "name": "Fiestas en las Nubes",
-      "url": "https://open.spotify.com/track/0so8JhqmYKVsUufgewIASn"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1567,6 +1551,38 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
+      },
+      "artists": [
+        {
+          "name": "Sophie Sobral & Factor Paraca\u00eddas",
+          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Fiestas en las Nubes",
+        "url": "https://open.spotify.com/album/0Tiz6OfXDDjzRoGxvjKa9A"
+      },
+      "artists": [
+        {
+          "name": "INTI GARCIA",
+          "url": "https://open.spotify.com/artist/6xfsqkwKslZM1Ygk9HfKZL"
+        }
+      ],
+      "duration_ms": 162624,
+      "name": "Fiestas en las Nubes",
+      "url": "https://open.spotify.com/track/0so8JhqmYKVsUufgewIASn"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
         "name": "Sepia",
         "url": "https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE"
       },
@@ -1583,18 +1599,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
       "artists": [
         {
-          "name": "Sophie Sobral & Factor Paraca\u00eddas",
-          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
         }
       ],
-      "duration_ms": 210580,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
+      "duration_ms": 161379,
+      "name": "Sujeto a Espacio",
+      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
       },
       "artists": [
         {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+          "name": "Croupier Funk",
+          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
         }
       ],
-      "duration_ms": 161379,
-      "name": "Sujeto a Espacio",
-      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
+      "duration_ms": 230250,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1647,22 +1663,6 @@
       "duration_ms": 466409,
       "name": "No Me Lo Digas (In Session)",
       "url": "https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
-      },
-      "artists": [
-        {
-          "name": "Croupier Funk",
-          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
     }
   ],
   "unique_name": "Nota Funk",

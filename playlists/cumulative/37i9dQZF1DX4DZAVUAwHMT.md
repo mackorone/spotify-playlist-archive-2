@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Tooth
 
-1,417 songs - 3 day 7 hr 25 min
+1,417 songs - 3 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1282,7 +1282,6 @@
 | [tough love](https://open.spotify.com/track/6ERnRiuKn7UoPjnrPIPkj5) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [tough love](https://open.spotify.com/album/5yAFypkqbOtxBzfI4AqQe9) | 4:31 | 2025-09-11 | 2025-10-10 |
 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 | 2025-09-11 | 2025-11-28 |
 | [Tracing Lines](https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Tracing Lines](https://open.spotify.com/album/7EdSp9CD44UYEzHTbWiWBD) | 4:06 | 2025-09-18 | 2026-01-16 |
-| [Track 3](https://open.spotify.com/track/2rDDv4XPcSEr5yGOq02TqI) | [Tooth](https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s) | [Restless in Bloom](https://open.spotify.com/album/7l49pdK2f75zovPPc2XiGE) | 0:00 | 2026-06-11 |  |
 | [trainers](https://open.spotify.com/track/23vLeNNP8fSyjyW8E7ruLg) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [rl stine](https://open.spotify.com/album/1Kr3GUqBV7mcSFLE7UD0AQ) | 2:45 | 2025-10-02 | 2025-10-31 |
 | [Trash Puppy](https://open.spotify.com/track/1ywFs89j3YEMzc69fYRDdZ) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Cream](https://open.spotify.com/album/2QhlzKJweHYmtFZByf51qc) | 3:08 | 2023-11-17 | 2023-11-18 |
 | [Trash Puppy](https://open.spotify.com/track/3oTsGbcgAedlZwLY2425L0) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Cream](https://open.spotify.com/album/6YwvYiSdEW6AULeLF5imiQ) | 3:08 | 2023-11-17 | 2024-01-19 |
@@ -1338,6 +1337,7 @@
 | [Wake Up](https://open.spotify.com/track/2szqpom64gSuUxfd2yD95G) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Wake Up](https://open.spotify.com/album/6PPErGTCPGnPbNpL7mTyMk) | 2:49 | 2025-07-31 | 2025-09-12 |
 | [Walk Through Fire](https://open.spotify.com/track/1Mdmg7rBIqT1FxAge95Xmx) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Walk Through Fire](https://open.spotify.com/album/7vn1PoVj0mi2MgASHVQoYc) | 3:23 | 2024-04-18 | 2024-08-02 |
 | [Walk With Me](https://open.spotify.com/track/3X0Rp5nzDFawTmw1FlwWAP) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Walk With Me](https://open.spotify.com/album/5T4RqzpT6zoWoBA34EowdS) | 3:42 | 2024-03-22 | 2024-06-14 |
+| [Wallflower](https://open.spotify.com/track/2rDDv4XPcSEr5yGOq02TqI) | [Tooth](https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s) | [Restless in Bloom](https://open.spotify.com/album/7l49pdK2f75zovPPc2XiGE) | 3:21 | 2026-06-11 |  |
 | [Wants Needs](https://open.spotify.com/track/6OqZgmzppG0NVx3nPwpH6W) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Wants Needs](https://open.spotify.com/album/6r3i5ywHkqFmc2iiBFXdhc) | 4:58 | 2025-01-17 | 2025-02-07 |
 | [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 | 2023-04-13 | 2023-07-07 |
 | [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-01-20 | 2023-04-14 |

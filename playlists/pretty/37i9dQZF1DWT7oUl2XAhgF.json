@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 398532,
+  "num_followers": 398624,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACXswBS+9fk+SYb94Sd4UdDh4rXx",
+  "snapshot_id": "AAAAAORdstIxk50GhitDSSi74rTt87z8",
   "tracks": [
     {
       "added_at": "2026-06-05 04:00:37",
@@ -39,6 +39,26 @@
       "duration_ms": 276786,
       "name": "Chauffeur",
       "url": "https://open.spotify.com/track/53XFu5ZXPyldc3MtfxEkDq"
+    },
+    {
+      "added_at": "2026-06-12 04:00:24",
+      "album": {
+        "name": "1-2-3 / Nothing Is Forever",
+        "url": "https://open.spotify.com/album/0jRm8fEqcK9yYs310DX1pW"
+      },
+      "artists": [
+        {
+          "name": "Oliver James",
+          "url": "https://open.spotify.com/artist/5chX1kh7r17quJf2Bqkejy"
+        },
+        {
+          "name": "The Gripsweats",
+          "url": "https://open.spotify.com/artist/6tFUAdGM0jUjbElEb50xRn"
+        }
+      ],
+      "duration_ms": 241534,
+      "name": "Nothing Is Forever",
+      "url": "https://open.spotify.com/track/1dPtILRZaQtukHGMQ8VsF5"
     },
     {
       "added_at": "2026-05-29 04:00:37",
@@ -1615,38 +1635,6 @@
       "duration_ms": 213204,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/78HIwSM6qwt31B17hISEDP"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Champagne Pink Convertible",
-        "url": "https://open.spotify.com/album/5R3ed7kpdEqaWOGhRAWS52"
-      },
-      "artists": [
-        {
-          "name": "The Alex Opal Outfit",
-          "url": "https://open.spotify.com/artist/612YJjBnm5H6J9djarFtiq"
-        }
-      ],
-      "duration_ms": 212003,
-      "name": "Champagne Pink Convertible",
-      "url": "https://open.spotify.com/track/1jtMie6Lh5Je7uWTazXJmi"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Don't Take Me As A Fool",
-        "url": "https://open.spotify.com/album/1eEciSKr834k5dtjOBS1g2"
-      },
-      "artists": [
-        {
-          "name": "Thee Heart Tones",
-          "url": "https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ"
-        }
-      ],
-      "duration_ms": 232177,
-      "name": "Don't Take Me As A Fool",
-      "url": "https://open.spotify.com/track/2NmG3EqUzGPI1n8W1lSbN8"
     },
     {
       "added_at": "2024-09-06 04:00:00",

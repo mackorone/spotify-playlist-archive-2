@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "English songs from Indian artists.\nCover: Prateek Kuhad",
+  "description": "English songs from Indian artists.\nCover: Tsumyoki",
   "name": "Indian Indie English",
   "tracks": [
     {
@@ -7828,6 +7828,24 @@
       "duration_ms": 213004,
       "name": "You",
       "url": "https://open.spotify.com/track/7MKPH1DSB6ye0Gc5dwFndS"
+    },
+    {
+      "album": {
+        "name": "YOU & I",
+        "url": "https://open.spotify.com/album/6ACvsqMzHVyV5wqBQENL95"
+      },
+      "artists": [
+        {
+          "name": "Tsumyoki",
+          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "YOU & I",
+      "url": "https://open.spotify.com/track/5Xh2acs1loFylWR0Q1ROhT"
     },
     {
       "album": {

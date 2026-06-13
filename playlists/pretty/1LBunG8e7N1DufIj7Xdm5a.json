@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAI3MHT9Mhq8JFh8/Uy7Py60IPmyoGd",
+  "snapshot_id": "AAAI3p+Ecy7tmihPECU32dyirpZon5e0",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -73639,6 +73639,42 @@
       "duration_ms": 213420,
       "name": "Drop It",
       "url": "https://open.spotify.com/track/42PVBtF5l7oduR8hc1MV6u"
+    },
+    {
+      "added_at": "2026-06-12 12:33:16",
+      "album": {
+        "name": "Plasticity",
+        "url": "https://open.spotify.com/album/6rEjOfBQkbwlkExPpHSisG"
+      },
+      "artists": [
+        {
+          "name": "The Rift",
+          "url": "https://open.spotify.com/artist/20XC0kNuHwNw2w2R0mDolP"
+        }
+      ],
+      "duration_ms": 292067,
+      "name": "Plasticity",
+      "url": "https://open.spotify.com/track/4mF2Q8tzIODb7sGbKFdbOp"
+    },
+    {
+      "added_at": "2026-06-12 14:03:05",
+      "album": {
+        "name": "Pi\u00f9 Vicini al Cielo",
+        "url": "https://open.spotify.com/album/2NSBRvmswoVucTOLRUFKzJ"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        },
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "duration_ms": 201306,
+      "name": "Pi\u00f9 Vicini al Cielo",
+      "url": "https://open.spotify.com/track/2BAhnHQKWm5vM3q1QTrLsl"
     }
   ],
   "unique_name": "playlist spotify free",

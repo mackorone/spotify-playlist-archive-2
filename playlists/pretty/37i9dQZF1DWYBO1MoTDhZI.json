@@ -1,12 +1,12 @@
 {
   "description": "Olivia Dean keeps the good vibes going all day long",
-  "num_followers": 3636466,
+  "num_followers": 3636487,
   "original_name": "Good Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPYc3pJRhZuj+c5yVMYGFX8Fb4vu",
+  "snapshot_id": "AAAAAMp/1uFEoxaL6F+RH7OrmoR3st4J",
   "tracks": [
     {
       "added_at": "2026-05-01 04:15:26",
@@ -183,6 +183,26 @@
       "duration_ms": 168767,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
+    },
+    {
+      "added_at": "2026-06-12 15:17:26",
+      "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 215062,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
     },
     {
       "added_at": "2026-05-01 04:15:26",
@@ -583,22 +603,6 @@
       "duration_ms": 226373,
       "name": "\u00c9coute Ch\u00e9rie",
       "url": "https://open.spotify.com/track/0qPRYrfn8GqotCTTd5YnhB"
-    },
-    {
-      "added_at": "2026-05-01 04:15:26",
-      "album": {
-        "name": "KISSBURN",
-        "url": "https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT"
-      },
-      "artists": [
-        {
-          "name": "Bye Parula",
-          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
-        }
-      ],
-      "duration_ms": 192904,
-      "name": "KISSBURN",
-      "url": "https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU"
     },
     {
       "added_at": "2026-05-01 04:15:26",

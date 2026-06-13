@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [16/25](https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [16/25](https://open.spotify.com/album/4znYlCMGbRfMp3nwJfzir9) | 2:31 | 2025-09-12 |  |
+| [16/25](https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [16/25](https://open.spotify.com/album/4znYlCMGbRfMp3nwJfzir9) | 2:31 | 2025-09-12 | 2026-06-13 |
 | [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-02-25 | 2022-06-18 |
 | [3AM](https://open.spotify.com/track/4luxOEfutsNhpklD0kox93) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [3AM](https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA) | 4:10 | 2025-09-12 | 2026-06-07 |
 | [4737 Jefferson](https://open.spotify.com/track/3QtsttVVr6FHdeNulglh15) | [Alien Eyelid](https://open.spotify.com/artist/75GJnidAzq7t14Vv8Fv1Y9) | [4737 Jefferson](https://open.spotify.com/album/6jBQT8Y8Zbi4iI5yqll1CE) | 3:36 | 2023-04-07 | 2023-06-03 |
@@ -259,7 +259,7 @@
 | [Expendables](https://open.spotify.com/track/6P1uUvOD9m6uoyblKlRK28) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Expendables](https://open.spotify.com/album/2k0kblfQyMpcgwYoaPNpOw) | 2:18 | 2023-01-27 | 2023-04-02 |
 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 | 2023-07-14 | 2026-05-02 |
 | [Eyes](https://open.spotify.com/track/4IixKf4WnlQ56QPwHchEO5) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Mushroom Death Sex Bummer Party](https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9) | 1:30 | 2022-08-16 | 2023-10-21 |
-| [Factory](https://open.spotify.com/track/7L3Swbzvjy2QDwoLOsrJSX) | [Suitor](https://open.spotify.com/artist/5lTMfAl2DtVBQLtoOVHxty) | [Saw You Out with the Weeds](https://open.spotify.com/album/5owsbvTr7nrBK24Gjrqw1L) | 3:51 | 2026-05-01 | 2026-06-09 |
+| [Factory](https://open.spotify.com/track/7L3Swbzvjy2QDwoLOsrJSX) | [Suitor](https://open.spotify.com/artist/5lTMfAl2DtVBQLtoOVHxty) | [Saw You Out with the Weeds](https://open.spotify.com/album/5owsbvTr7nrBK24Gjrqw1L) | 3:51 | 2026-05-01 |  |
 | [Fairlies](https://open.spotify.com/track/4MP3R0itL0A32onspZXcur) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Fairlies](https://open.spotify.com/album/2RqKDuT19SRie1ff3bpT8D) | 4:10 | 2023-05-22 | 2024-07-31 |
 | [Fairlies](https://open.spotify.com/track/5GxHieECgT7L3Uo92HHUef) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Chaos For The Fly](https://open.spotify.com/album/0lYFv5JDwH0NwiufmU4GKj) | 4:10 | 2023-09-15 | 2024-04-19 |
 | [Fake Friends](https://open.spotify.com/track/5K8gMQd5drKhBK2nLr9DqZ) | [Tom Lumley & the Brave Liaison](https://open.spotify.com/artist/5t6sNqReVYRyKIL0M1VqzT) | [Fake Friends](https://open.spotify.com/album/5BxxFfPozthI7c79nna6Hx) | 3:22 | 2021-10-07 | 2022-06-18 |

@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 522435,
+  "num_followers": 522593,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 260399,
+      "name": "Yes Sir, That's My Baby",
+      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
         "name": "Desafinado",
         "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 171240,
       "name": "You Make Me Feel so Young",
       "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 260399,
-      "name": "Yes Sir, That's My Baby",
-      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Witchcraft",
-        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 156546,
-      "name": "(How Little It Matters) How Little We Know",
-      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "It's All Right!",
         "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 170053,
       "name": "It's All Right",
       "url": "https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "Witchcraft",
+        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 156546,
+      "name": "(How Little It Matters) How Little We Know",
+      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 390173,
-      "name": "Sunday Mornin'",
-      "url": "https://open.spotify.com/track/1vk8IJceUSsnEycyXnLHr4"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "It's Time For Ernestine",
         "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "I Got Rhythm",
-        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
       },
       "artists": [
         {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
         }
       ],
-      "duration_ms": 249480,
-      "name": "Stompin' At The Savoy - 1956 Version",
-      "url": "https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar"
+      "duration_ms": 390173,
+      "name": "Sunday Mornin'",
+      "url": "https://open.spotify.com/track/1vk8IJceUSsnEycyXnLHr4"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -1111,6 +1095,22 @@
       "duration_ms": 229596,
       "name": "Lips Can Lie",
       "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "I Got Rhythm",
+        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 249480,
+      "name": "Stompin' At The Savoy - 1956 Version",
+      "url": "https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "The Magic Of Jo Stafford",
-        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 143800,
-      "name": "The Best Things In Life Are Free",
-      "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "How Love Begins (Extended Edition)",
         "url": "https://open.spotify.com/album/7sOSStvEboV0UZOvHO4iHb"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 316987,
       "name": "Two Fish - Alt Take",
       "url": "https://open.spotify.com/track/6kD5DLbXoFVTy4owuDqn3T"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "The Magic Of Jo Stafford",
+        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 143800,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Delightfulee",
-        "url": "https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 334626,
-      "name": "Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "Markham Sunrise",
         "url": "https://open.spotify.com/album/0rgY5ot2AlZrAwXJhVyChZ"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 193373,
       "name": "Markham Sunrise",
       "url": "https://open.spotify.com/track/7u9obPhFU5UqeWBksk56lP"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "Delightfulee",
+        "url": "https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 334626,
+      "name": "Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
+        "name": "They Say It's Spring",
+        "url": "https://open.spotify.com/album/26t0RAPIJ1p8bq7l0IbSnQ"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 200720,
+      "name": "They Say It's Spring",
+      "url": "https://open.spotify.com/track/26HrzzmXbYEK6ImWVAd11A"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
         "name": "Dimples",
         "url": "https://open.spotify.com/album/5cC7x4dTPPH5jPluPfPvKA"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 312626,
       "name": "A Dab Of This And That",
       "url": "https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
-        "name": "They Say It's Spring",
-        "url": "https://open.spotify.com/album/26t0RAPIJ1p8bq7l0IbSnQ"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 200720,
-      "name": "They Say It's Spring",
-      "url": "https://open.spotify.com/track/26HrzzmXbYEK6ImWVAd11A"
     },
     {
       "added_at": "2026-05-29 09:14:40",

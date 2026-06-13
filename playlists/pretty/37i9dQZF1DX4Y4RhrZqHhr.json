@@ -1,6 +1,6 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 1316917,
+  "num_followers": 1317577,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
@@ -287,26 +287,6 @@
     {
       "added_at": "2026-06-09 16:05:19",
       "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
-    },
-    {
-      "added_at": "2026-06-09 16:05:19",
-      "album": {
         "name": "Globalization",
         "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 236253,
       "name": "Fireball (feat. John Ryan)",
       "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
+    },
+    {
+      "added_at": "2026-06-09 16:05:19",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
       "added_at": "2026-06-09 16:05:19",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-06-09 16:05:19",
       "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2026-06-09 16:05:19",
+      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 195431,
       "name": "DIE TRYING",
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
-    },
-    {
-      "added_at": "2026-06-09 16:05:19",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "added_at": "2026-06-09 16:05:19",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-06-09 16:05:19",
       "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "I Had Some Help (Feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-    },
-    {
-      "added_at": "2026-06-09 16:05:19",
-      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2026-06-09 16:05:19",
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
       "added_at": "2026-06-09 16:05:19",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-06-09 16:05:19",
       "album": {
-        "name": "Call on Me (Radio Mix)",
-        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call on Me - Radio Mix",
-      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
-    },
-    {
-      "added_at": "2026-06-09 16:05:19",
-      "album": {
         "name": "On The Floor",
         "url": "https://open.spotify.com/album/543NK5YT3RjGmP7nFzWJPm"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 230906,
       "name": "On The Floor - Radio Edit",
       "url": "https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW"
+    },
+    {
+      "added_at": "2026-06-09 16:05:19",
+      "album": {
+        "name": "Call on Me (Radio Mix)",
+        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call on Me - Radio Mix",
+      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
     },
     {
       "added_at": "2026-06-09 16:05:19",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-06-09 16:05:19",
       "album": {
-        "name": "Bag Raiders (Deluxe)",
-        "url": "https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo"
-      },
-      "artists": [
-        {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Shooting Stars",
-      "url": "https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x"
-    },
-    {
-      "added_at": "2026-06-09 16:05:19",
-      "album": {
         "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
         "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 163804,
       "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
       "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
+    },
+    {
+      "added_at": "2026-06-09 16:05:19",
+      "album": {
+        "name": "Bag Raiders (Deluxe)",
+        "url": "https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Shooting Stars",
+      "url": "https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x"
     },
     {
       "added_at": "2026-06-09 16:05:19",
@@ -2095,26 +2095,6 @@
     {
       "added_at": "2026-06-09 16:05:19",
       "album": {
-        "name": "Neverender",
-        "url": "https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "Neverender",
-      "url": "https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"
-    },
-    {
-      "added_at": "2026-06-09 16:05:19",
-      "album": {
         "name": "Some Say (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
       },
@@ -2131,6 +2111,26 @@
       "duration_ms": 186878,
       "name": "Some Say - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
+    },
+    {
+      "added_at": "2026-06-09 16:05:19",
+      "album": {
+        "name": "Neverender",
+        "url": "https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Neverender",
+      "url": "https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"
     },
     {
       "added_at": "2026-06-09 16:05:19",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2026-06-09 16:05:19",
       "album": {
-        "name": "Sun Is Shining (Remixes)",
-        "url": "https://open.spotify.com/album/4l8hxXnWvWObUZEuyWzyjs"
-      },
-      "artists": [
-        {
-          "name": "Funkstar De Luxe",
-          "url": "https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Sun Is Shining - De Luxe Edit",
-      "url": "https://open.spotify.com/track/1Fka6XCbSxs4ElXQOe28xf"
-    },
-    {
-      "added_at": "2026-06-09 16:05:19",
-      "album": {
         "name": "Magic In The Air",
         "url": "https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 167804,
       "name": "Magic In The Air",
       "url": "https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ"
+    },
+    {
+      "added_at": "2026-06-09 16:05:19",
+      "album": {
+        "name": "Sun Is Shining (Remixes)",
+        "url": "https://open.spotify.com/album/4l8hxXnWvWObUZEuyWzyjs"
+      },
+      "artists": [
+        {
+          "name": "Funkstar De Luxe",
+          "url": "https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Sun Is Shining - De Luxe Edit",
+      "url": "https://open.spotify.com/track/1Fka6XCbSxs4ElXQOe28xf"
     },
     {
       "added_at": "2026-06-09 16:05:19",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2026-06-09 16:05:19",
       "album": {
-        "name": "Sofia",
-        "url": "https://open.spotify.com/album/6efJeGbPeyAkm2vXgq2nuw"
-      },
-      "artists": [
-        {
-          "name": "vonce",
-          "url": "https://open.spotify.com/artist/39ikAO5hhcTbDvGv2ndjbW"
-        }
-      ],
-      "duration_ms": 153461,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/30uXgQ9zhjkYL0h5cqsaDz"
-    },
-    {
-      "added_at": "2026-06-09 16:05:19",
-      "album": {
         "name": "that's my beach!",
         "url": "https://open.spotify.com/album/5k7qkM1p2MhUi4ES3uTtd6"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 198750,
       "name": "that's my beach!",
       "url": "https://open.spotify.com/track/1MtlL1N2wTI08qiMjcwEu7"
+    },
+    {
+      "added_at": "2026-06-09 16:05:19",
+      "album": {
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/6efJeGbPeyAkm2vXgq2nuw"
+      },
+      "artists": [
+        {
+          "name": "vonce",
+          "url": "https://open.spotify.com/artist/39ikAO5hhcTbDvGv2ndjbW"
+        }
+      ],
+      "duration_ms": 153461,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/30uXgQ9zhjkYL0h5cqsaDz"
     },
     {
       "added_at": "2026-06-09 16:05:19",

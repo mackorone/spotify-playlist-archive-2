@@ -6775,6 +6775,24 @@
     },
     {
       "album": {
+        "name": "Rise Against My Broken Odds",
+        "url": "https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139967,
+      "name": "Gimmie A Kiss",
+      "url": "https://open.spotify.com/track/6yix8Ae4pF6CnycCv7Nr52"
+    },
+    {
+      "album": {
         "name": "Girls Have Fun (feat. G-Eazy & Rich The Kid)",
         "url": "https://open.spotify.com/album/1KLUE6sVMdRUxD3MRUyS0M"
       },
@@ -17394,7 +17412,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 169411,
       "name": "Trunk Beating",
       "url": "https://open.spotify.com/track/6FMJaIukbFPr8BK9iVLWoT"

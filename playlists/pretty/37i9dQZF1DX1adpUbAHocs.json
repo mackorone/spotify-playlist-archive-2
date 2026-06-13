@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 635123,
+  "num_followers": 635065,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,38 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Drop Stop Roll",
+        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Drop Stop Roll",
+      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 319840,
+      "name": "Family and Genus",
+      "url": "https://open.spotify.com/track/5lJ1NMNz6ymwdaL9aejm8e"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -371,38 +403,6 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 319840,
-      "name": "Family and Genus",
-      "url": "https://open.spotify.com/track/5lJ1NMNz6ymwdaL9aejm8e"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Drop Stop Roll",
-        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Drop Stop Roll",
-      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 212674,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "why does everything make me cry?",
         "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 181306,
       "name": "leave flowers",
       "url": "https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 212674,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz"
     }
   ],
   "unique_name": "Scenic Route",

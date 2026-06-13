@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Naomi Scott
 
-551 songs - 1 day 7 hr 9 min
+553 songs - 1 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All That I Need](https://open.spotify.com/track/1YEc4P48PIWSPNip6FaI3T) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY), [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [All That I Need](https://open.spotify.com/album/6Bi5mLTgH9zeVRmYb4AmCo) | 3:42 | 2022-10-14 | 2025-05-03 |
 | [AM Gold](https://open.spotify.com/track/6ttjTA8589PqK8DF9SBEC7) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [AM Gold](https://open.spotify.com/album/1zTCggliz6km8kM63FIqI9) | 2:49 | 2022-02-18 | 2023-02-16 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-02-18 | 2026-04-11 |
+| [An Unfinished Love Song](https://open.spotify.com/track/0kdKWz0b2yv71QIjJnAqP7) | [Hannah Hu](https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl) | [The Veil Has Spoken](https://open.spotify.com/album/6a7FVJG6wFnYINUP2uxt6f) | 4:19 | 2026-06-12 |  |
 | [Anyways, I Love You \- Better with Allen](https://open.spotify.com/track/1aIjJsxn7Ctb1sRIdTvJ3t) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Anyways, I Love You \(Better with Allen\)](https://open.spotify.com/album/0UbEkpU5BHk6ylZxp5Ttt4) | 3:46 | 2025-08-15 | 2026-04-18 |
 | [Apollo](https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:43 | 2021-12-03 | 2023-01-28 |
 | [Attitude](https://open.spotify.com/track/2XRk6BH2GZWgA5LJz2ctTD) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [Attitude](https://open.spotify.com/album/3QivixV0Zt47etyNARuXvC) | 2:55 | 2022-01-21 | 2023-03-18 |
@@ -207,7 +208,7 @@
 | [Hey Dreamer](https://open.spotify.com/track/69CMvfnwh6nfmxJDWHWCTN) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Let Yourself Be Loved \(Deluxe Edition\)](https://open.spotify.com/album/7ByoyhgJv2ZtItu6gvLRjM) | 3:39 | 2021-12-03 | 2022-07-29 |
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2023-12-01 | 2024-04-27 |
 | [Higher](https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Higher](https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l) | 2:39 | 2022-09-23 | 2025-11-22 |
-| [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-06-13 |  |
+| [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-06-13 | 2026-06-13 |
 | [Hold Tight](https://open.spotify.com/track/5ufN0FRT3UQXRSq0Ibhbv6) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Brand New](https://open.spotify.com/album/5ZrQWNbnlihJmSmarwa6Nk) | 3:51 | 2021-12-03 | 2022-07-29 |
 | [Holding Pattern](https://open.spotify.com/track/2GkP3qhi30r83OjSzvfIlb) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Boy](https://open.spotify.com/album/5R4MKy2TupcljTY07AcAWv) | 3:56 | 2022-04-29 | 2024-04-19 |
 | [Holding Pattern](https://open.spotify.com/track/47DNjUtdIuDVDbcvO8HGtO) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Boy](https://open.spotify.com/album/1xhTH88GmVGeWkl2R4gB2l) | 3:56 | 2022-04-29 | 2024-07-13 |
@@ -458,6 +459,7 @@
 | [Something Special](https://open.spotify.com/track/2217ssMvgWOyaZmvTWP9IA) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Ezzy](https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu), [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Something Special](https://open.spotify.com/album/1jZ8YbczykhDOgMH8MTzT9) | 2:30 | 2021-12-03 | 2022-07-29 |
 | [Song About You](https://open.spotify.com/track/5pqabyi7lNdgzQ2VEMPbSJ) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Song About You](https://open.spotify.com/album/73zMN2VGr18vJ31eg1jWnx) | 3:56 | 2024-03-15 | 2025-10-11 |
 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 | 2022-04-22 | 2023-02-16 |
+| [Songs About You](https://open.spotify.com/track/2Q2r9GPlQF6d9WdrPDKUtV) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [Songs About You](https://open.spotify.com/album/4fjThpTcrlhAbO8o50vMFc) | 3:37 | 2026-06-12 |  |
 | [SOS I'm In Love](https://open.spotify.com/track/3kF70w7IlIRSHll56WSJeH) | [Maddie Poppe](https://open.spotify.com/artist/2Wda8QEZK7twazWzqDvOdk) | [SOS I'm In Love](https://open.spotify.com/album/1TfVvdnyv7VlZ0I2Xz2Zhk) | 2:51 | 2023-09-01 | 2025-09-06 |
 | [Speed of Light](https://open.spotify.com/track/4X3a6cE8mRHHVKkqLDSK3m) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Speed of Light](https://open.spotify.com/album/2QYOMAjVLhjshBsPvU0xhW) | 3:27 | 2024-05-31 | 2026-04-18 |
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-08-18 | 2026-02-14 |
@@ -501,7 +503,7 @@
 | [The Mess](https://open.spotify.com/track/4PZLI3AGhdUE0CX7KUnjNi) | [Violet Crime](https://open.spotify.com/artist/0uoRAXJYHJ7003T0t0NbX4) | [The Mess](https://open.spotify.com/album/1cjJ60QJJAQCDkj3u06kxU) | 3:35 | 2022-05-20 | 2024-06-01 |
 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [KOKORO](https://open.spotify.com/artist/4gULOUdHcpIdWOO170i4E5) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 | 2025-07-18 |  |
 | [The Only One](https://open.spotify.com/track/7EPtycDSH6iVx1a3Adgy9x) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [The Only One](https://open.spotify.com/album/2cVihQPUCaJb7cHAVvKOsh) | 2:55 | 2023-07-28 | 2026-02-28 |
-| [The Other Piece Of My Heart](https://open.spotify.com/track/7Glllm4Dytz70wdJizyZt6) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [HONEYMOOD](https://open.spotify.com/album/7K9xdvayXXWMHwPdXvNCun) | 2:29 | 2025-08-15 |  |
+| [The Other Piece Of My Heart](https://open.spotify.com/track/7Glllm4Dytz70wdJizyZt6) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [HONEYMOOD](https://open.spotify.com/album/7K9xdvayXXWMHwPdXvNCun) | 2:29 | 2025-08-15 | 2026-06-13 |
 | [The Other Side](https://open.spotify.com/track/1whkfFxtxHalsQt83YfUGH) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face \(Club Deluxe\)](https://open.spotify.com/album/3fD6ZQKymy2oP1t6c8NEOc) | 3:16 | 2024-04-26 | 2026-03-07 |
 | [The Other Side](https://open.spotify.com/track/3LiU0TOvZTzf3qJXXF5bEJ) | [WYATT](https://open.spotify.com/artist/3xAoVcrMl08h9mS8UHsfKM) | [TAKE ME HOME \(Wait Till Dawn\) \- EP](https://open.spotify.com/album/3GauA9rLPf2AIVMVv9pysi) | 3:37 | 2023-09-01 | 2025-01-04 |
 | [The Reason](https://open.spotify.com/track/2SMdyHYWF4YBLJ7olnlcC7) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [The Reason](https://open.spotify.com/album/5VjdVYkbB9hbUHdMgAAgj3) | 2:39 | 2025-01-17 | 2026-05-23 |

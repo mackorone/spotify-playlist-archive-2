@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover:  Voxxes, Sheila Dara
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,928 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,937 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 99 | [Yang Tak Sama](https://open.spotify.com/track/2Bf5Ioyjz1DOx1bCrHG6As) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Yang Tak Sama](https://open.spotify.com/album/7H3GfaIUQP0N461ab0POFd) | 3:52 |
 | 100 | [nulla](https://open.spotify.com/track/30LlunIkCklG8xjlpDKfAH) | [T\. Rucira](https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC) | [nulla, vol.1](https://open.spotify.com/album/4uagI2pWOO8sq0v9vl0V6q) | 3:48 |
 
-Snapshot ID: `AAAAAKObAwYtk9GOiKLJvHw7wIXfv5jW`
+Snapshot ID: `AAAAAG6vaQ/JQ7EduPKZq9kKAPfiinlU`

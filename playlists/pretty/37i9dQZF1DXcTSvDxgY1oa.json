@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Gilly ",
-  "num_followers": 2001,
+  "num_followers": 2000,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "ik wil verliefd zijn op mijn tijd",
-        "url": "https://open.spotify.com/album/0LNJLilA2tOIGkNO9OIMQk"
-      },
-      "artists": [
-        {
-          "name": "Else Lena",
-          "url": "https://open.spotify.com/artist/6z3MeKgMc8aefi1TRFlvbe"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "ik wil verliefd zijn op mijn tijd",
-      "url": "https://open.spotify.com/track/1reHtx3YGzOdOYwuOCJi5x"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Jongens van het Dorp",
         "url": "https://open.spotify.com/album/2HdI3nwl7qMtOj4XD0SP1c"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 125419,
       "name": "Jongens van het Dorp",
       "url": "https://open.spotify.com/track/7KOKjftx3ceSxiK9mVzIdH"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "ik wil verliefd zijn op mijn tijd",
+        "url": "https://open.spotify.com/album/0LNJLilA2tOIGkNO9OIMQk"
+      },
+      "artists": [
+        {
+          "name": "Else Lena",
+          "url": "https://open.spotify.com/artist/6z3MeKgMc8aefi1TRFlvbe"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "ik wil verliefd zijn op mijn tijd",
+      "url": "https://open.spotify.com/track/1reHtx3YGzOdOYwuOCJi5x"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -391,38 +391,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Himel Iepen",
-        "url": "https://open.spotify.com/album/3fyDtT3rsMkqUUh8vr3GY3"
-      },
-      "artists": [
-        {
-          "name": "MAYTE",
-          "url": "https://open.spotify.com/artist/0qSW0N5julVXfIQ3Ql4tHj"
-        }
-      ],
-      "duration_ms": 267840,
-      "name": "Himel Iepen",
-      "url": "https://open.spotify.com/track/6ZPzooqdQ9gddNnor1pGx5"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
-        "name": "Gebruiksaanwijzing",
-        "url": "https://open.spotify.com/album/53LhDdESqVsnqNCvbnVvA7"
-      },
-      "artists": [
-        {
-          "name": "Marieke Schenk",
-          "url": "https://open.spotify.com/artist/0SYFuJ8cP1yG4Xp88SjEcb"
-        }
-      ],
-      "duration_ms": 162321,
-      "name": "Gebruiksaanwijzing",
-      "url": "https://open.spotify.com/track/1eECMIf2lHQAY97FHouysE"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Into pieces",
         "url": "https://open.spotify.com/album/78K1eel50Zt0YEqLbGM17J"
       },
@@ -455,18 +423,34 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Looking At You",
-        "url": "https://open.spotify.com/album/3pV0zX3OgF41eRE3ux9cPj"
+        "name": "Gebruiksaanwijzing",
+        "url": "https://open.spotify.com/album/53LhDdESqVsnqNCvbnVvA7"
       },
       "artists": [
         {
-          "name": "Loeck",
-          "url": "https://open.spotify.com/artist/2U4Qf4bmyxAdEpgM6m8rRk"
+          "name": "Marieke Schenk",
+          "url": "https://open.spotify.com/artist/0SYFuJ8cP1yG4Xp88SjEcb"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Looking At You",
-      "url": "https://open.spotify.com/track/34D9Jl0MzsSelHCUoVMoBG"
+      "duration_ms": 162321,
+      "name": "Gebruiksaanwijzing",
+      "url": "https://open.spotify.com/track/1eECMIf2lHQAY97FHouysE"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Himel Iepen",
+        "url": "https://open.spotify.com/album/3fyDtT3rsMkqUUh8vr3GY3"
+      },
+      "artists": [
+        {
+          "name": "MAYTE",
+          "url": "https://open.spotify.com/artist/0qSW0N5julVXfIQ3Ql4tHj"
+        }
+      ],
+      "duration_ms": 267840,
+      "name": "Himel Iepen",
+      "url": "https://open.spotify.com/track/6ZPzooqdQ9gddNnor1pGx5"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -507,6 +491,22 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
+        "name": "Looking At You",
+        "url": "https://open.spotify.com/album/3pV0zX3OgF41eRE3ux9cPj"
+      },
+      "artists": [
+        {
+          "name": "Loeck",
+          "url": "https://open.spotify.com/artist/2U4Qf4bmyxAdEpgM6m8rRk"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Looking At You",
+      "url": "https://open.spotify.com/track/34D9Jl0MzsSelHCUoVMoBG"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
         "name": "Snelle Planga",
         "url": "https://open.spotify.com/album/1DnQAKM1LkDyrWZAUGwLSQ"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "In My Head Today",
-        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
-      },
-      "artists": [
-        {
-          "name": "Send Me Flowers",
-          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "In My Head Today",
-      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "They Want To See You Fall",
         "url": "https://open.spotify.com/album/0FRCYsUqmSaPQfCzmxWxOM"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 142946,
       "name": "Digital Prison",
       "url": "https://open.spotify.com/track/5kzyEwUCdjtLu7I8sefDu3"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "In My Head Today",
+        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
+      },
+      "artists": [
+        {
+          "name": "Send Me Flowers",
+          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "In My Head Today",
+      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
+        "name": "Cowboy",
+        "url": "https://open.spotify.com/album/4rID2w9JciEcgYWfRGcYjm"
+      },
+      "artists": [
+        {
+          "name": "De Zweefclub",
+          "url": "https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x"
+        }
+      ],
+      "duration_ms": 150173,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/7hnrgxMQqNPALrdUyt5FQK"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
         "name": "Wannabe Superstar",
         "url": "https://open.spotify.com/album/4N27FYKD6EN7wAGshIfFOZ"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Cowboy",
-        "url": "https://open.spotify.com/album/4rID2w9JciEcgYWfRGcYjm"
+        "name": "Hin Orer",
+        "url": "https://open.spotify.com/album/69nnv7jiuaTrvqNFKb2VuO"
       },
       "artists": [
         {
-          "name": "De Zweefclub",
-          "url": "https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x"
+          "name": "Ara",
+          "url": "https://open.spotify.com/artist/7eMq20o4L2IGNOa4AVugMr"
         }
       ],
-      "duration_ms": 150173,
-      "name": "Cowboy",
-      "url": "https://open.spotify.com/track/7hnrgxMQqNPALrdUyt5FQK"
+      "duration_ms": 213167,
+      "name": "Hin Orer",
+      "url": "https://open.spotify.com/track/51ikyUu1Rc7UE73iEGxS8m"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -767,18 +783,18 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Hin Orer",
-        "url": "https://open.spotify.com/album/69nnv7jiuaTrvqNFKb2VuO"
+        "name": "Wele Wele",
+        "url": "https://open.spotify.com/album/330AsVNPy0sX1QlX77bEe9"
       },
       "artists": [
         {
-          "name": "Ara",
-          "url": "https://open.spotify.com/artist/7eMq20o4L2IGNOa4AVugMr"
+          "name": "Nyarko",
+          "url": "https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM"
         }
       ],
-      "duration_ms": 213167,
-      "name": "Hin Orer",
-      "url": "https://open.spotify.com/track/51ikyUu1Rc7UE73iEGxS8m"
+      "duration_ms": 153000,
+      "name": "Wele Wele",
+      "url": "https://open.spotify.com/track/4t4P6Gq8EUHlFpC5PpgJnq"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -847,22 +863,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y"
-      },
-      "artists": [
-        {
-          "name": "JAH",
-          "url": "https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659"
-        }
-      ],
-      "duration_ms": 129333,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/0oYLbiAgKfmqB4PWUMumg1"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Comfort on its Knees",
         "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 288952,
       "name": "Brother Please",
       "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y"
+      },
+      "artists": [
+        {
+          "name": "JAH",
+          "url": "https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/0oYLbiAgKfmqB4PWUMumg1"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Wele Wele",
-        "url": "https://open.spotify.com/album/330AsVNPy0sX1QlX77bEe9"
-      },
-      "artists": [
-        {
-          "name": "Nyarko",
-          "url": "https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Wele Wele",
-      "url": "https://open.spotify.com/track/4t4P6Gq8EUHlFpC5PpgJnq"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Wistful Way",
         "url": "https://open.spotify.com/album/3490a2LWidSgSyEhqdV1Af"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "BAD CHI",
-        "url": "https://open.spotify.com/album/2JbAEBojUAxaRpWdbZNytW"
-      },
-      "artists": [
-        {
-          "name": "Kidd Nebula",
-          "url": "https://open.spotify.com/artist/3ub4ZKV3rL12fXn8LzIhk4"
-        }
-      ],
-      "duration_ms": 223974,
-      "name": "BAD CHI - Single Version",
-      "url": "https://open.spotify.com/track/3c8n1eNgqVgzTdBFrhhPEK"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Make A Wish",
         "url": "https://open.spotify.com/album/0NEDeJj0Knbr5yJxs4Dw5z"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 114260,
       "name": "Nothing Means Anything",
       "url": "https://open.spotify.com/track/0QW8TkIi5e3c5dhBVhA285"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "BAD CHI",
+        "url": "https://open.spotify.com/album/2JbAEBojUAxaRpWdbZNytW"
+      },
+      "artists": [
+        {
+          "name": "Kidd Nebula",
+          "url": "https://open.spotify.com/artist/3ub4ZKV3rL12fXn8LzIhk4"
+        }
+      ],
+      "duration_ms": 223974,
+      "name": "BAD CHI - Single Version",
+      "url": "https://open.spotify.com/track/3c8n1eNgqVgzTdBFrhhPEK"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "ep1",
-        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
-      },
-      "artists": [
-        {
-          "name": "tenderblom",
-          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "fornow",
-      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Please you",
         "url": "https://open.spotify.com/album/6BWRoWNORPpY8CcSpgfv18"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
+        "name": "ep1",
+        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
+      },
+      "artists": [
+        {
+          "name": "tenderblom",
+          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "fornow",
+      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
         "name": "Elusive",
         "url": "https://open.spotify.com/album/3UgScVytbOnforkl8HT2x5"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 187787,
       "name": "Elusive",
       "url": "https://open.spotify.com/track/5vF3crzWldigIceAdkpcNo"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
-        "name": "On Today's Weather Forecast: EVERYTHING ALL AT ONCE",
-        "url": "https://open.spotify.com/album/5UFCUYjHl1GLqnNiRNEGfc"
-      },
-      "artists": [
-        {
-          "name": "Coalmine Canary",
-          "url": "https://open.spotify.com/artist/3ttyYm2zkgPCUuhqaoWiYQ"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "bandnamegenerator",
-      "url": "https://open.spotify.com/track/7mKaQdRtbklBIShjw7ZVLl"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -1183,6 +1167,22 @@
       "duration_ms": 120230,
       "name": "Max",
       "url": "https://open.spotify.com/track/46fRys6UjCRJESL2yv0gcp"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "On Today's Weather Forecast: EVERYTHING ALL AT ONCE",
+        "url": "https://open.spotify.com/album/5UFCUYjHl1GLqnNiRNEGfc"
+      },
+      "artists": [
+        {
+          "name": "Coalmine Canary",
+          "url": "https://open.spotify.com/artist/3ttyYm2zkgPCUuhqaoWiYQ"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "bandnamegenerator",
+      "url": "https://open.spotify.com/track/7mKaQdRtbklBIShjw7ZVLl"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "RE: Hoe vind je zelf dat het gaat",
-        "url": "https://open.spotify.com/album/70Y58TfAmKkrmmCtQE7OCc"
+        "name": "fight 'n kill",
+        "url": "https://open.spotify.com/album/5nl20qK0CAbSLPsO4hIDeb"
       },
       "artists": [
         {
-          "name": "Primaat",
-          "url": "https://open.spotify.com/artist/6J0yzuCa1ID2YLUAk4gT3u"
-        },
-        {
-          "name": "Dracula\u2019s Beach Party",
-          "url": "https://open.spotify.com/artist/4Akg5lhAgidpKeWigYL9j1"
+          "name": "Brian Murphy",
+          "url": "https://open.spotify.com/artist/3NAh0eiBO8uR6RIz4fGErF"
         }
       ],
-      "duration_ms": 265960,
-      "name": "Cavalry\u2019s coming - Cavalerie Remix",
-      "url": "https://open.spotify.com/track/408HYIUmRaYQ2v3kSKGDmW"
+      "duration_ms": 114674,
+      "name": "fight 'n kill",
+      "url": "https://open.spotify.com/track/3k9s5Sj0g0BBbLwc58SEqh"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -1287,6 +1283,42 @@
       "duration_ms": 298693,
       "name": "Snakes and Heartbreak(er)s",
       "url": "https://open.spotify.com/track/3D7n0y3XWg2GKlGrR4Gxw0"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "RE: Hoe vind je zelf dat het gaat",
+        "url": "https://open.spotify.com/album/70Y58TfAmKkrmmCtQE7OCc"
+      },
+      "artists": [
+        {
+          "name": "Primaat",
+          "url": "https://open.spotify.com/artist/6J0yzuCa1ID2YLUAk4gT3u"
+        },
+        {
+          "name": "Dracula\u2019s Beach Party",
+          "url": "https://open.spotify.com/artist/4Akg5lhAgidpKeWigYL9j1"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "Cavalry\u2019s coming - Cavalerie Remix",
+      "url": "https://open.spotify.com/track/408HYIUmRaYQ2v3kSKGDmW"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "dislocated .",
+        "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
+      },
+      "artists": [
+        {
+          "name": "MOR\u00c8L",
+          "url": "https://open.spotify.com/artist/1zDUKnc1MRGN96zvLsHyqq"
+        }
+      ],
+      "duration_ms": 255120,
+      "name": "ozempic tears",
+      "url": "https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -1339,38 +1371,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "dislocated .",
-        "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
-      },
-      "artists": [
-        {
-          "name": "MOR\u00c8L",
-          "url": "https://open.spotify.com/artist/1zDUKnc1MRGN96zvLsHyqq"
-        }
-      ],
-      "duration_ms": 255120,
-      "name": "ozempic tears",
-      "url": "https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
-        "name": "On Top Of The World",
-        "url": "https://open.spotify.com/album/1jqfyWLvx0KxmKqj9gsw43"
-      },
-      "artists": [
-        {
-          "name": "Misha Wong",
-          "url": "https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0"
-        }
-      ],
-      "duration_ms": 164897,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/0ZBODLiUzv1lYDCxpxCtHH"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/7db55fGyJSN2PBidi9pPM1"
       },
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "fight 'n kill",
-        "url": "https://open.spotify.com/album/5nl20qK0CAbSLPsO4hIDeb"
+        "name": "On Top Of The World",
+        "url": "https://open.spotify.com/album/1jqfyWLvx0KxmKqj9gsw43"
       },
       "artists": [
         {
-          "name": "Brian Murphy",
-          "url": "https://open.spotify.com/artist/3NAh0eiBO8uR6RIz4fGErF"
+          "name": "Misha Wong",
+          "url": "https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0"
         }
       ],
-      "duration_ms": 114674,
-      "name": "fight 'n kill",
-      "url": "https://open.spotify.com/track/3k9s5Sj0g0BBbLwc58SEqh"
+      "duration_ms": 164897,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/0ZBODLiUzv1lYDCxpxCtHH"
     },
     {
       "added_at": "2026-06-08 07:57:47",

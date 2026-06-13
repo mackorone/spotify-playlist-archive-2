@@ -542,7 +542,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 173869,
       "name": "An Afternoon Outside",
       "url": "https://open.spotify.com/track/5iAPCfJzHWC3IIMVX1b0xW"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 171717,
       "name": "Branching Spiral",
       "url": "https://open.spotify.com/track/5elH9TFqpMKCbnuNl2zjdx"
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 166682,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/42mPGV6cDZHkPbRoSMzE1A"
@@ -1856,6 +1856,24 @@
       "duration_ms": 125285,
       "name": "Calma Tranquilla",
       "url": "https://open.spotify.com/track/0SC85m5L8K9gES5M3Y4Mqb"
+    },
+    {
+      "album": {
+        "name": "Camas Lily",
+        "url": "https://open.spotify.com/album/1rGYVE8yghXV8EC1050WZf"
+      },
+      "artists": [
+        {
+          "name": "Fabi.",
+          "url": "https://open.spotify.com/artist/0vfz8aLN7UtvWnFlB3DwXG"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131320,
+      "name": "Camas Lily",
+      "url": "https://open.spotify.com/track/461DAGzoGETwtBN1eIVwWK"
     },
     {
       "album": {
@@ -2266,7 +2284,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 132523,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/4e51gz91bIsOjbyOUTRTr3"
@@ -2648,7 +2666,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 143847,
       "name": "Cruiser",
       "url": "https://open.spotify.com/track/3mrr5ViW4tJfvDnEegUYS2"
@@ -4106,7 +4124,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 157098,
       "name": "Eye Contact",
       "url": "https://open.spotify.com/track/1rPXu7NclQYSeEoS37lD1j"
@@ -5695,6 +5713,24 @@
     },
     {
       "album": {
+        "name": "hold back",
+        "url": "https://open.spotify.com/album/1H3HhZQUHcd0zPSaSHixF0"
+      },
+      "artists": [
+        {
+          "name": "Morning life",
+          "url": "https://open.spotify.com/artist/594JjvUBbtG5rOcSd75EYj"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "hold back",
+      "url": "https://open.spotify.com/track/2NAoGSYMbqF7RqY3fl1RcN"
+    },
+    {
+      "album": {
         "name": "holy cows",
         "url": "https://open.spotify.com/album/46GCXSORoBE6MnvIGEg6Yb"
       },
@@ -6012,7 +6048,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 181065,
       "name": "I'd Rather Be Outside",
       "url": "https://open.spotify.com/track/0MRZTYnGKltNKYXyUNdwb3"
@@ -6228,7 +6264,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 141862,
       "name": "inspire",
       "url": "https://open.spotify.com/track/1CuL2X0K0BUV460hf0LUlt"
@@ -7896,7 +7932,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 135345,
       "name": "Metronome",
       "url": "https://open.spotify.com/track/0rbwGwE9IY6xmlyDvM4flh"
@@ -11268,7 +11304,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 156363,
       "name": "Significance",
       "url": "https://open.spotify.com/track/40kOkHN9gj13id2uK3wpmq"
@@ -11419,6 +11455,24 @@
     },
     {
       "album": {
+        "name": "Sin Precio",
+        "url": "https://open.spotify.com/album/2b98AzNDXs8Hmt38L87Zyc"
+      },
+      "artists": [
+        {
+          "name": "Sirio Groves",
+          "url": "https://open.spotify.com/artist/16Q9Vc0g69goXaWvt3r5kb"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144285,
+      "name": "Sin Precio",
+      "url": "https://open.spotify.com/track/6q2LbTkc3ZM5i9UJQ9QIJW"
+    },
+    {
+      "album": {
         "name": "Sip Silence First",
         "url": "https://open.spotify.com/album/24AXzapu7l6d2rPmig66mt"
       },
@@ -11466,7 +11520,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 165566,
       "name": "Skip to the end",
       "url": "https://open.spotify.com/track/1xtTTsvxptXl7CGwB3KQS0"
@@ -12323,6 +12377,24 @@
     },
     {
       "album": {
+        "name": "Stillwater Cabin",
+        "url": "https://open.spotify.com/album/31rQQJVe3h8rX5VkyHO7CO"
+      },
+      "artists": [
+        {
+          "name": "Air Department",
+          "url": "https://open.spotify.com/artist/0wQlA1BmCS2UW36SkMgK6L"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Stillwater Cabin",
+      "url": "https://open.spotify.com/track/3aqqEzR0vAggbp32CdkKi3"
+    },
+    {
+      "album": {
         "name": "Stonemountain",
         "url": "https://open.spotify.com/album/3qGCzsGQtgxBQMj0MeFHFj"
       },
@@ -12698,7 +12770,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 151698,
       "name": "Sunset Boulevard",
       "url": "https://open.spotify.com/track/0AdLzNRBN6uvLafn2NMClc"
@@ -13023,6 +13095,24 @@
     },
     {
       "album": {
+        "name": "Terrace",
+        "url": "https://open.spotify.com/album/0EG3Vyst0i8YHF24WFfHdr"
+      },
+      "artists": [
+        {
+          "name": "Air Department",
+          "url": "https://open.spotify.com/artist/0wQlA1BmCS2UW36SkMgK6L"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145318,
+      "name": "Terrace",
+      "url": "https://open.spotify.com/track/1tUuU1gTyexCLsNX1kjOLv"
+    },
+    {
+      "album": {
         "name": "Terracotta Afternoon",
         "url": "https://open.spotify.com/album/38r6EJzT4hLkUpHFwiprRn"
       },
@@ -13146,7 +13236,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 207079,
       "name": "The Only Way Forward Is Through",
       "url": "https://open.spotify.com/track/4n308Db693dIzCqOFHgvlS"
@@ -14273,6 +14363,24 @@
     },
     {
       "album": {
+        "name": "Vivid Sun",
+        "url": "https://open.spotify.com/album/03U9wcy983LlGrEJO2hPIe"
+      },
+      "artists": [
+        {
+          "name": "Goland",
+          "url": "https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136822,
+      "name": "Vivid Sun",
+      "url": "https://open.spotify.com/track/38JnXkAb2MzcvniBlsGo7W"
+    },
+    {
+      "album": {
         "name": "volcano view",
         "url": "https://open.spotify.com/album/2G2miDSSOobbl2LuiUDE1a"
       },
@@ -14570,6 +14678,24 @@
       "duration_ms": 124200,
       "name": "Whenever",
       "url": "https://open.spotify.com/track/1cOSz8c3vgIuME1acgzac6"
+    },
+    {
+      "album": {
+        "name": "Where Poles Disappear",
+        "url": "https://open.spotify.com/album/0SwFFHT9gE1MgdKhv0XN8T"
+      },
+      "artists": [
+        {
+          "name": "Bare Resonance",
+          "url": "https://open.spotify.com/artist/1fKCu7sONna4yjdFZA4xww"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121385,
+      "name": "Where Poles Disappear",
+      "url": "https://open.spotify.com/track/5lMs3LZ8EelvRnqQ7ECxR1"
     },
     {
       "album": {

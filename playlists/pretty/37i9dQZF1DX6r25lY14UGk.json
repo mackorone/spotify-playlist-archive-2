@@ -1,13 +1,197 @@
 {
-  "description": "New releases for the kids. Cover: Laurie Berkner & MC Grammar",
-  "num_followers": 98140,
+  "description": "New releases for the kids. Cover: Backstreet Boys",
+  "num_followers": 98152,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAChN12u52QDDrtsv6+6r7TCcjkj",
+  "snapshot_id": "AAAAAC1msxiNfWqZvYqlMkI5Job9gOnI",
   "tracks": [
+    {
+      "added_at": "2026-06-12 04:00:57",
+      "album": {
+        "name": "Bottle Up (from PAW Patrol: The Dino Movie)",
+        "url": "https://open.spotify.com/album/76p8b3x5fdwcM6QbhpOFOR"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        },
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Bottle Up - from PAW Patrol: The Dino Movie",
+      "url": "https://open.spotify.com/track/7LAcikXNoHVAQFeEx8caQ2"
+    },
+    {
+      "added_at": "2026-06-12 04:00:57",
+      "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/7IIGaEFyIvyiXfAoze8PsF"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 208540,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6bUCROtu78ifRgxj0PeBT4"
+    },
+    {
+      "added_at": "2026-06-12 04:00:57",
+      "album": {
+        "name": "I'm A Submarine",
+        "url": "https://open.spotify.com/album/19AS7yBeaVBKr7TpYB8YKS"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "duration_ms": 107534,
+      "name": "I'm A Submarine",
+      "url": "https://open.spotify.com/track/0ihOJt7QyaXKq5xmlipNae"
+    },
+    {
+      "added_at": "2026-06-12 04:00:57",
+      "album": {
+        "name": "Footwork Crazy",
+        "url": "https://open.spotify.com/album/5GCu1RDfOKCV2VsW5VNxsN"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "Footwork Crazy",
+      "url": "https://open.spotify.com/track/6NGQ7vAeiLmmQllGuNXosU"
+    },
+    {
+      "added_at": "2026-06-12 04:00:57",
+      "album": {
+        "name": "Lachy's Sparkle Music Machine",
+        "url": "https://open.spotify.com/album/5GYiI0CFvaENj5c6hakhaX"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "duration_ms": 109847,
+      "name": "Lachy's Sparkle Music Machine",
+      "url": "https://open.spotify.com/track/3u240MRJgxb6BYlkYvzxXW"
+    },
+    {
+      "added_at": "2026-06-12 04:00:57",
+      "album": {
+        "name": "Pickles Nursery Rhyme",
+        "url": "https://open.spotify.com/album/7hED7OqnreKaU0flEcgAN1"
+      },
+      "artists": [
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "duration_ms": 56022,
+      "name": "Pickles Nursery Rhyme",
+      "url": "https://open.spotify.com/track/2Vrd0yqw3QlJuCNvj3CUnm"
+    },
+    {
+      "added_at": "2026-06-12 04:00:57",
+      "album": {
+        "name": "The Hoedown Hustle",
+        "url": "https://open.spotify.com/album/1Ipc0ZVMIDkaPEzsyMxb34"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 119400,
+      "name": "The Hoedown Hustle",
+      "url": "https://open.spotify.com/track/0qvyuxBo7lJ7zG3RanOv5k"
+    },
+    {
+      "added_at": "2026-06-12 04:00:57",
+      "album": {
+        "name": "When the Band Comes Marching In",
+        "url": "https://open.spotify.com/album/6UNVnsrzvj5ggQ5jkga8Az"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 196828,
+      "name": "When the Band Comes Marching In",
+      "url": "https://open.spotify.com/track/3WeBc31M5VEJk8IAFEH9vG"
+    },
+    {
+      "added_at": "2026-06-12 04:00:57",
+      "album": {
+        "name": "Sesame Street (Songs from Season 56, Vol. 3)",
+        "url": "https://open.spotify.com/album/2TDgimOXlmuHYmEPXh28mA"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 108866,
+      "name": "On Me Own",
+      "url": "https://open.spotify.com/track/0PXEYldXyR5k02KdkoGHOq"
+    },
+    {
+      "added_at": "2026-06-12 04:00:57",
+      "album": {
+        "name": "The Erie Canal (Low Bridge Song)",
+        "url": "https://open.spotify.com/album/3PyENPjlEafVWjTcmSHHLb"
+      },
+      "artists": [
+        {
+          "name": "Martin and Rose Music",
+          "url": "https://open.spotify.com/artist/61VbOFPL7RIKt0Q1KOykSU"
+        }
+      ],
+      "duration_ms": 124738,
+      "name": "The Erie Canal (Low Bridge Song)",
+      "url": "https://open.spotify.com/track/3iqZMT63FaEYoW4oOHRCuV"
+    },
     {
       "added_at": "2026-06-05 04:00:43",
       "album": {
@@ -1643,182 +1827,6 @@
       "duration_ms": 90283,
       "name": "Oh Susanna",
       "url": "https://open.spotify.com/track/3B4MnKHd5uWAkKMx9IvVse"
-    },
-    {
-      "added_at": "2026-03-20 04:00:42",
-      "album": {
-        "name": "The Land Down Under: Australian Children's Songs & Singalongs",
-        "url": "https://open.spotify.com/album/0iELd8eq78xXtbpLCZfmeV"
-      },
-      "artists": [
-        {
-          "name": "The Countdown Kids",
-          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
-        }
-      ],
-      "duration_ms": 107530,
-      "name": "Kookaburra (Sits in the Old Gum Tree)",
-      "url": "https://open.spotify.com/track/0ukdvzQmbNnaGYHVWUoEK4"
-    },
-    {
-      "added_at": "2026-03-13 04:00:55",
-      "album": {
-        "name": "Sesame Street (Songs from Season 56, Vol. 2)",
-        "url": "https://open.spotify.com/album/3gqnzTjR3GuGgB5saUvxK8"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 65906,
-      "name": "Elmo's Awesome Bike",
-      "url": "https://open.spotify.com/track/3P5Bq6VYZVP4v6jAnCTb1M"
-    },
-    {
-      "added_at": "2026-03-13 04:00:55",
-      "album": {
-        "name": "Hello, We're The Wiggles",
-        "url": "https://open.spotify.com/album/7w5AcI3mYHA6QcGWBpEA5z"
-      },
-      "artists": [
-        {
-          "name": "The Wiggles",
-          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
-        }
-      ],
-      "duration_ms": 124006,
-      "name": "Love's Got The World Jumping",
-      "url": "https://open.spotify.com/track/4C0EAT1xnrQZNOlzrIFtbJ"
-    },
-    {
-      "added_at": "2026-03-13 04:00:55",
-      "album": {
-        "name": "Dinosaur Jetpack",
-        "url": "https://open.spotify.com/album/1rs2aq84Newav8aNF49IYN"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 210634,
-      "name": "Dinosaur Jetpack",
-      "url": "https://open.spotify.com/track/6mvEyehJpbFwc9QZVIlf2H"
-    },
-    {
-      "added_at": "2026-03-13 04:00:55",
-      "album": {
-        "name": "Opalite",
-        "url": "https://open.spotify.com/album/5uiG6J3o6Q7n6d2lb8Z30d"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 232190,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/7FKJfmazFSTkfEx77MYToD"
-    },
-    {
-      "added_at": "2026-03-13 04:00:55",
-      "album": {
-        "name": "Spring Has Come",
-        "url": "https://open.spotify.com/album/7gbyEW6IEc8AKKLZvHF7c9"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Spring Has Come",
-      "url": "https://open.spotify.com/track/3FWmLCZrJQsfxjqcxV6Xc9"
-    },
-    {
-      "added_at": "2026-03-13 04:00:55",
-      "album": {
-        "name": "At the Construction Site",
-        "url": "https://open.spotify.com/album/3T33kzi0F6T0YJnO2N6rTV"
-      },
-      "artists": [
-        {
-          "name": "Caitie's Classroom",
-          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
-        },
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        }
-      ],
-      "duration_ms": 158212,
-      "name": "At the Construction Site",
-      "url": "https://open.spotify.com/track/4JjM96FKqVcxQvJIRjG7Dg"
-    },
-    {
-      "added_at": "2026-03-06 05:00:08",
-      "album": {
-        "name": "I'm a Little Train",
-        "url": "https://open.spotify.com/album/0VdYzHLsWlT0IzFnBGdMvZ"
-      },
-      "artists": [
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        },
-        {
-          "name": "Noodle & Pals",
-          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
-        }
-      ],
-      "duration_ms": 140769,
-      "name": "I'm a Little Train",
-      "url": "https://open.spotify.com/track/6JxZP3sfvsAoWaYWk2Mgb1"
-    },
-    {
-      "added_at": "2026-03-06 05:00:08",
-      "album": {
-        "name": "Broccoli Lovers!",
-        "url": "https://open.spotify.com/album/6n2DNMexPrlFVlFXYw9fXi"
-      },
-      "artists": [
-        {
-          "name": "Snuggle Bunch",
-          "url": "https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv"
-        }
-      ],
-      "duration_ms": 92215,
-      "name": "Broccoli Lovers!",
-      "url": "https://open.spotify.com/track/5b6ND6m1Dh84kmxyn7D4p9"
-    },
-    {
-      "added_at": "2026-03-06 05:00:08",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/3ipDuBgpRobIYIHZFb6VvF"
-      },
-      "artists": [
-        {
-          "name": "Kids Imagine Nation",
-          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
-        },
-        {
-          "name": "Lah-Lah",
-          "url": "https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm"
-        }
-      ],
-      "duration_ms": 96071,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/1wJhcNcdA3ZEWShxmzTMTJ"
     }
   ],
   "unique_name": "New Kids Music",

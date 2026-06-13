@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
-  "num_followers": 52704,
+  "num_followers": 52764,
   "original_name": "This Is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAABqK2YZIEtW0wEySsUhtbzg",
+  "snapshot_id": "ain6gAAAAAB8V3ThIisfBBoT0Y6Hbm1M",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lucky (Deluxe)",
+        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Reasons to Stay",
+      "url": "https://open.spotify.com/track/5OPc2fFtwlMsmhOhFcqAny"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Left Me (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 220695,
       "name": "I'll Be Fine",
       "url": "https://open.spotify.com/track/7r0EPhlEkkKzdLJyPw1wFz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lucky (Deluxe)",
-        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Reasons to Stay",
-      "url": "https://open.spotify.com/track/5OPc2fFtwlMsmhOhFcqAny"
     },
     {
       "added_at": null,

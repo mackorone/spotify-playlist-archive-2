@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592 likes - 317 songs - 17 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,591 likes - 317 songs - 17 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,8 +181,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 171 | [I GUESS THEY CALL IT FALLIN'](https://open.spotify.com/track/6lUpyPbjbjWGDszwpV4eqB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 4:01 |
 | 172 | [Girls Like Sex](https://open.spotify.com/track/74KsTGXDYNCLXyIH6z3KBV) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Near Life Experience Part One](https://open.spotify.com/album/0xpGqHeRXVSovn5VEvgzHA) | 2:45 |
 | 173 | [One by One \(feat\. Mavado\)](https://open.spotify.com/track/53kJsSBbfeldKCLIrVVGms) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:17 |
-| 174 | [Generous](https://open.spotify.com/track/6bgPMgXiSvSxRS6qKn9wK4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Generous](https://open.spotify.com/album/0TCR8wB4v4fstHa3CJmZG4) | 2:44 |
-| 175 | [Make a Toast \- Main](https://open.spotify.com/track/6vzrZFMVEcW27wMHVG41CI) | [Dolla](https://open.spotify.com/artist/5Gc3IYdgY3PVcuf8FPMxDI) | [Make a Toast](https://open.spotify.com/album/6UolNzjrZoRxz5MalSjAj1) | 3:53 |
+| 174 | [Make a Toast \- Main](https://open.spotify.com/track/6vzrZFMVEcW27wMHVG41CI) | [Dolla](https://open.spotify.com/artist/5Gc3IYdgY3PVcuf8FPMxDI) | [Make a Toast](https://open.spotify.com/album/6UolNzjrZoRxz5MalSjAj1) | 3:53 |
+| 175 | [Generous](https://open.spotify.com/track/6bgPMgXiSvSxRS6qKn9wK4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Generous](https://open.spotify.com/album/0TCR8wB4v4fstHa3CJmZG4) | 2:44 |
 | 176 | [Competition \- Single Edit](https://open.spotify.com/track/5l5TamK1eGSUAzBhsutyyk) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Competition](https://open.spotify.com/album/0HNBUptk47vF5IiBBAnmyV) | 3:08 |
 | 177 | [Breakfast](https://open.spotify.com/track/6YBG7TR5OaP9KoCvuTYPPq) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax & Flashbacks \(Track by Track\)](https://open.spotify.com/album/1nFgJpjh2doGfve56uADlm) | 3:24 |
 | 178 | [I CAN'T HELP MYSELF](https://open.spotify.com/track/5NZviEn3DnOa2ZYqP5gIl2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:21 |
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 196 | [Elevate](https://open.spotify.com/track/36WDhBNwVWRJgL3vuaOywU) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Love Center](https://open.spotify.com/album/2y5JTyJ84CYPR2EbFuKDCv) | 4:04 |
 | 197 | [Lungs \- Calibre Remix](https://open.spotify.com/track/0DzMAkZf0mSZQp4UFhhjFz) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Lungs \(Calibre Remix\)](https://open.spotify.com/album/3rQgypEayz3PHKrzSmbZOu) | 4:53 |
 | 198 | [This Is Me Breaking Up With You](https://open.spotify.com/track/17TPi4ydPlmmNDhjdflXdi) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 2:13 |
-| 199 | [Finish What We Started](https://open.spotify.com/track/1n6GQXul5WHhhuvu3mMkJF) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse](https://open.spotify.com/album/4dCYurAtpYbC77cBWt2uIH) | 3:49 |
-| 200 | [Co\-Pilot](https://open.spotify.com/track/6smZCaAKItX6uxvQUUKVnO) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Kristina Maria](https://open.spotify.com/artist/3owOnUCZD2qFcf5RHbv1Zg) | [Les Inséparables](https://open.spotify.com/album/6nbVBDBL2Uk58p2CL48B0Y) | 3:46 |
+| 199 | [Co\-Pilot](https://open.spotify.com/track/6smZCaAKItX6uxvQUUKVnO) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Kristina Maria](https://open.spotify.com/artist/3owOnUCZD2qFcf5RHbv1Zg) | [Les Inséparables](https://open.spotify.com/album/6nbVBDBL2Uk58p2CL48B0Y) | 3:46 |
+| 200 | [Finish What We Started](https://open.spotify.com/track/1n6GQXul5WHhhuvu3mMkJF) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse](https://open.spotify.com/album/4dCYurAtpYbC77cBWt2uIH) | 3:49 |
 | 201 | [Girls in Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 |
 | 202 | [Die On The Dancefloor](https://open.spotify.com/track/5cGCTK7q37dgISC1IYQuS1) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Near Life Experience Part Two](https://open.spotify.com/album/4PQpAZ3UZSuXNDElPQtMNg) | 3:21 |
 | 203 | [h2s \- Bonus track](https://open.spotify.com/track/7KFF8MzCpu1s8zTrHMt3Of) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [my neighbours don't know.](https://open.spotify.com/album/6ou5jov81dSypk2KJOLnCQ) | 4:22 |
@@ -326,4 +326,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 316 | [No Le Digan](https://open.spotify.com/track/5nnUKcHKe4Qm55twZd4hnd) | [Paco](https://open.spotify.com/artist/3TFL2KVdTUeDMCxcGvPm2j) | [Urbano, Latinoamericano](https://open.spotify.com/album/1jrLDQ2dN17YE16I0XlR5f) | 3:50 |
 | 317 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AcT98AAAAABtqPtL2UQfK/Az+QZ/gH0r`
+Snapshot ID: `AcUDhgAAAACv+GHZZ164ZFjPEHZiKYWB`

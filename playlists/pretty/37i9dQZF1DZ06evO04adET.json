@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 856762,
+  "num_followers": 856879,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAACpJPuRwKZKGFCjjvWvp4/+",
+  "snapshot_id": "ain6gAAAAADsCYZm7mt0gOeFPlm5wG1T",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Carlitos",
-      "url": "https://open.spotify.com/track/71YaqakPUZh3cnMYmuE5Oh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corazon Tumbado",
         "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 116455,
       "name": "Seca Tus Lagrimas",
       "url": "https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Carlitos",
+      "url": "https://open.spotify.com/track/71YaqakPUZh3cnMYmuE5Oh"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 216317,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mis 20",
         "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 189243,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/391dJizAzRYufWsrP8SB35"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 216317,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 200050,
+      "name": "Ninguna Como Ella",
+      "url": "https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 184400,
       "name": "Pancake",
       "url": "https://open.spotify.com/track/7ctRhcAiTBQLsH64s93sN4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 200050,
-      "name": "Ninguna Como Ella",
-      "url": "https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe"
     },
     {
       "added_at": null,

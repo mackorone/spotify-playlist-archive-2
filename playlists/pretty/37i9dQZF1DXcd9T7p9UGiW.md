@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 ### [Gone Abroad ](https://open.spotify.com/playlist/37i9dQZF1DXcd9T7p9UGiW)
 
-> Catching flights and going global\. Cover: MOLIY
+> Catching flights and going global\. Cover: Tyla and Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,029 likes - 74 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,045 likes - 74 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 73 | [RAPPER](https://open.spotify.com/track/1bEptGcMhhn1TluieCZegQ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Sounds of the Diaspora 2](https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW) | 3:32 |
 | 74 | [MAMAN PRIE](https://open.spotify.com/track/6oojgcW5Ffo7GkB54vARCh) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [JOŸA](https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O) | 3:42 |
 
-Snapshot ID: `AAAAAEvqFJc1mWcRJiJHEHXIY/F65QuM`
+Snapshot ID: `AAAAAOYQF7P3U2autQCXhf5rlP32JEuO`

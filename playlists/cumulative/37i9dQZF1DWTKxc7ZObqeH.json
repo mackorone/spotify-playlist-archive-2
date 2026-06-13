@@ -2073,6 +2073,24 @@
     },
     {
       "album": {
+        "name": "I Miss Us",
+        "url": "https://open.spotify.com/album/4lYl3a6695pgIdJZRSDbuj"
+      },
+      "artists": [
+        {
+          "name": "Dave Gordon Trio",
+          "url": "https://open.spotify.com/artist/2vQ0rZrPfwWwg0ntFYJzfe"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152658,
+      "name": "I Miss Us",
+      "url": "https://open.spotify.com/track/3mrCcMMnDwnMrZ4RKqbbLU"
+    },
+    {
+      "album": {
         "name": "Desafinado",
         "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 47868,
+  "num_followers": 47883,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAAah/wXtHD1GrFip5gY0ltY",
+  "snapshot_id": "ain6gAAAAABgqTsTFbd68zn0+a7ufEqq",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caramello",
-        "url": "https://open.spotify.com/album/3b1ZGAlTG0Dn81o1D4I8Fn"
+        "name": "Santer\u00eda",
+        "url": "https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy"
       },
       "artists": [
         {
-          "name": "Rocco Hunt",
-          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
-        },
-        {
-          "name": "Elettra Lamborghini",
-          "url": "https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW"
-        },
-        {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
         }
       ],
-      "duration_ms": 197760,
-      "name": "Caramello",
-      "url": "https://open.spotify.com/track/6O1rGDWqL1pgp7H59G2q80"
+      "duration_ms": 184000,
+      "name": "Santer\u00eda",
+      "url": "https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv"
     },
     {
       "added_at": null,
@@ -411,26 +411,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santer\u00eda",
-        "url": "https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy"
+        "name": "Caramello",
+        "url": "https://open.spotify.com/album/3b1ZGAlTG0Dn81o1D4I8Fn"
       },
       "artists": [
         {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        },
+        {
+          "name": "Elettra Lamborghini",
+          "url": "https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW"
+        },
+        {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Santer\u00eda",
-      "url": "https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv"
+      "duration_ms": 197760,
+      "name": "Caramello",
+      "url": "https://open.spotify.com/track/6O1rGDWqL1pgp7H59G2q80"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 192292,
-      "name": "YO TE LLEVO",
-      "url": "https://open.spotify.com/track/1Fa4oDtnqvcXsvtybrJMZ0"
+      "duration_ms": 187161,
+      "name": "MI COLETA",
+      "url": "https://open.spotify.com/track/5qNG1mZvQp3Oq7yOVipssf"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 187161,
-      "name": "MI COLETA",
-      "url": "https://open.spotify.com/track/5qNG1mZvQp3Oq7yOVipssf"
+      "duration_ms": 192292,
+      "name": "YO TE LLEVO",
+      "url": "https://open.spotify.com/track/1Fa4oDtnqvcXsvtybrJMZ0"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KOMBOLEWA (Remix)",
-        "url": "https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST"
-      },
-      "artists": [
-        {
-          "name": "Suzete",
-          "url": "https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 171469,
-      "name": "KOMBOLEWA - Remix",
-      "url": "https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lola Bunny",
         "url": "https://open.spotify.com/album/6ZzTJncT5EwHp5Pa4xwFpS"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 187263,
       "name": "Lola Bunny",
       "url": "https://open.spotify.com/track/7IzbHY75UhGztauT7U5eKb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KOMBOLEWA (Remix)",
+        "url": "https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST"
+      },
+      "artists": [
+        {
+          "name": "Suzete",
+          "url": "https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 171469,
+      "name": "KOMBOLEWA - Remix",
+      "url": "https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 32989,
+  "num_followers": 33005,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
+      },
+      "artists": [
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "I'm So Blessed (Aaron Cole Mix)",
         "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "Long Gone",
-        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
-      },
-      "artists": [
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "Long Gone",
-      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "SEEK",
-        "url": "https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp"
-      },
-      "artists": [
-        {
-          "name": "DC3",
-          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "SEEK",
-      "url": "https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "One Day At A Time",
         "url": "https://open.spotify.com/album/4HNaIUAQzvzWyjEUlDRgN3"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 224992,
       "name": "One Day At A Time",
       "url": "https://open.spotify.com/track/3GztbZYcEJ4hNfqd0Fsx4d"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "SEEK",
+        "url": "https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp"
+      },
+      "artists": [
+        {
+          "name": "DC3",
+          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "SEEK",
+      "url": "https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 213912,
+      "name": "Turbulent Skies",
+      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "HELP!",
         "url": "https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 214200,
       "name": "Meant For Good",
       "url": "https://open.spotify.com/track/3HzNYPLR7TB2PkDak8kVEN"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 213912,
-      "name": "Turbulent Skies",
-      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -763,26 +763,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Sunshine & Laughter",
-        "url": "https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Krisirie",
-          "url": "https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m"
-        }
-      ],
-      "duration_ms": 176239,
-      "name": "Sunshine & Laughter",
-      "url": "https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "True Religion",
         "url": "https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 205448,
       "name": "redeemed",
       "url": "https://open.spotify.com/track/2lkHVcg3Ur0DK0YGR2RFT2"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Sunshine & Laughter",
+        "url": "https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Krisirie",
+          "url": "https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m"
+        }
+      ],
+      "duration_ms": 176239,
+      "name": "Sunshine & Laughter",
+      "url": "https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Easy To Please",
-        "url": "https://open.spotify.com/album/0XoKnV7K6h9yvhxW2gxgx1"
-      },
-      "artists": [
-        {
-          "name": "Gracie Binion",
-          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
-        }
-      ],
-      "duration_ms": 279624,
-      "name": "Easy To Please",
-      "url": "https://open.spotify.com/track/3hRXdLdEsQ2XtAuQlHq6Nz"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "FOUGHT 4 LOVE",
         "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 150000,
       "name": "FOUGHT 4 LOVE",
       "url": "https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Easy To Please",
+        "url": "https://open.spotify.com/album/0XoKnV7K6h9yvhxW2gxgx1"
+      },
+      "artists": [
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        }
+      ],
+      "duration_ms": 279624,
+      "name": "Easy To Please",
+      "url": "https://open.spotify.com/track/3hRXdLdEsQ2XtAuQlHq6Nz"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Hold On Me",
-        "url": "https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 172113,
-      "name": "Hold On Me",
-      "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "Just Got Better",
         "url": "https://open.spotify.com/album/5XcmIJOQk6QH821cjT04tJ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 184046,
       "name": "Just Got Better",
       "url": "https://open.spotify.com/track/1ivpauFFHo56fKDgHZSLWG"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Hold On Me",
+        "url": "https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 172113,
+      "name": "Hold On Me",
+      "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2TskVz0QmXq4ueQYyW36GD"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0bC2r4PRfRYuIBu2ZTQ3Vs"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "Testify",
         "url": "https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 154124,
       "name": "Testify",
       "url": "https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2TskVz0QmXq4ueQYyW36GD"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0bC2r4PRfRYuIBu2ZTQ3Vs"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Song of the Summer",
-        "url": "https://open.spotify.com/album/0hhZ9wE0NXs2h6VsH0A764"
-      },
-      "artists": [
-        {
-          "name": "Abby Robertson",
-          "url": "https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7"
-        }
-      ],
-      "duration_ms": 180229,
-      "name": "Song of the Summer",
-      "url": "https://open.spotify.com/track/3m1hA3gecbWfbEKXYD0V7U"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "Yellow Soul",
         "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 162000,
       "name": "Yellow Soul",
       "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Song of the Summer",
+        "url": "https://open.spotify.com/album/0hhZ9wE0NXs2h6VsH0A764"
+      },
+      "artists": [
+        {
+          "name": "Abby Robertson",
+          "url": "https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7"
+        }
+      ],
+      "duration_ms": 180229,
+      "name": "Song of the Summer",
+      "url": "https://open.spotify.com/track/3m1hA3gecbWfbEKXYD0V7U"
     },
     {
       "added_at": "2026-05-29 08:59:34",

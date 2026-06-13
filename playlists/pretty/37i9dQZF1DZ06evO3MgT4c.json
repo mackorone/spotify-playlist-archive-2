@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 440242,
+  "num_followers": 440251,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAACJB/efP97AVNSEWe+KwSwB",
+  "snapshot_id": "ain6gAAAAABaK3kuWhud7IwWTYL+oHjG",
   "tracks": [
     {
       "added_at": null,
@@ -115,26 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Davis",
-        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 233087,
-      "name": "I Get the Bag (feat. Migos)",
-      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture",
         "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 343150,
       "name": "Bad and Boujee (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Davis",
+        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 233087,
+      "name": "I Get the Bag (feat. Migos)",
+      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
     },
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "Time For Me",
-      "url": "https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture",
         "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 242407,
       "name": "T-Shirt",
       "url": "https://open.spotify.com/track/1rkfJLgTlB6XYNjgZ0sVaK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "Time For Me",
+      "url": "https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r"
     },
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 278191,
-      "name": "Having Our Way (feat. Drake)",
-      "url": "https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture",
         "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 304041,
       "name": "Slippery (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/0TBgMKD86t1VP3IzhxCoUl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 278191,
+      "name": "Having Our Way (feat. Drake)",
+      "url": "https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255023,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/15EH2glphTjcarRjAsc0EB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture",
         "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 363934,
       "name": "Kelly Price (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5Q6DJEgNTiN9xcOQzKmw9F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255023,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/15EH2glphTjcarRjAsc0EB"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 206271,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture",
         "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 257545,
       "name": "Get Right Witcha",
       "url": "https://open.spotify.com/track/2jGEiQ3otr4CPIeBgefjRA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 206271,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 181318,
-      "name": "Gang Gang",
-      "url": "https://open.spotify.com/track/6RKkHI2fkmgZq7uQPPav8f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Racks 2 Skinny",
         "url": "https://open.spotify.com/album/3PASWLvNfvfMF68dDznEgK"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 178024,
       "name": "Racks 2 Skinny",
       "url": "https://open.spotify.com/track/568OIKgeHyGRD3uWR44JbO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 181318,
+      "name": "Gang Gang",
+      "url": "https://open.spotify.com/track/6RKkHI2fkmgZq7uQPPav8f"
     },
     {
       "added_at": null,

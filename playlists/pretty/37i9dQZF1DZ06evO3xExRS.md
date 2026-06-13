@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 
 > This is Hombres G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,001 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,009 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 5 | [Venezia](https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:30 |
 | 6 | [Te quiero](https://open.spotify.com/track/5ULNuAoAozLAc721tRcPbX) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:45 |
 | 7 | [Voy a pasármelo bien](https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Voy A Pasarmelo Bien](https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv) | 3:55 |
-| 8 | [Suéltate el pelo](https://open.spotify.com/track/6ASzF6lnAamXQvWLPa3WDi) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 3:11 |
-| 9 | [Devuélveme a mi chica \- 2015 Remaster](https://open.spotify.com/track/1fAnXKGZR1iRAS9GAfkbIs) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [30 años y un día](https://open.spotify.com/album/2gCKmsAG21Prjee7ooKE4p) | 3:13 |
+| 8 | [Devuélveme a mi chica \- 2015 Remaster](https://open.spotify.com/track/1fAnXKGZR1iRAS9GAfkbIs) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [30 años y un día](https://open.spotify.com/album/2gCKmsAG21Prjee7ooKE4p) | 3:13 |
+| 9 | [Suéltate el pelo](https://open.spotify.com/track/6ASzF6lnAamXQvWLPa3WDi) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 3:11 |
 | 10 | [Marta tiene un marcapasos](https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 2:12 |
 | 11 | [Chico tienes que cuidarte](https://open.spotify.com/track/1gNb7lm1gpL374dBdKAK3R) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Voy A Pasarmelo Bien](https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv) | 4:05 |
 | 12 | [Un par de palabras](https://open.spotify.com/track/1oYZ1XlKVR2l9teqqIsZes) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 49 | [Te Vi \(with Albert Hammond\)](https://open.spotify.com/track/1CnYkECrVRHHfguk01Zn07) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [En La Playa](https://open.spotify.com/album/0oGCqVHaevPFm5mzgTsUsL) | 3:45 |
 | 50 | [Amos del Piano Bar \(feat\. Hombres G\)](https://open.spotify.com/track/68xGtXidF9kdGOoKc5R4yd) | [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Tres Tequilas & Un Mezcal](https://open.spotify.com/album/1UmFGyH0WblA5bxEn9A92E) | 3:16 |
 
-Snapshot ID: `aiipAAAAAACI6C6TBooGp+/ZQ+a9GpAp`
+Snapshot ID: `ain6gAAAAACtJc5VL3uZj95AVkfA8MtT`

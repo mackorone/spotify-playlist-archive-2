@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: Dollypran
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,258 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,352 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SAMEDI \(feat\. Shaw\)](https://open.spotify.com/track/7fZb2RuXEEMnFBW3KNZt7D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:16 |
-| 2 | [Dama](https://open.spotify.com/track/43cOEd6sTJpYlKs5gdiFJx) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Traitement 2](https://open.spotify.com/album/4IK4fAqrL0kHKX0jDdgzi0) | 2:55 |
-| 3 | [LASTIQUE](https://open.spotify.com/track/6bf5KIUKYNUthbNjmsNjNI) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [LASTIQUE](https://open.spotify.com/album/7d78rxurnSiaYayVBVNB6v) | 3:15 |
-| 4 | [LAMARA](https://open.spotify.com/track/2evEgI8mF6pghXh7Vh7lhj) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 2:59 |
+| 1 | [Dama](https://open.spotify.com/track/43cOEd6sTJpYlKs5gdiFJx) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Traitement 2](https://open.spotify.com/album/4IK4fAqrL0kHKX0jDdgzi0) | 2:55 |
+| 2 | [SAMEDI \(feat\. Shaw\)](https://open.spotify.com/track/7fZb2RuXEEMnFBW3KNZt7D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:16 |
+| 3 | [LAMARA](https://open.spotify.com/track/2evEgI8mF6pghXh7Vh7lhj) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 2:59 |
+| 4 | [LASTIQUE](https://open.spotify.com/track/6bf5KIUKYNUthbNjmsNjNI) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [LASTIQUE](https://open.spotify.com/album/7d78rxurnSiaYayVBVNB6v) | 3:15 |
 | 5 | [CANDYSHOP](https://open.spotify.com/track/6USOPDKalJAI5Zcu0T1RNt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:30 |
-| 6 | [DOLORES](https://open.spotify.com/track/203HDScSrKR9GJ2yOwTD07) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:15 |
-| 7 | [Zone De Confort](https://open.spotify.com/track/37yXgJjCGtxlgdUUja8oZH) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Zone De Confort](https://open.spotify.com/album/0g9VI7L7jbsDc80OG822us) | 3:04 |
+| 6 | [Zone De Confort](https://open.spotify.com/track/37yXgJjCGtxlgdUUja8oZH) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Zone De Confort](https://open.spotify.com/album/0g9VI7L7jbsDc80OG822us) | 3:04 |
+| 7 | [DOLORES](https://open.spotify.com/track/203HDScSrKR9GJ2yOwTD07) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:15 |
 | 8 | [Ghalta](https://open.spotify.com/track/6vBzvcFgcTLY8ON2pg1qFK) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [PAVAROTTI X GHALTA](https://open.spotify.com/album/7HOZlpw9TvgwwTcLQhN8F4) | 2:42 |
 | 9 | [ACH DANI](https://open.spotify.com/track/6fzPO0qTuzV33ZQlWTlkel) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MC\-101](https://open.spotify.com/album/42okkFu4lgilYfjHOUOtXV) | 2:57 |
 | 10 | [Baltimore](https://open.spotify.com/track/3THbbrMTNNIkh7zTfJdqJ5) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Traitement 2](https://open.spotify.com/album/4IK4fAqrL0kHKX0jDdgzi0) | 2:55 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 15 | [La Fin](https://open.spotify.com/track/69DMEO4aEvJA0nnT9FNuLV) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Tornado](https://open.spotify.com/album/6uUrTYbVajuE7m4bCVrD3D) | 3:15 |
 | 16 | [caramel](https://open.spotify.com/track/6tkMbt1Huz63gLMpeKIq2V) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [caramel](https://open.spotify.com/album/3gGcSGeSm14NJgUpQA7u7H) | 2:43 |
 | 17 | [Parano](https://open.spotify.com/track/2AFF39DkukQH8csCAzdGXR) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Parano](https://open.spotify.com/album/0w4CLHsQwLk6SEuZWoeG61) | 2:43 |
-| 18 | [KILOWAT](https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:44 |
-| 19 | [Machi M3ana](https://open.spotify.com/track/7gD7d2dcr6kcftmLBHSZWs) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [Machi M3ana](https://open.spotify.com/album/0agRAP2CaWB8QEft37ijFx) | 2:33 |
+| 18 | [Machi M3ana](https://open.spotify.com/track/7gD7d2dcr6kcftmLBHSZWs) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [Machi M3ana](https://open.spotify.com/album/0agRAP2CaWB8QEft37ijFx) | 2:33 |
+| 19 | [KILOWAT](https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:44 |
 | 20 | [ÉVIDEMMENT](https://open.spotify.com/track/2SlYKyAt0flJtDNjQqOwLh) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [ÉVIDEMMENT](https://open.spotify.com/album/2sTrB03DSMttKn9qZs5tc2) | 3:28 |
 | 21 | [Bottega](https://open.spotify.com/track/5P5SfhoiSf4P9MkfeHIAEB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC) | [Bottega](https://open.spotify.com/album/4OYLJaP4aK1mLVNqv9oEyK) | 2:00 |
 | 22 | [OMAR](https://open.spotify.com/track/1EbiUYXaBSCEShyNcuywcl) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [VFC](https://open.spotify.com/track/2DnJBydEt9oiXmavnLqIka) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [VFC](https://open.spotify.com/album/4qfeUdzNGUE6CcyQksttim) | 3:29 |
 | 50 | [KTER MN 10](https://open.spotify.com/track/3KuNDv65JtFJH1Bns3qkPP) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [KTER MN 10](https://open.spotify.com/album/3Y6HHfbV7ducsDdzwfn1lT) | 2:24 |
 
-Snapshot ID: `AAAAACXk+0foMTUUYKWU0bpkqhewHocI`
+Snapshot ID: `AAAAACBvQzDaW+T2PoLMVXAR1CJYN3RT`

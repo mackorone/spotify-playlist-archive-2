@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 160000,
       "name": "a long road",
       "url": "https://open.spotify.com/track/3ZJEXKMR6RVVTVHIt3svj8"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 398265,
       "name": "A Place To Sleep",
       "url": "https://open.spotify.com/track/3IRjaJfl3lNubGbRGXL7et"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 253090,
       "name": "Bathed in Grey",
       "url": "https://open.spotify.com/track/4IOy9rSBZa8UJJ9Wz2ipGa"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 167865,
       "name": "breath under snow",
       "url": "https://open.spotify.com/track/6P0BKhuw2QMczkstDlKOMM"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "Breathing - Short Mix",
       "url": "https://open.spotify.com/track/5cneBSnvxKVhdDErX3TWWp"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 98126,
       "name": "burning memories",
       "url": "https://open.spotify.com/track/6vzpm2Q4NPpuowQG7pNtUg"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 105000,
       "name": "burnout",
       "url": "https://open.spotify.com/track/1lGZ33MXipAvcwikycPCRE"
@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "distant, elsewhere",
+        "url": "https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5"
+      },
+      "artists": [
+        {
+          "name": "kurisu.",
+          "url": "https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150006,
+      "name": "distant, elsewhere",
+      "url": "https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu"
+    },
+    {
+      "album": {
         "name": "do you love me?",
         "url": "https://open.spotify.com/album/2oGrvZG4NUNBCBifQnzBCV"
       },
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 99428,
       "name": "do you love me?",
       "url": "https://open.spotify.com/track/43RHgLTP1lU3THdsqxNCv9"
@@ -1112,7 +1130,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 112615,
       "name": "eclipse",
       "url": "https://open.spotify.com/track/7v6D9mDpewgsnyPjtRqEmc"
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 261849,
       "name": "Even The Horizon Knows Its Bounds VIII",
       "url": "https://open.spotify.com/track/36UNARIup8YwWvqua2DG9T"
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 98644,
       "name": "EXIT",
       "url": "https://open.spotify.com/track/3MsD0d8IKah8MM7Kl50cmV"
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 187863,
       "name": "Fantas Morbida",
       "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
@@ -1416,7 +1434,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 98108,
       "name": "for us",
       "url": "https://open.spotify.com/track/45R6vmTyzezkT5I96ZJUvN"
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 396773,
       "name": "Gold of the Azure - Marconi Union Remix",
       "url": "https://open.spotify.com/track/4QTLMYj1dHVMgIihKvbidY"
@@ -1794,7 +1812,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 117333,
       "name": "her story",
       "url": "https://open.spotify.com/track/0yWZZiE75vuh2kIE3gzqcO"
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 142038,
       "name": "i still remember the first place we met.",
       "url": "https://open.spotify.com/track/1M481wZAR3n4a4QEUQU2Mo"
@@ -1922,7 +1940,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 119600,
       "name": "i was always there for you",
       "url": "https://open.spotify.com/track/6BmYmf6Ns6Wnup6vpKm7SH"
@@ -2048,7 +2066,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 168327,
       "name": "Kaiten",
       "url": "https://open.spotify.com/track/6JQoJ1mnw5nK9zR6UP8umm"
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 157027,
       "name": "let me climb the stars",
       "url": "https://open.spotify.com/track/3AgJcBWoRTnmtJ2JUSmUPj"
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 389530,
       "name": "Lie Beneath the Stars",
       "url": "https://open.spotify.com/track/7ILPkivkaRXqU3A2cZdFAl"
@@ -2200,7 +2218,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 103208,
       "name": "lonely nights",
       "url": "https://open.spotify.com/track/5VdDy30M2oaoaXeYkGz9ST"
@@ -2270,7 +2288,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 90861,
       "name": "losing",
       "url": "https://open.spotify.com/track/6VbCeNW181BuuT1ZymXxQG"
@@ -2288,7 +2306,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 168013,
       "name": "lost in a memory",
       "url": "https://open.spotify.com/track/1Z4ToDnBCYj8dirUlwY9pf"
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 106675,
       "name": "lost in the forest",
       "url": "https://open.spotify.com/track/7nXa1PLguS1cJe1nrYJ321"
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 146619,
       "name": "Melancholic Rain",
       "url": "https://open.spotify.com/track/3gZDbtA8m1hGBUHwVO5wwg"
@@ -2462,7 +2480,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 136054,
       "name": "morning after midnight",
       "url": "https://open.spotify.com/track/5omO0sQ8qJK64CQrC4GoLY"
@@ -2516,7 +2534,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 139200,
       "name": "my last days on earth",
       "url": "https://open.spotify.com/track/2yPZ665zeVWZErn9lNVzKF"
@@ -2552,7 +2570,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 184109,
       "name": "Near Silence",
       "url": "https://open.spotify.com/track/48TdI8BCUcvBlsfm3oZN1K"
@@ -2570,7 +2588,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 194077,
       "name": "Nebel",
       "url": "https://open.spotify.com/track/5eT7cM9qUIZ8ruUkJilnCz"
@@ -2624,7 +2642,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 127792,
       "name": "no good",
       "url": "https://open.spotify.com/track/0K92IEnxQYmD0AByfk1EKZ"
@@ -2660,7 +2678,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 170181,
       "name": "no service",
       "url": "https://open.spotify.com/track/2JfoV8oR2kQH5Zy2YWzIZx"
@@ -2678,7 +2696,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 146064,
       "name": "No Way Out",
       "url": "https://open.spotify.com/track/0ZAOZMZcHZcfw5oNUcjyFh"
@@ -2774,7 +2792,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 117209,
       "name": "nowhere else",
       "url": "https://open.spotify.com/track/6MT4GDbRyctS4852m38kDj"
@@ -2792,7 +2810,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 221813,
       "name": "of folded photographs",
       "url": "https://open.spotify.com/track/3v5uNZ4MV6gV1ZhuuwOiLO"
@@ -2906,7 +2924,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 200059,
       "name": "Perpetual Care",
       "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
@@ -3328,7 +3346,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 145454,
       "name": "silent",
       "url": "https://open.spotify.com/track/2TXXJo8xBzq3eszQkA391r"
@@ -3556,7 +3574,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 276866,
       "name": "Squatter's Quarters",
       "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
@@ -3830,7 +3848,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 101052,
       "name": "the hardest part",
       "url": "https://open.spotify.com/track/1XVbFTUwLmR1znUlprLEEC"
@@ -3866,7 +3884,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 318786,
       "name": "The Marble Eye",
       "url": "https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe"
@@ -3938,7 +3956,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 572189,
       "name": "The Promise of Snakes",
       "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
@@ -4028,7 +4046,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 99493,
       "name": "try to find you",
       "url": "https://open.spotify.com/track/5YflECMsYbbO4ngUIhsCNX"
@@ -4154,7 +4172,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 159000,
       "name": "wake up",
       "url": "https://open.spotify.com/track/1kABbt163rQnhsQ3rElVNu"
@@ -4194,7 +4212,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 126315,
       "name": "what stayed after you left",
       "url": "https://open.spotify.com/track/1qDc9kOiH3F8J8A8X7oZQq"
@@ -4310,6 +4328,24 @@
       "duration_ms": 250833,
       "name": "Whiskey and Wine",
       "url": "https://open.spotify.com/track/0wbtDWO7BNhYgdBEnHhtFB"
+    },
+    {
+      "album": {
+        "name": "wistful",
+        "url": "https://open.spotify.com/album/4Fy5u2f6lY8lNKWbQcDZPJ"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118400,
+      "name": "wistful",
+      "url": "https://open.spotify.com/track/3KNLcoKrxzvGaO3QlI32JY"
     },
     {
       "album": {

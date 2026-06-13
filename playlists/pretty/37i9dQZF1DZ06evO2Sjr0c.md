@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 
 > This is Grateful Dead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,826 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,853 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 2 | [Ripple \- 2013 Remaster](https://open.spotify.com/track/1OE5l6sedVcIFELMuxQOPI) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 4:09 |
 | 3 | [Touch of Grey \- 2013 Remaster](https://open.spotify.com/track/0mJQlCl9YgxW7kyeltNiVk) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [In the Dark](https://open.spotify.com/album/1KytsXm6VQcyX5B5m8HBNa) | 5:50 |
 | 4 | [Fire on the Mountain \- 2013 Remaster](https://open.spotify.com/track/4DpBfWl3q8e0gGB76lAaox) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Shakedown Street](https://open.spotify.com/album/0MLCxvyIfAuh5xwPORv8p6) | 3:49 |
-| 5 | [Scarlet Begonias \- 2013 Remaster](https://open.spotify.com/track/3euDGpS2R0NC2Xssqxohva) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [From the Mars Hotel](https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ) | 4:19 |
+| 5 | [Althea \- 2013 Remaster](https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Go to Heaven](https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT) | 6:52 |
 | 6 | [Friend of the Devil](https://open.spotify.com/track/5ZLzl6T8JwqMTMdoE0nCbU) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty](https://open.spotify.com/album/7rqgm1BnAZ8I4d6hukpkdg) | 3:21 |
-| 7 | [Althea \- 2013 Remaster](https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Go to Heaven](https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT) | 6:52 |
+| 7 | [Scarlet Begonias \- 2013 Remaster](https://open.spotify.com/track/3euDGpS2R0NC2Xssqxohva) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [From the Mars Hotel](https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ) | 4:19 |
 | 8 | [Franklin's Tower \- 2013 Remaster](https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Blues for Allah \(2013 Remaster\)](https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv) | 4:34 |
 | 9 | [Casey Jones \- 2013 Remaster](https://open.spotify.com/track/7LbfuQVct78YoghmoPtsQ8) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 4:25 |
 | 10 | [Truckin' \- 2013 Remaster](https://open.spotify.com/track/1I6l01BaBgBCVkfQCpIlR6) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 5:06 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 32 | [New Minglewood Blues \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/27nasmd5S8eIvIkAa7wnSo) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 5:34 |
 | 33 | [Dark Hollow \- Live](https://open.spotify.com/track/5SWDIe8j5vhBZZkU11Cmjj) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Reckoning \(Live\)](https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD) | 3:51 |
 | 34 | [U.S\. Blues \- 2013 Remaster](https://open.spotify.com/track/2NiR9VOfASwOhgTnWs2cLx) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [From the Mars Hotel](https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ) | 4:40 |
-| 35 | [Good Lovin' \- 2013 Remaster](https://open.spotify.com/track/3ARngx4lU4zYSWTiXm4Yag) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Shakedown Street](https://open.spotify.com/album/0MLCxvyIfAuh5xwPORv8p6) | 4:51 |
+| 35 | [Easy Wind \- 2013 Remaster](https://open.spotify.com/track/4n9pxaY7bTDMnw9biuCkhu) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 4:59 |
 | 36 | [Mama Tried \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/6h7RCPkZvG7T4Rp02Xa0sE) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 3:11 |
-| 37 | [Easy Wind \- 2013 Remaster](https://open.spotify.com/track/4n9pxaY7bTDMnw9biuCkhu) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 4:59 |
+| 37 | [Good Lovin' \- 2013 Remaster](https://open.spotify.com/track/3ARngx4lU4zYSWTiXm4Yag) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Shakedown Street](https://open.spotify.com/album/0MLCxvyIfAuh5xwPORv8p6) | 4:51 |
 | 38 | [He's Gone \- Live in Amsterdam, 1972; 2001 Remaster](https://open.spotify.com/track/4SGS3okZJqz3GpEdruo9BK) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 6:57 |
 | 39 | [St\. Stephen \- 2013 Remaster](https://open.spotify.com/track/1Hd5JgVdf45pyZJiUyIe9w) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Aoxomoxoa \(2013 Remaster\)](https://open.spotify.com/album/2IZe9ttqeMqwkv3dRXJRkd) | 4:27 |
 | 40 | [They Love Each Other \- Live at Barton Hall, Cornell University, Ithaca, NY, 5/8/77](https://open.spotify.com/track/4K5etmmA4jQApw5VBznEWK) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 7:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 49 | [The Music Never Stopped \- 2013 Remaster](https://open.spotify.com/track/5te7uKM0hYcPjf3ScBA9fS) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Blues for Allah \(2013 Remaster\)](https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv) | 4:36 |
 | 50 | [Wharf Rat \- Live at Fillmore East, New York, NY, April 26, 1971](https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead \(Skull & Roses\) \[Live\]](https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN) | 8:31 |
 
-Snapshot ID: `aiipAAAAAAD3Ec3kh3ma8cH1VfYji5k/`
+Snapshot ID: `ain6gAAAAABRwYOJkq2LB3tJV0ikHxrx`

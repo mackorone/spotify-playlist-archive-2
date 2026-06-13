@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,284 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,294 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 16 | [Cergy](https://open.spotify.com/track/1e83AhmZenZjuUGxpFtjcK) | [Anis](https://open.spotify.com/artist/3700G3mzTkuxc5U7hdE9CV) | [La Chance.](https://open.spotify.com/album/7hr4T8GgC9Pw7B9v9sDMju) | 4:18 |
 | 17 | [Motivés, le chant des partisans](https://open.spotify.com/track/3w9Z92Q9LBBuA7Ik7T0fn7) | [Motivés](https://open.spotify.com/artist/746xFau8DOtNcVLtnd4enN) | [Motivés! \- Chants de lutte](https://open.spotify.com/album/4WNsQtcIiGWu3oRrEsdcLp) | 4:22 |
 | 18 | [Allo Paris](https://open.spotify.com/track/7fuV0qMP7cBAApFvleb1T9) | [Mano Solo](https://open.spotify.com/artist/2MfAaMT9qmkHIBnU1ofzAP), [Mathew Ollivier](https://open.spotify.com/artist/5XXGHMuOtjPHSL5n7F6rlk) | [La Marmaille Nue](https://open.spotify.com/album/481r3yGly5FBggEgi3Sxi2) | 2:44 |
-| 19 | [Les mains froides](https://open.spotify.com/track/6jhn79WXv1GExPth5iMtny) | [Oldelaf](https://open.spotify.com/artist/7GBufLo5czrJHbWuo6gD7P) | [Le monde est beau](https://open.spotify.com/album/670mgOr9f4OGrlWfzoGNRD) | 3:41 |
-| 20 | [La déclaration](https://open.spotify.com/track/2FjRMq1w9EEhelyBtTjCE8) | [Debout Sur Le Zinc](https://open.spotify.com/artist/2IScPq8PNlEgMrxY22iufh) | [Les promesses](https://open.spotify.com/album/5AcVrPhhrMyFAgQNRkhK9B) | 4:15 |
+| 19 | [La déclaration](https://open.spotify.com/track/2FjRMq1w9EEhelyBtTjCE8) | [Debout Sur Le Zinc](https://open.spotify.com/artist/2IScPq8PNlEgMrxY22iufh) | [Les promesses](https://open.spotify.com/album/5AcVrPhhrMyFAgQNRkhK9B) | 4:15 |
+| 20 | [Les mains froides](https://open.spotify.com/track/6jhn79WXv1GExPth5iMtny) | [Oldelaf](https://open.spotify.com/artist/7GBufLo5czrJHbWuo6gD7P) | [Le monde est beau](https://open.spotify.com/album/670mgOr9f4OGrlWfzoGNRD) | 3:41 |
 | 21 | [Rongrakatikatong](https://open.spotify.com/track/33COLW0pVVZq6wgR8zK8aj) | [Soviet Suprem](https://open.spotify.com/artist/2X2ePjwsB7PMG1FbbbLK6C) | [L'Internationale](https://open.spotify.com/album/3KTunf9B8ArXtfpuvi3fbb) | 2:36 |
 | 22 | [Quand plus rien ne va \- La turlute](https://open.spotify.com/track/6hrbyZLZePWb6nCsgVpjLp) | [Mes Souliers Sont Rouges](https://open.spotify.com/artist/4IyUYsH5XMy3tgfBfeHRO6) | [Proches](https://open.spotify.com/album/5BWfaMWJVTKzX9NQEc0CrT) | 3:36 |
 | 23 | [Les gens raisonnables](https://open.spotify.com/track/14FWWR9YkXEv4PtL7N8yFH) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Tu Vas Pas Mourir De Rire](https://open.spotify.com/album/6A72tti9z0ejH8Y6DeVhCr) | 3:27 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 33 | [Dimanche \(Caresse\-moi\)](https://open.spotify.com/track/0ZewOkbhf4HS0lVk264p0v) | [Yves Jamait](https://open.spotify.com/artist/1K1P7X1G6brqCjsZeKOMNR) | [De Verre En Vers](https://open.spotify.com/album/0xQjEocsjHDGBb4JbO0Q6z) | 5:36 |
 | 34 | [Don Diego 2000](https://open.spotify.com/track/5g9HzwqUa3kS1Vmi2kSpkD) | [Dionysos](https://open.spotify.com/artist/75nb7WjICnFHCXFdVX0PkO) | [Western Sous La Neige](https://open.spotify.com/album/7n3bwYHPBrnRBb7jWYdySY) | 3:32 |
 | 35 | [Léon](https://open.spotify.com/track/3DgehxFcYGW4kipAOat5Ri) | [Karpatt](https://open.spotify.com/artist/7qU5BoLb02tqeIwv5zUs0e), [Mano Solo](https://open.spotify.com/artist/2MfAaMT9qmkHIBnU1ofzAP) | [Dans le caillou](https://open.spotify.com/album/5wMUU2L9v1euXsqWLE4lgM) | 5:25 |
-| 36 | [Plantation](https://open.spotify.com/track/3mdfBcdD8C3NbJ0SUBjA5i) | [KANA](https://open.spotify.com/artist/3hEwqHY3IUn19VmTBoKrfn) | [Entre Frères...](https://open.spotify.com/album/1RhTC6PKCNZmNMiblUu9Ng) | 3:33 |
-| 37 | [International Dub](https://open.spotify.com/track/6lEvKrzQ6gtm8uHj1NIJni) | [Percubaba](https://open.spotify.com/artist/2Byn2ekDC01oao1e88L7fJ) | [Percubaba](https://open.spotify.com/album/3j2qBxrpBrEOgnPdbe90Vl) | 4:47 |
+| 36 | [International Dub](https://open.spotify.com/track/6lEvKrzQ6gtm8uHj1NIJni) | [Percubaba](https://open.spotify.com/artist/2Byn2ekDC01oao1e88L7fJ) | [Percubaba](https://open.spotify.com/album/3j2qBxrpBrEOgnPdbe90Vl) | 4:47 |
+| 37 | [Plantation](https://open.spotify.com/track/3mdfBcdD8C3NbJ0SUBjA5i) | [KANA](https://open.spotify.com/artist/3hEwqHY3IUn19VmTBoKrfn) | [Entre Frères...](https://open.spotify.com/album/1RhTC6PKCNZmNMiblUu9Ng) | 3:33 |
 | 38 | [L'accordéoniste](https://open.spotify.com/track/5zdsWxGjYO8Su7lAKwzvR3) | [Les Hurlements d'Léo](https://open.spotify.com/artist/5WclEPgvoYK28a034NNa8s) | [Le café des jours heureux](https://open.spotify.com/album/4f0WbqM9lzf3ygfNzVKnG8) | 3:02 |
 | 39 | [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 |
 | 40 | [Les embouteillages](https://open.spotify.com/track/0H1Ih7vJhcoU4yy6XPXvrF) | [Sanseverino](https://open.spotify.com/artist/1jKouRXGXSjxHAx2ayWolz) | [Le Tango Des Gens](https://open.spotify.com/album/14VGXNhq3B646I7GWaXo9D) | 3:08 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The best in Black music! Cover: <a href=\"spotify:artist:68kEuyFKyqrdQQLLsmiatm\">Vince Staples</a> ",
+  "description": "The best in Black music! Cover: <a href=\"spotify:artist:6trIghKwHRUyxwvm66HLHH\">Foushe\u00e9</a> ",
   "name": "This Is Frequency",
   "tracks": [
     {
@@ -4468,7 +4468,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 125901,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/71fdUcftDYYxXfRz4Fstzs"
@@ -4944,6 +4944,24 @@
       "duration_ms": 311066,
       "name": "All my friends know - Anz Remix",
       "url": "https://open.spotify.com/track/1U6hIpPWukivILVMgkzpAp"
+    },
+    {
+      "album": {
+        "name": "All My Girls",
+        "url": "https://open.spotify.com/album/0zuCHsOytrFSapisjsSwlB"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "All My Girls",
+      "url": "https://open.spotify.com/track/4eMJvvkRQuxLIuuO9m2kY8"
     },
     {
       "album": {
@@ -31248,6 +31266,24 @@
     {
       "album": {
         "name": "Drive",
+        "url": "https://open.spotify.com/album/1EQK6Ve1W9b4bEKK3QAYtj"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N"
+    },
+    {
+      "album": {
+        "name": "Drive",
         "url": "https://open.spotify.com/album/0S7csLoFSrkT3eVLMxSdFa"
       },
       "artists": [
@@ -35392,7 +35428,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 169330,
       "name": "FATHER (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
@@ -36596,6 +36632,24 @@
       "duration_ms": 192631,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"
+    },
+    {
+      "album": {
+        "name": "FIRE BURNIN' THRU THE RAIN",
+        "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167394,
+      "name": "FIRE BURNIN' THRU THE RAIN",
+      "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
     },
     {
       "album": {
@@ -40244,7 +40298,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 173742,
       "name": "Game Six",
       "url": "https://open.spotify.com/track/0bSlEreR3f5j8DlEc17QqI"
@@ -41749,6 +41803,24 @@
     },
     {
       "album": {
+        "name": "Rise Against My Broken Odds",
+        "url": "https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139967,
+      "name": "Gimmie A Kiss",
+      "url": "https://open.spotify.com/track/6yix8Ae4pF6CnycCv7Nr52"
+    },
+    {
+      "album": {
         "name": "Gimmie A Light",
         "url": "https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8"
       },
@@ -42645,6 +42717,24 @@
     },
     {
       "album": {
+        "name": "Go Again",
+        "url": "https://open.spotify.com/album/0S9ZGL0e712EkZQ9nuFOW6"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Go Again",
+      "url": "https://open.spotify.com/track/6zoLCHH5mKApNOmTsmVYhN"
+    },
+    {
+      "album": {
         "name": "Go Around",
         "url": "https://open.spotify.com/album/6xUvrvbSTXnEIRPKOGnhJh"
       },
@@ -42962,6 +43052,24 @@
       "duration_ms": 147401,
       "name": "Go Ladies",
       "url": "https://open.spotify.com/track/4pWlEdLIy2tQ3hQY1agXLh"
+    },
+    {
+      "album": {
+        "name": "Go To Hell",
+        "url": "https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Go To Hell",
+      "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
     },
     {
       "album": {
@@ -45174,6 +45282,24 @@
       "duration_ms": 212618,
       "name": "Haiku",
       "url": "https://open.spotify.com/track/52uaVOICJKsGh3jBM1EW6m"
+    },
+    {
+      "album": {
+        "name": "HAIRSTYLE",
+        "url": "https://open.spotify.com/album/62x5uuyCMPj7Gdhljs5XXH"
+      },
+      "artists": [
+        {
+          "name": "Dreek Jones",
+          "url": "https://open.spotify.com/artist/0fVbXtxb8KqKpfAdPLbKlu"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112155,
+      "name": "HAIRSTYLE",
+      "url": "https://open.spotify.com/track/1t9lHXZO3EZIGVB1LguYyc"
     },
     {
       "album": {
@@ -50692,7 +50818,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 221000,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/1fq5OBjI5y88pmL5v3KGtG"
@@ -65407,6 +65533,28 @@
     },
     {
       "album": {
+        "name": "Mahogany Caskets",
+        "url": "https://open.spotify.com/album/2cglrltJot3acS6kTOOxJj"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213433,
+      "name": "Mahogany Caskets",
+      "url": "https://open.spotify.com/track/6mgAuBeRhO2xu31A7IKDXm"
+    },
+    {
+      "album": {
         "name": "Main Character",
         "url": "https://open.spotify.com/album/5x0xJxWW4Meb2M79eEHm6M"
       },
@@ -69116,7 +69264,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 162062,
       "name": "Money Talk",
       "url": "https://open.spotify.com/track/25qQATlLMHVqewlA3kYFBu"
@@ -75670,6 +75818,24 @@
       "duration_ms": 198904,
       "name": "Not So Bad (Leans Gone Cold)",
       "url": "https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B"
+    },
+    {
+      "album": {
+        "name": "Not So Sweet",
+        "url": "https://open.spotify.com/album/6Zr7GLxnNwy9vVod25bpux"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235088,
+      "name": "Not So Sweet",
+      "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
     },
     {
       "album": {
@@ -84187,6 +84353,24 @@
     },
     {
       "album": {
+        "name": "Power In Numbers",
+        "url": "https://open.spotify.com/album/0zQAQcwwAthTDWdsajR8AK"
+      },
+      "artists": [
+        {
+          "name": "Ho99o9",
+          "url": "https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172772,
+      "name": "Power In Numbers",
+      "url": "https://open.spotify.com/track/58OXps27n41UlUfW8rGETg"
+    },
+    {
+      "album": {
         "name": "Power of Two (From \"Star Wars: The Acolyte\")",
         "url": "https://open.spotify.com/album/1V18j7d2a9thfb7IB3wW6n"
       },
@@ -90468,7 +90652,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 199200,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q"
@@ -91076,6 +91260,32 @@
       "duration_ms": 198394,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1vR0FAmbln2Qjpyg0TvG2J"
+    },
+    {
+      "album": {
+        "name": "Sacrifices (feat. James Fauntleroy)",
+        "url": "https://open.spotify.com/album/38l98Pl2npTFNM3tl9tife"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268331,
+      "name": "Sacrifices (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/3s75C1nQTml1i3zOyXaMGw"
     },
     {
       "album": {
@@ -92392,6 +92602,24 @@
       "duration_ms": 196494,
       "name": "Say You Want Me",
       "url": "https://open.spotify.com/track/1xTYy3K3hiTcoZfoD7culn"
+    },
+    {
+      "album": {
+        "name": "INFINITY SONG",
+        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177466,
+      "name": "Sayonara",
+      "url": "https://open.spotify.com/track/3W2yA6zPsnPWgPs4mg1qB2"
     },
     {
       "album": {
@@ -98211,6 +98439,24 @@
     },
     {
       "album": {
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Something Bout It",
+      "url": "https://open.spotify.com/track/0ATYGGx8AP7w0tsTsC1L4o"
+    },
+    {
+      "album": {
         "name": "Something Ether",
         "url": "https://open.spotify.com/album/47SrODHFtmaQitdsmonVie"
       },
@@ -99665,6 +99911,28 @@
     },
     {
       "album": {
+        "name": "ST. CLAUDE",
+        "url": "https://open.spotify.com/album/4wLQZF0ebVHqs4clNyTBSx"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "HaSizzle",
+          "url": "https://open.spotify.com/artist/22mB4zQKJDI9I7ZnYs80iX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139094,
+      "name": "ST. CLAUDE",
+      "url": "https://open.spotify.com/track/3LI6JxW3bcJxeQGUMe9I8y"
+    },
+    {
+      "album": {
         "name": "Stadiums",
         "url": "https://open.spotify.com/album/40F5ywKIXAvpWHrsRc0Ufo"
       },
@@ -100904,6 +101172,24 @@
       "duration_ms": 170160,
       "name": "Still countin",
       "url": "https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI"
+    },
+    {
+      "album": {
+        "name": "ONLY FOR THE FANS",
+        "url": "https://open.spotify.com/album/4nrLffZlwi44D2jPMc9SPl"
+      },
+      "artists": [
+        {
+          "name": "CHiNO",
+          "url": "https://open.spotify.com/artist/6luUAFb5mM6RM4OONhfZVV"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "STILL DOWN",
+      "url": "https://open.spotify.com/track/5inkXa4cyt8vU9Qgym7Swu"
     },
     {
       "album": {
@@ -106807,6 +107093,24 @@
     },
     {
       "album": {
+        "name": "The Machinist",
+        "url": "https://open.spotify.com/album/3G66rZa9aZA7x4L3iBTlHs"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "The Machinist",
+      "url": "https://open.spotify.com/track/5tjMNGX2VF3bZ3xYqin3em"
+    },
+    {
+      "album": {
         "name": "One Helluvalife",
         "url": "https://open.spotify.com/album/4PW3lw69lppdcGHMM1ZVDQ"
       },
@@ -110112,6 +110416,24 @@
       "duration_ms": 220000,
       "name": "Topdown - Mixed",
       "url": "https://open.spotify.com/track/4A6PJwVz599HeWpeLTBJjF"
+    },
+    {
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174823,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
     },
     {
       "album": {

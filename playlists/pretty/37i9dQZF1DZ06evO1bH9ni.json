@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 352984,
+  "num_followers": 353015,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAACT8qZm0z6BIuHcBiUO8q2I",
+  "snapshot_id": "ain6gAAAAABGyQI3CmnoWm53g9XMHDfn",
   "tracks": [
     {
       "added_at": null,
@@ -291,18 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mo\u00f1os Negros",
-        "url": "https://open.spotify.com/album/4yCjvIrgpUESwejh6AIt3j"
+        "name": "Corridos Con Olor a Monte (En Vivo)",
+        "url": "https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU"
       },
       "artists": [
         {
           "name": "Los Dos Carnales",
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
         }
       ],
-      "duration_ms": 203650,
-      "name": "Mo\u00f1os Negros",
-      "url": "https://open.spotify.com/track/6Pwu0EIITS21ajW5y9VvcE"
+      "duration_ms": 205543,
+      "name": "Kil\u00f3metro 11-60 - En Vivo",
+      "url": "https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX"
     },
     {
       "added_at": null,
@@ -323,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Con Olor a Monte (En Vivo)",
-        "url": "https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU"
+        "name": "Mo\u00f1os Negros",
+        "url": "https://open.spotify.com/album/4yCjvIrgpUESwejh6AIt3j"
       },
       "artists": [
         {
           "name": "Los Dos Carnales",
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
         }
       ],
-      "duration_ms": 205543,
-      "name": "Kil\u00f3metro 11-60 - En Vivo",
-      "url": "https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX"
+      "duration_ms": 203650,
+      "name": "Mo\u00f1os Negros",
+      "url": "https://open.spotify.com/track/6Pwu0EIITS21ajW5y9VvcE"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Dos Carnales Con Sax",
-        "url": "https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 227554,
-      "name": "El Estr\u00e9s",
-      "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Federal de Caminos",
         "url": "https://open.spotify.com/album/3S76sDaZy2ioOzhQX2ckOl"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 183756,
       "name": "El Federal de Caminos",
       "url": "https://open.spotify.com/track/5gV3vaCDEedjUoFXqI6LGh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Dos Carnales Con Sax",
+        "url": "https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 227554,
+      "name": "El Estr\u00e9s",
+      "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Pa' la Historia",
+        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 205818,
+      "name": "Al Mill\u00f3n",
+      "url": "https://open.spotify.com/track/2Ns7P7Sa50RHUQ2eyTcQPt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Compas El Final",
         "url": "https://open.spotify.com/album/1vTFwkahBUhneC1fmz3bRy"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 203710,
       "name": "La Opini\u00f3n",
       "url": "https://open.spotify.com/track/33o2E1rmr8Jl2JO1fdLgHG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Pa' la Historia",
-        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 205818,
-      "name": "Al Mill\u00f3n",
-      "url": "https://open.spotify.com/track/2Ns7P7Sa50RHUQ2eyTcQPt"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dio Vuelta la Moneda (En Vivo)",
-        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 157107,
-      "name": "El Mismo - En Vivo",
-      "url": "https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Estar\u00e9 Aqu\u00ed",
         "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
       },
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Foto de Perfil",
-        "url": "https://open.spotify.com/album/6IX29RWNUKozUlnnMZMgUF"
+        "name": "Dio Vuelta la Moneda (En Vivo)",
+        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 171833,
-      "name": "Sin Foto de Perfil",
-      "url": "https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX"
+      "duration_ms": 157107,
+      "name": "El Mismo - En Vivo",
+      "url": "https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 215594,
       "name": "Entre Hierba, Polvo y Plomo",
       "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Foto de Perfil",
+        "url": "https://open.spotify.com/album/6IX29RWNUKozUlnnMZMgUF"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 171833,
+      "name": "Sin Foto de Perfil",
+      "url": "https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX"
     },
     {
       "added_at": null,
@@ -871,18 +871,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Jefe",
-        "url": "https://open.spotify.com/album/64Ea7fAv31mvQ47PTQFeUN"
+        "name": "Yo Nac\u00ed Pa' Ser Jefe",
+        "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
       },
       "artists": [
         {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
           "name": "Los Dos Carnales",
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
         }
       ],
-      "duration_ms": 214785,
-      "name": "Mi Jefe",
-      "url": "https://open.spotify.com/track/0UUz5GRn15I8839GPyxlfU"
+      "duration_ms": 168553,
+      "name": "Yo Nac\u00ed Pa' Ser Jefe",
+      "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
     }
   ],
   "unique_name": "This Is Los Dos Carnales",

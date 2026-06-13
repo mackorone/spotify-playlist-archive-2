@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,374 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,381 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 32 | [Eu Vou \- Ao Vivo](https://open.spotify.com/track/7ENkZ79SYi2boALhzp4NFB) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/7BwR0SwGwuCPoyO1fD0yX0) | 3:40 |
 | 33 | [Escolhi](https://open.spotify.com/track/2xgQfX3ZQah3fzQCMWkNR0) | [William Augusto](https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Escolhi](https://open.spotify.com/album/77XH04CbZiCwKrhtbMoHa4) | 5:01 |
 | 34 | [Ele vem \(feat\. Coral Black To Black\)](https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Coral Black To Black](https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC) | [Luz \- Parte 2](https://open.spotify.com/album/2tdSId5wIGiu4xmvUSuNWa) | 4:58 |
-| 35 | [Ele Me Amou](https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l) | [Wellington Caetano](https://open.spotify.com/artist/2sjxlztngIj8gPo1NDFp1V), [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F), [Rodney Graciano](https://open.spotify.com/artist/3eAqzvv41VPIqYgiYSqZDh) | [Ele Me Amou](https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA) | 4:29 |
-| 36 | [Alegria](https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Alegria](https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho) | 4:13 |
+| 35 | [Alegria](https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Alegria](https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho) | 4:13 |
+| 36 | [Ele Me Amou](https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l) | [Wellington Caetano](https://open.spotify.com/artist/2sjxlztngIj8gPo1NDFp1V), [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F), [Rodney Graciano](https://open.spotify.com/artist/3eAqzvv41VPIqYgiYSqZDh) | [Ele Me Amou](https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA) | 4:29 |
 | 37 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l) | 5:31 |
 | 38 | [Aleluia](https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Aleluia](https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI) | 2:51 |
-| 39 | [Tua Vontade \- Ao Vivo](https://open.spotify.com/track/6cHGFCtV4KxdqAon5BqTz7) | [PV Dantas](https://open.spotify.com/artist/4lYB1E5Ad1KMZDLL2G8y5Z), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Tua Vontade \(Ao Vivo\)](https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz) | 3:27 |
-| 40 | [Celebre a Vida](https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr) | [Bira Santos](https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM) | [Celebre a Vida](https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf) | 4:04 |
+| 39 | [Celebre a Vida](https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr) | [Bira Santos](https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM) | [Celebre a Vida](https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf) | 4:04 |
+| 40 | [Tua Vontade \- Ao Vivo](https://open.spotify.com/track/6cHGFCtV4KxdqAon5BqTz7) | [PV Dantas](https://open.spotify.com/artist/4lYB1E5Ad1KMZDLL2G8y5Z), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Tua Vontade \(Ao Vivo\)](https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz) | 3:27 |
 | 41 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |
 | 42 | [Seu Nome É](https://open.spotify.com/track/5y8UsdjJRuyojhnJhb7XFc) | [Coral Enok](https://open.spotify.com/artist/26Ehr2r4LNbVDeCYiLrncA) | [Seu Nome É](https://open.spotify.com/album/1lC2LfCnXOzOCKRRtLSaQt) | 5:40 |
 | 43 | [Estado de Graça](https://open.spotify.com/track/55uFwkTDMaj8JglcYMHz3T) | [Você Adora](https://open.spotify.com/artist/7m6yvEmFPZXBq3NYNxHuZA), [Gleydson Leandro](https://open.spotify.com/artist/6BMlzwDmaPryHa4Wjmv6V6), [Clovis Pinho](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Adora](https://open.spotify.com/album/3zOL6RLsb5VLKvddXa1xN9) | 3:39 |

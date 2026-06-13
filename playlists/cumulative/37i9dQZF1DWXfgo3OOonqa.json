@@ -41905,24 +41905,6 @@
     },
     {
       "album": {
-        "name": "Ifr\u00e5n mitt f\u00f6nster",
-        "url": "https://open.spotify.com/album/6qEv8BWws9GawxUYNFyi8z"
-      },
-      "artists": [
-        {
-          "name": "Nisch",
-          "url": "https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/3INWOIBzkDvsEADdoT3m9o"
-    },
-    {
-      "album": {
         "name": "Trafficante",
         "url": "https://open.spotify.com/album/0ilH9PaVHS7H8nGdEF24dU"
       },
@@ -42978,6 +42960,28 @@
       "duration_ms": 153053,
       "name": "Uno Dos Tres",
       "url": "https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi"
+    },
+    {
+      "album": {
+        "name": "Ifr\u00e5n mitt f\u00f6nster",
+        "url": "https://open.spotify.com/album/6qEv8BWws9GawxUYNFyi8z"
+      },
+      "artists": [
+        {
+          "name": "Nisch",
+          "url": "https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU"
+        },
+        {
+          "name": "Reyn",
+          "url": "https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Upp i r\u00f6k",
+      "url": "https://open.spotify.com/track/3INWOIBzkDvsEADdoT3m9o"
     },
     {
       "album": {

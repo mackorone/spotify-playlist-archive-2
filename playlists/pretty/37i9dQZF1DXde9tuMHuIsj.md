@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,491,846 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,491,822 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [SOLO DIOS SABE](https://open.spotify.com/track/4tQYvX7knApFyQoNoMP2vw) | [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV) | [SOLO DIOS SABE](https://open.spotify.com/album/5Kr4c08tnCOJFDZysQg0fl) | 2:32 |
 | 100 | [CHANDAL GRIS](https://open.spotify.com/track/6zitYJnOnNI0tNgbLPN3qi) | [Main Costa](https://open.spotify.com/artist/61GPxWkJTF8LCGp0zafwah), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Pochi](https://open.spotify.com/artist/7wbgA4GKIqnYmnUUJbRdrb), [Adro](https://open.spotify.com/artist/3fIosUcY5QJLhbLXy43OLV) | [CHANDAL GRIS](https://open.spotify.com/album/3zRuNx4DS3osdp6MgCihrx) | 2:31 |
 
-Snapshot ID: `AAAAAATcDtvuVyk8araJazkFqs576zcN`
+Snapshot ID: `AAAAADrbEfa8fu+L8HVWknpiopalVyaU`

@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-539 songs - 1 day 4 hr 24 min
+540 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Hockey](https://open.spotify.com/track/6b39sywjsmS8Zo7g4PMQeM) | [Clarence Kelly](https://open.spotify.com/artist/63ecaIQEQ1kWQbi6ZKVYiB) | [Hockey](https://open.spotify.com/album/6rJcckvCabsY3tXwAyDL4w) | 4:17 | 2025-01-25 |  |
 | [HOLD IT DOWN](https://open.spotify.com/track/6wFsExchVj17dTRNzMyoLO) | [f0xtr0t](https://open.spotify.com/artist/671ydWFXmxU9Y7p8I8NaeN) | [HOLD IT DOWN](https://open.spotify.com/album/4DdJyHl6IY5Tb41pkaMzIB) | 3:05 | 2026-02-28 |  |
 | [Hold Me Up](https://open.spotify.com/track/0DfQiZ5uVTKedB6z8EUKRs) | [Fons The Bun](https://open.spotify.com/artist/1fUVI9fOmoWIrjHepGnMPN) | [Emotionality](https://open.spotify.com/album/3w21UqXEqkivTQ1686QWAL) | 5:00 | 2025-10-29 |  |
+| [HOMESICK WANDERLUST](https://open.spotify.com/track/23hzufyU9ufwaFTobzcNzH) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Homesick Wanderlust](https://open.spotify.com/album/7jdMf27F3z4Xy59fQcwTTy) | 4:30 | 2026-06-12 |  |
 | [HOUSEONAHILL](https://open.spotify.com/track/6No7Kr4COcm5PGCOHKDNtX) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT), [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 3:10 | 2025-11-11 | 2025-11-18 |
 | [how it feels to fly](https://open.spotify.com/track/7a4kJMczOlvculn80pLRrP) | [Sarajevo Noise Beat](https://open.spotify.com/artist/5Cw1pwfT5W9pvGyO30ojCf), [What The PUP!](https://open.spotify.com/artist/1Uti1MlTR0fRL0u0vI6zl9), [lillybug](https://open.spotify.com/artist/4E2TcTjE4vNGZ8eNtMzQ7U) | [how it feels to fly](https://open.spotify.com/album/7cnO2Hyzr9Kt8z1oUtgtTD) | 4:29 | 2024-11-18 |  |
 | [how to die](https://open.spotify.com/track/1vAHkkj7P1sILUREnwditT) | [zombAe](https://open.spotify.com/artist/6lVUWhNB7hIUznWHCNww6D) | [deniAl](https://open.spotify.com/album/2PKiLqZN2UEXrCxsY3IoX3) | 2:00 | 2024-05-28 |  |

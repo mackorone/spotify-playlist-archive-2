@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123808,
+  "num_followers": 123802,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVd3nTYFxqxXa05hgw61yjVTrS7oCd",
+  "snapshot_id": "AAAVeA/eGvzu5Vxj+M5HHek8G3+v8t53",
   "tracks": [
+    {
+      "added_at": "2026-06-12 13:57:12",
+      "album": {
+        "name": "Cool For Me",
+        "url": "https://open.spotify.com/album/3A9FgPrm5naJyVjl7rqaQj"
+      },
+      "artists": [
+        {
+          "name": "Sudley",
+          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
+        },
+        {
+          "name": "Ekko & Sidetrack",
+          "url": "https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL"
+        },
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Cool For Me",
+      "url": "https://open.spotify.com/track/1Sr93ailm3oNbn0FO3hM0l"
+    },
     {
       "added_at": "2026-06-11 14:02:18",
       "album": {

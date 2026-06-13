@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3464,
+  "num_followers": 3468,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,18 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Nooit Geweet",
-        "url": "https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4"
+        "name": "Raak Taatie",
+        "url": "https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy"
       },
       "artists": [
         {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
-        },
-        {
-          "name": "Jemaine Julies",
-          "url": "https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf"
+          "name": "Cream Machine",
+          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
         }
       ],
-      "duration_ms": 196702,
-      "name": "Nooit Geweet",
-      "url": "https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b"
+      "duration_ms": 245969,
+      "name": "Raak Taatie",
+      "url": "https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -627,22 +623,6 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Raak Taatie",
-        "url": "https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy"
-      },
-      "artists": [
-        {
-          "name": "Cream Machine",
-          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
-        }
-      ],
-      "duration_ms": 245969,
-      "name": "Raak Taatie",
-      "url": "https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
         "name": "Die Way Sy",
         "url": "https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 158400,
       "name": "Die Way Sy",
       "url": "https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "Nooit Geweet",
+        "url": "https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        },
+        {
+          "name": "Jemaine Julies",
+          "url": "https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf"
+        }
+      ],
+      "duration_ms": 196702,
+      "name": "Nooit Geweet",
+      "url": "https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -719,26 +719,6 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Gun Shots",
-        "url": "https://open.spotify.com/album/6G1SBdqcOQSsLbNmK4qzff"
-      },
-      "artists": [
-        {
-          "name": "Ziggy4x",
-          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 158784,
-      "name": "Gun Shots",
-      "url": "https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
         "name": "Lewe Soos 'n Laanie",
         "url": "https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 201126,
       "name": "Lewe Soos 'n Laanie",
       "url": "https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "Gun Shots",
+        "url": "https://open.spotify.com/album/6G1SBdqcOQSsLbNmK4qzff"
+      },
+      "artists": [
+        {
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Gun Shots",
+      "url": "https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -831,22 +831,18 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Private",
-        "url": "https://open.spotify.com/album/5xII4hT5elWFNk8JJ6nsGT"
+        "name": "Hie Kom Ons",
+        "url": "https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me"
       },
       "artists": [
         {
-          "name": "KerwieG",
-          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
-        },
-        {
-          "name": "Kulture Gang",
-          "url": "https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO"
+          "name": "Benjamen",
+          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
         }
       ],
-      "duration_ms": 180976,
-      "name": "Private",
-      "url": "https://open.spotify.com/track/2ch0sBikWq1WN9QAZQEHy1"
+      "duration_ms": 164927,
+      "name": "Hie Kom Ons",
+      "url": "https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -867,18 +863,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Hie Kom Ons",
-        "url": "https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me"
+        "name": "Private",
+        "url": "https://open.spotify.com/album/5xII4hT5elWFNk8JJ6nsGT"
       },
       "artists": [
         {
-          "name": "Benjamen",
-          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
+          "name": "KerwieG",
+          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
+        },
+        {
+          "name": "Kulture Gang",
+          "url": "https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO"
         }
       ],
-      "duration_ms": 164927,
-      "name": "Hie Kom Ons",
-      "url": "https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd"
+      "duration_ms": 180976,
+      "name": "Private",
+      "url": "https://open.spotify.com/track/2ch0sBikWq1WN9QAZQEHy1"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -951,22 +951,18 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Don",
-        "url": "https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5"
+        "name": "SYS N BADDIE",
+        "url": "https://open.spotify.com/album/7AimRndL52aehc62FKMAft"
       },
       "artists": [
         {
-          "name": "Interlecc Za",
-          "url": "https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv"
-        },
-        {
-          "name": "Profit CPT",
-          "url": "https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq"
+          "name": "BARZX",
+          "url": "https://open.spotify.com/artist/1sfLbppjFJohHRV1Z2I0RK"
         }
       ],
-      "duration_ms": 179043,
-      "name": "Don",
-      "url": "https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc"
+      "duration_ms": 127777,
+      "name": "SYS N BADDIE",
+      "url": "https://open.spotify.com/track/2YN1BTHUYk7c21PkZ63Mba"
     },
     {
       "added_at": "2025-06-27 09:27:23",

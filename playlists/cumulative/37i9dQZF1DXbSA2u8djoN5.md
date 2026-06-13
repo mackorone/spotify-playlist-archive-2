@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Guess Who
 
-291 songs - 14 hr 15 min
+293 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Oglinda Oglinjoara](https://open.spotify.com/track/4NQcy8rMlBbIIwySNXZOeX) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [Oglinda Oglinjoara](https://open.spotify.com/album/45xaKBcjTfsxVZMXnqNpCN) | 2:06 | 2026-03-06 | 2026-04-24 |
 | [Operatiunea GhostGun](https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Toata lumea moare](https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2) | 2:24 | 2025-03-27 |  |
 | [Otrava](https://open.spotify.com/track/0CNabe96mGBCMn22tTCZ5v) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Otrava](https://open.spotify.com/album/5zDse55zEb8drEC7Vjc0pv) | 3:13 | 2025-11-20 | 2025-12-05 |
+| [Pana la ultimul suflu](https://open.spotify.com/track/22H8GavQmDeMXiXfoR4FZe) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i) | [Pana la ultimul suflu](https://open.spotify.com/album/2wLwyvUpe56h74qMdVZf5s) | 2:36 | 2026-06-12 |  |
 | [Paradis 3](https://open.spotify.com/track/43Gt5PkBPDDzscRlWCfZps) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z) | [Paradis 3](https://open.spotify.com/album/1eKPlByx8VvRjE47fCPexj) | 3:50 | 2025-07-04 | 2025-10-10 |
 | [paradyse](https://open.spotify.com/track/0ub7PGAoZAeRiinkrRnlKh) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [paradyse](https://open.spotify.com/album/1oc22ihfz3wp8AR4GfCV1e) | 3:31 | 2026-04-30 | 2026-05-15 |
 | [Parola](https://open.spotify.com/track/5xwfZrKbwp65LnogR0Nruc) | [Alex Bittman](https://open.spotify.com/artist/7bUZ8Ldf1LQgtmRAC8jzZA), [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58) | [Parola](https://open.spotify.com/album/1l3Ei1vzDOSHONg4JhTXD2) | 3:33 | 2026-03-19 | 2026-05-29 |
@@ -238,10 +239,11 @@
 | [SLIPPERȘI NOI](https://open.spotify.com/track/1yudIFzWBSY4SR3G6jW1Jy) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [SLIPPERȘI NOI](https://open.spotify.com/album/40AzON3oRfcVwzOqrxnY9H) | 2:46 | 2024-08-22 | 2024-10-18 |
 | [Soarele Răsare Din Nou](https://open.spotify.com/track/5Hpgzg7SEEZ7Iki4iMpjNG) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Soarele Răsare Din Nou](https://open.spotify.com/album/1eIojA6R1a9d7z5pJUkBEW) | 2:55 | 2024-08-22 | 2024-11-26 |
 | [SPARGEM](https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [NOTSOZEN](https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK) | 2:56 | 2024-09-19 | 2025-06-20 |
-| [Sper Ca Esti Bine](https://open.spotify.com/track/0vgn8QtF7e4ljh7kzLhKmt) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/48upqqLLA13iRSdIjXRKjI) | 2:53 | 2026-05-14 |  |
+| [Sper Ca Esti Bine](https://open.spotify.com/track/0vgn8QtF7e4ljh7kzLhKmt) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/48upqqLLA13iRSdIjXRKjI) | 2:53 | 2026-05-14 | 2026-06-13 |
 | [Sper Ca Esti Bine](https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E) | 2:53 | 2024-06-27 | 2025-06-17 |
 | [STILL IN LUV](https://open.spotify.com/track/2o7xkPKZ3nvp1zjyhrbyoS) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [STILL IN LUV](https://open.spotify.com/album/5DU4TXi3lF6JnLBOkDHzkB) | 2:46 | 2025-05-01 | 2025-05-16 |
 | [Stiu ca ai vrea](https://open.spotify.com/track/5uwyjLLf5mHOgFSsxIrxx5) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb) | [AVIREX](https://open.spotify.com/album/2HJoxNWFuEN9f9r5Imog36) | 3:28 | 2026-06-11 |  |
+| [Storage Full](https://open.spotify.com/track/0MBXFQ3RXIdWqP6t6Mijrb) | [Vlad Flueraru](https://open.spotify.com/artist/5cbUrKTtbvXas4lUvnqi4n) | [Storage Full](https://open.spotify.com/album/0E8ntlda6u2zEtUaZ0EcYk) | 2:25 | 2026-06-11 |  |
 | [Sufletul tău](https://open.spotify.com/track/6KMoVF88KgKkiHaigqvU4K) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Sufletul tău](https://open.spotify.com/album/2tqXTltj5kC5wobURhsdXo) | 3:05 | 2025-06-05 | 2026-05-15 |
 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 | 2025-02-06 |  |
 | [Tata](https://open.spotify.com/track/3dKyg3xl2AblfOXXQIzd9m) | [BRUJA](https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9) | [Gioconda](https://open.spotify.com/album/3VAJlaJqlmYqDDrhAzxseF) | 2:33 | 2026-04-30 | 2026-05-15 |
@@ -277,7 +279,7 @@
 | [Valuri](https://open.spotify.com/track/6zc4BD3MRj4YWb8Yt44fuu) | [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ) | [Valuri](https://open.spotify.com/album/5INqX6JMCosUk3DVNJxtJ9) | 3:05 | 2025-10-23 | 2026-01-15 |
 | [Victoria](https://open.spotify.com/track/2TMLnhAtlKRTzU45ag82se) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Cel mai frumos show](https://open.spotify.com/album/3jQEVnPOB9v5Dv7aWExx3b) | 2:54 | 2024-06-27 | 2024-11-01 |
 | [VIEW](https://open.spotify.com/track/7b2QrCqjeZBKt0bvc5fP0S) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [VIEW](https://open.spotify.com/album/2HSJcRXaC5TaVo3sySevhK) | 2:57 | 2024-06-27 | 2024-09-20 |
-| [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 | 2024-06-27 |  |
+| [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 | 2024-06-27 | 2026-06-13 |
 | [Visul Asta](https://open.spotify.com/track/1KRuZ02UoptUuDbGfW8GpA) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [Tot Ce Audio Vol\. I](https://open.spotify.com/album/2jPCGWErFfTaTH8YvYSCaw) | 3:43 | 2026-06-11 |  |
 | [Voila](https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Voila](https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP) | 2:19 | 2024-07-04 |  |
 | [VREM](https://open.spotify.com/track/6mBitYebZxZUyW8UgyI8TP) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [VREM](https://open.spotify.com/album/1xkhCX1MGv3uS1kEjGD0Q7) | 2:19 | 2024-06-27 | 2024-09-27 |

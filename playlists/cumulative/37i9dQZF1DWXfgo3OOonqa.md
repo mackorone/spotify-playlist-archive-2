@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,342 songs - 4 day 3 hr 31 min
+2,342 songs - 4 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2098,7 +2098,6 @@
 | [Toxic Som Mig](https://open.spotify.com/track/10zXU83iXFK6ZfRXqTHFuU) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [2029](https://open.spotify.com/album/0TDK7EuOZbSfnSp9bEaNMw) | 2:31 | 2024-04-18 | 2024-08-02 |
 | [Toxic Trait](https://open.spotify.com/track/7rfeJISPi9ooiYXd3ixF5x) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Toxic Trait](https://open.spotify.com/album/6rJ94HFzo02g1iEviHWNNH) | 2:30 | 2023-08-24 | 2023-09-22 |
 | [TOÙTOÙ](https://open.spotify.com/track/3Xvc8YRyYzBm5KFEWHUQoM) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [TOÙTOÙ](https://open.spotify.com/album/4xEOdo2eFdxKxE5QY0KMKq) | 2:25 | 2022-10-27 | 2023-02-24 |
-| [Track 9](https://open.spotify.com/track/3INWOIBzkDvsEADdoT3m9o) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [Ifrån mitt fönster](https://open.spotify.com/album/6qEv8BWws9GawxUYNFyi8z) | 0:00 | 2026-06-11 |  |
 | [Trafficante](https://open.spotify.com/track/0ThftADgLWQORiaVqELAHC) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Trafficante](https://open.spotify.com/album/0ilH9PaVHS7H8nGdEF24dU) | 1:48 | 2026-03-12 |  |
 | [TRAFIK](https://open.spotify.com/track/0OnLCD4GQgKpRApYTTBeH0) | [G3B](https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4) | [TRAFIK](https://open.spotify.com/album/1cV9kfX5WMqBDfchc7JDPy) | 1:44 | 2025-04-24 | 2025-07-08 |
 | [TRAFIKERA](https://open.spotify.com/track/5m7EUgH8J2iiDvCM7FE5Fl) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [TRAFIKERA](https://open.spotify.com/album/16xKDjWnDIhvUrUWD3PONZ) | 2:03 | 2025-10-23 | 2026-02-13 |
@@ -2152,6 +2151,7 @@
 | [Underdog](https://open.spotify.com/track/1Ze9srPgLfK0m8lOlbjgjv) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Underdog](https://open.spotify.com/album/5XyD3NtnDD2YfMUQZ4md6F) | 2:16 | 2025-06-05 | 2025-09-19 |
 | [Unika](https://open.spotify.com/track/41rrroAlXa1YNTsgTIIaKN) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Modo Banja](https://open.spotify.com/artist/0RNweHFk8drHYKryYRpeB3), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Unika](https://open.spotify.com/album/2s3cn1M8aB87jPMQWA1Q9J) | 2:45 | 2022-04-07 | 2022-05-13 |
 | [Uno Dos Tres](https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [VÅGA](https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ) | 2:33 | 2024-08-08 | 2025-01-17 |
+| [Upp i rök](https://open.spotify.com/track/3INWOIBzkDvsEADdoT3m9o) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Ifrån mitt fönster](https://open.spotify.com/album/6qEv8BWws9GawxUYNFyi8z) | 2:59 | 2026-06-11 |  |
 | [UPPKÄFTIG](https://open.spotify.com/track/5devaSNJcbsvW4IDOfZpgr) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [UPPKÄFTIG](https://open.spotify.com/album/4TpjaYpDpfPRrcX2sUE9OB) | 2:08 | 2024-10-31 | 2025-03-28 |
 | [UPPLOPP](https://open.spotify.com/track/2vnXhH7R1yJGGf4QXhzEfx) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [UPPLOPP](https://open.spotify.com/album/6lLx8fBlqZzKuJ07F39PYE) | 2:29 | 2024-10-17 | 2025-02-21 |
 | [Uppoffringar](https://open.spotify.com/track/6IrDsxJQb7VyYkEooUWrm9) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [Uppoffringar](https://open.spotify.com/album/01n4JFTIjhjyrcoQVDEFEX) | 2:23 | 2025-11-27 | 2026-04-03 |

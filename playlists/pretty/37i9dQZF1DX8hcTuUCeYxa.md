@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Dottie Andersson
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,943 likes - 89 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,981 likes - 89 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 11 | [Get Back Into Myself](https://open.spotify.com/track/6hkv8uTu4KXuS8DWtHlYjG) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [Start To End / Get Back Into Myself](https://open.spotify.com/album/2hy9EN9Lqp4ZVcQ0Gttcaa) | 3:33 |
 | 12 | [Save Me](https://open.spotify.com/track/6o9YhJHVfjEikv4lHAt8ef) | [Joan As Police Woman](https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Real Life Evolution](https://open.spotify.com/album/74L4dvdjMnXTwMajarOTNm) | 3:22 |
 | 13 | [Mouse](https://open.spotify.com/track/54qjFrJ9cTjPzaGjCanyWS) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Mouse](https://open.spotify.com/album/5wEIxcoAinFbBzlOoFSbvG) | 4:57 |
-| 14 | [Track 4](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 0:00 |
+| 14 | [East Village](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 3:31 |
 | 15 | [I See A Darkness](https://open.spotify.com/track/5w8LG6HbJCtFz1YL5rYdlL) | [Alexis Taylor](https://open.spotify.com/artist/6zclVXoEfp3nFq4dOgqgOX), [Mike Simonetti](https://open.spotify.com/artist/39DBlSB32DrnRrqM6UUUsm) | [I See A Darkness / Perfect Kiss](https://open.spotify.com/album/5UQd0nOWCgO0trFdxqL4Cm) | 5:04 |
 | 16 | [daddy issues](https://open.spotify.com/track/4aktSA7vtw9vLvxOcIIrAN) | [Miyu Hansen](https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L) | [daddy issues](https://open.spotify.com/album/6HiZg3loJpBoct2oIDs2Cy) | 2:07 |
 | 17 | [call me yours](https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [call me yours](https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz) | 3:24 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 20 | [Monomyth](https://open.spotify.com/track/5KAt9cmzLzvgURe9sLe9HD) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Pathways](https://open.spotify.com/album/0qBNUB2o096UWhfb4PttT6) | 4:24 |
 | 21 | [Golden](https://open.spotify.com/track/3lqjk4RGUywuMGBMIoM4HM) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Golden](https://open.spotify.com/album/7rZetpyrFG0520jG68N02C) | 3:57 |
 | 22 | [Nothing's Accidental](https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH) | [After Louise](https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W) | [Nothing's Accidental](https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh) | 3:19 |
-| 23 | [Get Away](https://open.spotify.com/track/5wozBVcDxpyTODUktYmhmq) | [Pony Pony Run Run](https://open.spotify.com/artist/6RXZaVIbZfdngXJOSGrVH3), [Gaétan Réchin Lê Ky Huong](https://open.spotify.com/artist/1qUlnOQYeSU1NRHxz0bkEv) | [Get Away](https://open.spotify.com/album/6R5y4IG0M1xiHJNBAwxO7n) | 3:05 |
+| 23 | [Get Away](https://open.spotify.com/track/5wozBVcDxpyTODUktYmhmq) | [Pony Pony Run Run](https://open.spotify.com/artist/6RXZaVIbZfdngXJOSGrVH3) | [Get Away](https://open.spotify.com/album/6R5y4IG0M1xiHJNBAwxO7n) | 3:05 |
 | 24 | [Downtown](https://open.spotify.com/track/3DzGttI6fqfyQkTnjyfMfv) | [Güner Künier](https://open.spotify.com/artist/1R3ze0S5sCH3Hz9HXGxyk0) | [Downtown](https://open.spotify.com/album/4JRZwWYAFi5es6Lv3MPxEN) | 2:36 |
 | 25 | [The Drummer](https://open.spotify.com/track/0hyLoeSJbTjuAUG3VoFAAV) | [baby of the bunch](https://open.spotify.com/artist/7iL7kelM3H9pfMMozONQx4) | [The Drummer](https://open.spotify.com/album/19nGot7yaQxqyTb8gsIlg8) | 3:43 |
 | 26 | [Skagen](https://open.spotify.com/track/33uq9UYbtgn9ez1h8zew6t) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm), [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Skagen](https://open.spotify.com/album/5eGhFkivRRpuMB8nFtaTnI) | 4:17 |

@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-314 songs - 17 hr 57 min
+315 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [No Good Deed \(Arr\. Piano\) \- From "Wicked"](https://open.spotify.com/track/0ejqoAFBP9pjkhZbi0NQ3A) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [No Good Deed \(Arr\. Piano\) \[From "Wicked"\]](https://open.spotify.com/album/68uIlN5irtERm8vMJQoGdl) | 2:20 | 2025-12-22 |  |
 | [No Time to Die](https://open.spotify.com/track/4eznjoE1rjSyKgdJ9DxFCT) | [Queenz of Piano](https://open.spotify.com/artist/17L2cs2P9cHQy3hB7cYLkz) | [No Time to Die](https://open.spotify.com/album/75sRoVAu1jkQUHxGD448pr) | 2:21 | 2021-11-19 |  |
 | [No Woman, No Cry \(Arr\. Kanneh\-Mason for Solo Cello\)](https://open.spotify.com/track/1JUkO4vVk4LcvwP9sWBBRM) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Bob Marley: No Woman, No Cry \(Arr\. Cello\)](https://open.spotify.com/album/3cf57MihTJV4Flvpc6xGWk) | 2:26 | 2021-11-19 |  |
+| [Nobody Gets Me](https://open.spotify.com/track/17PrhKHUPE1jQCXICSK0n0) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs SZA](https://open.spotify.com/album/5Q7KPQNw5Cgj45IukOMrE1) | 2:59 | 2026-06-12 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/3naNsTepLAuwcBfcnAdhVe) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Nothing Compares 2 U](https://open.spotify.com/album/5rg0eZ1r4inp286NCvL8Bd) | 4:22 | 2023-04-14 |  |
 | [Nothing Else Matters](https://open.spotify.com/track/3uErbNGaNIPJkRlMrLxR9Z) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Inquisition Symphony](https://open.spotify.com/album/6leqa6QQESn76w64IdN9yQ) | 4:45 | 2022-07-08 | 2024-04-19 |
 | [Nothing Else Matters \- Instrumental Version](https://open.spotify.com/track/3RxE3PASwabEJSolUs1hh0) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Inquisition Symphony](https://open.spotify.com/album/43ZBK0wkWhW6v5Pdx7ht6d) | 4:45 | 2021-11-19 |  |

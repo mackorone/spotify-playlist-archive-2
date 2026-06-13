@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-251 songs - 12 hr 58 min
+252 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Badass Woman \- From The Motion Picture "The Hustle"](https://open.spotify.com/track/5Glf3tBr73L1fbO9u4pL7r) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Badass Woman \(From The Motion Picture "The Hustle"\)](https://open.spotify.com/album/3Tc9tsOEotcIxR8SPW1dxC) | 3:30 | 2023-12-30 | 2025-07-12 |
 | [Bang Dem Sticks](https://open.spotify.com/track/1aSjgqYklzgdzOXSXLrWSn) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:00 | 2023-12-30 | 2025-03-30 |
 | [Bang Dem Sticks](https://open.spotify.com/track/3SINAE3oDqcAYaAZhEVnug) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:00 | 2025-03-29 |  |
+| [Been Like This](https://open.spotify.com/track/04cyJEBNascBpFaYRES91n) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:25 | 2026-06-12 |  |
 | [Before You Go](https://open.spotify.com/track/0lMwaf3vDIAfv8ZOhnXCSG) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Hits & Mrs](https://open.spotify.com/album/79xIOd4YIBA2SX48eqRScj) | 3:11 | 2023-12-30 |  |
 | [Bestie](https://open.spotify.com/track/7rSjDodzlYElf1TWRdPVNh) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:11 | 2025-01-08 |  |
 | [Better](https://open.spotify.com/track/3zSTbsdVAUPDcICYOnTHij) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Better](https://open.spotify.com/album/2zIbD3uPv7hA2K4WanUi7b) | 5:57 | 2023-12-30 | 2024-02-02 |
@@ -84,8 +85,8 @@
 | [Forgive Me Father \(feat\. Meghan Trainor, Wiz Khalifa & Wale\)](https://open.spotify.com/track/2uWlfvIAzCtbpzGbXxkSJN) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Major Key](https://open.spotify.com/album/5qHyKDjwycRj1fJyPLt2HQ) | 4:06 | 2023-12-30 | 2025-07-12 |
 | [Friends](https://open.spotify.com/track/25NFp9ulrdE3oj8Y0r69NG) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:30 | 2023-12-30 | 2025-07-12 |
 | [Funk](https://open.spotify.com/track/68qpjOo2mKJ7TVxFF4rEXW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:11 | 2023-12-30 | 2025-07-12 |
-| [Genetics](https://open.spotify.com/track/2FOwRoyI2TTujfAGmHgEJP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Genetics](https://open.spotify.com/album/3tdsdSwWtAGr1eouGR8mS6) | 2:57 | 2023-12-30 | 2025-07-12 |
-| [Genetics \(feat\. Pussycat Dolls\)](https://open.spotify.com/track/59F7idTDMJppMZgR6YFy4P) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:57 | 2025-01-09 | 2025-04-12 |
+| [Genetics](https://open.spotify.com/track/2FOwRoyI2TTujfAGmHgEJP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Genetics](https://open.spotify.com/album/3tdsdSwWtAGr1eouGR8mS6) | 2:57 | 2023-12-30 |  |
+| [Genetics \(feat\. Pussycat Dolls\)](https://open.spotify.com/track/59F7idTDMJppMZgR6YFy4P) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:57 | 2025-01-09 |  |
 | [Get In Girl](https://open.spotify.com/track/39xln8inF22akX74IBkwyG) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/4NkyWMwVeGOTzWYxcpmYtV) | 3:26 | 2026-04-26 |  |
 | [Get In Girl](https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Get In Girl](https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk) | 3:26 | 2026-03-04 | 2026-04-27 |
 | [Get Some](https://open.spotify.com/track/3jvLOq1pFRGjD2cn9WOYDr) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs) | [Get Some](https://open.spotify.com/album/3Lj2MiaSUpmy5ahGGS6VAT) | 2:49 | 2023-12-30 | 2025-07-12 |

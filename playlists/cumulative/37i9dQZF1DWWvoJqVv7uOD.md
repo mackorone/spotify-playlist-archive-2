@@ -2,9 +2,9 @@
 
 ### [Everyday Favorites ](https://open.spotify.com/playlist/37i9dQZF1DWWvoJqVv7uOD)
 
-> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Niall Horan
+> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Shaboozey
 
-896 songs - 2 day 0 hr 56 min
+897 songs - 2 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 | 2023-04-14 | 2023-08-05 |
 | [Convertible in the Rain](https://open.spotify.com/track/1fZ8mppAUR8G9DHzDd8nID) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Convertible in the Rain](https://open.spotify.com/album/4Ef3H9zyvX7nmOCnagOjpp) | 3:52 | 2022-11-04 | 2023-01-06 |
 | [Cover Me In Sunshine](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [Cover Me In Sunshine](https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI) | 2:21 | 2022-02-04 | 2022-04-29 |
+| [Cowgirl](https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowgirl](https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR) | 2:56 | 2026-06-12 |  |
 | [Cozy](https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cozy](https://open.spotify.com/album/4xsI12SdxzxVyikl8PRuX3) | 2:45 | 2024-05-24 | 2025-06-28 |
 | [Criminal \- From the Original Motion Picture Scream 7](https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Criminal \(From the Original Motion Picture Scream 7\)](https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS) | 3:19 | 2026-02-27 |  |
 | [Cross Your Mind](https://open.spotify.com/track/5sPaFuUttXaGeMhq1HKJG5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:32 | 2022-06-17 | 2023-06-10 |
@@ -293,7 +294,7 @@
 | [go \(feat\. Sam Smith\)](https://open.spotify.com/track/7kgNbYOyDZPzDVE89mLs1O) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:35 | 2022-08-19 | 2022-12-17 |
 | [Go Getter](https://open.spotify.com/track/4SuT3gebBDQuDgfmkMsjzn) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Go Getter](https://open.spotify.com/album/70hjGhT2FQRdYU7qShBj5L) | 4:03 | 2023-05-26 | 2023-06-10 |
 | [God Needs The Devil](https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [God Needs The Devil](https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl) | 3:12 | 2024-06-07 | 2025-09-21 |
-| [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-06 |  |
+| [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-06 | 2026-06-13 |
 | [Gold](https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold](https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC) | 2:50 | 2023-03-18 | 2023-08-26 |
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-23 |  |
 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 | 2025-10-10 |  |

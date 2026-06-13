@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la variété française avec Ambre
 
-502 songs - 1 day 0 hr 37 min
+502 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Que tu restes](https://open.spotify.com/track/1ckpbpRvFOlDZ006AVXw7Y) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Équilibre \(Summer Édition\)](https://open.spotify.com/album/4aX6qGfTFevsgX6v4yBMvU) | 2:59 | 2024-07-04 | 2024-10-18 |
 | [Quelle époque](https://open.spotify.com/track/25ez46scpanlXxlyGX7oEN) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [MINUIT UNE](https://open.spotify.com/album/68Ytb90ofkAKWRfp2D5h1t) | 2:35 | 2026-04-23 |  |
 | [Qui j'étais](https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [La Pieva](https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi) | 2:48 | 2024-09-12 | 2024-10-04 |
+| [Qui tu es](https://open.spotify.com/track/0kTT5VNqlJhx1Fx9M7bbQL) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Ne m'oublie pas](https://open.spotify.com/album/7zUr0UTcXLNTSbNvRfZfKb) | 3:27 | 2026-06-11 |  |
 | [Quitte](https://open.spotify.com/track/0dYX1WMinCmUTwkRY7WEC4) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Il était une fois](https://open.spotify.com/album/6C8PoyDBrHfl7DQ7ZrLo6l) | 3:18 | 2024-10-03 | 2024-11-29 |
 | [quoi faire de moi](https://open.spotify.com/track/4R6aDdHLgXRX2pwTxTSTzH) | [melissa](https://open.spotify.com/artist/77pC16FFzTR8m9sK49Miba) | [quoi faire de moi](https://open.spotify.com/album/698FipgX2lw3Av6yO7yNX6) | 2:30 | 2026-05-21 |  |
 | [Quoi qu'il arrive ça va aller](https://open.spotify.com/track/7hNaD6OzZ8rYhTcigE5Poc) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Quoi qu'il arrive ça va aller](https://open.spotify.com/album/1fOrrU8r2xfIVAdItjpKwr) | 3:17 | 2024-11-28 | 2025-01-10 |
@@ -468,7 +469,6 @@
 | [Tout Petit](https://open.spotify.com/track/0uJdIiu2BEyI6ZZN8wijhL) | [Eko Eko](https://open.spotify.com/artist/3cxkXrcBFcbFgTmrvG6rOY) | [Tout Petit](https://open.spotify.com/album/3b8PMF3afnavT72CLkvcaf) | 2:42 | 2024-11-07 | 2025-01-31 |
 | [Toute seule \- 2024](https://open.spotify.com/track/3J1lGIvRnqJ2XmVgwi9TMP) | [Lorie](https://open.spotify.com/artist/2ixb8I8BVdLRywPPklssgM), [RORI](https://open.spotify.com/artist/3P3yXPp61UWZk8MqFpneQ8) | [Hyper Lorie \(Vol\. 2\)](https://open.spotify.com/album/3DekfUe0VqOZvdjinQLPLL) | 2:20 | 2024-06-27 | 2024-07-05 |
 | [Toxic et Chic](https://open.spotify.com/track/5r1IA22XOXDAmjs7nsfBnP) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Toxic et Chic](https://open.spotify.com/album/5fpIrCqzg5z7iAmaqVHAaA) | 2:48 | 2025-09-25 | 2026-01-23 |
-| [Track 2](https://open.spotify.com/track/0kTT5VNqlJhx1Fx9M7bbQL) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Ne m'oublie pas](https://open.spotify.com/album/7zUr0UTcXLNTSbNvRfZfKb) | 0:00 | 2026-06-11 |  |
 | [Triste](https://open.spotify.com/track/0updbmtMXsLlh6c2W737wj) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Triste](https://open.spotify.com/album/1o6aquW9UNM6TGJZgm48be) | 3:09 | 2025-02-13 | 2025-03-28 |
 | [Trop Tard](https://open.spotify.com/track/0OJpglHVxyokxVB7VBmVIk) | [Montemarco](https://open.spotify.com/artist/3A86WsWLl8c2VVUhIKbQHq) | [Trop Tard](https://open.spotify.com/album/16SE31kgN4LB3RnCoW4w3B) | 3:21 | 2026-03-12 |  |
 | [Trop tôt](https://open.spotify.com/track/5jIXED6iAgytXBQSmkyhGc) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Trop tôt](https://open.spotify.com/album/0b1MHM0bqn9ovncFVQs49z) | 2:51 | 2024-06-27 | 2024-08-23 |

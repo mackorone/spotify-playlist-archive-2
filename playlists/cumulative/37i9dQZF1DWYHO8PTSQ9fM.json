@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "The hottest hits right now. Cover: Dizzy DROS",
+  "description": "The hottest hits right now. Cover: Stormy",
   "name": "Hot Hits Morocco",
   "tracks": [
     {
@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Chlahbiya",
+        "url": "https://open.spotify.com/album/0YXWg7nVytp6QE9yjKJU4S"
+      },
+      "artists": [
+        {
+          "name": "Mounim Slimani",
+          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194366,
+      "name": "Chlahbiya",
+      "url": "https://open.spotify.com/track/30U031LnjvezZQZu9eSexR"
+    },
+    {
+      "album": {
         "name": "Chouwafat",
         "url": "https://open.spotify.com/album/3h7c3KmNTk1OTdLEhKLBlp"
       },
@@ -3190,7 +3208,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 237928,
       "name": "Folded",
       "url": "https://open.spotify.com/track/6sTlzpJaFGkFQ4BNccmbW9"
@@ -3226,7 +3244,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -5107,6 +5125,28 @@
     },
     {
       "album": {
+        "name": "LALLAMOULATI",
+        "url": "https://open.spotify.com/album/0FvCxvIwXzYXOwkxOThhkx"
+      },
+      "artists": [
+        {
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+        },
+        {
+          "name": "Nada",
+          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191326,
+      "name": "LALLAMOULATI",
+      "url": "https://open.spotify.com/track/4POLmYRdKueIekaWLPZsEu"
+    },
+    {
+      "album": {
         "name": "AFLAM",
         "url": "https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz"
       },
@@ -5202,6 +5242,24 @@
       "duration_ms": 202191,
       "name": "Lmouje",
       "url": "https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU"
+    },
+    {
+      "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/531r0snKCGKu4Eb6yNMsNS"
+      },
+      "artists": [
+        {
+          "name": "Lakamura",
+          "url": "https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/2QVScxNp2qLnKflRftE2Kx"
     },
     {
       "album": {
@@ -7106,7 +7164,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 183999,
       "name": "OMAR",
       "url": "https://open.spotify.com/track/1EbiUYXaBSCEShyNcuywcl"
@@ -7190,7 +7248,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 193103,
       "name": "OTAGE",
       "url": "https://open.spotify.com/track/09CMjY5ObC4G9NNyGH7Upc"
@@ -7530,6 +7588,24 @@
       "duration_ms": 178319,
       "name": "Pichichi",
       "url": "https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj"
+    },
+    {
+      "album": {
+        "name": "L'undertaker Part.1",
+        "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
     },
     {
       "album": {
@@ -7974,7 +8050,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 163995,
       "name": "RIRI&ROCKY",
       "url": "https://open.spotify.com/track/19LbDmKNHzrs3oPfpEiE5J"
@@ -8352,6 +8428,28 @@
       "duration_ms": 167730,
       "name": "Salade Coco",
       "url": "https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh"
+    },
+    {
+      "album": {
+        "name": "SALGOAT (Vol. 2)",
+        "url": "https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196510,
+      "name": "SAMEDI (feat. Shaw)",
+      "url": "https://open.spotify.com/track/7fZb2RuXEEMnFBW3KNZt7D"
     },
     {
       "album": {

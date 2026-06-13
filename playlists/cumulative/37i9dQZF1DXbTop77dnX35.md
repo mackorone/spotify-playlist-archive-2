@@ -2,7 +2,7 @@
 
 ### [New Music Friday Naija](https://open.spotify.com/playlist/37i9dQZF1DXbTop77dnX35)
 
-> New Music from Ayra Starr, MOLIY, Shoday, 6uff, Bloody Civilian and more
+> New Music from Ayra Starr, Shoday, 6uff, Bloody Civilian and more
 
 6,068 songs - 12 day 18 hr 19 min
 
@@ -5041,7 +5041,7 @@
 | [Space](https://open.spotify.com/track/7eLiZCx55Yds7xwRiXOfRR) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Space](https://open.spotify.com/album/53yStBYbIQTT65ul6LXudf) | 3:48 | 2024-09-27 | 2024-10-04 |
 | [Space For You](https://open.spotify.com/track/1wjq1c1yvC90C6MltEXxbR) | [Kobi Jonz](https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR) | [Space For You](https://open.spotify.com/album/2px0XFJj3UXgcpTQxP5mHv) | 2:13 | 2025-05-02 | 2025-05-09 |
 | [SPACE INVADER](https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SPACE INVADER](https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL) | 4:34 | 2025-08-15 | 2025-08-22 |
-| [SpaceFuji](https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Terry apala](https://open.spotify.com/artist/1Ct52UFTjvAZu1pOuMWXY1), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SpaceFuji](https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP) | 3:19 | 2026-06-12 |  |
+| [SpaceFuji](https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SpaceFuji](https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP) | 3:19 | 2026-06-12 |  |
 | [Spaceships](https://open.spotify.com/track/111lORD99rTGIGgMVISJvj) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Shea Butter Boy II](https://open.spotify.com/album/7cuPn33ybJhRdstcPfStI8) | 3:41 | 2024-09-06 | 2024-09-13 |
 | [Spaghetti](https://open.spotify.com/track/53ZPK0Ltgi5mQAHGm8dqWt) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Spaghetti](https://open.spotify.com/album/1pZ1HTqqaNNC312zmgpaBx) | 2:08 | 2025-10-10 | 2025-10-17 |
 | [speak now](https://open.spotify.com/track/1U7EDHJNa3CbkI5AxyzykX) | [giuliette price](https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p) | [ANXIOUSLY PREOCCUPIED](https://open.spotify.com/album/5zgywYv1iXrgnJt8BbVGvi) | 3:42 | 2025-11-07 | 2025-11-14 |

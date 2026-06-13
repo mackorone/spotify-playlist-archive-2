@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB3I8cNRRcD.md) - [plain]
 
 > enjoy the setlist of BTS WORLD TOUR \[ARIRANG\] \(BTS WORLD TOUR \[ARIRANG\]의 셋리스트를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,499 likes - 20 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,092 likes - 20 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

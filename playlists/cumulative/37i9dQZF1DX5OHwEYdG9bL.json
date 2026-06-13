@@ -2151,6 +2151,32 @@
     },
     {
       "album": {
+        "name": "ICONIC BY MISTAKE",
+        "url": "https://open.spotify.com/album/0gjfMkpsH1y95M4wfe7WUJ"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199540,
+      "name": "ICONIC BY MISTAKE",
+      "url": "https://open.spotify.com/track/74N8QkVmJgLKXMqHS27I3T"
+    },
+    {
+      "album": {
         "name": "IF I",
         "url": "https://open.spotify.com/album/2SmHfHMy1drmPoVkzglr7g"
       },

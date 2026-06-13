@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268395,
+      "name": "A King's Sunset",
+      "url": "https://open.spotify.com/track/7sALWqhJo9Bv2QHVWyDjZa"
+    },
+    {
+      "album": {
         "name": "WandaVision: Episode 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7cT5OHwrPtilc4Mf7hBU6N"
       },
@@ -4570,7 +4592,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 34213,
       "name": "W-V 2000 - Instrumental",
       "url": "https://open.spotify.com/track/1Vm5FUNmEFwIEtrAak5RkS"

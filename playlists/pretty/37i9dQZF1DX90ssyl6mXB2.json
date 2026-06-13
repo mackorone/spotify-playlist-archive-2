@@ -1,13 +1,29 @@
 {
-  "description": "late night vibes \u2013 notifications off. cover: Drake",
-  "num_followers": 176628,
+  "description": "late night vibes \u2013 notifications off. cover: Qiuntelli",
+  "num_followers": 176636,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHkWtNTxILrTTnTtV/qICX0o1sgM",
+  "snapshot_id": "AAAAANYqN3yruUQu9IiWKmtKmxe8J3fN",
   "tracks": [
+    {
+      "added_at": "2026-06-12 08:00:11",
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/2wC9Q0kbqgU0xpI4o4xZw0"
+      },
+      "artists": [
+        {
+          "name": "Qiuntellii",
+          "url": "https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS"
+        }
+      ],
+      "duration_ms": 136509,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/22Icf9HFciTcBTcQc908uu"
+    },
     {
       "added_at": "2026-05-15 07:09:03",
       "album": {

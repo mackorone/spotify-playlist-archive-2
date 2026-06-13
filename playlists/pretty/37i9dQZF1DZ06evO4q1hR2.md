@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,694 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,737 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 12 | [Juan Ramos](https://open.spotify.com/track/1UbzmkVajS4YyoJLuGP7q9) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Amo](https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj) | 2:57 |
 | 13 | [Treinta Cartas](https://open.spotify.com/track/7pAUPye8Lip2VnKmnzRiHD) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:28 |
 | 14 | [Te Vas Amor](https://open.spotify.com/track/2FyGHZ2weVG3zFAskJLwAK) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Amor No Tiene Edad](https://open.spotify.com/album/5ld9ikvXhVrDJ0D3OwPY5K) | 2:25 |
-| 15 | [Me Dicen El Coyote](https://open.spotify.com/track/3GR7FYFiKo2IjcLdjtPXm8) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Décimo Aniversario](https://open.spotify.com/album/31w209dWhowxYQiiTqA83o) | 2:22 |
-| 16 | [No Puedo Olvidar Tu Voz](https://open.spotify.com/track/0dcmh8adgSXu94G9N0Eunt) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Profundamente](https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i) | 3:47 |
+| 15 | [No Puedo Olvidar Tu Voz](https://open.spotify.com/track/0dcmh8adgSXu94G9N0Eunt) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Profundamente](https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i) | 3:47 |
+| 16 | [Me Dicen El Coyote](https://open.spotify.com/track/3GR7FYFiKo2IjcLdjtPXm8) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Décimo Aniversario](https://open.spotify.com/album/31w209dWhowxYQiiTqA83o) | 2:22 |
 | 17 | [La Escuela de la Vida](https://open.spotify.com/track/4SWNOnYG8zGt2YSTzx4HkU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Escuela de la Vida](https://open.spotify.com/album/7rCXWWp8dk5w1qiO1WyW0v) | 2:22 |
 | 18 | [Gabino Barrera](https://open.spotify.com/track/4tAEa8PCDCdGJxmDnyjguB) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 3:25 |
 | 19 | [Amor Pajarito](https://open.spotify.com/track/40GoQdAvYcAUmyT7N56vN1) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Grandes Exitos](https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA) | 3:03 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 29 | [La Prieta Linda](https://open.spotify.com/track/0P2uUhEU7JeVPCwFnxhrAD) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Cuando Regreso A Tus Brazos](https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ) | 3:27 |
 | 30 | [Te Dije](https://open.spotify.com/track/2WisqOuLSNW8yUpwlkf5jN) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Dije](https://open.spotify.com/album/26PMGTiJDxG2Pm7s7kdMrE) | 3:02 |
 | 31 | [Sufro](https://open.spotify.com/track/2Kf5AQerl18JGFq5MQDhSD) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Grandes Exitos](https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA) | 3:13 |
-| 32 | [Hablando Claro](https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 2:16 |
-| 33 | [Ranchero Enamorado](https://open.spotify.com/track/1eiKBldR09jvV2omvD6PQF) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Nacimos Pa' Ser Historia](https://open.spotify.com/album/1g3rciYVTPekvreB0E5tcK) | 2:57 |
+| 32 | [Ranchero Enamorado](https://open.spotify.com/track/1eiKBldR09jvV2omvD6PQF) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Nacimos Pa' Ser Historia](https://open.spotify.com/album/1g3rciYVTPekvreB0E5tcK) | 2:57 |
+| 33 | [Hablando Claro](https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 2:16 |
 | 34 | [El Último Trago](https://open.spotify.com/track/20UlSvvTAh3C0Mdxetu5OU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Rancho Grande](https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e) | 2:01 |
 | 35 | [Amor Imposible](https://open.spotify.com/track/6QxIAW54300NHUEpSCOfRq) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Grandes Exitos](https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA) | 2:54 |
 | 36 | [Piquetes De Hormiga](https://open.spotify.com/track/4u5dcho6aCcdwJoNPCm7bu) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Coleccion Suprema](https://open.spotify.com/album/5IUhaLA9PFfj1UgknJ0I5f) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 49 | [La Loba del Mar](https://open.spotify.com/track/01l0Stxns89Z2b4UCRZQgZ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como Una Huella Digital](https://open.spotify.com/album/2dkCnatj0xFwKpng8Sxgn3) | 2:23 |
 | 50 | [Alguien Dijo](https://open.spotify.com/track/66NFHHcWEEcKLfwhYzdtDy) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Alguien Dijo](https://open.spotify.com/album/7hchsfuOEnlS3RZJDlZiLI) | 2:17 |
 
-Snapshot ID: `aidXgAAAAABMUoqxu24L61hiBmsahkfh`
+Snapshot ID: `ain6gAAAAAA4s62c5nTaLxDhCVyLuS28`

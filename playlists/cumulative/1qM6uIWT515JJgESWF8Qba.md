@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-254 songs - 15 hr 57 min
+255 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Another Road](https://open.spotify.com/track/240unn2aJKGurliwi6lJF2) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7), [Erim Ahmet](https://open.spotify.com/artist/2PmZza7fj5zPBKqLAchsjv) | [Another Road](https://open.spotify.com/album/1ns78XX82aqpqIKgdLkxAB) | 4:13 | 2025-10-02 |  |
 | [April Breaking Down](https://open.spotify.com/track/4osFu1AgRmoZPpx06I6Mlk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 4:20 | 2025-12-20 | 2026-01-21 |
 | [Away](https://open.spotify.com/track/2tm4WMB9krMVIFdbKfMw14) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Plight Goes On](https://open.spotify.com/album/7C005ZPm1M5yhw4pEWE2lX) | 3:32 | 2025-12-25 | 2026-01-21 |
+| [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 | 2026-06-12 |  |
 | [bad lover](https://open.spotify.com/track/4x6kXW5VVDFON1BaVI9OtG) | [Brake Loose](https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA) | [bad lover](https://open.spotify.com/album/0M4u625Q69qPri1148zoe3) | 4:57 | 2026-05-14 |  |
 | [Bad Omens](https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [Bad Omens](https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD) | 3:53 | 2026-05-04 |  |
 | [Bad Penny](https://open.spotify.com/track/5VJLnfXSib5ZcoQD4ugJuS) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Bad Penny](https://open.spotify.com/album/0WlFjbYONFwfyUeIyoCbCO) | 4:27 | 2026-05-26 |  |

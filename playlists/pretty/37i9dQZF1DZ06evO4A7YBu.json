@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 43075,
+  "num_followers": 43085,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAABhTO3QAj3ritsS7j2qzLwS",
+  "snapshot_id": "ain6gAAAAADBAmnHFpKgyzTKhvbre9vL",
   "tracks": [
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
+        "name": "Beneath...Between...Beyond...",
+        "url": "https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 219426,
-      "name": "Structural Defect",
-      "url": "https://open.spotify.com/track/59ej8sGCYuLwaAR3EDSOmR"
+      "duration_ms": 166133,
+      "name": "Head",
+      "url": "https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beneath...Between...Beyond...",
-        "url": "https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr"
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 166133,
-      "name": "Head",
-      "url": "https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2"
+      "duration_ms": 219426,
+      "name": "Structural Defect",
+      "url": "https://open.spotify.com/track/59ej8sGCYuLwaAR3EDSOmR"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Jic Boi",
-      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
+      "duration_ms": 226734,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 226734,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd"
+      "duration_ms": 178000,
+      "name": "Jic Boi",
+      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
     },
     {
       "added_at": null,

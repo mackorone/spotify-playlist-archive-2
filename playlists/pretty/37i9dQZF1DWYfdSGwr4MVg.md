@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfdSGwr4MVg.md) - [plain]
 
 > Gentle lullabies that soothe, relax, and ease your baby to sleep 🧸🌙💤
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,445 likes - 76 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,448 likes - 76 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfdSGwr4MVg.md) - [plain]
 | 7 | [Red River Valley \(with white noise\)](https://open.spotify.com/track/10D8BQnCNy7SSaKIpTWX6H) | [Beddy Bye](https://open.spotify.com/artist/576yCUKgUjt64R9dhFtvAN) | [Red River Valley \(with white noise\)](https://open.spotify.com/album/0v65WpWg1SpSnCLkzLzZxJ) | 1:57 |
 | 8 | [You Are My Sunshine](https://open.spotify.com/track/5NIYDn44f2HrODHWgs33YM) | [Nursery Rhymes ABC](https://open.spotify.com/artist/26UV9EKIInWeV0jJysGZum) | [Baby Lullabies with Soothing Night\-time Sounds](https://open.spotify.com/album/5sk7NGcbl17JL2OtXsokiQ) | 3:21 |
 | 9 | [Berceuse \(Lullaby\)](https://open.spotify.com/track/4LJThB8XFjrimvMa2NC3J8) | [everall](https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX) | [Berceuse \(Lullaby\)](https://open.spotify.com/album/1GRrawch74Br8IAjxEP9BB) | 2:58 |
-| 10 | [Anti\-Hero](https://open.spotify.com/track/3xtkRIzK313eYxlcP0nAFN) | [Judith Georges](https://open.spotify.com/artist/463WQwqzy398f40pfXorNA) | [Anti\-Hero](https://open.spotify.com/album/5IFEd96lNspIn4OIo9JhAi) | 2:35 |
+| 10 | [Anti\-Hero](https://open.spotify.com/track/3xtkRIzK313eYxlcP0nAFN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Judith Georges](https://open.spotify.com/artist/463WQwqzy398f40pfXorNA) | [Anti\-Hero](https://open.spotify.com/album/5IFEd96lNspIn4OIo9JhAi) | 2:35 |
 | 11 | [Yesterday](https://open.spotify.com/track/2hfvOQw2tpwq7MQYbN8xnh) | [Pomme d'Étoile](https://open.spotify.com/artist/1IrrfbcOGDtmxI4UfOviDn) | [Yesterday](https://open.spotify.com/album/0mdkVhsIFByhbFTerqnn01) | 2:58 |
 | 12 | [The Magic Pebble](https://open.spotify.com/track/10SQBKI650syEt7OlgzS7L) | [Eja Bergelin](https://open.spotify.com/artist/4wZnTEHFsSwqUmu8dLzD2X) | [The Magic Pebble](https://open.spotify.com/album/3TZj2y4KNho1KIwlsiCjO0) | 2:36 |
 | 13 | [Somewhere Over the Rainbow](https://open.spotify.com/track/7pKVxdbAoEt0meMwn0hH6Y) | [Thomas Kessler](https://open.spotify.com/artist/7gladxebEaXEnycRmspgzJ) | [Somewhere Over the Rainbow](https://open.spotify.com/album/4ZnsQGid6RYqiJe55Ro3Ey) | 2:21 |

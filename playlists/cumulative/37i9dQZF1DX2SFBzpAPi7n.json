@@ -15801,6 +15801,24 @@
     },
     {
       "album": {
+        "name": "SHADOW",
+        "url": "https://open.spotify.com/album/6muSWdDksJvCmn7S5P4H7t"
+      },
+      "artists": [
+        {
+          "name": "LEE JAEWOOK",
+          "url": "https://open.spotify.com/artist/6x6yUAhXzIgufongB7oL26"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208707,
+      "name": "SHADOW",
+      "url": "https://open.spotify.com/track/6SrrblihuGeDKOa91OnOFu"
+    },
+    {
+      "album": {
         "name": "Shame On You",
         "url": "https://open.spotify.com/album/2SGMfisblO95lG7rMywqz0"
       },
@@ -17328,7 +17346,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 231160,
       "name": "Sunshine Bless You",
       "url": "https://open.spotify.com/track/3KQ3fLAkMYyCWQLCi60zeE"

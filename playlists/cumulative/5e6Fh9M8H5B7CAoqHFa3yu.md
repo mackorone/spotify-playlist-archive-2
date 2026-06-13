@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,310 songs - 5 day 16 hr 30 min
+2,312 songs - 5 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -984,6 +984,7 @@
 | [IO SONO QUI](https://open.spotify.com/track/0OLOmMmkbfMY3c39PtjXqy) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [IO SONO QUI](https://open.spotify.com/album/3nrsk9jpePUmSKLpti0HoO) | 4:16 | 2025-03-20 |  |
 | [IP Man Dub](https://open.spotify.com/track/1iZcwAEcBLwq7PIXMeFeEt) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 4:24 | 2024-05-01 |  |
 | [Irie Transmission](https://open.spotify.com/track/7fW3loauI5joC4CHmukeDT) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw) | [Lost Transmissions](https://open.spotify.com/album/1IvD6MDub4gPiIz4VcZByo) | 4:15 | 2024-03-25 |  |
+| [Is This Love](https://open.spotify.com/track/4cMjphwBnAg4LIvGFnK5fs) | [Bon Echo](https://open.spotify.com/artist/0cptB7nxVh6aCVkUZcrSLy) | [Is This Love](https://open.spotify.com/album/2zpdyhQ6qYlKnvrpnCL3AO) | 2:09 | 2026-06-12 |  |
 | [Isaiah](https://open.spotify.com/track/7cZnZbWC4WazQQVlw1YsiO) | [SistaSara](https://open.spotify.com/artist/5FlVmD8yus10fruwtb3jFg) | [Space Stepper](https://open.spotify.com/album/1NTA9xNmI3UWkvfn0m63ui) | 3:36 | 2024-05-04 |  |
 | [Isn't It a Pity \- Version 1 \- 2020 Mix](https://open.spotify.com/track/4eqUOw3lQ366iJwDv9sSJi) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary \- Super Deluxe\)](https://open.spotify.com/album/1EFOYsAkyfwLkS5OPfobak) | 7:10 | 2026-03-15 |  |
 | [Istanti](https://open.spotify.com/track/0eSpYJexCl777deCYp24Pr) | [Marco Labbate](https://open.spotify.com/artist/6IPAFrlvTCpVg95pj3GykX) | [Istanti](https://open.spotify.com/album/318dHLeE2qPqiiwX6Qpie6) | 3:29 | 2024-10-12 |  |
@@ -1523,6 +1524,7 @@
 | [Pizza Funghi](https://open.spotify.com/track/5xW0M3w4m9fQdBbTbpWca4) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Funghi](https://open.spotify.com/album/6iLwnrQTImmq300jcdRrMC) | 2:44 | 2025-12-30 |  |
 | [Pizza Margherita](https://open.spotify.com/track/4kgnunK2B5xNufsIe8LOMX) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Margherita](https://open.spotify.com/album/4Hh5YJKxTxrKu2Nab4mhJz) | 2:10 | 2026-03-17 |  |
 | [Pizza Pepperoni](https://open.spotify.com/track/0QesMcqtIJuPYELEnpIQIF) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Pepperoni](https://open.spotify.com/album/526zGbVmgH3mxUafAM80ov) | 2:21 | 2026-04-14 |  |
+| [Più Vicini al Cielo](https://open.spotify.com/track/2BAhnHQKWm5vM3q1QTrLsl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Più Vicini al Cielo](https://open.spotify.com/album/2NSBRvmswoVucTOLRUFKzJ) | 3:21 | 2026-06-12 |  |
 | [Place of Gods](https://open.spotify.com/track/7vNAnwOPK4NjIZRShR9iv9) | [SHA\-N](https://open.spotify.com/artist/06WMwT5suuRVkNuADN1nJ7) | [5TH DIMENSION](https://open.spotify.com/album/2raSu29sR5ZtJDTeOZEZJ0) | 4:12 | 2026-03-17 |  |
 | [Planta Crecer](https://open.spotify.com/track/3bwexrnqApEcDKEEOMy7J6) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Planta Crecer](https://open.spotify.com/album/4Hug1prc0w4BrGHmQHbHPQ) | 5:04 | 2025-11-18 |  |
 | [Please](https://open.spotify.com/track/1XpVhaI4HzWrhRWIpdfyJB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:52 | 2026-04-12 |  |

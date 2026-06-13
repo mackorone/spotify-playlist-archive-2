@@ -2,7 +2,7 @@
 
 ### [Today's Punk](https://open.spotify.com/playlist/37i9dQZF1DXdOAw8BT7AHt)
 
-> The best of every corner of modern punk rock\. Cover: Ecca Vandal
+> The best of every corner of modern punk rock\. Cover: Sweet Pill
 
 770 songs - 1 day 14 hr 51 min
 

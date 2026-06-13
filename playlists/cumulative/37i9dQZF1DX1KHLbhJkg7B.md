@@ -2,9 +2,9 @@
 
 ### [Country Covers](https://open.spotify.com/playlist/37i9dQZF1DX1KHLbhJkg7B)
 
-> Unique covers by your favorite country artists\. Cover: Bailey Zimmerman
+> Unique covers by your favorite country artists\. Cover: Keith Urban
 
-461 songs - 1 day 4 hr 45 min
+463 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Funny How Time Slips Away \- Live at The Hollywood Bowl, Los Angeles, CA \- April 30, 2023](https://open.spotify.com/track/6P61IM7ZYZZBkGWLCiBo06) | [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2) | [Funny How Time Slips Away \(from Long Story Short: Willie Nelson 90 \- Live\)](https://open.spotify.com/album/4rgcCRcwpmWK4PqMvnYJsl) | 3:46 | 2023-10-20 | 2023-11-25 |
 | [Genie In A Bottle](https://open.spotify.com/track/3w5YJiz32rxDgteI68XxMK) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Genie In A Bottle](https://open.spotify.com/album/1BcfiXljRfyRP91OvKZz57) | 3:51 | 2023-11-03 |  |
 | [Gentle On My Mind](https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s) | 4:05 | 2022-01-21 | 2022-07-27 |
-| [Gentle On My Mind](https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Glen Campbell I'll Be Me Soundtrack](https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa) | 3:09 | 2021-12-10 |  |
+| [Gentle On My Mind](https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Glen Campbell I'll Be Me Soundtrack](https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa) | 3:09 | 2021-12-10 | 2026-06-13 |
 | [Georgia On My Mind](https://open.spotify.com/track/0DlpK5WlWkRC4Twzzouijh) | [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC) | [Georgia On My Mind](https://open.spotify.com/album/4YQ5hWyTOmmFZzlq2ywsgM) | 3:23 | 2022-03-25 | 2022-04-21 |
 | [Georgia on My Mind](https://open.spotify.com/track/6HiFnWODv0Cn8CkNpYpAoL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Georgia on My Mind](https://open.spotify.com/album/1DoGf1omIVvFOHrVOOAAMa) | 4:13 | 2024-05-17 | 2024-09-21 |
 | [Ghost](https://open.spotify.com/track/1IUEz40wavYETWJgak8iI3) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [2022](https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC) | 2:26 | 2023-01-27 | 2024-08-03 |
@@ -151,6 +151,7 @@
 | [Graveyard Whistling](https://open.spotify.com/track/7kLC499Jj7W8kZUfvZsq5S) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Graveyard Whistling](https://open.spotify.com/album/7b3A1mZPmO9P7zHWAgr1U3) | 4:04 | 2025-10-17 |  |
 | [Gravity](https://open.spotify.com/track/50bl0NTA9dEgHCQmgZ4mgh) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [The Continuum Project](https://open.spotify.com/album/7ljTrfut56dtqVFM3nDmyI) | 4:24 | 2022-01-07 | 2022-07-29 |
 | [Greedy \- Country Version](https://open.spotify.com/track/0thzAxCyLFOQJ6JwbThQ3R) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Greedy \(Country Version\)](https://open.spotify.com/album/4k7gV0lfcX1r0nQkV9qYbh) | 2:21 | 2025-02-21 | 2025-03-17 |
+| [Guitar Man \(ft\. John Mayer\)](https://open.spotify.com/track/75935bRXF7MDhygU4wmSpI) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [flow state](https://open.spotify.com/album/2ap2eUHSoEZhUAj1ybgask) | 5:09 | 2026-06-12 |  |
 | [Hallelujah](https://open.spotify.com/track/7dJQE9KR1E8rNKw6MQKVbb) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Hallelujah](https://open.spotify.com/album/0a5b336bi3yEiuEKDgkggS) | 4:07 | 2021-12-10 | 2023-02-25 |
 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 | 2021-12-10 | 2026-05-26 |
 | [Handsomer](https://open.spotify.com/track/0T6y71ITwHF0Ab4fqoz9nr) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Handsomer](https://open.spotify.com/album/639QBBCG2rzXg2nOOOPwS3) | 2:17 | 2022-07-08 | 2022-07-29 |
@@ -365,7 +366,7 @@
 | [Summer Breeze](https://open.spotify.com/track/3m8io2UpoJNECNufNt5SW4) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Summer Breeze](https://open.spotify.com/album/7hNEpM2NFJUYc6KcoPOpLW) | 4:00 | 2026-05-01 |  |
 | [Summertime Blues](https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 3:12 | 2022-03-25 | 2024-08-03 |
 | [sun to me](https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [sun to me](https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW) | 2:38 | 2024-07-19 |  |
-| [Sundown](https://open.spotify.com/track/67jc5KchHkzbaMwTeUhMyT) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Sundown](https://open.spotify.com/album/7GNQPMEA9DhJ1eHPIpFe7g) | 3:36 | 2024-08-30 |  |
+| [Sundown](https://open.spotify.com/track/67jc5KchHkzbaMwTeUhMyT) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Sundown](https://open.spotify.com/album/7GNQPMEA9DhJ1eHPIpFe7g) | 3:36 | 2024-08-30 | 2026-06-13 |
 | [Suspicious Minds](https://open.spotify.com/track/4GodBGiUwjcXkDB8i3OAMW) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Everlasting](https://open.spotify.com/album/3ftsdPLG1aVrGMOEK1WoZB) | 3:50 | 2021-12-10 | 2022-07-29 |
 | [Take It Easy \- 2006 Remaster](https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Very Best of Travis Tritt](https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx) | 3:33 | 2021-12-10 |  |
 | [Take Me Back to Tulsa \(feat\. George Strait and Willie Nelson\)](https://open.spotify.com/track/6ggNjeHvyMtEMSe7Es3EUB) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm), [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Take Me Back to Tulsa \(feat\. George Strait and Willie Nelson\)](https://open.spotify.com/album/6eLAOiOvVLfjNGkUv0wRMl) | 4:01 | 2021-12-10 | 2022-07-26 |
@@ -417,6 +418,7 @@
 | [Uncle Pen](https://open.spotify.com/track/4cT14AH7Gmp97wUSxHwyZJ) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [The Best Of Can't You Hear Me Callin' \- Bluegrass: 80 Years Of American Music](https://open.spotify.com/album/0Z216wyIESYn4mjrIrPBy0) | 2:25 | 2021-12-10 | 2022-07-28 |
 | [Unwell \- Cover](https://open.spotify.com/track/3tDhiP9TGN9pl3Nil13CsT) | [Jesse Slack](https://open.spotify.com/artist/4nfh7BMMFe3UQP4XMHtWCN), [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Unwell \(Cover\)](https://open.spotify.com/album/6R4Y22EzAkJdKaPJFUcrXk) | 3:28 | 2024-08-30 | 2024-11-16 |
 | [Uptown Funk \(Live from SXSW 2015\)](https://open.spotify.com/track/1v5dYdS4XKN8zfZ3847xCU) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Spotify Sessions](https://open.spotify.com/album/0IoiSYueb7cmOuYC58IlzQ) | 4:43 | 2022-03-25 | 2022-04-21 |
+| [Valerie](https://open.spotify.com/track/2zWoXPulqjfGAJsUyRtxiq) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Valerie](https://open.spotify.com/album/7Dp9NAgApVaZeE5lWobWKm) | 3:58 | 2026-06-12 |  |
 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 | 2021-12-10 | 2022-10-27 |
 | [Vienna](https://open.spotify.com/track/1I9htETbx6XBkh0kyCz5uW) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Vienna](https://open.spotify.com/album/7y83ATsotdhOR8adq6fobK) | 3:09 | 2022-08-05 | 2024-04-19 |
 | [Vienna](https://open.spotify.com/track/2DP7FXMdejVk2sx6sFd2ne) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Vienna](https://open.spotify.com/album/0LRJCqgduJF7dmTdKcXbEK) | 3:09 | 2022-04-08 | 2022-08-10 |

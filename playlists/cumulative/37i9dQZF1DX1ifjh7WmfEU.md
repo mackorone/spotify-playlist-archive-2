@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-304 songs - 13 hr 20 min
+308 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [First Sunlight](https://open.spotify.com/track/51NAW2O7tsdkt5VbRvWGoP) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/6YaTqyn5dntxFNuV1Kc2J9) | 2:28 | 2024-01-05 | 2024-04-19 |
 | [First Sunlight](https://open.spotify.com/track/7oVzg7PHNE9fepPdHJVq6f) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/2Lb2OqB6ghrhlnoOR3zNO6) | 2:28 | 2022-09-23 | 2024-01-27 |
 | [Fjäderlätt](https://open.spotify.com/track/2FV0bpajGSlVU21kZEiaEw) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Fjäderlätt](https://open.spotify.com/album/6zSNVshWnIEmrJX9dkLHZw) | 2:31 | 2022-11-14 |  |
+| [Flowing Waters](https://open.spotify.com/track/6zXzSvrHmAidhosXqhvX7S) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Flowing Waters](https://open.spotify.com/album/07Bjbktg4UKNLSJRAM3Ut2) | 2:11 | 2026-06-12 |  |
 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 | 2023-10-24 | 2026-05-16 |
 | [For now](https://open.spotify.com/track/1IdZJSn4MgU8nGWVQGm25D) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [For now](https://open.spotify.com/album/3ewH2K6sin3yWusThvhdFV) | 2:41 | 2022-05-27 | 2022-07-28 |
 | [For the Lost Ones](https://open.spotify.com/track/2F22r0Q273TTn37AZsutAd) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [For the Lost Ones](https://open.spotify.com/album/2el7oufSXHKVrHfsuthP1o) | 2:36 | 2025-04-04 |  |
@@ -112,6 +113,7 @@
 | [Gavina](https://open.spotify.com/track/1cnkQQvgQnxCm4eQGwtHhs) | [Olec Mün](https://open.spotify.com/artist/4hLe2OQqb2f9wzkGuQBJIE) | [Vögel](https://open.spotify.com/album/7ofPT1pFfppppZKF1l6jrh) | 5:34 | 2023-02-21 | 2024-04-19 |
 | [Gavina](https://open.spotify.com/track/3dl8ypgkuvNw4vn3HFE1ky) | [Olec Mün](https://open.spotify.com/artist/4hLe2OQqb2f9wzkGuQBJIE) | [Gavina](https://open.spotify.com/album/4RteWlcqa9xzb6iKmo0ZAr) | 5:34 | 2022-05-27 | 2025-01-23 |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2022-05-27 | 2025-04-24 |
+| [Glimmer](https://open.spotify.com/track/5WaTDAXIvIZiOPiBnNsbaK) | [XY Axis](https://open.spotify.com/artist/4CMKdXXiXli9kQn5yVXRkz) | [Glimmer](https://open.spotify.com/album/5DUTiOmGglDpfONHfNCViI) | 2:39 | 2026-06-12 |  |
 | [Glourious](https://open.spotify.com/track/3AjIuQRx278sErh7B9knpS) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Glourious](https://open.spotify.com/album/4iUd5XDXgicUS1gLzfYCIK) | 2:23 | 2022-05-27 | 2024-04-04 |
 | [Growing Old](https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Growing Old](https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS) | 2:06 | 2022-05-27 | 2025-04-24 |
 | [Harmony](https://open.spotify.com/track/6I3wMGZNIGwGvjPfzIyq01) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Harmony](https://open.spotify.com/album/2GsLI3ZuRTI5GyktudCsBd) | 2:43 | 2024-04-09 |  |
@@ -136,6 +138,7 @@
 | [Impressions](https://open.spotify.com/track/2IxfYyUQFZWoopvcfOmKnV) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Impressions](https://open.spotify.com/album/319m1F9IJTZ6ups51e1m4N) | 2:43 | 2022-05-27 | 2024-03-26 |
 | [In Essence](https://open.spotify.com/track/22wf4F0EwtjXyPbg0kioHm) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Quiet Conversation](https://open.spotify.com/album/4U8TIDkfNdGeuKcFw8SgoB) | 3:44 | 2022-05-27 | 2024-03-26 |
 | [In my arms](https://open.spotify.com/track/54y634vST5xlwpSMwKcXoK) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [In my arms](https://open.spotify.com/album/0eQUSx23ROwXjwPKo0BQLo) | 3:26 | 2023-10-10 |  |
+| [In Our House](https://open.spotify.com/track/6iCmWPi8wRPm7W99T0FKB4) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [In Our House](https://open.spotify.com/album/1vUS0r3mhJnsnps05yXjZK) | 3:50 | 2026-06-12 |  |
 | [In retrospect](https://open.spotify.com/track/793mOeLUue7vfLXSk7C8iN) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [In retrospect](https://open.spotify.com/album/1fqcmYp1LNskW9AJX4WYMl) | 1:54 | 2023-07-12 | 2025-04-05 |
 | [In the break of dawn](https://open.spotify.com/track/6IB2ZyzLmfydwyjnkdFSLZ) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [In the break of dawn](https://open.spotify.com/album/7I4yr1cj7ZXkis8vCvgX3R) | 3:04 | 2022-05-27 | 2024-04-10 |
 | [In the meadow](https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [In the meadow](https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn) | 3:36 | 2022-05-27 | 2025-03-27 |
@@ -271,6 +274,7 @@
 | [Theme from The Angel](https://open.spotify.com/track/7LRdotxT5OK5kUOPvzlv4i) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Theme from The Angel](https://open.spotify.com/album/15fvKVkNpLCtwHCXhlzhqG) | 1:45 | 2023-01-26 | 2025-04-05 |
 | [Things Untold](https://open.spotify.com/track/7wGZxAnqMmLb7zB2cXcIo3) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Things Untold](https://open.spotify.com/album/2Cc0WE7uCJedRtu9tHVw2t) | 2:06 | 2024-10-01 | 2025-08-06 |
 | [Through The Fields](https://open.spotify.com/track/73eFWqvfD6zbttdkmydJ2z) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Through The Fields](https://open.spotify.com/album/1edcP1iOeSvZTFg4PxMZhB) | 2:20 | 2022-05-27 | 2025-04-10 |
+| [Time For Yourself](https://open.spotify.com/track/2yqBxZpiiKV9VL7NCwLQs5) | [Kitt River](https://open.spotify.com/artist/79CdA7sDrqRL3FJymXgjM8) | [Time For Yourself](https://open.spotify.com/album/5eGtppHuQ6NW7h4MolTH9J) | 2:34 | 2026-06-12 |  |
 | [Time will tell](https://open.spotify.com/track/09RgTeJ2qVXKq0TVpiHRyN) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [Time will tell](https://open.spotify.com/album/7nuVnZlSnAZiStLDcWITWM) | 2:19 | 2024-12-20 | 2025-06-11 |
 | [Time Will Tell](https://open.spotify.com/track/6G0iS7Lf08bZgjrdV1aRZ2) | [Lea Lewis](https://open.spotify.com/artist/0wnLoOej9LyiFZKKnJmP9z) | [Time Will Tell](https://open.spotify.com/album/7s5kp9t6YTNptLWcPgUQ7S) | 2:07 | 2022-05-27 | 2024-04-04 |
 | [to be better again](https://open.spotify.com/track/7A5KsH4tO6rdv4RN3qNzUu) | [Lonesome Mind](https://open.spotify.com/artist/4eixU2X2ZzzxUNiCv4OZA5) | [to be better again](https://open.spotify.com/album/7uHoxKaEL3Gq28RYRCpIZs) | 2:30 | 2024-07-23 |  |

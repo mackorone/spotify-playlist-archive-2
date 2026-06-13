@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 112,698 likes - 229 songs - 9 hr 48 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 112,859 likes - 231 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,5 +237,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 227 | [Too Late Now](https://open.spotify.com/track/3S0lvq4rYAEJtrdjtKZBsO) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Aizu](https://open.spotify.com/artist/6tAUpk1pE9QXUrDSMbPn81), [nøya.](https://open.spotify.com/artist/7uQIdGvojsQWSphx9QHNYD) | [Too Late Now](https://open.spotify.com/album/4bq6Q1qL7RLh6Y9ykLfY2V) | 2:19 |
 | 228 | [Save My Love](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh) | 3:30 |
 | 229 | [Bloom](https://open.spotify.com/track/77Sm1oar22gMXxGBJHB5HI) | [Le Jardin Secret](https://open.spotify.com/artist/0Hzo0ny2O7V0MK5HbttDi5) | [Bloom](https://open.spotify.com/album/7t8IzmWt47BIXX4NFbPT8s) | 2:15 |
+| 230 | [Call You The Same](https://open.spotify.com/track/0CFTuV9qYflBI8JrII0FvQ) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [KANKUNA](https://open.spotify.com/artist/4dBo80ukSsR3pzGRD1hKx3), [one more cig](https://open.spotify.com/artist/58xxhAwEQi1Gx6XxU5Nqm5) | [Call You The Same](https://open.spotify.com/album/7lMFLhwWxTCBSCW54abbQq) | 2:02 |
+| 231 | [Like a Waterfall](https://open.spotify.com/track/2pZtCGvTXXiI3UlLePy3dY) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Helenez](https://open.spotify.com/artist/5r612mLHD4NTrSx9k69UeR) | [Like a Waterfall](https://open.spotify.com/album/1o7jEzv9OwYh5lGIUDU7tW) | 2:19 |
 
-Snapshot ID: `AABTBG3JVV8/f/HYNYGMt1PQLL3EXHpb`
+Snapshot ID: `AABTBgtjZxQ0pB697Ty5JsPKeGOrfV2k`

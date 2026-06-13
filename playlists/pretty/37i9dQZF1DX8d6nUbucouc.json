@@ -1,6 +1,6 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 66477,
+  "num_followers": 66482,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Ut Zwarte Aap",
+        "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
+      },
+      "artists": [
+        {
+          "name": "Jawat",
+          "url": "https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg"
+        }
+      ],
+      "duration_ms": 232880,
+      "name": "Zwarte Koffie",
+      "url": "https://open.spotify.com/track/0AUUsTWuBrQB0IEd5K63Sh"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Nederlands Grootste Nachtmerrie",
         "url": "https://open.spotify.com/album/47ARpHxuUxPJvAR7EjiOgD"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 383813,
       "name": "Op De Straat - Bonus Track",
       "url": "https://open.spotify.com/track/41pk4rQlDeoLtLhZetgz5s"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Ut Zwarte Aap",
-        "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
-      },
-      "artists": [
-        {
-          "name": "Jawat",
-          "url": "https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg"
-        }
-      ],
-      "duration_ms": 232880,
-      "name": "Zwarte Koffie",
-      "url": "https://open.spotify.com/track/0AUUsTWuBrQB0IEd5K63Sh"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Huiswerk",
-        "url": "https://open.spotify.com/album/6IlAcNdMHQbPbNGgVMXnr5"
+        "name": "Rayalistisch (Reissue)",
+        "url": "https://open.spotify.com/album/7vrpUK5hOOuI2y1jSGuaVq"
       },
       "artists": [
         {
-          "name": "VSOP",
-          "url": "https://open.spotify.com/artist/0FTjNsMaGK9WXiBRjE3MgW"
+          "name": "Raymzter",
+          "url": "https://open.spotify.com/artist/5ZntjOpn1ADiQnLx3W9Eja"
         }
       ],
-      "duration_ms": 210666,
-      "name": "Classic",
-      "url": "https://open.spotify.com/track/4CKgIyQKXXIo0qe9S19Rwu"
+      "duration_ms": 243986,
+      "name": "9 tot 5",
+      "url": "https://open.spotify.com/track/0tUZPEifyYlDfqH0MrvCnh"
     }
   ],
   "unique_name": "Grondleggers",

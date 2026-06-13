@@ -11395,6 +11395,28 @@
     },
     {
       "album": {
+        "name": "UM CORA\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/7KBgtmjaOsqG713ktl7bsU"
+      },
+      "artists": [
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106487,
+      "name": "UM CORA\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/6r42UuAbQBjgeV8goH0vTR"
+    },
+    {
+      "album": {
         "name": "Un Cigarrillo",
         "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
       },

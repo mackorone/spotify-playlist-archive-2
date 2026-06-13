@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Voice
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,696 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,734 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 45 | [Tack Back](https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Tack Back](https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq) | 3:18 |
 | 46 | [Holiday](https://open.spotify.com/track/3HhdRHgiGbSH8rcGhJ0PGW) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V), [Nelieux](https://open.spotify.com/artist/0gMDsodMcZUuum1iXNMVge) | [Black Keys Riddim](https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g) | 2:17 |
 | 47 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 |
-| 48 | [D N A](https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [D N A](https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8) | 3:26 |
-| 49 | [No Behavior Shell Down](https://open.spotify.com/track/713bTySu02xdpMMap8UPQv) | [Cloud 5](https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL) | [No Behavior Shell Down](https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO) | 4:22 |
+| 48 | [No Behavior Shell Down](https://open.spotify.com/track/713bTySu02xdpMMap8UPQv) | [Cloud 5](https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL) | [No Behavior Shell Down](https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO) | 4:22 |
+| 49 | [D N A](https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [D N A](https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8) | 3:26 |
 | 50 | [Face Beat](https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG) | [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Face Beat](https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM) | 2:23 |
 | 51 | [Just a Little Bit](https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Queen of Bacchanal](https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3) | 3:54 |
 | 52 | [Soca Start](https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ) | [Soca Start](https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ) | 2:21 |
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 60 | [One For The Team](https://open.spotify.com/track/1hEcR23cJ3K9GRlEPsvavJ) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Blockbuster Riddim](https://open.spotify.com/album/4SJV6OFqadRJCroiyZJ2Rr) | 3:17 |
 | 61 | [Fling It Up](https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [One Degree Hotter](https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG) | 2:38 |
 | 62 | [Gyal Owner](https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Tight Squeeze Riddim](https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3) | 3:23 |
-| 63 | [Carnival Contract](https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Carnival Contract](https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J) | 3:58 |
-| 64 | [Woman By My Side](https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 4:39 |
-| 65 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
-| 66 | [Engine Room](https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Engine Room](https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO) | 3:21 |
-| 67 | [Workey Workey](https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Dig](https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC) | 5:35 |
-| 68 | [Hot\-Hot\-Hot](https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj) | [Carlos Santos](https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB) | [Lambadas Internacionais \- As Melhores](https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7) | 4:18 |
+| 63 | [Hot\-Hot\-Hot](https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj) | [Carlos Santos](https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB) | [Lambadas Internacionais \- As Melhores](https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7) | 4:18 |
+| 64 | [Carnival Contract](https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Carnival Contract](https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J) | 3:58 |
+| 65 | [Woman By My Side](https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 4:39 |
+| 66 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
+| 67 | [Engine Room](https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Engine Room](https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO) | 3:21 |
+| 68 | [Workey Workey](https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Dig](https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC) | 5:35 |
 | 69 | [Passion](https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Passion](https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG) | 4:16 |
 | 70 | [Party Nice](https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp) | [Retro Fete Riddim](https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT) | 2:32 |
 | 71 | [Long Live Soca](https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Long Live Soca](https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd) | 3:45 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAAChpgYa/Y+Wn7G8Q/xEzIwr",
+  "snapshot_id": "ain6gAAAAAD6atvbmgVFXz2jIX8LQHSy",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+        "name": "El Reloj De Mi Corazon",
+        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 186760,
-      "name": "Mas Caliente",
-      "url": "https://open.spotify.com/track/1alUoNNyA38hr8yWI8Qow2"
+      "duration_ms": 210493,
+      "name": "El Pasadisco",
+      "url": "https://open.spotify.com/track/5JkoYyOB55thgJcQicOTsm"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Reloj De Mi Corazon",
-        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 210493,
-      "name": "El Pasadisco",
-      "url": "https://open.spotify.com/track/5JkoYyOB55thgJcQicOTsm"
+      "duration_ms": 186760,
+      "name": "Mas Caliente",
+      "url": "https://open.spotify.com/track/1alUoNNyA38hr8yWI8Qow2"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Reloj De Mi Corazon",
-        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "El Suegro",
-      "url": "https://open.spotify.com/track/264N2LbwqrFlDrNxwB2o84"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 200373,
       "name": "Mil cartas.",
       "url": "https://open.spotify.com/track/3DCS7PRExYp8s1xPD2GdwD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Reloj De Mi Corazon",
+        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "El Suegro",
+      "url": "https://open.spotify.com/track/264N2LbwqrFlDrNxwB2o84"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Reloj De Mi Corazon",
-        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "El Reloj De Mi Corazon",
-      "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 186026,
       "name": "Sombrero, Zarape Y Guitarra",
       "url": "https://open.spotify.com/track/0edkBaaZC5FYtLiPP0Oh4X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Reloj De Mi Corazon",
+        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "El Reloj De Mi Corazon",
+      "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es La Primera Vez",
-        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Claridad",
-      "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 206933,
       "name": "Locamente Enamorado",
       "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es La Primera Vez",
+        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 169520,
-      "name": "El Sancudito",
-      "url": "https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Se Ha Dado Cuenta",
         "url": "https://open.spotify.com/album/1CRVyxds5wQM1Um03klsPE"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 169520,
+      "name": "El Sancudito",
+      "url": "https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piensa en Mi",
         "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
       },
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 213093,
-      "name": "Mambo Loco",
-      "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
+      "duration_ms": 176893,
+      "name": "Dejala Que Baile",
+      "url": "https://open.spotify.com/track/2Le3iMPtKKmdQmbohKBwXN"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 176893,
-      "name": "Dejala Que Baile",
-      "url": "https://open.spotify.com/track/2Le3iMPtKKmdQmbohKBwXN"
+      "duration_ms": 213093,
+      "name": "Mambo Loco",
+      "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras de Lazo y Reata",
-        "url": "https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 147400,
-      "name": "Y Nos Dieron las Diez",
-      "url": "https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosa Caliente",
         "url": "https://open.spotify.com/album/14xCxjacYrmBsqe6IfYetT"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 177782,
       "name": "Cosa Caliente",
       "url": "https://open.spotify.com/track/7aL7CNXgcKDJnAjk1z3h1E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras de Lazo y Reata",
+        "url": "https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "Y Nos Dieron las Diez",
+      "url": "https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf"
     },
     {
       "added_at": null,

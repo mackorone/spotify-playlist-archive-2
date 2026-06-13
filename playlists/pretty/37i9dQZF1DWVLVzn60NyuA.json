@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 501339,
+  "num_followers": 501373,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,26 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
+        "name": "CALOR",
+        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "CALOR",
+      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
         "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 263288,
       "name": "Essence (feat. Justin Bieber & Tems)",
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
-        "name": "CALOR",
-        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "CALOR",
-      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -2327,6 +2327,22 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
+        "name": "MOTO",
+        "url": "https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 178579,
+      "name": "MOTO",
+      "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
         "name": "Eve Bounce",
         "url": "https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 204631,
       "name": "Eve Bounce - Remix",
       "url": "https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
-        "name": "MOTO",
-        "url": "https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 178579,
-      "name": "MOTO",
-      "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -2655,26 +2655,6 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
-        "name": "Magic (with Amartey)",
-        "url": "https://open.spotify.com/album/5FBCdiSwNLrokFxpiR7c3C"
-      },
-      "artists": [
-        {
-          "name": "Wiz Ofuasia",
-          "url": "https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn"
-        },
-        {
-          "name": "Amartey",
-          "url": "https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu"
-        }
-      ],
-      "duration_ms": 206685,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
         "name": "Pami",
         "url": "https://open.spotify.com/album/4fjfAYCr7TDteiCVSX4IlM"
       },
@@ -2695,6 +2675,26 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
+        "name": "Magic (with Amartey)",
+        "url": "https://open.spotify.com/album/5FBCdiSwNLrokFxpiR7c3C"
+      },
+      "artists": [
+        {
+          "name": "Wiz Ofuasia",
+          "url": "https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn"
+        },
+        {
+          "name": "Amartey",
+          "url": "https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu"
+        }
+      ],
+      "duration_ms": 206685,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
         "name": "MYKILLI",
         "url": "https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu"
       },
@@ -2707,26 +2707,6 @@
       "duration_ms": 144050,
       "name": "MYKILLI",
       "url": "https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
-        "name": "Find Your Way",
-        "url": "https://open.spotify.com/album/4Ip7RbsFLF6XKTaoHcb4PZ"
-      },
-      "artists": [
-        {
-          "name": "Shamis",
-          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
-        },
-        {
-          "name": "Steve Biko.K",
-          "url": "https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx"
-        }
-      ],
-      "duration_ms": 323495,
-      "name": "Find Your Way",
-      "url": "https://open.spotify.com/track/6eSyiy2IBds8UThlpxyLhU"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -2747,6 +2727,26 @@
       "duration_ms": 190378,
       "name": "I'll Be Fire",
       "url": "https://open.spotify.com/track/7EtpoRV2VHzrCGRhcyd2He"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
+        "name": "Find Your Way",
+        "url": "https://open.spotify.com/album/4Ip7RbsFLF6XKTaoHcb4PZ"
+      },
+      "artists": [
+        {
+          "name": "Shamis",
+          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
+        },
+        {
+          "name": "Steve Biko.K",
+          "url": "https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx"
+        }
+      ],
+      "duration_ms": 323495,
+      "name": "Find Your Way",
+      "url": "https://open.spotify.com/track/6eSyiy2IBds8UThlpxyLhU"
     },
     {
       "added_at": "2026-05-11 07:38:59",

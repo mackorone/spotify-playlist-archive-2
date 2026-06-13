@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 21121,
+  "num_followers": 21122,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAC5Ms9kbF3CJ45OX4MC5GRb",
+  "snapshot_id": "ain6gAAAAADA33+YJf2dVKfPcwPJlpv/",
   "tracks": [
     {
       "added_at": null,
@@ -483,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Dead",
-        "url": "https://open.spotify.com/album/5Aqj31jPQAuQmsgiIyJ78V"
+        "name": "No Label Vol. 2",
+        "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 128837,
-      "name": "Still Dead",
-      "url": "https://open.spotify.com/track/137EDAXjvEQSjMFDDQ3SfZ"
+      "duration_ms": 224261,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/5rcHN0ApxrVS6F6nq3uyGc"
     },
     {
       "added_at": null,
@@ -515,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Label Vol. 2",
-        "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
+        "name": "Still Dead",
+        "url": "https://open.spotify.com/album/5Aqj31jPQAuQmsgiIyJ78V"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 224261,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/5rcHN0ApxrVS6F6nq3uyGc"
+      "duration_ms": 128837,
+      "name": "Still Dead",
+      "url": "https://open.spotify.com/track/137EDAXjvEQSjMFDDQ3SfZ"
     },
     {
       "added_at": null,

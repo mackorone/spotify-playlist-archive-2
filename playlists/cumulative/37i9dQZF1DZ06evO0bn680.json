@@ -414,7 +414,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 390413,
       "name": "Agnus Dei",
       "url": "https://open.spotify.com/track/7fzFdE3JiB0RzNd9yGyR1Y"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 437826,
       "name": "Hymn to the Creator of Light",
       "url": "https://open.spotify.com/track/1zJRpQVlpG3iYCN5o5Pzjd"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 240760,
       "name": "III. Pie Jesu",
       "url": "https://open.spotify.com/track/1bndO90NBmUw1kZD5IBIJy"
@@ -1858,6 +1858,36 @@
       "duration_ms": 186293,
       "name": "IV. Waltz",
       "url": "https://open.spotify.com/track/07ja5QOXSqD9h8x8bThK1H"
+    },
+    {
+      "album": {
+        "name": "Rutter: Fancies",
+        "url": "https://open.spotify.com/album/6VwxSqkZ4C4eiNxJoQvH9h"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Duke Dobing",
+          "url": "https://open.spotify.com/artist/29IGwHD0BUR9FuQOKnYX1D"
+        },
+        {
+          "name": "Wayne Marshall",
+          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "IV. Waltz",
+      "url": "https://open.spotify.com/track/6eO8oaGTIBDIs542R2V83L"
     },
     {
       "album": {
@@ -2608,10 +2638,36 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 253920,
       "name": "Semele, HWV 58: Where'er You Walk (Arr. for Oboe & Orchestra by John Rutter)",
       "url": "https://open.spotify.com/track/2uCRmii1YTP4RFfxPOLsyn"
+    },
+    {
+      "album": {
+        "name": "Classical Tranquillity",
+        "url": "https://open.spotify.com/album/5FcMVke2odz0PCYqxELSaZ"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Manchester Camerata",
+          "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253920,
+      "name": "Semele, HWV 58: Where'er You Walk (Arr. for Oboe & Orchestra by John Rutter)",
+      "url": "https://open.spotify.com/track/3lj2OvU2LfsIhvyuzcui8o"
     },
     {
       "album": {
@@ -3295,6 +3351,32 @@
     },
     {
       "album": {
+        "name": "John Rutter: Magnificat",
+        "url": "https://open.spotify.com/album/7n4GlBeOIwnneRCVYEvu64"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "V. Fecit potentiam",
+      "url": "https://open.spotify.com/track/211DFGIf93xMzvIouu7Yym"
+    },
+    {
+      "album": {
         "name": "This Is the Day: Music on Royal Occasions",
         "url": "https://open.spotify.com/album/4wx1IdItffFBbmt7oCIFl8"
       },
@@ -3480,6 +3562,36 @@
       "duration_ms": 310800,
       "name": "VI. The Lord Is My Shepherd",
       "url": "https://open.spotify.com/track/45Dylmep9VwbqohpruPuJZ"
+    },
+    {
+      "album": {
+        "name": "Rutter: Requiem & Magnificat",
+        "url": "https://open.spotify.com/album/5nxI9OQNtMN2vmwS43cLav"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "Quentin Poole",
+          "url": "https://open.spotify.com/artist/79EbMiQlvtCQSa0YYWWfiy"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311600,
+      "name": "VI. The Lord Is my Shepherd",
+      "url": "https://open.spotify.com/track/07JVfLUMWbnZLEnWoftLx6"
     },
     {
       "album": {

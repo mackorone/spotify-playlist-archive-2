@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 374594,
+  "num_followers": 374704,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
-        "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
-      },
-      "artists": [
-        {
-          "name": "Energy 52",
-          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
-        },
-        {
-          "name": "Three 'N One",
-          "url": "https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "Caf\u00e9 Del Mar - Three 'N One Radio Edit",
-      "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Trance Classics, Vol. 01",
         "url": "https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 238466,
       "name": "Ayla - DJ Taucher Radio Edit",
       "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
+        "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
+      },
+      "artists": [
+        {
+          "name": "Energy 52",
+          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
+        },
+        {
+          "name": "Three 'N One",
+          "url": "https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "Caf\u00e9 Del Mar - Three 'N One Radio Edit",
+      "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Faithless 2.0",
-        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 222435,
-      "name": "We Come 1 - Radio Edit",
-      "url": "https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Akwaba Beach",
         "url": "https://open.spotify.com/album/7gWws7q8OQDc8t5R4IXIx3"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 238253,
       "name": "Yeke Yeke",
       "url": "https://open.spotify.com/track/7yuF2FK7adgzGiIfEpR7Km"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Faithless 2.0",
+        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 222435,
+      "name": "We Come 1 - Radio Edit",
+      "url": "https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1375,18 +1375,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Unreasonable Behaviour",
-        "url": "https://open.spotify.com/album/2IBm4EZ2AUUCSYzFAgCNBL"
+        "name": "Canoa",
+        "url": "https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt"
       },
       "artists": [
         {
-          "name": "Laurent Garnier",
-          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
+          "name": "DJ Gregory",
+          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
         }
       ],
-      "duration_ms": 551493,
-      "name": "The Man With The Red Face - Video Edit",
-      "url": "https://open.spotify.com/track/0y0LNqWSA4Pv2KawzSi4MW"
+      "duration_ms": 546791,
+      "name": "Canoa",
+      "url": "https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx"
     }
   ],
   "unique_name": "Ibiza Classics",

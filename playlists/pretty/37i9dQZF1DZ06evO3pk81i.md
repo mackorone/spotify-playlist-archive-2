@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,639 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,643 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 30 | [Una Noche Nomas](https://open.spotify.com/track/1qND5NqKyn93Y6rOxuDYzR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:20 |
 | 31 | [Loko](https://open.spotify.com/track/6MsbMIHQL3ZM6RUWb2F8tU) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Loko](https://open.spotify.com/album/59SSpxu6Lau67i21tUvswt) | 2:08 |
 | 32 | [Quiero Darte \(Version Norteña\)](https://open.spotify.com/track/29sFRw9NgkqN8JAdtPa2fq) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Julio LV](https://open.spotify.com/artist/4rh7r9ZUjRAZXg93Nr8S0S) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:29 |
-| 33 | [Lo Bueno Y Lo Malo](https://open.spotify.com/track/3max574PT1q80JWMAGkdUY) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Lo Bueno Y Lo Malo](https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4) | 2:42 |
-| 34 | [Contigo](https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Contigo](https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm) | 2:50 |
+| 33 | [Contigo](https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Contigo](https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm) | 2:50 |
+| 34 | [Lo Bueno Y Lo Malo](https://open.spotify.com/track/3max574PT1q80JWMAGkdUY) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Lo Bueno Y Lo Malo](https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4) | 2:42 |
 | 35 | [Nuestro Final](https://open.spotify.com/track/7p72E8Piay4uhAqaoPKfRu) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:05 |
 | 36 | [JÁLATE CONMIGO](https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:58 |
 | 37 | [Mi Vicio Mi Adicción](https://open.spotify.com/track/79Vmx38rbjcS3BEykrir2U) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Mi Vicio Mi Adicción](https://open.spotify.com/album/5Uvhi2I4A8dVMbkOKLfDpQ) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 49 | [Nada Sigue Igual](https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Nada Sigue Igual](https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI) | 3:28 |
 | 50 | [Tú Me Haces Falta](https://open.spotify.com/track/4M82qyr0QiKOJBZVUxUhdN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:43 |
 
-Snapshot ID: `aiipAAAAAACpdee28bh0eI9RQ9usizMo`
+Snapshot ID: `ain6gAAAAACSlzO+PQBwT2EIqWAZZ2bg`

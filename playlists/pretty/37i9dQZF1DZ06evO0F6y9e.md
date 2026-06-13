@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,828 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,115 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/78qgcRHfy0y0e39nz34m64) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/album/4mdoJ7m4r9bd6nzr28ooCG) | 2:47 |
 | 2 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/34vXRJ2bCSFiZKQzVUYVOb) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY) | 2:45 |
-| 3 | [El Beneficio De La Duda](https://open.spotify.com/track/5yXt80BNZGbmHFd0NHZHNn) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 4:05 |
-| 4 | [Que Te Quieran Bonito](https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Que Te Quieran Bonito](https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx) | 2:42 |
+| 3 | [Que Te Quieran Bonito](https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Que Te Quieran Bonito](https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx) | 2:42 |
+| 4 | [El Beneficio De La Duda](https://open.spotify.com/track/5yXt80BNZGbmHFd0NHZHNn) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 4:05 |
 | 5 | [Calidad](https://open.spotify.com/track/4rX1QSvkaQE2y5LJLVjFqG) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Haciendo Lo Mío](https://open.spotify.com/album/4QZT8OKrozrzH5IIJGVZBx) | 2:50 |
 | 6 | [Matcha Latte](https://open.spotify.com/track/35XhkoUJcvjCmG6qkS75qY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Matcha Latte](https://open.spotify.com/album/4yFIXz0bynZk3WNNqSCQpV) | 2:47 |
 | 7 | [Qué Onda Perdida](https://open.spotify.com/track/6IV5Y1eWaQZ1jV5apkUMS4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/7b01UUiyCasivZJP3Suj4C) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 49 | [Cómo Pudiste \(En Vivo\)](https://open.spotify.com/track/6qioUHZ4zBU3v9k3lQAJx2) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Desde La Playa, Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/34cKEFiNsJI3o0Nl1TB88I) | 3:29 |
 | 50 | [Valió La Pena Equivocarme \(En Vivo\)](https://open.spotify.com/track/43dC0MzrNgB0yY6nnuNfgT) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Desde Mazatlán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW) | 4:01 |
 
-Snapshot ID: `aiipAAAAAADPdQ/Q/gyKUXC+OoRt8y7K`
+Snapshot ID: `ain6gAAAAACV/0D7pUBCKxT0TURQOoZB`

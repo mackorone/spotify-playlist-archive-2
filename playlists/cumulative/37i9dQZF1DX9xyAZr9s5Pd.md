@@ -4,10 +4,11 @@
 
 > ¡Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Greccia
 
-157 songs - 8 hr 56 min
+159 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(\( vértigo \)\)](https://open.spotify.com/track/71jc4ZFe09EjjKvpVEzbvW) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Jardín Secreto](https://open.spotify.com/album/4R7kQPNr7gXd6pbKZQlfT4) | 1:40 | 2026-06-12 |  |
 | [98](https://open.spotify.com/track/3H7oZCSHd0QbV79Ur2wCPZ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [98](https://open.spotify.com/album/6FIyZQ7DHCY6Jlg3AbrF50) | 3:26 | 2023-09-22 | 2026-05-02 |
 | [A La Playa](https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [A La Playa](https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU) | 3:13 | 2023-09-22 | 2025-04-12 |
 | [A las 9:05](https://open.spotify.com/track/17NFVJcGuyMnATW0VyWYPW) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi Otra Mitad](https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3) | 4:04 | 2023-11-17 |  |
@@ -63,6 +64,7 @@
 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 | 2023-09-22 | 2024-10-18 |
 | [el tiempo pasa rápido](https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [el tiempo pasa rápido](https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM) | 4:07 | 2026-03-18 | 2026-03-27 |
 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 | 2023-09-22 | 2024-05-18 |
+| [Esa Soy Yo](https://open.spotify.com/track/7LBBwA7jywLpSz42GDbwbN) | [Puerto Candelaria](https://open.spotify.com/artist/27neIga89YKdkCk6Yzv0ni) | [Esa Soy Yo](https://open.spotify.com/album/2j9tZnbkuwl1dIhAlsjtcl) | 3:42 | 2026-06-12 |  |
 | [escapar de mí](https://open.spotify.com/track/5FhhHvzn4z9RTDPx6lH8Hd) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:48 | 2026-03-18 | 2026-03-27 |
 | [Ese Dinero](https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F) | [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Ese Dinero](https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT) | 3:58 | 2023-09-22 | 2024-05-18 |
 | [Este Momento](https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM) | 3:45 | 2023-09-22 | 2023-11-18 |
@@ -89,7 +91,7 @@
 | [La Vida Mejor](https://open.spotify.com/track/3sM86J5TsZTaATv1kTBLa0) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Será](https://open.spotify.com/album/0JPRp5NYnHzJd9FxyIvKZd) | 4:17 | 2024-07-31 | 2024-10-18 |
 | [La Vida Sin Ti Apesta](https://open.spotify.com/track/3MOT7l7lFwecHZdtvPnoAY) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [La Vida Sin Ti Apesta](https://open.spotify.com/album/7Kdd2OVrDy83cDzCLPMjLL) | 3:08 | 2024-03-01 | 2024-05-18 |
 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 | 2023-09-22 |  |
-| [Las Cosas Simples](https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Las Cosas Simples](https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz) | 4:07 | 2024-02-16 |  |
+| [Las Cosas Simples](https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Las Cosas Simples](https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz) | 4:07 | 2024-02-16 | 2026-06-13 |
 | [LAS FURIAS // NOS MIRAN](https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [MIEL](https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP) | 2:15 | 2023-10-20 | 2024-08-03 |
 | [Laura \(Mi Suerte\)](https://open.spotify.com/track/2P31HyQaVL7how4eulaCA5) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO), [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [De los Amores Prestados](https://open.spotify.com/album/1CSgdHYRD3LnNxEGtxAZmU) | 2:59 | 2026-03-18 | 2026-03-27 |
 | [Lejos](https://open.spotify.com/track/27ACuxbiIuu7BUW1av32i9) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [El Eco Eterno](https://open.spotify.com/album/5dIDiTOK58RdCmNc5DwlO5) | 3:07 | 2023-09-22 | 2024-05-18 |
@@ -97,7 +99,7 @@
 | [Lugar ideal](https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Dos Hemisferios](https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu) | 3:18 | 2024-07-05 | 2025-03-08 |
 | [Lunera](https://open.spotify.com/track/0XM0WuCkBWXL3ADRDUeuHS) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Viene y Va](https://open.spotify.com/album/4Vupbn7Bk1mBxLxQnbONDr) | 4:24 | 2026-03-18 | 2026-03-27 |
 | [Límites](https://open.spotify.com/track/3InU95w7uhcHOxXU9m1294) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Límites](https://open.spotify.com/album/66tUKjngOsWoJj7ccwktRD) | 3:30 | 2023-11-17 |  |
-| [Marchito](https://open.spotify.com/track/7EYVt3gOAG8bOq3D5sqXLb) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Marchito](https://open.spotify.com/album/7KNK4fSGZlkMJ3ItyrM06H) | 3:56 | 2023-09-29 |  |
+| [Marchito](https://open.spotify.com/track/7EYVt3gOAG8bOq3D5sqXLb) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Marchito](https://open.spotify.com/album/7KNK4fSGZlkMJ3ItyrM06H) | 3:56 | 2023-09-29 | 2026-06-13 |
 | [Mariposas Amarillas](https://open.spotify.com/track/1sstT1tv6lHi3dJgUp4PEf) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV), [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu) | [Mariposas Amarillas](https://open.spotify.com/album/08hW5Y4PNFEcqvlkxjofU4) | 3:37 | 2025-04-11 |  |
 | [Me Olvido / Te Sigo](https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Me Olvido / Te Sigo](https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP) | 3:38 | 2023-09-22 | 2026-05-02 |
 | [Medusa](https://open.spotify.com/track/5u4WtYlz4AVrsVwu58mKbv) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Medusa](https://open.spotify.com/album/2Hy8fPqK6DM1nVXECN5qKU) | 3:00 | 2024-02-23 |  |

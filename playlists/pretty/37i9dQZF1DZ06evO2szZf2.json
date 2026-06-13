@@ -1,12 +1,12 @@
 {
   "description": "This is MC Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35280,
+  "num_followers": 35287,
   "original_name": "This Is MC Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAACdtaHjKzyfrRrTGg7FruT4",
+  "snapshot_id": "ain6gAAAAADh2ZhwBE8VQ1BT+byeMbIZ",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empurra Empurra",
-        "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 240118,
-      "name": "Empurra Empurra",
-      "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medley Rel\u00edquia 2",
         "url": "https://open.spotify.com/album/0heTfetNgUuzklmSPUMHpt"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 136356,
       "name": "Medley Rel\u00edquia 2",
       "url": "https://open.spotify.com/track/7pqZny7fKRqHp6wEW3ZqH2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empurra Empurra",
+        "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 240118,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Existe Amor",
-        "url": "https://open.spotify.com/album/1U9ZS19DxCsX5zBobIUJBV"
-      },
-      "artists": [
-        {
-          "name": "HITMAKER",
-          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 106363,
-      "name": "N\u00e3o Existe Amor",
-      "url": "https://open.spotify.com/track/3osBy08YtmXBDCtlEqqQW0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
         "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 154400,
       "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
       "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Existe Amor",
+        "url": "https://open.spotify.com/album/1U9ZS19DxCsX5zBobIUJBV"
+      },
+      "artists": [
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 106363,
+      "name": "N\u00e3o Existe Amor",
+      "url": "https://open.spotify.com/track/3osBy08YtmXBDCtlEqqQW0"
     },
     {
       "added_at": null,
@@ -963,6 +963,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enche Minha Bunda De Tapa",
+        "url": "https://open.spotify.com/album/6PnrpEkrfcDPJhXdyg1lab"
+      },
+      "artists": [
+        {
+          "name": "DJ Guina",
+          "url": "https://open.spotify.com/artist/5fCHotgAd9p3j9evxovskc"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 180922,
+      "name": "Enche Minha Bunda De Tapa",
+      "url": "https://open.spotify.com/track/0l59w1d930KgWcRx2rRTVQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piseiro Tiktok 2.0 #Viral",
         "url": "https://open.spotify.com/album/3UC2qKHaqpM0Hq5Q6UvM86"
       },
@@ -1003,26 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enche Minha Bunda De Tapa",
-        "url": "https://open.spotify.com/album/6PnrpEkrfcDPJhXdyg1lab"
-      },
-      "artists": [
-        {
-          "name": "DJ Guina",
-          "url": "https://open.spotify.com/artist/5fCHotgAd9p3j9evxovskc"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 180922,
-      "name": "Enche Minha Bunda De Tapa",
-      "url": "https://open.spotify.com/track/0l59w1d930KgWcRx2rRTVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Casal Mandrake",
         "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
       },
@@ -1047,6 +1047,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Novo Imp\u00e9rio",
+          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu N\u00e3o Sou Dif\u00edcil",
         "url": "https://open.spotify.com/album/6jp08LLT5XnQtHDFI69J6f"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 131081,
       "name": "Eu N\u00e3o Sou Dif\u00edcil",
       "url": "https://open.spotify.com/track/688RlI3w1TOy4Ib1oZNOw8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Novo Imp\u00e9rio",
-          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
     },
     {
       "added_at": null,
@@ -1295,30 +1295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abril",
-        "url": "https://open.spotify.com/album/2u68fnThe5A4mChFQrtqvi"
-      },
-      "artists": [
-        {
-          "name": "Junior Gobira",
-          "url": "https://open.spotify.com/artist/2iarQygwcHCidcNIdKdQFk"
-        },
-        {
-          "name": "Arrochadeira FLuxos",
-          "url": "https://open.spotify.com/artist/1QHls0KR42PAqEpkPnCMcP"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 121086,
-      "name": "Sexo Bolado",
-      "url": "https://open.spotify.com/track/6imVq8B1PLvb7TDYUohfRR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soca Com Press\u00e3o",
         "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
       },
@@ -1343,6 +1319,30 @@
       "duration_ms": 140231,
       "name": "Soca Com Press\u00e3o",
       "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abril",
+        "url": "https://open.spotify.com/album/2u68fnThe5A4mChFQrtqvi"
+      },
+      "artists": [
+        {
+          "name": "Junior Gobira",
+          "url": "https://open.spotify.com/artist/2iarQygwcHCidcNIdKdQFk"
+        },
+        {
+          "name": "Arrochadeira FLuxos",
+          "url": "https://open.spotify.com/artist/1QHls0KR42PAqEpkPnCMcP"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 121086,
+      "name": "Sexo Bolado",
+      "url": "https://open.spotify.com/track/6imVq8B1PLvb7TDYUohfRR"
     },
     {
       "added_at": null,

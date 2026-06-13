@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Malik Dalasi, Molly Sandén, Dante och Tove Lo med flera\. Happy New Music Friday!
 
-24,639 songs - 53 day 4 hr 40 min
+24,640 songs - 53 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4316,6 +4316,7 @@
 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 | 2025-08-01 | 2025-08-08 |
 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK) | 2:37 | 2024-07-11 | 2024-07-19 |
 | [Corduroy](https://open.spotify.com/track/6QhZtK9nfaUBDILHPvAlC6) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:38 | 2023-02-02 | 2023-02-10 |
+| [coreshadow](https://open.spotify.com/track/1LpG1YWOoihZSi8LlXMExb) | [Binky Blaise](https://open.spotify.com/artist/6wVXRQ64TTR22g2J34DfO7) | [coreshadow](https://open.spotify.com/album/436mEwElbZlVfp5QmoHGwP) | 3:09 | 2026-06-12 |  |
 | [Corner Boys](https://open.spotify.com/track/6PVBY2cZJ0jdzPNiN5S2AO) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl), [Painaway](https://open.spotify.com/artist/7LHefHXUoBcjOx5hz7Ru0P) | [From the Inside \(Music from the Original TV Series Från Insidan\)](https://open.spotify.com/album/7C2cmxwKD6XhanOCk3Jo4N) | 3:26 | 2024-12-12 | 2024-12-20 |
 | [Cosas Pendientes](https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cosas Pendientes](https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov) | 3:04 | 2024-11-21 | 2024-11-29 |
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-01-20 | 2022-01-28 |
@@ -14103,8 +14104,8 @@
 | [Midnight Train](https://open.spotify.com/track/1AWvfGBiJQ6GV5Va0dS0es) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Henge](https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW) | 3:26 | 2023-07-06 | 2023-07-14 |
 | [Midsommar](https://open.spotify.com/track/1BWDrue8iLx0niKoUu5f8c) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Midsommar](https://open.spotify.com/album/15uIg1ZX7dYcg8uRE7BD2q) | 2:49 | 2024-06-06 | 2024-06-14 |
 | [Midsommar \(feat\. Alex Järvi\)](https://open.spotify.com/track/1SxgDDNJ7ObfIdmqp8YWoi) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Midsommar \(feat\. Alex Järvi\)](https://open.spotify.com/album/1ECGZ6pGYSwHQ9sAvOuBxq) | 2:04 | 2023-06-08 | 2023-06-16 |
-| [Midsommar igen](https://open.spotify.com/track/7do8KbnUYU4BbwUzW3tjnG) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [Midsommar igen](https://open.spotify.com/album/4DEwW9MuZa1XLkc2FXa4b3) | 3:32 | 2026-06-11 |  |
 | [Midsommarafton du och jag](https://open.spotify.com/track/0hWItiBek2yLf8GpcFYwH6) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Midsommarafton du och jag](https://open.spotify.com/album/2zYAwuBYgRjkIGWrNrsPnR) | 3:32 | 2023-05-25 | 2023-06-02 |
+| [Midsommarafton igen](https://open.spotify.com/track/7do8KbnUYU4BbwUzW3tjnG) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [Midsommarafton igen](https://open.spotify.com/album/4DEwW9MuZa1XLkc2FXa4b3) | 3:32 | 2026-06-11 |  |
 | [Midsommardansen](https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Midsommardansen](https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W) | 2:04 | 2024-06-13 | 2024-06-21 |
 | [Midsommarnatt](https://open.spotify.com/track/4tnfM1jDTEMlBvm2WtT0jA) | [Anton Kyldahl](https://open.spotify.com/artist/4Xq9iwUmfiz0nAwhF9B1pD) | [Midsommarnatt](https://open.spotify.com/album/5LfnPrxim3e0rtmh2Ui9jd) | 3:06 | 2022-06-09 | 2022-06-17 |
 | [Midsommarregn](https://open.spotify.com/track/43IOnIz4jMrU6qjPgiTtVL) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Midsommarregn](https://open.spotify.com/album/4lsbgqoNTEO987jBWDAh8w) | 3:11 | 2026-06-11 |  |

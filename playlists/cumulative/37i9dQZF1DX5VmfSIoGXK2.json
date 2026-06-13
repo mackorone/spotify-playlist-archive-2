@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Dazzlin'",
+        "url": "https://open.spotify.com/album/1EJvVZPX2Q4E9kUj5X6ZnH"
+      },
+      "artists": [
+        {
+          "name": "Alexander IV",
+          "url": "https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166339,
+      "name": "Dazzlin'",
+      "url": "https://open.spotify.com/track/7vlqmWgiOGCfeVjbwmxfy6"
+    },
+    {
+      "album": {
         "name": "De Vere",
         "url": "https://open.spotify.com/album/0h1g063kNhrEGgIwniBBcM"
       },
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 145787,
       "name": "Honest",
       "url": "https://open.spotify.com/track/1PmFdQoJL1gcPutNAJ9tWW"
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 362025,
       "name": "Newness",
       "url": "https://open.spotify.com/track/2lcakwd3OkGq63LW9lfZMv"
@@ -3116,7 +3134,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 156611,
       "name": "nyc in 1940",
       "url": "https://open.spotify.com/track/6loDuwmsq6fazVxqqRhmcp"
@@ -3680,7 +3698,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 339960,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/6W645HND6UgMEumwYAm94M"
@@ -3792,6 +3810,24 @@
       "duration_ms": 444986,
       "name": "Society's Man",
       "url": "https://open.spotify.com/track/6qVGWZQgaXFdC3rhT3NEOw"
+    },
+    {
+      "album": {
+        "name": "Softness",
+        "url": "https://open.spotify.com/album/1yIhdpco5D15oJJJ1vcSiX"
+      },
+      "artists": [
+        {
+          "name": "Bootie Grove",
+          "url": "https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195360,
+      "name": "Softness",
+      "url": "https://open.spotify.com/track/7HDjCC1p2jfjgVsGBlqBdL"
     },
     {
       "album": {
@@ -3977,6 +4013,28 @@
     },
     {
       "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/5fVUL0aJVlZd0u6PkJR4yE"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Deza",
+          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142926,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/1xX614z6tmeEtKYU9eOyxH"
+    },
+    {
+      "album": {
         "name": "Take your time.",
         "url": "https://open.spotify.com/album/2THEfgRsxFGMq0NYAvta42"
       },
@@ -4130,6 +4188,24 @@
       "duration_ms": 449812,
       "name": "The Road is Long",
       "url": "https://open.spotify.com/track/6QZPF2qAWRlKcvWksumlZh"
+    },
+    {
+      "album": {
+        "name": "Tezeta",
+        "url": "https://open.spotify.com/album/0ljstUxoD15pelifv3t8AT"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352000,
+      "name": "There Goes Again, My Heart",
+      "url": "https://open.spotify.com/track/7pFIeWhlz0KDqIwggUphu0"
     },
     {
       "album": {

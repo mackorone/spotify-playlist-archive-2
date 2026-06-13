@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Bloody Civilian
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,514 likes - 59 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,560 likes - 59 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SpaceFuji](https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Terry apala](https://open.spotify.com/artist/1Ct52UFTjvAZu1pOuMWXY1), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SpaceFuji](https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP) | 3:19 |
+| 1 | [SpaceFuji](https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SpaceFuji](https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP) | 3:19 |
 | 2 | [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 |
 | 3 | [Hate That I Love You](https://open.spotify.com/track/4Z5WbiyKtTMFWgqK7ErFKv) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Hate That I Love You](https://open.spotify.com/album/6mNgkMoCmIAuQuFDTfMu8M) | 2:37 |
 | 4 | [PARTYGYAL](https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [PARTYGYAL](https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty) | 2:47 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 58 | [Idols](https://open.spotify.com/track/1dpxa8jGgUG8Dug4jgNkj4) | [Esoterica](https://open.spotify.com/artist/4D0epRNi8OyA8rR7dEoB3y) | [Avant God](https://open.spotify.com/album/2HfRLVLNFlh0a1X32Y4bmt) | 2:49 |
 | 59 | [Longo Longo](https://open.spotify.com/track/7C4ld0CYlWSHk7hovq3xpn) | [We are Nubia](https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Longo Longo](https://open.spotify.com/album/2nCEA6ak90czRS3KLWEZcm) | 3:26 |
 
-Snapshot ID: `AAAAANje33TveLwK3M15VEytufYJxZ6l`
+Snapshot ID: `AAAAAFnzh9AlNerG1T/HeuQsQIQXWKmB`

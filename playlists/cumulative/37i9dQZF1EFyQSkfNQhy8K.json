@@ -2421,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "S\u00c9 T\u00da MISMO",
+        "url": "https://open.spotify.com/album/1cG6HAhEp3inaCk3c4gKT3"
+      },
+      "artists": [
+        {
+          "name": "WANDA ORIGINAL",
+          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97213,
+      "name": "Ley de Atracci\u00f3n",
+      "url": "https://open.spotify.com/track/7r3bm3GXNSOTRZOc0ekwBI"
+    },
+    {
+      "album": {
         "name": "REFLEXA",
         "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
       },

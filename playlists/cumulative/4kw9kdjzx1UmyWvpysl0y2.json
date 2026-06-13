@@ -4761,6 +4761,32 @@
     },
     {
       "album": {
+        "name": "Cool For Me",
+        "url": "https://open.spotify.com/album/3A9FgPrm5naJyVjl7rqaQj"
+      },
+      "artists": [
+        {
+          "name": "Sudley",
+          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
+        },
+        {
+          "name": "Ekko & Sidetrack",
+          "url": "https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL"
+        },
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Cool For Me",
+      "url": "https://open.spotify.com/track/1Sr93ailm3oNbn0FO3hM0l"
+    },
+    {
+      "album": {
         "name": "Crashing",
         "url": "https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC"
       },

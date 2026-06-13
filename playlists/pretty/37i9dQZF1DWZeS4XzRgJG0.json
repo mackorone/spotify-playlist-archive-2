@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 43460,
+  "num_followers": 43468,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
         "name": "Lonely (with benny blanco)",
         "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "My Regards",
-        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "My Regards",
-      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1wklsLLbGIZg1RDpoJovrb"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/5pbajJXEPdcoXQPXoAVR1t"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "My Regards",
+        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "My Regards",
+      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "Get Weird (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Love Me or Leave Me",
-      "url": "https://open.spotify.com/track/1n73Qe6oEprLsUNHXET2pb"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "Teenage Mind",
         "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 155205,
       "name": "Teenage Mind",
       "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Love Me or Leave Me",
+      "url": "https://open.spotify.com/track/1n73Qe6oEprLsUNHXET2pb"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "Love Is A Stillness",
-        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 114637,
-      "name": "Love Is A Stillness",
-      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 164129,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "Love Is A Stillness",
+        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 114637,
+      "name": "Love Is A Stillness",
+      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "self-made woman",
-        "url": "https://open.spotify.com/album/5vdrn0jRVKst5tjlDo5Jpc"
-      },
-      "artists": [
-        {
-          "name": "Judith",
-          "url": "https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA"
-        }
-      ],
-      "duration_ms": 217916,
-      "name": "self-made woman",
-      "url": "https://open.spotify.com/track/3DX10E6qoh0IzU0AOd3WWO"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "It Aint me (Acoustic)",
         "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "self-made woman",
+        "url": "https://open.spotify.com/album/5vdrn0jRVKst5tjlDo5Jpc"
+      },
+      "artists": [
+        {
+          "name": "Judith",
+          "url": "https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA"
+        }
+      ],
+      "duration_ms": 217916,
+      "name": "self-made woman",
+      "url": "https://open.spotify.com/track/3DX10E6qoh0IzU0AOd3WWO"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "Do You Want To Be Honest?",
-        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 212565,
-      "name": "Do You Want To Be Honest?",
-      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "Feel Again",
         "url": "https://open.spotify.com/album/1Ivs2XzyHSUHUYXFbFghUp"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 195500,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/6ZqFEJmQokxWJ2dwzJZ3RR"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "Do You Want To Be Honest?",
+        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 212565,
+      "name": "Do You Want To Be Honest?",
+      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "IDK You Yet",
         "url": "https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 184638,
       "name": "IDK You Yet",
       "url": "https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -2555,6 +2555,22 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
+        "name": "One Call Away (Acoustic)",
+        "url": "https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "One Call Away - Acoustic",
+      "url": "https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
         "name": "Nothing Really Matters",
         "url": "https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU"
       },
@@ -2583,22 +2599,6 @@
       "duration_ms": 210160,
       "name": "Purpose",
       "url": "https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
-        "name": "One Call Away (Acoustic)",
-        "url": "https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "One Call Away - Acoustic",
-      "url": "https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M"
     },
     {
       "added_at": "2026-05-28 22:00:56",

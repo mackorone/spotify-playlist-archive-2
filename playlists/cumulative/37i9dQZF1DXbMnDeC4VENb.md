@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-421 songs - 23 hr 46 min
+422 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [One Love](https://open.spotify.com/track/2SfnV0AOAn3e5id2Yg5qJz) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:50 | 2022-09-05 |  |
 | [Otra Cama](https://open.spotify.com/track/3Jy0XeBUtcJAH1IrfPWbEI) | [Melodico](https://open.spotify.com/artist/0S6XZyWww6AyEUfk62wRJg), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Otra Cama](https://open.spotify.com/album/2LVkPNWR7cEeDpVyHC5v81) | 3:30 | 2024-11-08 |  |
 | [Otra Noche Contigo](https://open.spotify.com/track/1b0JlBLytIHzYJzGktdG4f) | [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9) | [Otra Noche Contigo](https://open.spotify.com/album/0CC8KfKM9LH1YUo6o3I7yy) | 3:39 | 2025-06-13 |  |
+| [Otro Abrigo](https://open.spotify.com/track/4gzMku4VVN3AKGtbrXE527) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Otro Abrigo](https://open.spotify.com/album/1MjzhfXAHq75qYVw4XnIFs) | 2:45 | 2026-06-12 |  |
 | [Oye Cantinero](https://open.spotify.com/track/6T2EN8kq3731c7fgu0S1nN) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Oye Cantinero](https://open.spotify.com/album/2HamJoEKIwTtCasZaQLiZx) | 3:16 | 2024-07-12 |  |
 | [PA QUE CONMIGO](https://open.spotify.com/track/6EQ2lpYqcWp0lpbgLmQGFS) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [PA QUE CONMIGO](https://open.spotify.com/album/5DMDB1y2gSxBWyXGPn38vy) | 2:56 | 2024-03-08 |  |
 | [Para Toda La Vida](https://open.spotify.com/track/31Rbj4gvq87oBt9EuQFABG) | [Chato 473](https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp), [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj) | [Para Toda La Vida](https://open.spotify.com/album/56nijUIQ3etVw5dJDxz9dS) | 3:48 | 2022-05-25 | 2023-08-05 |

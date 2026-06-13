@@ -4,7 +4,7 @@
 
 > East Africa queens in their music bag\. Cover: Teslah
 
-195 songs - 10 hr 18 min
+195 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Me too](https://open.spotify.com/track/0f69wNZrUKPe4s2EnSA5ai) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Me too](https://open.spotify.com/album/03Ip4Xc6gRdo2SkJtAh8N9) | 2:38 | 2025-05-15 |  |
 | [Milele](https://open.spotify.com/track/0GRikCkCDjo6KZflphU4J6) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Milele](https://open.spotify.com/album/19bugQdphaPV2owzpESgWb) | 3:37 | 2023-09-14 | 2026-05-13 |
 | [Mimi Na Wewe](https://open.spotify.com/track/3dD3R2tOwctlnslnNl4rnq) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [RNB](https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp) | 3:12 | 2026-05-12 |  |
+| [Mon Bebe](https://open.spotify.com/track/1vmlAOkpXxfclPeg0pdgdn) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Miss Understood](https://open.spotify.com/album/302aQy8UeU99sWA9CcFgRE) | 3:07 | 2026-06-11 |  |
 | [Money](https://open.spotify.com/track/5wXGMc37E8zPQahBiZGu87) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Effji](https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK) | [MONEY](https://open.spotify.com/album/1C4342P9N6QgqnQezg8Ony) | 2:54 | 2022-07-18 | 2024-02-09 |
 | [Moto](https://open.spotify.com/track/6h1MhPXXOtyOQcizOoo3xB) | [BLU 3](https://open.spotify.com/artist/1Mh9FYQxIQVCw73k5OLiYC) | [Moto](https://open.spotify.com/album/6sR25UDBq3j5Htck3jz67k) | 3:07 | 2026-05-28 |  |
 | [Moyo](https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7) | [Moyo](https://open.spotify.com/album/6G4pydEf93kthE5qJlxQ8i) | 2:26 | 2022-07-18 | 2023-09-02 |
@@ -177,7 +178,6 @@
 | [Tonalaba](https://open.spotify.com/track/0zyvr9G5PrfuvhqlCKMh4O) | [Tracy Melon](https://open.spotify.com/artist/2AKNtsrKpJoEb4HMPvb4Hp), [Mojo](https://open.spotify.com/artist/4eD6fI7A4KRt2T8HZaXJ7n) | [Tonalaba](https://open.spotify.com/album/5ONL2pLRZJpbFgHCKActmW) | 2:41 | 2026-05-12 |  |
 | [Toola](https://open.spotify.com/track/6ckQHJ3Q1UjduZtkp6t5N4) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb), [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Osobola](https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC) | 2:44 | 2022-09-08 | 2023-07-01 |
 | [Touching on My Baby](https://open.spotify.com/track/4TQqtk6JQD6pYBOhiIrNwd) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [Touching on My Baby](https://open.spotify.com/album/72AlrzsvuiyydOXwe09foV) | 2:35 | 2023-08-25 | 2024-08-23 |
-| [Track 9](https://open.spotify.com/track/1vmlAOkpXxfclPeg0pdgdn) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Miss Understood](https://open.spotify.com/album/302aQy8UeU99sWA9CcFgRE) | 0:00 | 2026-06-11 |  |
 | [Truth](https://open.spotify.com/track/0Hkeyxe7TwFxgiM1hhNc3A) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Truth](https://open.spotify.com/album/5gtHlJlSDBeaHnfR7vnd5X) | 2:58 | 2023-06-30 | 2023-08-26 |
 | [U&I](https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [U&I](https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ) | 3:10 | 2022-07-18 | 2025-01-10 |
 | [Unanikosha](https://open.spotify.com/track/6gHk7bjniGrFzZeIWuut7t) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH) | [Unanikosha](https://open.spotify.com/album/3O0zOnmqZcMapWxGooBzVu) | 3:02 | 2022-07-18 | 2023-04-14 |

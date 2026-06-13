@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-363 songs - 21 hr 28 min
+367 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Back Burner](https://open.spotify.com/track/6QeJFGr6dXIykO24UmAAeS) | [Breana Marin](https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7) | [Songs About Us](https://open.spotify.com/album/5vHbxFqZfAjvpyezS2jR4H) | 2:49 | 2025-06-06 |  |
 | [Back To Life \(However Do You Want Me\)](https://open.spotify.com/track/7ELuWpsuVCRBnOR9ZAZKDp) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Club Classics Vol\. One](https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa) | 3:52 | 2025-08-01 |  |
 | [Back to Me](https://open.spotify.com/track/4s41fhUIeatzAYlstRCxNd) | [Will Jordan](https://open.spotify.com/artist/3Is3ehDoBlnTKQtCHdEvpd) | [Back to Me](https://open.spotify.com/album/5MvFSIVZ2U5H6TbpsFFrWm) | 3:44 | 2023-10-18 |  |
+| [BACKSEAT \(feat\. Chief Keef & G Herbo\)](https://open.spotify.com/track/6Pg8SdmB0Ge2oREMuzUvhh) | [Big Opp](https://open.spotify.com/artist/32dqY5hdEsWLMZVG7asCq0), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [BACKSEAT \(feat\. Chief Keef & G Herbo\)](https://open.spotify.com/album/37gjb0OUw94caNd0UOJnux) | 4:08 | 2026-06-12 |  |
 | [Bag Up](https://open.spotify.com/track/09byku50cegoKBqWdSvwDs) | [Master Plan Inc](https://open.spotify.com/artist/0IK9zUhxsyjg3EmMHk9rZp) | [Master Plan Inc](https://open.spotify.com/album/7tMPrjuAhmepGmaqVxNw7G) | 2:51 | 2023-10-18 |  |
 | [Bani](https://open.spotify.com/track/1edhO7oohKuhmkEGvDNXcR) | [Susso](https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP) | [Keira](https://open.spotify.com/album/4RYg4wd3xq5aHVImUfpbw4) | 4:51 | 2023-10-18 |  |
 | [Be Careful](https://open.spotify.com/track/43qoe1yZxqutQmzHAfAeBB) | [Armed Rhymery](https://open.spotify.com/artist/1Fi0pi2srRwimN0RQMFudM) | [Be Careful](https://open.spotify.com/album/2HDcZHyGgvvLwO646Bw3NT) | 3:18 | 2025-08-01 |  |
@@ -98,6 +99,7 @@
 | [DISRESPECTFULLY](https://open.spotify.com/track/5PPk2waTDK1Cwyj3PQxDEa) | [Kvng Moses](https://open.spotify.com/artist/6bke0iSCUylKssEtk3Ltr2), [Jazzfeezy](https://open.spotify.com/artist/7rxVJrgnsnQhgxg3QnHsmi), [Cxmeesen](https://open.spotify.com/artist/55vk0CW8nBGuaIkIsyOfuw) | [DISRESPECTFULLY](https://open.spotify.com/album/14bi3dRJOBfJqHBiRYVWBJ) | 2:17 | 2025-06-06 |  |
 | [Do It Nasty](https://open.spotify.com/track/3AMS0l5pA3IBGWrgDILSYl) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [VEDO](https://open.spotify.com/album/2bIFtqMOh5jjfmqUO7DDDR) | 3:10 | 2023-10-18 |  |
 | [Do Me](https://open.spotify.com/track/4mUJL20NhYONRrzeTbSt1W) | [Moe Cheez](https://open.spotify.com/artist/13CdgzehABExrvXecjzA9z) | [Do Me](https://open.spotify.com/album/6H2mG37RbcVg7IZxOMMX4G) | 3:17 | 2023-10-18 |  |
+| [do what i say](https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:08 | 2026-06-12 |  |
 | [Doin it Again \(As Heard in the Chi\)](https://open.spotify.com/track/2RpXSLDQMtB5P9pO1oONYC) | [Royce](https://open.spotify.com/artist/1eNOuUkpb8Cg0kgMtRRs0H) | [Doin It Again \(As Heard in The Chi\)](https://open.spotify.com/album/5GWKwVAf2OGzoYfC5B3DSA) | 2:50 | 2023-10-18 |  |
 | [Don't Want It \(feat\. Sayyi\) \- Austin Millz Remix](https://open.spotify.com/track/0U22HqyJPN6YqCL6Ip9Npd) | [Brenmar](https://open.spotify.com/artist/713RoDl16muftBPRdCXGAX), [Sayyi](https://open.spotify.com/artist/0koQe6pSkkxw5ZjaXubPJe), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Award Remixes](https://open.spotify.com/album/2dYhhbSHiMwtqj2JPtkrxo) | 3:41 | 2023-10-18 |  |
 | [Dreamin](https://open.spotify.com/track/1UhO134ZoLZCTkOnl5of1E) | [Alonda Rich](https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf) | [Dreamin](https://open.spotify.com/album/5d7K2YnySTDJ5kOofk74k7) | 4:20 | 2024-06-21 |  |
@@ -192,6 +194,7 @@
 | [Let's Chill](https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Future](https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q) | 5:23 | 2025-06-20 |  |
 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 | 2024-05-17 |  |
 | [Libations](https://open.spotify.com/track/36HgC7vFvjVnKc3tUeZD57) | [Novel](https://open.spotify.com/artist/5EkPgNzxiQ16jv7ajN5feK) | [Libations](https://open.spotify.com/album/1Lv9AfFZfgnTqQKKuKE0yx) | 3:57 | 2025-05-23 |  |
+| [Life Is Beautiful](https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:06 | 2026-06-12 |  |
 | [Lifetimes](https://open.spotify.com/track/5c913GVjOVRzS1e7Dr3trd) | [Mickey Shiloh](https://open.spotify.com/artist/2ZI5SpSI3z4jWeaFXr0WlC) | [Lifetimes](https://open.spotify.com/album/66pt9gYLhrURu6u5LZPLqC) | 2:47 | 2023-10-18 |  |
 | [Like We Usd 2](https://open.spotify.com/track/4rbI44pPP8CK4v426MlOze) | [Mickey Shiloh](https://open.spotify.com/artist/2ZI5SpSI3z4jWeaFXr0WlC) | [20seventeen](https://open.spotify.com/album/1T04e6chm4CPXlVVEfVbKq) | 3:21 | 2023-10-18 |  |
 | [Liquor Store In The Sky \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/0y3DGDbZOewDRrNIhchtDj) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Liquor Store In The Sky \(feat\. Freddie Gibbs\)](https://open.spotify.com/album/1ynqhxlDR4UiGEJB1obGdu) | 3:20 | 2024-06-21 |  |
@@ -309,6 +312,7 @@
 | [TABOO \| TA13OO](https://open.spotify.com/track/4VYmdTVFXDq0LtYMoVswTv) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TA13OO](https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc) | 3:17 | 2023-10-18 |  |
 | [Take Me Higher](https://open.spotify.com/track/20Qi5xqrPlQXAW7wzn72gG) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Southern Delicacy](https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2) | 3:00 | 2023-10-18 |  |
 | [Take Up Space Sis](https://open.spotify.com/track/32l4V4t5dn90VCNqxYtbjH) | [Toni Jones](https://open.spotify.com/artist/6PXEwzEXJYzH2DcpU3WVOa) | [I See Me Mantras](https://open.spotify.com/album/4XrtCZ82EQlYKeDkvGphFN) | 3:41 | 2023-10-18 |  |
+| [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 | 2026-06-12 |  |
 | [That Girl](https://open.spotify.com/track/4pWtaHRo1ySWg7BJA1UJuz) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [The Last Summer \(Music From The Netflix Film\)](https://open.spotify.com/album/16KIy3XwUnWydVLC9CF4gQ) | 2:24 | 2023-10-18 |  |
 | [The Deal](https://open.spotify.com/track/4irSKdq4j3aNHsZqTCdM4Q) | [Armed Rhymery](https://open.spotify.com/artist/1Fi0pi2srRwimN0RQMFudM) | [The Deal](https://open.spotify.com/album/4x7MLIfIZukhhDxioNPRRF) | 3:57 | 2024-05-31 |  |
 | [The Distance](https://open.spotify.com/track/6vz5CRaat5Vc4561v7eSUr) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [The Distance](https://open.spotify.com/album/0H0QyUyHsMHyu2XW7FnEZL) | 4:15 | 2023-10-18 |  |

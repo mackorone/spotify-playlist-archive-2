@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAACLAwse7eipYHley9ivKiGv",
+  "snapshot_id": "ain6gAAAAAD7EHl+P/QJI6cCaPox/+JC",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunshine & Laughter",
-        "url": "https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG"
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr"
       },
       "artists": [
         {
           "name": "Limoblaze",
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Krisirie",
-          "url": "https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m"
         }
       ],
-      "duration_ms": 176239,
-      "name": "Sunshine & Laughter",
-      "url": "https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb"
+      "duration_ms": 154865,
+      "name": "Super Power",
+      "url": "https://open.spotify.com/track/15Y7IdbhvkDvulOS5HS8zl"
     },
     {
       "added_at": null,
@@ -683,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunshine & Laughter",
+        "url": "https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Krisirie",
+          "url": "https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m"
+        }
+      ],
+      "duration_ms": 176239,
+      "name": "Sunshine & Laughter",
+      "url": "https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Young & Chosen",
         "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
       },
@@ -703,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr"
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
       },
       "artists": [
         {
           "name": "Limoblaze",
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 154865,
-      "name": "Super Power",
-      "url": "https://open.spotify.com/track/15Y7IdbhvkDvulOS5HS8zl"
+      "duration_ms": 170118,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
     },
     {
       "added_at": null,
@@ -743,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/3xDrVck1imDVwTBANPjfBU"
       },
       "artists": [
         {
@@ -752,13 +772,13 @@
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         },
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 170118,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
+      "duration_ms": 224634,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/4vuaE0qbFTLPFvujV1EqaZ"
     },
     {
       "added_at": null,
@@ -775,6 +795,30 @@
       "duration_ms": 165543,
       "name": "Rest",
       "url": "https://open.spotify.com/track/62rvlAVBzy4AiMBWTSpgOL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Altar (Hosanna)",
+        "url": "https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko"
+      },
+      "artists": [
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "duration_ms": 172035,
+      "name": "Altar (Hosanna)",
+      "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
     },
     {
       "added_at": null,
@@ -803,50 +847,6 @@
       "duration_ms": 226669,
       "name": "Let Go Let God (Afro)",
       "url": "https://open.spotify.com/track/5MURc2ky9l3SPIXbTf13Oo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/3xDrVck1imDVwTBANPjfBU"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 224634,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/4vuaE0qbFTLPFvujV1EqaZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Altar (Hosanna)",
-        "url": "https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko"
-      },
-      "artists": [
-        {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "Altar (Hosanna)",
-      "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
       "duration_ms": 215733,
       "name": "Good God",
       "url": "https://open.spotify.com/track/0oBjCx63OwKT7anxNGO48A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 157342,
-      "name": "God Did It",
-      "url": "https://open.spotify.com/track/73AbkIeEcFzf2rLQUbamQU"
     },
     {
       "added_at": null,
@@ -959,22 +943,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afrobeats Rap and Jesus",
-        "url": "https://open.spotify.com/album/5wvR79qT3pzfMDS54lSpBe"
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr"
       },
       "artists": [
         {
           "name": "Limoblaze",
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Gil Joe",
-          "url": "https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h"
         }
       ],
-      "duration_ms": 237975,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/0SPt7LSW7Q1LDXffKX9jVS"
+      "duration_ms": 157342,
+      "name": "God Did It",
+      "url": "https://open.spotify.com/track/73AbkIeEcFzf2rLQUbamQU"
     },
     {
       "added_at": null,
@@ -995,6 +975,26 @@
       "duration_ms": 155468,
       "name": "Okay",
       "url": "https://open.spotify.com/track/4ETyEblde6ir6msxLcxCzf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afrobeats Rap and Jesus",
+        "url": "https://open.spotify.com/album/5wvR79qT3pzfMDS54lSpBe"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Gil Joe",
+          "url": "https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h"
+        }
+      ],
+      "duration_ms": 237975,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0SPt7LSW7Q1LDXffKX9jVS"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1234183,
+  "num_followers": 1234232,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAADSQT507+dOKL8vxEKmqXXA",
+  "snapshot_id": "ain6gAAAAAAPJLl5pi5TEcxKpIhAqS7M",
   "tracks": [
     {
       "added_at": null,
@@ -743,26 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Untouchable",
-        "url": "https://open.spotify.com/album/1VGaIPb6Cy7dLVC2fMbaLx"
+        "name": "Gridlock'd (The Soundtrack)",
+        "url": "https://open.spotify.com/album/5g7rRreBzEQmUP8wQTZTvl"
       },
       "artists": [
         {
-          "name": "Scarface",
-          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
-        },
-        {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Johnny P",
-          "url": "https://open.spotify.com/artist/2RdXF6BnaZAz1G44yNKJcj"
         }
       ],
-      "duration_ms": 300693,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/4vROonGbqcc0F6XC3rHH3f"
+      "duration_ms": 266800,
+      "name": "Never Had A Friend Like Me",
+      "url": "https://open.spotify.com/track/0CQGTqRcp8OS8wAO1BqWHU"
     },
     {
       "added_at": null,
@@ -787,18 +779,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gridlock'd (The Soundtrack)",
-        "url": "https://open.spotify.com/album/5g7rRreBzEQmUP8wQTZTvl"
+        "name": "The Untouchable",
+        "url": "https://open.spotify.com/album/1VGaIPb6Cy7dLVC2fMbaLx"
       },
       "artists": [
         {
+          "name": "Scarface",
+          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+        },
+        {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Johnny P",
+          "url": "https://open.spotify.com/artist/2RdXF6BnaZAz1G44yNKJcj"
         }
       ],
-      "duration_ms": 266800,
-      "name": "Never Had A Friend Like Me",
-      "url": "https://open.spotify.com/track/0CQGTqRcp8OS8wAO1BqWHU"
+      "duration_ms": 300693,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/4vROonGbqcc0F6XC3rHH3f"
     },
     {
       "added_at": null,

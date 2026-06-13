@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The best of Pinoy hip\-hop\. KALYE Natin 'To\. Cover: Flow G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,508,882 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,509,191 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

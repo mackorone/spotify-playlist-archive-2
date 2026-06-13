@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-182 songs - 9 hr 33 min
+183 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Lifted](https://open.spotify.com/track/3CsdmO3Uh0qqlIli1wvnjM) | [Alexander King](https://open.spotify.com/artist/5hvNjGBoEkn4ENKwDvtouW), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Rosap](https://open.spotify.com/album/02UEIpucuJMIqjifFgCh8c) | 4:04 | 2023-03-17 | 2025-07-12 |
 | [Live For The Moment](https://open.spotify.com/track/6bxDIFhdLKpeyGo0PBIz4w) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Haystak](https://open.spotify.com/artist/1Cv4OTcRrMvpUqKQftW88M), [Kevin Cummings](https://open.spotify.com/artist/3i20flz8al1d9PVjw1TLV7) | [9\-5 or 20\-Life](https://open.spotify.com/album/4Zk61choxayZFVg3qIk7DL) | 3:13 | 2023-03-17 |  |
 | [Long Bumpy Road \(feat\. SMO\) \- Remix](https://open.spotify.com/track/7mHQvybBKPU8U2q1WVhj0j) | [Chris Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22), [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Paving My Way](https://open.spotify.com/album/6XgqbPax3lypTi5EikNsMA) | 5:46 | 2023-03-17 |  |
+| [MCCONAUGHEY](https://open.spotify.com/track/7rZ4LHJ5aZS8Sgl7S0EYjL) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [CLUB COUNTRY](https://open.spotify.com/album/72xjubhlXgVmYlplHsLfKf) | 3:10 | 2026-06-12 |  |
 | [Mean to Me](https://open.spotify.com/track/1KWlTxF4TufdT8ZwYSycFB) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Mean to Me](https://open.spotify.com/album/6GINNflvXMjf3xZ8s5WJa0) | 3:38 | 2024-09-13 |  |
 | [Miami \(feat\. Lil Wayne & Rick Ross\)](https://open.spotify.com/track/1j6a5zJGhyBlrvqsszBEeF) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Miami](https://open.spotify.com/album/03xHAanKM1Tt39480qsiOw) | 3:37 | 2025-07-25 |  |
 | [Muddy](https://open.spotify.com/track/4qb4wG8VNxKxQQy3HdAopk) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [Mistah Rain](https://open.spotify.com/artist/6rkxDE9aRVteWGmmKgGaTW) | [Muddy](https://open.spotify.com/album/4js5x9TY7azY4YBOJDNc9W) | 2:42 | 2023-05-26 | 2025-05-03 |

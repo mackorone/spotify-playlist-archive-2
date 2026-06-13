@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 134224,
+  "num_followers": 134227,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAACdN3DlUOr70/5kqFpXonDK",
+  "snapshot_id": "ain6gAAAAAC8F6avNokSmug+Qtb07WHW",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+        "name": "Rock and Roll Music (Enregistrements originaux)",
+        "url": "https://open.spotify.com/album/7xz7W4YesM8zIwiQkDt93n"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Too Much Monkey Business",
-      "url": "https://open.spotify.com/track/0aS1p8fwu06q47zUdShfAv"
+      "duration_ms": 163226,
+      "name": "You Can't Catch Me",
+      "url": "https://open.spotify.com/track/7LlGJpTtwBiggiZAkoh69U"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock and Roll Music (Enregistrements originaux)",
-        "url": "https://open.spotify.com/album/7xz7W4YesM8zIwiQkDt93n"
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 163226,
-      "name": "You Can't Catch Me",
-      "url": "https://open.spotify.com/track/7LlGJpTtwBiggiZAkoh69U"
+      "duration_ms": 174133,
+      "name": "Too Much Monkey Business",
+      "url": "https://open.spotify.com/track/0aS1p8fwu06q47zUdShfAv"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
       "duration_ms": 142440,
       "name": "Let's Do Our Thing Together",
       "url": "https://open.spotify.com/track/7cTrN7Jpg3RduYiH1HwQb8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 137106,
-      "name": "Brown Eyed Handsome Man",
-      "url": "https://open.spotify.com/track/2KIz4ileT7mvzFhAR8U5gS"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 137106,
+      "name": "Brown Eyed Handsome Man",
+      "url": "https://open.spotify.com/track/2KIz4ileT7mvzFhAR8U5gS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From St. Louie To Frisco",
         "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 140160,
       "name": "Louis To Frisco",
       "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "No Money Down",
-      "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
       "duration_ms": 223573,
       "name": "My Ding-A-Ling",
       "url": "https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "No Money Down",
+      "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chuck Berry On Stage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 151706,
+      "name": "Go Go Go",
+      "url": "https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hail! Hail! Rock 'N' Roll",
         "url": "https://open.spotify.com/album/3vbjfGvgC1nMGmpBPdDuOV"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry On Stage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 151706,
-      "name": "Go Go Go",
-      "url": "https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 169173,
+      "name": "Downbound Train",
+      "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rockin' At The Hops",
         "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 132973,
       "name": "I Got To Find My Baby - Single Version",
       "url": "https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Juke Box Hits",
-        "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 108320,
-      "name": "I'm Talking About You",
-      "url": "https://open.spotify.com/track/4Qz94VdIvKAmtBIyuoAZW9"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+        "name": "New Juke Box Hits",
+        "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 169173,
-      "name": "Downbound Train",
-      "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
+      "duration_ms": 108320,
+      "name": "I'm Talking About You",
+      "url": "https://open.spotify.com/track/4Qz94VdIvKAmtBIyuoAZW9"
     },
     {
       "added_at": null,

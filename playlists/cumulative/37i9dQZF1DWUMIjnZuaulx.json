@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 311075,
       "name": "Be Glorified - Live",
       "url": "https://open.spotify.com/track/3HpKWCHaol4rSmx7K2DmHA"
@@ -4907,6 +4907,28 @@
     },
     {
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/07zqZ3Ux5B5RfUSx9UtN8n"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501003,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1uR09SXUN6b4Nx0qS9bSNl"
+    },
+    {
+      "album": {
         "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
         "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
       },
@@ -6395,6 +6417,28 @@
     },
     {
       "album": {
+        "name": "I Command My Soul (feat. Antavia Jackson) [Live]",
+        "url": "https://open.spotify.com/album/11EK22GDhCgj9yRq70rZJM"
+      },
+      "artists": [
+        {
+          "name": "Darwin Hobbs",
+          "url": "https://open.spotify.com/artist/6zhrnjTFJFS6bWzFtRm7aH"
+        },
+        {
+          "name": "Antavia Jackson",
+          "url": "https://open.spotify.com/artist/6R2b7tyFhvQkk8wmkW6R0h"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455744,
+      "name": "I Command My Soul (feat. Antavia Jackson) - Live",
+      "url": "https://open.spotify.com/track/62AJjfX5KUjecPFnlN9d7w"
+    },
+    {
+      "album": {
         "name": "I Don't Know What You Came to Do",
         "url": "https://open.spotify.com/album/31L3iuXAxZ4idS4O8yh4ys"
       },
@@ -7626,7 +7670,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 276474,
       "name": "It's Whatever You Say",
       "url": "https://open.spotify.com/track/1xRIBHf45IrVdSKD2UQq22"

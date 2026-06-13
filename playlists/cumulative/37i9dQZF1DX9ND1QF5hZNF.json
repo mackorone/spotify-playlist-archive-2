@@ -897,6 +897,28 @@
     },
     {
       "album": {
+        "name": "Billie Jean",
+        "url": "https://open.spotify.com/album/4T2sO5fW6pZ2nDTR4NF00F"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        {
+          "name": "Toby Rose",
+          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192295,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/2EF2CzrJu9ixnL8yfHJddM"
+    },
+    {
+      "album": {
         "name": "Birds Of A Feather",
         "url": "https://open.spotify.com/album/2R9kC6LuDxu8DHkAhY2Zub"
       },
@@ -2492,6 +2514,32 @@
       "duration_ms": 155458,
       "name": "Free To Love",
       "url": "https://open.spotify.com/track/3Z9wiXDPADfxgovNa2I6ph"
+    },
+    {
+      "album": {
+        "name": "LIFE XI",
+        "url": "https://open.spotify.com/album/3c85hbXRpPmxtJgxSZE7yq"
+      },
+      "artists": [
+        {
+          "name": "Nathan Daisy",
+          "url": "https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf"
+        },
+        {
+          "name": "Taras Bazeev",
+          "url": "https://open.spotify.com/artist/3tUuyM5RyjpHXGOJ2w83xA"
+        },
+        {
+          "name": "JAW",
+          "url": "https://open.spotify.com/artist/05BpORreAobgNUA5feAsui"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169043,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/0fdnLCIu4Y3AbHzYtm3bRj"
     },
     {
       "album": {
@@ -4902,7 +4950,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 159360,
       "name": "never leave",
       "url": "https://open.spotify.com/track/1qUPQkyNpNvywy6h5iTNEN"
@@ -5334,7 +5382,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 259364,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/4OqCbJgaxx0VuL8Q7leohP"
@@ -6938,7 +6986,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 132660,
       "name": "Souvenir d'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/1hUGh06fIOnMnx8iAa1AtX"
@@ -7030,6 +7078,24 @@
       "duration_ms": 184000,
       "name": "starry eyes",
       "url": "https://open.spotify.com/track/0LiCuKbMYM2pF00U502RH7"
+    },
+    {
+      "album": {
+        "name": "Stay With Me Through The Night",
+        "url": "https://open.spotify.com/album/28EdPIAGo5czFuqTGseouO"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157879,
+      "name": "Stay With Me Through The Night",
+      "url": "https://open.spotify.com/track/3YvdiKCgmH1N5PHLUosWBF"
     },
     {
       "album": {

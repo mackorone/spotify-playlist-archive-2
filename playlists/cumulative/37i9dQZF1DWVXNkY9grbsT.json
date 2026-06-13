@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Breaking Pattern",
+        "url": "https://open.spotify.com/album/2WTUNw072EK07Fts3s6qYN"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176421,
+      "name": "Aeon",
+      "url": "https://open.spotify.com/track/6cOFkOjuQ0QeGozrsBVujv"
+    },
+    {
+      "album": {
         "name": "Acquiesce",
         "url": "https://open.spotify.com/album/7brmSCmB5orSsJgGJULcqx"
       },
@@ -1052,7 +1070,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 363353,
       "name": "AMB001",
       "url": "https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr"
@@ -5273,6 +5291,28 @@
     },
     {
       "album": {
+        "name": "stray dogs (Vocal Dubs)",
+        "url": "https://open.spotify.com/album/1E71tVSV1jrFWnUnzudmT1"
+      },
+      "artists": [
+        {
+          "name": "Shepherd's Call",
+          "url": "https://open.spotify.com/artist/56qjhETaQOsiOim5gsJhBa"
+        },
+        {
+          "name": "Merely",
+          "url": "https://open.spotify.com/artist/3R0EMFbUS5NaombX9GQOn7"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "highrise (feat. Merely)",
+      "url": "https://open.spotify.com/track/7yGg6LKKh1IA62nZboamOT"
+    },
+    {
+      "album": {
         "name": "Radio Unnameable",
         "url": "https://open.spotify.com/album/1J82F4sktKDOiKBtOu7Xmj"
       },
@@ -6792,7 +6832,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 124091,
       "name": "Moments for Stillness",
       "url": "https://open.spotify.com/track/2UWlIdrwH7M3ekudloeuk6"
@@ -9821,6 +9861,24 @@
     },
     {
       "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146715,
+      "name": "Somewhere Right Now In The Future",
+      "url": "https://open.spotify.com/track/2YOORTqQSXyjlo3Yvtk9F4"
+    },
+    {
+      "album": {
         "name": "Fighting Modernism EP",
         "url": "https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ"
       },
@@ -10552,7 +10610,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 437622,
       "name": "The Eternal Thrill",
       "url": "https://open.spotify.com/track/27Spm7S2VdLGaVxgaM50Cu"

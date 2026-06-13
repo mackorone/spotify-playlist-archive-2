@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New music from your favorite women.  Cover: FLO",
+  "description": "New music from your favorite women.  Cover: Imani Imani",
   "name": "Queen",
   "tracks": [
     {
@@ -1047,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/7uSGajdgpb9gFIbrZD5kMd"
+      },
+      "artists": [
+        {
+          "name": "Mai Anna",
+          "url": "https://open.spotify.com/artist/2fTXlJF6M8NKBXu5FBWdDT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262941,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/4qMTQM4BzpXCUUZnI9rUnG"
+    },
+    {
+      "album": {
         "name": "Back and Forth (feat. Missy Elliott)",
         "url": "https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW"
       },
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 212812,
       "name": "burn (feat. Tone Stith)",
       "url": "https://open.spotify.com/track/1MIfNgBZ4IYOnXYSpP88mk"
@@ -3541,6 +3559,28 @@
     },
     {
       "album": {
+        "name": "A LITTLE VENGEANCE",
+        "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193373,
+      "name": "DUSTY (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
+    },
+    {
+      "album": {
         "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
         "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
       },
@@ -4038,6 +4078,24 @@
       "duration_ms": 206465,
       "name": "Find Someone Like You",
       "url": "https://open.spotify.com/track/4lCqM3KkNn8aj7biJaa58o"
+    },
+    {
+      "album": {
+        "name": "FIRE BURNIN' THRU THE RAIN",
+        "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167394,
+      "name": "FIRE BURNIN' THRU THE RAIN",
+      "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
     },
     {
       "album": {
@@ -4857,6 +4915,24 @@
     },
     {
       "album": {
+        "name": "Go To Hell",
+        "url": "https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Go To Hell",
+      "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
+    },
+    {
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/79wXLaskxKX6Nh5rs3yMO9"
       },
@@ -5330,7 +5406,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 180856,
       "name": "Higher",
       "url": "https://open.spotify.com/track/13BoUgeUpseJ35EuwuaGwL"
@@ -5666,6 +5742,24 @@
       "duration_ms": 204316,
       "name": "Hrs and Hrs",
       "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
+    },
+    {
+      "album": {
+        "name": "God Must Really Love Me",
+        "url": "https://open.spotify.com/album/2PgYxXmW7geBRncBAgpzNL"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198866,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/5EQFlXjVAQEv39DKvHSmdv"
     },
     {
       "album": {
@@ -6760,7 +6854,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 241507,
       "name": "know about me (feat. GloRilla)",
       "url": "https://open.spotify.com/track/6ThcmoM9ZXYyNDm7AqtGTY"
@@ -8562,6 +8656,24 @@
       "duration_ms": 294266,
       "name": "Not Gon' Cry",
       "url": "https://open.spotify.com/track/2OA0iq9hGkvUcS5qA1ZJnU"
+    },
+    {
+      "album": {
+        "name": "Not So Sweet",
+        "url": "https://open.spotify.com/album/6Zr7GLxnNwy9vVod25bpux"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235088,
+      "name": "Not So Sweet",
+      "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
     },
     {
       "album": {
@@ -11543,6 +11655,24 @@
     },
     {
       "album": {
+        "name": "Sunday Afternoon",
+        "url": "https://open.spotify.com/album/1dQeY1B5fEGOpY8f6heGWY"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213375,
+      "name": "Sunday Afternoon",
+      "url": "https://open.spotify.com/track/5xYzP7BZkXSJfVcduPIbqq"
+    },
+    {
+      "album": {
         "name": "existential thottie",
         "url": "https://open.spotify.com/album/2Z3JKcsyiRdZFMZ3KUgegC"
       },
@@ -11692,6 +11822,24 @@
       "duration_ms": 255237,
       "name": "Sweetest Lullabye",
       "url": "https://open.spotify.com/track/26GYTAkEq471oPD7PDSBhT"
+    },
+    {
+      "album": {
+        "name": "Sweetest Season",
+        "url": "https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170753,
+      "name": "Sweetest Season",
+      "url": "https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG"
     },
     {
       "album": {
@@ -12260,7 +12408,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 193116,
       "name": "tmwtd",
       "url": "https://open.spotify.com/track/7zIS9pKDkKQVUedycOP6kK"
@@ -13662,6 +13810,24 @@
       "duration_ms": 223095,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/2aqq3bVljZMbwGuzYaf4om"
+    },
+    {
+      "album": {
+        "name": "Wouldn't You Like To Know",
+        "url": "https://open.spotify.com/album/2dgLCpy0RFM2syxoLuCUwz"
+      },
+      "artists": [
+        {
+          "name": "Reign Judge",
+          "url": "https://open.spotify.com/artist/3G7N2G4Gpx0P8uBMu2Sv9v"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207010,
+      "name": "Wouldn't You Like To Know",
+      "url": "https://open.spotify.com/track/6Cqt0IQ4OJEB0ndMCd7BI5"
     },
     {
       "album": {

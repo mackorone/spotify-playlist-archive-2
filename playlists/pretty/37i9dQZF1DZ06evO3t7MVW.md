@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,702 likes - 43 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,733 likes - 43 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 23 | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF) | 4:34 |
 | 24 | [Coming Home](https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:43 |
 | 25 | [Middle of the Ocean](https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Easy to Love You](https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91) | 4:29 |
-| 26 | [Siren \(with Stick Figure\)](https://open.spotify.com/track/3jSlARN861elnfSuveZx8X) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 3:57 |
-| 27 | [Treasure \(with Stick Figure\)](https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO) | [Stay High](https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Treasure \(with Stick Figure\)](https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS) | 3:22 |
-| 28 | [Angels Above Me](https://open.spotify.com/track/1hoSJlBH90kh06ySuMo6G4) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Angels Above Me](https://open.spotify.com/album/2JbuOCT3JIm2EKTMkQkUxv) | 4:20 |
+| 26 | [Angels Above Me](https://open.spotify.com/track/1hoSJlBH90kh06ySuMo6G4) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Angels Above Me](https://open.spotify.com/album/2JbuOCT3JIm2EKTMkQkUxv) | 4:20 |
+| 27 | [Siren \(with Stick Figure\)](https://open.spotify.com/track/3jSlARN861elnfSuveZx8X) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 3:57 |
+| 28 | [Treasure \(with Stick Figure\)](https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO) | [Stay High](https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Treasure \(with Stick Figure\)](https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS) | 3:22 |
 | 29 | [Show Love \(with Stick Figure\)](https://open.spotify.com/track/40duW4CYbkAvHPtb19eX03) | [Sensamotion](https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Feel It All Around](https://open.spotify.com/album/02qlYc4mrjNMFFQvOkrS01) | 3:14 |
 | 30 | [Warning \(feat\. Stick Figure\)](https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Local Motion](https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0) | 3:52 |
 | 31 | [Out the Door](https://open.spotify.com/track/6fo3vAnEA8NLICFCzYfVI8) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 4:34 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 42 | [Old Sunrise](https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 5:23 |
 | 43 | [Natural Mystic \(with Stephen Marley\) \- West Palm Beach 2025](https://open.spotify.com/track/4e7FmcrVSwJe7NnTLHAZBm) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Natural Mystic \(with Stephen Marley\) \[West Palm Beach 2025\]](https://open.spotify.com/album/49x3hZ1OINSRz6qhjdubAF) | 3:45 |
 
-Snapshot ID: `aidXgAAAAABdL/+zIRbNcarSjstMuFqS`
+Snapshot ID: `ain6gAAAAABR+rqDr0dowSijQ1V7Pqv2`

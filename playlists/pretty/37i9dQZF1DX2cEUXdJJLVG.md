@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Hand\-picked grooves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,641 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,642 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 47 | [BACKSEAT](https://open.spotify.com/track/6vH2KwSd69qHLxiWD4CAHU) | [Thomas Asselman](https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU) | [BACKSEAT](https://open.spotify.com/album/6Vwx2zG2OqdfP4Hx5aZB43) | 2:53 |
 | 48 | [You Got It](https://open.spotify.com/track/3HDzfqVlr9Fe3ZvPFOUnwP) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [FREE UP](https://open.spotify.com/album/6LjosUEO0uYlyNKpUtL3Tm) | 4:03 |
 | 49 | [Sunshine](https://open.spotify.com/track/3zRGDePRdS1dwd1IgkfClq) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq), [Sidekick Music](https://open.spotify.com/artist/0TPqwBgpuUgwdmXPk85l0c) | [Sunshine](https://open.spotify.com/album/7vZfAzqBqfNBbpE0ZlwpfA) | 3:08 |
-| 50 | [Hold On, Let Go](https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Hold On, Let Go](https://open.spotify.com/album/73diRAl84rievVIadGPsoc) | 4:01 |
+| 50 | [Hold On, Let Go \(ft\. WAYNE SNOW & 3DDY\)](https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Hold On, Let Go \(ft\. WAYNE SNOW & 3DDY\)](https://open.spotify.com/album/73diRAl84rievVIadGPsoc) | 4:01 |
 | 51 | [Mind Made Up](https://open.spotify.com/track/4FaSBMs67MRxCdrG9myHVo) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Mind Made Up](https://open.spotify.com/album/0wXV9BdX14jdQ6TKQ90pdF) | 4:58 |
 | 52 | [Come Alive](https://open.spotify.com/track/54qhMRdSYqQhUo7CtFzXQa) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Come Alive](https://open.spotify.com/album/4rFgB6gBS4YJR8EtyUinvw) | 3:17 |
 | 53 | [Sailing Away](https://open.spotify.com/track/6LkwvXgYfM5qoW198vlIn8) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Sailing Away](https://open.spotify.com/album/0l13ZlBmEjGIGRjzToTiSn) | 4:41 |

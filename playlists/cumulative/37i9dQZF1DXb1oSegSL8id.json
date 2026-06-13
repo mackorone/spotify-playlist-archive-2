@@ -1041,6 +1041,36 @@
     },
     {
       "album": {
+        "name": "Toca Aquela2.0",
+        "url": "https://open.spotify.com/album/0Z47P8o8tMVSFmfnB2gk3m"
+      },
+      "artists": [
+        {
+          "name": "Toca Aquela",
+          "url": "https://open.spotify.com/artist/77HrIL9YZ1VR6Uvf3WGHE7"
+        },
+        {
+          "name": "Thauane",
+          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+        },
+        {
+          "name": "Breno Major",
+          "url": "https://open.spotify.com/artist/53cEbokP6S7cahtXPXvQ5c"
+        },
+        {
+          "name": "Som de Faculdade",
+          "url": "https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Eu Te Esperarei",
+      "url": "https://open.spotify.com/track/5ICt8bhdL84T9qYZnp05ze"
+    },
+    {
+      "album": {
         "name": "Evoluiu",
         "url": "https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W"
       },
@@ -2754,7 +2784,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 158724,
       "name": "Vou Valendo - Ao Vivo",
       "url": "https://open.spotify.com/track/4OujRBkm3MgW8GzdGkefbW"

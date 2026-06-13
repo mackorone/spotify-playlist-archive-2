@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de mayo 2026\. Cover: Rels B
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,558,568 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,559,150 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 25 | [pequeñita!](https://open.spotify.com/track/2O3SZqE5w9TPaI4PuH2rFC) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [pequeñita!](https://open.spotify.com/album/5lziRKWwHSbN8hFGfiNcXt) | 2:39 |
 | 26 | [CANAIMA](https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [CANAIMA](https://open.spotify.com/album/0mwHC4EpVfJ1y2hY7PvfYX) | 2:31 |
 | 27 | [Silverado](https://open.spotify.com/track/7AiufZydQdIZypUWpiEABD) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Silverado](https://open.spotify.com/album/1AFVBBfgExQd6OKIchabdA) | 3:09 |
-| 28 | [DFWE](https://open.spotify.com/track/1xAs0WBZBD8wItZIuGJWRs) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DFWE](https://open.spotify.com/album/1m8EV0hEQGQvgtmVylnsdT) | 3:03 |
-| 29 | [Dónde, Cómo y Cuándo?](https://open.spotify.com/track/2a6SSmS7AVSTZ9CoxNGl8Y) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 3:03 |
+| 28 | [Dónde, Cómo y Cuándo?](https://open.spotify.com/track/2a6SSmS7AVSTZ9CoxNGl8Y) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 3:03 |
+| 29 | [DFWE](https://open.spotify.com/track/1xAs0WBZBD8wItZIuGJWRs) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DFWE](https://open.spotify.com/album/1m8EV0hEQGQvgtmVylnsdT) | 3:03 |
 | 30 | [esperando que vuelvas](https://open.spotify.com/track/7hOpmWDACdtAeuksK2BseS) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [esperando que vuelvas](https://open.spotify.com/album/1vqUjUxGNccr4r4kgFTd7M) | 3:36 |
 | 31 | [kiss goodbye](https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [kiss goodbye / brb](https://open.spotify.com/album/45omOM9b7ujbjudttnasFa) | 2:43 |
 | 32 | [Déjame Entrar](https://open.spotify.com/track/46kTKtI83CZZfGadbVe9Cu) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Déjame Entrar](https://open.spotify.com/album/256bVkeTRjNNDaZL1hOtUV) | 4:10 |
 | 33 | [Rojo Rubí](https://open.spotify.com/track/4Q9yMb434vVpNz2QM2nQLI) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Rojo Rubí](https://open.spotify.com/album/3xzd8q2D1aPKfhuin1LidI) | 3:52 |
 | 34 | [aiaiaiaiai](https://open.spotify.com/track/3ZIUbesQtBxDi4Dl46u2bl) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ricky y Mau](https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg) | 2:20 |
-| 35 | [Antes De Ti](https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Antes De Ti](https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF) | 2:56 |
-| 36 | [Nueva Era](https://open.spotify.com/track/5Es0RTYY29zVwtg0rrM91S) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Belleza De Las Flores](https://open.spotify.com/album/04htfPm5MFb76fAOaYmhYE) | 3:17 |
-| 37 | [Pero Me Dañaste](https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Pero Me Dañaste](https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ) | 3:34 |
+| 35 | [Pero Me Dañaste](https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Pero Me Dañaste](https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ) | 3:34 |
+| 36 | [Antes De Ti](https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Antes De Ti](https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF) | 2:56 |
+| 37 | [Nueva Era](https://open.spotify.com/track/5Es0RTYY29zVwtg0rrM91S) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Belleza De Las Flores](https://open.spotify.com/album/04htfPm5MFb76fAOaYmhYE) | 3:17 |
 | 38 | [Me & U](https://open.spotify.com/track/7bA4pw66AARPLFVi14O7G4) | [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Me & U](https://open.spotify.com/album/5a8WNzwGYttrWURsqdzbuu) | 3:09 |
 | 39 | [dame luz](https://open.spotify.com/track/0neuCXxllFo1Vw4kfd5PIP) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [dame luz](https://open.spotify.com/album/4rxpOM6DZEs3W21Q758omg) | 3:09 |
 | 40 | [Bingo](https://open.spotify.com/track/0Uyd7DOBuZZ1StPj3LVuPi) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Bingo](https://open.spotify.com/album/2V8codG8lD0YA9mHSZBmbJ) | 2:35 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 47 | [CAMINO](https://open.spotify.com/track/7HrQQQeBpXAaZkvdeX24yU) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL), [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE) | [CAMINO](https://open.spotify.com/album/0vUAfMyeqlXI2vHy22oKSw) | 3:04 |
 | 48 | [Mentiroso](https://open.spotify.com/track/4ZjoijowK4pzDTAcoIczxf) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Domi Star](https://open.spotify.com/album/4yOoF9maYHl8dAOyXkwYzu) | 3:22 |
 | 49 | [venus & romeo](https://open.spotify.com/track/7xPYhm2jFGzO6dZBjlS58n) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [venus & romeo](https://open.spotify.com/album/2nKTInQL5qoLf11ZXXBHnb) | 2:03 |
-| 50 | [Power Ballad](https://open.spotify.com/track/5gOjb6qeRHH4CScUkqTFZ6) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Power Ballad](https://open.spotify.com/album/3mb9jcjOHpLjzqJ1us7x6P) | 3:52 |
+| 50 | [Seadoo](https://open.spotify.com/track/0J1j75w9TvUqvPCyWMR3Jw) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [Seadoo](https://open.spotify.com/album/7nT9N003PTCWvNdx4KxwYM) | 2:40 |
 
 Snapshot ID: `AAAAAKE9W3wqsISRnokDJ1LKdCR1wasv`

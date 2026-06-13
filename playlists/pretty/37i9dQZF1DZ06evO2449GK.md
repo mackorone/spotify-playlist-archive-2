@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,865 likes - 37 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,889 likes - 37 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 2 | [El Remate](https://open.spotify.com/track/5YQmvLdcJ7HrAt31eU4jBc) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe) | [Anarcolirykoz](https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I) | 4:04 |
 | 3 | [Normal](https://open.spotify.com/track/2Dj24olIFAq8Z9MlWndo6U) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 3:21 |
 | 4 | [La Típica](https://open.spotify.com/track/6vadvytXA6QudX5WDBpP2f) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW) | 2:51 |
-| 5 | [Sancocho en Leña](https://open.spotify.com/track/1QUqKGKN1GvzA2qvAYi2cp) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Sancocho en Leña](https://open.spotify.com/album/0TgM0NVtPWfm1aPCYrbWaa) | 2:56 |
-| 6 | [Suero Casero](https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Anarcolirykoz](https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I) | 3:05 |
+| 5 | [La Funa](https://open.spotify.com/track/3hs125LehJcsqxtgvzlU9e) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Funa](https://open.spotify.com/album/02wmDilrBYFz0cSkkhpmmI) | 3:30 |
+| 6 | [Medellificación](https://open.spotify.com/track/5WT2uE1Nd3m5nG3lhmyFfE) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Jeronimo](https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC) | [Anarcolirykoz](https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I) | 3:52 |
 | 7 | [Tararea](https://open.spotify.com/track/1S1HkSJ1ndy7Yvc4YPg0Bs) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 3:19 |
-| 8 | [La Funa](https://open.spotify.com/track/3hs125LehJcsqxtgvzlU9e) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Funa](https://open.spotify.com/album/02wmDilrBYFz0cSkkhpmmI) | 3:30 |
+| 8 | [Sancocho en Leña](https://open.spotify.com/track/1QUqKGKN1GvzA2qvAYi2cp) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Sancocho en Leña](https://open.spotify.com/album/0TgM0NVtPWfm1aPCYrbWaa) | 2:56 |
 | 9 | [Aranjuez](https://open.spotify.com/track/6p7AcEaN1Dy3Pjo4SJdzMM) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 3:54 |
-| 10 | [Medellificación](https://open.spotify.com/track/5WT2uE1Nd3m5nG3lhmyFfE) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Jeronimo](https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC) | [Anarcolirykoz](https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I) | 3:52 |
+| 10 | [Suero Casero](https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Anarcolirykoz](https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I) | 3:05 |
 | 11 | [El Malo de la Película](https://open.spotify.com/track/66maa6bpHoJjsmtozGChDf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Polimnia](https://open.spotify.com/artist/1KdN2WeS9Zx3L2eehtzUJP) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 3:46 |
 | 12 | [Baño de Ruda](https://open.spotify.com/track/1zuxs70IPIWEsqlrmhohDQ) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Baño de Ruda](https://open.spotify.com/album/4aOWw1CCZUHRPSqd7DQ7Td) | 3:09 |
 | 13 | [Pambelé](https://open.spotify.com/track/57nqMkcGByTnlBBfxCtJs9) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 3:47 |
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 28 | [Comediantes de Velorio](https://open.spotify.com/track/7AsBAP4vy6fVgLe5bYTxBz) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/7ajmfe6KhadgGBImtWLugE) | 4:14 |
 | 29 | [Mi Religión](https://open.spotify.com/track/3idFvZM9VyiIkjSOjfuGkJ) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [10](https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq) | 3:51 |
 | 30 | [Antes del Meridiano](https://open.spotify.com/track/6l3SJhTmqqlmCcm3gMRTFE) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 3:29 |
-| 31 | [La Esquina del Mariachi](https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Horizonte](https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ) | 5:16 |
+| 31 | [Let My People](https://open.spotify.com/track/7FB8V2hRTVkqGiOXnHIfy9) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/7vB3v0khrKFPp700YjLNgc) | 3:32 |
 | 32 | [Una Resaca Mas](https://open.spotify.com/track/60LFqvmgxoncGyBFCLmw9u) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/7ajmfe6KhadgGBImtWLugE) | 3:58 |
-| 33 | [Let My People](https://open.spotify.com/track/7FB8V2hRTVkqGiOXnHIfy9) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/7vB3v0khrKFPp700YjLNgc) | 3:32 |
+| 33 | [La Esquina del Mariachi](https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Horizonte](https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ) | 5:16 |
 | 34 | [Anestesia Local \- Episodio 2](https://open.spotify.com/track/2CjZxvQhqXQdMilp1tAJSX) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 3:53 |
 | 35 | [El Despilfarro](https://open.spotify.com/track/0cKpLltsjba1REqMwFzvK1) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/7vB3v0khrKFPp700YjLNgc) | 2:58 |
 | 36 | [El Salón de la Injusticia](https://open.spotify.com/track/2x7cgane1Pqh8pxgKhayOu) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 3:50 |
 | 37 | [No Hay Flores en Venus](https://open.spotify.com/track/7phGc1gPOFCbhC5RVLpRCf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 2:57 |
 
-Snapshot ID: `aiipAAAAAABw0NOyzBYTyNraG6PRKgYX`
+Snapshot ID: `ain6gAAAAACPKKlYU5WB09hih2I21MyG`

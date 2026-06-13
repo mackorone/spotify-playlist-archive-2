@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Mon Laferte
 
-1,001 songs - 2 day 5 hr 19 min
+1,002 songs - 2 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -795,6 +795,7 @@
 | [Santo](https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Santo](https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC) | 3:03 | 2022-02-02 | 2023-05-26 |
 | [Se Fue](https://open.spotify.com/track/1uFW6czrHk5PsK3s6gOI7C) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 4:00 | 2024-11-15 |  |
 | [Se Fue la Luz](https://open.spotify.com/track/2M4UXjgRjbQnS8s7lNR9g3) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:39 | 2022-03-24 | 2023-05-26 |
+| [Se me hace imposible olvidarte :\(](https://open.spotify.com/track/2nl9wkN8LfiQN6feen3HUX) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [sorry si soy GRRRIS](https://open.spotify.com/album/5nypepH4BfZG3INIDyLqiE) | 3:24 | 2026-06-12 |  |
 | [Se Preparó](https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:08 | 2023-06-02 | 2023-06-08 |
 | [Se Rumora](https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:23 | 2022-11-11 | 2023-05-26 |
 | [Se va 1 llegan 2](https://open.spotify.com/track/0K6DNAyidju52N6vKWNTyH) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:23 | 2024-02-28 | 2024-07-03 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-127 songs - 6 hr 30 min
+128 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Best Junkie You Adore](https://open.spotify.com/track/1M3EiXZ6IKE3rdDRQIr6F9) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 2:56 | 2024-09-17 |  |
 | [Bite My Tongue](https://open.spotify.com/track/46H2plPamhaf0S64tdCEWK) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [Neon From Now On](https://open.spotify.com/album/6yjozquVFNSroCrsOFwKQw) | 2:47 | 2024-09-17 | 2026-02-20 |
 | [Bite My Tongue](https://open.spotify.com/track/7cPgNZHPJixQLcCqlJye8E) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Bite My Tongue](https://open.spotify.com/album/4RagY5sJpWmzVtOOYKRoj8) | 2:47 | 2026-02-19 |  |
+| [Black Prada Dress](https://open.spotify.com/track/3m4wYBGRO2a16f9tVh2XCH) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Black Prada Dress](https://open.spotify.com/album/0sTzl6hBpE0L7EAYjy5XXd) | 3:19 | 2026-06-12 |  |
 | [Boyfriend](https://open.spotify.com/track/23eLvOQ3JxtdhRi9YyxRKQ) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:33 | 2024-09-17 |  |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2025-10-13 | 2025-10-24 |
 | [Boys Like You](https://open.spotify.com/track/33QE5K5TiGHsGwHf0nAsxj) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:00 | 2024-09-17 |  |

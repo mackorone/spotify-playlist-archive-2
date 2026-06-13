@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "A Lovely Morning",
+        "url": "https://open.spotify.com/album/0HjC9SYv4MqU1yKjeTUeik"
+      },
+      "artists": [
+        {
+          "name": "BlunD",
+          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201402,
+      "name": "A Lovely Morning",
+      "url": "https://open.spotify.com/track/5Rch63Aa78BPZj0oCNSxLL"
+    },
+    {
+      "album": {
         "name": "A Moment To Rest",
         "url": "https://open.spotify.com/album/1m7tR3eccuLLyXXr0BGFwP"
       },
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 195260,
       "name": "Breath Work",
       "url": "https://open.spotify.com/track/7vd5m5le18O6Go6u8bGDrT"
@@ -1754,6 +1772,24 @@
       "duration_ms": 171409,
       "name": "Clearing Away",
       "url": "https://open.spotify.com/track/3mT1CQmG7ndvpqDLidJ7rf"
+    },
+    {
+      "album": {
+        "name": "Cloak of Fog",
+        "url": "https://open.spotify.com/album/1i6xbUt6xb8Ha3YT4Up4x0"
+      },
+      "artists": [
+        {
+          "name": "Aqualypt",
+          "url": "https://open.spotify.com/artist/7nTsvLMZz3GLEWO8mUoxlI"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158072,
+      "name": "Cloak of Fog",
+      "url": "https://open.spotify.com/track/3GOQjyEiZM7hx8uIcZAL8G"
     },
     {
       "album": {
@@ -2492,7 +2528,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 161538,
       "name": "Echoes Amass",
       "url": "https://open.spotify.com/track/6dgWBAnWRwD6Qi6vQAsVuL"
@@ -3749,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "Soft Currents, Quiet Hills",
+        "url": "https://open.spotify.com/album/6Cqajg80l7vJQBHLhqwf0s"
+      },
+      "artists": [
+        {
+          "name": "Eternal Meadows",
+          "url": "https://open.spotify.com/artist/0ADZFr36OypozKmbt7y0Bm"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Green Light Between Stones",
+      "url": "https://open.spotify.com/track/7trc0apPVL07t97XQH1ezg"
+    },
+    {
+      "album": {
         "name": "Groundedness",
         "url": "https://open.spotify.com/album/6ceHarmzmqekuosF433eCu"
       },
@@ -3958,7 +4012,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 157090,
       "name": "Haoma",
       "url": "https://open.spotify.com/track/40I2IA1fQ20M2l20WrSkO5"
@@ -4559,6 +4613,24 @@
     },
     {
       "album": {
+        "name": "Iuxta Flumen",
+        "url": "https://open.spotify.com/album/7GpF75n8t9V3NHem6TnWZH"
+      },
+      "artists": [
+        {
+          "name": "Caius Biel",
+          "url": "https://open.spotify.com/artist/7HFBFAbRfdiaHWUXzU1Vsq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149189,
+      "name": "Iuxta Flumen",
+      "url": "https://open.spotify.com/track/7tnqtHCzE2MZaTsYdpn2l4"
+    },
+    {
+      "album": {
         "name": "Jangal",
         "url": "https://open.spotify.com/album/6DbllMEJuZiMW3IyflkbFx"
       },
@@ -5006,7 +5078,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 178500,
       "name": "Lugnmark",
       "url": "https://open.spotify.com/track/3D8eTXUenAC9V3vXT4N266"
@@ -7274,7 +7346,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 198600,
       "name": "Restful",
       "url": "https://open.spotify.com/track/6NpQVqL5DGAmxhPsIcn8a5"
@@ -7404,6 +7476,24 @@
       "duration_ms": 210000,
       "name": "River Breath",
       "url": "https://open.spotify.com/track/1jbmHQILuPj4Tt9AkyMc55"
+    },
+    {
+      "album": {
+        "name": "river dream",
+        "url": "https://open.spotify.com/album/72p561bEAl0BXQ1sneZRgZ"
+      },
+      "artists": [
+        {
+          "name": "Gaiasphere",
+          "url": "https://open.spotify.com/artist/39LUEKMNXRlQBUDMwwK14q"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "river dream",
+      "url": "https://open.spotify.com/track/3a4xcIXeHWWrdrcxf6k5gG"
     },
     {
       "album": {
@@ -7764,7 +7854,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 201724,
       "name": "Seraphyne",
       "url": "https://open.spotify.com/track/7bbgZ5R0Uju35KTpXGDcuW"
@@ -9629,6 +9719,24 @@
     },
     {
       "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/4bK35aeq9fT8ZP25gGMJqG"
+      },
+      "artists": [
+        {
+          "name": "Wings Of Silk",
+          "url": "https://open.spotify.com/artist/5cRPBrgj3kzFukDUej9Rny"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185724,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1VXuf3XmTpSvVQMfr0ST27"
+    },
+    {
+      "album": {
         "name": "Upstream",
         "url": "https://open.spotify.com/album/2PLOlM8ygtam36gb7MOYMI"
       },
@@ -9737,6 +9845,24 @@
     },
     {
       "album": {
+        "name": "Wandering Through Sunlit Paths",
+        "url": "https://open.spotify.com/album/4x1laYk5oFc3JxxjRF3c5w"
+      },
+      "artists": [
+        {
+          "name": "Sandman",
+          "url": "https://open.spotify.com/artist/62Sld5bJeNx6PsO8ulAk2a"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130423,
+      "name": "Wandering Through Sunlit Paths",
+      "url": "https://open.spotify.com/track/6POwuX20jUHiT5HPyH1IiU"
+    },
+    {
+      "album": {
         "name": "Warm Mist",
         "url": "https://open.spotify.com/album/26HZv5Pb4v5ISn6IET9T6w"
       },
@@ -9802,7 +9928,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 181113,
       "name": "Wayanad",
       "url": "https://open.spotify.com/track/5KzU3RczgJSImkXul9s3hm"

@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-339 songs - 18 hr 3 min
+342 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Duvet](https://open.spotify.com/track/1mJ7C0gZp95ZPqYrnYnliU) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Duvet](https://open.spotify.com/album/0nMFK7NgMeZD1xz1t384X3) | 3:24 | 2021-12-10 | 2025-03-27 |
 | [Duvet](https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 3:24 | 2022-07-22 | 2024-04-19 |
 | [Echoes](https://open.spotify.com/track/2gKvEtffWCR5YLYvpvBQFu) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Echoes](https://open.spotify.com/album/4ZrQQ6FCGWuv7oVyi94RI6) | 3:57 | 2026-04-17 |  |
+| [Echoes of Colors](https://open.spotify.com/track/2iK2iWYwUGp19nevOXCzdk) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Echoes of Colors](https://open.spotify.com/album/0RsZUNP73u5mPVm3sABojG) | 2:25 | 2026-06-12 |  |
 | [Echoes Of Yesterday](https://open.spotify.com/track/0WNsGSrdR5czAzmWr0Lgm3) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Echoes Of Yesterday](https://open.spotify.com/album/5ufu9GnNrEzzf9ZbwYe3e3) | 2:37 | 2025-12-01 |  |
 | [Eden](https://open.spotify.com/track/4224vfqQpznVh4X04AIrZp) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Eden](https://open.spotify.com/album/3B6ajgq03CrZCJAoQCX2tp) | 4:55 | 2026-04-02 |  |
 | [Embers](https://open.spotify.com/track/6RjTKFwiZfTrkBJXmCiNym) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Embers](https://open.spotify.com/album/7qrMjy81QY0mY6lj6jGcbn) | 2:37 | 2021-12-10 | 2025-03-27 |
@@ -234,6 +235,7 @@
 | [Opus 20](https://open.spotify.com/track/7927IbXHiYrlZkAikPsi3X) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Piano Solos, Vol 2](https://open.spotify.com/album/4ptXbWijlr47UVw4jiXNtF) | 7:13 | 2022-07-22 | 2023-01-04 |
 | [Orfeo ed Euridice, Act II: Dance of the Blessed Spirits, "Mélodie" \(arr\. I\. Friedman for piano\)](https://open.spotify.com/track/3xIu6hYXz0gTjJtmGu60M8) | [Ignaz Friedman](https://open.spotify.com/artist/5AKZimIhSv9dORIVH1MChg), [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Joseph Banowetz](https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo) | [Friedman: Piano Transcriptions](https://open.spotify.com/album/4L8tF28TUH4Ude4IEhMH1b) | 4:11 | 2022-07-22 | 2024-04-19 |
 | [Orfeo ed Euridice, Wq\. 30: Danse des champs\-elysées "Mélodie" \(Arr\. I\. Friedman for Piano\)](https://open.spotify.com/track/0DG5cVgVt7821x2rAv0ny2) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Joseph Banowetz](https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo) | [Friedman: Piano Transcriptions](https://open.spotify.com/album/0nSivM2elIAkluEDaG7GWQ) | 4:11 | 2021-12-10 | 2025-03-06 |
+| [Ottoman Bank \(SALT Galata\)](https://open.spotify.com/track/1P9wM5SNtVJ9QsYJ8cYYVh) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Ottoman Bank \(SALT Galata\)](https://open.spotify.com/album/2WPfKH2oEdcGLdYSQWF9Ln) | 4:47 | 2026-06-12 |  |
 | [Outside](https://open.spotify.com/track/1R5P9ersiA9xKk00JEXfSU) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi) | [Outside](https://open.spotify.com/album/108OAvmRUCY02QqJ3C4OT0) | 1:58 | 2021-12-10 | 2026-05-23 |
 | [Palme d'or](https://open.spotify.com/track/3HDMIeUnnL3tdRL5YbpMRi) | [Vulax](https://open.spotify.com/artist/2WNzDCBl2ibX17FoW5byBc) | [Palme d'or](https://open.spotify.com/album/7hEUpWv9PT4oOof1NhNJmn) | 2:28 | 2026-05-15 |  |
 | [Passage](https://open.spotify.com/track/4HMf8DnYWNpEbjgvQJFWl6) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Passage](https://open.spotify.com/album/4BdE3Lt7eLlGKR2Fd4S4bv) | 5:12 | 2023-03-31 | 2025-03-27 |
@@ -314,7 +316,8 @@
 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 | 2023-03-31 |  |
 | [Tides \- Soft Felt Piano](https://open.spotify.com/track/4daFxaQC8EQLHVcryi2sRA) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ), [Marco Velocci](https://open.spotify.com/artist/0fey1vDYFmbGGRWCo1iwWe) | [Tides \(Soft Felt Piano\)](https://open.spotify.com/album/2tE1PBjVgv6rg6I5qkIeRH) | 5:33 | 2025-12-22 |  |
 | [Time Spent](https://open.spotify.com/track/3ZLzPbSOw4OfVqa5zyEWCu) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Owl Splinters](https://open.spotify.com/album/0UCWmdeObrNjjW92mA6bRn) | 2:09 | 2021-12-10 | 2023-01-04 |
-| [Together Without You](https://open.spotify.com/track/4mJNE34Zn9c02uYFXzKZKY) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Together Without You](https://open.spotify.com/album/03jWrOZNVYTi66EpdNuR8E) | 3:27 | 2026-04-02 |  |
+| [Timothy Is Sleeping](https://open.spotify.com/track/6vYjY9nVrHxfKQ2ByvcuTu) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Lumière \(Expanded\)](https://open.spotify.com/album/5sPxNUytj37p0cQJ8KRbOZ) | 1:55 | 2026-06-12 |  |
+| [Together Without You](https://open.spotify.com/track/4mJNE34Zn9c02uYFXzKZKY) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Together Without You](https://open.spotify.com/album/03jWrOZNVYTi66EpdNuR8E) | 3:27 | 2026-04-02 | 2026-06-13 |
 | [Transience](https://open.spotify.com/track/3EyDeYw7ezBw4u0WIFI10y) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Transience](https://open.spotify.com/album/2AL2HensOEJzbPA6rsfJIE) | 2:59 | 2022-07-22 | 2024-04-19 |
 | [Transience](https://open.spotify.com/track/7065v1WsWaUVaH0ZPRwhkC) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Transience](https://open.spotify.com/album/5KKSxCujaeW9FTT9Q0jZxA) | 2:59 | 2021-12-10 | 2025-03-27 |
 | [Transparency](https://open.spotify.com/track/7sQnDcPTyqL2RwtHr2GvR9) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Transparency](https://open.spotify.com/album/10mnMUjzyNxneRsoHzah7q) | 2:45 | 2022-08-05 |  |

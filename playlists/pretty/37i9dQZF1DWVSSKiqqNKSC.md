@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,798 likes - 48 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,847 likes - 48 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 15 | [Temba, Tumba, Timba](https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 4:48 |
 | 16 | [Lola Lola](https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Live In The USA](https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi) | 7:56 |
 | 17 | [La Boda de Belén](https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Grandes Éxitos](https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3) | 5:26 |
-| 18 | [Qué Pasa Loco](https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Grandes Exitos Vol\. 1](https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9) | 6:18 |
-| 19 | [Ya Tú No Coronas](https://open.spotify.com/track/3rhuPie2HVWD1yJ8NASOCV) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 4:49 |
+| 18 | [Ya Tú No Coronas](https://open.spotify.com/track/3rhuPie2HVWD1yJ8NASOCV) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 4:49 |
+| 19 | [Qué Pasa Loco](https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Grandes Exitos Vol\. 1](https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9) | 6:18 |
 | 20 | [El Negro Esta Cocinando](https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 5:28 |
 | 21 | [Amiga Mia](https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl) | [Formell y los Van Van](https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4) | [Legado](https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP) | 6:20 |
 | 22 | [Después de todo](https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Chapeando](https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78) | 6:08 |

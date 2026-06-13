@@ -8449,6 +8449,24 @@
     },
     {
       "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178603,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
+    },
+    {
+      "album": {
         "name": "HOT",
         "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
       },
@@ -16617,6 +16635,28 @@
     },
     {
       "album": {
+        "name": "GIRLS (feat. Kehlani) [Remix]",
+        "url": "https://open.spotify.com/album/6e6UkAyTbXyxZOBK2o2AGe"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152979,
+      "name": "GIRLS (feat. Kehlani) - Remix",
+      "url": "https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV"
+    },
+    {
+      "album": {
         "name": "Girls Gone Wild",
         "url": "https://open.spotify.com/album/4iATlDkOaCC5pujOmapT4F"
       },
@@ -23031,6 +23071,32 @@
     },
     {
       "album": {
+        "name": "ICONIC BY MISTAKE",
+        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177982,
+      "name": "ICONIC BY MISTAKE",
+      "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
+    },
+    {
+      "album": {
         "name": "Iconique",
         "url": "https://open.spotify.com/album/7ombOGgLGSWIwT07NmcR6W"
       },
@@ -28960,7 +29026,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 178016,
       "name": "Material Lover",
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"

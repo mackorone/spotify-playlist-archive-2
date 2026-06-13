@@ -5335,6 +5335,28 @@
     },
     {
       "album": {
+        "name": "Folk Know",
+        "url": "https://open.spotify.com/album/7J5KMOMgJd7hLMMWCogwhl"
+      },
+      "artists": [
+        {
+          "name": "Mani Longia",
+          "url": "https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura"
+        },
+        {
+          "name": "Geet",
+          "url": "https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138510,
+      "name": "Folk Know",
+      "url": "https://open.spotify.com/track/0O1tXwRRk5ewkyEEjcpQxs"
+    },
+    {
+      "album": {
         "name": "AROUND THE CORNER",
         "url": "https://open.spotify.com/album/4nF4eqnpi3O8R2P7iQfjtB"
       },
@@ -16776,7 +16798,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 173617,
       "name": "War Of Shera (From \"Shera\")",
       "url": "https://open.spotify.com/track/2OOwJ4OokPWHJVFDTWMQZa"

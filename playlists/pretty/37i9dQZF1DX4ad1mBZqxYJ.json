@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 120406,
+  "num_followers": 120438,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Par\u00eds",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "Proyecto X",
         "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 158036,
       "name": "Proyecto X",
       "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Par\u00eds",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1907,30 +1907,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Haganse A Un Lado",
-        "url": "https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B"
-      },
-      "artists": [
-        {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 156223,
-      "name": "Haganse A Un Lado",
-      "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "Mexikan",
         "url": "https://open.spotify.com/album/3EsWyuDkCTFPVxQAOih8JY"
       },
@@ -1967,6 +1943,30 @@
       "duration_ms": 157000,
       "name": "Cuatro 44",
       "url": "https://open.spotify.com/track/5PcxOKZC1CjKX9WLLLXjT7"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "Haganse A Un Lado",
+        "url": "https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 156223,
+      "name": "Haganse A Un Lado",
+      "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 168560,
-      "name": "Ruc\u00f3n",
-      "url": "https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "No Me Conoce (Remix)",
         "url": "https://open.spotify.com/album/2t2aNgqXTXuCh9fqT05g9U"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 307546,
       "name": "No Me Conoce - Remix",
       "url": "https://open.spotify.com/track/7rknFhrVDyxzTJkPSf7LoW"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 168560,
+      "name": "Ruc\u00f3n",
+      "url": "https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "El Chaman",
+        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 174405,
+      "name": "El Chaman",
+      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "Vive Y Dejame Vivir",
         "url": "https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847"
       },
@@ -2435,22 +2451,6 @@
       "duration_ms": 153402,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/2J0MnYyJe5yVpETzvDFBdU"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/3xsItvs6hmfFRhukjRjdMt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 235328,
-      "name": "El Doctor",
-      "url": "https://open.spotify.com/track/4Eki5zNlMHuBg2IDzNUw5C"
     }
   ],
   "unique_name": "Barber\u00eda",

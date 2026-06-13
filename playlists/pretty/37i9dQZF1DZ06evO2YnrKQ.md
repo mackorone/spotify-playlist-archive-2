@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,366 likes - 35 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,371 likes - 35 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 3 | [Accidents](https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 4:09 |
 | 4 | [.44 Caliber Love Letter](https://open.spotify.com/track/1ir5oMNuxrNeCwUJFaEyum) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 4:31 |
 | 5 | [Sans Soleil](https://open.spotify.com/track/2HxHylSuO7W9hLL2t1Dk3s) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 5:04 |
-| 6 | [Boiled Frogs](https://open.spotify.com/track/6OQvNuzDP0RJaF446HOAH9) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1707YW8weHIje0KhkNogkg) | 3:56 |
+| 6 | [Boiled Frogs](https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:57 |
 | 7 | [Young Cardinals](https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:37 |
 | 8 | [Pulmonary Archery](https://open.spotify.com/track/3OqHyWQTYL7qqni8eqbghB) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 3:22 |
 | 9 | [Control](https://open.spotify.com/track/1nJIYo1g5V4aOnglr7qhnj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 3:43 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 29 | [Fully Completely](https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Fully Completely](https://open.spotify.com/album/5iSeNirSdjXzdv4eBx72X1) | 3:48 |
 | 30 | [Reverse the Curse](https://open.spotify.com/track/1scT2ygrMOMDXBVAiYaxte) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 3:54 |
 | 31 | [Thrones](https://open.spotify.com/track/5K7prEZuUXRJFJoecoOmuk) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis \(Bonus Tracks\)](https://open.spotify.com/album/2nNVfMFWChevVdrt8HYuuT) | 4:15 |
-| 32 | [Charlie Sheen vs\. Henry Rollins](https://open.spotify.com/track/4nEPLRQ0oW3bgp8fL7CbIo) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [The Switcheroo Series](https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP) | 3:39 |
-| 33 | [Sons of Privilege](https://open.spotify.com/track/5EjRUfxJXIj7jKGcbIymQ6) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:21 |
+| 32 | [Sons of Privilege](https://open.spotify.com/track/5EjRUfxJXIj7jKGcbIymQ6) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:21 |
+| 33 | [Charlie Sheen vs\. Henry Rollins](https://open.spotify.com/track/4nEPLRQ0oW3bgp8fL7CbIo) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [The Switcheroo Series](https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP) | 3:39 |
 | 34 | [Committed to the Con](https://open.spotify.com/track/5gZ29XT8xSsdCEflTfWUyy) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 4:01 |
 | 35 | [Conditional Love](https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 2:53 |
 
-Snapshot ID: `aidXgAAAAADJwwAxKOOfBPJdvyjk4Bw7`
+Snapshot ID: `ain6gAAAAAA5/Al/bAjOHbNqFzCFTYfd`

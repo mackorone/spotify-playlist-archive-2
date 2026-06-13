@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Guitarricadelafuente.",
-  "num_followers": 21903,
+  "num_followers": 21988,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,18 @@
     {
       "added_at": "2026-06-08 07:44:23",
       "album": {
-        "name": "CULPA NUESTRA",
-        "url": "https://open.spotify.com/album/6ZaPk664xTwSQL0v70J4Po"
+        "name": "Pantal\u00f3n",
+        "url": "https://open.spotify.com/album/1kkCB6Bojsi2NWWToffYSU"
       },
       "artists": [
         {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
-        },
-        {
-          "name": "STRANGEL0VE",
-          "url": "https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP"
+          "name": "BAJOCERO X",
+          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
         }
       ],
-      "duration_ms": 142000,
-      "name": "CULPA NUESTRA",
-      "url": "https://open.spotify.com/track/4qUiG9rcbKpFry7Mxsax9Y"
+      "duration_ms": 125753,
+      "name": "Pantal\u00f3n",
+      "url": "https://open.spotify.com/track/0A7IGl98y4xBSZaSV5UVjD"
     },
     {
       "added_at": "2026-06-08 07:44:23",
@@ -671,6 +667,26 @@
     {
       "added_at": "2026-06-08 07:44:23",
       "album": {
+        "name": "CULPA NUESTRA",
+        "url": "https://open.spotify.com/album/6ZaPk664xTwSQL0v70J4Po"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        },
+        {
+          "name": "STRANGEL0VE",
+          "url": "https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "CULPA NUESTRA",
+      "url": "https://open.spotify.com/track/4qUiG9rcbKpFry7Mxsax9Y"
+    },
+    {
+      "added_at": "2026-06-08 07:44:23",
+      "album": {
         "name": "Bomba de Amor",
         "url": "https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 174222,
       "name": "Bomba de Amor",
       "url": "https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry"
-    },
-    {
-      "added_at": "2026-06-08 07:44:23",
-      "album": {
-        "name": "Pantal\u00f3n",
-        "url": "https://open.spotify.com/album/1kkCB6Bojsi2NWWToffYSU"
-      },
-      "artists": [
-        {
-          "name": "BAJOCERO X",
-          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
-        }
-      ],
-      "duration_ms": 125753,
-      "name": "Pantal\u00f3n",
-      "url": "https://open.spotify.com/track/0A7IGl98y4xBSZaSV5UVjD"
     },
     {
       "added_at": "2026-06-08 07:44:23",

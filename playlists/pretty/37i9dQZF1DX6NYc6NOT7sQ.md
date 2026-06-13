@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 
 > <a href="spotify:artist:3gNEIgLeknpwkNViU8WAhg">Oceanvs Orientalis</a>' favorite tracks\. Updated regularly\. Curated by Oceanvs Orientalis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,034 likes - 100 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,060 likes - 100 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 34 | [Zindagi Meri Dance Dance](https://open.spotify.com/track/2z4epffvWpEsAQvaCnkKBa) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc), [Vijay Benedict](https://open.spotify.com/artist/0LyiuqDYSPZCXAuEkPJ8jZ) | [Daddy](https://open.spotify.com/album/0uXg9mAgLJmYziutxZ6MJQ) | 6:24 |
 | 35 | [Adhara](https://open.spotify.com/track/0ST9qkS1FIziDS5nQZqsMs) | [Mop Mop](https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf) | [Lunar Love](https://open.spotify.com/album/4eADucWKuGNQUfdbmcDlYB) | 5:11 |
 | 36 | [Behind Your Eyes](https://open.spotify.com/track/3H4sk983VsoQyYfHts3Iw7) | [Asena](https://open.spotify.com/artist/17aZalePsDEAMZGbMHWW0k) | [Behind Your Eyes](https://open.spotify.com/album/27NOkII3Y48niKzh73hLIJ) | 5:24 |
-| 37 | [Sweetest Lies](https://open.spotify.com/track/4DO0CvFY3ExVYAxcJgQzrK) | [Waldeck Sextet](https://open.spotify.com/artist/7r1EZooDnCftDgMwrFXyf3), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [it might be french](https://open.spotify.com/album/5jGB0CTvNs6MDoS95FaxM1) | 3:39 |
+| 37 | [Sweetest Lies](https://open.spotify.com/track/4DO0CvFY3ExVYAxcJgQzrK) | [Waldeck Sextet](https://open.spotify.com/artist/7r1EZooDnCftDgMwrFXyf3), [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [it might be french](https://open.spotify.com/album/5jGB0CTvNs6MDoS95FaxM1) | 3:39 |
 | 38 | [Nit a Res](https://open.spotify.com/track/2WnZB3YCDgjjHkpf5fPqrJ) | [Diereva](https://open.spotify.com/artist/6hB2IlRyYzq1pxmcXBS5PS) | [Ter v Sil](https://open.spotify.com/album/4C1eIn7k8Q267rdlEImZUG) | 7:55 |
 | 39 | [You Can Sit With Us](https://open.spotify.com/track/78adUoNdv1E8VXXFaTdo5G) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW) | [You Can Sit With Us](https://open.spotify.com/album/3UJYR247HnOXSUxb6HXIJb) | 5:44 |
 | 40 | [Exils](https://open.spotify.com/track/31S7AfrAvI8wtHDRbDpj4o) | [Rusan Filiztek](https://open.spotify.com/artist/5LCxSieGMrd714Wp9h40Hs) | [Exils](https://open.spotify.com/album/1WcNdONh4DkeYl6dEUvGgG) | 5:12 |

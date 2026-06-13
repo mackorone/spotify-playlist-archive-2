@@ -1,6 +1,6 @@
 {
   "description": "The warm sound and the cozy mood of classic Jazz. A soundtrack in the background for relaxing, dinner or focus. Cover: Hank Mobley",
-  "num_followers": 137879,
+  "num_followers": 137921,
   "original_name": "In the Mood for Jazz",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
+        "name": "Candy (Remastered)",
+        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 339333,
+      "name": "Since I Fell For You - Rudy Van Gelder Edition / 2007 / Digital Remaster",
+      "url": "https://open.spotify.com/track/6MXrGG7nff0FXBQJa5UF9P"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
         "name": "Stan Getz & Bill Evans",
         "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 280840,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/1XCBWtTJZuHbwa6GLUutjo"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
-        "name": "Candy (Remastered)",
-        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 339333,
-      "name": "Since I Fell For You - Rudy Van Gelder Edition / 2007 / Digital Remaster",
-      "url": "https://open.spotify.com/track/6MXrGG7nff0FXBQJa5UF9P"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -135,22 +135,6 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "Tommy Flanagan Trio",
-        "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan Trio",
-          "url": "https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "In The Blue Of The Evening",
-      "url": "https://open.spotify.com/track/30elPK31lRDN1kFjnt7HRQ"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
         "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 393533,
       "name": "Softly As In A Morning Sunrise - Remastered 2001/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3DZShPBwoWAfFgPKBUcFFJ"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
+        "name": "Tommy Flanagan Trio",
+        "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flanagan Trio",
+          "url": "https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "In The Blue Of The Evening",
+      "url": "https://open.spotify.com/track/30elPK31lRDN1kFjnt7HRQ"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "Blues In The Night",
-        "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Gee Baby, Ain't I Good To You",
-      "url": "https://open.spotify.com/track/422IAu1bVxDVde4YSo8Kaw"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 258106,
       "name": "The Masquerade Is Over",
       "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
+        "name": "Blues In The Night",
+        "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "Gee Baby, Ain't I Good To You",
+      "url": "https://open.spotify.com/track/422IAu1bVxDVde4YSo8Kaw"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -399,6 +399,22 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 258040,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -419,18 +435,18 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+        "name": "Jump For Joy",
+        "url": "https://open.spotify.com/album/1FfJGpYVPvVx0OEPbMkVqz"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 258040,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy"
+      "duration_ms": 133813,
+      "name": "Ain't We Got Fun",
+      "url": "https://open.spotify.com/track/1hqrv4RHtqRres6Szcibvv"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -467,22 +483,6 @@
       "duration_ms": 320800,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
-        "name": "Jump For Joy",
-        "url": "https://open.spotify.com/album/1FfJGpYVPvVx0OEPbMkVqz"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 133813,
-      "name": "Ain't We Got Fun",
-      "url": "https://open.spotify.com/track/1hqrv4RHtqRres6Szcibvv"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "Desmond Blue",
-        "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 279146,
-      "name": "I've Got You Under My Skin - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
         "name": "The Fabulous Sidney Bechet",
         "url": "https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "Roll Call",
-        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+        "name": "Desmond Blue",
+        "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         }
       ],
-      "duration_ms": 407533,
-      "name": "The More I See You - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
+      "duration_ms": 279146,
+      "name": "I've Got You Under My Skin - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -619,6 +603,22 @@
       "duration_ms": 222866,
       "name": "I Got It Bad (And That Ain't Good)",
       "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 407533,
+      "name": "The More I See You - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "Candy (Remastered)",
-        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 447173,
-      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
-      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
         "name": "Dexter Blows Hot & Cool",
         "url": "https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 222763,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
+        "name": "Candy (Remastered)",
+        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 447173,
+      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
+      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "The Wonderful World Of Jazz",
-        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
-      },
-      "artists": [
-        {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 177666,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/0NaArK8e9ovK75lLRU0OWM"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
+        "name": "The Wonderful World Of Jazz",
+        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+      },
+      "artists": [
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
+        "name": "Music For Torching",
+        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 243440,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
         "name": "Sarah Vaughan In Hi-Fi",
         "url": "https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "Music For Torching",
-        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
+        "name": "First Place Again",
+        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         }
       ],
-      "duration_ms": 243440,
-      "name": "It Had To Be You",
-      "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
+      "duration_ms": 331666,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -1063,22 +1079,6 @@
       "duration_ms": 161960,
       "name": "Bewitched, Bothered and Bewildered (with The Mellomen)",
       "url": "https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
-        "name": "First Place Again",
-        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 331666,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "The Incredible Kai Winding Trombones",
-        "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
-      },
-      "artists": [
-        {
-          "name": "Kai Winding",
-          "url": "https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h"
-        }
-      ],
-      "duration_ms": 245013,
-      "name": "Lil Darlin'",
-      "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
         "name": "Whisper For You",
         "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "Amoureusement V\u00f4tre",
-        "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
+        "name": "The Incredible Kai Winding Trombones",
+        "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
       },
       "artists": [
         {
-          "name": "Don Byas",
-          "url": "https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa"
+          "name": "Kai Winding",
+          "url": "https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h"
         }
       ],
-      "duration_ms": 186506,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ"
+      "duration_ms": 245013,
+      "name": "Lil Darlin'",
+      "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -1175,6 +1159,22 @@
       "duration_ms": 197173,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/7EKUOlysNuLlfgoH5oySA6"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
+        "name": "Amoureusement V\u00f4tre",
+        "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
+      },
+      "artists": [
+        {
+          "name": "Don Byas",
+          "url": "https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "Something Wonderful",
-        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "What A Little Moonlight Can Do - Remastered",
-      "url": "https://open.spotify.com/track/0KDn1UsD2ym34dCT4P9ebj"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
         "name": "For You, For Me, Forevermore",
         "url": "https://open.spotify.com/album/2I8URD6JXKYwtMByw90GVq"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+        "name": "Something Wonderful",
+        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
         }
       ],
-      "duration_ms": 417320,
-      "name": "Foolin' Myself",
-      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
+      "duration_ms": 147666,
+      "name": "What A Little Moonlight Can Do - Remastered",
+      "url": "https://open.spotify.com/track/0KDn1UsD2ym34dCT4P9ebj"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 417320,
+      "name": "Foolin' Myself",
+      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
         "name": "The Band And I",
         "url": "https://open.spotify.com/album/0Tl7qdYlNoocwvWxyGQm5m"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/0frZqwvJUm9jVM7vtZKqf4"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
         "name": "Alexandria The Great",
         "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 138373,
       "name": "I've Never Been In Love Before",
       "url": "https://open.spotify.com/track/4nlXp4DkTHfeI8uSbG6bTC"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/0frZqwvJUm9jVM7vtZKqf4"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "The Rockin' Chair Lady",
-        "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
-      },
-      "artists": [
-        {
-          "name": "Mildred Bailey",
-          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
-        }
-      ],
-      "duration_ms": 182173,
-      "name": "Lover, Come Back To Me",
-      "url": "https://open.spotify.com/track/1nC6ztTw6iHabGBepZgdEN"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 204333,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/07l1kkIQkfNlCmVwMC4GD0"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
+        "name": "The Rockin' Chair Lady",
+        "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
+      },
+      "artists": [
+        {
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+        }
+      ],
+      "duration_ms": 182173,
+      "name": "Lover, Come Back To Me",
+      "url": "https://open.spotify.com/track/1nC6ztTw6iHabGBepZgdEN"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "Clap Hands, Here Comes Charlie! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/051AdKfsuNyfiUc81mkJIR"
+        "name": "The Magnificent Thad Jones (Remastered)",
+        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Thad Jones",
+          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
         }
       ],
-      "duration_ms": 377200,
-      "name": "Spring Can Really Hang You Up The Most",
-      "url": "https://open.spotify.com/track/1706f2W2p6OpGj3n6WVGJR"
+      "duration_ms": 351826,
+      "name": "If Someone Had Told Me - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7v4XYyEiS9hfnxnlXV0LUF"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "Songs For Distingu\u00e9 Lovers",
-        "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 333200,
-      "name": "Just One Of Those Things - Take 8 - Master Take",
-      "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
       },
@@ -1891,18 +1875,34 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "The Magnificent Thad Jones (Remastered)",
-        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
+        "name": "Clap Hands, Here Comes Charlie! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/051AdKfsuNyfiUc81mkJIR"
       },
       "artists": [
         {
-          "name": "Thad Jones",
-          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 351826,
-      "name": "If Someone Had Told Me - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7v4XYyEiS9hfnxnlXV0LUF"
+      "duration_ms": 377200,
+      "name": "Spring Can Really Hang You Up The Most",
+      "url": "https://open.spotify.com/track/1706f2W2p6OpGj3n6WVGJR"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
+        "name": "Songs For Distingu\u00e9 Lovers",
+        "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 333200,
+      "name": "Just One Of Those Things - Take 8 - Master Take",
+      "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -1919,6 +1919,22 @@
       "duration_ms": 180146,
       "name": "All About Ronnie",
       "url": "https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
+        "name": "Trav'lin' Light",
+        "url": "https://open.spotify.com/album/03Xem2BGYv3uVW7bQpBVuQ"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Crazy He Calls Me",
+      "url": "https://open.spotify.com/track/3737oBAK0AEMMGxOdjM5xW"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -1951,22 +1967,6 @@
       "duration_ms": 220560,
       "name": "On The Street Where You Live",
       "url": "https://open.spotify.com/track/5fpjOiMF4I6hYWZEKxwPNe"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
-        "name": "Trav'lin' Light",
-        "url": "https://open.spotify.com/album/03Xem2BGYv3uVW7bQpBVuQ"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Crazy He Calls Me",
-      "url": "https://open.spotify.com/track/3737oBAK0AEMMGxOdjM5xW"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "Paul Bley",
-        "url": "https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP"
-      },
-      "artists": [
-        {
-          "name": "Paul Bley",
-          "url": "https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM"
-        }
-      ],
-      "duration_ms": 189813,
-      "name": "Autumn Breeze",
-      "url": "https://open.spotify.com/track/7rfQSR01yyCxP55RNl7Zyu"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
         "name": "June Christy Recalls Those Kenton Days",
         "url": "https://open.spotify.com/album/7LiaPDVtP6eWdpO6MCkiIS"
       },
@@ -2555,6 +2539,22 @@
       "duration_ms": 153800,
       "name": "How High The Moon - Remastered 2001",
       "url": "https://open.spotify.com/track/5KbYlvQhNwlyfTcOGeWQ2e"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
+        "name": "Paul Bley",
+        "url": "https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP"
+      },
+      "artists": [
+        {
+          "name": "Paul Bley",
+          "url": "https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM"
+        }
+      ],
+      "duration_ms": 189813,
+      "name": "Autumn Breeze",
+      "url": "https://open.spotify.com/track/7rfQSR01yyCxP55RNl7Zyu"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -2591,22 +2591,6 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "I'll See You Again",
-      "url": "https://open.spotify.com/track/24kAkSs4LKX64jc0absy75"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
         "name": "The Jazz Giants '56",
         "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
       },
@@ -2623,18 +2607,18 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "The Finest",
-        "url": "https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE"
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
       "artists": [
         {
-          "name": "Horace Silver Quintet",
-          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 561400,
-      "name": "Silver's Serenade - Remastered 1997",
-      "url": "https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0"
+      "duration_ms": 235360,
+      "name": "I'll See You Again",
+      "url": "https://open.spotify.com/track/24kAkSs4LKX64jc0absy75"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -2655,6 +2639,22 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
+        "name": "The Finest",
+        "url": "https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+        }
+      ],
+      "duration_ms": 561400,
+      "name": "Silver's Serenade - Remastered 1997",
+      "url": "https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
         "name": "Grand Encounter: 2\u00b0 East / 3\u00b0 West",
         "url": "https://open.spotify.com/album/5ZPkGeJqOYisfBWba69W9S"
       },
@@ -2667,6 +2667,22 @@
       "duration_ms": 216000,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/3UgqGdZQZFByqmENWtfaA6"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
+        "name": "Herb Geller Plays",
+        "url": "https://open.spotify.com/album/0SS32Xgx4MWlfD4Mma5KPO"
+      },
+      "artists": [
+        {
+          "name": "Herb Geller",
+          "url": "https://open.spotify.com/artist/3H9ax2xPjWhD150wCDZ5SV"
+        }
+      ],
+      "duration_ms": 249426,
+      "name": "A Room With A View",
+      "url": "https://open.spotify.com/track/6pwwDoveDbx654lYbCaw2b"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -2699,22 +2715,6 @@
       "duration_ms": 179173,
       "name": "Love Walked In",
       "url": "https://open.spotify.com/track/2L5RBxcTAfDjb7BpKboDm7"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
-        "name": "Herb Geller Plays",
-        "url": "https://open.spotify.com/album/0SS32Xgx4MWlfD4Mma5KPO"
-      },
-      "artists": [
-        {
-          "name": "Herb Geller",
-          "url": "https://open.spotify.com/artist/3H9ax2xPjWhD150wCDZ5SV"
-        }
-      ],
-      "duration_ms": 249426,
-      "name": "A Room With A View",
-      "url": "https://open.spotify.com/track/6pwwDoveDbx654lYbCaw2b"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -2767,22 +2767,6 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "The Complete Savoy Master Takes",
-        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "Undecided",
-      "url": "https://open.spotify.com/track/2VziQvGi2gTuUdwj81Ubag"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
         "name": "The Noble Art Of Teddy Wilson",
         "url": "https://open.spotify.com/album/32TZRpG7qCdeDEjWbSWS8G"
       },
@@ -2795,6 +2779,22 @@
       "duration_ms": 181208,
       "name": "Seranade In Blue",
       "url": "https://open.spotify.com/track/7kQEllYu7M6nfipTRYL4pF"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
+        "name": "The Complete Savoy Master Takes",
+        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/2VziQvGi2gTuUdwj81Ubag"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -2879,22 +2879,6 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "Now!",
-        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 310720,
-      "name": "Touchy",
-      "url": "https://open.spotify.com/track/2vu41akkahDw2keNw6vVnl"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
         "name": "From Bessie To Brazil",
         "url": "https://open.spotify.com/album/7qUvlbKeYnFEfQqlosrm7L"
       },
@@ -2907,6 +2891,22 @@
       "duration_ms": 292666,
       "name": "The Lady Is A Tramp",
       "url": "https://open.spotify.com/track/7qI9rBX4NGyEt6z6nwnwhi"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
+        "name": "Now!",
+        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 310720,
+      "name": "Touchy",
+      "url": "https://open.spotify.com/track/2vu41akkahDw2keNw6vVnl"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -2975,22 +2975,6 @@
     {
       "added_at": "2025-11-28 14:34:42",
       "album": {
-        "name": "The Real... Toots Thielemans",
-        "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
-      },
-      "artists": [
-        {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
-        }
-      ],
-      "duration_ms": 122253,
-      "name": "Skylark",
-      "url": "https://open.spotify.com/track/0YjbwJ98hLHdAHLJIyT9Tw"
-    },
-    {
-      "added_at": "2025-11-28 14:34:42",
-      "album": {
         "name": "Love Is The Thing",
         "url": "https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0"
       },
@@ -3003,6 +2987,22 @@
       "duration_ms": 164893,
       "name": "I Let A Song Go Out Of My Heart",
       "url": "https://open.spotify.com/track/5y8MG77yLGWQFQCcuDXHFp"
+    },
+    {
+      "added_at": "2025-11-28 14:34:42",
+      "album": {
+        "name": "The Real... Toots Thielemans",
+        "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
+      },
+      "artists": [
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/0YjbwJ98hLHdAHLJIyT9Tw"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -3116,9 +3116,9 @@
           "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 144428,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W"
+      "duration_ms": 188244,
+      "name": "Moonlight in Vermont",
+      "url": "https://open.spotify.com/track/0IIG5qxX8k08mJZ1xxpFQy"
     },
     {
       "added_at": "2025-11-28 14:34:42",
@@ -3200,9 +3200,9 @@
           "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 188244,
-      "name": "Moonlight in Vermont",
-      "url": "https://open.spotify.com/track/0IIG5qxX8k08mJZ1xxpFQy"
+      "duration_ms": 144428,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W"
     },
     {
       "added_at": "2025-11-28 14:34:42",

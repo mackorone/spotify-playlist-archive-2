@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,746 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,806 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 38 | [Gangsta Bop](https://open.spotify.com/track/3nfVBXYJtRWeNxHMSMvIsE) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 4:06 |
 | 39 | [Who Dat Girl \(feat\. Akon\)](https://open.spotify.com/track/7z73ehYAn9O1XP9XlCqVtd) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:20 |
 | 40 | [Love Riddim \- Remix](https://open.spotify.com/track/2OYE8xM8919n4ArdfCLhpr) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Beauty of Becoming](https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7) | 3:39 |
-| 41 | [I Wanna Love You \- Album Version \(Edited\)](https://open.spotify.com/track/2PAfPeJPLytM6ssug0njKi) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5Q1K1mEiR2F9MHzMbdBX3i) | 2:58 |
-| 42 | [Chop My Money \- Remix](https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5) | [Chop My Money](https://open.spotify.com/album/50wBF1pk26slksIqYODsHk) | 4:32 |
+| 41 | [Chop My Money \- Remix](https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5) | [Chop My Money](https://open.spotify.com/album/50wBF1pk26slksIqYODsHk) | 4:32 |
+| 42 | [I Wanna Love You \- Album Version \(Edited\)](https://open.spotify.com/track/2PAfPeJPLytM6ssug0njKi) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5Q1K1mEiR2F9MHzMbdBX3i) | 2:58 |
 | 43 | [Heatwave \(feat\. Akon\)](https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:07 |
 | 44 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 |
 | 45 | [I Wanna Love You \- Remix](https://open.spotify.com/track/7p5mNdJbsKUx0iwuIPCfEM) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Konvicted \(Complete Edition\)](https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq) | 4:36 |
 | 46 | [Blown Away](https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:29 |
 | 47 | [Sexy Chick \(feat\. Akon\)](https://open.spotify.com/track/4MKzCHlZvkwJOQRNkdw4zq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One More Love](https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI) | 3:14 |
-| 48 | [RINGTONE](https://open.spotify.com/track/3hwF82gqPyi3GdQLVcxVpp) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [BEAUTIFUL DAY](https://open.spotify.com/album/0beloHUnrqAmH58rSMxDoa) | 2:38 |
-| 49 | [What's Love \(feat\. Akon\)](https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Intoxication](https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t) | 3:07 |
+| 48 | [What's Love \(feat\. Akon\)](https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Intoxication](https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t) | 3:07 |
+| 49 | [RINGTONE](https://open.spotify.com/track/3hwF82gqPyi3GdQLVcxVpp) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [BEAUTIFUL DAY](https://open.spotify.com/album/0beloHUnrqAmH58rSMxDoa) | 2:38 |
 | 50 | [Came To Do \(feat\. Akon\)](https://open.spotify.com/track/3fLXPbXiezgmbJEEOkT8ve) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:48 |
 
-Snapshot ID: `aidXgAAAAADpQi/1Uq8INdS6w6PtSQHP`
+Snapshot ID: `ain6gAAAAACoPafXwgtP3JcBDsq3S99F`

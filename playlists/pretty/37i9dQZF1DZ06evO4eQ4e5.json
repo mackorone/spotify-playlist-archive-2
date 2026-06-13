@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 86563,
+  "num_followers": 86567,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAABK/NZfh0MiUezSO40DBmqp",
+  "snapshot_id": "ain6gAAAAACvFzymIaL+nMRbwybr2rJ7",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Hasta Que Amanezca",
-      "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "+Mexicana",
         "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 183733,
       "name": "Es Complicado",
       "url": "https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Hasta Que Amanezca",
+      "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exitos del coraz\u00f3n (USA)",
+        "url": "https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "T\u00f3mame o d\u00e9jame",
+      "url": "https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -587,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos del coraz\u00f3n (USA)",
-        "url": "https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK"
+        "name": "Extrav\u00edate",
+        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
       },
       "artists": [
         {
@@ -596,9 +612,25 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 200186,
-      "name": "T\u00f3mame o d\u00e9jame",
-      "url": "https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a"
+      "duration_ms": 262933,
+      "name": "Mi nombre",
+      "url": "https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "En Secreto",
+      "url": "https://open.spotify.com/track/0cyBZcUWJvgQgQc4QSZ3Yf"
     },
     {
       "added_at": null,
@@ -623,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "En Secreto",
-      "url": "https://open.spotify.com/track/0cyBZcUWJvgQgQc4QSZ3Yf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 214000,
       "name": "Sin \u00c9l",
       "url": "https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Extrav\u00edate",
-        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "Mi nombre",
-      "url": "https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/6qhCzLPi0m17BpotgfSE2k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/6qhCzLPi0m17BpotgfSE2k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 229011,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gustas Mucho",
+        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 177060,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gustas Mucho",
-        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 177060,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frente a Frente",
         "url": "https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 189400,
       "name": "Extrav\u00edate",
       "url": "https://open.spotify.com/track/0sxH4AbYYqRjA3KdZuIc6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Ya que voy a estar sin ti",
-      "url": "https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P"
     },
     {
       "added_at": null,
@@ -839,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00edneas Sensibles",
-        "url": "https://open.spotify.com/album/35ubuvMJhzsIx9nqhuWvJs"
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
       },
       "artists": [
         {
@@ -848,9 +832,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 168788,
-      "name": "L\u00edneas Sensibles",
-      "url": "https://open.spotify.com/track/5iNiJK9VCblMQWVbNbUV8B"
+      "duration_ms": 239906,
+      "name": "Ya que voy a estar sin ti",
+      "url": "https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P"
     },
     {
       "added_at": null,
@@ -867,6 +851,22 @@
       "duration_ms": 212126,
       "name": "Cuando Yo Quiera Has De Volver",
       "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L\u00edneas Sensibles",
+        "url": "https://open.spotify.com/album/35ubuvMJhzsIx9nqhuWvJs"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 168788,
+      "name": "L\u00edneas Sensibles",
+      "url": "https://open.spotify.com/track/5iNiJK9VCblMQWVbNbUV8B"
     },
     {
       "added_at": null,

@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "The Three Degrees Live",
+        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Don't Let the Sun Go Down On Me - Live at Bailey's, London, England - 1975",
+      "url": "https://open.spotify.com/track/5LBfvK4eGiXXzEqIgSzAKC"
+    },
+    {
+      "album": {
         "name": "Look in My Eyes",
         "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
       },
@@ -648,7 +666,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 234146,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"

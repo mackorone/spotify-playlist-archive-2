@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 
 > The biggest songs in Latin America in 2015\. Cover: Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,969 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,996 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 | 5 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
 | 6 | [El Perdedor](https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 |
 | 7 | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:25 |
-| 8 | [Cómo Te Atreves](https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 4:00 |
-| 9 | [Corazon De Seda \(feat\. Ozuna\)](https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT) | [Klasico](https://open.spotify.com/artist/6ejQ8vRKDUNBT2UyG3OaAM), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Que Gustan](https://open.spotify.com/album/303q7Gwd1npoNdMFtoAe9s) | 3:06 |
+| 8 | [Corazon De Seda \(feat\. Ozuna\)](https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT) | [Klasico](https://open.spotify.com/artist/6ejQ8vRKDUNBT2UyG3OaAM), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Que Gustan](https://open.spotify.com/album/303q7Gwd1npoNdMFtoAe9s) | 3:06 |
+| 9 | [Cómo Te Atreves](https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 4:00 |
 | 10 | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Cama Incendiada](https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa) | 4:32 |
 | 11 | [Sin Contrato](https://open.spotify.com/track/3yHJs5NmQk2ROAWCfjniXV) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:41 |
 | 12 | [Chillax \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:17 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 | 44 | [To My Love](https://open.spotify.com/track/6z1VtU0MCGo666iKiajfhp) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 3:59 |
 | 45 | [Si No Te Enamoras](https://open.spotify.com/track/6vtFApLsXuSSiBRmpf81nW) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [The Beginning](https://open.spotify.com/album/1sBA4WniS6cBvvSDAsCgrV) | 4:02 |
 | 46 | [El Mismo Sol](https://open.spotify.com/track/4OKmYJF7Wk8uJxv68wFH0j) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Eterno Agosto](https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX) | 3:08 |
-| 47 | [Hasta Que Se Seque el Malecón](https://open.spotify.com/track/3w1D8eAOBDZdb8RP5wbV65) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [El Inmortal](https://open.spotify.com/album/2G2jtQfZVKDTHiMjUIVg7D) | 3:07 |
-| 48 | [Traidora \(feat\. Marc Anthony\)](https://open.spotify.com/track/7Fl3wSxRqBljyQH8dJSz9c) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Visualízate](https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT) | 3:36 |
+| 47 | [Traidora \(feat\. Marc Anthony\)](https://open.spotify.com/track/7Fl3wSxRqBljyQH8dJSz9c) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Visualízate](https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT) | 3:36 |
+| 48 | [Hasta Que Se Seque el Malecón](https://open.spotify.com/track/3w1D8eAOBDZdb8RP5wbV65) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [El Inmortal](https://open.spotify.com/album/2G2jtQfZVKDTHiMjUIVg7D) | 3:07 |
 | 49 | [Coincidir](https://open.spotify.com/track/2R4uUwgfrFjT1kMGcPq6mp) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Historias Tattooadas](https://open.spotify.com/album/0IySVSEp9VEDQMtaVd37HA) | 4:26 |
 | 50 | [Noche Loca](https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Todo Comenzó Bailando](https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S) | 2:58 |
 

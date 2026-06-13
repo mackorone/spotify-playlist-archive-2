@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-587 songs - 1 day 10 hr 45 min
+588 songs - 1 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,7 +428,7 @@
 | [Rädda mig](https://open.spotify.com/track/7KVTHj4gD5UTxVuxQ00uyD) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Rädda mig](https://open.spotify.com/album/4DjlkBoRfh4KmiGsUrmOwz) | 3:00 | 2025-02-14 | 2025-03-21 |
 | [Rädda mig \- Akustisk Version](https://open.spotify.com/track/2kyaSOYJpZ6pDS2YVSuxtN) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Rädda mig \(Akustisk Version\)](https://open.spotify.com/album/5iEmiVCOdySnVIodNOe2Xt) | 3:09 | 2025-04-24 | 2025-06-13 |
 | [Röda trådens slut \(akustisk version\)](https://open.spotify.com/track/1i3moAuSbui5eTUiUgRyT2) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Röda trådens slut \(akustisk version\)](https://open.spotify.com/album/3MF0qqqvjc5Lvk3AxfzTo0) | 4:29 | 2026-01-08 | 2026-04-21 |
-| [Rök i dina ögon](https://open.spotify.com/track/4JnyGZxCIbMJKQ60u7qYor) | [bob hund](https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx), [Popkollo Stockholm](https://open.spotify.com/artist/1bN6McVlKkx0rj73J2qNG3), [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza) | [Rök i dina ögon](https://open.spotify.com/album/2Fn6Q9UqLJKmHGHzbjjrW6) | 5:33 | 2026-06-11 |  |
+| [Rök i dina ögon](https://open.spotify.com/track/4JnyGZxCIbMJKQ60u7qYor) | [bob hund](https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx), [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza), [Popkollo Stockholm](https://open.spotify.com/artist/1bN6McVlKkx0rj73J2qNG3), [Popkollo](https://open.spotify.com/artist/75jgHQJb9Jr9pF60lfXmQL) | [Rök i dina ögon](https://open.spotify.com/album/2Fn6Q9UqLJKmHGHzbjjrW6) | 5:33 | 2026-06-11 |  |
 | [Rör vid mig](https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Rör vid mig](https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE) | 3:10 | 2024-06-27 | 2025-03-11 |
 | [Sad Makeup](https://open.spotify.com/track/74eE402hFv13hLBw5iPQds) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 3:50 | 2025-01-16 | 2025-05-30 |
 | [Sagolik](https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Välkommen hem](https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp) | 3:18 | 2026-03-12 |  |
@@ -494,7 +494,7 @@
 | [Säkra kort](https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Säkra kort](https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL) | 3:23 | 2024-09-19 | 2025-04-25 |
 | [Sällskapssjuk](https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Sällskapssjuk](https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4) | 3:34 | 2024-06-27 | 2025-04-04 |
 | [Så många mil, så många år..\. \- Live](https://open.spotify.com/track/5tycUfeumfrwkEVP7FEZo3) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Så många mil, så många år..\. \(Live\)](https://open.spotify.com/album/62D6Cbd858YofuKgOpiu8q) | 5:58 | 2025-10-23 | 2026-02-28 |
-| [Södersommar](https://open.spotify.com/track/5tbbTs56RXANxq6cj4gjln) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [Södersommar](https://open.spotify.com/album/2qtU1Yh1stdNagreyKheqc) | 3:50 | 2026-05-07 |  |
+| [Södersommar](https://open.spotify.com/track/5tbbTs56RXANxq6cj4gjln) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [Södersommar](https://open.spotify.com/album/2qtU1Yh1stdNagreyKheqc) | 3:50 | 2026-05-07 | 2026-06-13 |
 | [Tack](https://open.spotify.com/track/794RWqJKiwKh6zYvm07G5a) | [Olle Ljungström](https://open.spotify.com/artist/6wjchRNcNNSn1wPIaIiRq8) | [Tack](https://open.spotify.com/album/3nBKLUecE6aJOxC08A2JhR) | 3:09 | 2026-04-09 | 2026-05-15 |
 | [Talk](https://open.spotify.com/track/1upeKzdRUu3WD7BuTQL36B) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Talk](https://open.spotify.com/album/2f4Gpex8g1KWjGCfZ6jwAZ) | 3:44 | 2024-09-19 | 2024-10-11 |
 | [Tar det upp i topp](https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Tar det upp i topp](https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4) | 2:49 | 2024-09-12 | 2024-10-28 |
@@ -552,6 +552,7 @@
 | [VM\-guld](https://open.spotify.com/track/0y6nkY9s1tF0voO0DBZnfm) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [VM\-guld](https://open.spotify.com/album/4O5Ni5OfiYKSzKtffOj2bf) | 3:11 | 2026-05-07 |  |
 | [Voice Of The Silent](https://open.spotify.com/track/4E0st5Y809Aro5GG7oEzas) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Voice Of The Silent](https://open.spotify.com/album/5S5ClS46Md6jtbCb49Usrh) | 2:49 | 2025-01-31 | 2025-08-26 |
 | [Väntar på skymningen](https://open.spotify.com/track/5wd14V8xbTcdrs5abonI11) | [Familjen](https://open.spotify.com/artist/1jBFgqfCh0pz5eNIWFvJGQ) | [Terra Firma](https://open.spotify.com/album/25wFRAWqO0FCUvZKwcINnx) | 4:19 | 2026-05-28 |  |
+| [Världen kommer snurra ändå](https://open.spotify.com/track/03XQ0RP1cqrLxvWnyZlofm) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Världen kommer snurra ändå](https://open.spotify.com/album/7EGa3jUVRkRjDBLthx6omG) | 2:49 | 2026-06-11 |  |
 | [Vår bästa tid](https://open.spotify.com/track/5v1oyyCiPfOtesq1lsuNDE) | [Josefine Götestam](https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju) | [Vår bästa tid](https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5) | 3:36 | 2025-06-12 | 2026-02-13 |
 | [Vår vänskap består](https://open.spotify.com/track/4iNsfVZaEFeicGmdQYcTnD) | [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx), [Anna Stadling](https://open.spotify.com/artist/15xSyYUeEIQphb7lnNojQs) | [Vår vänskap består](https://open.spotify.com/album/54oMR3z8WrNjOGnijVXK8x) | 2:50 | 2024-09-19 | 2025-01-10 |
 | [Vårens sista dag](https://open.spotify.com/track/4zdxv1jc9eFaH4aTouIG3p) | [Peter Åberg](https://open.spotify.com/artist/6w3u7zBIx64OqhpYoBfwfL), [Annika Wickihalder](https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of) | [Vårens sista dag](https://open.spotify.com/album/13ashXdwC7vLnIzHxoj3r9) | 2:39 | 2025-05-29 | 2025-07-07 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: corook",
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: Alyssa Grace",
   "name": "Folk Pop",
   "tracks": [
     {
@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Bleeding Heart",
+        "url": "https://open.spotify.com/album/0IZDP6dDvobyhgpnQGAM6p"
+      },
+      "artists": [
+        {
+          "name": "Emma Andersen",
+          "url": "https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197539,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/00tvkuuXnJogx9XjxvPqOP"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2q2sRqH8kcKVf1bFsqvx7w"
       },
@@ -1310,6 +1328,24 @@
       "duration_ms": 179731,
       "name": "Blood Red",
       "url": "https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060"
+    },
+    {
+      "album": {
+        "name": "bloodstream",
+        "url": "https://open.spotify.com/album/4KGK9opFcC60xCe29CTZus"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177428,
+      "name": "bloodstream",
+      "url": "https://open.spotify.com/track/1fdgakuuEEfjRt3KYF36eG"
     },
     {
       "album": {
@@ -2294,7 +2330,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 228000,
       "name": "Dinner",
       "url": "https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy"
@@ -2334,6 +2370,24 @@
       "duration_ms": 213453,
       "name": "Do Right",
       "url": "https://open.spotify.com/track/5PeW97MvpM487CWIfFK3jK"
+    },
+    {
+      "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/0Mkp9SwKBxJ65jmpnfG2xa"
+      },
+      "artists": [
+        {
+          "name": "Mathilda Homer",
+          "url": "https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164350,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/2UP3h2s5LYVLMMUwjKzVdg"
     },
     {
       "album": {
@@ -4924,7 +4978,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -7009,6 +7063,24 @@
     },
     {
       "album": {
+        "name": "The Great Divide: The Last Of The Bugs",
+        "url": "https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286967,
+      "name": "Orbiter",
+      "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
+    },
+    {
+      "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
       },
@@ -7020,7 +7092,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -7272,7 +7344,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 185080,
       "name": "Praying For Your Downfall",
       "url": "https://open.spotify.com/track/53zfYhW9ChSp8fqdDn5gh8"
@@ -7438,6 +7510,24 @@
       "duration_ms": 231724,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze"
+    },
+    {
+      "album": {
+        "name": "Leaver",
+        "url": "https://open.spotify.com/album/0B2nJVXaVM23uex5TgnS17"
+      },
+      "artists": [
+        {
+          "name": "Noah Levine",
+          "url": "https://open.spotify.com/artist/4aOb13B7cfQem9IbDvSNdz"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194764,
+      "name": "Regretter",
+      "url": "https://open.spotify.com/track/66wXwbAyFAB0O0sHRpjkX1"
     },
     {
       "album": {
@@ -7752,7 +7842,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 192066,
       "name": "Rushmere",
       "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
@@ -9002,7 +9092,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
@@ -10759,6 +10849,24 @@
     },
     {
       "album": {
+        "name": "Year of the Horse",
+        "url": "https://open.spotify.com/album/57RVZ6TnVLVNK5FxOvw2Am"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256523,
+      "name": "Year of the Horse",
+      "url": "https://open.spotify.com/track/4WJV42FGtNRS2epH9lQS8Q"
+    },
+    {
+      "album": {
         "name": "Yellow Brick Road",
         "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
       },
@@ -10904,6 +11012,24 @@
       "duration_ms": 257191,
       "name": "You Shoulda Seen Her",
       "url": "https://open.spotify.com/track/5tVAdTqA1by7LfYH1zVovY"
+    },
+    {
+      "album": {
+        "name": "you're still mine",
+        "url": "https://open.spotify.com/album/1Yi6MsmowUiIXffPDCsK9D"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "you're still mine",
+      "url": "https://open.spotify.com/track/4E7hZdPtD5BEB1XdyS9dDl"
     },
     {
       "album": {

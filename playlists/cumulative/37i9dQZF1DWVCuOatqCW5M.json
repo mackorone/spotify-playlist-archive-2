@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Akshath, Charan Preet, Badshah and more.",
+  "description": "Latest music from Yo Yo Honey Singh, QARAN, Ash King and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -2413,6 +2413,28 @@
     },
     {
       "album": {
+        "name": "Apna Chehra Dikha",
+        "url": "https://open.spotify.com/album/2aGRIAMJlGrI7GVBXxEJOo"
+      },
+      "artists": [
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204060,
+      "name": "Apna Chehra Dikha",
+      "url": "https://open.spotify.com/track/6Uxj82xWfL38sPMlcLHN9R"
+    },
+    {
+      "album": {
         "name": "Apna Naam Du",
         "url": "https://open.spotify.com/album/6U85KZgqHL2BvvCOditWJK"
       },
@@ -3371,6 +3393,28 @@
     },
     {
       "album": {
+        "name": "Baat Phir Bhi Reh Gayi",
+        "url": "https://open.spotify.com/album/1RFlC6We3lYCqKtK28qbAR"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Harshit Karnatak",
+          "url": "https://open.spotify.com/artist/0zCnHoMe8EbjFlRkPsdJKj"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254166,
+      "name": "Baat Phir Bhi Reh Gayi",
+      "url": "https://open.spotify.com/track/26eFpzXEPPdwzTP5NJSZBT"
+    },
+    {
+      "album": {
         "name": "Baatein",
         "url": "https://open.spotify.com/album/2uCAjISRCitRyVppiRnKIY"
       },
@@ -3444,6 +3488,32 @@
       "duration_ms": 228614,
       "name": "Baavre Ho Gaye",
       "url": "https://open.spotify.com/track/6eqPTXbERj4fj48rKzT0TZ"
+    },
+    {
+      "album": {
+        "name": "Baawli",
+        "url": "https://open.spotify.com/album/3zv9ywMo9fxImAiXEqbnjr"
+      },
+      "artists": [
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        },
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        },
+        {
+          "name": "Avvy Ballagan",
+          "url": "https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124721,
+      "name": "Baawli",
+      "url": "https://open.spotify.com/track/4cEYWVFjQKabZg5zKp8x3s"
     },
     {
       "album": {
@@ -5326,7 +5396,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 217113,
       "name": "Bezaf",
       "url": "https://open.spotify.com/track/7n0ZCU0zKX18Tks6UyTVoG"
@@ -11949,6 +12019,28 @@
     },
     {
       "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/7kv9rHW0BQDLymDCYZptoC"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167727,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/4tn4VfTaX3KIoyKjQLYuWp"
+    },
+    {
+      "album": {
         "name": "Golden Hours",
         "url": "https://open.spotify.com/album/6haCEVvfOApScP6ojK8TMW"
       },
@@ -14438,7 +14530,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 219393,
       "name": "Ilzaam",
       "url": "https://open.spotify.com/track/6oKyU8BlhwFnRuaCMjizGQ"
@@ -14980,6 +15072,24 @@
       "duration_ms": 240500,
       "name": "Ishq Hua",
       "url": "https://open.spotify.com/track/6k1UDrdD261M34pKA6nJmw"
+    },
+    {
+      "album": {
+        "name": "Ishq Jatavaan",
+        "url": "https://open.spotify.com/album/70t6zxXQ0hZ8VkY4oAgx8L"
+      },
+      "artists": [
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175400,
+      "name": "Ishq Jatavaan",
+      "url": "https://open.spotify.com/track/3T36AQw929XdzxCZ9o2KT7"
     },
     {
       "album": {
@@ -16732,6 +16842,32 @@
       "duration_ms": 207580,
       "name": "Jawaab",
       "url": "https://open.spotify.com/track/25jISSHAd4q2CVTsO7EHJM"
+    },
+    {
+      "album": {
+        "name": "Jawani Iraqi",
+        "url": "https://open.spotify.com/album/2AjWHkv76563UmmMQ2BgpB"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+        },
+        {
+          "name": "Rawme Hooda",
+          "url": "https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266665,
+      "name": "Jawani Iraqi",
+      "url": "https://open.spotify.com/track/7DN3TsyWgLDY2tgUzczg1h"
     },
     {
       "album": {
@@ -26752,7 +26888,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 199285,
       "name": "O Saawre",
       "url": "https://open.spotify.com/track/4ua7Ejx5QQHRtv6wB2eSEf"
@@ -26856,7 +26992,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 222222,
       "name": "Oh Meri Heeriye",
       "url": "https://open.spotify.com/track/2nSQ2MhvJAHlL0mFlZ4P0e"
@@ -28934,6 +29070,28 @@
       "duration_ms": 171789,
       "name": "Qatal",
       "url": "https://open.spotify.com/track/5FDVyL6VahLO3B4T7xRYD9"
+    },
+    {
+      "album": {
+        "name": "Qinniya Soni",
+        "url": "https://open.spotify.com/album/5ltb87tjm7K1V3BHhE5kcT"
+      },
+      "artists": [
+        {
+          "name": "QARAN",
+          "url": "https://open.spotify.com/artist/0KDEADL3DeTLtENG3DliCd"
+        },
+        {
+          "name": "Ash King",
+          "url": "https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191381,
+      "name": "Qinniya Soni",
+      "url": "https://open.spotify.com/track/7EsWEd2s6hUUNw3I2QqKrn"
     },
     {
       "album": {
@@ -31442,7 +31600,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 168083,
       "name": "Sajan Re",
       "url": "https://open.spotify.com/track/4IY2T284jwbMvcff8LhNXi"
@@ -35630,7 +35788,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 247055,
       "name": "Teri Fitrat Mein",
       "url": "https://open.spotify.com/track/6qK9ZVDgmZpPcPVeUOVEvk"
@@ -36714,7 +36872,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 181318,
       "name": "Tu Apne Raaste",
       "url": "https://open.spotify.com/track/1sKEbuIAoXMTJybwi1sRuL"

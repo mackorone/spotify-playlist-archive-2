@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Punjabi superstar\u2019s biggest hits.",
+  "description": "Punjabi aa gaye oye!",
   "name": "This Is Diljit Dosanjh",
   "tracks": [
     {
@@ -538,10 +538,36 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 180855,
       "name": "Daytona",
       "url": "https://open.spotify.com/track/45FFMb6wv36U1xduNY6TyO"
+    },
+    {
+      "album": {
+        "name": "Dealer",
+        "url": "https://open.spotify.com/album/500ZX1Af0B65dJHBwRWJ8N"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Da Future",
+          "url": "https://open.spotify.com/artist/0JoJujh7AH388xjwLHe0IR"
+        },
+        {
+          "name": "Virk Andaaz",
+          "url": "https://open.spotify.com/artist/4jIIs4ktqKx3OJMbn7Xo7l"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110125,
+      "name": "Dealer",
+      "url": "https://open.spotify.com/track/7k65xsOjTqONQhfpVWYAWG"
     },
     {
       "album": {
@@ -1151,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "Jimmy Choo (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/0VJliSn5RwwaoT1GuzaBPf"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234430,
+      "name": "Jimmy Choo (MTV Unplugged)",
+      "url": "https://open.spotify.com/track/6TVXQHkmfLWP9y0JBq04VV"
+    },
+    {
+      "album": {
         "name": "Jind Mahi",
         "url": "https://open.spotify.com/album/3wvRXgcVOfuAktwk0i0peU"
       },
@@ -1466,7 +1510,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 160500,
       "name": "Lalkara",
       "url": "https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5"
@@ -1510,6 +1554,24 @@
       "duration_ms": 166666,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W"
+    },
+    {
+      "album": {
+        "name": "The Next Level",
+        "url": "https://open.spotify.com/album/3lJkDl9pJjj0nzZa7RoyDa"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220464,
+      "name": "Los Angelas(La)",
+      "url": "https://open.spotify.com/track/2Mzw6EiLqsqX09r4eHCshk"
     },
     {
       "album": {
@@ -1780,6 +1842,24 @@
       "duration_ms": 215723,
       "name": "Navi Navi Yaari",
       "url": "https://open.spotify.com/track/39pjjDG9o44eDjkM4BPdiG"
+    },
+    {
+      "album": {
+        "name": "Pagal",
+        "url": "https://open.spotify.com/album/2izEI6sWL3zcSRzakTAPfI"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283058,
+      "name": "Pagal",
+      "url": "https://open.spotify.com/track/7ibx4iOyi6UrLHv6rUe90d"
     },
     {
       "album": {
@@ -2158,6 +2238,32 @@
       "duration_ms": 244960,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1mYjwd7fhieNlsrjiFyOr0"
+    },
+    {
+      "album": {
+        "name": "Ranjha",
+        "url": "https://open.spotify.com/album/2b2JX5znXI5KCCVnx4XotX"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184058,
+      "name": "Ranjha",
+      "url": "https://open.spotify.com/track/6LiCNxTWT6gDKE4aYZEObC"
     },
     {
       "album": {
@@ -2648,7 +2754,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 196800,
       "name": "Water",
       "url": "https://open.spotify.com/track/25jtUwCQfXwnxENh8Bvoj4"
@@ -2666,7 +2772,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 240000,
       "name": "Welcome to My Hood",
       "url": "https://open.spotify.com/track/1T5mAjBkpuczG5H6yUcSB4"
@@ -2728,7 +2834,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 137395,
       "name": "Whatcha Doin'",
       "url": "https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin"

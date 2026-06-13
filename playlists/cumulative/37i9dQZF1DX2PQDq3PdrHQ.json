@@ -2893,6 +2893,28 @@
     },
     {
       "album": {
+        "name": "Cozy Corners",
+        "url": "https://open.spotify.com/album/4XNukcggEKFofs8ARSJBok"
+      },
+      "artists": [
+        {
+          "name": "Krynoze",
+          "url": "https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0"
+        },
+        {
+          "name": "Antonius B",
+          "url": "https://open.spotify.com/artist/6eZyHHxTWb2rHy2kRPtj0s"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Cozy Corners",
+      "url": "https://open.spotify.com/track/1n8rhBolR501koBi428Bih"
+    },
+    {
+      "album": {
         "name": "cozy night",
         "url": "https://open.spotify.com/album/3Vu7ShhWQsOT0rx8A8IU6t"
       },
@@ -3162,7 +3184,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 145822,
       "name": "dahlia",
       "url": "https://open.spotify.com/track/6f6iBsC3AFRjRh7EYtAsTc"
@@ -5021,6 +5043,24 @@
     },
     {
       "album": {
+        "name": "eyes closed",
+        "url": "https://open.spotify.com/album/0vApa9zZp6chBFqCtk4K88"
+      },
+      "artists": [
+        {
+          "name": "swiftly",
+          "url": "https://open.spotify.com/artist/6cfk21YEPJx5qIv6PSaEa7"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "eyes closed",
+      "url": "https://open.spotify.com/track/5nkC1ezZQGejIi2u4nErl8"
+    },
+    {
+      "album": {
         "name": "the place beyond the trees",
         "url": "https://open.spotify.com/album/43rWLl90n1H1oxJvNMwlzH"
       },
@@ -6316,7 +6356,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 115373,
       "name": "Heartfelt",
       "url": "https://open.spotify.com/track/2A9PnU6rTU8JheloJtFXXg"
@@ -8252,6 +8292,28 @@
       "duration_ms": 139889,
       "name": "let go",
       "url": "https://open.spotify.com/track/6nTgyxPC2mNwUn459YqP8M"
+    },
+    {
+      "album": {
+        "name": "let it be",
+        "url": "https://open.spotify.com/album/1BbX1MbFu5OCZBinsQWGjd"
+      },
+      "artists": [
+        {
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
+        },
+        {
+          "name": "cloud cover",
+          "url": "https://open.spotify.com/artist/1y9I7fJdrExfvwiY8SYtB6"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146896,
+      "name": "let it be",
+      "url": "https://open.spotify.com/track/06f90Spqi6uyN2lLyNVSic"
     },
     {
       "album": {
@@ -10559,6 +10621,28 @@
     },
     {
       "album": {
+        "name": "nice and warm",
+        "url": "https://open.spotify.com/album/2AqX713AGTzmQPyiaHWPi3"
+      },
+      "artists": [
+        {
+          "name": "swiftly",
+          "url": "https://open.spotify.com/artist/6cfk21YEPJx5qIv6PSaEa7"
+        },
+        {
+          "name": "AC",
+          "url": "https://open.spotify.com/artist/57wYqpfSos9R8uxfvfkMAG"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "nice and warm",
+      "url": "https://open.spotify.com/track/43M3NoiDast2WSoM5D54b0"
+    },
+    {
+      "album": {
         "name": "Night Hour",
         "url": "https://open.spotify.com/album/0rB3sMpRkElz6MIgeGSBbb"
       },
@@ -12238,7 +12322,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 126796,
       "name": "quiet orbit",
       "url": "https://open.spotify.com/track/6r3tiYD2GtT6xcyNaCpyKG"
@@ -13512,7 +13596,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 178723,
       "name": "sleep",
       "url": "https://open.spotify.com/track/7FSPNMZjKTd34vSMkFu02p"

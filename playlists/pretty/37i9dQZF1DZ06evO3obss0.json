@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 186264,
+  "num_followers": 186341,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAACqJpxyJsktec0go7qIV0Wh",
+  "snapshot_id": "ain6gAAAAAAPUgHm3Gjd9U4STgAeZHxz",
   "tracks": [
     {
       "added_at": null,
@@ -251,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
-        "url": "https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l"
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
       },
       "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 261176,
-      "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
-      "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
+      "duration_ms": 212573,
+      "name": "You Don't Know Me (feat. RAYE)",
+      "url": "https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV"
     },
     {
       "added_at": null,
@@ -283,22 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Snacks",
-        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
+        "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
+        "url": "https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l"
       },
       "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 212573,
-      "name": "You Don't Know Me (feat. RAYE)",
-      "url": "https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV"
+      "duration_ms": 261176,
+      "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
+      "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feeling Good (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Feeling Good - triple j Like A Version",
-      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golden Boy",
         "url": "https://open.spotify.com/album/4QJ5jTYVijBczD7o2ynp9P"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 215573,
       "name": "Check (with RAYE)",
       "url": "https://open.spotify.com/track/53i7ll4F1dpYS0ZUQx9USd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feeling Good (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 239299,
+      "name": "Feeling Good - triple j Like A Version",
+      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
     },
     {
       "added_at": null,

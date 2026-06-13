@@ -1,6 +1,6 @@
 {
   "description": "The best in house music",
-  "num_followers": 498555,
+  "num_followers": 498542,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 201700,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
-      },
-      "artists": [
-        {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -359,7 +359,7 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Hold On, Let Go",
+        "name": "Hold On, Let Go (ft. WAYNE SNOW & 3DDY)",
         "url": "https://open.spotify.com/album/73diRAl84rievVIadGPsoc"
       },
       "artists": [
@@ -377,7 +377,7 @@
         }
       ],
       "duration_ms": 241061,
-      "name": "Hold On, Let Go",
+      "name": "Hold On, Let Go (ft. WAYNE SNOW & 3DDY)",
       "url": "https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF"
     },
     {
@@ -535,7 +535,7 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Sound of You (ft TEED)",
+        "name": "Sound of You (ft. TEED)",
         "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
       },
       "artists": [
@@ -549,7 +549,7 @@
         }
       ],
       "duration_ms": 236528,
-      "name": "Sound of You (ft TEED)",
+      "name": "Sound of You (ft. TEED)",
       "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
     },
     {
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Give It All",
-        "url": "https://open.spotify.com/album/24RTvkSb3aoYar07Ix3I9d"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Satie",
-          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
-        }
-      ],
-      "duration_ms": 179527,
-      "name": "Give It All",
-      "url": "https://open.spotify.com/track/1IPrjsTNfq2sMuMrDuiGBP"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "The Nightlife",
         "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 244708,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Give It All",
+        "url": "https://open.spotify.com/album/24RTvkSb3aoYar07Ix3I9d"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Satie",
+          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
+        }
+      ],
+      "duration_ms": 179527,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/1IPrjsTNfq2sMuMrDuiGBP"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
+        "name": "Mydnight",
+        "url": "https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Our Home",
+      "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
         "name": "Take Me Up (ft. Donna Blakely)",
         "url": "https://open.spotify.com/album/6zs9VQ8s94nFFND1PJJDPf"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 177028,
       "name": "Take Me Up (ft. Donna Blakely)",
       "url": "https://open.spotify.com/track/3SPIXaPvo1cx1v4Eint483"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
-        "name": "Mydnight",
-        "url": "https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Our Home",
-      "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "The Trip",
-          "url": "https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW"
-        }
-      ],
-      "duration_ms": 196895,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "See It As A Sign",
         "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
       },
@@ -1031,6 +1011,26 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "The Trip",
+          "url": "https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW"
+        }
+      ],
+      "duration_ms": 196895,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
         "name": "The Shiver",
         "url": "https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 167677,
       "name": "The Shiver",
       "url": "https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Jazzy Glazzy",
+        "url": "https://open.spotify.com/album/1TUbu9NmHKZo59oqjBBhhC"
+      },
+      "artists": [
+        {
+          "name": "Jdr",
+          "url": "https://open.spotify.com/artist/1PYEdJGazkqBGTZqTPROmh"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Jazzy Glazzy",
+      "url": "https://open.spotify.com/track/03vtyVbJQfT7IEQeeLxmy1"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Jazzy Glazzy",
-        "url": "https://open.spotify.com/album/1TUbu9NmHKZo59oqjBBhhC"
-      },
-      "artists": [
-        {
-          "name": "Jdr",
-          "url": "https://open.spotify.com/artist/1PYEdJGazkqBGTZqTPROmh"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Jazzy Glazzy",
-      "url": "https://open.spotify.com/track/03vtyVbJQfT7IEQeeLxmy1"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "Cruel Summer (Again)",
         "url": "https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13"
       },
@@ -1107,26 +1107,6 @@
       "duration_ms": 168921,
       "name": "Cruel Summer (Again)",
       "url": "https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
-        "name": "Won't Let U Down",
-        "url": "https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
-        }
-      ],
-      "duration_ms": 251725,
-      "name": "Won't Let U Down",
-      "url": "https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1163,6 +1143,26 @@
       "duration_ms": 175238,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Won't Let U Down",
+        "url": "https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "duration_ms": 251725,
+      "name": "Won't Let U Down",
+      "url": "https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
+        "name": "Uncomfortable",
+        "url": "https://open.spotify.com/album/2TyyA3oJlayDtyZf8cQfo9"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 195661,
+      "name": "Uncomfortable",
+      "url": "https://open.spotify.com/track/5qAwZr4jOrI0SueP421ivO"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
         "name": "This Ain't Love",
         "url": "https://open.spotify.com/album/12V6TWwLZOGaUWnHn8sLzG"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 160000,
       "name": "This Ain't Love",
       "url": "https://open.spotify.com/track/7aNnRM4mWrBdauDAwkEf5j"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
-        "name": "Uncomfortable",
-        "url": "https://open.spotify.com/album/2TyyA3oJlayDtyZf8cQfo9"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 195661,
-      "name": "Uncomfortable",
-      "url": "https://open.spotify.com/track/5qAwZr4jOrI0SueP421ivO"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
+        "name": "Lease Of Life",
+        "url": "https://open.spotify.com/album/1BTsbUwUWqZXkVbMWCxKPS"
+      },
+      "artists": [
+        {
+          "name": "James Poole",
+          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
+        }
+      ],
+      "duration_ms": 166073,
+      "name": "Lease Of Life",
+      "url": "https://open.spotify.com/track/2nFQ3j6z1ktegvAU4xdWyZ"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
         "name": "24h In A Disco",
         "url": "https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 195254,
       "name": "24h In A Disco",
       "url": "https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
-        "name": "Lease Of Life",
-        "url": "https://open.spotify.com/album/1BTsbUwUWqZXkVbMWCxKPS"
-      },
-      "artists": [
-        {
-          "name": "James Poole",
-          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
-        }
-      ],
-      "duration_ms": 166073,
-      "name": "Lease Of Life",
-      "url": "https://open.spotify.com/track/2nFQ3j6z1ktegvAU4xdWyZ"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
+        "name": "Mali Spirit (Folamour Remix)",
+        "url": "https://open.spotify.com/album/5EoHzdPRvD014BrM49icIa"
+      },
+      "artists": [
+        {
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 191617,
+      "name": "Mali Spirit - Folamour Remix",
+      "url": "https://open.spotify.com/track/4z0nAGmNM70ygVhxLLOylS"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
         "name": "Save Me No More",
         "url": "https://open.spotify.com/album/1BZ6lihek8eNd8miCzcPY3"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 191208,
       "name": "Save Me No More",
       "url": "https://open.spotify.com/track/0Le9EaDBqEQbv7jjjpPxTO"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
-        "name": "Mali Spirit (Folamour Remix)",
-        "url": "https://open.spotify.com/album/5EoHzdPRvD014BrM49icIa"
-      },
-      "artists": [
-        {
-          "name": "LAGOS IN PARIS",
-          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
-        },
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 191617,
-      "name": "Mali Spirit - Folamour Remix",
-      "url": "https://open.spotify.com/track/4z0nAGmNM70ygVhxLLOylS"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/7KLcjAjvk0hZjj7vWLuu7n"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/69kA0r4P0OYNRunizcANLu"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "Delusions",
         "url": "https://open.spotify.com/album/2SQEsVwbWEimXojcYsezYy"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 137952,
       "name": "Delusions",
       "url": "https://open.spotify.com/track/3I7n9Ukpl6bYYOQZrUxg5u"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/7KLcjAjvk0hZjj7vWLuu7n"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/69kA0r4P0OYNRunizcANLu"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Don\u2019t You Want Some More",
-        "url": "https://open.spotify.com/album/3xuPw3jYk60AaIm6ERx4ml"
-      },
-      "artists": [
-        {
-          "name": "Harry Romero",
-          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
-        }
-      ],
-      "duration_ms": 204985,
-      "name": "Don\u2019t You Want Some More",
-      "url": "https://open.spotify.com/track/1eL4xdRvaKqJ3DITmie69m"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "I Won't Let You Go (feat. Eight9FLY)",
         "url": "https://open.spotify.com/album/5RqRKiJREACiGBQ3Vy4mx1"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 248000,
       "name": "Carry Us Away",
       "url": "https://open.spotify.com/track/00BaSQxpdHClflBBUcLNYE"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Don\u2019t You Want Some More",
+        "url": "https://open.spotify.com/album/3xuPw3jYk60AaIm6ERx4ml"
+      },
+      "artists": [
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "duration_ms": 204985,
+      "name": "Don\u2019t You Want Some More",
+      "url": "https://open.spotify.com/track/1eL4xdRvaKqJ3DITmie69m"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
+        "name": "Keeping Me Safe",
+        "url": "https://open.spotify.com/album/3zNy7MMLYBSmBpZLPQ3xSe"
+      },
+      "artists": [
+        {
+          "name": "Melsen",
+          "url": "https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "Keeping Me Safe",
+      "url": "https://open.spotify.com/track/5PnY7GVyXfy6fsMHFPFAGU"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
         "name": "Jazzin' The Way You Know (Francisco Allendes Remix)",
         "url": "https://open.spotify.com/album/5zyVPWKf9qeD6OhVbXJXpo"
       },
@@ -2139,18 +2155,22 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Keeping Me Safe",
-        "url": "https://open.spotify.com/album/3zNy7MMLYBSmBpZLPQ3xSe"
+        "name": "Take My Love",
+        "url": "https://open.spotify.com/album/07WAoaCn3c1dgfgFfDCUQK"
       },
       "artists": [
         {
-          "name": "Melsen",
-          "url": "https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO"
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        },
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
         }
       ],
-      "duration_ms": 168857,
-      "name": "Keeping Me Safe",
-      "url": "https://open.spotify.com/track/5PnY7GVyXfy6fsMHFPFAGU"
+      "duration_ms": 183750,
+      "name": "Take My Love",
+      "url": "https://open.spotify.com/track/7mljLtbTR0ZM3YHLhiw0MP"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -2175,26 +2195,6 @@
       "duration_ms": 221512,
       "name": "REARRANGE YOURSELF",
       "url": "https://open.spotify.com/track/3DUf1zmIEzJ71RVKCCOZWb"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
-        "name": "Take My Love",
-        "url": "https://open.spotify.com/album/07WAoaCn3c1dgfgFfDCUQK"
-      },
-      "artists": [
-        {
-          "name": "Murphy's Law (UK)",
-          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
-        },
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Take My Love",
-      "url": "https://open.spotify.com/track/7mljLtbTR0ZM3YHLhiw0MP"
     },
     {
       "added_at": "2026-06-04 22:00:27",

@@ -54307,6 +54307,28 @@
     },
     {
       "album": {
+        "name": "Pi\u00f9 Vicini al Cielo",
+        "url": "https://open.spotify.com/album/2NSBRvmswoVucTOLRUFKzJ"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        },
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201306,
+      "name": "Pi\u00f9 Vicini al Cielo",
+      "url": "https://open.spotify.com/track/2BAhnHQKWm5vM3q1QTrLsl"
+    },
+    {
+      "album": {
         "name": "Places and Faces",
         "url": "https://open.spotify.com/album/0SlFCjdrGkR98mnbfgOHCs"
       },
@@ -54358,6 +54380,24 @@
       "duration_ms": 180370,
       "name": "plastica",
       "url": "https://open.spotify.com/track/4NyzAKdn2GwtzLhMOScf5j"
+    },
+    {
+      "album": {
+        "name": "Plasticity",
+        "url": "https://open.spotify.com/album/6rEjOfBQkbwlkExPpHSisG"
+      },
+      "artists": [
+        {
+          "name": "The Rift",
+          "url": "https://open.spotify.com/artist/20XC0kNuHwNw2w2R0mDolP"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292067,
+      "name": "Plasticity",
+      "url": "https://open.spotify.com/track/4mF2Q8tzIODb7sGbKFdbOp"
     },
     {
       "album": {

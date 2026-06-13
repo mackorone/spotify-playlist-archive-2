@@ -5135,6 +5135,24 @@
     },
     {
       "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178603,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
+    },
+    {
+      "album": {
         "name": "Coming Close",
         "url": "https://open.spotify.com/album/1J5Wu7w9kslu8f7OGd4R7H"
       },

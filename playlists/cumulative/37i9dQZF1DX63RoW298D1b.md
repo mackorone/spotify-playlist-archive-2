@@ -4,13 +4,14 @@
 
 > Soothing piano for the ultimate wind down.
 
-243 songs - 10 hr 17 min
+248 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 | 2023-05-09 | 2024-02-03 |
 | [A Day In June](https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus) | [Half Giant](https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk) | [A Day In June](https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd) | 2:00 | 2023-08-23 |  |
 | [A Part Of Us](https://open.spotify.com/track/5aC8nrtrXpYfnhnRyG9LgI) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [A Part Of Us](https://open.spotify.com/album/7JDvhxgKoaufSFdaemvWPI) | 1:57 | 2023-05-09 | 2024-02-03 |
+| [A Place to Stay](https://open.spotify.com/track/43RlEfroF7mroiQOv2O5H2) | [Axel Bennett](https://open.spotify.com/artist/3cbNP4ir2UsDvVi8kbd1qz) | [A Place to Stay](https://open.spotify.com/album/7o3T9QNHp5atn8pLAC2QJ7) | 3:08 | 2026-06-12 |  |
 | [A quiet river](https://open.spotify.com/track/1Q2ih8UwOirSbXp9Nb4QV4) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [A quiet river](https://open.spotify.com/album/6xIHOY61L5LEsjV836wdLk) | 2:02 | 2024-03-19 |  |
 | [A Reunion](https://open.spotify.com/track/67E9l7Txh7dMUVCFLAfEzu) | [Donnie Harman](https://open.spotify.com/artist/6SGJd9IXJySRiU9CR8Bdbe) | [A Reunion](https://open.spotify.com/album/06DXO5RP52IVBcCF87fCAV) | 2:35 | 2023-09-05 |  |
 | [A Rose](https://open.spotify.com/track/0XAHH61ykmd5UpOF7w7Ky8) | [Natalee Marlowe](https://open.spotify.com/artist/0xpi7Cnrj85a5mifMxgCfS) | [A Rose](https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA) | 2:27 | 2023-05-09 | 2025-02-27 |
@@ -49,6 +50,7 @@
 | [Clouds Coming](https://open.spotify.com/track/7bTycbdDfQELplifneZzJj) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Clouds Coming](https://open.spotify.com/album/7IAk6YxAb3zjyOaGV0nzb0) | 2:26 | 2024-11-06 | 2025-06-11 |
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2023-05-09 | 2025-03-13 |
 | [Comfort](https://open.spotify.com/track/1NK6I4kkAeZ0twLaXBwZLK) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [Comfort](https://open.spotify.com/album/2yTzioTPiDxvpMCSdJ9wDq) | 2:04 | 2024-03-05 | 2025-09-18 |
+| [Comforting Compassion](https://open.spotify.com/track/5vVxuKITTQCUFRs8PuGcwd) | [Löve](https://open.spotify.com/artist/7MGZxfJkKBLp1oAnFkNTEz) | [Comforting Compassion](https://open.spotify.com/album/0rfdekKd2Wv0KEX7ZDIKN0) | 2:18 | 2026-06-12 |  |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2023-05-09 | 2025-02-27 |
 | [Credo](https://open.spotify.com/track/7GhpnGB1M8qQ04yqHLdoaE) | [Samuel Yates](https://open.spotify.com/artist/490O7wKhdxCPXCpZyklL9R) | [Credo](https://open.spotify.com/album/7F2h54BsLRxDAfmi0Wa4f9) | 2:30 | 2023-05-09 | 2025-02-27 |
 | [Dahlia](https://open.spotify.com/track/64ovZi9kM3UqPSPgGYaf5l) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Dahlia](https://open.spotify.com/album/78wynCL5BJIJe0utApFZko) | 2:55 | 2023-12-12 |  |
@@ -95,6 +97,7 @@
 | [Golden Fields](https://open.spotify.com/track/7sdBQrciBCuWoAFe8pY0sw) | [Iris Fairchild](https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa) | [Golden Fields](https://open.spotify.com/album/5cMkJA1S0kyGbsedwON2zo) | 2:38 | 2025-02-19 | 2025-11-12 |
 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 | 2023-05-09 | 2024-02-14 |
 | [Hearts of Desire](https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Hearts of Desire](https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb) | 2:19 | 2023-11-07 |  |
+| [Held In Memory](https://open.spotify.com/track/1G73HZIL4MJzMcnQFZ8d5M) | [Talia Vernon](https://open.spotify.com/artist/3W6H4hzFD0fZP4EMnTrzQ8) | [Held In Memory](https://open.spotify.com/album/4wVFrS2wm8lVMroBRLzRZi) | 2:04 | 2026-06-12 |  |
 | [Hemma Är Där Hjärtat Bor](https://open.spotify.com/track/13MvoF7XbeyuvUkYFdcTsR) | [Oscar Johansson](https://open.spotify.com/artist/23tMk4k83BihntN9bkQ2K1) | [Hemma Är Där Hjärtat Bor](https://open.spotify.com/album/1g8Cg2tX8F6vuflRgaGL1o) | 1:56 | 2023-05-09 | 2024-02-03 |
 | [Her First Theme](https://open.spotify.com/track/4Fdm4NrMFgHRCQZIr1guDz) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Her First Theme](https://open.spotify.com/album/6oxC9shBjvSwCnbs1iwKNg) | 2:30 | 2024-07-16 | 2025-09-18 |
 | [Highlands](https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Highlands](https://open.spotify.com/album/4fGBjm0G7Cr5tXeo2aHkn7) | 3:00 | 2024-02-02 |  |
@@ -126,6 +129,7 @@
 | [It Takes Time](https://open.spotify.com/track/3dQa7fCfGgoRM5FW5Liawc) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [It Takes Time](https://open.spotify.com/album/0lCUipFZcKcXYukQ0Wk9QT) | 2:50 | 2024-09-10 | 2025-07-09 |
 | [Juliet Rose](https://open.spotify.com/track/5eiXYdSRFd48jBqnQrw83h) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [Juliet Rose](https://open.spotify.com/album/1z8NJlHqLWNVCkh3jbpL6T) | 2:02 | 2024-05-01 |  |
 | [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 | 2023-09-05 | 2025-03-13 |
+| [Land between lakes](https://open.spotify.com/track/1uw3cBoD7RE98MyBlOlKAn) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [Land between lakes](https://open.spotify.com/album/6pp5hT2brxt970S7wlxyD4) | 2:25 | 2026-06-12 |  |
 | [Largo](https://open.spotify.com/track/5rRK6mamdef3a6eWz14vzU) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Afterglow](https://open.spotify.com/album/6Xc8TRCE8M96FBYcPp34YT) | 3:13 | 2023-05-09 | 2025-03-13 |
 | [Le Recueillement](https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Le Recueillement](https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6) | 2:27 | 2023-12-12 |  |
 | [le voyageur](https://open.spotify.com/track/2P98sgjysEmr03BP9oeAVV) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [le voyageur](https://open.spotify.com/album/4LmxUW2uMCOho2RHATKWvX) | 2:30 | 2024-10-01 |  |
@@ -199,6 +203,7 @@
 | [Slow Morning](https://open.spotify.com/track/2H52h4eB5VOlYLk9ij1bBA) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Slow Morning](https://open.spotify.com/album/07Y9Dqu922zuptTVX3vWA9) | 2:39 | 2025-08-19 |  |
 | [Soft Echoes](https://open.spotify.com/track/6LgGNehVT0BpXcYqu4tWIc) | [Lukasz Allain](https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc) | [Soft Echoes](https://open.spotify.com/album/0j3nUOkfEKrduxG19DtbTJ) | 2:47 | 2025-03-20 |  |
 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 | 2023-05-09 |  |
+| [Solenne](https://open.spotify.com/track/7C6nKSKvl0UwoVAKmlToIg) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Solenne](https://open.spotify.com/album/0MJo2Z6nEAafzR5ajgpM6P) | 2:16 | 2026-06-12 |  |
 | [Sophisticated](https://open.spotify.com/track/2PgpHY9g9k6ER1qEbwwFSJ) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Sophisticated](https://open.spotify.com/album/2ybmczckxP8uMWeZVaC9rK) | 2:05 | 2024-05-01 |  |
 | [Still Yours](https://open.spotify.com/track/4HKlfqgc9zpAzEv4GCnEn9) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Still Yours](https://open.spotify.com/album/2pgj2Jhrw1u9TZuXHwZzvU) | 2:43 | 2024-08-07 | 2025-04-02 |
 | [Stille Sjø](https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Stille Sjø](https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI) | 2:31 | 2023-07-18 | 2025-11-12 |

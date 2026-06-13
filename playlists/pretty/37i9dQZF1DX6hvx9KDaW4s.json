@@ -1,6 +1,6 @@
 {
   "description": "Reps, riffs, rest, repeat.",
-  "num_followers": 568992,
+  "num_followers": 568972,
   "original_name": "The Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-02-06 14:45:41",
       "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 212309,
-      "name": "Little Monster",
-      "url": "https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu"
-    },
-    {
-      "added_at": "2024-02-06 14:45:41",
-      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -593,36 +577,20 @@
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
     },
     {
-      "added_at": "2024-07-19 11:51:28",
-      "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
-    },
-    {
       "added_at": "2024-02-06 14:45:41",
       "album": {
-        "name": "LosT",
-        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 205368,
-      "name": "LosT",
-      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+      "duration_ms": 212309,
+      "name": "Little Monster",
+      "url": "https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu"
     },
     {
       "added_at": "2024-07-19 11:51:28",
@@ -643,6 +611,38 @@
       "duration_ms": 190230,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x"
+    },
+    {
+      "added_at": "2024-02-06 14:45:41",
+      "album": {
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+    },
+    {
+      "added_at": "2024-07-19 11:51:28",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": "2024-07-19 11:51:28",

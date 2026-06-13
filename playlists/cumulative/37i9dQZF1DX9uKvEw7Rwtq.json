@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "A Place to Breathe",
+        "url": "https://open.spotify.com/album/1MfQ1WJQ5IihFUkqusIgxQ"
+      },
+      "artists": [
+        {
+          "name": "Lumestria",
+          "url": "https://open.spotify.com/artist/2EgAcyKbKswfRo9sHGG3xC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "A Place to Breathe",
+      "url": "https://open.spotify.com/track/6buddStONGyZPOSDaYODVU"
+    },
+    {
+      "album": {
         "name": "Hy-Brasil",
         "url": "https://open.spotify.com/album/0Ovb8VJpDHHtTbqjbYhywu"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 216000,
       "name": "endless, somewhere",
       "url": "https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu"

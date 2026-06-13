@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> Tinashe's got that big energy.
+> Drake's got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,042 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,055 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Too Easy](https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Too Easy](https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc) | 1:54 |
-| 2 | [passport picture](https://open.spotify.com/track/786J186GBhQ9z0jJvH18Vu) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [passport picture](https://open.spotify.com/album/4Mwjj2PJsvXBSg7KOFF2Np) | 3:11 |
-| 3 | [point blank](https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [point blank](https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr) | 4:26 |
-| 4 | [Mile High Club](https://open.spotify.com/track/78Vr8tpu5JZHOaZdwwUWi5) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Mile High Club](https://open.spotify.com/album/37vFZU991EBptdZsgGfy4M) | 3:31 |
-| 5 | [What's Done Is Done](https://open.spotify.com/track/5W1gRMS6kU0AVzcQSobcD1) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/3WLBFuDDgcytF5eAfTdZ1C) | 2:53 |
-| 6 | [Cheetah Print \(feat\. Sexyy Red\)](https://open.spotify.com/track/1AFW3QBDjBmb4EL9gyiYhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 3:22 |
-| 7 | [Go Down](https://open.spotify.com/track/1CCM47jkk3lJiwbpgpjP6M) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Go Down](https://open.spotify.com/album/2wd1faA0AzscGfuCJ7vkUq) | 2:26 |
-| 8 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 |
-| 9 | [Weak](https://open.spotify.com/track/3Xpw079r8oMTfgjCK7dfBB) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Weak](https://open.spotify.com/album/1ZisyqUteFygp1mxrhh6pr) | 3:28 |
-| 10 | [CAN YOU FEEL IT](https://open.spotify.com/track/3y2ht6JLHXuEwud8EJiDBN) | [ALÖW](https://open.spotify.com/artist/0pbSMcnKWHnNgCxbJOnx1z), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [CAN YOU FEEL IT](https://open.spotify.com/album/0eLD645bJw8ze1A7JR8CCY) | 2:54 |
-| 11 | [Get Geeked](https://open.spotify.com/track/6siwX3kCcPSVpVipT5jkqa) | [Lelo](https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW) | [Get Geeked](https://open.spotify.com/album/6RFyFR5JY3H2gnRbulcNzD) | 2:57 |
-| 12 | [Puff Puff Pass](https://open.spotify.com/track/5Ox8hVxsmjQnZcH1VptfWQ) | [Kitty Hall](https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ) | [Puff Puff Pass](https://open.spotify.com/album/3RGmezQhWCaExKBcLnube4) | 2:40 |
-| 13 | [Hoe Phase](https://open.spotify.com/track/0O6lm9N6qJclxNFHl51nkr) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 3:23 |
-| 14 | [Work Your Body](https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Work Your Body](https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii) | 3:06 |
-| 15 | [BIAF <3](https://open.spotify.com/track/2niaqfUN4XWJ6BuDEm77Vh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [BIAF <3](https://open.spotify.com/album/0GnGHUSD8DxEU0ejWjvCNA) | 2:50 |
-| 16 | [MAKE DAT BOOTY](https://open.spotify.com/track/5sGA0qlCU2usW6Mws8icCu) | [KE\-YEN](https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE), [Respondent](https://open.spotify.com/artist/3mrk91thNdLlVpdXnCdKpK) | [MAKE DAT BOOTY](https://open.spotify.com/album/0EGDaeH1FcgGCc4XkCsoyn) | 3:32 |
-| 17 | [TUN](https://open.spotify.com/track/1ZZMnUVw6oGQpx8TQPTZz2) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [TUN](https://open.spotify.com/album/0JkE09AhoA564cEbsTtA3d) | 3:33 |
+| 1 | [Cheetah Print \(feat\. Sexyy Red\)](https://open.spotify.com/track/1AFW3QBDjBmb4EL9gyiYhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 3:22 |
+| 2 | [Go Ladies](https://open.spotify.com/track/4pWlEdLIy2tQ3hQY1agXLh) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Wave Gods 2: Cosmos Brothers](https://open.spotify.com/album/1xrYyIlIIW1GbTsmbog6DU) | 2:27 |
+| 3 | [Too Easy](https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Too Easy](https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc) | 1:54 |
+| 4 | [point blank](https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [point blank](https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr) | 4:26 |
+| 5 | [Mile High Club](https://open.spotify.com/track/78Vr8tpu5JZHOaZdwwUWi5) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Mile High Club](https://open.spotify.com/album/37vFZU991EBptdZsgGfy4M) | 3:31 |
+| 6 | [What's Done Is Done](https://open.spotify.com/track/5W1gRMS6kU0AVzcQSobcD1) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/3WLBFuDDgcytF5eAfTdZ1C) | 2:53 |
+| 7 | [RMB \(Ring My Bell\)](https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [RMB \(Ring My Bell\)](https://open.spotify.com/album/4pkAMeqsWDN1YtFHsKoD1g) | 2:54 |
+| 8 | [Go Down](https://open.spotify.com/track/1CCM47jkk3lJiwbpgpjP6M) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Go Down](https://open.spotify.com/album/2wd1faA0AzscGfuCJ7vkUq) | 2:26 |
+| 9 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 |
+| 10 | [passport picture](https://open.spotify.com/track/786J186GBhQ9z0jJvH18Vu) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [passport picture](https://open.spotify.com/album/4Mwjj2PJsvXBSg7KOFF2Np) | 3:11 |
+| 11 | [ST\. CLAUDE](https://open.spotify.com/track/3LI6JxW3bcJxeQGUMe9I8y) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [HaSizzle](https://open.spotify.com/artist/22mB4zQKJDI9I7ZnYs80iX) | [ST\. CLAUDE](https://open.spotify.com/album/4wLQZF0ebVHqs4clNyTBSx) | 2:19 |
+| 12 | [CAN YOU FEEL IT](https://open.spotify.com/track/3y2ht6JLHXuEwud8EJiDBN) | [ALÖW](https://open.spotify.com/artist/0pbSMcnKWHnNgCxbJOnx1z), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [CAN YOU FEEL IT](https://open.spotify.com/album/0eLD645bJw8ze1A7JR8CCY) | 2:54 |
+| 13 | [Get Geeked](https://open.spotify.com/track/6siwX3kCcPSVpVipT5jkqa) | [Lelo](https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW) | [Get Geeked](https://open.spotify.com/album/6RFyFR5JY3H2gnRbulcNzD) | 2:57 |
+| 14 | [Puff Puff Pass](https://open.spotify.com/track/5Ox8hVxsmjQnZcH1VptfWQ) | [Kitty Hall](https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ) | [Puff Puff Pass](https://open.spotify.com/album/3RGmezQhWCaExKBcLnube4) | 2:40 |
+| 15 | [Hoe Phase](https://open.spotify.com/track/0O6lm9N6qJclxNFHl51nkr) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 3:23 |
+| 16 | [BIAF <3](https://open.spotify.com/track/2niaqfUN4XWJ6BuDEm77Vh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [BIAF <3](https://open.spotify.com/album/0GnGHUSD8DxEU0ejWjvCNA) | 2:50 |
+| 17 | [MAKE DAT BOOTY](https://open.spotify.com/track/5sGA0qlCU2usW6Mws8icCu) | [KE\-YEN](https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE), [Respondent](https://open.spotify.com/artist/3mrk91thNdLlVpdXnCdKpK) | [MAKE DAT BOOTY](https://open.spotify.com/album/0EGDaeH1FcgGCc4XkCsoyn) | 3:32 |
 | 18 | [House Jam](https://open.spotify.com/track/5nputVTyUHyggGzxKP1er4) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [FAUCET](https://open.spotify.com/artist/5BlglOc7NoqrjoXtypMBVn) | [House Jam](https://open.spotify.com/album/0pKBP05mxza4KvXQbniKoN) | 4:36 |
 | 19 | [Fantasy](https://open.spotify.com/track/4PCxqZQl1WvoVvd2MMwGZ2) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Fantasy](https://open.spotify.com/album/1ZKYGeyylAbrGT7HqdXxuS) | 4:32 |
 | 20 | [FLACKITO JODYE \(feat\. Tokischa\)](https://open.spotify.com/track/5evBKaW1C74pRKBoQIyZ8C) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Don't Be Dumb](https://open.spotify.com/album/0atfWEzoZMgo9zCwFd5nEN) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 49 | [Brand New](https://open.spotify.com/track/20bwjMLtBeWBu5AGvyUoKJ) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Brand New](https://open.spotify.com/album/0u3xhApvlJaSq0z8GHswV5) | 2:05 |
 | 50 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/2HlT1qcOgxlnbzBFirVz0K) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [INFINITY CLUB II](https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK) | 2:45 |
 
-Snapshot ID: `AAAAAFdvCEsUukLHWUCAEs0lI2krDSN5`
+Snapshot ID: `AAAAALJ7WO4pO/Scq+KvQKiX4VszqVfo`

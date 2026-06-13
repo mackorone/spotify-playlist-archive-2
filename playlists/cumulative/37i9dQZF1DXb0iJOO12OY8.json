@@ -3304,6 +3304,28 @@
     {
       "album": {
         "name": "Run It Up",
+        "url": "https://open.spotify.com/album/0mNEGhM09RqeU8FwDRJzcL"
+      },
+      "artists": [
+        {
+          "name": "Carew",
+          "url": "https://open.spotify.com/artist/2teqa2WUJYcNlfrtcpgxrB"
+        },
+        {
+          "name": "Tshawe",
+          "url": "https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137102,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/0ANz6ln4aPmnmZLzPz7Zb7"
+    },
+    {
+      "album": {
+        "name": "Run It Up",
         "url": "https://open.spotify.com/album/2WJfge21aAzDJOMX5QOFy1"
       },
       "artists": [

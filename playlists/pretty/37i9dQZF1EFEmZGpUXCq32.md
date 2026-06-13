@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 78 | [Round N Round](https://open.spotify.com/track/4aYpNLWSGWcI2nuS16ajNx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:07 |
 | 79 | [Hurts My Brain](https://open.spotify.com/track/2r3RWI7rhI07Kv2k0qyi18) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 3:04 |
 | 80 | [Choose Me](https://open.spotify.com/track/30N2Yr918Kn5EGyNIh7Mjb) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Good Life](https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz) | 4:42 |
-| 81 | [Good Times](https://open.spotify.com/track/2HUafm46qkFywY670cGk4e) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 3:42 |
-| 82 | [Afro Brooklyn \(feat\. Phil Lassiter\)](https://open.spotify.com/track/00SP1LwpXjWInNKeBxjyWZ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Phil Lassiter](https://open.spotify.com/artist/264Py7hwwoMAarZeA3OcGr) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 5:53 |
+| 81 | [Afro Brooklyn \(feat\. Phil Lassiter\)](https://open.spotify.com/track/00SP1LwpXjWInNKeBxjyWZ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Phil Lassiter](https://open.spotify.com/artist/264Py7hwwoMAarZeA3OcGr) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 5:53 |
+| 82 | [Good Times](https://open.spotify.com/track/2HUafm46qkFywY670cGk4e) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 3:42 |
 | 83 | [Let's Go Fall In Love](https://open.spotify.com/track/52UFSjPk1yjxexLYcx9LUD) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 2:37 |
 | 84 | [Dreaming Of](https://open.spotify.com/track/46l1Wgtbzy74JDQ4Wkylwq) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:52 |
 | 85 | [Get Lifted](https://open.spotify.com/track/2YNj851f4yznA4FnEFHMTE) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 3:25 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 116 | [Leap of Faith](https://open.spotify.com/track/4mwSkN12OpWi1Wp9k5Oesq) | [The PRVLG](https://open.spotify.com/artist/2BWNNDrfiAwUHbkihc16I4) | [Lover Girl's Playlist Pt\. 1](https://open.spotify.com/album/2AMZkJYM8t5bloohspD4y6) | 3:00 |
 | 117 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AcT98AAAAABbcurnf8hqlDmjOzKFV2Om`
+Snapshot ID: `AcUDkAAAAAATi136YTKnTvwYWhFY/8hr`

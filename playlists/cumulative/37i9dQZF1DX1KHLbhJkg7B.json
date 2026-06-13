@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Unique covers by your favorite country artists. Cover: Bailey Zimmerman",
+  "description": "Unique covers by your favorite country artists. Cover: Keith Urban",
   "name": "Country Covers",
   "tracks": [
     {
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 189253,
       "name": "Gentle On My Mind",
       "url": "https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2"
@@ -2748,6 +2748,28 @@
       "duration_ms": 141725,
       "name": "Greedy - Country Version",
       "url": "https://open.spotify.com/track/0thzAxCyLFOQJ6JwbThQ3R"
+    },
+    {
+      "album": {
+        "name": "flow state",
+        "url": "https://open.spotify.com/album/2ap2eUHSoEZhUAj1ybgask"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309378,
+      "name": "Guitar Man (ft. John Mayer)",
+      "url": "https://open.spotify.com/track/75935bRXF7MDhygU4wmSpI"
     },
     {
       "album": {
@@ -6886,7 +6908,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 216725,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/67jc5KchHkzbaMwTeUhMyT"
@@ -7840,6 +7862,24 @@
       "duration_ms": 283440,
       "name": "Uptown Funk (Live from SXSW 2015)",
       "url": "https://open.spotify.com/track/1v5dYdS4XKN8zfZ3847xCU"
+    },
+    {
+      "album": {
+        "name": "Valerie",
+        "url": "https://open.spotify.com/album/7Dp9NAgApVaZeE5lWobWKm"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238705,
+      "name": "Valerie",
+      "url": "https://open.spotify.com/track/2zWoXPulqjfGAJsUyRtxiq"
     },
     {
       "album": {

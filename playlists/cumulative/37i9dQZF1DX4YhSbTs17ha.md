@@ -2,9 +2,9 @@
 
 ### [Sólo Pop](https://open.spotify.com/playlist/37i9dQZF1DX4YhSbTs17ha)
 
-> Las canciones de pop más exitosas en México\. Edén Muñoz y Cristian Castro en portada.
+> Las canciones de pop más exitosas en México\. ROBI en portada.
 
-947 songs - 2 day 2 hr 37 min
+952 songs - 2 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [A las 12 Te Olvidé](https://open.spotify.com/track/6u1UWAkgEhlGzYe24QNFxg) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAASHVILLE](https://open.spotify.com/album/3z71IM4XCA5UMiORkkr66P) | 3:44 | 2024-11-01 | 2025-05-10 |
 | [A Las 3](https://open.spotify.com/track/6aDI3fxbf3PdDz9z8rK9fr) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [A Las 3](https://open.spotify.com/album/431FDuXe10BcviQ9o3T9Ge) | 2:42 | 2023-06-02 | 2023-12-09 |
 | [A Medio Vivir](https://open.spotify.com/track/3gJzqwjF3Yjl4OAZJVG0yx) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [A Medio Vivir](https://open.spotify.com/album/0DyrDEUuaMhUJ4ebJoAm4H) | 3:52 | 2025-10-03 |  |
+| [A Pesar De Ti y De Mi](https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [A Pesar De Ti y De Mi](https://open.spotify.com/album/1zZMrpkzai37lGSrxgw5a8) | 4:09 | 2026-06-12 |  |
 | [A Puro Dolor](https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [A Puro Dolor](https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a) | 2:48 | 2024-01-12 | 2024-03-23 |
 | [A Solas con la Botella](https://open.spotify.com/track/4eOCDe8x4K4bFIhpbtIbfZ) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [PA'L CORA EP\. 02](https://open.spotify.com/album/21oGI6V204SgNkl2iXmtjQ) | 4:13 | 2025-01-31 | 2025-03-08 |
 | [A Veces](https://open.spotify.com/track/3N1yNINZKp7j62WbA39ToX) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [A Veces](https://open.spotify.com/album/4o5XUPdw1HeAY7LtBpRMnw) | 3:52 | 2026-01-16 | 2026-03-28 |
@@ -141,6 +142,7 @@
 | [Bésame](https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Bésame](https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl) | 3:22 | 2025-05-23 | 2026-03-07 |
 | [búscame otra vez](https://open.spotify.com/track/1S0yKut4XZD1ai8TefQemv) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [búscame otra vez](https://open.spotify.com/album/6cCUaGJQagrD3mwnVhRJax) | 4:58 | 2025-01-17 | 2025-02-15 |
 | [Caballo Negro](https://open.spotify.com/track/4RH8pnfg0PYU8yIWMzwMi6) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Caballo Negro](https://open.spotify.com/album/6NDji7IoUuqsiH5lchiCGS) | 2:57 | 2024-11-01 | 2024-11-16 |
+| [Cabernet](https://open.spotify.com/track/16ElBU3Nnk4SCElgYmK0jt) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Cabernet](https://open.spotify.com/album/5cKVFpaK1Pv7L68VduLrRA) | 4:05 | 2026-06-12 |  |
 | [Cachito](https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cachito](https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf) | 3:08 | 2022-02-04 | 2022-04-23 |
 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 | 2024-02-01 | 2024-05-04 |
 | [Cafe Malibú](https://open.spotify.com/track/5uxIvoAHL2QOnRP2olOxzb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Cafe Malibú](https://open.spotify.com/album/68Qm7k0mDa6ta4mbVD9d2n) | 4:20 | 2023-07-21 | 2023-08-26 |
@@ -559,6 +561,7 @@
 | [Milagros](https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Milagros](https://open.spotify.com/album/3k0FgbH2hF3R59J1Fwzd66) | 3:55 | 2025-05-09 | 2025-11-29 |
 | [Milhouse](https://open.spotify.com/track/63B36PpbcCIxBjLOiObX3p) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [GRAN](https://open.spotify.com/album/0KcMVlp0ZXCfSkKJrsrwLn) | 2:56 | 2024-11-29 | 2024-12-21 |
 | [Millones](https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:41 | 2022-02-04 | 2022-05-14 |
+| [MIMI](https://open.spotify.com/track/7CrwXMWLQ9pNPZWxibTeBh) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Bernalú](https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay) | [MIMI](https://open.spotify.com/album/7kb8w4BELGr95DWgHAYKvw) | 3:08 | 2026-06-12 |  |
 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 | 2024-03-22 | 2024-04-27 |
 | [mirar adentro](https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [mirar adentro](https://open.spotify.com/album/5crFVDguekt65vFoLlKgew) | 3:29 | 2026-04-17 |  |
 | [Mis Amigas Las Flores](https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mis Amigas Las Flores](https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji) | 2:58 | 2024-04-19 | 2024-06-08 |
@@ -584,6 +587,7 @@
 | [Mírame Feliz](https://open.spotify.com/track/55gq5GBRE7Mlz3BCKZ8taw) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Mírame Feliz](https://open.spotify.com/album/4Esaa3tjzYiVQk3ENa49yg) | 3:11 | 2025-05-09 | 2025-06-14 |
 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 | 2022-02-04 | 2022-05-11 |
 | [N.I.T.](https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [N.I.T.](https://open.spotify.com/album/2LrRxe5gOKn43mAUWqcAnr) | 3:29 | 2025-02-28 | 2025-03-29 |
+| [Nacer Una Vez Más \- En Vivo Desde el Teatro Metropolitan](https://open.spotify.com/track/3O9G9sR2YwpVw8J9NSFU98) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk) | [Nacer Una Vez Más \(En Vivo Desde el Teatro Metropolitan\)](https://open.spotify.com/album/2gptIbWLgy58jzIUoy0LqX) | 4:17 | 2026-06-12 |  |
 | [Nada](https://open.spotify.com/track/4ruyGzUmYFy0tanBBLCxHW) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Nada](https://open.spotify.com/album/6W5khuVvk083kMoTxM7GGY) | 3:53 | 2022-03-18 | 2022-05-07 |
 | [Nada Es Para Siempre](https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Nada Es Para Siempre](https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI) | 3:15 | 2025-02-14 | 2025-09-27 |
 | [Nada Particular](https://open.spotify.com/track/3Jl4RyjzfYPje7e8kAf18T) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Nada Particular](https://open.spotify.com/album/0PbIsShhwbdpI5kEuEz7gW) | 5:31 | 2022-02-04 | 2022-02-19 |
@@ -761,6 +765,7 @@
 | [Se Agradece](https://open.spotify.com/track/0twUC3IFj8wtMUZVr7CLWM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Se Agradece](https://open.spotify.com/album/2Lmb5xFacnm56wDhFRdUDO) | 3:41 | 2024-04-12 | 2024-04-27 |
 | [Se Fue la Luz](https://open.spotify.com/track/5prM7f8gT8LNm8HlCdT7nl) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Se Fue la Luz](https://open.spotify.com/album/2PyA5iAknP3uOjZEgQjcgt) | 2:39 | 2022-03-25 | 2022-04-23 |
 | [Se Ha Acabado El Show](https://open.spotify.com/track/6wOiXCS3WHwDOggI0ae39N) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Se Ha Acabado El Show](https://open.spotify.com/album/3cXwAtlszAXsrrkhCNWW92) | 2:32 | 2025-09-26 | 2025-11-08 |
+| [Se me hace imposible olvidarte :\(](https://open.spotify.com/track/2nl9wkN8LfiQN6feen3HUX) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [sorry si soy GRRRIS](https://open.spotify.com/album/5nypepH4BfZG3INIDyLqiE) | 3:24 | 2026-06-12 |  |
 | [Se Me Va](https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Se Me Va](https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf) | 3:33 | 2026-02-27 | 2026-03-28 |
 | [Sed de Acción](https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:30 | 2024-10-18 | 2024-12-07 |
 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 | 2022-02-04 | 2022-04-19 |

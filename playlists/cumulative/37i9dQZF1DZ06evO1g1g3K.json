@@ -195,6 +195,28 @@
     },
     {
       "album": {
+        "name": "Completed - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5EMhgECFU4cV1B5WkwEhmX"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349319,
+      "name": "Completed - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2VU9K6Cw4ocEaamg0iNkqr"
+    },
+    {
+      "album": {
         "name": "BERNARR.",
         "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
       },

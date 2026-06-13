@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Future, Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,947 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,929 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 4 | [Drop The Lo](https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Drop The Lo](https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l) | 2:41 |
 | 5 | [Quaresma](https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Quaresma](https://open.spotify.com/album/5BXNfTW8DFCsG2KQ8rlae9) | 1:14 |
 | 6 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 |
-| 7 | [FAIR DINKUM](https://open.spotify.com/track/22je5kAHjwf98UwKbLUfh8) | [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf) | [FAIR DINKUM](https://open.spotify.com/album/4pyxnGUHJvDanfdvtgduqO) | 2:36 |
+| 7 | [FAIR DINKUM](https://open.spotify.com/track/22je5kAHjwf98UwKbLUfh8) | [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf), [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6), [Zion Garcia](https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [FAIR DINKUM](https://open.spotify.com/album/4pyxnGUHJvDanfdvtgduqO) | 2:36 |
 | 8 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 9 | [POP DAT THANG](https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [POP DAT THANG](https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d) | 2:18 |
 | 10 | [ALL THAT A$$](https://open.spotify.com/track/6kmF2BtLdvkCrkinXCxfmP) | [Keith Turner](https://open.spotify.com/artist/438yboVhqZFEStk5fljvfh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [ALL THAT A$$](https://open.spotify.com/album/0r3QG1Bc5NvShfRne40Jis) | 3:04 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 40 | [Two Six](https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 3:16 |
 | 41 | [Intrusive Thoughts](https://open.spotify.com/track/12q6Du2TDearjAQJReeEhD) | [Celly](https://open.spotify.com/artist/7hNCr6bA6G1HiWjooQzCuz), [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Intrusive Thoughts](https://open.spotify.com/album/1LtgZgZZFDBnUzsyrwB5vc) | 2:18 |
 | 42 | [WHITE TEETH](https://open.spotify.com/track/6ow0YfalWa4voVee9u9AVu) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs), [CV](https://open.spotify.com/artist/5KJ5ykum0wqQtJF4krqGiS) | [WHITE TEETH](https://open.spotify.com/album/6KYatViFJmhg83SObsMP55) | 2:46 |
-| 43 | [Back 2 Back](https://open.spotify.com/track/7dJsy8JHa5wRS1vXQW0FoY) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Back 2 Back](https://open.spotify.com/album/3che3Imd2n4Tte2JEZVLWM) | 2:36 |
+| 43 | [Back 2 Back](https://open.spotify.com/track/7dJsy8JHa5wRS1vXQW0FoY) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Back 2 Back](https://open.spotify.com/album/3che3Imd2n4Tte2JEZVLWM) | 2:38 |
 | 44 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 | 45 | [WNBA](https://open.spotify.com/track/6zZvy88xp6FIjJKhqwnJeQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [HABIBTI](https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno) | 2:58 |
 | 46 | [closer](https://open.spotify.com/track/7dUnpBgAO2oHqnplCHwgor) | [Miles Nautu](https://open.spotify.com/artist/0o5U1p6ZUurte1gamdqmLI) | [closer](https://open.spotify.com/album/04vFzwp02S76r9pYwpLbzI) | 3:52 |

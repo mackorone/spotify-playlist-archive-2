@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Eileen Alister
 
-555 songs - 1 day 4 hr 46 min
+555 songs - 1 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Only One I Need](https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Only One I Need](https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz) | 2:26 | 2024-06-27 | 2024-12-22 |
 | [Only You \(All I Needed\)](https://open.spotify.com/track/4bxLyWVInV5RZkXSiiQtU1) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb), [Symon Hook](https://open.spotify.com/artist/3HilMVXeZFvgpljHR4XgDX) | [Only You \(All I Needed\)](https://open.spotify.com/album/5h3dy6enfXOQVluOduIN9w) | 4:37 | 2026-04-23 | 2026-05-01 |
 | [Ordinary Life](https://open.spotify.com/track/1aQ80lTWOLrfLigNkF8ak4) | [Michael Benjamin](https://open.spotify.com/artist/2EczmcWYFrGxMwxxjNbc6r) | [Ordinary Life](https://open.spotify.com/album/0nDY27SVKOzvn063FgBcW5) | 3:15 | 2026-02-19 | 2026-03-06 |
+| [oups](https://open.spotify.com/track/5x0k4z6vLe43YybPUwENQz) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [le rose c'est hasbeen](https://open.spotify.com/album/6ZW6GRq5HYL7z6P3o7b6t2) | 2:52 | 2026-06-11 |  |
 | [Over](https://open.spotify.com/track/6oblIFG6oGnTH2b1qeERnO) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Over](https://open.spotify.com/album/2D6qLRICcR35S5O2c6qCEp) | 3:02 | 2024-06-27 | 2024-08-20 |
 | [oxygen](https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [oxygen](https://open.spotify.com/album/4EDGkCx4podx97NEbColdz) | 3:04 | 2024-09-27 |  |
 | [Paperhearts](https://open.spotify.com/track/2g32bDB4sA3zGuQ5iyqewv) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Paperhearts](https://open.spotify.com/album/7lqC3fVa3AQhI7aF5lkwuj) | 3:03 | 2025-01-10 | 2025-03-08 |
@@ -493,7 +494,6 @@
 | [Toro](https://open.spotify.com/track/160NRR8Ol1CwAMNnjM2COC) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [Toro](https://open.spotify.com/album/0wNk0P72mbxhAx1I6UcrZ6) | 2:31 | 2025-04-24 | 2025-05-02 |
 | [Toti Chatz](https://open.spotify.com/track/5K1QCmyfRpGylVR3Cj6Gj6) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Toti Chatz](https://open.spotify.com/album/6kWFAwpZ9L7wd9FeZH6v7v) | 3:30 | 2025-04-24 | 2025-05-02 |
 | [Toxic Love](https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know 2.0](https://open.spotify.com/album/7yZdmwtFDpy8gxEBMEn6cN) | 3:13 | 2025-06-13 | 2025-08-10 |
-| [Track 5](https://open.spotify.com/track/5x0k4z6vLe43YybPUwENQz) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [le rose c'est hasbeen](https://open.spotify.com/album/6ZW6GRq5HYL7z6P3o7b6t2) | 0:00 | 2026-06-11 |  |
 | [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 | 2024-06-27 | 2025-05-30 |
 | [Trapped in the Middle](https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Trapped in the Middle](https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw) | 2:18 | 2025-09-25 |  |
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 | 2025-09-20 |

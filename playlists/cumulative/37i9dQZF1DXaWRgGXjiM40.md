@@ -4,7 +4,7 @@
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-131 songs - 6 hr 40 min
+132 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Infarto](https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Querosene e o Violão](https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp) | 2:41 | 2023-02-10 |  |
 | [Jeito De Mato](https://open.spotify.com/track/69Ui5HCL3ckbnnwtnZoGRo) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Almir Sater](https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP) | [Pássaro De Fogo](https://open.spotify.com/album/7p1ph1czkPiXYxLi7TBUe1) | 4:58 | 2023-02-17 | 2023-04-13 |
 | [Largado Às Traças \- Ao Vivo](https://open.spotify.com/track/371Up3WP7OqJNFPf0BiyUe) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:54 | 2023-02-10 | 2024-04-19 |
+| [Lembrança Boa](https://open.spotify.com/track/4kBuG8k71r7tUnWqWofdCN) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Kaldeirão PeB \- Composições \(Vol\. 1\)](https://open.spotify.com/album/45tmzDjPAuIEfIoK74DDy8) | 2:13 | 2026-06-12 |  |
 | [Lembranças de Amor \- Ao Vivo](https://open.spotify.com/track/7MPMOW27HjtsLpeUFcihY8) | [Victor & Leo](https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr) | [Victor & Leo Ao Vivo Em Uberlândia](https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC) | 3:31 | 2023-02-10 |  |
 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 | 2023-02-10 |  |
 | [Liberdade Provisória \- Live \- Ibirapuera / 2019](https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo No Ibirapuera](https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f) | 3:06 | 2023-02-10 | 2024-04-19 |
@@ -94,7 +95,7 @@
 | [Nosso Quadro](https://open.spotify.com/track/4uqJelb9THHmJ3OCohg4ZJ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Nosso Quadro](https://open.spotify.com/album/2UcCoH8S3vHlaY27uLsxmc) | 2:53 | 2023-02-17 | 2023-04-06 |
 | [Nota 100 \- Ao Vivo](https://open.spotify.com/track/6pOLoZWfX2vwDYibVw8RGv) | [Hugo & Vitor](https://open.spotify.com/artist/3rbG069NuFKBCXYPoGjB9g), [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Nota 100 \(Ao Vivo\)](https://open.spotify.com/album/32jxqjJYztfYeR9fEeYmIf) | 2:40 | 2024-01-05 | 2024-03-15 |
 | [Notificação Preferida \- Ao Vivo](https://open.spotify.com/track/3tA0vALUwrzkTgHcm9j6oJ) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:02 | 2023-02-10 | 2024-04-19 |
-| [Não Fala Não pra Mim](https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Não Fala Não pra Mim](https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG) | 3:16 | 2023-10-13 |  |
+| [Não Fala Não pra Mim](https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Não Fala Não pra Mim](https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG) | 3:16 | 2023-10-13 | 2026-06-13 |
 | [Não Precisa Ser Cowboy](https://open.spotify.com/track/6Ujs35aawDLfAD1S8Q7zbe) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Let's Go Rodeo](https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh) | 3:17 | 2025-06-06 | 2025-08-03 |
 | [O Alvo \(feat\. Henrique & Juliano\) \- Ao Vivo](https://open.spotify.com/track/4HQByPPgZOGbzvgJFZX61K) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Sem Contra\-Indicação \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi) | 2:44 | 2023-12-22 | 2024-04-19 |
 | [O Alvo \(feat\. Henrique & Juliano\) \- Ao Vivo](https://open.spotify.com/track/5Vw6ZLNB6Ko7VZM6vmNIbr) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Alvo \(feat\. Henrique & Juliano\) \[Ao Vivo\]](https://open.spotify.com/album/3yprBTFIy7DnJCHnMDifRv) | 2:44 | 2023-02-10 | 2023-12-02 |

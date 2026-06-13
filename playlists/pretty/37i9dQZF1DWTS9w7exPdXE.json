@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 165371,
+  "num_followers": 165476,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-05-28 22:01:04",
       "album": {
-        "name": "Adem",
-        "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
-      },
-      "artists": [
-        {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "Het Regent Zonnestralen",
-      "url": "https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl"
-    },
-    {
-      "added_at": "2026-05-28 22:01:04",
-      "album": {
         "name": "En Ik Droom",
         "url": "https://open.spotify.com/album/5ZybncAraeNMOApWMh9CDe"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 157569,
       "name": "En Ik Droom",
       "url": "https://open.spotify.com/track/5RNcBOSFQVCLAxg4WGJzsd"
+    },
+    {
+      "added_at": "2026-05-28 22:01:04",
+      "album": {
+        "name": "Adem",
+        "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Het Regent Zonnestralen",
+      "url": "https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl"
     },
     {
       "added_at": "2026-05-28 22:01:04",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-05-28 22:01:04",
       "album": {
-        "name": "Een bom",
-        "url": "https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C"
-      },
-      "artists": [
-        {
-          "name": "Henk Dissel",
-          "url": "https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Een bom",
-      "url": "https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj"
-    },
-    {
-      "added_at": "2026-05-28 22:01:04",
-      "album": {
         "name": "Hoe Zou Je Doen",
         "url": "https://open.spotify.com/album/3YP7ZFDcW1V1B7frKSd6qj"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 184087,
       "name": "Hoe Zou Je Doen",
       "url": "https://open.spotify.com/track/0FBitHFoxy7y5k7Oy81RIs"
+    },
+    {
+      "added_at": "2026-05-28 22:01:04",
+      "album": {
+        "name": "Een bom",
+        "url": "https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C"
+      },
+      "artists": [
+        {
+          "name": "Henk Dissel",
+          "url": "https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Een bom",
+      "url": "https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj"
     },
     {
       "added_at": "2026-05-28 22:01:04",
@@ -1547,26 +1547,22 @@
     {
       "added_at": "2026-05-28 22:01:04",
       "album": {
-        "name": "Vluchtstrook",
-        "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
+        "name": "Frans Duits",
+        "url": "https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh"
       },
       "artists": [
         {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
         },
         {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        },
-        {
-          "name": "Sigourney K",
-          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
         }
       ],
-      "duration_ms": 148467,
-      "name": "Vluchtstrook",
-      "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
+      "duration_ms": 172881,
+      "name": "Frans Duits",
+      "url": "https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90"
     },
     {
       "added_at": "2026-05-28 22:01:04",
@@ -1623,22 +1619,26 @@
     {
       "added_at": "2026-05-28 22:01:04",
       "album": {
-        "name": "Frans Duits",
-        "url": "https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh"
+        "name": "Vluchtstrook",
+        "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
       },
       "artists": [
         {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
         },
         {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
         }
       ],
-      "duration_ms": 172881,
-      "name": "Frans Duits",
-      "url": "https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90"
+      "duration_ms": 148467,
+      "name": "Vluchtstrook",
+      "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
     },
     {
       "added_at": "2026-05-28 22:01:04",
@@ -1655,34 +1655,6 @@
       "duration_ms": 131796,
       "name": "Sugardaddy",
       "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
-    },
-    {
-      "added_at": "2026-05-28 22:01:04",
-      "album": {
-        "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
-        "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        },
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 152285,
-      "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
-      "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
     },
     {
       "added_at": "2026-05-28 22:01:04",
@@ -1739,18 +1711,30 @@
     {
       "added_at": "2026-05-28 22:01:04",
       "album": {
-        "name": "Zomernacht In Griekenland",
-        "url": "https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD"
+        "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
+        "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
       },
       "artists": [
         {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 167002,
-      "name": "Zomernacht In Griekenland",
-      "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
+      "duration_ms": 152285,
+      "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
+      "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
     },
     {
       "added_at": "2026-05-28 22:01:04",
@@ -1767,6 +1751,22 @@
       "duration_ms": 132274,
       "name": "Hallo",
       "url": "https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr"
+    },
+    {
+      "added_at": "2026-05-28 22:01:04",
+      "album": {
+        "name": "Zomernacht In Griekenland",
+        "url": "https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD"
+      },
+      "artists": [
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "duration_ms": 167002,
+      "name": "Zomernacht In Griekenland",
+      "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
     }
   ],
   "unique_name": "Hollandse Meezingers",

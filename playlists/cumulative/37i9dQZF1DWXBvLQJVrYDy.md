@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-245 songs - 15 hr 47 min
+248 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Line of Air](https://open.spotify.com/track/70ECLM3lWEh7CmOdLgsdsf) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [A Line of Air](https://open.spotify.com/album/059ifcmVUkS8584OLOCk3p) | 3:53 | 2026-03-27 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/68je1RygvBfwUcTZXU9toA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Jazz Moods \- 'Round Midnight](https://open.spotify.com/album/58vSENHhdZo1Tc9VGCV5pY) | 7:12 | 2022-08-18 | 2023-04-21 |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/4pIF1SiB1GMFOFfo6OhrOi) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Here, There And Everywhere](https://open.spotify.com/album/0YDrnRN4lgzFDIWLtNLz2F) | 3:05 | 2022-08-18 | 2025-11-13 |
+| [A Small Gesture](https://open.spotify.com/track/4toKL2kQnaLutG9fCFEZXx) | [Chapter One Quartet](https://open.spotify.com/artist/6lIVYGueR7G4LLlNOvSKXG) | [A Small Gesture](https://open.spotify.com/album/5IYHi7qXaQgonvbRcwN0zP) | 3:06 | 2026-06-12 |  |
 | [A Swim in Pine Lake](https://open.spotify.com/track/0jufuLT8UYZLQu2yaaS52B) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [A Swim in Pine Lake](https://open.spotify.com/album/7qlQWrxfurEmYnOt8ITdjK) | 3:21 | 2024-03-08 | 2025-11-13 |
 | [A Time For Love](https://open.spotify.com/track/5hlXjAmHmvbLNR169UW394) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [A Time For Love](https://open.spotify.com/album/5VQ209Y2ATo0ehJJbwpSi5) | 3:48 | 2022-09-29 | 2025-11-13 |
 | [Acadia](https://open.spotify.com/track/1RAdA5l9OJNurt58Y1tWKM) | [Bobby Katz Quartet](https://open.spotify.com/artist/2ageVjmChv8ntPyL4DAhRm) | [Acadia](https://open.spotify.com/album/3NbKXnS56zCBSmqtFGt8Ti) | 3:21 | 2023-11-10 |  |
@@ -27,11 +28,11 @@
 | [Angela](https://open.spotify.com/track/7mzxizPHaVjzk90MGlreII) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Angela](https://open.spotify.com/album/58n25NEK3FhOFptQbRvpbO) | 3:57 | 2022-08-18 | 2023-02-24 |
 | [Another autumn](https://open.spotify.com/track/3mFbJ6Ur7gSAAqxQaY3sbq) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 2:32 | 2023-02-16 |  |
 | [Anse Source d'Argent](https://open.spotify.com/track/4jl1mBMyPdpDh0mYadTZhR) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Anse Source d'Argent](https://open.spotify.com/album/78HJ40CFyeOvdOhGy9LItG) | 3:58 | 2023-01-12 |  |
-| [Answer Me](https://open.spotify.com/track/6fnNCsXknFz1ynDLccUonn) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [Answer Me](https://open.spotify.com/album/3FgQg3LI5EM2mnNIkLtAqv) | 3:30 | 2024-03-08 |  |
+| [Answer Me](https://open.spotify.com/track/6fnNCsXknFz1ynDLccUonn) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [Answer Me](https://open.spotify.com/album/3FgQg3LI5EM2mnNIkLtAqv) | 3:30 | 2024-03-08 | 2026-06-13 |
 | [April Calling](https://open.spotify.com/track/4siGt6JIeTl3GgFynMaybU) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [April Calling](https://open.spotify.com/album/62YhZZOAgwAMrsXundbQRo) | 3:50 | 2024-03-22 | 2025-11-13 |
 | [April In Paris](https://open.spotify.com/track/5rPMbUxXRXvWu89k0n6Sxj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:07 | 2022-08-18 | 2022-09-09 |
 | [Ardent](https://open.spotify.com/track/0tJPym7iyE0HyPFhwPrPBj) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Ardent](https://open.spotify.com/album/14v5XJ2DIhpd1AmlgA25cw) | 3:06 | 2022-10-13 | 2025-11-13 |
-| [As Though The Sun](https://open.spotify.com/track/2AxW80QuVqJ0GXygmupaM2) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [As Though The Sun](https://open.spotify.com/album/6Te3ZDjwGegzpFd1MaZNNe) | 3:47 | 2023-01-05 |  |
+| [As Though The Sun](https://open.spotify.com/track/2AxW80QuVqJ0GXygmupaM2) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [As Though The Sun](https://open.spotify.com/album/6Te3ZDjwGegzpFd1MaZNNe) | 3:47 | 2023-01-05 | 2026-06-13 |
 | [Ask for More](https://open.spotify.com/track/0Hx2fvSuf3OxAadpYV92NH) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [Ask for More](https://open.spotify.com/album/4RuLAwmPJcZUCGkuRd5r5a) | 3:23 | 2025-11-12 |  |
 | [Autumn in Berlin](https://open.spotify.com/track/5Frs5xwfED7VCc6XYNFnK7) | [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Autumn in Berlin](https://open.spotify.com/album/0j5PaJc7pFXmloYCVSIxZ1) | 2:54 | 2022-08-18 |  |
 | [Back Again](https://open.spotify.com/track/2tc90056I9biUsg2AJJgxu) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [Back Again](https://open.spotify.com/album/7t2aig2y41TMu92g00TRNj) | 5:11 | 2024-02-23 |  |
@@ -195,6 +196,7 @@
 | [So They Say](https://open.spotify.com/track/4689TAqR9n79nptG04RV9c) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [So They Say](https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg) | 3:57 | 2023-06-01 |  |
 | [Socks And Sandals](https://open.spotify.com/track/33HRgQotoW6raDZVZs3Rxk) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Socks And Sandals](https://open.spotify.com/album/1dWIVAbxe91cDNhrMJ5fFV) | 3:39 | 2022-08-18 | 2024-11-26 |
 | [Softly As In A Morning Sunrise \- Live At The Village Vanguard, New York City, NY/1957/Evening Alternate Take 7](https://open.spotify.com/track/3ybRszkVXeMWxWAec3NMJH) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [A Night At The Village Vanguard \(Live\)](https://open.spotify.com/album/4lZ0JM0RUD4jddNbD63O7b) | 6:39 | 2022-08-18 | 2022-09-09 |
+| [Solid Ground](https://open.spotify.com/track/2E6ltr5St8fPezc7IXYwfe) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Solid Ground](https://open.spotify.com/album/1AWnToD6pfNCGVQ9F0Wn8P) | 3:51 | 2026-06-12 |  |
 | [Someone to Watch Over Me](https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:30 | 2022-08-18 | 2023-09-23 |
 | [Soul Eyes](https://open.spotify.com/track/1PuNnWMF5z3cwLjfnneoWw) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Soul Eyes](https://open.spotify.com/album/69RwU1eJbKXowhXpb6rd6B) | 4:45 | 2022-08-18 | 2023-01-06 |
 | [South Valley Park](https://open.spotify.com/track/11oNCdjoD73GQdsDIICXE3) | [Le Bourget](https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL) | [South Valley Park](https://open.spotify.com/album/75Xh4ArRbt72Jy27GCF2FD) | 3:57 | 2024-05-24 |  |
@@ -215,7 +217,8 @@
 | [The Single Petal Of A Rose](https://open.spotify.com/track/1Fn7dIAjR3bYpehwLQqwkb) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 3:20 | 2022-08-18 |  |
 | [The Sun Descending](https://open.spotify.com/track/2Z40l10k74qcQAP88F5KEY) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [The Sun Descending](https://open.spotify.com/album/25kaAnpI8CH5ARKQQrdfPp) | 2:18 | 2022-08-18 |  |
 | [The Water Maiden](https://open.spotify.com/track/4Gj6COJPLXtgCoWen9kTiq) | [Buddy Kearnan Quartet](https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG) | [The Water Maiden](https://open.spotify.com/album/2VQ3bxCuOPtuHCzhMr2Ukm) | 3:27 | 2023-08-31 |  |
-| [Theme For Leon](https://open.spotify.com/track/1PdnJncOIXLLHOjWq6zQBE) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Theme for Leon](https://open.spotify.com/album/587RQMxWOa3jkQKFQt9tKw) | 6:08 | 2022-08-18 |  |
+| [The Weight of White](https://open.spotify.com/track/1I4FSzQZlczQISxUkhZtwU) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [The Weight of White](https://open.spotify.com/album/0fcoGl543q9kjhwicmAt43) | 3:54 | 2026-06-12 |  |
+| [Theme For Leon](https://open.spotify.com/track/1PdnJncOIXLLHOjWq6zQBE) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Theme for Leon](https://open.spotify.com/album/587RQMxWOa3jkQKFQt9tKw) | 6:08 | 2022-08-18 | 2026-06-13 |
 | [There Goes My Heart](https://open.spotify.com/track/1LGN3DO6YD61pwb64gQtZx) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [There Goes My Heart](https://open.spotify.com/album/1xNAXGrLepkx1b0pgBFuvn) | 3:42 | 2023-01-19 | 2025-11-13 |
 | [There Should Be](https://open.spotify.com/track/4OWELAW8bSXtGVdEm0atsP) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR) | [There Should Be](https://open.spotify.com/album/5cj8BBEipY6So0TWG7TLJq) | 4:38 | 2022-08-25 | 2026-04-25 |
 | [These Foolish Things](https://open.spotify.com/track/2GkEZi94MfDIxjp36MAFuj) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [These Foolish Things](https://open.spotify.com/album/5a7xDAK31J6a7T6ExUTDYn) | 3:32 | 2022-08-18 | 2025-11-13 |

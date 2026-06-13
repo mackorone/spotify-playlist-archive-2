@@ -11123,6 +11123,24 @@
     },
     {
       "album": {
+        "name": "homesick",
+        "url": "https://open.spotify.com/album/3Oxq3sO3472prtEyVyaZ0l"
+      },
+      "artists": [
+        {
+          "name": "homesick",
+          "url": "https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191810,
+      "name": "homesick",
+      "url": "https://open.spotify.com/track/0vXtfiRKw4aytisBbduvLZ"
+    },
+    {
+      "album": {
         "name": "Homework (feat. Lancey Foux)",
         "url": "https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi"
       },
@@ -24440,24 +24458,6 @@
       "duration_ms": 257000,
       "name": "Tout De Sweet - Kyrist Remix",
       "url": "https://open.spotify.com/track/4d7jx7RhbK9wRopz6lxjLH"
-    },
-    {
-      "album": {
-        "name": "homesick",
-        "url": "https://open.spotify.com/album/3Oxq3sO3472prtEyVyaZ0l"
-      },
-      "artists": [
-        {
-          "name": "homesick",
-          "url": "https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/0vXtfiRKw4aytisBbduvLZ"
     },
     {
       "album": {

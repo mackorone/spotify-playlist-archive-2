@@ -344,6 +344,6 @@
 | [Yesu Ni Uhuru](https://open.spotify.com/track/5IIMN8tmrJuLilwwjWBJ5Y) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom), [Proud Refuge](https://open.spotify.com/artist/7BdlxAdFLv4gmdD9Gl116j), [WE ARE BELOVED](https://open.spotify.com/artist/2pqzfd3r50fk530AHMXwRg) | [Yesu Ni Uhuru](https://open.spotify.com/album/5wD3Gxx9HneMjA8VBJlPW2) | 3:27 | 2025-09-05 | 2025-11-22 |
 | [Yesu Nitie Nguvu](https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q) | [William Yilima](https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0) | [Uko Wapi Mungu](https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0) | 2:22 | 2022-06-24 | 2026-05-29 |
 | [Yesu Tu](https://open.spotify.com/track/1y7pd47wfMl8bnoBPyJXLv) | [Henrick Mruma](https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU), [Pastor Josiah](https://open.spotify.com/artist/6PypfrJLo9zmwthye6qEwh) | [Yesu Tu](https://open.spotify.com/album/2h7bZxmqya57VGujgafvgV) | 16:10 | 2026-04-24 |  |
-| [Yoyo](https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Yoyo](https://open.spotify.com/album/03VvutM1txcETp75KZwHE8) | 3:25 | 2026-06-12 |  |
+| [Yoyo](https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Yoyo](https://open.spotify.com/album/03VvutM1txcETp75KZwHE8) | 3:26 | 2026-06-12 |  |
 
 \*This playlist was first scraped on 2022-06-26. Prior content cannot be recovered.

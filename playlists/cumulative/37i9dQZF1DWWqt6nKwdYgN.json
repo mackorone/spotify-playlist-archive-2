@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Pielroja en portada. ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! chelo hop en portada. ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -444,6 +444,24 @@
       "duration_ms": 179541,
       "name": "250K",
       "url": "https://open.spotify.com/track/3N9oVmLefspH8zUVMLnEFd"
+    },
+    {
+      "album": {
+        "name": "2X1",
+        "url": "https://open.spotify.com/album/2VUqkloGRE3DveQCACpC2d"
+      },
+      "artists": [
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "2X1",
+      "url": "https://open.spotify.com/track/5kRTgfCXUZhzIQV8Tcl6km"
     },
     {
       "album": {
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 161379,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/1wnB1o3BPYQXMPZLjkRLxi"
@@ -4186,7 +4204,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 171349,
       "name": "Business",
       "url": "https://open.spotify.com/track/3KAMDyO5ljEIKB67SUcOP1"
@@ -4584,7 +4602,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 228400,
       "name": "Campeones",
       "url": "https://open.spotify.com/track/3wNcQrEtxl9bR3VXnw8WwR"
@@ -5178,6 +5196,28 @@
       "duration_ms": 328248,
       "name": "CHAMPA\u00d1A",
       "url": "https://open.spotify.com/track/1mcaenVoYmWJDSVg1tUkpm"
+    },
+    {
+      "album": {
+        "name": "Cham\u00e1n",
+        "url": "https://open.spotify.com/album/0TPmQlQqf3SJuw4iXBd3yi"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167968,
+      "name": "Cham\u00e1n",
+      "url": "https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA"
     },
     {
       "album": {
@@ -6182,7 +6222,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 152727,
       "name": "Costra",
       "url": "https://open.spotify.com/track/1KPPXNEFBj6lA6uujiJXlE"
@@ -8828,7 +8868,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 251773,
       "name": "El Pana Deiby",
       "url": "https://open.spotify.com/track/0p5vebYEqSahFULjaYB8LY"
@@ -10874,7 +10914,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 360031,
       "name": "Fuego Azul",
       "url": "https://open.spotify.com/track/1qBXIowcVO9kZ0C4cD8CLK"
@@ -11090,7 +11130,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 244506,
       "name": "Gafe Boina Verde",
       "url": "https://open.spotify.com/track/5m8m5UK8sBnYlWVerTVkaY"
@@ -11252,6 +11292,32 @@
       "duration_ms": 223529,
       "name": "Get This Money",
       "url": "https://open.spotify.com/track/2ocfalOJGX8lmNSRccFOZX"
+    },
+    {
+      "album": {
+        "name": "Ginger Shots",
+        "url": "https://open.spotify.com/album/74uFn1HnCmmtC1c7kH0IfT"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "DJ Babu",
+          "url": "https://open.spotify.com/artist/7LSCBbEAuCqQqE0MGszyKl"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Ginger Shots",
+      "url": "https://open.spotify.com/track/2jIc7fnJJym9vHvDxDIA3M"
     },
     {
       "album": {
@@ -14167,6 +14233,28 @@
     },
     {
       "album": {
+        "name": "Desde Abajo",
+        "url": "https://open.spotify.com/album/1lFE9PE40lVFgCaEdDb8xc"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217674,
+      "name": "La Papa y La Le\u00f1a",
+      "url": "https://open.spotify.com/track/6LtpBD5NFh5Fkm7rWP5ROt"
+    },
+    {
+      "album": {
         "name": "La Paz",
         "url": "https://open.spotify.com/album/1AmCrlFO3hFVQRyq522mzH"
       },
@@ -14422,6 +14510,28 @@
       "duration_ms": 188780,
       "name": "La Receta",
       "url": "https://open.spotify.com/track/13NPr8gjyMxro5FQgYIVX4"
+    },
+    {
+      "album": {
+        "name": "Villa Leones",
+        "url": "https://open.spotify.com/album/0m3kA5sLVcVBpX2zbzavXD"
+      },
+      "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        },
+        {
+          "name": "Jony Roy",
+          "url": "https://open.spotify.com/artist/0i45a3fCG66fn6bmqO13Vc"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "La Ruta",
+      "url": "https://open.spotify.com/track/35TPwWeJUIKgQPeqxRvlWo"
     },
     {
       "album": {
@@ -16192,7 +16302,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 173831,
       "name": "Malo Falar",
       "url": "https://open.spotify.com/track/7yapVRtcar5331vH7ACfwT"
@@ -20523,6 +20633,28 @@
     },
     {
       "album": {
+        "name": "Palomazo",
+        "url": "https://open.spotify.com/album/5HQoEjOSmz2zNiocssv8Vb"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155121,
+      "name": "Palomazo",
+      "url": "https://open.spotify.com/track/5EQyosYLcxRJelKVnz9QEu"
+    },
+    {
+      "album": {
         "name": "Pan Comido (feat. Pollo 821)",
         "url": "https://open.spotify.com/album/1r18DFp2RBfREn9iPzAITc"
       },
@@ -22201,6 +22333,32 @@
     },
     {
       "album": {
+        "name": "Que M\u00e1s Da",
+        "url": "https://open.spotify.com/album/2iuQyqZ1dXThAMsBMrmSXK"
+      },
+      "artists": [
+        {
+          "name": "Soul AM",
+          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
+        },
+        {
+          "name": "Komba",
+          "url": "https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc"
+        },
+        {
+          "name": "ZetaZeta",
+          "url": "https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175909,
+      "name": "Que M\u00e1s Da",
+      "url": "https://open.spotify.com/track/4ZbCCldSn4NWItJ9z85BnD"
+    },
+    {
+      "album": {
         "name": "Que No Se Apague",
         "url": "https://open.spotify.com/album/7CNlOGFOtPr9PeWYHEzL1y"
       },
@@ -22734,6 +22892,28 @@
       "duration_ms": 118000,
       "name": "Rapeando A Cualquier Hora #36",
       "url": "https://open.spotify.com/track/0hgDAl6IzfsqB9L562wQpT"
+    },
+    {
+      "album": {
+        "name": "Rastafari",
+        "url": "https://open.spotify.com/album/0JTBOotwnIrPxv1peywrCS"
+      },
+      "artists": [
+        {
+          "name": "Ice Boxxx",
+          "url": "https://open.spotify.com/artist/3SJlzyiXomOGjYv5QZ6tyG"
+        },
+        {
+          "name": "Andr\u00e9s Barbosa",
+          "url": "https://open.spotify.com/artist/5hrxGIo1b6rb9mmkz2jqWU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173147,
+      "name": "Rastafari",
+      "url": "https://open.spotify.com/track/6Fp8YvSKKIymJSK9uPYbMP"
     },
     {
       "album": {
@@ -24542,7 +24722,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 154838,
       "name": "Siendo Como Ni\u00f1os",
       "url": "https://open.spotify.com/track/6FShOGZ7xeD9xBuVlwXhjS"
@@ -28790,6 +28970,28 @@
       "duration_ms": 162352,
       "name": "Ya no est\u00e1s",
       "url": "https://open.spotify.com/track/5nPUP7GjkfASfMP6PUu1dC"
+    },
+    {
+      "album": {
+        "name": "Ya No Quiero",
+        "url": "https://open.spotify.com/album/0LgZgGnRkNiudKlR6OYMwK"
+      },
+      "artists": [
+        {
+          "name": "chelo hop",
+          "url": "https://open.spotify.com/artist/2CHBCYKsNfCltqmkl9yhQC"
+        },
+        {
+          "name": "Kuervo Negro",
+          "url": "https://open.spotify.com/artist/0akKorQ1ve5dLYTYiyRuuz"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217731,
+      "name": "Ya No Quiero",
+      "url": "https://open.spotify.com/track/0q0MAvSFnHs5RBJoYZfFXm"
     },
     {
       "album": {

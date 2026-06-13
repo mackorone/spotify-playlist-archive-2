@@ -1,6 +1,6 @@
 {
   "description": "Let go and let God.",
-  "num_followers": 346315,
+  "num_followers": 346314,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Quench This Love",
-        "url": "https://open.spotify.com/album/1bYB5g35kfJhiqkmTCDUR5"
-      },
-      "artists": [
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Quench This Love",
-      "url": "https://open.spotify.com/track/19w9r9vWXOgomOlCTXczNr"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Surpasses My Understanding",
         "url": "https://open.spotify.com/album/1UVa72WePqqvaA95p9cRYc"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 190000,
       "name": "Surpasses My Understanding",
       "url": "https://open.spotify.com/track/2hvY21OBBw2tt7XXBTuVa3"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Quench This Love",
+        "url": "https://open.spotify.com/album/1bYB5g35kfJhiqkmTCDUR5"
+      },
+      "artists": [
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Quench This Love",
+      "url": "https://open.spotify.com/track/19w9r9vWXOgomOlCTXczNr"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -663,6 +663,26 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "At The Table",
+        "url": "https://open.spotify.com/album/4V1Evh0o7deYLAKbKbuWn3"
+      },
+      "artists": [
+        {
+          "name": "Tekoa",
+          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        },
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 94783,
+      "name": "At The Table",
+      "url": "https://open.spotify.com/track/0bKJZa5lv1KsL6UKiDAdJK"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Wait On You",
         "url": "https://open.spotify.com/album/43XE5518l2BLCQmqwSA15A"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 278035,
       "name": "Praise",
       "url": "https://open.spotify.com/track/7pG1MzJgF91mS2PNAZ4LXd"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "At The Table",
-        "url": "https://open.spotify.com/album/4V1Evh0o7deYLAKbKbuWn3"
-      },
-      "artists": [
-        {
-          "name": "Tekoa",
-          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
-        },
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 94783,
-      "name": "At The Table",
-      "url": "https://open.spotify.com/track/0bKJZa5lv1KsL6UKiDAdJK"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Heavenly Places",
-        "url": "https://open.spotify.com/album/7IMLyMMCKYXfQvlkJfvB5n"
-      },
-      "artists": [
-        {
-          "name": "Ethan Nathaniel",
-          "url": "https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv"
-        }
-      ],
-      "duration_ms": 194332,
-      "name": "Heavenly Places",
-      "url": "https://open.spotify.com/track/008RdIQfWtoSKt1xs4VwrC"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Let Me Love You More",
         "url": "https://open.spotify.com/album/4QmhnesRttsnImCdC1tWe3"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 183205,
       "name": "Slow Burn (Take Your Time)",
       "url": "https://open.spotify.com/track/1g67bntsFM2MrXyz9u5Ken"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Heavenly Places",
+        "url": "https://open.spotify.com/album/7IMLyMMCKYXfQvlkJfvB5n"
+      },
+      "artists": [
+        {
+          "name": "Ethan Nathaniel",
+          "url": "https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv"
+        }
+      ],
+      "duration_ms": 194332,
+      "name": "Heavenly Places",
+      "url": "https://open.spotify.com/track/008RdIQfWtoSKt1xs4VwrC"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "MATIN: Home",
-        "url": "https://open.spotify.com/album/0Qucx2hDKwy57AZ7Wtj5Th"
-      },
-      "artists": [
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        }
-      ],
-      "duration_ms": 240687,
-      "name": "All My Tears",
-      "url": "https://open.spotify.com/track/1GQOcxv5TqzcGB6htUFpnr"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "interlude",
         "url": "https://open.spotify.com/album/0K6FztVsZTLKNFpMWSKhGP"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 322813,
       "name": "it all belongs to You",
       "url": "https://open.spotify.com/track/0pU4KIzOKxwIsy00R9zkrI"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "MATIN: Home",
+        "url": "https://open.spotify.com/album/0Qucx2hDKwy57AZ7Wtj5Th"
+      },
+      "artists": [
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "duration_ms": 240687,
+      "name": "All My Tears",
+      "url": "https://open.spotify.com/track/1GQOcxv5TqzcGB6htUFpnr"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Tomorrow Mind",
-        "url": "https://open.spotify.com/album/2kY3zCakEuOOS48ac4boMJ"
-      },
-      "artists": [
-        {
-          "name": "Yaz Williams",
-          "url": "https://open.spotify.com/artist/1Vr3BdiaDRuVLTMdrCjuTy"
-        },
-        {
-          "name": "Callan Brown",
-          "url": "https://open.spotify.com/artist/1KQTt65tDsEgrbihGs4ruu"
-        }
-      ],
-      "duration_ms": 219402,
-      "name": "Tomorrow Mind",
-      "url": "https://open.spotify.com/track/4uRn1bBTKoYX3VukJW7F0U"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Lost Without You",
         "url": "https://open.spotify.com/album/1gEfCQ9YfhKH9nqh21P8RC"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 239294,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/32Y2UlxTBEacwwYSACkwQA"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Tomorrow Mind",
+        "url": "https://open.spotify.com/album/2kY3zCakEuOOS48ac4boMJ"
+      },
+      "artists": [
+        {
+          "name": "Yaz Williams",
+          "url": "https://open.spotify.com/artist/1Vr3BdiaDRuVLTMdrCjuTy"
+        },
+        {
+          "name": "Callan Brown",
+          "url": "https://open.spotify.com/artist/1KQTt65tDsEgrbihGs4ruu"
+        }
+      ],
+      "duration_ms": 219402,
+      "name": "Tomorrow Mind",
+      "url": "https://open.spotify.com/track/4uRn1bBTKoYX3VukJW7F0U"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2143,38 +2143,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "I Choose To Love You",
-        "url": "https://open.spotify.com/album/4C97zmMaKdNck3UTXCp5Qs"
-      },
-      "artists": [
-        {
-          "name": "Rivers Crossing Worship",
-          "url": "https://open.spotify.com/artist/7xuM274nFelfNPgItlKbUs"
-        }
-      ],
-      "duration_ms": 344723,
-      "name": "I Choose To Love You",
-      "url": "https://open.spotify.com/track/4knNeg5weV8C94KyOTepV5"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Safest",
-        "url": "https://open.spotify.com/album/6OOQlxMpNc5TIVM0IQ92CP"
-      },
-      "artists": [
-        {
-          "name": "Hope Harding",
-          "url": "https://open.spotify.com/artist/3fYSZUjRkhyFiTP12kJtcb"
-        }
-      ],
-      "duration_ms": 226957,
-      "name": "Safest",
-      "url": "https://open.spotify.com/track/0sbwGU7GgdyU8ffKV2q1Ad"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Anything, Everything",
         "url": "https://open.spotify.com/album/61TiNOuCHGDJ2s7wVkDhW7"
       },
@@ -2195,6 +2163,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Safest",
+        "url": "https://open.spotify.com/album/6OOQlxMpNc5TIVM0IQ92CP"
+      },
+      "artists": [
+        {
+          "name": "Hope Harding",
+          "url": "https://open.spotify.com/artist/3fYSZUjRkhyFiTP12kJtcb"
+        }
+      ],
+      "duration_ms": 226957,
+      "name": "Safest",
+      "url": "https://open.spotify.com/track/0sbwGU7GgdyU8ffKV2q1Ad"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Mental Help",
         "url": "https://open.spotify.com/album/6gNhyDKRFJc9BZ2LrZq2o1"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 224094,
       "name": "Rest",
       "url": "https://open.spotify.com/track/2EeTkq8DEzBCpxSuyqWDIP"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "I Choose To Love You",
+        "url": "https://open.spotify.com/album/4C97zmMaKdNck3UTXCp5Qs"
+      },
+      "artists": [
+        {
+          "name": "Rivers Crossing Worship",
+          "url": "https://open.spotify.com/artist/7xuM274nFelfNPgItlKbUs"
+        }
+      ],
+      "duration_ms": 344723,
+      "name": "I Choose To Love You",
+      "url": "https://open.spotify.com/track/4knNeg5weV8C94KyOTepV5"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Will You Let Me",
-        "url": "https://open.spotify.com/album/2gtI3hI7XHNxZEw7FcApnA"
-      },
-      "artists": [
-        {
-          "name": "Kylie Odetta",
-          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
-        }
-      ],
-      "duration_ms": 281249,
-      "name": "Will You Let Me",
-      "url": "https://open.spotify.com/track/78I0X3v4gdZvFxn7hVTFlI"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "How Long?",
         "url": "https://open.spotify.com/album/48hqK0OMQ1PTPcZFXHNWCq"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 126000,
       "name": "How Long?",
       "url": "https://open.spotify.com/track/0q26Gae4J6oq6BswvzIu2l"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Will You Let Me",
+        "url": "https://open.spotify.com/album/2gtI3hI7XHNxZEw7FcApnA"
+      },
+      "artists": [
+        {
+          "name": "Kylie Odetta",
+          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
+        }
+      ],
+      "duration_ms": 281249,
+      "name": "Will You Let Me",
+      "url": "https://open.spotify.com/track/78I0X3v4gdZvFxn7hVTFlI"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Daydreamer",
+        "url": "https://open.spotify.com/album/3xua7RUbU0UAB4UatyxDnX"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 204474,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/3NO32PfjA7FGJ0CTppnE4F"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "You Are Holy / Falling In Love With Jesus",
         "url": "https://open.spotify.com/album/391izZ6H98ZIMQ6WGZT9o4"
       },
@@ -2399,22 +2415,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Daydreamer",
-        "url": "https://open.spotify.com/album/3xua7RUbU0UAB4UatyxDnX"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 204474,
-      "name": "Daydreamer",
-      "url": "https://open.spotify.com/track/3NO32PfjA7FGJ0CTppnE4F"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "I Surrender All",
         "url": "https://open.spotify.com/album/6Y2tqC4bqSLFn39x15YFTb"
       },
@@ -2427,22 +2427,6 @@
       "duration_ms": 224800,
       "name": "I Surrender All",
       "url": "https://open.spotify.com/track/01IvkF4SZD8Obe2rg9H9aK"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Feel It All",
-        "url": "https://open.spotify.com/album/3qF1BKqphh0Cmcf5i55Kqe"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Be Still",
-      "url": "https://open.spotify.com/track/6XHPsVxJ1XKZI41ip1Iamm"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2463,18 +2447,34 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "The Mire is Where Grace Abounds",
-        "url": "https://open.spotify.com/album/1I0gK1uCdNtg0pF4aZ4L9f"
+        "name": "Feel It All",
+        "url": "https://open.spotify.com/album/3qF1BKqphh0Cmcf5i55Kqe"
       },
       "artists": [
         {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
         }
       ],
-      "duration_ms": 145173,
-      "name": "The Mire is Where Grace Abounds",
-      "url": "https://open.spotify.com/track/28teLHHWDvP7PtUORZH6Nq"
+      "duration_ms": 265000,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/6XHPsVxJ1XKZI41ip1Iamm"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Holy Forever (Acapella)",
+        "url": "https://open.spotify.com/album/5sZXvcTKMh9sNcRYaQlYGo"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Holy Forever - Acapella",
+      "url": "https://open.spotify.com/track/0MKlcoQ8MF508sEMkHFnS2"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2495,18 +2495,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Holy Forever (Acapella)",
-        "url": "https://open.spotify.com/album/5sZXvcTKMh9sNcRYaQlYGo"
+        "name": "The Mire is Where Grace Abounds",
+        "url": "https://open.spotify.com/album/1I0gK1uCdNtg0pF4aZ4L9f"
       },
       "artists": [
         {
-          "name": "Anthem Lights",
-          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
         }
       ],
-      "duration_ms": 147500,
-      "name": "Holy Forever - Acapella",
-      "url": "https://open.spotify.com/track/0MKlcoQ8MF508sEMkHFnS2"
+      "duration_ms": 145173,
+      "name": "The Mire is Where Grace Abounds",
+      "url": "https://open.spotify.com/track/28teLHHWDvP7PtUORZH6Nq"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2579,22 +2579,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Where You Found Me",
-        "url": "https://open.spotify.com/album/5Ek7IXlnZTsHTHmC8kTxt7"
-      },
-      "artists": [
-        {
-          "name": "Seth Carpenter",
-          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
-        }
-      ],
-      "duration_ms": 320580,
-      "name": "Seen What I Have Seen",
-      "url": "https://open.spotify.com/track/0ICgAlYUYUr0snPhO4LwfK"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Precious Wine",
         "url": "https://open.spotify.com/album/5aZ4Gy4rkDIdmcpVmwNRAn"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 378181,
       "name": "Precious Wine",
       "url": "https://open.spotify.com/track/0nkjRQ02czr5R11E0EeWCb"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Where You Found Me",
+        "url": "https://open.spotify.com/album/5Ek7IXlnZTsHTHmC8kTxt7"
+      },
+      "artists": [
+        {
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+        }
+      ],
+      "duration_ms": 320580,
+      "name": "Seen What I Have Seen",
+      "url": "https://open.spotify.com/track/0ICgAlYUYUr0snPhO4LwfK"
     },
     {
       "added_at": "2026-04-17 06:49:13",

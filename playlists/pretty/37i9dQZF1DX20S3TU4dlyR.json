@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 75721,
+  "num_followers": 75729,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 265691,
-      "name": "Casi q' me pierdo",
-      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
         "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 213480,
       "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
       "url": "https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 265691,
+      "name": "Casi q' me pierdo",
+      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Si no Regreso",
-        "url": "https://open.spotify.com/album/4Ltcj9JgzrISmo2GXUjpwY"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 178953,
-      "name": "Si no Regreso",
-      "url": "https://open.spotify.com/track/45VdxLNKgVwkF9gVbKcPED"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "S\u00fabete",
         "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 245000,
       "name": "El Cuento",
       "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Si no Regreso",
+        "url": "https://open.spotify.com/album/4Ltcj9JgzrISmo2GXUjpwY"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 178953,
+      "name": "Si no Regreso",
+      "url": "https://open.spotify.com/track/45VdxLNKgVwkF9gVbKcPED"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Doce Amor (Dulce Amor)",
-        "url": "https://open.spotify.com/album/6AL0oMPAPWgIjsx0pGZrmd"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        },
-        {
-          "name": "Vibra\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
-        }
-      ],
-      "duration_ms": 312676,
-      "name": "Doce Amor (Dulce Amor)",
-      "url": "https://open.spotify.com/track/7ramI65lUzXS2XN89aT6pr"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "Bebamos de las Copas Lindas",
         "url": "https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV"
       },
@@ -1515,18 +1495,18 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Humo",
-        "url": "https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE"
+        "name": "Casita",
+        "url": "https://open.spotify.com/album/0DMSNN9pV9J7oeDsG4Ry2n"
       },
       "artists": [
         {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+          "name": "Karamelo Santo",
+          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
         }
       ],
-      "duration_ms": 239280,
-      "name": "Buena Suerte",
-      "url": "https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU"
+      "duration_ms": 205059,
+      "name": "Casita",
+      "url": "https://open.spotify.com/track/3MrOYjTjWASMbTmefUukCz"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1547,18 +1527,38 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Casita",
-        "url": "https://open.spotify.com/album/0DMSNN9pV9J7oeDsG4Ry2n"
+        "name": "Humo",
+        "url": "https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE"
       },
       "artists": [
         {
-          "name": "Karamelo Santo",
-          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
         }
       ],
-      "duration_ms": 205059,
-      "name": "Casita",
-      "url": "https://open.spotify.com/track/3MrOYjTjWASMbTmefUukCz"
+      "duration_ms": 239280,
+      "name": "Buena Suerte",
+      "url": "https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Doce Amor (Dulce Amor)",
+        "url": "https://open.spotify.com/album/6AL0oMPAPWgIjsx0pGZrmd"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        },
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "duration_ms": 312676,
+      "name": "Doce Amor (Dulce Amor)",
+      "url": "https://open.spotify.com/track/7ramI65lUzXS2XN89aT6pr"
     },
     {
       "added_at": "2026-06-12 03:00:36",

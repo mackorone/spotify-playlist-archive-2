@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : J Balvin x Rayan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,772 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,853 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 9 | [Apambichao](https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Apambichao](https://open.spotify.com/album/48mh6SriOYbsgsJ5KgdV4B) | 2:27 |
 | 10 | [Mi Yo De Antes](https://open.spotify.com/track/5JYGc8GO8v3He5zzzL8F6J) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Mi Yo De Antes](https://open.spotify.com/album/6fg1BYMy7ZcZ4uRJ728xno) | 3:04 |
 | 11 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
-| 12 | [Follow Me](https://open.spotify.com/track/7EqulVHbWDM0SR2e2IFpDv) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Adriana C](https://open.spotify.com/artist/7oBUfgdK5Q8PBdT9QsTgHE), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Follow Me](https://open.spotify.com/album/06RhYSAgH9jdM6j1iaDcv0) | 3:52 |
+| 12 | [Follow Me \(feat\. RedOne\)](https://open.spotify.com/track/7EqulVHbWDM0SR2e2IFpDv) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Adriana C](https://open.spotify.com/artist/7oBUfgdK5Q8PBdT9QsTgHE), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Follow Me \(feat\. RedOne\)](https://open.spotify.com/album/06RhYSAgH9jdM6j1iaDcv0) | 3:52 |
 | 13 | [EPA](https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [EPA](https://open.spotify.com/album/42bmZVf8s1S0wMhY7HrBGZ) | 3:22 |
 | 14 | [G\-LATINA](https://open.spotify.com/track/3Q0jBRz944gYpMXiYfODjN) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [G\-LATINA](https://open.spotify.com/album/7mogv95UWW5yloGmZwiILr) | 2:26 |
 | 15 | [Una A La Vez](https://open.spotify.com/track/6MakvfCAr1VvnivfWl5FTg) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [OMERTA](https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY) | 2:32 |

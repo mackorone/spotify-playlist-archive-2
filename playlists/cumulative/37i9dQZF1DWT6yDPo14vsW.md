@@ -4,7 +4,7 @@
 
 > ¿Qué es lo que está pasando?
 
-249 songs - 16 hr 5 min
+250 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [CUANDO HABLES CON ÉL](https://open.spotify.com/track/3HwOh611McmotNJOLEb66y) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:05 | 2025-06-27 |  |
 | [Cuando La Vida Duele](https://open.spotify.com/track/1KjozHIQpfOUVRHBYYKPe2) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Cuando La Vida Duele](https://open.spotify.com/album/7A1fQpCtnsJE3JfWpXSgEc) | 3:38 | 2026-05-06 |  |
 | [Cuando No Estás](https://open.spotify.com/track/4ou6LQAQnseJmRGoRyvs4l) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:50 | 2024-02-09 | 2024-03-01 |
-| [Cuando Se Va el Amor](https://open.spotify.com/track/5Kw7AEL0Hq69Ky7WxRFseh) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Kany García](https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO) | 4:08 | 2021-03-26 |  |
+| [Cuando Se Va el Amor](https://open.spotify.com/track/5Kw7AEL0Hq69Ky7WxRFseh) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Kany García](https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO) | 4:08 | 2021-03-26 | 2026-06-13 |
 | [Cuando Tus Ojos Me Miran \(feat\. India Martinez\) \- Vuelve en Primera Fila \- Live Version](https://open.spotify.com/track/20JGllbxlsQdPVQIgGZVMO) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV) | [Dual](https://open.spotify.com/album/1kF9wxTUSexqZnufTN9wiX) | 4:48 | 2021-03-26 | 2023-03-19 |
 | [Cuidarte el Alma](https://open.spotify.com/track/71nUOi1nLOt5KppAIeA8X4) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Sincero](https://open.spotify.com/album/03dnIimGspec4sucffQWLO) | 4:12 | 2021-03-26 | 2026-05-07 |
 | [Culpable O No \- Miénteme Como Siempre](https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:57 | 2021-03-26 |  |
@@ -232,6 +232,7 @@
 | [Tiempo Indefinido](https://open.spotify.com/track/5olfCMs2dCnGsz6ZQPSmYy) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Tiempo Indefinido](https://open.spotify.com/album/4UBAXB1P4GiQoPXoprX1Xd) | 2:17 | 2023-04-11 | 2024-05-04 |
 | [Tierrita Mojada](https://open.spotify.com/track/6ThsXWiur66KlCzXVj9tXj) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:24 | 2024-02-09 | 2024-03-01 |
 | [Todo El Año](https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 4:00 | 2021-03-26 | 2022-07-17 |
+| [TRUCHA HEARTBREAK](https://open.spotify.com/track/2XihkjE49GqaQBYl2NVYfQ) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [4114](https://open.spotify.com/album/5DwBFI7EH16oScrU39l628) | 1:08 | 2026-06-12 |  |
 | [Tu Amor](https://open.spotify.com/track/2EnlBJQ6ZcndUmsI8ZrJjI) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebels](https://open.spotify.com/album/6LU9GsicDF4ojJHA0iXsfA) | 4:40 | 2022-07-04 | 2024-01-23 |
 | [Tu Contorno](https://open.spotify.com/track/630zcDKWQlrelUMsAVrLGy) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Claroscuro](https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh) | 3:15 | 2024-02-09 | 2024-03-01 |
 | [Tu Respiración](https://open.spotify.com/track/5bVCHIQgZ4Jcr6DFmnYqRo) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [En Todo Estaré \(Deluxe Edition\)](https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2) | 4:10 | 2021-03-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 362 songs - 21 hr 21 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 362 songs - 21 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -369,6 +369,6 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 359 | [Tout donner \- Guitar](https://open.spotify.com/track/0Uxpnw7kUWQQ8TtXle4riq) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x), [fedo DJ](https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3) | [Tout donner \(Guitar\)](https://open.spotify.com/album/4FeLL5CvqtuWHzb2l2KH01) | 2:22 |
 | 360 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 |
 | 361 | [Akwaba](https://open.spotify.com/track/1RpYaDpoVelSpkVHj2yNYv) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Akwaba](https://open.spotify.com/album/6fy8ndrkD16idsJ22b8cFo) | 3:43 |
-| 362 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 |
+| 362 | [Maladie](https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI) | 3:12 |
 
-Snapshot ID: `AAADqOtBvBheFfWMvAkRLf9HVDs/zBw/`
+Snapshot ID: `AAADqkzXoPvp7GrSGlVOEZZCeemUFy1P`

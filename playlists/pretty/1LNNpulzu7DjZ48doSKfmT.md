@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 459 likes - 456 songs - 23 hr 1 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 459 likes - 459 songs - 23 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -464,5 +464,8 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 454 | [Dancing into sunshine \- Feel Good Remix](https://open.spotify.com/track/7bxYg2GSM5UwhaaZ9tYO7g) | [Viaggi Sonori](https://open.spotify.com/artist/2Rmp2ArNd8rvmEJ3QBNe3Q), [Mark Sunrise](https://open.spotify.com/artist/0OpqRkBzUOzMFT0ilUvOqw), [Jolie](https://open.spotify.com/artist/4h6P5BOsf2pPJQwhderv6Z) | [Dancing into sunshine \(Feel Good Remix\)](https://open.spotify.com/album/09GN6GVyQlwXr3xlwZhqJ9) | 2:41 |
 | 455 | [Youngest In Charge 2](https://open.spotify.com/track/60NffZgbHJdiNjVXLKSQZ3) | [YK KYPHO](https://open.spotify.com/artist/76wuAPWBxPtjkEItuWQ9xH), [Kid Vilho](https://open.spotify.com/artist/3wP4wLLGxfYaj4dSWkO1eR) | [Dystopia](https://open.spotify.com/album/7a9Y8otyjqsa6cbgNoTBxx) | 2:48 |
 | 456 | [story arc](https://open.spotify.com/track/5iHBZttUY54RGWYJtIpXQU) | [d4rio](https://open.spotify.com/artist/2ydB2ahNKZCU50v3tZkkj8) | [endless now](https://open.spotify.com/album/0kuv6COvqmNOOO3OXDiF5H) | 4:08 |
+| 457 | [Counter](https://open.spotify.com/track/1bJ09k6Kcow4JeVT91ZDNd) | [Trashbbx](https://open.spotify.com/artist/3QRXwXbNNP3QV10XKGvj1y) | [Counter](https://open.spotify.com/album/1swYxO419De2UGj1DjMIQu) | 3:23 |
+| 458 | [Layla Bartle](https://open.spotify.com/track/0VbH7zwCc4sdkpLeSDe7nu) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Fun with Layla in Wallington](https://open.spotify.com/album/2hTc0kStuvzmNsApCiLosP) | 2:43 |
+| 459 | [Shining](https://open.spotify.com/track/6w0jaLazYD5Z1zvCdWap0n) | [Nicole Gi](https://open.spotify.com/artist/0tgBoKNlruzIxaE0CwNhhr), [KxP](https://open.spotify.com/artist/0Wx0lZfQ1EQfTxxgI1mt7i), [Thundason](https://open.spotify.com/artist/2rI1l3PrvcjkXU4JbwTTp8), [1depth](https://open.spotify.com/artist/6WCG6NUWO7AegpQN8asWwq) | [Shining](https://open.spotify.com/album/76Yra4Sz3dbnzRMFWhV2uV) | 2:57 |
 
-Snapshot ID: `AAAccLJ7I2ibHl1bJHRfRgx7M+G+f+7h`
+Snapshot ID: `AAAcc8gw3UMxxGLY2nlVLA5piqAGa1Ns`

@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> New & Hottest K\-Hip Hop is here\. \(Cover: BewhY\)
+> New & Hottest K\-Hip Hop is here\. \(Cover: NOWIAMYOUNG\)
 
-1,914 songs - 4 day 6 hr 17 min
+1,916 songs - 4 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,6 +665,7 @@
 | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV) | 2:21 | 2023-02-08 | 2023-09-08 |
 | [HEAT](https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:14 | 2023-09-12 | 2024-03-09 |
 | [HEAT](https://open.spotify.com/track/4MDdvtd216XIXnewQ0WunH) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [HEAT](https://open.spotify.com/album/3WYkzPgdmVamYYAxR6W4Bk) | 3:13 | 2021-12-21 | 2022-07-07 |
+| [HEAVEN](https://open.spotify.com/track/6mfSO0YMhvKFMNiEYIpO8J) | [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G) | [HEAVEN](https://open.spotify.com/album/6RIjP9Egz5LLMMMDZ6e5ju) | 3:29 | 2026-06-12 |  |
 | [Heels](https://open.spotify.com/track/4x6nunPhR0Clk682Vi2N4Y) | [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK), [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q), [Y2K92 simo](https://open.spotify.com/artist/1FkDkDzIU5TduleinIYkm5) | [Heels](https://open.spotify.com/album/6joXsPfxEwSPHxLa4fjSGC) | 3:49 | 2024-01-08 | 2024-05-03 |
 | [HELIOT EMIL](https://open.spotify.com/track/2iSkLo11WjyzRVdxeSMkCf) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Wonderful Days](https://open.spotify.com/album/2N63pqJIn1Ro8yIbwV54Gh) | 2:18 | 2024-01-30 | 2024-06-29 |
 | [Hell Chosen \(feat\. oygli\)](https://open.spotify.com/track/6HkTBbrBIWSfW55hkGMycy) | [Fredi Casso](https://open.spotify.com/artist/2tVGjpHP709GdVbRx7PTEy), [DSEL](https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx), [oygli](https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90) | [SECOND II NONE](https://open.spotify.com/album/2KWT2m76KsdbmIWKXfLVra) | 3:06 | 2022-07-07 | 2022-08-16 |
@@ -1177,6 +1178,7 @@
 | [No you can't](https://open.spotify.com/track/3uehjX1ljB40ITtieBbOXW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:13 | 2021-12-21 | 2022-06-27 |
 | [No\. 5](https://open.spotify.com/track/38vTktlHBL96NwEtwdIL6v) | [SOI](https://open.spotify.com/artist/1reRqtTeAc2dei7bE87OMm), [CUDDY](https://open.spotify.com/artist/3Bs6LuCd1k5Bo2QTBeuohu) | [Nostalgic](https://open.spotify.com/album/0XbNwrySazZ0xbVcezWwdi) | 2:53 | 2024-03-08 | 2024-05-03 |
 | [No.1](https://open.spotify.com/track/4ECmXULvaVPvrAPdpZT1uv) | [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc) | [No.1](https://open.spotify.com/album/1qCQPYHxn2hB7fzD5Jk8WU) | 2:26 | 2022-03-03 | 2022-06-17 |
+| [Noir city](https://open.spotify.com/track/4Vh09FFZ8WN1fIBZSSY56G) | [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [AMBITION 6/10](https://open.spotify.com/album/1czCsDYwmFQo5zfQav67MX) | 2:55 | 2026-06-12 |  |
 | [NOIZE](https://open.spotify.com/track/1pysl85IFqju0bkmlkRgmY) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [NOIZE](https://open.spotify.com/album/0X7VNT2LuCbX9obtcqsitn) | 2:43 | 2025-02-11 | 2025-05-24 |
 | [Nonsense](https://open.spotify.com/track/4F9lsEUqiJlpW1SE3DQMBX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [EDDY](https://open.spotify.com/artist/2I5WCuHrCLEemr7N04T9KN) | [LovebrûléeADVISORY](https://open.spotify.com/album/1VVGCxNDKpsU7ya1oOM6dI) | 2:40 | 2023-02-24 | 2023-09-03 |
 | [NORI](https://open.spotify.com/track/5vAmgWcxiq0MdyhYT44ich) | [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [Lucifer's Therapy](https://open.spotify.com/album/1JDuTu31tWRKplO8wsBqsM) | 3:24 | 2024-11-07 | 2025-02-22 |

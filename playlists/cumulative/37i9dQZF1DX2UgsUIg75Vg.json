@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b. Cover: Saint Harison",
+  "description": "Chill r&b. Cover: Jai'len Josey",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -7140,7 +7140,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 180186,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/6Csi0jcFI8RUX3aHOnUGJO"
@@ -7414,7 +7414,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 188562,
       "name": "do what i say",
       "url": "https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu"
@@ -7896,6 +7896,28 @@
       "duration_ms": 274506,
       "name": "Drown In My Love (with Foggieraw)",
       "url": "https://open.spotify.com/track/5EYCjU03bSkeKxOoypvuD3"
+    },
+    {
+      "album": {
+        "name": "A LITTLE VENGEANCE",
+        "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193373,
+      "name": "DUSTY (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
     },
     {
       "album": {
@@ -9464,6 +9486,24 @@
       "duration_ms": 222862,
       "name": "FIDDY",
       "url": "https://open.spotify.com/track/74XIK4w35FhBxTfkZ8dKd6"
+    },
+    {
+      "album": {
+        "name": "Fiendin'",
+        "url": "https://open.spotify.com/album/4HcfN579U2afLktVkvFkfS"
+      },
+      "artists": [
+        {
+          "name": "Davion Farris",
+          "url": "https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232656,
+      "name": "Fiendin'",
+      "url": "https://open.spotify.com/track/6T0LS3bIOw6P74s8ZaGmNN"
     },
     {
       "album": {
@@ -11335,6 +11375,24 @@
     },
     {
       "album": {
+        "name": "Go To Hell",
+        "url": "https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Go To Hell",
+      "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
+    },
+    {
+      "album": {
         "name": "Formed",
         "url": "https://open.spotify.com/album/1uAIDvZLghq5Glpcu5HSzc"
       },
@@ -13044,7 +13102,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 250152,
       "name": "Honour",
       "url": "https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r"
@@ -13247,6 +13305,24 @@
     },
     {
       "album": {
+        "name": "God Must Really Love Me",
+        "url": "https://open.spotify.com/album/2PgYxXmW7geBRncBAgpzNL"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198866,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/5EQFlXjVAQEv39DKvHSmdv"
+    },
+    {
+      "album": {
         "name": "Serial Romantic",
         "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
       },
@@ -13262,6 +13338,24 @@
       "duration_ms": 240000,
       "name": "I Believe (Selfish)",
       "url": "https://open.spotify.com/track/7vpejOgd1PfPuBqFZ6Sw0y"
+    },
+    {
+      "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/04MbUzml78sr5akB33mNDG"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344041,
+      "name": "I Can See",
+      "url": "https://open.spotify.com/track/2E0cEkMXWGKOA1wZx48IG5"
     },
     {
       "album": {
@@ -13786,7 +13880,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 169320,
       "name": "I Wish I Didn\u2019t Waste Your Time",
       "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
@@ -20097,6 +20191,24 @@
     },
     {
       "album": {
+        "name": "Not So Sweet",
+        "url": "https://open.spotify.com/album/6Zr7GLxnNwy9vVod25bpux"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235088,
+      "name": "Not So Sweet",
+      "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
+    },
+    {
+      "album": {
         "name": "Nothing Is Impossible With You",
         "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
       },
@@ -22452,7 +22564,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 163360,
       "name": "Proof",
       "url": "https://open.spotify.com/track/7eT7KkcYXFwELw4nzAzUdJ"
@@ -23616,10 +23728,32 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 199200,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q"
+    },
+    {
+      "album": {
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/65KLw7hjgDH8rfxkMDIOvT"
     },
     {
       "album": {
@@ -32230,7 +32364,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 223621,
       "name": "wrong faces.",
       "url": "https://open.spotify.com/track/0yYTRodDOWqZZ0AWa2qxHH"

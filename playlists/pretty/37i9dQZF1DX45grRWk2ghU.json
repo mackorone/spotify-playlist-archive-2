@@ -1,6 +1,6 @@
 {
   "description": "Pinky up!",
-  "num_followers": 845737,
+  "num_followers": 846128,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -179,8 +179,8 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 244453,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe"
+      "duration_ms": 207320,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 238120,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+      "duration_ms": 163648,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -243,24 +243,24 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "emails i can't send",
-        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 163648,
-      "name": "Nonsense",
-      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
+      "duration_ms": 238120,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 207320,
-      "name": "thank u, next",
-      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+      "duration_ms": 244453,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe"
     },
     {
       "added_at": "2026-01-02 05:00:11",
@@ -287,6 +287,22 @@
       "duration_ms": 131997,
       "name": "NOT CUTE ANYMORE",
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 223192,
+      "name": "Juno",
+      "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
     },
     {
       "added_at": "2026-05-29 05:41:44",
@@ -319,22 +335,6 @@
       "duration_ms": 237894,
       "name": "Say So",
       "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 223192,
-      "name": "Juno",
-      "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -797,38 +797,6 @@
       "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
     },
     {
-      "added_at": "2024-10-07 14:32:15",
-      "album": {
-        "name": "Moonlit Floor (Kiss Me)",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor (Kiss Me)",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "Speed Drive (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 117809,
-      "name": "Speed Drive (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
-    },
-    {
       "added_at": "2024-08-03 15:31:45",
       "album": {
         "name": "Femme Fatale (Deluxe Version)",
@@ -847,18 +815,34 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "DEMIDEVIL",
-        "url": "https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI"
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
       },
       "artists": [
         {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 146523,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx"
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+    },
+    {
+      "added_at": "2024-10-07 14:32:15",
+      "album": {
+        "name": "Moonlit Floor (Kiss Me)",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me)",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -883,6 +867,22 @@
       "duration_ms": 190066,
       "name": "Don\u2019t Call Me Angel (Charlie\u2019s Angels) (with Miley Cyrus & Lana Del Rey)",
       "url": "https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "DEMIDEVIL",
+        "url": "https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 146523,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
     },
     {
-      "added_at": "2026-04-29 16:00:13",
-      "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "DOIT4ME",
-      "url": "https://open.spotify.com/track/0FyhBw60Tk0UyVqJEJqn9N"
-    },
-    {
       "added_at": "2024-08-03 15:31:45",
       "album": {
         "name": "Lady Wood",
@@ -1239,6 +1223,22 @@
       "duration_ms": 199179,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/3tJ4y2Zqx6gM9xOAuFfsSF"
+    },
+    {
+      "added_at": "2026-04-29 16:00:13",
+      "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "DOIT4ME",
+      "url": "https://open.spotify.com/track/0FyhBw60Tk0UyVqJEJqn9N"
     },
     {
       "added_at": "2024-08-03 15:31:45",

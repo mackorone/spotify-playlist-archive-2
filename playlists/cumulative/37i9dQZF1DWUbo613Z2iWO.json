@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Fana Hues",
+  "description": "R&B of the moment by the artists of the future. Cover: DAMEDAME*",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -4188,7 +4188,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 187601,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/62TrNd7HbXRidoNSaMTGDF"
@@ -4602,7 +4602,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 256454,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/0xj2o8bku1O1kjebzgN7Uz"
@@ -6864,7 +6864,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 153636,
       "name": "Cowboy/Cowgirl",
       "url": "https://open.spotify.com/track/4CZyHieOIQceXQUB24M5tW"
@@ -8873,6 +8873,24 @@
     },
     {
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/5UMHDHfNoyrIo66RuMjOBV"
+      },
+      "artists": [
+        {
+          "name": "Oranj Goodman",
+          "url": "https://open.spotify.com/artist/3s9HeMWk4kpVAzjZ1e2lCG"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138378,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/09GXjYOGBhcuOHbW1tBJP3"
+    },
+    {
+      "album": {
         "name": "Dream of You",
         "url": "https://open.spotify.com/album/06pukcyvAvWMEuOnV9O18i"
       },
@@ -9372,7 +9390,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 186122,
       "name": "EmptyBaggage",
       "url": "https://open.spotify.com/track/6OGhk6MEWCVhmxYcM9Vuo2"
@@ -10637,6 +10655,24 @@
     },
     {
       "album": {
+        "name": "Fiendin'",
+        "url": "https://open.spotify.com/album/4HcfN579U2afLktVkvFkfS"
+      },
+      "artists": [
+        {
+          "name": "Davion Farris",
+          "url": "https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232656,
+      "name": "Fiendin'",
+      "url": "https://open.spotify.com/track/6T0LS3bIOw6P74s8ZaGmNN"
+    },
+    {
+      "album": {
         "name": "fiftyfive",
         "url": "https://open.spotify.com/album/5X0pDpzylW7su4SfhFX8SF"
       },
@@ -10926,6 +10962,24 @@
       "duration_ms": 192631,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"
+    },
+    {
+      "album": {
+        "name": "FIRE BURNIN' THRU THE RAIN",
+        "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167394,
+      "name": "FIRE BURNIN' THRU THE RAIN",
+      "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
     },
     {
       "album": {
@@ -12500,6 +12554,24 @@
       "duration_ms": 135737,
       "name": "Go Home",
       "url": "https://open.spotify.com/track/3lQeU943lFCg95XDi8De7Y"
+    },
+    {
+      "album": {
+        "name": "Go To Hell",
+        "url": "https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Go To Hell",
+      "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
     },
     {
       "album": {
@@ -15426,7 +15498,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 162206,
       "name": "I'm Still",
       "url": "https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr"
@@ -17142,7 +17214,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 200460,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/2kwszkUHGtCPgshacWrivq"
@@ -20647,6 +20719,24 @@
     },
     {
       "album": {
+        "name": "MY FEET",
+        "url": "https://open.spotify.com/album/3NlIELCR7Fs7gETU7z77Cl"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291500,
+      "name": "MY FEET",
+      "url": "https://open.spotify.com/track/5fAhY1tVGHTfWADAyRbOMp"
+    },
+    {
+      "album": {
         "name": "My Girl",
         "url": "https://open.spotify.com/album/7twy0Kqh0tnxrZKMUORn09"
       },
@@ -21758,6 +21848,24 @@
       "duration_ms": 174588,
       "name": "Not My Job",
       "url": "https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc"
+    },
+    {
+      "album": {
+        "name": "Not So Sweet",
+        "url": "https://open.spotify.com/album/6Zr7GLxnNwy9vVod25bpux"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235088,
+      "name": "Not So Sweet",
+      "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
     },
     {
       "album": {
@@ -30416,7 +30524,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 119500,
       "name": "THE DANGER",
       "url": "https://open.spotify.com/track/2tuUWtr4zhmkFy2C8vViv0"
@@ -34082,7 +34190,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 131794,
       "name": "won't be the same",
       "url": "https://open.spotify.com/track/4dHzG11qkHLZBWqZRE9vDn"
@@ -34317,6 +34425,24 @@
     },
     {
       "album": {
+        "name": "Wouldn't You Like To Know",
+        "url": "https://open.spotify.com/album/2dgLCpy0RFM2syxoLuCUwz"
+      },
+      "artists": [
+        {
+          "name": "Reign Judge",
+          "url": "https://open.spotify.com/artist/3G7N2G4Gpx0P8uBMu2Sv9v"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207010,
+      "name": "Wouldn't You Like To Know",
+      "url": "https://open.spotify.com/track/6Cqt0IQ4OJEB0ndMCd7BI5"
+    },
+    {
+      "album": {
         "name": "Wrapped Around",
         "url": "https://open.spotify.com/album/7c2VWCwL3Cv1JDOvHtAdSM"
       },
@@ -34350,6 +34476,24 @@
       "duration_ms": 195790,
       "name": "WTF",
       "url": "https://open.spotify.com/track/2oyLgQOfWSA5Q1BH4LzuOJ"
+    },
+    {
+      "album": {
+        "name": "The Yearbook (Extended Version)",
+        "url": "https://open.spotify.com/album/6kew6zxZaMi5fLdURyEwhC"
+      },
+      "artists": [
+        {
+          "name": "2BYG",
+          "url": "https://open.spotify.com/artist/4G6aMODE9CTOZyZ9S39DUE"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220067,
+      "name": "WYW",
+      "url": "https://open.spotify.com/track/3ZfkwBDXNyN5rXKzV30zK2"
     },
     {
       "album": {

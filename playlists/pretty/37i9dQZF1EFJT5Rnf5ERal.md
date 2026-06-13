@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,681 likes - 278 songs - 13 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,682 likes - 278 songs - 13 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 120 | [Streetlight](https://open.spotify.com/track/2IRTjvSF79KHkvQEyEbn2L) | [Troyman](https://open.spotify.com/artist/0hfCvrogjeBd9cTtAYTyCs) | [Rhythm + Flow Soundtrack: The Final Episode \(Music From The Netflix Original Series\)](https://open.spotify.com/album/3s6cdn3pMduTnseHCBSem1) | 2:29 |
 | 121 | [Recession Proof \- Bonus](https://open.spotify.com/track/4Lc321KT6dsd2rio7ysntE) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [CM10: Free Game \(Deluxe\)](https://open.spotify.com/album/72iAwt0JTYutgyO8cDsSj6) | 3:31 |
 | 122 | [Broke His Heart](https://open.spotify.com/track/01teRdn4aIEsPzVT1K6FAf) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:39 |
-| 123 | [Got It](https://open.spotify.com/track/2gCZzizzCdcWHqksfvJbpN) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 1:16 |
-| 124 | [Right Now](https://open.spotify.com/track/6qzZLA8bDM3wsAzTK4PvSX) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:52 |
+| 123 | [Right Now](https://open.spotify.com/track/6qzZLA8bDM3wsAzTK4PvSX) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:52 |
+| 124 | [Got It](https://open.spotify.com/track/2gCZzizzCdcWHqksfvJbpN) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 1:16 |
 | 125 | [Dice Game](https://open.spotify.com/track/6hVyfeSlOKFBDhm6bZsQxe) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bet On Me](https://open.spotify.com/album/6TFMgR0C4F4ql0OkXSf9Fh) | 2:09 |
 | 126 | [Important](https://open.spotify.com/track/0ouB74KXHucecyHKeE4cgI) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Federal 3X](https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi) | 2:25 |
 | 127 | [Wrong One \(with Gloss Up & Slimeroni feat\. K Carbon, Aleza, Tay Keith\)](https://open.spotify.com/track/52WoZbGVLrEW0w6AGT9wNS) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Wrong One \(with Gloss Up & Slimeroni feat\. K Carbon, Aleza, Tay Keith\)](https://open.spotify.com/album/0TkJa6iqDtjK4ojpfO8PwG) | 2:57 |
@@ -195,8 +195,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 185 | [I Might \(feat\. Tay Keith\)](https://open.spotify.com/track/3lvY6mgvM9AmDWSsXhsDuQ) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [These Things Happen Too \(Deluxe\)](https://open.spotify.com/album/2uGyQQS82uzaTXSBe2bs4A) | 2:34 |
 | 186 | [Lil Bitch](https://open.spotify.com/track/1ZN15RSNJpc3Tyxfjc7eUR) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Fuck Everybody](https://open.spotify.com/album/0nb45XEdKWSFgq0tdPUwnH) | 2:50 |
 | 187 | [Car Flip](https://open.spotify.com/track/6G6eTSxkm5lzwPQRr4Ym4v) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [UNDERRATED](https://open.spotify.com/album/3jL7EW4fj5JoT8yqImgUBC) | 2:37 |
-| 188 | [Face Down](https://open.spotify.com/track/0X8C9RaE8BVVEXcwvEW7A4) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Pain Made Me Numb](https://open.spotify.com/album/7twIV2sZc0N7mdFbmJxsvB) | 2:50 |
-| 189 | [Still Wit It \(feat\. Tay Keith\)](https://open.spotify.com/track/3YicQ6TqXV0DUQPX8k6TO0) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [90 Days](https://open.spotify.com/album/3mYhUHiupqEamB1Qkl9ejL) | 2:30 |
+| 188 | [Still Wit It \(feat\. Tay Keith\)](https://open.spotify.com/track/3YicQ6TqXV0DUQPX8k6TO0) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [90 Days](https://open.spotify.com/album/3mYhUHiupqEamB1Qkl9ejL) | 2:30 |
+| 189 | [Face Down](https://open.spotify.com/track/0X8C9RaE8BVVEXcwvEW7A4) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Pain Made Me Numb](https://open.spotify.com/album/7twIV2sZc0N7mdFbmJxsvB) | 2:50 |
 | 190 | [TTG \(Go\)](https://open.spotify.com/track/4hKmlJ6sSCvDgQm50pTW05) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:20 |
 | 191 | [Making of a Murderer](https://open.spotify.com/track/0TiwfeDAJOO0t5xOtugG7b) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:46 |
 | 192 | [Boss Me Up](https://open.spotify.com/track/5uoZwaN9Vwvf3PkQdYL2A7) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:15 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 277 | [Drill Back](https://open.spotify.com/track/3nHfvTt8iRbwnbIySfcfs9) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:12 |
 | 278 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 
-Snapshot ID: `AcT93AAAAAAhJonZKX/RYb7c/JadzMz4`
+Snapshot ID: `AcUDcgAAAABBFLgRez83VAflDDiYfzoE`

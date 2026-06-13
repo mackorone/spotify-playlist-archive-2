@@ -702,7 +702,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 207096,
       "name": "BARBIE",
       "url": "https://open.spotify.com/track/3JmqKgkmWzwfM8W600UCIy"
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 159374,
       "name": "cara de cara",
       "url": "https://open.spotify.com/track/78ZGjcF1Z70mGYavOyD1bF"
@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 185051,
       "name": "De Jueves a Jueves",
       "url": "https://open.spotify.com/track/69eH4RW7DqhhOo1zhlGwRG"
@@ -3042,7 +3042,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 191500,
       "name": "Estamos Vivos",
       "url": "https://open.spotify.com/track/2DmgymEQIuw3jPVfTc1nuy"
@@ -3322,6 +3322,28 @@
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
+    },
+    {
+      "album": {
+        "name": "En bucle",
+        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255875,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/12QOz99BmQf6niecivifM7"
     },
     {
       "album": {
@@ -4192,7 +4214,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
@@ -4801,6 +4823,28 @@
     },
     {
       "album": {
+        "name": "La Semana",
+        "url": "https://open.spotify.com/album/2vdBYs1jB7bAUC495Q1ZdO"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "La Semana",
+      "url": "https://open.spotify.com/track/4NMoJRudco3Fc2EO5DCtGe"
+    },
+    {
+      "album": {
         "name": "La Tarea",
         "url": "https://open.spotify.com/album/31A5oihohOkYIos5lWB0pp"
       },
@@ -5088,7 +5132,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 199946,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
@@ -5884,7 +5928,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 188600,
       "name": "Mira Como Me Tienes",
       "url": "https://open.spotify.com/track/1A6uHSqJuqFPZX9RSAbfr0"
@@ -6316,7 +6360,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 179478,
       "name": "Natural",
       "url": "https://open.spotify.com/track/3TjJq3dLUien8DfEpxr52i"
@@ -7300,7 +7344,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 165981,
       "name": "Por Dentro",
       "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
@@ -8524,6 +8568,28 @@
       "duration_ms": 171789,
       "name": "SOL",
       "url": "https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z"
+    },
+    {
+      "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "Solecito Ven\u00ed",
+      "url": "https://open.spotify.com/track/6Ue84aBdSKDtyA493wcVfD"
     },
     {
       "album": {

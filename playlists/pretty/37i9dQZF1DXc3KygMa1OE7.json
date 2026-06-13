@@ -1,6 +1,6 @@
 {
   "description": "The most unforgettable love songs from the 80s.",
-  "num_followers": 2611350,
+  "num_followers": 2611449,
   "original_name": "80s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "Soul Provider",
-        "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 255666,
-      "name": "How Am I Supposed to Live Without You",
-      "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 192066,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "Soul Provider",
+        "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 255666,
+      "name": "How Am I Supposed to Live Without You",
+      "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
+        "name": "Fahrenheit",
+        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 229706,
+      "name": "I'll Be Over You",
+      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
         "name": "All Out Of Love",
         "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 288973,
       "name": "One More Night - 2016 Remaster",
       "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
-        "name": "Fahrenheit",
-        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 229706,
-      "name": "I'll Be Over You",
-      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "...But Seriously (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 275986,
-      "name": "Do You Remember? - 2016 Remaster",
-      "url": "https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 243066,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "...But Seriously (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 275986,
+      "name": "Do You Remember? - 2016 Remaster",
+      "url": "https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "Out Of The Blue",
-        "url": "https://open.spotify.com/album/2I2QfpWLoBCOSG8Qa7xD8b"
-      },
-      "artists": [
-        {
-          "name": "Debbie Gibson",
-          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
-        }
-      ],
-      "duration_ms": 262413,
-      "name": "Foolish Beat",
-      "url": "https://open.spotify.com/track/0KhiesN7gLBPEQhKsBmrI1"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "The Best of Chicago, 40th Anniversary Edition",
         "url": "https://open.spotify.com/album/13etqTFFO9ZKGD3LeRMROL"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 223280,
       "name": "Hard to Say I'm Sorry - 2007 Remaster",
       "url": "https://open.spotify.com/track/7boKWlaNVmrhJdX8IbzUdD"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "Out Of The Blue",
+        "url": "https://open.spotify.com/album/2I2QfpWLoBCOSG8Qa7xD8b"
+      },
+      "artists": [
+        {
+          "name": "Debbie Gibson",
+          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
+        }
+      ],
+      "duration_ms": 262413,
+      "name": "Foolish Beat",
+      "url": "https://open.spotify.com/track/0KhiesN7gLBPEQhKsBmrI1"
     },
     {
       "added_at": "2026-02-25 17:39:27",

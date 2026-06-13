@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,682 likes - 129 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,681 likes - 129 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

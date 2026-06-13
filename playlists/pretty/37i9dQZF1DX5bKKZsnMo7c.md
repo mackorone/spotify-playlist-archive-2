@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > Feeling dramatic? All eyes on you\. Cover: Baby J
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,418 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,416 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fallen Angel](https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc) | [Baby J](https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK) | [Fallen Angel](https://open.spotify.com/album/3ZLm8xE9pOYo3HRRI1pXbX) | 3:05 |
-| 2 | [Girl Who Cried Wolf](https://open.spotify.com/track/5HNGDqthELv0TBWhLXuIiv) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Girl Who Cried Wolf](https://open.spotify.com/album/0YPqIZEUYb7h7y7U0v3Bf4) | 3:26 |
-| 3 | [Run Rabbit](https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Run Rabbit](https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4) | 3:09 |
-| 4 | [Night at the Opera](https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO) | 3:04 |
-| 5 | [Vampire at the Beach](https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vampire at the Beach](https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5) | 3:41 |
-| 6 | [HOTLINE](https://open.spotify.com/track/2Am4WNCZJk67cCTGnmQz1U) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [HOTLINE](https://open.spotify.com/album/0SX53qBcN61hcPcUJY1Hou) | 2:46 |
+| 1 | [Run Rabbit](https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Run Rabbit](https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4) | 3:09 |
+| 2 | [Night at the Opera](https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO) | 3:04 |
+| 3 | [Vampire at the Beach](https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vampire at the Beach](https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5) | 3:41 |
+| 4 | [HOTLINE](https://open.spotify.com/track/2Am4WNCZJk67cCTGnmQz1U) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [HOTLINE](https://open.spotify.com/album/0SX53qBcN61hcPcUJY1Hou) | 2:46 |
+| 5 | [Fallen Angel](https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc) | [Baby J](https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK) | [Fallen Angel](https://open.spotify.com/album/3ZLm8xE9pOYo3HRRI1pXbX) | 3:05 |
+| 6 | [Girl Who Cried Wolf](https://open.spotify.com/track/5HNGDqthELv0TBWhLXuIiv) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Girl Who Cried Wolf](https://open.spotify.com/album/0YPqIZEUYb7h7y7U0v3Bf4) | 3:26 |
 | 7 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
 | 8 | [piano in the sky](https://open.spotify.com/track/1EMQCope8VHOJDHIKQTbRW) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [piano in the sky](https://open.spotify.com/album/5Pn3JRVnxuR5dROybezUyK) | 2:10 |
 | 9 | [Where Have All The Good Men Gone?](https://open.spotify.com/track/2eUn6PBAZawXLeNEEcbTKu) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Where Have All The Good Men Gone?](https://open.spotify.com/album/08si7K3Tu2LZP4bpuddO9k) | 3:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 79 | [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 |
 | 80 | [My Alcoholic Friends](https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [Yes, Virginia](https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR) | 2:47 |
 
-Snapshot ID: `AAAAANB7OsfzW7qYgv/8Ucx72oJngUR5`
+Snapshot ID: `AAAAAErYc2BFhxbfzfmTBNB/7pDbE4aA`

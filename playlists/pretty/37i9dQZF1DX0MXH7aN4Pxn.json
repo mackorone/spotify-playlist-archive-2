@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 729305,
+  "num_followers": 729262,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "REHAB",
+        "url": "https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas"
+      },
+      "artists": [
+        {
+          "name": "Blair Muir",
+          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
+        }
+      ],
+      "duration_ms": 195003,
+      "name": "REHAB",
+      "url": "https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "REHAB",
-        "url": "https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas"
-      },
-      "artists": [
-        {
-          "name": "Blair Muir",
-          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
-        }
-      ],
-      "duration_ms": 195003,
-      "name": "REHAB",
-      "url": "https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "Look Good",
+        "url": "https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf"
+      },
+      "artists": [
+        {
+          "name": "Ethan Walsh",
+          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
+        }
+      ],
+      "duration_ms": 134095,
+      "name": "Look Good",
+      "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "I Loved You (feat. Melissa Steel)",
         "url": "https://open.spotify.com/album/0Fuq38dhyTw57Kyq2ctmxN"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 184704,
       "name": "I Loved You (feat. Melissa Steel)",
       "url": "https://open.spotify.com/track/3yh9WHZs15IKNBXYaFAZH5"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "Look Good",
-        "url": "https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf"
-      },
-      "artists": [
-        {
-          "name": "Ethan Walsh",
-          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
-        }
-      ],
-      "duration_ms": 134095,
-      "name": "Look Good",
-      "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Sippin",
-        "url": "https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu"
-      },
-      "artists": [
-        {
-          "name": "Milco",
-          "url": "https://open.spotify.com/artist/5WHUxQCM4499eLKORl6G4l"
-        },
-        {
-          "name": "DEJA",
-          "url": "https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp"
-        }
-      ],
-      "duration_ms": 158075,
-      "name": "Sippin",
-      "url": "https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "Push The Tempo",
         "url": "https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN"
       },
@@ -1967,6 +1947,26 @@
       "duration_ms": 161726,
       "name": "They Don't Know - Radio Edit",
       "url": "https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Sippin",
+        "url": "https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu"
+      },
+      "artists": [
+        {
+          "name": "Milco",
+          "url": "https://open.spotify.com/artist/5WHUxQCM4499eLKORl6G4l"
+        },
+        {
+          "name": "DEJA",
+          "url": "https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp"
+        }
+      ],
+      "duration_ms": 158075,
+      "name": "Sippin",
+      "url": "https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6"
     },
     {
       "added_at": "2026-01-23 00:00:40",

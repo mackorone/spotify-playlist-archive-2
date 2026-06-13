@@ -3764,7 +3764,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 221546,
       "name": "Hell Or High Water",
       "url": "https://open.spotify.com/track/5CVi1Y4FCzWAi9cY1gHl8K"
@@ -5160,7 +5160,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 322373,
       "name": "In My America",
       "url": "https://open.spotify.com/track/5BM6FplSkbfROQI8qfLVIa"
@@ -5262,6 +5262,24 @@
       "duration_ms": 206920,
       "name": "Issa",
       "url": "https://open.spotify.com/track/01WyqI4Qnh4gvUFVGp2C9r"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Afraid to Fall Asleep",
+        "url": "https://open.spotify.com/album/5q1b46r4zlH5IVP8A8yMvJ"
+      },
+      "artists": [
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267784,
+      "name": "I\u2019m Afraid to Fall Asleep",
+      "url": "https://open.spotify.com/track/7ANJ7z0Lk2ROWcguDNtrhu"
     },
     {
       "album": {
@@ -9404,6 +9422,24 @@
       "duration_ms": 427480,
       "name": "Time Clocks",
       "url": "https://open.spotify.com/track/5fzS5MrIOSfSqksc4Prajn"
+    },
+    {
+      "album": {
+        "name": "Tired Of Being Right",
+        "url": "https://open.spotify.com/album/3KflUuOWzvY89rSbs33sh0"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289266,
+      "name": "Tired Of Being Right",
+      "url": "https://open.spotify.com/track/3tBVNBfssuwjzq1OnDgLnO"
     },
     {
       "album": {

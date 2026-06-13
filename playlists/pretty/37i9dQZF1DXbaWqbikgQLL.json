@@ -1,6 +1,6 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 82390,
+  "num_followers": 82437,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 377160,
-      "name": "Quiero Morir En Tu Piel",
-      "url": "https://open.spotify.com/track/3t3jGDeU3t1ro51C3x2pPR"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Entre Dios y El Diablo (Deluxe Version)",
         "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 198026,
       "name": "Aquiles Afirmo",
       "url": "https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 377160,
+      "name": "Quiero Morir En Tu Piel",
+      "url": "https://open.spotify.com/track/3t3jGDeU3t1ro51C3x2pPR"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
+        "name": "Para Qu\u00e9 Llorar",
+        "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
+      },
+      "artists": [
+        {
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+        }
+      ],
+      "duration_ms": 196186,
+      "name": "La Cumbia de los Monjes",
+      "url": "https://open.spotify.com/track/35C7JhYFEXS21yxJy6zR4g"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
         "name": "Frankie Ruiz La Leyenda",
         "url": "https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Para Qu\u00e9 Llorar",
-        "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
       },
       "artists": [
         {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
         }
       ],
-      "duration_ms": 196186,
-      "name": "La Cumbia de los Monjes",
-      "url": "https://open.spotify.com/track/35C7JhYFEXS21yxJy6zR4g"
+      "duration_ms": 242648,
+      "name": "Desde El Fondo De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1147,18 +1163,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
+        "name": "De Verdad (15 Super Exitos)",
+        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
       },
       "artists": [
         {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 242648,
-      "name": "Desde El Fondo De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
+      "duration_ms": 297053,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1191,22 +1207,6 @@
       "duration_ms": 295160,
       "name": "T\u00fa Me Vuelves Loco",
       "url": "https://open.spotify.com/track/1hiy2Mm4Xw57Vh6tiWbyam"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "De Verdad (15 Super Exitos)",
-        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 297053,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Un Sue\u00f1o Y Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
+        "name": "Los Del Garrote",
+        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
       },
       "artists": [
         {
-          "name": "Grupo Polo Monta\u00f1es",
-          "url": "https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC"
+          "name": "Los Del Garrote",
+          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
         }
       ],
-      "duration_ms": 278613,
-      "name": "Un Sue\u00f1o Y Nada Mas",
-      "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
+      "duration_ms": 197786,
+      "name": "La Cumbia Del Garrote",
+      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Los Del Garrote",
-        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
+        "name": "Un Sue\u00f1o Y Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
       },
       "artists": [
         {
-          "name": "Los Del Garrote",
-          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
+          "name": "Grupo Polo Monta\u00f1es",
+          "url": "https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC"
         }
       ],
-      "duration_ms": 197786,
-      "name": "La Cumbia Del Garrote",
-      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
+      "duration_ms": 278613,
+      "name": "Un Sue\u00f1o Y Nada Mas",
+      "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1583,6 +1583,58 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
+        "name": "Hechizando",
+        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
+      },
+      "artists": [
+        {
+          "name": "Danny Daniel",
+          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
+        },
+        {
+          "name": "Prix 06",
+          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
+        }
+      ],
+      "duration_ms": 293067,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Amor de Locos",
+        "url": "https://open.spotify.com/album/21UeXvBlGC8gUjxRovFSsF"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "duration_ms": 288333,
+      "name": "Pa Que Me Llames",
+      "url": "https://open.spotify.com/track/7f9xOgsbm7SYjBRU7blQaJ"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 295640,
+      "name": "Cara de Ni\u00f1o",
+      "url": "https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
         "name": "Espantan (Remix)",
         "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
       },
@@ -1611,58 +1663,6 @@
       "duration_ms": 218019,
       "name": "Espantan - Remix",
       "url": "https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Hechizando",
-        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
-      },
-      "artists": [
-        {
-          "name": "Danny Daniel",
-          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
-        },
-        {
-          "name": "Prix 06",
-          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
-        }
-      ],
-      "duration_ms": 293067,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 295640,
-      "name": "Cara de Ni\u00f1o",
-      "url": "https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Amor de Locos",
-        "url": "https://open.spotify.com/album/21UeXvBlGC8gUjxRovFSsF"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
-        }
-      ],
-      "duration_ms": 288333,
-      "name": "Pa Que Me Llames",
-      "url": "https://open.spotify.com/track/7f9xOgsbm7SYjBRU7blQaJ"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "\u00c9xitos Fruko",
-        "url": "https://open.spotify.com/album/7mO8Aqals1HnVuZ8m9uyiL"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        }
-      ],
-      "duration_ms": 297358,
-      "name": "Cachondea",
-      "url": "https://open.spotify.com/track/6ffaMgOcnYojSshORaBNiK"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 259853,
       "name": "Yo No S\u00e9 Ma\u00f1ana",
       "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "\u00c9xitos Fruko",
+        "url": "https://open.spotify.com/album/7mO8Aqals1HnVuZ8m9uyiL"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        }
+      ],
+      "duration_ms": 297358,
+      "name": "Cachondea",
+      "url": "https://open.spotify.com/track/6ffaMgOcnYojSshORaBNiK"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2487,6 +2487,22 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
+        "name": "A Punta de Maiz",
+        "url": "https://open.spotify.com/album/4Y2SBLeuq5TutVy7DLlr2V"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0kVzYM0q4PvXrgaHOC1ptA"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
         "name": "Hasta El Cielo Lloro",
         "url": "https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6"
       },
@@ -2515,22 +2531,6 @@
       "duration_ms": 312006,
       "name": "Isi",
       "url": "https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Con Musica Del Barrio y Para El Barrio",
-        "url": "https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Chomba",
-          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
-        }
-      ],
-      "duration_ms": 254253,
-      "name": "El Baile De San Juan",
-      "url": "https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O"
     }
   ],
   "unique_name": "Coraz\u00f3n Chilango",

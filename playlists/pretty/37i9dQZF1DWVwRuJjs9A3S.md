@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Augustine
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,254 likes - 271 songs - 15 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,266 likes - 271 songs - 15 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 12 | [Sleepwalk](https://open.spotify.com/track/5suKZi3GzNjqQUbxTgZXJx) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Absolute Summer Music](https://open.spotify.com/album/2V0e5wx22R1vfe7jttGxF2) | 2:46 |
 | 13 | [Coil](https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Rumspringa](https://open.spotify.com/album/1EHtMAqAB6GSnw8IbuXFLn) | 3:54 |
 | 14 | [naming you](https://open.spotify.com/track/6IY9hrzdfTJZm8eMtVfCp2) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [naming you / swim in illyria](https://open.spotify.com/album/1BmmcpsWMjkAFgLUSeplYp) | 3:21 |
-| 15 | [Track 4](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 0:00 |
+| 15 | [East Village](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 3:31 |
 | 16 | [Stop Dreaming](https://open.spotify.com/track/63Bbwme1KUESI8bwTq5GoM) | [Sylvie's Head](https://open.spotify.com/artist/6Re2HYnIxbLkNiAY5QqPDa) | [Everything Is Free](https://open.spotify.com/album/5rfn2Yf5PQgtmEgeKMTuOB) | 5:31 |
 | 17 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 |
 | 18 | [Dust in the Wind](https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Dust in the Wind](https://open.spotify.com/album/2jNfiECR8FRr7SsnLiZ7dJ) | 2:50 |

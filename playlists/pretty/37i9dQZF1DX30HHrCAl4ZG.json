@@ -1,13 +1,61 @@
 {
   "description": "Explore all things indie rock right now. Featuring music from feeble little horse",
-  "num_followers": 806089,
+  "num_followers": 806054,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGnUij4u04rIn3bNvUbSYPWJIEY+",
+  "snapshot_id": "AAAAACPG8NnZ7VLjfq7gYg7/XYicdIUZ",
   "tracks": [
+    {
+      "added_at": "2026-06-12 04:01:35",
+      "album": {
+        "name": "Tunnels",
+        "url": "https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR"
+      },
+      "artists": [
+        {
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+        }
+      ],
+      "duration_ms": 168265,
+      "name": "Tunnels",
+      "url": "https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3"
+    },
+    {
+      "added_at": "2026-06-12 04:01:35",
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 183228,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx"
+    },
+    {
+      "added_at": "2026-06-12 04:01:35",
+      "album": {
+        "name": "BIG MODERN!",
+        "url": "https://open.spotify.com/album/2oXnCPr3440xnWC9U6lR3G"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "duration_ms": 216121,
+      "name": "Good Times // End Times",
+      "url": "https://open.spotify.com/track/59hVDiPRd3uZhZCmk2ZezQ"
+    },
     {
       "added_at": "2026-05-29 04:00:18",
       "album": {

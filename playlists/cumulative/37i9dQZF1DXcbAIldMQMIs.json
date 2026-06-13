@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 261228,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ"
@@ -4240,6 +4240,24 @@
       "duration_ms": 190960,
       "name": "Love Affair",
       "url": "https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ"
+    },
+    {
+      "album": {
+        "name": "Obsession (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/295aVJ1pcfkOGRMODulEYs"
+      },
+      "artists": [
+        {
+          "name": "Rock Burwell",
+          "url": "https://open.spotify.com/artist/54zR4Rx1DyqpoUgcNPyscl"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124942,
+      "name": "Love is in the Air, Pt. 1",
+      "url": "https://open.spotify.com/track/77Aup1j7jR1zxWFQes0Kav"
     },
     {
       "album": {

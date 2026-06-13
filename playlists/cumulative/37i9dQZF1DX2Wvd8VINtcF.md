@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Murex✨
 
-2,434 songs - 5 day 11 hr 43 min
+2,436 songs - 5 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [cool \- Gökhan Sivri​ Remix](https://open.spotify.com/track/5xbgT1sqx35SryjuTx64sS) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Gökhan Sivri](https://open.spotify.com/artist/1oHy1Xu1zmxsNf4mPkYXAb) | [cool \(Remix Edition\)](https://open.spotify.com/album/1w4ePmEnMSHnktzcwBhqaR) | 3:14 | 2022-11-10 | 2022-12-24 |
 | [Cool About It \(feat\. Lido\)](https://open.spotify.com/track/3gC7sGzLtC1we5Kg4fac7X) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Lido](https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 2:43 | 2025-05-15 | 2025-11-21 |
 | [cool words](https://open.spotify.com/track/2YemLBdJSJQAwndrKhPgqb) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [tense present](https://open.spotify.com/album/3Y3jFgpvIJY3tT7h8y9FbT) | 2:07 | 2026-06-04 |  |
+| [coreshadow](https://open.spotify.com/track/1LpG1YWOoihZSi8LlXMExb) | [Binky Blaise](https://open.spotify.com/artist/6wVXRQ64TTR22g2J34DfO7) | [coreshadow](https://open.spotify.com/album/436mEwElbZlVfp5QmoHGwP) | 3:09 | 2026-06-12 |  |
 | [Cotton](https://open.spotify.com/track/2Dh62ulfuwM2lOWPy4TLEb) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Cotton](https://open.spotify.com/album/5Mtmv7PjVAPSikP9ZOWFzj) | 3:43 | 2026-06-04 |  |
 | [Could Be Forever \(Prof\. Stranger Remix\)](https://open.spotify.com/track/77P9fzAA48OISwIbSpeR1Z) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc), [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Could Be Forever \(Prof\. Stranger Remix\)](https://open.spotify.com/album/2wXlu6s4LbjaCjiu9zuWTG) | 3:22 | 2025-04-17 | 2025-05-16 |
 | [Counting Sheep \(V2\) \[2018 Export Wav\] feat\. Injury Reserve](https://open.spotify.com/track/28C8KsOvTwTSrsAN9rcm96) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 2:26 | 2023-02-09 | 2023-02-24 |
@@ -1637,6 +1638,7 @@
 | [Pink Skies](https://open.spotify.com/track/0zAFhX6GKUJiVFTRIu4pWM) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [Pink Skies](https://open.spotify.com/album/2VJ9qCFsP8wIqZjoj6caC2) | 3:51 | 2026-05-28 |  |
 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2022-11-17 | 2022-12-16 |
 | [PIXAR](https://open.spotify.com/track/3K2AjofnBXR4IiKdI4jdWP) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [PIXAR](https://open.spotify.com/album/5K41VmBBw9UpuP2WCCuMLw) | 2:40 | 2023-08-24 | 2023-11-24 |
+| [pixel heart](https://open.spotify.com/track/5tuBcdw0wZTVBFEumaX7zq) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [pixel heart](https://open.spotify.com/album/2JN3HJiXofIxU9pluRaH0m) | 3:04 | 2026-06-12 |  |
 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 | 2025-10-16 | 2026-02-13 |
 | [places to be](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [places to be](https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ) | 3:46 | 2024-05-30 | 2024-09-20 |
 | [Plastic Camelia](https://open.spotify.com/track/0ep3CnoP0dSWyFPUhQJU0D) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0) | [Plastic Camelia / Laurel](https://open.spotify.com/album/12PCtvnkWhvr5RRPXrFxyP) | 4:25 | 2026-04-09 |  |

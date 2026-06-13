@@ -3346,7 +3346,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 98793,
       "name": "Buttercup",
       "url": "https://open.spotify.com/track/5ChpPOAYiusp1c3wbZdW11"
@@ -5189,6 +5189,24 @@
     },
     {
       "album": {
+        "name": "Dreaming Paws",
+        "url": "https://open.spotify.com/album/4rH2DIlFXzo4D8tKWx5lXc"
+      },
+      "artists": [
+        {
+          "name": "Henri Willow",
+          "url": "https://open.spotify.com/artist/1RrD0HPwyyWqIwl46t4RZw"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102088,
+      "name": "Dreaming Paws",
+      "url": "https://open.spotify.com/track/7mVXmEmGFlWwlJdino22gJ"
+    },
+    {
+      "album": {
         "name": "Dreaming with the Stars",
         "url": "https://open.spotify.com/album/2SfA10rr2QVAAxa5j1SVEW"
       },
@@ -5848,7 +5866,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 146192,
       "name": "Embers Fade",
       "url": "https://open.spotify.com/track/111gGpmdZxoeMRKjLsHQnC"
@@ -8934,6 +8952,24 @@
     {
       "album": {
         "name": "Hush Little Baby",
+        "url": "https://open.spotify.com/album/1fQWrlbRlDMRZCb656g82d"
+      },
+      "artists": [
+        {
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107500,
+      "name": "Hush Little Baby",
+      "url": "https://open.spotify.com/track/45Hvw2TGFydwDq7lHhSez9"
+    },
+    {
+      "album": {
+        "name": "Hush Little Baby",
         "url": "https://open.spotify.com/album/2rSEk9YJMXq6UiRzm7pT7a"
       },
       "artists": [
@@ -11162,6 +11198,24 @@
       "duration_ms": 102857,
       "name": "Little Cloud",
       "url": "https://open.spotify.com/track/3iqNdKOr91joysXIaihvLS"
+    },
+    {
+      "album": {
+        "name": "Little Cloud",
+        "url": "https://open.spotify.com/album/0j0gRe4F8Fr45oNjF2hTEm"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114375,
+      "name": "Little Cloud",
+      "url": "https://open.spotify.com/track/6yqmIZZKfIueDAxmj6Npaz"
     },
     {
       "album": {
@@ -13498,7 +13552,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 132137,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/4VB2GlTon1tRqsiTEkhFzk"
@@ -14150,6 +14204,24 @@
       "duration_ms": 146090,
       "name": "My Snuggly Teddy",
       "url": "https://open.spotify.com/track/17uCSlF9rkA2omKQKhj5ax"
+    },
+    {
+      "album": {
+        "name": "My Special Star",
+        "url": "https://open.spotify.com/album/2pP1ynYGsrboL5ZMWHjNwl"
+      },
+      "artists": [
+        {
+          "name": "Sussan Hann",
+          "url": "https://open.spotify.com/artist/07CXGJ8MCWEmCJ5ZWlN0M0"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98768,
+      "name": "My Special Star",
+      "url": "https://open.spotify.com/track/6BJDqoKiq5qVRixv2sTLe4"
     },
     {
       "album": {
@@ -15514,7 +15586,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 113576,
       "name": "Petite Journey",
       "url": "https://open.spotify.com/track/5bLD4xsq1eJ4y3dsvLFzAj"
@@ -16684,7 +16756,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 138648,
       "name": "Runes Lullaby",
       "url": "https://open.spotify.com/track/1nbLNWC4teVXOTCVwqj2WD"
@@ -16706,6 +16778,24 @@
       "duration_ms": 121025,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/6lDll3RvsfpyXoc5DOzyqG"
+    },
+    {
+      "album": {
+        "name": "Safe Through The Night",
+        "url": "https://open.spotify.com/album/5xKHoA9J7QDS6D0hWzisjP"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns Reitz",
+          "url": "https://open.spotify.com/artist/73sS3enUEIPrcrsTHMck08"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127976,
+      "name": "Safe Through The Night",
+      "url": "https://open.spotify.com/track/6Q5CNDhLxM7hjvV4UuVSik"
     },
     {
       "album": {
@@ -16774,7 +16864,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 89142,
       "name": "Sandscape",
       "url": "https://open.spotify.com/track/2fEh6nwa96GLrsusJy7hjX"
@@ -17951,6 +18041,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Owl",
+        "url": "https://open.spotify.com/album/2d1MxjlVBNYFgWJHGxIrTF"
+      },
+      "artists": [
+        {
+          "name": "Charlie Greenwood",
+          "url": "https://open.spotify.com/artist/6KaUraRwMrPfLPaOairQCi"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118489,
+      "name": "Sleepy Owl",
+      "url": "https://open.spotify.com/track/4VIMEu3unshNOSv0RjEaIh"
+    },
+    {
+      "album": {
         "name": "Sleepy Pony",
         "url": "https://open.spotify.com/album/4ogJez3t6b71R4wetU5UBq"
       },
@@ -18905,6 +19013,24 @@
     },
     {
       "album": {
+        "name": "Star Glow",
+        "url": "https://open.spotify.com/album/7Ib1PTkSFU9mGsvEj8blLp"
+      },
+      "artists": [
+        {
+          "name": "Anna Murakami",
+          "url": "https://open.spotify.com/artist/2kEfDMbRORDJWTJQhAxbws"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98830,
+      "name": "Star Glow",
+      "url": "https://open.spotify.com/track/2OrWoteM0JIphd40CWdd67"
+    },
+    {
+      "album": {
         "name": "Star Light, Star Bright",
         "url": "https://open.spotify.com/album/4tAfJtrMopxQiLpPFWEnes"
       },
@@ -19438,7 +19564,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 120283,
       "name": "Sunny Days",
       "url": "https://open.spotify.com/track/3HjletFkHbRp3LBzgKtGkF"
@@ -20993,6 +21119,24 @@
     },
     {
       "album": {
+        "name": "The Paper Kite",
+        "url": "https://open.spotify.com/album/2KmqPBW9rxbm8CQEin1lRk"
+      },
+      "artists": [
+        {
+          "name": "Lucas Moon",
+          "url": "https://open.spotify.com/artist/3nIP9dTh54EA3vP57KEXvS"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88302,
+      "name": "The Paper Kite",
+      "url": "https://open.spotify.com/track/1imtB3VZCqyU1TqFgrhaKG"
+    },
+    {
+      "album": {
         "name": "The Path",
         "url": "https://open.spotify.com/album/32jBuvuiRMjnmJ3L9rbTDt"
       },
@@ -21760,7 +21904,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 174000,
       "name": "Three Blind Mice",
       "url": "https://open.spotify.com/track/55LGhGlkIKM9fJoDRLu6nZ"

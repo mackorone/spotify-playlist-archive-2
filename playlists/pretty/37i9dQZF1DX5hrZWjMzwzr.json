@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11767,
+  "num_followers": 11766,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "Zwolnij?",
+        "url": "https://open.spotify.com/album/4DwwDAVVbbJgzCNMQOyL3y"
+      },
+      "artists": [
+        {
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+        },
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/0emslMBqEZSCRupMRVzyPe"
+        }
+      ],
+      "duration_ms": 148310,
+      "name": "Mini Man",
+      "url": "https://open.spotify.com/track/1dQZRwFJzUIT1mqoXMMUkV"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "NIENAWIDZ\u0118 BY\u0106 W KLUBIE",
         "url": "https://open.spotify.com/album/2zeFY1lBaN1pm0FIQ5sQEk"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 164000,
       "name": "NIENAWIDZ\u0118 BY\u0106 W KLUBIE",
       "url": "https://open.spotify.com/track/126sCXH3zr18kbHlKit0sX"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "Zwolnij?",
-        "url": "https://open.spotify.com/album/4DwwDAVVbbJgzCNMQOyL3y"
-      },
-      "artists": [
-        {
-          "name": "Okekel",
-          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
-        },
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/0emslMBqEZSCRupMRVzyPe"
-        }
-      ],
-      "duration_ms": 148310,
-      "name": "Mini Man",
-      "url": "https://open.spotify.com/track/1dQZRwFJzUIT1mqoXMMUkV"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "NEXT",
-        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
-      },
-      "artists": [
-        {
-          "name": "javier",
-          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
-        }
-      ],
-      "duration_ms": 113089,
-      "name": "SIE KLEI",
-      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/5p9wwfMdBpdf1rluuYKeJb"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 161167,
       "name": "Brokeboy",
       "url": "https://open.spotify.com/track/65CKBZul9KR6cpIN6unK9A"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "NEXT",
+        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
+      },
+      "artists": [
+        {
+          "name": "javier",
+          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
+        }
+      ],
+      "duration_ms": 113089,
+      "name": "SIE KLEI",
+      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
     },
     {
       "added_at": "2026-04-09 22:12:46",

@@ -4,7 +4,7 @@
 
 > Lo mejor de mayo 2026\. Cover: Rels B
 
-1,513 songs - 3 day 8 hr 19 min
+1,514 songs - 3 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1097,7 +1097,7 @@
 | [Por Deporte](https://open.spotify.com/track/7EyGZtJuOckQfMDJL1PPrH) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:49 | 2022-11-28 | 2023-02-17 |
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-01-30 | 2023-04-07 |
 | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:24 | 2026-03-06 | 2026-05-29 |
-| [Power Ballad](https://open.spotify.com/track/5gOjb6qeRHH4CScUkqTFZ6) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Power Ballad](https://open.spotify.com/album/3mb9jcjOHpLjzqJ1us7x6P) | 3:52 | 2026-05-29 |  |
+| [Power Ballad](https://open.spotify.com/track/5gOjb6qeRHH4CScUkqTFZ6) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Power Ballad](https://open.spotify.com/album/3mb9jcjOHpLjzqJ1us7x6P) | 3:52 | 2026-05-29 | 2026-06-13 |
 | [preguntalealaluna](https://open.spotify.com/track/2zvBpVyuuWIBfNh2k1UWvi) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [preguntalealaluna](https://open.spotify.com/album/1C8ND2Lh3xBQ1jwQEZcvOo) | 3:48 | 2025-11-21 | 2026-01-31 |
 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 | 2022-10-24 | 2022-11-08 |
 | [Prende la Cámara RMX](https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Prende la Cámara RMX](https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo) | 3:32 | 2021-12-14 | 2022-03-05 |
@@ -1205,6 +1205,7 @@
 | [SE LO JURO MOR](https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE LO JURO MOR](https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr) | 2:50 | 2025-08-25 | 2025-11-22 |
 | [Se Menea](https://open.spotify.com/track/1ZcrHpBbILPNfhBtPhQVHh) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Se Menea](https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5) | 3:10 | 2021-12-14 | 2022-03-05 |
 | [Se siente bien](https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Se siente bien](https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI) | 2:06 | 2024-08-09 | 2024-09-04 |
+| [Seadoo](https://open.spotify.com/track/0J1j75w9TvUqvPCyWMR3Jw) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [Seadoo](https://open.spotify.com/album/7nT9N003PTCWvNdx4KxwYM) | 2:40 | 2026-05-29 |  |
 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 | 2025-01-27 | 2025-03-11 |
 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 | 2021-12-14 | 2022-01-21 |
 | [SELEDA.](https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SELEDA.](https://open.spotify.com/album/7IlEJO3GEKWGjN4gKIXaKq) | 2:11 | 2025-10-10 | 2026-01-16 |

@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: Philipp Poisel
 
-568 songs - 1 day 1 hr 34 min
+569 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Ich sag Ja](https://open.spotify.com/track/6lBWYFyd3wsnVwMktdXSOm) | [Bella Reed](https://open.spotify.com/artist/1u8VighW9YHcYd4x3U8ity) | [Ich sag Ja](https://open.spotify.com/album/4RzD5ijQKjZcA3ZdMouOve) | 2:43 | 2026-01-29 | 2026-02-20 |
 | [Ich seh was, was du nicht siehst](https://open.spotify.com/track/4BAPYfMQTLYgXB5KU0GkDf) | [Egon Werler](https://open.spotify.com/artist/4YYCHckJCIZRGFzZDuLLx8) | [Ich seh was, was du nicht siehst](https://open.spotify.com/album/3zmsEnGLD6Yd3vEUwnwB5R) | 2:22 | 2026-03-19 | 2026-05-15 |
 | [ich vermisse dich.](https://open.spotify.com/track/7ltGb3eEdSDc5xVzBnXHiM) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [ich vermisse dich.](https://open.spotify.com/album/713VKMSzMLRzFwxU01dUJ9) | 2:39 | 2025-11-06 | 2026-01-15 |
+| [Ich Wart Auf Dich](https://open.spotify.com/track/7swJnVcL7RwIrtE6MrQUAV) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Ich Wart Auf Dich](https://open.spotify.com/album/1VwRwhLd6uUMKccMOsYnhA) | 2:31 | 2026-06-12 |  |
 | [Immer](https://open.spotify.com/track/7gk8sVJCVRI9EiTYLHQpTa) | [Tim Bendzko](https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl) | [Immer](https://open.spotify.com/album/5IrbRM2lseX3Y29Q70BktO) | 3:52 | 2025-11-27 | 2025-12-12 |
 | [Immer bisschen](https://open.spotify.com/track/05bqsAcWf9m8OZXC09PZRC) | [Romero](https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU) | [Immer bisschen](https://open.spotify.com/album/2PrBynkB1EFS32ECRekOR8) | 1:49 | 2026-03-05 | 2026-03-27 |
 | [Immer mehr](https://open.spotify.com/track/06aKPl9djVOYNWj4WS2nCI) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7), [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Immer mehr](https://open.spotify.com/album/3U058Cg8GSHCknSiuQ4IUO) | 2:42 | 2026-04-09 | 2026-05-22 |

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/4ZQNqlKwDCPSeey2y7kwlD.md) - [plain](/playlists/plain/4ZQNqlKwDCPSeey2y7kwlD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4ZQNqlKwDCPSeey2y7kwlD)
 
-### [Oops...All Jams](https://open.spotify.com/playlist/4ZQNqlKwDCPSeey2y7kwlD)
+### [Good Morning Music](https://open.spotify.com/playlist/4ZQNqlKwDCPSeey2y7kwlD)
 
-> What have we done?
+> Start your morning with a mix of new and classic songs to keep you singing all day long!
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 105,180 likes - 100 songs - 5 hr 46 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 105,172 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/4ZQNqlKwDCPSeey2y7kwlD.md) - [plain]
 | 96 | [Flowers Need Rain](https://open.spotify.com/track/2UUI2m2Gu4MpyMfVFarqYh) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Flowers Need Rain](https://open.spotify.com/album/3vt1M79058xhwxHfzyNEWQ) | 2:48 |
 | 97 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |
 | 98 | [POP DAT THANG](https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [POP DAT THANG](https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d) | 2:18 |
-| 99 | [Go](https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Born In The Echoes](https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6) | 4:20 |
+| 99 | [Go](https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Born In The Echoes](https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6) | 4:20 |
 | 100 | [AHEAD BY A CENTURY](https://open.spotify.com/track/7FVG3onyy9GbhysR3sREKy) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0), [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR), [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [AHEAD BY A CENTURY](https://open.spotify.com/album/1a73bXVGwFTlNCuL2Bqrwd) | 3:27 |
 
-Snapshot ID: `AAAeeOFuDH7a/YDDihS3lkwUil7WdvmC`
+Snapshot ID: `AAAee5PejaV8MApPbKskVVUd7cSrZqEH`

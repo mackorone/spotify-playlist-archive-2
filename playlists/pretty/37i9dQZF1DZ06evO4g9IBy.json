@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 173397,
+  "num_followers": 173403,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAADVt9F5kjZ8uLuCoMecxW/e",
+  "snapshot_id": "ain6gAAAAABOemI34pQSCPTZ/KEt1Uav",
   "tracks": [
     {
       "added_at": null,
@@ -426,15 +426,11 @@
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 201826,
-      "name": "I Will Run to You - 2016 Remaster",
-      "url": "https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2"
+      "duration_ms": 249133,
+      "name": "If Anyone Falls - 2016 Remaster",
+      "url": "https://open.spotify.com/track/1DqYqVLxUsR6NLUH1ys3AU"
     },
     {
       "added_at": null,
@@ -494,11 +490,15 @@
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 249133,
-      "name": "If Anyone Falls - 2016 Remaster",
-      "url": "https://open.spotify.com/track/1DqYqVLxUsR6NLUH1ys3AU"
+      "duration_ms": 201826,
+      "name": "I Will Run to You - 2016 Remaster",
+      "url": "https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0zuIUmEvxMf8tIYZ5wxJHI"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 369520,
-      "name": "Wild Heart - 2016 Remaster",
-      "url": "https://open.spotify.com/track/39csEPv4OCAsyQiePzTpIa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pack Up The Plantation: Live!",
         "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 145201,
       "name": "Needles And Pins - Live At The The Forum/1981",
       "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wild Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0zuIUmEvxMf8tIYZ5wxJHI"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 369520,
+      "name": "Wild Heart - 2016 Remaster",
+      "url": "https://open.spotify.com/track/39csEPv4OCAsyQiePzTpIa"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Your Dreams",
-        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock a Little",
         "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 224773,
       "name": "I Sing for Things",
       "url": "https://open.spotify.com/track/3Dk4epAbgbSezElqPQCXvq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Your Dreams",
+        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Karat Gold: Songs from the Vault",
-        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 278138,
-      "name": "The Dealer",
-      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music From Party of Five",
         "url": "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 336560,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/4CQX5erTD88eY1VzcpR0bm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "24 Karat Gold: Songs from the Vault",
+        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 278138,
+      "name": "The Dealer",
+      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
     },
     {
       "added_at": null,

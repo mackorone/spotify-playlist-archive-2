@@ -1,6 +1,6 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 168092,
+  "num_followers": 168097,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Old Fashion Love",
+        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
+      },
+      "artists": [
+        {
+          "name": "Krista Monica",
+          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Old Fashion Love",
+      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "walk but in a garden",
         "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 112500,
       "name": "walk but in a garden (with mxmtoon)",
       "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Old Fashion Love",
-        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
-      },
-      "artists": [
-        {
-          "name": "Krista Monica",
-          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
-        }
-      ],
-      "duration_ms": 209117,
-      "name": "Old Fashion Love",
-      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
+      },
+      "artists": [
+        {
+          "name": "BV",
+          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Squaring The Circle",
         "url": "https://open.spotify.com/album/0npeEzm8BfqZ1YwnzlvfA7"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 321176,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/59AsW4buRUplzfnJYSvopN"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
-      },
-      "artists": [
-        {
-          "name": "BV",
-          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "If You Think It's Love",
+      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Luster",
         "url": "https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 253417,
       "name": "Reckless Sensation",
       "url": "https://open.spotify.com/track/0IrQ7lMoICf8rBCho8ZMgK"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "If You Think It's Love",
-      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
     },
     {
       "added_at": "2026-02-09 02:11:35",

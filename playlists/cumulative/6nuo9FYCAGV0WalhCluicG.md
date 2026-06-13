@@ -4,7 +4,7 @@
 
 > The hottest UK rap, drill, grime and hip\-hop right now\. Featuring the biggest names and rising stars shaping the UK scene, including Nemzzz, EsDeeKid, KidWild and more\.  Newest Hit: GEEKIN \- Nemzzz, Lil Yachty Cover: Nemzzz.
 
-169 songs - 7 hr 41 min
+170 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Booga](https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Booga](https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx) | 1:52 | 2026-03-13 | 2026-05-13 |
 | [Brick By Brick](https://open.spotify.com/track/0LL3KlF3Wexv0a8cOwwmvt) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Rvchet](https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75) | [Brick By Brick](https://open.spotify.com/album/19HcmpMWJsSKHK1rQNm3qj) | 2:20 | 2026-03-13 |  |
 | [C'est La Vie](https://open.spotify.com/track/6MXTjM7YiZUnd2FjPG8Q4h) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [C'est La Vie](https://open.spotify.com/album/6wsIo3vFHDlJx3yvUIUOSj) | 2:45 | 2025-10-03 | 2026-03-14 |
+| [CAN'T SAY NO](https://open.spotify.com/track/7abSTQbiSxP8sI3S0by8no) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [CAN'T SAY NO](https://open.spotify.com/album/6rYTovwPPhceDNj70ZBUOA) | 2:56 | 2026-06-12 |  |
 | [Can't Stop Won't Stop](https://open.spotify.com/track/5NaLmTqMjjkpl8TRMaoxTO) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Can't Stop Won't Stop](https://open.spotify.com/album/5w8SRSyWKhu2QXWsSj7cjh) | 3:18 | 2026-05-12 | 2026-05-23 |
 | [Canarsie](https://open.spotify.com/track/4yyZkXQPuxfNhM5tPSFoHJ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Canarsie](https://open.spotify.com/album/7EvGeQSKTCqgwFb4hrO91d) | 2:48 | 2025-10-03 | 2026-03-14 |
 | [Can’t Dun \(feat\. M24\)](https://open.spotify.com/track/1TonfBDVXhfCNjeXQxnlod) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Can’t Dun \(feat\. M24\)](https://open.spotify.com/album/66pgqalbFP4UFumNg2kDF1) | 2:32 | 2025-10-03 | 2026-03-14 |
@@ -72,7 +73,7 @@
 | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 | 2025-10-03 | 2026-05-02 |
 | [Franklin Saint](https://open.spotify.com/track/5RJyRb6UfTEkACuIwi6UYQ) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Franklin Saint](https://open.spotify.com/album/3ZDsDyJfBUgjUuXomSmFLk) | 2:11 | 2026-05-29 |  |
 | [Function Riddim](https://open.spotify.com/track/5f3fH5Z93flDP8pi9EjAyb) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [Function Riddim](https://open.spotify.com/album/4DouXtmG9Cu6jyD9XhVjYo) | 2:59 | 2025-10-03 | 2026-03-14 |
-| [Game On \(ft\. JT\)](https://open.spotify.com/track/7EI4Scb5kZkSeympsOtP9h) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Sugar Girl](https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI) | 2:29 | 2026-05-22 |  |
+| [Game On \(ft\. JT\)](https://open.spotify.com/track/7EI4Scb5kZkSeympsOtP9h) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Sugar Girl](https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI) | 2:29 | 2026-05-22 | 2026-06-13 |
 | [Gas Me Up \(Diligent\)](https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Gas Me Up \(Diligent\)](https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn) | 2:51 | 2025-10-03 |  |
 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-10-03 | 2026-03-14 |
 | [GEEKIN](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 | 2026-05-08 |  |

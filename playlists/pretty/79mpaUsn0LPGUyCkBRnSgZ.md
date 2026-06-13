@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 723 songs - 1 day 22 hr 38 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 729 songs - 1 day 22 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -731,5 +731,11 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 721 | [Open the Fucking Fantasy](https://open.spotify.com/track/3c1CDgtFAPJkkKnBMkGlZ4) | [Black Moth Super Rainbow](https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l) | [Soft New Magic Dream](https://open.spotify.com/album/0ymqPRrABPL10xvZShIMIe) | 4:00 |
 | 722 | [ようこそ、夏の王国へ](https://open.spotify.com/track/2H7gT6zL5qSeAqTpfDqlWu) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [夏・全・開](https://open.spotify.com/album/1amISkdWujGVaDuLJPfDt9) | 4:01 |
 | 723 | [I Ate the Most](https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:06 |
+| 724 | [stone bogus](https://open.spotify.com/track/6jE44IKmr7HzkCintxczLS) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [Stone Bogus](https://open.spotify.com/album/63sy0WWNIH60kyLv1DSwSQ) | 2:34 |
+| 725 | [drop dead](https://open.spotify.com/track/0yO9QD2Ga7eUzqnNYsSSPo) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:44 |
+| 726 | [Ghost of Love](https://open.spotify.com/track/4Zv3AQWJwO769KBlPkExym) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Magazine](https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3) | 1:35 |
+| 727 | [Icarus](https://open.spotify.com/track/66BoVWjtxH7RZRLLvQUnaq) | [Adeline](https://open.spotify.com/artist/2MUW8E2Dy6sWwo07cfWBzQ) | [Good TV](https://open.spotify.com/album/0DOKzE7LbAyYqTAyWq9qUF) | 4:03 |
+| 728 | [Blackberry Marmalade](https://open.spotify.com/track/2QOTLNlbpsTJq074uw3yLY) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Cry Baby](https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs) | 3:52 |
+| 729 | [The Garden Prelude](https://open.spotify.com/track/6YvNYOrGKPWKlUPpkruhRY) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 0:48 |
 
-Snapshot ID: `AAAJHYGEMPM4nIXzkQsiwP4dNh6V8Psp`
+Snapshot ID: `AAAJJCSZ4ZgYq+FuSLYlmzuuNK/9iM/T`

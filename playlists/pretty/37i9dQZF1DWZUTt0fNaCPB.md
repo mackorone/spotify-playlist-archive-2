@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,490 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,556 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 70 | [Little Tyrants](https://open.spotify.com/track/12fvjY2vePAPvMWwdaJcy9) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Vital](https://open.spotify.com/album/48FcnU2DKSJ0uwx6Odd7oR) | 3:21 |
 | 71 | [Electric Desire](https://open.spotify.com/track/18mF92UgQkho2DOivp8Win) | [The Blanko](https://open.spotify.com/artist/0y6tZXh6dG5U9hiBz7ZtOK) | [Electric Desire](https://open.spotify.com/album/0RRFFXRKSdnng3CwKWPslD) | 3:43 |
 | 72 | [Seize the Day](https://open.spotify.com/track/1gqPcliPEmNXSOi7Vvr95e) | [The Mendenhall Experiment](https://open.spotify.com/artist/1i5khuFFnwuwwDwWbwbyLL) | [Seize the Day \- Single](https://open.spotify.com/album/35t5Xqrz49iF8M7fieKVRs) | 3:50 |
-| 73 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 |
-| 74 | [Nocturnal](https://open.spotify.com/track/3q1PFPjwZqBRsZKAknXCxz) | [Frontstreet](https://open.spotify.com/artist/4o29o81D4SvbqRZ6GAt06n) | [Bad Habit / Nocturnal](https://open.spotify.com/album/5S7ssOrPoEbSscAOFwespN) | 4:40 |
+| 73 | [Nocturnal](https://open.spotify.com/track/3q1PFPjwZqBRsZKAknXCxz) | [Frontstreet](https://open.spotify.com/artist/4o29o81D4SvbqRZ6GAt06n) | [Bad Habit / Nocturnal](https://open.spotify.com/album/5S7ssOrPoEbSscAOFwespN) | 4:40 |
+| 74 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 |
 | 75 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 |
 
 Snapshot ID: `AAAAAELtR3goWLjLxGgl5Pur6rvopUUy`

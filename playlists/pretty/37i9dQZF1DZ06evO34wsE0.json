@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 253314,
+  "num_followers": 253381,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAACiihN+G0mUBY6YGAcHimlZ",
+  "snapshot_id": "ain6gAAAAAD3iqeBosqDH5NT2RS1nbUb",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't!",
+        "url": "https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Don't! - Greatest Hits Version",
+      "url": "https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encontros Pelo Caminho",
         "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
       },
@@ -619,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't!",
-        "url": "https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
@@ -628,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Don't! - Greatest Hits Version",
-      "url": "https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH"
+      "duration_ms": 219693,
+      "name": "Black Eyes, Blue Tears",
+      "url": "https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki"
     },
     {
       "added_at": null,
@@ -651,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+        "name": "Up! (Red and Blue Versions)",
+        "url": "https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0"
       },
       "artists": [
         {
@@ -660,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 219693,
-      "name": "Black Eyes, Blue Tears",
-      "url": "https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki"
+      "duration_ms": 199466,
+      "name": "It Only Hurts When I'm Breathing - Red Version",
+      "url": "https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO"
     },
     {
       "added_at": null,
@@ -687,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Red and Blue Versions)",
-        "url": "https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
@@ -696,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 199466,
-      "name": "It Only Hurts When I'm Breathing - Red Version",
-      "url": "https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO"
+      "duration_ms": 228826,
+      "name": "Whatever You Do! Don't!",
+      "url": "https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
       "duration_ms": 196720,
       "name": "In My Car (I'll Be The Driver) - Red Version",
       "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 228826,
-      "name": "Whatever You Do! Don't!",
-      "url": "https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8"
     },
     {
       "added_at": null,

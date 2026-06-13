@@ -2,7 +2,7 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> Murilo Huff o e os maiores hits do país\. O que tá bombando tá aqui.
+> Felipe Araújo, Panda o e os maiores hits do país\. O que tá bombando tá aqui.
 
 721 songs - 1 day 12 hr 7 min
 

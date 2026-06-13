@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-197 songs - 2 day 0 hr 37 min
+198 songs - 2 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Amitayus](https://open.spotify.com/track/57s4nYX7mglYseLG1RELMS) | [Buddhist Monks](https://open.spotify.com/artist/71M5KBWnBCoGYGJxudnGBW) | [Live Mantra](https://open.spotify.com/album/29QB7nHpA8SU435vVage0Y) | 2:51 | 2023-05-23 | 2023-06-09 |
 | [Antarjami Purakh Bidhate](https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Positive Energy](https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7) | 11:20 | 2022-01-24 |  |
 | [Bajrang Baan](https://open.spotify.com/track/1Ab0PsTSuqFjU3hxdzZ41t) | [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU), [Lokeshwar Edara](https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8), [Harshavardhan Chavali](https://open.spotify.com/artist/4ViFjJxWBVs6VrXj72J05G) | [Bajrang Baan](https://open.spotify.com/album/4ElIZIv6fb4LRQpwIh8Kre) | 5:37 | 2026-01-22 |  |
-| [Beej Mantra](https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Ganesh](https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E) | 4:57 | 2024-09-05 |  |
+| [Beej Mantra](https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Ganesh](https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E) | 4:57 | 2024-09-05 | 2026-06-13 |
 | [Bendición de Guru](https://open.spotify.com/track/5rNgiNxnzyeKYCVA9yTqSg) | [Lama Dorje](https://open.spotify.com/artist/1zTJulYHHc7xqncJh2qw9Z) | [Mantras Budista](https://open.spotify.com/album/7AfpljlxDdVVf4AQcpjamv) | 4:29 | 2024-12-30 |  |
 | [Bhairavi Vandana](https://open.spotify.com/track/2BPfuEhYccGXJe4nXCW9XT) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Triveni: Durga, Lakshmi, Saraswati](https://open.spotify.com/album/5339WvUHRv9qRGG4G0pmQv) | 5:15 | 2023-05-23 |  |
 | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/track/1gxt3cazhB9VbauY2iEfoe) | [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Flipsyd](https://open.spotify.com/artist/0FLg7KXUSAjWEgpuU09Itb) | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/album/7uLLOVFMzasRXNupYHQGtX) | 4:46 | 2025-03-25 |  |
@@ -203,6 +203,7 @@
 | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/track/2SYlyBEfTfgvnmwiVI49Mi) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/album/3s5NlnnwDthLumTVgjiggP) | 10:11 | 2023-07-05 | 2024-12-31 |
 | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/track/34iVe1a0rFn8PIsp2UxlSJ) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/album/23UptOy5AgH08OYuSoftn8) | 10:11 | 2024-04-05 | 2024-04-19 |
 | [Vishnu Gayatri Mantra](https://open.spotify.com/track/51PK0fvqPAP0FlxSZ8szif) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Vishnu Gayatri Mantra](https://open.spotify.com/album/1LmlEbvxq3XUHaz8K6u1Ps) | 5:23 | 2025-02-07 |  |
+| [Vishnu Mantra \(Om Vishnave Namah 108 Time\)](https://open.spotify.com/track/35ZpbFnsQEvc2JU3HJ1Dly) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe), [Sanjayraj Gaurinandan](https://open.spotify.com/artist/364SUutxNBI1jqUp4DBqZB) | [Vishnu Mantra \(Om Vishnave Namah 108 Time\)](https://open.spotify.com/album/22JKOBpVrTWDkie5mWsxBs) | 12:45 | 2026-05-28 |  |
 | [Waheguru Wahe Jio](https://open.spotify.com/track/0lliLuoYQoVwXaCyNXMoqK) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/6KusWndRTwoWKdMEKR7wde) | 45:01 | 2022-01-24 | 2024-12-31 |
 | [Waheguru Wahe Jio](https://open.spotify.com/track/1ZC1vU3OWjOZqREj9th9eh) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:01 | 2022-01-24 | 2024-04-19 |
 

@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex rhythms and virtuosic playing\. Cover: CASIOPEA
 
-177 songs - 17 hr 2 min
+178 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Sand](https://open.spotify.com/track/1ShkndHksfid3GCvIuSu2k) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/7HzTW0cBacJZwUomqAWPId) | 5:25 | 2021-02-12 |  |
 | [Sand](https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl) | 5:25 | 2021-02-12 | 2024-04-19 |
 | [Savannah](https://open.spotify.com/track/771NJupMr1OXtQ76umdJCZ) | [Tomohiro Maeda](https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N) | [Free Colors](https://open.spotify.com/album/5To6BwgtYKNgZnODcbexMa) | 4:11 | 2022-04-08 |  |
+| [Schala](https://open.spotify.com/track/0JXEShek5xlpkhJlxSkKOz) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Seda](https://open.spotify.com/artist/0c6JTU2XbJoy79ECLuYw1Q), [ewik\_42](https://open.spotify.com/artist/70gsrdszTQUBnZYoMpk5Hi) | [Schala](https://open.spotify.com/album/53QlNgkCPfFSwyKfBgz0oi) | 3:38 | 2026-06-12 |  |
 | [School Days](https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Bass\-ic Collection](https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM) | 7:49 | 2021-02-12 |  |
 | [Seventh String](https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 3:05 | 2022-09-30 |  |
 | [Silk](https://open.spotify.com/track/0iYX1Xf1jihHuZOwW6YEJ1) | [Alexei Orechin](https://open.spotify.com/artist/0hpvhki3LNILjAIhOfcKAc) | [Mirages](https://open.spotify.com/album/6QKhPgKAdOdZ19Ueqy5GMa) | 6:59 | 2021-02-12 |  |

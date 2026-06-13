@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Protoje
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,143,145 likes - 110 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,142,947 likes - 110 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 9 | [Kingston Town](https://open.spotify.com/track/2OHQhOiGIYaXqqJVIMpNrF) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Soul Pirate](https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC) | 3:12 |
 | 10 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 |
 | 11 | [One Drop](https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:51 |
-| 12 | [Hills And Valleys](https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 4:33 |
-| 13 | [Police In Helicopter](https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Police In Helicopter](https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq) | 3:39 |
+| 12 | [Police In Helicopter](https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Police In Helicopter](https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq) | 3:39 |
+| 13 | [Hills And Valleys](https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 4:33 |
 | 14 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 |
 | 15 | [Here Comes Trouble](https://open.spotify.com/track/5Wwr2S7QZTR5PVJn6jhgdk) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Dread & Terrible](https://open.spotify.com/album/4zYr71y5wIjnoizuJ4o6ZK) | 3:54 |
 | 16 | [Here I Come](https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Reggae Anthology: Sweet Reggae Music \(1979\-84\)](https://open.spotify.com/album/55FfXQVWDbB3tEC7L9lvzA) | 3:37 |
@@ -111,9 +111,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 101 | [Angel](https://open.spotify.com/track/6dViIgkYIRccNImPln58rS) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rayvon](https://open.spotify.com/artist/1oqC0QCUYf3c2pPB8h5EAj) | [Hot Shot \(International Version \#2\)](https://open.spotify.com/album/6NmFmPX56pcLBOFMhIiKvF) | 3:55 |
 | 102 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
 | 103 | [Slow Down \(with H.E.R.\)](https://open.spotify.com/track/73FDJgnjt6ZcxoiavN6XrS) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Slow Down \(with H.E.R.\)](https://open.spotify.com/album/2Z6sqSTQprW8el0lCqojKi) | 3:15 |
-| 104 | [I Wish You Were Here](https://open.spotify.com/track/4AVIdds2A4E4UsZcVU0Uso) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/7CoH3Na9J73DUay9gLU4fk) | 4:27 |
+| 104 | [Beach In Hawaii](https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI) | 3:40 |
 | 105 | [Could You Be Loved](https://open.spotify.com/track/3yoWBFuanYVmwbJ4jF0AQi) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(The Definitive Remasters\)](https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9) | 3:57 |
-| 106 | [Beach In Hawaii](https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI) | 3:40 |
+| 106 | [I Wish You Were Here](https://open.spotify.com/track/4AVIdds2A4E4UsZcVU0Uso) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/7CoH3Na9J73DUay9gLU4fk) | 4:27 |
 | 107 | [Murderer](https://open.spotify.com/track/0j3k5lalAmEHaXJeytoMB6) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Original Ragga Muffin, Pt\. 1](https://open.spotify.com/album/2jLNKZ0HQJ4OJOprvVkDvV) | 3:53 |
 | 108 | [Welcome To Jamrock](https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5) | 3:33 |
 | 109 | [Rock Stone](https://open.spotify.com/track/2PeRJj9lTSq7Eb3UHXLFK8) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Revelation Pt\. II: "The Fruit of Life"](https://open.spotify.com/album/0kJMrx4gL91xAf7VCQFKKI) | 4:37 |

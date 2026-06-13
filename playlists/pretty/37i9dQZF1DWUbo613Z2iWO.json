@@ -1,13 +1,45 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Fana Hues",
+  "description": "R&B of the moment by the artists of the future. Cover: DAMEDAME*",
   "num_followers": 59471,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO9CXpp19949zbep4hxR5gwmGBhr",
+  "snapshot_id": "AAAAAHpLlUf1ZrHaWf18Lw2lBR0tTcVr",
   "tracks": [
+    {
+      "added_at": "2026-06-12 05:12:18",
+      "album": {
+        "name": "FIRE BURNIN' THRU THE RAIN",
+        "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 167394,
+      "name": "FIRE BURNIN' THRU THE RAIN",
+      "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
+    },
+    {
+      "added_at": "2026-06-05 04:01:54",
+      "album": {
+        "name": "U, Me & My Ego",
+        "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        }
+      ],
+      "duration_ms": 150201,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX"
+    },
     {
       "added_at": "2026-06-05 04:01:54",
       "album": {
@@ -25,20 +57,20 @@
       "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
     },
     {
-      "added_at": "2026-06-05 04:01:54",
+      "added_at": "2026-06-12 05:12:18",
       "album": {
-        "name": "U, Me & My Ego",
-        "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
+        "name": "Go To Hell",
+        "url": "https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt"
       },
       "artists": [
         {
-          "name": "Chxrry",
-          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 150201,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX"
+      "duration_ms": 208000,
+      "name": "Go To Hell",
+      "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
     },
     {
       "added_at": "2026-06-05 04:01:54",
@@ -73,20 +105,20 @@
       "url": "https://open.spotify.com/track/1NdQrgrAKwEhhLVYFNytZo"
     },
     {
-      "added_at": "2026-06-05 04:01:54",
+      "added_at": "2026-06-12 05:12:18",
       "album": {
-        "name": "Therapy Wasn't Enough",
-        "url": "https://open.spotify.com/album/3awpPQ7V7c9kcT3JSg3nyQ"
+        "name": "Not So Sweet",
+        "url": "https://open.spotify.com/album/6Zr7GLxnNwy9vVod25bpux"
       },
       "artists": [
         {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
         }
       ],
-      "duration_ms": 195790,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/2oyLgQOfWSA5Q1BH4LzuOJ"
+      "duration_ms": 235088,
+      "name": "Not So Sweet",
+      "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -107,6 +139,38 @@
     {
       "added_at": "2026-06-05 04:01:54",
       "album": {
+        "name": "Therapy Wasn't Enough",
+        "url": "https://open.spotify.com/album/3awpPQ7V7c9kcT3JSg3nyQ"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 195790,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/2oyLgQOfWSA5Q1BH4LzuOJ"
+    },
+    {
+      "added_at": "2026-06-12 05:12:18",
+      "album": {
+        "name": "Fiendin'",
+        "url": "https://open.spotify.com/album/4HcfN579U2afLktVkvFkfS"
+      },
+      "artists": [
+        {
+          "name": "Davion Farris",
+          "url": "https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI"
+        }
+      ],
+      "duration_ms": 232656,
+      "name": "Fiendin'",
+      "url": "https://open.spotify.com/track/6T0LS3bIOw6P74s8ZaGmNN"
+    },
+    {
+      "added_at": "2026-06-05 04:01:54",
+      "album": {
         "name": "Papercut",
         "url": "https://open.spotify.com/album/5q3xwmFq7Hgfyq6UUCgwpf"
       },
@@ -119,6 +183,38 @@
       "duration_ms": 161843,
       "name": "On Demand",
       "url": "https://open.spotify.com/track/2AvfSSr0Wazcs643jYBzoO"
+    },
+    {
+      "added_at": "2026-06-05 04:01:54",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 207138,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
+    },
+    {
+      "added_at": "2026-06-12 05:12:18",
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/5UMHDHfNoyrIo66RuMjOBV"
+      },
+      "artists": [
+        {
+          "name": "Oranj Goodman",
+          "url": "https://open.spotify.com/artist/3s9HeMWk4kpVAzjZ1e2lCG"
+        }
+      ],
+      "duration_ms": 138378,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/09GXjYOGBhcuOHbW1tBJP3"
     },
     {
       "added_at": "2026-06-05 04:01:54",
@@ -157,6 +253,70 @@
       "url": "https://open.spotify.com/track/786J186GBhQ9z0jJvH18Vu"
     },
     {
+      "added_at": "2026-06-12 05:12:18",
+      "album": {
+        "name": "The Yearbook (Extended Version)",
+        "url": "https://open.spotify.com/album/6kew6zxZaMi5fLdURyEwhC"
+      },
+      "artists": [
+        {
+          "name": "2BYG",
+          "url": "https://open.spotify.com/artist/4G6aMODE9CTOZyZ9S39DUE"
+        }
+      ],
+      "duration_ms": 220067,
+      "name": "WYW",
+      "url": "https://open.spotify.com/track/3ZfkwBDXNyN5rXKzV30zK2"
+    },
+    {
+      "added_at": "2026-06-05 04:01:54",
+      "album": {
+        "name": "Squeeze",
+        "url": "https://open.spotify.com/album/7FPsItzxIWO0NzyeDte5Y8"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        }
+      ],
+      "duration_ms": 174159,
+      "name": "Squeeze",
+      "url": "https://open.spotify.com/track/2WaV7wTVJjuOL4YNGxMpiU"
+    },
+    {
+      "added_at": "2026-06-05 04:01:54",
+      "album": {
+        "name": "Small Chops",
+        "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 104070,
+      "name": "Cry On You",
+      "url": "https://open.spotify.com/track/488d0odzx7GHa427jIvnDv"
+    },
+    {
+      "added_at": "2026-06-12 05:12:18",
+      "album": {
+        "name": "Wouldn't You Like To Know",
+        "url": "https://open.spotify.com/album/2dgLCpy0RFM2syxoLuCUwz"
+      },
+      "artists": [
+        {
+          "name": "Reign Judge",
+          "url": "https://open.spotify.com/artist/3G7N2G4Gpx0P8uBMu2Sv9v"
+        }
+      ],
+      "duration_ms": 207010,
+      "name": "Wouldn't You Like To Know",
+      "url": "https://open.spotify.com/track/6Cqt0IQ4OJEB0ndMCd7BI5"
+    },
+    {
       "added_at": "2026-05-29 04:02:53",
       "album": {
         "name": "High",
@@ -171,22 +331,6 @@
       "duration_ms": 175000,
       "name": "High",
       "url": "https://open.spotify.com/track/1fylUPtF8NeiiZQng4F1Tf"
-    },
-    {
-      "added_at": "2026-06-05 04:01:54",
-      "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 207138,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -209,36 +353,20 @@
       "url": "https://open.spotify.com/track/6CD8YpwCjh8Ma2L3rjAjEh"
     },
     {
-      "added_at": "2026-06-05 04:01:54",
+      "added_at": "2026-06-12 05:12:18",
       "album": {
-        "name": "Small Chops",
-        "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
+        "name": "MY FEET",
+        "url": "https://open.spotify.com/album/3NlIELCR7Fs7gETU7z77Cl"
       },
       "artists": [
         {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
         }
       ],
-      "duration_ms": 104070,
-      "name": "Cry On You",
-      "url": "https://open.spotify.com/track/488d0odzx7GHa427jIvnDv"
-    },
-    {
-      "added_at": "2026-06-05 04:01:54",
-      "album": {
-        "name": "Squeeze",
-        "url": "https://open.spotify.com/album/7FPsItzxIWO0NzyeDte5Y8"
-      },
-      "artists": [
-        {
-          "name": "Flwr Chyld",
-          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
-        }
-      ],
-      "duration_ms": 174159,
-      "name": "Squeeze",
-      "url": "https://open.spotify.com/track/2WaV7wTVJjuOL4YNGxMpiU"
+      "duration_ms": 291500,
+      "name": "MY FEET",
+      "url": "https://open.spotify.com/track/5fAhY1tVGHTfWADAyRbOMp"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -1635,22 +1763,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "THE DANGER",
-        "url": "https://open.spotify.com/album/457TT3OqecApiXp4S5MdUY"
-      },
-      "artists": [
-        {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
-        }
-      ],
-      "duration_ms": 119500,
-      "name": "THE DANGER",
-      "url": "https://open.spotify.com/track/2tuUWtr4zhmkFy2C8vViv0"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/3sbAIbwlBjdUt1GD1iteHO"
       },
@@ -2683,22 +2795,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "S.A.H (SIDE A_SIDE B)",
-        "url": "https://open.spotify.com/album/7sIbbNmqrbO3eCpP3Oz8AM"
-      },
-      "artists": [
-        {
-          "name": "Kalisway",
-          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
-        }
-      ],
-      "duration_ms": 187601,
-      "name": "BOSS",
-      "url": "https://open.spotify.com/track/62TrNd7HbXRidoNSaMTGDF"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "SAFE",
         "url": "https://open.spotify.com/album/0Xg7mjikHBTIdeaH8Te4OV"
       },
@@ -2743,22 +2839,6 @@
       "duration_ms": 184411,
       "name": "Show You Right",
       "url": "https://open.spotify.com/track/5ijXwObKBcZZMigcwrevoC"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "won't be the same",
-        "url": "https://open.spotify.com/album/7LuYCTsG8SKfUanUr88Yv2"
-      },
-      "artists": [
-        {
-          "name": "Mal London",
-          "url": "https://open.spotify.com/artist/3fDtug6dI80VyEWO3vcT0U"
-        }
-      ],
-      "duration_ms": 131794,
-      "name": "won't be the same",
-      "url": "https://open.spotify.com/track/4dHzG11qkHLZBWqZRE9vDn"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -3063,22 +3143,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Kryptonite",
-        "url": "https://open.spotify.com/album/2e4r2CiCRc5aAY7OlaL09O"
-      },
-      "artists": [
-        {
-          "name": "V. Cartier",
-          "url": "https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop"
-        }
-      ],
-      "duration_ms": 200460,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/2kwszkUHGtCPgshacWrivq"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Come Get My Love",
         "url": "https://open.spotify.com/album/17dAEF9B4dPdOD3iwS5BbK"
       },
@@ -3095,26 +3159,6 @@
       "duration_ms": 218998,
       "name": "Come Get My Love",
       "url": "https://open.spotify.com/track/2XCcvfgiM3PtKWenEpCVEH"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/74q87qVm0cZ9jOiS1n4n3e"
-      },
-      "artists": [
-        {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        },
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 153636,
-      "name": "Cowboy/Cowgirl",
-      "url": "https://open.spotify.com/track/4CZyHieOIQceXQUB24M5tW"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -3223,22 +3267,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "THE GEMINI",
-        "url": "https://open.spotify.com/album/5k6M7gUCsKqzdBDkqIQtfP"
-      },
-      "artists": [
-        {
-          "name": "Elijah Blake",
-          "url": "https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR"
-        }
-      ],
-      "duration_ms": 256454,
-      "name": "Bubble",
-      "url": "https://open.spotify.com/track/0xj2o8bku1O1kjebzgN7Uz"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/3coobmbIsiyA7O8K3PIEYQ"
       },
@@ -3271,26 +3299,6 @@
       "duration_ms": 208626,
       "name": "Always",
       "url": "https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "InsydeOut",
-        "url": "https://open.spotify.com/album/3Ng6kk6QFnn6N8Jq1sV7Hk"
-      },
-      "artists": [
-        {
-          "name": "Flwr Chyld",
-          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
-        },
-        {
-          "name": "Kent Jamz",
-          "url": "https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w"
-        }
-      ],
-      "duration_ms": 186122,
-      "name": "EmptyBaggage",
-      "url": "https://open.spotify.com/track/6OGhk6MEWCVhmxYcM9Vuo2"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -3363,22 +3371,6 @@
       "duration_ms": 178586,
       "name": "Myself (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "I'm Still",
-        "url": "https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "I'm Still",
-      "url": "https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr"
     }
   ],
   "unique_name": "R&B Rising",

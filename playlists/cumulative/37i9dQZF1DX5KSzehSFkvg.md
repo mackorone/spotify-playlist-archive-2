@@ -4,7 +4,7 @@
 
 > 🇲🇦 أحسن أغاني البوب المغربي
 
-221 songs - 11 hr 48 min
+222 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [KOULCHI MCHA](https://open.spotify.com/track/7adgFNHRiivCGUPxlgYTGg) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [KOULCHI MCHA](https://open.spotify.com/album/1gZR0ys83Gojfta1s6pUrI) | 2:24 | 2025-08-17 | 2026-01-15 |
 | [La Grinta](https://open.spotify.com/track/0GZ5TN2SnpfUyx4nkaXT0o) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [La Grinta](https://open.spotify.com/album/10wrdFXjPKazGA8wnjPujS) | 2:40 | 2023-07-07 | 2024-04-12 |
 | [La hadi la hadik](https://open.spotify.com/track/1dOrFX61yagHbUzzMHOzZ0) | [Houssainy](https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko) | [La hadi la hadik](https://open.spotify.com/album/2Hw4br38JEDdv6b4Al36L1) | 3:25 | 2024-06-14 | 2024-08-29 |
+| [La La / لا لا](https://open.spotify.com/track/10j44BWMnYtr2JnZcxJu7v) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [La La / لا لا](https://open.spotify.com/album/33TQa6td5uJtBHVK1hsGzg) | 2:36 | 2026-06-12 |  |
 | [La Plus Belle](https://open.spotify.com/track/2lhFpjM9Hf2FZMTShrSoKv) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [La Plus Belle](https://open.spotify.com/album/190XT5AihptIJkSrPJjzlh) | 2:30 | 2025-07-09 |  |
 | [La Tzöröni](https://open.spotify.com/track/32GxbI4EMezFdM9hROGw5u) | [Houssainy](https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko) | [La Tzöröni](https://open.spotify.com/album/4GwUKOnGUSek37TvxSKZy4) | 2:50 | 2023-10-24 | 2024-08-29 |
 | [Laman Khalitini](https://open.spotify.com/track/5NuXWwTu9nT3qKnjwRIEVr) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Laman Khalitini](https://open.spotify.com/album/7E9YwAQvad0TuZY1EcJEin) | 3:22 | 2023-08-18 | 2023-12-01 |
@@ -171,7 +172,7 @@
 | [Ness Lil](https://open.spotify.com/track/07F2Rm83gNLKwiBi2ucRep) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ness Lil](https://open.spotify.com/album/63EmbDWn9juvJwL4iqgmPx) | 3:24 | 2023-08-14 | 2024-10-25 |
 | [Njik Droka](https://open.spotify.com/track/4qU4foaNOXg1Ngn7UPuv2W) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Njik Droka](https://open.spotify.com/album/48wSJobohI95jmrSt30KCD) | 2:53 | 2024-07-09 | 2024-12-23 |
 | [Nsiti](https://open.spotify.com/track/0qvOa81HDkZs2c07K6XtCE) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG) | 2:52 | 2023-07-07 | 2023-11-30 |
-| [Ntiya](https://open.spotify.com/track/3HTXEyvWPTZusrpBWmU6oy) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Ntiya](https://open.spotify.com/album/6kHpHJnasd7it6G9fYW6lc) | 4:16 | 2024-07-04 |  |
+| [Ntiya](https://open.spotify.com/track/3HTXEyvWPTZusrpBWmU6oy) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Ntiya](https://open.spotify.com/album/6kHpHJnasd7it6G9fYW6lc) | 4:16 | 2024-07-04 | 2026-06-13 |
 | [Oh qu'elle est belle](https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:40 | 2024-08-30 | 2025-06-19 |
 | [Omri \(feat\. kouz1\)](https://open.spotify.com/track/0UoPZZKHTNXyAKvnQC0PrY) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Omri \(feat\. kouz1\)](https://open.spotify.com/album/6uPeVzOEUmO69h6gsNt2rn) | 3:20 | 2023-07-07 | 2023-11-29 |
 | [Papa](https://open.spotify.com/track/38oGhiphXiXM3bZrr8p4QL) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Papa](https://open.spotify.com/album/0R6c5bHmnp1MeHiXr2Z928) | 2:41 | 2023-07-07 | 2023-12-08 |

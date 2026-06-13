@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the best of ska, new and classic. Los Calzones on cover ",
+  "description": "This is the best of ska, new and classic. Sublime on cover ",
   "name": "The Essential Ska",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 148938,
       "name": "A Better Home",
       "url": "https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s"
@@ -540,6 +540,28 @@
       "duration_ms": 173586,
       "name": "Baby",
       "url": "https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5"
+    },
+    {
+      "album": {
+        "name": "Until The Sun Explodes",
+        "url": "https://open.spotify.com/album/08wHg3Ie9jj8nLZv5ue7bM"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        },
+        {
+          "name": "Zac Carper",
+          "url": "https://open.spotify.com/artist/1dQZZYnIc7vU19rCNdkjgJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204253,
+      "name": "Backwards (feat. Zac Carper)",
+      "url": "https://open.spotify.com/track/0bYymFq3oLdOzR38VAP5L0"
     },
     {
       "album": {
@@ -2527,6 +2549,24 @@
     },
     {
       "album": {
+        "name": "388",
+        "url": "https://open.spotify.com/album/7edG5yOWTvv6lVhB0NNlt6"
+      },
+      "artists": [
+        {
+          "name": "The Coral",
+          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187062,
+      "name": "Leave It In The Past",
+      "url": "https://open.spotify.com/track/7juxf6MgWlYbt5hLhbaJxv"
+    },
+    {
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/5ubvjtSzbJwZ4mv46SrIed"
       },
@@ -4273,6 +4313,24 @@
     },
     {
       "album": {
+        "name": "Secret Lover",
+        "url": "https://open.spotify.com/album/7iQV7A56og3xukRdb3F8Lm"
+      },
+      "artists": [
+        {
+          "name": "Irie Love",
+          "url": "https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193827,
+      "name": "Secret Lover",
+      "url": "https://open.spotify.com/track/3wY0ZXUrwkrJoj9oB9LOwL"
+    },
+    {
+      "album": {
         "name": "See You Again",
         "url": "https://open.spotify.com/album/0gIN5MH2JCJwBfSmYasAR7"
       },
@@ -5370,7 +5428,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 168236,
       "name": "Tiempo Que Perd\u00ed",
       "url": "https://open.spotify.com/track/180xzB9mDTYdKSiJ3BiPqX"
@@ -5774,7 +5832,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 214000,
       "name": "University",
       "url": "https://open.spotify.com/track/63boKN9qNhEnKvLXnAZtvl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Arøne
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,488 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,512 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 12 | [Je ne reviendrai pas](https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Je ne reviendrai pas](https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE) | 2:43 |
 | 13 | [1000 morceaux](https://open.spotify.com/track/1hsXj9X9i3A00KXXOLMAvv) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [1000 morceaux](https://open.spotify.com/album/1rg6HMLANVWaVIB6KLTrky) | 3:08 |
 | 14 | [Tomorrows](https://open.spotify.com/track/5oIHQx3Lng4NlSqWxbxgMd) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Tomorrows](https://open.spotify.com/album/76jh4BwTC5gObvqorzZahl) | 3:16 |
-| 15 | [Track 5](https://open.spotify.com/track/5x0k4z6vLe43YybPUwENQz) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [le rose c'est hasbeen](https://open.spotify.com/album/6ZW6GRq5HYL7z6P3o7b6t2) | 0:00 |
+| 15 | [oups](https://open.spotify.com/track/5x0k4z6vLe43YybPUwENQz) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [le rose c'est hasbeen](https://open.spotify.com/album/6ZW6GRq5HYL7z6P3o7b6t2) | 2:52 |
 | 16 | [Appelle\-moi](https://open.spotify.com/track/52imcKqpt9NgcThDj2WHTx) | [Neniu](https://open.spotify.com/artist/27JvDfZUHLn7JVt8pOJs1I) | [Appelle\-moi](https://open.spotify.com/album/6ybXT1gGJU7aUlTF95qbiW) | 2:22 |
 | 17 | [internet](https://open.spotify.com/track/7aC0og0wGBisY87cUpEdXG) | [Mitty](https://open.spotify.com/artist/6Wo4zyufcc4V8ZM1TCxDxW) | [internet](https://open.spotify.com/album/4I7qdgWeMuzB2ME7LnZcsN) | 2:42 |
 | 18 | [reviens me voir](https://open.spotify.com/track/5gTZonkwbJM2Ls5bjqUpaj) | [kissed](https://open.spotify.com/artist/6tkcFCnXVayNKi5OWeVpoi) | [reviens me voir](https://open.spotify.com/album/7agmXLWwV9uPwhLj1zJGOM) | 2:51 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Juan Freer \ud83d\udcf8",
+  "description": "The new school of M\u00fasica Mexicana. Los Lara \ud83d\udcf8",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -4939,6 +4939,28 @@
     },
     {
       "album": {
+        "name": "Carnal Bajale",
+        "url": "https://open.spotify.com/album/0INtOWkEOza495B24P5YtV"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169559,
+      "name": "Carnal Bajale",
+      "url": "https://open.spotify.com/track/6d5ufSx3FCUkvQyFA4VJro"
+    },
+    {
+      "album": {
         "name": "Carnalito",
         "url": "https://open.spotify.com/album/3QZWIob5yTnT3TSUwodM8f"
       },
@@ -7988,6 +8010,24 @@
       "duration_ms": 187178,
       "name": "Desde Cero",
       "url": "https://open.spotify.com/track/6b7uTSX5vdRBlwvfvp52aO"
+    },
+    {
+      "album": {
+        "name": "Desde Que Te Tengo",
+        "url": "https://open.spotify.com/album/2iZq4gNWUtijm5lZSQlUrQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Desde Que Te Tengo",
+      "url": "https://open.spotify.com/track/1to9ZHrjZSyP6WevUoeNer"
     },
     {
       "album": {
@@ -13045,6 +13085,32 @@
     },
     {
       "album": {
+        "name": "Flicka",
+        "url": "https://open.spotify.com/album/1OmoePoGTxRMnwpZGKRxEz"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        },
+        {
+          "name": "Bandi2",
+          "url": "https://open.spotify.com/artist/31hQsDuP9VSY5kc5jQnQfW"
+        },
+        {
+          "name": "Panchito7",
+          "url": "https://open.spotify.com/artist/1jaFWeTddSp6FaFEu4F0VE"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210260,
+      "name": "Flicka",
+      "url": "https://open.spotify.com/track/7qRV8RjurS5tMLbFprMuGH"
+    },
+    {
+      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
       },
@@ -15468,6 +15534,24 @@
       "duration_ms": 185549,
       "name": "komo llego el final",
       "url": "https://open.spotify.com/track/37wrK3Whdi4ZNbPZUiA5hf"
+    },
+    {
+      "album": {
+        "name": "KOREANAS",
+        "url": "https://open.spotify.com/album/0KG5Zhk6ZMrouSnVKjFaro"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ajedrez",
+          "url": "https://open.spotify.com/artist/0zQFDEHdNnqztZUHX5bzor"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146851,
+      "name": "KOREANAS",
+      "url": "https://open.spotify.com/track/1NfIx5rTGzx57BA8cRSE3W"
     },
     {
       "album": {
@@ -18465,6 +18549,28 @@
     },
     {
       "album": {
+        "name": "Maldito el Hombre",
+        "url": "https://open.spotify.com/album/7cSVTOMi4JM8r1s6DqXAgS"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134581,
+      "name": "Maldito el Hombre",
+      "url": "https://open.spotify.com/track/7hslTSzvoa1Zs0S0jjtd5E"
+    },
+    {
+      "album": {
         "name": "Maldito Olvido",
         "url": "https://open.spotify.com/album/2FQl8STaVhL0j6ph9zIsPS"
       },
@@ -20520,6 +20626,24 @@
       "duration_ms": 181525,
       "name": "Mil Pedazos",
       "url": "https://open.spotify.com/track/2Mi5BLsctdUzadFCTbhSQC"
+    },
+    {
+      "album": {
+        "name": "Mil x Hora",
+        "url": "https://open.spotify.com/album/6ve34licV5FXj6JhbgYdcO"
+      },
+      "artists": [
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149351,
+      "name": "Mil x Hora",
+      "url": "https://open.spotify.com/track/7B5U9TgPYByWbfG0UUvpQh"
     },
     {
       "album": {
@@ -27583,6 +27707,24 @@
     },
     {
       "album": {
+        "name": "PROYECTANDO",
+        "url": "https://open.spotify.com/album/3ojnQILwWc6ohZQVxtETHI"
+      },
+      "artists": [
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167946,
+      "name": "replica.",
+      "url": "https://open.spotify.com/track/5Bae75jc8KHMTatYOqnoTR"
+    },
+    {
+      "album": {
         "name": "Resguardando El Estado",
         "url": "https://open.spotify.com/album/328Wk4jwQ7klvuVDlogBfr"
       },
@@ -33598,6 +33740,24 @@
       "duration_ms": 194500,
       "name": "Vida y Libertad",
       "url": "https://open.spotify.com/track/1fMAYvrvgG8cf4ufKgIxem"
+    },
+    {
+      "album": {
+        "name": "Vieja Escuela",
+        "url": "https://open.spotify.com/album/7G3nitKxXv3sTBXuGCTm5K"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159178,
+      "name": "Vieja Escuela",
+      "url": "https://open.spotify.com/track/7veqwrYo5LN7zVM4DaIR8m"
     },
     {
       "album": {

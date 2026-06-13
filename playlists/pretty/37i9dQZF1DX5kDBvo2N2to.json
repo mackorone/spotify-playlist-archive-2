@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 61085,
+  "num_followers": 61100,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -99,18 +99,18 @@
     {
       "added_at": "2026-05-21 22:01:26",
       "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
         }
       ],
-      "duration_ms": 204068,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
       "added_at": "2026-05-21 22:01:26",
@@ -183,18 +183,18 @@
     {
       "added_at": "2026-05-21 22:01:26",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
       },
       "artists": [
         {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
       "added_at": "2026-05-21 22:01:26",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-05-21 22:01:26",
       "album": {
-        "name": "Ekko",
-        "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
-      },
-      "artists": [
-        {
-          "name": "GOLF",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
-        },
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 156035,
-      "name": "Ekko",
-      "url": "https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb"
-    },
-    {
-      "added_at": "2026-05-21 22:01:26",
-      "album": {
         "name": "Ta Mig Aldrig H\u00e4rifr\u00e5n",
         "url": "https://open.spotify.com/album/1gW17dHNYR0aDviEo3krRQ"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 187842,
       "name": "Ta Mig Aldrig H\u00e4rifr\u00e5n",
       "url": "https://open.spotify.com/track/63FjDlco0BQXJuPZeQ70CZ"
+    },
+    {
+      "added_at": "2026-05-21 22:01:26",
+      "album": {
+        "name": "Ekko",
+        "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
+      },
+      "artists": [
+        {
+          "name": "GOLF",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        },
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 156035,
+      "name": "Ekko",
+      "url": "https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb"
     },
     {
       "added_at": "2026-05-21 22:01:26",

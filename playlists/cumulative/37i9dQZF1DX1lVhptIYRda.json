@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Taylor Swift",
+  "description": "Today's top country hits. Cover: Koe Wetzel",
   "name": "Hot Country",
   "tracks": [
     {
@@ -14440,7 +14440,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 191826,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/7JxTS8CQYhbGWyKQGlODRX"
@@ -16230,6 +16230,28 @@
       "duration_ms": 206929,
       "name": "Things I Take For Granted",
       "url": "https://open.spotify.com/track/2d3KkBpDlOCLT5Wlhrwhfd"
+    },
+    {
+      "album": {
+        "name": "Think About Me",
+        "url": "https://open.spotify.com/album/2nQaXdzjSp7ZkNapPxIZiA"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+        },
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159308,
+      "name": "Think About Me",
+      "url": "https://open.spotify.com/track/4rGkUNqOZ6Yf7VXAc1xHor"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,477 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,482 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 45 | [Superheld](https://open.spotify.com/track/5vWp375d8xJvYQfZpCM8mc) | [Nino](https://open.spotify.com/artist/33qeczxHwDRybWmW1vI2Nu) | [Stille Wateren Diepe Gronden](https://open.spotify.com/album/1tHJfeKfn0b66kPah2ZJIW) | 4:07 |
 | 46 | [Ik Heb Je](https://open.spotify.com/track/6WpQuwf52PSYszyJlWRElp) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO) | [De Ark De Triomf](https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM) | 4:03 |
 | 47 | [Wind Waait](https://open.spotify.com/track/0csgY0KzPTHJeZJJhQdIk1) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [Sticks](https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd) | [Tussen Licht En Lucht](https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu) | 5:14 |
-| 48 | [Op De Straat \- Bonus Track](https://open.spotify.com/track/41pk4rQlDeoLtLhZetgz5s) | [Salah Edin](https://open.spotify.com/artist/61NnMiAXGKbPGObTEwcssj), [Stickz](https://open.spotify.com/artist/4XElpHwKLubHxfXQwWyyEY), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Nederlands Grootste Nachtmerrie](https://open.spotify.com/album/47ARpHxuUxPJvAR7EjiOgD) | 6:23 |
-| 49 | [Zwarte Koffie](https://open.spotify.com/track/0AUUsTWuBrQB0IEd5K63Sh) | [Jawat](https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg) | [Ut Zwarte Aap](https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI) | 3:52 |
+| 48 | [Zwarte Koffie](https://open.spotify.com/track/0AUUsTWuBrQB0IEd5K63Sh) | [Jawat](https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg) | [Ut Zwarte Aap](https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI) | 3:52 |
+| 49 | [Op De Straat \- Bonus Track](https://open.spotify.com/track/41pk4rQlDeoLtLhZetgz5s) | [Salah Edin](https://open.spotify.com/artist/61NnMiAXGKbPGObTEwcssj), [Stickz](https://open.spotify.com/artist/4XElpHwKLubHxfXQwWyyEY), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Nederlands Grootste Nachtmerrie](https://open.spotify.com/album/47ARpHxuUxPJvAR7EjiOgD) | 6:23 |
 | 50 | [Blam Blam](https://open.spotify.com/track/63ajJl52FOdeBYsUthJUyc) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [Slapeloze Nachten](https://open.spotify.com/album/1HFoz1ACfQuTwhV9xwRAgL) | 2:55 |
 | 51 | [Crisis](https://open.spotify.com/track/56wQYS4UHiYxK3Z1zLfdmp) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 4:14 |
 | 52 | [Ambiance](https://open.spotify.com/track/6QcH6GjDPcjixgieMwPr4j) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1), [Sticks](https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd) | [Ambiance](https://open.spotify.com/album/46EmL72r47VNWRUhRnELKC) | 4:00 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 97 | [Re: Mind \(feat\. Master Surreal, The Proov, Pete Philly, Skate the Great & Phreke\)](https://open.spotify.com/track/2pcmatwb8f0OBxBSojR7MI) | [Skiggy Rapz](https://open.spotify.com/artist/3vbbctIYmGu2HXRSSwFqoR), [Master Surreal](https://open.spotify.com/artist/7KnFcRQM4BlCn8VLRn1kHM), [The Proov](https://open.spotify.com/artist/7m37IEiVh2Y14QHkUhKKru), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Skate The Great](https://open.spotify.com/artist/5rkD1kUhSGBLja4OoO22pR), [Phreke](https://open.spotify.com/artist/1ibUV1ASQfezR6sbwwlXEP) | [Boat Drinks](https://open.spotify.com/album/3DzJ7oMfgRcYIfi6U3Q1wT) | 6:42 |
 | 98 | [Check Out Melodee](https://open.spotify.com/track/21gViv0Q8K2CimHjVfCxhm) | [Mc Melodee](https://open.spotify.com/artist/0JlylEmvQDSl60PLkYe9r8) | [Check Out Melodee](https://open.spotify.com/album/6tlAcJ78PqBy6RRcuOqL5v) | 3:20 |
 | 99 | [On Top Of De](https://open.spotify.com/track/4VknnXlY83VkUGxblL06Uy) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Turk](https://open.spotify.com/artist/3CCnfGrTPgEJoHFk4UOe0O), [Spacekees](https://open.spotify.com/artist/4qGhPy6Sl7Efs3D7a230wM) | [Boulimia](https://open.spotify.com/album/1aIaaBADEDECJDFlhzyKXV) | 4:01 |
-| 100 | [Classic](https://open.spotify.com/track/4CKgIyQKXXIo0qe9S19Rwu) | [VSOP](https://open.spotify.com/artist/0FTjNsMaGK9WXiBRjE3MgW) | [Huiswerk](https://open.spotify.com/album/6IlAcNdMHQbPbNGgVMXnr5) | 3:30 |
+| 100 | [9 tot 5](https://open.spotify.com/track/0tUZPEifyYlDfqH0MrvCnh) | [Raymzter](https://open.spotify.com/artist/5ZntjOpn1ADiQnLx3W9Eja) | [Rayalistisch \(Reissue\)](https://open.spotify.com/album/7vrpUK5hOOuI2y1jSGuaVq) | 4:03 |
 
 Snapshot ID: `AAAAAAJvwmt4K6y73q6+LlZPaNiK6tgx`

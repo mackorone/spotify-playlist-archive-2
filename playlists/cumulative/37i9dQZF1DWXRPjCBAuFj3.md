@@ -4,7 +4,7 @@
 
 > E lei traballa dentro all'auto e l'auto è tutta scassata
 
-1,045 songs - 2 day 5 hr 47 min
+1,046 songs - 2 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 | 2022-05-13 | 2022-09-16 |
 | [Da zero](https://open.spotify.com/track/0aFUAecJBaYgJHSu0uBf7a) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [DOOM](https://open.spotify.com/album/0wqNe0EDDKNpJ9SYMEVyLr) | 2:30 | 2025-11-18 | 2026-01-15 |
 | [Dah Dah DahDah](https://open.spotify.com/track/2TSfStvlAMLw89u3tali79) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:31 | 2022-08-30 | 2023-11-07 |
+| [DAL TACCO](https://open.spotify.com/track/1zrEskyOLXViiYdZgggiUI) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [DAL TACCO](https://open.spotify.com/album/1pkUZWvJtOTpsP5pP7gPBq) | 2:27 | 2026-06-12 |  |
 | [Dance \(with Nemzzz, Skillibeng & Stefflon Don\)](https://open.spotify.com/track/1akAa8qSlSPUrPVwXNNfyO) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [German Engineering 1](https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP) | 3:12 | 2023-08-18 | 2023-09-07 |
 | [Dancer \(feat\. Noizy, Rondodasosa & Capo Plaza\)](https://open.spotify.com/track/5092WBFsPhz41OsJJL6HRa) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Dancer \(feat\. Noizy, Rondodasosa & Capo Plaza\)](https://open.spotify.com/album/5iYD4DOP1xbIf03042AraN) | 3:11 | 2023-08-18 | 2024-01-21 |
 | [Dans le noir](https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 2:40 | 2023-10-25 | 2023-11-24 |

@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 大江千里
 
-523 songs - 1 day 18 hr 36 min
+524 songs - 1 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Suddenly Lovers](https://open.spotify.com/track/5EBcZJPbv1hSlkvpy9fruG) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Suddenly Lovers](https://open.spotify.com/album/2emVZPJIwGzDKzCHtnAgnW) | 3:38 | 2023-09-12 | 2023-09-20 |
 | [Sunday Morning](https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:59 | 2022-09-06 | 2024-12-18 |
 | [Sunrise](https://open.spotify.com/track/78w7jU2Nn89QqLnXtDRj7o) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Panorama](https://open.spotify.com/album/6om4lQLFf1Thy5TXspNM86) | 3:38 | 2024-06-04 | 2025-08-16 |
+| [Supersonic \- from "Butterfly" 2026 Take](https://open.spotify.com/track/3D1rtLG5MdPuWQLkzfpK2j) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Supersonic \(from "Butterfly" 2026 Take\)](https://open.spotify.com/album/7E7FU0KadMPcmKZWEMxxQP) | 3:52 | 2026-06-09 |  |
 | [Superstring \- Rework](https://open.spotify.com/track/4yCpoba6seyaAGwRQyVvdj) | [slowstoop](https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET) | [Mud And Citrus Mix Tape](https://open.spotify.com/album/4Aq96x9QJ6DN9e5UCsZvNU) | 2:42 | 2023-08-15 | 2023-10-15 |
 | [Sway](https://open.spotify.com/track/4ZaQrPuPNeRNtibf20FEoW) | [清水玲奈](https://open.spotify.com/artist/2O9kfVGkj9jOmL0wQCPKB6), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [uruwashi](https://open.spotify.com/artist/71tBDDxmRVFTrqs1D5e8gS) | [Sway](https://open.spotify.com/album/5eR8H1b3byH89y7yGghiIO) | 3:01 | 2025-04-01 | 2025-04-16 |
 | [Sweet for K](https://open.spotify.com/track/6ttmNhgpjIQg9rFYnwLss6) | [山本剛トリオ](https://open.spotify.com/artist/7MKLY7dosHjgkkHXRGwCvY) | [Sweet for K](https://open.spotify.com/album/3sWBa6GWGgZf1XORUDlyYo) | 3:59 | 2024-03-05 | 2024-06-05 |
@@ -452,7 +453,7 @@
 | [wolf moon](https://open.spotify.com/track/4Xp9m04sCoqzu41LaGCmk1) | [来海](https://open.spotify.com/artist/110vAH5DWtQ3fBywg7vNmE) | [wolf moon](https://open.spotify.com/album/5oioKgDqssAhTVd5jWNtMV) | 4:50 | 2025-08-19 | 2025-10-20 |
 | [Woman “Wの悲劇”より](https://open.spotify.com/track/2LekJIHMXmm2PEZ0sPfFfj) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Woman “Wの悲劇”より](https://open.spotify.com/album/6pdNJgvPa8LfnZXD8giqfx) | 3:53 | 2025-11-18 | 2026-02-07 |
 | [Wonderwall](https://open.spotify.com/track/6Qs0a1X7yYnsLL1v0ECgUG) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [Ray Yamada](https://open.spotify.com/artist/2iPwbnM7YmwRhe6tMhGfrF) | [Wonderwall](https://open.spotify.com/album/3zjPHlchINdyyXsYc6ry85) | 4:45 | 2024-10-08 | 2024-10-23 |
-| [Workaholic](https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Workaholic](https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG) | 4:26 | 2025-02-11 |  |
+| [Workaholic](https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Workaholic](https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG) | 4:26 | 2025-02-11 | 2026-06-13 |
 | [World's Famous](https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [World's Famous](https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW) | 3:11 | 2024-12-10 |  |
 | [xii\. Pig](https://open.spotify.com/track/6iLZBega4IaCrxa6qMRxrm) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [84 BPM ZODIAC](https://open.spotify.com/album/1clsgSKtxE8dTLvSYhiRbr) | 1:00 | 2023-10-17 | 2023-11-01 |
 | [YAMASTE](https://open.spotify.com/track/4lVjEChJOqqCVombMMAGX1) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [YAMASTE](https://open.spotify.com/album/06qraiNnSSgsInRH7HBlcl) | 4:46 | 2025-07-29 | 2025-08-24 |

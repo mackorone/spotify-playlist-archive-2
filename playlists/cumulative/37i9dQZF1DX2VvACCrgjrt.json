@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
+  "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Disco Lines",
   "name": "Nasty Bits",
   "tracks": [
     {
@@ -746,7 +746,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 177313,
       "name": "All I Think About",
       "url": "https://open.spotify.com/track/3ZHjhEqK1Nq03a0c3DELG4"
@@ -1198,6 +1198,28 @@
       "duration_ms": 180000,
       "name": "ARGENT",
       "url": "https://open.spotify.com/track/1lOETo1gQw2cMywPHuC0Tp"
+    },
+    {
+      "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/6GMGbOPuf2cBkQzjOhSm1X"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164423,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/4Nl32YRv6I3SenFccnCXN2"
     },
     {
       "album": {
@@ -3664,7 +3686,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 159047,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/5yZw3GYUj1ob95o9hIfOx0"
@@ -4208,6 +4230,24 @@
       "duration_ms": 136499,
       "name": "Bumper",
       "url": "https://open.spotify.com/track/6rnKUsfpnb7hN7IfMpuzLP"
+    },
+    {
+      "album": {
+        "name": "Bunda",
+        "url": "https://open.spotify.com/album/63CW9coiL9VWhUrkRCtk0R"
+      },
+      "artists": [
+        {
+          "name": "BLiNKR",
+          "url": "https://open.spotify.com/artist/19oNuL1mBROeWMN4t6Ax1x"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Bunda",
+      "url": "https://open.spotify.com/track/2B0AAJGqQMkVndEygc2Bfs"
     },
     {
       "album": {
@@ -5519,6 +5559,24 @@
     },
     {
       "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/0DqWCkK1d1l9521Qc1Y2iq"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168578,
+      "name": "Confessions",
+      "url": "https://open.spotify.com/track/0vJh9MCniJ6z9Tj1zoVw9Q"
+    },
+    {
+      "album": {
         "name": "CONFIDENT",
         "url": "https://open.spotify.com/album/1IXX4Gd0YlTAe8y9vB3I4j"
       },
@@ -5946,6 +6004,24 @@
       "duration_ms": 162399,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/5deXnyAyuJ4fyRIFEtAwIC"
+    },
+    {
+      "album": {
+        "name": "Cut Me",
+        "url": "https://open.spotify.com/album/7Hw1AMF5zNEA0ODA9ICVrf"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161931,
+      "name": "Cut Me",
+      "url": "https://open.spotify.com/track/2GCvwyaMtjFuTAF4x1o1dK"
     },
     {
       "album": {
@@ -8117,6 +8193,24 @@
     },
     {
       "album": {
+        "name": "ERICA",
+        "url": "https://open.spotify.com/album/2OJ0qv59cVCfJ9SoYWvpNn"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172727,
+      "name": "ERICA",
+      "url": "https://open.spotify.com/track/41cCSE7FcZrHQSgMwxkesy"
+    },
+    {
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
       },
@@ -8332,7 +8426,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 191818,
       "name": "F*CK THAT",
       "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
@@ -13401,6 +13495,28 @@
     },
     {
       "album": {
+        "name": "Jamaica Funk",
+        "url": "https://open.spotify.com/album/3hHVP2x5gg1gdNDFM3pQEA"
+      },
+      "artists": [
+        {
+          "name": "Ashton Adams",
+          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
+        },
+        {
+          "name": "Laydee Vee",
+          "url": "https://open.spotify.com/artist/0t6dzA023FG2aobGFJUdhY"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167343,
+      "name": "Jamaica Funk",
+      "url": "https://open.spotify.com/track/2xfFxgHmA3QtDKlQcpbpVf"
+    },
+    {
+      "album": {
         "name": "Jaw Drop",
         "url": "https://open.spotify.com/album/61VJRT8pdpXRXq3ylwNsD1"
       },
@@ -17178,7 +17294,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 178261,
       "name": "Night & Day",
       "url": "https://open.spotify.com/track/70emOt10n88XGHzJzG8qIB"
@@ -19714,6 +19830,24 @@
     {
       "album": {
         "name": "Pressure",
+        "url": "https://open.spotify.com/album/4kJF3BV5d18wi2BsEWdxv8"
+      },
+      "artists": [
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/2zWuofQhXXENmYn7T10Cr4"
+    },
+    {
+      "album": {
+        "name": "Pressure",
         "url": "https://open.spotify.com/album/5BTu8yBKhjZWwxzVt5cAAH"
       },
       "artists": [
@@ -19816,6 +19950,24 @@
       "duration_ms": 178125,
       "name": "Problems",
       "url": "https://open.spotify.com/track/20JqJ1ZtlYxLjDL5VdTQJj"
+    },
+    {
+      "album": {
+        "name": "PROPAGANDA",
+        "url": "https://open.spotify.com/album/3qR7QY2YqN89ObIGj0lZMR"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142954,
+      "name": "PROPAGANDA",
+      "url": "https://open.spotify.com/track/45qX16FOpNQL98LOp2LOHl"
     },
     {
       "album": {
@@ -20074,6 +20226,36 @@
       "duration_ms": 155259,
       "name": "PUSH",
       "url": "https://open.spotify.com/track/6hzFRAmTkuKDxZv6eWRhmd"
+    },
+    {
+      "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/6vuQ8hA2TcPUcG98Xnzvio"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129302,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy"
     },
     {
       "album": {
@@ -20520,7 +20702,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 166663,
       "name": "Red Dot",
       "url": "https://open.spotify.com/track/5XP22wUHK7jIBmwiC6OVvR"
@@ -20688,6 +20870,24 @@
       "duration_ms": 230476,
       "name": "Revenge of the Orchestra",
       "url": "https://open.spotify.com/track/1LeeXhb4CsZZAxb7VzRWng"
+    },
+    {
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3JTlkPqYzN6Oxj2ph0hnQy"
+      },
+      "artists": [
+        {
+          "name": "Shilla",
+          "url": "https://open.spotify.com/artist/46RRZQejikNAQDn87KvrmE"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152657,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/43owBq3tlowxks4uq7lIA5"
     },
     {
       "album": {
@@ -22216,7 +22416,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 151547,
       "name": "Shine",
       "url": "https://open.spotify.com/track/2WOX91Z1AZlkFgF3qBV1TU"
@@ -22756,7 +22956,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 232819,
       "name": "Sound Of Disco",
       "url": "https://open.spotify.com/track/1lCinsXWE16VAIeGrAtxr4"
@@ -23754,10 +23954,28 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 207425,
       "name": "Sweating",
       "url": "https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc"
+    },
+    {
+      "album": {
+        "name": "SWEET OUTSIDE",
+        "url": "https://open.spotify.com/album/0Iee812zxqghP9bBls6W6T"
+      },
+      "artists": [
+        {
+          "name": "7 Minutes Dead",
+          "url": "https://open.spotify.com/artist/6MXp12IK29WvwsSbj5j49p"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "SWEET OUTSIDE",
+      "url": "https://open.spotify.com/track/1742XxaBqaiApVYlpmkGjN"
     },
     {
       "album": {
@@ -25176,7 +25394,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 153230,
       "name": "The One",
       "url": "https://open.spotify.com/track/6KdWo7ixw3E7LGa3jWorYg"
@@ -26028,7 +26246,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 230624,
       "name": "Trendsetter",
       "url": "https://open.spotify.com/track/5MMPfKSSzfGvJ1VVZgHPqS"

@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Zoë Tauran & LUNA
 
-1,348 songs - 2 day 16 hr 22 min
+1,350 songs - 2 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,6 +619,7 @@
 | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/track/7ijzPwiRgNqNqa65zHnRD2) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/album/3O6Fegs8MtjUGwVzXAlFMm) | 2:51 | 2026-04-30 |  |
 | [Je Kan Een Hoop](https://open.spotify.com/track/6U1qyy4qXzs9VSazl0HAc0) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Je Kan Een Hoop](https://open.spotify.com/album/23rbyKPTBlBY8O5fzqK5dr) | 2:54 | 2025-07-17 | 2025-10-29 |
 | [Je Kan Niet Kiezen](https://open.spotify.com/track/7ngXJjKQZLRLXwptWkuc3H) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [Je Kan Niet Kiezen](https://open.spotify.com/album/71255dpIMo5GKXA186q4AZ) | 2:34 | 2025-11-13 | 2026-02-20 |
+| [Je komt niet zomaar van me af](https://open.spotify.com/track/0lzplgiDpwPN2sr3vG0iM2) | [Dyde](https://open.spotify.com/artist/4KDbJoYj56Kf3KSpZYWEUu) | [Je komt niet zomaar van me af](https://open.spotify.com/album/3N670zG8sXXMLX8mPLHDBY) | 2:43 | 2026-06-12 |  |
 | [Je leeft maar 1 keer](https://open.spotify.com/track/6Q2TJRM3fR7E6uZfhmcUvw) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Je leeft maar 1 keer](https://open.spotify.com/album/1EgjIzMkAbsoxMdaYKq5xz) | 2:54 | 2023-04-06 | 2023-06-30 |
 | [Je Mist Me](https://open.spotify.com/track/2liJ6GzvDXU07NBz3EnLII) | [Denise Kroes](https://open.spotify.com/artist/4tHksjDEYAhsV4qECw4gG6) | [Je Mist Me](https://open.spotify.com/album/7ji7Y6FUe1K7uzHzfpeuEp) | 2:12 | 2024-09-26 | 2024-12-13 |
 | [Je T'aime](https://open.spotify.com/track/3JMG73kZGHTL0PXvxO7xnA) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Je T'aime](https://open.spotify.com/album/2RrSrjr3Cj1r5t6OYI9eu5) | 2:59 | 2024-11-07 | 2025-01-24 |
@@ -795,7 +796,7 @@
 | [Mens](https://open.spotify.com/track/17bVqSvBXixR9bo2YsG8nk) | [Charine Eyny](https://open.spotify.com/artist/21VPJzOjvWjxjkaMsnE42x), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW), [Charly Luske](https://open.spotify.com/artist/3ywMhp8487caLDqLh6fGOl), [Ewald Gomez](https://open.spotify.com/artist/0UBRIuLUBnpr5dopW2vZjX) | [Mens](https://open.spotify.com/album/1I05faSGCNjViztAEPPgac) | 3:27 | 2023-02-23 | 2023-04-07 |
 | [Merci](https://open.spotify.com/track/2ucacgpSBS5IwOXvDnCvWs) | [Lisa Rose](https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F) | [Merci](https://open.spotify.com/album/2CLzos1UOTwd6YoL7FVQni) | 3:11 | 2025-01-16 | 2025-04-04 |
 | [Mes In M'n Rug](https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2024 \(Aflevering 4\- SERA\)](https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V) | 2:57 | 2024-10-10 | 2025-01-07 |
-| [Met de tijd](https://open.spotify.com/track/5EHMrjRk0K07KSlz93XPNA) | [Anouk & Yora](https://open.spotify.com/artist/5xBk20bBlcLJV5ZLS3EgfQ) | [Met de tijd](https://open.spotify.com/album/4LshNNq3ZIxCkzKDkjukyW) | 3:31 | 2026-03-26 |  |
+| [Met de tijd](https://open.spotify.com/track/5EHMrjRk0K07KSlz93XPNA) | [Anouk & Yora](https://open.spotify.com/artist/5xBk20bBlcLJV5ZLS3EgfQ) | [Met de tijd](https://open.spotify.com/album/4LshNNq3ZIxCkzKDkjukyW) | 3:31 | 2026-03-26 | 2026-06-13 |
 | [Met Een Reden](https://open.spotify.com/track/0XbGwHymFSaSSR1YTfMazd) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Met Een Reden](https://open.spotify.com/album/4Vzj0KkxkpkIIeWSkl4tLr) | 2:26 | 2023-02-23 | 2023-03-25 |
 | [Met Jou Kan Ik Het Aan](https://open.spotify.com/track/6Zdqcxtwx0TwkXhs7LwIru) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Met Jou Kan Ik Het Aan](https://open.spotify.com/album/1h0e3xS9fYiZ3v1zx2HLU2) | 4:03 | 2023-02-23 | 2023-03-18 |
 | [Met Of Zonder Jou](https://open.spotify.com/track/3xRjrioxJQIjfJmGYxtyKR) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Line De Dauw](https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX) | [Met Of Zonder Jou](https://open.spotify.com/album/6z9xi38DbqJntYApAwfhM5) | 2:54 | 2025-06-12 | 2025-10-29 |
@@ -930,6 +931,7 @@
 | [Ooit](https://open.spotify.com/track/1cfwCRlpkbTDoVQwY0jF7L) | [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [Ooit](https://open.spotify.com/album/2tSHHPhn58yk1pHuAbO8HT) | 3:28 | 2025-02-07 | 2025-04-25 |
 | [Oost West Thuis Best](https://open.spotify.com/track/1IKPpNQOoyvgrycSKB3Wy3) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Oost West Thuis Best](https://open.spotify.com/album/2xseLpSW6QIfvmXtRlMFya) | 2:50 | 2025-08-28 | 2025-11-07 |
 | [Op Afstand](https://open.spotify.com/track/6Y4UvcMPmigB2masCY39Td) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Denisha](https://open.spotify.com/artist/3gFjb8adT9OpQEfTE3Oweg) | [Op Afstand](https://open.spotify.com/album/03cVr0FQMjoHjPLH1nZCBD) | 2:44 | 2026-03-12 | 2026-05-22 |
+| [Op Afstand \- Live Versie](https://open.spotify.com/track/5o4o6EEnKhdRZeRYOMwpGF) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Op Afstand \(Live Versie\)](https://open.spotify.com/album/32k2jHSy7hQIadryzm7NVx) | 2:09 | 2026-06-12 |  |
 | [Op Een Dag](https://open.spotify.com/track/4JcYIvTfE9UhHJS94vFuoQ) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Op Een Dag](https://open.spotify.com/album/2p41O5ojTgxLFRNlmJNjJp) | 2:16 | 2023-02-23 | 2023-03-25 |
 | [Op Het Balkon](https://open.spotify.com/track/1RsP5AgQ5xQsA4SEuiGfHf) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Op Het Balkon](https://open.spotify.com/album/1fyXAy7SAkLfQCW8n6Pwjf) | 2:36 | 2024-04-25 | 2024-07-12 |
 | [Op Jou Heb Ik Gewacht](https://open.spotify.com/track/0uOc3SO3ZkrNeL5khr4GUn) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh), [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Op Jou Heb Ik Gewacht](https://open.spotify.com/album/2FNg6ZrAoDT0KxI1sy97b2) | 2:55 | 2025-01-06 | 2025-03-07 |

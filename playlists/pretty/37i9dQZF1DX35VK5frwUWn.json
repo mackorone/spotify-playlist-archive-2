@@ -767,42 +767,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "In A Minute",
-        "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 200470,
-      "name": "In A Minute",
-      "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "2 Of Amerikaz Most Wanted",
-      "url": "https://open.spotify.com/track/6S5SJlNXgrUBTLa58NMwGk"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Kanye West Presents Good Music Cruel Summer",
         "url": "https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn"
       },
@@ -831,6 +795,42 @@
       "duration_ms": 283653,
       "name": "Don't Like.1",
       "url": "https://open.spotify.com/track/2rJvc7nSYWBKAuNUMx1Cr2"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "2 Of Amerikaz Most Wanted",
+      "url": "https://open.spotify.com/track/6S5SJlNXgrUBTLa58NMwGk"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "In A Minute",
+        "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 200470,
+      "name": "In A Minute",
+      "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -907,6 +907,26 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 286800,
+      "name": "P.I.M.P. - Snoop Dogg Remix",
+      "url": "https://open.spotify.com/track/7D8gRgQ161fqXNOkcanJfa"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "Top",
         "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 149568,
       "name": "No Long Talk",
       "url": "https://open.spotify.com/track/6CfrYuD3YRDYdYvH9jNtXY"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 286800,
-      "name": "P.I.M.P. - Snoop Dogg Remix",
-      "url": "https://open.spotify.com/track/7D8gRgQ161fqXNOkcanJfa"
     }
   ],
   "unique_name": "RJ Barrett's Taste",

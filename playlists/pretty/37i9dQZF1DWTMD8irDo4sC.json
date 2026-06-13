@@ -779,6 +779,22 @@
     {
       "added_at": "2025-10-06 14:50:07",
       "album": {
+        "name": "Win Yamchi Zine",
+        "url": "https://open.spotify.com/album/3gkBsIfmzf69MGfMji8gnf"
+      },
+      "artists": [
+        {
+          "name": "Cameleon",
+          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
+        }
+      ],
+      "duration_ms": 193881,
+      "name": "Win Yamchi Zine",
+      "url": "https://open.spotify.com/track/3Zlfkuzu8esBnCck3OAztD"
+    },
+    {
+      "added_at": "2025-10-06 14:50:07",
+      "album": {
         "name": "Chura",
         "url": "https://open.spotify.com/album/64MAkAwfYsJoMbI4cjinad"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 249023,
       "name": "Tghayarti",
       "url": "https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR"
-    },
-    {
-      "added_at": "2025-10-06 14:50:07",
-      "album": {
-        "name": "Win Yamchi Zine",
-        "url": "https://open.spotify.com/album/3gkBsIfmzf69MGfMji8gnf"
-      },
-      "artists": [
-        {
-          "name": "Cameleon",
-          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
-        }
-      ],
-      "duration_ms": 193881,
-      "name": "Win Yamchi Zine",
-      "url": "https://open.spotify.com/track/3Zlfkuzu8esBnCck3OAztD"
     },
     {
       "added_at": "2025-10-06 14:50:07",

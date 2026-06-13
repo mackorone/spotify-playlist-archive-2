@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158590,
+  "num_followers": 158580,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "QUENTE",
+        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
+      },
+      "artists": [
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        }
+      ],
+      "duration_ms": 123128,
+      "name": "QUENTE",
+      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "Favorita",
         "url": "https://open.spotify.com/album/20rjum05KirLwgB42dOHei"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 225138,
       "name": "Mundo Louco, N\u00f3s Tamb\u00e9m",
       "url": "https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "QUENTE",
-        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
-      },
-      "artists": [
-        {
-          "name": "Amanda Sarmento",
-          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
-        }
-      ],
-      "duration_ms": 123128,
-      "name": "QUENTE",
-      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "Oriente Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 215936,
+      "name": "Luz da Lua",
+      "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "Ravi",
         "url": "https://open.spotify.com/album/6cQ9MrRLvyqXj30x3jTctL"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 166440,
       "name": "Ravi",
       "url": "https://open.spotify.com/track/2MZpemTUrTTyOrX5VIkhix"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Oriente Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 215936,
-      "name": "Luz da Lua",
-      "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "Beira do Mar",
-        "url": "https://open.spotify.com/album/5ZrXrgWZl4lcoIDrHsezda"
-      },
-      "artists": [
-        {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "MC Julio D.E.R.",
-          "url": "https://open.spotify.com/artist/1honjfWrOeLAymPLT3gZEV"
-        }
-      ],
-      "duration_ms": 187988,
-      "name": "Beira do Mar",
-      "url": "https://open.spotify.com/track/3cy3gXlEPK5QyUHfHYim6n"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
         "name": "Bate A Onda",
         "url": "https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1"
       },
@@ -1351,6 +1327,30 @@
       "duration_ms": 281142,
       "name": "Bate A Onda",
       "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "Beira do Mar",
+        "url": "https://open.spotify.com/album/5ZrXrgWZl4lcoIDrHsezda"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "MC Julio D.E.R.",
+          "url": "https://open.spotify.com/artist/1honjfWrOeLAymPLT3gZEV"
+        }
+      ],
+      "duration_ms": 187988,
+      "name": "Beira do Mar",
+      "url": "https://open.spotify.com/track/3cy3gXlEPK5QyUHfHYim6n"
     }
   ],
   "unique_name": "Resenha na Praia",

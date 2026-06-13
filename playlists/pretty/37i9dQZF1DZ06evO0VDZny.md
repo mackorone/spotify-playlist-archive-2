@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VDZny.md) - [plain]
 
 > This is Bring Me The Horizon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,780 likes - 47 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,909 likes - 47 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VDZny.md) - [plain]
 | 41 | [heavy metal \(feat\. Rahzel\)](https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Rahzel](https://open.spotify.com/artist/6vunRaBya0Sx6CMJZAlHTZ) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:00 |
 | 42 | [drwn.vvv](https://open.spotify.com/track/7lXJ3hmDo5XK1witUxj8aX) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dimension 32](https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:25 |
 | 43 | [For Stevie Wonder's Eyes Only \(Braille\)](https://open.spotify.com/track/7EIVI3qWBiGDB6G2Wx5Bl3) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Count Your Blessings](https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS) | 4:29 |
-| 44 | [Darkside.verXx](https://open.spotify.com/track/42UmHCU9anrkIcW4jIuiSr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:08 |
-| 45 | [canyoufeelmy<3.tmpx](https://open.spotify.com/track/4oulNVAcHE3WWxyy8kYvcz) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 2:42 |
-| 46 | [med!cine.fbk](https://open.spotify.com/track/4XhbazNmRNlkUkjYX38Obc) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 5:09 |
-| 47 | [in\_the\_dark.ech](https://open.spotify.com/track/78mP1BhsKkinyPyFK0whIF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:08 |
+| 44 | [shadowm0ses.frq](https://open.spotify.com/track/1mdSf2B1wLuUl3XQQEtc00) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 2:46 |
+| 45 | [\(U\)topia.drm](https://open.spotify.com/track/2FL4io3YitOqpZPOZp17By) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 4:50 |
+| 46 | [Darkside.verXx](https://open.spotify.com/track/42UmHCU9anrkIcW4jIuiSr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:08 |
+| 47 | [canyoufeelmy<3.tmpx](https://open.spotify.com/track/4oulNVAcHE3WWxyy8kYvcz) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 2:42 |
 
-Snapshot ID: `aiipAAAAAACAUteElbgSLaEBfvTGhhOh`
+Snapshot ID: `ain6gAAAAAD4bSb1woumDpKSdosAySpg`

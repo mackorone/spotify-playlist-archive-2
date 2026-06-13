@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 172002,
+  "num_followers": 172052,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Fuego Contra Fuego",
-        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Soy Lo Peor",
-      "url": "https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Sincopa",
         "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 292160,
       "name": "Bombos y Tarolas",
       "url": "https://open.spotify.com/track/5Mn06i1d9H1KaiFbQDQPhT"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Fuego Contra Fuego",
+        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Soy Lo Peor",
+      "url": "https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1CJEE36qrJYAUXVJuVQ7ne"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 219893,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/7I2k8PcOLEZwx8OlTc10m9"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Te Qued\u00f3 Grande La Yegua",
-      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Ch\u00fantaros Radio Poder",
         "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 178327,
       "name": "Confieso",
       "url": "https://open.spotify.com/track/099s1FOMj4MzzcEKn5UTzR"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Te Qued\u00f3 Grande La Yegua",
+      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Por Amor A Ti",
-        "url": "https://open.spotify.com/album/1O8ZCkuCwPpvTAzhdNOUQy"
-      },
-      "artists": [
-        {
-          "name": "Arnulfo Jr. \"Rey Y As\"",
-          "url": "https://open.spotify.com/artist/02nFFG9OM3C6J5jSSa5zdg"
-        }
-      ],
-      "duration_ms": 217813,
-      "name": "Soy De La Calle",
-      "url": "https://open.spotify.com/track/4ANwRC8rQJHkaciHKYfUzQ"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Libres Y Locos",
         "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 187493,
       "name": "Dormir So\u00f1ando",
       "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Por Amor A Ti",
+        "url": "https://open.spotify.com/album/1O8ZCkuCwPpvTAzhdNOUQy"
+      },
+      "artists": [
+        {
+          "name": "Arnulfo Jr. \"Rey Y As\"",
+          "url": "https://open.spotify.com/artist/02nFFG9OM3C6J5jSSa5zdg"
+        }
+      ],
+      "duration_ms": 217813,
+      "name": "Soy De La Calle",
+      "url": "https://open.spotify.com/track/4ANwRC8rQJHkaciHKYfUzQ"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "Algo en ti",
+        "url": "https://open.spotify.com/album/3oZu2VPa8zKrrcWk6VXTqi"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda",
+          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "Hay Algo en ti",
+      "url": "https://open.spotify.com/track/5xNqXLwdG5m5RrJfFkigVW"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "La Historia De Los Exitos Pop A La Mexicana (Version Mexico)",
         "url": "https://open.spotify.com/album/7MKVC6X35HgOEhE2Pp61oK"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 206400,
       "name": "\u00c1rbol De Manzanas",
       "url": "https://open.spotify.com/track/6H5UMkAnweqb4cKIsAzUh9"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "Algo en ti",
-        "url": "https://open.spotify.com/album/3oZu2VPa8zKrrcWk6VXTqi"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda",
-          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "Hay Algo en ti",
-      "url": "https://open.spotify.com/track/5xNqXLwdG5m5RrJfFkigVW"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/5YAMa7LhSMdWOs1dF93g4V"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "MIATA \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
+      "url": "https://open.spotify.com/track/1k15ZgRhn8OxFalYbeaZ1h"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Restaurant",
         "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 177440,
       "name": "De Qu\u00e9 Sirvi\u00f3",
       "url": "https://open.spotify.com/track/2pDoCPfvoR5CE8AUH6JT2l"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "ATP",
-        "url": "https://open.spotify.com/album/5YAMa7LhSMdWOs1dF93g4V"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "MIATA \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
-      "url": "https://open.spotify.com/track/1k15ZgRhn8OxFalYbeaZ1h"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Cumbia Del Lazo",
-        "url": "https://open.spotify.com/album/1UqSxzsjl9uZg1xVoBLwLR"
-      },
-      "artists": [
-        {
-          "name": "J.L.B. Y C\u00eda",
-          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "La Cumbia Del Lazo",
-      "url": "https://open.spotify.com/track/3gRpzfNEhcDuL2UXgTbkVu"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "ROY",
         "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 275226,
       "name": "Coraz\u00f3n : Classics",
       "url": "https://open.spotify.com/track/6V0NuH6KjxjR1GPHPtro53"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Cumbia Del Lazo",
+        "url": "https://open.spotify.com/album/1UqSxzsjl9uZg1xVoBLwLR"
+      },
+      "artists": [
+        {
+          "name": "J.L.B. Y C\u00eda",
+          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
+        }
+      ],
+      "duration_ms": 158720,
+      "name": "La Cumbia Del Lazo",
+      "url": "https://open.spotify.com/track/3gRpzfNEhcDuL2UXgTbkVu"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Solo Hits",
-        "url": "https://open.spotify.com/album/1T42v7QvduIU8JzrZddZIn"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 159986,
-      "name": "Pobre Loco",
-      "url": "https://open.spotify.com/track/0BACxgNmiBtAU4piZTJnPn"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
         "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 186573,
       "name": "Arrastrando La Cobija",
       "url": "https://open.spotify.com/track/1eKN8fGmXwsOg5mBfQD2KI"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Solo Hits",
+        "url": "https://open.spotify.com/album/1T42v7QvduIU8JzrZddZIn"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 159986,
+      "name": "Pobre Loco",
+      "url": "https://open.spotify.com/track/0BACxgNmiBtAU4piZTJnPn"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Rigo Tovar '81",
-        "url": "https://open.spotify.com/album/6g5zpIsB6jo8QkIz5wLXdd"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Vuelve A Encender Mi Fuego",
-      "url": "https://open.spotify.com/track/6xsGdPEjDFBd5QTuugaA5P"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "ROY",
         "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 186769,
       "name": "El Tiempo Que Necesites",
       "url": "https://open.spotify.com/track/3BqIGyhQL2wMCm7ySVc633"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Rigo Tovar '81",
+        "url": "https://open.spotify.com/album/6g5zpIsB6jo8QkIz5wLXdd"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Vuelve A Encender Mi Fuego",
+      "url": "https://open.spotify.com/track/6xsGdPEjDFBd5QTuugaA5P"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Recordando Monterrey",
-        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 165493,
-      "name": "Cuando Tu Cari\u00f1o",
-      "url": "https://open.spotify.com/track/1eVAsvppzlVxt1BK3JbCLJ"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Ch\u00fantaros Radio Poder",
         "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 201538,
       "name": "Cumbia Lunera",
       "url": "https://open.spotify.com/track/6X9AbFeo1MYxfJco7BiSS2"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Recordando Monterrey",
+        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Cuando Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/1eVAsvppzlVxt1BK3JbCLJ"
     },
     {
       "added_at": "2026-06-08 18:17:51",

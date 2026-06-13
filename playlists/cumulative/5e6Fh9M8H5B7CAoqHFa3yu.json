@@ -18633,6 +18633,24 @@
     },
     {
       "album": {
+        "name": "Is This Love",
+        "url": "https://open.spotify.com/album/2zpdyhQ6qYlKnvrpnCL3AO"
+      },
+      "artists": [
+        {
+          "name": "Bon Echo",
+          "url": "https://open.spotify.com/artist/0cptB7nxVh6aCVkUZcrSLy"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/4cMjphwBnAg4LIvGFnK5fs"
+    },
+    {
+      "album": {
         "name": "Space Stepper",
         "url": "https://open.spotify.com/album/1NTA9xNmI3UWkvfn0m63ui"
       },
@@ -28912,6 +28930,28 @@
       "duration_ms": 141297,
       "name": "Pizza Pepperoni",
       "url": "https://open.spotify.com/track/0QesMcqtIJuPYELEnpIQIF"
+    },
+    {
+      "album": {
+        "name": "Pi\u00f9 Vicini al Cielo",
+        "url": "https://open.spotify.com/album/2NSBRvmswoVucTOLRUFKzJ"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        },
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201306,
+      "name": "Pi\u00f9 Vicini al Cielo",
+      "url": "https://open.spotify.com/track/2BAhnHQKWm5vM3q1QTrLsl"
     },
     {
       "album": {

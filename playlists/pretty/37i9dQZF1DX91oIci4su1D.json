@@ -1,6 +1,6 @@
 {
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with Armin van Buuren & Hannah Liang",
-  "num_followers": 875146,
+  "num_followers": 875393,
   "original_name": "Trance Mission",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,22 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "Archangel",
-        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
       },
       "artists": [
         {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
         },
         {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
         }
       ],
-      "duration_ms": 266375,
-      "name": "Yosemite",
-      "url": "https://open.spotify.com/track/6Z3cE0ZK0tmj7131PFIOeZ"
+      "duration_ms": 170270,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -139,6 +139,26 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 266375,
+      "name": "Yosemite",
+      "url": "https://open.spotify.com/track/6Z3cE0ZK0tmj7131PFIOeZ"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
         "name": "Bring Me To Life",
         "url": "https://open.spotify.com/album/0hLl6XW9qAjuuPijk9SKTe"
       },
@@ -155,22 +175,6 @@
       "duration_ms": 258461,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -251,22 +255,18 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
+        "name": "What's a Girl to Do in '25",
+        "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
       },
       "artists": [
         {
           "name": "KI/KI",
           "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        },
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
         }
       ],
-      "duration_ms": 170270,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u"
+      "duration_ms": 148047,
+      "name": "What's a Girl to Do in '25",
+      "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -287,6 +287,22 @@
       "duration_ms": 271415,
       "name": "Sort It Out",
       "url": "https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "duration_ms": 168173,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -327,26 +343,6 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        }
-      ],
-      "duration_ms": 164983,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
         "name": "Universal Nation (Charlotte de Witte Rework)",
         "url": "https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq"
       },
@@ -367,18 +363,26 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "What's a Girl to Do in '25",
-        "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
       },
       "artists": [
         {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
         }
       ],
-      "duration_ms": 148047,
-      "name": "What's a Girl to Do in '25",
-      "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
+      "duration_ms": 203150,
+      "name": "If U Want My Heart",
+      "url": "https://open.spotify.com/track/001FYsI7fPucdnDc2twhuu"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -491,26 +495,22 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "Archangel",
-        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv"
       },
       "artists": [
         {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
         },
         {
-          "name": "DJ HEARTSTRING",
-          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
-        },
-        {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
         }
       ],
-      "duration_ms": 203150,
-      "name": "If U Want My Heart",
-      "url": "https://open.spotify.com/track/001FYsI7fPucdnDc2twhuu"
+      "duration_ms": 164983,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/0IbbybOy5vCGIbRHf8yHRO"
-      },
-      "artists": [
-        {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
-        },
-        {
-          "name": "Betsy",
-          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
-        }
-      ],
-      "duration_ms": 208111,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/7f9fJAUu3EXbzzOmZA4QRC"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
         "name": "Supersonic / Hands Up In The Sky",
         "url": "https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 188108,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/0IbbybOy5vCGIbRHf8yHRO"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
+        }
+      ],
+      "duration_ms": 208111,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/7f9fJAUu3EXbzzOmZA4QRC"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
+        "name": "When Nobody Cares",
+        "url": "https://open.spotify.com/album/2yaUK99KUedhcxrzwZns9C"
+      },
+      "artists": [
+        {
+          "name": "XiJaro & Pitch",
+          "url": "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+        },
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        }
+      ],
+      "duration_ms": 204447,
+      "name": "When Nobody Cares",
+      "url": "https://open.spotify.com/track/7GO88UVwZKecAePIrP50KW"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
         "name": "Electronic Malfunction",
         "url": "https://open.spotify.com/album/1YokQvIJu2D3VTg0Gh4VPb"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 222978,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/1eZVcDPxhC6lMYJvUZrmOy"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
-        "name": "When Nobody Cares",
-        "url": "https://open.spotify.com/album/2yaUK99KUedhcxrzwZns9C"
-      },
-      "artists": [
-        {
-          "name": "XiJaro & Pitch",
-          "url": "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
-        },
-        {
-          "name": "Christina Novelli",
-          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
-        }
-      ],
-      "duration_ms": 204447,
-      "name": "When Nobody Cares",
-      "url": "https://open.spotify.com/track/7GO88UVwZKecAePIrP50KW"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
+        "name": "Superstar Avenue",
+        "url": "https://open.spotify.com/album/1BaGvABQSpudBPfJDPmPjl"
+      },
+      "artists": [
+        {
+          "name": "Craig Connelly",
+          "url": "https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Superstar Avenue",
+      "url": "https://open.spotify.com/track/4jsiGFyARSlO4a1DdZBTh6"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3OKiUj9tN6ci7yF7iyOewl"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "Superstar Avenue",
-        "url": "https://open.spotify.com/album/1BaGvABQSpudBPfJDPmPjl"
-      },
-      "artists": [
-        {
-          "name": "Craig Connelly",
-          "url": "https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Superstar Avenue",
-      "url": "https://open.spotify.com/track/4jsiGFyARSlO4a1DdZBTh6"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
         "name": "NEON DUSK PROTOCOL",
         "url": "https://open.spotify.com/album/50vghDLBK8nJvYu5Cae1Dx"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 202437,
       "name": "NEON DUSK PROTOCOL",
       "url": "https://open.spotify.com/track/3vLLB4uWZC1xOOcyx4NlYj"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
+        "name": "I Can See It",
+        "url": "https://open.spotify.com/album/0JqqBPdvtxHWYGMdJ0vKnm"
+      },
+      "artists": [
+        {
+          "name": "Nifra",
+          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
+        }
+      ],
+      "duration_ms": 172202,
+      "name": "I Can See It",
+      "url": "https://open.spotify.com/track/1TCMIkuXpCSu2uDdGDF12o"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "I Can See It",
-        "url": "https://open.spotify.com/album/0JqqBPdvtxHWYGMdJ0vKnm"
-      },
-      "artists": [
-        {
-          "name": "Nifra",
-          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
-        }
-      ],
-      "duration_ms": 172202,
-      "name": "I Can See It",
-      "url": "https://open.spotify.com/track/1TCMIkuXpCSu2uDdGDF12o"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
         "name": "Each Other",
         "url": "https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 221818,
       "name": "Eyes Open Wide (feat. The Melody Men)",
       "url": "https://open.spotify.com/track/3lNB6AIzIndg6zUzWH8Wql"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
+        "name": "Echoes of Light",
+        "url": "https://open.spotify.com/album/2jsEJpyLXvBjcxroM6E18A"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Roncone",
+          "url": "https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Echoes of Light",
+      "url": "https://open.spotify.com/track/6E0Hs3MqwdTg3ffd61mNCg"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1607,22 +1623,6 @@
       "duration_ms": 238309,
       "name": "Is This Only a Dream? (A Dreamstate Anthem)",
       "url": "https://open.spotify.com/track/3266erhFQzDakc6KaHvJSV"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
-        "name": "Echoes of Light",
-        "url": "https://open.spotify.com/album/2jsEJpyLXvBjcxroM6E18A"
-      },
-      "artists": [
-        {
-          "name": "Alessandra Roncone",
-          "url": "https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Echoes of Light",
-      "url": "https://open.spotify.com/track/6E0Hs3MqwdTg3ffd61mNCg"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "In Circles",
-        "url": "https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr"
-      },
-      "artists": [
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
-        }
-      ],
-      "duration_ms": 209674,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/4T39ARHlb0UL7nsz4iUQPj"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 158000,
       "name": "Madness",
       "url": "https://open.spotify.com/track/1N0SMPZllogg6bH4ueBSw4"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
+        "name": "In Circles",
+        "url": "https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "duration_ms": 209674,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/4T39ARHlb0UL7nsz4iUQPj"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1879,18 +1879,22 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "Years On Years (Remixes)",
-        "url": "https://open.spotify.com/album/2Mb92lfeM1wG0qB8NK69Jy"
+        "name": "Who You Are",
+        "url": "https://open.spotify.com/album/5VWET59iP5mSb7FXmI7f7j"
       },
       "artists": [
         {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+          "name": "Doppenberg",
+          "url": "https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF"
+        },
+        {
+          "name": "MIDI Kittyy",
+          "url": "https://open.spotify.com/artist/0MskAXm9cAVHMKcrBziwV4"
         }
       ],
-      "duration_ms": 116411,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/3sqeb5HKQUAjQf9hvv0Woy"
+      "duration_ms": 232285,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/6eb8m9i9YfjdyqiOOrgXCR"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1931,22 +1935,18 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "Who You Are",
-        "url": "https://open.spotify.com/album/5VWET59iP5mSb7FXmI7f7j"
+        "name": "Years On Years (Remixes)",
+        "url": "https://open.spotify.com/album/2Mb92lfeM1wG0qB8NK69Jy"
       },
       "artists": [
         {
-          "name": "Doppenberg",
-          "url": "https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF"
-        },
-        {
-          "name": "MIDI Kittyy",
-          "url": "https://open.spotify.com/artist/0MskAXm9cAVHMKcrBziwV4"
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
         }
       ],
-      "duration_ms": 232285,
-      "name": "Who You Are",
-      "url": "https://open.spotify.com/track/6eb8m9i9YfjdyqiOOrgXCR"
+      "duration_ms": 116411,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/3sqeb5HKQUAjQf9hvv0Woy"
     },
     {
       "added_at": "2026-06-11 22:02:55",

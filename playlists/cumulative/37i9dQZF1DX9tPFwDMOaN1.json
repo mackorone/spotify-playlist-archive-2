@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The new & hottest K-Pop is here! (Cover: BABYMONSTER)",
+  "description": "The new & hottest K-Pop is here! (Cover: BTS)",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
@@ -2974,6 +2974,24 @@
       "duration_ms": 388960,
       "name": "Come back to me",
       "url": "https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM"
+    },
+    {
+      "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178603,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
     },
     {
       "album": {
@@ -7217,6 +7235,32 @@
     },
     {
       "album": {
+        "name": "ICONIC BY MISTAKE",
+        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177982,
+      "name": "ICONIC BY MISTAKE",
+      "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
+    },
+    {
+      "album": {
         "name": "NEVER SAY NEVER",
         "url": "https://open.spotify.com/album/6zfGu7WflAzOzsC2Dxgu5I"
       },
@@ -9582,7 +9626,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 193000,
       "name": "Motto",
       "url": "https://open.spotify.com/track/3H82Jpo0SI3UvWP6Ol8mWn"
@@ -9600,7 +9644,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "Motto",
       "url": "https://open.spotify.com/track/3jVTmARXF5p21gaP9CqITM"
@@ -10376,7 +10420,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 144000,
       "name": "OMG!",
       "url": "https://open.spotify.com/track/2tMfEwk96cjTSRTelQkwx6"
@@ -14708,7 +14752,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 147373,
       "name": "TOP 5",
       "url": "https://open.spotify.com/track/5cnWHHvU8MnHTjjAjeJffl"
@@ -14726,7 +14770,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 147373,
       "name": "TOP 5",
       "url": "https://open.spotify.com/track/7LVJBq2IZsv4UTHN9sCg9e"
@@ -14954,7 +14998,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 172000,
       "name": "UNIQUE",
       "url": "https://open.spotify.com/track/2UcWuaUqRrKRL8iTA92ELO"

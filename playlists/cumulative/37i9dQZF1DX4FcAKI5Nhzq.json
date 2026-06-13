@@ -2112,7 +2112,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 220555,
       "name": "Baya",
       "url": "https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK"
@@ -9290,7 +9290,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 197000,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/601PE19munEG1ROxnvzL31"
@@ -12148,6 +12148,42 @@
       "duration_ms": 194453,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4"
+    },
+    {
+      "album": {
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/6RIjP9Egz5LLMMMDZ6e5ju"
+      },
+      "artists": [
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209449,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6mfSO0YMhvKFMNiEYIpO8J"
+    },
+    {
+      "album": {
+        "name": "Heaven Can Wait",
+        "url": "https://open.spotify.com/album/1A4EiE5aWH0s25aIAMNOzD"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208105,
+      "name": "Heaven Can Wait",
+      "url": "https://open.spotify.com/track/7zOyWqFGjoSjswmWWDukhA"
     },
     {
       "album": {
@@ -16678,7 +16714,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 176403,
       "name": "Love Is Enough",
       "url": "https://open.spotify.com/track/6MS3ZMuVHKSE4yi84kKVNS"
@@ -18856,6 +18892,28 @@
       "duration_ms": 164000,
       "name": "My First Love Song",
       "url": "https://open.spotify.com/track/6M7PEx3X111WwTAXc6vYCH"
+    },
+    {
+      "album": {
+        "name": "My Gravity",
+        "url": "https://open.spotify.com/album/10wM1ZrpvmMAnXxrVfkc1d"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        },
+        {
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "My Gravity",
+      "url": "https://open.spotify.com/track/57B0qkzXUntlW1LiCAayBL"
     },
     {
       "album": {
@@ -21752,7 +21810,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 179000,
       "name": "POSE! (\u59ff\u614b)",
       "url": "https://open.spotify.com/track/0xCuNHv88Mdyigv64zOexH"
@@ -23612,7 +23670,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 146000,
       "name": "Rush Rush",
       "url": "https://open.spotify.com/track/7mjwxwPFr6hYkWXF465WJT"
@@ -24439,6 +24497,24 @@
     },
     {
       "album": {
+        "name": "SHADOW",
+        "url": "https://open.spotify.com/album/6muSWdDksJvCmn7S5P4H7t"
+      },
+      "artists": [
+        {
+          "name": "LEE JAEWOOK",
+          "url": "https://open.spotify.com/artist/6x6yUAhXzIgufongB7oL26"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208707,
+      "name": "SHADOW",
+      "url": "https://open.spotify.com/track/6SrrblihuGeDKOa91OnOFu"
+    },
+    {
+      "album": {
         "name": "My Name Is\u2026",
         "url": "https://open.spotify.com/album/46axlrG3csbSmbRci3j8ON"
       },
@@ -25010,6 +25086,24 @@
       "duration_ms": 183626,
       "name": "Slow Dance",
       "url": "https://open.spotify.com/track/3ASYo6ur6gT6d6sqosWub9"
+    },
+    {
+      "album": {
+        "name": "j.",
+        "url": "https://open.spotify.com/album/1Kiz8kkJ0rlSyeIXqBUCAr"
+      },
+      "artists": [
+        {
+          "name": "Jacob (THE BOYZ)",
+          "url": "https://open.spotify.com/artist/6BVLu5jroLxNtoRp7EdD83"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212352,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/0tYNr9bZBsIS2fv7GrAe2U"
     },
     {
       "album": {
@@ -29434,7 +29528,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 215000,
       "name": "Us",
       "url": "https://open.spotify.com/track/5r5skMXXVwTbQy6r6NgQD9"

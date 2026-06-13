@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-307 songs - 16 hr 45 min
+308 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Buy Dirt \- Acoustic](https://open.spotify.com/track/6MG2uwCDlqChYAAlzCBd50) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt \(Acoustic\)](https://open.spotify.com/album/1JQ9Z0M1rA2MCmEdhruP2n) | 3:04 | 2021-12-17 | 2022-01-22 |
 | [Buy Dirt \- Alternate Version](https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd) | 2:50 | 2022-01-21 |  |
 | [Bye Bye Bye \- Stripped](https://open.spotify.com/track/0TNomhATGo04D8twLvXRN7) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Bye Bye Bye \(Stripped\)](https://open.spotify.com/album/0oLZnL3k7j99pcrbQPWJC3) | 2:23 | 2024-10-04 | 2025-05-05 |
-| [Can't Have Mine \(Find You A Girl\) \[Acoustic\]](https://open.spotify.com/track/6bEnpoQyw1REmp42Ql8iXr) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Can't Have Mine \(Find You A Girl\) \[Acoustic\]](https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn) | 3:04 | 2023-09-22 |  |
+| [Can't Have Mine \(Find You A Girl\) \[Acoustic\]](https://open.spotify.com/track/6bEnpoQyw1REmp42Ql8iXr) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Can't Have Mine \(Find You A Girl\) \[Acoustic\]](https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn) | 3:04 | 2023-09-22 | 2026-06-13 |
 | [Can't Nobody \- Acoustic](https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Can't Nobody \(Acoustic\)](https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk) | 3:24 | 2022-08-20 |  |
 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 | 2021-12-17 |  |
 | [Come Back To Bed \(Acoustic\)](https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [Come Back To Bed \(Acoustic\)](https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H) | 3:25 | 2021-12-17 | 2024-08-11 |
@@ -135,6 +135,7 @@
 | [I Didn't Love You](https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [12/12 \(Acoustic\)](https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT) | 2:59 | 2021-12-17 | 2023-05-07 |
 | [I Don't Wanna Go To Heaven \- Choir Version](https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven \(Choir Version\)](https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X) | 3:25 | 2022-01-21 | 2026-01-15 |
 | [I Hope You’re Happy Now \- Live](https://open.spotify.com/track/7dHIJjEVtekWBZr16Q2owe) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [I Hope You’re Happy Now \(Live\)](https://open.spotify.com/album/74cMAdnY7pp9kDBWEkxxsz) | 3:15 | 2021-12-17 | 2022-07-29 |
+| [I Knew It, I Knew You \- Acoustic Version](https://open.spotify.com/track/23NnOJGyMrD7k3NaGDX0bb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/4Ii9whWXI1O1H01ziECRaG) | 2:55 | 2026-06-12 |  |
 | [I Remember You](https://open.spotify.com/track/5dJayBRoblzjYfmJSmjAdE) | [Chris Moreno](https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA) | [I Remember You](https://open.spotify.com/album/6Rvc0QeFunn3FfwIICJPgO) | 4:22 | 2021-12-17 | 2022-07-26 |
 | [I Should Probably Go To Bed \- Acoustic](https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed \(Acoustic\)](https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc) | 2:57 | 2021-12-17 |  |
 | [I Wanna Love You Forever](https://open.spotify.com/track/2twCvJcO99AdEhjU2Ccprq) | [Kate Vogel](https://open.spotify.com/artist/2CCsLpkuXkTgniNYFWAubP) | [Someone I'm Proud Of](https://open.spotify.com/album/47cf5DfYTqbS9eoSLhXt2U) | 3:17 | 2021-12-17 | 2022-07-09 |

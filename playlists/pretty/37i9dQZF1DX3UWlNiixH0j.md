@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: テレビ大陸音頭 TV Tairiku Ondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,397 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,447 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 21 | [Vanishing](https://open.spotify.com/track/6tX9H62V1u4GaNGHViqKrI) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [SHINTOKYO \#6](https://open.spotify.com/album/1i4CV6LvZ8PWuphsqRiQAq) | 3:37 |
 | 22 | [Isshun](https://open.spotify.com/track/0yZ5pPfd5fKXPQ8CTIDZV2) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Isshun](https://open.spotify.com/album/1oX1v6QaKKjDmnJ7Srk31X) | 3:24 |
 | 23 | [sagittarius](https://open.spotify.com/track/1ZtWNkcURJOTn962rQE1O1) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sagittarius](https://open.spotify.com/album/4iBjHrBIye8u5viIDEJt6h) | 4:30 |
-| 24 | [準備しますので](https://open.spotify.com/track/3i6HaSmjCWRXmjVHFEHzxs) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [準備しますので](https://open.spotify.com/album/3FIGmgZkhbsp1r8j1Q3j16) | 1:58 |
+| 24 | [準備しますので](https://open.spotify.com/track/3i6HaSmjCWRXmjVHFEHzxs) | [Arata Manako](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [準備しますので](https://open.spotify.com/album/3FIGmgZkhbsp1r8j1Q3j16) | 1:58 |
 | 25 | [Pool](https://open.spotify.com/track/6PPpFg4PAtcq6bC6th0H6E) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Pool](https://open.spotify.com/album/18KGoNHgu434wYaS0aTqlq) | 3:14 |
 | 26 | [dead leaves](https://open.spotify.com/track/4a1of4IPeZgE4Haj7NdMEn) | [elsie sue](https://open.spotify.com/artist/7t7QD0bzhYdW6POYrkeuRI) | [dead leaves](https://open.spotify.com/album/7BzYZVkIkpHFQRYPH7zPdQ) | 3:51 |
 | 27 | [氷](https://open.spotify.com/track/27uSNHKZoL5c1BsDPLJHHd) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [氷](https://open.spotify.com/album/2lGfogNEbFPNrXDeTmKqqT) | 2:32 |

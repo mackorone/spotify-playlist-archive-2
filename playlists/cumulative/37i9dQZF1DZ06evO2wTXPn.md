@@ -4,7 +4,7 @@
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 19 min
+94 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Diosa](https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Diosa](https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG) | 3:06 | 2023-06-17 | 2026-04-30 |
 | [Diosa](https://open.spotify.com/track/6PCraJHi3KJGHleSU0Qviw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 3:07 | 2026-01-24 |  |
 | [Dolerá](https://open.spotify.com/track/4ai1InCLeygWk2dwvvYCpX) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:59 | 2023-04-30 | 2024-07-20 |
+| [El Mejor Verano](https://open.spotify.com/track/1Ss5dMCxLRBPuZ5tMjTQl0) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [El Mejor Verano](https://open.spotify.com/album/6w9lcRPcMTMagZPNFNhZxh) | 3:11 | 2026-06-13 |  |
 | [En Medio De Este Ruido](https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf) | 4:07 | 2023-04-28 | 2025-10-03 |
 | [Encima De Mil](https://open.spotify.com/track/0X4XlUuu07vrEjSnIqrqLJ) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Encima De Mil](https://open.spotify.com/album/3TrLRkrcbxYZ0AINiu399E) | 3:09 | 2023-06-16 |  |
 | [Encima De Mil](https://open.spotify.com/track/74wY2RFSQJlz7yznnDWDsj) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Despierto](https://open.spotify.com/album/5zjSZUekfzF97XyDUbWW1T) | 3:09 | 2023-03-19 | 2026-04-22 |
@@ -83,7 +84,7 @@
 | [Se Fuerte Corazón](https://open.spotify.com/track/6d9NFWpK97HEqAnE5tsnZw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:12 | 2023-03-19 |  |
 | [Señal](https://open.spotify.com/track/2EZeX3b1nCIVyOd215dIhc) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Caminando en Fuego](https://open.spotify.com/album/7x9q5ua9T2N8JAcuDVoIoS) | 4:05 | 2025-04-27 |  |
 | [Señal](https://open.spotify.com/track/4kYMirYX6XMi850Ecp44Io) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Señal](https://open.spotify.com/album/3wJjZt16p9NP1Y9TXUmHOc) | 4:05 | 2023-03-19 | 2025-04-27 |
-| [Sin Ti \- En Vivo](https://open.spotify.com/track/3iau72rt7xItihgiYZfwrv) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:07 | 2023-03-19 |  |
+| [Sin Ti \- En Vivo](https://open.spotify.com/track/3iau72rt7xItihgiYZfwrv) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:07 | 2023-03-19 | 2026-06-13 |
 | [Sobreviviendo](https://open.spotify.com/track/3dOQwWB2ootaunCEIFxLZ3) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 3:16 | 2023-03-19 |  |
 | [Somos Instantes \- Acústico](https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [unas acústicas](https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l) | 3:22 | 2023-12-22 |  |
 | [Sonreír](https://open.spotify.com/track/3EYbyZ31BsZ96HEraj3za7) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Medio De Este Ruido \(Deluxe\)](https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB) | 3:31 | 2023-03-19 |  |

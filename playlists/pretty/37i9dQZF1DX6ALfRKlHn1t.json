@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1145111,
+  "num_followers": 1145058,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
-        "name": "Oysters In My Pocket",
-        "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 162338,
-      "name": "Oysters In My Pocket",
-      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
-    },
-    {
-      "added_at": "2025-10-10 04:00:44",
-      "album": {
         "name": "Hell N Back (Sped Up)",
         "url": "https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
+    },
+    {
+      "added_at": "2025-10-10 04:00:44",
+      "album": {
+        "name": "Oysters In My Pocket",
+        "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 162338,
+      "name": "Oysters In My Pocket",
+      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
     },
     {
       "added_at": "2025-10-10 04:00:44",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 174322,
-      "name": "Same Old Song",
-      "url": "https://open.spotify.com/track/1iNzOvQkAeXDeVIni76Yb2"
-    },
-    {
-      "added_at": "2025-10-10 04:00:44",
-      "album": {
         "name": "Bleachers",
         "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 228381,
       "name": "Tiny Moves",
       "url": "https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9"
+    },
+    {
+      "added_at": "2025-10-10 04:00:44",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 174322,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/1iNzOvQkAeXDeVIni76Yb2"
     },
     {
       "added_at": "2025-10-10 04:00:44",

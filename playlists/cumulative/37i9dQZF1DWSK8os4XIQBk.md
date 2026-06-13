@@ -4,7 +4,7 @@
 
 > Ella Langley, Morgan Wallen and the biggest hits in country music.
 
-981 songs - 2 day 5 hr 19 min
+982 songs - 2 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,7 +551,7 @@
 | [Midnight Crisis](https://open.spotify.com/track/7xIfvgLl8E4UGE8BAt0oA3) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Midnight Crisis](https://open.spotify.com/album/640Piuf9BkOLph0xUd98tc) | 3:23 | 2022-09-23 | 2022-11-12 |
 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-14 | 2025-04-19 |
 | [Might As Well Be Me](https://open.spotify.com/track/5r03p52Booex9NHQfsI11W) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Might As Well Be Me](https://open.spotify.com/album/36HUgtKLfvkUFPfsfTbBsV) | 3:15 | 2021-12-31 | 2022-03-01 |
-| [MIGHT BE DANGEROUS](https://open.spotify.com/track/7FdWBc0RRt4joQxSSJUnG0) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [devil and a prayer](https://open.spotify.com/album/0wXmEIIUIdZbvSk99P4QrK) | 3:20 | 2025-05-16 |  |
+| [MIGHT BE DANGEROUS](https://open.spotify.com/track/7FdWBc0RRt4joQxSSJUnG0) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [devil and a prayer](https://open.spotify.com/album/0wXmEIIUIdZbvSk99P4QrK) | 3:20 | 2025-05-16 | 2026-06-13 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-10 | 2025-01-25 |
 | [Mississippi Or Me](https://open.spotify.com/track/5JDM1KbfvautHx2Il9DjMZ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Mississippi Or Me](https://open.spotify.com/album/4EFwitX1MR0jelaG29a7cs) | 3:30 | 2023-08-18 | 2023-08-26 |
 | [Molly's Song](https://open.spotify.com/track/1E0RyKL2F56sRGINwcDfSc) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Molly's Song](https://open.spotify.com/album/5Vltn1ZHfJyURcRuM1Uijr) | 3:05 | 2025-01-24 | 2025-02-22 |
@@ -844,6 +844,7 @@
 | [The Tree](https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Bridge](https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA) | 3:25 | 2023-09-15 | 2024-02-10 |
 | [The Whiskey's Gone](https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [The Whiskey's Gone](https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm) | 2:57 | 2023-09-22 | 2023-12-02 |
 | [Things I Take For Granted](https://open.spotify.com/track/2d3KkBpDlOCLT5Wlhrwhfd) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Earned It](https://open.spotify.com/album/182iKgpkS0r9XZDsjojCTP) | 3:26 | 2023-09-08 | 2024-07-06 |
+| [Think As You Drunk](https://open.spotify.com/track/20FhqUEadmPYCrJYzeyPSx) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Think As You Drunk](https://open.spotify.com/album/10I3RS2Ijy9GCVZZAVG7Al) | 3:48 | 2026-06-12 |  |
 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 | 2024-02-09 | 2024-10-12 |
 | [Thinkin' We're In Love](https://open.spotify.com/track/1dQYswRaULYA9XfPc02FF1) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Thinkin' We're In Love](https://open.spotify.com/album/2xgnv0PA9ibnyNbjrksmww) | 3:48 | 2022-07-08 | 2023-03-04 |
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 2:50 | 2022-12-30 | 2023-07-22 |

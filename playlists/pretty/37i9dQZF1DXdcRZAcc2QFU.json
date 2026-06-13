@@ -1,6 +1,6 @@
 {
   "description": "Get jiggy with 90s 'dhinchak' beats. Cover - Khal Nayak",
-  "num_followers": 673872,
+  "num_followers": 674193,
   "original_name": "90s Dance Bollywood",
   "owner": {
     "name": "Spotify",
@@ -188,8 +188,16 @@
       },
       "artists": [
         {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
           "name": "Abhijeet",
           "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Anand Raj Anand",
+          "url": "https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH"
         }
       ],
       "duration_ms": 282866,
@@ -244,12 +252,20 @@
       },
       "artists": [
         {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
         },
         {
           "name": "Anuradha Sriram",
           "url": "https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
         }
       ],
       "duration_ms": 335000,
@@ -524,8 +540,16 @@
       },
       "artists": [
         {
+          "name": "Dilip Sen- Sameer Sen",
+          "url": "https://open.spotify.com/artist/3oEJM6BrpycUL5L8J5YXL5"
+        },
+        {
           "name": "Abhijeet",
           "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
         }
       ],
       "duration_ms": 270840,

@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Samantha Fish
 
-179 songs - 18 hr 17 min
+180 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Rocket 88 \- Blues Caravan Live 2018](https://open.spotify.com/track/1nA1EuxqWLjMhEcYrQ8Scn) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Blues Caravan Live 2018](https://open.spotify.com/album/6EAdTKkcfgNNm7EtokY6cv) | 7:26 | 2020-10-30 | 2024-04-12 |
 | [Rocket 88 \- Live](https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 7:26 | 2020-10-30 | 2026-05-02 |
 | [Roll With Me \- Live in California \- September 1975](https://open.spotify.com/track/5NmsAu22qNYcF2BI9jRY9R) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Setlist: The Very Best of Johnny Winter LIVE](https://open.spotify.com/album/21mmu8nrIjyeyPMwP2Is6f) | 4:47 | 2020-10-30 |  |
+| [Rusty Razor \- Live](https://open.spotify.com/track/6ZvL3WdA52MHVMVTmm1Qax) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll \(Live\)](https://open.spotify.com/album/2zZRKH23VWu238v3IZQukT) | 3:09 | 2026-06-12 |  |
 | [Some Other Day, Some Other Time \- Live](https://open.spotify.com/track/6w7zKtNuKcSkYg3WFo1zGX) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 4:01 | 2020-10-30 | 2022-07-29 |
 | [Soul Salvation \- Live](https://open.spotify.com/track/5zh6I3FXW2MtDCq3QfT5bw) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Soul Salvation \(Live\)](https://open.spotify.com/album/3ptXSdbiTNTOnzfTepmCtI) | 4:32 | 2020-10-30 |  |
 | [Soul Salvation \- Live](https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Recorded Live in Lafayette](https://open.spotify.com/album/5MPnKRKqtWBELg7MAPW7W9) | 4:32 | 2020-10-30 | 2024-04-19 |
@@ -147,7 +148,7 @@
 | [Stop Breakin' Down \- Live](https://open.spotify.com/track/27PHQJ30KsTvJWhPKOtGz4) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Live At Montreux 1999](https://open.spotify.com/album/0owj4Gjka5q4S5az5SL7kt) | 6:50 | 2020-10-30 |  |
 | [Stop Breakin' Down \- Live](https://open.spotify.com/track/6dB8978aNpxv00JwIY3gui) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Live At Montreux 1999](https://open.spotify.com/album/1dP8l4ixSJsI0T4au2j6ln) | 6:50 | 2020-10-30 | 2024-04-19 |
 | [Summertime \(Live\)](https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 5:49 | 2022-06-10 |  |
-| [Sweet Southern Sounds \- Live](https://open.spotify.com/track/2qAs9NIdn0SmIvJyHDXj1v) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Sweet Southern Sounds \(Live\)](https://open.spotify.com/album/1iEo32X1EBmQRwIRdVwL4G) | 5:06 | 2026-04-10 |  |
+| [Sweet Southern Sounds \- Live](https://open.spotify.com/track/2qAs9NIdn0SmIvJyHDXj1v) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Sweet Southern Sounds \(Live\)](https://open.spotify.com/album/1iEo32X1EBmQRwIRdVwL4G) | 5:06 | 2026-04-10 | 2026-06-13 |
 | [Tattoo'd Lady \(Live\)](https://open.spotify.com/track/2F2MZqad3d1iWGqKh38HMu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tattoo'd Lady \(Live\)](https://open.spotify.com/album/3N8Z7hdXgunJUDNP0Nr5Yg) | 6:20 | 2026-04-24 |  |
 | [Tell Her You Belong To Me \(Live\)](https://open.spotify.com/track/1tKNTwcXiWWqRpU4YcbHxi) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Tell Her You Belong To Me \(Live\)](https://open.spotify.com/album/3yC3tT5PY3yeLUC8vJe7gc) | 6:36 | 2020-10-30 |  |
 | [Tell Her You Belong To Me \- Live](https://open.spotify.com/track/6DMUEb4IFTZoG1dhPUXzZT) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Front And Center: Live From New York](https://open.spotify.com/album/485jKzcn4ZPRxB5Sc4PUx8) | 6:36 | 2020-10-30 | 2024-04-19 |

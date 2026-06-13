@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "What have we done?",
-  "name": "Oops...All Jams",
+  "description": "Start your morning with a mix of new and classic songs to keep you singing all day long!",
+  "name": "Good Morning Music",
   "tracks": [
     {
       "album": {
@@ -2538,6 +2538,10 @@
         {
           "name": "The Chemical Brothers",
           "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
         }
       ],
       "date_added": "2026-05-16",

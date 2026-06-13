@@ -4,7 +4,7 @@
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Alex Warren
 
-5,498 songs - 13 day 6 hr 40 min
+5,500 songs - 13 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,6 +741,7 @@
 | [Combust](https://open.spotify.com/track/0ovcYLTYKuN7cwOdDtnUCP) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Combust](https://open.spotify.com/album/7MCaVHM9Od0utS2fcJdMh3) | 2:18 | 2025-07-24 | 2025-08-15 |
 | [come again \- prod\. Sam is Ohm](https://open.spotify.com/track/6UlbTCudWIsQdIZkYHxTGA) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg) | [come again \(prod\. Sam is Ohm\)](https://open.spotify.com/album/3zBf9ZyWrQS2A1GR27TiGs) | 3:41 | 2023-07-30 | 2023-08-28 |
 | [Come back to me](https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Come back to me](https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW) | 6:28 | 2024-05-09 | 2024-06-01 |
+| [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 | 2026-06-11 |  |
 | [Come Play \(from the series Arcane League of Legends\)](https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Come Play \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU) | 2:41 | 2024-10-17 | 2024-12-27 |
 | [COMFORTABLE](https://open.spotify.com/track/6iRAr0Wpief0CziTh11vuX) | [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB), [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2) | [JIYU](https://open.spotify.com/album/5CBrCNVSRAUS1uYa3yYidP) | 2:45 | 2023-10-01 | 2023-10-09 |
 | [Coming Back To Me Good](https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Coming Back To Me Good](https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE) | 2:49 | 2024-04-18 | 2024-04-26 |
@@ -1829,6 +1830,7 @@
 | [ICE](https://open.spotify.com/track/549zkJFZcpg2AtwwvzdhDy) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ](https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6) | 2:35 | 2024-10-03 | 2024-10-18 |
 | [Ice Age](https://open.spotify.com/track/5scjv3pREcgPWjBSeQYPLw) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Ice Age](https://open.spotify.com/album/1cNBJO2Qx0fLV2q5BsZbae) | 4:01 | 2023-05-14 | 2023-05-23 |
 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 | 2023-02-05 | 2023-02-13 |
+| [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 | 2026-06-11 |  |
 | [ICONIK](https://open.spotify.com/track/3b7ejK9HytsRwa1Wne277w) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NEVER SAY NEVER](https://open.spotify.com/album/5IW8xxg85CGHRAMsiW0VLJ) | 3:13 | 2025-09-05 | 2025-09-26 |
 | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE) | 3:15 | 2023-09-10 | 2023-09-18 |
 | [idiot](https://open.spotify.com/track/7gHr8kI2aN1OvjQv4o2VPg) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [idiot](https://open.spotify.com/album/63IOT3ku8ix5AiypBT4wo7) | 3:57 | 2024-09-05 | 2024-11-01 |

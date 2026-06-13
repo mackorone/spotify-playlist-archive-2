@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. Los Gemelos De Sinaloa en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. LENCHO portada.",
   "name": "Corridos 2026",
   "tracks": [
     {
@@ -5920,7 +5920,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 185501,
       "name": "Coronar",
       "url": "https://open.spotify.com/track/6dH6PkQPzKRncIbIr3lyBL"
@@ -6750,7 +6750,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 174854,
       "name": "De La H Pa' La Costa",
       "url": "https://open.spotify.com/track/2DBGsUrIH2h8NcUCbK625e"
@@ -16617,6 +16617,28 @@
     },
     {
       "album": {
+        "name": "TEOFANIA",
+        "url": "https://open.spotify.com/album/7adhiWGPPKht0ILs72B0ga"
+      },
+      "artists": [
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "ENCERRONES",
+      "url": "https://open.spotify.com/track/4EyF9r6F5WkHIxkZGHzfHr"
+    },
+    {
+      "album": {
         "name": "Enfocado En El Presente",
         "url": "https://open.spotify.com/album/0eVgAy8121BjgFlE0pbW9G"
       },
@@ -19132,7 +19154,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 166556,
       "name": "Haciendo Dinero",
       "url": "https://open.spotify.com/track/1zBlMaPQfjDHJGMI9GlPag"
@@ -20348,6 +20370,24 @@
       "duration_ms": 209625,
       "name": "Joaqu\u00edn",
       "url": "https://open.spotify.com/track/4DnNXHM9LiwuC1jZtXLI0w"
+    },
+    {
+      "album": {
+        "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
+        "url": "https://open.spotify.com/album/0JaJMJHnxPKVHVzNiZDICH"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171743,
+      "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
+      "url": "https://open.spotify.com/track/66cxP4XwyVS4KjPVLFc5UH"
     },
     {
       "album": {
@@ -25103,6 +25143,24 @@
     },
     {
       "album": {
+        "name": "Los Que Hablaron Mal De Mi",
+        "url": "https://open.spotify.com/album/7kR6k7YQNN4KwlBA7TUwL1"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145354,
+      "name": "Los Que Hablaron Mal De Mi",
+      "url": "https://open.spotify.com/track/5BrfkpQcaRz3bYZtdy8m6x"
+    },
+    {
+      "album": {
         "name": "Los Sierra",
         "url": "https://open.spotify.com/album/33CwQFjErZn91NdIgH1WDk"
       },
@@ -25794,6 +25852,28 @@
       "duration_ms": 154090,
       "name": "Maldito Dinero",
       "url": "https://open.spotify.com/track/4wZc8eR629CpdyJ5lk3Zuj"
+    },
+    {
+      "album": {
+        "name": "Maldito el Hombre",
+        "url": "https://open.spotify.com/album/7cSVTOMi4JM8r1s6DqXAgS"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134581,
+      "name": "Maldito el Hombre",
+      "url": "https://open.spotify.com/track/7hslTSzvoa1Zs0S0jjtd5E"
     },
     {
       "album": {
@@ -27278,6 +27358,24 @@
       "duration_ms": 256799,
       "name": "Miguel El Michoacano",
       "url": "https://open.spotify.com/track/5AZX2szCxeWGlozJ5kIZwV"
+    },
+    {
+      "album": {
+        "name": "Mil x Hora",
+        "url": "https://open.spotify.com/album/6ve34licV5FXj6JhbgYdcO"
+      },
+      "artists": [
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149351,
+      "name": "Mil x Hora",
+      "url": "https://open.spotify.com/track/7B5U9TgPYByWbfG0UUvpQh"
     },
     {
       "album": {
@@ -34260,7 +34358,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 214500,
       "name": "Soy De Agiabampo",
       "url": "https://open.spotify.com/track/59bzZkW360aBq06xJ5LQYZ"
@@ -35458,7 +35556,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 180756,
       "name": "Todo a Su Tiempo",
       "url": "https://open.spotify.com/track/6sBjyBwRAQEONPaJunUZVm"

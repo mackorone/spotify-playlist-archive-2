@@ -2,7 +2,7 @@
 
 ### [Disney Channel Hits](https://open.spotify.com/playlist/37i9dQZF1DWXe3uGcHMBcq)
 
-> Celebrate Hannah Montana turning 20 by reliving your favorite Disney Channel hits!
+> Rock out to the \*perfect\* songs from all your favorite Disney Channel shows and movies!
 
 204 songs - 9 hr 39 min
 

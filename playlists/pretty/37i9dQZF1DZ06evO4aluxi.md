@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,306 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,307 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 28 | [Lead Me On](https://open.spotify.com/track/4lNWo2a9HjTMWbrfGTSLCh) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Unsung Hero \(The Inspired By Soundtrack\)](https://open.spotify.com/album/3pldpOkIoJqYnkuOTWTipi) | 3:22 |
 | 29 | [Agnus Dei \- Live](https://open.spotify.com/track/0G94ldMUXHZ94aHc3FKSz3) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Worship Forever \(Live\)](https://open.spotify.com/album/0VGJroMZNK3faRsUfaDwz0) | 5:29 |
 | 30 | [The Other Side Of Goodbye](https://open.spotify.com/track/6pVEBhRWnQLuIiDB0lsoFg) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Sarah Cannon](https://open.spotify.com/artist/7dMCLcxGDEpPHQMrVSi0iC), [Corrina Gill](https://open.spotify.com/artist/0XX6hv23ARM9vJoaAGlaHX) | [The Me That Remains](https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4) | 3:30 |
-| 31 | [What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art \- Medley](https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:30 |
-| 32 | [Scars In Heaven](https://open.spotify.com/track/39Ngl6IuVlJLEZPUIrdkOo) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 4:22 |
-| 33 | [Lead Me On](https://open.spotify.com/track/0viCxBdQvd5WE4M1lXzv7u) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Lead Me On](https://open.spotify.com/album/7ETJhSThtcyCrQg4CuZfrX) | 5:36 |
+| 31 | [Holy, Holy, Holy](https://open.spotify.com/track/5EYbEcW9oURdvzhpWzSSwb) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 2:26 |
+| 32 | [Lead Me On](https://open.spotify.com/track/0viCxBdQvd5WE4M1lXzv7u) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Lead Me On](https://open.spotify.com/album/7ETJhSThtcyCrQg4CuZfrX) | 5:36 |
+| 33 | [Scars In Heaven](https://open.spotify.com/track/39Ngl6IuVlJLEZPUIrdkOo) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 4:22 |
 | 34 | [Power In The Blood](https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 3:51 |
-| 35 | [Holy, Holy, Holy](https://open.spotify.com/track/5EYbEcW9oURdvzhpWzSSwb) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 2:26 |
+| 35 | [What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art \- Medley](https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:30 |
 | 36 | [House Of Love](https://open.spotify.com/track/1NLUdUNqji3A8G1UMKHicV) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 4:36 |
 | 37 | [Arms Of Love](https://open.spotify.com/track/3cOpBTr6c4c6k0GyGT4xm0) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 3:23 |
 | 38 | [Stay For A While](https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Collection](https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi) | 5:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 49 | [My Jesus, I Love Thee](https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:34 |
 | 50 | [Somewhere Down The Road](https://open.spotify.com/track/63VewBt9Bbb4QntRb7mZ9S) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Behind The Eyes \(Remastered\)](https://open.spotify.com/album/7a5DZH4Hx6bv9r7JjUtrRd) | 5:09 |
 
-Snapshot ID: `aiipAAAAAABRKMGqdUPCeq9bcQ+F3idR`
+Snapshot ID: `ain6gAAAAADaka2Dp2urFwoLhyTfwg6X`

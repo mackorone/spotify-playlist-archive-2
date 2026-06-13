@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-115 songs - 13 hr 37 min
+116 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Ja Ve Pardesia](https://open.spotify.com/track/6WrTw0AwTzqgYhl7I74IQM) | [Parvez Mehdi](https://open.spotify.com/artist/6cm8IAzdec1i8SMx8gErwJ) | [Punjabi Mehfil, Vol\. 3](https://open.spotify.com/album/6Qyt1ZwPegk8Qx3UfvT64a) | 5:45 | 2023-02-15 | 2026-05-30 |
 | [Jaach Mainu Aa Gai Gham Khaan Di](https://open.spotify.com/track/62Ckk14Mj0mBzlNoYP5ibH) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Dil Wala Dukhra](https://open.spotify.com/album/4BTUY0hbGetctoTH6N2F2G) | 3:20 | 2025-05-13 | 2025-07-04 |
 | [Jaan Kadh Layee Aa Beimana](https://open.spotify.com/track/02x9Iqu6YKsYIdqVjChg9x) | [Afshan](https://open.spotify.com/artist/5KGyT7BuVG7qfJHstr7WSO) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 4:25 | 2024-04-24 | 2024-07-11 |
+| [Jaan Na Jaan \- Male Version](https://open.spotify.com/track/5a5klMTzdiPYO2uJjBvIdx) | [Harpreet Singh](https://open.spotify.com/artist/608azxY5aIu3kTSKzPa2cB), [Baba Bulleh Shah](https://open.spotify.com/artist/2MgGHPYmzWK4JhwnYoGLHt) | [Ek Anokhi Dulhan Saavi](https://open.spotify.com/album/3iEX72gAetxli7H5h9ZHa4) | 5:06 | 2026-06-12 |  |
 | [Jadon Kadi Tainu Mera Pyar Satavega](https://open.spotify.com/track/4IlIKBWyN3gQolyg6ZsdWK) | [Gulam Ali](https://open.spotify.com/artist/5BAwVnj972uTgQHH5DI8qi) | [Tu Hi Mera Dil Luteya](https://open.spotify.com/album/32HisT2mFnShBmFGtLamXZ) | 7:05 | 2023-02-15 | 2025-05-14 |
 | [Jaiye Sajana \- Recreated](https://open.spotify.com/track/1geDWIpPN8zwNe0MUJznfr) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jaiye Sajana \- Recreated](https://open.spotify.com/album/1b1dQ1elQ1jCxIFllzHDJX) | 6:47 | 2026-05-18 |  |
 | [Jhaleya](https://open.spotify.com/track/2SqzHPZJkWqeiQaTKvVHK6) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [Ustaad Dildar Hussian](https://open.spotify.com/artist/7Khc0BFNH1WcQfn1QfrEbN) | [She Loves Me, She Loves Me Not...](https://open.spotify.com/album/52LycdTcLfQ7fusg8XKXs9) | 6:19 | 2025-02-27 | 2025-04-09 |
@@ -85,7 +86,7 @@
 | [Nit Khair Manga](https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Nit Khair Manga](https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b) | 2:21 | 2025-07-11 |  |
 | [Nit Khair Manga Sohneya](https://open.spotify.com/track/3VQlzO0MEsIhO4XiDGPpbu) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Big Boss Of Sufi Nusrat Fateh Ali Khan](https://open.spotify.com/album/3cYWUr0ckFlYZVLPnWkVoN) | 15:19 | 2023-12-18 |  |
 | [Nit Khair Mangan Sohnia Main Teri](https://open.spotify.com/track/59uJINektNnYnbMTd1IxAy) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Nit Khair Mangan Vol\. 17](https://open.spotify.com/album/5GcDQZI62w1Wf7napXHxwE) | 15:17 | 2023-02-15 | 2024-04-19 |
-| [Nitt De Vichhore Saada Sukh Chain](https://open.spotify.com/track/29351vA9iRgtYyDsXbrMOp) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Punjabi Mehfil, Vol\. 3](https://open.spotify.com/album/6Qyt1ZwPegk8Qx3UfvT64a) | 14:29 | 2023-02-15 |  |
+| [Nitt De Vichhore Saada Sukh Chain](https://open.spotify.com/track/29351vA9iRgtYyDsXbrMOp) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Punjabi Mehfil, Vol\. 3](https://open.spotify.com/album/6Qyt1ZwPegk8Qx3UfvT64a) | 14:29 | 2023-02-15 | 2026-06-13 |
 | [Pattnaa Te Mil Mahiya](https://open.spotify.com/track/4ktefCdaBCcVZO79dNF3Am) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Punjabi Mehfil, Vol\. 3](https://open.spotify.com/album/6Qyt1ZwPegk8Qx3UfvT64a) | 12:47 | 2023-02-15 | 2025-05-14 |
 | [Pehli Wari Ehnan Akhian](https://open.spotify.com/track/1rv170ZsobLD7RP5mLGQW7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 7:53 | 2023-02-15 | 2025-05-14 |
 | [Pyar Hoyi Janda Ae \- From "Arjan"](https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Pyar Hoyi Janda Ae \(From "Arjan"\)](https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT) | 4:43 | 2025-02-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,520 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,529 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 12 | [Bent Nass](https://open.spotify.com/track/6tT4CGnggGURBUMkDrE52k) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/52d5PZbkISEQMhrDZRqoAy) | 4:10 |
 | 13 | [Doberwoman](https://open.spotify.com/track/55euixOw1IYjWcL6L3ZCzl) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Doberwoman](https://open.spotify.com/album/46qNNnHFwhmzuKpRlUOcqS) | 2:58 |
 | 14 | [Medical](https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN) | [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Medical](https://open.spotify.com/album/7718Pguh1bHXGkzMLDwIBA) | 3:44 |
-| 15 | [L’Bayda Mon Amour](https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 4:48 |
+| 15 | [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 |
 | 16 | [3AYM](https://open.spotify.com/track/6IUI26Z6MzLJZTUA3qAz4O) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [3AYM](https://open.spotify.com/album/64uxz01ZKoZ5qgmRbWqQ52) | 4:40 |
-| 17 | [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 |
+| 17 | [L’Bayda Mon Amour](https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 4:48 |
 | 18 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 |
 | 19 | [No Complaints](https://open.spotify.com/track/0E7vM9JTF6RQ0Mb7cZmP8V) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 2:50 |
 | 20 | [أفشتني](https://open.spotify.com/track/0TLJPWdBF6S1dLrPixXWMV) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [أفشتني](https://open.spotify.com/album/4sVSTpSXH7u7MCsXEkTlHy) | 3:25 |

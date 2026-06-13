@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Ambre
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,892 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,946 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 13 | [Superstar](https://open.spotify.com/track/29ngwhaBqObFJoPjDhplN2) | [47ter](https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi) | [Superstar](https://open.spotify.com/album/71UYVPUJxCfkisIL9FLrS3) | 2:37 |
 | 14 | [Surcoté](https://open.spotify.com/track/5VdDTvI4JQTXRZIsbP0zZa) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Surcoté](https://open.spotify.com/album/1TdR64EuoWljelusaKevFD) | 3:18 |
 | 15 | [Moitié les mêmes](https://open.spotify.com/track/5bvqmfsknupgemx1eTlOFz) | [Victorien](https://open.spotify.com/artist/4hCY20IkGa63aUoV82yMBE) | [Moitié les mêmes](https://open.spotify.com/album/6PXiQIVz7ZBKeDXMbbPoGl) | 2:58 |
-| 16 | [Track 2](https://open.spotify.com/track/0kTT5VNqlJhx1Fx9M7bbQL) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Ne m'oublie pas](https://open.spotify.com/album/7zUr0UTcXLNTSbNvRfZfKb) | 0:00 |
+| 16 | [Qui tu es](https://open.spotify.com/track/0kTT5VNqlJhx1Fx9M7bbQL) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Ne m'oublie pas](https://open.spotify.com/album/7zUr0UTcXLNTSbNvRfZfKb) | 3:27 |
 | 17 | [Crash](https://open.spotify.com/track/02IIarJdHe8u4n0XcOEzHN) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Crash](https://open.spotify.com/album/20RGe7E8FpGuhkcTLa4LpG) | 2:44 |
 | 18 | [Je veux](https://open.spotify.com/track/4S1FajtcvGHpETY3z7Iqmz) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [Je veux](https://open.spotify.com/album/1oq3NpkDklIsqOObMhgoRK) | 2:49 |
 | 19 | [Les yeux dans l'eau](https://open.spotify.com/track/4dtKNaXCvU3j8jZismTYES) | [Roulez Jeunesse](https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle) | [Essentiel](https://open.spotify.com/album/66TtP994W3DoqdirH7n2QE) | 2:26 |

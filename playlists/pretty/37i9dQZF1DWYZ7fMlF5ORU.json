@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 185374,
+  "num_followers": 185381,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho"
+      },
+      "artists": [
+        {
+          "name": "Jefte Santos",
+          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
+        }
+      ],
+      "duration_ms": 253354,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Ele Me Amou",
         "url": "https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 269714,
       "name": "Ele Me Amou",
       "url": "https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Alegria",
-        "url": "https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho"
-      },
-      "artists": [
-        {
-          "name": "Jefte Santos",
-          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
-        }
-      ],
-      "duration_ms": 253354,
-      "name": "Alegria",
-      "url": "https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Celebre a Vida",
+        "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
+      },
+      "artists": [
+        {
+          "name": "Bira Santos",
+          "url": "https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM"
+        }
+      ],
+      "duration_ms": 244239,
+      "name": "Celebre a Vida",
+      "url": "https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Tua Vontade (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 207698,
       "name": "Tua Vontade - Ao Vivo",
       "url": "https://open.spotify.com/track/6cHGFCtV4KxdqAon5BqTz7"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Celebre a Vida",
-        "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
-      },
-      "artists": [
-        {
-          "name": "Bira Santos",
-          "url": "https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM"
-        }
-      ],
-      "duration_ms": 244239,
-      "name": "Celebre a Vida",
-      "url": "https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr"
     },
     {
       "added_at": "2026-06-12 03:01:51",

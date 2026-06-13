@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 279452,
+  "num_followers": 279521,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -499,26 +499,6 @@
     {
       "added_at": "2026-05-15 19:12:41",
       "album": {
-        "name": "No me sale",
-        "url": "https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB"
-      },
-      "artists": [
-        {
-          "name": "Campedrinos",
-          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
-        },
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 208506,
-      "name": "No me sale",
-      "url": "https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx"
-    },
-    {
-      "added_at": "2026-05-15 19:12:41",
-      "album": {
         "name": "El \u00daltimo Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 251724,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
+    },
+    {
+      "added_at": "2026-05-15 19:12:41",
+      "album": {
+        "name": "No me sale",
+        "url": "https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        },
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 208506,
+      "name": "No me sale",
+      "url": "https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx"
     },
     {
       "added_at": "2026-05-15 19:12:41",
@@ -811,6 +811,26 @@
     {
       "added_at": "2026-05-15 19:12:41",
       "album": {
+        "name": "Tu Sacaganas",
+        "url": "https://open.spotify.com/album/7vWrU6A3G7XhVUKEFnspB0"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 193083,
+      "name": "Tu Sacaganas",
+      "url": "https://open.spotify.com/track/2E7VxFwGSmvqLfsFoGDSi9"
+    },
+    {
+      "added_at": "2026-05-15 19:12:41",
+      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 232781,
       "name": "BORRACHO Y LOCO",
       "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
-    },
-    {
-      "added_at": "2026-05-15 19:12:41",
-      "album": {
-        "name": "Tu Sacaganas",
-        "url": "https://open.spotify.com/album/7vWrU6A3G7XhVUKEFnspB0"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 193083,
-      "name": "Tu Sacaganas",
-      "url": "https://open.spotify.com/track/2E7VxFwGSmvqLfsFoGDSi9"
     },
     {
       "added_at": "2026-05-15 19:12:41",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-05-15 19:12:41",
       "album": {
-        "name": "Mi Primer Amor",
-        "url": "https://open.spotify.com/album/5HKegx8eIQiHoHrsqBbYxj"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 188286,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY"
-    },
-    {
-      "added_at": "2026-05-15 19:12:41",
-      "album": {
         "name": "A Chillar a Otra Parte",
         "url": "https://open.spotify.com/album/0hG1L7X4lqnBQXlwISMP8l"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 221204,
       "name": "A Chillar a Otra Parte",
       "url": "https://open.spotify.com/track/70WFn8PLvtppSHM3DUEj02"
+    },
+    {
+      "added_at": "2026-05-15 19:12:41",
+      "album": {
+        "name": "Mi Primer Amor",
+        "url": "https://open.spotify.com/album/5HKegx8eIQiHoHrsqBbYxj"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 188286,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY"
     },
     {
       "added_at": "2026-05-15 19:12:41",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2026-05-15 19:12:41",
       "album": {
-        "name": "MALA",
-        "url": "https://open.spotify.com/album/1ntZkQLCuUz5G5wlUPO8ar"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        },
-        {
-          "name": "Cacho Deicas",
-          "url": "https://open.spotify.com/artist/0rekO119G0yO5gjzM4nxZ2"
-        }
-      ],
-      "duration_ms": 197121,
-      "name": "MALA",
-      "url": "https://open.spotify.com/track/5zmOqNbUyYFRKzmwFauNgj"
-    },
-    {
-      "added_at": "2026-05-15 19:12:41",
-      "album": {
         "name": "Te Hubieras Ido Antes",
         "url": "https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq"
       },
@@ -1523,22 +1503,22 @@
     {
       "added_at": "2026-05-15 19:12:41",
       "album": {
-        "name": "Decepci\u00f3n",
-        "url": "https://open.spotify.com/album/7IvG7x15PsegRQ5DOUOVm3"
+        "name": "MALA",
+        "url": "https://open.spotify.com/album/1ntZkQLCuUz5G5wlUPO8ar"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
         },
         {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+          "name": "Cacho Deicas",
+          "url": "https://open.spotify.com/artist/0rekO119G0yO5gjzM4nxZ2"
         }
       ],
-      "duration_ms": 146878,
-      "name": "Decepci\u00f3n",
-      "url": "https://open.spotify.com/track/1Hmyi5GKWxEaatdqlBd2ms"
+      "duration_ms": 197121,
+      "name": "MALA",
+      "url": "https://open.spotify.com/track/5zmOqNbUyYFRKzmwFauNgj"
     },
     {
       "added_at": "2026-05-15 19:12:41",
@@ -1583,6 +1563,26 @@
     {
       "added_at": "2026-05-15 19:12:41",
       "album": {
+        "name": "Decepci\u00f3n",
+        "url": "https://open.spotify.com/album/7IvG7x15PsegRQ5DOUOVm3"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 146878,
+      "name": "Decepci\u00f3n",
+      "url": "https://open.spotify.com/track/1Hmyi5GKWxEaatdqlBd2ms"
+    },
+    {
+      "added_at": "2026-05-15 19:12:41",
+      "album": {
         "name": "Exitos de oro",
         "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 157244,
       "name": "Date cuenta",
       "url": "https://open.spotify.com/track/3X0FSUKlgyj4mq9BCJzDqE"
+    },
+    {
+      "added_at": "2026-05-15 19:12:41",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/44Im9L48gDJRpn5Vtp6usG"
+      },
+      "artists": [
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "duration_ms": 173543,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2dAvBG6fcCrGlRjsGDj5wL"
     },
     {
       "added_at": "2026-05-15 19:12:41",
@@ -1655,22 +1671,6 @@
       "duration_ms": 212405,
       "name": "Muero de fr\u00edo, La Historia",
       "url": "https://open.spotify.com/track/0uDkIG7w74Z1EFRC1YReyA"
-    },
-    {
-      "added_at": "2026-05-15 19:12:41",
-      "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/44Im9L48gDJRpn5Vtp6usG"
-      },
-      "artists": [
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        }
-      ],
-      "duration_ms": 173543,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2dAvBG6fcCrGlRjsGDj5wL"
     },
     {
       "added_at": "2026-05-15 19:12:41",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-05-15 19:12:41",
       "album": {
-        "name": "Buscando Otro Amor",
-        "url": "https://open.spotify.com/album/2ijKJw1PlaNq0wIXL7fNiK"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 147725,
-      "name": "Buscando Otro Amor",
-      "url": "https://open.spotify.com/track/5GktPnJ8W17lKXWnVwgD48"
-    },
-    {
-      "added_at": "2026-05-15 19:12:41",
-      "album": {
         "name": "Coraz\u00f3n de Madera",
         "url": "https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj"
       },
@@ -1835,22 +1819,18 @@
     {
       "added_at": "2026-05-15 19:12:41",
       "album": {
-        "name": "Noche de Estrellas",
-        "url": "https://open.spotify.com/album/2sX6XP7Vsbn9vzuyoI1G6r"
+        "name": "Buscando Otro Amor",
+        "url": "https://open.spotify.com/album/2ijKJw1PlaNq0wIXL7fNiK"
       },
       "artists": [
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        },
-        {
-          "name": "j mena",
-          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         }
       ],
-      "duration_ms": 188368,
-      "name": "Noche de Estrellas",
-      "url": "https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT"
+      "duration_ms": 147725,
+      "name": "Buscando Otro Amor",
+      "url": "https://open.spotify.com/track/5GktPnJ8W17lKXWnVwgD48"
     },
     {
       "added_at": "2026-05-15 19:12:41",
@@ -1871,6 +1851,26 @@
       "duration_ms": 186352,
       "name": "Pero No Puedo Vol.2",
       "url": "https://open.spotify.com/track/3fVHtUpYml04WJeF5ybxXc"
+    },
+    {
+      "added_at": "2026-05-15 19:12:41",
+      "album": {
+        "name": "Noche de Estrellas",
+        "url": "https://open.spotify.com/album/2sX6XP7Vsbn9vzuyoI1G6r"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+        }
+      ],
+      "duration_ms": 188368,
+      "name": "Noche de Estrellas",
+      "url": "https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT"
     },
     {
       "added_at": "2026-05-15 19:12:41",

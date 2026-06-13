@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 195413,
+  "num_followers": 195443,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAANj/U5QXtND0TBnokLjr0b",
+  "snapshot_id": "ain6gAAAAAAqQQB5lKmJsMzrRBvMTw33",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 197680,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/4CZ9C2LlTI1BWPAcvIiDbY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buena",
         "url": "https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 218013,
       "name": "Buena",
       "url": "https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 197680,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/4CZ9C2LlTI1BWPAcvIiDbY"
     },
     {
       "added_at": null,

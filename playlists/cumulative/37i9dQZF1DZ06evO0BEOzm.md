@@ -4,7 +4,7 @@
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-118 songs - 5 hr 21 min
+119 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,10 +36,11 @@
 | [Cash Shit \(feat\. DaBaby\)](https://open.spotify.com/track/2rMAtCaTj16NptyVfEIeAC) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 3:12 | 2022-10-28 |  |
 | [Circles](https://open.spotify.com/track/08TILUAN56HJoS1d9mNRty) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:50 | 2022-10-28 | 2024-06-28 |
 | [Cobra](https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Cobra](https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl) | 2:48 | 2023-11-10 | 2025-06-10 |
-| [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y) | 3:06 | 2025-06-20 |  |
+| [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y) | 3:06 | 2025-06-20 | 2026-06-13 |
 | [Cocky Af](https://open.spotify.com/track/7hdR7gLsPQ6EXGeghibSK3) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 2:57 | 2022-10-28 |  |
 | [Cognac Queen](https://open.spotify.com/track/2GbS8QZToLioxL8XMEwX3P) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:42 | 2022-10-28 |  |
 | [Cry Baby \(feat\. DaBaby\)](https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:17 | 2022-10-28 |  |
+| [DNA \(More Than A Game\)](https://open.spotify.com/track/40qwbrvCXsiOPh9xOupCMp) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [DNA \(More Than A Game\) \[FIFA World Cup 2026™\]](https://open.spotify.com/album/53oXeqv93oxxcJwFt3fjH5) | 2:56 | 2026-06-13 |  |
 | [Do It On The Tip \(feat\. City Girls & Hot Girl Meg\)](https://open.spotify.com/track/2993VQSr7a2Dj5hI5xcWG0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Hot Girl Meg](https://open.spotify.com/artist/1ZEqGVxGNeiNyssm83CeKP) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:47 | 2022-10-28 | 2023-12-14 |
 | [DOLLA SIGN SLIME \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:25 | 2022-10-28 | 2024-12-08 |
 | [Don’t Stop \(feat\. Young Thug\)](https://open.spotify.com/track/3yv7994DWTEk3ihwy75YBQ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Don’t Stop \(feat\. Young Thug\)](https://open.spotify.com/album/6dm2dXeXB37jhsxKjgKAvw) | 3:07 | 2022-10-28 | 2024-07-17 |

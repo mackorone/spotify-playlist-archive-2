@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: mikey
 
-298 songs - 17 hr 13 min
+299 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Getaway](https://open.spotify.com/track/54YvXQzjpfQee9u3YKg8Ls) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:37 | 2026-04-02 |  |
 | [Gilded](https://open.spotify.com/track/2nxEJwcb0pxBohg1fKKmHe) | [Mr\. Beale](https://open.spotify.com/artist/7IXaHCboVc1IOzBqdHmQ1v) | [Gilded](https://open.spotify.com/album/1QvGemln6o7k5hGaYFpDZ6) | 3:01 | 2025-08-22 |  |
 | [Girls Like Me Belong in Bed, Curled](https://open.spotify.com/track/0byjD8soqql3yBdhOFWjKI) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Zen Maiden](https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR) | 4:04 | 2025-03-13 | 2026-01-24 |
+| [Going about my day](https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14) | [Lola Hammerich](https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40) | [Going about my day](https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV) | 5:57 | 2026-06-12 |  |
 | [Golden Brown Sugar](https://open.spotify.com/track/1s8UNp2swlH5b6c6FghaCl) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Golden Brown Sugar](https://open.spotify.com/album/3GTsuGzSY59ekjlR2WDWWp) | 3:49 | 2026-02-12 |  |
 | [Good Stuff \- Edit](https://open.spotify.com/track/6BZC33mJ7fbt7lHQDHnKyf) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh), [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Good Stuff \(Edit\)](https://open.spotify.com/album/3qNVaqCijxUA03OYFh88ul) | 3:29 | 2025-04-03 | 2026-03-07 |
 | [Gown](https://open.spotify.com/track/7rRXZr2yNxk4HTIIdPfkRe) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Gown](https://open.spotify.com/album/76LdvzNH2xn7aBiohbRBrC) | 3:15 | 2025-07-22 |  |

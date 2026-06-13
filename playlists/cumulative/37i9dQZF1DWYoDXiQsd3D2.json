@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "'56 Live in Cape Town (Duo Version Live in Concert)",
+        "url": "https://open.spotify.com/album/1bax5rmcGPGpaIkOMEzTMQ"
+      },
+      "artists": [
+        {
+          "name": "Derek Gripper",
+          "url": "https://open.spotify.com/artist/6kUx0oARAtS3eKx7B6CKH2"
+        },
+        {
+          "name": "Guy Buttery",
+          "url": "https://open.spotify.com/artist/7MuP7MF52lCdMIi7H9zZfO"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459283,
+      "name": "'56 Live in Cape Town - Duo Version Live in Concert",
+      "url": "https://open.spotify.com/track/7jXMLKREfKHskLcNMIuGK6"
+    },
+    {
+      "album": {
         "name": "4am feeling",
         "url": "https://open.spotify.com/album/6URUq1pOo7FVUTCIO2xkSk"
       },
@@ -16,7 +38,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 180813,
       "name": "4am feeling",
       "url": "https://open.spotify.com/track/0hYaiWcaYmFx6Blaa6tGwn"
@@ -677,6 +699,24 @@
     },
     {
       "album": {
+        "name": "beyond the cemetery wall",
+        "url": "https://open.spotify.com/album/0iWwuXSLC3FYbax7eJbD6S"
+      },
+      "artists": [
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248578,
+      "name": "beyond the cemetery wall",
+      "url": "https://open.spotify.com/track/5jmd5yx4vjNEGIApo4FsQX"
+    },
+    {
+      "album": {
         "name": "Sounds of Fischer Vol. 1",
         "url": "https://open.spotify.com/album/4mDwLLZSBpBMHAgD1bRaaz"
       },
@@ -1244,7 +1284,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 200750,
       "name": "Dandelion Feathers",
       "url": "https://open.spotify.com/track/1O6OC0pjCfrizmivwZr8Gz"
@@ -1430,6 +1470,24 @@
       "duration_ms": 276354,
       "name": "Drifts",
       "url": "https://open.spotify.com/track/32tY6SIf2UO66rQntJ2BCI"
+    },
+    {
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140453,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
     },
     {
       "album": {
@@ -2059,6 +2117,24 @@
     },
     {
       "album": {
+        "name": "Hope Again",
+        "url": "https://open.spotify.com/album/3SrXvkY4WKEFVjHkV0tXnb"
+      },
+      "artists": [
+        {
+          "name": "Chris Ami",
+          "url": "https://open.spotify.com/artist/3NNU3ThoPVA8OpaXcfhcet"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Hope Again",
+      "url": "https://open.spotify.com/track/1ceru7mAptFoWOb7sXDgoO"
+    },
+    {
+      "album": {
         "name": "i am a strange loop",
         "url": "https://open.spotify.com/album/3Sw6Unyy2oVR785BAn5mmO"
       },
@@ -2357,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "Cho",
+        "url": "https://open.spotify.com/album/28tVg1aEZV0fOGUqWLnjS5"
+      },
+      "artists": [
+        {
+          "name": "Slow World",
+          "url": "https://open.spotify.com/artist/7IU3IM27vQRYGiBvEkyhti"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238536,
+      "name": "Kaguya",
+      "url": "https://open.spotify.com/track/1AZN1sKsFTVV5FR8My6gGI"
+    },
+    {
+      "album": {
         "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
         "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
@@ -2452,6 +2546,24 @@
       "duration_ms": 245106,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/67U3BF1e1PTw6DF1LLRPcF"
+    },
+    {
+      "album": {
+        "name": "From Moments",
+        "url": "https://open.spotify.com/album/7qybyCXdU3XlRXOcj7isck"
+      },
+      "artists": [
+        {
+          "name": "Vetle N\u00e6r\u00f8",
+          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202463,
+      "name": "Little Dreamer",
+      "url": "https://open.spotify.com/track/54p1VJ0R8SnSk3gU723PMn"
     },
     {
       "album": {
@@ -2839,6 +2951,28 @@
     },
     {
       "album": {
+        "name": "Once Before You Go (Dear Gravity Rework)",
+        "url": "https://open.spotify.com/album/7AuUi6QqtAPyyp3AxpMh75"
+      },
+      "artists": [
+        {
+          "name": "The American Dollar",
+          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
+        },
+        {
+          "name": "Dear Gravity",
+          "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253483,
+      "name": "Once Before You Go - Dear Gravity Rework",
+      "url": "https://open.spotify.com/track/4k4Yrr2GG71Onkk9t180Jh"
+    },
+    {
+      "album": {
         "name": "Open Handed",
         "url": "https://open.spotify.com/album/0OMRDlt8V9W7kjybKUbwSi"
       },
@@ -3177,6 +3311,28 @@
     },
     {
       "album": {
+        "name": "Ravel: Pr\u00e9lude in A Minor, M. 65 (Upright Version)",
+        "url": "https://open.spotify.com/album/3j1a6EjViCDHRlmaFrEiQU"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Julius Asal",
+          "url": "https://open.spotify.com/artist/5Tp2SqEkbc2n6anNqNw5dE"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111106,
+      "name": "Pr\u00e9lude in A Minor, M. 65 - Upright Version",
+      "url": "https://open.spotify.com/track/5GWpkw42ZTCcTSXp3hfGxT"
+    },
+    {
+      "album": {
         "name": "Pure (Ride the World)",
         "url": "https://open.spotify.com/album/1txIFT3asaSKUN6aF9cUxR"
       },
@@ -3254,6 +3410,28 @@
       "duration_ms": 211525,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/1eEPjmaDkD3kQdHCZTqIuB"
+    },
+    {
+      "album": {
+        "name": "Reliance of Dawn",
+        "url": "https://open.spotify.com/album/1plqY0Pz6jVjkFoftS5TyV"
+      },
+      "artists": [
+        {
+          "name": "DEX 1200",
+          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+        },
+        {
+          "name": "Hanna Ekstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204218,
+      "name": "Reliance of Dawn",
+      "url": "https://open.spotify.com/track/7B7UvhmhSnqnMN3CEyDLZX"
     },
     {
       "album": {
@@ -3590,6 +3768,24 @@
       "duration_ms": 94506,
       "name": "She - From \"Unobscured Season 1\" Soundtrack",
       "url": "https://open.spotify.com/track/6S6w6NHKYjUR4QCYkIenqx"
+    },
+    {
+      "album": {
+        "name": "Silver Lake",
+        "url": "https://open.spotify.com/album/238xl58fI4eMFo9Wkg5zHw"
+      },
+      "artists": [
+        {
+          "name": "Kino",
+          "url": "https://open.spotify.com/artist/744LLMunibSJvXx6VVAKl3"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141696,
+      "name": "Silver Lake",
+      "url": "https://open.spotify.com/track/6HOePaw0ZMwUlTDSIoqrtR"
     },
     {
       "album": {
@@ -4043,6 +4239,24 @@
     },
     {
       "album": {
+        "name": "The Mermaids Lullaby",
+        "url": "https://open.spotify.com/album/2RZ5T78aQOaTQxYtpSWXTl"
+      },
+      "artists": [
+        {
+          "name": "Rob Grant",
+          "url": "https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364893,
+      "name": "The Mermaids Lullaby",
+      "url": "https://open.spotify.com/track/74sYSDLujNsGX56iMwZ6TM"
+    },
+    {
+      "album": {
         "name": "The Orchard",
         "url": "https://open.spotify.com/album/1WlvWrXIDKzuakrLTFKcmC"
       },
@@ -4054,7 +4268,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 205407,
       "name": "The Orchard",
       "url": "https://open.spotify.com/track/4ZMtUdufInP7URLPHOz0Og"
@@ -4191,6 +4405,24 @@
     },
     {
       "album": {
+        "name": "Jumping Off Point",
+        "url": "https://open.spotify.com/album/28hsmt1fePyM0zIB00CcfX"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jefferson",
+          "url": "https://open.spotify.com/artist/4Iz3aB0M8UTyMsq2K4r3NI"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220998,
+      "name": "Through Northern Skies",
+      "url": "https://open.spotify.com/track/1uq57BHsrdo2mzGK6ifqOs"
+    },
+    {
+      "album": {
         "name": "Unmoored",
         "url": "https://open.spotify.com/album/1iKvwFy2Lmt7yzP1WOGItD"
       },
@@ -4206,6 +4438,24 @@
       "duration_ms": 150857,
       "name": "Unmoored",
       "url": "https://open.spotify.com/track/1SAs5oYs3N6U2S0Y2JJ3iV"
+    },
+    {
+      "album": {
+        "name": "untitled",
+        "url": "https://open.spotify.com/album/7AEPu7sfoQkd19VCztn8nj"
+      },
+      "artists": [
+        {
+          "name": "zak\u00e8",
+          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229146,
+      "name": "untitled",
+      "url": "https://open.spotify.com/track/7by9I6q0q3YBQ8G0xuM1rG"
     },
     {
       "album": {
@@ -4292,7 +4542,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 134413,
       "name": "Violet Dusk",
       "url": "https://open.spotify.com/track/7HHwJCUE6xSkSUCZymJ5mA"
@@ -4536,6 +4786,28 @@
       "duration_ms": 405333,
       "name": "Where Do You Get Your Dreams From?",
       "url": "https://open.spotify.com/track/5lG9mJbHCCzwyOSBUiM0Et"
+    },
+    {
+      "album": {
+        "name": "Where We Belong",
+        "url": "https://open.spotify.com/album/0BWJ7JBFMIN3RM96PhZ6FM"
+      },
+      "artists": [
+        {
+          "name": "Christopher Galovan",
+          "url": "https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c"
+        },
+        {
+          "name": "Simon Wester",
+          "url": "https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168077,
+      "name": "Where We Belong",
+      "url": "https://open.spotify.com/track/1LEMrZIT0SSfYudSv3xmjC"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 830138,
+  "num_followers": 830147,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
+      },
+      "artists": [
+        {
+          "name": "Iniko",
+          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 241595,
       "name": "Let Somebody Go",
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
-        "name": "Jericho",
-        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
-      },
-      "artists": [
-        {
-          "name": "Iniko",
-          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Strong Enough",
-        "url": "https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        },
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 149284,
-      "name": "Strong Enough (feat. Bailey Zimmerman)",
-      "url": "https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Our Song",
         "url": "https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 163733,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Strong Enough",
+        "url": "https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 149284,
+      "name": "Strong Enough (feat. Bailey Zimmerman)",
+      "url": "https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Waffle House",
-        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 145440,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "At Your Worst",
         "url": "https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 167201,
       "name": "At Your Worst",
       "url": "https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Waffle House",
+        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145440,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "I Can't Lose",
-        "url": "https://open.spotify.com/album/7LcGaAcnk6YyBJzNpW24LZ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 183284,
-      "name": "I Can\u2019t Lose",
-      "url": "https://open.spotify.com/track/6YggkCJwokciQdyL9Zbx4H"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "The Hudson",
         "url": "https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 216964,
       "name": "The Hudson",
       "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "I Can't Lose",
+        "url": "https://open.spotify.com/album/7LcGaAcnk6YyBJzNpW24LZ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 183284,
+      "name": "I Can\u2019t Lose",
+      "url": "https://open.spotify.com/track/6YggkCJwokciQdyL9Zbx4H"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "new friends",
-        "url": "https://open.spotify.com/album/3Xo6i17vaV6miD1Sv4A4tt"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 165668,
-      "name": "new friends",
-      "url": "https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 193621,
       "name": "Joy",
       "url": "https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "new friends",
+        "url": "https://open.spotify.com/album/3Xo6i17vaV6miD1Sv4A4tt"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 165668,
+      "name": "new friends",
+      "url": "https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "No Rain, No Flowers",
-        "url": "https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 173301,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/5Bu3CmkflxDAx5ps1BI8HI"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "barcelona",
         "url": "https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 175222,
       "name": "barcelona",
       "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "No Rain, No Flowers",
+        "url": "https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 173301,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/5Bu3CmkflxDAx5ps1BI8HI"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 186043,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "All the Little Lights (Deluxe Version)",
         "url": "https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 252733,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/0JmiBCpWc1IAc0et7Xm7FL"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 198221,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Never A Good Time",
         "url": "https://open.spotify.com/album/0QlfV5dcIdMnywIB5qyNRG"
       },
@@ -1995,6 +1979,46 @@
       "duration_ms": 175247,
       "name": "favorite kind of high",
       "url": "https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 198221,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        },
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -2043,30 +2067,6 @@
       "duration_ms": 164396,
       "name": "Older",
       "url": "https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        },
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ"
     },
     {
       "added_at": "2025-08-08 04:00:40",

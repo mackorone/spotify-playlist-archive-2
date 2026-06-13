@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAB8s7D2tOyICXtst3zTJ8pO",
+  "snapshot_id": "ain6gAAAAACzAhd9VWlopbD7cuo8D84R",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bossy",
+        "url": "https://open.spotify.com/album/5nb8r2gQC3ro3g5s1VETMz"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Cinta Laura Kiehl",
+          "url": "https://open.spotify.com/artist/6fUp4eQI2LWQCp4mfPnVMF"
+        }
+      ],
+      "duration_ms": 134947,
+      "name": "Bossy",
+      "url": "https://open.spotify.com/track/3uuytiAc3p8k73EM9WENt2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GERCEP (feat. Mamang Kesbor, A. Nayaka, Kenz, Soren Kai)",
         "url": "https://open.spotify.com/album/4arXtb34VDRQv9lbliNAvJ"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 276800,
       "name": "GERCEP (feat. Mamang Kesbor, A. Nayaka, Kenz, Soren Kai)",
       "url": "https://open.spotify.com/track/4FYLiDAXdcYAS99Bnl2MK1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bossy",
-        "url": "https://open.spotify.com/album/5nb8r2gQC3ro3g5s1VETMz"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Cinta Laura Kiehl",
-          "url": "https://open.spotify.com/artist/6fUp4eQI2LWQCp4mfPnVMF"
-        }
-      ],
-      "duration_ms": 134947,
-      "name": "Bossy",
-      "url": "https://open.spotify.com/track/3uuytiAc3p8k73EM9WENt2"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Want Me Back",
-        "url": "https://open.spotify.com/album/00wqpSXlPgNJpq7oeckRWx"
+        "name": "B4COT!",
+        "url": "https://open.spotify.com/album/6YZh5vyvUWTxf84PHQXnqw"
       },
       "artists": [
         {
@@ -336,17 +336,13 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         },
         {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        },
-        {
-          "name": "Taka Perry",
-          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+          "name": "JV.JARVIS",
+          "url": "https://open.spotify.com/artist/3RukKIu27TAGLJ4VT5mNRz"
         }
       ],
-      "duration_ms": 175714,
-      "name": "Want Me Back",
-      "url": "https://open.spotify.com/track/6nTNtWCDuL2loiO1s7a3kF"
+      "duration_ms": 138000,
+      "name": "B4COT!",
+      "url": "https://open.spotify.com/track/52iHSucM6u3SSJhnZtjpag"
     },
     {
       "added_at": null,
@@ -371,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "B4COT!",
-        "url": "https://open.spotify.com/album/6YZh5vyvUWTxf84PHQXnqw"
+        "name": "Want Me Back",
+        "url": "https://open.spotify.com/album/00wqpSXlPgNJpq7oeckRWx"
       },
       "artists": [
         {
@@ -380,13 +376,17 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         },
         {
-          "name": "JV.JARVIS",
-          "url": "https://open.spotify.com/artist/3RukKIu27TAGLJ4VT5mNRz"
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
         }
       ],
-      "duration_ms": 138000,
-      "name": "B4COT!",
-      "url": "https://open.spotify.com/track/52iHSucM6u3SSJhnZtjpag"
+      "duration_ms": 175714,
+      "name": "Want Me Back",
+      "url": "https://open.spotify.com/track/6nTNtWCDuL2loiO1s7a3kF"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
       "duration_ms": 230960,
       "name": "Us vs",
       "url": "https://open.spotify.com/track/06Fl6Sd3IA4pdK7vlAdTvr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onto The Next",
+        "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 214109,
+      "name": "Onto The Next",
+      "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
     },
     {
       "added_at": null,
@@ -443,18 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onto The Next",
-        "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
+        "name": "Indo ME",
+        "url": "https://open.spotify.com/album/3rdELLdq2r3pcjwBqTMVI4"
       },
       "artists": [
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
         }
       ],
-      "duration_ms": 214109,
-      "name": "Onto The Next",
-      "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
+      "duration_ms": 200899,
+      "name": "Indo ME",
+      "url": "https://open.spotify.com/track/7iRW4JlUHHzPkUhd9a7seu"
     },
     {
       "added_at": null,
@@ -475,26 +495,6 @@
       "duration_ms": 151020,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/65fg6a44OSUC6K2zw7FqZY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Indo ME",
-        "url": "https://open.spotify.com/album/3rdELLdq2r3pcjwBqTMVI4"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Basboi",
-          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
-        }
-      ],
-      "duration_ms": 200899,
-      "name": "Indo ME",
-      "url": "https://open.spotify.com/track/7iRW4JlUHHzPkUhd9a7seu"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+        "name": "MING LING (feat. Yung Raja)",
+        "url": "https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj"
       },
       "artists": [
         {
@@ -772,13 +772,13 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         },
         {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+          "name": "Yung Raja",
+          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
         }
       ],
-      "duration_ms": 152695,
-      "name": "Go Get That B",
-      "url": "https://open.spotify.com/track/6HqGDaOqnFdAnmSPxHde2n"
+      "duration_ms": 163780,
+      "name": "MING LING (feat. Yung Raja)",
+      "url": "https://open.spotify.com/track/00g4AEpAH40uIlm62yf3Rt"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MING LING (feat. Yung Raja)",
-        "url": "https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj"
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
       },
       "artists": [
         {
@@ -812,13 +812,13 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         },
         {
-          "name": "Yung Raja",
-          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
         }
       ],
-      "duration_ms": 163780,
-      "name": "MING LING (feat. Yung Raja)",
-      "url": "https://open.spotify.com/track/00g4AEpAH40uIlm62yf3Rt"
+      "duration_ms": 152695,
+      "name": "Go Get That B",
+      "url": "https://open.spotify.com/track/6HqGDaOqnFdAnmSPxHde2n"
     },
     {
       "added_at": null,
@@ -835,38 +835,6 @@
       "duration_ms": 193853,
       "name": "FASHION",
       "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 150929,
-      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 205943,
-      "name": "gippal",
-      "url": "https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk"
     },
     {
       "added_at": null,
@@ -891,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHACHU MEAN",
-        "url": "https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t"
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
       },
       "artists": [
         {
@@ -900,9 +868,25 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 214159,
-      "name": "WHACHU MEAN",
-      "url": "https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7"
+      "duration_ms": 205943,
+      "name": "gippal",
+      "url": "https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 150929,
+      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
     },
     {
       "added_at": null,
@@ -923,28 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Gonna Give Up",
-        "url": "https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 233170,
-      "name": "Ain't Gonna Give Up",
-      "url": "https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+        "name": "WHACHU MEAN",
+        "url": "https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t"
       },
       "artists": [
         {
@@ -952,9 +916,9 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 172307,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd"
+      "duration_ms": 214159,
+      "name": "WHACHU MEAN",
+      "url": "https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7"
     },
     {
       "added_at": null,
@@ -979,6 +943,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Gonna Give Up",
+        "url": "https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 233170,
+      "name": "Ain't Gonna Give Up",
+      "url": "https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm Ugly",
         "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
       },
@@ -995,26 +995,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Tinder",
-        "url": "https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove"
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
       },
       "artists": [
-        {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 254062,
-      "name": "No Tinder",
-      "url": "https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH"
+      "duration_ms": 165067,
+      "name": "whats ur problem",
+      "url": "https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7"
     },
     {
       "added_at": null,
@@ -1039,18 +1031,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+        "name": "No Tinder",
+        "url": "https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove"
       },
       "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 165067,
-      "name": "whats ur problem",
-      "url": "https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7"
+      "duration_ms": 254062,
+      "name": "No Tinder",
+      "url": "https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH"
     },
     {
       "added_at": null,

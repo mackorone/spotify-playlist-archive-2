@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes! As\u00ed suena la Perla de Occidente.",
-  "num_followers": 133045,
+  "num_followers": 133027,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Lo Que Siempre So\u00f1amos Ser",
-        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
-      },
-      "artists": [
-        {
-          "name": "Sandoval",
-          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "A quien t\u00fa decidiste amar",
-      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Por Mi M\u00e9xico (Remix)",
         "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 405000,
       "name": "Por Mi M\u00e9xico (Remix)",
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Lo Que Siempre So\u00f1amos Ser",
+        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
+      },
+      "artists": [
+        {
+          "name": "Sandoval",
+          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "A quien t\u00fa decidiste amar",
+      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Tal y cual",
-        "url": "https://open.spotify.com/album/6NOGmQ8GXFfOe46CFHgxaP"
+        "name": "Explotar",
+        "url": "https://open.spotify.com/album/5jLGn7aHYTJm18dyDbj3hL"
       },
       "artists": [
         {
-          "name": "Pito Perez",
-          "url": "https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8"
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
         }
       ],
-      "duration_ms": 216066,
-      "name": "Locamente enamorado",
-      "url": "https://open.spotify.com/track/2gnPKll8i1Q4ttFh0KUNRQ"
+      "duration_ms": 191605,
+      "name": "Explotar",
+      "url": "https://open.spotify.com/track/09Yc3FvIm6wrSCt6mzGriT"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -731,18 +731,18 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Explotar",
-        "url": "https://open.spotify.com/album/5jLGn7aHYTJm18dyDbj3hL"
+        "name": "Tal y cual",
+        "url": "https://open.spotify.com/album/6NOGmQ8GXFfOe46CFHgxaP"
       },
       "artists": [
         {
-          "name": "Agris",
-          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+          "name": "Pito Perez",
+          "url": "https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8"
         }
       ],
-      "duration_ms": 191605,
-      "name": "Explotar",
-      "url": "https://open.spotify.com/track/09Yc3FvIm6wrSCt6mzGriT"
+      "duration_ms": 216066,
+      "name": "Locamente enamorado",
+      "url": "https://open.spotify.com/track/2gnPKll8i1Q4ttFh0KUNRQ"
     },
     {
       "added_at": "2026-06-08 22:39:48",

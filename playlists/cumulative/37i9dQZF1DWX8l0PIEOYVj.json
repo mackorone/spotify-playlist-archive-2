@@ -7831,6 +7831,32 @@
     },
     {
       "album": {
+        "name": "Heights",
+        "url": "https://open.spotify.com/album/46iz7c2Kbajwru4zJKbURk"
+      },
+      "artists": [
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        },
+        {
+          "name": "Dead Rose",
+          "url": "https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM"
+        },
+        {
+          "name": "Dia Frampton",
+          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Heights",
+      "url": "https://open.spotify.com/track/20L9STvRrBk6ywxJ7fexJO"
+    },
+    {
+      "album": {
         "name": "Help Me",
         "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
       },
@@ -8812,7 +8838,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 269333,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/1dfkSVQn5Pwct72NkmKZMG"
@@ -12123,6 +12149,36 @@
     },
     {
       "album": {
+        "name": "TRUE LOVE IN A MADE UP WORLD",
+        "url": "https://open.spotify.com/album/4VFU51NEgeT5It9ocFdsgJ"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166478,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/72rArSfKMPrcQeGlBRfOrs"
+    },
+    {
+      "album": {
         "name": "Nobody Compares",
         "url": "https://open.spotify.com/album/1Qc38fCylJ6HKvgWfxAxUA"
       },
@@ -14160,7 +14216,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 250105,
       "name": "River",
       "url": "https://open.spotify.com/track/7mvtaWOIbZ9fKbQOQawhTc"
@@ -14476,7 +14532,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 214588,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/2QZ6EczO3HbVdo2V8MMTTR"
@@ -15664,7 +15720,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 226285,
       "name": "Something For Your Mind",
       "url": "https://open.spotify.com/track/46EGyxJ2V0rk13jUlIGL6s"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,686 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,681 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 45 | [Se Deus É Por Mim \- Ao Vivo](https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Se Deus É Por Mim \(Ao Vivo\)](https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f) | 7:47 |
 | 46 | [Porque Creio em Ti \- Ao Vivo](https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj) | [Quatro por Um](https://open.spotify.com/artist/5Ai5CFwarvc7z5SZp6s8dz), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Quatro por Um Forever \(Ao Vivo\)](https://open.spotify.com/album/20INxhFFGnvx75lNaxGxXs) | 5:00 |
 | 47 | [Apaixonado Coração](https://open.spotify.com/track/5trNycknDFgdGosv98UeRc) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:08 |
-| 48 | [Eu Creio Nos Planos de Deus \- Ao Vivo](https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv) | 4:04 |
-| 49 | [Meu Viver \- Ao Vivo](https://open.spotify.com/track/0zlfmwkzWbINauvIcoHLJz) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Meu Viver \(Ao Vivo\)](https://open.spotify.com/album/75qUIRGKzgzIXbwXZT2aMM) | 5:10 |
+| 48 | [Meu Viver \- Ao Vivo](https://open.spotify.com/track/0zlfmwkzWbINauvIcoHLJz) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Meu Viver \(Ao Vivo\)](https://open.spotify.com/album/75qUIRGKzgzIXbwXZT2aMM) | 5:10 |
+| 49 | [Eu Creio Nos Planos de Deus \- Ao Vivo](https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv) | 4:04 |
 | 50 | [Debaixo da Nuvem](https://open.spotify.com/track/6hkuCiWjyqkaWmPBI6xpwJ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Debaixo da Nuvem \(Ao Vivo\)](https://open.spotify.com/album/40haqMQAqyWCXcBvUqKhLu) | 4:44 |
 
-Snapshot ID: `aiipAAAAAADFucfn2/uCq3KmWHUnepfw`
+Snapshot ID: `ain6gAAAAACse8J9R56CQG++L8IKCgeB`

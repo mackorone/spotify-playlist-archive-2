@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from feeble little horse
 
-2,177 songs - 5 day 3 hr 22 min
+2,180 songs - 5 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Best of Me](https://open.spotify.com/track/1sDovYD581U1a5hk1QLBcs) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [All The Ways We Are Together](https://open.spotify.com/album/44wiGP3EtCvu6lDACZAvkC) | 2:37 | 2021-06-07 | 2022-05-04 |
 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 | 2025-01-31 | 2025-03-08 |
 | [Beta Fish](https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Surgery and Pleasure](https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T) | 3:39 | 2025-03-07 | 2025-05-24 |
+| [Better Man](https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc) | 3:03 | 2026-06-12 |  |
 | [Better Now](https://open.spotify.com/track/1YSNxaaqDvsIyBFakpf8PW) | [Celler Dwellers](https://open.spotify.com/artist/6JqJpTCoO1tmLR7mVhFmFx) | [Better Now](https://open.spotify.com/album/4NdmLssbqfFxVGiRTBksec) | 3:07 | 2023-04-07 | 2023-05-20 |
 | [Better Off](https://open.spotify.com/track/5bcAsvVeaZnTl2juM3HGYt) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Better Off](https://open.spotify.com/album/5BvFjDiY104SMhK7RRSzkc) | 2:37 | 2023-02-10 | 2023-04-09 |
 | [Better Than Ever](https://open.spotify.com/track/29wasPuhAidYxMC6WXR3JS) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [New Day](https://open.spotify.com/album/5Ev2w3fmyrYkYg8j23YAZU) | 3:03 | 2026-02-20 |  |
@@ -818,6 +819,7 @@
 | [Good Ass Movie](https://open.spotify.com/track/46PtYBXwf9KYL2TF7llg6b) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Super Pedestrian](https://open.spotify.com/album/1VWd62Gbw17U0BUEp1jZE6) | 3:35 | 2025-03-07 | 2025-05-24 |
 | [Good Faith](https://open.spotify.com/track/0UZzkBF9GdsHx71iy1HzcC) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [is a Folk Artist](https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG) | 4:02 | 2026-04-10 |  |
 | [Good Times](https://open.spotify.com/track/6zyn5GBvWyQprLwkxHBN6B) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Good Times](https://open.spotify.com/album/119zBAehP7BiktZKqaWc1S) | 2:56 | 2025-01-24 | 2025-03-22 |
+| [Good Times // End Times](https://open.spotify.com/track/59hVDiPRd3uZhZCmk2ZezQ) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [BIG MODERN!](https://open.spotify.com/album/2oXnCPr3440xnWC9U6lR3G) | 3:36 | 2026-06-12 |  |
 | [Goodbye \(Don’t Tell Me\)](https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 4:17 | 2025-04-04 | 2025-08-29 |
 | [Goodie Bag](https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl) | 2:26 | 2021-06-07 | 2022-05-24 |
 | [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 | 2025-06-20 | 2026-03-07 |
@@ -2000,6 +2002,7 @@
 | [Truman](https://open.spotify.com/track/5OagYkkgI5ko13uqTlbfuk) | [Lance Redeker](https://open.spotify.com/artist/1F8HRVc2bSFoyrzKZgRh7M) | [Truman](https://open.spotify.com/album/46VLPMyF84k0km6aWeIYBP) | 3:28 | 2021-06-07 | 2022-06-11 |
 | [Try Try Try](https://open.spotify.com/track/5RIVwMLtGIriw8JS73Fleg) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Leave The Light On](https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY) | 4:51 | 2022-04-01 | 2022-06-29 |
 | [Tunnel Vision](https://open.spotify.com/track/0tldm2ZKydRvESpRMOncFb) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Tunnel Vision](https://open.spotify.com/album/6QFWj6X7L5n1PuV3JRRoXQ) | 4:10 | 2025-02-21 | 2025-04-12 |
+| [Tunnels](https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Tunnels](https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR) | 2:48 | 2026-06-12 |  |
 | [Turn It On](https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Turn It On](https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19) | 4:30 | 2022-10-14 | 2022-11-19 |
 | [Turn Red](https://open.spotify.com/track/0rayVRqTtVHVkFiYdI8QW2) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 3:56 | 2023-10-13 | 2024-02-24 |
 | [TV](https://open.spotify.com/track/7t1Q5yppvM7mwkV5jihZMf) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [TV](https://open.spotify.com/album/7oCDphcaDVxbN7CPRRPbxm) | 2:58 | 2023-09-29 | 2024-03-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: BROCKHOFF
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,866 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,862 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [$HORTY](https://open.spotify.com/track/683sHcdwOmWo7AzjvFDwQS) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [$HORTY](https://open.spotify.com/album/0bV50H2gBUnOhztqHLEIZd) | 2:42 |
 | 10 | [ciao bb](https://open.spotify.com/track/5gbcw4QBRYTa2k84kEFHiA) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [ciao bb](https://open.spotify.com/album/6KUjT3Z3we8zDTrZwebRcP) | 2:21 |
 | 11 | [aufn sack](https://open.spotify.com/track/6VAVWjLEIw39ytztumagau) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [aufn sack](https://open.spotify.com/album/6vvdUrfblEJDSDRPyfeRE1) | 2:37 |
-| 12 | [tief](https://open.spotify.com/track/1lrJdYH1peRMrRpHTEoM6H) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [tief](https://open.spotify.com/album/5q9jI0shsu9ZVPbOHcDGbg) | 3:01 |
-| 13 | [Funkstille](https://open.spotify.com/track/5IBMYix1rjkNMoAZwk95vA) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Funkstille](https://open.spotify.com/album/2ZEr5BaAa9sTiDnvUwEdD1) | 2:57 |
+| 12 | [Funkstille](https://open.spotify.com/track/5IBMYix1rjkNMoAZwk95vA) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Funkstille](https://open.spotify.com/album/2ZEr5BaAa9sTiDnvUwEdD1) | 2:57 |
+| 13 | [tief](https://open.spotify.com/track/1lrJdYH1peRMrRpHTEoM6H) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [tief](https://open.spotify.com/album/5q9jI0shsu9ZVPbOHcDGbg) | 3:01 |
 | 14 | [Sharks](https://open.spotify.com/track/1raKZiQRXg9SGZNhfakiOd) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 2:48 |
 | 15 | [Ozempic & Pilates](https://open.spotify.com/track/384j1jLowG025SHIpRNwLD) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Ozempic & Pilates](https://open.spotify.com/album/3kXweZiPGmfPL783hcx6Wf) | 1:51 |
 | 16 | [Wieso](https://open.spotify.com/track/5EVTMTPMNTyKQg55hVOhqF) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Wieso](https://open.spotify.com/album/6K1nYULYod3v6ffOKwp5ei) | 3:45 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [Clearing Up](https://open.spotify.com/track/1myngwB46MFlfvFsH3Pxmb) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Clearing Up](https://open.spotify.com/album/27c9Gmx0vjHxeRtdDWK8Wa) | 3:08 |
 | 24 | [KNAX](https://open.spotify.com/track/1hJ6EJdAsQkseks0eJBwCo) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [KNAX](https://open.spotify.com/album/11Hx2CxzFxCTEcKNC8Iusx) | 2:42 |
 | 25 | [Oxytocin](https://open.spotify.com/track/0UZpoYY7M8YNaaEryw2WmY) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ), [LIONSTORM](https://open.spotify.com/artist/2R674rphXQgJ2v2TXHydvV) | [Oxytocin](https://open.spotify.com/album/5JTpJr7p20iDusqqEOq0Xl) | 2:55 |
-| 26 | [zähl die tage](https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [es ist okay, dass du fühlst](https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn) | 2:58 |
-| 27 | [müde träume](https://open.spotify.com/track/4l87fKjREeMI9xGrPo8YjI) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [müde träume](https://open.spotify.com/album/5J58mtPQwfHEVnwCnBzhFs) | 2:32 |
+| 26 | [müde träume](https://open.spotify.com/track/4l87fKjREeMI9xGrPo8YjI) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [müde träume](https://open.spotify.com/album/5J58mtPQwfHEVnwCnBzhFs) | 2:32 |
+| 27 | [zähl die tage](https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [es ist okay, dass du fühlst](https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn) | 2:58 |
 | 28 | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/track/6XvkIu9TeTEV2dzT89Be5m) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/album/18EEaZHJFCpZ14Eqx04lyC) | 1:40 |
 | 29 | [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 |
 | 30 | [Whenever You Want](https://open.spotify.com/track/4D6MO8L8XMosduqGD8zA5D) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [I've Stopped Getting Chills For A While Now](https://open.spotify.com/album/7GjlQUFZz3eK3rhBFJKwer) | 3:59 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 33 | [Where Do Lost Dreams Go?](https://open.spotify.com/track/5DFD6xh3cbY2NNTh5L6zY8) | [Solong](https://open.spotify.com/artist/5iXNhXMhenY5CglSJGTd6v) | [Where Do Lost Dreams Go?](https://open.spotify.com/album/1XcUjv4aM5b6nSt2l2rRW7) | 5:29 |
 | 34 | [Weiße Tauben](https://open.spotify.com/track/7KVYZyxTL5otyHBQdliTaU) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW) | [Weiße Tauben](https://open.spotify.com/album/6gWmR8scir5ETJCN70PNRR) | 3:17 |
 | 35 | [AT THE SAME TIME](https://open.spotify.com/track/0BsxJRdxV9iF34IP2gdbF0) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [Y2K](https://open.spotify.com/album/3fXg00eCmBXvbDSbH6AmqL) | 2:13 |
-| 36 | [Pinke Plüschjacke](https://open.spotify.com/track/1MReIAYdZntiYppjxWXZiC) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Pinke Plüschjacke](https://open.spotify.com/album/15SiaPrp8mY7IFu6FjRBIx) | 2:51 |
-| 37 | [Mascara](https://open.spotify.com/track/23jeo9x3nDuXSBBp8A4RTo) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Mascara](https://open.spotify.com/album/3h7k7XEpZ4wxGyfzO3Eyvk) | 2:31 |
-| 38 | [Sin miedo](https://open.spotify.com/track/0mkUD2LmmaMQA0H6LQvs1I) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN), [Tamara Flores](https://open.spotify.com/artist/1n1ShmhkecqcWxNexfFbuN) | [Sin miedo](https://open.spotify.com/album/6lckoOEGdRo7qirCBzgdaQ) | 2:38 |
+| 36 | [Sin miedo](https://open.spotify.com/track/0mkUD2LmmaMQA0H6LQvs1I) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN), [Tamara Flores](https://open.spotify.com/artist/1n1ShmhkecqcWxNexfFbuN) | [Sin miedo](https://open.spotify.com/album/6lckoOEGdRo7qirCBzgdaQ) | 2:38 |
+| 37 | [Pinke Plüschjacke](https://open.spotify.com/track/1MReIAYdZntiYppjxWXZiC) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Pinke Plüschjacke](https://open.spotify.com/album/15SiaPrp8mY7IFu6FjRBIx) | 2:51 |
+| 38 | [Mascara](https://open.spotify.com/track/23jeo9x3nDuXSBBp8A4RTo) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Mascara](https://open.spotify.com/album/3h7k7XEpZ4wxGyfzO3Eyvk) | 2:31 |
 | 39 | [U Gotta Believe](https://open.spotify.com/track/6hYDLldh9zlzQtgjLB0Zr5) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [U Gotta Believe](https://open.spotify.com/album/7p2QQTljy3c9qhX26FzNqH) | 8:02 |
 | 40 | [HDF](https://open.spotify.com/track/2CF2N0jsterp8EL3pt8Xz7) | [sarah4k](https://open.spotify.com/artist/5FeCVlYDA8WCyvh3KIY8NN) | [OKAY?! Vol.1](https://open.spotify.com/album/7kSWLDJJXWzyDnRr2QLWNO) | 2:08 |
 | 41 | [Halbe Wahrheit](https://open.spotify.com/track/09ro7ihMGccFtQDWATIF8f) | [Queen Mahoro](https://open.spotify.com/artist/4hxPH9nqIhqRQVaXwNeevB) | [Nicht mehr traurig](https://open.spotify.com/album/6FtYUdzSfqNCsAVmR3BsmM) | 1:58 |

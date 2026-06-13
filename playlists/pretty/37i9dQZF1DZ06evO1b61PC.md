@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,396 likes - 45 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,397 likes - 45 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 16 | [blue \- Jai Wolf Remix](https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [trilogy remixes](https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama) | 3:22 |
 | 17 | [Telepathy](https://open.spotify.com/track/4q0OWYe7JIElF8lPaARHki) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF) | 3:49 |
 | 18 | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/track/2VihLG9zh4I60e6VzSPqS6) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/album/0AlKy3sPB5cW1txjQd59Og) | 5:18 |
-| 19 | [We Will Meet Again](https://open.spotify.com/track/0eneJjIdG1cAhjeK831bLt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/1nUmQRRZBF8sQTgPUmWo6d) | 3:21 |
-| 20 | [Drivin Thru the Night \- Jai Wolf Remix](https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Parachute Remixes](https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR) | 4:09 |
+| 19 | [Higher](https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Higher](https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz) | 3:26 |
+| 20 | [We Will Meet Again](https://open.spotify.com/track/0eneJjIdG1cAhjeK831bLt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/1nUmQRRZBF8sQTgPUmWo6d) | 3:21 |
 | 21 | [Still Sleeping](https://open.spotify.com/track/6slUs93MR48yfKjMlKz0UC) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF) | 4:46 |
 | 22 | [Vertigo](https://open.spotify.com/track/11h1KwP4Ii4ASDUxY9zpMg) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [Vertigo](https://open.spotify.com/album/4enJwfK8u2T1Z8OjOs26n5) | 3:02 |
-| 23 | [Higher](https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Higher](https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz) | 3:26 |
-| 24 | [Looper](https://open.spotify.com/track/5tlWfIu4uaZthTMj7xKw8d) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Lyncs](https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr) | [Nothing Left To Lose](https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l) | 3:00 |
+| 23 | [Looper](https://open.spotify.com/track/5tlWfIu4uaZthTMj7xKw8d) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Lyncs](https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr) | [Nothing Left To Lose](https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l) | 3:00 |
+| 24 | [Drivin Thru the Night \- Jai Wolf Remix](https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Parachute Remixes](https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR) | 4:09 |
 | 25 | [It All Started With A Feeling](https://open.spotify.com/track/4kcSs54jWjtJW5jRSfUz2q) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF) | 2:56 |
 | 26 | [eye2eye \- Jai Wolf Remix](https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [eye2eye \(Jai Wolf Remix\)](https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv) | 4:13 |
 | 27 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 3:06 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 44 | [Flight Log 822](https://open.spotify.com/track/384IaC21cJhTpjKJkz8tz7) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 2:03 |
 | 45 | [3 Tattoos \(Rishi’s Interlude\)](https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 1:40 |
 
-Snapshot ID: `aiipAAAAAADx40CQgIgBTy0r0MAZyd31`
+Snapshot ID: `ain6gAAAAAAQLA/LVzNzWPOifBSMOPdN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,612 likes - 179 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,612 likes - 180 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 120 | [Disculpa Amiga](https://open.spotify.com/track/1zfJC7Zm6WpbmklOBJGZEL) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Disculpa Amiga](https://open.spotify.com/album/52D4v7ZG7eta1PSjm3zdSp) | 2:48 |
 | 121 | [Consciencia](https://open.spotify.com/track/36p09hSdfzUlnLf8Py0WRQ) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:52 |
 | 122 | [Qué Es Estar Enamorado](https://open.spotify.com/track/0XuEhNYJJdkBV0eUj5ahNE) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [En Las Nubes \- Con Mis Panas](https://open.spotify.com/album/58836hf4URoAA7GyUvFm2Q) | 2:14 |
-| 123 | [Funk Total: Vai danada](https://open.spotify.com/track/2B0m7HYBaT5alq24RHSLhg) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz) | [Funk Total: Vai danada](https://open.spotify.com/album/0yLHbBPsTZQaibDA5DOkyC) | 2:44 |
-| 124 | [Enredaos](https://open.spotify.com/track/5jFCZboaqwjQdv21sJjJY5) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:12 |
+| 123 | [Enredaos](https://open.spotify.com/track/5jFCZboaqwjQdv21sJjJY5) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:12 |
+| 124 | [Funk Total: Vai danada](https://open.spotify.com/track/2B0m7HYBaT5alq24RHSLhg) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz) | [Funk Total: Vai danada](https://open.spotify.com/album/0yLHbBPsTZQaibDA5DOkyC) | 2:44 |
 | 125 | [Esta Noche \(feat\. Big One\)](https://open.spotify.com/track/39ezu6wWxEDAdboRfcjxzO) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Esta Noche \(feat\. Big One\)](https://open.spotify.com/album/2wGhjjn7Znpu8PZ22TojDk) | 3:14 |
 | 126 | [La Duda](https://open.spotify.com/track/3UuRH3T0hLQX1TKMeXzBML) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [XOXO](https://open.spotify.com/album/3UxgQmk5mb2G4zCFM4ScHH) | 3:00 |
 | 127 | [Catira](https://open.spotify.com/track/1RrkjcfPa9p4ZCo2fL5qnE) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Catira](https://open.spotify.com/album/5N4avOZpzaFrMbB2XJrsCY) | 3:04 |
@@ -176,16 +176,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 166 | [Celosa](https://open.spotify.com/track/5aFxJfUCStrJ13yfGg7hQY) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [ANGEL22](https://open.spotify.com/album/1r6Da4RTHxjQ91P7DeewR5) | 2:30 |
 | 167 | [Na De Ti](https://open.spotify.com/track/2T13YgcHIyk9SiQkafcjeV) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [SÉ TÚ MISMO](https://open.spotify.com/album/1cG6HAhEp3inaCk3c4gKT3) | 1:37 |
 | 168 | [Maldades](https://open.spotify.com/track/2GPJpuJzoTbnVsdOqVsX10) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Toda Época Tiene Su Encanto](https://open.spotify.com/album/2F0JiAg0l7v8Oxr9c7kylt) | 3:01 |
-| 169 | [Ni De Aquí, Ni De Allá](https://open.spotify.com/track/0ER7nWOV88M9EiNhItsvVA) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:46 |
-| 170 | [Crezco](https://open.spotify.com/track/78Q755u7op1rvSrjbRmSd2) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [SÉ TÚ MISMO](https://open.spotify.com/album/1cG6HAhEp3inaCk3c4gKT3) | 1:36 |
-| 171 | [Química](https://open.spotify.com/track/5gQbxzw0vAWI1F3RLXWsna) | [Stefano Toller](https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:21 |
-| 172 | [Victory](https://open.spotify.com/track/0ExvLZWv29FOff992faeUL) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [CHERRY BOMB](https://open.spotify.com/album/5GEM4Zi7LnoxZGW4TKknos) | 3:47 |
-| 173 | [Bagels y Café](https://open.spotify.com/track/1bkMM9f67Taz4VhE0eswro) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Bagels y Café](https://open.spotify.com/album/0LxNYYgAewdpU7HQiPYtg4) | 2:46 |
-| 174 | [Querido Diario](https://open.spotify.com/track/2vE8lpxnhTcp3lLF7Fvqdi) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:32 |
-| 175 | [Poco Comercial](https://open.spotify.com/track/0CV9rp5yFZCqBAE4F4gx1N) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:43 |
-| 176 | [Roma](https://open.spotify.com/track/1W1StNdx32yp7SE97b7jrp) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:40 |
-| 177 | [Dice Mami](https://open.spotify.com/track/2euJ8m56wxaowxcGO2QMyn) | [Monique Hasbun](https://open.spotify.com/artist/1LGVDs34lXEN3dtog0f9Zq) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:35 |
-| 178 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
-| 179 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
+| 169 | [Ley de Atracción](https://open.spotify.com/track/7r3bm3GXNSOTRZOc0ekwBI) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [SÉ TÚ MISMO](https://open.spotify.com/album/1cG6HAhEp3inaCk3c4gKT3) | 1:37 |
+| 170 | [Ni De Aquí, Ni De Allá](https://open.spotify.com/track/0ER7nWOV88M9EiNhItsvVA) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:46 |
+| 171 | [Crezco](https://open.spotify.com/track/78Q755u7op1rvSrjbRmSd2) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [SÉ TÚ MISMO](https://open.spotify.com/album/1cG6HAhEp3inaCk3c4gKT3) | 1:36 |
+| 172 | [Química](https://open.spotify.com/track/5gQbxzw0vAWI1F3RLXWsna) | [Stefano Toller](https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:21 |
+| 173 | [Victory](https://open.spotify.com/track/0ExvLZWv29FOff992faeUL) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [CHERRY BOMB](https://open.spotify.com/album/5GEM4Zi7LnoxZGW4TKknos) | 3:47 |
+| 174 | [Bagels y Café](https://open.spotify.com/track/1bkMM9f67Taz4VhE0eswro) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Bagels y Café](https://open.spotify.com/album/0LxNYYgAewdpU7HQiPYtg4) | 2:46 |
+| 175 | [Querido Diario](https://open.spotify.com/track/2vE8lpxnhTcp3lLF7Fvqdi) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:32 |
+| 176 | [Poco Comercial](https://open.spotify.com/track/0CV9rp5yFZCqBAE4F4gx1N) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:43 |
+| 177 | [Roma](https://open.spotify.com/track/1W1StNdx32yp7SE97b7jrp) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:40 |
+| 178 | [Dice Mami](https://open.spotify.com/track/2euJ8m56wxaowxcGO2QMyn) | [Monique Hasbun](https://open.spotify.com/artist/1LGVDs34lXEN3dtog0f9Zq) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:35 |
+| 179 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
+| 180 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AcT98AAAAAC8lBp47tEKjLx0Nq1h4tF0`
+Snapshot ID: `AcUDkAAAAABmGzh68l0/MHVUik/Mxhx3`

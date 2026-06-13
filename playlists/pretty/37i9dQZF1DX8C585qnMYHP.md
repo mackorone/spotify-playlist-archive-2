@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. <a href="spotify:artist:23vJAg53gio3DsY5jJof5H">KatzPascale</a> on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,003 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,083 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

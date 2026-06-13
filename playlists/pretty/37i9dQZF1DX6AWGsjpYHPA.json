@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 191206,
+  "num_followers": 191234,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAF+Lu4yFvYLmC22IoSA8WqQbPZNn",
   "tracks": [
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
-        "name": "Untitled (Black Is)",
-        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 206947,
-      "name": "Wildfires",
-      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
-    },
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 202773,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "Untitled (Black Is)",
+        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 206947,
+      "name": "Wildfires",
+      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "Wind Parade",
         "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 288640,
       "name": "Wind Parade",
       "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Every Day the Sun Comes Up",
-        "url": "https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        }
-      ],
-      "duration_ms": 316194,
-      "name": "Every Day the Sun Comes Up",
-      "url": "https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "Before",
         "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 287871,
       "name": "Before",
       "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "Every Day the Sun Comes Up",
+        "url": "https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 316194,
+      "name": "Every Day the Sun Comes Up",
+      "url": "https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -1263,30 +1263,22 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Fair Chance (Floating Points Remix)",
-        "url": "https://open.spotify.com/album/69ImoNYaQSjY2RmQsaZ9DB"
+        "name": "19-6 Paris",
+        "url": "https://open.spotify.com/album/4joXEYLxWU6CDTjPBWmNbK"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Thomas Asselman",
+          "url": "https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Lil B",
-          "url": "https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5"
-        },
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
         }
       ],
-      "duration_ms": 308214,
-      "name": "Fair Chance - Floating Points Remix",
-      "url": "https://open.spotify.com/track/7eXMtBR9ZVlps31ovZKGr8"
+      "duration_ms": 272353,
+      "name": "19-6 Paris",
+      "url": "https://open.spotify.com/track/1gCf5UhZ7J5Ca4raMR9kE3"
     }
   ],
   "unique_name": "Turntable",

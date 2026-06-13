@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609 likes - 161 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 610 likes - 161 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 130 | [Porgy & Bess Highlights](https://open.spotify.com/track/5jNJadfH3bwCA04RPBT1cx) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Veronica Dudarova](https://open.spotify.com/artist/2OH3nzQ3aq6YQfZLDnF5wN), [USSR State Symphony Orchestra](https://open.spotify.com/artist/1DMt4oqEDfdHBeoH3BD0bk) | [Gershwin: Porgy & Bess Highlights](https://open.spotify.com/album/0mJJzzmkTpnBSMcLVQ8vdY) | 16:47 |
 | 131 | [Put Me To The Test](https://open.spotify.com/track/35nR4t1rvjYOd6xoLsuCqg) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [André Previn Plays Jerome Kern](https://open.spotify.com/album/2VFVOgYzdHJk2TBeOg7SC9) | 3:31 |
 | 132 | [Anything For You](https://open.spotify.com/track/1XNuZQcbY6DSZYOp6O5lDm) | [Michael Feinstein](https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WQiJXX9HQWgAfQaEqKLwW) | 2:45 |
-| 133 | [Love Is In The Air](https://open.spotify.com/track/0UNVhHvp1nOZQRdcQP0GXg) | [Michael Feinstein](https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WQiJXX9HQWgAfQaEqKLwW) | 3:30 |
-| 134 | [Beautiful](https://open.spotify.com/track/6RrNAmDgINN1Rlh4f4ZlME) | [Savanna Echo](https://open.spotify.com/artist/14X6fQ0syFLzFPEVw9hRiF) | [Popular Love](https://open.spotify.com/album/7JiHCf987tGaQP6FRyDWAz) | 4:43 |
+| 133 | [Beautiful](https://open.spotify.com/track/6RrNAmDgINN1Rlh4f4ZlME) | [Savanna Echo](https://open.spotify.com/artist/14X6fQ0syFLzFPEVw9hRiF) | [Popular Love](https://open.spotify.com/album/7JiHCf987tGaQP6FRyDWAz) | 4:43 |
+| 134 | [Love Is In The Air](https://open.spotify.com/track/0UNVhHvp1nOZQRdcQP0GXg) | [Michael Feinstein](https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WQiJXX9HQWgAfQaEqKLwW) | 3:30 |
 | 135 | [Somebody Stole My Heart Away](https://open.spotify.com/track/2L6XkLZ8e6WzFBV5KlpCgb) | [Michael Feinstein](https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WQiJXX9HQWgAfQaEqKLwW) | 4:51 |
 | 136 | [Redheaded Woman \(Porgy & Bess\)](https://open.spotify.com/track/35YW0e2US8FivaTXYYjzgZ) | [Mundell Lowe](https://open.spotify.com/artist/3oSDwkoxvCDQLcPYebh8R7) | [Five Classic Albums \(Guitar Moods / Tv Action Jazz! / Porgy & Bess / a Grand Night for Swinging / Satan in High Heels\) \(Digitally Remastered\)](https://open.spotify.com/album/25eywlt4A0ILzC2biYOR2G) | 2:22 |
 | 137 | [Sweet Packard](https://open.spotify.com/track/54d4YjLnFgAwQRWC7S8aFA) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin on Screen III: "Strike Up The Band", "Broadway Rhythm", "Ziegfeld Follies" and "The Shocking Miss Pilgrim"](https://open.spotify.com/album/0rM6Pjficon2DjTIqrajTx) | 2:48 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 160 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 161 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AcT98AAAAAAi85/XtpCjhu0MCV45XVwL`
+Snapshot ID: `AcUDkAAAAACF3ABMV78xK+kdoGuqvPcc`

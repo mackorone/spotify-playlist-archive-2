@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 40683,
+  "num_followers": 40677,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAAg9foKtEweP3P8IbEscDuF",
+  "snapshot_id": "ain6gAAAAAA6r6rVG4UP+hUbtMJIEtd+",
   "tracks": [
     {
       "added_at": null,
@@ -83,34 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callas, Maria: Liebeslieder",
-        "url": "https://open.spotify.com/album/2rRQVTUpYbphzlaJqUHQx1"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra Sinfonica Nazionale della RAI di Roma",
-          "url": "https://open.spotify.com/artist/4eWOW0T3SbTOfCgmI2jMQ9"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "Gianni Schicchi: O mio babbino caro",
-      "url": "https://open.spotify.com/track/712iCmEYQQhPAwnmBEHELu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maria Callas Sings Bellini",
         "url": "https://open.spotify.com/album/7LCvvDCTAmPwwQppFXmRRE"
       },
@@ -139,6 +111,34 @@
       "duration_ms": 340226,
       "name": "Bellini: Norma, Act 1: \"Casta diva\" (Norma, Coro)",
       "url": "https://open.spotify.com/track/1V5D041R5QxHpRJJABvBgl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Callas, Maria: Liebeslieder",
+        "url": "https://open.spotify.com/album/2rRQVTUpYbphzlaJqUHQx1"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale della RAI di Roma",
+          "url": "https://open.spotify.com/artist/4eWOW0T3SbTOfCgmI2jMQ9"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "Gianni Schicchi: O mio babbino caro",
+      "url": "https://open.spotify.com/track/712iCmEYQQhPAwnmBEHELu"
     },
     {
       "added_at": null,
@@ -347,30 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pure - Maria Callas",
-        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+        "name": "Maria (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
       },
       "artists": [
         {
-          "name": "Gaetano Donizetti",
-          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
-        },
-        {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
         }
       ],
-      "duration_ms": 182120,
-      "name": "Donizetti: Lucia di Lammermoor, Act 3: \"Il dolce suono\" (Lucia)",
-      "url": "https://open.spotify.com/track/3nVFZo0bZx9gHRXzWTnL2o"
+      "duration_ms": 286014,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/1okigbvmDfgCIIgK1LcSDX"
     },
     {
       "added_at": null,
@@ -395,22 +383,6 @@
       "duration_ms": 292600,
       "name": "Andrea Chenier (1997 Digital Remaster): La mamma morta",
       "url": "https://open.spotify.com/track/2rnCae7ZO9bIfQFscasS3q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maria (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 286014,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/1okigbvmDfgCIIgK1LcSDX"
     },
     {
       "added_at": null,
@@ -459,6 +431,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pure - Maria Callas",
+        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Donizetti: Lucia di Lammermoor, Act 3: \"Il dolce suono\" (Lucia)",
+      "url": "https://open.spotify.com/track/3nVFZo0bZx9gHRXzWTnL2o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Callas sings Great Arias from French Operas - Callas Remastered",
         "url": "https://open.spotify.com/album/1oolP2nPF4furJV0ubUALc"
       },
@@ -483,34 +483,6 @@
       "duration_ms": 268186,
       "name": "Gluck: Orph\u00e9e et Eurydice, Wq. 41, Act 4: \"J'ai perdu mon Eurydice\" (Orph\u00e9e)",
       "url": "https://open.spotify.com/track/0UF4YEUJd8xnPTzjKY7QZG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Callas, Maria: Liebeslieder",
-        "url": "https://open.spotify.com/album/2rRQVTUpYbphzlaJqUHQx1"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Herbert von Karajan",
-          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
-        }
-      ],
-      "duration_ms": 270666,
-      "name": "Madama Butterfly, Act II: Un bel di, vedremo",
-      "url": "https://open.spotify.com/track/0qZ6DOVskjk55p2vP5P7Jd"
     },
     {
       "added_at": null,
@@ -563,6 +535,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Callas, Maria: Liebeslieder",
+        "url": "https://open.spotify.com/album/2rRQVTUpYbphzlaJqUHQx1"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "duration_ms": 270666,
+      "name": "Madama Butterfly, Act II: Un bel di, vedremo",
+      "url": "https://open.spotify.com/track/0qZ6DOVskjk55p2vP5P7Jd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Callas sings Verdi Arias - Callas Remastered",
         "url": "https://open.spotify.com/album/43Oj8WPSXSp20lwk2DqPrx"
       },
@@ -587,34 +587,6 @@
       "duration_ms": 289173,
       "name": "Verdi: Otello, Act 4: \"Ave Maria piena di grazia\" (Desdemona)",
       "url": "https://open.spotify.com/track/6DU2Ydz1UPU2zpgc6f930A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Very Best of Maria Callas",
-        "url": "https://open.spotify.com/album/0tREYnFHLtGOkfegsYOBRb"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Puccini: Manon Lescaut, Act 2: \"In quelle trine morbide\" (Manon)",
-      "url": "https://open.spotify.com/track/3b605LvKl9a6ZtwrKn50xU"
     },
     {
       "added_at": null,
@@ -731,6 +703,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Very Best of Maria Callas",
+        "url": "https://open.spotify.com/album/0tREYnFHLtGOkfegsYOBRb"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Puccini: Manon Lescaut, Act 2: \"In quelle trine morbide\" (Manon)",
+      "url": "https://open.spotify.com/track/3b605LvKl9a6ZtwrKn50xU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BD Music Presents Maria Callas",
         "url": "https://open.spotify.com/album/55wZY2z70yepE5kDQ5UUQq"
       },
@@ -775,34 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Her Greatest Live Recitals",
-        "url": "https://open.spotify.com/album/3xt3xa0e0E5TE2iNzgfDWG"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Nicola Rescigno",
-          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
-        },
-        {
-          "name": "North German Radio Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3rwr89g0JzQsjz9XNZog2E"
-        }
-      ],
-      "duration_ms": 224453,
-      "name": "Bellini: Il pirata, Act 2: \"Col sorriso d'innocenza\" (Imogene) [Live, Hamburg, 1959]",
-      "url": "https://open.spotify.com/track/5v5V27CailGREFEFAROoRG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pure - Maria Callas",
         "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
@@ -827,6 +799,34 @@
       "duration_ms": 187080,
       "name": "Verdi: La traviata, Act 1: \"Ah fors'e lui\" (Violetta)",
       "url": "https://open.spotify.com/track/0tTxV5lgzchLGmbRYQSYZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Her Greatest Live Recitals",
+        "url": "https://open.spotify.com/album/3xt3xa0e0E5TE2iNzgfDWG"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicola Rescigno",
+          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+        },
+        {
+          "name": "North German Radio Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3rwr89g0JzQsjz9XNZog2E"
+        }
+      ],
+      "duration_ms": 224453,
+      "name": "Bellini: Il pirata, Act 2: \"Col sorriso d'innocenza\" (Imogene) [Live, Hamburg, 1959]",
+      "url": "https://open.spotify.com/track/5v5V27CailGREFEFAROoRG"
     },
     {
       "added_at": null,
@@ -1003,6 +1003,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Callas, une invitation \u00e0 l'Op\u00e9ra",
+        "url": "https://open.spotify.com/album/6Hh8uWQx5MwJYEdbx55x6l"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        }
+      ],
+      "duration_ms": 348693,
+      "name": "Norma, Act I Scene 1: \"Casta Diva\"",
+      "url": "https://open.spotify.com/track/1GjCs7OawOfSyjRIw2U7WI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pure - Maria Callas",
         "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
@@ -1031,30 +1055,6 @@
       "duration_ms": 242586,
       "name": "Verdi: La traviata, Act 1: \"Sempre libera\" (Violetta, Alfredo)",
       "url": "https://open.spotify.com/track/5HpUbFkCXLFQM28hxoXnBn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Callas, une invitation \u00e0 l'Op\u00e9ra",
-        "url": "https://open.spotify.com/album/6Hh8uWQx5MwJYEdbx55x6l"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        }
-      ],
-      "duration_ms": 348693,
-      "name": "Norma, Act I Scene 1: \"Casta Diva\"",
-      "url": "https://open.spotify.com/track/1GjCs7OawOfSyjRIw2U7WI"
     },
     {
       "added_at": null,
@@ -1099,34 +1099,6 @@
       "duration_ms": 131933,
       "name": "\" La Traviata \" : Amami Alfredo (Act II) - Digitally Remastered",
       "url": "https://open.spotify.com/track/0wtpkz93wATDkUExJVuXEl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pure - Maria Callas",
-        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Antonino Votto",
-          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
-      "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
     },
     {
       "added_at": null,
@@ -1199,26 +1171,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Giacomo Puccini: Tosca (Maria Callas, Vol. 3)",
-        "url": "https://open.spotify.com/album/3Y6LYQMDZddFSdyLDwq6ZK"
+        "name": "Pure - Maria Callas",
+        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
       "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+          "name": "Antonino Votto",
+          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
         },
         {
-          "name": "Victor de Sabata",
-          "url": "https://open.spotify.com/artist/6pkOp4PgHXN7BRIEMEi1wt"
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
         }
       ],
-      "duration_ms": 244506,
-      "name": "Tosca, Act III: Largo, Mario Cavaradossi A voi. (Carceriere, Cavaradossi)",
-      "url": "https://open.spotify.com/track/2Q9YSfNbMR4MsNwkxLpJZ5"
+      "duration_ms": 205826,
+      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
+      "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
     },
     {
       "added_at": null,
@@ -1267,30 +1243,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pure - Maria Callas",
-        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+        "name": "Giacomo Puccini: Tosca (Maria Callas, Vol. 3)",
+        "url": "https://open.spotify.com/album/3Y6LYQMDZddFSdyLDwq6ZK"
       },
       "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "Alceo Galliera",
-          "url": "https://open.spotify.com/artist/4vkGRuqbcBXgDF2fkfLlNo"
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
         },
         {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+          "name": "Victor de Sabata",
+          "url": "https://open.spotify.com/artist/6pkOp4PgHXN7BRIEMEi1wt"
         }
       ],
-      "duration_ms": 384400,
-      "name": "Rossini: Il barbiere di Siviglia, Act 1: \"Una voce poco fa\" (Rosina)",
-      "url": "https://open.spotify.com/track/1ywe4Q5CnMj7G1BgiMWVim"
+      "duration_ms": 244506,
+      "name": "Tosca, Act III: Largo, Mario Cavaradossi A voi. (Carceriere, Cavaradossi)",
+      "url": "https://open.spotify.com/track/2Q9YSfNbMR4MsNwkxLpJZ5"
     },
     {
       "added_at": null,
@@ -1331,6 +1303,34 @@
       "duration_ms": 228426,
       "name": "Donizetti: Lucia di Lammermoor, Act 3: \"Spargi d'amaro pianto\" (Lucia, Raimondo, Coro, Enrico)",
       "url": "https://open.spotify.com/track/6h35q7vz00ReemKGYykyKt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pure - Maria Callas",
+        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Alceo Galliera",
+          "url": "https://open.spotify.com/artist/4vkGRuqbcBXgDF2fkfLlNo"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 384400,
+      "name": "Rossini: Il barbiere di Siviglia, Act 1: \"Una voce poco fa\" (Rosina)",
+      "url": "https://open.spotify.com/track/1ywe4Q5CnMj7G1BgiMWVim"
     },
     {
       "added_at": null,

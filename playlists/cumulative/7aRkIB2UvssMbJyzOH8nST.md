@@ -4,7 +4,7 @@
 
 > Ease into your Sunday morning with beautiful chill songs and relaxing morning music\. Zondag\. zondagochtend\. Perfect for a lazy Sunday, cozy mornings, slow coffee moments, Sunday brunch, and laid\-back weekend vibes\. Featuring soft morning tunes and acoustic chill sounds to help you relax and unwind.
 
-303 songs - 17 hr 18 min
+304 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Alcohol](https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Alcohol](https://open.spotify.com/album/0hYcs0BNcfioP8zWglC9zt) | 3:19 | 2025-12-01 | 2026-02-05 |
 | [Alibi](https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Alibi](https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr) | 3:33 | 2025-09-11 | 2026-01-27 |
 | [Alibi](https://open.spotify.com/track/2OVELHMQSXLXpiLkTzXBgO) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [When The Silence Gets Too Loud](https://open.spotify.com/album/3VIz3bnLNbLKgqyTrmdms4) | 3:33 | 2025-09-12 | 2026-01-27 |
-| [All I Am](https://open.spotify.com/track/6EC8WKlArPIeWznmf79OMk) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [When I Change My Mind I Don't Mean It \(Deluxe\)](https://open.spotify.com/album/1FJWUHBGshLfJV4NkSvvkm) | 3:08 | 2025-11-21 |  |
+| [All I Am](https://open.spotify.com/track/6EC8WKlArPIeWznmf79OMk) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [When I Change My Mind I Don't Mean It \(Deluxe\)](https://open.spotify.com/album/1FJWUHBGshLfJV4NkSvvkm) | 3:08 | 2025-11-21 | 2026-06-13 |
 | [All My Life](https://open.spotify.com/track/3qoYpBpcGmKiQkNJBwCpDA) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [BRITPOP](https://open.spotify.com/album/7IDBud1rBMe8dK6qyoq2VR) | 3:53 | 2026-01-16 | 2026-05-02 |
 | [All Night](https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 5:22 | 2025-08-27 |  |
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2025-07-18 |  |
@@ -301,6 +301,7 @@
 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2025-07-18 | 2026-01-17 |
 | [Who’s Making You Feel It](https://open.spotify.com/track/3fogOLGOLBcvpDD5e0ukPa) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Who’s Making You Feel It](https://open.spotify.com/album/5aZnyZi7nvqMtZSkMYMlR6) | 3:36 | 2025-07-18 | 2026-01-31 |
 | [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 | 2026-01-27 |  |
+| [Wine into Water \(feat\. Elton John\)](https://open.spotify.com/track/5ptZgAvkeGAzQfUFzmmYgb) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wine into Water \(feat\. Elton John\)](https://open.spotify.com/album/4heqPzOuHdsybXGc2NXOCS) | 3:25 | 2026-06-12 |  |
 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 | 2025-07-18 |  |
 | [Wish You The Best \- Guitar Version](https://open.spotify.com/track/3rOGAAipcIGs9p75v9wDPq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best EP](https://open.spotify.com/album/46ksJlfXcOQTlSUo7EWIYE) | 3:29 | 2026-01-27 | 2026-02-05 |
 | [Yellow](https://open.spotify.com/track/0zDDc616MQciHCOLiPDacv) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Yellow](https://open.spotify.com/album/5rDeSu6DH2SN50hlPQvnaY) | 4:32 | 2026-01-27 | 2026-02-05 |

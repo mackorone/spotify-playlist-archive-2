@@ -4,7 +4,7 @@
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-141 songs - 7 hr 32 min
+142 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Esse Barulho](https://open.spotify.com/track/67fTDdGkHk1G5IZokS4uML) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Pra Ouvir Tomando uma 3, Vol\. 1](https://open.spotify.com/album/3hJSkysKvEixdL54qbpj5m) | 2:24 | 2023-01-03 | 2025-12-24 |
 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6) | 2:15 | 2023-01-03 |  |
 | [Eu Mereço Ser Feliz \- Ao Vivo](https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [A Voz Do Meu Samba \- Ao Vivo](https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c) | 3:14 | 2023-01-03 |  |
+| [Eu Te Esperarei](https://open.spotify.com/track/5ICt8bhdL84T9qYZnp05ze) | [Toca Aquela](https://open.spotify.com/artist/77HrIL9YZ1VR6Uvf3WGHE7), [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V), [Breno Major](https://open.spotify.com/artist/53cEbokP6S7cahtXPXvQ5c), [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [Toca Aquela2.0](https://open.spotify.com/album/0Z47P8o8tMVSFmfnB2gk3m) | 3:35 | 2026-06-12 |  |
 | [Evoluiu](https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Evoluiu](https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W) | 2:59 | 2023-01-03 |  |
 | [Ferida Curada](https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ferida Curada](https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu) | 2:39 | 2023-01-03 |  |
 | [Ficamento \- Ao Vivo](https://open.spotify.com/track/4GnJbKg09MLvUtf85SCevB) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 2:28 | 2023-11-17 | 2026-04-30 |
@@ -145,7 +146,7 @@
 | [Vagabundo](https://open.spotify.com/track/05e0rJXgFF3ptT7rK9DO2V) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Expectativa x Realidade](https://open.spotify.com/album/39ZFdo1y2IeExS8zKixGgw) | 2:45 | 2024-07-09 | 2026-01-23 |
 | [Vamo Tomar Uma](https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU) | 2:19 | 2023-01-03 |  |
 | [Vento Forte](https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN) | [Vento Forte](https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT) | 2:03 | 2023-01-03 |  |
-| [Vou Valendo \- Ao Vivo](https://open.spotify.com/track/4OujRBkm3MgW8GzdGkefbW) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Vou Valendo \(Ao Vivo\)](https://open.spotify.com/album/35unU2R1d0GDiBJmYGW5GE) | 2:38 | 2024-07-09 |  |
+| [Vou Valendo \- Ao Vivo](https://open.spotify.com/track/4OujRBkm3MgW8GzdGkefbW) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Vou Valendo \(Ao Vivo\)](https://open.spotify.com/album/35unU2R1d0GDiBJmYGW5GE) | 2:38 | 2024-07-09 | 2026-06-13 |
 | [Xote Dos Milagres](https://open.spotify.com/track/6IAPvuuTejcMmbAZKPiiq4) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo), [Tato \(Falamansa\)](https://open.spotify.com/artist/2n9cWGNyvpcSF2fPT8EG5x) | [Arraiá 67](https://open.spotify.com/album/0sTO6W8fkGnqVh1NcV1Gr3) | 3:09 | 2023-01-03 | 2024-04-19 |
 | [É Problema](https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [É Problema](https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa) | 3:04 | 2023-01-03 |  |
 | [Último Beijo](https://open.spotify.com/track/2pBEAodCImE4LgbKAG4bfz) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Último Beijo](https://open.spotify.com/album/6AW51ww4T6cgKSxfj9PybR) | 3:01 | 2023-01-03 | 2026-04-12 |

@@ -22602,7 +22602,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 232493,
       "name": "Power Ballad",
       "url": "https://open.spotify.com/track/5gOjb6qeRHH4CScUkqTFZ6"
@@ -24808,6 +24808,24 @@
       "duration_ms": 126000,
       "name": "Se siente bien",
       "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
+    },
+    {
+      "album": {
+        "name": "Seadoo",
+        "url": "https://open.spotify.com/album/7nT9N003PTCWvNdx4KxwYM"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00ed",
+          "url": "https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Seadoo",
+      "url": "https://open.spotify.com/track/0J1j75w9TvUqvPCyWMR3Jw"
     },
     {
       "album": {

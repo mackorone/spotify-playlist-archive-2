@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "after everyone left",
+        "url": "https://open.spotify.com/album/3wjevtpZQwHSR7EN32lUuN"
+      },
+      "artists": [
+        {
+          "name": "green.light",
+          "url": "https://open.spotify.com/artist/41XYPsG87pO9CuTUWmiPfk"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117495,
+      "name": "after everyone left",
+      "url": "https://open.spotify.com/track/6XJojmZTkOV1HvJQG7JDtw"
+    },
+    {
+      "album": {
         "name": "wish you never left",
         "url": "https://open.spotify.com/album/3gRQwEezEN6mYORR8WnYdq"
       },
@@ -611,6 +629,24 @@
     },
     {
       "album": {
+        "name": "be my light",
+        "url": "https://open.spotify.com/album/41L1y4C1GTlkM7hXalj8Xd"
+      },
+      "artists": [
+        {
+          "name": "blu hour",
+          "url": "https://open.spotify.com/artist/7wBw4CpAy1pJRBsHv1lg7R"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "be my light",
+      "url": "https://open.spotify.com/track/68qHp4cul7e6Zo22y5QL66"
+    },
+    {
+      "album": {
         "name": "before winter's call",
         "url": "https://open.spotify.com/album/56sJTZ8VE5PrKVZN997433"
       },
@@ -714,6 +750,32 @@
       "duration_ms": 128000,
       "name": "blue horizon",
       "url": "https://open.spotify.com/track/6A6uOOalIOEI7tCR8xPdMh"
+    },
+    {
+      "album": {
+        "name": "blue hour",
+        "url": "https://open.spotify.com/album/2eiHHEmKLkynh9ZhMTccXO"
+      },
+      "artists": [
+        {
+          "name": "CADYY",
+          "url": "https://open.spotify.com/artist/5XDlNHJnRBdKy3UQofUWNB"
+        },
+        {
+          "name": "Zamaro",
+          "url": "https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX"
+        },
+        {
+          "name": "tee",
+          "url": "https://open.spotify.com/artist/0fP5QqFFGGeFmWsf2R0Sk2"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110794,
+      "name": "blue hour",
+      "url": "https://open.spotify.com/track/5UDwQzAvdbishrswzRuG7f"
     },
     {
       "album": {
@@ -1443,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "distant feeling",
+        "url": "https://open.spotify.com/album/00oB7CIX2hBwvVily875kB"
+      },
+      "artists": [
+        {
+          "name": "dreamzz",
+          "url": "https://open.spotify.com/artist/3VD6rOPuobjIY9vOO5jaVF"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99600,
+      "name": "distant feeling",
+      "url": "https://open.spotify.com/track/1jopjjRosMaQLfXpD8D6lZ"
+    },
+    {
+      "album": {
         "name": "distorted love",
         "url": "https://open.spotify.com/album/2FoV94PWVc29lPrx3Ct07n"
       },
@@ -2152,7 +2232,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 98644,
       "name": "EXIT",
       "url": "https://open.spotify.com/track/3MsD0d8IKah8MM7Kl50cmV"
@@ -2192,6 +2272,24 @@
       "duration_ms": 117446,
       "name": "Fable",
       "url": "https://open.spotify.com/track/6aFgTeAArLgNBlt1lcVF3o"
+    },
+    {
+      "album": {
+        "name": "faded gray",
+        "url": "https://open.spotify.com/album/0Lcl6U6IoCrMQeKNQJ5cKo"
+      },
+      "artists": [
+        {
+          "name": "dreaming sheep",
+          "url": "https://open.spotify.com/artist/7CTJ5gNSVP3dySPZOEKUVF"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101000,
+      "name": "faded gray",
+      "url": "https://open.spotify.com/track/7bfd9PK1nFVKoXwBIlY37q"
     },
     {
       "album": {
@@ -3131,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "i left you in a dream",
+        "url": "https://open.spotify.com/album/1anAyoGm1JUk4fDTpBGRJP"
+      },
+      "artists": [
+        {
+          "name": "Eternal Bleu",
+          "url": "https://open.spotify.com/artist/0cZLmENRNZeRma3Oc4gCeK"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96562,
+      "name": "i left you in a dream",
+      "url": "https://open.spotify.com/track/0fjAws8QLDE64EF8X4ng38"
+    },
+    {
+      "album": {
         "name": "i lost my heart",
         "url": "https://open.spotify.com/album/4WAtfgFNujkDOAa8mGxqh2"
       },
@@ -3504,6 +3620,24 @@
       "duration_ms": 323809,
       "name": "landfall",
       "url": "https://open.spotify.com/track/1Uycso6Xf6LhzITiyTmcdR"
+    },
+    {
+      "album": {
+        "name": "laniakea",
+        "url": "https://open.spotify.com/album/2WmG7KcGrvQaCmxz8hytBA"
+      },
+      "artists": [
+        {
+          "name": "Zebiven",
+          "url": "https://open.spotify.com/artist/07UXMoLz9coQ7N97pvZBYC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122176,
+      "name": "laniakea",
+      "url": "https://open.spotify.com/track/709pQ185DrkGDQnJNCvrLz"
     },
     {
       "album": {
@@ -3940,7 +4074,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 111549,
       "name": "lostness",
       "url": "https://open.spotify.com/track/0JsdpyMKi6R6w8KDouakUy"
@@ -4129,6 +4263,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/1unh9ihUdgeG9C1i6qBZ55"
+      },
+      "artists": [
+        {
+          "name": "Sage Prod",
+          "url": "https://open.spotify.com/artist/7lzGrOnmAQKw2TufmSnSwI"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65105,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4POiTVzw0pvsLJeZ5xhFPy"
+    },
+    {
+      "album": {
         "name": "midnight session",
         "url": "https://open.spotify.com/album/3BBGbRPIohTjPDD5IK2cJX"
       },
@@ -4195,6 +4347,28 @@
     },
     {
       "album": {
+        "name": "mistake",
+        "url": "https://open.spotify.com/album/2KCFDcq0qvRZDRlxr0HGb1"
+      },
+      "artists": [
+        {
+          "name": "Kidrumii",
+          "url": "https://open.spotify.com/artist/5oK06emCzN90ZNrNNfvbrr"
+        },
+        {
+          "name": "tiredforever",
+          "url": "https://open.spotify.com/artist/1ZkKBjFkpPR62OuvkTUxMU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114660,
+      "name": "mistake",
+      "url": "https://open.spotify.com/track/5Qa0XjfRSb7rh1wZjUElcx"
+    },
+    {
+      "album": {
         "name": "morning mist",
         "url": "https://open.spotify.com/album/4ntRKq6xNtm7EWfm0N9FlZ"
       },
@@ -4242,7 +4416,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 101052,
       "name": "moving apart",
       "url": "https://open.spotify.com/track/6uqJlpkXxnStPvXyEuhDy1"
@@ -5684,7 +5858,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 92142,
       "name": "sleepless",
       "url": "https://open.spotify.com/track/2Zq9uPPJ8TvEoUgb4jRxJ2"
@@ -6058,7 +6232,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 128727,
       "name": "The day I left",
       "url": "https://open.spotify.com/track/1bYNRzRX4BdcLNUqm2Dp6T"
@@ -6950,6 +7124,28 @@
       "duration_ms": 125283,
       "name": "white or maybe purple - Slowed & Reverb",
       "url": "https://open.spotify.com/track/3AcMWfUDqclstlywTuYcfe"
+    },
+    {
+      "album": {
+        "name": "wind gust",
+        "url": "https://open.spotify.com/album/10lpQrRk1lraEjMlN6riee"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8nfy",
+          "url": "https://open.spotify.com/artist/6zeSY8J3qBv7QIXAzHkVOg"
+        },
+        {
+          "name": "SXULXEMPINESS",
+          "url": "https://open.spotify.com/artist/2UIr5L1P9ijtegNcqZkIxZ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113187,
+      "name": "wind gust",
+      "url": "https://open.spotify.com/track/2ANDqwLTlYcZVDFKFvawHd"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 126183,
+  "num_followers": 126211,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+        "name": "Si Me Tomo una Cerveza",
+        "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
       },
       "artists": [
         {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Alico",
+          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
         }
       ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
+      "duration_ms": 182198,
+      "name": "Si Me Tomo Una Cerveza",
+      "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -211,22 +215,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Si Me Tomo una Cerveza",
-        "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
       "artists": [
         {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Alico",
-          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
         }
       ],
-      "duration_ms": 182198,
-      "name": "Si Me Tomo Una Cerveza",
-      "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Te Mueve",
-        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
-      },
-      "artists": [
-        {
-          "name": "Garras de Amor",
-          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
-        }
-      ],
-      "duration_ms": 202706,
-      "name": "Gotitas",
-      "url": "https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Amor Entre S\u00e1banas",
         "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 219358,
       "name": "L\u00e1stima",
       "url": "https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Te Mueve",
+        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
+      },
+      "artists": [
+        {
+          "name": "Garras de Amor",
+          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
+        }
+      ],
+      "duration_ms": 202706,
+      "name": "Gotitas",
+      "url": "https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Te Mueve",
-        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
-      },
-      "artists": [
-        {
-          "name": "Garras de Amor",
-          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Caprichito",
-      "url": "https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "En Tu Cuarto",
         "url": "https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 220266,
       "name": "Quiero Ser Libre",
       "url": "https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Te Mueve",
+        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
+      },
+      "artists": [
+        {
+          "name": "Garras de Amor",
+          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Caprichito",
+      "url": "https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -919,26 +919,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Compa\u00f1eros",
-        "url": "https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T"
-      },
-      "artists": [
-        {
-          "name": "Arte Elegante",
-          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        }
-      ],
-      "duration_ms": 245581,
-      "name": "Compa\u00f1eros",
-      "url": "https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Amor Entre S\u00e1banas",
         "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
       },
@@ -955,22 +935,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Pero Qu\u00e9 Necesidad",
-        "url": "https://open.spotify.com/album/1EIHsa3Y9KYnOUaGkxeL4w"
+        "name": "Compa\u00f1eros",
+        "url": "https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T"
       },
       "artists": [
         {
-          "name": "El Bloque 8",
-          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
+          "name": "Arte Elegante",
+          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
         },
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
         }
       ],
-      "duration_ms": 190736,
-      "name": "Pero Qu\u00e9 Necesidad",
-      "url": "https://open.spotify.com/track/2LIP7t0gZhQjTJM7iGMZqR"
+      "duration_ms": 245581,
+      "name": "Compa\u00f1eros",
+      "url": "https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1003,6 +983,26 @@
       "duration_ms": 190600,
       "name": "Ritmo Loco",
       "url": "https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Pero Qu\u00e9 Necesidad",
+        "url": "https://open.spotify.com/album/1EIHsa3Y9KYnOUaGkxeL4w"
+      },
+      "artists": [
+        {
+          "name": "El Bloque 8",
+          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
+        },
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 190736,
+      "name": "Pero Qu\u00e9 Necesidad",
+      "url": "https://open.spotify.com/track/2LIP7t0gZhQjTJM7iGMZqR"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+        "name": "Cara y Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7LcU95BCXuQftctl8xIo5C"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "La Transa",
+          "url": "https://open.spotify.com/artist/6EF1264lzOeAYoRT6kFNL2"
+        },
+        {
+          "name": "Tom\u00e1s Maldonado",
+          "url": "https://open.spotify.com/artist/6prihyniSR9AcgzNKRIX7p"
         }
       ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
+      "duration_ms": 231888,
+      "name": "Cara y Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1QtiUJ9Qn7DLoMeUDNrYl7"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1335,22 +1339,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Cara y Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/7LcU95BCXuQftctl8xIo5C"
+        "name": "Adi\u00f3s Amor / Oye Mujer",
+        "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
       },
       "artists": [
         {
-          "name": "La Transa",
-          "url": "https://open.spotify.com/artist/6EF1264lzOeAYoRT6kFNL2"
-        },
-        {
-          "name": "Tom\u00e1s Maldonado",
-          "url": "https://open.spotify.com/artist/6prihyniSR9AcgzNKRIX7p"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 231888,
-      "name": "Cara y Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1QtiUJ9Qn7DLoMeUDNrYl7"
+      "duration_ms": 407573,
+      "name": "Adi\u00f3s Amor / Oye Mujer",
+      "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Adi\u00f3s Amor / Oye Mujer",
-        "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 407573,
-      "name": "Adi\u00f3s Amor / Oye Mujer",
-      "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Me Tienes Que Olvidar / Tu Principe / Amor de Colegio / Baby Cuentale / Tu No Sabes",
         "url": "https://open.spotify.com/album/3UWX5hb5szWplNu1vU4iN7"
       },
@@ -1423,6 +1407,38 @@
       "duration_ms": 468456,
       "name": "Me Tienes Que Olvidar / Tu Pr\u00edncipe / Amor de Colegio / Baby Cuentale / Tu No Sabes",
       "url": "https://open.spotify.com/track/57wnGwuzxZIS7AjjTIEy8l"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "La Pulguita",
+        "url": "https://open.spotify.com/album/5O7TbpfVOsXwwrlzzbNn0X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Luna Negra",
+          "url": "https://open.spotify.com/artist/0PSpkNWjWHFMnJ0Usmh24e"
+        }
+      ],
+      "duration_ms": 212369,
+      "name": "La Pulguita",
+      "url": "https://open.spotify.com/track/6SHfjjiY8RrykTskKG0kkr"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1455,58 +1471,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "La Pulguita",
-        "url": "https://open.spotify.com/album/5O7TbpfVOsXwwrlzzbNn0X"
-      },
-      "artists": [
-        {
-          "name": "Grupo Luna Negra",
-          "url": "https://open.spotify.com/artist/0PSpkNWjWHFMnJ0Usmh24e"
-        }
-      ],
-      "duration_ms": 212369,
-      "name": "La Pulguita",
-      "url": "https://open.spotify.com/track/6SHfjjiY8RrykTskKG0kkr"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Onda Nueva",
-        "url": "https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T"
-      },
-      "artists": [
-        {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
-        }
-      ],
-      "duration_ms": 270826,
-      "name": "Una Copita M\u00e1s",
-      "url": "https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Otro D\u00eda M\u00e1s",
-        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "La Contra",
-          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
-        }
-      ],
-      "duration_ms": 202342,
-      "name": "Otro D\u00eda M\u00e1s",
-      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Sigo Enamorado de Ti",
         "url": "https://open.spotify.com/album/6marjqP7dKhR7yrkTLECOr"
       },
@@ -1523,6 +1487,22 @@
       "duration_ms": 171400,
       "name": "Sigo Enamorado de Ti",
       "url": "https://open.spotify.com/track/58GV7Ukem6jhvnTv5u9YIQ"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Onda Nueva",
+        "url": "https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T"
+      },
+      "artists": [
+        {
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+        }
+      ],
+      "duration_ms": 270826,
+      "name": "Una Copita M\u00e1s",
+      "url": "https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1547,6 +1527,26 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "Otro D\u00eda M\u00e1s",
+        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "La Contra",
+          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
+        }
+      ],
+      "duration_ms": 202342,
+      "name": "Otro D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5A55xJHGGZqrwiXvSF47iM"
       },
@@ -1559,38 +1559,6 @@
       "duration_ms": 421026,
       "name": "Solo por Ella / Ya Te Olvide - Mujer",
       "url": "https://open.spotify.com/track/3I9THaUgfGOZh21DxuvJEx"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Onda Tropical",
-        "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
-      },
-      "artists": [
-        {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Acercate MI Amor",
-      "url": "https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Como la Flor",
-        "url": "https://open.spotify.com/album/0sFQOhf7QVnWlQzkOnyTyp"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/52yp1caEYyP1w9qFINypd1"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1615,6 +1583,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "Onda Tropical",
+        "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
+      },
+      "artists": [
+        {
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Acercate MI Amor",
+      "url": "https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "\u00bfC\u00f3mo Te Explico?",
         "url": "https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK"
       },
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "Como la Flor",
+        "url": "https://open.spotify.com/album/0sFQOhf7QVnWlQzkOnyTyp"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/52yp1caEYyP1w9qFINypd1"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "Con Paso Firme",
         "url": "https://open.spotify.com/album/3UHCJyfAEAXcc7CrR2OWvZ"
       },
@@ -1647,6 +1647,22 @@
       "duration_ms": 234761,
       "name": "Hermano Mio",
       "url": "https://open.spotify.com/track/5bVUbOMOQfG9uXnN7c9AKk"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Somos Parte de Tu Vida",
+        "url": "https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alegria",
+          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Mujeres y Cerveza",
+      "url": "https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Somos Parte de Tu Vida",
-        "url": "https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K"
+        "name": "Sue\u00f1o Su Boca",
+        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
       },
       "artists": [
         {
-          "name": "Grupo Alegria",
-          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Mujeres y Cerveza",
-      "url": "https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO"
+      "duration_ms": 356938,
+      "name": "La Santa Diabla",
+      "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1719,34 +1735,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Sue\u00f1o Su Boca",
-        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
+        "name": "La Nueva Fiesta de los Charros",
+        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
       },
       "artists": [
         {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+          "name": "Los Charros De Lumaco",
+          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
         }
       ],
-      "duration_ms": 356938,
-      "name": "La Santa Diabla",
-      "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Onda Tropical",
-        "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
-      },
-      "artists": [
-        {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
-        }
-      ],
-      "duration_ms": 143640,
-      "name": "Ni Que Estuviera Loco",
-      "url": "https://open.spotify.com/track/4l4uqVLKzGt7icoCj8ycZG"
+      "duration_ms": 246920,
+      "name": "Y Me Beb\u00ed Tu Recuerdo",
+      "url": "https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr"
     }
   ],
   "unique_name": "Cumbias para carretear",

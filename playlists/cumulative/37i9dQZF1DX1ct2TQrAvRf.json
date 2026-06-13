@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover - Cheema Y",
+  "description": "India's Rap Scene. Cover - Asal Kolaar",
   "name": "RAP 91",
   "tracks": [
     {
@@ -272,6 +272,28 @@
       "duration_ms": 169512,
       "name": "4.10",
       "url": "https://open.spotify.com/track/1AcoISAQZgYBflkE9JgOl4"
+    },
+    {
+      "album": {
+        "name": "Enigma",
+        "url": "https://open.spotify.com/album/0mUdGUIB3n2lIXkarHHHyf"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        },
+        {
+          "name": "Jay Trak",
+          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165724,
+      "name": "420 Miles",
+      "url": "https://open.spotify.com/track/3Oil8CtimxkHDiLX7o1mlx"
     },
     {
       "album": {
@@ -592,7 +614,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 164042,
       "name": "At Peace",
       "url": "https://open.spotify.com/track/1Ae2O8GhTe5KiDrrurzm41"
@@ -3524,7 +3546,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 194074,
       "name": "ICEBOY",
       "url": "https://open.spotify.com/track/4lGLdCZSzH7A4Ue9kmVbfh"
@@ -4912,7 +4934,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 236428,
       "name": "Maaz",
       "url": "https://open.spotify.com/track/64BInujsr1p4J0AUJq79ET"
@@ -5731,6 +5753,28 @@
     },
     {
       "album": {
+        "name": "Enigma",
+        "url": "https://open.spotify.com/album/0mUdGUIB3n2lIXkarHHHyf"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        },
+        {
+          "name": "Jay Trak",
+          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151212,
+      "name": "No Shortcut",
+      "url": "https://open.spotify.com/track/0CnwH8uUO1Jk5QkNmRtMJV"
+    },
+    {
+      "album": {
         "name": "Not Guilty",
         "url": "https://open.spotify.com/album/2ArzqdKnu0N93P4Z206F7c"
       },
@@ -6424,7 +6468,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 296071,
       "name": "PROUD",
       "url": "https://open.spotify.com/track/6AChsI87cjRwq1fOkaRXyf"
@@ -6584,7 +6628,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 100130,
       "name": "Rana Kumbha (From \"Varanasi\")",
       "url": "https://open.spotify.com/track/3iIR2YfNdC9CYhA8ieF5UO"
@@ -7334,6 +7378,32 @@
       "duration_ms": 149243,
       "name": "Sigma Paiyan - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/6XKlfesXLwVbzumSS7XN4o"
+    },
+    {
+      "album": {
+        "name": "Sigma Style (From \"Sigma\") (Tamil)",
+        "url": "https://open.spotify.com/album/1C1AKtI8HRr75WEshOCDsG"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Smile Tupakeys",
+          "url": "https://open.spotify.com/artist/43iTqp8IQG4uu2AurZiVbA"
+        },
+        {
+          "name": "Mc Rude",
+          "url": "https://open.spotify.com/artist/6xS34wH493ApP7EgV76461"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206454,
+      "name": "Sigma Style (From \"Sigma\") (Tamil)",
+      "url": "https://open.spotify.com/track/6Tzzr0w0qEUIYMXZctQLwr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie\. Cover: Augustine
 
-1,290 songs - 3 day 2 hr 9 min
+1,290 songs - 3 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Där huden är tunnast](https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Människobarn](https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC) | 3:20 | 2026-02-05 |  |
 | [Dårar](https://open.spotify.com/track/1UN3cCSETzsoQesIdIRvpp) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Genom natten](https://open.spotify.com/album/2Hh1ohjJKUzo5LGvbmkpei) | 3:58 | 2025-10-23 | 2026-05-01 |
 | [Earth, Wind & California](https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 3:04 | 2026-03-05 |  |
+| [East Village](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 3:31 | 2026-06-11 |  |
 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-06-27 | 2024-08-02 |
 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 | 2026-03-26 |  |
 | [Ecstasy in Space](https://open.spotify.com/track/30i5H3zurdOp2LwtFjAs3O) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr) | [Ecstasy In Space](https://open.spotify.com/album/0bS66aXB3rM0HVRbJ5SJpR) | 2:35 | 2025-03-20 | 2025-06-20 |
@@ -1164,7 +1165,6 @@
 | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/track/4ouU2YHgbaFNVU84Hip1Od) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/album/21ljhUbsZ6Vym1xzNbLPHM) | 4:29 | 2024-12-05 | 2025-02-07 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-08-16 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-07 | 2025-05-16 |
-| [Track 4](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 0:00 | 2026-06-11 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-07-04 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-10-10 |

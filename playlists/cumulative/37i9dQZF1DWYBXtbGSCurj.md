@@ -2,7 +2,7 @@
 
 ### [Trap Ouro](https://open.spotify.com/playlist/37i9dQZF1DWYBXtbGSCurj)
 
-> O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Cashley
+> O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: KayG
 
 1,992 songs - 4 day 1 hr 15 min
 

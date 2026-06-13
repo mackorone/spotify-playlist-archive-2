@@ -2,9 +2,9 @@
 
 ### [Rap Latte ](https://open.spotify.com/playlist/37i9dQZF1DX4O0AdBo80OE)
 
-> Suaaaaaaave 📸 MC Davo y Miranda León
+> Suaaaaaaave 📸 Yubeili
 
-401 songs - 21 hr 51 min
+402 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [DESPUES DE TI](https://open.spotify.com/track/21k6UgaELWBL9KFF2cOtlz) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [DESPUES DE TI](https://open.spotify.com/album/5E8jA12xhXFw87XiTb9NBb) | 3:14 | 2025-12-19 | 2026-02-07 |
 | [DIA Y NOCHE](https://open.spotify.com/track/1ss9TbYOqvNpov6opTV3pK) | [Vice C](https://open.spotify.com/artist/7t3rgGxtwbF4HzUXYCwEft) | [DIA Y NOCHE](https://open.spotify.com/album/3MNikoHG6Nuf8vfa7tzYxW) | 2:42 | 2025-12-19 | 2026-03-21 |
 | [Diabla \(Lqra Session \#20\)](https://open.spotify.com/track/2eLHiLyBHh6PMPDpT3s98e) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Diabla \(Lqra Session \#20\)](https://open.spotify.com/album/59NSZWo2RxjMBLtvbefhwl) | 2:49 | 2026-02-06 |  |
-| [Diferente](https://open.spotify.com/track/7uTdBIE3PFMwgSHJ2NVUyj) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Rey de Corazones Rotos](https://open.spotify.com/album/4rfiXgppql2a8HKaddgBCF) | 3:16 | 2025-12-19 |  |
+| [Diferente](https://open.spotify.com/track/7uTdBIE3PFMwgSHJ2NVUyj) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Rey de Corazones Rotos](https://open.spotify.com/album/4rfiXgppql2a8HKaddgBCF) | 3:16 | 2025-12-19 | 2026-06-13 |
 | [Diles \(feat\. Arcangel, Nengo Flow, Dj Luian & Mambo Kings\)](https://open.spotify.com/track/2FrnTVSHjgnEylKGdHRUK1) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kings](https://open.spotify.com/artist/1WoYfDQf78hGBPBn9vA4zQ) | [Diles](https://open.spotify.com/album/5wtK6rD6OVbGxxiQ7gzgfD) | 4:39 | 2025-12-19 |  |
 | [DISTANTE \(with El Malilla\)](https://open.spotify.com/track/2SsriXUrzvmGTdxhgzDeu1) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [FINALMENTE LIBRE](https://open.spotify.com/album/4SOp9ebHU3O2waxCa7cm49) | 3:13 | 2024-06-05 | 2025-09-06 |
 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 | 2023-05-26 | 2025-07-19 |
@@ -272,6 +272,7 @@
 | [Nunca Quise Escribirte una Balada](https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Nunca Quise Escribirte una Balada](https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf) | 2:33 | 2023-10-27 | 2025-12-20 |
 | [Nunca Tuve Tanto](https://open.spotify.com/track/676WeBQ2T3dW4p8mywOZvG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/1yHxFivky2OZXF0lNBxrzB) | 2:49 | 2023-05-26 | 2025-12-20 |
 | [Oscar Wilde \(Rojo o Azúl\)](https://open.spotify.com/track/2nny4wYZq9iHiqeGtGZ2hd) | [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Oscar Wilde \(Rojo o Azúl\)](https://open.spotify.com/album/0vvECE56hSEeXVbr3hinUE) | 3:37 | 2024-06-21 | 2025-12-20 |
+| [Otro Abrigo](https://open.spotify.com/track/4gzMku4VVN3AKGtbrXE527) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Otro Abrigo](https://open.spotify.com/album/1MjzhfXAHq75qYVw4XnIFs) | 2:45 | 2026-06-12 |  |
 | [Otro Rango](https://open.spotify.com/track/6zhq53xcIPnI9CmyqtVDvL) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Cheche Cole](https://open.spotify.com/artist/1vTh9OJHlNi1sYgUTsqYVI) | [Rap de la Montaña 2](https://open.spotify.com/album/1oAbbxPXdnJObWqTYTpjE3) | 3:20 | 2025-11-21 | 2025-12-20 |
 | [Oye Cantinero](https://open.spotify.com/track/6T2EN8kq3731c7fgu0S1nN) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Oye Cantinero](https://open.spotify.com/album/2HamJoEKIwTtCasZaQLiZx) | 3:16 | 2024-07-12 | 2025-12-20 |
 | [Oz a la voz](https://open.spotify.com/track/6ZG9dxudQVxRHFc9WkAdCC) | [3delincuentes](https://open.spotify.com/artist/4pZ6gf5YV5DdZt3f4HDU62) | [Oz a la voz](https://open.spotify.com/album/47fqMLQmcCv2t9eX0cZPK5) | 3:20 | 2025-12-19 | 2026-02-07 |

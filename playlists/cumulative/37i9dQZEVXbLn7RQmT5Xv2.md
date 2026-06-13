@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,207 songs - 2 day 23 hr 5 min
+1,209 songs - 2 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [El 3bd W El Waili](https://open.spotify.com/track/6CFDWaN8XmEHGUgXG2MxaO) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El 3bd W El Waili](https://open.spotify.com/album/43JSHH03M1PhzPjixeuwnG) | 3:53 | 2022-04-08 | 2022-07-06 |
 | [El Aid Farha](https://open.spotify.com/track/5yxyWoggDlBpifR2DfypC5) | [Safaa Abu El Saod](https://open.spotify.com/artist/1GFCDy4U5mu7Uv39llPL0U) | [El Aid Farha](https://open.spotify.com/album/2eRXLokn0P5UvA9ilaruSD) | 3:35 | 2024-04-10 | 2026-03-23 |
 | [EL ASEMA](https://open.spotify.com/track/7xGbfFIhE3fNwS9Djjjq7P) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 6:18 | 2023-02-12 | 2023-03-08 |
-| [El Ayam](https://open.spotify.com/track/0trJ6hrLHHHaXZYMe1JLnb) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 2:34 | 2025-08-31 |  |
+| [El Ayam](https://open.spotify.com/track/0trJ6hrLHHHaXZYMe1JLnb) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 2:34 | 2025-08-31 | 2026-06-13 |
 | [El Ayam](https://open.spotify.com/track/51kGELPBM8tjGrNyiINolN) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [El Ayam](https://open.spotify.com/album/4HOCPn72fyE24btiYrQjQw) | 2:34 | 2025-08-21 | 2025-09-01 |
 | [El Dalaa](https://open.spotify.com/track/7wue5LasVYYkXBBmblfavk) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Dalaa](https://open.spotify.com/album/2FdayiAJ0mgrFNERd5AOx5) | 2:46 | 2023-09-10 | 2025-01-03 |
 | [El Donia El Helwa](https://open.spotify.com/track/6W6lYqKuPScYWchL6bS7Ly) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [El Donia El Helwa](https://open.spotify.com/album/7FX0RpQPmbmFk8QXxiRFf8) | 3:16 | 2021-04-17 | 2021-06-27 |
@@ -429,6 +429,7 @@
 | [Konty 2olely](https://open.spotify.com/track/49odA1EtwSkPefTEeIwqBx) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Konty 2olely](https://open.spotify.com/album/7ko3njN5mraY8cgakYCmbf) | 2:48 | 2021-12-17 | 2023-11-04 |
 | [Konty 2olely](https://open.spotify.com/track/2BMlZ6PzoAU90qm8yIGWMK) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Konty 2olely](https://open.spotify.com/album/6drsdm3aNhB40RlKxPjekI) | 2:49 | 2023-11-23 | 2024-02-27 |
 | [Konty 2olely](https://open.spotify.com/track/2BU20kapQkv88hspupjv1V) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Konty 2olely](https://open.spotify.com/album/4t0SLYYwpz9IJam9LzgTNL) | 2:49 | 2023-11-05 | 2023-11-24 |
+| [Kooty](https://open.spotify.com/track/6fQ3nmKkYpobXd5EyAPj2d) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [THE HYPE ALBUM](https://open.spotify.com/album/1CYL2ax6oRaqHhKZNrsAJU) | 2:18 | 2026-06-12 |  |
 | [Kteer](https://open.spotify.com/track/6tSMMttH9gINpZc8P8CL3s) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Kazakairo](https://open.spotify.com/album/0GEzH1TbUceyz6DT0BBikR) | 3:28 | 2022-03-06 | 2022-03-11 |
 | [La](https://open.spotify.com/track/5XF583kr3Eojotxl6SOKF0) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:28 | 2023-12-26 | 2024-01-10 |
 | [La Malama \(Bonus Track\)](https://open.spotify.com/track/5ZsSIC9ea0OEi7gMMv7b1t) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2021-11-28 | 2022-05-18 |
@@ -827,7 +828,7 @@
 | [Ya Salam](https://open.spotify.com/track/71NxDRVhiagwxQX1tyMzUR) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 4:36 | 2022-02-21 | 2022-02-24 |
 | [Ya Salam \- Remix](https://open.spotify.com/track/7kFcz3xHq7hsOrfQWkipvP) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Ya Salam \(Remix\)](https://open.spotify.com/album/3hmV8luknujbOif3arzW4J) | 4:13 | 2022-02-28 | 2022-10-15 |
 | [Ya Wa3dy](https://open.spotify.com/track/6j88kr0UP2Fof1HzhKbCA9) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Ya Wa3dy](https://open.spotify.com/album/4I8Wyq7R75sBcFSIoqytZ7) | 3:01 | 2022-03-21 | 2022-03-23 |
-| [Yaah](https://open.spotify.com/track/26gwWepGyD010IUMA55OMr) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR) | 4:10 | 2025-08-28 |  |
+| [Yaah](https://open.spotify.com/track/26gwWepGyD010IUMA55OMr) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR) | 4:10 | 2025-08-28 | 2026-06-13 |
 | [Yaah](https://open.spotify.com/track/45VT46xVVf2haISCNCdt6U) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 4:10 | 2025-01-17 | 2025-08-26 |
 | [Yaah](https://open.spotify.com/track/70dKMd8vTYyNZ0UBbtrT00) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/1kOTpVpceIIpzMSoHgTOK9) | 4:10 | 2024-12-21 | 2025-01-18 |
 | [Yaba](https://open.spotify.com/track/79pLcKb0uJOaROzStukq0f) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Baad Montasaf Al Leil](https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH) | 4:00 | 2023-02-18 | 2023-02-23 |
@@ -1084,6 +1085,7 @@
 | [فرحة الدلوعه](https://open.spotify.com/track/3InZQvsW9tYYL0iaDgJfYf) | [ميدو مزيكا](https://open.spotify.com/artist/2NcjovxM3QeZjk24GXe3Yo) | [فرحة الدلوعه](https://open.spotify.com/album/25MaVEv6ojfdYzsAJxRzwV) | 7:08 | 2024-10-19 | 2024-12-23 |
 | [فعلا مبيتنسيش](https://open.spotify.com/track/7lTods1J2VtQY6UXmwDgyT) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [فعلا مبيتنسيش](https://open.spotify.com/album/4M4reByZFC9jKIRLvIOknM) | 4:50 | 2025-01-08 | 2025-02-15 |
 | [فى زنزانتى يانفسي تعبتى واتهانتى](https://open.spotify.com/track/7dJquFdunElI5hwj8HVnZ6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [فى زنزانتى يانفسي تعبتى واتهانتى](https://open.spotify.com/album/4XPO8gzXlXmUehFmOlw4Df) | 3:53 | 2025-04-01 | 2025-08-22 |
+| [فيك دودا](https://open.spotify.com/track/43hXzDxL0duixJyT6XXx7A) | [ايهاب البوب](https://open.spotify.com/artist/6j2PfMIitA4oMDA1WISieO) | [فيك دودا](https://open.spotify.com/album/5h82YlkJV2oQcsTgquWQG6) | 3:34 | 2026-06-12 |  |
 | [قاعد اعد الدولارات \- طوب الارض اشتكي منك](https://open.spotify.com/track/7D5qjfrgjLeXOA4otVQ3ND) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [قاعد اعد الدولارات \(طوب الارض اشتكي منك\)](https://open.spotify.com/album/5fUibiJmS9zRIXIqc1YcN5) | 3:52 | 2025-10-09 | 2026-03-23 |
 | [قالتلي لا لا \- من مسلسل العتاولة ٢](https://open.spotify.com/track/1570e9oi9j2eJflDGtkBX7) | [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk), [مصطفى ابو سريع](https://open.spotify.com/artist/33x0PBqHDjYcm5JpNlyK5d) | [قالتلي لا لا \(من مسلسل العتاولة ٢\)](https://open.spotify.com/album/11dWPCENI07626fPX39wJD) | 2:04 | 2025-04-01 | 2025-04-05 |
 | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/track/7GdTv7oq8wMIEHm6ZO3C5w) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/album/4ZrbdcI2JPDlkInji4FlaV) | 3:51 | 2023-06-03 | 2024-04-15 |

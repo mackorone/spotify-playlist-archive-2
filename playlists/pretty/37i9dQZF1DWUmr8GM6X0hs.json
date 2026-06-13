@@ -1,6 +1,6 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 106304,
+  "num_followers": 106319,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-12-19 04:59:16",
       "album": {
+        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 178630,
+      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
+    },
+    {
+      "added_at": "2025-12-19 04:59:16",
+      "album": {
         "name": "Loca Ansiedad",
         "url": "https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 175333,
       "name": "Loca Ansiedad",
       "url": "https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO"
-    },
-    {
-      "added_at": "2025-12-19 04:59:16",
-      "album": {
-        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 178630,
-      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
     },
     {
       "added_at": "2025-12-19 04:59:16",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-12-19 04:59:16",
       "album": {
-        "name": "Aquellas Lindas Melodias, Vol. 9",
-        "url": "https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 165840,
-      "name": "Canta Canta",
-      "url": "https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr"
-    },
-    {
-      "added_at": "2025-12-19 04:59:16",
-      "album": {
         "name": "Daniel Santos",
         "url": "https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 121733,
       "name": "La \u00daltima Copa",
       "url": "https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb"
+    },
+    {
+      "added_at": "2025-12-19 04:59:16",
+      "album": {
+        "name": "Aquellas Lindas Melodias, Vol. 9",
+        "url": "https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 165840,
+      "name": "Canta Canta",
+      "url": "https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr"
     },
     {
       "added_at": "2025-12-19 04:59:16",

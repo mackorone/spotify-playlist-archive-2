@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAACqquxK+fI6Wom5QblcdM1O",
+  "snapshot_id": "ain6gAAAAADOCVXIXaSn1ONQH1sbLfOl",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 247971,
+      "name": "LIE TO ME",
+      "url": "https://open.spotify.com/track/6Cd4O7wpDas5PQruBM58S4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 247971,
-      "name": "LIE TO ME",
-      "url": "https://open.spotify.com/track/6Cd4O7wpDas5PQruBM58S4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs That Made Me Feel",
         "url": "https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR"
       },
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
-        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 410733,
-      "name": "Opium (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
         "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 198626,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/36Ajx3OHw1qOAjS4tJs38V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 410733,
+      "name": "Opium (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV"
     },
     {
       "added_at": null,
@@ -643,30 +643,6 @@
       "duration_ms": 270746,
       "name": "Missed Calls",
       "url": "https://open.spotify.com/track/3Z7dieIRSquTYqLVR15mov"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/4pk7YMCVSEuPsBnNdZMhqI"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "sadMONTH",
-          "url": "https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9"
-        }
-      ],
-      "duration_ms": 180932,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/7gN4lZ4bmRWbxOcI1SHVob"
     },
     {
       "added_at": null,
@@ -727,6 +703,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4pk7YMCVSEuPsBnNdZMhqI"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "sadMONTH",
+          "url": "https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9"
+        }
+      ],
+      "duration_ms": 180932,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/7gN4lZ4bmRWbxOcI1SHVob"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mirrorland",
         "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
       },
@@ -743,30 +743,6 @@
       "duration_ms": 238200,
       "name": "Proud Of U (feat. Young Thug)",
       "url": "https://open.spotify.com/track/4u8xrKWeF7xBO9kGwIk6u7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D-Day: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 173589,
-      "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
-      "url": "https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV"
     },
     {
       "added_at": null,
@@ -803,6 +779,30 @@
       "duration_ms": 333328,
       "name": "End Of Daze (with EARTHGANG & JID feat. Jurdan Bryant, Mereba & Hollywood JB)",
       "url": "https://open.spotify.com/track/7KwGV5HUzjLIk1yFCYAfMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 173589,
+      "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV"
     },
     {
       "added_at": null,

@@ -74781,6 +74781,24 @@
     },
     {
       "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178603,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
+    },
+    {
+      "album": {
         "name": "HOT",
         "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
       },
@@ -107866,6 +107884,24 @@
       "duration_ms": 194933,
       "name": "East Coast",
       "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+    },
+    {
+      "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211233,
+      "name": "East Village",
+      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
     },
     {
       "album": {
@@ -171043,6 +171079,24 @@
     },
     {
       "album": {
+        "name": "homesick",
+        "url": "https://open.spotify.com/album/3Oxq3sO3472prtEyVyaZ0l"
+      },
+      "artists": [
+        {
+          "name": "homesick",
+          "url": "https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191810,
+      "name": "homesick",
+      "url": "https://open.spotify.com/track/0vXtfiRKw4aytisBbduvLZ"
+    },
+    {
+      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/2ZXdB4RuGqRvF74aajst3v"
       },
@@ -187453,6 +187507,32 @@
     },
     {
       "album": {
+        "name": "ICONIC BY MISTAKE",
+        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177982,
+      "name": "ICONIC BY MISTAKE",
+      "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
+    },
+    {
+      "album": {
         "name": "Icy",
         "url": "https://open.spotify.com/album/3oV5TP7EKHrkcz6lS99u4g"
       },
@@ -197978,6 +198058,28 @@
       "duration_ms": 278518,
       "name": "It's So Good",
       "url": "https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD"
+    },
+    {
+      "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199196,
+      "name": "It's So Nice (ft. 3DDY)",
+      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
     },
     {
       "album": {
@@ -221363,18 +221465,18 @@
         },
         {
           "name": "Wildish",
-          "url": "https://open.spotify.com/artist/0umPozloZZGfMW300IjAmT"
+          "url": "https://open.spotify.com/artist/4Ad0ieOmXbPzBc6zgtZPGp"
         },
         {
-          "name": "Aaron Pfieffer",
-          "url": "https://open.spotify.com/artist/0sMZEG1Qo121pdr6XPdzg4"
+          "name": "Aaron Pfeiffer",
+          "url": "https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF"
         }
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 207360,
-      "name": "Livin' It Up (feat. Aaron Pfieffer)",
+      "duration_ms": 207272,
+      "name": "Livin' It Up (feat. Aaron Pfeiffer)",
       "url": "https://open.spotify.com/track/1HHKgaNHfXePWrd6e14evK"
     },
     {
@@ -286794,6 +286896,28 @@
       "duration_ms": 129860,
       "name": "Party All The Time",
       "url": "https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1"
+    },
+    {
+      "album": {
+        "name": "Cutting Thread",
+        "url": "https://open.spotify.com/album/2l3soHjdwpJifx0Nn7Jh1N"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        },
+        {
+          "name": "Warrior Queen",
+          "url": "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194568,
+      "name": "Party Criminal",
+      "url": "https://open.spotify.com/track/3fRURTdeiyrZMRKpyFtDbE"
     },
     {
       "album": {
@@ -390661,96 +390785,6 @@
     },
     {
       "album": {
-        "name": "Cutting Thread",
-        "url": "https://open.spotify.com/album/2l3soHjdwpJifx0Nn7Jh1N"
-      },
-      "artists": [
-        {
-          "name": "Surusinghe",
-          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/3fRURTdeiyrZMRKpyFtDbE"
-    },
-    {
-      "album": {
-        "name": "Restless in Bloom",
-        "url": "https://open.spotify.com/album/7l49pdK2f75zovPPc2XiGE"
-      },
-      "artists": [
-        {
-          "name": "Tooth",
-          "url": "https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/2rDDv4XPcSEr5yGOq02TqI"
-    },
-    {
-      "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
-    },
-    {
-      "album": {
-        "name": "homesick",
-        "url": "https://open.spotify.com/album/3Oxq3sO3472prtEyVyaZ0l"
-      },
-      "artists": [
-        {
-          "name": "homesick",
-          "url": "https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/0vXtfiRKw4aytisBbduvLZ"
-    },
-    {
-      "album": {
-        "name": "Withness",
-        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
-    },
-    {
-      "album": {
         "name": "Track and Field",
         "url": "https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA"
       },
@@ -406201,6 +406235,24 @@
     },
     {
       "album": {
+        "name": "Restless in Bloom",
+        "url": "https://open.spotify.com/album/7l49pdK2f75zovPPc2XiGE"
+      },
+      "artists": [
+        {
+          "name": "Tooth",
+          "url": "https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201333,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/2rDDv4XPcSEr5yGOq02TqI"
+    },
+    {
+      "album": {
         "name": "Wallpaper",
         "url": "https://open.spotify.com/album/6W63ELml5omoe4bNVKVsdI"
       },
@@ -416299,7 +416351,7 @@
     },
     {
       "album": {
-        "name": "Joy & Despair",
+        "name": "Joy and Despair",
         "url": "https://open.spotify.com/album/3kC0MOqq6vxjAsFcTf52NY"
       },
       "artists": [

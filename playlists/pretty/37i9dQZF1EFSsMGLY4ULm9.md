@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 57 | [Só Sucesso](https://open.spotify.com/track/07gHICzlgy4Knz1vw2RHTe) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 4:42 |
 | 58 | [Te Encha](https://open.spotify.com/track/2cGUIHpuhy6rauGOqEjMAK) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 3:46 |
 | 59 | [Josué](https://open.spotify.com/track/1wEAxlHQCOkr9CqA2tP2vb) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 4:48 |
-| 60 | [Somente Cale\-Se](https://open.spotify.com/track/4wjF2G5MmaLN9rCqqwbjWy) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 4:20 |
-| 61 | [Cristo É a Esperança](https://open.spotify.com/track/0gKuqhPZCKoEEZdcBgJF4W) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 5:38 |
+| 60 | [Cristo É a Esperança](https://open.spotify.com/track/0gKuqhPZCKoEEZdcBgJF4W) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 5:38 |
+| 61 | [Somente Cale\-Se](https://open.spotify.com/track/4wjF2G5MmaLN9rCqqwbjWy) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 4:20 |
 | 62 | [Lâmpada Acesa](https://open.spotify.com/track/03rQQwXCB9HwtJw5Pm41go) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 7:09 |
 | 63 | [João Viu](https://open.spotify.com/track/56xECx4qsFLwq7LFcC3hgK) | [Raquel Coutinho](https://open.spotify.com/artist/3SFmogeXtsLZ6p6HOWBRNG) | [De Bem Com Deus](https://open.spotify.com/album/0jU9n891TACEZppbJpzImE) | 5:28 |
 
-Snapshot ID: `AcT98AAAAADWBFfSVsS43aUrj/LPtBNr`
+Snapshot ID: `AcUDhgAAAABVivFPAKsywHmfj7ylQ1mo`

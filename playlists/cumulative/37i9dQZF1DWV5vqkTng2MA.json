@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Fire Drill",
+        "url": "https://open.spotify.com/album/2vhA82VBs18qhzEr3yoJ7F"
+      },
+      "artists": [
+        {
+          "name": "Harper O'Neill",
+          "url": "https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222793,
+      "name": "Fire Drill",
+      "url": "https://open.spotify.com/track/0L8tkxpgoSrRjML2kXL5Eo"
+    },
+    {
+      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 250614,
       "name": "How Do You Get By",
       "url": "https://open.spotify.com/track/5sYG1duOFihEPSqvZEJzlQ"
@@ -2234,6 +2252,24 @@
       "duration_ms": 244693,
       "name": "I Don't Really Care for You",
       "url": "https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu"
+    },
+    {
+      "album": {
+        "name": "I Got A Lover",
+        "url": "https://open.spotify.com/album/409ODNlPOMWS16V3AlCY9T"
+      },
+      "artists": [
+        {
+          "name": "Kam Franklin",
+          "url": "https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162413,
+      "name": "I Got A Lover",
+      "url": "https://open.spotify.com/track/4P9kOpyeRrkzeDbDchWjnh"
     },
     {
       "album": {
@@ -2332,7 +2368,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 125840,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/6m0BtKf29IaY6KlxHBJhGZ"
@@ -3808,7 +3844,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 209198,
       "name": "Oporto-Madrid Blvd",
       "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
@@ -4872,6 +4908,24 @@
       "duration_ms": 203986,
       "name": "Something In The Water",
       "url": "https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG"
+    },
+    {
+      "album": {
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/4fjThpTcrlhAbO8o50vMFc"
+      },
+      "artists": [
+        {
+          "name": "Solon Holt",
+          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217099,
+      "name": "Songs About You",
+      "url": "https://open.spotify.com/track/2Q2r9GPlQF6d9WdrPDKUtV"
     },
     {
       "album": {

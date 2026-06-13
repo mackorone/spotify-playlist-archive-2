@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,479 likes - 184 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,480 likes - 184 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 28 | [You Owe Me](https://open.spotify.com/track/3CgTgHLI8qHAqLoZkz1BdQ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:10 |
 | 29 | [Aftertaste](https://open.spotify.com/track/3ilt7lMNflb49pEDpcZPAa) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 2:49 |
 | 30 | [Air](https://open.spotify.com/track/7eKbFpX6jvCSW9CUwzMJsE) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:14 |
-| 31 | [My Type](https://open.spotify.com/track/6V9kwssTrwkKT72imgowj9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:37 |
-| 32 | [Watch Me Work](https://open.spotify.com/track/0ukPlkEhhWPQWKq5b2awnn) | [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b), [Brianna Mazzola](https://open.spotify.com/artist/5LZ6g1nJq6l1uN39CTjzmG) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 2:30 |
+| 31 | [Watch Me Work](https://open.spotify.com/track/0ukPlkEhhWPQWKq5b2awnn) | [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b), [Brianna Mazzola](https://open.spotify.com/artist/5LZ6g1nJq6l1uN39CTjzmG) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 2:30 |
+| 32 | [My Type](https://open.spotify.com/track/6V9kwssTrwkKT72imgowj9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:37 |
 | 33 | [Phone Down](https://open.spotify.com/track/5bvNpG6wiIEf1PA13TkTu2) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Phone Down](https://open.spotify.com/album/2jEoK4yuqMQOrxXj2006mu) | 3:35 |
 | 34 | [Don’t Feel Like Crying](https://open.spotify.com/track/1ABvDz0JnQGO8M8NYjRNMp) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 2:37 |
 | 35 | [Stay Together](https://open.spotify.com/track/5R4HqXCZ6uTjxxnGdLt2S6) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Stay Together](https://open.spotify.com/album/7Hlsir9c1oIMeWCTLUxn9e) | 3:12 |
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 125 | [Channel 1](https://open.spotify.com/track/4HEuDdg39xP8qgkJqop6CG) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:19 |
 | 126 | [Spiral](https://open.spotify.com/track/6BP2YNAblMgHLI5w5GNlE5) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:37 |
 | 127 | [Testing](https://open.spotify.com/track/548pWs8FmBjkr3Qqm2TdPQ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:39 |
-| 128 | [Good Die Young](https://open.spotify.com/track/2qV4oFPfGjIH4bg9L8mjkJ) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Good Die Young](https://open.spotify.com/album/1Lcii5tFpuOZEco0rQiubv) | 3:28 |
-| 129 | [If We Stay \(feat\. Ivy Adara\)](https://open.spotify.com/track/0D2UE6RcKeLQ390FjCJS14) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m), [Kayla Rae Haywood](https://open.spotify.com/artist/43G7qlx7v7OGJJrUTXIqLq) | [If We Stay \(feat\. Ivy Adara\)](https://open.spotify.com/album/6EaReZ5jYDd7Vn2fDiwfep) | 3:04 |
+| 128 | [If We Stay \(feat\. Ivy Adara\)](https://open.spotify.com/track/0D2UE6RcKeLQ390FjCJS14) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m), [Kayla Rae Haywood](https://open.spotify.com/artist/43G7qlx7v7OGJJrUTXIqLq) | [If We Stay \(feat\. Ivy Adara\)](https://open.spotify.com/album/6EaReZ5jYDd7Vn2fDiwfep) | 3:04 |
+| 129 | [Good Die Young](https://open.spotify.com/track/2qV4oFPfGjIH4bg9L8mjkJ) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Good Die Young](https://open.spotify.com/album/1Lcii5tFpuOZEco0rQiubv) | 3:28 |
 | 130 | [Bread](https://open.spotify.com/track/7uEbRqAcg5EX3Y8k1rH1Jp) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:08 |
 | 131 | [Level Up](https://open.spotify.com/track/3o9ZhwPb3TrlgVBcMXffzj) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 2:17 |
 | 132 | [The Last Song On Earth](https://open.spotify.com/track/2kuC5OFUyXdVdL56QcDojM) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Emily Warren](https://open.spotify.com/artist/3ypstAazEfdu7rPAGoV3Ui) | [Two Songs For Now](https://open.spotify.com/album/1heHLpyhV8jv8dprQxJrki) | 3:53 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 183 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 | 184 | [Paper Cuts](https://open.spotify.com/track/25oDwHzFC3coKT3jcPAbJC) | [Alec Chambers](https://open.spotify.com/artist/3weLeY2Bu0Eij4k0tQ4EzJ) | [Paper Cuts](https://open.spotify.com/album/6KhZJNPMnHT7ypOhgNAekF) | 2:53 |
 
-Snapshot ID: `AcT98AAAAAADDJETrXgM+qbdnlf05GCF`
+Snapshot ID: `AcUDhgAAAAATgODdCe+Qd7Z8spHhBTy5`

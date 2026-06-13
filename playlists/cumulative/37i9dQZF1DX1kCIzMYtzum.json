@@ -5821,6 +5821,24 @@
     },
     {
       "album": {
+        "name": "Anjunabeats Volume 17",
+        "url": "https://open.spotify.com/album/3PsLUt8YlPMfNsD4ogK7r6"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208062,
+      "name": "Feel The Vibe",
+      "url": "https://open.spotify.com/track/3C1brtEUZwjlQKLttdVTkS"
+    },
+    {
+      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
       },
@@ -9307,6 +9325,28 @@
     },
     {
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216115,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg"
+    },
+    {
+      "album": {
         "name": "Incoming!",
         "url": "https://open.spotify.com/album/1YzrmUjG3wpXd2bH0TvYIO"
       },
@@ -9366,7 +9406,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 231591,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
@@ -19302,7 +19342,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 161452,
       "name": "Thrill Of The Night - David Guetta Remix",
       "url": "https://open.spotify.com/track/4tAfe5NsVbdq8a0cUgtKrv"

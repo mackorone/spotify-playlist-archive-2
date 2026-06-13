@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar, Salim Sulaiman
 
-491 songs - 1 day 6 hr 22 min
+493 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Lathiri Poothiri](https://open.spotify.com/track/2hGsJ2HbSJo2Bu9UEHmCqL) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Lathiri Poothiri](https://open.spotify.com/album/4dm5XmOa1mE0LFTzKFbjtz) | 2:14 | 2022-09-06 | 2023-07-28 |
 | [Life Is Adipoli](https://open.spotify.com/track/1RmS3bsRhBJ6WdCb35AxYO) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Sajan CR](https://open.spotify.com/artist/7BLGlfpsC12N56HAhcI6ni), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Life Is Adipoli](https://open.spotify.com/album/19NF3iqqpzCUwkSfKXTK6y) | 4:02 | 2024-06-28 | 2024-12-07 |
 | [Local Sevens \- Neravo](https://open.spotify.com/track/6lvTnrUSBKIF9VFkLP3Ss3) | [Sahal Muhammed](https://open.spotify.com/artist/59DRwpY5uhR029d3HMd9JX), [Rohith Thiruvanathil](https://open.spotify.com/artist/38V7grK8DwxC65gnr1bXLA), [Anaswar MK](https://open.spotify.com/artist/4HjOa4fKS2oqEorPN7RrTb) | [Local Sevens \- Neravo](https://open.spotify.com/album/5rMgG4ZD3Zlrasj3puVtGr) | 4:17 | 2025-08-01 | 2026-01-24 |
+| [Love Aane](https://open.spotify.com/track/0HZUKYUkqQ9xYXDoQp4e69) | [Rijo Joseph](https://open.spotify.com/artist/2IKBpkVsFxQgRP1PB58RmQ) | [Love Aane](https://open.spotify.com/album/1Oc0eIlY34NIimW6j7671L) | 2:41 | 2026-06-11 |  |
 | [LOVESICK](https://open.spotify.com/track/2FJd24vjgpvd3C0WK4ZwAA) | [Dev](https://open.spotify.com/artist/6QRkI9RqfSzE0VAjqAvB2T) | [KALEIDOSCOPE](https://open.spotify.com/album/4BDnFfBd0mqYdWcpyIBYZQ) | 5:13 | 2024-08-27 | 2025-02-04 |
 | [Luna](https://open.spotify.com/track/7yz02qAkI0vcw5Q9o0ISQw) | [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Luna](https://open.spotify.com/album/4gnIiBgaCnrA6bLfID5QuR) | 4:11 | 2023-07-13 | 2023-07-28 |
 | [Maamalanaadu](https://open.spotify.com/track/197oOjgQJDxkz5OHf7pXxu) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS), [Rajeesh K Chandu](https://open.spotify.com/artist/6qbLwov3SHUSEiFf9qXzEH) | [Maamalanaadu](https://open.spotify.com/album/4MrIfWdlrgZ7cuVLX5MHxY) | 4:18 | 2025-05-06 |  |
@@ -397,6 +398,7 @@
 | [Rangapura Vihara](https://open.spotify.com/track/0DanEzIERtRw1Toae6IFXM) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Rangapura Vihara \- Single](https://open.spotify.com/album/6f4cOJPPGqBKXbj0luhAQQ) | 8:57 | 2022-12-22 | 2026-05-05 |
 | [Rangapura Vihara](https://open.spotify.com/track/56H5p48Xeq6icOZxKLDe7o) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Rangapura Vihara \- Single](https://open.spotify.com/album/1BVdXYhZdfZszdWoGBhj8z) | 8:57 | 2023-10-06 | 2024-04-19 |
 | [Rasayayo \| The Story Teller](https://open.spotify.com/track/1eHQIi86wj1FmFOdNhxrOv) | [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn), [Sudeep Palanad](https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3) | [Rasayayo \| The Story Teller](https://open.spotify.com/album/6zfAeISOe4tlq5Xf4soWsr) | 3:20 | 2023-10-10 | 2025-03-08 |
+| [Ravil Melle](https://open.spotify.com/track/5lBRUGwkC8irqHyIKQRkF9) | [AjOopaan](https://open.spotify.com/artist/2Y145zR3OhtZPZtQoEqIJY), [Din Nath Puthenchery](https://open.spotify.com/artist/544us7nRzGWKYu1qfTML83) | [Ravil Melle](https://open.spotify.com/album/1QIqQeOYSlvLw4UerigY16) | 2:46 | 2026-06-12 |  |
 | [Ray](https://open.spotify.com/track/7yyPe2eJRKxdwS0h3LDovO) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Ray](https://open.spotify.com/album/0oritKj3ppZGOmU91yYsDL) | 5:58 | 2025-07-04 |  |
 | [Raziya](https://open.spotify.com/track/1cG9k6DZDq61U8t9Uw1w1u) | [Narayani Gopan](https://open.spotify.com/artist/77CpK8W1pBsAITFE3zVeOI), [Akbar Khan](https://open.spotify.com/artist/7f7yBS7pfIS2DLyK2OgEzZ) | [Raziya](https://open.spotify.com/album/35fy04I0riev84gM05G5Lo) | 5:29 | 2023-06-19 | 2023-07-28 |
 | [Rebirth \- Original Cut](https://open.spotify.com/track/3THJqla3aCc8CWyaKUTyvX) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Rebirth \(Original Cut\)](https://open.spotify.com/album/41XM3M3hV9uadzQGT1yyNv) | 5:15 | 2024-06-10 | 2025-02-14 |

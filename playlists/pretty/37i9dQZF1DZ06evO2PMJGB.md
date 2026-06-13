@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,792 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,784 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 28 | [Bate](https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Bate](https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr) | 2:18 |
 | 29 | [MODO TURBO](https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:30 |
 | 30 | [Seu Desejo \- Ao Vivo](https://open.spotify.com/track/1u2eH3YKbVOINQiau9cT4B) | [Seu Desejo](https://open.spotify.com/artist/71qmoLfGw4fDPJPJ2MBNax), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Seu Desejo \(Ao Vivo\)](https://open.spotify.com/album/7CbL0bPlUb8LciWM8AaZzd) | 2:48 |
-| 31 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
-| 32 | [FAMA](https://open.spotify.com/track/7uc5eXiV8Yw5DK3V9RNFEk) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [ASTRO](https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs) | 2:05 |
-| 33 | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq) | 2:37 |
-| 34 | [Pós Você](https://open.spotify.com/track/1mHe9kYpOPxNsdE3Wu0FWW) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Amor In Studio](https://open.spotify.com/album/7AqYvzwdaHSq4731qi61Tt) | 4:00 |
+| 31 | [FAMA](https://open.spotify.com/track/7uc5eXiV8Yw5DK3V9RNFEk) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [ASTRO](https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs) | 2:05 |
+| 32 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
+| 33 | [Pós Você](https://open.spotify.com/track/1mHe9kYpOPxNsdE3Wu0FWW) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Amor In Studio](https://open.spotify.com/album/7AqYvzwdaHSq4731qi61Tt) | 4:00 |
+| 34 | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq) | 2:37 |
 | 35 | [penhasco.](https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:06 |
 | 36 | [Tudo de bom](https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Tudo de bom](https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO) | 2:44 |
 | 37 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0) | 2:05 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 39 | [Flores](https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Flores](https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt) | 2:35 |
 | 40 | [ANACONDA \*o\* \~\~\~](https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:03 |
 
-Snapshot ID: `aiipAAAAAADBscUwW3D3L7xPy3uRCN/5`
+Snapshot ID: `ain6gAAAAACaFUWA5Z8LzDclDJcJGqAc`

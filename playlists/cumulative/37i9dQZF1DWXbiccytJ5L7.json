@@ -2329,6 +2329,24 @@
     },
     {
       "album": {
+        "name": "CLUB COUNTRY",
+        "url": "https://open.spotify.com/album/72xjubhlXgVmYlplHsLfKf"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190506,
+      "name": "MCCONAUGHEY",
+      "url": "https://open.spotify.com/track/7rZ4LHJ5aZS8Sgl7S0EYjL"
+    },
+    {
+      "album": {
         "name": "Mean to Me",
         "url": "https://open.spotify.com/album/6GINNflvXMjf3xZ8s5WJa0"
       },

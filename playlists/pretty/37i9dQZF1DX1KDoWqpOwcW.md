@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 
 > Una playlist a la Diabla en compañía de Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,554 likes - 54 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,552 likes - 54 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 53 | [Work Out](https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:55 |
 | 54 | [200 Mph](https://open.spotify.com/track/5jGUJXnELDaDTgiRjD9lsg) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:50 |
 
-Snapshot ID: `AAAAAKs3z9H6W3Fp/AkdLJYwug5fd/jT`
+Snapshot ID: `AAAAABso50j1+tv1JtX6y0DQMjknYxez`

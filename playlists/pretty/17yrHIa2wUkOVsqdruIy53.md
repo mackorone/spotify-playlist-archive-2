@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/17yrHIa2wUkOVsqdruIy53.md) - [plain]
 
 > Die erfolgreichsten in einer Woche gestreamten Songs \- alle Genres, alle Plattformen.
 
-[GfK Entertainment](https://open.spotify.com/user/1130224284) - 3,977 likes - 100 songs - 5 hr 38 min
+[GfK Entertainment](https://open.spotify.com/user/1130224284) - 3,976 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/17yrHIa2wUkOVsqdruIy53.md) - [plain]
 | 33 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
 | 34 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 35 | [tau mich auf](https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [tau mich auf](https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq) | 1:50 |
-| 36 | [Go](https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Born In The Echoes](https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6) | 4:20 |
+| 36 | [Go](https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Born In The Echoes](https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6) | 4:20 |
 | 37 | [Boulevard of Broken Dreams](https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA) | 4:21 |
 | 38 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 |
 | 39 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/17yrHIa2wUkOVsqdruIy53.md) - [plain]
 | 83 | [We Are The People](https://open.spotify.com/track/57RHMnLMQx8Qz5V6c0E8dF) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 4:27 |
 | 84 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
 | 85 | [KOKOSNUSS](https://open.spotify.com/track/1Wt0okU2AQCphxQ8PE9b5V) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Florida Juicy](https://open.spotify.com/artist/3Vx6SzTg6SDWWbwXI3ky1L), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [POPPSTAR](https://open.spotify.com/album/2XWB45gIGGPAS4DFuG2PiS) | 2:26 |
-| 86 | [Superhero](https://open.spotify.com/track/2atD9qfo7yZKfT70Iv2Jxn) | [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs), [CAMO23](https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C) | [Superhelden](https://open.spotify.com/album/6pmcoFuGUefVjIKPSil3rg) | 1:33 |
+| 86 | [Superhelden](https://open.spotify.com/track/2atD9qfo7yZKfT70Iv2Jxn) | [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs), [CAMO23](https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C) | [Superhelden](https://open.spotify.com/album/6pmcoFuGUefVjIKPSil3rg) | 1:33 |
 | 87 | [The Bitch Is Back](https://open.spotify.com/track/1XbVcWLoN4wZyM77ciEoav) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 3:44 |
 | 88 | [Habits \(Stay High\)](https://open.spotify.com/track/0a9npeEQIad1Wr4H1RsLPU) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/7666JCeGvPashwRm40pmq2) | 3:29 |
 | 89 | [Give Me Everything \(feat\. Nayer\)](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Nayer](https://open.spotify.com/artist/1ruutHJcECI7cos2n5TqpO) | [Planet Pit \(Deluxe Version\)](https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB) | 4:12 |

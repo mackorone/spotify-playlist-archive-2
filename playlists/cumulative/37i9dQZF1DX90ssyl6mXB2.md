@@ -2,9 +2,9 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: Drake
+> late night vibes – notifications off\. cover: Qiuntelli
 
-350 songs - 16 hr 4 min
+351 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [act xiii: my lil shootah](https://open.spotify.com/track/68eqfhFWtkmXdopSjSESvF) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:00 | 2025-08-22 | 2026-06-04 |
 | [Addiction](https://open.spotify.com/track/250EPvE8NZiTdFoJoU4sSO) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Addiction](https://open.spotify.com/album/2snM9P8zJFDAtWQ8Blgzbs) | 1:57 | 2025-12-05 |  |
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2024-02-02 | 2025-09-20 |
+| [After Party](https://open.spotify.com/track/22Icf9HFciTcBTcQc908uu) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS) | [After Party](https://open.spotify.com/album/2wC9Q0kbqgU0xpI4o4xZw0) | 2:16 | 2026-06-12 |  |
 | [AGAIN](https://open.spotify.com/track/0ABnKfR4XX3D0xTUViIvcL) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [AGAIN](https://open.spotify.com/album/056sNwOFfYIzgkouMydSgn) | 2:31 | 2025-12-05 |  |
 | [Ain't Mine \(feat\. Aaron Page\)](https://open.spotify.com/track/3cFhs8Gc6zWdAAw5xHAFeB) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Ain't Mine \(feat\. Aaron Page\)](https://open.spotify.com/album/3MvMF1icYkiH7fdpXHpOBa) | 2:53 | 2025-11-14 |  |
 | [all for you](https://open.spotify.com/track/6V0TBXCbwfP3oQGoCJ7Uqi) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [all for you](https://open.spotify.com/album/195zWVS2ywArtagBSsCi88) | 3:37 | 2024-11-22 | 2025-10-18 |

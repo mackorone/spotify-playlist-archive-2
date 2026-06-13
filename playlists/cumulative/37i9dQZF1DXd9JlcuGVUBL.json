@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: Kacey Musgraves",
+  "description": "Die beste country musiek. Omslag: Cordelia",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Dare You",
+        "url": "https://open.spotify.com/album/7gWN8mHoRB43DMsk2Z84n0"
+      },
+      "artists": [
+        {
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146271,
+      "name": "Dare You",
+      "url": "https://open.spotify.com/track/3wos9kuQV7y5N4RUJ6WjB5"
+    },
+    {
+      "album": {
         "name": "Texas Forever",
         "url": "https://open.spotify.com/album/2Ob2sg38jCEu6s25riXlPe"
       },
@@ -2005,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "Horseback",
+        "url": "https://open.spotify.com/album/0fFdJJRfSRvm1LyLB5jomf"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168653,
+      "name": "Horseback",
+      "url": "https://open.spotify.com/track/5AvPZT0oHmQewNNbrv6cHr"
+    },
+    {
+      "album": {
         "name": "Household",
         "url": "https://open.spotify.com/album/2FZWouLd9aPwZB8PyPiPKn"
       },
@@ -2830,7 +2866,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 156973,
       "name": "Middle of Nowhere",
       "url": "https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME"
@@ -4162,7 +4198,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 173269,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd"
@@ -4653,6 +4689,24 @@
     },
     {
       "album": {
+        "name": "The Night Champion",
+        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206633,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/4u5XzrHO0w17YdLRBCEKrR"
+    },
+    {
+      "album": {
         "name": "When Love Turns to Lies",
         "url": "https://open.spotify.com/album/1NkvaWjfi4X39kI0WkiN2d"
       },
@@ -5018,7 +5072,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 220157,
       "name": "You Had To Be There (feat. Kenny Chesney)",
       "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"

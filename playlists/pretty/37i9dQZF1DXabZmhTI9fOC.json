@@ -1,13 +1,101 @@
 {
   "description": "Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on Peacock. ",
-  "num_followers": 147008,
+  "num_followers": 148423,
   "original_name": "Love Island USA Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJubqm0W8wQ2Rne0xhwUllVEgR6S",
+  "snapshot_id": "AAAAAI55g+roAjuyDgqygbkMsuR9PM52",
   "tracks": [
+    {
+      "added_at": "2026-06-13 03:25:30",
+      "album": {
+        "name": "Three. Two. One.",
+        "url": "https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Older Than I Am",
+      "url": "https://open.spotify.com/track/15VDHAMS4JCLziCjNkmQl1"
+    },
+    {
+      "added_at": "2026-06-13 03:25:30",
+      "album": {
+        "name": "I Said I Love You First",
+        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 162995,
+      "name": "Bluest Flame",
+      "url": "https://open.spotify.com/track/41goAg1ZxePWjXXfZ7PhG7"
+    },
+    {
+      "added_at": "2026-06-13 03:25:30",
+      "album": {
+        "name": "Chocolate Rain",
+        "url": "https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Chocolate Rain",
+      "url": "https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4"
+    },
+    {
+      "added_at": "2026-06-13 03:25:30",
+      "album": {
+        "name": "HOT (English ver.) (feat. JADE)",
+        "url": "https://open.spotify.com/album/0GjZcJIlYoNHn442Tf0hNT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 143797,
+      "name": "HOT (English ver.) (feat. JADE)",
+      "url": "https://open.spotify.com/track/6MZ8oSuvqMjnvCvwniPNPc"
+    },
+    {
+      "added_at": "2026-06-13 03:25:30",
+      "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
     {
       "added_at": "2026-06-12 02:00:21",
       "album": {

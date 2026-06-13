@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,447 likes - 100 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,448 likes - 100 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 71 | [Magic Kraut](https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv) | [Soft Machine \(U.S\. Version\)](https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx) | 3:43 |
 | 72 | [Futsu Ni Ikirenai](https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 9:06 |
 | 73 | [La Düsseldorf](https://open.spotify.com/track/3xGzJ6lwDAoBDisjCHkGtT) | [La Düsseldorf](https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0) | [La Düsseldorf](https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ) | 4:29 |
-| 74 | [Bang](https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang](https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY) | 5:10 |
-| 75 | [Sandtrommel](https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 6:26 |
+| 74 | [Sandtrommel](https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 6:26 |
+| 75 | [Bang](https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang](https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY) | 5:10 |
 | 76 | [Ecdysis!](https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Ecdysis!](https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly) | 6:29 |
 | 77 | [Don't Blow Experiment](https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Panther Rotate](https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR) | 5:09 |
 | 78 | [Nieve Afuera](https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Nieve Afuera](https://open.spotify.com/album/3McBi4ulUbSELV3e3S3JQo) | 4:37 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 85 | [Ausland](https://open.spotify.com/track/6T42JJsew8dVP9s87D8mA1) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Radiate!](https://open.spotify.com/album/3rTpM9FRmueqSahefRtbkN) | 5:52 |
 | 86 | [Blood\-Drums](https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Blood\-Drums](https://open.spotify.com/album/6jzZEvu1JLto8Wqkb6wmBn) | 8:29 |
 | 87 | [Otto](https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Radar, Vol\. 1](https://open.spotify.com/album/6G1hvboRkS2czOgqUZqh9z) | 5:00 |
-| 88 | [La Luna](https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51) | [Plank!](https://open.spotify.com/artist/1PID5KNetvOkK0GicJyyAH) | [Plank!](https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ) | 4:36 |
-| 89 | [Die lange Gerade](https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 13:07 |
+| 88 | [Die lange Gerade](https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 13:07 |
+| 89 | [La Luna](https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51) | [Plank!](https://open.spotify.com/artist/1PID5KNetvOkK0GicJyyAH) | [Plank!](https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ) | 4:36 |
 | 90 | [E\-Go](https://open.spotify.com/track/0IEqm9k648GiajWFUvsgLz) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Radiate!](https://open.spotify.com/album/3rTpM9FRmueqSahefRtbkN) | 6:54 |
 | 91 | [Ship \- EP Version](https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Saya](https://open.spotify.com/artist/1WY9uoueo64mwmAj9WiZIv) | [Ship](https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk) | 4:06 |
 | 92 | [Be Sure To Loop](https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [Feather Float](https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi) | 7:45 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 97 | [If You Miss](https://open.spotify.com/track/224gSW6JNmlVJJI7FN96bw) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Silver Apples of the Moon](https://open.spotify.com/album/6Gn0aaXxQIHZPKPpdf6gnR) | 5:19 |
 | 98 | [Trees](https://open.spotify.com/track/563KxKAXHndNrUf5mv3vSY) | [Blurt](https://open.spotify.com/artist/0dkXwqAwKvZUWBI4C3UNFY) | [Blurt + Singles](https://open.spotify.com/album/0eI7DNGtlzqQfisyB5AJVN) | 6:51 |
 | 99 | [Driving This Road Until Death Sets You Free](https://open.spotify.com/track/6P8FNidnNwaKq6SOCJvc4F) | [Zombie Zombie](https://open.spotify.com/artist/0HVcyKnveIOLkJdAGsE1pk) | [Driving This Road Until Death Sets You Free](https://open.spotify.com/album/5A90lH9RRt5QotLIbY84N1) | 5:45 |
-| 100 | [Well, I Suppose](https://open.spotify.com/track/49Vc18t1gjkYIh34JYsOpn) | [Caudal](https://open.spotify.com/artist/2wDYVfN9j2630tNegryRSY) | [Fight Cry Fight](https://open.spotify.com/album/7BAqJJ73Gc8VkCWyWbLfQh) | 4:07 |
+| 100 | [Scubaplus](https://open.spotify.com/track/3vimjIcDxpTBDs3Q1ONJH6) | [Quickspace](https://open.spotify.com/artist/4cqaDkyjB2oXJ8U17ldjYM) | [Superplus](https://open.spotify.com/album/4KMlPTCWrJ3DhTjykEGa9x) | 3:03 |
 
 Snapshot ID: `AAAAAGApqaNQ+9hWUQMHq1K2ImWMSiO+`

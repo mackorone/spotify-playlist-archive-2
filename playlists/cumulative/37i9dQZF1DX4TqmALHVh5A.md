@@ -4,7 +4,7 @@
 
 > La scène française branchée sur courant alternatif\. Photo : Arøne
 
-508 songs - 1 day 2 hr 25 min
+508 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [ON TRAÎNE!](https://open.spotify.com/track/51q8Y8fPdifFD5tFC5cV3m) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [ON TRAÎNE!](https://open.spotify.com/album/4pzM7XQTTktoK05OJ2xP1A) | 2:40 | 2026-01-15 | 2026-04-10 |
 | [Opening](https://open.spotify.com/track/6JlZNJP7EKJIxXPaeDQcrz) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Opening](https://open.spotify.com/album/03BSJyijRZPzlCiPbTcHFC) | 2:04 | 2023-11-02 | 2024-01-19 |
 | [Oui mais non](https://open.spotify.com/track/07f9dfX1Uo0p7dz6yncTZE) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Oui mais non](https://open.spotify.com/album/46pQc12udycYO6upatq9qf) | 3:34 | 2026-06-04 |  |
+| [oups](https://open.spotify.com/track/5x0k4z6vLe43YybPUwENQz) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [le rose c'est hasbeen](https://open.spotify.com/album/6ZW6GRq5HYL7z6P3o7b6t2) | 2:52 | 2026-06-11 |  |
 | [Où va la chance \- Françoise Hardy Cover](https://open.spotify.com/track/6pEPwhRR8kiwKY3mw3vjEb) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n) | [Où va la chance \(Françoise Hardy Cover\)](https://open.spotify.com/album/2mr2BtUoxYHL15s4AXorev) | 3:55 | 2025-01-09 | 2025-05-16 |
 | [Pala](https://open.spotify.com/track/6X66gz7OKx3jcKBbkDWm4Y) | [igee](https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI) | [DiRTYPOP!](https://open.spotify.com/album/3TgAVNiAN1Me3iWV8fGEor) | 2:27 | 2024-06-06 | 2024-06-14 |
 | [Papier cigarette](https://open.spotify.com/track/3mLFOvEDHJHAycMoaNJmVw) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Papier cigarette](https://open.spotify.com/album/6X0woy9fNpjofxlARrsc76) | 3:33 | 2023-11-16 | 2024-06-14 |
@@ -472,7 +473,6 @@
 | [Tout sauf la vérité](https://open.spotify.com/track/2WhOzOZmVXZDaMSzWvVKwa) | [MaMaMa](https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw) | [Tout sauf la vérité](https://open.spotify.com/album/3Z68OlrIgQ6SztVZW7PZeI) | 2:42 | 2026-02-19 | 2026-05-16 |
 | [Tout seul](https://open.spotify.com/track/6VZ0v0TSl98xFn6rQuzVgy) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g) | [Tout seul](https://open.spotify.com/album/434ZXKSEKFsnFPImSq1si0) | 2:20 | 2026-01-23 | 2026-04-24 |
 | [Tovsk](https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD) | [Vipères Sucrées Salées](https://open.spotify.com/artist/6CAIJHm9VUJsqMjRdRnBc5) | [Tovsk](https://open.spotify.com/album/2c6Y0gdj5J23TeQhEHJwq2) | 2:45 | 2023-11-30 | 2024-03-08 |
-| [Track 5](https://open.spotify.com/track/5x0k4z6vLe43YybPUwENQz) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [le rose c'est hasbeen](https://open.spotify.com/album/6ZW6GRq5HYL7z6P3o7b6t2) | 0:00 | 2026-06-11 |  |
 | [Travail Famille Connasse](https://open.spotify.com/track/4ruytwNYWTnvwEq3XNhv0l) | [Schlaasss](https://open.spotify.com/artist/7znBntfGatVV9Elt7uP8Bu) | [Travail Famille Connasse](https://open.spotify.com/album/3cvnKTweWEc1Wwgi3SmhtX) | 3:28 | 2024-11-21 | 2025-03-12 |
 | [Trop Instable](https://open.spotify.com/track/3qglIdcFgSVNKMZw5UzzwR) | [Blaame](https://open.spotify.com/artist/40eNfkD7ZldjqnmTm4fbdl) | [Trop Instable](https://open.spotify.com/album/4jguA0V4PC2mfYrBDXBkrE) | 2:52 | 2026-05-15 |  |
 | [Trouble](https://open.spotify.com/track/2jWSqM1ZAUWFB0MiWvjsZs) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Trouble](https://open.spotify.com/album/4Ra0HAJtws6bcNy6bAh87v) | 3:23 | 2024-10-17 | 2024-11-22 |

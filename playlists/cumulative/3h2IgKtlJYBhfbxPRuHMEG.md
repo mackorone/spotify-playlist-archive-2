@@ -4,7 +4,7 @@
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: EDDIE
 
-201 songs - 11 hr 14 min
+202 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [We Dun Care](https://open.spotify.com/track/4kVcwZlhWH2idgqLHeY6GZ) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI), [Bijou Violet](https://open.spotify.com/artist/3UAijGs9SE1Da98rc7IcwV) | [We Dun Care](https://open.spotify.com/album/6c0Iq2RmMMAr2ZUIERxIoe) | 3:43 | 2023-12-01 | 2025-03-15 |
 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/album/5T23uxAysoGW9w9blVWTi5) | 4:05 | 2023-12-01 |  |
 | [West End Wobbler](https://open.spotify.com/track/7hmv0wbnoi8n7Mbe8fHwQM) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [West End Wobbler](https://open.spotify.com/album/2ysqBWfWSJj9tyYn4yJsuf) | 3:17 | 2025-01-31 |  |
+| [WHAT IS THIS](https://open.spotify.com/track/4xfv1jl3laRNfk9jVAAcC0) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [WHAT IS THIS](https://open.spotify.com/album/754rZ341KKFSNh9H6R3mFB) | 3:15 | 2026-06-12 |  |
 | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/track/1Lu843IJ47p0gF3Rj1zFUL) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/album/1sXFetxwgcKBWlf9jVm18d) | 4:29 | 2023-12-01 | 2025-05-03 |
 | [Wicked & Dark](https://open.spotify.com/track/75LJrHZSecCSZoRiQWIgzA) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb) | [Wicked & Dark](https://open.spotify.com/album/0M2y4miuIWfGsUnQ9prMdW) | 3:10 | 2024-11-19 |  |
 | [Wide Awake](https://open.spotify.com/track/2oXIBToJ6fMyhadJJXh4KO) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Scars In Stereo](https://open.spotify.com/album/00RW0XQwcNnY4fRuWXMdjw) | 2:49 | 2025-10-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Budah, AJULLIACOSTA, Franco, the Sir! e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,600 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,581 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 20 | [Trajetória / Caminho Sem Amor / Ela](https://open.spotify.com/track/1QHFOp0tKVrbAfLHfjeqLZ) | [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq) | [Pagodyando](https://open.spotify.com/album/3mDO0IegPEimurbyQ8slYK) | 5:01 |
 | 21 | [Em Qualquer Cama \- Ao Vivo](https://open.spotify.com/track/24MjRkHlHue1Qw3dC61Ypk) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Em Qualquer Cama \(Ao Vivo\)](https://open.spotify.com/album/3NQPcnfCEwZkRQJEoRr7Bn) | 2:50 |
 | 22 | [Eu Sei Bem](https://open.spotify.com/track/3DWVL0m6uvSt6nxOYJUnY0) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [A Cara do Enquadro](https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn) | 2:33 |
-| 23 | [Coração e Cadeado](https://open.spotify.com/track/1wAVmlw4xUyXaP0xjfyP4T) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Coração e Cadeado](https://open.spotify.com/album/2LSHuwKeQtODeI2NKqbf7c) | 3:09 |
+| 23 | [Amantes \- Ao Vivo](https://open.spotify.com/track/1YcaW1jBsTb6eUn9olYtOS) | [Thiago Soares](https://open.spotify.com/artist/4zIE7LEe6kABBDLHLzAS4D) | [Amantes \(Ao Vivo\)](https://open.spotify.com/album/06piHT5uMWn7LT1CDWg0n4) | 3:39 |
 | 24 | [Gin Com Suco De Laranja](https://open.spotify.com/track/5SUAeZK4t0cgV4xf7ZK6QM) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:42 |
-| 25 | [Amantes \- Ao Vivo](https://open.spotify.com/track/1YcaW1jBsTb6eUn9olYtOS) | [Thiago Soares](https://open.spotify.com/artist/4zIE7LEe6kABBDLHLzAS4D) | [Amantes \(Ao Vivo\)](https://open.spotify.com/album/06piHT5uMWn7LT1CDWg0n4) | 3:39 |
+| 25 | [Coração e Cadeado](https://open.spotify.com/track/1wAVmlw4xUyXaP0xjfyP4T) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Coração e Cadeado](https://open.spotify.com/album/2LSHuwKeQtODeI2NKqbf7c) | 3:09 |
 | 26 | [Como Descobrir](https://open.spotify.com/track/1epYqXNX0CfLidTDuVFuk8) | [Pitiko](https://open.spotify.com/artist/1sNDYyvEvLUHft9IZERyqn), [OfcNgtl](https://open.spotify.com/artist/6rsTqpNzgrRmUI9KMuWKKU), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Como Descobrir](https://open.spotify.com/album/2ovQQ83IF43peVUyEeLjra) | 2:56 |
 | 27 | [Louco por você](https://open.spotify.com/track/7Dz7HqscJ0SnPV06jyVF52) | [Cael Gomess](https://open.spotify.com/artist/0VBhVrJk4DmO5k6di83coh) | [Louco por você](https://open.spotify.com/album/5AW92qkCXvj8lnkDMrzp19) | 3:09 |
 | 28 | [Cartas na Mesa \(Bônus\)](https://open.spotify.com/track/4hhGrj4he07eGG6VI1SEhS) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [A Cara do Enquadro](https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn) | 2:25 |

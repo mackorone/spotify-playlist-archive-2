@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,676 likes - 99 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,682 likes - 99 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 16 | [TiKi TAKA](https://open.spotify.com/track/6h1xqWSylzdGNZCCek26Tt) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [TiKi TAKA](https://open.spotify.com/album/5tlRJp6BXtOXYKsaGrCS7k) | 2:06 |
 | 17 | [SHAKIRA](https://open.spotify.com/track/0iJkitQ01HvS0CBmwVS9he) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [SHAKIRA](https://open.spotify.com/album/07Y9V5VfCIEuOtlYq4qGrw) | 2:47 |
 | 18 | [Detaljer](https://open.spotify.com/track/7oHcPk86R3L7JrxYJDXjSw) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [Jay Giovann1](https://open.spotify.com/artist/6FODee3v5qIktg9hw6hGOq) | [Detaljer](https://open.spotify.com/album/5kiCjHesIeEd4gWPmStsbZ) | 2:03 |
-| 19 | [Track 9](https://open.spotify.com/track/3INWOIBzkDvsEADdoT3m9o) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [Ifrån mitt fönster](https://open.spotify.com/album/6qEv8BWws9GawxUYNFyi8z) | 0:00 |
+| 19 | [Upp i rök](https://open.spotify.com/track/3INWOIBzkDvsEADdoT3m9o) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Ifrån mitt fönster](https://open.spotify.com/album/6qEv8BWws9GawxUYNFyi8z) | 2:59 |
 | 20 | [Blessed](https://open.spotify.com/track/5FVdUVH1IU2bCyoqaCk8YW) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Blessed](https://open.spotify.com/album/3mZSbToHlItaFpo4GzhfF1) | 2:07 |
 | 21 | [REAL BADMAN](https://open.spotify.com/track/6O4nlsMxQfatN8a9Mj7L7b) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Dj Yosef](https://open.spotify.com/artist/7pzhTqdHeVnzlQI7MlISVI) | [REAL BADMAN](https://open.spotify.com/album/1NHeIRyBmzcN5lSSjL6MBV) | 2:32 |
 | 22 | [Madre Mia \(Hon e\)](https://open.spotify.com/track/2zve8583GSfTDroaOcXNrq) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [Madre Mia \(Hon e\)](https://open.spotify.com/album/0AvqhoaRRp3U273GdcR6Ax) | 2:08 |

@@ -1,29 +1,13 @@
 {
   "description": "The best new music from independent artists and labels. Featuring Liim. Curated with love by human Spotify editors.",
-  "num_followers": 1221172,
+  "num_followers": 1221125,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEDtusMiBHcu3flklQXF00mxJfkr",
+  "snapshot_id": "AAAAACFlc8k/f4Pgn3Cvv/21ktbrDiP8",
   "tracks": [
-    {
-      "added_at": "2026-05-28 01:02:10",
-      "album": {
-        "name": "R.I.P Peace",
-        "url": "https://open.spotify.com/album/4pDROA57uQG30SDAwEt4Lo"
-      },
-      "artists": [
-        {
-          "name": "Liim",
-          "url": "https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "R.I.P Peace",
-      "url": "https://open.spotify.com/track/0HGiBth3dhLw2NFF0M3AsS"
-    },
     {
       "added_at": "2026-06-11 01:04:09",
       "album": {
@@ -39,6 +23,70 @@
       "duration_ms": 156618,
       "name": "sweet talk (Live) | Spotify Fresh Finds x Sounds That Move",
       "url": "https://open.spotify.com/track/39Rn8Oo9457pJhvOT4uyCV"
+    },
+    {
+      "added_at": "2026-06-11 01:04:09",
+      "album": {
+        "name": "Dream (Live) | Spotify Fresh Finds x Sounds That Move",
+        "url": "https://open.spotify.com/album/5u6RY2PmWZgt6qgU0zCmD8"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Dream (Live) | Spotify Fresh Finds x Sounds That Move",
+      "url": "https://open.spotify.com/track/10GNH2MWGnwR4fui0NwPF2"
+    },
+    {
+      "added_at": "2026-06-11 01:04:09",
+      "album": {
+        "name": "Almost, So Close, Maybe (Live) | Spotify Fresh Finds x Sounds That Move",
+        "url": "https://open.spotify.com/album/0HfHRzXwJfAROpTrIPZNG9"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Almost, So Close, Maybe (Live) | Spotify Fresh Finds x Sounds That Move",
+      "url": "https://open.spotify.com/track/5c5SFx2yRVfRBlJ9tlvtYu"
+    },
+    {
+      "added_at": "2026-06-11 01:04:09",
+      "album": {
+        "name": "Walk...Before You Fly (Live) | Spotify Fresh Finds x Sounds That Move",
+        "url": "https://open.spotify.com/album/5SjOZXqP7CzU7Tl52TQolh"
+      },
+      "artists": [
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        }
+      ],
+      "duration_ms": 134227,
+      "name": "Walk...Before You Fly (Live) | Spotify Fresh Finds x Sounds That Move",
+      "url": "https://open.spotify.com/track/18ORy2kdIMfYEBGkS1XO2t"
+    },
+    {
+      "added_at": "2026-05-28 01:02:10",
+      "album": {
+        "name": "R.I.P Peace",
+        "url": "https://open.spotify.com/album/4pDROA57uQG30SDAwEt4Lo"
+      },
+      "artists": [
+        {
+          "name": "Liim",
+          "url": "https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "R.I.P Peace",
+      "url": "https://open.spotify.com/track/0HGiBth3dhLw2NFF0M3AsS"
     },
     {
       "added_at": "2026-06-09 13:11:30",
@@ -103,22 +151,6 @@
       "duration_ms": 200021,
       "name": "move, honey",
       "url": "https://open.spotify.com/track/5LqGOqE1vnNjc8ELAP76Tt"
-    },
-    {
-      "added_at": "2026-06-11 01:04:09",
-      "album": {
-        "name": "Almost, So Close, Maybe (Live) | Spotify Fresh Finds x Sounds That Move",
-        "url": "https://open.spotify.com/album/0HfHRzXwJfAROpTrIPZNG9"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Almost, So Close, Maybe (Live) | Spotify Fresh Finds x Sounds That Move",
-      "url": "https://open.spotify.com/track/5c5SFx2yRVfRBlJ9tlvtYu"
     },
     {
       "added_at": "2026-06-11 01:04:09",
@@ -197,22 +229,6 @@
       "url": "https://open.spotify.com/track/2ZZvnh85DP30XvSLjd0qDD"
     },
     {
-      "added_at": "2026-06-11 01:04:09",
-      "album": {
-        "name": "Dream (Live) | Spotify Fresh Finds x Sounds That Move",
-        "url": "https://open.spotify.com/album/5u6RY2PmWZgt6qgU0zCmD8"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 177280,
-      "name": "Dream (Live) | Spotify Fresh Finds x Sounds That Move",
-      "url": "https://open.spotify.com/track/10GNH2MWGnwR4fui0NwPF2"
-    },
-    {
       "added_at": "2026-06-09 13:11:30",
       "album": {
         "name": "I'll Be There For You",
@@ -259,22 +275,6 @@
       "duration_ms": 229090,
       "name": "is this my life",
       "url": "https://open.spotify.com/track/4iogvjEcNuWaPzQP8eu4uG"
-    },
-    {
-      "added_at": "2026-06-11 01:04:09",
-      "album": {
-        "name": "Walk...Before You Fly (Live) | Spotify Fresh Finds x Sounds That Move",
-        "url": "https://open.spotify.com/album/5SjOZXqP7CzU7Tl52TQolh"
-      },
-      "artists": [
-        {
-          "name": "Ben Reilly",
-          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
-        }
-      ],
-      "duration_ms": 134227,
-      "name": "Walk...Before You Fly (Live) | Spotify Fresh Finds x Sounds That Move",
-      "url": "https://open.spotify.com/track/18ORy2kdIMfYEBGkS1XO2t"
     },
     {
       "added_at": "2026-06-11 01:04:09",

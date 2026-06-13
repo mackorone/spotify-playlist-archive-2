@@ -1,6 +1,6 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132629,
+  "num_followers": 132634,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
+        "name": "\u00c4l\u00e4 mee",
+        "url": "https://open.spotify.com/album/53Lizt5ZH7SeT07STfMUlq"
+      },
+      "artists": [
+        {
+          "name": "emma & matilda",
+          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
+        }
+      ],
+      "duration_ms": 229322,
+      "name": "\u00c4l\u00e4 mee",
+      "url": "https://open.spotify.com/track/4OIjkwaRD7RtUUyfSmMIUd"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
         "name": "S\u00e4 olit oikees",
         "url": "https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 218651,
       "name": "Helmi",
       "url": "https://open.spotify.com/track/61dybiXP0dqHsqNdoPkMfy"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
-        "name": "\u00c4l\u00e4 mee",
-        "url": "https://open.spotify.com/album/53Lizt5ZH7SeT07STfMUlq"
-      },
-      "artists": [
-        {
-          "name": "emma & matilda",
-          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
-        }
-      ],
-      "duration_ms": 229322,
-      "name": "\u00c4l\u00e4 mee",
-      "url": "https://open.spotify.com/track/4OIjkwaRD7RtUUyfSmMIUd"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
-        "name": "Viaton",
-        "url": "https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1"
-      },
-      "artists": [
-        {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Viaton",
-      "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
         "name": "Lululai",
         "url": "https://open.spotify.com/album/59sdjIA1D5cyfXaM7nCAzp"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 166026,
       "name": "Lululai",
       "url": "https://open.spotify.com/track/0Cm8hDgE0cW9plGfdlhyd1"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
+        "name": "Viaton",
+        "url": "https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Viaton",
+      "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -663,6 +663,26 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
+        "name": "Nelisilm\u00e4",
+        "url": "https://open.spotify.com/album/7FSBswIQNkULZekmzge9T5"
+      },
+      "artists": [
+        {
+          "name": "DOG HUSTLERS",
+          "url": "https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "duration_ms": 120900,
+      "name": "Nelisilm\u00e4",
+      "url": "https://open.spotify.com/track/4DfZQ3OqpWvoyT8MMjTpPg"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
         "name": "TEENAGE DREAM",
         "url": "https://open.spotify.com/album/2QvJkqhNLgNDhDvhdq7lRw"
       },
@@ -699,22 +719,6 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
-        "name": "T\u00e4\u00e4 tunne",
-        "url": "https://open.spotify.com/album/6ydY2zebn5LfMlQjNNCyxg"
-      },
-      "artists": [
-        {
-          "name": "Cledos",
-          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "T\u00e4\u00e4 tunne",
-      "url": "https://open.spotify.com/track/2iyIZsT9JobbLBi0O9QD5V"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
         "name": "Satumaa",
         "url": "https://open.spotify.com/album/2Ehbjt1d6Ux7lHqyO5Nz6l"
       },
@@ -735,38 +739,18 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
-        "name": "Nelisilm\u00e4",
-        "url": "https://open.spotify.com/album/7FSBswIQNkULZekmzge9T5"
+        "name": "T\u00e4\u00e4 tunne",
+        "url": "https://open.spotify.com/album/6ydY2zebn5LfMlQjNNCyxg"
       },
       "artists": [
         {
-          "name": "DOG HUSTLERS",
-          "url": "https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb"
-        },
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
         }
       ],
-      "duration_ms": 120900,
-      "name": "Nelisilm\u00e4",
-      "url": "https://open.spotify.com/track/4DfZQ3OqpWvoyT8MMjTpPg"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
-        "name": "SHOTIT",
-        "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
-      },
-      "artists": [
-        {
-          "name": "OLGA",
-          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
-        }
-      ],
-      "duration_ms": 154659,
-      "name": "SHOTIT",
-      "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
+      "duration_ms": 159000,
+      "name": "T\u00e4\u00e4 tunne",
+      "url": "https://open.spotify.com/track/2iyIZsT9JobbLBi0O9QD5V"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -787,6 +771,22 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
+        "name": "SHOTIT",
+        "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        }
+      ],
+      "duration_ms": 154659,
+      "name": "SHOTIT",
+      "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
         "name": "Sin\u00e4 ja se poitsu",
         "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
       },
@@ -799,6 +799,26 @@
       "duration_ms": 183957,
       "name": "Sin\u00e4 ja se poitsu",
       "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
+        "name": "Kipee",
+        "url": "https://open.spotify.com/album/6a8xNBf6qLV2e90nykRShf"
+      },
+      "artists": [
+        {
+          "name": "Vesala",
+          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
+        },
+        {
+          "name": "Olavi Uusivirta",
+          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+        }
+      ],
+      "duration_ms": 188519,
+      "name": "Kipee",
+      "url": "https://open.spotify.com/track/2PZLCzW6gKi1VwwdA97yph"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -835,22 +855,18 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
-        "name": "Kipee",
-        "url": "https://open.spotify.com/album/6a8xNBf6qLV2e90nykRShf"
+        "name": "Maailma on mun",
+        "url": "https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX"
       },
       "artists": [
         {
-          "name": "Vesala",
-          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
-        },
-        {
-          "name": "Olavi Uusivirta",
-          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
         }
       ],
-      "duration_ms": 188519,
-      "name": "Kipee",
-      "url": "https://open.spotify.com/track/2PZLCzW6gKi1VwwdA97yph"
+      "duration_ms": 182438,
+      "name": "Kaikki on mahollist",
+      "url": "https://open.spotify.com/track/3MaLeuBpGax5hiCaLYlPis"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -871,22 +887,6 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
-        "name": "Maailma on mun",
-        "url": "https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX"
-      },
-      "artists": [
-        {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
-        }
-      ],
-      "duration_ms": 182438,
-      "name": "Kaikki on mahollist",
-      "url": "https://open.spotify.com/track/3MaLeuBpGax5hiCaLYlPis"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/0WlCOa1ThY86YsJWRcCfxg"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 174372,
       "name": "Vesipisaroiden valssi (feat. KAUKUA)",
       "url": "https://open.spotify.com/track/7e64QPpNIC6pMFvabkY06u"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
+        "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+        "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "duration_ms": 172092,
+      "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+      "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -943,22 +959,6 @@
       "duration_ms": 154247,
       "name": "Kaikki tahtoo taivaaseen",
       "url": "https://open.spotify.com/track/4JK9igYtNGRuu2Ub4euf03"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
-        "name": "Kaikki p\u00e4\u00e4ttyy meihin",
-        "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
-      },
-      "artists": [
-        {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
-        }
-      ],
-      "duration_ms": 172092,
-      "name": "Kaikki p\u00e4\u00e4ttyy meihin",
-      "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
-        "name": "Vitun Inee",
-        "url": "https://open.spotify.com/album/703oNklnvTfpVoDjGeGCkn"
-      },
-      "artists": [
-        {
-          "name": "Korelon",
-          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
-        },
-        {
-          "name": "Sliki",
-          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
-        }
-      ],
-      "duration_ms": 178047,
-      "name": "Vitun Inee",
-      "url": "https://open.spotify.com/track/2HZ3F2RGJQKApP1DPdeMpp"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
         "name": "Ihan kohta ohi",
         "url": "https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 185920,
       "name": "Ihan kohta ohi",
       "url": "https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
+        "name": "Vitun Inee",
+        "url": "https://open.spotify.com/album/703oNklnvTfpVoDjGeGCkn"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "duration_ms": 178047,
+      "name": "Vitun Inee",
+      "url": "https://open.spotify.com/track/2HZ3F2RGJQKApP1DPdeMpp"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -1191,6 +1191,38 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
+        "name": "Pahoille teille",
+        "url": "https://open.spotify.com/album/30uvqyR8zMCrmnZ6IGwH31"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        }
+      ],
+      "duration_ms": 158472,
+      "name": "Pahoille teille",
+      "url": "https://open.spotify.com/track/4xaNQ6k3xiZ6dAyI5hJGwA"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
+        "name": "4Life",
+        "url": "https://open.spotify.com/album/0i3GgbzTfsaeEm36TupNCM"
+      },
+      "artists": [
+        {
+          "name": "Mikael Gabriel",
+          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+        }
+      ],
+      "duration_ms": 156683,
+      "name": "4Life",
+      "url": "https://open.spotify.com/track/7I923uLFwvvvHU6z3zuuTd"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
         "name": "Ei voi (feat. Luwa.Mp4)",
         "url": "https://open.spotify.com/album/2hdZSRF3c42AzLGRrCuvDG"
       },
@@ -1207,42 +1239,6 @@
       "duration_ms": 190971,
       "name": "Ei voi (feat. Luwa.Mp4)",
       "url": "https://open.spotify.com/track/6xpZg3sfg49gNihQZGLsl1"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
-        "name": "Fokus",
-        "url": "https://open.spotify.com/album/1E8TWDERXQrfgFOSkNfPzM"
-      },
-      "artists": [
-        {
-          "name": "Sonia",
-          "url": "https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah"
-        },
-        {
-          "name": "Evelina",
-          "url": "https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM"
-        }
-      ],
-      "duration_ms": 161571,
-      "name": "Fokus",
-      "url": "https://open.spotify.com/track/11JysdSFvhAWCgiu53mBAO"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
-        "name": "Pokaali",
-        "url": "https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40"
-      },
-      "artists": [
-        {
-          "name": "Pihlaja",
-          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Pokaali",
-      "url": "https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR"
     }
   ],
   "unique_name": "#vainsuomihitit",

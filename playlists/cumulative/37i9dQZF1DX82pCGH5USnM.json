@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 162782,
       "name": "Accelerate",
       "url": "https://open.spotify.com/track/0R0HEit8IfFYd20Vzso912"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 196909,
       "name": "Arcade Lounge",
       "url": "https://open.spotify.com/track/3ctC0SWZpD2T2O2qfKvXPy"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 154090,
       "name": "Be Kind To Yourself",
       "url": "https://open.spotify.com/track/0OF4LmsOwbrPsWHiC0vPh8"
@@ -2284,7 +2284,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 134000,
       "name": "Cap Roux",
       "url": "https://open.spotify.com/track/6jwVPKu3cvhxqtDDoGZI42"
@@ -2930,7 +2930,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 129494,
       "name": "Coconut",
       "url": "https://open.spotify.com/track/0aU8McQ5c04kq15PWhHm1a"
@@ -4226,7 +4226,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 147692,
       "name": "Dreaming On The Moon",
       "url": "https://open.spotify.com/track/1RMnWLQznAmxh7wVNN7vub"
@@ -4359,6 +4359,24 @@
     },
     {
       "album": {
+        "name": "Easy Come Easy Go",
+        "url": "https://open.spotify.com/album/6cDvB29D9ewom7OO9zb18T"
+      },
+      "artists": [
+        {
+          "name": "Tilja",
+          "url": "https://open.spotify.com/artist/0Fznamwt37NfdZhmg47LD4"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113246,
+      "name": "Easy Come Easy Go",
+      "url": "https://open.spotify.com/track/6muUfsnL9J7bt4XmO7IOzl"
+    },
+    {
+      "album": {
         "name": "Easy Living",
         "url": "https://open.spotify.com/album/10WJanvowjMB3sktk90S1g"
       },
@@ -4428,6 +4446,24 @@
       "duration_ms": 280500,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/6dzQ05m2SE55jtA19NWQFR"
+    },
+    {
+      "album": {
+        "name": "Echoes of Tomorrow",
+        "url": "https://open.spotify.com/album/2GjnKnfqpojI8cgeuFo9bR"
+      },
+      "artists": [
+        {
+          "name": "Innocent Panda",
+          "url": "https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150144,
+      "name": "Echoes of Tomorrow",
+      "url": "https://open.spotify.com/track/6rbvP291vbuypIce9pb6YE"
     },
     {
       "album": {
@@ -5639,6 +5675,24 @@
     },
     {
       "album": {
+        "name": "Friday Lights",
+        "url": "https://open.spotify.com/album/6cTg63p97mQB6t47gbssCB"
+      },
+      "artists": [
+        {
+          "name": "Zenn",
+          "url": "https://open.spotify.com/artist/7bPvPkf6ZtLx8y47hcVpDg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Friday Lights",
+      "url": "https://open.spotify.com/track/5ZGJo9tYvEIYyvQm1NMxif"
+    },
+    {
+      "album": {
         "name": "frsh pow",
         "url": "https://open.spotify.com/album/4ig4XXAqt6C0RJ20eSqx2f"
       },
@@ -6359,6 +6413,24 @@
     },
     {
       "album": {
+        "name": "Happy Place",
+        "url": "https://open.spotify.com/album/5MDPmsfClL80OvNadMMf9D"
+      },
+      "artists": [
+        {
+          "name": "Hello Papyrus",
+          "url": "https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147777,
+      "name": "Happy Place",
+      "url": "https://open.spotify.com/track/1kB9VZyTJLRrS43igR9Nv3"
+    },
+    {
+      "album": {
         "name": "Circular",
         "url": "https://open.spotify.com/album/5xdc29ZbnPZAEBH74RX8QT"
       },
@@ -6568,7 +6640,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 179449,
       "name": "Hesitation",
       "url": "https://open.spotify.com/track/7ByTIDwPz9NOrmX964Dzr3"
@@ -8045,6 +8117,24 @@
     },
     {
       "album": {
+        "name": "Laidback",
+        "url": "https://open.spotify.com/album/19nV5RB42HOjH1WMGqyo4h"
+      },
+      "artists": [
+        {
+          "name": "Kim Chee",
+          "url": "https://open.spotify.com/artist/3DtAik5iqWq1T26oOhJkwJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149433,
+      "name": "Laidback",
+      "url": "https://open.spotify.com/track/1VVTutag5cViM1EAxvzYBT"
+    },
+    {
+      "album": {
         "name": "Lake Como",
         "url": "https://open.spotify.com/album/2Rf3lLkoWqzJFbxKpQefgV"
       },
@@ -9266,7 +9356,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 153815,
       "name": "Maracuy\u00e1",
       "url": "https://open.spotify.com/track/0YLM39IJtS333HmhCMw69R"
@@ -9590,7 +9680,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 156521,
       "name": "Millenium Drift",
       "url": "https://open.spotify.com/track/0eyfWC4XrqLKmOtuAxNPdj"
@@ -12173,6 +12263,24 @@
     },
     {
       "album": {
+        "name": "Pure Flow",
+        "url": "https://open.spotify.com/album/5oDVyVodSPu24fuwfKmixz"
+      },
+      "artists": [
+        {
+          "name": "Mandarin Low",
+          "url": "https://open.spotify.com/artist/4oMzoetQDxMqMdmTSFFi3l"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148037,
+      "name": "Pure Flow",
+      "url": "https://open.spotify.com/track/2Yeu2PeDrvr28OOee8IZkz"
+    },
+    {
+      "album": {
         "name": "Pure North",
         "url": "https://open.spotify.com/album/2ZUa1CwxIYGUlTUzpHCKe3"
       },
@@ -12260,6 +12368,24 @@
       "duration_ms": 168300,
       "name": "Quay",
       "url": "https://open.spotify.com/track/66HmKYuvJH82x9zQKFvSAX"
+    },
+    {
+      "album": {
+        "name": "Quiet Mind",
+        "url": "https://open.spotify.com/album/0ZkDZeK4PTQU4wpl4I7SsV"
+      },
+      "artists": [
+        {
+          "name": "UY Scuti",
+          "url": "https://open.spotify.com/artist/0QwgThmICNJVENaqBpDqPC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Quiet Mind",
+      "url": "https://open.spotify.com/track/6T0SFKZ4vpDyl6BwIQsJJ7"
     },
     {
       "album": {
@@ -13074,7 +13200,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 173571,
       "name": "Saltburn",
       "url": "https://open.spotify.com/track/0xs6poNvfGEALAg5e3Zhpi"
@@ -13200,7 +13326,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 131000,
       "name": "sandfall",
       "url": "https://open.spotify.com/track/3rYbrv1e6QJisOY0LxAEHn"
@@ -14107,6 +14233,24 @@
     },
     {
       "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/2r4eaABtRX6moyBwaa27fq"
+      },
+      "artists": [
+        {
+          "name": "Yim",
+          "url": "https://open.spotify.com/artist/79EyYkNpcR3MlT972PZoUc"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157159,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/4jR5piv6BxxUV1VR20wwiu"
+    },
+    {
+      "album": {
         "name": "Silver Linings",
         "url": "https://open.spotify.com/album/5dfBPBGvYWbAwUjVKPfJne"
       },
@@ -14140,6 +14284,24 @@
       "duration_ms": 135272,
       "name": "Sima Deli",
       "url": "https://open.spotify.com/track/6CdVgngqmmLWvbPzPZ596U"
+    },
+    {
+      "album": {
+        "name": "Sin Precio",
+        "url": "https://open.spotify.com/album/2b98AzNDXs8Hmt38L87Zyc"
+      },
+      "artists": [
+        {
+          "name": "Sirio Groves",
+          "url": "https://open.spotify.com/artist/16Q9Vc0g69goXaWvt3r5kb"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144285,
+      "name": "Sin Precio",
+      "url": "https://open.spotify.com/track/6q2LbTkc3ZM5i9UJQ9QIJW"
     },
     {
       "album": {
@@ -15041,6 +15203,24 @@
     },
     {
       "album": {
+        "name": "Submerged",
+        "url": "https://open.spotify.com/album/6nEQskaWSLxSFRLH1AVYaW"
+      },
+      "artists": [
+        {
+          "name": "Kim Chee",
+          "url": "https://open.spotify.com/artist/3DtAik5iqWq1T26oOhJkwJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126792,
+      "name": "Submerged",
+      "url": "https://open.spotify.com/track/2qbHeyjBjCe9MsfXlBUgy8"
+    },
+    {
+      "album": {
         "name": "Travellers",
         "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
       },
@@ -15070,7 +15250,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 154000,
       "name": "Such Joy",
       "url": "https://open.spotify.com/track/3HCuDJOSOvBV3uejHUjovF"
@@ -15344,6 +15524,24 @@
       "duration_ms": 238000,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/5u4dNVgfChjREYJ6KeNuJ4"
+    },
+    {
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/3bysQAQedOct3oscaxgw4Y"
+      },
+      "artists": [
+        {
+          "name": "Paradise Delay",
+          "url": "https://open.spotify.com/artist/2LC89if4mekjoDOmUqTOoM"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4B0sgVTQwuMh4s6YWJZqQq"
     },
     {
       "album": {
@@ -16179,6 +16377,24 @@
     },
     {
       "album": {
+        "name": "The first place",
+        "url": "https://open.spotify.com/album/5Cz53HWAu4vbt0e8oBzaCu"
+      },
+      "artists": [
+        {
+          "name": "Gea",
+          "url": "https://open.spotify.com/artist/4xBOiAyVldC1LywqtvACbU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128295,
+      "name": "The first place",
+      "url": "https://open.spotify.com/track/62UwFwLqoiIK89CTj27hEi"
+    },
+    {
+      "album": {
         "name": "The Flower Thief",
         "url": "https://open.spotify.com/album/2Rn3VEGSYIlglxyIY6jW9O"
       },
@@ -16334,7 +16550,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 163055,
       "name": "The Rush Hour",
       "url": "https://open.spotify.com/track/0KPZLD8jgy1JzoQG4wXHEQ"
@@ -17174,7 +17390,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 128140,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/1yievWFKM5TEStnjzBKiyY"
@@ -17498,7 +17714,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 178363,
       "name": "Vilt",
       "url": "https://open.spotify.com/track/2grom1VkzViZwJ1y2e0qAB"
@@ -17682,7 +17898,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 159272,
       "name": "Warm Showers",
       "url": "https://open.spotify.com/track/4RjdyjOwhOvw3ewU81kfbZ"

@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo",
-  "num_followers": 484045,
+  "num_followers": 484050,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2026-06-12 03:00:57",
       "album": {
+        "name": "Um Novo Horizonte, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1d0b7XYovD1YiOeRxYpi8q"
+      },
+      "artists": [
+        {
+          "name": "Bia Bosco",
+          "url": "https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK"
+        }
+      ],
+      "duration_ms": 196994,
+      "name": "Casquinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ckk9S24edg9VDFwZPT1AJ"
+    },
+    {
+      "added_at": "2026-06-12 03:00:57",
+      "album": {
         "name": "Aqui Tem Sentimento, Ep.3",
         "url": "https://open.spotify.com/album/3VcU0KNUWCQjGfKf5DGQz8"
       },
@@ -155,18 +171,18 @@
     {
       "added_at": "2026-06-12 03:00:57",
       "album": {
-        "name": "Um Novo Horizonte, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1d0b7XYovD1YiOeRxYpi8q"
+        "name": "Sofrimento Louco",
+        "url": "https://open.spotify.com/album/3gP8mpp0xwL44oBu6FRDSl"
       },
       "artists": [
         {
-          "name": "Bia Bosco",
-          "url": "https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK"
+          "name": "Victor e Franco",
+          "url": "https://open.spotify.com/artist/7bO40iYcIuPx4lOLqiWL9c"
         }
       ],
-      "duration_ms": 196994,
-      "name": "Casquinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ckk9S24edg9VDFwZPT1AJ"
+      "duration_ms": 150666,
+      "name": "Sofrimento Louco",
+      "url": "https://open.spotify.com/track/6wknzfCeTkovFsYIdfMMVU"
     },
     {
       "added_at": "2026-06-12 03:00:57",
@@ -191,22 +207,6 @@
     {
       "added_at": "2026-06-12 03:00:57",
       "album": {
-        "name": "Sofrimento Louco",
-        "url": "https://open.spotify.com/album/3gP8mpp0xwL44oBu6FRDSl"
-      },
-      "artists": [
-        {
-          "name": "Victor e Franco",
-          "url": "https://open.spotify.com/artist/7bO40iYcIuPx4lOLqiWL9c"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Sofrimento Louco",
-      "url": "https://open.spotify.com/track/6wknzfCeTkovFsYIdfMMVU"
-    },
-    {
-      "added_at": "2026-06-12 03:00:57",
-      "album": {
         "name": "Dois Tipos de Gente (Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/2novUiRmG54NHsEmTumUBL"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 148750,
       "name": "Dois Tipos de Gente (Ao Vivo em S\u00e3o Paulo)",
       "url": "https://open.spotify.com/track/1abnsyQr0I5v6uZWw6YWlz"
-    },
-    {
-      "added_at": "2026-06-12 03:00:57",
-      "album": {
-        "name": "Barzin, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig"
-      },
-      "artists": [
-        {
-          "name": "Bruna Lipiani",
-          "url": "https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK"
-        }
-      ],
-      "duration_ms": 178356,
-      "name": "Porteira Fechada - Ao Vivo",
-      "url": "https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx"
     },
     {
       "added_at": "2026-06-12 03:00:57",
@@ -259,22 +243,18 @@
     {
       "added_at": "2026-06-12 03:00:57",
       "album": {
-        "name": "Perdid\u00e3o",
-        "url": "https://open.spotify.com/album/4iHT5kTIal0HSj7D00u1nR"
+        "name": "Barzin, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig"
       },
       "artists": [
         {
-          "name": "Guilherme e Alessandro",
-          "url": "https://open.spotify.com/artist/6WiDwiopZPo2Fb5QgZiIC2"
-        },
-        {
-          "name": "Jo\u00e3o Gustavo e Murilo",
-          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+          "name": "Bruna Lipiani",
+          "url": "https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK"
         }
       ],
-      "duration_ms": 150396,
-      "name": "Perdid\u00e3o",
-      "url": "https://open.spotify.com/track/5SPXRFQaHlegG0Cqlitxax"
+      "duration_ms": 178356,
+      "name": "Porteira Fechada - Ao Vivo",
+      "url": "https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx"
     },
     {
       "added_at": "2026-06-12 03:00:57",
@@ -299,6 +279,26 @@
       "duration_ms": 142641,
       "name": "5 Dedinhos",
       "url": "https://open.spotify.com/track/2KK4vQByZPdhNS7CK70jLG"
+    },
+    {
+      "added_at": "2026-06-12 03:00:57",
+      "album": {
+        "name": "Perdid\u00e3o",
+        "url": "https://open.spotify.com/album/4iHT5kTIal0HSj7D00u1nR"
+      },
+      "artists": [
+        {
+          "name": "Guilherme e Alessandro",
+          "url": "https://open.spotify.com/artist/6WiDwiopZPo2Fb5QgZiIC2"
+        },
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        }
+      ],
+      "duration_ms": 150396,
+      "name": "Perdid\u00e3o",
+      "url": "https://open.spotify.com/track/5SPXRFQaHlegG0Cqlitxax"
     },
     {
       "added_at": "2026-06-12 03:00:57",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-06-12 03:00:57",
       "album": {
-        "name": "Do Vinho ao Caf\u00e9",
-        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Pedro e Cristiano",
-          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
-        }
-      ],
-      "duration_ms": 174517,
-      "name": "Do Vinho ao Caf\u00e9",
-      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
-    },
-    {
-      "added_at": "2026-06-12 03:00:57",
-      "album": {
         "name": "Resenha dos Gordinhos, Ep. 3",
         "url": "https://open.spotify.com/album/6K7hsNuNL6D9k3HCZZsuph"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 174339,
       "name": "Cumprindo Agenda",
       "url": "https://open.spotify.com/track/7nyaCSoLzDz6VDr3nKjxc7"
+    },
+    {
+      "added_at": "2026-06-12 03:00:57",
+      "album": {
+        "name": "Do Vinho ao Caf\u00e9",
+        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Pedro e Cristiano",
+          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
+        }
+      ],
+      "duration_ms": 174517,
+      "name": "Do Vinho ao Caf\u00e9",
+      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
     },
     {
       "added_at": "2026-06-12 03:00:57",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-06-12 03:00:57",
       "album": {
-        "name": "Mais Neg\u00f3cio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3n2ph02C2oyghd230CICPw"
-      },
-      "artists": [
-        {
-          "name": "Ana Karla",
-          "url": "https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3"
-        }
-      ],
-      "duration_ms": 174294,
-      "name": "Mais Neg\u00f3cio - Ao Vivo",
-      "url": "https://open.spotify.com/track/1zDdpi8uhfXDEqs7T2RIwT"
-    },
-    {
-      "added_at": "2026-06-12 03:00:57",
-      "album": {
         "name": "Ningu\u00e9m Vira Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/0o4u9EcM17CHy5dWfiwkoh"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2026-06-12 03:00:57",
       "album": {
+        "name": "Mais Neg\u00f3cio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3n2ph02C2oyghd230CICPw"
+      },
+      "artists": [
+        {
+          "name": "Ana Karla",
+          "url": "https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3"
+        }
+      ],
+      "duration_ms": 174294,
+      "name": "Mais Neg\u00f3cio - Ao Vivo",
+      "url": "https://open.spotify.com/track/1zDdpi8uhfXDEqs7T2RIwT"
+    },
+    {
+      "added_at": "2026-06-12 03:00:57",
+      "album": {
         "name": "Mo\u00e7a Do Vestido Preto (Ao Vivo)",
         "url": "https://open.spotify.com/album/2BMNdpnrpjfTkTLi7eGHG5"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-06-12 03:00:57",
       "album": {
-        "name": "Consequ\u00eancias",
-        "url": "https://open.spotify.com/album/0v0p949o5wXUJFPAZxMptv"
-      },
-      "artists": [
-        {
-          "name": "Felipe Nogueira",
-          "url": "https://open.spotify.com/artist/3nXVVxYcQnARWrEAFomuSl"
-        }
-      ],
-      "duration_ms": 183245,
-      "name": "Consequ\u00eancias",
-      "url": "https://open.spotify.com/track/1SHcSTa8zLPvKHcHDoPRDh"
-    },
-    {
-      "added_at": "2026-06-12 03:00:57",
-      "album": {
         "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1UQiTjTiE8pUWjyYtophZJ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 164746,
       "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/78FtKsMjLYpliAWk6uoSGl"
+    },
+    {
+      "added_at": "2026-06-12 03:00:57",
+      "album": {
+        "name": "Consequ\u00eancias",
+        "url": "https://open.spotify.com/album/0v0p949o5wXUJFPAZxMptv"
+      },
+      "artists": [
+        {
+          "name": "Felipe Nogueira",
+          "url": "https://open.spotify.com/artist/3nXVVxYcQnARWrEAFomuSl"
+        }
+      ],
+      "duration_ms": 183245,
+      "name": "Consequ\u00eancias",
+      "url": "https://open.spotify.com/track/1SHcSTa8zLPvKHcHDoPRDh"
     },
     {
       "added_at": "2026-06-12 03:00:57",
@@ -835,26 +835,6 @@
     {
       "added_at": "2026-06-12 03:00:57",
       "album": {
-        "name": "Subi de N\u00edvel, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7tmZX2ihcmxpiX0QtaGe4m"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9zia Pinheiro",
-          "url": "https://open.spotify.com/artist/0GazbZ6lnb0x1HgOq0MVv8"
-        },
-        {
-          "name": "Mar\u00edlia Tavares",
-          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
-        }
-      ],
-      "duration_ms": 151645,
-      "name": "Repert\u00f3rio de Desculpas - Ao Vivo",
-      "url": "https://open.spotify.com/track/4A4XvbxF6xmqp2J8MYsh79"
-    },
-    {
-      "added_at": "2026-06-12 03:00:57",
-      "album": {
         "name": "A\u00ed \u00c9 Loucura, Ep. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5NsyRGDgr4Qep8JEgc7YuM"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 242316,
       "name": "Seu Astral / Enquanto Houver Raz\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/5s5thQ6XDeYzFf2MGjQ4yx"
+    },
+    {
+      "added_at": "2026-06-12 03:00:57",
+      "album": {
+        "name": "Subi de N\u00edvel, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7tmZX2ihcmxpiX0QtaGe4m"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9zia Pinheiro",
+          "url": "https://open.spotify.com/artist/0GazbZ6lnb0x1HgOq0MVv8"
+        },
+        {
+          "name": "Mar\u00edlia Tavares",
+          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
+        }
+      ],
+      "duration_ms": 151645,
+      "name": "Repert\u00f3rio de Desculpas - Ao Vivo",
+      "url": "https://open.spotify.com/track/4A4XvbxF6xmqp2J8MYsh79"
     },
     {
       "added_at": "2026-06-12 03:00:57",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-06-12 03:00:57",
       "album": {
-        "name": "Esquec\u00edvel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6pIAHUlvlgeqzkgYPZ5sfd"
-      },
-      "artists": [
-        {
-          "name": "Larissa e Mariana",
-          "url": "https://open.spotify.com/artist/4Tbs2tTIXSx0CfTQCj96kO"
-        },
-        {
-          "name": "Mariana Fagundes",
-          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
-        }
-      ],
-      "duration_ms": 198794,
-      "name": "Esquec\u00edvel - Ao Vivo",
-      "url": "https://open.spotify.com/track/2n4pwBxp0f5rQOZsZCJ09f"
-    },
-    {
-      "added_at": "2026-06-12 03:00:57",
-      "album": {
         "name": "Cora\u00e7\u00e3o do Bruto (Ao Vivo)",
         "url": "https://open.spotify.com/album/2sHIiUvzJf4QYCZl2BR22I"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 182570,
       "name": "Cora\u00e7\u00e3o do Bruto - Ao Vivo",
       "url": "https://open.spotify.com/track/7tXRESqmBQk9kd5NeLWDuP"
+    },
+    {
+      "added_at": "2026-06-12 03:00:57",
+      "album": {
+        "name": "Esquec\u00edvel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pIAHUlvlgeqzkgYPZ5sfd"
+      },
+      "artists": [
+        {
+          "name": "Larissa e Mariana",
+          "url": "https://open.spotify.com/artist/4Tbs2tTIXSx0CfTQCj96kO"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        }
+      ],
+      "duration_ms": 198794,
+      "name": "Esquec\u00edvel - Ao Vivo",
+      "url": "https://open.spotify.com/track/2n4pwBxp0f5rQOZsZCJ09f"
     },
     {
       "added_at": "2026-06-12 03:00:57",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2026-06-12 03:00:57",
       "album": {
-        "name": "Prefiro Te Perder - 25 Anos Ao Vivo",
-        "url": "https://open.spotify.com/album/0zv7uC8Q753lJiDmPYkkYB"
-      },
-      "artists": [
-        {
-          "name": "Juninho Bessa",
-          "url": "https://open.spotify.com/artist/0E7oKY8QPGH6eEDr9oR8OT"
-        },
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 170891,
-      "name": "Prefiro Te Perder - 25 Anos Ao Vivo",
-      "url": "https://open.spotify.com/track/5wvqUnqiXOq2v8Ap1xxqhL"
-    },
-    {
-      "added_at": "2026-06-12 03:00:57",
-      "album": {
         "name": "Mete Marcha no Paran\u00e1, Ep. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1DwSp5Uvg4yO8lJew7Npef"
       },
@@ -1115,22 +1095,22 @@
     {
       "added_at": "2026-06-12 03:00:57",
       "album": {
-        "name": "Mais 18",
-        "url": "https://open.spotify.com/album/5LSNuS83GtsRNFOYTsmb6h"
+        "name": "Prefiro Te Perder - 25 Anos Ao Vivo",
+        "url": "https://open.spotify.com/album/0zv7uC8Q753lJiDmPYkkYB"
       },
       "artists": [
         {
-          "name": "Jayne Martins",
-          "url": "https://open.spotify.com/artist/4lOuQLXOSijhR3rectatOm"
+          "name": "Juninho Bessa",
+          "url": "https://open.spotify.com/artist/0E7oKY8QPGH6eEDr9oR8OT"
         },
         {
-          "name": "Lucca e Mateus",
-          "url": "https://open.spotify.com/artist/0410LsuDnINVvVPRBE7pOo"
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
         }
       ],
-      "duration_ms": 163605,
-      "name": "Mais 18",
-      "url": "https://open.spotify.com/track/2D5BT7DLrPLcz8CCGyvsAF"
+      "duration_ms": 170891,
+      "name": "Prefiro Te Perder - 25 Anos Ao Vivo",
+      "url": "https://open.spotify.com/track/5wvqUnqiXOq2v8Ap1xxqhL"
     },
     {
       "added_at": "2026-06-12 03:00:57",
@@ -1167,6 +1147,26 @@
       "duration_ms": 149909,
       "name": "Nunca \u00e9 Demais",
       "url": "https://open.spotify.com/track/4IMlU0sY3X6lgvQwJWwmws"
+    },
+    {
+      "added_at": "2026-06-12 03:00:57",
+      "album": {
+        "name": "Mais 18",
+        "url": "https://open.spotify.com/album/5LSNuS83GtsRNFOYTsmb6h"
+      },
+      "artists": [
+        {
+          "name": "Jayne Martins",
+          "url": "https://open.spotify.com/artist/4lOuQLXOSijhR3rectatOm"
+        },
+        {
+          "name": "Lucca e Mateus",
+          "url": "https://open.spotify.com/artist/0410LsuDnINVvVPRBE7pOo"
+        }
+      ],
+      "duration_ms": 163605,
+      "name": "Mais 18",
+      "url": "https://open.spotify.com/track/2D5BT7DLrPLcz8CCGyvsAF"
     },
     {
       "added_at": "2026-06-12 03:00:57",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-06-12 03:00:57",
       "album": {
-        "name": "Amigos com Benef\u00edcios (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3dPfSslte8Zcr8V0D1pr5y"
-      },
-      "artists": [
-        {
-          "name": "Anna Toledo",
-          "url": "https://open.spotify.com/artist/5BqB321gUz1LOOAKBUiahj"
-        }
-      ],
-      "duration_ms": 159238,
-      "name": "Amigos com Benef\u00edcios - Ao Vivo",
-      "url": "https://open.spotify.com/track/6GzQ8kMSmP2xeSR84k9UXJ"
-    },
-    {
-      "added_at": "2026-06-12 03:00:57",
-      "album": {
         "name": "Arielly Dara - Ao Vivo (Deluxe)",
         "url": "https://open.spotify.com/album/1WldYbAaIHawj8ZnVsYUw1"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 192434,
       "name": "T\u00f4 Preparada - Ao Vivo",
       "url": "https://open.spotify.com/track/2JYLmG4jBSFyNjOOFIYu0x"
+    },
+    {
+      "added_at": "2026-06-12 03:00:57",
+      "album": {
+        "name": "Amigos com Benef\u00edcios (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3dPfSslte8Zcr8V0D1pr5y"
+      },
+      "artists": [
+        {
+          "name": "Anna Toledo",
+          "url": "https://open.spotify.com/artist/5BqB321gUz1LOOAKBUiahj"
+        }
+      ],
+      "duration_ms": 159238,
+      "name": "Amigos com Benef\u00edcios - Ao Vivo",
+      "url": "https://open.spotify.com/track/6GzQ8kMSmP2xeSR84k9UXJ"
     },
     {
       "added_at": "2026-06-12 03:00:57",

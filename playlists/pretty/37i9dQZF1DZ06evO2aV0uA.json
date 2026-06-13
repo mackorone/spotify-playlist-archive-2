@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 144752,
+  "num_followers": 144773,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAABGxt3uDq5v9nuIa1aJeEyp",
+  "snapshot_id": "ain6gAAAAAC7y8rs3YaJ5IE7W8OPaaFC",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamb of God",
-        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 299557,
-      "name": "Resurrection Man",
-      "url": "https://open.spotify.com/track/53xXTqz8QfadLsXbs411si"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Omens",
         "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 217606,
       "name": "Ditch",
       "url": "https://open.spotify.com/track/6V4k01Xr3HsVrfqUyQSIqt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 299557,
+      "name": "Resurrection Man",
+      "url": "https://open.spotify.com/track/53xXTqz8QfadLsXbs411si"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 283000,
-      "name": "Vigil",
-      "url": "https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk"
+      "duration_ms": 234306,
+      "name": "Desolation",
+      "url": "https://open.spotify.com/track/7siSMBw1wFPPBNoBtXNzMb"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resolution",
-        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 234306,
-      "name": "Desolation",
-      "url": "https://open.spotify.com/track/7siSMBw1wFPPBNoBtXNzMb"
+      "duration_ms": 283000,
+      "name": "Vigil",
+      "url": "https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "As The Palaces Burn",
-      "url": "https://open.spotify.com/track/2KjmnyVafBbq4VEnrJ5rra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lamb of God",
         "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 270746,
       "name": "New Colossal Hate",
       "url": "https://open.spotify.com/track/1ILi61AsfqMfUvxWpoJiuc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "As The Palaces Burn",
+      "url": "https://open.spotify.com/track/2KjmnyVafBbq4VEnrJ5rra"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "For Your Malice",
-      "url": "https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New American Gospel",
         "url": "https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 292293,
       "name": "Black Label",
       "url": "https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "For Your Malice",
+      "url": "https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Purified",
-      "url": "https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 326771,
       "name": "COLD BLOOD",
       "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Purified",
+      "url": "https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4"
     },
     {
       "added_at": null,

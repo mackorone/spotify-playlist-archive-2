@@ -1273,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1s4mHTfjmO4CU8AACjkmsS"
+      },
+      "artists": [
+        {
+          "name": "Tolou",
+          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175265,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/4SykKuN3ZpoJViT7Nyhz57"
+    },
+    {
+      "album": {
         "name": "Reflection (Japan Deluxe Edition)",
         "url": "https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI"
       },
@@ -1471,6 +1489,36 @@
     },
     {
       "album": {
+        "name": "Buy The World",
+        "url": "https://open.spotify.com/album/0N8ZuxurFs5C4fsC1z7wRK"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226693,
+      "name": "Buy The World",
+      "url": "https://open.spotify.com/track/01A7PEPSnmtixFPfB2UTal"
+    },
+    {
+      "album": {
         "name": "Ransom",
         "url": "https://open.spotify.com/album/0PwXO70k9lKp5rZUMQBzV9"
       },
@@ -1494,7 +1542,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 222267,
       "name": "Buy The World (feat. Future, Lil Wayne & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/67Ehieg66U2mmoZrcrQgge"

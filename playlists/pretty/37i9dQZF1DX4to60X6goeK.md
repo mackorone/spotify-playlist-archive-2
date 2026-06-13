@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Kanine
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,788 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,801 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 11 | [Gas](https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ), [SUUNE](https://open.spotify.com/artist/7cl5oQykszelcZt2HZlbbu), [Phantom](https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a) | [Gas](https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S) | 3:06 |
 | 12 | [NO SURRENDER \(No Retreat\)](https://open.spotify.com/track/1BwAmOqvZjLf8ynLWnQ9LC) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [NO SURRENDER \(No Retreat\)](https://open.spotify.com/album/2YTbTLwXVyRDmR8zyo8a77) | 3:29 |
 | 13 | [Patience](https://open.spotify.com/track/1GkGL2dQjZ1PYj3ZJk0jii) | [Levela](https://open.spotify.com/artist/0sDeXbVK3kNuzYQlVib9ib) | [Patience](https://open.spotify.com/album/1StN2iNJ26sRO0AVIpX9NZ) | 2:57 |
-| 14 | [Do You](https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q) | [Upgrade \(UK\)](https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Do You](https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64) | 3:42 |
-| 15 | [Feel My Love](https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [Feel My Love](https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus) | 3:44 |
-| 16 | [On The Gas](https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [On The Gas](https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO) | 2:58 |
+| 14 | [On The Gas](https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [On The Gas](https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO) | 2:58 |
+| 15 | [Do You](https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q) | [Upgrade \(UK\)](https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Do You](https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64) | 3:42 |
+| 16 | [Feel My Love](https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [Feel My Love](https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus) | 3:44 |
 | 17 | [Do U Feel It Now?](https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Do U Feel It Now?](https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL) | 3:51 |
 | 18 | [CHARGIE \- Rendah Edit](https://open.spotify.com/track/4IEoKCEWcLCwsIhW2d3mxA) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Jamakabi](https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC), [Rendah](https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX) | [DAY ONE \(Edits\)](https://open.spotify.com/album/5jG7UTE2ugocI8hbKXejuT) | 3:31 |
 | 19 | [Lose Your Shit](https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ), [Phantom](https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a) | [Lose Your Shit](https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd) | 3:10 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 51 | [Inside The Rider \- TC & Original Sin 2000's Remix](https://open.spotify.com/track/3zo3Yt938sWofI3EmD5NnR) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61), [Original Sin](https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV) | [Inside The Rider \(TC & Original Sin 2000's Remix\)](https://open.spotify.com/album/4WTMosR7xfte2OfeZh5f4Y) | 3:51 |
 | 52 | [There In 10](https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [There In 10](https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm) | 4:06 |
 | 53 | [Love Me Right](https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP) | [Spag Bol](https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq) | 3:22 |
-| 54 | [Cascade \- Mixed](https://open.spotify.com/track/3rH8Q8cPoYxfZUjGAJa39B) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Winter Mix Vol.2](https://open.spotify.com/album/5LbxXb4abEIXhy0Qv5WC66) | 1:16 |
+| 54 | [PURPOSE](https://open.spotify.com/track/35mele207P8xoKXOsTh52L) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [PURPOSE](https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU) | 2:47 |
 | 55 | [Come With It](https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2) | [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP) | [Come With It](https://open.spotify.com/album/0xwUWz3tDMxaWHvQXIphvy) | 3:20 |
 
 Snapshot ID: `AAAAAACPXlC3ugXUkdyJbv8+Z8tAsWcT`

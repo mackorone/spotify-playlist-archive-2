@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,438 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,459 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 26 | [He Venido a Pedirte Perdón](https://open.spotify.com/track/7ebni0Sdf9dV2xzsQMSg7I) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Tributo a Juan Gabriel](https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1) | 3:50 |
 | 27 | [Amor de un Rato](https://open.spotify.com/track/2ZmLc6EVSWKBMNQZTeqBVQ) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 4:32 |
 | 28 | [Fue un Placer Conocerte](https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 3:00 |
-| 29 | [Yo No Naci Para Amar](https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:30 |
-| 30 | [Solo Se Que Fue En Marzo](https://open.spotify.com/track/3eIR0Fl5k7Oj1zNoDxanP1) | [Marcos Flores](https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D), [Banda Jerez](https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn) | [De Nueva Cuenta](https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4) | 2:53 |
+| 29 | [Solo Se Que Fue En Marzo](https://open.spotify.com/track/3eIR0Fl5k7Oj1zNoDxanP1) | [Marcos Flores](https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D), [Banda Jerez](https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn) | [De Nueva Cuenta](https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4) | 2:53 |
+| 30 | [Yo No Naci Para Amar](https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:30 |
 | 31 | [Querida](https://open.spotify.com/track/7uCzfOYv9QcwMq7SjMMCmF) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:29 |
 | 32 | [No Tengo Dinero](https://open.spotify.com/track/6pgaDhAVcTbvURjdZFBSPk) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Origen](https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO) | 3:31 |
 | 33 | [Costumbres](https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 4:32 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 61 | [La Más Querida](https://open.spotify.com/track/1QD42LwLanJizUu2qosih2) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Juan Gabriel, el Divo y Sus Divas](https://open.spotify.com/album/3xCWhY4rgMsS2eLBajXuid) | 3:38 |
 | 62 | [Hasta Que Te Conocí](https://open.spotify.com/track/1UtS5UawZztSP0cQ9IAIVf) | [Julia de Castro](https://open.spotify.com/artist/2LshxksS43zLzIpiyP8zgG) | [La Historiadora](https://open.spotify.com/album/5APouCNoMeEJV2BhsjGYLl) | 3:01 |
 | 63 | [Ya No Vivo Por Vivir](https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 6:14 |
-| 64 | [Fue un Placer Conocerte](https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 3:30 |
-| 65 | [La Farsante](https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo Y Con Todos](https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV) | 3:35 |
+| 64 | [La Farsante](https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo Y Con Todos](https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV) | 3:35 |
+| 65 | [Fue un Placer Conocerte](https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 3:30 |
 | 66 | [Así Fue \- En Vivo](https://open.spotify.com/track/0u9bj1NhkqZxqJKWml17YI) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [10 Años \(En Vivo\)](https://open.spotify.com/album/4D3w10tAtPiZ0MtJTP9pt9) | 7:56 |
 | 67 | [Luna](https://open.spotify.com/track/739NTjHPzGdGG3mf4lgcGT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel Todos Sus Exitos](https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo) | 4:30 |
 | 68 | [Querida](https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 4:55 |

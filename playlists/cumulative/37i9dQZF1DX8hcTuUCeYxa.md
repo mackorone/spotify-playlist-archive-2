@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Dottie Andersson
 
-2,976 songs - 7 day 3 hr 16 min
+2,976 songs - 7 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -749,6 +749,7 @@
 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 | 2025-07-24 | 2025-08-22 |
 | [Each Sun Casts a Shadow](https://open.spotify.com/track/3HsiPW3eGKPHQNetD75Tem) | [Andrina Bollinger](https://open.spotify.com/artist/2q3FpbEgilJkxSn0e5B5xp) | [Each Sun Casts a Shadow](https://open.spotify.com/album/0iTkxE4wugRapDJpPFfGpN) | 3:41 | 2025-09-11 | 2025-09-19 |
 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 | 2025-01-23 | 2025-02-07 |
+| [East Village](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 3:31 | 2026-06-11 |  |
 | [Eastside](https://open.spotify.com/track/2evvE2jejUgiMrZNeCyi0H) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Eastside](https://open.spotify.com/album/3TC2ByOCEmKmVQmSaBmAWl) | 1:37 | 2026-02-05 | 2026-02-20 |
 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 | 2026-05-07 | 2026-06-05 |
 | [Easy](https://open.spotify.com/track/5z8bP11SMC9OkN56wMPYOi) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Easy](https://open.spotify.com/album/3mGagTjy8A3XNLN7RUkIM8) | 3:36 | 2024-10-31 | 2024-11-29 |
@@ -956,7 +957,7 @@
 | [Gentleman](https://open.spotify.com/track/759uyHAEpho3GYAcZFCYbI) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [Gentleman](https://open.spotify.com/album/4ITDBpKj67cEPss5vRzsRI) | 2:20 | 2024-12-05 | 2025-01-17 |
 | [Gesegnet sind all die ohne Idole](https://open.spotify.com/track/1e5iiaf6LJBp3kJ6YMYIOx) | [Tristesse](https://open.spotify.com/artist/4Yqf56U0faf6GElLDbmodd) | [Gesegnet sind all die ohne Idole](https://open.spotify.com/album/4CzPp6EDHdSOVP6b3cxIAQ) | 2:12 | 2025-07-10 | 2025-07-25 |
 | [Gespenst](https://open.spotify.com/track/6BoqUL8PIeYmI9tYkdHNRU) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq), [LUVRE47](https://open.spotify.com/artist/2qxkFauoxk34qhVdkgbqbz) | [Strandbad Eldena](https://open.spotify.com/album/5Ht0J2Q4lZ0Pf5p0NUimwh) | 3:02 | 2025-12-11 | 2026-01-23 |
-| [Get Away](https://open.spotify.com/track/5wozBVcDxpyTODUktYmhmq) | [Pony Pony Run Run](https://open.spotify.com/artist/6RXZaVIbZfdngXJOSGrVH3), [Gaétan Réchin Lê Ky Huong](https://open.spotify.com/artist/1qUlnOQYeSU1NRHxz0bkEv) | [Get Away](https://open.spotify.com/album/6R5y4IG0M1xiHJNBAwxO7n) | 3:05 | 2026-06-11 |  |
+| [Get Away](https://open.spotify.com/track/5wozBVcDxpyTODUktYmhmq) | [Pony Pony Run Run](https://open.spotify.com/artist/6RXZaVIbZfdngXJOSGrVH3) | [Get Away](https://open.spotify.com/album/6R5y4IG0M1xiHJNBAwxO7n) | 3:05 | 2026-06-11 |  |
 | [Get Back Into Myself](https://open.spotify.com/track/6hkv8uTu4KXuS8DWtHlYjG) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [Start To End / Get Back Into Myself](https://open.spotify.com/album/2hy9EN9Lqp4ZVcQ0Gttcaa) | 3:33 | 2026-06-11 |  |
 | [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 | 2026-03-12 | 2026-04-10 |
 | [Get Happy](https://open.spotify.com/track/1ldykTue3ZAv6GxW8shJjN) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary \(Deluxe\)](https://open.spotify.com/album/7n5z9K5f4UMNfZ7Qajwvvj) | 3:22 | 2025-05-08 | 2025-05-23 |
@@ -2689,7 +2690,6 @@
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 |  |
-| [Track 4](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 0:00 | 2026-06-11 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-05-08 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-24 |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |

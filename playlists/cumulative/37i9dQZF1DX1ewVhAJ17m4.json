@@ -4608,7 +4608,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 159315,
       "name": "I Don't Wanna Go!",
       "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
@@ -8888,6 +8888,24 @@
       "duration_ms": 194273,
       "name": "Straight Up (Needy)",
       "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
+    },
+    {
+      "album": {
+        "name": "Straight Up to Space",
+        "url": "https://open.spotify.com/album/4O1oiHIUMvxzLW7TEO7DPQ"
+      },
+      "artists": [
+        {
+          "name": "OUT IN FRONT",
+          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Straight Up to Space",
+      "url": "https://open.spotify.com/track/2Fu0ymVqrFGgFWYeah705d"
     },
     {
       "album": {

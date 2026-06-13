@@ -1,12 +1,12 @@
 {
   "description": "Ella Langley, Morgan Wallen and the biggest hits in country music.",
-  "num_followers": 559840,
+  "num_followers": 559827,
   "original_name": "All About Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIC7cWVgNXR0OVosy7UbpkjE6kl4",
+  "snapshot_id": "AAAAAHE6jCC8Gr/FGaAasrIHd1akoluy",
   "tracks": [
     {
       "added_at": "2026-05-15 00:01:46",
@@ -123,6 +123,22 @@
       "duration_ms": 204963,
       "name": "I Got Better",
       "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
+    },
+    {
+      "added_at": "2026-06-12 15:14:18",
+      "album": {
+        "name": "Think As You Drunk",
+        "url": "https://open.spotify.com/album/10I3RS2Ijy9GCVZZAVG7Al"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 228837,
+      "name": "Think As You Drunk",
+      "url": "https://open.spotify.com/track/20FhqUEadmPYCrJYzeyPSx"
     },
     {
       "added_at": "2026-05-15 00:01:46",
@@ -763,26 +779,6 @@
       "duration_ms": 184517,
       "name": "What I Want (feat. Tate McRae)",
       "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
-    },
-    {
-      "added_at": "2026-05-15 00:01:46",
-      "album": {
-        "name": "devil and a prayer",
-        "url": "https://open.spotify.com/album/0wXmEIIUIdZbvSk99P4QrK"
-      },
-      "artists": [
-        {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
-        },
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 200574,
-      "name": "MIGHT BE DANGEROUS",
-      "url": "https://open.spotify.com/track/7FdWBc0RRt4joQxSSJUnG0"
     },
     {
       "added_at": "2026-05-15 00:01:46",

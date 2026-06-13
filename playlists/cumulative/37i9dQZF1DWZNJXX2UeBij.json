@@ -3294,12 +3294,20 @@
       },
       "artists": [
         {
+          "name": "Nadeem Shravan",
+          "url": "https://open.spotify.com/artist/0xHXoShMJw3xDArjL8IHtt"
+        },
+        {
           "name": "Alka Yagnik",
           "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         },
         {
           "name": "Udit Narayan",
           "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
         }
       ],
       "date_added": "2022-12-22",
@@ -4392,12 +4400,20 @@
       },
       "artists": [
         {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+          "name": "Nadeem Shravan",
+          "url": "https://open.spotify.com/artist/0xHXoShMJw3xDArjL8IHtt"
         },
         {
           "name": "Alka Yagnik",
           "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
         }
       ],
       "date_added": "2022-12-22",

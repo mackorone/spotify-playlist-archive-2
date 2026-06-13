@@ -482,7 +482,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 194000,
       "name": "Is it a crime?",
       "url": "https://open.spotify.com/track/2hy9onH96hRqGOAW50W3Iq"
@@ -652,6 +652,32 @@
       "duration_ms": 158529,
       "name": "Romance",
       "url": "https://open.spotify.com/track/75OqiU9QFLNeLTLvOCudWr"
+    },
+    {
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/3SQngxWaRDieH1AbZdkA4A"
+      },
+      "artists": [
+        {
+          "name": "Nao Yoshioka",
+          "url": "https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08"
+        },
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/42S0Kub6ebpzcpLwDFgl6M"
     },
     {
       "album": {

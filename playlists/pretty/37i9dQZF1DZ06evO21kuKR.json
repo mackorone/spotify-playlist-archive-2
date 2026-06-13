@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 98606,
+  "num_followers": 98605,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAAj2aQDEJdyPE4MaAHOTwS/",
+  "snapshot_id": "ain6gAAAAADBoedr4Skjy96BuwaucKCM",
   "tracks": [
     {
       "added_at": null,
@@ -135,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Texas Technician",
-        "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 126465,
-      "name": "Twisting Fingers (with Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Served",
         "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 164753,
       "name": "U Played (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Texas Technician",
+        "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 126465,
+      "name": "Twisting Fingers (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 89616,
-      "name": "Love It Here",
-      "url": "https://open.spotify.com/track/0uiHv6ieCOkc9sE9ae3nDJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Main Slime Remix (feat. Moneybagg Yo & Tay Keith)",
         "url": "https://open.spotify.com/album/7MKAaTZWkou5cfJ32J2HD1"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 234820,
       "name": "Main Slime Remix (feat. Moneybagg Yo & Tay Keith)",
       "url": "https://open.spotify.com/track/5197zYW72cbayQO2fY9Zrf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 89616,
+      "name": "Love It Here",
+      "url": "https://open.spotify.com/track/0uiHv6ieCOkc9sE9ae3nDJ"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 167332,
+      "name": "Don't Kno",
+      "url": "https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 143533,
       "name": "One Of Dem Nights (with Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 167332,
-      "name": "Don't Kno",
-      "url": "https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 168135,
-      "name": "Projects",
-      "url": "https://open.spotify.com/track/0iknSgwfDslqMT5pr6j5zi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2 Federal",
         "url": "https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 204557,
       "name": "Doin 2 Much",
       "url": "https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 168135,
+      "name": "Projects",
+      "url": "https://open.spotify.com/track/0iknSgwfDslqMT5pr6j5zi"
     },
     {
       "added_at": null,

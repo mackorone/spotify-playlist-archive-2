@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-265 songs - 22 hr 42 min
+266 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [The Rumor](https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [The Rumor](https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G) | 4:30 | 2021-12-21 |  |
 | [The Starter](https://open.spotify.com/track/51UyPZRpvRZp9d4gRDrwzY) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Starter](https://open.spotify.com/album/6uAqOGzZJOszPnpcoUHRL2) | 6:15 | 2021-12-21 | 2025-07-08 |
 | [The Starter](https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Starter](https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI) | 6:15 | 2023-01-03 | 2024-04-19 |
-| [The Way to Be](https://open.spotify.com/track/6VcOTpAa3fmU3lZBsAntTj) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR) | [The Way to Be](https://open.spotify.com/album/4MkGtCy6yGfSlT6cSlvaUg) | 3:39 | 2026-01-16 |  |
+| [The Way to Be](https://open.spotify.com/track/6VcOTpAa3fmU3lZBsAntTj) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR) | [The Way to Be](https://open.spotify.com/album/4MkGtCy6yGfSlT6cSlvaUg) | 3:39 | 2026-01-16 | 2026-06-13 |
 | [Thembi](https://open.spotify.com/track/6x4WAXhYazOoc0vCg2sybO) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/5bNLEyWCkiYC5ZoMxSWMWB) | 7:02 | 2021-12-21 | 2022-05-08 |
 | [Theo](https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD) | [Robert Keßler](https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0), [Andreas Henze](https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39), [Tobias Backhaus](https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg) | [Bloodline](https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG) | 5:59 | 2022-02-10 |  |
 | [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 | 2022-10-11 | 2024-01-30 |
@@ -267,6 +267,7 @@
 | [Winter](https://open.spotify.com/track/0TY99mhZgjAT1Nv3b2fnZr) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Winter](https://open.spotify.com/album/6y81cvtV64YclRmmivCI8U) | 5:29 | 2022-08-29 | 2026-05-16 |
 | [Winter](https://open.spotify.com/track/1FRaCnYzTKNG1ncxwL9bgJ) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Cloud 10](https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun) | 5:29 | 2022-10-27 | 2024-04-19 |
 | [Without Deception](https://open.spotify.com/track/503UAqvRFIcoNaUYZM2WUZ) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Dave Holland Trio](https://open.spotify.com/artist/7fFLGyDMrSHUmuY6wdAcXe), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Without Deception](https://open.spotify.com/album/6LUlAvbrFf5GdxXAO0Fznc) | 6:35 | 2021-12-21 | 2022-11-16 |
+| [Wives and Lovers](https://open.spotify.com/track/2zMAv2fbK97p22b5XjaHe5) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Wives and Lovers](https://open.spotify.com/album/7wsAtwFtf7qM8N1WjzGRjn) | 4:45 | 2026-06-12 |  |
 | [Wolves](https://open.spotify.com/track/6swC1FhShFOBw1WelyqIfZ) | [Foehn Trio](https://open.spotify.com/artist/71YdDTi8qnsYcgSEnTI3et) | [Highlines](https://open.spotify.com/album/0ONIe9ezp42TGsOjz7n9pF) | 6:02 | 2021-12-21 | 2022-06-01 |
 | [Yardley Suite](https://open.spotify.com/track/2u9mRfYp5vzMCCSLxS85X9) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/1MVB8WaiCepzmHVvX741WN) | 3:55 | 2021-12-21 | 2022-07-28 |
 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 | 2022-06-30 | 2022-09-27 |

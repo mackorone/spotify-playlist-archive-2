@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 70054,
+  "num_followers": 70057,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAABkFy8j8tdg85YP1bCRS08J",
+  "snapshot_id": "ain6gAAAAAAc8FcFE7FdQh3NbtPJEqm4",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuevo",
-        "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 139350,
-      "name": "Nuevo",
-      "url": "https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Victoria",
         "url": "https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 223488,
       "name": "Victoria",
       "url": "https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuevo",
+        "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 139350,
+      "name": "Nuevo",
+      "url": "https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo"
     },
     {
       "added_at": null,
@@ -1003,22 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Top Gone (with Lunay)",
         "url": "https://open.spotify.com/album/6pzt4VtRQPVattiSb1ZZAO"
       },
@@ -1035,6 +1019,42 @@
       "duration_ms": 194453,
       "name": "Top Gone (with Lunay)",
       "url": "https://open.spotify.com/track/0EgkGFmAdFLkZVtbyGlQRe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Toque Mi Naik",
+        "url": "https://open.spotify.com/album/2hdIFvSU7heSbsco9Mssbu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 143925,
+      "name": "No Toque Mi Naik",
+      "url": "https://open.spotify.com/track/0TBbNYzmtCfN5cpZSCVNIz"
     },
     {
       "added_at": null,
@@ -1059,26 +1079,6 @@
       "duration_ms": 232813,
       "name": "Condado",
       "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Toque Mi Naik",
-        "url": "https://open.spotify.com/album/2hdIFvSU7heSbsco9Mssbu"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 143925,
-      "name": "No Toque Mi Naik",
-      "url": "https://open.spotify.com/track/0TBbNYzmtCfN5cpZSCVNIz"
     },
     {
       "added_at": null,

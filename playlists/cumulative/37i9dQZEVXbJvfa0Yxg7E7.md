@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,710 songs - 5 day 22 hr 33 min
+2,711 songs - 5 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,6 +454,7 @@
 | [Cover Me In Sunshine](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [Cover Me In Sunshine](https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI) | 2:21 | 2021-04-20 | 2021-05-23 |
 | [Cowboyhatten](https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9) | [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Cowboyhatten](https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS) | 2:51 | 2025-09-13 | 2025-10-04 |
 | [Cowgirl](https://open.spotify.com/track/26thKbWbinsfiUsV3JRmxi) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:20 | 2024-10-19 | 2024-10-21 |
+| [CRAZY](https://open.spotify.com/track/2ciI9ft56oxxehmEI1QSTY) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [Hauken](https://open.spotify.com/artist/7q7c5aIku0tSFgRBYrmCYN) | [CRAZY](https://open.spotify.com/album/25JZ1qP0NlhWgpzL0AKf5w) | 2:47 | 2026-06-12 |  |
 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 | 2025-07-24 | 2025-07-31 |
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-04-09 | 2022-04-17 |
 | [Creem](https://open.spotify.com/track/2Ah0Z0ZFAhmfyJAakATMCR) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Creem](https://open.spotify.com/album/1kUJ01Nycm2oNLal6zayRj) | 3:32 | 2022-05-08 | 2023-05-16 |
@@ -2434,7 +2435,7 @@
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2021-07-18 | 2022-05-31 |
 | [THUNDERCUNT](https://open.spotify.com/track/7eWaidsP2IwIhnyN6ueRwi) | [Morrabrød](https://open.spotify.com/artist/5Z4JpUqLRDhHoxlmgiN6FF), [Fretterave](https://open.spotify.com/artist/2mp2ULNNzgZ9XyNsxbe9NE) | [THUNDERCUNT](https://open.spotify.com/album/63vmfDiyWtvJkUY7IMuA4M) | 2:50 | 2025-04-23 | 2025-05-30 |
 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 | 2025-08-06 | 2025-08-12 |
-| [Ti av ti](https://open.spotify.com/track/0my4Ab3S68X74izaXhWJT5) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Ti av ti](https://open.spotify.com/album/3Sold0nnb42gCwxSprNSQZ) | 3:56 | 2026-05-30 |  |
+| [Ti av ti](https://open.spotify.com/track/0my4Ab3S68X74izaXhWJT5) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Ti av ti](https://open.spotify.com/album/3Sold0nnb42gCwxSprNSQZ) | 3:56 | 2026-05-30 | 2026-06-13 |
 | [Ti kniver i hjertet](https://open.spotify.com/track/7IdbB0rUe41sCXab98an5s) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Ti kniver i hjertet](https://open.spotify.com/album/2L21CNTLOpEDSesm32fRCh) | 2:52 | 2023-10-28 | 2023-10-30 |
 | [Tidløs](https://open.spotify.com/track/1Z9uLvLilzV9bPo4hFTdcg) | [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Tidløs](https://open.spotify.com/album/2asS3VAgVQAERlxGgoim4I) | 3:36 | 2025-06-22 | 2025-07-25 |
 | [TIKTOK SOUND](https://open.spotify.com/track/1tZcMZuND8iYAkE1aoz1rQ) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 3:08 | 2024-10-26 | 2024-11-16 |

@@ -4,7 +4,7 @@
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-181 songs - 14 hr 38 min
+182 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Citizen's Dream](https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Signals](https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI) | 6:01 | 2022-03-18 | 2026-02-28 |
 | [A Dream to Call My Own \(feat\. Janell Rosa\)](https://open.spotify.com/track/1QRbOx5X5oCNla0mfHJOH3) | [Nature Feels](https://open.spotify.com/artist/1ltepWinShlb0TKyJrNfEq), [Janell Rosa](https://open.spotify.com/artist/1p9RwfShi3tpt02GuEs7HD) | [A Dream to Call My Own \(feat\. Janell Rosa\)](https://open.spotify.com/album/2VX4sX25BcOUOY7sofYgaq) | 3:49 | 2022-03-25 |  |
 | [A Letter from the Past](https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [bu.re\_](https://open.spotify.com/artist/6CJUEvrgdk2Qy2M8M8ucy0) | [Momentary Ghosts](https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI) | 4:43 | 2022-03-18 |  |
+| [A Place to Breathe](https://open.spotify.com/track/6buddStONGyZPOSDaYODVU) | [Lumestria](https://open.spotify.com/artist/2EgAcyKbKswfRo9sHGG3xC) | [A Place to Breathe](https://open.spotify.com/album/1MfQ1WJQ5IihFUkqusIgxQ) | 2:58 | 2026-05-29 |  |
 | [Abell 1835](https://open.spotify.com/track/6hyj3mdLzyCq1Cd2F8S42o) | [LIGHTS OUT ASIA](https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi) | [Hy\-Brasil](https://open.spotify.com/album/0Ovb8VJpDHHtTbqjbYhywu) | 3:55 | 2023-01-27 | 2023-11-01 |
 | [Abell 1835](https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26) | [LIGHTS OUT ASIA](https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi) | [Hy\-Brasil](https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI) | 3:55 | 2022-03-25 |  |
 | [Above the Fog \(Pt.2\)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 8:46 | 2022-03-18 | 2026-02-28 |
@@ -47,7 +48,7 @@
 | [Ekki múkk](https://open.spotify.com/track/36ZSqoEkEtH6s9FvVS9yNe) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Valtari](https://open.spotify.com/album/784AinfJcPwVdpbXR4U8mN) | 7:44 | 2022-03-25 | 2026-05-30 |
 | [Ekki múkk](https://open.spotify.com/track/4aLf8xu5v9TuzVAeIPFETC) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Valtari](https://open.spotify.com/album/0ZHkshyLAi9f8DXdj3Z5ph) | 7:44 | 2022-05-27 | 2024-04-19 |
 | [Elsewhere](https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Elsewhere](https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c) | 3:54 | 2022-03-18 |  |
-| [endless, somewhere](https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu) | [Nitewalk](https://open.spotify.com/artist/0IEo7LtbFGCx6M71t1VerI) | [endless, somewhere](https://open.spotify.com/album/5p6OGDLBZksOVhgqUCFuLK) | 3:36 | 2023-11-16 |  |
+| [endless, somewhere](https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu) | [Nitewalk](https://open.spotify.com/artist/0IEo7LtbFGCx6M71t1VerI) | [endless, somewhere](https://open.spotify.com/album/5p6OGDLBZksOVhgqUCFuLK) | 3:36 | 2023-11-16 | 2026-06-13 |
 | [Enfold](https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq) | [Soars](https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ) | [Enfold](https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS) | 3:46 | 2022-03-18 |  |
 | [Exhale](https://open.spotify.com/track/1IrJf0dsyxqcsuI9QbUBhu) | [From Somewhere Quiet](https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ) | [Exhale](https://open.spotify.com/album/3Y296dqJW6HBj1LYCoIsrB) | 3:06 | 2026-05-29 |  |
 | [Falling Slowly Like Snow](https://open.spotify.com/track/211QCsl0TK9mgRib6TApqR) | [Jacopo Ramonda](https://open.spotify.com/artist/1drMRvchQjyL4qXK0mgaTc) | [From A Flood Of Words Only The Current Remains](https://open.spotify.com/album/1xPy6soMCJtMp1HmBe2KWD) | 4:00 | 2026-05-29 |  |

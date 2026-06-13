@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 790363,
+  "num_followers": 790441,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -699,18 +699,18 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "Body Like A Back Road",
-        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
         }
       ],
-      "duration_ms": 165386,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
+      "duration_ms": 235426,
+      "name": "Watching You",
+      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
     },
     {
       "added_at": "2026-02-11 22:49:04",
@@ -731,18 +731,18 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
       },
       "artists": [
         {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 235426,
-      "name": "Watching You",
-      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
+      "duration_ms": 165386,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
     },
     {
       "added_at": "2026-02-11 22:49:04",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/2W0uJ9ehsjiInD1CDvVHHX"
-      },
-      "artists": [
-        {
-          "name": "Jo Dee Messina",
-          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Lesson In Leavin'",
-      "url": "https://open.spotify.com/track/0xo5dRgtkZlR2zNJwSYB37"
-    },
-    {
-      "added_at": "2026-02-11 22:49:04",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 212706,
       "name": "Party Time",
       "url": "https://open.spotify.com/track/6hlvRaZM1U279W3rVkQ9qY"
+    },
+    {
+      "added_at": "2026-02-11 22:49:04",
+      "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/2W0uJ9ehsjiInD1CDvVHHX"
+      },
+      "artists": [
+        {
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Lesson In Leavin'",
+      "url": "https://open.spotify.com/track/0xo5dRgtkZlR2zNJwSYB37"
     },
     {
       "added_at": "2026-02-11 22:49:04",

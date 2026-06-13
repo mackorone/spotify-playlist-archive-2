@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-25",
-  "description": "\u00a1Los \u00e9xitos m\u00e1s champet\u00faos de ayer y hoy se vacilan en Spotify! Foto: Ovy On the Drums, Luister La Voz, Dekko",
+  "description": "\u00a1Los \u00e9xitos m\u00e1s champet\u00faos de ayer y hoy se vacilan en Spotify! Foto: Criss y Ronny",
   "name": "Champeta & Terapia",
   "tracks": [
     {
@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Rey de Rocha: El Rey Soy Yo, Vol. 60",
+        "url": "https://open.spotify.com/album/6DesxNFXVmyk6PSxelrshJ"
+      },
+      "artists": [
+        {
+          "name": "Rey de Rocha",
+          "url": "https://open.spotify.com/artist/1Fsa2BhTg8Om8M0LOzV3ci"
+        },
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218540,
+      "name": "Amarte M\u00e1s No Pude",
+      "url": "https://open.spotify.com/track/0DJxT2k2Ip9sQjmlDqi4o6"
+    },
+    {
+      "album": {
         "name": "Amigos De Cart\u00f3n",
         "url": "https://open.spotify.com/album/3k2mB2w1KvYOvF0cWNspT4"
       },
@@ -52,7 +74,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 230886,
       "name": "Amigos De Cart\u00f3n",
       "url": "https://open.spotify.com/track/0UZgaekKQnqnC4fD0LdJDV"
@@ -475,6 +497,24 @@
     },
     {
       "album": {
+        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140461,
+      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
+    },
+    {
+      "album": {
         "name": "DALE SACA",
         "url": "https://open.spotify.com/album/4ht2wZaivZe5IvGFhEotGO"
       },
@@ -508,7 +548,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 217959,
       "name": "Dame Un Beso",
       "url": "https://open.spotify.com/track/6D8ayHlwlcKaaGLjGNLsr7"
@@ -588,6 +628,32 @@
       "duration_ms": 260918,
       "name": "El Avi\u00f3n",
       "url": "https://open.spotify.com/track/1P87zPclg6hbSDxsdlVwqr"
+    },
+    {
+      "album": {
+        "name": "EL AZOTE",
+        "url": "https://open.spotify.com/album/01nxcPaD6B31SIAuUuUY1T"
+      },
+      "artists": [
+        {
+          "name": "Criss & Ronny",
+          "url": "https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq"
+        },
+        {
+          "name": "TheKingDeejay",
+          "url": "https://open.spotify.com/artist/5YjgsLi14WEuj7oXWVYfbs"
+        },
+        {
+          "name": "La Colectiva \u00c9lite",
+          "url": "https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121092,
+      "name": "EL AZOTE",
+      "url": "https://open.spotify.com/track/553SlYTkhyNV8uZLaS52o2"
     },
     {
       "album": {
@@ -692,7 +758,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 229846,
       "name": "El Chicle",
       "url": "https://open.spotify.com/track/4u4TaciNIl4RgmV4Wd8vCI"
@@ -1575,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "La Mar\u00eda",
+        "url": "https://open.spotify.com/album/60vkloFJlu3niw4vEs4TH2"
+      },
+      "artists": [
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218755,
+      "name": "La Mar\u00eda",
+      "url": "https://open.spotify.com/track/2dbbYIXYJQzJoUoOl6i0LY"
+    },
+    {
+      "album": {
         "name": "El Mismo Saya, Vol. 1",
         "url": "https://open.spotify.com/album/1AXivIj9tVdduUOyuqoN6c"
       },
@@ -1785,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Las Cartas",
+        "url": "https://open.spotify.com/album/6SrpTgekrNk3JnKr0O5FuI"
+      },
+      "artists": [
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Las Cartas",
+      "url": "https://open.spotify.com/track/73BrH4q0vUdhT34uK9j98O"
+    },
+    {
+      "album": {
         "name": "Loco de Amor",
         "url": "https://open.spotify.com/album/1cDUDhA5aXeZ3W35BL6F57"
       },
@@ -1836,7 +1938,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 196950,
       "name": "Los Insuperables",
       "url": "https://open.spotify.com/track/2Fiu8HbYuIn5xBC2Xg4608"
@@ -2554,7 +2656,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 221538,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/2hWgNKgTDHC9iiyojYbgwS"

@@ -1,6 +1,6 @@
 {
   "description": "El tercer tiempo se juega con compas y cheves ",
-  "num_followers": 133719,
+  "num_followers": 134337,
   "original_name": "El Tercer Tiempo ",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-06-09 22:02:19",
       "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2026-06-09 22:02:19",
+      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2026-06-09 22:02:19",
-      "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2026-06-09 22:02:19",
@@ -847,30 +847,6 @@
     {
       "added_at": "2026-06-09 22:02:19",
       "album": {
-        "name": "San Charly",
-        "url": "https://open.spotify.com/album/31Bc4KiyvpxhlHxps82U52"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        },
-        {
-          "name": "Alan Arrieta",
-          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
-        }
-      ],
-      "duration_ms": 174770,
-      "name": "San Charly",
-      "url": "https://open.spotify.com/track/7ghPrLoF9gcOm4jQpwzzMz"
-    },
-    {
-      "added_at": "2026-06-09 22:02:19",
-      "album": {
         "name": "mix pa llorar en tu cuarto",
         "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
       },
@@ -883,6 +859,26 @@
       "duration_ms": 207400,
       "name": "Fuentes de Ortiz",
       "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
+    },
+    {
+      "added_at": "2026-06-09 22:02:19",
+      "album": {
+        "name": "No Capea",
+        "url": "https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194605,
+      "name": "No Capea",
+      "url": "https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8"
     },
     {
       "added_at": "2026-06-09 22:02:19",
@@ -943,26 +939,6 @@
     {
       "added_at": "2026-06-09 22:02:19",
       "album": {
-        "name": "No Capea",
-        "url": "https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194605,
-      "name": "No Capea",
-      "url": "https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8"
-    },
-    {
-      "added_at": "2026-06-09 22:02:19",
-      "album": {
         "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
@@ -975,6 +951,30 @@
       "duration_ms": 237080,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
+    },
+    {
+      "added_at": "2026-06-09 22:02:19",
+      "album": {
+        "name": "San Charly",
+        "url": "https://open.spotify.com/album/31Bc4KiyvpxhlHxps82U52"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        }
+      ],
+      "duration_ms": 174770,
+      "name": "San Charly",
+      "url": "https://open.spotify.com/track/7ghPrLoF9gcOm4jQpwzzMz"
     },
     {
       "added_at": "2026-06-09 22:02:19",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2026-06-09 22:02:19",
       "album": {
-        "name": "La Sinverg\u00fcenza",
-        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 198529,
-      "name": "La Sinverg\u00fcenza",
-      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
-    },
-    {
-      "added_at": "2026-06-09 22:02:19",
-      "album": {
         "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+    },
+    {
+      "added_at": "2026-06-09 22:02:19",
+      "album": {
+        "name": "La Sinverg\u00fcenza",
+        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 198529,
+      "name": "La Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
     },
     {
       "added_at": "2026-06-09 22:02:19",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-06-09 22:02:19",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
-    },
-    {
-      "added_at": "2026-06-09 22:02:19",
-      "album": {
         "name": "Todo De Ti",
         "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2026-06-09 22:02:19",
+      "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2026-06-09 22:02:19",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2026-06-09 22:02:19",
       "album": {
-        "name": "Balenciaga",
-        "url": "https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 153566,
-      "name": "Balenciaga",
-      "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
-    },
-    {
-      "added_at": "2026-06-09 22:02:19",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -1407,6 +1387,26 @@
     {
       "added_at": "2026-06-09 22:02:19",
       "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 153566,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
+    },
+    {
+      "added_at": "2026-06-09 22:02:19",
+      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -1419,6 +1419,26 @@
       "duration_ms": 156266,
       "name": "A La Antig\u00fcita",
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2026-06-09 22:02:19",
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "TOMMY & PAMELA",
+      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
     },
     {
       "added_at": "2026-06-09 22:02:19",
@@ -1447,26 +1467,6 @@
       "duration_ms": 266400,
       "name": "Chaparrita (Remix)",
       "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
-    },
-    {
-      "added_at": "2026-06-09 22:02:19",
-      "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "TOMMY & PAMELA",
-      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
     },
     {
       "added_at": "2026-06-09 22:02:19",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-06-09 22:02:19",
       "album": {
-        "name": "CRIPTONITA",
-        "url": "https://open.spotify.com/album/5bh0lNWBwi2XlOyW39jZg1"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 208521,
-      "name": "CRIPTONITA",
-      "url": "https://open.spotify.com/track/3sWuSJYhVQTIMkTfgwPgVR"
-    },
-    {
-      "added_at": "2026-06-09 22:02:19",
-      "album": {
         "name": "LATINA FOREVA",
         "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 159452,
       "name": "LATINA FOREVA",
       "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
+    },
+    {
+      "added_at": "2026-06-09 22:02:19",
+      "album": {
+        "name": "CRIPTONITA",
+        "url": "https://open.spotify.com/album/5bh0lNWBwi2XlOyW39jZg1"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 208521,
+      "name": "CRIPTONITA",
+      "url": "https://open.spotify.com/track/3sWuSJYhVQTIMkTfgwPgVR"
     },
     {
       "added_at": "2026-06-09 22:02:19",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-06-09 22:02:19",
       "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
-    },
-    {
-      "added_at": "2026-06-09 22:02:19",
-      "album": {
         "name": "PRC",
         "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 184066,
       "name": "PRC",
       "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+    },
+    {
+      "added_at": "2026-06-09 22:02:19",
+      "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2026-06-09 22:02:19",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2026-06-09 22:02:19",
       "album": {
+        "name": "RARI",
+        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 153394,
+      "name": "RARI",
+      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
+    },
+    {
+      "added_at": "2026-06-09 22:02:19",
+      "album": {
         "name": "Triple Lavada (feat. Victor Mendivil) [Remix]",
         "url": "https://open.spotify.com/album/7y4nm8LYH9XRYAbdMh5SWH"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 287679,
       "name": "Triple Lavada (feat. Victor Mendivil) - Remix",
       "url": "https://open.spotify.com/track/7DkOpEOBOwHg6VBj4blikS"
-    },
-    {
-      "added_at": "2026-06-09 22:02:19",
-      "album": {
-        "name": "RARI",
-        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 153394,
-      "name": "RARI",
-      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
     },
     {
       "added_at": "2026-06-09 22:02:19",

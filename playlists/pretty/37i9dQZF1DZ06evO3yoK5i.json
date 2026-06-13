@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 252356,
+  "num_followers": 252379,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAABEWTuOD/hGsYsklECap6NT",
+  "snapshot_id": "ain6gAAAAAChaeIwC4174/iG0LcC3aAk",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNA HISTORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Mi d\u00eda preferido",
-      "url": "https://open.spotify.com/track/0Bv0IcbYrAhhYcN8cftQQF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 250760,
       "name": "Solo ieri",
       "url": "https://open.spotify.com/track/5XnRtv5Iqyr7fNnM8j2Q7I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Mi d\u00eda preferido",
+      "url": "https://open.spotify.com/track/0Bv0IcbYrAhhYcN8cftQQF"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musica \u00e8",
-        "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 305906,
-      "name": "Solo con te",
-      "url": "https://open.spotify.com/track/5r9QUxvWA5sJPt3rPNyrzj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 221293,
       "name": "Canzone per lei",
       "url": "https://open.spotify.com/track/66uYnF8Z5f56fGNC0Qp55F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musica \u00e8",
+        "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 305906,
+      "name": "Solo con te",
+      "url": "https://open.spotify.com/track/5r9QUxvWA5sJPt3rPNyrzj"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alas Y Raices",
-        "url": "https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "Dimelo a Mi",
-      "url": "https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Ogni Senso",
         "url": "https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 265973,
       "name": "Amarti \u00e8 l'immenso per me",
       "url": "https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alas Y Raices",
+        "url": "https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "Dimelo a Mi",
+      "url": "https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b"
     },
     {
       "added_at": null,

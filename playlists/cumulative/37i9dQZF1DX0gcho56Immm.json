@@ -2021,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "Going about my day",
+        "url": "https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV"
+      },
+      "artists": [
+        {
+          "name": "Lola Hammerich",
+          "url": "https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357000,
+      "name": "Going about my day",
+      "url": "https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14"
+    },
+    {
+      "album": {
         "name": "Golden Brown Sugar",
         "url": "https://open.spotify.com/album/3GTsuGzSY59ekjlR2WDWWp"
       },

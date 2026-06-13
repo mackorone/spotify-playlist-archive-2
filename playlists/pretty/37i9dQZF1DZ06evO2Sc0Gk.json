@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21383,
+  "num_followers": 21387,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAA0NagjRAhWQLLeGcYDqr5i",
+  "snapshot_id": "ain6gAAAAACCSrUgTpFOWdvAwhN655QB",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 117389,
-      "name": "No. 1 Fan",
-      "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skin Tight",
         "url": "https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 248626,
       "name": "Skin Tight",
       "url": "https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 117389,
+      "name": "No. 1 Fan",
+      "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 172101,
-      "name": "Where Have You Been?",
-      "url": "https://open.spotify.com/track/6v3Hqzmo0iGbXneqU0kYz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
         "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 244000,
       "name": "Life Is Eazi",
       "url": "https://open.spotify.com/track/6GPyqTzuYf5bMS0kTRmsbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 172101,
+      "name": "Where Have You Been?",
+      "url": "https://open.spotify.com/track/6v3Hqzmo0iGbXneqU0kYz3"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 110882,
-      "name": "Baby I'm Still Jealous",
-      "url": "https://open.spotify.com/track/7CXSw6Gifu5xrPQwW3zxSp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anointing",
         "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 216546,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 110882,
+      "name": "Baby I'm Still Jealous",
+      "url": "https://open.spotify.com/track/7CXSw6Gifu5xrPQwW3zxSp"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 119290,
-      "name": "Saudi Arabia",
-      "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dpos D' Quarentena",
         "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 167875,
       "name": "Tellin Me Something",
       "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 119290,
+      "name": "Saudi Arabia",
+      "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
     },
     {
       "added_at": null,

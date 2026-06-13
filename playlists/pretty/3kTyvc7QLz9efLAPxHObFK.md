@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,104 songs - 6 day 15 hr 56 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,110 songs - 6 day 16 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3112,5 +3112,11 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3102 | [Bones](https://open.spotify.com/track/107IsU9zASrb0wkYHUpUJU) | [Disaster](https://open.spotify.com/artist/33WBeVngRhTAZbv1Z9Z5ov), [Madmize](https://open.spotify.com/artist/5teSCHoGlAzVoJC1SWwZPM) | [Bones](https://open.spotify.com/album/6shjKaDzj0laAULBN2O0bJ) | 2:54 |
 | 3103 | [Baby Ciao Ciao](https://open.spotify.com/track/7Dz4h8mLrzDaVru7LNRLr9) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n), [HET POMPSTATION](https://open.spotify.com/artist/6TQQsMsMKQBHjZrFv63d90) | [Baby Ciao Ciao](https://open.spotify.com/album/45Tdh2sjK8tNprgBYo10vt) | 2:26 |
 | 3104 | [FEEL ALIVE](https://open.spotify.com/track/1Og7nG4Qrs2ICfwer9Xcat) | [Harde Kwark](https://open.spotify.com/artist/5SjhdpP4tRVwxaEujxIml3) | [FEEL ALIVE](https://open.spotify.com/album/5cKkWm5Px6elDOY5T5R9gr) | 2:23 |
+| 3105 | [Kick Drum Talk](https://open.spotify.com/track/0Tm7qZ3buYsSNhSUs3Ps5j) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [Kick Drum Talk](https://open.spotify.com/album/3NG3uUe0sriEROH6zYosB1) | 3:47 |
+| 3106 | [RISE UP](https://open.spotify.com/track/3zOOKa1K2KCcohqxL7Dl2Y) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [RISE UP](https://open.spotify.com/album/45gWrm8HxwYuK5PsKajCnQ) | 3:39 |
+| 3107 | [FUCK THE SPEAKERZ UP \- DJ Snake Remix](https://open.spotify.com/track/0J4KYkp3D5Q7MxJ47MG20G) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [FUCK THE SPEAKERZ UP \(DJ Snake Remix\)](https://open.spotify.com/album/0S6cLR8RLkLiX9pm46ZQA8) | 3:08 |
+| 3108 | [Dancing In The Moonlight](https://open.spotify.com/track/4AXfDNJb3U35WuhXoAOoOa) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Dancing In The Moonlight](https://open.spotify.com/album/2RWjVCZNKRJKRNuOrgefhl) | 3:03 |
+| 3109 | [Flyin' High](https://open.spotify.com/track/7wczJxdljc2n6DSj5YGE9L) | [High Resistance](https://open.spotify.com/artist/2oqQBJb0AXOKJHOzOlEuWO) | [Flyin' High](https://open.spotify.com/album/3X68wMmfpVp1E879RLvjdT) | 2:23 |
+| 3110 | [BODY MOVE](https://open.spotify.com/track/6NqIFmNHR1sWzWGTmnYaLl) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [BODY MOVE](https://open.spotify.com/album/35DequSIKFZ3uL2YeepqvD) | 2:38 |
 
-Snapshot ID: `AAAMe9cTl8bD/2u5QnbudoBUVFq1hPBb`
+Snapshot ID: `AAAMgSV+AycKq17XFWcFGG1jsZ0NOYBS`

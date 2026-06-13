@@ -4,7 +4,7 @@
 
 > There's a new way to be wicked\. Listen to all the music from Descendants, including Descendants: The Rise of Red, streaming on Disney+.
 
-79 songs - 3 hr 49 min
+80 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Night Falls \- Dance Remix](https://open.spotify.com/track/1ekQgBQsVu98fJOatprjTa) | [Sofia Wylie](https://open.spotify.com/artist/0K0YUvOFH3TVILvIPBfeYN) | [Descendants Remix Dance Party](https://open.spotify.com/album/5FW26J4KeTl9pA37F6ya1R) | 3:20 | 2021-11-08 |  |
 | [Night Is Young \- From "Descendants: Wicked World"](https://open.spotify.com/track/0tA3r8h5RZp9xSPrZe8fcK) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 3:02 | 2021-11-08 |  |
 | [One Kiss](https://open.spotify.com/track/0v2gYvWbmabBYaTlOWi5fi) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 3 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy) | 2:29 | 2021-11-08 |  |
+| [Perfect Princess \- From "Descendants: Wicked Wonderland"](https://open.spotify.com/track/1zfX5uZ5PdBRuKjSWgKOvf) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Malia Baker](https://open.spotify.com/artist/4ALl3aeHX63UVQheaHFdPq), [Descendants – Cast](https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Perfect Princess \(From "Descendants: Wicked Wonderland"\)](https://open.spotify.com/album/0kJ4tUgUhvna6q8QT4w0Xp) | 3:43 | 2026-06-12 |  |
 | [Perfect Revenge](https://open.spotify.com/track/60UNcOiHERCGTo9qsssH2K) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s), [Anthony Pyatt](https://open.spotify.com/artist/4W3FJJnbYT9lxlTMlqaCSQ), [Joshua Colley](https://open.spotify.com/artist/4PDGt9weHkPqUdaBqrGzOD), [Mars](https://open.spotify.com/artist/4SYrMF1h0Mfasc0UPn6c6D), [Peder Lindell](https://open.spotify.com/artist/2D8DtrZa1KFyaGkxI1lgjJ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants: The Rise of Red \(Original Soundtrack\)](https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK) | 3:14 | 2024-07-12 |  |
 | [Poor Unfortunate Souls](https://open.spotify.com/track/0Mc0AUiEGcj3s84rxk5F6F) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI) | 2:43 | 2021-11-08 |  |
 | [Queen of Mean](https://open.spotify.com/track/4o05DiC0RQ9DNtGJGauwna) | [Sarah Jeffery](https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 3 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy) | 3:09 | 2021-11-08 |  |

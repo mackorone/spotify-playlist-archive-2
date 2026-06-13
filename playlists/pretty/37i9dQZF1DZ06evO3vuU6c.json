@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1438325,
+  "num_followers": 1438343,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAADTNkZrClmSART8aKEaOK0b",
+  "snapshot_id": "ain6gAAAAAAHGad9M+N4U3HQg1XgoPLe",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Give Up (From \"Lion\" Soundtrack)",
-        "url": "https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "Never Give Up (From \"Lion\" Soundtrack)",
-      "url": "https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -551,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drinking From The Sun",
-        "url": "https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK"
+        "name": "Never Give Up (From \"Lion\" Soundtrack)",
+        "url": "https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n"
       },
       "artists": [
-        {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
-        },
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 226413,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
+      "duration_ms": 221986,
+      "name": "Never Give Up (From \"Lion\" Soundtrack)",
+      "url": "https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH"
     },
     {
       "added_at": null,
@@ -583,6 +563,26 @@
       "duration_ms": 319200,
       "name": "Angel By The Wings",
       "url": "https://open.spotify.com/track/4OLVK3kktkdLPp8dDgoCtb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drinking From The Sun",
+        "url": "https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,515 songs - 10 day 1 hr 27 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,517 songs - 10 day 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4523,5 +4523,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4513 | [Invisible](https://open.spotify.com/track/0aP3LYmLNtqVo2snExQMlQ) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [Invisible](https://open.spotify.com/album/0hMHlldCdHj7tFHvGNC5yt) | 6:37 |
 | 4514 | [Hora Extra](https://open.spotify.com/track/4053HFfOXn9Do320YTig0A) | [CLT S/IA](https://open.spotify.com/artist/3tDyxGelWbCsYiOa6ygWGv), [Lia Liberty](https://open.spotify.com/artist/143AjJas8i1bJCHcwcI1Sm) | [CLT \- Correndo, Lutando, Tentando](https://open.spotify.com/album/5uBU3B5F3ES12hKCGSkVvW) | 4:14 |
 | 4515 | [Drop It](https://open.spotify.com/track/42PVBtF5l7oduR8hc1MV6u) | [Cobra queen](https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc) | [Drop It](https://open.spotify.com/album/6KPUGArw4CAk5S3iIw0ChK) | 3:33 |
+| 4516 | [Plasticity](https://open.spotify.com/track/4mF2Q8tzIODb7sGbKFdbOp) | [The Rift](https://open.spotify.com/artist/20XC0kNuHwNw2w2R0mDolP) | [Plasticity](https://open.spotify.com/album/6rEjOfBQkbwlkExPpHSisG) | 4:52 |
+| 4517 | [Più Vicini al Cielo](https://open.spotify.com/track/2BAhnHQKWm5vM3q1QTrLsl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Più Vicini al Cielo](https://open.spotify.com/album/2NSBRvmswoVucTOLRUFKzJ) | 3:21 |
 
-Snapshot ID: `AAAI3MHT9Mhq8JFh8/Uy7Py60IPmyoGd`
+Snapshot ID: `AAAI3p+Ecy7tmihPECU32dyirpZon5e0`

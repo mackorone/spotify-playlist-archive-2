@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Vince Staples",
+  "description": "Holdin' it down for the westside. Cover: Blxst",
   "name": "Westside",
   "tracks": [
     {
@@ -5815,6 +5815,24 @@
     },
     {
       "album": {
+        "name": "Can't Touch This",
+        "url": "https://open.spotify.com/album/1idiwjkcE8F2hyNaagjPNi"
+      },
+      "artists": [
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148235,
+      "name": "Can't Touch This",
+      "url": "https://open.spotify.com/track/04B7iuFOZSGr0zyMP3PFkQ"
+    },
+    {
+      "album": {
         "name": "Can't You See",
         "url": "https://open.spotify.com/album/0NSfYdKMZgMfWAKx54ukEB"
       },
@@ -7552,7 +7570,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 113100,
       "name": "Damu Ridaz",
       "url": "https://open.spotify.com/track/4zU02EL4GYgRqp76sCwe60"
@@ -8740,7 +8758,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 142287,
       "name": "Don't Play At All",
       "url": "https://open.spotify.com/track/2vXGZaNPMp1GXM38uahcmP"
@@ -9274,7 +9292,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 145536,
       "name": "dwight howard",
       "url": "https://open.spotify.com/track/7oCje3oZXjVdISGNQgMxyx"
@@ -10342,7 +10360,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 224125,
       "name": "Face The Flam\u00eb",
       "url": "https://open.spotify.com/track/5WTG3IGRkPoOj03HC4wT9v"
@@ -12072,7 +12090,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 167177,
       "name": "GANG BIZNESS feat paygotti",
       "url": "https://open.spotify.com/track/7MBxU6dqMPl4LAC7XacEkv"
@@ -14235,6 +14253,24 @@
     },
     {
       "album": {
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "He Can",
+      "url": "https://open.spotify.com/track/2bmRSJEuYwhdD85hIWdTDi"
+    },
+    {
+      "album": {
         "name": "Headtaps",
         "url": "https://open.spotify.com/album/1c2lTIf8jPyLzxOQUwPTiy"
       },
@@ -15235,6 +15271,24 @@
     },
     {
       "album": {
+        "name": "how i feel",
+        "url": "https://open.spotify.com/album/7s4niak4BtMPwCo7k879Vb"
+      },
+      "artists": [
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160029,
+      "name": "how i feel",
+      "url": "https://open.spotify.com/track/6X8yZ9sacRpHYJ4lDyxX1X"
+    },
+    {
+      "album": {
         "name": "I'll Always Come Find You",
         "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
       },
@@ -15308,6 +15362,24 @@
       "duration_ms": 207893,
       "name": "Humble'Em_PINK",
       "url": "https://open.spotify.com/track/542GAgyvyAmFEKgSsUAPUl"
+    },
+    {
+      "album": {
+        "name": "I Be On",
+        "url": "https://open.spotify.com/album/5AiOI0szfUnTCUvee6u80M"
+      },
+      "artists": [
+        {
+          "name": "DB.Boutabag",
+          "url": "https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136477,
+      "name": "I Be On",
+      "url": "https://open.spotify.com/track/7rfOt5bPFb7VIlS0BcV1gd"
     },
     {
       "album": {
@@ -16327,6 +16399,32 @@
     },
     {
       "album": {
+        "name": "INSECURE feat jid & ab-soul",
+        "url": "https://open.spotify.com/album/2YbwfP7vRvN67BsF1lQunG"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256406,
+      "name": "INSECURE feat jid & ab-soul",
+      "url": "https://open.spotify.com/track/6wRBNi9WAXrGrzyDw7JFP8"
+    },
+    {
+      "album": {
         "name": "Internet Shooter (Remix)",
         "url": "https://open.spotify.com/album/0SvfiyHkKuPSMu4t6o6BFM"
       },
@@ -16484,6 +16582,24 @@
       "duration_ms": 177946,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem"
+    },
+    {
+      "album": {
+        "name": "Westside Tequila, Vol.1",
+        "url": "https://open.spotify.com/album/4S3NrOpJbNojAfkgyon2GB"
+      },
+      "artists": [
+        {
+          "name": "EBK Young Joc",
+          "url": "https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169912,
+      "name": "Is You Rockin Wit Us",
+      "url": "https://open.spotify.com/track/3y1Zc7AOv9zxrufBRrFlLE"
     },
     {
       "album": {
@@ -16912,7 +17028,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 160922,
       "name": "Just My Type",
       "url": "https://open.spotify.com/track/2gNlXEKVALGg73k51Ord3x"
@@ -23602,7 +23718,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 156995,
       "name": "Paid To Vent",
       "url": "https://open.spotify.com/track/3ahAvocHo7vniCjQP10M1E"
@@ -23650,7 +23766,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 166400,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/7xePYybMXECF26BwsyPWMx"
@@ -25684,7 +25800,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 138533,
       "name": "Reckless (feat. Static Major)",
       "url": "https://open.spotify.com/track/10lkd5Ixflx3dfu3aWb3EX"
@@ -25990,6 +26106,24 @@
       "duration_ms": 158869,
       "name": "Ricky's",
       "url": "https://open.spotify.com/track/2sWQ6NVSI3QdDuIUeUbBOK"
+    },
+    {
+      "album": {
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162947,
+      "name": "Right Back",
+      "url": "https://open.spotify.com/track/6I7cqrhX3DNKQYIoRXgvjS"
     },
     {
       "album": {
@@ -26630,6 +26764,32 @@
       "duration_ms": 267335,
       "name": "S.A.D. (Shit Ain't Deep)",
       "url": "https://open.spotify.com/track/2tb1WG56z94mRBRh9DXH9u"
+    },
+    {
+      "album": {
+        "name": "Sacrifices (feat. James Fauntleroy)",
+        "url": "https://open.spotify.com/album/38l98Pl2npTFNM3tl9tife"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268331,
+      "name": "Sacrifices (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/3s75C1nQTml1i3zOyXaMGw"
     },
     {
       "album": {
@@ -30970,7 +31130,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 186532,
       "name": "THATS LIQUOR",
       "url": "https://open.spotify.com/track/5N2ik8bMAIb1kBAeJ9fdw0"
@@ -31068,7 +31228,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 132413,
       "name": "The Big Bad Wolf",
       "url": "https://open.spotify.com/track/6VFgu6AiIutvLazcRQTs14"
@@ -31368,6 +31528,24 @@
       "duration_ms": 178625,
       "name": "The Light",
       "url": "https://open.spotify.com/track/6lQQNfLEhyJM3SE7GQdhb6"
+    },
+    {
+      "album": {
+        "name": "The Machinist",
+        "url": "https://open.spotify.com/album/3G66rZa9aZA7x4L3iBTlHs"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "The Machinist",
+      "url": "https://open.spotify.com/track/5tjMNGX2VF3bZ3xYqin3em"
     },
     {
       "album": {

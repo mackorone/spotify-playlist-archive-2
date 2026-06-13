@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "FOR THE HOUSE (Deluxe)",
+        "url": "https://open.spotify.com/album/7uH1AOA3O44ywcL5w85JHu"
+      },
+      "artists": [
+        {
+          "name": "Bella Taylor Smith",
+          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298723,
+      "name": "AFFECTION",
+      "url": "https://open.spotify.com/track/7EGIld5V9caHT69pMyN9Mq"
+    },
+    {
+      "album": {
         "name": "Songs You Maybe Didn't Know I Wrote And Some You Maybe Did (Live At Sound Emporium)",
         "url": "https://open.spotify.com/album/0mKL2b3HiljzTByxwUeoQu"
       },
@@ -7056,6 +7074,32 @@
       "duration_ms": 232855,
       "name": "I Thank God",
       "url": "https://open.spotify.com/track/7GJeMVJbLzRgNuabsQ8RXt"
+    },
+    {
+      "album": {
+        "name": "I Was Dead, Now I'm Alive",
+        "url": "https://open.spotify.com/album/5M1zIktnqOYB8WYOj136tu"
+      },
+      "artists": [
+        {
+          "name": "Awakening MVMT",
+          "url": "https://open.spotify.com/artist/6PuUeoGERfFCcCOGzf7IN4"
+        },
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Abby Klinge",
+          "url": "https://open.spotify.com/artist/6Fcd2uYQsHq7JGap2HULij"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323548,
+      "name": "I Was Dead, Now I'm Alive",
+      "url": "https://open.spotify.com/track/4jCZcUBdbAckNeWUu2Ydn6"
     },
     {
       "album": {

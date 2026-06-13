@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 75339,
+  "num_followers": 75345,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAADLpnz/Jqlc1vXxQYKwzpCa",
+  "snapshot_id": "ain6gAAAAADPpuPjiBwsRUZ64qILjBw+",
   "tracks": [
     {
       "added_at": null,
@@ -331,38 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/4stLFHAPs5H3vnd9iU5l11"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 172903,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/4w2tZUs63YQeIFhKSCScJ7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 208893,
-      "name": "Rich",
-      "url": "https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Make You Say",
         "url": "https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2"
       },
@@ -383,6 +351,38 @@
       "duration_ms": 206000,
       "name": "Make You Say",
       "url": "https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/4stLFHAPs5H3vnd9iU5l11"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 172903,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/4w2tZUs63YQeIFhKSCScJ7"
     },
     {
       "added_at": null,
@@ -591,18 +591,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restoration: The Songs Of Elton John And Bernie Taupin",
-        "url": "https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP"
+        "name": "Live at The Gorge 2023",
+        "url": "https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz"
       },
       "artists": [
         {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 304026,
-      "name": "Mona Lisas And Mad Hatters",
-      "url": "https://open.spotify.com/track/3sZpfLcumDW0henSU6wbie"
+      "duration_ms": 240804,
+      "name": "Always On My Mind - Live at The Gorge 2023",
+      "url": "https://open.spotify.com/track/6RiuvtanF3taMviufzjsRN"
     },
     {
       "added_at": null,
@@ -655,34 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at The Gorge 2023",
-        "url": "https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz"
+        "name": "Restoration: The Songs Of Elton John And Bernie Taupin",
+        "url": "https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP"
       },
       "artists": [
         {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        },
-        {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 240804,
-      "name": "Always On My Mind - Live at The Gorge 2023",
-      "url": "https://open.spotify.com/track/6RiuvtanF3taMviufzjsRN"
+      "duration_ms": 304026,
+      "name": "Mona Lisas And Mad Hatters",
+      "url": "https://open.spotify.com/track/3sZpfLcumDW0henSU6wbie"
     },
     {
       "added_at": null,
@@ -703,58 +703,6 @@
       "duration_ms": 175161,
       "name": "42",
       "url": "https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black",
-        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "I'll Be The Moon",
-      "url": "https://open.spotify.com/track/0kIlh2nOwIxx4SgoDrRWDG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 345026,
-      "name": "Old Soul",
-      "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
     },
     {
       "added_at": null,
@@ -791,6 +739,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 345026,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "I'll Be The Moon",
+      "url": "https://open.spotify.com/track/0kIlh2nOwIxx4SgoDrRWDG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D R E A M S I C L E",
         "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
       },
@@ -807,6 +807,38 @@
       "duration_ms": 128160,
       "name": "cut! (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/4kRlL390PfYKVAirO1ZUhZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at The Gorge 2023",
+        "url": "https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 268956,
+      "name": "The Bees - Live at The Gorge 2023",
+      "url": "https://open.spotify.com/track/6rZWFVFSaIc15DFvxmmgfV"
     },
     {
       "added_at": null,
@@ -851,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beat the Devil",
+        "url": "https://open.spotify.com/album/5keXQjLFet3WAGjniLPG0a"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 133699,
+      "name": "Beat the Devil",
+      "url": "https://open.spotify.com/track/1ZqFKsQz5NAZBumTyVI3HI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live at The Gorge 2023",
         "url": "https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz"
       },
@@ -879,22 +927,6 @@
       "duration_ms": 231493,
       "name": "Radio Silence - Live at The Gorge 2023",
       "url": "https://open.spotify.com/track/6aU4jzI7eGWbIfMAGP2R7u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beat the Devil",
-        "url": "https://open.spotify.com/album/5keXQjLFet3WAGjniLPG0a"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 133699,
-      "name": "Beat the Devil",
-      "url": "https://open.spotify.com/track/1ZqFKsQz5NAZBumTyVI3HI"
     },
     {
       "added_at": null,
@@ -931,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D R E A M S I C L E (deluxe)",
+        "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 230558,
+      "name": "running",
+      "url": "https://open.spotify.com/track/3SQVdopQ6lfY55eBQtnZwG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live at The Gorge 2023",
         "url": "https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz"
       },
@@ -956,25 +1004,9 @@
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 268956,
-      "name": "The Bees - Live at The Gorge 2023",
-      "url": "https://open.spotify.com/track/6rZWFVFSaIc15DFvxmmgfV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D R E A M S I C L E (deluxe)",
-        "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 230558,
-      "name": "running",
-      "url": "https://open.spotify.com/track/3SQVdopQ6lfY55eBQtnZwG"
+      "duration_ms": 239187,
+      "name": "Mamas Don't Let Your Babies Grow Up To Be Cowboys - Live at The Gorge 2023",
+      "url": "https://open.spotify.com/track/3Wf1IsfFTBf2REetJXoaHo"
     },
     {
       "added_at": null,
@@ -1015,6 +1047,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 240061,
+      "name": "I Wish I Was",
+      "url": "https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live at The Gorge 2023",
         "url": "https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz"
       },
@@ -1040,25 +1088,9 @@
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 239187,
-      "name": "Mamas Don't Let Your Babies Grow Up To Be Cowboys - Live at The Gorge 2023",
-      "url": "https://open.spotify.com/track/3Wf1IsfFTBf2REetJXoaHo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 240061,
-      "name": "I Wish I Was",
-      "url": "https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv"
+      "duration_ms": 215139,
+      "name": "My Church - Live at The Gorge 2023",
+      "url": "https://open.spotify.com/track/0z642wDi5qmnMdWQ8dtwrU"
     },
     {
       "added_at": null,
@@ -1075,22 +1107,6 @@
       "duration_ms": 214187,
       "name": "Background Music",
       "url": "https://open.spotify.com/track/2QgLakrVOFqkpR2lmMQ6FT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dancing with Myself",
-        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 251309,
-      "name": "Dancing with Myself",
-      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
     }
   ],
   "unique_name": "This Is Maren Morris",

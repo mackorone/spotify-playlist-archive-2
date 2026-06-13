@@ -1,6 +1,6 @@
 {
   "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. ",
-  "num_followers": 1503910,
+  "num_followers": 1504013,
   "original_name": "Alternative 90s",
   "owner": {
     "name": "Spotify",
@@ -618,6 +618,10 @@
         {
           "name": "The Chemical Brothers",
           "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Noel Gallagher",
+          "url": "https://open.spotify.com/artist/6IRQd80VHepXiTXdmBzk6l"
         }
       ],
       "duration_ms": 236360,
@@ -967,22 +971,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "James: The Best Of",
-        "url": "https://open.spotify.com/album/379HctFmaWUiHTlfUjF5qN"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "Born Of Frustration",
-      "url": "https://open.spotify.com/track/7LbvpO06tNJzVpbbj96puU"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "Maxinquaye (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
       },
@@ -999,6 +987,22 @@
       "duration_ms": 270093,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "James: The Best Of",
+        "url": "https://open.spotify.com/album/379HctFmaWUiHTlfUjF5qN"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "Born Of Frustration",
+      "url": "https://open.spotify.com/track/7LbvpO06tNJzVpbbj96puU"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -1087,22 +1091,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "A Northern Soul (Remastered 2016 / Deluxe)",
-        "url": "https://open.spotify.com/album/4V8NUW8yUln846aiOZ8ANR"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "duration_ms": 326093,
-      "name": "History - Remastered 2016",
-      "url": "https://open.spotify.com/track/52p8lRbIrKYjzwDMXgBVFO"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "All Change",
         "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
       },
@@ -1115,6 +1103,22 @@
       "duration_ms": 217293,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "A Northern Soul (Remastered 2016 / Deluxe)",
+        "url": "https://open.spotify.com/album/4V8NUW8yUln846aiOZ8ANR"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "duration_ms": 326093,
+      "name": "History - Remastered 2016",
+      "url": "https://open.spotify.com/track/52p8lRbIrKYjzwDMXgBVFO"
     },
     {
       "added_at": "2024-03-18 22:29:53",

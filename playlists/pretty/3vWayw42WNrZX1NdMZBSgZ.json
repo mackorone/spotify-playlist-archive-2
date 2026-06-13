@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Mon Laferte",
-  "num_followers": 52223,
+  "num_followers": 52214,
   "original_name": "Pop Latin Hits 2026",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAU5/CHWmJAD24CL3z0B8vwUTZUByQs",
+  "snapshot_id": "AAAU6uyKVtWIOIv0fShUaH7K3U7tHAg8",
   "tracks": [
     {
       "added_at": "2026-06-09 00:07:42",
@@ -23,26 +23,6 @@
       "duration_ms": 249124,
       "name": "A Pesar De Ti y De Mi",
       "url": "https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ"
-    },
-    {
-      "added_at": "2026-05-29 13:59:07",
-      "album": {
-        "name": "Mi Gran Amor",
-        "url": "https://open.spotify.com/album/0O9T3rjNYjnrcsoOMXyE1Z"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 217775,
-      "name": "Mi Gran Amor",
-      "url": "https://open.spotify.com/track/6qxUTLRfdxcSy7mHnjNoj0"
     },
     {
       "added_at": "2026-05-15 15:08:16",
@@ -379,6 +359,26 @@
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
+    },
+    {
+      "added_at": "2026-05-29 13:59:07",
+      "album": {
+        "name": "Mi Gran Amor",
+        "url": "https://open.spotify.com/album/0O9T3rjNYjnrcsoOMXyE1Z"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 217775,
+      "name": "Mi Gran Amor",
+      "url": "https://open.spotify.com/track/6qxUTLRfdxcSy7mHnjNoj0"
     },
     {
       "added_at": "2025-11-21 12:14:40",
@@ -1103,6 +1103,26 @@
       "duration_ms": 202285,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
+    },
+    {
+      "added_at": "2026-06-12 13:48:05",
+      "album": {
+        "name": "sorry si soy GRRRIS",
+        "url": "https://open.spotify.com/album/5nypepH4BfZG3INIDyLqiE"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 204656,
+      "name": "Se me hace imposible olvidarte :(",
+      "url": "https://open.spotify.com/track/2nl9wkN8LfiQN6feen3HUX"
     },
     {
       "added_at": "2026-05-15 15:13:42",

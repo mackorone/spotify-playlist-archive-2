@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141305,
+  "num_followers": 141306,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -579,18 +579,22 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
+        "name": "Knock Knock 4",
+        "url": "https://open.spotify.com/album/3apJGrdwV3LmHRoLvXSn0f"
       },
       "artists": [
         {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
         }
       ],
-      "duration_ms": 186153,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
+      "duration_ms": 147116,
+      "name": "Niet Genoeg (feat. Idaly)",
+      "url": "https://open.spotify.com/track/5NNcU38EVLajKZbYydu6tR"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -615,22 +619,18 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Knock Knock 4",
-        "url": "https://open.spotify.com/album/3apJGrdwV3LmHRoLvXSn0f"
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
       },
       "artists": [
         {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
-        },
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 147116,
-      "name": "Niet Genoeg (feat. Idaly)",
-      "url": "https://open.spotify.com/track/5NNcU38EVLajKZbYydu6tR"
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Private Party",
-        "url": "https://open.spotify.com/album/0YhnjhkoSSVrXu0jphHtuI"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 151026,
-      "name": "Private Party",
-      "url": "https://open.spotify.com/track/53fXpvHCU7XZLs0mqCIDNR"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "Festival",
         "url": "https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 146778,
       "name": "Festival",
       "url": "https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "Private Party",
+        "url": "https://open.spotify.com/album/0YhnjhkoSSVrXu0jphHtuI"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 151026,
+      "name": "Private Party",
+      "url": "https://open.spotify.com/track/53fXpvHCU7XZLs0mqCIDNR"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 174433,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "Appel Mint Puur",
         "url": "https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 207430,
       "name": "Appel Mint Puur",
       "url": "https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 174433,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
+        "name": "Dansvloerkiller",
+        "url": "https://open.spotify.com/album/1pIFdaWneZM9kRMYDsYcxD"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Dansvloerkiller",
+      "url": "https://open.spotify.com/track/47tS35fPyJjIHLk95OBeHc"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
         "name": "Don Julio Daddy",
         "url": "https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 176518,
       "name": "Don Julio Daddy",
       "url": "https://open.spotify.com/track/29OyY2QfQnTP9KgdAmNviU"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
-        "name": "Dansvloerkiller",
-        "url": "https://open.spotify.com/album/1pIFdaWneZM9kRMYDsYcxD"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Dansvloerkiller",
-      "url": "https://open.spotify.com/track/47tS35fPyJjIHLk95OBeHc"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "I Need Your Love",
-        "url": "https://open.spotify.com/album/2OKk9baUzD5hvaQ9JxlEZ0"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 163760,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/2fnhMzGEEPKvFtExQ3FMMo"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "Strandje Aan De Maas",
         "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
       },
@@ -1399,6 +1379,26 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/2OKk9baUzD5hvaQ9JxlEZ0"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 163760,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/2fnhMzGEEPKvFtExQ3FMMo"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
         "name": "Stiekem \u201824",
         "url": "https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr"
       },
@@ -1415,42 +1415,6 @@
       "duration_ms": 188956,
       "name": "Stiekem \u201824",
       "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
-      },
-      "artists": [
-        {
-          "name": "Yssine",
-          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
-        }
-      ],
-      "duration_ms": 161901,
-      "name": "Wild West",
-      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/1JygDI95oCjVbs3Y3vZQwP"
-      },
-      "artists": [
-        {
-          "name": "Leyo",
-          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
-        },
-        {
-          "name": "Thierry Ganz",
-          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
-        }
-      ],
-      "duration_ms": 206988,
-      "name": "Know Your Name",
-      "url": "https://open.spotify.com/track/43gYU2gBjJRRJm2ncFDz6L"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1479,6 +1443,22 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
+      },
+      "artists": [
+        {
+          "name": "Yssine",
+          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
+        }
+      ],
+      "duration_ms": 161901,
+      "name": "Wild West",
+      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 195643,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/1JygDI95oCjVbs3Y3vZQwP"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
+        },
+        {
+          "name": "Thierry Ganz",
+          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
+        }
+      ],
+      "duration_ms": 206988,
+      "name": "Know Your Name",
+      "url": "https://open.spotify.com/track/43gYU2gBjJRRJm2ncFDz6L"
     },
     {
       "added_at": "2026-06-11 07:46:46",

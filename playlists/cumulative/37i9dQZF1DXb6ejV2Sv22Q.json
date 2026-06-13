@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Karlo e Ivana en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  El Pony Express en cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
     {
@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 179829,
       "name": "Cae La Lluvia",
       "url": "https://open.spotify.com/track/2zfG2C9oJYMkM088tOtdgY"
@@ -2534,7 +2534,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 203865,
       "name": "cu\u00eddame de mi",
       "url": "https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F"
@@ -3415,6 +3415,24 @@
     },
     {
       "album": {
+        "name": "En Descuento",
+        "url": "https://open.spotify.com/album/19cz2s7m2kUl9FVHQAdHJk"
+      },
+      "artists": [
+        {
+          "name": "Pater",
+          "url": "https://open.spotify.com/artist/2sbjEYfp8Zb7B3SjgremW4"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165473,
+      "name": "En Descuento",
+      "url": "https://open.spotify.com/track/4JW8tTL0ibGfZejhfdiZYW"
+    },
+    {
+      "album": {
         "name": "En El Pr\u00f3ximo Big Bang",
         "url": "https://open.spotify.com/album/7cQgKOmoMOPit6b0NPaR3I"
       },
@@ -3624,6 +3642,24 @@
       "duration_ms": 228115,
       "name": "Estaba Bn Loka - Remix",
       "url": "https://open.spotify.com/track/3sO64PBwsVodI6VCw1pE9l"
+    },
+    {
+      "album": {
+        "name": "No Sentimental.",
+        "url": "https://open.spotify.com/album/2HW6H7sQmFkDTumdZO8qEx"
+      },
+      "artists": [
+        {
+          "name": "Luis Picazo",
+          "url": "https://open.spotify.com/artist/3RYd20OmBChTr6yk6KXq9P"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223256,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/7IJdmzC4XZmFwSG1N24gkH"
     },
     {
       "album": {
@@ -6953,6 +6989,24 @@
     },
     {
       "album": {
+        "name": "Mu\u00e9rdeme",
+        "url": "https://open.spotify.com/album/45zzM6g5zOP2ixdLbwsB1l"
+      },
+      "artists": [
+        {
+          "name": "KALIFRN",
+          "url": "https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Mu\u00e9rdeme",
+      "url": "https://open.spotify.com/track/3lGIAuak7qwNY77Nq4weDw"
+    },
+    {
+      "album": {
         "name": "Mu\u00f1ekita (with El Alfa & JT)",
         "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
       },
@@ -7469,6 +7523,32 @@
     },
     {
       "album": {
+        "name": "No Te Olvides de M\u00ed",
+        "url": "https://open.spotify.com/album/3Lfu1hlyVRI77rgcnj8MuR"
+      },
+      "artists": [
+        {
+          "name": "ahorajuntos",
+          "url": "https://open.spotify.com/artist/1MIHRW7ZM3Wf70UmsSf9fq"
+        },
+        {
+          "name": "Fer Casillas",
+          "url": "https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R"
+        },
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211082,
+      "name": "No Te Olvides de M\u00ed",
+      "url": "https://open.spotify.com/track/6pqjjn9NOM3OXdW25lKZ4v"
+    },
+    {
+      "album": {
         "name": "no voy a estar ma\u00f1ana",
         "url": "https://open.spotify.com/album/1wFTNFddZkNd2XXceMvMbX"
       },
@@ -7586,7 +7666,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 162003,
       "name": "NOTYPE (feat. Angely2k) - Remix",
       "url": "https://open.spotify.com/track/5ER0JA9dl4vq8rj0zYsTNp"
@@ -8530,7 +8610,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 170204,
       "name": "puede ser que ma\u00f1ana",
       "url": "https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko"
@@ -10681,6 +10761,24 @@
     },
     {
       "album": {
+        "name": "Canciones de Amor y Otras Drogas, Vol. 1",
+        "url": "https://open.spotify.com/album/2vI8xIxbCw5kn8VgozVWG0"
+      },
+      "artists": [
+        {
+          "name": "El Pony Express",
+          "url": "https://open.spotify.com/artist/1frZmylftdNz50byKxhaFe"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164181,
+      "name": "Tormenta Tropical",
+      "url": "https://open.spotify.com/track/1trZxt1SZKrsRUEOd4uOlJ"
+    },
+    {
+      "album": {
         "name": "total[90]",
         "url": "https://open.spotify.com/album/3paVnyAgRV8OwDkdQEwMG4"
       },
@@ -10728,7 +10826,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 153913,
       "name": "tquiero",
       "url": "https://open.spotify.com/track/1qrVVl2xV3gBkMzNtEOIRW"

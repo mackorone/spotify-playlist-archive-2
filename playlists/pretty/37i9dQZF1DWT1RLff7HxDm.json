@@ -1,18 +1,18 @@
 {
   "description": "All live, all blues. Cover: Samantha Fish",
-  "num_followers": 204264,
+  "num_followers": 204285,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALT/F/1JGwUCOeBoYLF65rZ7r80J",
+  "snapshot_id": "AAAAAEvi9hSWVBTzfkdi5Yuc/xQd0BjI",
   "tracks": [
     {
-      "added_at": "2026-05-29 04:00:35",
+      "added_at": "2026-06-12 04:01:18",
       "album": {
         "name": "Paper Doll (Live)",
-        "url": "https://open.spotify.com/album/14PabwwXnFajy1sfXmTYey"
+        "url": "https://open.spotify.com/album/2zZRKH23VWu238v3IZQukT"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
         }
       ],
-      "duration_ms": 256358,
-      "name": "Paper Doll - Live",
-      "url": "https://open.spotify.com/track/3LHV2sJZCPAgmF2M5blexT"
+      "duration_ms": 189144,
+      "name": "Rusty Razor - Live",
+      "url": "https://open.spotify.com/track/6ZvL3WdA52MHVMVTmm1Qax"
     },
     {
       "added_at": "2026-05-01 04:00:45",
@@ -73,10 +73,10 @@
       "url": "https://open.spotify.com/track/2F2MZqad3d1iWGqKh38HMu"
     },
     {
-      "added_at": "2026-04-10 04:00:42",
+      "added_at": "2026-05-29 04:00:35",
       "album": {
-        "name": "Sweet Southern Sounds (Live)",
-        "url": "https://open.spotify.com/album/1iEo32X1EBmQRwIRdVwL4G"
+        "name": "Paper Doll (Live)",
+        "url": "https://open.spotify.com/album/14PabwwXnFajy1sfXmTYey"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
         }
       ],
-      "duration_ms": 306942,
-      "name": "Sweet Southern Sounds - Live",
-      "url": "https://open.spotify.com/track/2qAs9NIdn0SmIvJyHDXj1v"
+      "duration_ms": 256358,
+      "name": "Paper Doll - Live",
+      "url": "https://open.spotify.com/track/3LHV2sJZCPAgmF2M5blexT"
     },
     {
       "added_at": "2026-03-06 05:00:03",

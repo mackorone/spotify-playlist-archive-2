@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,008 songs - 2 day 0 hr 32 min
+1,008 songs - 2 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Early Momo](https://open.spotify.com/track/30vg5dgv2jtW6LCjgLnRSd) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Teslim: The Energy Still Lives in Me](https://open.spotify.com/album/08k2IfdgUGN3JycLGkREJI) | 3:14 | 2023-01-13 | 2024-02-09 |
 | [Ease Up](https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Ease Up](https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW) | 3:34 | 2023-01-20 | 2023-02-24 |
 | [Easy On Me](https://open.spotify.com/track/54Fc0M8PNb7yAI5ieyuUEk) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [OLORI \(The EP\)](https://open.spotify.com/album/01htjp8rIvwLsIKxZSidDq) | 2:40 | 2024-02-09 | 2024-03-22 |
+| [Eden](https://open.spotify.com/track/5SQh95sFBi36dAhTGUV5m6) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Love Is a Machinery](https://open.spotify.com/album/2K4Ewhj1JxNbT4WIBStAwC) | 2:43 | 2026-06-12 |  |
 | [Ego](https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Ego](https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z) | 2:36 | 2022-10-13 | 2023-02-24 |
 | [Ego Oyibo](https://open.spotify.com/track/0pqrP2OT0JMdHa5sPwpjr7) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Ego Oyibo](https://open.spotify.com/album/3eh4uQxSDuk3CWeXMEh3SB) | 3:03 | 2023-07-20 | 2023-10-13 |
 | [Ekuro](https://open.spotify.com/track/1G2UyjxD7HKZ70MMJ6c0jo) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Omo Baba Olowo: The Genesis](https://open.spotify.com/album/5XNb9GHjQa9DA2tWeQzJxU) | 3:27 | 2024-02-13 | 2024-02-16 |
@@ -927,7 +928,6 @@
 | [Touch Me](https://open.spotify.com/track/7HRcTN24O14B1l871d3tHi) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Touch Me](https://open.spotify.com/album/1yA8Hpl2gEc0WgLxuulnoN) | 2:25 | 2024-08-25 | 2024-12-22 |
 | [Toxic](https://open.spotify.com/track/4QetvMTZ4ZM85KbEdrCeGS) | [Anni3](https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2) | [Toxic](https://open.spotify.com/album/5JZtxFGjXve0P1avtTx9IT) | 2:28 | 2024-05-03 | 2024-05-13 |
 | [TOYL \(Time Of Your Life\)](https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [TOYL \(Time Of Your Life\)](https://open.spotify.com/album/1ad4lbzO6ZSQsTHMxNbvTN) | 3:45 | 2024-09-27 | 2024-10-26 |
-| [Track 2](https://open.spotify.com/track/5SQh95sFBi36dAhTGUV5m6) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Love Is a Machinery](https://open.spotify.com/album/2K4Ewhj1JxNbT4WIBStAwC) | 0:00 | 2026-06-12 |  |
 | [Tropicana Baby](https://open.spotify.com/track/0qF5AylL3g9ZVXbO3vgV8q) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Bully Season Vol.1](https://open.spotify.com/album/5IBQ5q44YO63IlQYgeD2HE) | 2:52 | 2023-02-25 | 2023-03-18 |
 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 | 2022-10-21 | 2023-03-25 |
 | [True Love](https://open.spotify.com/track/4oWY2bclWe9qMkQpNSbqiY) | [2Face Idibia](https://open.spotify.com/artist/1UbvV2jeLyNZtJnYSPL1pV) | [The Edge of Africa, Vol\. 11](https://open.spotify.com/album/0xH8lHD32ikBZvz2ZOvmnW) | 4:22 | 2024-02-13 | 2024-02-16 |

@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299233,
+  "num_followers": 299270,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 191133,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/28LN7UaMESB80svwZttTYF"
-    },
-    {
-      "added_at": "2026-05-28 22:01:10",
-      "album": {
         "name": "Blue Sky Mentality",
         "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 176985,
       "name": "Walk Walk Walk",
       "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"
+    },
+    {
+      "added_at": "2026-05-28 22:01:10",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/28LN7UaMESB80svwZttTYF"
     },
     {
       "added_at": "2026-05-28 22:01:10",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
+    },
+    {
+      "added_at": "2026-05-28 22:01:10",
+      "album": {
         "name": "Fucked Up",
         "url": "https://open.spotify.com/album/1N5sezYxUOFRCPibUnR9aQ"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 197706,
       "name": "Fucked Up",
       "url": "https://open.spotify.com/track/7pAvvhOV8QN34jMl4jnisj"
-    },
-    {
-      "added_at": "2026-05-28 22:01:10",
-      "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 279183,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
     },
     {
       "added_at": "2026-05-28 22:01:10",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
+        "name": "Can Feel It",
+        "url": "https://open.spotify.com/album/1e8S7SRezSUny3W9y0nLVn"
+      },
+      "artists": [
+        {
+          "name": "Marie Sarah",
+          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
+        }
+      ],
+      "duration_ms": 153520,
+      "name": "Can Feel It",
+      "url": "https://open.spotify.com/track/0rrlUV4F6oFbQDz02qqZVE"
+    },
+    {
+      "added_at": "2026-05-28 22:01:10",
+      "album": {
         "name": "Turn It On",
         "url": "https://open.spotify.com/album/0SdouN0Ag8ZNj9Kdtrw8NB"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 183360,
       "name": "Turn It On",
       "url": "https://open.spotify.com/track/4e6cFfzPcHNyvsrSyh86wH"
-    },
-    {
-      "added_at": "2026-05-28 22:01:10",
-      "album": {
-        "name": "Can Feel It",
-        "url": "https://open.spotify.com/album/1e8S7SRezSUny3W9y0nLVn"
-      },
-      "artists": [
-        {
-          "name": "Marie Sarah",
-          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
-        }
-      ],
-      "duration_ms": 153520,
-      "name": "Can Feel It",
-      "url": "https://open.spotify.com/track/0rrlUV4F6oFbQDz02qqZVE"
     },
     {
       "added_at": "2026-05-28 22:01:10",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 159078,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
-    },
-    {
-      "added_at": "2026-05-28 22:01:10",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 196360,
       "name": "Promises",
       "url": "https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5"
+    },
+    {
+      "added_at": "2026-05-28 22:01:10",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 159078,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
     },
     {
       "added_at": "2026-05-28 22:01:10",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
-        "name": "The House That Doesn\u2019t Exist",
-        "url": "https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx"
+        "name": "555",
+        "url": "https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k"
       },
       "artists": [
         {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
         }
       ],
-      "duration_ms": 143985,
-      "name": "The House That Doesn\u2019t Exist",
-      "url": "https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL"
+      "duration_ms": 198287,
+      "name": "555",
+      "url": "https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3"
     }
   ],
   "unique_name": "Feel Good",

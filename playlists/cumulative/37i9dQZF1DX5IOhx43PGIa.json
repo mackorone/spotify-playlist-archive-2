@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere. Cover: Karri",
+  "description": "Illuminating Asian artists everywhere. Cover: Emei",
   "name": "Jasmine",
   "tracks": [
     {
@@ -1190,6 +1190,24 @@
       "duration_ms": 149391,
       "name": "AMERICAN HORROR SHOW",
       "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
+    },
+    {
+      "album": {
+        "name": "The Veil Has Spoken",
+        "url": "https://open.spotify.com/album/0uCz0AF1WRNSfa2cTXOYa4"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hu",
+          "url": "https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137558,
+      "name": "An Unfinished Love Song",
+      "url": "https://open.spotify.com/track/0r1JWi0OLye16Qkxx67pmB"
     },
     {
       "album": {
@@ -8659,6 +8677,24 @@
     },
     {
       "album": {
+        "name": "Girl Who Cried Wolf",
+        "url": "https://open.spotify.com/album/0YPqIZEUYb7h7y7U0v3Bf4"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Jethwa",
+          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206819,
+      "name": "Girl Who Cried Wolf",
+      "url": "https://open.spotify.com/track/5HNGDqthELv0TBWhLXuIiv"
+    },
+    {
+      "album": {
         "name": "girls like me don't cry",
         "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
@@ -8910,7 +8946,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -11293,6 +11329,32 @@
     },
     {
       "album": {
+        "name": "ICONIC BY MISTAKE",
+        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177982,
+      "name": "ICONIC BY MISTAKE",
+      "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
+    },
+    {
+      "album": {
         "name": "ideologue",
         "url": "https://open.spotify.com/album/07Qbw2mxppkeN2PYbgXWVJ"
       },
@@ -12348,7 +12410,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 135294,
       "name": "Killer",
       "url": "https://open.spotify.com/track/5cPZylvrOnuRzmDo8uAtYR"
@@ -15111,6 +15173,24 @@
     },
     {
       "album": {
+        "name": "Miss Me More",
+        "url": "https://open.spotify.com/album/6sF3ifHeZhuzBvtle2lhct"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163917,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/1BT4DKm4C3FBJntfzxAdKI"
+    },
+    {
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
       },
@@ -16196,6 +16276,24 @@
       "duration_ms": 151858,
       "name": "No upstream",
       "url": "https://open.spotify.com/track/7m5X4TXfY2YpUAAOOdTlsY"
+    },
+    {
+      "album": {
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159929,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl"
     },
     {
       "album": {
@@ -18792,6 +18890,24 @@
       "duration_ms": 132826,
       "name": "sardines",
       "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
+    },
+    {
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/5xRVbofBO7Zm3obBFIbLsb"
+      },
+      "artists": [
+        {
+          "name": "Jordan Briton",
+          "url": "https://open.spotify.com/artist/67c96lphBmG6E0UxwUYSAb"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186248,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5A0BvZeDEiXvMAuHwmR1KX"
     },
     {
       "album": {
@@ -24698,7 +24814,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 163754,
       "name": "What's the Point!",
       "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
@@ -25198,7 +25314,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 211525,
       "name": "wo ai ni",
       "url": "https://open.spotify.com/track/15f7uyz8tXgasYAL7N6WWE"
@@ -25376,7 +25492,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 156000,
       "name": "Worth Your Summer",
       "url": "https://open.spotify.com/track/2XrzeucK3QId09Ct0rUBEt"

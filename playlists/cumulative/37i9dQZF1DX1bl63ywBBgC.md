@@ -4,7 +4,7 @@
 
 > Aquí le ponemos ritmo a las tareas del hogar.
 
-157 songs - 10 hr 57 min
+158 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 | 2021-03-19 |  |
 | [Es Mejor Así](https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Un Segundo En El Tiempo](https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw) | 3:57 | 2021-03-19 |  |
 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 | 2021-03-19 |  |
-| [Estoy Aquí](https://open.spotify.com/track/117PkfBYudl1lSoFFAvOM4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Grandes Exitos](https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C) | 3:53 | 2021-03-19 |  |
+| [Estoy Aquí](https://open.spotify.com/track/117PkfBYudl1lSoFFAvOM4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Grandes Exitos](https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C) | 3:53 | 2021-03-19 | 2026-06-13 |
 | [He Creído](https://open.spotify.com/track/0VOPCehPHWW9El3rHVsNmJ) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [20 Cumbias Andinas](https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R) | 4:24 | 2021-03-19 |  |
 | [Hoja En Blanco](https://open.spotify.com/track/4U8sOYJreJ7D00VlyvIk2v) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 5:08 | 2021-03-19 | 2022-07-29 |
 | [Humanos a Marte](https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [En Todo Estaré \(Deluxe Edition\)](https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2) | 3:45 | 2021-03-19 |  |
@@ -88,6 +88,7 @@
 | [Los Caminos De La Vida](https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 4:51 | 2021-03-19 |  |
 | [Luz de Día](https://open.spotify.com/track/34siP2xrwOEi3Ne1hI4aT2) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Luz de Día](https://open.spotify.com/album/1NwK0XOJbUGJZVBCkLLGM3) | 2:49 | 2026-05-06 |  |
 | [Mar de Emociones](https://open.spotify.com/track/5UcCxorHQtfYcU1SRhgGL4) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv), [Jorge Juan Mejía](https://open.spotify.com/artist/3Wq5e6xjFImj5d8QgP0RGN) | [Afrosound](https://open.spotify.com/album/5JbuV37huKu6rER4zsyniF) | 3:35 | 2021-03-19 | 2022-07-01 |
+| [mariposas en el estómago](https://open.spotify.com/track/5tn1VPSdS9fHnvX58JjBIT) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [El Laberinto del Coco](https://open.spotify.com/artist/2Xvxlkf21E6JeWIV0lAMMM) | [Marcriá](https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI) | 3:40 | 2026-06-12 |  |
 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 | 2021-03-19 |  |
 | [Me Tengo Que Ir](https://open.spotify.com/track/3AK05RIuu30jqJ40cfOxLD) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Me Tengo Que Ir](https://open.spotify.com/album/7mdskxE2Kr6O5DWiWw3RB2) | 4:40 | 2021-03-19 | 2022-07-29 |
 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:57 | 2021-03-19 | 2024-04-19 |

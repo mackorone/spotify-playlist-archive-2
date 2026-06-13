@@ -4007,6 +4007,28 @@
     },
     {
       "album": {
+        "name": "I Get High",
+        "url": "https://open.spotify.com/album/3Mb0vT7Y9tkVgD7NvPsf73"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        },
+        {
+          "name": "Hips & Lips",
+          "url": "https://open.spotify.com/artist/2xaQZsblWFPXPtlsNGgO3Q"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370909,
+      "name": "I Get High",
+      "url": "https://open.spotify.com/track/2caYWqOHqQlxhJzL4P2kpm"
+    },
+    {
+      "album": {
         "name": "I Like Ur Look",
         "url": "https://open.spotify.com/album/4fG8zkWcN388e0nM0wRaj2"
       },
@@ -5340,7 +5362,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 181961,
       "name": "MAKE IT OUT ALIVE - Dave Aud\u00e9 Version",
       "url": "https://open.spotify.com/track/6GPHx5qSNiPnmdtQcM6dcC"
@@ -6904,7 +6926,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 221404,
       "name": "Puta",
       "url": "https://open.spotify.com/track/5u7QDciPfgcpmoqRtp6zk6"
@@ -8244,6 +8266,24 @@
       "duration_ms": 234053,
       "name": "Strong",
       "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
+    },
+    {
+      "album": {
+        "name": "Full Tilt Carry Vol 3",
+        "url": "https://open.spotify.com/album/2yvZj9BmOD5g2WE7rtXBqZ"
+      },
+      "artists": [
+        {
+          "name": "Kim Anh",
+          "url": "https://open.spotify.com/artist/3CbmT7nMALRWJrYYyKLz6z"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340000,
+      "name": "Strung Up",
+      "url": "https://open.spotify.com/track/6BFL7H3b7BofaQt7U73pye"
     },
     {
       "album": {

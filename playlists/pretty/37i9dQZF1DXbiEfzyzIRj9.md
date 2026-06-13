@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Bonobo
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,093 likes - 117 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,092 likes - 117 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 22 | [sign](https://open.spotify.com/track/0mWPg9Zdp9lw6dNxb6F4Nf) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [sign](https://open.spotify.com/album/4HrkFgGt6ijBscyOrFrcjE) | 4:19 |
 | 23 | [That's All I Ask \- HAAi Remix / Edit](https://open.spotify.com/track/40qN3XgBBaq3AtD4a6ArJc) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [That's All I Ask \(HAAi Remix\)](https://open.spotify.com/album/1n539cmpnAuEu6v9WS0gxX) | 4:17 |
 | 24 | [Dreams](https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Free Your Mind](https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ) | 3:56 |
-| 25 | [It's So Nice](https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Withness](https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo) | 3:19 |
+| 25 | [It's So Nice \(ft\. 3DDY\)](https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Withness](https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo) | 3:19 |
 | 26 | [Time](https://open.spotify.com/track/4qixKUSesur0wGNbrS3Eum) | [Eden Burns](https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2) | [Time](https://open.spotify.com/album/575rdpQIIiJ43c8gr21TWE) | 5:32 |
 | 27 | [Trans Mission](https://open.spotify.com/track/6gZvvmKBFa3ehVlXpVDbdP) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [The Champein EP](https://open.spotify.com/album/1RUH8NB1FqDfFcXvsIqEOy) | 6:48 |
 | 28 | [Dream Theory](https://open.spotify.com/track/5bRnilCXJGhugGL1wYXCPZ) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX), [Kenneth Scott](https://open.spotify.com/artist/5gFzgOUyFkUSIN85bCNcQG) | [Dream Theory](https://open.spotify.com/album/3KuH44xeyxxwe13AaMUXzU) | 5:48 |

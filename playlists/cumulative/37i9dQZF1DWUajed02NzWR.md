@@ -4,7 +4,7 @@
 
 > The perfect classical tunes for pruning, planting, and putting your feet up.
 
-112 songs - 8 hr 51 min
+114 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,8 @@
 | [Gottes Zeit ist die allerbeste Zeit, Sonatina az "Actus tragicus"\-ból, BWV 106](https://open.spotify.com/track/4SvoO5lHeDUIVYDpPF5YAO) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Márta Kurtág](https://open.spotify.com/artist/1S7UUjCyXGTB8L2TYVIhcX), [György Kurtág](https://open.spotify.com/artist/1ygboTdafDwlY7TUYEj37E) | [Bach Eternal](https://open.spotify.com/album/3D7QDPIZdKkCbpS1msH6Mw) | 2:18 | 2020-09-04 | 2024-04-19 |
 | [Harpsichord Concerto No\. 5 in F Minor, BWV 1056: II\. Largo \- Arr\. for Solo Piano by Wilhelm Kempff](https://open.spotify.com/track/0q8tzHmi8QUtjY8iss0xmw) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Vadim Chaimovich](https://open.spotify.com/artist/5EfeuEtilmCk8J49T35rqb) | [Bach: Harpsichord Concerto No\. 5 in F Minor, BWV 1056: II\. Largo \(Arr\. for Solo Piano by Wilhelm Kempff\)](https://open.spotify.com/album/4L0W0mJYu2l7Hnud2ZSKgl) | 4:00 | 2025-12-22 |  |
 | [Händel: Tema con Variazioni](https://open.spotify.com/track/7qgQ7VV7DGXZ0CTUHeW6GC) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Unfolding Lines](https://open.spotify.com/album/6t5pw5WCiQlpmo0aIkejXk) | 5:07 | 2026-04-10 |  |
+| [III\. Menuetto\. Allegro vivace](https://open.spotify.com/track/1akC0W2XLdbpFtXGpBmU55) | [Anton Reicha](https://open.spotify.com/artist/2Cmy1GqPRS06VTKCIMBsLW), [Valentin Egel](https://open.spotify.com/artist/3E57oYobThdSysOGNtNYDq), [Munich Radio Orchestra](https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX) | [Anton Reicha: Menuetto \(from: Symphony in D major AJR I:17\)](https://open.spotify.com/album/6TlhVPSqvgPb9K1RsMBtjm) | 5:08 | 2026-06-12 |  |
+| [Innocence \- Nowhere Sessions](https://open.spotify.com/track/3y9YR3AVhOws7ayEXnsZJo) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Nowhere Sessions](https://open.spotify.com/album/1hpZNZUYan5cYkfgMq6GK4) | 2:31 | 2026-06-12 |  |
 | [Jesu, Joy of Man's Desiring, BWV 147/X \(Arr\. Figueroa for Chamber Orchestra\)](https://open.spotify.com/track/2XNpCyO5ER63K0yAjDlefv) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Orpheus Chamber Orchestra](https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX) | [Orpheus Chamber Orchestra \- Baroque Highlights](https://open.spotify.com/album/2e0FIWorD7mcJNs573R4Zq) | 3:28 | 2020-09-04 |  |
 | [Komorebi](https://open.spotify.com/track/5fVXEeKxmXJiP7cyvdGEz5) | [Kenji Takahashi](https://open.spotify.com/artist/7smqi5Xb8sKqalw1MNMa7D) | [Komorebi](https://open.spotify.com/album/3WXXGWcMiVsri5wgvsuEGT) | 1:48 | 2026-05-15 |  |
 | [Lakmé / Act 1: "Sous le dôme épais" \(Flower Duet\)](https://open.spotify.com/track/2YWM7FYspCbkM6xfo1v6gO) | [Léo Delibes](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg), [Barry Wordsworth](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) | [Vissi d'Arte \- Opera for Orchestra](https://open.spotify.com/album/2vjEH5WILR6M71LdCI3Umv) | 4:57 | 2020-09-04 | 2025-06-26 |

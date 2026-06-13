@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1980s.",
-  "num_followers": 1438053,
+  "num_followers": 1438439,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 166749,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 166749,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Speak and Spell (Deluxe)",
         "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 220893,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Tell It to My Heart (Expanded Edition)",
         "url": "https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 220880,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "Private Eyes",
+      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 302693,
-      "name": "Everything She Wants",
-      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Glass Houses",
         "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 177597,
       "name": "It's Still Rock and Roll to Me",
       "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 302693,
+      "name": "Everything She Wants",
+      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "True (Special Edition)",
+        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 290720,
+      "name": "Gold - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "Communards",
         "url": "https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 271066,
       "name": "Don't Leave Me This Way (with Sarah Jane Morris)",
       "url": "https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "True (Special Edition)",
-        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 290720,
-      "name": "Gold - 2003 Remaster",
-      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/0sCWw8lcMAohz65MsEDRGh"
-      },
-      "artists": [
-        {
-          "name": "Ottawan",
-          "url": "https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Hands Up - Single Version",
-      "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Another Step",
         "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 255220,
       "name": "You Keep Me Hangin On",
       "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/0sCWw8lcMAohz65MsEDRGh"
+      },
+      "artists": [
+        {
+          "name": "Ottawan",
+          "url": "https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Hands Up - Single Version",
+      "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Give Me the Night",
-      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "The Very Best of Billy Ocean",
         "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 284373,
       "name": "Get Outta My Dreams, Get Into My Car",
       "url": "https://open.spotify.com/track/2D4D3hiOf5U0W6SvJoCQph"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Give Me the Night",
+      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Kilroy Was Here",
-        "url": "https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6"
-      },
-      "artists": [
-        {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
-        }
-      ],
-      "duration_ms": 328706,
-      "name": "Mr. Roboto",
-      "url": "https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "The Very Best of Billy Ocean",
         "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 248000,
       "name": "When the Going Gets Tough, The Tough Get Going",
       "url": "https://open.spotify.com/track/5UU5FbITNm5OunvHQdsKME"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Kilroy Was Here",
+        "url": "https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "duration_ms": 328706,
+      "name": "Mr. Roboto",
+      "url": "https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9"
     },
     {
       "added_at": "2024-07-09 02:34:23",

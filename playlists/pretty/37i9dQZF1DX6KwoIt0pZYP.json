@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 260392,
+  "num_followers": 260414,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 169189,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 171019,
       "name": "ANGOSTURA",
       "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 169189,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "BINIverse",
-        "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
+        "name": "dishonesty",
+        "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
       },
       "artists": [
         {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        },
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
         }
       ],
-      "duration_ms": 204650,
-      "name": "Secrets (feat. eaJ)",
-      "url": "https://open.spotify.com/track/0hzFVTCkNnMgRrBiTgRuXC"
+      "duration_ms": 179216,
+      "name": "dishonesty",
+      "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1275,6 +1271,26 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
+        "name": "BINIverse",
+        "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        },
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 204650,
+      "name": "Secrets (feat. eaJ)",
+      "url": "https://open.spotify.com/track/0hzFVTCkNnMgRrBiTgRuXC"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
         "name": "my love my love my love",
         "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 158312,
       "name": "my love my love my love",
       "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
-        "name": "dishonesty",
-        "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 179216,
-      "name": "dishonesty",
-      "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "stay with the ocean, i'll find you",
-        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 199380,
-      "name": "i hope my cat loves me",
-      "url": "https://open.spotify.com/track/3t586kGSELrw77TZvHSvIp"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 241458,
       "name": "grateful",
       "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
+        "name": "stay with the ocean, i'll find you",
+        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 199380,
+      "name": "i hope my cat loves me",
+      "url": "https://open.spotify.com/track/3t586kGSELrw77TZvHSvIp"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
+        "name": "put it on me",
+        "url": "https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 131061,
+      "name": "put it on me",
+      "url": "https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
         "name": "terrible4u",
         "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 202000,
       "name": "don't matter",
       "url": "https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
-        "name": "put it on me",
-        "url": "https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz"
-      },
-      "artists": [
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 131061,
-      "name": "put it on me",
-      "url": "https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ"
     },
     {
       "added_at": "2026-03-19 19:58:12",

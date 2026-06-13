@@ -4,7 +4,7 @@
 
 > you up?
 
-580 songs - 1 day 8 hr 13 min
+581 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Die For You](https://open.spotify.com/track/2bk3kDxxFLHafZDuw06Fxs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [The Highlights](https://open.spotify.com/album/5L5evi5tJPh8WaEFAQp7Tp) | 4:20 | 2022-02-04 | 2023-01-05 |
 | [DIET](https://open.spotify.com/track/23Wt9MTOGVyaQGbssSPM59) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [DIET](https://open.spotify.com/album/2huGDWA6lBNEszl3AsYjhd) | 2:49 | 2026-05-01 |  |
 | [dirty laundry](https://open.spotify.com/track/0qgZvYWLIqDn0tXimF8gPa) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 2:45 | 2022-02-04 | 2022-07-13 |
-| [DIRTY LITTLE SECRET](https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [DIRTY LITTLE SECRET](https://open.spotify.com/album/5CvA57rVw7Mru6533m6cN6) | 3:34 | 2024-09-20 |  |
+| [DIRTY LITTLE SECRET](https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [DIRTY LITTLE SECRET](https://open.spotify.com/album/5CvA57rVw7Mru6533m6cN6) | 3:34 | 2024-09-20 | 2026-06-13 |
 | [Dirty Thoughts](https://open.spotify.com/track/2g1QPpTd4o8gTAapxEUPnz) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/5bQZRw0e4UHu3KrkGrVKto) | 2:09 | 2024-08-02 |  |
 | [Divide](https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:50 | 2022-10-28 | 2022-11-10 |
 | [DJ](https://open.spotify.com/track/29wNcK0QMe1MCASeDfdGpc) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:16 | 2022-05-12 | 2022-05-20 |
@@ -160,6 +160,7 @@
 | [EGO](https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [EGO](https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc) | 2:29 | 2023-04-21 | 2023-07-01 |
 | [Electric](https://open.spotify.com/track/5H3cgV4jCdqXPxDtI78dCI) | [MOON](https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp) | [Electric](https://open.spotify.com/album/7uOy96yZhShwnQS2q4jkFt) | 2:37 | 2022-07-11 | 2022-07-22 |
 | [Electric \(feat\. Khalid\)](https://open.spotify.com/track/2mj7x99sNUsVHPBRK51zlG) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 4:06 | 2022-03-25 | 2024-08-10 |
+| [ENAMORED](https://open.spotify.com/track/750ZE23CXtS9bAGteC0b1b) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [ENAMORED](https://open.spotify.com/album/262FBFFt5sPAzSc5kyXqqW) | 2:48 | 2026-06-12 |  |
 | [Euphoria \(feat\. Travis Scott & Kaash Paige\)](https://open.spotify.com/track/13QU8HBEBaSTZGq1HzQe9S) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 3:36 | 2022-03-25 | 2022-04-18 |
 | [ever fallen?](https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [ever fallen?](https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo) | 2:48 | 2022-12-16 | 2023-01-05 |
 | [Evergreen](https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 3:44 | 2022-02-11 | 2022-04-20 |

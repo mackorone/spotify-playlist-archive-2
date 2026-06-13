@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Taylor Swift
 
-282 songs - 15 hr 37 min
+283 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-16 |  |
 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 | 2025-03-21 |  |
 | [Drama in Doses](https://open.spotify.com/track/2LbcamjmZDFMOj6dNVaIwA) | [Sid Dorey](https://open.spotify.com/artist/6UcErG934cEadG4q16v37T) | [Drama in Doses](https://open.spotify.com/album/6FIHQn3metCrRMo2q8XpLc) | 2:48 | 2024-04-26 | 2025-05-18 |
-| [Elizabeth Taylor \- So Glamorous Cabaret Version](https://open.spotify.com/track/01ZJZOftkQ2kSeyG34C7g6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Elizabeth Taylor](https://open.spotify.com/album/71GTik4z9bbKKY2EmUvkDI) | 4:07 | 2026-03-31 |  |
+| [Elizabeth Taylor \- So Glamorous Cabaret Version](https://open.spotify.com/track/01ZJZOftkQ2kSeyG34C7g6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Elizabeth Taylor](https://open.spotify.com/album/71GTik4z9bbKKY2EmUvkDI) | 4:07 | 2026-03-31 | 2026-06-13 |
 | [Eventually](https://open.spotify.com/track/5nyxvBwlaBpXYLFD8rUQ9n) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Eventually](https://open.spotify.com/album/217C8pxwn8vx8wbOwZpR7v) | 2:59 | 2024-04-26 | 2024-10-26 |
 | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW) | 2:57 | 2024-08-09 |  |
 | [Evergreen \(You Didn't Deserve Me At All\) \- Stripped](https://open.spotify.com/track/4UXhhk1W153Vq5jgIaoc1r) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Evergreen \(You Didn't Deserve Me At All\) \[Stripped\]](https://open.spotify.com/album/5MnQYLOmQ0XYDX7Gw4i8n2) | 3:35 | 2022-12-02 |  |
@@ -129,6 +129,7 @@
 | [i don't wanna know \- acoustic](https://open.spotify.com/track/3dNEnD700nYq0TY0w6AJjs) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/6w5WeoBQSHL9FFmk6ZiYOG) | 3:06 | 2022-12-09 | 2023-04-01 |
 | [i don't wanna know \- acoustic](https://open.spotify.com/track/4Z5LVvODOf8KDgxa0DCwG1) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/0BYCTsWZVvFKhjtlzIYNxd) | 3:06 | 2022-07-15 | 2023-02-15 |
 | [I Guess](https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [I Guess](https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E) | 3:44 | 2024-03-15 |  |
+| [I Knew It, I Knew You \- Piano Version](https://open.spotify.com/track/6ZwVl8oPsraGB177TNEzaX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/4Ii9whWXI1O1H01ziECRaG) | 3:10 | 2026-06-12 |  |
 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 | 2023-10-20 |  |
 | [I Should Probably Go To Bed \- Acoustic](https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed \(Acoustic\)](https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc) | 2:57 | 2022-01-28 |  |
 | [I Wrote A Song \- Acoustic](https://open.spotify.com/track/00EC5CH3rcbU2eCgUBnyJS) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Wrote A Song \(Acoustic\)](https://open.spotify.com/album/2xnlu6naZOCUeiYQZW6ke3) | 3:11 | 2023-04-14 | 2023-06-08 |

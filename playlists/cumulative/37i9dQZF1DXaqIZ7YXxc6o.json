@@ -6549,6 +6549,24 @@
     },
     {
       "album": {
+        "name": "Badman!",
+        "url": "https://open.spotify.com/album/3afV0A5AbyGNGxBAH5ncki"
+      },
+      "artists": [
+        {
+          "name": "Hutcher",
+          "url": "https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180148,
+      "name": "Badman!",
+      "url": "https://open.spotify.com/track/1zgoGmTdJuk66pwaRdDDLD"
+    },
+    {
+      "album": {
         "name": "BAGS",
         "url": "https://open.spotify.com/album/0mDEL3p6hs3sTCg5oM8Nlz"
       },
@@ -81370,7 +81388,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 178227,
       "name": "We Can Move Closer",
       "url": "https://open.spotify.com/track/0LFgCcZk4iKzi1hjDQiidV"

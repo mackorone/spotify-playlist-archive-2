@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 138394,
+  "num_followers": 138401,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAADpIg3Z7d63RBIiwFSDY9/W",
+  "snapshot_id": "ain6gAAAAAD/i+R/Qz+8K7mzOxyQB3gj",
   "tracks": [
     {
       "added_at": null,
@@ -387,46 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Will Be Found (with Summer Walker) [From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 237814,
-      "name": "You Will Be Found (with Summer Walker) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 207294,
-      "name": "Unloyal (with Ari Lennox)",
-      "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
       },
@@ -451,6 +411,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 207294,
+      "name": "Unloyal (with Ari Lennox)",
+      "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Will Be Found (with Summer Walker) [From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 237814,
+      "name": "You Will Be Found (with Summer Walker) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -471,22 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
       "artists": [
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 198429,
-      "name": "Robbed You (with Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/4hpV1Xrh2HbyMovybPJdTS"
+      "duration_ms": 109413,
+      "name": "BP",
+      "url": "https://open.spotify.com/track/7B1c8GzIeRVfuU7pqgmBaR"
     },
     {
       "added_at": null,
@@ -507,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
       "artists": [
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 109413,
-      "name": "BP",
-      "url": "https://open.spotify.com/track/7B1c8GzIeRVfuU7pqgmBaR"
+      "duration_ms": 198429,
+      "name": "Robbed You (with Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/4hpV1Xrh2HbyMovybPJdTS"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spend It",
-        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
+      "duration_ms": 88186,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7aVKQJZwdqyEPkvKSyEuxj"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
       },
       "artists": [
         {
@@ -588,25 +588,9 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 88186,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/7aVKQJZwdqyEPkvKSyEuxj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "FMT",
-      "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
+      "duration_ms": 165000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 165403,
       "name": "Take Me Out This Club",
       "url": "https://open.spotify.com/track/6B9oDwfKNa4IzMAxadTPeQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 208972,
+      "name": "FMT",
+      "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
     },
     {
       "added_at": null,

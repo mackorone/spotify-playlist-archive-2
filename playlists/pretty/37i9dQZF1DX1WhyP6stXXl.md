@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Eileen Alister
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,205 likes - 90 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,331 likes - 90 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 6 | [Red Bottoms](https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Red Bottoms](https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy) | 3:06 |
 | 7 | [Cowgirl](https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowgirl](https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR) | 2:56 |
 | 8 | [glitter in the night](https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [glitter in the night](https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6) | 2:39 |
-| 9 | [Track 3](https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 0:00 |
+| 9 | [Faking Smiles](https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 3:04 |
 | 10 | [Without You](https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Without You](https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU) | 3:57 |
 | 11 | [Memories](https://open.spotify.com/track/4WbI5sUN8pcl1Pn5k6USXL) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ESKE](https://open.spotify.com/artist/1q9b1DlMkoD49YmakRWdST) | [Memories](https://open.spotify.com/album/7vwd0YHaGTBirYssevQbTr) | 2:10 |
 | 12 | [Noah](https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN) | 2:39 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 25 | [Love’s a Gun](https://open.spotify.com/track/7vqgKci5WfCnk0iUrNN9op) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Love’s a Gun](https://open.spotify.com/album/7tUhB6UQTg64z5xx34SdNy) | 2:59 |
 | 26 | [Black Prada Dress](https://open.spotify.com/track/3m4wYBGRO2a16f9tVh2XCH) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Black Prada Dress](https://open.spotify.com/album/0sTzl6hBpE0L7EAYjy5XXd) | 3:19 |
 | 27 | [Everything All The Time](https://open.spotify.com/track/1UxuD4EpJSGRJI38yJWO8M) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/4ILjIyaLf3qk7H2bibpVeT) | 3:59 |
-| 28 | [Over again](https://open.spotify.com/track/3SRbhPdFe0xiRMilDb5PCe) | [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE) | [Over again](https://open.spotify.com/album/6KPkzK2684tAy9Lgw0vTmX) | 3:04 |
+| 28 | [Over Again](https://open.spotify.com/track/3SRbhPdFe0xiRMilDb5PCe) | [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE) | [Over Again](https://open.spotify.com/album/6KPkzK2684tAy9Lgw0vTmX) | 3:04 |
 | 29 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 |
 | 30 | [yes girl](https://open.spotify.com/track/1qpC3dUJe07db5nsWly8qY) | [NESTA](https://open.spotify.com/artist/0Y71gPUneygie610ciqRFx) | [yes girl](https://open.spotify.com/album/1uxR2sSPSOzaFtI8zH45uu) | 2:44 |
 | 31 | [Sad Girls](https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Sad Girls](https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V) | 2:48 |

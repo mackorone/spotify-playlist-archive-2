@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 42590,
+  "num_followers": 42602,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAADM1cMaugDtGqhJpGrTWkIH",
+  "snapshot_id": "ain6gAAAAABO7rXmJYblFMXbl0VO+bZ1",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 389773,
-      "name": "Alone And I - Remastered 2007",
-      "url": "https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
       },
@@ -95,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lite Me Up",
-        "url": "https://open.spotify.com/album/5LsdfUYg3pWMyjoyAnS3fE"
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
       },
       "artists": [
         {
@@ -104,9 +88,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 272828,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/36nWEcjwsB7u3yKvLJpYhJ"
+      "duration_ms": 389773,
+      "name": "Alone And I - Remastered 2007",
+      "url": "https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o"
     },
     {
       "added_at": null,
@@ -131,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+        "name": "Lite Me Up",
+        "url": "https://open.spotify.com/album/5LsdfUYg3pWMyjoyAnS3fE"
       },
       "artists": [
         {
@@ -140,9 +124,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 417693,
-      "name": "Driftin' - Remastered 2007",
-      "url": "https://open.spotify.com/track/4Vyq3McGW0wr0sGLHYXys7"
+      "duration_ms": 272828,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/36nWEcjwsB7u3yKvLJpYhJ"
     },
     {
       "added_at": null,
@@ -159,6 +143,22 @@
       "duration_ms": 556133,
       "name": "Dolphin Dance - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1Ku5vu9Crncz8ixeT4Ijxc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 417693,
+      "name": "Driftin' - Remastered 2007",
+      "url": "https://open.spotify.com/track/4Vyq3McGW0wr0sGLHYXys7"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Speak Like A Child (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 470853,
+      "name": "Speak Like A Child",
+      "url": "https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Imagine Project",
         "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 448866,
       "name": "Don't give up",
       "url": "https://open.spotify.com/track/6tNodrmrsA206cZ0MTJNFN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Speak Like A Child (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 470853,
-      "name": "Speak Like A Child",
-      "url": "https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gershwin's World",
-        "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 356160,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/0L1S8G9IuCssiPQgr0uEBo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Man-Child",
         "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
       },
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Imagine Project",
-        "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
+        "name": "Gershwin's World",
+        "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
       },
       "artists": [
         {
@@ -564,25 +548,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 283706,
-      "name": "Tempo de Amor",
-      "url": "https://open.spotify.com/track/2sas1gLt9n02iHVKKlXj2s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 527266,
-      "name": "Little One - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1D8x6XmpSuobQopGIXRo8u"
+      "duration_ms": 356160,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/0L1S8G9IuCssiPQgr0uEBo"
     },
     {
       "added_at": null,
@@ -603,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 527266,
+      "name": "Little One - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1D8x6XmpSuobQopGIXRo8u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Man-Child",
         "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 449423,
       "name": "Hang Up Your Hang Ups",
       "url": "https://open.spotify.com/track/22G8rQDLJTeJzjQWXZErre"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Imagine Project",
+        "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 283706,
+      "name": "Tempo de Amor",
+      "url": "https://open.spotify.com/track/2sas1gLt9n02iHVKKlXj2s"
     },
     {
       "added_at": null,
@@ -667,26 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Possibilities",
-        "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
+        "name": "Fat Albert Rotunda",
+        "url": "https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE"
       },
       "artists": [
         {
           "name": "Herbie Hancock",
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        },
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
         }
       ],
-      "duration_ms": 293800,
-      "name": "Don't Explain (feat. Damien Rice & Lisa Hannigan)",
-      "url": "https://open.spotify.com/track/27lQw3vZM8nWPweH7nxnox"
+      "duration_ms": 389200,
+      "name": "Fat Albert Rotunda",
+      "url": "https://open.spotify.com/track/4K4S4huHJhTmbm0G8eF7rP"
     },
     {
       "added_at": null,
@@ -707,18 +699,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fat Albert Rotunda",
-        "url": "https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE"
+        "name": "Possibilities",
+        "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
       },
       "artists": [
         {
           "name": "Herbie Hancock",
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        },
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
         }
       ],
-      "duration_ms": 389200,
-      "name": "Fat Albert Rotunda",
-      "url": "https://open.spotify.com/track/4K4S4huHJhTmbm0G8eF7rP"
+      "duration_ms": 293800,
+      "name": "Don't Explain (feat. Damien Rice & Lisa Hannigan)",
+      "url": "https://open.spotify.com/track/27lQw3vZM8nWPweH7nxnox"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 326746,
-      "name": "Three Bags Full - Remastered 2007",
-      "url": "https://open.spotify.com/track/6Vo7ibExbzASwGuuJ2dLtl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 424560,
       "name": "Stars in Your Eyes",
       "url": "https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 326746,
+      "name": "Three Bags Full - Remastered 2007",
+      "url": "https://open.spotify.com/track/6Vo7ibExbzASwGuuJ2dLtl"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Point Of View (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 395466,
-      "name": "And What If I Don't Know",
-      "url": "https://open.spotify.com/track/27f0Yf20I6CITv7q1BwEr3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Funny Valentine (feat. Herbie Hancock)",
         "url": "https://open.spotify.com/album/12PDBrKzyuJal63TCuyd5Y"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 293493,
       "name": "My Funny Valentine (feat. Herbie Hancock)",
       "url": "https://open.spotify.com/track/2XlwQp17g1hnMGueyMY6pr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Point Of View (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 395466,
+      "name": "And What If I Don't Know",
+      "url": "https://open.spotify.com/track/27f0Yf20I6CITv7q1BwEr3"
     }
   ],
   "unique_name": "This Is Herbie Hancock",

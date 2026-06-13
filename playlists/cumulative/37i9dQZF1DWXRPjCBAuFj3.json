@@ -4907,6 +4907,24 @@
     },
     {
       "album": {
+        "name": "DAL TACCO",
+        "url": "https://open.spotify.com/album/1pkUZWvJtOTpsP5pP7gPBq"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147157,
+      "name": "DAL TACCO",
+      "url": "https://open.spotify.com/track/1zrEskyOLXViiYdZgggiUI"
+    },
+    {
+      "album": {
         "name": "German Engineering 1",
         "url": "https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The home of heavy music. Cover: Converge",
+  "description": "The sound of the underground. Cover: Bring Me The Horizon",
   "name": "The Pit",
   "tracks": [
     {
@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Black & Blue (2026 Repented)",
+        "url": "https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272967,
+      "name": "Black & Blue - 2026 Repented",
+      "url": "https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i"
+    },
+    {
+      "album": {
         "name": "DOGMA",
         "url": "https://open.spotify.com/album/6TPRyXWXQuVfgmOO14xRno"
       },
@@ -1388,17 +1406,17 @@
       },
       "artists": [
         {
-          "name": "Kid Bookie",
-          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
-        },
-        {
           "name": "Corey Taylor",
           "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        },
+        {
+          "name": "Kid Bookie",
+          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
         }
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 262687,
       "name": "BLAME (feat. Corey Taylor)",
       "url": "https://open.spotify.com/track/0m6wHoCD76aMVrKr5NWeHU"
@@ -1967,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Bruised",
+        "url": "https://open.spotify.com/album/0ofgnfS0nzFKnTWGEFy7Pz"
+      },
+      "artists": [
+        {
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "Bruised",
+      "url": "https://open.spotify.com/track/1EvYAo0qfXX8ug2tnzsRmO"
+    },
+    {
+      "album": {
         "name": "Bury Me With My Screams",
         "url": "https://open.spotify.com/album/3IU16QWqIlqFtcxcTophb1"
       },
@@ -1978,7 +2014,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 316634,
       "name": "Bury Me With My Screams",
       "url": "https://open.spotify.com/track/2ALh8nB3wKq490LiiZDx1Y"
@@ -2148,6 +2184,24 @@
       "duration_ms": 140915,
       "name": "Casualty",
       "url": "https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx"
+    },
+    {
+      "album": {
+        "name": "Catching Thunder",
+        "url": "https://open.spotify.com/album/7zA0tkdBfWWsFFhSAXB1JI"
+      },
+      "artists": [
+        {
+          "name": "Every Hell",
+          "url": "https://open.spotify.com/artist/34BJjZdVWcznR0qlook0nY"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199750,
+      "name": "Catching Thunder",
+      "url": "https://open.spotify.com/track/2kngeqDJZcXBvS61g1q8G2"
     },
     {
       "album": {
@@ -2944,7 +2998,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 253600,
       "name": "Dead Reckoning",
       "url": "https://open.spotify.com/track/5Foy9tRriwgkmFXurSX4Wu"
@@ -4009,6 +4063,28 @@
     },
     {
       "album": {
+        "name": "FADED FEATURES",
+        "url": "https://open.spotify.com/album/7dKmNqjfRgUXZ4kkNc81RX"
+      },
+      "artists": [
+        {
+          "name": "False Reality",
+          "url": "https://open.spotify.com/artist/2UzhploNTDxWtJkr5BE3cm"
+        },
+        {
+          "name": "Shooting Daggers",
+          "url": "https://open.spotify.com/artist/6Fc3dby8KyX9W4puxDLz6J"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164125,
+      "name": "EVERY GAZE (feat. Shooting Daggers)",
+      "url": "https://open.spotify.com/track/2GyT4UFnpM3wiWMfJo8FTU"
+    },
+    {
+      "album": {
         "name": "Everybody Knows",
         "url": "https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs"
       },
@@ -4020,7 +4096,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 199617,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
@@ -4284,7 +4360,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 186068,
       "name": "Fight Like A Girl (feat. K.Flay)",
       "url": "https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC"
@@ -4480,7 +4556,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 199068,
       "name": "FIX UR FACE (with Fred Durst)",
       "url": "https://open.spotify.com/track/0zcU626JV9kV61raS5sGu4"
@@ -4654,6 +4730,24 @@
       "duration_ms": 180585,
       "name": "Frenzy",
       "url": "https://open.spotify.com/track/5JngFjxkVIvlGSsHgUME7B"
+    },
+    {
+      "album": {
+        "name": "friends",
+        "url": "https://open.spotify.com/album/6VL4apqN4gqucDL8RvsVEs"
+      },
+      "artists": [
+        {
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222331,
+      "name": "friends",
+      "url": "https://open.spotify.com/track/5zjKlYgbGLwulwd3PSw6sH"
     },
     {
       "album": {
@@ -6332,7 +6426,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 255973,
       "name": "I, Emperor",
       "url": "https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM"
@@ -6678,7 +6772,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 241114,
       "name": "Iron Gate",
       "url": "https://open.spotify.com/track/3hxOUdnf1zeY2RoH7ozob5"
@@ -7087,6 +7181,24 @@
     },
     {
       "album": {
+        "name": "Last One Here",
+        "url": "https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l"
+      },
+      "artists": [
+        {
+          "name": "Rev3rent",
+          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200493,
+      "name": "Last One Here",
+      "url": "https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7"
+    },
+    {
+      "album": {
         "name": "Laugh It Off",
         "url": "https://open.spotify.com/album/2DW58f8XYdAaEu24mCLA85"
       },
@@ -7300,7 +7412,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 262195,
       "name": "Like A Woman Can",
       "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
@@ -7336,7 +7448,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 343329,
       "name": "Like the Fourth Wall",
       "url": "https://open.spotify.com/track/3jdc8cxAMhJrsgfeIUfdz3"
@@ -7836,7 +7948,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 249048,
       "name": "Making Love to Morgan Wallen",
       "url": "https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z"
@@ -9125,6 +9237,24 @@
     },
     {
       "album": {
+        "name": "Panic Blooms",
+        "url": "https://open.spotify.com/album/4GTR2d6HO4ym4x24ZT10mE"
+      },
+      "artists": [
+        {
+          "name": "Kill The Lights",
+          "url": "https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185520,
+      "name": "Panic Blooms",
+      "url": "https://open.spotify.com/track/3fDYGDLBRhKWssjCPP2RSR"
+    },
+    {
+      "album": {
         "name": "Pathetic Apathetic",
         "url": "https://open.spotify.com/album/6idGcmlGvvwJaE778FO6UX"
       },
@@ -9922,7 +10052,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 215455,
       "name": "Reward the Scars",
       "url": "https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec"
@@ -10668,7 +10798,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 303832,
       "name": "Silent Divide",
       "url": "https://open.spotify.com/track/6IoPjy0HGLlNpn7HuhG1kC"
@@ -12179,6 +12309,24 @@
     },
     {
       "album": {
+        "name": "The Sword That Never Bends",
+        "url": "https://open.spotify.com/album/1hw6fav6T9LRREMG3HRInR"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226796,
+      "name": "The Sword That Never Bends",
+      "url": "https://open.spotify.com/track/4Rxlwrod7V5fN1blhkhzq7"
+    },
+    {
+      "album": {
         "name": "The Void",
         "url": "https://open.spotify.com/album/2dMt1ndjlITJ38EiILWlNb"
       },
@@ -12738,7 +12886,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 150193,
       "name": "Tracksuit",
       "url": "https://open.spotify.com/track/0QXNgg60Ck504AdrheBAox"
@@ -12864,7 +13012,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 235800,
       "name": "Twilight Cabaret",
       "url": "https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK"
@@ -13268,7 +13416,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 229977,
       "name": "Wake Up Calling",
       "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"

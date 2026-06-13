@@ -1,12 +1,12 @@
 {
   "description": "screaming at lucy through the screen like she can hear us",
-  "num_followers": 826852,
+  "num_followers": 827268,
   "original_name": "crash out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMoDm5n+lJr0QSaZpBjMXegHHvZ1",
+  "snapshot_id": "AAAAAEF+Ud4WNBOMFaCQ8KWI61aWh/ro",
   "tracks": [
     {
       "added_at": "2026-02-12 20:32:44",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/17uCITlzfTYFubzabQunsn"
     },
     {
+      "added_at": "2026-06-12 14:58:29",
+      "album": {
+        "name": "Obsession (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/295aVJ1pcfkOGRMODulEYs"
+      },
+      "artists": [
+        {
+          "name": "Rock Burwell",
+          "url": "https://open.spotify.com/artist/54zR4Rx1DyqpoUgcNPyscl"
+        }
+      ],
+      "duration_ms": 124942,
+      "name": "Love is in the Air, Pt. 1",
+      "url": "https://open.spotify.com/track/77Aup1j7jR1zxWFQes0Kav"
+    },
+    {
       "added_at": "2026-02-12 20:32:44",
       "album": {
         "name": "SOUR",
@@ -167,22 +183,6 @@
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
-    },
-    {
-      "added_at": "2026-02-12 20:32:44",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
       "added_at": "2026-02-12 20:32:44",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-02-12 20:32:44",
       "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "added_at": "2026-02-12 20:32:44",
+      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 248807,
       "name": "White Ferrari",
       "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
-    },
-    {
-      "added_at": "2026-02-12 20:32:44",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 298899,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
     },
     {
       "added_at": "2026-02-12 20:32:44",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-02-12 20:32:44",
       "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 298899,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
+    },
+    {
+      "added_at": "2026-02-12 20:32:44",
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2026-02-12 20:32:44",
       "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284066,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
-    },
-    {
-      "added_at": "2026-02-12 20:32:44",
-      "album": {
         "name": "Addicted to Love [From \"Tell Me Lies (Season 3)\"]",
         "url": "https://open.spotify.com/album/5obq7XI9DoZRevqIACrjoe"
       },
@@ -499,6 +499,22 @@
       "duration_ms": 185381,
       "name": "Addicted to Love - From \"Tell Me Lies (Season 3)\"",
       "url": "https://open.spotify.com/track/5DeYkAfWWVLyD7vZbN2I7I"
+    },
+    {
+      "added_at": "2026-02-12 20:32:44",
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
       "added_at": "2026-02-12 20:32:44",
@@ -603,22 +619,6 @@
     {
       "added_at": "2026-02-12 20:32:44",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2026-02-12 20:32:44",
-      "album": {
         "name": "The Best Damn Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 216600,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
+    },
+    {
+      "added_at": "2026-02-12 20:32:44",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2026-02-12 20:32:44",
@@ -771,22 +787,6 @@
     {
       "added_at": "2026-02-12 20:32:44",
       "album": {
-        "name": "How to: Friend, Love, Freefall",
-        "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 152293,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
-    },
-    {
-      "added_at": "2026-02-12 20:32:44",
-      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "added_at": "2026-02-12 20:32:44",
+      "album": {
+        "name": "How to: Friend, Love, Freefall",
+        "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 152293,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
     },
     {
       "added_at": "2026-02-12 20:32:44",
@@ -835,22 +851,6 @@
     {
       "added_at": "2026-02-12 20:32:44",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 164284,
-      "name": "Von dutch",
-      "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
-    },
-    {
-      "added_at": "2026-02-12 20:32:44",
-      "album": {
         "name": "We Hug Now",
         "url": "https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 248821,
       "name": "We Hug Now",
       "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
+    },
+    {
+      "added_at": "2026-02-12 20:32:44",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 164284,
+      "name": "Von dutch",
+      "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
     },
     {
       "added_at": "2026-02-12 20:32:44",
@@ -1127,6 +1143,22 @@
     {
       "added_at": "2026-02-12 20:32:44",
       "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 248934,
+      "name": "Norman fucking Rockwell",
+      "url": "https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj"
+    },
+    {
+      "added_at": "2026-02-12 20:32:44",
+      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
       },
@@ -1143,22 +1175,6 @@
       "duration_ms": 319279,
       "name": "IFHY (feat. Pharrell)",
       "url": "https://open.spotify.com/track/0NjW4SKY3gbfl2orl1p8hr"
-    },
-    {
-      "added_at": "2026-02-12 20:32:44",
-      "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 248934,
-      "name": "Norman fucking Rockwell",
-      "url": "https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj"
     },
     {
       "added_at": "2026-02-12 20:32:44",
@@ -1227,22 +1243,6 @@
       "duration_ms": 188523,
       "name": "Thru Your Phone",
       "url": "https://open.spotify.com/track/74cVJfmK18rhWnscIpGXjt"
-    },
-    {
-      "added_at": "2026-02-12 20:32:44",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261228,
-      "name": "Down Bad",
-      "url": "https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ"
     }
   ],
   "unique_name": "crash out",

@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-379 songs - 1 day 1 hr 37 min
+380 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Keep Me High](https://open.spotify.com/track/5A5CbxniOX2JeZL72Qf0yd) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Keep Me High](https://open.spotify.com/album/78NmoLq9IRdXxIoKl5efia) | 2:27 | 2025-08-22 |  |
 | [Keeping Your Head Up](https://open.spotify.com/track/6xwNMLT4ekMXv4lXZFI63Q) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [Keeping Your Head Up](https://open.spotify.com/album/3DzsmSqBlAaZgIfstzQXA0) | 2:57 | 2024-11-01 | 2025-07-25 |
 | [Kick Bass In Your Face](https://open.spotify.com/track/50aNLhnlmcuJQ2iF7Bpd6q) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Kick Bass In Your Face](https://open.spotify.com/album/0MKm3xNFKPhhDGc16DoT3G) | 2:44 | 2024-09-27 |  |
+| [Kick Drum Talk](https://open.spotify.com/track/0Tm7qZ3buYsSNhSUs3Ps5j) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [Kick Drum Talk](https://open.spotify.com/album/3NG3uUe0sriEROH6zYosB1) | 3:47 | 2026-06-11 |  |
 | [Kick That Bass](https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Kick That Bass](https://open.spotify.com/album/0HaEz4vuqp0i1nFRiVXlQW) | 1:56 | 2025-02-20 | 2025-06-12 |
 | [Kindness Makes Me Horny](https://open.spotify.com/track/5w2PBowfXDbOpzLpLrB3kt) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Pako Marckx](https://open.spotify.com/artist/0zvWbsBwkNb1KEbXMoWyyh), [INNERGATED](https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9) | [Kindness Makes Me Horny](https://open.spotify.com/album/0WmVahBYsYEZftiokIV4EI) | 4:06 | 2025-06-20 |  |
 | [Kiss Girl](https://open.spotify.com/track/27rVhCihd0rscnZtoj7ZDO) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Kiss Girl](https://open.spotify.com/album/2KQ17ihgLn28kaKFhcN4az) | 3:08 | 2025-01-24 | 2025-03-30 |
@@ -220,7 +221,7 @@
 | [Looking 4 Balance](https://open.spotify.com/track/4hiSM6rPD1vv2c4Td9ShFS) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Various Artists \- EP 3](https://open.spotify.com/album/7Drk0jXeEUhOkK7ohIZlil) | 6:22 | 2024-04-09 | 2024-08-14 |
 | [Lose Control](https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [T A N E](https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn) | [Lose Control](https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn) | 2:31 | 2024-12-13 |  |
 | [Lose Their Shit](https://open.spotify.com/track/0L94j90lQBZ1VOyAcBnyXp) | [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV), [Dottychu](https://open.spotify.com/artist/6yjC123viK1Ap6KEdPRyIm) | [Lose Their Shit \(feat\. Dottychu\)](https://open.spotify.com/album/0oXbCQU7Ophzv84gWr1Cqs) | 3:15 | 2024-07-14 | 2024-11-01 |
-| [LSD](https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [LSD](https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo) | 2:36 | 2024-11-08 |  |
+| [LSD](https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [LSD](https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo) | 2:36 | 2024-11-08 | 2026-06-13 |
 | [LSD Loop \- Marie Vaunt Edit](https://open.spotify.com/track/6GvHSKjQ43EJRcAV3a4IlJ) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [LSD Loop \(Marie Vaunt Edit\)](https://open.spotify.com/album/1UzujATP7DcSu239QBgFMv) | 3:16 | 2026-02-03 | 2026-02-20 |
 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 | 2024-04-09 | 2024-06-19 |
 | [Magic Feet](https://open.spotify.com/track/7p7XX2brjwJG6DP4S34EPH) | [RobJanssen](https://open.spotify.com/artist/2FDAjR63mWtjnNpVo6ZB4X) | [Magic Feet](https://open.spotify.com/album/2KSFw3D1cGAITmkYQYFish) | 3:54 | 2024-07-14 | 2024-07-22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 32053,
+  "num_followers": 32067,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAB3F2Z03uAleUAWnQPBvYp9",
+  "snapshot_id": "ain6gAAAAABMzHx8ZbIn9ZY0f6t/qHT3",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 184960,
-      "name": "Te Adoro",
-      "url": "https://open.spotify.com/track/511wAcn5gp1EEEOOLqz1BE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "y no te miento",
         "url": "https://open.spotify.com/album/0P0v8BqncsRNHX18MhxoEE"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 183265,
       "name": "y no te miento",
       "url": "https://open.spotify.com/track/0w0xbENXslPfLz28ihe1fV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "Te Adoro",
+      "url": "https://open.spotify.com/track/511wAcn5gp1EEEOOLqz1BE"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Michoacano",
-        "url": "https://open.spotify.com/album/4H7g82BTMoAHZXCYYXQWNw"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 227808,
-      "name": "El Michoacano",
-      "url": "https://open.spotify.com/track/1ltZxfoujP63Bp8RYFhgd5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EXCENTRICON",
         "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 135223,
       "name": "JOHNNIE WALKER",
       "url": "https://open.spotify.com/track/3GUjBw5ded9CUXI664L3tl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Michoacano",
+        "url": "https://open.spotify.com/album/4H7g82BTMoAHZXCYYXQWNw"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 227808,
+      "name": "El Michoacano",
+      "url": "https://open.spotify.com/track/1ltZxfoujP63Bp8RYFhgd5"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "130",
+        "url": "https://open.spotify.com/album/5DDZQEz6e4efFscgAiocQe"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 183637,
+      "name": "130",
+      "url": "https://open.spotify.com/track/4xcXkTpCv3rcD3LVPnPdX4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Chakalosos",
         "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 131589,
       "name": "En El Este",
       "url": "https://open.spotify.com/track/3fHKkTEd8wulH6BtyjQ5DS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "130",
-        "url": "https://open.spotify.com/album/5DDZQEz6e4efFscgAiocQe"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 183637,
-      "name": "130",
-      "url": "https://open.spotify.com/track/4xcXkTpCv3rcD3LVPnPdX4"
     },
     {
       "added_at": null,

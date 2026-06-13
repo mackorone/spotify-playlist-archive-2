@@ -4,7 +4,7 @@
 
 > What track is BTS's Spotify\-exclusive music video coming out on the 19th? Vote now to guess!
 
-559 songs - 1 day 8 hr 44 min
+560 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Coffee](https://open.spotify.com/track/4eqHEzFsCCiGALC1MHbqnU) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [O!RUL8,2?](https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf) | 4:20 | 2022-05-27 |  |
 | [Come Back Home](https://open.spotify.com/track/5dEaQCUCJIQyJs5qVZYXOC) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Back Home](https://open.spotify.com/album/1G3HTdPaeUIL6l3mo3q8N8) | 4:04 | 2022-06-23 |  |
 | [Come back to me](https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Come back to me](https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW) | 6:28 | 2024-05-10 |  |
+| [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 | 2026-06-12 |  |
 | [Comment \- Boys With Luv](https://open.spotify.com/track/1hmpgx5cup3kFnfetvh2OI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Busan audio liner](https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4) | 0:12 | 2022-10-21 | 2022-11-08 |
 | [Comment \- Butter](https://open.spotify.com/track/3TOqRSqY2ACaeMZinLX69h) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Busan audio liner](https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4) | 0:13 | 2022-10-21 | 2022-11-08 |
 | [Comment \- FIRE](https://open.spotify.com/track/1aUsGMi5TFziMrw9fANxsO) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Busan audio liner](https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4) | 0:27 | 2022-10-21 | 2022-11-08 |

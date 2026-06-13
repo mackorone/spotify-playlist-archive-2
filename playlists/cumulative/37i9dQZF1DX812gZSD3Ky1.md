@@ -4,7 +4,7 @@
 
 > เพลงไวรัลและเพลงในกระแสตอนนี้\. ศิลปิน: PUN
 
-1,157 songs - 2 day 15 hr 23 min
+1,158 songs - 2 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Beautiful \(with Joji\)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Beautiful \(with Joji\)](https://open.spotify.com/album/2CpahiICjXexEynp7scGe4) | 3:35 | 2026-04-03 | 2026-04-17 |
 | [Beautiful That Way \- from The Last Showgirl Original Motion Picture Soundtrack](https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [The Last Showgirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G) | 2:20 | 2024-12-20 | 2024-12-28 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-06-28 | 2024-10-12 |
-| [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2026-04-16 |  |
+| [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2026-04-16 | 2026-06-13 |
 | [Because Of You](https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Because Of You](https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX) | 2:19 | 2024-11-15 | 2024-12-06 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-06 | 2026-05-22 |
 | [Bed on Fire](https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 3:33 | 2026-05-29 | 2026-06-05 |
@@ -177,6 +177,7 @@
 | [Cola](https://open.spotify.com/track/3B93NLC96iNgCwIW0Z4n7J) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Cola](https://open.spotify.com/album/209FIuRImmUnuLvTQ7PQAS) | 4:01 | 2026-03-27 | 2026-04-17 |
 | [colors](https://open.spotify.com/track/0pFpRWGfYcyls9K43l0rYo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [the asia tour: blooming season ep](https://open.spotify.com/album/5QPN39fT4yD5joAeXKWQam) | 2:01 | 2025-08-15 | 2026-03-21 |
 | [Combust](https://open.spotify.com/track/0ovcYLTYKuN7cwOdDtnUCP) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Combust](https://open.spotify.com/album/7MCaVHM9Od0utS2fcJdMh3) | 2:18 | 2025-07-17 | 2025-08-02 |
+| [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 | 2026-06-12 |  |
 | [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 | 2025-06-13 | 2025-06-28 |
 | [coming home](https://open.spotify.com/track/3wWpmvEzgKQm7IHmzYsrni) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:13 | 2024-07-26 | 2024-08-08 |
 | [Confess Your Love](https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q) | [Jiandro](https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re), [ola.wav](https://open.spotify.com/artist/1KJ9LBSLbpUb7rHAUdgV5I) | [Confess Your Love](https://open.spotify.com/album/2PtCXk5zuZ1vuMfWGfZyyO) | 2:11 | 2025-09-19 | 2025-09-27 |

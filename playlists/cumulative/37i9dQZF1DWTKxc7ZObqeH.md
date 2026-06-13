@@ -4,7 +4,7 @@
 
 > Relaxing jazz for warm summer days.
 
-374 songs - 23 hr 23 min
+375 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [I Get Along Without You Very Well](https://open.spotify.com/track/4ohcFjpEZL4puF3N1VLDBS) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [I Get Along Without You Very Well](https://open.spotify.com/album/5vuJzfoymsh3VnwGiN09X7) | 5:25 | 2024-03-22 | 2026-05-09 |
 | [I got it bad and that ain't good](https://open.spotify.com/track/5gC026nF0o0bLHu3naP6dk) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [I got it bad and that ain't good](https://open.spotify.com/album/5DkW3Oh7sHvOeTCkaen9ZW) | 3:16 | 2026-05-08 |  |
 | [I Loves You, Porgy](https://open.spotify.com/track/4vDwDzzYGKylT26VE53elE) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [I Loves You, Porgy](https://open.spotify.com/album/6qVDn32CzWKFsB9NdBkcJO) | 5:23 | 2022-05-17 | 2023-08-18 |
+| [I Miss Us](https://open.spotify.com/track/3mrCcMMnDwnMrZ4RKqbbLU) | [Dave Gordon Trio](https://open.spotify.com/artist/2vQ0rZrPfwWwg0ntFYJzfe) | [I Miss Us](https://open.spotify.com/album/4lYl3a6695pgIdJZRSDbuj) | 2:32 | 2026-06-12 |  |
 | [I Remember You](https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Desafinado](https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4) | 3:59 | 2022-02-16 | 2023-06-16 |
 | [I'll Know](https://open.spotify.com/track/6JOFJKSCpQNG3W3mECwSxd) | [Timothy Kay Band](https://open.spotify.com/artist/5cdHnLPT8wGWV0BDgQDw18) | [I Love Paris](https://open.spotify.com/album/7AtRYmWgcQzttwhYebfVZI) | 5:01 | 2022-02-16 | 2024-06-18 |
 | [I'm An Old Cowhand](https://open.spotify.com/track/1HBrYLUou9PbQDp91wVA9f) | [The Josh Rogers Band](https://open.spotify.com/artist/4zfTyFGyjLJd9vAbxqTuNg) | [Love Letters](https://open.spotify.com/album/6f6WVUeFK2hnBn7TfefGWJ) | 2:23 | 2022-02-16 | 2023-05-12 |

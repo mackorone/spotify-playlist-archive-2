@@ -6653,6 +6653,24 @@
     },
     {
       "album": {
+        "name": "le rose c'est hasbeen",
+        "url": "https://open.spotify.com/album/6ZW6GRq5HYL7z6P3o7b6t2"
+      },
+      "artists": [
+        {
+          "name": "Marie Jay",
+          "url": "https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172985,
+      "name": "oups",
+      "url": "https://open.spotify.com/track/5x0k4z6vLe43YybPUwENQz"
+    },
+    {
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/2D6qLRICcR35S5O2c6qCEp"
       },
@@ -9056,24 +9074,6 @@
       "duration_ms": 193626,
       "name": "Toxic Love",
       "url": "https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G"
-    },
-    {
-      "album": {
-        "name": "le rose c'est hasbeen",
-        "url": "https://open.spotify.com/album/6ZW6GRq5HYL7z6P3o7b6t2"
-      },
-      "artists": [
-        {
-          "name": "Marie Jay",
-          "url": "https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/5x0k4z6vLe43YybPUwENQz"
     },
     {
       "album": {

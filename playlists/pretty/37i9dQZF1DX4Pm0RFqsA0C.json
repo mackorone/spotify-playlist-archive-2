@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 10545,
+  "num_followers": 10555,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "BORN AGAIN",
-        "url": "https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 260832,
-      "name": "December",
-      "url": "https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "DJ. DOC 4th Album",
         "url": "https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 192888,
       "name": "Dance with DOC",
       "url": "https://open.spotify.com/track/46tMl2itZomvKj9TR7wzVz"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "BORN AGAIN",
+        "url": "https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 260832,
+      "name": "December",
+      "url": "https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Resurrection - The 3rd Album",
-        "url": "https://open.spotify.com/album/0yJ02boB03UsjObzoXJ5O4"
-      },
-      "artists": [
-        {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
-        }
-      ],
-      "duration_ms": 260626,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/0LW6E8rEAltX9Svci5M3Z1"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "The Life\u2026 DOC Blues",
         "url": "https://open.spotify.com/album/6DfZEdkXJNI0zcEI0beG9U"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 226160,
       "name": "Run to You",
       "url": "https://open.spotify.com/track/0oDZXPwDPlx3EDVqoyBdSx"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Resurrection - The 3rd Album",
+        "url": "https://open.spotify.com/album/0yJ02boB03UsjObzoXJ5O4"
+      },
+      "artists": [
+        {
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+        }
+      ],
+      "duration_ms": 260626,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/0LW6E8rEAltX9Svci5M3Z1"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\ub178.\ub77c.\ubcf4.\uc138.",
-        "url": "https://open.spotify.com/album/1tuwThsZGSZiqNxM03e4li"
-      },
-      "artists": [
-        {
-          "name": "JINUSEAN",
-          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "Phone Number",
-      "url": "https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "The Third Eye",
         "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 207693,
       "name": "Bruise",
       "url": "https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "\ub178.\ub77c.\ubcf4.\uc138.",
+        "url": "https://open.spotify.com/album/1tuwThsZGSZiqNxM03e4li"
+      },
+      "artists": [
+        {
+          "name": "JINUSEAN",
+          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Phone Number",
+      "url": "https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Roo`ra Best Album",
-        "url": "https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm"
-      },
-      "artists": [
-        {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
-        }
-      ],
-      "duration_ms": 243435,
-      "name": "\ube44\ubc00\uc740 \uc5c6\uc5b4",
-      "url": "https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Big 5",
         "url": "https://open.spotify.com/album/1jePHxR3ksfXevvOi2IiiN"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 244509,
       "name": "Sad Fate",
       "url": "https://open.spotify.com/track/3cgyPqSOEKIjW63CeOyJb1"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Roo`ra Best Album",
+        "url": "https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm"
+      },
+      "artists": [
+        {
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+        }
+      ],
+      "duration_ms": 243435,
+      "name": "\ube44\ubc00\uc740 \uc5c6\uc5b4",
+      "url": "https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "\uc774\uc720\uac19\uc9c0 \uc54a\uc740 \uc774\uc720",
+        "url": "https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO"
+      },
+      "artists": [
+        {
+          "name": "Park Mi Kyung",
+          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
+        }
+      ],
+      "duration_ms": 237963,
+      "name": "Unreasonable Reason",
+      "url": "https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "Baby V.O.X Special Album",
         "url": "https://open.spotify.com/album/501RC0O9MGg2BudvYd9xyh"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Are You Ready?",
-        "url": "https://open.spotify.com/album/64aonDMTzqzEKzemUi28J8"
-      },
-      "artists": [
-        {
-          "name": "Clon",
-          "url": "https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Kung Ddari Sha Bah Rah",
-      "url": "https://open.spotify.com/track/6m8XQobhzigTSyAoV6lhlE"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "\uc798\ubabb\ub41c \ub9cc\ub0a8",
         "url": "https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg"
       },
@@ -1499,6 +1499,38 @@
       "duration_ms": 270946,
       "name": "Friend? My Lover!",
       "url": "https://open.spotify.com/track/1XaP4DQKHAjuExKnzMq7Wg"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "The blue color",
+        "url": "https://open.spotify.com/album/3KPsP8XGvy68voyuMRPJzu"
+      },
+      "artists": [
+        {
+          "name": "\uc5b8\ud0c0\uc774\ud2c0",
+          "url": "https://open.spotify.com/artist/0nOqGVyoTpF3SUOIMZk3v2"
+        }
+      ],
+      "duration_ms": 226716,
+      "name": "\ub0a0\uac1c",
+      "url": "https://open.spotify.com/track/1taUg9YqPZjacpSnJTQJzQ"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Are You Ready?",
+        "url": "https://open.spotify.com/album/64aonDMTzqzEKzemUi28J8"
+      },
+      "artists": [
+        {
+          "name": "Clon",
+          "url": "https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Kung Ddari Sha Bah Rah",
+      "url": "https://open.spotify.com/track/6m8XQobhzigTSyAoV6lhlE"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1535,22 +1567,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\uc774\uc720\uac19\uc9c0 \uc54a\uc740 \uc774\uc720",
-        "url": "https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO"
-      },
-      "artists": [
-        {
-          "name": "Park Mi Kyung",
-          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
-        }
-      ],
-      "duration_ms": 237963,
-      "name": "Unreasonable Reason",
-      "url": "https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Baby V.O.X Special Album",
         "url": "https://open.spotify.com/album/501RC0O9MGg2BudvYd9xyh"
       },
@@ -1563,54 +1579,6 @@
       "duration_ms": 238004,
       "name": "\uc6b0\uc5f0",
       "url": "https://open.spotify.com/track/1TinopfhqVzeATjuo9aiqu"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "The blue color",
-        "url": "https://open.spotify.com/album/3KPsP8XGvy68voyuMRPJzu"
-      },
-      "artists": [
-        {
-          "name": "\uc5b8\ud0c0\uc774\ud2c0",
-          "url": "https://open.spotify.com/artist/0nOqGVyoTpF3SUOIMZk3v2"
-        }
-      ],
-      "duration_ms": 226716,
-      "name": "\ub0a0\uac1c",
-      "url": "https://open.spotify.com/track/1taUg9YqPZjacpSnJTQJzQ"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "\ud64d\uacbd\ubbfc Vol. 3",
-        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
-      },
-      "artists": [
-        {
-          "name": "Hong Kyung Min",
-          "url": "https://open.spotify.com/artist/0tpMp5rcHYVqktOutXVIlr"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Shaky Friendship",
-      "url": "https://open.spotify.com/track/3dG8hABjshvQOkCtcq9k7R"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "\uae40\uc6d0\uc900 5\uc9d1",
-        "url": "https://open.spotify.com/album/0thL0jrnIQEkjQpHhKaKb7"
-      },
-      "artists": [
-        {
-          "name": "Kim Won Jun",
-          "url": "https://open.spotify.com/artist/0XojSZQ9oNETM8AtA9kJe8"
-        }
-      ],
-      "duration_ms": 227477,
-      "name": "Show",
-      "url": "https://open.spotify.com/track/6zf8m2Dhve5yarIIqTG2l1"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1643,6 +1611,38 @@
       "duration_ms": 218173,
       "name": "\ub9d0\ud558\uc790\uba74",
       "url": "https://open.spotify.com/track/6GuXef6hLnruq7quS1TdBN"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "\ud64d\uacbd\ubbfc Vol. 3",
+        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
+      },
+      "artists": [
+        {
+          "name": "Hong Kyung Min",
+          "url": "https://open.spotify.com/artist/0tpMp5rcHYVqktOutXVIlr"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Shaky Friendship",
+      "url": "https://open.spotify.com/track/3dG8hABjshvQOkCtcq9k7R"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "\uae40\uc6d0\uc900 5\uc9d1",
+        "url": "https://open.spotify.com/album/0thL0jrnIQEkjQpHhKaKb7"
+      },
+      "artists": [
+        {
+          "name": "Kim Won Jun",
+          "url": "https://open.spotify.com/artist/0XojSZQ9oNETM8AtA9kJe8"
+        }
+      ],
+      "duration_ms": 227477,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/6zf8m2Dhve5yarIIqTG2l1"
     }
   ],
   "unique_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",

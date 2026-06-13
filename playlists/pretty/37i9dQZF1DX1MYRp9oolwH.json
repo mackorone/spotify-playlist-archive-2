@@ -1,13 +1,37 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : EPIC - First Semester",
-  "num_followers": 170791,
+  "num_followers": 170828,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOLYK6jhby9JQIrdPtth/BYEGCJV",
+  "snapshot_id": "AAAAAI5jwsL2Uadnz+xIu9Sl1PoyKdlH",
   "tracks": [
+    {
+      "added_at": "2026-06-12 05:17:36",
+      "album": {
+        "name": "Kotha Feeling (From \"Sing Geetham\")",
+        "url": "https://open.spotify.com/album/0tfctu4ncNtRalwUCKVXu6"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Sreemani",
+          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
+        },
+        {
+          "name": "Haripriya",
+          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
+        }
+      ],
+      "duration_ms": 115022,
+      "name": "Kotha Feeling (From \"Sing Geetham\")",
+      "url": "https://open.spotify.com/track/1EvuejpagL9iqjEcXwlFMT"
+    },
     {
       "added_at": "2026-05-26 11:56:11",
       "album": {

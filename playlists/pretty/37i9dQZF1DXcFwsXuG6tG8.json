@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 23483,
+  "num_followers": 23491,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "ROY",
-        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 191725,
-      "name": "Si En Tu Mente Estuve",
-      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
         "name": "BBY ROMEO",
         "url": "https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 198715,
       "name": "BBY ROMEO",
       "url": "https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 191725,
+      "name": "Si En Tu Mente Estuve",
+      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "el silencio",
-        "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 218217,
-      "name": "el silencio",
-      "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
+        "name": "el silencio",
+        "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 218217,
+      "name": "el silencio",
+      "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
+        "name": "Vida Nueva",
+        "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 169375,
+      "name": "Vida Nueva",
+      "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
         "name": "Ruido",
         "url": "https://open.spotify.com/album/1AapL341jT2FY5gQE2RMf5"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 162352,
       "name": "Ve y Diles",
       "url": "https://open.spotify.com/track/2yyQacjkbAQHD2D15QPTNU"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
-        "name": "Vida Nueva",
-        "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 169375,
-      "name": "Vida Nueva",
-      "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
     },
     {
       "added_at": "2026-04-10 04:03:03",

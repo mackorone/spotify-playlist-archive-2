@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs",
-  "num_followers": 1564475,
+  "num_followers": 1564378,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -863,30 +863,6 @@
     {
       "added_at": "2026-06-05 04:01:45",
       "album": {
-        "name": "Roofless Records For Drop Tops: Disc 2",
-        "url": "https://open.spotify.com/album/7A6d4aereF1Qy7HrtuohpW"
-      },
-      "artists": [
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        }
-      ],
-      "duration_ms": 166220,
-      "name": "The Coin Toss",
-      "url": "https://open.spotify.com/track/0vOSCwr3CqjRY4CMXOcNOT"
-    },
-    {
-      "added_at": "2026-06-05 04:01:45",
-      "album": {
         "name": "Spiral Staircases",
         "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"
       },
@@ -911,22 +887,26 @@
     {
       "added_at": "2026-06-05 04:01:45",
       "album": {
-        "name": "God Does Like Ugly",
-        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
+        "name": "Roofless Records For Drop Tops: Disc 2",
+        "url": "https://open.spotify.com/album/7A6d4aereF1Qy7HrtuohpW"
       },
       "artists": [
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
         },
         {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
         }
       ],
-      "duration_ms": 396806,
-      "name": "Of Blue (with Mereba)",
-      "url": "https://open.spotify.com/track/12Wh0aUUoJUFffOQdY1ouy"
+      "duration_ms": 166220,
+      "name": "The Coin Toss",
+      "url": "https://open.spotify.com/track/0vOSCwr3CqjRY4CMXOcNOT"
     },
     {
       "added_at": "2026-06-05 04:01:45",
@@ -947,6 +927,26 @@
       "duration_ms": 165643,
       "name": "EGYPT - Remix",
       "url": "https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL"
+    },
+    {
+      "added_at": "2026-06-05 04:01:45",
+      "album": {
+        "name": "God Does Like Ugly",
+        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 396806,
+      "name": "Of Blue (with Mereba)",
+      "url": "https://open.spotify.com/track/12Wh0aUUoJUFffOQdY1ouy"
     },
     {
       "added_at": "2026-06-05 04:01:45",
@@ -999,26 +999,18 @@
     {
       "added_at": "2026-06-05 04:01:45",
       "album": {
-        "name": "Roofless Records For Drop Tops: Disc 2",
-        "url": "https://open.spotify.com/album/7A6d4aereF1Qy7HrtuohpW"
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
       },
       "artists": [
         {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 177233,
-      "name": "Champagne Bottle Emotes",
-      "url": "https://open.spotify.com/track/0OmIXO0FSz590BPndtzeMD"
+      "duration_ms": 224639,
+      "name": "Die Together",
+      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
     }
   ],
   "unique_name": "Spilled Ink",

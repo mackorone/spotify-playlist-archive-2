@@ -4648,7 +4648,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 230933,
       "name": "My All",
       "url": "https://open.spotify.com/track/5CKh7fL3ta9OY8yLMp6IzR"
@@ -6992,6 +6992,28 @@
       "duration_ms": 197746,
       "name": "Why Don't You Touch Me",
       "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"
+    },
+    {
+      "album": {
+        "name": "Wine into Water (feat. Elton John)",
+        "url": "https://open.spotify.com/album/4heqPzOuHdsybXGc2NXOCS"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205987,
+      "name": "Wine into Water (feat. Elton John)",
+      "url": "https://open.spotify.com/track/5ptZgAvkeGAzQfUFzmmYgb"
     },
     {
       "album": {

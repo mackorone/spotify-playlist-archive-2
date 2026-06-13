@@ -4,7 +4,7 @@
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-137 songs - 7 hr 37 min
+140 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,8 @@
 | [Kleenex](https://open.spotify.com/track/33aFcnhTtspzVAsf6OQv8W) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/48qQ8g6uVnNPM5vTn2xCHI) | 1:55 | 2023-05-05 |  |
 | [Kleenex](https://open.spotify.com/track/7A7Dn1p4jGK7I0pp5zzPQ4) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/00DOgIzvYICsW0Wjc4UJGR) | 1:55 | 2023-02-08 | 2023-05-12 |
 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 | 2023-02-08 |  |
+| [last goodbye](https://open.spotify.com/track/2Vt1fjZnyQaz97PzEq1YKD) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [last goodbye](https://open.spotify.com/album/2b0AGO7zhU99K6RnmuzaXq) | 3:32 | 2026-06-12 |  |
+| [Layback](https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [TR.EE](https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA) | 3:11 | 2026-06-12 |  |
 | [Let off steam](https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [L&B](https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u) | 3:39 | 2024-02-20 |  |
 | [Lost in the City](https://open.spotify.com/track/5tZFCjvVbOuEKkeOi6GWZd) | [Ashmute](https://open.spotify.com/artist/7EYwKfQY1bAfLr2EUPOL0h) | [Lost in the City](https://open.spotify.com/album/4cN9wky9XIVZqrAKTASmTe) | 3:23 | 2023-02-08 |  |
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 | 2024-03-28 |
@@ -122,6 +124,7 @@
 | [Teal Dreams](https://open.spotify.com/track/6mMXWQDmEvFDUhaXXvMfCC) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Teal Dreams](https://open.spotify.com/album/2l6CZ13JhTOOljZEPBUdY2) | 3:14 | 2025-09-15 |  |
 | [This Night \(feat\. Blue.D, Jhnovr\)](https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [THIS NIGHT](https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi) | 3:35 | 2023-02-08 |  |
 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 | 2023-02-14 | 2024-08-11 |
+| [Too Good](https://open.spotify.com/track/3GP7l2bmXT6T2FNAzERwBr) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:37 | 2026-06-12 |  |
 | [Traveler](https://open.spotify.com/track/534RlWkfq6IGSFslE9kmXh) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/3IP8bM4YvYaGRfORvHesFJ) | 2:14 | 2024-08-05 |  |
 | [Traveler](https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:14 | 2023-02-08 | 2024-03-09 |
 | [True Love \(Feat\. 정선혜 of YOUNG POSSE\)](https://open.spotify.com/track/7gewLHcVTy1TrlwqSpuTJF) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS), [SUNHYE](https://open.spotify.com/artist/1GMDwTLcNK4jorH2ydnVl7) | [True Love](https://open.spotify.com/album/6uXVXoOAhESobnbQqoTpAI) | 2:15 | 2024-03-08 |  |

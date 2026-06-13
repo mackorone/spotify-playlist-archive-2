@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 487563,
+  "num_followers": 487586,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAAC0gMSgq6ZWWFcYWi3CXHoF",
+  "snapshot_id": "ain6gAAAAAD2+/xW6tx7sGrkFx0/C7WP",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 169026,
-      "name": "Shout It Out Loud",
-      "url": "https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N"
+      "duration_ms": 320226,
+      "name": "God Gave Rock 'N' Roll To You II",
+      "url": "https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 320226,
-      "name": "God Gave Rock 'N' Roll To You II",
-      "url": "https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu"
+      "duration_ms": 169026,
+      "name": "Shout It Out Loud",
+      "url": "https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hotter Than Hell (Remastered 1997)",
         "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 198466,
       "name": "Turn On The Night",
       "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock And Roll Over",
-        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW"
     },
     {
       "added_at": null,

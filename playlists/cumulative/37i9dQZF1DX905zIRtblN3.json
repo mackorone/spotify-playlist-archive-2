@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Luis R Conriquez, Net\u00f3n Vega.",
+  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Grupo Firme.",
   "name": "La Reina: \u00c9xitos de la M\u00fasica Mexicana",
   "tracks": [
     {
@@ -770,6 +770,24 @@
       "duration_ms": 199000,
       "name": "Aka Entre el Humo",
       "url": "https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy"
+    },
+    {
+      "album": {
+        "name": "Al Final Del D\u00eda",
+        "url": "https://open.spotify.com/album/3b7fTYz6N1uu9a2Ifj51ME"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208484,
+      "name": "Al Final Del D\u00eda",
+      "url": "https://open.spotify.com/track/6VBGFvNil2VJuZtYseebZ5"
     },
     {
       "album": {
@@ -11352,7 +11370,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 202029,
       "name": "Me Voy al Amanecer",
       "url": "https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT"
@@ -13820,7 +13838,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 179519,
       "name": "Para Qu\u00e9 Lastimarme",
       "url": "https://open.spotify.com/track/5CUz4qitZbIETYXy79bCc9"
@@ -16448,7 +16466,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 170500,
       "name": "Sera El Amor",
       "url": "https://open.spotify.com/track/4hi3efC8QrfV2PIJ8tE7sh"
@@ -20093,6 +20111,28 @@
     },
     {
       "album": {
+        "name": "Yo No Dije",
+        "url": "https://open.spotify.com/album/09jfMTx04SaHmWSB1Mq3Kl"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        },
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215243,
+      "name": "Yo No Dije",
+      "url": "https://open.spotify.com/track/20a8C1jCjzelRsDfJUstty"
+    },
+    {
+      "album": {
         "name": "YO NO TE OLVIDO",
         "url": "https://open.spotify.com/album/0KQ0bzSutmIK3yaVnGKsdP"
       },
@@ -20112,6 +20152,24 @@
       "duration_ms": 200707,
       "name": "YO NO TE OLVIDO",
       "url": "https://open.spotify.com/track/641M1deHD4Y0X74pt8csik"
+    },
+    {
+      "album": {
+        "name": "Yo Quisiera",
+        "url": "https://open.spotify.com/album/20uCRRslyc74g3Qga3M5oM"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159791,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/7dG0TMDhWaeHR61gxoXYCw"
     },
     {
       "album": {

@@ -3935,6 +3935,24 @@
     },
     {
       "album": {
+        "name": "Pana la ultimul suflu",
+        "url": "https://open.spotify.com/album/2wLwyvUpe56h74qMdVZf5s"
+      },
+      "artists": [
+        {
+          "name": "El Nino",
+          "url": "https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156539,
+      "name": "Pana la ultimul suflu",
+      "url": "https://open.spotify.com/track/22H8GavQmDeMXiXfoR4FZe"
+    },
+    {
+      "album": {
         "name": "Paradis 3",
         "url": "https://open.spotify.com/album/1eKPlByx8VvRjE47fCPexj"
       },
@@ -4892,7 +4910,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 173437,
       "name": "Sper Ca Esti Bine",
       "url": "https://open.spotify.com/track/0vgn8QtF7e4ljh7kzLhKmt"
@@ -4958,6 +4976,24 @@
       "duration_ms": 208211,
       "name": "Stiu ca ai vrea",
       "url": "https://open.spotify.com/track/5uwyjLLf5mHOgFSsxIrxx5"
+    },
+    {
+      "album": {
+        "name": "Storage Full",
+        "url": "https://open.spotify.com/album/0E8ntlda6u2zEtUaZ0EcYk"
+      },
+      "artists": [
+        {
+          "name": "Vlad Flueraru",
+          "url": "https://open.spotify.com/artist/5cbUrKTtbvXas4lUvnqi4n"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145919,
+      "name": "Storage Full",
+      "url": "https://open.spotify.com/track/0MBXFQ3RXIdWqP6t6Mijrb"
     },
     {
       "album": {
@@ -5706,7 +5742,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 166153,
       "name": "Vise La Plic",
       "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"

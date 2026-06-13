@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Charli xcx.",
-  "num_followers": 26723,
+  "num_followers": 26726,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -687,26 +687,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Kingmaker (with Julia Michaels)",
-        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "Kingmaker (with Julia Michaels)",
-      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Kaikki viel edess\u00e4",
         "url": "https://open.spotify.com/album/0jvTvhcz36GobILqRNO1zD"
       },
@@ -747,6 +727,26 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "Kingmaker (with Julia Michaels)",
+        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "Kingmaker (with Julia Michaels)",
+      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "Mansion Music",
         "url": "https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py"
       },
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Ja Eller Nej",
-        "url": "https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS"
-      },
-      "artists": [
-        {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
-        },
-        {
-          "name": "Basshunter",
-          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
-        }
-      ],
-      "duration_ms": 152691,
-      "name": "Ja Eller Nej",
-      "url": "https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Make up your mind",
         "url": "https://open.spotify.com/album/6h6BGEGN2NDYt8Sk8UEsEj"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 188000,
       "name": "Make up your mind",
       "url": "https://open.spotify.com/track/0wcfyMYSuukf3dZAbehTmc"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Ja Eller Nej",
+        "url": "https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "Basshunter",
+          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
+        }
+      ],
+      "duration_ms": 152691,
+      "name": "Ja Eller Nej",
+      "url": "https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "Kuudes aisti",
+        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "duration_ms": 193965,
+      "name": "Kuudes aisti",
+      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "No Haav No Love",
         "url": "https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 277174,
       "name": "Monsteri (feat. Rajaton)",
       "url": "https://open.spotify.com/track/0l9pXT5uurCBaUBjiCSwnr"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "Kuudes aisti",
-        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
-      },
-      "artists": [
-        {
-          "name": "BESS",
-          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
-        }
-      ],
-      "duration_ms": 193965,
-      "name": "Kuudes aisti",
-      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "\u00c4l\u00e4 sano sua rumaksi",
+        "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        }
+      ],
+      "duration_ms": 153135,
+      "name": "\u00c4l\u00e4 sano sua rumaksi",
+      "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "Syd\u00e4n (feat. Alina Burnet)",
         "url": "https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 225061,
       "name": "Syd\u00e4n (feat. Alina Burnet)",
       "url": "https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "\u00c4l\u00e4 sano sua rumaksi",
-        "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
-      },
-      "artists": [
-        {
-          "name": "ELLIMEI",
-          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
-        }
-      ],
-      "duration_ms": 153135,
-      "name": "\u00c4l\u00e4 sano sua rumaksi",
-      "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "El\u00e4m\u00e4 jatkuu",
-        "url": "https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u"
-      },
-      "artists": [
-        {
-          "name": "Roosa",
-          "url": "https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "El\u00e4m\u00e4 jatkuu",
-      "url": "https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Bier over hier",
         "url": "https://open.spotify.com/album/7m4dugOqXzutm1YMtWBHSl"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 179122,
       "name": "Bier over hier",
       "url": "https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "El\u00e4m\u00e4 jatkuu",
+        "url": "https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u"
+      },
+      "artists": [
+        {
+          "name": "Roosa",
+          "url": "https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "El\u00e4m\u00e4 jatkuu",
+      "url": "https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt"
     },
     {
       "added_at": "2026-05-08 04:10:15",

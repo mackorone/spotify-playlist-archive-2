@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,550 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,555 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 12 | [Yo Viviré \- I Will Survive](https://open.spotify.com/track/2btnzgT8ARxKjcdOTdqj37) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Regalo Del Alma](https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q) | 4:31 |
 | 13 | [Quizás, Quizás, Quizás \- Remastered 2025](https://open.spotify.com/track/5EWAjQSjo8SZ2fbVKfCrcu) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [The Queen Of Salsa \(Remastered 2025\)](https://open.spotify.com/album/0dgFgOU1v9fqUZBIEcse7g) | 2:29 |
 | 14 | [Dile Que Por Mí No Tema](https://open.spotify.com/track/2nti8TuVhtp3Gk53WUnnM4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 2:33 |
-| 15 | [Azúcar Negra](https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Vida Es Un Carnaval \(Baile Total\)](https://open.spotify.com/album/2wJymzOZZUBrE0cKzQsvgI) | 3:07 |
-| 16 | [Celia's Oye Como Va \(Oye Como Va\)](https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh) | 4:17 |
-| 17 | [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 |
-| 18 | [Guantanamera](https://open.spotify.com/track/6bNZH4O72jD4L5hga6DwHj) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bravo](https://open.spotify.com/album/46y4ilGc0rpC9iSSvPaB2E) | 2:55 |
-| 19 | [Cuando Estoy Contigo](https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Todos Mis Amigos](https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A) | 2:26 |
-| 20 | [Bemba Colorá \- Remastered 2025](https://open.spotify.com/track/1i2vjub1G4Kl0xxnIrg5od) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son Con Guaguanco \(Remastered 2025\)](https://open.spotify.com/album/3PNkC8tvFxXpvCHKT547Tl) | 3:32 |
+| 15 | [Celia's Oye Como Va \(Oye Como Va\)](https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh) | 4:17 |
+| 16 | [Azúcar Negra](https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Vida Es Un Carnaval \(Baile Total\)](https://open.spotify.com/album/2wJymzOZZUBrE0cKzQsvgI) | 3:07 |
+| 17 | [Guantanamera](https://open.spotify.com/track/6bNZH4O72jD4L5hga6DwHj) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bravo](https://open.spotify.com/album/46y4ilGc0rpC9iSSvPaB2E) | 2:55 |
+| 18 | [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 |
+| 19 | [Bemba Colorá \- Remastered 2025](https://open.spotify.com/track/1i2vjub1G4Kl0xxnIrg5od) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son Con Guaguanco \(Remastered 2025\)](https://open.spotify.com/album/3PNkC8tvFxXpvCHKT547Tl) | 3:32 |
+| 20 | [Cuando Estoy Contigo](https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Todos Mis Amigos](https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A) | 2:26 |
 | 21 | [Yerbero Moderno](https://open.spotify.com/track/49ARQi1FGSN7ZT13VTAOYf) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 4:34 |
 | 22 | [A Celia](https://open.spotify.com/track/0bEH8Y8HP9jgptsQ062Jw4) | [Lena Burke](https://open.spotify.com/artist/2h0TxjQ7ono38bJ7GitRgz), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz), [Gonzalo Rubalcaba](https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F), [Cucco Peña](https://open.spotify.com/artist/0UStb4xgA1UNiPhJPerb06), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Celia](https://open.spotify.com/album/04lprwOrXhIWzq0vke1e3s) | 5:08 |
 | 23 | [El Yerberito Moderno](https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Las Grandes Damas](https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 49 | [Tres Gotas De Agua Bendita \(feat\. Celia Cruz\)](https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Alma Caribeña](https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np) | 4:17 |
 | 50 | [Juancito Trucupey](https://open.spotify.com/track/2QPG2p6h37YhkJCzceqrrP) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Las Guarachas De La Guarachera](https://open.spotify.com/album/0tEngAyPWimFTRtVrbbvGB) | 2:46 |
 
-Snapshot ID: `aiipAAAAAADxIZMBz3AORrlog1R+upz0`
+Snapshot ID: `ain6gAAAAAARNhQYDlXpbnZL47Q62htc`

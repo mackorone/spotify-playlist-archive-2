@@ -4,7 +4,7 @@
 
 > Workout to K\-Pop? Count me in! \(Cover: MEOVV\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-669 songs - 1 day 11 hr 23 min
+670 songs - 1 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Highway to Heaven](https://open.spotify.com/track/7nMc2YzPnnZFaHAS3qSyqf) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Highway to Heaven](https://open.spotify.com/album/51lb4Yrn50yWVgdGhxIQPt) | 3:20 | 2022-01-03 | 2022-07-07 |
 | [Hikicomori](https://open.spotify.com/track/57ma8uG5b7nvK1ZjiZXH0f) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [Hikicomori](https://open.spotify.com/album/3rKLV6WqAGToINmzb3ykmF) | 3:27 | 2022-03-22 | 2022-04-14 |
 | [HIT](https://open.spotify.com/track/0xHgclG2TeqIzB8N3Wb5rP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HIT](https://open.spotify.com/album/36HsGgJsOHL4cHqR4J2GEU) | 3:23 | 2022-01-05 | 2022-04-14 |
+| [Hit 'Em](https://open.spotify.com/track/0oFpuvfX2uwcuIGTMJr2kt) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BITE NOW](https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi) | 2:48 | 2026-06-12 |  |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-07-04 | 2022-08-19 |
 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 | 2024-11-26 | 2026-01-15 |
 | [HOME;RUN](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:04 | 2021-12-20 | 2022-07-20 |
@@ -644,7 +645,7 @@
 | [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 | 2022-07-19 | 2024-04-19 |
 | [What is Love?](https://open.spotify.com/track/5m95gCTAiHshTaajznt5fA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [What is Love?](https://open.spotify.com/album/5NObA8Cx4Ri5cATR1DLTjj) | 3:28 | 2021-12-20 | 2022-07-29 |
 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 | 2021-12-20 | 2022-10-14 |
-| [What's a girl to do](https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [What's a girl to do](https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS) | 2:10 | 2026-04-13 |  |
+| [What's a girl to do](https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [What's a girl to do](https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS) | 2:10 | 2026-04-13 | 2026-06-13 |
 | [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-12-01 | 2023-03-28 |
 | [Where is love](https://open.spotify.com/track/7iQCl9TotVdT5WVibKcd7I) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 2:57 | 2022-03-22 | 2022-05-08 |
 | [WHERE YOU AT](https://open.spotify.com/track/6vfcaWsN8gBLpfpSCru0Co) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2), [ANNIE](https://open.spotify.com/artist/4w6pewq4FAdlIHxweADBh4), [WOOCHAN](https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc) | [ALLDAY PROJECT](https://open.spotify.com/album/2SdkMYexkvmQaUmgawGJkA) | 2:42 | 2026-01-23 | 2026-02-28 |

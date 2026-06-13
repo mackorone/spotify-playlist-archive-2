@@ -1,12 +1,12 @@
 {
-  "description": "What have we done?",
-  "num_followers": 105180,
-  "original_name": "Oops...All Jams",
+  "description": "Start your morning with a mix of new and classic songs to keep you singing all day long!",
+  "num_followers": 105172,
+  "original_name": "Good Morning Music",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAeeOFuDH7a/YDDihS3lkwUil7WdvmC",
+  "snapshot_id": "AAAee5PejaV8MApPbKskVVUd7cSrZqEH",
   "tracks": [
     {
       "added_at": "2026-05-29 18:11:30",
@@ -1702,6 +1702,10 @@
         {
           "name": "The Chemical Brothers",
           "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
         }
       ],
       "duration_ms": 260696,
@@ -1741,6 +1745,6 @@
       "url": "https://open.spotify.com/track/7FVG3onyy9GbhysR3sREKy"
     }
   ],
-  "unique_name": "Oops...All Jams",
+  "unique_name": "Good Morning Music",
   "url": "https://open.spotify.com/playlist/4ZQNqlKwDCPSeey2y7kwlD"
 }

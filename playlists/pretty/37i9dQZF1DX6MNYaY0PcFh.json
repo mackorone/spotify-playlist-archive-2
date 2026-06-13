@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: J Wax",
-  "num_followers": 105493,
+  "num_followers": 105496,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -431,26 +431,6 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "hold tight",
-        "url": "https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        },
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        }
-      ],
-      "duration_ms": 148645,
-      "name": "hold tight",
-      "url": "https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz"
-    },
-    {
-      "added_at": "2026-06-11 23:00:19",
-      "album": {
         "name": "EUPHORIA",
         "url": "https://open.spotify.com/album/6VR8RfG0xsWxZHGFpb0PVL"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 149666,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/2Amw5K5ZE64ak7Mkdx97BN"
+    },
+    {
+      "added_at": "2026-06-11 23:00:19",
+      "album": {
+        "name": "hold tight",
+        "url": "https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "hold tight",
+      "url": "https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz"
     },
     {
       "added_at": "2026-06-11 23:00:19",
@@ -695,22 +695,22 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "ur world",
-        "url": "https://open.spotify.com/album/0PYMW2KuyFzeeSThG5wAny"
+        "name": "90S",
+        "url": "https://open.spotify.com/album/1gQuOq96Cpf4BNidbu0Zn0"
       },
       "artists": [
         {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
         },
         {
-          "name": "Pocket",
-          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
         }
       ],
-      "duration_ms": 188702,
-      "name": "ur world",
-      "url": "https://open.spotify.com/track/6sebQAJWYYNyRwHLIeDvko"
+      "duration_ms": 196911,
+      "name": "90S",
+      "url": "https://open.spotify.com/track/0oMUKpzLniw9wYY2XszdZG"
     },
     {
       "added_at": "2026-06-11 23:00:19",
@@ -731,22 +731,22 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "90S",
-        "url": "https://open.spotify.com/album/1gQuOq96Cpf4BNidbu0Zn0"
+        "name": "ur world",
+        "url": "https://open.spotify.com/album/0PYMW2KuyFzeeSThG5wAny"
       },
       "artists": [
         {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
         },
         {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
         }
       ],
-      "duration_ms": 196911,
-      "name": "90S",
-      "url": "https://open.spotify.com/track/0oMUKpzLniw9wYY2XszdZG"
+      "duration_ms": 188702,
+      "name": "ur world",
+      "url": "https://open.spotify.com/track/6sebQAJWYYNyRwHLIeDvko"
     },
     {
       "added_at": "2026-06-11 23:00:19",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "GET ON IT",
-        "url": "https://open.spotify.com/album/4i5aocSQ5i8ME7kFmAYBe0"
-      },
-      "artists": [
-        {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        }
-      ],
-      "duration_ms": 187686,
-      "name": "GET ON IT",
-      "url": "https://open.spotify.com/track/5OQaJTP80UW6G6IpNKueVx"
-    },
-    {
-      "added_at": "2026-06-11 23:00:19",
-      "album": {
         "name": "Over My Head",
         "url": "https://open.spotify.com/album/5vTDwhMlSxhmW3E77jYNmx"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 225500,
       "name": "Over My Head",
       "url": "https://open.spotify.com/track/46ug82uA2i8Yc87Zm6BeXb"
+    },
+    {
+      "added_at": "2026-06-11 23:00:19",
+      "album": {
+        "name": "GET ON IT",
+        "url": "https://open.spotify.com/album/4i5aocSQ5i8ME7kFmAYBe0"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        }
+      ],
+      "duration_ms": 187686,
+      "name": "GET ON IT",
+      "url": "https://open.spotify.com/track/5OQaJTP80UW6G6IpNKueVx"
     },
     {
       "added_at": "2026-06-11 23:00:19",
@@ -1071,18 +1071,22 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "Swings",
-        "url": "https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk"
+        "name": "Motion Sickness",
+        "url": "https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8"
       },
       "artists": [
         {
           "name": "KiLLOWEN",
           "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
         }
       ],
-      "duration_ms": 141535,
-      "name": "Swings",
-      "url": "https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY"
+      "duration_ms": 200571,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18"
     },
     {
       "added_at": "2026-06-11 23:00:19",
@@ -1103,22 +1107,6 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "Picking Up The Pace",
-        "url": "https://open.spotify.com/album/3V7NkyfVDcZQQ2rFMbh547"
-      },
-      "artists": [
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        }
-      ],
-      "duration_ms": 178777,
-      "name": "Picking Up The Pace",
-      "url": "https://open.spotify.com/track/5koTalU95XrUKGGa1nwCSp"
-    },
-    {
-      "added_at": "2026-06-11 23:00:19",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/0I7SWNmu6IRJ58aekoxlbt"
       },
@@ -1135,6 +1123,22 @@
       "duration_ms": 199635,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/21tvog0dPrmzmIqRTKFYG9"
+    },
+    {
+      "added_at": "2026-06-11 23:00:19",
+      "album": {
+        "name": "Picking Up The Pace",
+        "url": "https://open.spotify.com/album/3V7NkyfVDcZQQ2rFMbh547"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 178777,
+      "name": "Picking Up The Pace",
+      "url": "https://open.spotify.com/track/5koTalU95XrUKGGa1nwCSp"
     },
     {
       "added_at": "2026-06-11 23:00:19",
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "Motion Sickness",
-        "url": "https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8"
+        "name": "Swings",
+        "url": "https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk"
       },
       "artists": [
         {
           "name": "KiLLOWEN",
           "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
-        },
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
         }
       ],
-      "duration_ms": 200571,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18"
+      "duration_ms": 141535,
+      "name": "Swings",
+      "url": "https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY"
     },
     {
       "added_at": "2026-06-11 23:00:19",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
+        "name": "MY NAME IS OPP!",
+        "url": "https://open.spotify.com/album/5RTxCB2LbNTkswQrDLtQeK"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "duration_ms": 238297,
+      "name": "DARWIN",
+      "url": "https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj"
+    },
+    {
+      "added_at": "2026-06-11 23:00:19",
+      "album": {
         "name": "Raw Flava",
         "url": "https://open.spotify.com/album/3u3xY47nRe198VbsQWspBx"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 161890,
       "name": "Raw Flava",
       "url": "https://open.spotify.com/track/20PUfdaXDjgM8yLpag0SKL"
-    },
-    {
-      "added_at": "2026-06-11 23:00:19",
-      "album": {
-        "name": "MY NAME IS OPP!",
-        "url": "https://open.spotify.com/album/5RTxCB2LbNTkswQrDLtQeK"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        }
-      ],
-      "duration_ms": 238297,
-      "name": "DARWIN",
-      "url": "https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj"
     },
     {
       "added_at": "2026-06-11 23:00:19",
@@ -1331,26 +1331,18 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "Point Of No Return //",
-        "url": "https://open.spotify.com/album/0cS0jJy71sAYgRJtudPQkc"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6yYuIVGsnusvBBAXWdmBbx"
       },
       "artists": [
         {
-          "name": "Star.One",
-          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
-        },
-        {
-          "name": "Shayan",
-          "url": "https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac"
-        },
-        {
-          "name": "Engle",
-          "url": "https://open.spotify.com/artist/4EBTVvuF1oSpoiPFWrUSmA"
+          "name": "Krafty Kuts",
+          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
         }
       ],
-      "duration_ms": 152998,
-      "name": "Point Of No Return //",
-      "url": "https://open.spotify.com/track/2cxgR1NIV5limwOSUcz5MX"
+      "duration_ms": 174705,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1YmphBwn8ByJnWCRixZsxD"
     }
   ],
   "unique_name": "New UK Garage",

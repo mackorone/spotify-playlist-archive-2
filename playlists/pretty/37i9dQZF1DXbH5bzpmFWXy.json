@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Lucky Brown y El Bogueto en portada.",
-  "num_followers": 308098,
+  "num_followers": 308099,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANSzG6kGiC5kRIa5gRRT1vNG0EQP",
+  "snapshot_id": "AAAAAC5AadpQS2srs7pAWBrX4mRQW5ri",
   "tracks": [
     {
       "added_at": "2026-04-10 06:00:46",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
+        "name": "San Pedro",
+        "url": "https://open.spotify.com/album/1isqlLWYMmokfCrK1uDSBL"
+      },
+      "artists": [
+        {
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 198709,
+      "name": "San Pedro",
+      "url": "https://open.spotify.com/track/3meHMCLIeGhw46OBAmC0AC"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -811,22 +831,18 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "San Pedro",
-        "url": "https://open.spotify.com/album/1isqlLWYMmokfCrK1uDSBL"
+        "name": "DiCaprio 2",
+        "url": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY"
       },
       "artists": [
         {
-          "name": "Ganggy",
-          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 198709,
-      "name": "San Pedro",
-      "url": "https://open.spotify.com/track/3meHMCLIeGhw46OBAmC0AC"
+      "duration_ms": 156780,
+      "name": "151 Rum",
+      "url": "https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -855,22 +871,6 @@
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
-        "name": "DiCaprio 2",
-        "url": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 156780,
-      "name": "151 Rum",
-      "url": "https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "Entre las de 20",
-        "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 168511,
-      "name": "Entre las de 20",
-      "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
         "name": "\u00d1EROSTARS",
         "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 188571,
       "name": "B de Bellako",
       "url": "https://open.spotify.com/track/3dZzUQVDLByfxVIStbVOu5"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
+        "name": "Entre las de 20",
+        "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 168511,
+      "name": "Entre las de 20",
+      "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/1o82wmTMEaupi5ZpcgkRVB"
+      },
+      "artists": [
+        {
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/192yg3gYKtLi5eXlJcsSS8"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
         "name": "GOMIN0LA",
         "url": "https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 169440,
       "name": "GOMIN0LA",
       "url": "https://open.spotify.com/track/69bGr7FjY7k1DLJEsdRZRy"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/1o82wmTMEaupi5ZpcgkRVB"
-      },
-      "artists": [
-        {
-          "name": "Ganggy",
-          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/192yg3gYKtLi5eXlJcsSS8"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -1867,6 +1867,26 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
+        "name": "Bad Company (feat. BlocBoy JB)",
+        "url": "https://open.spotify.com/album/2IB4u7CExI80gM2KbkDtDp"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "BlocBoy JB",
+          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+        }
+      ],
+      "duration_ms": 183809,
+      "name": "Bad Company (feat. BlocBoy JB)",
+      "url": "https://open.spotify.com/track/3ZYwSDF9knZI0RVlKR4PHC"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
         "name": "Rosita Fresita",
         "url": "https://open.spotify.com/album/0G40KBVT8jMVFKIfVfe6Hn"
       },
@@ -1887,26 +1907,6 @@
       "duration_ms": 125000,
       "name": "Rosita Fresita",
       "url": "https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
-        "name": "Bad Company (feat. BlocBoy JB)",
-        "url": "https://open.spotify.com/album/2IB4u7CExI80gM2KbkDtDp"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "BlocBoy JB",
-          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
-        }
-      ],
-      "duration_ms": 183809,
-      "name": "Bad Company (feat. BlocBoy JB)",
-      "url": "https://open.spotify.com/track/3ZYwSDF9knZI0RVlKR4PHC"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -1947,18 +1947,26 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "Capitan O Chachito",
-        "url": "https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw"
+        "name": "2pa2 (Remix)",
+        "url": "https://open.spotify.com/album/3eSxismvYDBEIhGdDH4BXD"
       },
       "artists": [
         {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "GHT Official",
+          "url": "https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
         }
       ],
-      "duration_ms": 224314,
-      "name": "Capitan O Chachito",
-      "url": "https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R"
+      "duration_ms": 214218,
+      "name": "2pa2 (Remix)",
+      "url": "https://open.spotify.com/track/0pgOUN91P21GM313kz1QGj"
     }
   ],
   "unique_name": "El Barrio MP3 ",

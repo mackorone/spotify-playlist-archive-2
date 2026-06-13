@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: The Black Crowes
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,024 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,039 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 34 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 |
 | 35 | [Born to Roam](https://open.spotify.com/track/3MSXNZZuIEAWmtCkLJMtG0) | [Phil Campbell and the Bastard Sons](https://open.spotify.com/artist/7fRzvXVDS5fOLD91WQwE6q) | [We're the Bastards](https://open.spotify.com/album/7tCaRKwyNx4rCewpPyD8yv) | 4:58 |
 | 36 | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 5:06 |
-| 37 | [Brother Joe](https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Brother Joe](https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN) | 4:48 |
-| 38 | [Hold Steady](https://open.spotify.com/track/6izZd7444tvwqzWVwR9wUV) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [I Will Destroy The Void In You / Hold Steady](https://open.spotify.com/album/6NucKcIcqnjZj9xutH9j3H) | 2:29 |
-| 39 | [She Runs Hot](https://open.spotify.com/track/5fLAUOUVivK8tXyI5m7zkl) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [She Runs Hot](https://open.spotify.com/album/26WQ4szhge6FtRZgWqR8bn) | 3:07 |
+| 37 | [Hold Steady](https://open.spotify.com/track/6izZd7444tvwqzWVwR9wUV) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [I Will Destroy The Void In You / Hold Steady](https://open.spotify.com/album/6NucKcIcqnjZj9xutH9j3H) | 2:29 |
+| 38 | [She Runs Hot](https://open.spotify.com/track/5fLAUOUVivK8tXyI5m7zkl) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [She Runs Hot](https://open.spotify.com/album/26WQ4szhge6FtRZgWqR8bn) | 3:07 |
+| 39 | [Brother Joe](https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Brother Joe](https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN) | 4:48 |
 | 40 | [Tell Me Why U Do That](https://open.spotify.com/track/4Qnu29eLWDP2KZCiGHdNdh) | [The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx) | [Wine On Venus](https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB) | 4:38 |
 | 41 | [Won't Take Me Alive](https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Won't Take Me Alive](https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv) | 3:45 |
 | 42 | [Bricks](https://open.spotify.com/track/5ogBdwMrYSUpoQDLyqFptS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Bricks](https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd) | 3:35 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 63 | [In Stride](https://open.spotify.com/track/3O6GPcdbS3cyT2MpHwm9pP) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [In Stride](https://open.spotify.com/album/1f9Z6ZUYbrjR10j1bwPL3u) | 3:47 |
 | 64 | [Stare at the Sun](https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x) | [Duane Betts](https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Stare At The Sun](https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa) | 4:32 |
 | 65 | [Ain't None Watered Down](https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Ain't None Watered Down](https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2) | 3:12 |
-| 66 | [Revival](https://open.spotify.com/track/7aBTTnmPNOnxns4zUqKFbl) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/2KYRGdnQoz7pkCMY2Ot9RM) | 3:49 |
-| 67 | [15 Minute Smog Check](https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK) | [The Takes](https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch) | [15 Minute Smog Check](https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs) | 3:54 |
+| 66 | [15 Minute Smog Check](https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK) | [The Takes](https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch) | [15 Minute Smog Check](https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs) | 3:54 |
+| 67 | [Revival](https://open.spotify.com/track/7aBTTnmPNOnxns4zUqKFbl) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/2KYRGdnQoz7pkCMY2Ot9RM) | 3:49 |
 | 68 | [Goin' Back Where I Came From](https://open.spotify.com/track/7nEcu06mVKfrWeOmNAp6ef) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Summer Skin](https://open.spotify.com/album/1mB1IJ1SBBD897Z0FgCNu2) | 2:47 |
 | 69 | [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 |
 | 70 | [Heartless Year](https://open.spotify.com/track/1JPCveyZfQHq9wa2lnMo6C) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Heartless Year](https://open.spotify.com/album/0Mj3CjdxJa3gGFctHbsJzE) | 3:55 |

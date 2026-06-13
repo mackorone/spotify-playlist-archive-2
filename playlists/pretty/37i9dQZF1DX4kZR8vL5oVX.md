@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec marguerite \(du titre \#1 au \#16\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,572 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,573 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 21 | [Je ne reviendrai pas](https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Je ne reviendrai pas](https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE) | 2:43 |
 | 22 | [PROBLÈMES](https://open.spotify.com/track/6i5mbYRpohBSpHGfJ4nH8z) | [SARAH SEY](https://open.spotify.com/artist/3PSGIWWzhs6TnocrDnG2qs) | [PROBLÈMES](https://open.spotify.com/album/5nEDy7XQjYCPgSdQecxWF1) | 2:43 |
 | 23 | [Comète](https://open.spotify.com/track/6qHOXV3i98NzBq3akdRgWS) | [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Comète](https://open.spotify.com/album/0vLx3DkZgkthJ3cSjazKqp) | 2:43 |
-| 24 | [La Vraie Vie \(Freestyle des Flammes\)](https://open.spotify.com/track/65MTKzHYUo4gBC6USD8LiI) | [Juste Shani](https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR) | [La Vraie Vie \(Freestyle des Flammes\)](https://open.spotify.com/album/3YKokVCs4GaS1TCPMBJWNZ) | 2:41 |
+| 24 | [La Vraie Vie \- Freestyle des Flammes](https://open.spotify.com/track/65MTKzHYUo4gBC6USD8LiI) | [Juste Shani](https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR) | [La Vraie Vie \(Freestyle des Flammes\)](https://open.spotify.com/album/3YKokVCs4GaS1TCPMBJWNZ) | 2:41 |
 | 25 | [Maudit](https://open.spotify.com/track/5BthTKwBobneeWl7LYiZTK) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Maudit](https://open.spotify.com/album/0plg7WbsZyvn01Y0g4CtiC) | 2:52 |
 | 26 | [On Se Quitte](https://open.spotify.com/track/7sEsRkAw0AFVr6xXoWCNH5) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [On Se Quitte](https://open.spotify.com/album/5YkAWX47J3uQht0bkg1YeH) | 2:44 |
 | 27 | [Maman](https://open.spotify.com/track/4rDiyfZtqk03FTzQ4M8tg4) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Maman](https://open.spotify.com/album/0gxk8tI9M0cupnLHBaQUjw) | 2:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 
 > A melhor trilha sonora pra se preparar pros dias mais quentes do ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,172 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,133 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 60 | [All The Lies](https://open.spotify.com/track/6PqUdUGS4h5aGY7YyEGXr8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [All The Lies](https://open.spotify.com/album/4JFyas1xaX9NnAvRP9DhKF) | 2:59 |
 | 61 | [Glamour Girl](https://open.spotify.com/track/4pJ9shfcBs2BCpbD6IwzeC) | [Louie Austen](https://open.spotify.com/artist/41ITYFOUrXrzWhudmBYC0X) | [Iguana](https://open.spotify.com/album/0Zmj2c0w8Guh4sSblM068O) | 5:01 |
 | 62 | [Banana](https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Kisses](https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE) | 3:15 |
-| 63 | [Home \(feat\. Bonn\)](https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Home \(feat\. Bonn\)](https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9) | 3:59 |
-| 64 | [Alien \- Topic Remix](https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Alien \(Topic Remix\)](https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C) | 2:39 |
+| 63 | [Alien \- Topic Remix](https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Alien \(Topic Remix\)](https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C) | 2:39 |
+| 64 | [Home \(feat\. Bonn\)](https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Home \(feat\. Bonn\)](https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9) | 3:59 |
 | 65 | [Looking For Love](https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Looking For Love](https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1) | 2:53 |
 | 66 | [Fiz Esse Som Pra Você \- Ralk Remix](https://open.spotify.com/track/08E0nvXBTp8ayyOaXwEtue) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Ralk](https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC) | [Fiz Esse Som Pra Você](https://open.spotify.com/album/3toYATEN96msGnJ34emqb5) | 2:52 |
 | 67 | [Physical \- Alok Remix](https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Physical \(Alok Remix\)](https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh) | 3:09 |

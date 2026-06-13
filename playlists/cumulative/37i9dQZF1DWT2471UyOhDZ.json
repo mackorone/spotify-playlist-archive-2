@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 226355,
       "name": "100 Horses",
       "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 268768,
       "name": "Bell",
       "url": "https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ"
@@ -908,7 +908,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 194013,
       "name": "Black Ulysses",
       "url": "https://open.spotify.com/track/75IorrAVPCZfzET2ICkVx7"
@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 270319,
       "name": "Come Over, Do Me Wrong",
       "url": "https://open.spotify.com/track/0WjU2ltA87PJjO6u6YsvHl"
@@ -1812,10 +1812,28 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 198235,
       "name": "Days We Left Behind",
       "url": "https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A"
+    },
+    {
+      "album": {
+        "name": "The Boys of Dungeon Lane",
+        "url": "https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198235,
+      "name": "Days We Left Behind",
+      "url": "https://open.spotify.com/track/4RXpKIi7xLqX8BPanSwXCE"
     },
     {
       "album": {
@@ -2245,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "Emotionally Unavailable",
+        "url": "https://open.spotify.com/album/0DdYnNu0u3iFfbLf0UxlHC"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164653,
+      "name": "Emotionally Unavailable",
+      "url": "https://open.spotify.com/track/7o1F6ulLhikRXMNQCHPucR"
+    },
+    {
+      "album": {
         "name": "Empty And Silent (feat. King Krule)",
         "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
       },
@@ -2498,7 +2534,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 219310,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/0r66U3zD7beNhmsuvcmyw2"
@@ -3995,6 +4031,24 @@
     },
     {
       "album": {
+        "name": "Kick Stones (The Boys)",
+        "url": "https://open.spotify.com/album/4xAiEN0XBJLHCGizBeJBqx"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236167,
+      "name": "Kick Stones (The Boys)",
+      "url": "https://open.spotify.com/track/6qIdkfxjme3OEkdgsA8ANp"
+    },
+    {
+      "album": {
         "name": "Dancing Shoes",
         "url": "https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt"
       },
@@ -5106,7 +5160,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 120090,
       "name": "NO HANDS",
       "url": "https://open.spotify.com/track/0Ius1utxt6FWkzrvPyrTQ2"
@@ -5380,6 +5434,24 @@
       "duration_ms": 173493,
       "name": "Petals",
       "url": "https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3"
+    },
+    {
+      "album": {
+        "name": "Third Side of the Moon",
+        "url": "https://open.spotify.com/album/311t5nnuS4Fo6citMUuXMB"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276095,
+      "name": "Picking Dragons' Pockets",
+      "url": "https://open.spotify.com/track/1j5eedtT8HcViWk0f702gT"
     },
     {
       "album": {
@@ -6387,6 +6459,24 @@
     },
     {
       "album": {
+        "name": "Stone Over Water",
+        "url": "https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194225,
+      "name": "Stone Over Water",
+      "url": "https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u"
+    },
+    {
+      "album": {
         "name": "Stonefly",
         "url": "https://open.spotify.com/album/0dn2T6cE7b9XMO3gYrTLd9"
       },
@@ -6598,6 +6688,24 @@
       "duration_ms": 255106,
       "name": "Taxi Man",
       "url": "https://open.spotify.com/track/2yyQJXCYvxndsR8UXmG5Ow"
+    },
+    {
+      "album": {
+        "name": "Blue Morpho",
+        "url": "https://open.spotify.com/album/6U0M6Tp6DMGduBdp5rVzqe"
+      },
+      "artists": [
+        {
+          "name": "Ed O'Brien",
+          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318546,
+      "name": "Teachers",
+      "url": "https://open.spotify.com/track/0XFPAjBsHwYeMnMfYeTGr4"
     },
     {
       "album": {
@@ -7500,6 +7608,24 @@
       "duration_ms": 216082,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/5Sqe9F65lHHLpkwPt1RYL4"
+    },
+    {
+      "album": {
+        "name": "Tunnels",
+        "url": "https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR"
+      },
+      "artists": [
+        {
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168265,
+      "name": "Tunnels",
+      "url": "https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3"
     },
     {
       "album": {

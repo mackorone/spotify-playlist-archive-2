@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 96702,
+  "num_followers": 96733,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAABdL/+zIRbNcarSjstMuFqS",
+  "snapshot_id": "ain6gAAAAABR+rqDr0dowSijQ1V7Pqv2",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angels Above Me",
+        "url": "https://open.spotify.com/album/2JbuOCT3JIm2EKTMkQkUxv"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Angels Above Me",
+      "url": "https://open.spotify.com/track/1hoSJlBH90kh06ySuMo6G4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ways Of The World",
         "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 202457,
       "name": "Treasure (with Stick Figure)",
       "url": "https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angels Above Me",
-        "url": "https://open.spotify.com/album/2JbuOCT3JIm2EKTMkQkUxv"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Angels Above Me",
-      "url": "https://open.spotify.com/track/1hoSJlBH90kh06ySuMo6G4"
     },
     {
       "added_at": null,

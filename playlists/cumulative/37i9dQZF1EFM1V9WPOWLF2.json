@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 153608,
       "name": "Baby Bye Bye",
       "url": "https://open.spotify.com/track/4V8UCn4kU3dBGqQRz2Lu91"
@@ -2084,6 +2084,24 @@
       "duration_ms": 206373,
       "name": "Vida Rockstar",
       "url": "https://open.spotify.com/track/3HJdVteZQwALBdlr0VFlBZ"
+    },
+    {
+      "album": {
+        "name": "Nada Personal",
+        "url": "https://open.spotify.com/album/4WgRPX4DY0lwubpMYKuTzN"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "VIDEOMAX52",
+      "url": "https://open.spotify.com/track/6b3cocHowsPcO8tXqqsJnd"
     },
     {
       "album": {

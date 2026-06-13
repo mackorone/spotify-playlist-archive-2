@@ -2,9 +2,9 @@
 
 ### [Bangers](https://open.spotify.com/playlist/37i9dQZF1DWZCdOD1jAvLL)
 
-> Stank face activated\. Cover: DCR MILDA
+> Stank face activated\. Cover: The Halluci Nation
 
-1,016 songs - 2 day 6 hr 44 min
+1,018 songs - 2 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [HEAVENS DOOR](https://open.spotify.com/track/2t5ogOswbfiOibAVWNxkBb) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [HEAVENS DOOR](https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX) | 3:44 | 2023-02-24 | 2023-07-15 |
 | [Helicopter](https://open.spotify.com/track/1WrxHnZVeYqJdKnUzk3onw) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Helicopter](https://open.spotify.com/album/7vKuJ6fPYmOxW7IAh4xeaU) | 2:25 | 2023-02-10 | 2023-04-29 |
 | [Hell Yeah \(Feat\. Waxmaster\)](https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Parris Mitchell](https://open.spotify.com/artist/58cT4ua09AH5Le3Ch6Vy5p), [Waxmaster](https://open.spotify.com/artist/5Z53U9BFMK9ndmnMW4HHR7) | [Hell Yeah \(Feat\. Waxmaster\)](https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR) | 3:32 | 2026-02-06 | 2026-05-02 |
+| [Here With Me Now](https://open.spotify.com/track/1Hu1QammuVLqU6IvvmbV2n) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Here With Me Now](https://open.spotify.com/album/1yGhvmVC9eJXFO1xs3ttwf) | 4:20 | 2026-06-12 |  |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2022-12-16 | 2023-05-20 |
 | [Hey Boy Hey Girl \- ARTBAT Remix](https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Hey Boy Hey Girl \(ARTBAT Remix\)](https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz) | 3:12 | 2024-05-24 | 2025-08-30 |
 | [Hey Hey \(Heard You Say\)](https://open.spotify.com/track/6W2JFlLjKoSMAYG9pds9rS) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Hey Hey \(Heard You Say\)](https://open.spotify.com/album/6CkhbzTlaDd6kjMqjiXMcy) | 3:53 | 2022-07-22 | 2022-12-03 |
@@ -543,6 +544,7 @@
 | [Looking For Something](https://open.spotify.com/track/7MpDsggmJaTIUGtQmoFizN) | [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Looking For Something EP](https://open.spotify.com/album/7if5jDOZzdfL6LLrl95xG0) | 3:26 | 2022-10-14 | 2023-01-06 |
 | [Loose Pt\. 3](https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Loose Pt\. 3](https://open.spotify.com/album/21BkFek37rkAQcrALu8uk2) | 2:49 | 2026-01-26 |  |
 | [Loose Pt\. 3](https://open.spotify.com/track/2YIG7QIUOKs35C590rmxSE) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Loose Pt\. 3](https://open.spotify.com/album/1IYAtgkkvNpjvqXY7Dq2Np) | 2:49 | 2026-02-06 | 2026-02-14 |
+| [Loosie](https://open.spotify.com/track/6kCho4t9OfhrGi86TPTYne) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [Loosie](https://open.spotify.com/album/7bCi1Q4Qmwgv0ZPh16SP2O) | 2:55 | 2026-06-12 |  |
 | [Lose Control](https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Lose Control](https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE) | 2:53 | 2023-05-12 | 2025-07-19 |
 | [Lose Control](https://open.spotify.com/track/52LWiiRlohdA6DQ0PvIwgX) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Lose Control](https://open.spotify.com/album/1JbGw9go12vT4vLUjQTnBm) | 2:56 | 2025-09-19 | 2026-05-16 |
 | [Lose My Mind](https://open.spotify.com/track/0b1Hl2o1a1Z2ScSvImmVDE) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [Strobez](https://open.spotify.com/artist/1af1aCeFBW4yyWUbGAC6mO) | [Lose My Mind](https://open.spotify.com/album/0RZWXjXZDItdGJkTGgc7OE) | 2:44 | 2025-08-29 | 2025-11-13 |

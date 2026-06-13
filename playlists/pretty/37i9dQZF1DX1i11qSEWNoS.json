@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 644526,
+  "num_followers": 644558,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-06-11 22:00:58",
       "album": {
-        "name": "Baby Bell",
-        "url": "https://open.spotify.com/album/57kEzJP6946zerd9ut7aMF"
-      },
-      "artists": [
-        {
-          "name": "Breitner",
-          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
-        }
-      ],
-      "duration_ms": 159565,
-      "name": "Baby Bell",
-      "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
-    },
-    {
-      "added_at": "2026-06-11 22:00:58",
-      "album": {
         "name": "Biertornado",
         "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 218417,
       "name": "Biertornado",
       "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
+    },
+    {
+      "added_at": "2026-06-11 22:00:58",
+      "album": {
+        "name": "Baby Bell",
+        "url": "https://open.spotify.com/album/57kEzJP6946zerd9ut7aMF"
+      },
+      "artists": [
+        {
+          "name": "Breitner",
+          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
+        }
+      ],
+      "duration_ms": 159565,
+      "name": "Baby Bell",
+      "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
     },
     {
       "added_at": "2026-06-11 22:00:58",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-06-11 22:00:58",
       "album": {
-        "name": "Wackelkontakt",
-        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
-      },
-      "artists": [
-        {
-          "name": "Oimara",
-          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
-        }
-      ],
-      "duration_ms": 168801,
-      "name": "Wackelkontakt",
-      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
-    },
-    {
-      "added_at": "2026-06-11 22:00:58",
-      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 187394,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2026-06-11 22:00:58",
+      "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
     },
     {
       "added_at": "2026-06-11 22:00:58",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2026-06-11 22:00:58",
       "album": {
-        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
-        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        },
-        {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
-        }
-      ],
-      "duration_ms": 200683,
-      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
-      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
-    },
-    {
-      "added_at": "2026-06-11 22:00:58",
-      "album": {
         "name": "Unendlichkeit (Remix)",
         "url": "https://open.spotify.com/album/0YbUsjOo1ElaU4MmKpzN9o"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 172764,
       "name": "Unendlichkeit (Remix)",
       "url": "https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN"
+    },
+    {
+      "added_at": "2026-06-11 22:00:58",
+      "album": {
+        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
+        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "duration_ms": 200683,
+      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
+      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
     },
     {
       "added_at": "2026-06-11 22:00:58",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-06-11 22:00:58",
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/2NYFG63e3WzinNocpndoSM"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/64rrzPOGT6mu1928QXogfu"
-    },
-    {
-      "added_at": "2026-06-11 22:00:58",
-      "album": {
         "name": "All of the Lights",
         "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 120000,
       "name": "All of the Lights",
       "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
+    },
+    {
+      "added_at": "2026-06-11 22:00:58",
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/2NYFG63e3WzinNocpndoSM"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/64rrzPOGT6mu1928QXogfu"
     },
     {
       "added_at": "2026-06-11 22:00:58",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2026-06-11 22:00:58",
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+    },
+    {
+      "added_at": "2026-06-11 22:00:58",
+      "album": {
         "name": "It's My Life (Techno Remix)",
         "url": "https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 174545,
       "name": "It's My Life - Techno Remix",
       "url": "https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq"
-    },
-    {
-      "added_at": "2026-06-11 22:00:58",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2026-06-11 22:00:58",
@@ -1955,8 +1955,8 @@
     {
       "added_at": "2026-06-11 22:00:58",
       "album": {
-        "name": "DRAGO AUGUSTINO",
-        "url": "https://open.spotify.com/album/5eay977L3PSc3kaq3l7Ouq"
+        "name": "Zelten auf Kies",
+        "url": "https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY"
       },
       "artists": [
         {
@@ -1968,29 +1968,9 @@
           "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
         }
       ],
-      "duration_ms": 157402,
-      "name": "DRAGO AUGUSTINO",
-      "url": "https://open.spotify.com/track/3zadSXykCJFdmRKxsfOQ2h"
-    },
-    {
-      "added_at": "2026-06-11 22:00:58",
-      "album": {
-        "name": "GIFTMORD",
-        "url": "https://open.spotify.com/album/3HMCSckxnIJuVr9arEVRGh"
-      },
-      "artists": [
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Barr\u00e9",
-          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
-        }
-      ],
-      "duration_ms": 168928,
-      "name": "GIFTMORD",
-      "url": "https://open.spotify.com/track/5RhjhMiL2D209ujIdVyajJ"
+      "duration_ms": 137837,
+      "name": "Zelten auf Kies",
+      "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"
     },
     {
       "added_at": "2026-06-11 22:00:58",
@@ -2015,26 +1995,6 @@
     {
       "added_at": "2026-06-11 22:00:58",
       "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "felix jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
-    },
-    {
-      "added_at": "2026-06-11 22:00:58",
-      "album": {
         "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
         "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
       },
@@ -2051,6 +2011,46 @@
       "duration_ms": 122585,
       "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Stereoact Remix",
       "url": "https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk"
+    },
+    {
+      "added_at": "2026-06-11 22:00:58",
+      "album": {
+        "name": "GIFTMORD",
+        "url": "https://open.spotify.com/album/3HMCSckxnIJuVr9arEVRGh"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        }
+      ],
+      "duration_ms": 168928,
+      "name": "GIFTMORD",
+      "url": "https://open.spotify.com/track/5RhjhMiL2D209ujIdVyajJ"
+    },
+    {
+      "added_at": "2026-06-11 22:00:58",
+      "album": {
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "felix jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 127003,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     }
   ],
   "unique_name": "schiebt anders",

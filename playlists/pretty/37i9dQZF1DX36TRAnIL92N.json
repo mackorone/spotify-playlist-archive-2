@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 491793,
+  "num_followers": 491934,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-05-29 04:01:30",
       "album": {
+        "name": "Holy Place",
+        "url": "https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 193345,
+      "name": "Holy Place",
+      "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
+    },
+    {
+      "added_at": "2026-05-29 04:01:30",
+      "album": {
         "name": "Voices In My Head (Amelie Lens Remix)",
         "url": "https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 192011,
       "name": "Voices In My Head - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54"
-    },
-    {
-      "added_at": "2026-05-29 04:01:30",
-      "album": {
-        "name": "Holy Place",
-        "url": "https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Holy Place",
-      "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
     },
     {
       "added_at": "2026-05-29 04:01:30",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-05-29 04:01:30",
       "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 235045,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
-    },
-    {
-      "added_at": "2026-05-29 04:01:30",
-      "album": {
         "name": "Diamond Heart",
         "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 152519,
       "name": "Diamond Heart",
       "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
+    },
+    {
+      "added_at": "2026-05-29 04:01:30",
+      "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 235045,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
     },
     {
       "added_at": "2026-05-29 04:01:30",
@@ -543,26 +543,6 @@
     {
       "added_at": "2026-05-29 04:01:30",
       "album": {
-        "name": "Bombacid",
-        "url": "https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN"
-      },
-      "artists": [
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        },
-        {
-          "name": "Roberto Molinaro",
-          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Bombacid",
-      "url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE"
-    },
-    {
-      "added_at": "2026-05-29 04:01:30",
-      "album": {
         "name": "One Mind EP",
         "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
       },
@@ -583,6 +563,26 @@
     {
       "added_at": "2026-05-29 04:01:30",
       "album": {
+        "name": "Bombacid",
+        "url": "https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "Roberto Molinaro",
+          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Bombacid",
+      "url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE"
+    },
+    {
+      "added_at": "2026-05-29 04:01:30",
+      "album": {
         "name": "GIRLBOSS",
         "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-05-29 04:01:30",
       "album": {
-        "name": "Rave Harder Techno Bass",
-        "url": "https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe"
-      },
-      "artists": [
-        {
-          "name": "Mark Dekoda",
-          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Rave Harder Techno Bass",
-      "url": "https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F"
-    },
-    {
-      "added_at": "2026-05-29 04:01:30",
-      "album": {
         "name": "our frequency",
         "url": "https://open.spotify.com/album/05gYwF3bCjFDVUxmwHHXPm"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 264388,
       "name": "our frequency",
       "url": "https://open.spotify.com/track/7MHGgkKi7SQYDHX0bavrxM"
+    },
+    {
+      "added_at": "2026-05-29 04:01:30",
+      "album": {
+        "name": "Rave Harder Techno Bass",
+        "url": "https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe"
+      },
+      "artists": [
+        {
+          "name": "Mark Dekoda",
+          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Rave Harder Techno Bass",
+      "url": "https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F"
     },
     {
       "added_at": "2026-05-29 04:01:30",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-05-29 04:01:30",
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+    },
+    {
+      "added_at": "2026-05-29 04:01:30",
+      "album": {
         "name": "A Prayer for the Dancefloor",
         "url": "https://open.spotify.com/album/2sOuMy79OheEax3Foih6gr"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 414918,
       "name": "A Prayer for the Dancefloor (feat. Conduit)",
       "url": "https://open.spotify.com/track/1tBbAzbOg9qZJrSZBlHlXT"
-    },
-    {
-      "added_at": "2026-05-29 04:01:30",
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
     },
     {
       "added_at": "2026-05-29 04:01:30",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-05-29 04:01:30",
       "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 355879,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
-    },
-    {
-      "added_at": "2026-05-29 04:01:30",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 259023,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
+    },
+    {
+      "added_at": "2026-05-29 04:01:30",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 355879,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
     },
     {
       "added_at": "2026-05-29 04:01:30",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-05-29 04:01:30",
       "album": {
-        "name": "Charlotte de Witte",
-        "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 493667,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
-    },
-    {
-      "added_at": "2026-05-29 04:01:30",
-      "album": {
         "name": "Let the Bass Kick",
         "url": "https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 146100,
       "name": "Let the Bass Kick",
       "url": "https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2"
+    },
+    {
+      "added_at": "2026-05-29 04:01:30",
+      "album": {
+        "name": "Charlotte de Witte",
+        "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 493667,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
     },
     {
       "added_at": "2026-05-29 04:01:30",

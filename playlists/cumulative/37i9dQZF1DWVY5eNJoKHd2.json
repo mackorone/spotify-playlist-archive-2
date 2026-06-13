@@ -6624,7 +6624,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 344346,
       "name": "Really Love",
       "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
@@ -8646,6 +8646,24 @@
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/2fWLjKOm4gIFsJmWGt1lzC"
+      },
+      "artists": [
+        {
+          "name": "Golden Cats",
+          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218433,
+      "name": "The Fall - Shadow",
+      "url": "https://open.spotify.com/track/3jEU3tTP9uOMPSfySPRcJk"
     },
     {
       "album": {

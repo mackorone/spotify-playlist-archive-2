@@ -12924,7 +12924,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -15036,7 +15036,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 178064,
       "name": "eurokraav",
       "url": "https://open.spotify.com/track/78wbmf6GvpnohrMP9HXESq"
@@ -23200,7 +23200,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Igavuse teisel pool",
       "url": "https://open.spotify.com/track/19UjxZfTUUPTBTvADICXKw"
@@ -23222,7 +23222,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 140577,
       "name": "Iga\u00fcks",
       "url": "https://open.spotify.com/track/6T7F8S2gAMdb9gz4yZMuMZ"
@@ -35008,6 +35008,28 @@
       "duration_ms": 161000,
       "name": "Move On",
       "url": "https://open.spotify.com/track/4dX6z84NG8Nta1IfwVh9k0"
+    },
+    {
+      "album": {
+        "name": "mr. at\u0161koo",
+        "url": "https://open.spotify.com/album/7ey9Q9wA7CdYoVOwrcKOuy"
+      },
+      "artists": [
+        {
+          "name": "villemdrillem",
+          "url": "https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy"
+        },
+        {
+          "name": "triibupasta",
+          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179619,
+      "name": "mr. at\u0161koo",
+      "url": "https://open.spotify.com/track/2dZLX4zN7hvCnzZAZbebJq"
     },
     {
       "album": {
@@ -48768,7 +48790,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"

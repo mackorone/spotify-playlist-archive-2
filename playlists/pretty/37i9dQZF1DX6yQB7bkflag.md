@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Tiara Andini & MELONii,
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,565 likes - 95 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,571 likes - 95 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 2 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 |
 | 3 | [Under Construction](https://open.spotify.com/track/4Y3253lAyzFqLhcUgYEY62) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Under Construction](https://open.spotify.com/album/7tPygg8Jr9igPfGsY8gnzD) | 3:42 |
 | 4 | [One Day](https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 3:08 |
-| 5 | [Track 3](https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 0:00 |
+| 5 | [Faking Smiles](https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 3:04 |
 | 6 | [des fleurs x stromae](https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [des fleurs x stromae](https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB) | 2:52 |
 | 7 | [DNA \(More Than A Game\)](https://open.spotify.com/track/40qwbrvCXsiOPh9xOupCMp) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [DNA \(More Than A Game\) \[FIFA World Cup 2026™\]](https://open.spotify.com/album/53oXeqv93oxxcJwFt3fjH5) | 2:56 |
 | 8 | [DUSTY \(with Ty Dolla $ign\)](https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [A LITTLE VENGEANCE](https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44) | 3:13 |

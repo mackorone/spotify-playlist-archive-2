@@ -4,7 +4,7 @@
 
 > Najlepsza świeża polska alternatywa\. Cover: Artur Rojek, Dawid Podsiadło
 
-1,676 songs - 3 day 22 hr 45 min
+1,676 songs - 3 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [femina](https://open.spotify.com/track/2S03NaZY5eMfceCGb3XliD) | [Kosma Król](https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI), [Kuba Więcek](https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L) | [femina](https://open.spotify.com/album/5uvlrEozbAZfiLSn9jXe4P) | 2:30 | 2025-11-13 | 2025-12-19 |
 | [Femme Fatale na Bis](https://open.spotify.com/track/0yMhXokJmhkGzcE6ujCesZ) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Ta druga na Bis](https://open.spotify.com/album/0ZamkmjSSNdMdrBiKznbV1) | 3:29 | 2025-12-11 | 2026-01-16 |
 | [Ferajna](https://open.spotify.com/track/0kZnhkMVNtGcC5Zv5Rmumz) | [Patryk Pietrzak](https://open.spotify.com/artist/7462Bb4cx4Z0lGEbvAHC5D) | [Kaprysy i Ruminacje](https://open.spotify.com/album/1KuDgc1A1YKMBamLyhxri9) | 2:38 | 2024-10-24 | 2024-11-29 |
+| [Fiber Optic Love](https://open.spotify.com/track/2mOBJQOCoEN2WYxtiITo3g) | [LULU Suicide](https://open.spotify.com/artist/06jfYdAKhLjZiFl6do9jdc) | [Fiber Optic Lovers](https://open.spotify.com/album/00Ho1soPX0C2PjnZR6KDsy) | 3:39 | 2026-06-11 |  |
 | [Figle](https://open.spotify.com/track/1iSzvIRjWNZMQ2HPPO6Jum) | [Winogradzki Lew](https://open.spotify.com/artist/3x0dWLbZj9iSuIdXFDY3dy) | [Figle](https://open.spotify.com/album/0osiKNfRrAMb1gaHRaIxye) | 2:46 | 2026-02-19 | 2026-03-13 |
 | [Figura Lichtenberga](https://open.spotify.com/track/4uElJ00nOtzg9Hq1VU2FRu) | [Blauka](https://open.spotify.com/artist/2ZgaoICJy1V38lHdzlVB8a) | [Figura Lichtenberga](https://open.spotify.com/album/25ti8bP1AmHvVHAD0b0xg4) | 3:28 | 2025-04-24 | 2025-05-30 |
 | [figura woskowa](https://open.spotify.com/track/3yUfrsrysHHhdLYoCPT8vl) | [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U) | [figura woskowa](https://open.spotify.com/album/5USDI9YzIsdfWXH66Yh1Jo) | 3:51 | 2025-05-29 | 2025-08-15 |
@@ -1365,7 +1366,6 @@
 | [Toruń](https://open.spotify.com/track/3oKvNBUziRbUWpvS7vHJAy) | [Kazik & Kwartet ProForma](https://open.spotify.com/artist/6gv9OBMwrCKkZGFQIPUa73) | [Po moim trupie](https://open.spotify.com/album/2Llhzp3WCWP0JFp7wpXH7W) | 4:53 | 2024-09-26 | 2024-11-01 |
 | [Touching](https://open.spotify.com/track/2oDRWPfp5tJkfYySjRoQV3) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Fragile \(Original Soundtrack\)](https://open.spotify.com/album/0ngt33D8YMRJUN3WbVd8tx) | 2:44 | 2026-01-08 | 2026-01-30 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 |  |
-| [Track 2](https://open.spotify.com/track/2mOBJQOCoEN2WYxtiITo3g) | [LULU Suicide](https://open.spotify.com/artist/06jfYdAKhLjZiFl6do9jdc) | [Fiber Optic Lovers](https://open.spotify.com/album/00Ho1soPX0C2PjnZR6KDsy) | 0:00 | 2026-06-11 |  |
 | [Tracę czas](https://open.spotify.com/track/1J9O8tV3uVJldubfAGqp8i) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Tracę czas](https://open.spotify.com/album/3C9lJPKKVG6zaVYAqa6TKz) | 3:10 | 2026-05-21 |  |
 | [Treehouse](https://open.spotify.com/track/7GINKMcfLDQEBQaTEPOjr8) | [Treehouse](https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi) | [Treehouse](https://open.spotify.com/album/0Eol0GjvLJtW3xxFtB1V0W) | 3:44 | 2026-02-19 | 2026-03-27 |
 | [TRIK](https://open.spotify.com/track/4NPCGtOfEuRIK1CJh6q3Nv) | [FOMOTOK](https://open.spotify.com/artist/0CnSNWcT6hES7FDHk4alpL) | [TRIK](https://open.spotify.com/album/55AvttSNVmQFfowzCqB5MV) | 2:41 | 2024-06-27 | 2024-07-12 |

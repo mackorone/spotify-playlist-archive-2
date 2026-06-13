@@ -1,6 +1,6 @@
 {
   "description": "The official playlist for the entire series of Big Boys. Watch all episodes on <a href=\"https://www.channel4.com/programmes/big-boys\">Channel 4 Streaming!</a> ",
-  "num_followers": 12008,
+  "num_followers": 12009,
   "original_name": "Big Boys: Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -1518,6 +1518,10 @@
         {
           "name": "The Chemical Brothers",
           "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
       "duration_ms": 253659,

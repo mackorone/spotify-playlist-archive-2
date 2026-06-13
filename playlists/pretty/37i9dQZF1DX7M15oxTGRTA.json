@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 185173,
+  "num_followers": 185228,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Rock Me Tonight",
-        "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
-      },
-      "artists": [
-        {
-          "name": "Freddie Jackson",
-          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
-        }
-      ],
-      "duration_ms": 284119,
-      "name": "You Are My Lady",
-      "url": "https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "You've Got It Bad Girl",
         "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 244440,
       "name": "Summer In The City",
       "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Rock Me Tonight",
+        "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Jackson",
+          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
+        }
+      ],
+      "duration_ms": 284119,
+      "name": "You Are My Lady",
+      "url": "https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "The Best Of Stephanie Mills",
-        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 325173,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "In A Special Way",
         "url": "https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 225573,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "The Best Of Stephanie Mills",
+        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 325173,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
     },
     {
       "added_at": "2025-06-03 20:18:35",

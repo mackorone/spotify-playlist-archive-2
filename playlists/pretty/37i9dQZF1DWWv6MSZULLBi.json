@@ -1,13 +1,261 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Bella White",
-  "num_followers": 166873,
+  "description": "A laid-back trip in the folk scene. Cover: The Army, The Navy",
+  "num_followers": 166867,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABiRCyzdfccui1AWUInidng+jUBO",
+  "snapshot_id": "AAAAAPUf0NTSwFuCzDb6TWoo1ahZp97I",
   "tracks": [
+    {
+      "added_at": "2026-06-12 04:03:06",
+      "album": {
+        "name": "Fake Brave Life",
+        "url": "https://open.spotify.com/album/2sDJqorHBWS3QPm8WW5jeo"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "duration_ms": 147343,
+      "name": "Stars Stay Awake",
+      "url": "https://open.spotify.com/track/0655XrFPQT3Z4vgmDqgXEi"
+    },
+    {
+      "added_at": "2026-06-12 04:03:06",
+      "album": {
+        "name": "America's Greatest Burnout",
+        "url": "https://open.spotify.com/album/7d5VuuhAWliS8ovhyYp73Q"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 227727,
+      "name": "America's Greatest Burnout",
+      "url": "https://open.spotify.com/track/47a91ZLVbrRX0WwYVGNcrx"
+    },
+    {
+      "added_at": "2026-06-12 04:03:06",
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/29RCGtgIZKezj1TQuG60eq"
+      },
+      "artists": [
+        {
+          "name": "Avery Laird",
+          "url": "https://open.spotify.com/artist/3kwAG9BYmYer35EEMZHadZ"
+        }
+      ],
+      "duration_ms": 338976,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/1eSADzvm7DFVwRUOXpAmdf"
+    },
+    {
+      "added_at": "2026-06-12 04:03:06",
+      "album": {
+        "name": "rome",
+        "url": "https://open.spotify.com/album/6WdsZgUZGL7mOkU2YIoKdm"
+      },
+      "artists": [
+        {
+          "name": "Ethan Regan",
+          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+        }
+      ],
+      "duration_ms": 168727,
+      "name": "rome",
+      "url": "https://open.spotify.com/track/71yEXMwt8PTQAPT2mm9B1D"
+    },
+    {
+      "added_at": "2026-06-12 04:03:06",
+      "album": {
+        "name": "Heart So Open",
+        "url": "https://open.spotify.com/album/1r0AuBhbjA8ax7mKTIh1zu"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "duration_ms": 167999,
+      "name": "Otis",
+      "url": "https://open.spotify.com/track/15UBUtrFnpS9fcPbil0xzv"
+    },
+    {
+      "added_at": "2026-06-12 04:03:06",
+      "album": {
+        "name": "Every Second, Every Day",
+        "url": "https://open.spotify.com/album/47LSDpr3ssZjHj3uJuKpn9"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ellsworth",
+          "url": "https://open.spotify.com/artist/3YZWrLzjRyroaj0DVpPEFd"
+        }
+      ],
+      "duration_ms": 191450,
+      "name": "Every Second, Every Day",
+      "url": "https://open.spotify.com/track/665rGErgo4JfLAnBBWg6A4"
+    },
+    {
+      "added_at": "2026-06-12 04:03:06",
+      "album": {
+        "name": "AMATEUR AT BEST",
+        "url": "https://open.spotify.com/album/11QFWsQoSk0qQzrndUokih"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 201426,
+      "name": "AMATEUR AT BEST",
+      "url": "https://open.spotify.com/track/2ZlCllL9l6Xk3gGZFAUeU5"
+    },
+    {
+      "added_at": "2026-06-12 04:03:06",
+      "album": {
+        "name": "it's all a mess!",
+        "url": "https://open.spotify.com/album/6wPK2AZAx7gi2pGuL5CJ1V"
+      },
+      "artists": [
+        {
+          "name": "Moira & Claire",
+          "url": "https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN"
+        }
+      ],
+      "duration_ms": 209256,
+      "name": "mess in a dress",
+      "url": "https://open.spotify.com/track/5XKXxYFSMTstk992dG9gS3"
+    },
+    {
+      "added_at": "2026-06-12 04:03:06",
+      "album": {
+        "name": "Masks Off",
+        "url": "https://open.spotify.com/album/1ADa0uCdQlkfKng3mYVF9C"
+      },
+      "artists": [
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        }
+      ],
+      "duration_ms": 222905,
+      "name": "The Ballad of Big Balls",
+      "url": "https://open.spotify.com/track/6WdDfuiqy4hLHAG9EfhvXF"
+    },
+    {
+      "added_at": "2026-06-12 04:03:06",
+      "album": {
+        "name": "Aaliyah",
+        "url": "https://open.spotify.com/album/6EHIfJvbNSzyWmmYay5zPN"
+      },
+      "artists": [
+        {
+          "name": "The Bankes Brothers",
+          "url": "https://open.spotify.com/artist/3O4NBsokz0M9tv0vGzpv4o"
+        }
+      ],
+      "duration_ms": 174147,
+      "name": "Aaliyah",
+      "url": "https://open.spotify.com/track/4yH2qoFWpypuS8RE4yubMa"
+    },
+    {
+      "added_at": "2026-06-12 04:03:06",
+      "album": {
+        "name": "Down This Road",
+        "url": "https://open.spotify.com/album/6fCzUNGqrwrnQl7t3oItPm"
+      },
+      "artists": [
+        {
+          "name": "Mitch Gorman",
+          "url": "https://open.spotify.com/artist/1XBz2uoboAYrTg5jcjN2qw"
+        }
+      ],
+      "duration_ms": 219816,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/6w7l3SBz29HAZh8YDqY5Oj"
+    },
+    {
+      "added_at": "2026-06-12 04:03:06",
+      "album": {
+        "name": "Four Days in June",
+        "url": "https://open.spotify.com/album/0mESueswYCXof6azv7pUjs"
+      },
+      "artists": [
+        {
+          "name": "Shabason & Krgovich",
+          "url": "https://open.spotify.com/artist/1Y7BUpNYM8Yc8ZIBUq7qy2"
+        },
+        {
+          "name": "Joseph Shabason",
+          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
+        },
+        {
+          "name": "Nicholas Krgovich",
+          "url": "https://open.spotify.com/artist/68QhSfYuqyiT1KPoHlCvSv"
+        }
+      ],
+      "duration_ms": 224823,
+      "name": "Time of Your Life",
+      "url": "https://open.spotify.com/track/1mK6XmC8hkJKyKzZfkmaZ3"
+    },
+    {
+      "added_at": "2026-06-12 04:03:06",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/7G09xbrFWKzD6wWhxgGa9B"
+      },
+      "artists": [
+        {
+          "name": "Somewhere In Between",
+          "url": "https://open.spotify.com/artist/6ilkFAfRoOmI4ESHfmdrCA"
+        }
+      ],
+      "duration_ms": 133470,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/5YjTAOFQ7HO9XxLuQqYWGM"
+    },
+    {
+      "added_at": "2026-06-12 04:03:06",
+      "album": {
+        "name": "Out of the Weeds",
+        "url": "https://open.spotify.com/album/2kl3v8xI5wEbPfbO9qhmKt"
+      },
+      "artists": [
+        {
+          "name": "Basset",
+          "url": "https://open.spotify.com/artist/6PK5jTymkiAxeOjjqOIAQ3"
+        }
+      ],
+      "duration_ms": 222947,
+      "name": "Out of the Weeds",
+      "url": "https://open.spotify.com/track/78Lf0pO6eE5UTwFnJLHWZm"
+    },
+    {
+      "added_at": "2026-06-12 04:03:06",
+      "album": {
+        "name": "If This Is The End",
+        "url": "https://open.spotify.com/album/2ZyHeH8F9mmnhV5Fcbr4nU"
+      },
+      "artists": [
+        {
+          "name": "Emma Harner",
+          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
+        }
+      ],
+      "duration_ms": 221292,
+      "name": "If This Is The End",
+      "url": "https://open.spotify.com/track/3kFUML1xNLa91hI9EMRkrq"
+    },
     {
       "added_at": "2026-06-05 04:02:55",
       "album": {
@@ -2295,226 +2543,6 @@
       "duration_ms": 187661,
       "name": "Lost Leader",
       "url": "https://open.spotify.com/track/1qFxxFm82Z3kxVxNpr4pLj"
-    },
-    {
-      "added_at": "2026-03-06 05:00:28",
-      "album": {
-        "name": "Oda",
-        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 224798,
-      "name": "oda",
-      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
-    },
-    {
-      "added_at": "2026-03-06 05:00:28",
-      "album": {
-        "name": "False Start",
-        "url": "https://open.spotify.com/album/0yytuAMgULL79wV6dVu9DG"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 203859,
-      "name": "False Start",
-      "url": "https://open.spotify.com/track/553jD3ipiSaR4plKiGNugq"
-    },
-    {
-      "added_at": "2026-03-06 05:00:28",
-      "album": {
-        "name": "Lover I'm Gonna Miss You",
-        "url": "https://open.spotify.com/album/05bwXm1KhTHhGc33Z8VHUF"
-      },
-      "artists": [
-        {
-          "name": "Noah Derksen",
-          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
-        },
-        {
-          "name": "May Erlewine",
-          "url": "https://open.spotify.com/artist/2OCklJbxEeL54I1EQOlbxW"
-        }
-      ],
-      "duration_ms": 231210,
-      "name": "Lover I'm Gonna Miss You",
-      "url": "https://open.spotify.com/track/1Nd24ZJSkqvVfYrq4Pytzw"
-    },
-    {
-      "added_at": "2026-03-06 05:00:28",
-      "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 190923,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
-    },
-    {
-      "added_at": "2026-03-06 05:00:28",
-      "album": {
-        "name": "Gameshow",
-        "url": "https://open.spotify.com/album/0WrNdcswqSMLDm0RkToEDU"
-      },
-      "artists": [
-        {
-          "name": "John Shambles",
-          "url": "https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl"
-        }
-      ],
-      "duration_ms": 211478,
-      "name": "Gameshow",
-      "url": "https://open.spotify.com/track/1RXNsfzeF1pdEV7ZsJfECe"
-    },
-    {
-      "added_at": "2026-02-27 05:01:26",
-      "album": {
-        "name": "Hen's Teeth",
-        "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        },
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 225231,
-      "name": "Wait Up (feat. I'm With Her)",
-      "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
-    },
-    {
-      "added_at": "2026-02-27 05:01:26",
-      "album": {
-        "name": "The Blade",
-        "url": "https://open.spotify.com/album/0f9qhfxa46I2abFLjsEjqc"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "The Blade",
-      "url": "https://open.spotify.com/track/4xlkVxykYvk6i7Co32lMDS"
-    },
-    {
-      "added_at": "2026-02-13 12:18:19",
-      "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 162290,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
-        "name": "Talkin' About Jesus",
-        "url": "https://open.spotify.com/album/4oCw0RruILxxANId1k4Zq4"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "Talkin' About Jesus",
-      "url": "https://open.spotify.com/track/0xJeEbuxxGvpcoBsG335LS"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
-        "name": "Blue Water",
-        "url": "https://open.spotify.com/album/22uxBCWF0hwH84VV9O20CB"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 188773,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/4JcHHGalNvDxB0gCpGg1HP"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0Hg77PUb3vybnbsbuct5Hz"
-      },
-      "artists": [
-        {
-          "name": "We Lepers",
-          "url": "https://open.spotify.com/artist/3NUxNOAEGlJsIeormnXtnr"
-        },
-        {
-          "name": "Michaela Slinger",
-          "url": "https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/2HOlrg63jArzoBkAPbQxTC"
-    },
-    {
-      "added_at": "2026-02-13 05:01:21",
-      "album": {
-        "name": "Whenever I Go",
-        "url": "https://open.spotify.com/album/7sX23NUtAyg82G2H7hX91R"
-      },
-      "artists": [
-        {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
-        }
-      ],
-      "duration_ms": 170331,
-      "name": "You Were There",
-      "url": "https://open.spotify.com/track/5UT4Kb2glnF5IS7rEu48wN"
-    },
-    {
-      "added_at": "2026-02-13 05:01:21",
-      "album": {
-        "name": "Best of Our Possible Lives",
-        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
-      },
-      "artists": [
-        {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
-        }
-      ],
-      "duration_ms": 188988,
-      "name": "Best of Our Possible Lives",
-      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
     }
   ],
   "unique_name": "Folk & Friends",

@@ -2631,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "BEAUTIFUL MADNESS",
+        "url": "https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 17431,
+      "name": "PRE",
+      "url": "https://open.spotify.com/track/211CggMXVH5VprHhj8iHvF"
+    },
+    {
+      "album": {
         "name": "Queen Of The Night (From The Voice Of Germany)",
         "url": "https://open.spotify.com/album/6DvJhjNeDzqdqTCkQ7BpOO"
       },

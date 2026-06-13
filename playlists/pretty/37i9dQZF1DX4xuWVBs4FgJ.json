@@ -1,6 +1,6 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 2033424,
+  "num_followers": 2033451,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-02-23 16:34:18",
       "album": {
+        "name": "In A Perfect World (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1"
+    },
+    {
+      "added_at": "2026-02-23 16:34:18",
+      "album": {
         "name": "3 Feet High and Rising",
         "url": "https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2026-02-23 16:34:18",
       "album": {
-        "name": "In A Perfect World (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
       "artists": [
         {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
         }
       ],
-      "duration_ms": 216346,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1"
+      "duration_ms": 246761,
+      "name": "Summer Sweat",
+      "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
     },
     {
       "added_at": "2026-02-23 16:34:18",
@@ -1263,22 +1279,6 @@
       "duration_ms": 239146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2026-02-23 16:34:18",
-      "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 246761,
-      "name": "Summer Sweat",
-      "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
     },
     {
       "added_at": "2026-02-23 16:34:18",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-02-23 16:34:18",
       "album": {
-        "name": "Fields Of Gold - The Best Of Sting 1984 - 1994",
-        "url": "https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Fields Of Gold",
-      "url": "https://open.spotify.com/track/22gLGCKbFKwmgZhrpVcnFb"
-    },
-    {
-      "added_at": "2026-02-23 16:34:18",
-      "album": {
         "name": "Organic",
         "url": "https://open.spotify.com/album/5oOaUOotDESRXMElqVlOFQ"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 163600,
       "name": "You Are So Beautiful - 1996 Version",
       "url": "https://open.spotify.com/track/0Q4FBn52tglZ02DCrAY8j0"
+    },
+    {
+      "added_at": "2026-02-23 16:34:18",
+      "album": {
+        "name": "Fields Of Gold - The Best Of Sting 1984 - 1994",
+        "url": "https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/22gLGCKbFKwmgZhrpVcnFb"
     },
     {
       "added_at": "2026-02-23 16:34:18",

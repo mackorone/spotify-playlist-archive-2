@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK946dWgdUn.md) - [plain]
 
 > Groove to your favorite tracks from CoComelon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,408 likes - 76 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,669 likes - 76 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK946dWgdUn.md) - [plain]
 | 43 | [Who Took the Cookie](https://open.spotify.com/track/4pRmte8RU7xcTtJl4ypCRh) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Who Took the Cookie](https://open.spotify.com/album/6uW7IxBSG4aOblM4SdZafK) | 2:37 |
 | 44 | [Row, Row, Row Your Boat](https://open.spotify.com/track/2zhqBdbprnVQux9m6SKm9C) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Nursery Rhymes by CoComelon](https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn) | 2:15 |
 | 45 | [Wheels on the Bus Singalong \- Songs From the Netflix Series](https://open.spotify.com/track/6UgT88XAUKDX4rSdsmNdWG) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Lane, Vol\. 3 \(Songs From the Netflix Series\)](https://open.spotify.com/album/0K0TteylGwmfDeflcTdmIx) | 1:23 |
-| 46 | [Hickory Dickory Dock](https://open.spotify.com/track/2UTkYyycHc6q8eLAA9raDu) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Nursery Rhymes by CoComelon](https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn) | 2:24 |
+| 46 | [Hickory Dickory Dock \- Classic Version](https://open.spotify.com/track/2UTkYyycHc6q8eLAA9raDu) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Nursery Rhymes by CoComelon](https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn) | 2:24 |
 | 47 | [Are We There Yet? \- Songs From the Netflix Series](https://open.spotify.com/track/1CTYFYLKkikkQoYJsHQfVo) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Lane \(Songs From the Netflix Series\)](https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj) | 2:40 |
 | 48 | [The Teacher Song](https://open.spotify.com/track/16jfafeVhzDQe5QAr7sOqJ) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 1](https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs) | 3:01 |
 | 49 | [The More We Get Together](https://open.spotify.com/track/7Bwj13RT9tKcNeziqcaNak) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 2:39 |

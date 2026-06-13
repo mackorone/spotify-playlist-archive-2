@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1005279,
+  "num_followers": 1005250,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2026-05-30 05:30:54",
       "album": {
-        "name": "Motivan2",
-        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Otra Vez (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
-    },
-    {
-      "added_at": "2026-05-30 05:30:54",
-      "album": {
         "name": "Sola (Remix)",
         "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 307910,
       "name": "Sola (Remix)",
       "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
+    },
+    {
+      "added_at": "2026-05-30 05:30:54",
+      "album": {
+        "name": "Motivan2",
+        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Otra Vez (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
     },
     {
       "added_at": "2026-05-30 05:30:54",
@@ -503,8 +503,8 @@
     {
       "added_at": "2026-05-30 05:30:54",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 233128,
-      "name": "Otra Noche en Miami",
-      "url": "https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra"
+      "duration_ms": 176936,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O"
     },
     {
       "added_at": "2026-05-30 05:30:54",
@@ -607,8 +607,8 @@
     {
       "added_at": "2026-05-30 05:30:54",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 176936,
-      "name": "Un Ratito",
-      "url": "https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O"
+      "duration_ms": 233128,
+      "name": "Otra Noche en Miami",
+      "url": "https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra"
     },
     {
       "added_at": "2026-05-30 05:30:54",
@@ -863,6 +863,26 @@
     {
       "added_at": "2026-05-30 05:30:54",
       "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Cr\u00e9eme",
+      "url": "https://open.spotify.com/track/4EKZsrsCKyqr64FBHLc0DU"
+    },
+    {
+      "added_at": "2026-05-30 05:30:54",
+      "album": {
         "name": "Verte Ir",
         "url": "https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 267500,
       "name": "Verte Ir",
       "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
-    },
-    {
-      "added_at": "2026-05-30 05:30:54",
-      "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Cr\u00e9eme",
-      "url": "https://open.spotify.com/track/4EKZsrsCKyqr64FBHLc0DU"
     },
     {
       "added_at": "2026-05-30 05:30:54",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2026-05-30 05:30:54",
       "album": {
-        "name": "SI LAS PAREDES HABLARAN",
-        "url": "https://open.spotify.com/album/0U0dJC5TvkLSd1CKMoleT7"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 194766,
-      "name": "SI LAS PAREDES HABLARAN",
-      "url": "https://open.spotify.com/track/3ENGH9alDrEvggq3ZoGzWN"
-    },
-    {
-      "added_at": "2026-05-30 05:30:54",
-      "album": {
         "name": "MAL DE AMORES",
         "url": "https://open.spotify.com/album/2A8C1hue8degWpk0T4M5oO"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 210000,
       "name": "MAL DE AMORES",
       "url": "https://open.spotify.com/track/1usKzwMu9aXkOopVWWpIf9"
+    },
+    {
+      "added_at": "2026-05-30 05:30:54",
+      "album": {
+        "name": "SI LAS PAREDES HABLARAN",
+        "url": "https://open.spotify.com/album/0U0dJC5TvkLSd1CKMoleT7"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 194766,
+      "name": "SI LAS PAREDES HABLARAN",
+      "url": "https://open.spotify.com/track/3ENGH9alDrEvggq3ZoGzWN"
     },
     {
       "added_at": "2026-05-30 05:30:54",
@@ -1885,7 +1885,7 @@
         }
       ],
       "duration_ms": 289933,
-      "name": "No Te Enamores - Remix",
+      "name": "No Te Enamores (Remix)",
       "url": "https://open.spotify.com/track/2mM3gZ0BbPwPPMelbA8vgt"
     },
     {
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2026-05-30 05:30:54",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Par\u00eds",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
-    },
-    {
-      "added_at": "2026-05-30 05:30:54",
-      "album": {
         "name": "The Sensation",
         "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 203666,
       "name": "Qu\u00e9 M\u00e1s Pues",
       "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
+    },
+    {
+      "added_at": "2026-05-30 05:30:54",
+      "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Par\u00eds",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2026-05-30 05:30:54",

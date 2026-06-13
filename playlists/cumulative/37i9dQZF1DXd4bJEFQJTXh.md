@@ -4,7 +4,7 @@
 
 > We’re going to be golden!
 
-243 songs - 12 hr 36 min
+244 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Freedom](https://open.spotify.com/track/5cq7ZfNEAT3Rw2GRQJmVq0) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [2010s Hits](https://open.spotify.com/album/5jdzXYmv7zWMdoJzcXrFQ9) | 2:42 | 2022-03-25 | 2022-11-13 |
 | [Freedom](https://open.spotify.com/track/6RB9YvNyP0RZfCUcMtZELH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Freedom](https://open.spotify.com/album/3Aw8a13WJi24hkjRRtMp9n) | 2:42 | 2022-03-25 | 2024-04-19 |
 | [Freedom](https://open.spotify.com/track/55Y6qJ7Njj8xpIMikjziUk) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c) | 2:43 | 2022-03-25 | 2025-01-18 |
-| [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0epwO9Y9JZkLBRwadMSWYY) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 3:25 | 2025-07-02 |  |
+| [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0epwO9Y9JZkLBRwadMSWYY) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 3:25 | 2025-07-02 | 2026-06-13 |
 | [Glory Days](https://open.spotify.com/track/1fWyRKQdqvhXe8cM7iNdVW) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cars 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pBzQQ2NGZSIFv9ehTROhS) | 4:07 | 2022-03-25 | 2025-01-18 |
 | [Glowin' Up](https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/3TPxyCABDC6mXBCmfWRK8X) | 3:11 | 2022-03-25 |  |
 | [Glowin' Up](https://open.spotify.com/track/594bEDSIxUNaKYF2FuHSpm) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/7e9yA0WHIIdClfthaj2yTk) | 3:11 | 2023-09-22 | 2024-04-19 |
@@ -159,6 +159,7 @@
 | [Original \(from Dolittle\)](https://open.spotify.com/track/0YoquWDxpwAq8jFPj3K8wp) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Original \(from Dolittle\)](https://open.spotify.com/album/00CTugKcgZzpPJKpmeNdDS) | 3:33 | 2022-03-25 | 2025-12-26 |
 | [Parting Ways](https://open.spotify.com/track/7oYOgl26e4KPofzPKJhFxJ) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 2:20 | 2022-03-25 | 2024-06-28 |
 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 | 2023-05-15 |  |
+| [Perfect Princess \- From "Descendants: Wicked Wonderland"](https://open.spotify.com/track/1zfX5uZ5PdBRuKjSWgKOvf) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Malia Baker](https://open.spotify.com/artist/4ALl3aeHX63UVQheaHFdPq), [Descendants – Cast](https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Perfect Princess \(From "Descendants: Wicked Wonderland"\)](https://open.spotify.com/album/0kJ4tUgUhvna6q8QT4w0Xp) | 3:43 | 2026-06-13 |  |
 | [Pokemon Theme](https://open.spotify.com/track/6xG2ZGudUgtV235xvDlSEt) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon X \- Ten Years Of Pokemon](https://open.spotify.com/album/3qW0KwoP8BdFzqZSDh1ScI) | 3:16 | 2022-03-25 | 2025-01-18 |
 | [Pokémon Theme](https://open.spotify.com/track/3OIHgTyQdiAGMmpjQaNxp3) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon \- 2.b.a\. Master \- Music From The Hit Tv Series](https://open.spotify.com/album/4R0boGQyiCUt3i7pAKCitR) | 3:18 | 2022-03-25 | 2023-12-25 |
 | [Pokémon Theme](https://open.spotify.com/track/5m5uvPjQT3Md5GKK3qyaXy) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon \- 2.b.a\. Master \- Music From The Hit Tv Series](https://open.spotify.com/album/3n86RctzbnrGY599Vo0fhg) | 3:18 | 2023-09-22 | 2024-04-19 |

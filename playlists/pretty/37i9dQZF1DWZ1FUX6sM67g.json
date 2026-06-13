@@ -1,12 +1,12 @@
 {
   "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Jay Wheeler",
-  "num_followers": 476387,
+  "num_followers": 476382,
   "original_name": "Punto Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABUTXQG/zKg/xIr8Snch4Qhnt/2r",
+  "snapshot_id": "AAAAAFfK6Nb9w/WaBDR43nVycVQp/OSI",
   "tracks": [
     {
       "added_at": "2026-05-29 04:59:20",
@@ -25,20 +25,44 @@
       "url": "https://open.spotify.com/track/1koGYZiLV7pcmxT2FF8LNw"
     },
     {
-      "added_at": "2026-03-18 21:06:55",
+      "added_at": "2026-06-12 04:59:22",
       "album": {
-        "name": "Quiero +",
-        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+        "name": "Nada Que Me Pagan",
+        "url": "https://open.spotify.com/album/3iumjIgms5xHd1WtX9YbuS"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
         }
       ],
-      "duration_ms": 128487,
-      "name": "Quiero +",
-      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+      "duration_ms": 258461,
+      "name": "Nada Que Me Pagan",
+      "url": "https://open.spotify.com/track/4pH4hyu6sNdcZBCllIbo1u"
+    },
+    {
+      "added_at": "2026-06-12 17:39:58",
+      "album": {
+        "name": "Marcri\u00e1",
+        "url": "https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
+        {
+          "name": "El Laberinto del Coco",
+          "url": "https://open.spotify.com/artist/2Xvxlkf21E6JeWIV0lAMMM"
+        }
+      ],
+      "duration_ms": 220407,
+      "name": "mariposas en el est\u00f3mago",
+      "url": "https://open.spotify.com/track/5tn1VPSdS9fHnvX58JjBIT"
     },
     {
       "added_at": "2026-04-10 04:59:28",
@@ -255,42 +279,6 @@
       "duration_ms": 243000,
       "name": "La Familia Que So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/0UKFSqTGGgBrLmytmDjd4W"
-    },
-    {
-      "added_at": "2026-04-24 04:59:29",
-      "album": {
-        "name": "Buscando el Mar",
-        "url": "https://open.spotify.com/album/2cDEEAhmAGyUX4digtBLLE"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 233829,
-      "name": "Buscando el Mar",
-      "url": "https://open.spotify.com/track/3dPIfDTr5VbhGAJmL8KiJt"
-    },
-    {
-      "added_at": "2026-05-29 15:34:58",
-      "album": {
-        "name": "X AMOR A MI",
-        "url": "https://open.spotify.com/album/6bE1rdpj4bKLOLK6rUlV9T"
-      },
-      "artists": [
-        {
-          "name": "Ana del Castillo",
-          "url": "https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7"
-        }
-      ],
-      "duration_ms": 196505,
-      "name": "T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/3IVqpHiPnmKXUbM4YUYuL7"
     },
     {
       "added_at": "2026-03-26 19:01:46",

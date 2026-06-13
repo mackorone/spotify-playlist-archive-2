@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Evanescence are on top of today's best Metal playlist.",
+  "description": "Imminence are on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -2585,6 +2585,24 @@
     },
     {
       "album": {
+        "name": "Blood Pact",
+        "url": "https://open.spotify.com/album/41HtOA4cWgCaIj4BWgb3zU"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172066,
+      "name": "Blood Pact",
+      "url": "https://open.spotify.com/track/5aS14v4x5nkDvks91OhuoI"
+    },
+    {
+      "album": {
         "name": "Blood Sweat Tears",
         "url": "https://open.spotify.com/album/6fVJHWIF7IHFLoldp4Rbri"
       },
@@ -4050,7 +4068,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 246000,
       "name": "Cloudfall",
       "url": "https://open.spotify.com/track/1uEpwlrcgNuTLFYf8yQgfj"
@@ -5459,6 +5477,24 @@
     },
     {
       "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/4EOD7DDzAXnpBIpMCfWTyW"
+      },
+      "artists": [
+        {
+          "name": "Chat Pile",
+          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245293,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/5PbFV0TfKx6tojTmbRkQDX"
+    },
+    {
+      "album": {
         "name": "deep fake",
         "url": "https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF"
       },
@@ -6400,7 +6436,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 186237,
       "name": "Drag Me",
       "url": "https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H"
@@ -9290,6 +9326,24 @@
       "duration_ms": 217658,
       "name": "Guillotine",
       "url": "https://open.spotify.com/track/5mWs0zabZrREJBFfFCLhyj"
+    },
+    {
+      "album": {
+        "name": "Gun In The Duffel Bag",
+        "url": "https://open.spotify.com/album/7Gm8YxceqFlYL4rARkmzTh"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187488,
+      "name": "Gun In The Duffel Bag",
+      "url": "https://open.spotify.com/track/3UQRbslQYuNJBEJx18F9DK"
     },
     {
       "album": {
@@ -12356,6 +12410,24 @@
       "duration_ms": 158604,
       "name": "Laid to Rest - HEALTH Remix",
       "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
+    },
+    {
+      "album": {
+        "name": "Last One Here",
+        "url": "https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l"
+      },
+      "artists": [
+        {
+          "name": "Rev3rent",
+          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200493,
+      "name": "Last One Here",
+      "url": "https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7"
     },
     {
       "album": {
@@ -17544,7 +17616,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 206293,
       "name": "Roses & Rotting Corpses",
       "url": "https://open.spotify.com/track/5rnyv9rngYQjobMUExlExu"
@@ -20730,7 +20802,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 267848,
       "name": "The Beautiful Writing",
       "url": "https://open.spotify.com/track/5Fqz3OGvT0M2uWGiJ0VSfC"
@@ -21959,6 +22031,24 @@
     },
     {
       "album": {
+        "name": "The Sword That Never Bends",
+        "url": "https://open.spotify.com/album/1hw6fav6T9LRREMG3HRInR"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226796,
+      "name": "The Sword That Never Bends",
+      "url": "https://open.spotify.com/track/4Rxlwrod7V5fN1blhkhzq7"
+    },
+    {
+      "album": {
         "name": "The Trooper",
         "url": "https://open.spotify.com/album/6we9preGiPMKlAlHFWx4FH"
       },
@@ -22892,7 +22982,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 201477,
       "name": "Twisting The Knife (feat. Mckenna Grace)",
       "url": "https://open.spotify.com/track/2DaR6GuQKi78Lq32oRv38C"

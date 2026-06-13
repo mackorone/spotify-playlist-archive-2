@@ -794,7 +794,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 199877,
       "name": "Amor",
       "url": "https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 139200,
       "name": "ARABE",
       "url": "https://open.spotify.com/track/3av1uwgFJsDxdb3eI7WfN6"
@@ -5497,6 +5497,24 @@
     },
     {
       "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "L a k e n o s h i",
+      "url": "https://open.spotify.com/track/6OoYmAP9oZtBiSomWpDTWP"
+    },
+    {
+      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
       },
@@ -7001,6 +7019,28 @@
     },
     {
       "album": {
+        "name": "Milloneta",
+        "url": "https://open.spotify.com/album/5UReYA6nj1gAMxwXaQozR8"
+      },
+      "artists": [
+        {
+          "name": "1717177x",
+          "url": "https://open.spotify.com/artist/5uIvZ6y0SpfMHObdzv5FMp"
+        },
+        {
+          "name": "Jesp7Tearz",
+          "url": "https://open.spotify.com/artist/2hKzSNbt10rdDMtede2Gbi"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160049,
+      "name": "Milloneta",
+      "url": "https://open.spotify.com/track/54kf02fRFBOQLWaCbHMNVf"
+    },
+    {
+      "album": {
         "name": "Minnie 2",
         "url": "https://open.spotify.com/album/5e41lx6k8TLJWeLfFhiIhJ"
       },
@@ -7638,7 +7678,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 166342,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/4WegEknoxkBCLuRQf6BEEB"
@@ -9286,7 +9326,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 234346,
       "name": "QU\u00c9 GANAS DE COMERTE",
       "url": "https://open.spotify.com/track/0MmbPDBxrlSLSgcfZPrGe0"
@@ -11675,6 +11715,24 @@
     },
     {
       "album": {
+        "name": "UNA NA MAS",
+        "url": "https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196256,
+      "name": "UNA NA MAS",
+      "url": "https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"
+    },
+    {
+      "album": {
         "name": "UWAIE",
         "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
       },
@@ -11722,7 +11780,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 199253,
       "name": "VAMOaCOCHI",
       "url": "https://open.spotify.com/track/1oghNMGW42IhtQPNU6leZz"

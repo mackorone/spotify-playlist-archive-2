@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-225 songs - 12 hr 45 min
+226 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Feed The Birds](https://open.spotify.com/track/2g2ILU6MO1wipY0uf0S0ZL) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 4:57 | 2024-01-29 |  |
 | [Fires](https://open.spotify.com/track/6XwnteGIx2S5qX7uwxxaUs) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Fires](https://open.spotify.com/album/6eerHGntUp3TiZRZ310KSr) | 3:07 | 2024-01-29 |  |
 | [Flicker \(Kanye West Rework\)](https://open.spotify.com/track/0A8cJT245zXmWhcQWbtmw3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Flicker \(Kanye West Rework\) \[From The Hunger Games: Mockingjay Part 1\]](https://open.spotify.com/album/112eEMM7VwHVEknE4hHjjY) | 4:12 | 2024-01-29 |  |
+| [Flowers](https://open.spotify.com/track/2GCf6BF7vIqwPMmArZOeKS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 2:26 | 2026-06-12 |  |
 | [Follow You](https://open.spotify.com/track/0LtkAAEpEp1lkLX1ZvjHZb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:55 | 2024-01-31 |  |
 | [Follow You](https://open.spotify.com/track/3YkVie3EezKt4yBSus9y4e) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You](https://open.spotify.com/album/2zUhctNIE6fWoPPoGUkxdz) | 4:30 | 2024-01-29 | 2024-02-01 |
 | [For Real This Time](https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:13 | 2024-01-29 |  |

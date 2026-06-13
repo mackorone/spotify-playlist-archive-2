@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,714 likes - 45 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,715 likes - 45 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 20 | [Would You Lie](https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Would You Lie](https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V) | 3:34 |
 | 21 | [Backwards](https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:52 |
 | 22 | [Let Me In](https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:58 |
-| 23 | [Scared of Myself](https://open.spotify.com/track/5VbDVHAwEj0rHyQe1PwGTe) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Scared of Myself](https://open.spotify.com/album/6rHizPeJ2LhsHjCI6jv4Ha) | 3:18 |
-| 24 | [how dare you](https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:30 |
+| 23 | [how dare you](https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:30 |
+| 24 | [Scared of Myself](https://open.spotify.com/track/5VbDVHAwEj0rHyQe1PwGTe) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Scared of Myself](https://open.spotify.com/album/6rHizPeJ2LhsHjCI6jv4Ha) | 3:18 |
 | 25 | [Best Damn Thing](https://open.spotify.com/track/6i71yrjuQ9f1zUSVfEChem) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 3:52 |
 | 26 | [Good Things Go](https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 3:35 |
 | 27 | [Here Again](https://open.spotify.com/track/7jPJda9RNx6cD5VhsIgGa7) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Here Again](https://open.spotify.com/album/6nQqcSZTqkVmCLJ7OAbZiP) | 2:45 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 38 | [This Is Your Life](https://open.spotify.com/track/6wC22rOiOSbpwiAxAxG0kP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [This Is Your Life](https://open.spotify.com/album/1HKJnTZ2cEEE6ufiKTwzwP) | 2:35 |
 | 39 | [drunk thought](https://open.spotify.com/track/0LDgdxnp94Ut3f5d4Yxzcb) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:35 |
 | 40 | [when you love someone](https://open.spotify.com/track/0RcBg00iWhPxRbR7mm8q2Z) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [when you love someone](https://open.spotify.com/album/6DJ9hc2PzwTGMLdy1yZ7jB) | 2:53 |
-| 41 | [Shy](https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 3:32 |
-| 42 | [back to you](https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z) | 2:49 |
+| 41 | [back to you](https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z) | 2:49 |
+| 42 | [Shy](https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 3:32 |
 | 43 | [knowing you exist](https://open.spotify.com/track/2TRtmJg3JGtfKKnNOkU5Dn) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:24 |
 | 44 | [24 Hours](https://open.spotify.com/track/1ZGxwxXbpeydURjPS9mrmL) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [24 Hours](https://open.spotify.com/album/1huVzctnZbPXdXws24VOwz) | 3:18 |
 | 45 | [Aftermath](https://open.spotify.com/track/1JsXnvR7rYhrwMCsOtScOX) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 3:40 |
 
-Snapshot ID: `aiipAAAAAAAZnvVfWNF1x67zW+AuJNvO`
+Snapshot ID: `ain6gAAAAAAX1KWHRjAKz7D4c6i1im+h`

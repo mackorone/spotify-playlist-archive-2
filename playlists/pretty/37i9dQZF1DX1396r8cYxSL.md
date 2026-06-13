@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2026 yazının şarkıları.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,601 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,892 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 8 | [Daha İyi](https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Daha İyi](https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx) | 3:18 |
 | 9 | [Kalpsiz Bir Serseri \- Live](https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Kalpsiz Bir Serseri \(Live\)](https://open.spotify.com/album/3R7BUFaIAw3RPuf6eybWHB) | 3:44 |
 | 10 | [YIN YANG](https://open.spotify.com/track/3e0XM5ARlFVbWLfdR7zZvp) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [YIN YANG](https://open.spotify.com/album/5zTpynQLSJo8yiG5U8rJXn) | 3:00 |
-| 11 | [git](https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:38 |
-| 12 | [Seni Düşündüm](https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr) | [Çağla](https://open.spotify.com/artist/6z5LOKPoOll2mbBqsQrMqp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Seni Düşündüm](https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH) | 3:16 |
+| 11 | [Seni Düşündüm](https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr) | [Çağla](https://open.spotify.com/artist/6z5LOKPoOll2mbBqsQrMqp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Seni Düşündüm](https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH) | 3:16 |
+| 12 | [git](https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:38 |
 | 13 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 |
 | 14 | [TAK TAK TAK](https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TAK TAK TAK](https://open.spotify.com/album/5QWdCZD91757ow6zCrYTnr) | 1:30 |
 | 15 | [DVD](https://open.spotify.com/track/0GabRJwqSIxLv3A139Lu6b) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [DVD](https://open.spotify.com/album/3eo8Bg1zgmRawhtSWJSpbp) | 2:33 |
-| 16 | [SEVMEYİ DENEMEDİN](https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:52 |
-| 17 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 |
+| 16 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 |
+| 17 | [SEVMEYİ DENEMEDİN](https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:52 |
 | 18 | [Aldanırım](https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Aldanırım](https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt) | 3:21 |
 | 19 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 |
 | 20 | [Sabrettim](https://open.spotify.com/track/1PkXm3F4IHE4cwm3D9y1tr) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Sabrettim](https://open.spotify.com/album/1F9mSnW3E9HjHLAzqO0cjP) | 3:05 |

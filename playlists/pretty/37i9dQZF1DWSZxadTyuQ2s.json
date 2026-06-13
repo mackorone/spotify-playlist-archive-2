@@ -1,6 +1,6 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover:  Ayra Starr",
-  "num_followers": 37314,
+  "num_followers": 37380,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2026-06-12 00:01:27",
       "album": {
-        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 137390,
-      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
-    },
-    {
-      "added_at": "2026-06-12 00:01:27",
-      "album": {
         "name": "HIM",
         "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 202547,
       "name": "HIM (feat. Gunna)",
       "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
+    },
+    {
+      "added_at": "2026-06-12 00:01:27",
+      "album": {
+        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 137390,
+      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
     },
     {
       "added_at": "2026-06-12 00:01:27",
@@ -1527,6 +1527,34 @@
     {
       "added_at": "2026-06-12 00:01:27",
       "album": {
+        "name": "STINGY",
+        "url": "https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "duration_ms": 220206,
+      "name": "STINGY",
+      "url": "https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3"
+    },
+    {
+      "added_at": "2026-06-12 00:01:27",
+      "album": {
         "name": "Juvie",
         "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
       },
@@ -1559,34 +1587,6 @@
       "duration_ms": 172053,
       "name": "COMMAS",
       "url": "https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB"
-    },
-    {
-      "added_at": "2026-06-12 00:01:27",
-      "album": {
-        "name": "STINGY",
-        "url": "https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
-        },
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
-        }
-      ],
-      "duration_ms": 220206,
-      "name": "STINGY",
-      "url": "https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3"
     },
     {
       "added_at": "2026-06-12 00:01:27",

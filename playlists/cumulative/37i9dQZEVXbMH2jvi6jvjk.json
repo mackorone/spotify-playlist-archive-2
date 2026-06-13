@@ -10498,7 +10498,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 283582,
       "name": "Chocolate Gaga",
       "url": "https://open.spotify.com/track/0sz5lMk2ifLqcbqHTFVLeC"
@@ -16638,7 +16638,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 308950,
       "name": "Ezohlala Nawe",
       "url": "https://open.spotify.com/track/7FUviW38N6A2UtkRnMkyKt"
@@ -25512,7 +25512,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 237662,
       "name": "Isibaya Sikababa",
       "url": "https://open.spotify.com/track/2rHahLGm4dlLrEGmEN3lOb"
@@ -27922,7 +27922,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 279075,
       "name": "Ke bona wena fela",
       "url": "https://open.spotify.com/track/6U7oHl7p5fbsJaJouhVPSH"
@@ -29754,6 +29754,44 @@
       "duration_ms": 476410,
       "name": "Langa'elihle (feat. Babalwa M, Yallunder & Sia Mzizi)",
       "url": "https://open.spotify.com/track/1UAJu97cqaKFs5S0suFhvH"
+    },
+    {
+      "album": {
+        "name": "Lapisa",
+        "url": "https://open.spotify.com/album/2IR4tcbujtyoJEPw2B0wNl"
+      },
+      "artists": [
+        {
+          "name": "Rush-Awa",
+          "url": "https://open.spotify.com/artist/19EhZztnQppJEafanhneB2"
+        },
+        {
+          "name": "DJ Sliqe",
+          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
+        },
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        },
+        {
+          "name": "Lowfeye",
+          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
+        },
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        },
+        {
+          "name": "Dolphin_DX",
+          "url": "https://open.spotify.com/artist/4cV5iCkYqFQWSHwOhrbsWc"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183653,
+      "name": "Lapisa",
+      "url": "https://open.spotify.com/track/15RIqHfkskCDHe5ore07F4"
     },
     {
       "album": {
@@ -32858,7 +32896,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 307681,
       "name": "Make Them Cry",
       "url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
@@ -35302,7 +35340,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 384000,
       "name": "Mngani Wami (Jaydecai)",
       "url": "https://open.spotify.com/track/6R57BSk5QPahDhxRuVqWoh"
@@ -35824,7 +35862,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 272033,
       "name": "Mopepe",
       "url": "https://open.spotify.com/track/6L1PVPyrnb20UrFzuBBqoy"
@@ -38360,7 +38398,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 322533,
       "name": "Ngimbe Lomhlabathi",
       "url": "https://open.spotify.com/track/72oyGMRvX2axcCxtCHdvSx"
@@ -40512,7 +40550,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 188971,
       "name": "Ola Sbali",
       "url": "https://open.spotify.com/track/3RL87os1VKhglGA6CpgdWV"
@@ -47446,7 +47484,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 278073,
       "name": "Sekuzolunga Mama",
       "url": "https://open.spotify.com/track/6W8CWNHx5yktT9EPIPBYFR"
@@ -51550,7 +51588,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 215745,
       "name": "STOP and GO",
       "url": "https://open.spotify.com/track/5xqgBnOpJHAqN0IbGEodh9"
@@ -53254,7 +53292,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 346277,
       "name": "Thandolwethu",
       "url": "https://open.spotify.com/track/0aXocmdjaWdkbYZ2ToDpre"
@@ -56578,6 +56616,28 @@
       "duration_ms": 278360,
       "name": "U tani dlayisa",
       "url": "https://open.spotify.com/track/1ZJLFq3S5p14YDlKi2mKNA"
+    },
+    {
+      "album": {
+        "name": "U XA",
+        "url": "https://open.spotify.com/album/6bgrhWDlYyAGIIeUz7Ppjk"
+      },
+      "artists": [
+        {
+          "name": "UMnotho",
+          "url": "https://open.spotify.com/artist/2h2oLC9oYSV4kYoAnHQHhd"
+        },
+        {
+          "name": "Mjabulisi",
+          "url": "https://open.spotify.com/artist/7cHTggdS9DqKE9oP1FTuZS"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203388,
+      "name": "U XA",
+      "url": "https://open.spotify.com/track/2iUNIB5d8YnPEYvn3QjaAg"
     },
     {
       "album": {

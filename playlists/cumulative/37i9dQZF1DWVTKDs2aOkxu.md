@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Slow Pulp
 
-1,010 songs - 2 day 11 hr 58 min
+1,011 songs - 2 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Dust Bowl](https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 6:26 | 2025-08-07 | 2025-10-24 |
 | [Dust in the Wind](https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Dust in the Wind](https://open.spotify.com/album/2jNfiECR8FRr7SsnLiZ7dJ) | 2:50 | 2026-05-28 |  |
 | [Earth, Wind & California](https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 3:04 | 2026-03-06 | 2026-05-08 |
+| [East Village](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 3:31 | 2026-06-11 |  |
 | [easy come, easy go](https://open.spotify.com/track/5PBgZay3xweMFXwFeOHt7l) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [easy come, easy go](https://open.spotify.com/album/4MipiuAkMUsERLt3w1A3H0) | 3:06 | 2025-08-14 | 2025-10-24 |
 | [Eat Quiche, Sleep, Repeat](https://open.spotify.com/track/7fDiApidJ0QXtwH8cvozlj) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Eat Quiche, Sleep, Repeat](https://open.spotify.com/album/2S6TrWfjwEl2a47o5TMtqi) | 3:53 | 2025-05-01 | 2025-07-04 |
 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 | 2025-08-14 | 2025-10-24 |
@@ -452,6 +453,7 @@
 | [In The Modern World](https://open.spotify.com/track/3kQmcD1XU29nSMrS7kgsWm) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 4:26 | 2024-08-22 | 2024-12-06 |
 | [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 | 2024-08-20 | 2024-08-23 |
 | [In Violet](https://open.spotify.com/track/1QGzywHvE2qoqqkFzANyYb) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [In Violet](https://open.spotify.com/album/5tbSWLTwv3f6Mw2uDXWgX6) | 4:09 | 2026-01-23 | 2026-04-24 |
+| [In Yr Right Hand Reveal Heaven](https://open.spotify.com/track/5XupJq5fBAe68ZTNP6056a) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [In Yr Right Hand Reveal Heaven](https://open.spotify.com/album/0Dhknp1ZINLIp1TV8QJpH2) | 4:41 | 2026-06-12 |  |
 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 | 2025-06-05 | 2025-07-11 |
 | [Into the Sky](https://open.spotify.com/track/2bo1qVBpVO9xHDuOmJzcCZ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Into The Sky](https://open.spotify.com/album/6y6mFe56cz3DFMpXaXOBag) | 2:15 | 2026-06-04 |  |
 | [Inventing](https://open.spotify.com/track/7J9yJOa21b55I5GGUwFgfL) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Inventing](https://open.spotify.com/album/6Ueeq9CJhTfh1FBdSmuKmk) | 3:21 | 2025-11-14 | 2025-12-05 |
@@ -717,7 +719,7 @@
 | [Roobosh](https://open.spotify.com/track/4SGcQ6xwzsSPhugTOgcp7n) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Roobosh](https://open.spotify.com/album/3NZo87MKa0nCKlqbk6BoR5) | 3:20 | 2025-07-10 | 2025-09-19 |
 | [rooster](https://open.spotify.com/track/5gTYOYsiGMYVa6WVf98q1n) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [rooster](https://open.spotify.com/album/2wDHpVaU5WuuRgkn52Lp2e) | 5:35 | 2025-09-18 | 2025-10-17 |
 | [Roses In The Kitchen](https://open.spotify.com/track/4NSbxF11DKXMbNHdezK6bR) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Quiet Invitation To A Hard Conversation](https://open.spotify.com/album/77tEPBluanfT3lS8AkBgpB) | 3:28 | 2024-08-08 | 2024-09-06 |
-| [Rotting](https://open.spotify.com/track/2JgO5KBmsglXqory65ZYJT) | [Pixie McCann](https://open.spotify.com/artist/2JT4el59Lvkj4FrhbzdBSu) | [Rotting](https://open.spotify.com/album/7ps98sDD62TGLNgWO3O377) | 4:13 | 2026-05-14 |  |
+| [Rotting](https://open.spotify.com/track/2JgO5KBmsglXqory65ZYJT) | [Pixie McCann](https://open.spotify.com/artist/2JT4el59Lvkj4FrhbzdBSu) | [Rotting](https://open.spotify.com/album/7ps98sDD62TGLNgWO3O377) | 4:13 | 2026-05-14 | 2026-06-13 |
 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 | 2025-10-23 | 2025-12-12 |
 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 | 2025-07-04 | 2025-09-27 |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-06-27 | 2024-07-05 |
@@ -928,7 +930,6 @@
 | [Total euphoria](https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Total euphoria](https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv) | 4:30 | 2025-05-29 | 2025-08-01 |
 | [Total euphoria](https://open.spotify.com/track/5GHYjIrLwK4e7WTTZZcJt5) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2](https://open.spotify.com/album/1CmdanwOGnV5QevtJQL6bN) | 4:30 | 2025-12-19 | 2026-02-27 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2026-01-23 |
-| [Track 4](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 0:00 | 2026-06-11 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-06-05 |
 | [Trap Door](https://open.spotify.com/track/2YmU8nq1nHFrRLJTOonDC2) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Gumshoe](https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo) | 2:27 | 2025-05-01 | 2025-06-27 |
 | [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 | 2024-10-03 | 2024-11-15 |
@@ -981,7 +982,7 @@
 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 | 2025-08-28 | 2025-11-14 |
 | [When england comes](https://open.spotify.com/track/2TcUaZUxjRv2Iwo0BVhKSF) | [Pollyfromthedirt](https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM) | [When england comes](https://open.spotify.com/album/5GHoySgrasrewtuUWFlDAX) | 2:52 | 2026-01-23 | 2026-02-20 |
 | [When I Wake Up I'm Sad](https://open.spotify.com/track/5xT3wvyIlD1H2pxAJjMYTV) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [When I Wake Up I'm Sad](https://open.spotify.com/album/1KS7kJbZUASitLCrZ3vnbG) | 4:27 | 2024-11-15 | 2025-02-07 |
-| [When The Dawn Breaks](https://open.spotify.com/track/2pyTm14T04nkS3VPzRMscM) | [Charlie Noordewier](https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk) | [Joy & Despair](https://open.spotify.com/album/3kC0MOqq6vxjAsFcTf52NY) | 4:15 | 2026-06-11 |  |
+| [When The Dawn Breaks](https://open.spotify.com/track/2pyTm14T04nkS3VPzRMscM) | [Charlie Noordewier](https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk) | [Joy and Despair](https://open.spotify.com/album/3kC0MOqq6vxjAsFcTf52NY) | 4:15 | 2026-06-11 |  |
 | [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 | 2025-12-05 | 2026-04-17 |
 | [Where I Left Us](https://open.spotify.com/track/7lK2E3l1hckTDxfbGxHr6z) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Where I Left Us](https://open.spotify.com/album/7jUP9aI7MfsViyidFLjnLI) | 3:03 | 2024-07-25 | 2024-10-04 |
 | [Where To Look](https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Where To Look](https://open.spotify.com/album/4fwjQarLnKj466NhmGtlgc) | 4:50 | 2025-06-05 | 2025-07-11 |

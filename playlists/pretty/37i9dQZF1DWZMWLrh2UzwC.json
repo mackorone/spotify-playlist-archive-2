@@ -1,12 +1,12 @@
 {
   "description": "New music from Olivia Rodrigo, BTS, Khai Bahar, BABYMONSTER, A-Lin, and more!",
-  "num_followers": 75030,
+  "num_followers": 75149,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMiyEDwWlrPkbHuK7rR99s8KVC6c",
+  "snapshot_id": "AAAAADWIMkuORtxC+PK+tPdy3I/n8BGt",
   "tracks": [
     {
       "added_at": "2026-06-11 16:05:02",
@@ -23,6 +23,46 @@
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
+    },
+    {
+      "added_at": "2026-06-12 04:02:11",
+      "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 178603,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
+    },
+    {
+      "added_at": "2026-06-12 04:02:11",
+      "album": {
+        "name": "ICONIC BY MISTAKE",
+        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 177982,
+      "name": "ICONIC BY MISTAKE",
+      "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
     },
     {
       "added_at": "2026-06-11 16:05:02",
@@ -157,6 +197,26 @@
       "url": "https://open.spotify.com/track/4Y3253lAyzFqLhcUgYEY62"
     },
     {
+      "added_at": "2026-06-12 04:02:11",
+      "album": {
+        "name": "GIRLS (feat. Kehlani) [Remix]",
+        "url": "https://open.spotify.com/album/6e6UkAyTbXyxZOBK2o2AGe"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 152979,
+      "name": "GIRLS (feat. Kehlani) - Remix",
+      "url": "https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV"
+    },
+    {
       "added_at": "2026-06-11 16:05:02",
       "album": {
         "name": "DIRTY BLONDE",
@@ -184,8 +244,8 @@
           "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 184417,
+      "name": "Faking Smiles",
       "url": "https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2"
     },
     {
@@ -220,8 +280,8 @@
           "url": "https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 166567,
+      "name": "under my skin",
       "url": "https://open.spotify.com/track/2PWyhubh6VvSTlrw5w3m6t"
     },
     {
@@ -552,7 +612,7 @@
       },
       "artists": [
         {
-          "name": "Janice Yan",
+          "name": "\u95bb\u5955\u683c Janice Yan",
           "url": "https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp"
         }
       ],
@@ -643,6 +703,26 @@
       "duration_ms": 157076,
       "name": "In The Name Of Healing - from the Prime Original Movie \u2018Your Fault: London\u2019",
       "url": "https://open.spotify.com/track/6nnt4dluOfRFlrZawFHTbc"
+    },
+    {
+      "added_at": "2026-06-12 04:02:11",
+      "album": {
+        "name": "GEMINI SEASON",
+        "url": "https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "duration_ms": 106500,
+      "name": "GEMINI SEASON",
+      "url": "https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1"
     },
     {
       "added_at": "2026-06-11 16:05:02",
@@ -1153,6 +1233,22 @@
       "url": "https://open.spotify.com/track/54pOjg9ZcVQ9P3kpfTROcX"
     },
     {
+      "added_at": "2026-06-12 09:00:03",
+      "album": {
+        "name": "Mongolian spot",
+        "url": "https://open.spotify.com/album/6Tbbepp2W6XH3QqEcBMNoU"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "duration_ms": 171343,
+      "name": "Better left unsaid",
+      "url": "https://open.spotify.com/track/5wSkrhbgnx58Z2zlj4w5b2"
+    },
+    {
       "added_at": "2026-06-11 16:05:02",
       "album": {
         "name": "ENAMORED",
@@ -1171,22 +1267,6 @@
     {
       "added_at": "2026-06-11 16:05:02",
       "album": {
-        "name": "Sitting Pretty",
-        "url": "https://open.spotify.com/album/4IJl9kkLJeMalVJjSPaWtQ"
-      },
-      "artists": [
-        {
-          "name": "Madds Buckley",
-          "url": "https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq"
-        }
-      ],
-      "duration_ms": 255004,
-      "name": "Sitting Pretty",
-      "url": "https://open.spotify.com/track/14Jwe1jWvkDUXPKEYs8D3f"
-    },
-    {
-      "added_at": "2026-06-11 16:05:02",
-      "album": {
         "name": "God Must Really Love Me",
         "url": "https://open.spotify.com/album/2PgYxXmW7geBRncBAgpzNL"
       },
@@ -1199,6 +1279,30 @@
       "duration_ms": 198866,
       "name": "Hurts So Good",
       "url": "https://open.spotify.com/track/5EQFlXjVAQEv39DKvHSmdv"
+    },
+    {
+      "added_at": "2026-06-12 04:02:11",
+      "album": {
+        "name": "Sacrifices (feat. James Fauntleroy)",
+        "url": "https://open.spotify.com/album/38l98Pl2npTFNM3tl9tife"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "duration_ms": 268331,
+      "name": "Sacrifices (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/3s75C1nQTml1i3zOyXaMGw"
     },
     {
       "added_at": "2026-06-11 16:05:02",
@@ -1459,7 +1563,7 @@
     {
       "added_at": "2026-06-11 16:05:02",
       "album": {
-        "name": "Follow Me",
+        "name": "Follow Me (feat. RedOne)",
         "url": "https://open.spotify.com/album/06RhYSAgH9jdM6j1iaDcv0"
       },
       "artists": [
@@ -1485,7 +1589,7 @@
         }
       ],
       "duration_ms": 232941,
-      "name": "Follow Me",
+      "name": "Follow Me (feat. RedOne)",
       "url": "https://open.spotify.com/track/7EqulVHbWDM0SR2e2IFpDv"
     },
     {

@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,793 songs - 3 day 19 hr 45 min
+1,794 songs - 3 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Cola](https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Cola](https://open.spotify.com/album/7zxKbImjdH3iLRwAT1XWoX) | 2:13 | 2026-01-29 | 2026-03-06 |
 | [Cold As Ice](https://open.spotify.com/track/3tW9811KrWQxa0SIxaFWUF) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Cold As Ice](https://open.spotify.com/album/3GUacx6dbm7SNjNGel4srO) | 3:30 | 2025-01-17 | 2025-02-21 |
 | [Color](https://open.spotify.com/track/6G0eyTmvrL4gjrXRfMnGuj) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [Color](https://open.spotify.com/album/0K6D8Qtm7XGmRn2RLcGiWp) | 2:46 | 2024-07-25 | 2024-09-06 |
+| [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 | 2026-06-11 |  |
 | [Coming Close](https://open.spotify.com/track/64uIpEA5lQruLaWkLBe1gD) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Coming Close](https://open.spotify.com/album/1J5Wu7w9kslu8f7OGd4R7H) | 2:58 | 2026-03-19 | 2026-05-01 |
 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 | 2026-03-05 | 2026-05-01 |
 | [COMPASS](https://open.spotify.com/track/6PtvYwIwjxzdiGp75CpSEq) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [COMPASS](https://open.spotify.com/album/1lJt7C7eHagAriSFVvZMGH) | 2:46 | 2025-12-11 | 2026-02-13 |

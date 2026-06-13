@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 
 > The biggest old school anthems from your favourite nightclub spots!
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,186 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,188 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 93 | [Sunshine \- Wookie Main Mix](https://open.spotify.com/track/5q1hpdlf8ncJUhKLyjHoHB) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi), [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Rise](https://open.spotify.com/album/2R6V1HDBBgRxfu469y6V6R) | 4:26 |
 | 94 | [Freak Like Me \- Dome's Peak Freak Remix](https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2) | [Dub Conspiracy](https://open.spotify.com/artist/50JXpwiwsojrMGGHVfif0r), [Tru Faith](https://open.spotify.com/artist/08aJyCqJgyyEVklHZe77R9), [Dome](https://open.spotify.com/artist/3889voMug5hvUtUVC9WaUe) | [Freak Like Me](https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE) | 4:52 |
 | 95 | [Candy](https://open.spotify.com/track/0BzapQ62bPrdKS8sGVQ7UF) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [R&B Classics Collection](https://open.spotify.com/album/2ZZiI4Jg5SYg7suQwGSv4z) | 4:06 |
-| 96 | [Tell Me It's Real \- Club Asylum Steppers Mix](https://open.spotify.com/track/7qvjI9Mo0KQTGz6NB0ZLYQ) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [X](https://open.spotify.com/album/48JsbOoVdwVMARvLKoYZYY) | 3:39 |
-| 97 | [Poision](https://open.spotify.com/track/03vwrapDLyriXEYpM1GJPj) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [Scott Garcia](https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b), [Shy Cookie](https://open.spotify.com/artist/65wWCNrpeb8t3A6707RG5B) | [Poision](https://open.spotify.com/album/5hZRHbGRokvmSvRFsEdLGL) | 5:05 |
+| 96 | [Poision](https://open.spotify.com/track/03vwrapDLyriXEYpM1GJPj) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [Scott Garcia](https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b), [Shy Cookie](https://open.spotify.com/artist/65wWCNrpeb8t3A6707RG5B) | [Poision](https://open.spotify.com/album/5hZRHbGRokvmSvRFsEdLGL) | 5:05 |
+| 97 | [Tell Me It's Real \- Club Asylum Steppers Mix](https://open.spotify.com/track/7qvjI9Mo0KQTGz6NB0ZLYQ) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [X](https://open.spotify.com/album/48JsbOoVdwVMARvLKoYZYY) | 3:39 |
 | 98 | [Nasty Girl \(feat\. Diddy, Nelly, Jagged Edge & Avery Storm\) \- 2005 Remaster](https://open.spotify.com/track/3NnUocBmP4PuEEe1eQkuwE) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Avery Storm](https://open.spotify.com/artist/79OSA519ScnPY0MVDpu8ZV), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nasty Girl \(feat\. Diddy, Nelly, Jagged Edge & Avery Storm\)](https://open.spotify.com/album/3sgDRuyfe42VX9rGDW7aBi) | 4:46 |
 | 99 | [Girlfriend](https://open.spotify.com/track/5TxdQaqp2Xn9IBTlfq26l7) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7gfXFkA259SkaFeJxSFtKE) | 4:13 |
 | 100 | [Dip It Low](https://open.spotify.com/track/3CldFq28sCroIcmc42pRmZ) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Girls' Night Out](https://open.spotify.com/album/25akGACCyuW80OnWrv8kjJ) | 3:16 |

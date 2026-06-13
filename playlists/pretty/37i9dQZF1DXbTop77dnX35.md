@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 ### [New Music Friday Naija](https://open.spotify.com/playlist/37i9dQZF1DXbTop77dnX35)
 
-> New Music from Ayra Starr, MOLIY, Shoday, 6uff, Bloody Civilian and more
+> New Music from Ayra Starr, Shoday, 6uff, Bloody Civilian and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,666 likes - 57 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,438 likes - 57 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 3 | [Holiday](https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe), [Tu Musica](https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa) | [Holiday](https://open.spotify.com/album/76VDoUkaQPQ0UrgBKnKajv) | 1:59 |
 | 4 | [Ijoba](https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Ijoba](https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj) | 2:19 |
 | 5 | [Samankwe](https://open.spotify.com/track/1ouLGBzR2y1EOHhcrB2bjo) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Samankwe](https://open.spotify.com/album/2WX5SHLMFmA1yvqNKgkkmH) | 2:24 |
-| 6 | [SpaceFuji](https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Terry apala](https://open.spotify.com/artist/1Ct52UFTjvAZu1pOuMWXY1), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SpaceFuji](https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP) | 3:19 |
+| 6 | [SpaceFuji](https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SpaceFuji](https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP) | 3:19 |
 | 7 | [Ripper's Fate](https://open.spotify.com/track/7vAG802uK3ACnXRokc6VIX) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [Ripper's Fate](https://open.spotify.com/album/4lgOFpzSFOgxOnmfFB6kIB) | 2:29 |
 | 8 | [Hate That I Love You](https://open.spotify.com/track/4Z5WbiyKtTMFWgqK7ErFKv) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Hate That I Love You](https://open.spotify.com/album/6mNgkMoCmIAuQuFDTfMu8M) | 2:37 |
 | 9 | [EVERLASTING](https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [EVERLASTING](https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q) | 2:19 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 56 | [Terminé](https://open.spotify.com/track/2kCpJcd7oKKJBb8oCkAQdu) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Terminé](https://open.spotify.com/album/6M6flSEBeH8E0ry91NrBKb) | 3:30 |
 | 57 | [Hotela \(feat\. Danya Devs & Scotts Maphuma\)](https://open.spotify.com/track/5GXhOvp73Pvx7N1JH8BVgX) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS) | [Hotela \(feat\. Danya Devs & Scotts Maphuma\)](https://open.spotify.com/album/7Mt5ovrmbhl67kOsxDTtdg) | 3:54 |
 
-Snapshot ID: `AAAAAIMK+RkgTZZ0GAUVybM2RK2iLAlg`
+Snapshot ID: `AAAAANBiVVfCwNt9rojg0St+DaRfc7bN`

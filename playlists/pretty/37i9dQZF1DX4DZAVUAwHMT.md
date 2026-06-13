@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Tooth
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,885 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,889 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Evolution](https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Evolution](https://open.spotify.com/album/10reOzyrRiJQehulKminkn) | 3:45 |
 | 2 | [my way](https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:00 |
 | 3 | [Hanging Out To Dry](https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Spring Forward](https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS) | 3:32 |
-| 4 | [Track 3](https://open.spotify.com/track/2rDDv4XPcSEr5yGOq02TqI) | [Tooth](https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s) | [Restless in Bloom](https://open.spotify.com/album/7l49pdK2f75zovPPc2XiGE) | 0:00 |
+| 4 | [Wallflower](https://open.spotify.com/track/2rDDv4XPcSEr5yGOq02TqI) | [Tooth](https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s) | [Restless in Bloom](https://open.spotify.com/album/7l49pdK2f75zovPPc2XiGE) | 3:21 |
 | 5 | [Big Dog](https://open.spotify.com/track/1tj4Kq6N4WKmO04hlI4LzX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Big Dog](https://open.spotify.com/album/1k79RlHZDI58FbHus50Jz1) | 2:59 |
 | 6 | [Who Will You Follow](https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Who Will You Follow](https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR) | 3:55 |
 | 7 | [We Might as Well Be Strangers \(ft\. Wednesday\)](https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [We Might as Well Be Strangers \(ft\. Wednesday\)](https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS) | 3:34 |

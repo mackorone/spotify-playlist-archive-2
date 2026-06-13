@@ -4,7 +4,7 @@
 
 > a playlist without boundaries 👽 cover: amie blu
 
-1,023 songs - 2 day 4 hr 17 min
+1,024 songs - 2 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -982,6 +982,7 @@
 | [What Do We Ever Really Know?](https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [What Do We Ever Really Know?](https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv) | 3:53 | 2025-07-24 | 2025-10-10 |
 | [What Happened.](https://open.spotify.com/track/4JHIRSicUIwvi997lxoAN3) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [15](https://open.spotify.com/album/5eDAiMfKjtgrk5RK7OTfvO) | 2:33 | 2025-02-28 | 2025-04-04 |
 | [What I Need](https://open.spotify.com/track/4a2DRKfc3k6qTYXoSmczrI) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [What I Need](https://open.spotify.com/album/1b9ubXjaWE0ODYPrwFyFVM) | 4:11 | 2024-06-27 | 2024-07-19 |
+| [What if I miss you for the rest of my life?](https://open.spotify.com/track/6sPDoOT1ekdrtu745ElRoH) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [What if I miss you for the rest of my life? \(Live in the Studio\)](https://open.spotify.com/album/0tQauLYW5VfiQjHBi2GwxX) | 3:06 | 2026-06-12 |  |
 | [WHAT IS FOREVER FOR \(The Dare Remix\)](https://open.spotify.com/track/4hVmWazZwKIyl4VwjTuU54) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [SISTER \(remixed\)](https://open.spotify.com/album/6i7XKcdzE3AVIWqh5DchaQ) | 3:00 | 2026-04-09 | 2026-04-24 |
 | [What You Say](https://open.spotify.com/track/5IjvjSpS8yL2IlqbIWJ2lw) | [Lilah Pi](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo) | [What You Say](https://open.spotify.com/album/4dGE1VdMghVArr8vC4CFUM) | 2:48 | 2024-10-17 | 2025-02-21 |
 | [what you wanted](https://open.spotify.com/track/0UIDfAbBO8ovcC60H4B25r) | [iggy](https://open.spotify.com/artist/0FQgaV4hZPHVwrVFHzZfcN) | [what you wanted / loading spot](https://open.spotify.com/album/3XkyfLhcG7FWU5MLEO8uDs) | 2:22 | 2026-03-13 | 2026-05-01 |

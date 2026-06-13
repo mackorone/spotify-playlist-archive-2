@@ -4,7 +4,7 @@
 
 > G.Mineiro in cover della playlist dello street rap italiano ⛓️
 
-1,078 songs - 2 day 0 hr 55 min
+1,080 songs - 2 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Chiamare 2](https://open.spotify.com/track/0GInNohJz3OQ3iPNJJob5h) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 2:00 | 2023-01-19 | 2023-05-05 |
 | [CHIARA](https://open.spotify.com/track/6SVpLJB1wm9OAbAjPt48hj) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [CHIARA](https://open.spotify.com/album/1reoBnQ4RB5hBB2EVFUIzm) | 2:29 | 2024-09-23 | 2024-11-15 |
 | [CHICCHI DI MAIS](https://open.spotify.com/track/6DfiF3w7udIgertxVxACql) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [CHICCHI DI MAIS](https://open.spotify.com/album/1vO11VjSP50ATrDbTvYzPX) | 2:50 | 2024-07-11 | 2024-07-27 |
+| [CHROME HEARTS \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/6bOwCTgqiUIEuGNdwTDpi5) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [WAR](https://open.spotify.com/album/3mFxzu5rkiqHh8P6xqJc7B) | 2:44 | 2026-06-12 |  |
 | [CHUCKY \(feat\. 167 Gang\)](https://open.spotify.com/track/60AFqmnCrJe5YO0DZtRPuJ) | [MadPrince](https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI), [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [CHUCKY \(feat\. 167 Gang\)](https://open.spotify.com/album/0lqijB0gCsZNAcaWra8eEr) | 3:02 | 2025-02-06 | 2025-03-14 |
 | [Cicatrici \(feat\. Nabi\)](https://open.spotify.com/track/77FQ6iMaTn7fT9IMdMnpEn) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 2:30 | 2023-01-12 | 2023-04-28 |
 | [CIGNI \(feat\. IvanBi\)](https://open.spotify.com/track/6yZct0rn2BazIN9L3DQcJa) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [TRAPPER](https://open.spotify.com/album/6zFkQhClJMrfFRuHfV5Fil) | 2:24 | 2026-01-23 | 2026-03-20 |
@@ -1049,6 +1050,7 @@
 | [Walkie Talkie](https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Walkie Talkie](https://open.spotify.com/album/02sDUCaTdnQXVqsTwlFA9B) | 2:20 | 2022-09-22 | 2022-10-28 |
 | [Walkie Talkie \(Red Bull 64 Bars\)](https://open.spotify.com/track/1qlbKS6AW1AzuA0DV2UdwR) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Walkie Talkie \(Red Bull 64 Bars\)](https://open.spotify.com/album/5HxgBRU0RWJkF2x1m69CyY) | 2:36 | 2024-05-30 | 2024-06-07 |
 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 | 2023-04-20 | 2023-11-07 |
+| [WAR](https://open.spotify.com/track/4VgCoWwGOglwXOTaCqszXV) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [WAR](https://open.spotify.com/album/3mFxzu5rkiqHh8P6xqJc7B) | 2:36 | 2026-06-12 |  |
 | [WARANZA](https://open.spotify.com/track/3vunrjJSbv06Q3WMitJ3Sb) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WARANZA](https://open.spotify.com/album/7lBViHTFvoLqwWEpLTN3aV) | 1:58 | 2024-01-25 | 2024-01-31 |
 | [Warzone \(feat\. Artie 5ive, Capo Plaza & Nerissima Serpe\)](https://open.spotify.com/track/6iFfFjKnr615pD7aL5Z2Cx) | [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Warzone \(feat\. Artie 5ive, Capo Plaza & Nerissima Serpe\)](https://open.spotify.com/album/3AXrg1yOKAwMlUbRDRfQbu) | 2:26 | 2025-12-18 |  |
 | [WE ON EM \(feat\. NLE Choppa\)](https://open.spotify.com/track/4dxGWEYW7UBxG1piCzVH6F) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [WE ON EM \(feat\. NLE Choppa\)](https://open.spotify.com/album/7udyn4k5NezxJxkmogAuxK) | 3:12 | 2023-05-17 | 2023-09-22 |

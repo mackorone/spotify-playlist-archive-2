@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [$106](https://open.spotify.com/track/0dzwSLr6doS6uRPYnsCwj4) | [Oranj Goodman](https://open.spotify.com/artist/3s9HeMWk4kpVAzjZ1e2lCG) | [$106](https://open.spotify.com/album/3vvSZ8c5cG502k6JeiSnGl) | 3:16 | 2025-12-26 |  |
+| [$106](https://open.spotify.com/track/0dzwSLr6doS6uRPYnsCwj4) | [Oranj Goodman](https://open.spotify.com/artist/3s9HeMWk4kpVAzjZ1e2lCG) | [$106](https://open.spotify.com/album/3vvSZ8c5cG502k6JeiSnGl) | 3:16 | 2025-12-26 | 2026-06-13 |
 | [17](https://open.spotify.com/track/5kxV0Tv6pbddmqqKJvlNtS) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 3:36 | 2023-09-15 | 2024-04-22 |
 | [21 Days](https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:20 | 2023-09-15 | 2023-10-28 |
 | [22 Make](https://open.spotify.com/track/0lQyu3gXsyuDj1MvZiVzXc) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [22 Make](https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F) | 3:32 | 2022-10-07 | 2022-11-14 |
@@ -121,7 +121,7 @@
 | [golden years](https://open.spotify.com/track/4xP5bdGofMzMQyH1TDFPp8) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [golden years](https://open.spotify.com/album/09knoNCuy7aCw2Ze6g5lBt) | 2:49 | 2022-05-27 | 2023-05-30 |
 | [Good Luck, Good Night](https://open.spotify.com/track/2AOawNs7D8TgKmlppSbGeb) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Good Luck, Good Night](https://open.spotify.com/album/7KFinYi5JPYtYpd5lYiiCu) | 4:21 | 2025-09-26 | 2026-04-01 |
 | [Good Ol' Days](https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv) | 3:23 | 2025-11-07 | 2026-04-01 |
-| [greener](https://open.spotify.com/track/2GU2QSVrYPtSnBxtg2nyBU) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [greener / garden](https://open.spotify.com/album/6BRxSf36UXoi7WWdyr3xHF) | 4:00 | 2025-10-10 | 2026-04-15 |
+| [greener](https://open.spotify.com/track/2GU2QSVrYPtSnBxtg2nyBU) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [greener / garden](https://open.spotify.com/album/6BRxSf36UXoi7WWdyr3xHF) | 4:00 | 2025-10-10 |  |
 | [Grow as We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 | 2022-11-22 | 2025-04-05 |
 | [Gunslinger](https://open.spotify.com/track/3sktlLWaTQykBQ7EzceDP3) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [My Home Is Not In This World](https://open.spotify.com/album/1JTg8PaBqbrOd1gdUadXpp) | 3:27 | 2026-01-05 | 2026-04-01 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-09-14 | 2023-04-01 |

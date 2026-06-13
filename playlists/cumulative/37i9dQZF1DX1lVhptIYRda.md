@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Taylor Swift
+> Today's top country hits\. Cover: Koe Wetzel
 
-1,010 songs - 2 day 6 hr 37 min
+1,011 songs - 2 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,7 +774,7 @@
 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 | 2020-02-22 | 2020-04-12 |
 | [Slow Down](https://open.spotify.com/track/56EhacvQF6dOcyjenle4tq) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Slow Down](https://open.spotify.com/album/3hZCtdmRCee5ceFggxahJJ) | 2:45 | 2025-02-07 | 2025-03-29 |
 | [Slow Down Summer](https://open.spotify.com/track/1fff5nZGyRJtFLkOrSSwOU) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Slow Down Summer](https://open.spotify.com/album/6uWWkRv3qKdFcFyayL1Vw4) | 3:36 | 2021-11-06 | 2022-06-18 |
-| [Slowly](https://open.spotify.com/track/7JxTS8CQYhbGWyKQGlODRX) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Slowly](https://open.spotify.com/album/4SgZ5WAc9sh048NJmht81X) | 3:11 | 2026-04-24 |  |
+| [Slowly](https://open.spotify.com/track/7JxTS8CQYhbGWyKQGlODRX) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Slowly](https://open.spotify.com/album/4SgZ5WAc9sh048NJmht81X) | 3:11 | 2026-04-24 | 2026-06-13 |
 | [Small Town Girl](https://open.spotify.com/track/2QCebkoOldG3sCKxBEX881) | [Seth Alley](https://open.spotify.com/artist/03iUAGyJwZiIhAF6PcSoxt) | [Small Town Girl](https://open.spotify.com/album/5nQeZ867pdGi93dPUmN7js) | 2:58 | 2019-10-19 | 2019-12-21 |
 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 | 2021-04-24 | 2021-07-24 |
 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 | 2024-12-31 | 2025-02-01 |
@@ -872,6 +872,7 @@
 | [Things A Man Oughta Know](https://open.spotify.com/track/7cwKO3SvjCpTyLiIWfnxpx) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Redneck Hollywood](https://open.spotify.com/album/613QlECyZpEDa6DTgkNAJ6) | 3:26 | 2020-08-30 | 2021-08-28 |
 | [Things I Can't Say \(feat\. Julia Cole\)](https://open.spotify.com/track/3kdQfsfmWiLbPFrcdvhSYg) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG), [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [East](https://open.spotify.com/album/2s6rMhFCohQJV0nvLoRQqJ) | 2:44 | 2020-09-26 | 2020-11-22 |
 | [Things I Take For Granted](https://open.spotify.com/track/2d3KkBpDlOCLT5Wlhrwhfd) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Earned It](https://open.spotify.com/album/182iKgpkS0r9XZDsjojCTP) | 3:26 | 2023-11-17 | 2024-05-11 |
+| [Think About Me](https://open.spotify.com/track/4rGkUNqOZ6Yf7VXAc1xHor) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Think About Me](https://open.spotify.com/album/2nQaXdzjSp7ZkNapPxIZiA) | 2:39 | 2026-06-12 |  |
 | [Think About That](https://open.spotify.com/track/0ZKJTquGSbkNpgTlQBWXAD) | [Chase Bryant](https://open.spotify.com/artist/7io3MyhMxDZoBYXp4rlRFA) | [Think About That](https://open.spotify.com/album/61rLv4iz256rZ5ZliRWsDz) | 3:51 | 2022-01-07 | 2022-04-02 |
 | [Think As You Drunk](https://open.spotify.com/track/20FhqUEadmPYCrJYzeyPSx) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Think As You Drunk](https://open.spotify.com/album/10I3RS2Ijy9GCVZZAVG7Al) | 3:48 | 2026-05-29 |  |
 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 | 2023-11-10 | 2024-09-07 |

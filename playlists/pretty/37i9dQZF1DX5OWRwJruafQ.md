@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, keep it real\. Cover: Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,607 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,645 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 3 | [Rhyme Ain’t Done](https://open.spotify.com/track/49aQ9RbGCOEu8oxkYr8Ous) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:01 |
 | 4 | [911](https://open.spotify.com/track/1EPcG4PNwL2YuvNHIKyMo0) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [911](https://open.spotify.com/album/4iKThPk799paKw0G6BYrXp) | 3:08 |
 | 5 | [Ace](https://open.spotify.com/track/33H3JkG5kAlqwgtI5rYbpP) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Chapter IV](https://open.spotify.com/album/3RRSy7ypBCuUbPorgw6bO7) | 2:45 |
-| 6 | [War Of Shera \(From "Shera"\)](https://open.spotify.com/track/2OOwJ4OokPWHJVFDTWMQZa) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ) | [War Of Shera \(From "Shera"\)](https://open.spotify.com/album/2nfeDXg2liLcjZCmWfCiZ3) | 2:53 |
-| 7 | [Car Culture](https://open.spotify.com/track/11FoY6Yj3iknqKuky8yv46) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Car Culture](https://open.spotify.com/album/2nxSwRZXkA8kU9DVhAZtps) | 3:29 |
-| 8 | [Cat Walk](https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Savraj](https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9) | [Three Plays](https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE) | 2:51 |
+| 6 | [Car Culture](https://open.spotify.com/track/11FoY6Yj3iknqKuky8yv46) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Car Culture](https://open.spotify.com/album/2nxSwRZXkA8kU9DVhAZtps) | 3:29 |
+| 7 | [Cat Walk](https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Savraj](https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9) | [Three Plays](https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE) | 2:51 |
+| 8 | [Folk Know](https://open.spotify.com/track/0O1tXwRRk5ewkyEEjcpQxs) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W) | [Folk Know](https://open.spotify.com/album/7J5KMOMgJd7hLMMWCogwhl) | 2:18 |
 | 9 | [TOP SPOT](https://open.spotify.com/track/1LcpgltaeOuzZJwmhmfZr7) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [RUMOUR HAS IT](https://open.spotify.com/album/2qugvR8s40FXXnRx2AXipX) | 2:58 |
 | 10 | [No Warning](https://open.spotify.com/track/0IpjYI6B7fQ8pHf7DehETC) | [Kotti](https://open.spotify.com/artist/6zEVcCS0Y87Yrv2Pxjzcps), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [No Warning](https://open.spotify.com/album/4m9NB3gZg9fIswBJ1Iraov) | 2:05 |
 | 11 | [Champion](https://open.spotify.com/track/66tuuvPdvGc0MfN6Ptotyw) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Babbu](https://open.spotify.com/artist/5i2ZfWkVWCMNjUFHyHMuPw), [Nav Prince](https://open.spotify.com/artist/43hVKGJyBP3vWbbMZKLQfF) | [Champion](https://open.spotify.com/album/3TovgbjOuPxvLFXYFFCCIn) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Agg](https://open.spotify.com/track/5q6w7VtiWgn2QM7hqbPKTN) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC) | [Agg](https://open.spotify.com/album/0Okv1CfnPJKMSlM9tey6IC) | 3:02 |
 | 100 | [Thinking](https://open.spotify.com/track/33R3qS9Gsq6ig289ZxiHFx) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [Thinking](https://open.spotify.com/album/2i5azk8pvUowCWqhRN1t4X) | 2:40 |
 
-Snapshot ID: `AAAAAPYFNHFlhiFOL04yrq3cCrxJnSsV`
+Snapshot ID: `AAAAAL1KFJX0afpMXoMJJej4SybSTc/N`

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Alvaro Diaz",
-  "num_followers": 99826,
+  "num_followers": 100971,
   "original_name": "Editors' Picks: Best Songs of May",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,18 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "OMAKASE",
-        "url": "https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2"
+        "name": "UNA NA MAS",
+        "url": "https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 243319,
-      "name": "PERDISTE EL EMMY.",
-      "url": "https://open.spotify.com/track/13ZG0ttABjb0rpL84bOBm6"
+      "duration_ms": 196256,
+      "name": "UNA NA MAS",
+      "url": "https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -131,34 +127,22 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "UNA NA MAS",
-        "url": "https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ"
+        "name": "OMAKASE",
+        "url": "https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 196256,
-      "name": "UNA NA MAS",
-      "url": "https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
-        "name": "love love FLAKK",
-        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
-      },
-      "artists": [
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 119546,
-      "name": "LLEVA AL SOL",
-      "url": "https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB"
+      "duration_ms": 243319,
+      "name": "PERDISTE EL EMMY.",
+      "url": "https://open.spotify.com/track/13ZG0ttABjb0rpL84bOBm6"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -175,6 +159,22 @@
       "duration_ms": 241470,
       "name": "From Down Here",
       "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "love love FLAKK",
+        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 119546,
+      "name": "LLEVA AL SOL",
+      "url": "https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
+        "name": "Return To Bhibo",
+        "url": "https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 157840,
+      "name": "Return To Bhibo",
+      "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/5NZawJNAy7ntRWNKlArhOe"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 150653,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
-        "name": "Return To Bhibo",
-        "url": "https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 157840,
-      "name": "Return To Bhibo",
-      "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "linknb",
-        "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 115160,
-      "name": "linknb",
-      "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "Mad About It",
         "url": "https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 157008,
       "name": "Mad About It",
       "url": "https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "linknb",
+        "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 115160,
+      "name": "linknb",
+      "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Dancing On The Wall",
-      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "usher in the spirit",
         "url": "https://open.spotify.com/album/4SgKrliseSqVRxEFD6INPy"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 180500,
       "name": "usher in the spirit",
       "url": "https://open.spotify.com/track/7mbRGvaiD1NCDAIDqErCBT"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 223425,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
         "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
         "url": "https://open.spotify.com/album/6GmOQW6pjdEarBwMvGLm5l"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 198666,
       "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
       "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 223425,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "Stoner Music",
-        "url": "https://open.spotify.com/album/2TjTiFkPnKmjWg5xaJT3OA"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 118333,
-      "name": "Stoner Music",
-      "url": "https://open.spotify.com/track/6CRcnYpkrVGZ4rCOskOelE"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "New Ebonics",
         "url": "https://open.spotify.com/album/2ZRDs5161FP2nvMMwsG62P"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 171166,
       "name": "New Ebonics",
       "url": "https://open.spotify.com/track/0e9Efw1iRH3q9SNaKcdDFG"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "Stoner Music",
+        "url": "https://open.spotify.com/album/2TjTiFkPnKmjWg5xaJT3OA"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 118333,
+      "name": "Stoner Music",
+      "url": "https://open.spotify.com/track/6CRcnYpkrVGZ4rCOskOelE"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
+        "name": "Under the Same Sky",
+        "url": "https://open.spotify.com/album/3t7pBbQPmteNiZnpbBrK77"
+      },
+      "artists": [
+        {
+          "name": "SOFYKA",
+          "url": "https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Under the Same Sky",
+      "url": "https://open.spotify.com/track/062Rh6vIMkwEuksiWF6sKC"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
         "name": "Loud Bloom",
         "url": "https://open.spotify.com/album/2I8Y2r289lu5s26k50N9GL"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 330456,
       "name": "Makwande",
       "url": "https://open.spotify.com/track/2R1HELgpU9wWWGDkM4upw5"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
-        "name": "Under the Same Sky",
-        "url": "https://open.spotify.com/album/3t7pBbQPmteNiZnpbBrK77"
-      },
-      "artists": [
-        {
-          "name": "SOFYKA",
-          "url": "https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Under the Same Sky",
-      "url": "https://open.spotify.com/track/062Rh6vIMkwEuksiWF6sKC"
     },
     {
       "added_at": "2026-06-01 05:00:24",

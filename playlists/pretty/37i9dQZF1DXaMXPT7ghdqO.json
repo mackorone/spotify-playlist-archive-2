@@ -1,6 +1,6 @@
 {
   "description": "\u795d\u30fb\u7d50\u62105\u5468\u5e74\uff016\u4eba\u7d44\u30a8\u30f3\u30bf\u30e1\u30e6\u30cb\u30c3\u30c8\u3001\u3059\u3068\u3077\u308a\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01 Music from Japanese entertainment group, Strawberry prince! \u00a9STPR Inc.",
-  "num_followers": 41413,
+  "num_followers": 41411,
   "original_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",
   "owner": {
     "name": "Spotify",
@@ -455,18 +455,22 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "\u50d5\u306f\u96e8\u306b\u6fe1\u308c\u305f",
-        "url": "https://open.spotify.com/album/7i1aLkKF1UPJBCG85DpKqH"
+        "name": "\u541b\u3068\u50d5\u306e\u79d8\u5bc6\u57fa\u5730",
+        "url": "https://open.spotify.com/album/3eYesa4u7Y4j9fLMyNYFbM"
       },
       "artists": [
         {
           "name": "\u308b\u3045\u3068",
           "url": "https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa"
+        },
+        {
+          "name": "\u8389\u72ac",
+          "url": "https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L"
         }
       ],
-      "duration_ms": 150426,
-      "name": "\u30a2\u30a4\u30c7\u30a3\u30fc",
-      "url": "https://open.spotify.com/track/4ugz2sWaFEpueOjHAMR0jR"
+      "duration_ms": 245466,
+      "name": "\u884c\u3051\uff01\u50d5\u3089\u306e\u30b9\u30af\u30fc\u30eb\u30d5\u30ed\u30f3\u30c8\uff01",
+      "url": "https://open.spotify.com/track/2rZ2WQC02AJlrdQjD6l7qQ"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -547,22 +551,18 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "\u541b\u3068\u50d5\u306e\u79d8\u5bc6\u57fa\u5730",
-        "url": "https://open.spotify.com/album/3eYesa4u7Y4j9fLMyNYFbM"
+        "name": "\u50d5\u306f\u96e8\u306b\u6fe1\u308c\u305f",
+        "url": "https://open.spotify.com/album/7i1aLkKF1UPJBCG85DpKqH"
       },
       "artists": [
         {
           "name": "\u308b\u3045\u3068",
           "url": "https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa"
-        },
-        {
-          "name": "\u8389\u72ac",
-          "url": "https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L"
         }
       ],
-      "duration_ms": 245466,
-      "name": "\u884c\u3051\uff01\u50d5\u3089\u306e\u30b9\u30af\u30fc\u30eb\u30d5\u30ed\u30f3\u30c8\uff01",
-      "url": "https://open.spotify.com/track/2rZ2WQC02AJlrdQjD6l7qQ"
+      "duration_ms": 150426,
+      "name": "\u30a2\u30a4\u30c7\u30a3\u30fc",
+      "url": "https://open.spotify.com/track/4ugz2sWaFEpueOjHAMR0jR"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -887,8 +887,8 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "UNCHAIN",
-        "url": "https://open.spotify.com/album/5JUUtIzzqEk0HwcVSr3W6c"
+        "name": "BAD BOY",
+        "url": "https://open.spotify.com/album/6JwpsT9vSQkW838BReuRlh"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/3ebYjwWDYnmnfdoQ1eNljv"
         }
       ],
-      "duration_ms": 223053,
-      "name": "UNCHAIN",
-      "url": "https://open.spotify.com/track/53obz95llonlbhOXJb5bmU"
+      "duration_ms": 216720,
+      "name": "BAD BOY",
+      "url": "https://open.spotify.com/track/6WODSLnIDO4fghcFR5Lsx3"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "BAD BOY",
-        "url": "https://open.spotify.com/album/6JwpsT9vSQkW838BReuRlh"
+        "name": "UNCHAIN",
+        "url": "https://open.spotify.com/album/5JUUtIzzqEk0HwcVSr3W6c"
       },
       "artists": [
         {
@@ -1040,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/3ebYjwWDYnmnfdoQ1eNljv"
         }
       ],
-      "duration_ms": 216720,
-      "name": "BAD BOY",
-      "url": "https://open.spotify.com/track/6WODSLnIDO4fghcFR5Lsx3"
+      "duration_ms": 223053,
+      "name": "UNCHAIN",
+      "url": "https://open.spotify.com/track/53obz95llonlbhOXJb5bmU"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 186226,
-      "name": "\u65b0\u6625\u3089\u3073\u3085\u3063\u3068\uff01",
-      "url": "https://open.spotify.com/track/20xDe22UsxCHWZLtbQzOop"
+      "duration_ms": 146760,
+      "name": "\u306a\u3044\u3057\u3087\u306e\u30d7\u30ec\u30bc\u30f3\u30c8\u30d5\u30a9\u30fc\u30e6\u30fc\uff01",
+      "url": "https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1120,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 146760,
-      "name": "\u306a\u3044\u3057\u3087\u306e\u30d7\u30ec\u30bc\u30f3\u30c8\u30d5\u30a9\u30fc\u30e6\u30fc\uff01",
-      "url": "https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX"
+      "duration_ms": 186226,
+      "name": "\u65b0\u6625\u3089\u3073\u3085\u3063\u3068\uff01",
+      "url": "https://open.spotify.com/track/20xDe22UsxCHWZLtbQzOop"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 201186,
-      "name": "\u9752\u6625\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8 - Christmas Version",
-      "url": "https://open.spotify.com/track/1XEATRA9P0Eb2RuBARo0P7"
+      "duration_ms": 259920,
+      "name": "FROG MAN",
+      "url": "https://open.spotify.com/track/26KL0IASrWq7D3tsf3mYVO"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1204,9 +1204,9 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 259920,
-      "name": "FROG MAN",
-      "url": "https://open.spotify.com/track/26KL0IASrWq7D3tsf3mYVO"
+      "duration_ms": 201186,
+      "name": "\u9752\u6625\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8 - Christmas Version",
+      "url": "https://open.spotify.com/track/1XEATRA9P0Eb2RuBARo0P7"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "Mr. Music",
-        "url": "https://open.spotify.com/album/4hTGKu2WW6sVI3Au3SyOum"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 267280,
-      "name": "Mr. Music",
-      "url": "https://open.spotify.com/track/2xaVV4ZhlYDE2t5mv94n9b"
-    },
-    {
-      "added_at": "2025-06-13 08:46:52",
-      "album": {
         "name": "\u541b\u3068\u50d5\u306e\u30b9\u30c8\u30fc\u30ea\u30fc",
         "url": "https://open.spotify.com/album/4uthqzojX4HGbgDgI18Nng"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 250146,
       "name": "Flowering palettes",
       "url": "https://open.spotify.com/track/5g0oEwrd8gQqk2JJ167hNY"
+    },
+    {
+      "added_at": "2025-06-13 08:46:52",
+      "album": {
+        "name": "Mr. Music",
+        "url": "https://open.spotify.com/album/4hTGKu2WW6sVI3Au3SyOum"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 267280,
+      "name": "Mr. Music",
+      "url": "https://open.spotify.com/track/2xaVV4ZhlYDE2t5mv94n9b"
     },
     {
       "added_at": "2025-06-13 08:46:52",

@@ -13061,6 +13061,28 @@
     },
     {
       "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199196,
+      "name": "It's So Nice (ft. 3DDY)",
+      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
+    },
+    {
+      "album": {
         "name": "It's Time / Showblow",
         "url": "https://open.spotify.com/album/36lnyKZKROYaSCxOskBsWZ"
       },
@@ -14939,18 +14961,18 @@
         },
         {
           "name": "Wildish",
-          "url": "https://open.spotify.com/artist/0umPozloZZGfMW300IjAmT"
+          "url": "https://open.spotify.com/artist/4Ad0ieOmXbPzBc6zgtZPGp"
         },
         {
-          "name": "Aaron Pfieffer",
-          "url": "https://open.spotify.com/artist/0sMZEG1Qo121pdr6XPdzg4"
+          "name": "Aaron Pfeiffer",
+          "url": "https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF"
         }
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 207360,
-      "name": "Livin' It Up (feat. Aaron Pfieffer)",
+      "duration_ms": 207272,
+      "name": "Livin' It Up (feat. Aaron Pfeiffer)",
       "url": "https://open.spotify.com/track/1HHKgaNHfXePWrd6e14evK"
     },
     {
@@ -26557,42 +26579,6 @@
     },
     {
       "album": {
-        "name": "Coastal Transmissions EP",
-        "url": "https://open.spotify.com/album/195tyH03HdgJnQNfrPtnzO"
-      },
-      "artists": [
-        {
-          "name": "Archie Hamilton",
-          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2FjchEMlPm2nyaqn4X7zHt"
-    },
-    {
-      "album": {
-        "name": "Withness",
-        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
-    },
-    {
-      "album": {
         "name": "Tremble (ft. Kim English)",
         "url": "https://open.spotify.com/album/2Fji8FWMOMhF1mLiH5taPF"
       },
@@ -28194,6 +28180,24 @@
       "duration_ms": 160669,
       "name": "Welcome To The People",
       "url": "https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5"
+    },
+    {
+      "album": {
+        "name": "Coastal Transmissions EP",
+        "url": "https://open.spotify.com/album/195tyH03HdgJnQNfrPtnzO"
+      },
+      "artists": [
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220168,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/2FjchEMlPm2nyaqn4X7zHt"
     },
     {
       "album": {

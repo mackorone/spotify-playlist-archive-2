@@ -4,7 +4,7 @@
 
 > The world's biggest Drum 'n' Bass playlist! Cover: Hybrid Minds
 
-1,238 songs - 3 day 0 hr 21 min
+1,238 songs - 3 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [Hold up your Hands](https://open.spotify.com/track/6puuJ6GcrvxxKxvDsC28bj) | [Dub Pistols](https://open.spotify.com/artist/4LYX3rRdXV2l99wR5YPFoK), [Freestylers](https://open.spotify.com/artist/0zg9mF9dX2knvdTKnL22T1), [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Hold up your Hands](https://open.spotify.com/album/78G5Ob58zI8nAGPzczyAWk) | 4:28 | 2025-12-19 | 2026-05-15 |
 | [Holding On](https://open.spotify.com/track/1yIGvFZxmJ2nJmCzSensSH) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Holding On](https://open.spotify.com/album/5yr30MXPOisMh6o4EXKFn6) | 3:03 | 2026-02-13 |  |
 | [Hole](https://open.spotify.com/track/0AEIeS5gS15ET3iy8jW6QY) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [Rou Reynolds](https://open.spotify.com/artist/39sN02pcMOMbe3kVNajete), [Filthy Pig](https://open.spotify.com/artist/1MWTVItNj9UyL7AouAUONF), [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Hole](https://open.spotify.com/album/04qteXG2NESXxT2sykzNz8) | 3:32 | 2025-09-25 | 2026-02-06 |
+| [homesick](https://open.spotify.com/track/0vXtfiRKw4aytisBbduvLZ) | [homesick](https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9) | [homesick](https://open.spotify.com/album/3Oxq3sO3472prtEyVyaZ0l) | 3:11 | 2026-06-11 |  |
 | [Homework \(feat\. Lancey Foux\)](https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Homework \(feat\. Lancey Foux\)](https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi) | 2:34 | 2026-04-09 |  |
 | [Hooked](https://open.spotify.com/track/6iF5E6zMaAYu1LHlepossi) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Hooked](https://open.spotify.com/album/0T3jzFxbp2KhNM6zDPG9Ym) | 2:46 | 2024-04-26 | 2024-10-25 |
 | [Hooked \(On A Feeling\)](https://open.spotify.com/track/7CGRpbovLSEoaLlL5UKqvh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Sophie\-Grace](https://open.spotify.com/artist/22WNm8HQaXcq3qYDowNUDt) | [Hooked \(On A Feeling\)](https://open.spotify.com/album/7rjAAdIWlanmu1aVPj5HVT) | 3:21 | 2025-06-05 | 2025-09-26 |
@@ -1125,7 +1126,6 @@
 | [Touch Me](https://open.spotify.com/track/0MeSjgEw7Qydv3nltHb3W8) | [Charli Brix](https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8) | [Touch Me](https://open.spotify.com/album/6LLiPAstZQNvUnBv1Mp0BL) | 4:05 | 2024-03-08 | 2024-03-09 |
 | [Tough Talk \(feat\. Kwengface\)](https://open.spotify.com/track/3HHJQOfgtdftxzvYPAx1ns) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [2 RUFF, Vol\. 1](https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl) | 3:20 | 2023-12-27 | 2024-01-05 |
 | [Tout De Sweet \- Kyrist Remix](https://open.spotify.com/track/4d7jx7RhbK9wRopz6lxjLH) | [SICARIA](https://open.spotify.com/artist/0VY1AVQPJaTDllLBhR35gv), [Kyrist](https://open.spotify.com/artist/7yr3XMGUy9WwHmk90NMRsN) | [Tout De Sweet \(Kyrist Remix\)](https://open.spotify.com/album/66MtTnziYWxL9dfhqDtof1) | 4:17 | 2024-03-08 | 2024-03-09 |
-| [Track 6](https://open.spotify.com/track/0vXtfiRKw4aytisBbduvLZ) | [homesick](https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9) | [homesick](https://open.spotify.com/album/3Oxq3sO3472prtEyVyaZ0l) | 0:00 | 2026-06-11 |  |
 | [Transformations](https://open.spotify.com/track/0cvxGtA2GcmiB1YXKEqosQ) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Jelvin](https://open.spotify.com/artist/0KHbfKgoMNLLCl2vwsh97x) | [Transformations](https://open.spotify.com/album/63v8Gd7zZLeSVwrwI8rh0s) | 3:49 | 2022-04-08 | 2022-07-29 |
 | [TRAP](https://open.spotify.com/track/1CvskjThJcfXmxbLbW7Lzc) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [TRAP](https://open.spotify.com/album/5CBStb9nkLWPkglNasrOvI) | 3:45 | 2026-02-13 |  |
 | [Trapline](https://open.spotify.com/track/2uyym5hUSpL1vE2813XyGh) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ) | [Trapline](https://open.spotify.com/album/5L1DycaGYjBgR5coLUHR1m) | 4:16 | 2025-01-31 | 2025-05-02 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Ed\u00e9n Mu\u00f1oz y Cristian Castro en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. ROBI en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -538,6 +538,24 @@
       "duration_ms": 232458,
       "name": "A Medio Vivir",
       "url": "https://open.spotify.com/track/3gJzqwjF3Yjl4OAZJVG0yx"
+    },
+    {
+      "album": {
+        "name": "A Pesar De Ti y De Mi",
+        "url": "https://open.spotify.com/album/1zZMrpkzai37lGSrxgw5a8"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249124,
+      "name": "A Pesar De Ti y De Mi",
+      "url": "https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ"
     },
     {
       "album": {
@@ -2748,6 +2766,24 @@
       "duration_ms": 177548,
       "name": "Caballo Negro",
       "url": "https://open.spotify.com/track/4RH8pnfg0PYU8yIWMzwMi6"
+    },
+    {
+      "album": {
+        "name": "Cabernet",
+        "url": "https://open.spotify.com/album/5cKVFpaK1Pv7L68VduLrRA"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245783,
+      "name": "Cabernet",
+      "url": "https://open.spotify.com/track/16ElBU3Nnk4SCElgYmK0jt"
     },
     {
       "album": {
@@ -11247,6 +11283,28 @@
     },
     {
       "album": {
+        "name": "MIMI",
+        "url": "https://open.spotify.com/album/7kb8w4BELGr95DWgHAYKvw"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Bernal\u00fa",
+          "url": "https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188108,
+      "name": "MIMI",
+      "url": "https://open.spotify.com/track/7CrwXMWLQ9pNPZWxibTeBh"
+    },
+    {
+      "album": {
         "name": "mimos",
         "url": "https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6"
       },
@@ -11762,6 +11820,24 @@
       "duration_ms": 209220,
       "name": "N.I.T.",
       "url": "https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM"
+    },
+    {
+      "album": {
+        "name": "Nacer Una Vez M\u00e1s (En Vivo Desde el Teatro Metropolitan)",
+        "url": "https://open.spotify.com/album/2gptIbWLgy58jzIUoy0LqX"
+      },
+      "artists": [
+        {
+          "name": "Benny",
+          "url": "https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257656,
+      "name": "Nacer Una Vez M\u00e1s - En Vivo Desde el Teatro Metropolitan",
+      "url": "https://open.spotify.com/track/3O9G9sR2YwpVw8J9NSFU98"
     },
     {
       "album": {
@@ -15336,6 +15412,28 @@
       "duration_ms": 152559,
       "name": "Se Ha Acabado El Show",
       "url": "https://open.spotify.com/track/6wOiXCS3WHwDOggI0ae39N"
+    },
+    {
+      "album": {
+        "name": "sorry si soy GRRRIS",
+        "url": "https://open.spotify.com/album/5nypepH4BfZG3INIDyLqiE"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204656,
+      "name": "Se me hace imposible olvidarte :(",
+      "url": "https://open.spotify.com/track/2nl9wkN8LfiQN6feen3HUX"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Silo\u00e9.",
-  "num_followers": 615539,
+  "num_followers": 615543,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
+        "name": "La Torre Picasso",
+        "url": "https://open.spotify.com/album/090Jo9iBjpgrcBwezLFTYq"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "duration_ms": 484573,
+      "name": "La Torre Picasso",
+      "url": "https://open.spotify.com/track/2Czaw41IWZLz5JxwLueamL"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 234800,
       "name": "Mucho mejor (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
-        "name": "La Torre Picasso",
-        "url": "https://open.spotify.com/album/090Jo9iBjpgrcBwezLFTYq"
-      },
-      "artists": [
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        }
-      ],
-      "duration_ms": 484573,
-      "name": "La Torre Picasso",
-      "url": "https://open.spotify.com/track/2Czaw41IWZLz5JxwLueamL"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
-        "name": "El Mar No Cesa- Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 241280,
-      "name": "Mar adentro",
-      "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
         "name": "COWBOYS DE LA A3",
         "url": "https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 229876,
       "name": "Los Perros",
       "url": "https://open.spotify.com/track/15zPjWfZ6eUFMaL4aD5Gp8"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
+        "name": "El Mar No Cesa- Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 241280,
+      "name": "Mar adentro",
+      "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
-        "name": "Poes\u00eda B\u00e1sica",
-        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
-      },
-      "artists": [
-        {
-          "name": "Extrechinato y Tu",
-          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Rojitas",
-      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
         "name": "Patchanka",
         "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 174973,
       "name": "Mala Vida",
       "url": "https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
+        "name": "Poes\u00eda B\u00e1sica",
+        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
+      },
+      "artists": [
+        {
+          "name": "Extrechinato y Tu",
+          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Rojitas",
+      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
+        "name": "Veinticinco",
+        "url": "https://open.spotify.com/album/68gJ7HIyXTJbj1dX9rJwHh"
+      },
+      "artists": [
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "duration_ms": 164915,
+      "name": "Veinticinco",
+      "url": "https://open.spotify.com/track/5ZmVXMkruEitcEJYYL5m0V"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
         "name": "Ahora o nunca",
         "url": "https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD"
       },
@@ -907,18 +923,18 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
-        "name": "Veinticinco",
-        "url": "https://open.spotify.com/album/68gJ7HIyXTJbj1dX9rJwHh"
+        "name": "Gigante",
+        "url": "https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO"
       },
       "artists": [
         {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
         }
       ],
-      "duration_ms": 164915,
-      "name": "Veinticinco",
-      "url": "https://open.spotify.com/track/5ZmVXMkruEitcEJYYL5m0V"
+      "duration_ms": 218781,
+      "name": "Cuarenta Mil",
+      "url": "https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -935,22 +951,6 @@
       "duration_ms": 297106,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
-        "name": "Gigante",
-        "url": "https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 218781,
-      "name": "Cuarenta Mil",
-      "url": "https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
-        "name": "Sin Tiempo",
-        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
-      },
-      "artists": [
-        {
-          "name": "Medina Azahara",
-          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
-        }
-      ],
-      "duration_ms": 269426,
-      "name": "Necesito Respirar",
-      "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
         "name": "Hasta que me quede sin voz",
         "url": "https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 306861,
       "name": "Hasta que me quede sin voz",
       "url": "https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
+        "name": "Sin Tiempo",
+        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
+      },
+      "artists": [
+        {
+          "name": "Medina Azahara",
+          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
+        }
+      ],
+      "duration_ms": 269426,
+      "name": "Necesito Respirar",
+      "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
-        "name": "Rock & Roll Star - 30 a\u00f1os",
-        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
-      },
-      "artists": [
-        {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Cadillac solitario",
-      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
         "name": "Si Te Pones de Mi Parte",
         "url": "https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 319218,
       "name": "Si Te Pones de Mi Parte",
       "url": "https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
+        "name": "Rock & Roll Star - 30 a\u00f1os",
+        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Cadillac solitario",
+      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
+        "name": "Gigante",
+        "url": "https://open.spotify.com/album/4GQpWhe2XtYdluFaDjqRup"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 252874,
+      "name": "Gigante",
+      "url": "https://open.spotify.com/track/2utHyBwLp3ONsYUkGoWoPw"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
         "name": "Un d\u00eda nada m\u00e1s",
         "url": "https://open.spotify.com/album/4f3OQ1DIzm3Oszv2rD5c3x"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 249791,
       "name": "Fr\u00edo (con Fito y Fitipaldis, Tarque y Rosendo)",
       "url": "https://open.spotify.com/track/2CEDonzkAIXcNpXKXfcq57"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
-        "name": "Gigante",
-        "url": "https://open.spotify.com/album/4GQpWhe2XtYdluFaDjqRup"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 252874,
-      "name": "Gigante",
-      "url": "https://open.spotify.com/track/2utHyBwLp3ONsYUkGoWoPw"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
-        "name": "Rock and Roll Actitud (1978-2018)",
-        "url": "https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92"
-      },
-      "artists": [
-        {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
-        }
-      ],
-      "duration_ms": 299977,
-      "name": "Rey del Glam",
-      "url": "https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
         "name": "En alg\u00fan lugar (feat. Santi Balmes & V\u00edctor Cabezuelo)",
         "url": "https://open.spotify.com/album/5rUQe1NWnm6Aw1TcUfoJQY"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 238426,
       "name": "En alg\u00fan lugar (feat. Santi Balmes & V\u00edctor Cabezuelo)",
       "url": "https://open.spotify.com/track/2nL8UGrQoCfbZTtWfmmoqe"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
+        "name": "Rock and Roll Actitud (1978-2018)",
+        "url": "https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        }
+      ],
+      "duration_ms": 299977,
+      "name": "Rey del Glam",
+      "url": "https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
-      },
-      "artists": [
-        {
-          "name": "La Guardia",
-          "url": "https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Cuando Brille el Sol",
-      "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
         "name": "Las 101 canciones - Cinco d\u00e9cadas de Pop Espa\u00f1ol",
         "url": "https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U"
       },
@@ -1992,13 +1976,13 @@
       },
       "artists": [
         {
-          "name": "El Canto Del Loco",
-          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+          "name": "La Guardia",
+          "url": "https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD"
         }
       ],
-      "duration_ms": 182346,
-      "name": "A Contracorriente",
-      "url": "https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz"
+      "duration_ms": 223240,
+      "name": "Cuando Brille el Sol",
+      "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -2019,6 +2003,22 @@
       "duration_ms": 242005,
       "name": "Punto de Colisi\u00f3n",
       "url": "https://open.spotify.com/track/0W5WdG9xYM22G2GbJEanNd"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
+        "name": "Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+      },
+      "artists": [
+        {
+          "name": "El Canto Del Loco",
+          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "A Contracorriente",
+      "url": "https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

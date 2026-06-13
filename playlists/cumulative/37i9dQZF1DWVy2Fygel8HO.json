@@ -1781,6 +1781,42 @@
     },
     {
       "album": {
+        "name": "Misty Peaks",
+        "url": "https://open.spotify.com/album/75bK2qP8Yg3NaIRPcPK7G0"
+      },
+      "artists": [
+        {
+          "name": "Ted Lucky",
+          "url": "https://open.spotify.com/artist/38GDIHuGmSYxf05zaOZKFg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143844,
+      "name": "Misty Peaks",
+      "url": "https://open.spotify.com/track/3628qsHkzwReGKjsqnYyyp"
+    },
+    {
+      "album": {
+        "name": "Moments Between",
+        "url": "https://open.spotify.com/album/5H5MCuCFOpctGGNNOPphMR"
+      },
+      "artists": [
+        {
+          "name": "Sorellien",
+          "url": "https://open.spotify.com/artist/6tskJzai4ETnMp76lomMzr"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153143,
+      "name": "Moments Between",
+      "url": "https://open.spotify.com/track/3iPRWcBkZ5Fp4x93lWypUO"
+    },
+    {
+      "album": {
         "name": "Moon and Stars",
         "url": "https://open.spotify.com/album/5K4xqnFvuAgWzFqomW77TI"
       },

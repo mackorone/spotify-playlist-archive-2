@@ -4,7 +4,7 @@
 
 > Move it and groove it to these great tunes!
 
-143 songs - 7 hr 7 min
+144 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Europop](https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37) | 4:43 | 2022-03-31 |  |
 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Europop](https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV) | 4:43 | 2023-06-02 | 2024-04-19 |
 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/5QRAfvKPyQpwt897Jc0glg) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf) | 4:43 | 2023-06-02 | 2024-03-21 |
+| [Bottle Up \- from PAW Patrol: The Dino Movie](https://open.spotify.com/track/7LAcikXNoHVAQFeEx8caQ2) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7), [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [Bottle Up \(from PAW Patrol: The Dino Movie\)](https://open.spotify.com/album/76p8b3x5fdwcM6QbhpOFOR) | 3:37 | 2026-06-12 |  |
 | [Break My Heart](https://open.spotify.com/track/4CNicxGbQWMwCZD3cZIOND) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Break My Heart](https://open.spotify.com/album/03WnunrUaDa1VNhiWWT0dd) | 3:43 | 2022-03-31 |  |
 | [BREAK MY SOUL](https://open.spotify.com/track/3E7YGBqvTKt4eVDXXEWfyM) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:34 | 2023-01-27 | 2023-04-27 |
 | [Butter](https://open.spotify.com/track/3p1amIF17ryE70SnlK33eH) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Butter](https://open.spotify.com/album/5pj3zCJ1R5HnOsEwePVqN1) | 2:46 | 2022-03-31 | 2022-07-29 |
@@ -71,7 +72,7 @@
 | [Good Mood \- Original Song From Paw Patrol: The Movie](https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Good Mood \(Original Song From Paw Patrol: The Movie\)](https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI) | 3:30 | 2022-03-31 |  |
 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 | 2022-08-17 | 2024-04-19 |
 | [Groove Is in the Heart](https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Rhino Hi\-Five: Deee\-Lite](https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM) | 3:51 | 2022-03-31 |  |
-| [Happy](https://open.spotify.com/track/6NPVjNh8Jhru9xOmyQigds) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l3zEmMrOhOzG8d8s83GOL) | 3:53 | 2022-03-31 |  |
+| [Happy](https://open.spotify.com/track/6NPVjNh8Jhru9xOmyQigds) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l3zEmMrOhOzG8d8s83GOL) | 3:53 | 2022-03-31 | 2026-06-13 |
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 | 2022-07-15 | 2024-04-19 |
 | [Happy Dance](https://open.spotify.com/track/0k1rBoFbEGVTyZd1GVbEW5) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Abby Cadabby](https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT), [Cookie Monster](https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r), [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Oscar the Grouch](https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9), [Snuffleupagus](https://open.spotify.com/artist/4s59qVGtHnriH2APKSliX5), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Happy Dance](https://open.spotify.com/album/7M6NyPARixmFv74BbgUFFg) | 1:47 | 2024-02-15 | 2024-02-17 |
 | [Hero in All of Us](https://open.spotify.com/track/41j55qvgknUyoZT7SSCrdW) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [We're All PJ Masks](https://open.spotify.com/album/4F7fwiEcKAOl9Xf1zjLXn0) | 1:38 | 2025-07-20 |  |

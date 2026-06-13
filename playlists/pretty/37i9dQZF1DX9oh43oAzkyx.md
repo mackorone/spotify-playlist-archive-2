@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,861,882 likes - 76 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,862,031 likes - 76 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 75 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
 | 76 | [Pull Up \(feat\. 21 Savage\)](https://open.spotify.com/track/4EzkcqltSOxYE2lstuLOFs) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NAUJOUR](https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V) | 2:13 |
 
-Snapshot ID: `AAAAAKWGTKbp/+GVxCnZqTwNRIDc/ETT`
+Snapshot ID: `AAAAABw9b/zyvyHGCdJF/NXs4GfdDxts`

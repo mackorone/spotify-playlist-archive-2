@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,782 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,809 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 26 | [Para los Dolidos](https://open.spotify.com/track/2viWABT14AgG9wTbTxyD7a) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Para los Dolidos](https://open.spotify.com/album/5SvkYjltTnPtiSoQayLNEh) | 2:36 |
 | 27 | [Prohibida](https://open.spotify.com/track/7bbo8bW8isBHUSrd2pVF7z) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 3:26 |
 | 28 | [Si Usted Quiere](https://open.spotify.com/track/2DkcpqPaeY8cHZkdW6bX9O) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Que Tin y Que Tan](https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu) | 2:29 |
-| 29 | [1+1=1](https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [1+1=1](https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b) | 2:43 |
-| 30 | [La Última](https://open.spotify.com/track/3Zuh5YCdc1DnQz3UeB8VnG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Última](https://open.spotify.com/album/0RJJF71dyzRRzP795uNh0W) | 3:07 |
+| 29 | [La Última](https://open.spotify.com/track/3Zuh5YCdc1DnQz3UeB8VnG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Última](https://open.spotify.com/album/0RJJF71dyzRRzP795uNh0W) | 3:07 |
+| 30 | [1+1=1](https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [1+1=1](https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b) | 2:43 |
 | 31 | [Poeta](https://open.spotify.com/track/069Y80sydFZIuVd7m73ouW) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Según Nosotros](https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME) | 3:53 |
 | 32 | [Todavía No](https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Todavía No](https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L) | 3:18 |
 | 33 | [Cariñitos y Flores](https://open.spotify.com/track/1GOJEorxVpE2s6jhqUyRNh) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Cariñitos y Flores](https://open.spotify.com/album/70GVEB2pOYx7hViOJV9ucd) | 2:39 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 46 | [Déjame en Paz](https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 5:13 |
 | 47 | [LQRA Session \#7](https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [LQRA Session \#7](https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW) | 2:49 |
 | 48 | [Lejos de Ti](https://open.spotify.com/track/04sXYgNcb48fNO0prhFHpq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:40 |
-| 49 | [Para terminar en nada](https://open.spotify.com/track/3ZHF4Cvt5khSCrjOPOO7IM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Para terminar en nada](https://open.spotify.com/album/6Sqnexw9tuOgEk8z0zT7UZ) | 2:45 |
-| 50 | [Hace Tanto Tiempo](https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:39 |
+| 49 | [Hace Tanto Tiempo](https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:39 |
+| 50 | [Para terminar en nada](https://open.spotify.com/track/3ZHF4Cvt5khSCrjOPOO7IM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Para terminar en nada](https://open.spotify.com/album/6Sqnexw9tuOgEk8z0zT7UZ) | 2:45 |
 
-Snapshot ID: `aidXgAAAAAD0WH+C1uZ0LQSEUS7VB+dq`
+Snapshot ID: `ain6gAAAAABgMgLTNLH+18u9s6pvb7WO`

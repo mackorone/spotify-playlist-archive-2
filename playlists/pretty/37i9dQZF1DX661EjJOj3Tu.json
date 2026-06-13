@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Gracias por la m\u00fasica, Eddie Palmieri \ud83d\udd4a\ufe0f",
-  "num_followers": 514270,
+  "num_followers": 514253,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Tocororo",
-        "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
+        "name": "Latin Fever",
+        "url": "https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2"
       },
       "artists": [
         {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        },
-        {
-          "name": "Richard Bona",
-          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+          "name": "Herbie Mann",
+          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
         }
       ],
-      "duration_ms": 194706,
-      "name": "Ay, Mam\u00e1 In\u00e9s",
-      "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
+      "duration_ms": 314546,
+      "name": "Batida diferente",
+      "url": "https://open.spotify.com/track/6IdTeV8TfNABByZ3bUEUV6"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -271,18 +267,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Latin Fever",
-        "url": "https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2"
+        "name": "Tocororo",
+        "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
       },
       "artists": [
         {
-          "name": "Herbie Mann",
-          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        },
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
         }
       ],
-      "duration_ms": 314546,
-      "name": "Batida diferente",
-      "url": "https://open.spotify.com/track/6IdTeV8TfNABByZ3bUEUV6"
+      "duration_ms": 194706,
+      "name": "Ay, Mam\u00e1 In\u00e9s",
+      "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Caminos",
+        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Aguirre",
+          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Milonga gris",
+      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "El Arte Del Bolero",
         "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 477496,
       "name": "C\u00f3mo Fue",
       "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Caminos",
-        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Aguirre",
-          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Milonga gris",
-      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "El Grito - Suite para Orquesta de Jazz",
+        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
+      },
+      "artists": [
+        {
+          "name": "Jorge L\u00f3pez Ruiz",
+          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
+        }
+      ],
+      "duration_ms": 376546,
+      "name": "El Grito",
+      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Time Is Right",
         "url": "https://open.spotify.com/album/3euNmYDyAEAShiGMo65pRd"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 736160,
       "name": "From Moment To Moment",
       "url": "https://open.spotify.com/track/08x2tZWOiR81Ht7emwGEsm"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "El Grito - Suite para Orquesta de Jazz",
-        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
-      },
-      "artists": [
-        {
-          "name": "Jorge L\u00f3pez Ruiz",
-          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
-        }
-      ],
-      "duration_ms": 376546,
-      "name": "El Grito",
-      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Broasted or Fried",
-        "url": "https://open.spotify.com/album/6pp0ioGUccRIFwT2hOlBqL"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 235543,
-      "name": "Broasted or Fried",
-      "url": "https://open.spotify.com/track/2qoCpDq50LWRd5CXVzN4x0"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "The Bronx Pyramid",
         "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 344606,
       "name": "Guarajazz",
       "url": "https://open.spotify.com/track/1skp5PmXkbwb9uUHI3mPSg"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Broasted or Fried",
+        "url": "https://open.spotify.com/album/6pp0ioGUccRIFwT2hOlBqL"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 235543,
+      "name": "Broasted or Fried",
+      "url": "https://open.spotify.com/track/2qoCpDq50LWRd5CXVzN4x0"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "City of Dreams",
-        "url": "https://open.spotify.com/album/15kazQHHvIeFD1WYYjlFXG"
-      },
-      "artists": [
-        {
-          "name": "Chico Pinheiro",
-          "url": "https://open.spotify.com/artist/5YfW24O2P3ljTAZjBRr4jy"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Estrada Real",
-      "url": "https://open.spotify.com/track/4biVllhsCT8OGoRB42BlWx"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 245866,
       "name": "Martinez",
       "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "City of Dreams",
+        "url": "https://open.spotify.com/album/15kazQHHvIeFD1WYYjlFXG"
+      },
+      "artists": [
+        {
+          "name": "Chico Pinheiro",
+          "url": "https://open.spotify.com/artist/5YfW24O2P3ljTAZjBRr4jy"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Estrada Real",
+      "url": "https://open.spotify.com/track/4biVllhsCT8OGoRB42BlWx"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Acertijos",
-        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 311920,
-      "name": "My Father's Eyes",
-      "url": "https://open.spotify.com/track/4j44KbgdZjKygQlGoDZaPc"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Raise up off Me",
         "url": "https://open.spotify.com/album/49qisly3p7r0M8olieO1D8"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 354049,
       "name": "Blue Hughes",
       "url": "https://open.spotify.com/track/6d83fOPssWlHzDmc6MnBS8"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Acertijos",
+        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 311920,
+      "name": "My Father's Eyes",
+      "url": "https://open.spotify.com/track/4j44KbgdZjKygQlGoDZaPc"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Sonero: The Music of Ismael Rivera",
-        "url": "https://open.spotify.com/album/2xgt6RLEol1akzCP2OnyzP"
-      },
-      "artists": [
-        {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
-        }
-      ],
-      "duration_ms": 427964,
-      "name": "Qu\u00edtate de la V\u00eda, Perico",
-      "url": "https://open.spotify.com/track/6VlqmHJ356t7kvTGWbDQQk"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Border-Free",
         "url": "https://open.spotify.com/album/0Xgi6Q0v2Xc4Do7vn98OWM"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 549366,
       "name": "Congadanza",
       "url": "https://open.spotify.com/track/2WAc2I5nwTKkBL5QB1fAdB"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Sonero: The Music of Ismael Rivera",
+        "url": "https://open.spotify.com/album/2xgt6RLEol1akzCP2OnyzP"
+      },
+      "artists": [
+        {
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+        }
+      ],
+      "duration_ms": 427964,
+      "name": "Qu\u00edtate de la V\u00eda, Perico",
+      "url": "https://open.spotify.com/track/6VlqmHJ356t7kvTGWbDQQk"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Sonero: The Music of Ismael Rivera",
-        "url": "https://open.spotify.com/album/2xgt6RLEol1akzCP2OnyzP"
+        "name": "Mighty Pirates Troubadours, Chapter 10: Breaking Cover",
+        "url": "https://open.spotify.com/album/0Up99fDK2t1UQwU9Mo5z6S"
       },
       "artists": [
         {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+          "name": "Papo Vazquez",
+          "url": "https://open.spotify.com/artist/5qaszBh3QUZy4EjqivB0OT"
         }
       ],
-      "duration_ms": 496926,
-      "name": "El Negro Bemb\u00f3n",
-      "url": "https://open.spotify.com/track/4lksEid3JeMWn2OGkKdAda"
+      "duration_ms": 306857,
+      "name": "NY Latin Jazz Mambo",
+      "url": "https://open.spotify.com/track/7CUsMkg3J43xFzyidb4fZz"
     }
   ],
   "unique_name": "Latin Jazz",

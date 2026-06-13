@@ -4,7 +4,7 @@
 
 > Special songs for your special day\. Cover: Alex Warren and Kouvr Annon 💗
 
-195 songs - 11 hr 38 min
+196 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [When I Fall In Love](https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Ultimate Collection](https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od) | 3:11 | 2022-01-25 | 2022-07-29 |
 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 | 2022-01-25 |  |
 | [Wild Horses](https://open.spotify.com/track/4M4Q3JLsUbyTkd5WHty1WB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 5:42 | 2021-08-27 | 2022-01-26 |
+| [Without You](https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Without You](https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU) | 3:57 | 2026-06-12 |  |
 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 | 2022-01-25 |  |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-11-23 |  |
 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 | 2022-11-23 | 2024-06-08 |
@@ -202,6 +203,6 @@
 | [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 | 2022-02-26 | 2024-04-19 |
 | [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 | 2022-01-25 |  |
 | [Yours](https://open.spotify.com/track/3I4WFddKpe2PGZWFh7f10J) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:36 | 2022-01-25 |  |
-| [You’ll Be The Proof \(feat\. Joy Williams\)](https://open.spotify.com/track/3IC5qtXccheQyYw27oSSD4) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [You’ll Be The Proof \(feat\. Joy Williams\)](https://open.spotify.com/album/4QQj3QOSKqEEuJ1RdhJiAf) | 3:26 | 2026-03-25 |  |
+| [You’ll Be The Proof \(feat\. Joy Williams\)](https://open.spotify.com/track/3IC5qtXccheQyYw27oSSD4) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [You’ll Be The Proof \(feat\. Joy Williams\)](https://open.spotify.com/album/4QQj3QOSKqEEuJ1RdhJiAf) | 3:26 | 2026-03-25 | 2026-06-13 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

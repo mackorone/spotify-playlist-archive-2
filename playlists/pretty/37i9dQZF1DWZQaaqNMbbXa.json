@@ -1,6 +1,6 @@
 {
   "description": "Hit the dance floor with your favorite bops! Cover: Bebe Rexha",
-  "num_followers": 595612,
+  "num_followers": 595708,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "I Don't Wanna Wait",
-        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 149667,
-      "name": "I Don't Wanna Wait",
-      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
         "name": "In the Name of Love",
         "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 198815,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 149667,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
+        "name": "Pharmacy",
+        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 227073,
+      "name": "Runaway (U & I)",
+      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 163216,
       "name": "Body",
       "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
-        "name": "Pharmacy",
-        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 227073,
-      "name": "Runaway (U & I)",
-      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "Just The Way You Are",
-        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
-      },
-      "artists": [
-        {
-          "name": "Milky",
-          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Just The Way You Are",
-      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "Love Tonight (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Love Tonight (David Guetta Remix Edit)",
-      "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
         "name": "Intense",
         "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 204360,
       "name": "This Is What It Feels Like",
       "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
+        "name": "Love Tonight (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Love Tonight (David Guetta Remix Edit)",
+      "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -2575,26 +2575,6 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "Stereo Love",
-        "url": "https://open.spotify.com/album/1QHNJlvoTeb4Obnwecx4oF"
-      },
-      "artists": [
-        {
-          "name": "Edward Maya",
-          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
-        },
-        {
-          "name": "Vika Jigulina",
-          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Stereo Love - Radio Edit",
-      "url": "https://open.spotify.com/track/5RfBhOGNbbXT5LiIvbHLhN"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/2ZnzBwKw4e2SHpGvOTWnj4"
       },
@@ -2611,6 +2591,26 @@
       "duration_ms": 214840,
       "name": "Break Free",
       "url": "https://open.spotify.com/track/1X2Zd5wKGbY1oKzb8dzJRy"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
+        "name": "Stereo Love",
+        "url": "https://open.spotify.com/album/1QHNJlvoTeb4Obnwecx4oF"
+      },
+      "artists": [
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Vika Jigulina",
+          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Stereo Love - Radio Edit",
+      "url": "https://open.spotify.com/track/5RfBhOGNbbXT5LiIvbHLhN"
     },
     {
       "added_at": "2026-05-01 16:04:53",

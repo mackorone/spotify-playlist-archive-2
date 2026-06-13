@@ -4,7 +4,7 @@
 
 > Lo más pegado, lo más random, lo más 🔥
 
-615 songs - 1 day 8 hr 29 min
+617 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Cafecito](https://open.spotify.com/track/0Jx0wecBc4647J4QMdmsY1) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Cafecito](https://open.spotify.com/album/22APOaVCt7C6TsWH3XB3Sl) | 2:34 | 2024-05-31 | 2024-07-17 |
 | [CALL ME MAYBE](https://open.spotify.com/track/7sQkCW2vO8Tbx57oQwAIKk) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [CALL ME MAYBE](https://open.spotify.com/album/2bduhp7nOejAqYseC3VZLi) | 3:42 | 2023-12-19 | 2024-01-30 |
 | [CAMBIANDO LA PIEL](https://open.spotify.com/track/2y2iEADc8O0Vv5IKHSs21i) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 2:38 | 2023-09-29 | 2023-12-20 |
+| [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 | 2026-06-12 |  |
 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:25 | 2023-12-19 | 2024-01-17 |
 | [Careless Whisper](https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:00 | 2024-03-04 | 2024-03-08 |
 | [CARENCIAS DE CORDURA](https://open.spotify.com/track/3JZJ7hD74iOAB07Socju0h) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:58 | 2023-12-19 | 2024-01-19 |
@@ -403,6 +404,7 @@
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-05-16 | 2025-09-26 |
 | [ORO POR COBRE](https://open.spotify.com/track/2sOEhQs8YeH8t9WD6x7J6v) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [ORO POR COBRE](https://open.spotify.com/album/6Ks2GpUq18gz4OlMArnJ2N) | 2:43 | 2024-11-27 | 2025-04-16 |
 | [OUKE](https://open.spotify.com/track/6qirwywrdINSxd22fTcECe) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [OUKE](https://open.spotify.com/album/7gjbeDtuwNMAjc1dpPJnty) | 2:58 | 2024-04-12 | 2024-04-19 |
+| [Oye Mi Amor](https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:23 | 2026-06-12 |  |
 | [pa](https://open.spotify.com/track/28ZVFl4CQhyRmBFpJXOpUY) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [pa](https://open.spotify.com/album/4bjgFGmRrC04tRlwz5i6op) | 3:10 | 2024-04-04 | 2024-10-18 |
 | [Pa las girlas](https://open.spotify.com/track/7dCGkDZgWIDSZyxInMkdIv) | [Mattei](https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw) | [Pa las girlas](https://open.spotify.com/album/5yGeyYQfUhdQUvk0yVTVkY) | 2:30 | 2025-04-24 | 2025-09-26 |
 | [Para Siempre](https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:32 | 2024-02-23 | 2024-04-05 |

@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "CAN YOU FEEL IT",
+        "url": "https://open.spotify.com/album/0YdzgeVCQZum2GdEGkarQb"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "CAN YOU FEEL IT",
+      "url": "https://open.spotify.com/track/1UsjO2e3GW7mYpdWXyJ7AN"
+    },
+    {
+      "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY"
       },
@@ -1794,7 +1812,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 170816,
       "name": "City of Angels",
       "url": "https://open.spotify.com/track/7puNbyB05EeQtuECaar90v"
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 216000,
       "name": "Close to Closure",
       "url": "https://open.spotify.com/track/4qqIyZy6MEvZB3pmPQlcCH"
@@ -2524,7 +2542,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 189200,
       "name": "Dark Void - Sullivan King Remix",
       "url": "https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha"
@@ -4254,7 +4272,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 176008,
       "name": "Get To U",
       "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
@@ -6916,7 +6934,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 179735,
       "name": "Money in the Bag",
       "url": "https://open.spotify.com/track/0UNp3pXLvLUndVN42taRdL"
@@ -8884,7 +8902,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 193146,
       "name": "Rocka",
       "url": "https://open.spotify.com/track/1C0PPfiAjOukLff0ucmzsn"
@@ -11013,6 +11031,32 @@
     },
     {
       "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/1wgweZqqZYCIuW7DroiVDR"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        },
+        {
+          "name": "Vastive",
+          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276153,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/4q1LQDKbCd6JX2EDJTRZjn"
+    },
+    {
+      "album": {
         "name": "What I Breathe",
         "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
       },
@@ -11828,7 +11872,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 196166,
       "name": "Won't Take The Blame",
       "url": "https://open.spotify.com/track/4QFYCB4YuTGMuc61IFrA6G"
@@ -11954,6 +11998,28 @@
       "duration_ms": 230400,
       "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
       "url": "https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ"
+    },
+    {
+      "album": {
+        "name": "Youngest Daughter - Mersiv Remix",
+        "url": "https://open.spotify.com/album/11gCUr3QleKYyzkrab2tIm"
+      },
+      "artists": [
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        },
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Youngest Daughter - Mersiv Remix",
+      "url": "https://open.spotify.com/track/02685NsHQeIsgDPdp3Csrg"
     },
     {
       "album": {

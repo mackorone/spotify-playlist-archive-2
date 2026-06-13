@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,069 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,899 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 15 | [Wish I Didn't](https://open.spotify.com/track/2qX8A5UFLm1cKUuB229jl3) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:29 |
 | 16 | [CHARME](https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CHARME](https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh) | 3:03 |
 | 17 | [Carry the Weight](https://open.spotify.com/track/7p3oJMceNz5skGLw52ZOjY) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator \(Deluxe\)](https://open.spotify.com/album/6ehD64XkegXwfsA2hYhkKr) | 3:09 |
-| 18 | [Perdón si no te llamé](https://open.spotify.com/track/6ro7G0r7NwAGpg1ooa8hIi) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Perdón si no te llamé](https://open.spotify.com/album/4ZU0IrkV79sXI6RmXlshbX) | 2:49 |
-| 19 | [Mal o Bien](https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 2:05 |
+| 18 | [Mal o Bien](https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 2:05 |
+| 19 | [Perdón si no te llamé](https://open.spotify.com/track/6ro7G0r7NwAGpg1ooa8hIi) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Perdón si no te llamé](https://open.spotify.com/album/4ZU0IrkV79sXI6RmXlshbX) | 2:49 |
 | 20 | [陪你到這](https://open.spotify.com/track/26zxMDfNVe4lAfx1VRmqSt) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [陪你到這](https://open.spotify.com/album/5k6Q1TKIjCaiXl6hd0jMhz) | 3:52 |
 | 21 | [A Loba](https://open.spotify.com/track/6TJJi1sNzwrUpjlXHXazlz) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [A Paixão Tem Memória](https://open.spotify.com/album/0RHOy2yMiGSIctpV7ediQl) | 4:24 |
 | 22 | [Menjaga Jodoh Orang Lain](https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [Menjaga Jodoh Orang Lain](https://open.spotify.com/album/2uL5VfwFoXV4C0Xtn01sVQ) | 4:32 |
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 34 | [I Wish You Well](https://open.spotify.com/track/62MQQhu3ljO21zGvjWEJYV) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [I Wish You Well](https://open.spotify.com/album/3LvKwWsV65kw0zBuNaChoA) | 3:20 |
 | 35 | [LOVE ME](https://open.spotify.com/track/6Xd1mqYyMIK9LWrGUciP80) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [LOVE ME](https://open.spotify.com/album/58arh5Ywb3hxmzDReTVuyJ) | 3:14 |
 | 36 | [Sweat](https://open.spotify.com/track/51UnncspbHO6tgC7dG9YVf) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD) | 3:02 |
-| 37 | [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 |
-| 38 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
+| 37 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
+| 38 | [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 |
 | 39 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |
 | 40 | [Therapy](https://open.spotify.com/track/78ZwA2gv2dKj92FqY3CwrU) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [Therapy](https://open.spotify.com/album/4I5mHJeEcs9QcTfxHUwWfk) | 3:18 |
 | 41 | [So Bad](https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [So Bad](https://open.spotify.com/album/4VUNZfosz2STVMWZDbSX7l) | 3:53 |
 | 42 | [Beni Benimle Bırakma](https://open.spotify.com/track/43cQM37HvUqd3pZmMpuiw6) | [Nükhet Duru](https://open.spotify.com/artist/7HLLY3hnsKLpq6bq3OwNNe) | [Beni Benimle Bırakma](https://open.spotify.com/album/79dFfg47VbTWCKV34jRVCk) | 3:30 |
 | 43 | [Para Da Pa Dodu](https://open.spotify.com/track/7DwWI6exyodWIYB2RB3bmA) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Paulinha](https://open.spotify.com/artist/6QreKWSo4ectaWUuRmIBjU) | [Para Da Pa Dodu](https://open.spotify.com/album/4SHjfzq4G7Jp79kloT0xYo) | 3:17 |
-| 44 | [Amour Propre](https://open.spotify.com/track/0YviyT90HZHpGqLQDfif2b) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [VERSATILE](https://open.spotify.com/album/0owIvIFEbUN6xtsplJHOjZ) | 3:29 |
-| 45 | [Something Went Wrong](https://open.spotify.com/track/0Gkch77N5WgIEUXZVI2zlW) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [Something Went Wrong](https://open.spotify.com/album/0QSDynYOpw7n0lI3RTQmbm) | 3:06 |
+| 44 | [Something Went Wrong](https://open.spotify.com/track/0Gkch77N5WgIEUXZVI2zlW) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [Something Went Wrong](https://open.spotify.com/album/0QSDynYOpw7n0lI3RTQmbm) | 3:06 |
+| 45 | [Amour Propre](https://open.spotify.com/track/0YviyT90HZHpGqLQDfif2b) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [VERSATILE](https://open.spotify.com/album/0owIvIFEbUN6xtsplJHOjZ) | 3:29 |
 | 46 | [Sigui](https://open.spotify.com/track/5i0JVsQOIwqn9LKP29YXh3) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Sigui](https://open.spotify.com/album/4kiBVxzxHqE0FccC8JIxJD) | 3:17 |
 | 47 | [深宵便利愛](https://open.spotify.com/track/1PVmRq1h6juqGicSQFCfSf) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [深宵便利愛](https://open.spotify.com/album/4BX4idG37uUOpXB0WvQ1JJ) | 3:19 |
 | 48 | [Berlin](https://open.spotify.com/track/7Ei6t0vqP6QsuEEok9oxZJ) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:23 |

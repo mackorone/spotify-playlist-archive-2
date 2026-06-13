@@ -713,6 +713,24 @@
     },
     {
       "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/68y3RxsPcEnhPc4MwL6aaq"
+      },
+      "artists": [
+        {
+          "name": "Stefano Marocco",
+          "url": "https://open.spotify.com/artist/6T2Y9dnwLPTni627WUfLPp"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165182,
+      "name": "Colores",
+      "url": "https://open.spotify.com/track/2gTK2JZ8S7jd47FqDslCCW"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -1015,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Loco Desamor",
+        "url": "https://open.spotify.com/album/74kOb6HpTDS4RARvD3cK8K"
+      },
+      "artists": [
+        {
+          "name": "jimena con jota",
+          "url": "https://open.spotify.com/artist/7cDTpz5r4hSvq771lLRmId"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218208,
+      "name": "Deseo",
+      "url": "https://open.spotify.com/track/73R6nrkc3NOvu4G2ieOTc1"
+    },
+    {
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -1146,7 +1182,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 207809,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
@@ -1236,7 +1272,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 125156,
       "name": "El Mundo Siempre Estuvo Dividido en Dos",
       "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
@@ -4107,6 +4143,24 @@
     },
     {
       "album": {
+        "name": "El lado B",
+        "url": "https://open.spotify.com/album/0herv01D7VruP9cPQli1xn"
+      },
+      "artists": [
+        {
+          "name": "Sofia Macchi",
+          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204328,
+      "name": "Viaje Tropical - El lado B",
+      "url": "https://open.spotify.com/track/1T6pfCOc803RV2LlRYwojH"
+    },
+    {
+      "album": {
         "name": "Viernes",
         "url": "https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0"
       },
@@ -4136,7 +4190,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 187386,
       "name": "Visa",
       "url": "https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd"

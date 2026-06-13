@@ -1,12 +1,12 @@
 {
   "description": "Today's biggest and most exciting videos. Music videos available only on Premium.",
-  "num_followers": 14397,
+  "num_followers": 14675,
   "original_name": "Today's Top Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOETQjyrkcO2yOy4PwGhpk92Hoo7",
+  "snapshot_id": "AAAAAFFlM4J8EW7/XNpayasOUhtntM9t",
   "tracks": [
     {
       "added_at": "2026-06-10 01:33:51",
@@ -23,6 +23,22 @@
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "added_at": "2026-06-12 20:05:03",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
     },
     {
       "added_at": "2026-06-10 01:33:51",
@@ -277,22 +293,6 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-04-15 00:06:45",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 169214,
-      "name": "House Tour",
-      "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
-    },
-    {
       "added_at": "2026-03-09 16:57:17",
       "album": {
         "name": "Kiss All The Time. Disco, Occasionally.",
@@ -359,22 +359,6 @@
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
-    },
-    {
-      "added_at": "2026-05-15 23:36:22",
-      "album": {
-        "name": "REDRED",
-        "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
-      },
-      "artists": [
-        {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        }
-      ],
-      "duration_ms": 163001,
-      "name": "REDRED",
-      "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
     },
     {
       "added_at": "2026-03-20 04:34:34",

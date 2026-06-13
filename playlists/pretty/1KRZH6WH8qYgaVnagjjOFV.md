@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>  cinco de mayo , soaking worship , jelly roll worship
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 374,462 likes - 131 songs - 8 hr 21 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 374,442 likes - 131 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 4 | [Breathe On It](https://open.spotify.com/track/3sd2kvWWh7T2M6N64LOGSV) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It](https://open.spotify.com/album/38CH2161JgsV17KaROhaDe) | 4:00 |
 | 5 | [How Good It Is](https://open.spotify.com/track/0vJOXzOybkJy7yQsdVt0Jg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Good It Is](https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc) | 3:56 |
 | 6 | [God Story](https://open.spotify.com/track/18ofIiWpkc7UvlJvoaiOh5) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars](https://open.spotify.com/album/3Bvpjj5AeTxIrmlaKHK1O4) | 3:07 |
-| 7 | [Ain't No Way](https://open.spotify.com/track/0liluEGeInfODcv6T6cAXp) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 2:48 |
+| 7 | [Ain't No Way \- Studio Session](https://open.spotify.com/track/3qhbBibRY8TZevA51xeyBd) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Ain't No Way](https://open.spotify.com/album/7kRrf0s1HZCz1vOx1aVbxd) | 2:47 |
 | 8 | [demons](https://open.spotify.com/track/5HXFe0eb5lCfJpsqoqIbRS) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [demons](https://open.spotify.com/album/6KAkZgA0rnazv1gQKLcOyW) | 3:10 |
 | 9 | [No Survivors](https://open.spotify.com/track/14OspenVFI42NxSwtLFWyF) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6UsQegGmzA4l3CGihGaWRo) | 2:20 |
 | 10 | [Watchmen](https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [EAT](https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K) | 2:47 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 130 | [Come Into The Light](https://open.spotify.com/track/7rIKOEctlLMxtRgGheUeXb) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Come Into The Light](https://open.spotify.com/album/1tQdKADUZhcP6yl3o0J5TH) | 4:30 |
 | 131 | [Nothin' Sweeter](https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Nothin' Sweeter](https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU) | 2:56 |
 
-Snapshot ID: `AAAnQVDSFlx0n49LNDc1bmfDwS0JKTzn`
+Snapshot ID: `AAAnQ53JsPJPir0GfP9OI3wtum7EQamm`

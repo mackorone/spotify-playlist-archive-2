@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 宮本浩次 \*👉 <a href="https://spice.eplus.jp/articles/346726">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,300 likes - 82 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,312 likes - 82 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 39 | [Hate to LOVE YOU](https://open.spotify.com/track/21Q5UHY4JgFxHadrsxAKt2) | [YUTO ADACHI](https://open.spotify.com/artist/17r1icU1MBb64QPd82xO2X), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [Hate to LOVE YOU](https://open.spotify.com/album/2BCqyvFeDV4bNHhq82N9Su) | 3:18 |
 | 40 | [Self Friday](https://open.spotify.com/track/79WvtR3PHx2ynu7RBaISe7) | [VERRY SMoL](https://open.spotify.com/artist/1kfzDm0CR9FLumg2G3jhk9) | [Self Friday](https://open.spotify.com/album/5ojERtMLLd8iXVj9PNJXkF) | 2:14 |
 | 41 | [ゆびのうた](https://open.spotify.com/track/4i93kAVgt2bh5gknOpPg8j) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [ゆびのうた](https://open.spotify.com/album/1LEETTqijAlGmCdiJtQ51l) | 2:01 |
-| 42 | [EMPRIE CODE \- REMIX feat\. AK\-69](https://open.spotify.com/track/06uftvxzduxTlDh5eFJmo2) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk), [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh) | [EMPIRE CODE \(EXTENDED EDITION\)](https://open.spotify.com/album/2N0IRtIr1UtiEB4RAZ9iZU) | 3:48 |
+| 42 | [EMPIRE CODE \- REMIX feat\. AK\-69](https://open.spotify.com/track/06uftvxzduxTlDh5eFJmo2) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk), [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh) | [EMPIRE CODE \(EXTENDED EDITION\)](https://open.spotify.com/album/2N0IRtIr1UtiEB4RAZ9iZU) | 3:48 |
 | 43 | [NEW WORLD \- feat\. MIYAVI](https://open.spotify.com/track/1LVD6i0SiLEv5Cd8ADiqpU) | [EXILE AKIRA](https://open.spotify.com/artist/4uEmzqSUIQ9RtSQZgddBN8), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [URBAN SAVAGE](https://open.spotify.com/album/0yNmQNYUn0jyraxyNVWDiE) | 3:24 |
 | 44 | [さかさま \- feat.北村蕗](https://open.spotify.com/track/441emVfnNu9rXO3HONUpya) | [DUCK HOUSE](https://open.spotify.com/artist/0ELl1ezauBmVn8nA3GdDJT), [SOMAOTA](https://open.spotify.com/artist/7iDt6acAAE3tr0bfHM5h3O), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [家鴨の手帖](https://open.spotify.com/album/76hKYhckxA7uUatj5ve6fU) | 3:54 |
 | 45 | [Pretty Problems](https://open.spotify.com/track/2Kh8TQus3CaAyCCpaSVHIy) | [Kaikun](https://open.spotify.com/artist/2yXYV0qNsatMoSA2B5uKSj), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Pretty Problems](https://open.spotify.com/album/5GFoRIGFAYJCLgUR0OkE3F) | 2:38 |

@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 33157,
+  "num_followers": 33165,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin"
+      },
+      "artists": [
+        {
+          "name": "Maple Syrup",
+          "url": "https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr"
+        }
+      ],
+      "duration_ms": 116447,
+      "name": "Tudo Bem",
+      "url": "https://open.spotify.com/track/0SGRPlbprTyOMPNgwlir3Q"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 114000,
       "name": "Mi Pueblo",
       "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin"
-      },
-      "artists": [
-        {
-          "name": "Maple Syrup",
-          "url": "https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr"
-        }
-      ],
-      "duration_ms": 116447,
-      "name": "Tudo Bem",
-      "url": "https://open.spotify.com/track/0SGRPlbprTyOMPNgwlir3Q"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
-      },
-      "artists": [
-        {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        }
-      ],
-      "duration_ms": 150927,
-      "name": "Aguanc\u00f3",
-      "url": "https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Te Adoro",
         "url": "https://open.spotify.com/album/6YpkDFutK6pQfAdSQiwwp5"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 124500,
       "name": "Te Adoro",
       "url": "https://open.spotify.com/track/1sagWkuNSjjj1juUOTQNRF"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Guaguansoul",
+        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        }
+      ],
+      "duration_ms": 150927,
+      "name": "Aguanc\u00f3",
+      "url": "https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -435,6 +435,26 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Remixes lofi del Regional Chill",
+        "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 123875,
+      "name": "Los d\u00edas grises (Remix)",
+      "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "COMO ARRUINARTE LA VIDA",
         "url": "https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 127749,
       "name": ":(",
       "url": "https://open.spotify.com/track/1JrsBQYxkbLbGvCyo7dgmJ"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Remixes lofi del Regional Chill",
-        "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 123875,
-      "name": "Los d\u00edas grises (Remix)",
-      "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -775,26 +775,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "De La Selva",
-        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
-      },
-      "artists": [
-        {
-          "name": "Alma De La Selva",
-          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
-        },
-        {
-          "name": "Juan Carlos Montiel Rangel",
-          "url": "https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2"
-        }
-      ],
-      "duration_ms": 240981,
-      "name": "Chipek",
-      "url": "https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Perdido en Memorias",
         "url": "https://open.spotify.com/album/17VTCoOPYN8aFVk8Ah2V3A"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 129882,
       "name": "Perdido en Memorias",
       "url": "https://open.spotify.com/track/6hmIKNKSobnnSP3KGhHM0d"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "De La Selva",
+        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
+      },
+      "artists": [
+        {
+          "name": "Alma De La Selva",
+          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
+        },
+        {
+          "name": "Juan Carlos Montiel Rangel",
+          "url": "https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2"
+        }
+      ],
+      "duration_ms": 240981,
+      "name": "Chipek",
+      "url": "https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I"
+      },
+      "artists": [
+        {
+          "name": "L.Rey",
+          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Primer Beso",
         "url": "https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 135000,
       "name": "Primer Beso",
       "url": "https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I"
-      },
-      "artists": [
-        {
-          "name": "L.Rey",
-          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Ciudad de Papel",
-        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 129767,
-      "name": "Ciudad de Papel",
-      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "LA FALDA (LoFi)",
         "url": "https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ"
       },
@@ -1223,22 +1207,18 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Playa del Amor",
-        "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
+        "name": "Ciudad de Papel",
+        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
       },
       "artists": [
         {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
         }
       ],
-      "duration_ms": 129565,
-      "name": "Playa del Amor",
-      "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
+      "duration_ms": 129767,
+      "name": "Ciudad de Papel",
+      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1259,22 +1239,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Moonlight Juice",
-        "url": "https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5"
+        "name": "Playa del Amor",
+        "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
       },
       "artists": [
         {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
         },
         {
-          "name": "Shetafacker",
-          "url": "https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6"
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 147786,
-      "name": "Moonlight Juice",
-      "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
+      "duration_ms": 129565,
+      "name": "Playa del Amor",
+      "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1331,6 +1311,26 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Moonlight Juice",
+        "url": "https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        },
+        {
+          "name": "Shetafacker",
+          "url": "https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6"
+        }
+      ],
+      "duration_ms": 147786,
+      "name": "Moonlight Juice",
+      "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Autumn",
         "url": "https://open.spotify.com/album/1UkmUDvr8N92hRv5L0H9Mh"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "are you kidding?",
-        "url": "https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 131091,
-      "name": "are you kidding?",
-      "url": "https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Todo Tranqui",
         "url": "https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 100738,
       "name": "Todo Tranqui",
       "url": "https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "are you kidding?",
+        "url": "https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 131091,
+      "name": "are you kidding?",
+      "url": "https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2"
     },
     {
       "added_at": "2025-04-04 04:00:19",

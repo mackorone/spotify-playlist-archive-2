@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 
 > Who run the world? Cover: Bella Kay
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,445 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,459 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

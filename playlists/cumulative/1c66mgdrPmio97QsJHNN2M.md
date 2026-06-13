@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,178 songs - 4 day 20 hr 8 min
+2,182 songs - 4 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Abusement Park](https://open.spotify.com/track/7ldaWhFQsaqqkZICJkpe8j) | [Elena Deva](https://open.spotify.com/artist/74tBmrf36ocEVBljmAKt88) | [Abusement Park](https://open.spotify.com/album/1byluahmApYCqXM9p4iIwl) | 4:15 | 2026-02-02 | 2026-03-06 |
 | [Accordingly](https://open.spotify.com/track/6zsFqOMIslAHxBDDziXSEc) | [Joe Darcy & The New Disease](https://open.spotify.com/artist/1Ymv5tIMQh757DdjS2uOnW) | [Accordingly](https://open.spotify.com/album/4O1LtEHOV2EywJYTyHAwpI) | 3:19 | 2026-02-16 | 2026-03-20 |
 | [Adagio](https://open.spotify.com/track/7d1Xj6J1MTUUJ3YBe55CBB) | [Tomaso Albinoni](https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq), [Ilia Chkolnik](https://open.spotify.com/artist/020ktVWMg5BAOiYI5B9Ffa) | [Albinoni: Adagio](https://open.spotify.com/album/03C5Y5tZNHw5Fb7dmExAok) | 7:16 | 2025-11-07 | 2025-12-08 |
+| [Adder](https://open.spotify.com/track/4PkTifZxY24BR22QPF7T8O) | [LYHE](https://open.spotify.com/artist/28KfiWYBExcoJ2W7m73VXM) | [Back to the Roots](https://open.spotify.com/album/5JNXLzLlOC6wZmbzxG8YeM) | 3:31 | 2026-06-12 |  |
 | [Addictive \(Not Sorry\)](https://open.spotify.com/track/24SQzH29ZZ4DsKVBxyU6B8) | [Cody Rose](https://open.spotify.com/artist/3wMDceiSqnOM5M4E4CpIs2) | [Addictive \(Not Sorry\)](https://open.spotify.com/album/4qtgnVfgmoKRpzNl41UBlj) | 1:49 | 2026-03-07 | 2026-04-09 |
 | [Adore](https://open.spotify.com/track/3jWOGKUv6MFHJpSnCczrfu) | [MENZEL](https://open.spotify.com/artist/7fNacOxPmiiMwyDV0K71MX) | [Adore](https://open.spotify.com/album/79slxxEbcp75R7vGmmr2G1) | 2:46 | 2026-05-16 |  |
 | [Adrenalina](https://open.spotify.com/track/0W2syo0iOOggnvLyJv8Jxu) | [Mats Kedrren](https://open.spotify.com/artist/64VcYaWQLc4sWJ4OHDm76y) | [Adrenalina](https://open.spotify.com/album/5sBq7jFfmicJEmyMhOZjih) | 3:12 | 2025-12-27 | 2026-01-28 |
@@ -186,6 +187,7 @@
 | [be alright](https://open.spotify.com/track/7rbaLLtwjbDT3uyHkFUYST) | [DRIM](https://open.spotify.com/artist/4qPHvF9yQBRM5ndTXEc4OT) | [be alright](https://open.spotify.com/album/6AYGv38FGO63EJPc0qlnYu) | 3:02 | 2026-03-07 | 2026-04-08 |
 | [Be Mine](https://open.spotify.com/track/7zxqw9tDiWTrN06xl6vr95) | [Ahka M](https://open.spotify.com/artist/709br9tSDPpGUZOlKXDsm2) | [Be Mine](https://open.spotify.com/album/4tJQcCr9f94ycll0QYONCc) | 2:29 | 2026-02-06 | 2026-03-10 |
 | [Be the Star That You Are](https://open.spotify.com/track/48hhpEl3Q2f4sL4kMsHC8R) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Be the Star That You Are](https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0) | 3:09 | 2026-03-18 | 2026-04-19 |
+| [Beach Bum of Manasota Key](https://open.spotify.com/track/4lLFS7PjxK4OvktXivDrgt) | [Alex Hutchinson](https://open.spotify.com/artist/0qzOSbk3s9TNXYp3ZsKI5c) | [Beach Bum of Manasota Key](https://open.spotify.com/album/6iRIDkjLwjMxC34WDnIh7D) | 2:22 | 2026-06-12 |  |
 | [Beach Days](https://open.spotify.com/track/3Mk68hb4DOv74ktJZytJ17) | [Driftøne](https://open.spotify.com/artist/0HYbhaDuJid2WF8MLT7eDq) | [Beach Days](https://open.spotify.com/album/1s7nKlvs1fNm8skMtH2R5y) | 2:56 | 2026-04-08 | 2026-05-10 |
 | [Beach Please](https://open.spotify.com/track/4ell9wJl62PGLJOH1hcNER) | [Randolt](https://open.spotify.com/artist/2FKEnVzOP3hrGZjHDj7gTd) | [Beach Please](https://open.spotify.com/album/4WPpZ2rZegKhhnEFqzUTVq) | 2:36 | 2026-04-10 | 2026-05-12 |
 | [BEAUTIFUL](https://open.spotify.com/track/1MHzsLxKf9RZUWN2eFrFeT) | [TOSHIO](https://open.spotify.com/artist/47bckvEbfGJIp3qi9gLqV9) | [BEAUTIFUL](https://open.spotify.com/album/2hZkkhPr34OQS11HtyhyBH) | 2:59 | 2026-03-18 | 2026-04-19 |
@@ -313,6 +315,7 @@
 | [chandelier](https://open.spotify.com/track/77ho7KSzYoU7bTYa1dnz9t) | [Gwammz](https://open.spotify.com/artist/61M7qdbyweH4aLzPmRGy3b) | [Lavenderlight](https://open.spotify.com/album/6O9Ke55bG1MnKrqqroA5eW) | 3:38 | 2025-11-10 | 2025-12-11 |
 | [Change](https://open.spotify.com/track/6tMtJphfj5XDQ3mPcxmhd9) | [Nova Laen](https://open.spotify.com/artist/0TyUS7iLsP9ctdwhKk2AdG) | [Stories from Jupiter!](https://open.spotify.com/album/2wDlgWBl64xQ5jcP2f3C5S) | 1:30 | 2026-01-11 | 2026-02-12 |
 | [Charcoal Gray](https://open.spotify.com/track/1uX1wInA0DAuNlbxU0HsUR) | [Lexis](https://open.spotify.com/artist/3G9nEokOr2vfTHCgEnQsbM) | [Charcoal Gray](https://open.spotify.com/album/0UtfuMSLZtlzBER0XEiXHm) | 3:10 | 2026-03-23 | 2026-04-17 |
+| [Chasing After Wind](https://open.spotify.com/track/5dxbLC5jWekOKYhBSBIgPU) | [Brainfreeze Lemonade](https://open.spotify.com/artist/0mwxSMPvIUyJY4O2Nq5tt0) | [Chasing After Wind](https://open.spotify.com/album/3cuAcH4AZzr8ddUuwA56NQ) | 3:29 | 2026-06-12 |  |
 | [CHASING THE NIGHT](https://open.spotify.com/track/58Q0lOq30e0ctMNfHL6cBJ) | [Elizeu Viana dos Santos Rodrigues](https://open.spotify.com/artist/5kfD6eWFY8u4Y6DhGbNQDl) | [CHASING THE NIGHT](https://open.spotify.com/album/0dERGyVuMF4XD0kxwhmjsq) | 3:01 | 2025-12-22 | 2026-01-24 |
 | [Chasing the Shadows](https://open.spotify.com/track/5EDWvgXaOp7nD2CHlZlD97) | [Sun Sand](https://open.spotify.com/artist/0FjNOXPb3bC89r7gbKFAth) | [Chasing the Shadows](https://open.spotify.com/album/0TZgrNYrJUZ3LDoODviGaQ) | 3:54 | 2026-03-11 | 2026-04-13 |
 | [Chemicals](https://open.spotify.com/track/5hUUIzPg8DCxzkmpjiQ6ek) | [Ella Kenz](https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e) | [Chronic Obsessions](https://open.spotify.com/album/78hy2PK22Ll9aZaJuU4fKj) | 3:00 | 2026-03-21 | 2026-04-22 |
@@ -673,6 +676,7 @@
 | [Full Moon](https://open.spotify.com/track/3Rsxp8M2WOASBoRacJpx2T) | [Larsen](https://open.spotify.com/artist/2alBJeRcWoZU10GiktDuuW) | [Full Moon](https://open.spotify.com/album/7lCYK7XvCDKIwxKyor2IRC) | 3:22 | 2026-02-06 | 2026-03-10 |
 | [Funky Shoes](https://open.spotify.com/track/31nFDAKrVZgJAOvAOFOY49) | [SABOGA](https://open.spotify.com/artist/7MnlZXTtWk60QisRWY7lOA) | [Funky Shoes](https://open.spotify.com/album/6B923n9SzNzEDzIIkD0OYa) | 3:09 | 2026-05-07 | 2026-06-08 |
 | [Future Ghsts \(Core\)](https://open.spotify.com/track/0tp8m4z8eheQxgtPaD30Ek) | [GHSTMEAT](https://open.spotify.com/artist/3eaXR0x6AOb0YJDhxcxV4a) | [Future Ghsts \(Core\)](https://open.spotify.com/album/3Dg3cPZo9kCUSMMFFPm1Al) | 3:00 | 2025-11-10 | 2025-12-11 |
+| [Futuristic Forest Færies](https://open.spotify.com/track/54Yecslue2BMSUEHCMebmi) | [Æon of Æther](https://open.spotify.com/artist/1v5UcJGJfoYMVJ2XtNhuhA) | [Futuristic Forest Færies](https://open.spotify.com/album/4uNNPSbZBlTxUiPtSCFWbB) | 3:15 | 2026-06-12 |  |
 | [G HOUSE](https://open.spotify.com/track/1LbBouc8mgLYJegx6J1cKI) | [FAON](https://open.spotify.com/artist/2b5QC4KWCMRKdD7LiqvfMQ), [Valisbeats](https://open.spotify.com/artist/3xVvsXvpURgj3zeTYiBtCv) | [G HOUSE](https://open.spotify.com/album/34gDlw16Z3txHVquZEcYMq) | 1:49 | 2026-02-27 | 2026-03-30 |
 | [Galactic Gal](https://open.spotify.com/track/0AKWACYCpvTNdk9B228qw4) | [LowViruzz Ai](https://open.spotify.com/artist/6zZpFdD6MQzHmfjnIDG4gU) | [Galactic Gal](https://open.spotify.com/album/2fsXOM2xvg766n0BX2J8Rh) | 2:23 | 2026-03-13 | 2026-04-14 |
 | [Galaxies](https://open.spotify.com/track/6ksrOcaWlkKExMysls33P3) | [Point Disarray](https://open.spotify.com/artist/1vhafqghiLlE3Nd6WEjM4B) | [Galaxies](https://open.spotify.com/album/6DTeJYyWQwgwVdF9TOOeOU) | 3:37 | 2026-03-10 | 2026-04-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7OfGslpHp1.md) - [plain]
 
 > All the music and podcasts from "You and I Are Polar Opposites".
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,178 likes - 48 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,188 likes - 48 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Una sensual selección de canciones para bailar en una sola baldosa.
 
-85 songs - 7 hr 0 min
+86 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Paginas de Amor](https://open.spotify.com/track/1UaejyfrYuAdGMXCwwwMpg) | [Tito Gomez](https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2) | [Alma de Cantante Errante](https://open.spotify.com/album/79dxsQGu6nJoSWN5Tqyp4S) | 5:00 | 2021-04-30 |  |
 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 | 2021-04-30 |  |
 | [Porque Te Amo](https://open.spotify.com/track/0DrNa6Ol75djsKlw67TABQ) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Exitos Y Mas Exitos](https://open.spotify.com/album/0ZiO84WuLFyD21W4lq62LO) | 5:06 | 2021-04-30 |  |
-| [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1r2EerxDMVQbXxqsqnjUhy) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lluvia](https://open.spotify.com/album/5wfnIPd0TYl6ZKNPhvaYwW) | 5:05 | 2021-04-30 |  |
+| [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1r2EerxDMVQbXxqsqnjUhy) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lluvia](https://open.spotify.com/album/5wfnIPd0TYl6ZKNPhvaYwW) | 5:05 | 2021-04-30 | 2026-06-13 |
+| [Que Locura Enamorarme De Ti](https://open.spotify.com/track/6gp2bYLAhqiLxO54Wmt195) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad \(15 Super Exitos\)](https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr) | 5:09 | 2026-06-12 |  |
 | [Quien Piensa En Ti](https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Grandes Éxitos Grupo Caneo, Vol\. 7](https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN) | 4:38 | 2023-11-16 | 2024-04-19 |
 | [Quien Piensa en Ti](https://open.spotify.com/track/5hJeFKfmLxHcwzz0lLsPTN) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Original](https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6) | 4:38 | 2022-07-28 | 2023-02-25 |
 | [Quiero Llenarte](https://open.spotify.com/track/2znlMTgRTU4VMbKzToDIyN) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Show](https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E) | 4:32 | 2021-04-30 |  |

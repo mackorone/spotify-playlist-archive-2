@@ -330,7 +330,7 @@
           "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
         },
         {
-          "name": "The Monteverdi Choir",
+          "name": "Monteverdi Choir",
           "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
         },
         {
@@ -781,32 +781,6 @@
     },
     {
       "album": {
-        "name": "Once, as I remember...",
-        "url": "https://open.spotify.com/album/4B4pfO2MIpez0ypBbhWACH"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "The Monteverdi Choir",
-          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        }
-      ],
-      "date_added": "2022-12-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 110000,
-      "name": "Entre le boeuf",
-      "url": "https://open.spotify.com/track/0t1n5x37jVHlsDtLfUV1y8"
-    },
-    {
-      "album": {
         "name": "101 Christmas",
         "url": "https://open.spotify.com/album/4390M01bRaK1UgdXmvqbq4"
       },
@@ -816,7 +790,7 @@
           "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
         },
         {
-          "name": "The Monteverdi Choir",
+          "name": "Monteverdi Choir",
           "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
         },
         {
@@ -843,6 +817,32 @@
         },
         {
           "name": "The Monteverdi Choir",
+          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 110000,
+      "name": "Entre le boeuf",
+      "url": "https://open.spotify.com/track/0t1n5x37jVHlsDtLfUV1y8"
+    },
+    {
+      "album": {
+        "name": "Once, as I remember...",
+        "url": "https://open.spotify.com/album/4B4pfO2MIpez0ypBbhWACH"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Monteverdi Choir",
           "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
         },
         {
@@ -1892,7 +1892,7 @@
           "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
         },
         {
-          "name": "The Monteverdi Choir",
+          "name": "Monteverdi Choir",
           "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
         },
         {

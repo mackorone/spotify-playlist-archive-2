@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,047 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,079 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 59 | [Rookie](https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [After The Eulogy](https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX) | 4:13 |
 | 60 | [I'm Not A Thief, I'm A Treasure Hunter](https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [Wires...And The Concept Of Breathing](https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd) | 3:18 |
 | 61 | [Capricorn \(A Brand New Name\)](https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 3:53 |
-| 62 | [Goodbye My Love](https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM) | [Lovehatehero](https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq) | [White Lies](https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs) | 3:33 |
-| 63 | [Juneau](https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:36 |
+| 62 | [Juneau](https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:36 |
+| 63 | [Goodbye My Love](https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM) | [Lovehatehero](https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq) | [White Lies](https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs) | 3:33 |
 | 64 | [Studying Politics](https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Question](https://open.spotify.com/album/4hqjE4M2FKwKeObRmoTEet) | 3:30 |
 | 65 | [All It Takes For Your Dreams To Come True](https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [Wires...And The Concept Of Breathing](https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd) | 3:14 |
 | 66 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 |
-| 67 | [Here I Stand](https://open.spotify.com/track/2hSpvEjeA8y2yGcFBCgwHd) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [From Them, Through Us, To You](https://open.spotify.com/album/6yLkk9pNOfvAZ2EoUZlj7o) | 3:23 |
-| 68 | [Rookie of the Year](https://open.spotify.com/track/05IWxcvFY5t7fUVJQdK9GA) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:00 |
+| 67 | [Rookie of the Year](https://open.spotify.com/track/05IWxcvFY5t7fUVJQdK9GA) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:00 |
+| 68 | [Here I Stand](https://open.spotify.com/track/2hSpvEjeA8y2yGcFBCgwHd) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [From Them, Through Us, To You](https://open.spotify.com/album/6yLkk9pNOfvAZ2EoUZlj7o) | 3:23 |
 | 69 | [The New Black](https://open.spotify.com/track/22EXrfNV0f9ZcWMpK2lF67) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 2:52 |
 | 70 | [My Darkest Hour](https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [The City Sleeps in Flames](https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3) | 3:29 |
 | 71 | [New Medicines](https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg) | [Dead Poetic](https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD) | [New Medicines](https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh) | 4:02 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 87 | [Counting 5\-4\-3\-2\-1](https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 3:19 |
 | 88 | [The Party Song](https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [I'm Only A Man](https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq) | 3:31 |
 | 89 | [Surrender Your Sons](https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [The Anti Mother](https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4) | 4:40 |
-| 90 | [In the Belly of a Shark](https://open.spotify.com/track/0khj70h8pejNRukEhOn86O) | [Gallows](https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu) | [Orchestra Of Wolves \(new version\)](https://open.spotify.com/album/6iKEpmbrs3YpXiEo68HHnx) | 2:41 |
-| 91 | [Let The Evil Go East](https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg) | [Greeley Estates](https://open.spotify.com/artist/2l7ALCv1HxcE32kc3b7vag) | [Go West Young Man, Let The Evil Go East](https://open.spotify.com/album/3ApC6jMB269oXLXZK0hkPZ) | 3:20 |
-| 92 | [Escape Artists Never Die](https://open.spotify.com/track/34RIandjffS6fEMitjZnvF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 5:17 |
+| 90 | [Escape Artists Never Die](https://open.spotify.com/track/34RIandjffS6fEMitjZnvF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 5:17 |
+| 91 | [In the Belly of a Shark](https://open.spotify.com/track/0khj70h8pejNRukEhOn86O) | [Gallows](https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu) | [Orchestra Of Wolves \(new version\)](https://open.spotify.com/album/6iKEpmbrs3YpXiEo68HHnx) | 2:41 |
+| 92 | [Let The Evil Go East](https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg) | [Greeley Estates](https://open.spotify.com/artist/2l7ALCv1HxcE32kc3b7vag) | [Go West Young Man, Let The Evil Go East](https://open.spotify.com/album/3ApC6jMB269oXLXZK0hkPZ) | 3:20 |
 | 93 | [Ink](https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:35 |
 | 94 | [No Son Of Mine](https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 3:23 |
 | 95 | [Medicating](https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw) | [Boys Night Out](https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ) | [Trainwreck](https://open.spotify.com/album/1uFmJTSJEEm0mdjDERdg8P) | 4:00 |

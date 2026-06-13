@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-576 songs - 2 day 3 hr 17 min
+577 songs - 2 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Ithaka](https://open.spotify.com/track/3QOH6LSk7A9roxTF39fG1M) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Everything I Love](https://open.spotify.com/album/6dXuEdo9u0rM102nuJcf4p) | 3:29 | 2023-11-17 | 2024-03-20 |
 | [Ivory Tower](https://open.spotify.com/track/20wJMWebVTkldOo4Z1aqph) | [Anders Aarum Trio](https://open.spotify.com/artist/6owjHMnq9EUzeI2CkJRL1I) | [Ivory Tower](https://open.spotify.com/album/4q2KGcN3LJpcNevvrsD0NN) | 5:45 | 2024-03-29 | 2025-07-12 |
 | [IWASR X](https://open.spotify.com/track/5IpHYhIj9JS0pT0Nfcgykn) | [Hyphen Dash](https://open.spotify.com/artist/7yarlsp9DnjnP2qQ3JoCqs), [Borys Mohylevskyi](https://open.spotify.com/artist/6ifXwxpDgOK2R5hL7em39z) | [I Was Afraid of Stone Rooms](https://open.spotify.com/album/1BmVGUIQE2Vf3JDm3oLYuO) | 8:01 | 2026-05-08 |  |
-| [January](https://open.spotify.com/track/3bPNIOqP9KeWX0Z6SpM4qC) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/5nizuls1o8fJQ0S5xR3WZM) | 8:38 | 2020-05-02\* |  |
+| [January](https://open.spotify.com/track/3bPNIOqP9KeWX0Z6SpM4qC) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/5nizuls1o8fJQ0S5xR3WZM) | 8:38 | 2020-05-02\* | 2026-06-13 |
 | [January](https://open.spotify.com/track/6O84d53YeV1buAGecAxoRA) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 8:38 | 2022-09-08 | 2024-04-19 |
 | [Jeg Gik Mig Ud En Sommerdag](https://open.spotify.com/track/319r5oK3N9izwWhfBhX5q8) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Go North](https://open.spotify.com/album/6Mcm9LwrOYRIQ7RlKWIb65) | 3:48 | 2024-01-30 | 2024-04-11 |
 | [Jeg Gik Mig Ud En Sommerdag](https://open.spotify.com/track/3Iv8dZWyTMHi1H1JLFxGZs) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Jeg Gik Mig Ud En Sommerdag](https://open.spotify.com/album/563ZBKglhaIJp95YykQcm6) | 3:48 | 2024-03-29 | 2025-10-04 |
@@ -535,6 +535,7 @@
 | [Twelve for J.](https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS) | [Caris Hermes](https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0) | [Caris Hermes](https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz) | 2:46 | 2022-09-06 |  |
 | [Udsigten](https://open.spotify.com/track/7qnYrlmytfCizfhAB8cbkd) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Superkilen](https://open.spotify.com/album/4yITNJlltc0Tiu679pnWu7) | 3:05 | 2024-10-18 | 2025-10-04 |
 | [Ugly Beauty](https://open.spotify.com/track/4gfzPJUS6z8SkyhyUnooSa) | [Cornelia Nilsson](https://open.spotify.com/artist/6qrHaoFbMB1BvPLVlKaY5c), [Daniel Franck](https://open.spotify.com/artist/72xSyvnAe9Hb1vgtQblTTt), [Gábor Bolla](https://open.spotify.com/artist/1gjizoJDEVRQAASb72Sn9z) | [Ugly Beauty](https://open.spotify.com/album/4yu3nVYm8FQQJRTQulC6gD) | 3:25 | 2024-03-29 | 2026-01-15 |
+| [Unembeza](https://open.spotify.com/track/0oXf39CHXtxZYGWWNsExhF) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Unembeza](https://open.spotify.com/album/0UtUATkwdBFmZA4eWUzLfA) | 4:23 | 2026-06-12 |  |
 | [Up in the Sky](https://open.spotify.com/track/3mNDE8hsMlcrm85ROH5jKv) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Up in the Sky](https://open.spotify.com/album/0B9LlcC7hecto7aL1xAqyL) | 4:33 | 2025-03-14 | 2025-05-24 |
 | [Vashkar](https://open.spotify.com/track/3Om7i5Xg1ORaABNTaCnF29) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Vashkar](https://open.spotify.com/album/6xaaKnsxxQJkubxtUAesZ5) | 5:56 | 2020-05-08 | 2023-08-19 |
 | [Virgo](https://open.spotify.com/track/57RPnIuMTteFVLc4oEjCXw) | [Thomas Hass](https://open.spotify.com/artist/4FJQT7ITqdruBkz52CdPcw), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Artur Tuźnik](https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k) | [Virgo](https://open.spotify.com/album/3T0FYXLhtSJoHAywJLwphU) | 5:58 | 2022-04-28 | 2026-02-14 |

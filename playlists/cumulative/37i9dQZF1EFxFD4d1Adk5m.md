@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7q0jvGbuDLsmGvaRCU7F00">Maegan Cottone</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-123 songs - 6 hr 48 min
+124 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Lightning](https://open.spotify.com/track/7wk2mXtIFJWJgUnFZmSq7I) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 5:12 | 2026-04-06 |  |
 | [Like You Do](https://open.spotify.com/track/6D3SReugBjKhaPsJJgg87F) | [Krystal Roxx](https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0), [Megz](https://open.spotify.com/artist/1Cd7wXMk3X4WRiaztPFudG) | [Like You Do](https://open.spotify.com/album/2EvcvtCWyYHChps43j59sR) | 3:28 | 2026-04-06 |  |
 | [Live It Up](https://open.spotify.com/track/1fzGTK2qoX10Xnm0tIr2nL) | [Miami Beatz](https://open.spotify.com/artist/7m7uZG6oF329yKI2FtptTA) | [Ultimate Summer Hits: 50 Party Anthems](https://open.spotify.com/album/2Yq0Bi84tBQ69lGKIBEdyD) | 3:28 | 2026-04-06 |  |
-| [Live It Up \- Official Song 2018 FIFA World Cup Russia](https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Live It Up \(Official Song 2018 FIFA World Cup Russia\)](https://open.spotify.com/album/1oxKlNFmKZ4heJRiBP0Sny) | 3:27 | 2026-04-11 |  |
+| [Live It Up \- Official Song 2018 FIFA World Cup Russia](https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Live It Up \(Official Song 2018 FIFA World Cup Russia\)](https://open.spotify.com/album/1oxKlNFmKZ4heJRiBP0Sny) | 3:27 | 2026-04-11 | 2026-06-13 |
 | [Lose Myself](https://open.spotify.com/track/2bZzUbUt8cbt9gbnaRX2p3) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Happy Place](https://open.spotify.com/album/2GF4liPUbApWEsVd4mTlpR) | 3:25 | 2026-04-06 |  |
 | [Love Train](https://open.spotify.com/track/6TTDhRdbaRpTyqi6UiESAv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:55 | 2026-04-06 |  |
 | [Mercedes](https://open.spotify.com/track/0kfY0oZBLuvIZz5ccq8khh) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [WALK OF MY LIFE](https://open.spotify.com/album/74m4nnIEJqwiBD3Lv6f4Xt) | 2:54 | 2026-04-06 |  |
@@ -117,6 +117,7 @@
 | [Train](https://open.spotify.com/track/6GRNYoxKjg07vt05CoHuYJ) | [Kastenholt](https://open.spotify.com/artist/5SF2pkRCoJolIYQUPegfNg), [Dee](https://open.spotify.com/artist/78GAAGOGzgrn8qnQiOgCLI), [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Maegan Cottone](https://open.spotify.com/artist/3d8BRJdkVQMFmdRu2eR3yg) | [Weekend Sessions](https://open.spotify.com/album/5uQ5qJeZXk0d2fU5OZyfiK) | 6:01 | 2026-04-06 |  |
 | [Umbrella \(10:00\)](https://open.spotify.com/track/13dcUFDRNgIPuy0d7S0C3g) | [JUNHEE](https://open.spotify.com/artist/19edNqjH3rTGrvHs9VF9Xe) | [The First Day & Night](https://open.spotify.com/album/0sYYE05FeBWONVaAWg3cPt) | 3:28 | 2026-04-06 |  |
 | [Under The Sun \(with Alok\)](https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Under The Sun \(with Alok\)](https://open.spotify.com/album/4PP92BFZLs8PMzJoKtNn5I) | 2:45 | 2026-04-06 |  |
+| [Under Water](https://open.spotify.com/track/0aetbme5oUc323udTTuthX) | [ENISA](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Under Water](https://open.spotify.com/album/1jqkxytjxyNmEl4LbF5F7A) | 2:56 | 2026-06-12 |  |
 | [Up \(feat\. Demi Lovato\)](https://open.spotify.com/track/1RidHM9BC4M8DpfSQ6YLJh) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Never Been Better \(Expanded Edition\)](https://open.spotify.com/album/41QyJYx6N181E3QxWpC2FW) | 3:44 | 2026-04-06 |  |
 | [Use Me](https://open.spotify.com/track/3I6q7b1keDmi75xjPT2RIs) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/7IjN10VEnyA5wnPOcLx12H) | 3:18 | 2026-04-06 |  |
 | [VACANCY](https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [VACANCY](https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz) | 3:11 | 2026-04-06 |  |

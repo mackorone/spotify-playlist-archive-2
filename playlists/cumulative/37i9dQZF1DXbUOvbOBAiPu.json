@@ -3859,24 +3859,6 @@
     },
     {
       "album": {
-        "name": "A Vif",
-        "url": "https://open.spotify.com/album/5Gu3iQBo63Rfy3CDAS1rAP"
-      },
-      "artists": [
-        {
-          "name": "Clement Chevalier",
-          "url": "https://open.spotify.com/artist/6YjZ5FHSa0F2jyej5WBrFC"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196450,
-      "name": "A Vif",
-      "url": "https://open.spotify.com/track/7gdbuND4wT9jhuEPwKVrsR"
-    },
-    {
-      "album": {
         "name": "A Warning",
         "url": "https://open.spotify.com/album/2T7omkhAfiFWqYkLpvJ6RD"
       },
@@ -59405,7 +59387,7 @@
     },
     {
       "album": {
-        "name": "Follow Me",
+        "name": "Follow Me (feat. RedOne)",
         "url": "https://open.spotify.com/album/06RhYSAgH9jdM6j1iaDcv0"
       },
       "artists": [
@@ -59434,7 +59416,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 232941,
-      "name": "Follow Me",
+      "name": "Follow Me (feat. RedOne)",
       "url": "https://open.spotify.com/track/7EqulVHbWDM0SR2e2IFpDv"
     },
     {
@@ -64020,10 +64002,6 @@
         {
           "name": "Pony Pony Run Run",
           "url": "https://open.spotify.com/artist/6RXZaVIbZfdngXJOSGrVH3"
-        },
-        {
-          "name": "Ga\u00e9tan R\u00e9chin L\u00ea Ky Huong",
-          "url": "https://open.spotify.com/artist/1qUlnOQYeSU1NRHxz0bkEv"
         }
       ],
       "date_added": "2026-06-11",
@@ -86736,7 +86714,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199196,
-      "name": "It's So Nice",
+      "name": "It's So Nice (ft. 3DDY)",
       "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
     },
     {
@@ -170472,8 +170450,8 @@
           "url": "https://open.spotify.com/artist/6kzds0MHGhlYiJBOBeS9dQ"
         },
         {
-          "name": "Bobe",
-          "url": "https://open.spotify.com/artist/1KdMYMsp507rmI74xXo02R"
+          "name": "BOBE",
+          "url": "https://open.spotify.com/artist/0h0HBJhR7jp30Myu5SFZRw"
         }
       ],
       "date_added": "2026-06-11",
@@ -201404,6 +201382,24 @@
       "duration_ms": 157894,
       "name": "\u00c0 tes c\u00f4t\u00e9s",
       "url": "https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1"
+    },
+    {
+      "album": {
+        "name": "\u00c0 vif",
+        "url": "https://open.spotify.com/album/5Gu3iQBo63Rfy3CDAS1rAP"
+      },
+      "artists": [
+        {
+          "name": "Clement Chevalier",
+          "url": "https://open.spotify.com/artist/6YjZ5FHSa0F2jyej5WBrFC"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196450,
+      "name": "\u00c0 vif",
+      "url": "https://open.spotify.com/track/7gdbuND4wT9jhuEPwKVrsR"
     },
     {
       "album": {

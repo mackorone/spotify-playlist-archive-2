@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,157 songs - 3 day 11 hr 22 min
+2,158 songs - 3 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Air For Free](https://open.spotify.com/track/6vs59RA3n1K1Qx8U1Mlwzx) | [AmbieNeon](https://open.spotify.com/artist/5yoZBQ9Q1iokNQDr2dwShe) | [Made Alive](https://open.spotify.com/album/2VXvG4r61yiEGsbTQlDySS) | 3:03 | 2023-01-20 | 2024-07-19 |
 | [Air V](https://open.spotify.com/track/0itPjvqfCq6Od5hMAVeJYi) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Air V](https://open.spotify.com/album/30uDAdGTkafGoJVlEoPQfD) | 2:28 | 2023-05-19 | 2025-03-08 |
 | [Airport Runway](https://open.spotify.com/track/3F8eG3pq0rNuGZ8KWLMnur) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Airport Runway](https://open.spotify.com/album/6QX5dNSUX2TPP7NnsYCGIZ) | 1:50 | 2022-07-22 | 2023-04-04 |
-| [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 | 2024-09-27 |  |
+| [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 | 2024-09-27 | 2026-06-13 |
 | [Aiyomi](https://open.spotify.com/track/5Ah3r7C1b5Ih0mPgBGtn3B) | [Naritomi](https://open.spotify.com/artist/5jRkUp9d5LrpYOlKFGvVUx) | [Aiyomi](https://open.spotify.com/album/5i46HcGgJkGagzxnsLM5en) | 2:36 | 2021-12-07 | 2022-10-29 |
 | [ajolote](https://open.spotify.com/track/3sL8EAmZjnKcI3TVUATlMw) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [ajolote](https://open.spotify.com/album/7wNq9LhdNrqcbIdU6exKcV) | 2:16 | 2024-04-12 | 2025-02-22 |
 | [akalla](https://open.spotify.com/track/4J98BDXw9nFDF044SgAYfC) | [abel gecco](https://open.spotify.com/artist/6DvLO2WJYRMtUD9oiyFcJR) | [akalla](https://open.spotify.com/album/7MHDYC4TuelMHoRtAELi7o) | 2:23 | 2022-09-09 | 2024-05-14 |
@@ -1048,6 +1048,7 @@
 | [less\-than\-flattering](https://open.spotify.com/track/7ay42oCBar4ZtjwlvqyKyt) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [less\-than\-flattering](https://open.spotify.com/album/1ETVGZXDwls6QNfhhil7aj) | 2:07 | 2023-10-13 | 2023-11-11 |
 | [Let Go](https://open.spotify.com/track/0l7PixkEwUvYnikKYK4pdx) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Let Go](https://open.spotify.com/album/5scOTunWFcMKdYjhZWPpVk) | 2:58 | 2024-12-20 | 2025-08-21 |
 | [Let it be](https://open.spotify.com/track/414H4dKl75OxP2JfgX8IqL) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [Let it be](https://open.spotify.com/album/6Y6SgfEnUGDL6NBJfeRTfR) | 2:29 | 2022-10-28 | 2023-09-02 |
+| [let it be](https://open.spotify.com/track/06f90Spqi6uyN2lLyNVSic) | [Kichiro](https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo), [cloud cover](https://open.spotify.com/artist/1y9I7fJdrExfvwiY8SYtB6) | [let it be](https://open.spotify.com/album/1BbX1MbFu5OCZBinsQWGjd) | 2:26 | 2026-06-12 |  |
 | [Let It Rain](https://open.spotify.com/track/5eniIpGH50pjaFLXzxRxfo) | [Travertina](https://open.spotify.com/artist/2pRfs9421S5W58xd6yfgYu) | [Let It Rain](https://open.spotify.com/album/3FrlMcpgsvPxfdSkPLF6t5) | 2:31 | 2024-07-26 | 2025-06-07 |
 | [Let's Fix Lena](https://open.spotify.com/track/4Twiq3qI0o8qCSfmIeXlxV) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Let's Fix Lena](https://open.spotify.com/album/3EB6tjO3o8GqRDgC3w6wOU) | 3:12 | 2024-01-05 | 2024-06-27 |
 | [let's move on](https://open.spotify.com/track/6viBlZ7ERBdl6J4yrLnRW5) | [afk](https://open.spotify.com/artist/29Xl84PNW154iIVrdVe2mN) | [let's move on](https://open.spotify.com/album/3uCbyBFm6Iem5slwJi3tDD) | 2:04 | 2026-04-24 |  |
@@ -1505,7 +1506,7 @@
 | [Quasimodo](https://open.spotify.com/track/5iOp8b3L4fRjkf6Ad9ZW8E) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Love Letter](https://open.spotify.com/album/4lqMf5sKDweXGvejwarWWt) | 2:51 | 2022-09-02 | 2023-07-14 |
 | [Quench](https://open.spotify.com/track/4BVLqvnrBw8SwSDQ1sINgN) | [Jerry Izo](https://open.spotify.com/artist/4LbJlOrH7Vt2oCMdTLq6Aq) | [Quench](https://open.spotify.com/album/2f8kAfndHfmrQmNDuGpPpe) | 2:07 | 2021-12-07 | 2022-07-01 |
 | [questa terra](https://open.spotify.com/track/6FevAR2uTxKH1WkX7NwoFL) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [questa terra](https://open.spotify.com/album/6avgf77GkCvhuRNeG63fAx) | 2:27 | 2023-12-08 | 2025-03-08 |
-| [Quiescent](https://open.spotify.com/track/4D9hOQKRnYn3NX1v2WiX1s) | [Soft Fortune](https://open.spotify.com/artist/3c0kgUD7FcQGnFPlI1m1Mq) | [Quiescent](https://open.spotify.com/album/0RcFjaKjt6EPlQlCRlhNfl) | 2:20 | 2025-01-17 |  |
+| [Quiescent](https://open.spotify.com/track/4D9hOQKRnYn3NX1v2WiX1s) | [Soft Fortune](https://open.spotify.com/artist/3c0kgUD7FcQGnFPlI1m1Mq) | [Quiescent](https://open.spotify.com/album/0RcFjaKjt6EPlQlCRlhNfl) | 2:20 | 2025-01-17 | 2026-06-13 |
 | [quiet](https://open.spotify.com/track/08vuEOCKcpO6zH5g20Iidg) | [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [quiet](https://open.spotify.com/album/6hPUiZ29SufPYDYQ3U4896) | 1:39 | 2021-12-07 | 2022-04-22 |
 | [Quiet](https://open.spotify.com/track/43Lk7K3hE0j50Y8YkX5CrR) | [Soft Dunes](https://open.spotify.com/artist/6VxhYRvoYXiPFKVKGzzhPI) | [Quiet](https://open.spotify.com/album/71hJra7ZqJ4B5DkD4Ow7KQ) | 2:19 | 2025-07-24 |  |
 | [Quiet Nights](https://open.spotify.com/track/1tohhzzzJ1ADQvHvL4xxxd) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Quiet Nights](https://open.spotify.com/album/5g3n4fw5T7HGgB2gV2e3Yi) | 2:19 | 2026-01-30 |  |
@@ -1743,7 +1744,7 @@
 | [Sparkle](https://open.spotify.com/track/2pJWjjAHRCaPrqBYHexwhg) | [Twofacts](https://open.spotify.com/artist/4bewkYX9Io0OgZoDufJZqf) | [Sparkle](https://open.spotify.com/album/5bGncpMybFXrA2E3Emw20f) | 1:36 | 2022-05-20 | 2022-06-25 |
 | [speak to me](https://open.spotify.com/track/4acDMYXWdH9VN3N40mpp6k) | [Boba Ti](https://open.spotify.com/artist/6K8Fm7RrcIfdnemnDklnD7) | [speak to me](https://open.spotify.com/album/4oCW1S7z7UDBEidGctEVG6) | 2:08 | 2023-04-20 | 2025-07-03 |
 | [Special Juice](https://open.spotify.com/track/5m4bEYyJh1G7TxlWYBDx31) | [Wally Woo](https://open.spotify.com/artist/3XVKC5nfhl73bqsvMz9coN) | [Special Juice](https://open.spotify.com/album/16VeFUhnt3jgHG8zVNvuK7) | 2:16 | 2021-12-07 | 2022-09-10 |
-| [spinal chords](https://open.spotify.com/track/0SPakj2sm0Q3oJ4rEj9Jhi) | [fontatron](https://open.spotify.com/artist/5rwl3ry7Yx0YuONcyezg4d) | [spinal chords](https://open.spotify.com/album/2I5Tv05AQHsYQc8EAuD48x) | 2:15 | 2023-09-08 |  |
+| [spinal chords](https://open.spotify.com/track/0SPakj2sm0Q3oJ4rEj9Jhi) | [fontatron](https://open.spotify.com/artist/5rwl3ry7Yx0YuONcyezg4d) | [spinal chords](https://open.spotify.com/album/2I5Tv05AQHsYQc8EAuD48x) | 2:15 | 2023-09-08 | 2026-06-13 |
 | [Spinning Worlds](https://open.spotify.com/track/4w6LroqW4Fp6oUBQ0jlv58) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Spinning Worlds](https://open.spotify.com/album/0XnhsMBRpF4uI8Wqt9eW2a) | 2:28 | 2022-12-23 | 2023-09-02 |
 | [spirit within](https://open.spotify.com/track/7yiTJ7blkmy0m8HVYvhbgh) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [Jhove](https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA) | [spirit within](https://open.spotify.com/album/1THDbQ2qNhLqLbR7Bb7IqI) | 2:21 | 2022-10-28 | 2023-09-16 |
 | [spiritual](https://open.spotify.com/track/210Aq7zUtz5hPKcrugMs7M) | [Kumo Drift](https://open.spotify.com/artist/74Z7JvNFGm2Le3LUE1dYL1) | [spiritual](https://open.spotify.com/album/3q0ga6IZRoa0721y3Ryihl) | 1:46 | 2026-01-08 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Zenesoul from Brampton, ON.",
+  "description": "Your guide to R&B in Canada, with Roy Woods from Brampton, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -3838,7 +3838,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 205714,
       "name": "Bottles & Lights",
       "url": "https://open.spotify.com/track/1it6w7qVrXo10od5OMjn7H"
@@ -4690,6 +4690,24 @@
       "duration_ms": 173377,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
+    },
+    {
+      "album": {
+        "name": "Centerfold",
+        "url": "https://open.spotify.com/album/1tXMKm3r18f0712G4sQKFK"
+      },
+      "artists": [
+        {
+          "name": "Andye",
+          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Centerfold",
+      "url": "https://open.spotify.com/track/1DZExFaytfOj1iFJW6XbvT"
     },
     {
       "album": {
@@ -7362,7 +7380,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 126780,
       "name": "Don't Touch",
       "url": "https://open.spotify.com/track/0dTDi62zZ0fGsCYgJvRdnK"
@@ -7796,6 +7814,28 @@
       "duration_ms": 203286,
       "name": "drownin.",
       "url": "https://open.spotify.com/track/6IAe0sByd4DMbX3rtrKxhJ"
+    },
+    {
+      "album": {
+        "name": "A LITTLE VENGEANCE",
+        "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193373,
+      "name": "DUSTY (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
     },
     {
       "album": {
@@ -10823,6 +10863,24 @@
     },
     {
       "album": {
+        "name": "U, Me & My Ego",
+        "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150201,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX"
+    },
+    {
+      "album": {
         "name": "Close to the Sun",
         "url": "https://open.spotify.com/album/2wDvlPsHlBWITcHubQ0NZk"
       },
@@ -10910,6 +10968,24 @@
       "duration_ms": 113513,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/1ogoFWyYuVSet49PaIii8F"
+    },
+    {
+      "album": {
+        "name": "H.I.M",
+        "url": "https://open.spotify.com/album/7L9H2jio6aQhMhUPqkczUo"
+      },
+      "artists": [
+        {
+          "name": "SICKOFTHEINTERNET",
+          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "H.I.M",
+      "url": "https://open.spotify.com/track/0jjrLN2I5nmy9owwliEfoD"
     },
     {
       "album": {
@@ -19245,6 +19321,24 @@
     },
     {
       "album": {
+        "name": "Not So Sweet",
+        "url": "https://open.spotify.com/album/6Zr7GLxnNwy9vVod25bpux"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235088,
+      "name": "Not So Sweet",
+      "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
+    },
+    {
+      "album": {
         "name": "Not Worthy (feat. Nonso Amadi)",
         "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
       },
@@ -26459,6 +26553,24 @@
     },
     {
       "album": {
+        "name": "Matches (Deluxe)",
+        "url": "https://open.spotify.com/album/7mhnfdVnXqhskPTCQF0woW"
+      },
+      "artists": [
+        {
+          "name": "Haley Smalls",
+          "url": "https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161796,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/6TUFHM2EnhNihz7NulwVMh"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/5t4xuID7Gv3eNX8qmsh2En"
       },
@@ -27176,7 +27288,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 150857,
       "name": "Supposed To Be My Lover",
       "url": "https://open.spotify.com/track/7iwpe1CwPKju1KYZhfvBnG"
@@ -29219,6 +29331,24 @@
     },
     {
       "album": {
+        "name": "The Freshman",
+        "url": "https://open.spotify.com/album/3fADxNjCbo4ntrd3RlsXui"
+      },
+      "artists": [
+        {
+          "name": "Quincy Isaiah",
+          "url": "https://open.spotify.com/artist/7eAyJBfRTpp3vLocsj1X2i"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/2xhEFKl1Zfn3rtFpVrfSkY"
+    },
+    {
+      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/6CmIJH0MkG7DDKqMAx1LJc"
       },
@@ -29534,6 +29664,24 @@
       "duration_ms": 165419,
       "name": "Trust",
       "url": "https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5"
+    },
+    {
+      "album": {
+        "name": "Trust and Believe",
+        "url": "https://open.spotify.com/album/4RmiyoWrOY0MnJPg7bREhg"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173379,
+      "name": "Trust and Believe",
+      "url": "https://open.spotify.com/track/6hZNetGru859NdFTrzVq2l"
     },
     {
       "album": {

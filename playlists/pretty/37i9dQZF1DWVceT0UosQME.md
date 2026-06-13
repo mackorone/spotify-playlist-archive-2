@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 
 > instrumental study beats for deep focus and concentration\. lock in, max productivity 📚 🎧 u got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,219 likes - 91 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,211 likes - 91 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 46 | [Through the Portal](https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Through the Portal](https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F) | 1:55 |
 | 47 | [night gaze](https://open.spotify.com/track/0gTqtb5dNhqMpEuz3v2LCf) | [wuy\-wuy](https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h) | [night gaze](https://open.spotify.com/album/4Ux0OruNOUwCWT10UMcn6a) | 2:41 |
 | 48 | [Whispers of the Wind](https://open.spotify.com/track/3E6NfnkawOsv6QEHDVqdlV) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Whispers of the Wind](https://open.spotify.com/album/4vxhhrJEaboZh47GyEfZ00) | 2:13 |
-| 49 | [Still Dock](https://open.spotify.com/track/6CvradJS3BYVT3sjrz6y6n) | [Half Memory](https://open.spotify.com/artist/5oDGsGsO36Sruc5NNySUTe) | [Still Dock](https://open.spotify.com/album/0S3NzJXHH92qA9LNui23nG) | 2:02 |
-| 50 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 |
+| 49 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 |
+| 50 | [Still Dock](https://open.spotify.com/track/6CvradJS3BYVT3sjrz6y6n) | [Half Memory](https://open.spotify.com/artist/5oDGsGsO36Sruc5NNySUTe) | [Still Dock](https://open.spotify.com/album/0S3NzJXHH92qA9LNui23nG) | 2:02 |
 | 51 | [You Look Pretty](https://open.spotify.com/track/1Fq0VPFph4hIF4971B8and) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Mornings with Oscar](https://open.spotify.com/album/137kXQBQ6M2x1Xaj48aFvB) | 2:51 |
-| 52 | [Peachy](https://open.spotify.com/track/2WRKH5AuRG6c0uG1dQs9rh) | [cloud minor](https://open.spotify.com/artist/3l5LfIhzi10fJD4DJzW4ll) | [Peachy](https://open.spotify.com/album/1Hy7DveUNMzyX0dxU2BAYS) | 3:04 |
-| 53 | [head in the clouds](https://open.spotify.com/track/0GdZ6vlb3nC8t5B5MP6TqP) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [head in the clouds](https://open.spotify.com/album/341MeGEteHymZVwmd0xspK) | 2:14 |
+| 52 | [head in the clouds](https://open.spotify.com/track/0GdZ6vlb3nC8t5B5MP6TqP) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [head in the clouds](https://open.spotify.com/album/341MeGEteHymZVwmd0xspK) | 2:14 |
+| 53 | [Peachy](https://open.spotify.com/track/2WRKH5AuRG6c0uG1dQs9rh) | [cloud minor](https://open.spotify.com/artist/3l5LfIhzi10fJD4DJzW4ll) | [Peachy](https://open.spotify.com/album/1Hy7DveUNMzyX0dxU2BAYS) | 3:04 |
 | 54 | [letter to amtis](https://open.spotify.com/track/1xrkythjTGJM8rClZQdZ5V) | [nightnotes](https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3) | [letter to amtis](https://open.spotify.com/album/0IBF3TM8KHfBL1NyK7zVkf) | 1:34 |
 | 55 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 |
 | 56 | [High five, low\-fi](https://open.spotify.com/track/6mCHWvDL7kXZdVhc8ovk0y) | [Dusty Kadinsky](https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL) | [High five, low\-fi](https://open.spotify.com/album/0XqcEKC7xJg1bN9dp8tKVo) | 2:08 |
@@ -77,26 +77,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 67 | [Sparkle](https://open.spotify.com/track/6E3Ks7ElkgvfhF93unPTXj) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Sparkle](https://open.spotify.com/album/6pwc042jl4PQ5RQfSMUGOP) | 2:30 |
 | 68 | [Lax](https://open.spotify.com/track/4I4tqUKsQ2mC89NoB8RLDC) | [Mellow Moose](https://open.spotify.com/artist/4xZn8EEsnsQr0wQ6j6ysJR) | [Lax](https://open.spotify.com/album/1843ngbpbg1YhvSO6sAA4l) | 2:22 |
 | 69 | [Going to the Moon](https://open.spotify.com/track/7H61dXriqHsS2zoSfr69Os) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Going To The Moon](https://open.spotify.com/album/0hbBxmSffPHBclLX5RsxO7) | 2:44 |
-| 70 | [L.B.H.U](https://open.spotify.com/track/30VyqwDufoHJrOWBbrnZVq) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [Gijri](https://open.spotify.com/album/346x1qpLsub5x6B2MNx2sE) | 3:28 |
-| 71 | [Far East](https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Far East](https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV) | 2:04 |
+| 70 | [Far East](https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Far East](https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV) | 2:04 |
+| 71 | [L.B.H.U](https://open.spotify.com/track/30VyqwDufoHJrOWBbrnZVq) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [Gijri](https://open.spotify.com/album/346x1qpLsub5x6B2MNx2sE) | 3:28 |
 | 72 | [Hope even more](https://open.spotify.com/track/5qLlEaKLP4FI09QqDYVFCL) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Hope even more](https://open.spotify.com/album/6gxoN7Y7FGLPgWxyAN01LP) | 2:09 |
 | 73 | [comply](https://open.spotify.com/track/2rm5C58P9UDchlcKdV0Bzn) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [comply](https://open.spotify.com/album/6DjUY2UsJxbITCNZUv1RtO) | 2:04 |
 | 74 | [Bareru Rōru](https://open.spotify.com/track/2euw7YmuTYRuBx0DQTgvqq) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Bareru Rōru](https://open.spotify.com/album/4UDE3AKNXjv7rFvv4T5KKO) | 2:38 |
-| 75 | [Peter Ran](https://open.spotify.com/track/0WLk5AGaZMeiQSRInu129w) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Peter Ran](https://open.spotify.com/album/6PBbVsmxuTSPiSb9urnRXp) | 2:21 |
-| 76 | [once upon a time](https://open.spotify.com/track/4h1kjj76abuzotO1l1b4UK) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [once upon a time](https://open.spotify.com/album/5YTL2uewGmx1D5GJcQSZ2w) | 2:24 |
+| 75 | [once upon a time](https://open.spotify.com/track/4h1kjj76abuzotO1l1b4UK) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [once upon a time](https://open.spotify.com/album/5YTL2uewGmx1D5GJcQSZ2w) | 2:24 |
+| 76 | [Peter Ran](https://open.spotify.com/track/0WLk5AGaZMeiQSRInu129w) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Peter Ran](https://open.spotify.com/album/6PBbVsmxuTSPiSb9urnRXp) | 2:21 |
 | 77 | [Crimson Red](https://open.spotify.com/track/6CgcuC8yOCXVzJZVuhRlSx) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Road to Emmaus](https://open.spotify.com/album/1VQRmpVXZTjLs4ZW42mmwT) | 1:55 |
 | 78 | [Downtown](https://open.spotify.com/track/0F3Bo3HVGi2fzCU67Z6rDv) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Downtown](https://open.spotify.com/album/6KDVzfdX9UGMaDP5K9zREY) | 1:51 |
-| 79 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 |
-| 80 | [Planka på tricken](https://open.spotify.com/track/6rqgMboy3Kc7vVFZeeJnp9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Planka på tricken](https://open.spotify.com/album/34L7eNGbFJoqVkoK8E9SeM) | 2:04 |
+| 79 | [Planka på tricken](https://open.spotify.com/track/6rqgMboy3Kc7vVFZeeJnp9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Planka på tricken](https://open.spotify.com/album/34L7eNGbFJoqVkoK8E9SeM) | 2:04 |
+| 80 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 |
 | 81 | [Friday Luxury](https://open.spotify.com/track/4hEtOsS3Hgn2vdVlchhXpT) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [Friday Luxury](https://open.spotify.com/album/25dLRyb68yRiLszZWDidPW) | 2:03 |
 | 82 | [Breathing](https://open.spotify.com/track/05Ze1zg6BmU0UtLv1upnLb) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Breathing](https://open.spotify.com/album/67LIvPyCZM0V1Lf9EOYm8T) | 2:10 |
 | 83 | [high above](https://open.spotify.com/track/4iIFJ3anp1aKw6fx0tg8jD) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [high above](https://open.spotify.com/album/0dNK0JXw77i4UaG6HRVidc) | 1:42 |
-| 84 | [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 |
-| 85 | [Wonders](https://open.spotify.com/track/1X1rPupt0v0EpvmIjGfrPI) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Wonders](https://open.spotify.com/album/2t9021Gl3lIMHhQJzJo2Rt) | 2:41 |
+| 84 | [Wonders](https://open.spotify.com/track/1X1rPupt0v0EpvmIjGfrPI) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Wonders](https://open.spotify.com/album/2t9021Gl3lIMHhQJzJo2Rt) | 2:41 |
+| 85 | [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 |
 | 86 | [Proud](https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Proud](https://open.spotify.com/album/6kethGKQhDlXousA0NfVCD) | 2:16 |
 | 87 | [Time Traveler](https://open.spotify.com/track/7MH56weRw2uMcFaTAWgHUE) | [mennasa](https://open.spotify.com/artist/3J5F3p73CQAPPPbQzlLHUk) | [Time Traveler](https://open.spotify.com/album/7azHzF2Y0ZP7zX22WdSAld) | 3:01 |
-| 88 | [Minda](https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer) | [Arakanz](https://open.spotify.com/artist/2myMey4zRQBGr2dGyyf2iZ) | [Lofi Music](https://open.spotify.com/album/6kTlVXXPfRtHP0FmKUhaDn) | 1:40 |
-| 89 | [Timeline](https://open.spotify.com/track/1NYYl3iu6mMt8yEWaN7GLX) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Timeline](https://open.spotify.com/album/12ONIy1jPZtYfyi30EwEA6) | 2:40 |
+| 88 | [Timeline](https://open.spotify.com/track/1NYYl3iu6mMt8yEWaN7GLX) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Timeline](https://open.spotify.com/album/12ONIy1jPZtYfyi30EwEA6) | 2:40 |
+| 89 | [Minda](https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer) | [Arakanz](https://open.spotify.com/artist/2myMey4zRQBGr2dGyyf2iZ) | [Lofi Music](https://open.spotify.com/album/6kTlVXXPfRtHP0FmKUhaDn) | 1:40 |
 | 90 | [Brief Stack](https://open.spotify.com/track/2aJ4q1Y7Ks5NMKcLr3DUrZ) | [Vice Bertha](https://open.spotify.com/artist/4fQorNG5OR6L1XCK9r1RJX) | [Brief Stack](https://open.spotify.com/album/4eFJkuboRVGp7xYylyRgNQ) | 2:27 |
 | 91 | [peanut butter shake](https://open.spotify.com/track/6qlRjxUAkxCTVtbEIntkEZ) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/2P0nMU7WLtITurnReYqaH3) | 2:45 |
 

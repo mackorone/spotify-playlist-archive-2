@@ -430,7 +430,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 110769,
       "name": "Airport Jazz",
       "url": "https://open.spotify.com/track/1nlAC5HB6cUxjImG1PcIB4"
@@ -5638,7 +5638,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 97808,
       "name": "Golden Coast",
       "url": "https://open.spotify.com/track/0jHBFqEsJbMz3AkiQQvcwU"
@@ -12265,6 +12265,28 @@
     },
     {
       "album": {
+        "name": "Quiet Growth",
+        "url": "https://open.spotify.com/album/5pu1KvaanqxCqXHihcXhv2"
+      },
+      "artists": [
+        {
+          "name": "Cvsket Pretty",
+          "url": "https://open.spotify.com/artist/1B83te5eJCjyjR5b9s7h3I"
+        },
+        {
+          "name": "Gabb.",
+          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Quiet Growth",
+      "url": "https://open.spotify.com/track/7rRZuZcvk2pPX0tcJWUoHb"
+    },
+    {
+      "album": {
         "name": "Radiant",
         "url": "https://open.spotify.com/album/5u67NxPdoFshAfqbqApE3h"
       },
@@ -12815,6 +12837,28 @@
     },
     {
       "album": {
+        "name": "Rotations",
+        "url": "https://open.spotify.com/album/0SJo3j9NBp2xDkK6E4PvmR"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        },
+        {
+          "name": "Mayaewk",
+          "url": "https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122488,
+      "name": "Rotations",
+      "url": "https://open.spotify.com/track/0FhSSEJw6svM0OeataKRMs"
+    },
+    {
+      "album": {
         "name": "Routes To Knowledge",
         "url": "https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl"
       },
@@ -13300,6 +13344,32 @@
       "duration_ms": 136202,
       "name": "Sky High",
       "url": "https://open.spotify.com/track/1ngO3LQD2sKuy5AhHHejs7"
+    },
+    {
+      "album": {
+        "name": "sl.wm.ed.",
+        "url": "https://open.spotify.com/album/3iM2mMXOPc84M3udYnDoby"
+      },
+      "artists": [
+        {
+          "name": "Okvsho",
+          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260248,
+      "name": "sl.wm.ed.",
+      "url": "https://open.spotify.com/track/2MlX7VA2mMTSZVKajYCkcO"
     },
     {
       "album": {
@@ -18148,7 +18218,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 91250,
       "name": "Zero Pop",
       "url": "https://open.spotify.com/track/3pz3Inf63xfmLBenREi2u6"

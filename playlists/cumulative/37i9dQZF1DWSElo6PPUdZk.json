@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 201606,
       "name": "Ishq Khumari",
       "url": "https://open.spotify.com/track/0d8V8GnN2a0QulBqYYNuaW"
@@ -2714,7 +2714,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 165291,
       "name": "Kangana",
       "url": "https://open.spotify.com/track/7eAgEkiQ8bJqdulCh3bSUe"
@@ -4803,6 +4803,24 @@
     },
     {
       "album": {
+        "name": "Rishte",
+        "url": "https://open.spotify.com/album/4N037qErbXKbbWVOFrvASw"
+      },
+      "artists": [
+        {
+          "name": "Sargi Maan",
+          "url": "https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243495,
+      "name": "Rishte",
+      "url": "https://open.spotify.com/track/2Og7HnP69yJUsCuRIi5wVW"
+    },
+    {
+      "album": {
         "name": "Rooh",
         "url": "https://open.spotify.com/album/47FRGTjj9E1JCbsEndXiaG"
       },
@@ -5602,6 +5620,28 @@
       "duration_ms": 115877,
       "name": "Takk Leya",
       "url": "https://open.spotify.com/track/6cXMQgdZZyTtIv6ajEAojR"
+    },
+    {
+      "album": {
+        "name": "4 You EP",
+        "url": "https://open.spotify.com/album/6pwbhOfvfHeSy3gBFizaoL"
+      },
+      "artists": [
+        {
+          "name": "Indi Gill",
+          "url": "https://open.spotify.com/artist/78oyheMyV9wpdZ45vHfi90"
+        },
+        {
+          "name": "Ekta",
+          "url": "https://open.spotify.com/artist/1cfFhZQDRvfveFcFFELu9S"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135437,
+      "name": "Tappe",
+      "url": "https://open.spotify.com/track/7sRVOPpzsjhIISzkuJJhZ5"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Soft instrumental jazz for working or studying.",
-  "num_followers": 313405,
+  "num_followers": 313419,
   "original_name": "Focus Jazz",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
+        "name": "May This Dance Last Forever",
+        "url": "https://open.spotify.com/album/52jObqeeDAtFOT9sQ5O1Kq"
+      },
+      "artists": [
+        {
+          "name": "The Belleville Band",
+          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
+        }
+      ],
+      "duration_ms": 169594,
+      "name": "May This Dance Last Forever",
+      "url": "https://open.spotify.com/track/7o5OtG2KwcXObjebVXJNG4"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
         "name": "Over Yonder",
         "url": "https://open.spotify.com/album/70gfWIT3HDVyleOWxjPHlI"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 261973,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/0q2B8hRHzThL8CTlzCv06e"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
-        "name": "May This Dance Last Forever",
-        "url": "https://open.spotify.com/album/52jObqeeDAtFOT9sQ5O1Kq"
-      },
-      "artists": [
-        {
-          "name": "The Belleville Band",
-          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
-        }
-      ],
-      "duration_ms": 169594,
-      "name": "May This Dance Last Forever",
-      "url": "https://open.spotify.com/track/7o5OtG2KwcXObjebVXJNG4"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Beautiful Sunrise",
-        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
-      },
-      "artists": [
-        {
-          "name": "Arta Porting",
-          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
-        }
-      ],
-      "duration_ms": 291319,
-      "name": "Beautiful Sunrise",
-      "url": "https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "If You Could See Me Now",
         "url": "https://open.spotify.com/album/22ndy4PP1O9LVJuqq7dN6W"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 276366,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/0l1K6sAVycWbe2K1oWQgU4"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Beautiful Sunrise",
+        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "duration_ms": 291319,
+      "name": "Beautiful Sunrise",
+      "url": "https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Clouds Got In Our Way",
-        "url": "https://open.spotify.com/album/6ypEs7KXI72ol1kWWFX6nq"
-      },
-      "artists": [
-        {
-          "name": "Martin Hoper",
-          "url": "https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc"
-        }
-      ],
-      "duration_ms": 199318,
-      "name": "Clouds Got In Our Way",
-      "url": "https://open.spotify.com/track/56oTEnXtzyX81TQbv95xnZ"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "To the Moon and Back",
         "url": "https://open.spotify.com/album/35ijXUqgREKtH2X21SsHwN"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 207750,
       "name": "To the Moon and Back",
       "url": "https://open.spotify.com/track/5SavKywZ8Mzwb0PppxJf9E"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Clouds Got In Our Way",
+        "url": "https://open.spotify.com/album/6ypEs7KXI72ol1kWWFX6nq"
+      },
+      "artists": [
+        {
+          "name": "Martin Hoper",
+          "url": "https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc"
+        }
+      ],
+      "duration_ms": 199318,
+      "name": "Clouds Got In Our Way",
+      "url": "https://open.spotify.com/track/56oTEnXtzyX81TQbv95xnZ"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Beloved Dance",
-        "url": "https://open.spotify.com/album/5GFwFOCJjn85NGxSxKFUR1"
-      },
-      "artists": [
-        {
-          "name": "Isac Solo Trio",
-          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
-        }
-      ],
-      "duration_ms": 183250,
-      "name": "Beloved Dance",
-      "url": "https://open.spotify.com/track/2WdNznaTlQStOKlyUEtOwy"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "Up before the dawn",
         "url": "https://open.spotify.com/album/4UdKcEHfFrgqSuJ6ybBfT1"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 213750,
       "name": "Up before the dawn",
       "url": "https://open.spotify.com/track/1R7EYodTHWPEyV5u96oFRE"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Beloved Dance",
+        "url": "https://open.spotify.com/album/5GFwFOCJjn85NGxSxKFUR1"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+        }
+      ],
+      "duration_ms": 183250,
+      "name": "Beloved Dance",
+      "url": "https://open.spotify.com/track/2WdNznaTlQStOKlyUEtOwy"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Don\u2019t ruin it",
-        "url": "https://open.spotify.com/album/3Y9sptxgegR4ePGCr5JYXR"
-      },
-      "artists": [
-        {
-          "name": "Lia Riggs Trio",
-          "url": "https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U"
-        }
-      ],
-      "duration_ms": 134035,
-      "name": "Don\u2019t ruin it",
-      "url": "https://open.spotify.com/track/5E9FQwE8VNfNYB9bSD8lAn"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "Love Grows",
         "url": "https://open.spotify.com/album/4U0NvErsvXBvpnTGwspS6P"
       },
@@ -1227,22 +1211,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Come on... Lucky!",
-        "url": "https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX"
-      },
-      "artists": [
-        {
-          "name": "The Three Queens",
-          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
-        }
-      ],
-      "duration_ms": 164859,
-      "name": "Come on... Lucky!",
-      "url": "https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "Urban Jazz Chronicles",
         "url": "https://open.spotify.com/album/3t43Otx3MUbxa0u6WLEKp0"
       },
@@ -1255,6 +1223,38 @@
       "duration_ms": 221431,
       "name": "Urban Jazz Chronicles",
       "url": "https://open.spotify.com/track/2GJaiss4EABlUcFad7jCgz"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Don\u2019t ruin it",
+        "url": "https://open.spotify.com/album/3Y9sptxgegR4ePGCr5JYXR"
+      },
+      "artists": [
+        {
+          "name": "Lia Riggs Trio",
+          "url": "https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U"
+        }
+      ],
+      "duration_ms": 134035,
+      "name": "Don\u2019t ruin it",
+      "url": "https://open.spotify.com/track/5E9FQwE8VNfNYB9bSD8lAn"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Come on... Lucky!",
+        "url": "https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "duration_ms": 164859,
+      "name": "Come on... Lucky!",
+      "url": "https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Now that we are here",
-        "url": "https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8"
-      },
-      "artists": [
-        {
-          "name": "Soft Brush Touches",
-          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
-        }
-      ],
-      "duration_ms": 162569,
-      "name": "Now that we are here",
-      "url": "https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "April Calling",
         "url": "https://open.spotify.com/album/62YhZZOAgwAMrsXundbQRo"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 230547,
       "name": "April Calling",
       "url": "https://open.spotify.com/track/4siGt6JIeTl3GgFynMaybU"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Now that we are here",
+        "url": "https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8"
+      },
+      "artists": [
+        {
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+        }
+      ],
+      "duration_ms": 162569,
+      "name": "Now that we are here",
+      "url": "https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 234573,
-      "name": "Long Ago And Far Away",
-      "url": "https://open.spotify.com/track/47g4fOuXxI3ri3YSCMt532"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "Sage",
         "url": "https://open.spotify.com/album/0xsFdHjsDka91q5N8siY3z"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Irridescent Mountains",
-        "url": "https://open.spotify.com/album/2Qkk2GO6d72FNEdGZloHwq"
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
       },
       "artists": [
         {
-          "name": "Felix McCoy Quartet",
-          "url": "https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh"
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
         }
       ],
-      "duration_ms": 199952,
-      "name": "Irridescent Mountains",
-      "url": "https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw"
+      "duration_ms": 234573,
+      "name": "Long Ago And Far Away",
+      "url": "https://open.spotify.com/track/47g4fOuXxI3ri3YSCMt532"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -1611,6 +1595,22 @@
       "duration_ms": 204751,
       "name": "Take me to Liverpool",
       "url": "https://open.spotify.com/track/5Df2sfwDdTC266NFO3qfa0"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Irridescent Mountains",
+        "url": "https://open.spotify.com/album/2Qkk2GO6d72FNEdGZloHwq"
+      },
+      "artists": [
+        {
+          "name": "Felix McCoy Quartet",
+          "url": "https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh"
+        }
+      ],
+      "duration_ms": 199952,
+      "name": "Irridescent Mountains",
+      "url": "https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Speak Low",
-        "url": "https://open.spotify.com/album/4rMsJgxLDc3JHVM4b9Nibp"
-      },
-      "artists": [
-        {
-          "name": "Madeleine West",
-          "url": "https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4"
-        }
-      ],
-      "duration_ms": 164726,
-      "name": "Speak Low",
-      "url": "https://open.spotify.com/track/1DvyJsR76IH3HPxEC0DQ67"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "You, in the Sunlight",
         "url": "https://open.spotify.com/album/5hdG3zNAjg9lT1HZbg7ggD"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 198894,
       "name": "Thursday Afternoon",
       "url": "https://open.spotify.com/track/0OxIW2YPKXFNkskaZfNFk5"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Speak Low",
+        "url": "https://open.spotify.com/album/4rMsJgxLDc3JHVM4b9Nibp"
+      },
+      "artists": [
+        {
+          "name": "Madeleine West",
+          "url": "https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4"
+        }
+      ],
+      "duration_ms": 164726,
+      "name": "Speak Low",
+      "url": "https://open.spotify.com/track/1DvyJsR76IH3HPxEC0DQ67"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Whispers of the Evening",
-        "url": "https://open.spotify.com/album/1MEo1GRTrJ0RIg1jM1mxXs"
-      },
-      "artists": [
-        {
-          "name": "Sodermalm Strand",
-          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
-        }
-      ],
-      "duration_ms": 195058,
-      "name": "Whispers of the Evening",
-      "url": "https://open.spotify.com/track/3JnzwIwPo8dBlf3YCeJIrK"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "Two Blocks Away",
         "url": "https://open.spotify.com/album/6TbsvECm8IeduEiVDQ6W2a"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 229000,
       "name": "Two Blocks Away",
       "url": "https://open.spotify.com/track/7dpeRPzopCJK29V4pueY8K"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Whispers of the Evening",
+        "url": "https://open.spotify.com/album/1MEo1GRTrJ0RIg1jM1mxXs"
+      },
+      "artists": [
+        {
+          "name": "Sodermalm Strand",
+          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
+        }
+      ],
+      "duration_ms": 195058,
+      "name": "Whispers of the Evening",
+      "url": "https://open.spotify.com/track/3JnzwIwPo8dBlf3YCeJIrK"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Blue In Green",
-        "url": "https://open.spotify.com/album/34IGwJvrYQpDzuM43iUknK"
-      },
-      "artists": [
-        {
-          "name": "Lee Davis",
-          "url": "https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/0YARnYOK8qs7kxhi73ksot"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "24 hour stopover",
         "url": "https://open.spotify.com/album/69bmlnzNWsVBzfuNPrxjLB"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 164928,
       "name": "Kept running",
       "url": "https://open.spotify.com/track/6Ov3Bass8w3RrtUBX7T7xe"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Blue In Green",
+        "url": "https://open.spotify.com/album/34IGwJvrYQpDzuM43iUknK"
+      },
+      "artists": [
+        {
+          "name": "Lee Davis",
+          "url": "https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/0YARnYOK8qs7kxhi73ksot"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "A Cookie For Marie",
-        "url": "https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp"
-      },
-      "artists": [
-        {
-          "name": "Smoke & Mirrors Trio",
-          "url": "https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV"
-        }
-      ],
-      "duration_ms": 262646,
-      "name": "A Cookie For Marie",
-      "url": "https://open.spotify.com/track/2qxgWhI1DtwC5X4SzJNvZJ"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "Maid of the Mist",
         "url": "https://open.spotify.com/album/7ywB5P1IATCRF2oTqsWedW"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 144173,
       "name": "Maid of the Mist",
       "url": "https://open.spotify.com/track/1VzGuLqOVD04gpXZxCDPiM"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "A Cookie For Marie",
+        "url": "https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp"
+      },
+      "artists": [
+        {
+          "name": "Smoke & Mirrors Trio",
+          "url": "https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV"
+        }
+      ],
+      "duration_ms": 262646,
+      "name": "A Cookie For Marie",
+      "url": "https://open.spotify.com/track/2qxgWhI1DtwC5X4SzJNvZJ"
     },
     {
       "added_at": "2026-03-24 14:21:53",

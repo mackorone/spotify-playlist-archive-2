@@ -783,6 +783,28 @@
     },
     {
       "album": {
+        "name": "Baby Love Cry",
+        "url": "https://open.spotify.com/album/2zhHhFgcRNEJxjsshGNj4k"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401860,
+      "name": "Baby - Tony Romera Remix",
+      "url": "https://open.spotify.com/track/1ArFwgEU2iQMq9dU43sGZ9"
+    },
+    {
+      "album": {
         "name": "Babysteps",
         "url": "https://open.spotify.com/album/5Q87r7x7N33biFwhH1BdTo"
       },
@@ -1052,7 +1074,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 412869,
       "name": "Bittersweet & Blue - Jordin Post Extended Mix",
       "url": "https://open.spotify.com/track/3Ht9pV6TWBSKqPP0Od4b53"
@@ -1162,7 +1184,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 380625,
       "name": "Blink - Extended Mix",
       "url": "https://open.spotify.com/track/5qN7pmqJG7FWU4nXLWUO4D"
@@ -1322,6 +1344,28 @@
       "duration_ms": 458000,
       "name": "Boxing feat. King Krule - DJ Python Remix",
       "url": "https://open.spotify.com/track/4n7XDeov2lBjzsoRAqkScV"
+    },
+    {
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246511,
+      "name": "Break Free",
+      "url": "https://open.spotify.com/track/1u29Mfab4Q4PJxoX9E1sf4"
     },
     {
       "album": {
@@ -1708,7 +1752,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 233040,
       "name": "Chase the Sun",
       "url": "https://open.spotify.com/track/2mkBHN67xLpHrpqOuj79Yz"
@@ -1918,7 +1962,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 188160,
       "name": "Cola - ARTBAT Remix",
       "url": "https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8"
@@ -3042,7 +3086,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 432566,
       "name": "End Of Summer",
       "url": "https://open.spotify.com/track/5R4P7dPtVQalJ7DrRwLVXv"
@@ -3410,7 +3454,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 223928,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/0eMV7pbegUhXUIMwXRBfHg"
@@ -4089,6 +4133,24 @@
     },
     {
       "album": {
+        "name": "Feeling Is Structure",
+        "url": "https://open.spotify.com/album/2pvLN2jTZhYg9aWQyESDps"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428534,
+      "name": "Four Tones Reflected",
+      "url": "https://open.spotify.com/track/52jkZ55m6m5fcfGh9iwe8k"
+    },
+    {
+      "album": {
         "name": "Hinterland Rhapsody / Frangipani",
         "url": "https://open.spotify.com/album/7AmGcLQgkmIGfnhfKamEsS"
       },
@@ -4258,7 +4320,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 223618,
       "name": "Galvanize - Chris Lake Remix",
       "url": "https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S"
@@ -4620,7 +4682,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 282240,
       "name": "Grosser Schillerfalter",
       "url": "https://open.spotify.com/track/5wZvzJ4i3soKF0GRPyWvaE"
@@ -4846,6 +4908,24 @@
       "duration_ms": 241870,
       "name": "High For This",
       "url": "https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv"
+    },
+    {
+      "album": {
+        "name": "High Speed Ring",
+        "url": "https://open.spotify.com/album/2g3S1HaEsnYX3QticAKsFc"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278405,
+      "name": "High Speed Ring",
+      "url": "https://open.spotify.com/track/49j6FhpppvIcbsBvqLRkKh"
     },
     {
       "album": {
@@ -5136,7 +5216,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 197333,
       "name": "House Party",
       "url": "https://open.spotify.com/track/5Xey2vHNJPAYfrRPOs81mA"
@@ -5162,7 +5242,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 217766,
       "name": "How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix",
       "url": "https://open.spotify.com/track/2urqWNGpjl07PLAafoa5nT"
@@ -5238,7 +5318,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 176102,
       "name": "Hush My Heart",
       "url": "https://open.spotify.com/track/4LkZFI0EJoJ2s08M4otbXY"
@@ -5548,7 +5628,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 344404,
       "name": "Ice Palace - Extended Mix",
       "url": "https://open.spotify.com/track/7cUv7t0yLFEliWX3l2Ax2b"
@@ -5860,6 +5940,24 @@
       "duration_ms": 201979,
       "name": "in2minds",
       "url": "https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0"
+    },
+    {
+      "album": {
+        "name": "Indie Muzik",
+        "url": "https://open.spotify.com/album/1ZUf8aslFsPrnI7VhizkLh"
+      },
+      "artists": [
+        {
+          "name": "RIKO & GUGGA",
+          "url": "https://open.spotify.com/artist/3Xw8htgaMKuCumaCubDS8c"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212380,
+      "name": "Indie Muzik",
+      "url": "https://open.spotify.com/track/6E7ozjsJmbDPkw19YFFVEz"
     },
     {
       "album": {
@@ -6562,10 +6660,28 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 220500,
       "name": "LLTB",
       "url": "https://open.spotify.com/track/1Ywt0ieG8EC4osUu1LkNzI"
+    },
+    {
+      "album": {
+        "name": "Lockbox",
+        "url": "https://open.spotify.com/album/64HHRzactSrnvygQo4y2XV"
+      },
+      "artists": [
+        {
+          "name": "Shankz",
+          "url": "https://open.spotify.com/artist/7JP8tEVrVknJlA3isvkQjz"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160844,
+      "name": "Lockbox",
+      "url": "https://open.spotify.com/track/511NzK5kWwBpWHAqln33j4"
     },
     {
       "album": {
@@ -6763,6 +6879,28 @@
     },
     {
       "album": {
+        "name": "Love The Right Way",
+        "url": "https://open.spotify.com/album/0Sj2OyE8baABGE5iCPlXCM"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "Love The Right Way",
+      "url": "https://open.spotify.com/track/63SPVpO9EMtDkEFo6QfUxv"
+    },
+    {
+      "album": {
         "name": "Loveless (GENESI Remix)",
         "url": "https://open.spotify.com/album/43hMDGlf0kVl7UqfIpUjNu"
       },
@@ -6778,7 +6916,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 177980,
       "name": "Loveless - GENESI Remix",
       "url": "https://open.spotify.com/track/0vRT7udpIDKttJRdp6OJr3"
@@ -6992,6 +7130,36 @@
       "duration_ms": 243692,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/7xyZ74TqhoGlh7jP0K4uqq"
+    },
+    {
+      "album": {
+        "name": "MEGA PUSH THE FEELING",
+        "url": "https://open.spotify.com/album/1NOgwo1gW1CuZxnL2dPiva"
+      },
+      "artists": [
+        {
+          "name": "DJ FRACARI",
+          "url": "https://open.spotify.com/artist/0zj6ZzbyA3IJuaCMEVhH9B"
+        },
+        {
+          "name": "DJ Petroski",
+          "url": "https://open.spotify.com/artist/2ibOTUqkFFeIYei7my6n6A"
+        },
+        {
+          "name": "DJ TH PR",
+          "url": "https://open.spotify.com/artist/6B3tFVc2vB9DHQKydDI92e"
+        },
+        {
+          "name": "MC MENOR DO DOZE",
+          "url": "https://open.spotify.com/artist/5bnpaWpiU7oX1gYenzcSQu"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224896,
+      "name": "MEGA PUSH THE FEELING",
+      "url": "https://open.spotify.com/track/4qsBHFXwKXi3OxVTVBNYSy"
     },
     {
       "album": {
@@ -8049,6 +8217,24 @@
     },
     {
       "album": {
+        "name": "OneDerWat EP",
+        "url": "https://open.spotify.com/album/2stTZzGG2iiNjvkMKC87kL"
+      },
+      "artists": [
+        {
+          "name": "Carl Bee",
+          "url": "https://open.spotify.com/artist/1BjovuKg3qRbCNNy5W9Efv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375142,
+      "name": "OneDerWat",
+      "url": "https://open.spotify.com/track/5VO6KWftEhzCuIqmxZ2qxU"
+    },
+    {
+      "album": {
         "name": "Only For A Moment",
         "url": "https://open.spotify.com/album/5iJ6aK5fHpQfyG7MqYIZRp"
       },
@@ -8187,6 +8373,28 @@
     },
     {
       "album": {
+        "name": "Out The Door",
+        "url": "https://open.spotify.com/album/05vealRTvoialI53c8oVBF"
+      },
+      "artists": [
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180960,
+      "name": "Out The Door",
+      "url": "https://open.spotify.com/track/6FToCZsVMGrBKb84pcTtS3"
+    },
+    {
+      "album": {
         "name": "The Sea Was Empty",
         "url": "https://open.spotify.com/album/4dbOgOx6gxw12Gb3O9nqgn"
       },
@@ -8290,7 +8498,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 128709,
       "name": "PASSO BEM SOLTO - MEDUZA REMIX",
       "url": "https://open.spotify.com/track/7anyDDleF6i3d4I4Vsg6gT"
@@ -8791,6 +8999,28 @@
     },
     {
       "album": {
+        "name": "Rapid Eye Movement",
+        "url": "https://open.spotify.com/album/2rBW203ctHHp1zc66o3Q08"
+      },
+      "artists": [
+        {
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295636,
+      "name": "Rapid Eye Movement",
+      "url": "https://open.spotify.com/track/7G8WLctUdoWyoO5LVyxvFg"
+    },
+    {
+      "album": {
         "name": "Raw (Tony Romera Remix)",
         "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
       },
@@ -9232,7 +9462,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 425569,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/6iBY8PuHz8Pacevl7IRrH0"
@@ -9399,6 +9629,28 @@
     },
     {
       "album": {
+        "name": "Schwarm (Martinou Remix)",
+        "url": "https://open.spotify.com/album/6plr9rToACxVwRpHpW4fPZ"
+      },
+      "artists": [
+        {
+          "name": "Harald Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/2VvFUDg4FDXzEQkQdgWz9h"
+        },
+        {
+          "name": "Martinou",
+          "url": "https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350617,
+      "name": "Schwarm - Martinou Remix",
+      "url": "https://open.spotify.com/track/6VbRheInFUX6o3G2PiN2fh"
+    },
+    {
+      "album": {
         "name": "Semaphore",
         "url": "https://open.spotify.com/album/5MpUMWhfjkomwiCP38Jf7d"
       },
@@ -9432,6 +9684,24 @@
       "duration_ms": 210000,
       "name": "Set Me Free - Extended Mix",
       "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
+    },
+    {
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/16WIijb8hRZYk8Zqg9x6z4"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281840,
+      "name": "Set Me Free - Extended Mix",
+      "url": "https://open.spotify.com/track/23Vl10GRY1f04IaZwze1O6"
     },
     {
       "album": {
@@ -9688,6 +9958,28 @@
       "duration_ms": 375737,
       "name": "Slam",
       "url": "https://open.spotify.com/track/0TYGCUSNdjz68pc9eu0hav"
+    },
+    {
+      "album": {
+        "name": "Sleepyhead 2025",
+        "url": "https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        },
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245713,
+      "name": "Sleepyhead 2025",
+      "url": "https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H"
     },
     {
       "album": {
@@ -9976,6 +10268,32 @@
       "duration_ms": 219335,
       "name": "Someone That I Used to Know - Radio Edit",
       "url": "https://open.spotify.com/track/5jotgqiS2ueWyLiwb7Usdl"
+    },
+    {
+      "album": {
+        "name": "COME CLOSER",
+        "url": "https://open.spotify.com/album/5C40IE0VAEHNZJcpwUxoNY"
+      },
+      "artists": [
+        {
+          "name": "TOMORA",
+          "url": "https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Tom Rowlands",
+          "url": "https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251373,
+      "name": "SOMEWHERE ELSE",
+      "url": "https://open.spotify.com/track/4ROFunSkVUlXqU0cMi6vYJ"
     },
     {
       "album": {
@@ -10980,7 +11298,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 342790,
       "name": "The Rider",
       "url": "https://open.spotify.com/track/0Hq7EkrkVBo5D2whM0rdX6"
@@ -11082,6 +11400,28 @@
       "duration_ms": 460985,
       "name": "The Story Continues - Extended Mix",
       "url": "https://open.spotify.com/track/7J7zVc023HlDs9aZBzpHDL"
+    },
+    {
+      "album": {
+        "name": "E.P.",
+        "url": "https://open.spotify.com/album/6ZCxOD387eOYLvwTkzgIvm"
+      },
+      "artists": [
+        {
+          "name": "Larry Heard",
+          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
+        },
+        {
+          "name": "Mr White",
+          "url": "https://open.spotify.com/artist/5aUUNSMJtijlIrD5RaBAOp"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467333,
+      "name": "The Sun Can't Compare - Long Version",
+      "url": "https://open.spotify.com/track/50TVKYY0LRQAqKI8EfBqzC"
     },
     {
       "album": {
@@ -11214,6 +11554,28 @@
       "duration_ms": 230206,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/4kdY5p1f3aysdsGH2uzj1T"
+    },
+    {
+      "album": {
+        "name": "This Is House",
+        "url": "https://open.spotify.com/album/4l1keINo59f9KRRK0Qsy1j"
+      },
+      "artists": [
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        },
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192383,
+      "name": "This Is House",
+      "url": "https://open.spotify.com/track/1TyVon4cY1g8APEvI0QNBF"
     },
     {
       "album": {

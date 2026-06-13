@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from Olivia Rodrigo, Tove Lo, ANOTR, BTS and more! ",
-  "num_followers": 1027552,
+  "num_followers": 1028699,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
@@ -54,11 +54,31 @@
         {
           "name": "ANOTR",
           "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 199196,
+      "name": "It's So Nice (ft. 3DDY)",
       "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
+    },
+    {
+      "added_at": "2026-06-11 23:00:24",
+      "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 178603,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
     },
     {
       "added_at": "2026-06-11 23:00:24",
@@ -167,6 +187,30 @@
     {
       "added_at": "2026-06-11 23:00:24",
       "album": {
+        "name": "ICONIC BY MISTAKE",
+        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 177982,
+      "name": "ICONIC BY MISTAKE",
+      "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
+    },
+    {
+      "added_at": "2026-06-11 23:00:24",
+      "album": {
         "name": "can we do it all again?",
         "url": "https://open.spotify.com/album/4FRJ8Vn159vRiyLTdcGAWI"
       },
@@ -240,8 +284,8 @@
           "url": "https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 201333,
+      "name": "Wallflower",
       "url": "https://open.spotify.com/track/2rDDv4XPcSEr5yGOq02TqI"
     },
     {
@@ -465,15 +509,15 @@
         },
         {
           "name": "Wildish",
-          "url": "https://open.spotify.com/artist/0umPozloZZGfMW300IjAmT"
+          "url": "https://open.spotify.com/artist/4Ad0ieOmXbPzBc6zgtZPGp"
         },
         {
-          "name": "Aaron Pfieffer",
-          "url": "https://open.spotify.com/artist/0sMZEG1Qo121pdr6XPdzg4"
+          "name": "Aaron Pfeiffer",
+          "url": "https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF"
         }
       ],
-      "duration_ms": 207360,
-      "name": "Livin' It Up (feat. Aaron Pfieffer)",
+      "duration_ms": 207272,
+      "name": "Livin' It Up (feat. Aaron Pfeiffer)",
       "url": "https://open.spotify.com/track/1HHKgaNHfXePWrd6e14evK"
     },
     {
@@ -1012,8 +1056,8 @@
           "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 211233,
+      "name": "East Village",
       "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
     },
     {
@@ -1130,10 +1174,14 @@
         {
           "name": "Surusinghe",
           "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        },
+        {
+          "name": "Warrior Queen",
+          "url": "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 194568,
+      "name": "Party Criminal",
       "url": "https://open.spotify.com/track/3fRURTdeiyrZMRKpyFtDbE"
     },
     {
@@ -1276,8 +1324,8 @@
           "url": "https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 191810,
+      "name": "homesick",
       "url": "https://open.spotify.com/track/0vXtfiRKw4aytisBbduvLZ"
     },
     {
@@ -1371,7 +1419,7 @@
     {
       "added_at": "2026-06-11 23:00:24",
       "album": {
-        "name": "Joy & Despair",
+        "name": "Joy and Despair",
         "url": "https://open.spotify.com/album/3kC0MOqq6vxjAsFcTf52NY"
       },
       "artists": [

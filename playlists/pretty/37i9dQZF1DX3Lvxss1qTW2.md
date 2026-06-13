@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Zaylevelten
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,233 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,275 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Holiday](https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe), [Tu Musica](https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa) | [Holiday](https://open.spotify.com/album/76VDoUkaQPQ0UrgBKnKajv) | 1:59 |
 | 2 | [Ripper's Fate](https://open.spotify.com/track/7vAG802uK3ACnXRokc6VIX) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [Ripper's Fate](https://open.spotify.com/album/4lgOFpzSFOgxOnmfFB6kIB) | 2:29 |
 | 3 | [Go Again](https://open.spotify.com/track/6zoLCHH5mKApNOmTsmVYhN) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Go Again](https://open.spotify.com/album/0S9ZGL0e712EkZQ9nuFOW6) | 2:12 |
-| 4 | [SpaceFuji](https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Terry apala](https://open.spotify.com/artist/1Ct52UFTjvAZu1pOuMWXY1), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SpaceFuji](https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP) | 3:19 |
+| 4 | [SpaceFuji](https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SpaceFuji](https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP) | 3:19 |
 | 5 | [Stars Misaligned II](https://open.spotify.com/track/0awbfWjQjaoogyh2VzUw9u) | [Shiloh Yodellé](https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH), [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA), [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Stars Misaligned II](https://open.spotify.com/album/25PT7y0EZbv1qdfctSmvzc) | 2:50 |
 | 6 | [Guide](https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Guide](https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q) | 2:07 |
 | 7 | [Gobe](https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Before I Blow](https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr) | 2:40 |

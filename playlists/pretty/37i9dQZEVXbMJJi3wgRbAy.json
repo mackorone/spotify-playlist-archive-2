@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Uruguay.",
-  "num_followers": 130635,
+  "num_followers": 130647,
   "original_name": "Top 50 - Uruguay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mb4wWAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mb9/gAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "La Voz Favorita",
         "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "Pu\u00f1aladas",
         "url": "https://open.spotify.com/album/5S8mx5C6D6jj6l7ESqqrXD"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "Q Hubo Amor (Medell\u00edn)",
         "url": "https://open.spotify.com/album/7lNBB4Mr7IaN4CYh6lQL2o"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/0HHRmqcKYBUAsMXgXdvxx8"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -93,59 +93,27 @@
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
-        "name": "UWAIE (versi\u00f3n cumbia)",
-        "url": "https://open.spotify.com/album/6moCUeXsvkwxc97b3OEyPb"
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
       },
       "artists": [
         {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        }
-      ],
-      "duration_ms": 162947,
-      "name": "UWAIE - versi\u00f3n cumbia",
-      "url": "https://open.spotify.com/track/6UO9DhCUq4ZbQz7PXwelFV"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "EL BAIFO",
-        "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Nueva L\u00ednea",
-          "url": "https://open.spotify.com/artist/0znHeiocrsC2Bj33L7FBzM"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 207734,
-      "name": "AL GOLPITO",
-      "url": "https://open.spotify.com/track/6LD1tYOKReFqZh5ZdCdxIz"
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "POR SI MA\u00d1ANA NO ESTOY",
-        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "KOKO",
-      "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "Te Entiendo",
         "url": "https://open.spotify.com/album/26smBgYfU7rTIAf9jSl49D"
@@ -165,7 +133,43 @@
       "url": "https://open.spotify.com/track/4WPH1JfWGkTkBRiXLIETZt"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "EL BAIFO",
+        "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Nueva L\u00ednea",
+          "url": "https://open.spotify.com/artist/0znHeiocrsC2Bj33L7FBzM"
+        }
+      ],
+      "duration_ms": 207734,
+      "name": "AL GOLPITO",
+      "url": "https://open.spotify.com/track/6LD1tYOKReFqZh5ZdCdxIz"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "UWAIE (versi\u00f3n cumbia)",
+        "url": "https://open.spotify.com/album/6moCUeXsvkwxc97b3OEyPb"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "duration_ms": 162947,
+      "name": "UWAIE - versi\u00f3n cumbia",
+      "url": "https://open.spotify.com/track/6UO9DhCUq4ZbQz7PXwelFV"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "Eso Si Es De Gangster",
         "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
@@ -193,23 +197,23 @@
       "url": "https://open.spotify.com/track/5sX4UiPdOdndSEWA6asUgh"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
-        "name": "Lobo Suelto",
-        "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 231533,
-      "name": "Un \u00c1ngel para Tu Soledad",
-      "url": "https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj"
+      "duration_ms": 195146,
+      "name": "KOKO",
+      "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "POR SI MA\u00d1ANA NO ESTOY",
         "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
@@ -229,23 +233,7 @@
       "url": "https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Un Poco de Amor Franc\u00e9s",
-      "url": "https://open.spotify.com/track/14rcLGX83RpsORAIzC4U4g"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "Dichavate",
         "url": "https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF"
@@ -277,7 +265,23 @@
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Lobo Suelto",
+        "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Un \u00c1ngel para Tu Soledad",
+      "url": "https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "You Are Re Hermosa",
         "url": "https://open.spotify.com/album/0x6IpBHOE72xntkNRGy2cU"
@@ -305,7 +309,7 @@
       "url": "https://open.spotify.com/track/4GFJrhmEz2sz8V8cDfds6S"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "POR SI MA\u00d1ANA NO ESTOY",
         "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
@@ -321,7 +325,115 @@
       "url": "https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "HOPI SEND\u00c9",
+        "url": "https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "duration_ms": 192111,
+      "name": "LA VILLA",
+      "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Un Poco de Amor Franc\u00e9s",
+      "url": "https://open.spotify.com/track/14rcLGX83RpsORAIzC4U4g"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Secreto",
+        "url": "https://open.spotify.com/album/1a5lmcA1lzG0oF0QYjPbjT"
+      },
+      "artists": [
+        {
+          "name": "La Deskarga",
+          "url": "https://open.spotify.com/artist/3Pohtvl5MO8eQpaZVOrhUS"
+        },
+        {
+          "name": "Maxi Alvarez",
+          "url": "https://open.spotify.com/artist/2UnGWnrqDZPjWNVRWj5Mae"
+        }
+      ],
+      "duration_ms": 151649,
+      "name": "Secreto",
+      "url": "https://open.spotify.com/track/18zAd6GoCKD8wDjitMMk9P"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "La Plena (W Sound 05)",
+        "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 150001,
+      "name": "La Plena - W Sound 05",
+      "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Amor del Agro",
+        "url": "https://open.spotify.com/album/13GiyxuB1StwCBFmmuWVdE"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 139698,
+      "name": "Amor del Agro",
+      "url": "https://open.spotify.com/track/1ZSYhCqlR7ow8fWxfvuFFZ"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "Tu Vecino Nos Conoce",
         "url": "https://open.spotify.com/album/6yRF4SxmoJJnRc3mJW8iXr"
@@ -349,91 +461,23 @@
       "url": "https://open.spotify.com/track/4FIDq6NTwNBOTx9L8lRYkY"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
-        "name": "HOPI SEND\u00c9",
-        "url": "https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM"
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Gangsta",
-          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 192111,
-      "name": "LA VILLA",
-      "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "La Plena (W Sound 05)",
-        "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
-      },
-      "artists": [
-        {
-          "name": "W Sound",
-          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 150001,
-      "name": "La Plena - W Sound 05",
-      "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 334600,
-      "name": "Ji Ji Ji",
-      "url": "https://open.spotify.com/track/0VWBsKl936U9OO0zypvRCZ"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "Mariposas",
         "url": "https://open.spotify.com/album/1jBDxHoiS1cRThUp4CGZH4"
@@ -449,7 +493,7 @@
       "url": "https://open.spotify.com/track/66EoJdYZiJkuQGXRCwZwfx"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "Obsesionario",
         "url": "https://open.spotify.com/album/34xv7nHn0WPSBABH4L3okX"
@@ -465,54 +509,10 @@
       "url": "https://open.spotify.com/track/5EGVGkRRJ2udpRnVGpx8LM"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
-        "name": "Secreto",
-        "url": "https://open.spotify.com/album/1a5lmcA1lzG0oF0QYjPbjT"
-      },
-      "artists": [
-        {
-          "name": "La Deskarga",
-          "url": "https://open.spotify.com/artist/3Pohtvl5MO8eQpaZVOrhUS"
-        },
-        {
-          "name": "Maxi Alvarez",
-          "url": "https://open.spotify.com/artist/2UnGWnrqDZPjWNVRWj5Mae"
-        }
-      ],
-      "duration_ms": 151649,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/18zAd6GoCKD8wDjitMMk9P"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "Amor del Agro",
-        "url": "https://open.spotify.com/album/13GiyxuB1StwCBFmmuWVdE"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 139698,
-      "name": "Amor del Agro",
-      "url": "https://open.spotify.com/track/1ZSYhCqlR7ow8fWxfvuFFZ"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547"
+        "name": "Oktubre",
+        "url": "https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI"
       },
       "artists": [
         {
@@ -520,12 +520,12 @@
           "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 247066,
-      "name": "La Bestia Pop",
-      "url": "https://open.spotify.com/track/6BHlafXY1L2eetDCwict05"
+      "duration_ms": 334600,
+      "name": "Ji Ji Ji",
+      "url": "https://open.spotify.com/track/0VWBsKl936U9OO0zypvRCZ"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "EL BAIFO",
         "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
@@ -545,303 +545,7 @@
       "url": "https://open.spotify.com/track/0TJYJrUDKQ1btt4g0Xwklw"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "Muero Por Ti",
-        "url": "https://open.spotify.com/album/2QjehXZ61EfjJLUzL4xcqE"
-      },
-      "artists": [
-        {
-          "name": "La Pen\u00faltima",
-          "url": "https://open.spotify.com/artist/07y4PkqTJCaJAjQ1jCKoJx"
-        }
-      ],
-      "duration_ms": 178255,
-      "name": "Muero Por Ti",
-      "url": "https://open.spotify.com/track/27mCFtuegT2aQNirEVYuvS"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
-        "url": "https://open.spotify.com/album/0lafFIfGSFtYsXFIVoIyl5"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "Esa Estrella Era Mi Lujo",
-      "url": "https://open.spotify.com/track/1buwr89mlvxbaqArqmvCYS"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "Un Bai\u00f3n para el Ojo Idiota",
-        "url": "https://open.spotify.com/album/6ETDkXNvthotL4pKkXFg4L"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "Vencedores Vencidos",
-      "url": "https://open.spotify.com/track/1nYD14iq9R9CBUK8UvBjkK"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "YO y T\u00da",
-        "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 198153,
-      "name": "YO y T\u00da",
-      "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "Si Te Pillara",
-        "url": "https://open.spotify.com/album/4JxFoZR39TNpHSBc7QrMj5"
-      },
-      "artists": [
-        {
-          "name": "La Dosis",
-          "url": "https://open.spotify.com/artist/4sXSRSA4DORtoEz8WDqkWa"
-        },
-        {
-          "name": "LA NUEVA ESCUELA",
-          "url": "https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx"
-        }
-      ],
-      "duration_ms": 161448,
-      "name": "Si Te Pillara",
-      "url": "https://open.spotify.com/track/01Mw7yl7C17RpDpUDcogQ5"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "Amor de Vago",
-        "url": "https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
-        {
-          "name": "Malandro",
-          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
-        }
-      ],
-      "duration_ms": 188423,
-      "name": "Amor de Vago",
-      "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "Voy A Olvidarme De M\u00ed / P\u00eddeme La Luna / A Puro Dolor",
-        "url": "https://open.spotify.com/album/5Hc9wXcMjC8ZguHVBBafpu"
-      },
-      "artists": [
-        {
-          "name": "La Misma Cuadra",
-          "url": "https://open.spotify.com/artist/2JJXJsbTyotc9Rm0KWSTdQ"
-        },
-        {
-          "name": "Piso 10",
-          "url": "https://open.spotify.com/artist/6x8fUxZDQGBQ3jvsQ1n3Up"
-        }
-      ],
-      "duration_ms": 323053,
-      "name": "Voy A Olvidarme De M\u00ed / P\u00eddeme La Luna / A Puro Dolor",
-      "url": "https://open.spotify.com/track/0vCtPqULdUvocvVgOgm61t"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "Soy Favela",
-        "url": "https://open.spotify.com/album/1S3ANUh7napknhM3pqConG"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Soy Favela",
-      "url": "https://open.spotify.com/track/3TfRpsYPQSXqqramSoWlNg"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "afroLOVA 25'",
-        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 110495,
-      "name": "TU VAS SIN (fav)",
-      "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "Prisionero",
-        "url": "https://open.spotify.com/album/0YmRNwCn9VPwrHkg70I8KC"
-      },
-      "artists": [
-        {
-          "name": "La Misma Cuadra",
-          "url": "https://open.spotify.com/artist/2JJXJsbTyotc9Rm0KWSTdQ"
-        }
-      ],
-      "duration_ms": 152982,
-      "name": "Prisionero",
-      "url": "https://open.spotify.com/track/1I03DXMNSPDHDRiJtMbtzt"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "Estado de Enlace",
-        "url": "https://open.spotify.com/album/2KczQy95f5dMmdrRIsshdx"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 240218,
-      "name": "T\u00fanel de la Vida",
-      "url": "https://open.spotify.com/track/3NlHH9zJ9uGXkm6NJDbLnO"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233839,
-      "name": "Pensamientos",
-      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "El Camino M\u00e1s Largo",
-        "url": "https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Juan Casanova",
-          "url": "https://open.spotify.com/artist/6AvKcjNtR1AYU8wN72MvNK"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Tan Lejos",
-      "url": "https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "Un Bai\u00f3n para el Ojo Idiota",
-        "url": "https://open.spotify.com/album/6ETDkXNvthotL4pKkXFg4L"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 440560,
-      "name": "Todo un Palo",
-      "url": "https://open.spotify.com/track/5etBIAwIW3m3Ei1K50kfSw"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "El Calor Del Pleno Invierno",
-        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "A las Nueve",
-      "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Tarea Fina",
-      "url": "https://open.spotify.com/track/4mZHvbJWkK9uVmD9SvHKao"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "Pa Que Escondernos",
         "url": "https://open.spotify.com/album/4DurzvEKz34qdAPnrKTMjx"
@@ -865,7 +569,59 @@
       "url": "https://open.spotify.com/track/7d3UXsXrZdXhyEdh1ccnmt"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Prisionero",
+        "url": "https://open.spotify.com/album/0YmRNwCn9VPwrHkg70I8KC"
+      },
+      "artists": [
+        {
+          "name": "La Misma Cuadra",
+          "url": "https://open.spotify.com/artist/2JJXJsbTyotc9Rm0KWSTdQ"
+        }
+      ],
+      "duration_ms": 152982,
+      "name": "Prisionero",
+      "url": "https://open.spotify.com/track/1I03DXMNSPDHDRiJtMbtzt"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "El Calor Del Pleno Invierno",
+        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "A las Nueve",
+      "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Si Te Pillara",
+        "url": "https://open.spotify.com/album/4JxFoZR39TNpHSBc7QrMj5"
+      },
+      "artists": [
+        {
+          "name": "La Dosis",
+          "url": "https://open.spotify.com/artist/4sXSRSA4DORtoEz8WDqkWa"
+        },
+        {
+          "name": "LA NUEVA ESCUELA",
+          "url": "https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx"
+        }
+      ],
+      "duration_ms": 161448,
+      "name": "Si Te Pillara",
+      "url": "https://open.spotify.com/track/01Mw7yl7C17RpDpUDcogQ5"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "Tiene Mami de Papi",
         "url": "https://open.spotify.com/album/1khZf6TDtnDR0Frckftpsz"
@@ -889,7 +645,23 @@
       "url": "https://open.spotify.com/track/3Tp84OP6OmoSAZxQ6gp6MX"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
+        "url": "https://open.spotify.com/album/0lafFIfGSFtYsXFIVoIyl5"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "Esa Estrella Era Mi Lujo",
+      "url": "https://open.spotify.com/track/1buwr89mlvxbaqArqmvCYS"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "Loco Enamorado I Variet\u00e9 #4",
         "url": "https://open.spotify.com/album/06ENwZMENzIYycxXAfAKYY"
@@ -909,7 +681,187 @@
       "url": "https://open.spotify.com/track/0UaxhDrvCVcCWCqYQUeeFF"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Un Bai\u00f3n para el Ojo Idiota",
+        "url": "https://open.spotify.com/album/6ETDkXNvthotL4pKkXFg4L"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "Vencedores Vencidos",
+      "url": "https://open.spotify.com/track/1nYD14iq9R9CBUK8UvBjkK"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Soy Favela",
+        "url": "https://open.spotify.com/album/1S3ANUh7napknhM3pqConG"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Soy Favela",
+      "url": "https://open.spotify.com/track/3TfRpsYPQSXqqramSoWlNg"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Amor de Vago",
+        "url": "https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        }
+      ],
+      "duration_ms": 188423,
+      "name": "Amor de Vago",
+      "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Muero Por Ti",
+        "url": "https://open.spotify.com/album/2QjehXZ61EfjJLUzL4xcqE"
+      },
+      "artists": [
+        {
+          "name": "La Pen\u00faltima",
+          "url": "https://open.spotify.com/artist/07y4PkqTJCaJAjQ1jCKoJx"
+        }
+      ],
+      "duration_ms": 178255,
+      "name": "Muero Por Ti",
+      "url": "https://open.spotify.com/track/27mCFtuegT2aQNirEVYuvS"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "YO y T\u00da",
+        "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 198153,
+      "name": "YO y T\u00da",
+      "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Gulp!",
+        "url": "https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "La Bestia Pop",
+      "url": "https://open.spotify.com/track/6BHlafXY1L2eetDCwict05"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "afroLOVA 25'",
+        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 110495,
+      "name": "TU VAS SIN (fav)",
+      "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 233839,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "El Camino M\u00e1s Largo",
+        "url": "https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Juan Casanova",
+          "url": "https://open.spotify.com/artist/6AvKcjNtR1AYU8wN72MvNK"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Tan Lejos",
+      "url": "https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Voy A Olvidarme De M\u00ed / P\u00eddeme La Luna / A Puro Dolor",
+        "url": "https://open.spotify.com/album/5Hc9wXcMjC8ZguHVBBafpu"
+      },
+      "artists": [
+        {
+          "name": "La Misma Cuadra",
+          "url": "https://open.spotify.com/artist/2JJXJsbTyotc9Rm0KWSTdQ"
+        },
+        {
+          "name": "Piso 10",
+          "url": "https://open.spotify.com/artist/6x8fUxZDQGBQ3jvsQ1n3Up"
+        }
+      ],
+      "duration_ms": 323053,
+      "name": "Voy A Olvidarme De M\u00ed / P\u00eddeme La Luna / A Puro Dolor",
+      "url": "https://open.spotify.com/track/0vCtPqULdUvocvVgOgm61t"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "Directamente Desde el Tanque",
         "url": "https://open.spotify.com/album/3c8FQOgNGmmiF6PJqTW80j"
@@ -925,43 +877,23 @@
       "url": "https://open.spotify.com/track/75Xgi3loGDYfeeeQnj8GyJ"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
-        "name": "Pajaritos, Bravos Muchachitos",
-        "url": "https://open.spotify.com/album/751S3DWTtH4C5Pfpk4KJ6d"
+        "name": "Estado de Enlace",
+        "url": "https://open.spotify.com/album/2KczQy95f5dMmdrRIsshdx"
       },
       "artists": [
         {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
         }
       ],
-      "duration_ms": 268213,
-      "name": "Hab\u00eda una Vez...",
-      "url": "https://open.spotify.com/track/3ayHT7okY784fCWMYDbspt"
+      "duration_ms": 240218,
+      "name": "T\u00fanel de la Vida",
+      "url": "https://open.spotify.com/track/3NlHH9zJ9uGXkm6NJDbLnO"
     },
     {
-      "added_at": "2026-06-11 23:29:37",
-      "album": {
-        "name": "Luzbelito",
-        "url": "https://open.spotify.com/album/5kk3PbroAezGBPucpoN4oC"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 429400,
-      "name": "Juguetes Perdidos",
-      "url": "https://open.spotify.com/track/2BYIXjDOaPtvEKsZLMeJsO"
-    },
-    {
-      "added_at": "2026-06-11 23:29:37",
+      "added_at": "2026-06-12 16:18:30",
       "album": {
         "name": "La Mosca y la Sopa",
         "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
@@ -972,9 +904,85 @@
           "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 212400,
-      "name": "El Pibe de los Astilleros",
-      "url": "https://open.spotify.com/track/2aWd3hLrewRnRA9gYcl9WS"
+      "duration_ms": 223040,
+      "name": "Tarea Fina",
+      "url": "https://open.spotify.com/track/4mZHvbJWkK9uVmD9SvHKao"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Aunque Cueste Ver El Sol",
+        "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 244093,
+      "name": "Cielo De Un Solo Color",
+      "url": "https://open.spotify.com/track/0KQQimYTGg3Rc1bISoSuXl"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "Como Eran Las Cosas",
+      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Cielo De Un Solo Color",
+        "url": "https://open.spotify.com/album/00OVtjxqmXtnVmcxEjgXOH"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Agarrate Catalina",
+          "url": "https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox"
+        },
+        {
+          "name": "Hugo Fattoruso",
+          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
+        }
+      ],
+      "duration_ms": 235578,
+      "name": "Cielo De Un Solo Color",
+      "url": "https://open.spotify.com/track/33OC8rVx9KHvkquY6ipVdj"
+    },
+    {
+      "added_at": "2026-06-12 16:18:30",
+      "album": {
+        "name": "Un Bai\u00f3n para el Ojo Idiota",
+        "url": "https://open.spotify.com/album/6ETDkXNvthotL4pKkXFg4L"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 440560,
+      "name": "Todo un Palo",
+      "url": "https://open.spotify.com/track/5etBIAwIW3m3Ei1K50kfSw"
     }
   ],
   "unique_name": "Top 50 - Uruguay",

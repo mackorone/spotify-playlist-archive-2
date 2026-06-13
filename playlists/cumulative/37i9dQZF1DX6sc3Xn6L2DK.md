@@ -4,7 +4,7 @@
 
 > Boots on the ground, head in the stars
 
-210 songs - 13 hr 26 min
+211 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [The Wolf](https://open.spotify.com/track/2FGFj7w2KzTwPTWJMWcFvg) | [Gill Landry](https://open.spotify.com/artist/3HQmd0s1eohI3OA4VPd8rh) | [Skeleton at the Banquet](https://open.spotify.com/album/6sbJZndXlSLENEZDP9h6yV) | 4:54 | 2021-12-15 | 2026-03-07 |
 | [Things to Burn](https://open.spotify.com/track/1Lo43muVKuiR8p7UB0qqEG) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Southern Galactic](https://open.spotify.com/album/2m1aVZ8rrNN3LhNoCfkNCy) | 3:18 | 2023-10-27 |  |
 | [Thunderbird](https://open.spotify.com/track/36gUdwmMhZXcwOSaUkTPty) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:28 | 2022-10-28 |  |
+| [Time of Your Life](https://open.spotify.com/track/1mK6XmC8hkJKyKzZfkmaZ3) | [Shabason & Krgovich](https://open.spotify.com/artist/1Y7BUpNYM8Yc8ZIBUq7qy2), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Nicholas Krgovich](https://open.spotify.com/artist/68QhSfYuqyiT1KPoHlCvSv) | [Four Days in June](https://open.spotify.com/album/0mESueswYCXof6azv7pUjs) | 3:44 | 2026-06-12 |  |
 | [Torched](https://open.spotify.com/track/1ja3rKFMDc3rap09fXXYNF) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Torched](https://open.spotify.com/album/40YUvluZSJnCtdQoAxSF0N) | 3:02 | 2025-12-05 |  |
 | [Toshiba Sky](https://open.spotify.com/track/0BAmbyXYoRTP0Pf9SkPUjr) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/54g5o5xaRVed25fqwz7QEO) | 3:16 | 2021-12-15 | 2023-04-30 |
 | [Toshiba Sky](https://open.spotify.com/track/2xmNUTjFh6DeZIXgc6CfU1) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/1THPaJ3KhIRPBpAvCaG163) | 3:16 | 2021-12-15 | 2026-03-07 |

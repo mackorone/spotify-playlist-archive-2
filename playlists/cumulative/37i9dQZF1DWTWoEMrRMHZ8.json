@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Zeca Baleiro, Vicente Barreto",
+  "description": "As belas novidades da MPB. Foto: L\u00f4 Borges",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -4693,6 +4693,28 @@
     },
     {
       "album": {
+        "name": "A Estrada",
+        "url": "https://open.spotify.com/album/1a5g2hXIYXHohl8SzT1HNx"
+      },
+      "artists": [
+        {
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+        },
+        {
+          "name": "Tavinho Moura",
+          "url": "https://open.spotify.com/artist/73DUuItQ5uVSxo50mQi5VT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174350,
+      "name": "Chegada",
+      "url": "https://open.spotify.com/track/4TMFEnIWrHjUgqrQa4yuIr"
+    },
+    {
+      "album": {
         "name": "Cheguei pra ficar",
         "url": "https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x"
       },
@@ -5846,7 +5868,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 172627,
       "name": "Da Mesma Mat\u00e9ria",
       "url": "https://open.spotify.com/track/4En42mLgcoo3lSAOUxIWUY"
@@ -9257,6 +9279,32 @@
     },
     {
       "album": {
+        "name": "Garotos II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7zY74hy1FpTWzsHo6zCVEw"
+      },
+      "artists": [
+        {
+          "name": "Leoni",
+          "url": "https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL"
+        },
+        {
+          "name": "Outro Futuro",
+          "url": "https://open.spotify.com/artist/7IGi9K7nL5xNTXRS7c78QT"
+        },
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236061,
+      "name": "Garotos II - Ao Vivo",
+      "url": "https://open.spotify.com/track/5D7x9PXK62bJ1FzNmsNK4l"
+    },
+    {
+      "album": {
         "name": "Mano",
         "url": "https://open.spotify.com/album/6CRy9PfqYrPyrW75jb0Ny7"
       },
@@ -9508,7 +9556,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 166236,
       "name": "G\u00e9rbera",
       "url": "https://open.spotify.com/track/4ZPCUcXOBukvDhV4ydKYxC"
@@ -13522,7 +13570,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 157650,
       "name": "No Meio do Luar",
       "url": "https://open.spotify.com/track/4GlL0VX6rHPxzwvJSvliC1"
@@ -17924,7 +17972,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 240083,
       "name": "Quase",
       "url": "https://open.spotify.com/track/79IHRZdPtOQ0jek0OHTwHp"
@@ -20411,6 +20459,24 @@
     },
     {
       "album": {
+        "name": "ROSA NO C\u00c9U",
+        "url": "https://open.spotify.com/album/4os24JPEmv9ZSjZHaElGAc"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207291,
+      "name": "sinais",
+      "url": "https://open.spotify.com/track/6AwT3gyouzIk988tFFnhG5"
+    },
+    {
+      "album": {
         "name": "Sobre N\u00f3s",
         "url": "https://open.spotify.com/album/4ISIv55VN8nA9IlnGdeUEW"
       },
@@ -22320,7 +22386,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 165543,
       "name": "Tua",
       "url": "https://open.spotify.com/track/7mQd6u3LBfpiRme11Pa4Yr"

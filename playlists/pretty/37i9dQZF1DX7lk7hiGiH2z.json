@@ -1,6 +1,6 @@
 {
   "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 60646,
+  "num_followers": 60665,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 114258,
-      "name": "Plitsch, plitsch, platsch",
-      "url": "https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW"
+      "duration_ms": 186059,
+      "name": "Wenn der Sommer kommt",
+      "url": "https://open.spotify.com/track/5Nhu3X0j2OLbYHLWWKfVGA"
     },
     {
       "added_at": "2026-05-25 16:49:17",
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 186059,
-      "name": "Wenn der Sommer kommt",
-      "url": "https://open.spotify.com/track/5Nhu3X0j2OLbYHLWWKfVGA"
+      "duration_ms": 114258,
+      "name": "Plitsch, plitsch, platsch",
+      "url": "https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW"
     },
     {
       "added_at": "2026-05-25 16:49:17",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-05-25 16:49:17",
       "album": {
-        "name": "ordentlich durcheinander",
-        "url": "https://open.spotify.com/album/5goLpuhOuPvi646aejZHJa"
-      },
-      "artists": [
-        {
-          "name": "Deine Freunde",
-          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Wir holen euch ab",
-      "url": "https://open.spotify.com/track/76mevuKh4WonFC305wU9BD"
-    },
-    {
-      "added_at": "2026-05-25 16:49:17",
-      "album": {
         "name": "Kinderlieder f\u00fcr den Urlaub - EP",
         "url": "https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 126232,
       "name": "Ab in den Urlaub",
       "url": "https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89"
+    },
+    {
+      "added_at": "2026-05-25 16:49:17",
+      "album": {
+        "name": "ordentlich durcheinander",
+        "url": "https://open.spotify.com/album/5goLpuhOuPvi646aejZHJa"
+      },
+      "artists": [
+        {
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Wir holen euch ab",
+      "url": "https://open.spotify.com/track/76mevuKh4WonFC305wU9BD"
     },
     {
       "added_at": "2026-05-25 16:49:17",

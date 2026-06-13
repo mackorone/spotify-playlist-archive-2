@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 321755,
+  "num_followers": 321743,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Love Addict",
+        "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
+      },
+      "artists": [
+        {
+          "name": "Sugar High",
+          "url": "https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Your Type",
         "url": "https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 241560,
       "name": "Your Type",
       "url": "https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Love Addict",
-        "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
-      },
-      "artists": [
-        {
-          "name": "Sugar High",
-          "url": "https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
     }
   ],
   "unique_name": "Dreampop",

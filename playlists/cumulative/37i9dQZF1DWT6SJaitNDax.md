@@ -2,9 +2,9 @@
 
 ### [Big Mood](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
 
-> Afro sounds crossing borders\. Cover: THEHONESTGUY
+> Afro sounds crossing borders\. Cover: Ayra Starr
 
-1,026 songs - 2 day 4 hr 31 min
+1,027 songs - 2 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -945,6 +945,7 @@
 | [Today](https://open.spotify.com/track/4t7c1fZ0apVcUOyj9hi6Tv) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Today](https://open.spotify.com/album/3q92fj2J08iFUTYhutRp1A) | 5:34 | 2022-05-13 | 2022-07-29 |
 | [Toma Toma](https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Toma Toma](https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS) | 2:48 | 2024-11-15 | 2025-03-01 |
 | [Tomorrow](https://open.spotify.com/track/5yuP7KsSKbm3S94BGdK4Jy) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Tomorrow](https://open.spotify.com/album/2NafcOjkNhsr7o3ZGZynHm) | 3:23 | 2024-11-08 | 2025-01-25 |
+| [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 | 2026-06-12 |  |
 | [Toro](https://open.spotify.com/track/0UofiI0YMe4wz9H1dr5KkL) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:15 | 2025-03-28 | 2025-05-10 |
 | [TREASURE \(feat\. Alpha P, Olamide & Phyno\)](https://open.spotify.com/track/4XcL8MB78aDAlbGQVntnph) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 3:34 | 2024-08-16 | 2024-08-24 |
 | [Trouble](https://open.spotify.com/track/319xYgRF9JFpGLTtiCDhC7) | [DRB Lasgidi](https://open.spotify.com/artist/5jypR313fdSfpa6y1GMLqZ), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Pioneers](https://open.spotify.com/album/7tFUesVQ7An8e5pEu7sPYv) | 3:14 | 2021-09-10 | 2024-01-07 |
@@ -999,7 +1000,7 @@
 | [WhatsApp](https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [WhatsApp](https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU) | 2:14 | 2024-05-10 | 2024-06-15 |
 | [When The Money Comes](https://open.spotify.com/track/63mIqHCyGzEADBb9hM4pum) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI) | [On the Move](https://open.spotify.com/album/6WbKgjj3v28mBjKNP2w9kt) | 2:08 | 2025-12-12 | 2026-01-17 |
 | [when the party's over](https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [when the party's over](https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5) | 3:04 | 2026-03-20 |  |
-| [Where Do We Go](https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Where Do We Go](https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh) | 2:56 | 2026-03-06 |  |
+| [Where Do We Go](https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Where Do We Go](https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh) | 2:56 | 2026-03-06 | 2026-06-13 |
 | [WHERE YOU DEY](https://open.spotify.com/track/4EXNKvxbopcqSB3DGkSDVm) | [Yhaw hero](https://open.spotify.com/artist/0TVRUVsUqxHTsgRSBk3i8d), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [ALL EYES ON HEROBOY](https://open.spotify.com/album/4KI3KdDzQ9T0Wqd1WhctZv) | 3:06 | 2025-05-23 | 2025-05-31 |
 | [Whine It \(feat\. Sauti Sol\)](https://open.spotify.com/track/5mFGk1g417gDhAvrafXjEK) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:37 | 2021-09-10 | 2022-04-15 |
 | [who does that? \(feat\. Bella Shmurda\)](https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [what a feeling](https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp) | 2:39 | 2024-12-06 |  |

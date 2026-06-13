@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-957 songs - 2 day 0 hr 54 min
+960 songs - 2 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Corriendo \(think about you\)](https://open.spotify.com/track/3G12ziypGl3GL9PL2uQ0ME) | [El Abuelo](https://open.spotify.com/artist/54DZYT3m4fOOnka59lH2HY) | [Corriendo \(think about you\)](https://open.spotify.com/album/0MluI6wYBnfjejhvD53V00) | 3:17 | 2025-10-09 | 2026-01-15 |
 | [Corvette](https://open.spotify.com/track/2f00jSGdTKm1YE8BxQWcBj) | [Dunkan](https://open.spotify.com/artist/6P9VaNZCHkUT18kxHx1uky) | [Corvette](https://open.spotify.com/album/3C09GULk61FzBBdHWW6ylt) | 2:50 | 2026-01-22 | 2026-02-23 |
 | [Cosas Por Contar](https://open.spotify.com/track/1v39MmmRbIV7dJ6U5YaXT1) | [LuisEnrique NR](https://open.spotify.com/artist/4n8ZCRYPCJshSuomDy6HIz), [GELAN RUYDO](https://open.spotify.com/artist/2wgu2IRg2SokxOZQVoJ87J) | [Cosas Por Contar](https://open.spotify.com/album/4tNd4Z2zqDsWbuKKU9t7FU) | 4:15 | 2026-02-20 |  |
+| [Counter](https://open.spotify.com/track/1bJ09k6Kcow4JeVT91ZDNd) | [Trashbbx](https://open.spotify.com/artist/3QRXwXbNNP3QV10XKGvj1y) | [Counter](https://open.spotify.com/album/1swYxO419De2UGj1DjMIQu) | 3:23 | 2026-06-12 |  |
 | [Coup de foudre](https://open.spotify.com/track/4BYTuho2EFbm1MY2WdSqUe) | [Francis Michaud](https://open.spotify.com/artist/0Ydz9KVj9RLStAp4G3Agih) | [Coup de foudre](https://open.spotify.com/album/1gPEeTJ5N3VCXV6hPJcRjF) | 3:15 | 2026-01-26 |  |
 | [Crasheando \- Single version](https://open.spotify.com/track/5A4OAVBtfO7VApN31ZmqQ3) | [$haxx](https://open.spotify.com/artist/7zTbkJg8yM2JBEEGVChmXA) | [Crasheando](https://open.spotify.com/album/1aK3ljqzEoaKVH9kn91xhw) | 2:36 | 2026-02-22 |  |
 | [Crashin’ Airplane](https://open.spotify.com/track/4qxXzd5bXrOBzwqX0gNaGo) | [Ilay Sonoro](https://open.spotify.com/artist/3RZz4uk2brWykLANiPv4Bv) | [Midnight Glimpse](https://open.spotify.com/album/3o65gBVX5YDzwVDHkyca4i) | 2:43 | 2026-02-03 |  |
@@ -453,6 +454,7 @@
 | [Lap Dance \- Special Version](https://open.spotify.com/track/7xYIke81HAqDflOP677cc0) | [StreetPoet](https://open.spotify.com/artist/6IwtVR2yxebeMmNzfITmIB), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB), [Wyshmaster](https://open.spotify.com/artist/3QlwXKpHQa78SD62EGBHAV) | [More Of The Myth EP](https://open.spotify.com/album/1tu8iKpG3MgXPaRrpjJfJW) | 2:55 | 2026-02-08 |  |
 | [Late Night](https://open.spotify.com/track/2Yhwx0zitX3eFpn4Aa9cGi) | [Emilie Thorsby](https://open.spotify.com/artist/2igH2QBKRW8i5O99tivHQE) | [Late Night](https://open.spotify.com/album/6IbEufyjMkLxNSpQp1q8K4) | 1:50 | 2026-01-30 |  |
 | [LATE NIGHT](https://open.spotify.com/track/0CnJtKAsivpRwRRX3BvEEw) | [Obsidian Rose](https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx) | [Still Livin](https://open.spotify.com/album/2a52b49qebDsRaJx2KFWef) | 2:36 | 2026-02-14 |  |
+| [Layla Bartle](https://open.spotify.com/track/0VbH7zwCc4sdkpLeSDe7nu) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Fun with Layla in Wallington](https://open.spotify.com/album/2hTc0kStuvzmNsApCiLosP) | 2:43 | 2026-06-12 |  |
 | [Le moi d'autrefois](https://open.spotify.com/track/5Ahz9MMcUJKgi40U0aVSEY) | [Machteld](https://open.spotify.com/artist/48eLdz267LScWSBrQNaphw) | [Le moi d'autrefois](https://open.spotify.com/album/4RBJIuW9MoQYewURJp0epK) | 5:04 | 2025-08-05 | 2026-01-15 |
 | [learn to dance](https://open.spotify.com/track/7xrB2n3kik9ROWZkkbzcf5) | [vic hagen](https://open.spotify.com/artist/7iPpuV8sPw5MU1iJvLx8CU) | [learn to dance](https://open.spotify.com/album/4QQUVUc4n9YXn45OBqeT3z) | 4:12 | 2025-12-29 | 2026-02-23 |
 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 | 2025-12-01 | 2026-02-23 |
@@ -710,6 +712,7 @@
 | [She Ain't Holy](https://open.spotify.com/track/7hkEAyicehJxetILH94tdZ) | [Nerva](https://open.spotify.com/artist/4Z9e2tlCxKn24HNEAFxOip) | [She Ain't Holy](https://open.spotify.com/album/5ZiXmVxftik8Re2iGbw0B2) | 2:32 | 2025-10-23 | 2026-01-15 |
 | [She's Alright & INSANE \(グリッチビート 2023年11月27日\)](https://open.spotify.com/track/5bKlvF94DMRV09VrE1pLxr) | [earprnOS](https://open.spotify.com/artist/5Mx5kvG2sIH6UmpZBhnotL), [LoveStroke Radio](https://open.spotify.com/artist/0YO2Ofx6dBxVSCSpndZUk4) | [She's Alright & INSANE \(グリッチビート 2023年11月27日\)](https://open.spotify.com/album/3ORz0j3MTibp9lY1aYY50Y) | 1:55 | 2025-11-26 | 2026-02-23 |
 | [Sheh Aur Maat](https://open.spotify.com/track/5EBD0xcxMADZCNhtBvncgJ) | [Saumi Rapper](https://open.spotify.com/artist/6n8oagFWNbr6ckSJNwX5vX) | [Sheh Aur Maat](https://open.spotify.com/album/776ubKbov5RbvZGWTHSGNh) | 2:39 | 2026-02-16 |  |
+| [Shining](https://open.spotify.com/track/6w0jaLazYD5Z1zvCdWap0n) | [Nicole Gi](https://open.spotify.com/artist/0tgBoKNlruzIxaE0CwNhhr), [KxP](https://open.spotify.com/artist/0Wx0lZfQ1EQfTxxgI1mt7i), [Thundason](https://open.spotify.com/artist/2rI1l3PrvcjkXU4JbwTTp8), [1depth](https://open.spotify.com/artist/6WCG6NUWO7AegpQN8asWwq) | [Shining](https://open.spotify.com/album/76Yra4Sz3dbnzRMFWhV2uV) | 2:57 | 2026-06-12 |  |
 | [Shipwreck](https://open.spotify.com/track/0IQSAjyhwSk9xrwlwDFOvM) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Shipwreck](https://open.spotify.com/album/6AlUStpu1jaarNt1yb6CUi) | 3:12 | 2026-01-12 | 2026-02-23 |
 | [shooter right beside me](https://open.spotify.com/track/4JbLAddtHTWwQwhSlDxQCq) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [me over u](https://open.spotify.com/album/5O9N87pj3VAC6TShowH191) | 2:07 | 2026-01-12 | 2026-02-23 |
 | [Showdown](https://open.spotify.com/track/3hIY2FA4NkIgHE2UeGJmuf) | [True School Records](https://open.spotify.com/artist/0SqKDn8HSvW2FhEhgUeJ0o), [1depth](https://open.spotify.com/artist/6WCG6NUWO7AegpQN8asWwq) | [Old School Jewels](https://open.spotify.com/album/7jCg0vOsmsLkKhbblqvhRX) | 2:25 | 2025-11-28 | 2026-02-23 |

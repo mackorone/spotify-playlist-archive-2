@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 5425,
+  "num_followers": 5429,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAAD7+wzbMzd2Uhhxn6Oc01ze",
+  "snapshot_id": "ain6gAAAAABySSjLmbYTPJ1LRqiOV6Iv",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 198745,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfectly",
         "url": "https://open.spotify.com/album/5TAVDxb6XTjJSABswnKHa2"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 164101,
       "name": "Perfectly",
       "url": "https://open.spotify.com/track/3CaOFPZhOQYi1270esmtsf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 198745,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
     },
     {
       "added_at": null,
@@ -374,11 +374,15 @@
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        },
+        {
+          "name": "Phil King",
+          "url": "https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz"
         }
       ],
-      "duration_ms": 223883,
-      "name": "You Make Sense",
-      "url": "https://open.spotify.com/track/68r5EFb5qV9oWkhaOY6jdr"
+      "duration_ms": 166623,
+      "name": "Headed for the Mountain (feat. Phil King)",
+      "url": "https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn"
     },
     {
       "added_at": null,
@@ -446,15 +450,11 @@
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        },
-        {
-          "name": "Phil King",
-          "url": "https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz"
         }
       ],
-      "duration_ms": 166623,
-      "name": "Headed for the Mountain (feat. Phil King)",
-      "url": "https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn"
+      "duration_ms": 223883,
+      "name": "You Make Sense",
+      "url": "https://open.spotify.com/track/68r5EFb5qV9oWkhaOY6jdr"
     },
     {
       "added_at": null,

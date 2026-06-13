@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-288 songs - 15 hr 48 min
+289 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/2VZFlunJX12zxbSrzMiDp2) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:05 | 2022-11-08 | 2024-12-10 |
 | [Cozy Christmas](https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Cozy Christmas / December Baby](https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe) | 3:57 | 2022-12-23 | 2026-03-25 |
 | [Cross You Off My List](https://open.spotify.com/track/5aPV7kWtSzu3X6qA3xKaVH) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Little Drummer Girl / Cross You Off My List](https://open.spotify.com/album/5D05CoUigGp5fbNjlu3j6T) | 3:10 | 2021-11-12 | 2022-07-23 |
+| [Dance Again](https://open.spotify.com/track/2nczx4CnQaE6a9WpfQpYxY) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Dance Again](https://open.spotify.com/album/5Neaw5nr7xDUXk3s6sC1X3) | 3:41 | 2025-12-17 |  |
 | [Darlin' \(Christmas is Coming\)](https://open.spotify.com/track/1FOqaVsW6nRhBx2mM2ZlWT) | [Over the Rhine](https://open.spotify.com/artist/1z26dqCz3PySR4G7HWsn93) | [Snow Angels](https://open.spotify.com/album/7oSLVfLvqavTUiwiJFEvGO) | 3:35 | 2021-11-12 | 2022-07-20 |
 | [Darling I Do](https://open.spotify.com/track/4HQPftni948NDA17ajheQQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Darling I Do](https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j) | 3:01 | 2022-12-23 |  |
 | [Day After Tomorrow](https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7) | 6:05 | 2021-12-03 |  |
@@ -265,7 +266,7 @@
 | [When Christmas Comes Again](https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When Christmas Comes Again](https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD) | 3:17 | 2022-12-02 | 2025-12-18 |
 | [When I Get Home for Christmas](https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [When I Get Home for Christmas](https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD) | 4:16 | 2021-11-12 | 2026-03-31 |
 | [Whiskey and Winter](https://open.spotify.com/track/64VCX56djfNzlTQ6yrI9ZF) | [Hushtones](https://open.spotify.com/artist/2kIChQGSFExLsYUfo0bSIB) | [Whiskey and Winter](https://open.spotify.com/album/10ExGQBrNuKJssOyOfvXcj) | 3:10 | 2022-01-07 | 2022-07-01 |
-| [White Christmas](https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [White Christmas](https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14) | 2:32 | 2021-11-12 |  |
+| [White Christmas](https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [White Christmas](https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14) | 2:32 | 2021-11-12 | 2026-06-13 |
 | [White Christmas](https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 1:35 | 2024-11-18 | 2026-04-06 |
 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2021-11-12 | 2024-04-19 |
 | [White Winter Hymnal](https://open.spotify.com/track/7II56zDppy5Zyj1oJhkkZ1) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 2:27 | 2022-11-11 | 2022-11-13 |

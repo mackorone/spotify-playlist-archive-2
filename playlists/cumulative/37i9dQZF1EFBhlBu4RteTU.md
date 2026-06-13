@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2TvuFmg5Ep8sodlGHVo1DI">Daniel Nigro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-189 songs - 11 hr 5 min
+190 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Are We Having Any Fun Yet?](https://open.spotify.com/track/4SFD0JypUDtH7omCJjoNQI) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [JCOY](https://open.spotify.com/album/6BgcY6wNgindhEnSeCmJ5i) | 3:17 | 2026-06-10 |  |
 | [Asking the Aspens](https://open.spotify.com/track/3XcRFpPw0yA8uQFrfjYOU0) | [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Asking the Aspens](https://open.spotify.com/album/7xu1XkZmeQfkFUuhkBHf52) | 2:49 | 2026-06-10 |  |
 | [Astronomy](https://open.spotify.com/track/2JN3ugW1cEahbYw0I5mw5U) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:03 | 2026-06-10 |  |
-| [Baby Blue Bathing Suit](https://open.spotify.com/track/44g9B391W79R6B0AFXhRyd) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Baby Blue Bathing Suit](https://open.spotify.com/album/0utcSpsj5S64rk7Ob05iYv) | 3:15 | 2026-06-10 |  |
+| [Baby Blue Bathing Suit](https://open.spotify.com/track/44g9B391W79R6B0AFXhRyd) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Baby Blue Bathing Suit](https://open.spotify.com/album/0utcSpsj5S64rk7Ob05iYv) | 3:15 | 2026-06-10 | 2026-06-13 |
+| [Baby Blue Bathing Suit](https://open.spotify.com/track/4oPiSIJ2h1AioMFWahsdk8) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Baby Blue Bathing Suit](https://open.spotify.com/album/4VuZSqNyECAByoSEQptr7C) | 3:15 | 2026-06-12 |  |
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2026-06-10 |  |
 | [Bad Things \- English Version](https://open.spotify.com/track/4JUB4kkRqdHWnIulpntt0p) | [FAKY](https://open.spotify.com/artist/5oLb41tSEDtY357HGJCIK9) | [Bad Things \(English Version\)](https://open.spotify.com/album/6lTLmxUd6QDF4gGoUdw3GX) | 3:58 | 2026-06-10 |  |
 | [ballad of a homeschooled girl](https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:23 | 2026-06-10 |  |

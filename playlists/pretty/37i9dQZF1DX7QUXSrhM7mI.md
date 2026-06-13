@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 
 > The soundtrack to lazing around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,793 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,802 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 72 | [Just Life](https://open.spotify.com/track/3bpArkvt2TWoTxG2rXxb1H) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Just Life](https://open.spotify.com/album/0BFnVbBBL7xHSYVX880PGr) | 3:18 |
 | 73 | [My Life](https://open.spotify.com/track/2iEVRI2wctS86shdunnJv3) | [Julia Cumming](https://open.spotify.com/artist/7hIHeaaT8TkaHpFDT9QZfR) | [My Life](https://open.spotify.com/album/6v2KY8JampgJsqEk70qzY3) | 3:45 |
 | 74 | [Weak Spot](https://open.spotify.com/track/7IyNorLWfplKZ3MD5CrnSi) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Weak Spot](https://open.spotify.com/album/1S1RUBa09tLYroAR9EpmR3) | 4:14 |
-| 75 | [$106](https://open.spotify.com/track/0dzwSLr6doS6uRPYnsCwj4) | [Oranj Goodman](https://open.spotify.com/artist/3s9HeMWk4kpVAzjZ1e2lCG) | [$106](https://open.spotify.com/album/3vvSZ8c5cG502k6JeiSnGl) | 3:16 |
+| 75 | [greener](https://open.spotify.com/track/2GU2QSVrYPtSnBxtg2nyBU) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [greener / garden](https://open.spotify.com/album/6BRxSf36UXoi7WWdyr3xHF) | 4:00 |
 
 Snapshot ID: `AAAAADxhJXExyDhkUcOa1bF+LzI/8xzT`

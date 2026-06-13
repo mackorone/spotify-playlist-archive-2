@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 41808,
+  "num_followers": 41840,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJBAOuegGX7FGnr4WbnoktT2G6X+",
+  "snapshot_id": "AAAAAEWYbFFd+jg37lkGfE8UUXy6kv1x",
   "tracks": [
     {
       "added_at": "2026-05-22 11:41:53",
@@ -89,38 +89,6 @@
       "url": "https://open.spotify.com/track/5kl9GaHyI35Hr62DuSxbk5"
     },
     {
-      "added_at": "2026-05-22 11:41:53",
-      "album": {
-        "name": "Haaye Sohniye",
-        "url": "https://open.spotify.com/album/2uhpD5sZ6ZGkgAjhnrC9lN"
-      },
-      "artists": [
-        {
-          "name": "Hans Raj Hans",
-          "url": "https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X"
-        }
-      ],
-      "duration_ms": 309826,
-      "name": "Rehan De Rehan De",
-      "url": "https://open.spotify.com/track/1VhCPwvew5s51i7CXMcE39"
-    },
-    {
-      "added_at": "2026-05-22 11:41:53",
-      "album": {
-        "name": "Seasons of Sartaaj",
-        "url": "https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6"
-      },
-      "artists": [
-        {
-          "name": "Satinder Sartaaj",
-          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
-        }
-      ],
-      "duration_ms": 342585,
-      "name": "Udaarian",
-      "url": "https://open.spotify.com/track/3K3mo4LoxPKk18oqIC3hQC"
-    },
-    {
       "added_at": "2026-05-29 08:10:52",
       "album": {
         "name": "Ranjha Ranjha",
@@ -139,6 +107,38 @@
       "duration_ms": 184295,
       "name": "Ranjha Ranjha",
       "url": "https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf"
+    },
+    {
+      "added_at": "2026-05-22 11:41:53",
+      "album": {
+        "name": "Seasons of Sartaaj",
+        "url": "https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "duration_ms": 342585,
+      "name": "Udaarian",
+      "url": "https://open.spotify.com/track/3K3mo4LoxPKk18oqIC3hQC"
+    },
+    {
+      "added_at": "2026-05-22 11:41:53",
+      "album": {
+        "name": "Haaye Sohniye",
+        "url": "https://open.spotify.com/album/2uhpD5sZ6ZGkgAjhnrC9lN"
+      },
+      "artists": [
+        {
+          "name": "Hans Raj Hans",
+          "url": "https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X"
+        }
+      ],
+      "duration_ms": 309826,
+      "name": "Rehan De Rehan De",
+      "url": "https://open.spotify.com/track/1VhCPwvew5s51i7CXMcE39"
     },
     {
       "added_at": "2026-05-22 11:41:53",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-05-22 11:41:53",
       "album": {
-        "name": "The Best of Hans Raj Hans",
-        "url": "https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK"
-      },
-      "artists": [
-        {
-          "name": "Hans Raj Hans",
-          "url": "https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X"
-        }
-      ],
-      "duration_ms": 532800,
-      "name": "Duma Dum Mast Qalandar",
-      "url": "https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB"
-    },
-    {
-      "added_at": "2026-05-22 11:41:53",
-      "album": {
         "name": "KHED ISHQE DI",
         "url": "https://open.spotify.com/album/2DB1lIB9Eorc4Mw1T60GzT"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 267708,
       "name": "KHED ISHQE DI",
       "url": "https://open.spotify.com/track/6mfsnDVuZ7XP66s2FJqrz9"
+    },
+    {
+      "added_at": "2026-05-22 11:41:53",
+      "album": {
+        "name": "The Best of Hans Raj Hans",
+        "url": "https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK"
+      },
+      "artists": [
+        {
+          "name": "Hans Raj Hans",
+          "url": "https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X"
+        }
+      ],
+      "duration_ms": 532800,
+      "name": "Duma Dum Mast Qalandar",
+      "url": "https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB"
     },
     {
       "added_at": "2026-05-22 11:41:53",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-05-22 11:41:53",
       "album": {
-        "name": "Ichhabal Modern Punjabi Poerty",
-        "url": "https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp"
-      },
-      "artists": [
-        {
-          "name": "Jagjit Singh",
-          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
-        }
-      ],
-      "duration_ms": 229013,
-      "name": "Ghamaan Di Raat Lammi Ae",
-      "url": "https://open.spotify.com/track/6KhkY86gENhVTXcVfGUxEJ"
-    },
-    {
-      "added_at": "2026-05-22 11:41:53",
-      "album": {
         "name": "Bismillah",
         "url": "https://open.spotify.com/album/7q7dXFQ8ygLIUC0yOdfy3F"
       },
@@ -803,6 +787,42 @@
       "duration_ms": 358536,
       "name": "Bismillah",
       "url": "https://open.spotify.com/track/2MzQaBSb9oj8q3AytmAkjE"
+    },
+    {
+      "added_at": "2026-05-22 11:41:53",
+      "album": {
+        "name": "Ichhabal Modern Punjabi Poerty",
+        "url": "https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "Ghamaan Di Raat Lammi Ae",
+      "url": "https://open.spotify.com/track/6KhkY86gENhVTXcVfGUxEJ"
+    },
+    {
+      "added_at": "2026-06-12 15:18:47",
+      "album": {
+        "name": "Ek Anokhi Dulhan Saavi",
+        "url": "https://open.spotify.com/album/3iEX72gAetxli7H5h9ZHa4"
+      },
+      "artists": [
+        {
+          "name": "Harpreet Singh",
+          "url": "https://open.spotify.com/artist/608azxY5aIu3kTSKzPa2cB"
+        },
+        {
+          "name": "Baba Bulleh Shah",
+          "url": "https://open.spotify.com/artist/2MgGHPYmzWK4JhwnYoGLHt"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Jaan Na Jaan - Male Version",
+      "url": "https://open.spotify.com/track/5a5klMTzdiPYO2uJjBvIdx"
     },
     {
       "added_at": "2026-05-22 11:41:53",
@@ -927,22 +947,6 @@
       "duration_ms": 919654,
       "name": "Nit Khair Manga Sohneya",
       "url": "https://open.spotify.com/track/3VQlzO0MEsIhO4XiDGPpbu"
-    },
-    {
-      "added_at": "2026-05-22 11:41:53",
-      "album": {
-        "name": "Punjabi Mehfil, Vol. 3",
-        "url": "https://open.spotify.com/album/6Qyt1ZwPegk8Qx3UfvT64a"
-      },
-      "artists": [
-        {
-          "name": "Ghulam Ali",
-          "url": "https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM"
-        }
-      ],
-      "duration_ms": 869983,
-      "name": "Nitt De Vichhore Saada Sukh Chain",
-      "url": "https://open.spotify.com/track/29351vA9iRgtYyDsXbrMOp"
     }
   ],
   "unique_name": "Punjabi Ghazals & Qawwalis",

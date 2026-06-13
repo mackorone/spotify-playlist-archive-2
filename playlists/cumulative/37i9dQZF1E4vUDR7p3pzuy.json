@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "All Of My Friends Are Dead",
+        "url": "https://open.spotify.com/album/3ZcA7bXY4Q8hfnTcXlPNVO"
+      },
+      "artists": [
+        {
+          "name": "enough",
+          "url": "https://open.spotify.com/artist/48FuJUrxaSliknCSMeidjY"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164374,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/0RV4mKdAGIwjFFv5zauwBq"
+    },
+    {
+      "album": {
         "name": "American Wanting",
         "url": "https://open.spotify.com/album/4gYjgASnqUaczdbhgCJ9VW"
       },
@@ -1380,7 +1398,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 219852,
       "name": "Big Old Mommy",
       "url": "https://open.spotify.com/track/1U00ElMIAgXyPkvoz16vFu"
@@ -2962,7 +2980,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 249213,
       "name": "Cross Over",
       "url": "https://open.spotify.com/track/3AI4CMMCPiomwJb0qUM2JW"
@@ -3428,7 +3446,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 291201,
       "name": "Deerslayer",
       "url": "https://open.spotify.com/track/33hRehaG2yHnh7AYokJHNN"
@@ -3930,6 +3948,24 @@
       "duration_ms": 230632,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/40Y5xwUpxzWqTJKOVjfaI5"
+    },
+    {
+      "album": {
+        "name": "black track",
+        "url": "https://open.spotify.com/album/6FXqrITpoE6P8zSvY3U2NB"
+      },
+      "artists": [
+        {
+          "name": "Sodikken",
+          "url": "https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138577,
+      "name": "echoing arc surging",
+      "url": "https://open.spotify.com/track/7ExnC2yj2hRj7AI43tBhtJ"
     },
     {
       "album": {
@@ -5205,6 +5241,24 @@
     },
     {
       "album": {
+        "name": "Lost in Silence",
+        "url": "https://open.spotify.com/album/3Mg4ebm8kmjgtni4QWcuCl"
+      },
+      "artists": [
+        {
+          "name": "Jacobs Fall",
+          "url": "https://open.spotify.com/artist/06p53lE2Tu1sVj4UzMgUTh"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "Glances",
+      "url": "https://open.spotify.com/track/0BB4LPULcq712SaZKgVTVa"
+    },
+    {
+      "album": {
         "name": "What if I'm right",
         "url": "https://open.spotify.com/album/4sszFYVaE4gBtx3hrtMZIM"
       },
@@ -5426,6 +5480,24 @@
       "duration_ms": 207000,
       "name": "Grape Crush",
       "url": "https://open.spotify.com/track/4OqKb3MOfnufyrFnhDQnZO"
+    },
+    {
+      "album": {
+        "name": "Great & Wild Unknown",
+        "url": "https://open.spotify.com/album/5v34QMa5URQ8rhUuFCgbsk"
+      },
+      "artists": [
+        {
+          "name": "Surge 7.4",
+          "url": "https://open.spotify.com/artist/6YSjbUCr6T1WDl2uFdcTAG"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Great & Wild Unknown",
+      "url": "https://open.spotify.com/track/5UcOZNczYnfPca9hgM167s"
     },
     {
       "album": {
@@ -5688,9 +5760,27 @@
           "url": "https://open.spotify.com/artist/3A4Ssi38ppefDLqzeEUHI7"
         }
       ],
-      "date_added": "2026-06-09",
+      "date_added": "2026-06-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 105995,
+      "name": "Help I'm Alive - Edit",
+      "url": "https://open.spotify.com/track/2Qpfbni9xSdZyObv7wDIF4"
+    },
+    {
+      "album": {
+        "name": "Help I'm Alive (I Tremble) [Edit]",
+        "url": "https://open.spotify.com/album/5KrX9tz6f8lF5JXaaV8UBj"
+      },
+      "artists": [
+        {
+          "name": "onve",
+          "url": "https://open.spotify.com/artist/3A4Ssi38ppefDLqzeEUHI7"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2026-06-13",
       "duration_ms": 124346,
       "name": "Help I'm Alive - Edit Slowed",
       "url": "https://open.spotify.com/track/5uCBspPgSxKqnj7Lx6tl6J"
@@ -6386,7 +6476,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 213000,
       "name": "i'm no good @writing songs.demo",
       "url": "https://open.spotify.com/track/1P4R4eOXqKXj0vfL4hxqMe"
@@ -6638,7 +6728,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 190909,
       "name": "Inside of a magnolia",
       "url": "https://open.spotify.com/track/2mONSUriKABbVj4fbrVUvX"
@@ -7534,7 +7624,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 253020,
       "name": "Lich Tree",
       "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
@@ -7660,7 +7750,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/0WxMCIhAMjWaoCp81b57An"
@@ -8579,6 +8669,28 @@
     },
     {
       "album": {
+        "name": "Mother!",
+        "url": "https://open.spotify.com/album/6liwYwISxb7VxWeuRycc8t"
+      },
+      "artists": [
+        {
+          "name": "Empires In Orbit",
+          "url": "https://open.spotify.com/artist/0T2xXSRZyHnvbdL3uO7ffR"
+        },
+        {
+          "name": "Fe Malefiz",
+          "url": "https://open.spotify.com/artist/2xkvTt1eyxzTNDWRao0Dcd"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207353,
+      "name": "Mother!",
+      "url": "https://open.spotify.com/track/6rDyhPmNitHbJYb2PKQPGv"
+    },
+    {
+      "album": {
         "name": "Motivation",
         "url": "https://open.spotify.com/album/2LgyCOPjEodI3FT2YEmD4G"
       },
@@ -8608,7 +8720,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 248906,
       "name": "Moving Forward, Head Turned",
       "url": "https://open.spotify.com/track/2TiaIc1xZ21q5p17gQxFO4"
@@ -8698,7 +8810,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 157920,
       "name": "My Place",
       "url": "https://open.spotify.com/track/5DbtmCIsreWgX7LEKStfWj"
@@ -10782,7 +10894,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 240000,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
@@ -10840,7 +10952,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 276000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
@@ -11414,7 +11526,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "So Many Dreams",
       "url": "https://open.spotify.com/track/1dBra8NQyJ0x2qBi2nnCHx"
@@ -11822,7 +11934,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 346079,
       "name": "Stay",
       "url": "https://open.spotify.com/track/11USUsmzuVO2BeCBxx9ZzV"
@@ -12368,7 +12480,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Takin' Out The Trash",
       "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
@@ -13649,6 +13761,24 @@
     },
     {
       "album": {
+        "name": "Till the Morning Comes",
+        "url": "https://open.spotify.com/album/3PwPHLEwd9V1vZlQTMPvrP"
+      },
+      "artists": [
+        {
+          "name": "Hunyor",
+          "url": "https://open.spotify.com/artist/116kdwaBKPi8BNPduAqWoK"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183637,
+      "name": "Till the Morning Comes",
+      "url": "https://open.spotify.com/track/1XHjrmR9ANg4EUP59QJhEf"
+    },
+    {
+      "album": {
         "name": "AD/2",
         "url": "https://open.spotify.com/album/5YBWxvQe74eyaWCTJUf6wB"
       },
@@ -13916,7 +14046,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 199541,
       "name": "Trust the Pain",
       "url": "https://open.spotify.com/track/1mx38pvy0aNRdig8o3NRko"
@@ -14356,7 +14486,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 229120,
       "name": "Vicious Vulture",
       "url": "https://open.spotify.com/track/36Bm2yVkgC35fVBCQ28jkh"
@@ -15274,7 +15404,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 186723,
       "name": "Worship",
       "url": "https://open.spotify.com/track/6VFwU4ugQApyyTSXgVxS4I"
@@ -15494,7 +15624,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 314181,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"

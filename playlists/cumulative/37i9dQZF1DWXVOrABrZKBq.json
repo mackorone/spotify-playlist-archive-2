@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Hamza",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Kalash",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 186086,
       "name": "24/24",
       "url": "https://open.spotify.com/track/3v6FQZ8dgWHFwbil7iT13P"
@@ -570,7 +570,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 171428,
       "name": "446",
       "url": "https://open.spotify.com/track/7xBQkQ29GSQDKX3h6cd7aH"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "AVEC MOI",
       "url": "https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP"
@@ -1442,6 +1442,28 @@
       "duration_ms": 172280,
       "name": "barcelona92",
       "url": "https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX"
+    },
+    {
+      "album": {
+        "name": "BEAUX GAR\u00c7ONS",
+        "url": "https://open.spotify.com/album/5rstd8cBg9dbCzEpS2KxQw"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149120,
+      "name": "BEAUX GAR\u00c7ONS",
+      "url": "https://open.spotify.com/track/3Y0ZQODxCHm18NqJKaHrB5"
     },
     {
       "album": {
@@ -2232,7 +2254,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 167963,
       "name": "C'est un m\u00e9tier",
       "url": "https://open.spotify.com/track/5wQZ4fR8S6MEunMTGmPtoj"
@@ -3545,6 +3567,28 @@
     },
     {
       "album": {
+        "name": "Devin Booker",
+        "url": "https://open.spotify.com/album/5G8XQqyBmncdzpdTqhG1bt"
+      },
+      "artists": [
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173324,
+      "name": "Devin Booker",
+      "url": "https://open.spotify.com/track/6hWILMgUROGXh0rSewqiLT"
+    },
+    {
+      "album": {
         "name": "Non conventionnel",
         "url": "https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l"
       },
@@ -4018,7 +4062,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 177666,
       "name": "EL DORADO",
       "url": "https://open.spotify.com/track/5GX8HBKHyXPZBwgTLG8qil"
@@ -4094,7 +4138,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 145920,
       "name": "ELLE VOULAIT",
       "url": "https://open.spotify.com/track/3vU9V5EzwpsqI2zHbKmHi9"
@@ -5037,6 +5081,24 @@
     },
     {
       "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/23SpSWVZFNfgyQ0mZt7lip"
+      },
+      "artists": [
+        {
+          "name": "Slimka",
+          "url": "https://open.spotify.com/artist/3JudvZnY94AkCzfAVXzawN"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178915,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/0sknJPVBxesDM2UtdOQMud"
+    },
+    {
+      "album": {
         "name": "Go Mode",
         "url": "https://open.spotify.com/album/3GekvJk4hGZw39M27jUcCc"
       },
@@ -5354,6 +5416,24 @@
       "duration_ms": 148751,
       "name": "Hood Story",
       "url": "https://open.spotify.com/track/7pmj85039yWq8bf7nWyOw3"
+    },
+    {
+      "album": {
+        "name": "BYAKUGAN",
+        "url": "https://open.spotify.com/album/6HQt23uDVxzyucxDtqRSKI"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Huracan",
+      "url": "https://open.spotify.com/track/6QRy8EXr1ZzPQNRXlAm4TH"
     },
     {
       "album": {
@@ -6089,6 +6169,28 @@
     },
     {
       "album": {
+        "name": "EX-VOTO",
+        "url": "https://open.spotify.com/album/6VbZz0zsL8N2iL9lkHvxFP"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Kehlani",
+      "url": "https://open.spotify.com/track/2rsbf3u0FxfORAbUdqS3lv"
+    },
+    {
+      "album": {
         "name": "Blanco nemesis",
         "url": "https://open.spotify.com/album/1CVD0XgRZjmkeO11U90NPo"
       },
@@ -6260,7 +6362,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 358260,
       "name": "L'\u00e9cole primaire",
       "url": "https://open.spotify.com/track/2aK0QxIK6oBIeLfsOeCdnu"
@@ -6554,7 +6656,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 161100,
-      "name": "La Vraie Vie (Freestyle des Flammes)",
+      "name": "La Vraie Vie - Freestyle des Flammes",
       "url": "https://open.spotify.com/track/65MTKzHYUo4gBC6USD8LiI"
     },
     {
@@ -6574,6 +6676,24 @@
       "duration_ms": 216973,
       "name": "Laisse-moi tranquille.",
       "url": "https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y"
+    },
+    {
+      "album": {
+        "name": "bathroom problems",
+        "url": "https://open.spotify.com/album/13W6HcECX2knjumajv5dTZ"
+      },
+      "artists": [
+        {
+          "name": "Oreall",
+          "url": "https://open.spotify.com/artist/0MbqO5bY7F4jWMwlMe0By0"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134615,
+      "name": "lampadaire freestyle",
+      "url": "https://open.spotify.com/track/3sOpdbJmOjRb1ZfFB9OASP"
     },
     {
       "album": {
@@ -6726,6 +6846,28 @@
       "duration_ms": 146440,
       "name": "LE PLAN",
       "url": "https://open.spotify.com/track/7ugQiR4wf4Eez3klbl5ItJ"
+    },
+    {
+      "album": {
+        "name": "Le resto du Hilton",
+        "url": "https://open.spotify.com/album/4vwFJkR7fAwLZkEA3eb0jm"
+      },
+      "artists": [
+        {
+          "name": "FILOU",
+          "url": "https://open.spotify.com/artist/7qZwDVuE0XDDAjWhfv9uv6"
+        },
+        {
+          "name": "LeDji",
+          "url": "https://open.spotify.com/artist/0u4SuQvBKJ7zwNWT3RWkph"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106712,
+      "name": "Le resto du Hilton",
+      "url": "https://open.spotify.com/track/3s5pq5RRlWBYAahZCkCw4Z"
     },
     {
       "album": {
@@ -7370,6 +7512,24 @@
       "duration_ms": 168513,
       "name": "Mapessa (feat. Tiakola)",
       "url": "https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo"
+    },
+    {
+      "album": {
+        "name": "Marsellus Wallace",
+        "url": "https://open.spotify.com/album/1pZ9OND8KLqWX58PbT2f97"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150679,
+      "name": "Marsellus Wallace",
+      "url": "https://open.spotify.com/track/1bvYpfabzNITCIx3xr0dfC"
     },
     {
       "album": {
@@ -8126,6 +8286,28 @@
     {
       "album": {
         "name": "M\u00c9DICAMENT",
+        "url": "https://open.spotify.com/album/4Vk4vV6FLeDiJE0uupd7Bt"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        },
+        {
+          "name": "Anyme023",
+          "url": "https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186880,
+      "name": "M\u00c9DICAMENT",
+      "url": "https://open.spotify.com/track/2MFm3yQgt7hNkjP1ZYsI2u"
+    },
+    {
+      "album": {
+        "name": "M\u00c9DICAMENT",
         "url": "https://open.spotify.com/album/7lUKKs5Ql8QpgFEAvMhdSg"
       },
       "artists": [
@@ -8864,7 +9046,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 140377,
       "name": "panamera",
       "url": "https://open.spotify.com/track/5M9SPLH9iAGoqW6WBsFc61"
@@ -9042,6 +9224,24 @@
       "duration_ms": 183573,
       "name": "Parle moi",
       "url": "https://open.spotify.com/track/0u3X2FAuek7g4K2a7Nw5Om"
+    },
+    {
+      "album": {
+        "name": "Num\u00e9ro d'\u00e9crou",
+        "url": "https://open.spotify.com/album/5d0BjgEFwZpszVVLbAbDBf"
+      },
+      "artists": [
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141266,
+      "name": "PARLU",
+      "url": "https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA"
     },
     {
       "album": {
@@ -9330,7 +9530,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 190938,
       "name": "PILIER",
       "url": "https://open.spotify.com/track/14Gt0PQM7nxO5Etc2wwcpU"
@@ -10350,7 +10550,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 226107,
       "name": "Ronnie Kray",
       "url": "https://open.spotify.com/track/3v0SxUb7KgiR65hKRQW1ak"
@@ -10514,7 +10714,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 164827,
       "name": "Sa ka fet",
       "url": "https://open.spotify.com/track/5QtHiCtmc2XIL5nO9AEp39"
@@ -10788,7 +10988,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 148143,
       "name": "SANTA BARBARA",
       "url": "https://open.spotify.com/track/4hwoCT8J6IbYkvywzBo9Qx"
@@ -11506,6 +11706,28 @@
       "duration_ms": 243077,
       "name": "Suis mes pas",
       "url": "https://open.spotify.com/track/0fREnZJi7nuyRaFEtK9aTw"
+    },
+    {
+      "album": {
+        "name": "SUPERMOTOR",
+        "url": "https://open.spotify.com/album/5KwUa7OPLW1a8PvQEFfP1A"
+      },
+      "artists": [
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146493,
+      "name": "SUPERMOTOR",
+      "url": "https://open.spotify.com/track/3P3H3FrpvH8nzJmCmTc2CP"
     },
     {
       "album": {
@@ -12283,6 +12505,24 @@
     },
     {
       "album": {
+        "name": "Grand Gar\u00e7on",
+        "url": "https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128920,
+      "name": "Tu dors ?",
+      "url": "https://open.spotify.com/track/6JnsxE0leMVkUvTV0n969D"
+    },
+    {
+      "album": {
         "name": "Tu Sais",
         "url": "https://open.spotify.com/album/6lqW7JxQYN90kAv278RRFv"
       },
@@ -12444,7 +12684,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 142285,
       "name": "USA (feat. Guy2Bezbar)",
       "url": "https://open.spotify.com/track/7JHRkaxxQBgOjNi9o9meA1"
@@ -12864,6 +13104,28 @@
       "duration_ms": 105613,
       "name": "Wagyu du Jap'",
       "url": "https://open.spotify.com/track/0f23kGg4dotmFXMxBRnTpF"
+    },
+    {
+      "album": {
+        "name": "WORLDWIDE",
+        "url": "https://open.spotify.com/album/1oORX9hYXQsMsggq3hcWo4"
+      },
+      "artists": [
+        {
+          "name": "Salimo",
+          "url": "https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur"
+        },
+        {
+          "name": "ASSIF",
+          "url": "https://open.spotify.com/artist/4hSCKyUEoKKlPHA3mtTYl7"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158598,
+      "name": "WORLDWIDE",
+      "url": "https://open.spotify.com/track/7kNtNLMaKrIBUW1A6MJOD0"
     },
     {
       "album": {

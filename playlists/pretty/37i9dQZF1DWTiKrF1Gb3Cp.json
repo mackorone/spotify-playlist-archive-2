@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 251612,
+  "num_followers": 251649,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -11,30 +11,18 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "4x4",
-        "url": "https://open.spotify.com/album/3JdhSWKcys9HBt6ucfmgj7"
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
       "artists": [
         {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Angel Almaguer",
-          "url": "https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr"
-        },
-        {
-          "name": "$HUPE",
-          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 288671,
-      "name": "4x4",
-      "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
+      "duration_ms": 233064,
+      "name": "Tocame",
+      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -63,18 +51,22 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+        "name": "Por Hollywood",
+        "url": "https://open.spotify.com/album/2aCy0ncs4obXxHu3pZ1DK8"
       },
       "artists": [
         {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 233064,
-      "name": "Tocame",
-      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
+      "duration_ms": 168979,
+      "name": "Por Hollywood",
+      "url": "https://open.spotify.com/track/7Myx7gRSYsue2sbMaGdXDr"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -139,26 +131,6 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "Por Hollywood",
-        "url": "https://open.spotify.com/album/2aCy0ncs4obXxHu3pZ1DK8"
-      },
-      "artists": [
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 168979,
-      "name": "Por Hollywood",
-      "url": "https://open.spotify.com/track/7Myx7gRSYsue2sbMaGdXDr"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
         "name": "Mi Vida Mi Muerte",
         "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
       },
@@ -171,6 +143,34 @@
       "duration_ms": 174655,
       "name": "3",
       "url": "https://open.spotify.com/track/44tGQHHdm4JhCbMugPr2Vd"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/3JdhSWKcys9HBt6ucfmgj7"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Angel Almaguer",
+          "url": "https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr"
+        },
+        {
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        }
+      ],
+      "duration_ms": 288671,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -703,26 +703,6 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "Aleman: Bzrp Music Sessions, Vol. 15/66",
-        "url": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 174178,
-      "name": "Aleman: Bzrp Music Sessions, Vol. 15/66",
-      "url": "https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
         "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) [Remix]",
         "url": "https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 288000,
       "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
       "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
+        "name": "Aleman: Bzrp Music Sessions, Vol. 15/66",
+        "url": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 174178,
+      "name": "Aleman: Bzrp Music Sessions, Vol. 15/66",
+      "url": "https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54/66",
-        "url": "https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 223019,
-      "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54/66",
-      "url": "https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
         "name": "IceWeed-Man",
         "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 252000,
       "name": "Desvielados",
       "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
+        "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54/66",
+        "url": "https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 223019,
+      "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54/66",
+      "url": "https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "TODO \u00d8 NADA",
-        "url": "https://open.spotify.com/album/3RtTWm3ks5SxtmpH1ZYTam"
-      },
-      "artists": [
-        {
-          "name": "Linea Personal",
-          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
-        },
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 156283,
-      "name": "4x4",
-      "url": "https://open.spotify.com/track/3ow0KDTn32H0MKskS6UkHI"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
         "name": "Contando",
         "url": "https://open.spotify.com/album/0sYFaXcYzBjHaIMINygdx2"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 191515,
       "name": "Contando",
       "url": "https://open.spotify.com/track/4ZpMTXHBxhpycSHQmI4gOY"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
+        "name": "TODO \u00d8 NADA",
+        "url": "https://open.spotify.com/album/3RtTWm3ks5SxtmpH1ZYTam"
+      },
+      "artists": [
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        },
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 156283,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/3ow0KDTn32H0MKskS6UkHI"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "Adrenalina",
-        "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        }
-      ],
-      "duration_ms": 150974,
-      "name": "Adrenalina",
-      "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        }
+      ],
+      "duration_ms": 150974,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -1747,30 +1747,6 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "LA BESTIA",
-        "url": "https://open.spotify.com/album/5gvZo5yLEy0tyPGJLsDzoS"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Rafael Amaya",
-          "url": "https://open.spotify.com/artist/4bforrvhv0YFDP83UQBbU8"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "LA BESTIA",
-      "url": "https://open.spotify.com/track/58TiBzSkA8e4ex4crrFwg2"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
         "name": "La Caravana",
         "url": "https://open.spotify.com/album/0i9rS0UsC865Lk7kF2u9Bk"
       },
@@ -1803,6 +1779,30 @@
       "duration_ms": 149318,
       "name": "TOTO",
       "url": "https://open.spotify.com/track/4x9Uk4DzCGMUyfiKOw42bC"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
+        "name": "LA BESTIA",
+        "url": "https://open.spotify.com/album/5gvZo5yLEy0tyPGJLsDzoS"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Rafael Amaya",
+          "url": "https://open.spotify.com/artist/4bforrvhv0YFDP83UQBbU8"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "LA BESTIA",
+      "url": "https://open.spotify.com/track/58TiBzSkA8e4ex4crrFwg2"
     },
     {
       "added_at": "2026-05-29 06:00:17",

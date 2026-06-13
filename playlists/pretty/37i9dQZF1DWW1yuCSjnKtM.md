@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 
 > viral, trending and hot right now 📈 cover: Lily Allen and JADE
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,220 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,207 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 |
 | 2 | [Love Sensation](https://open.spotify.com/track/3ziJR4EpMEzjvdli8YIV6X) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Love Sensation](https://open.spotify.com/album/2kWMFjZvvOYNk7H89MsqI2) | 3:48 |
 | 3 | [bloodstream](https://open.spotify.com/track/1fdgakuuEEfjRt3KYF36eG) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [bloodstream](https://open.spotify.com/album/4KGK9opFcC60xCe29CTZus) | 2:57 |
-| 4 | [Go](https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Born In The Echoes](https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD) | 4:20 |
+| 4 | [Go](https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Born In The Echoes](https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD) | 4:20 |
 | 5 | [Beg For Me \- JADE Remix](https://open.spotify.com/track/0JNVnPAXsNDG3Rayv0FQEZ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Beg For Me \(Remix\)](https://open.spotify.com/album/0HBQFvlAP6dpbqrh8hNjmA) | 2:50 |
 | 6 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
 | 7 | [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 
 > soft ambient + bird song for spring study sessions 🦜🌿 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,826 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,843 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 | 79 | [Paladin Diversum](https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin Diversum](https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur) | 3:16 |
 | 80 | [Gravity](https://open.spotify.com/track/6SrGcbpvB216sv4XrtL2Pq) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Gravity](https://open.spotify.com/album/0RfMrZOANCZ6PHqPhXEomx) | 2:14 |
 
-Snapshot ID: `AAAAAC5/SsREchKxMbkbvjGTrKWy4mO3`
+Snapshot ID: `AAAAAMAam2pd7es1wbuIk0JC9TLsuM6V`

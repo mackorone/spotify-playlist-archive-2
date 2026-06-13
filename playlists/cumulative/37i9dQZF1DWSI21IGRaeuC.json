@@ -1949,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "Big Things Coming",
+        "url": "https://open.spotify.com/album/1s2bLgoRqjXXUnXlWVGGqe"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228562,
+      "name": "Big Things Coming - Edit",
+      "url": "https://open.spotify.com/track/4t0TQyiaeyulwsghotIdxi"
+    },
+    {
+      "album": {
         "name": "Sample Inspector EP",
         "url": "https://open.spotify.com/album/6aTGoiiAU7TOpsZe8GhjG6"
       },
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 149006,
       "name": "Bludz & Cripz",
       "url": "https://open.spotify.com/track/09N6zRXA3FuLciYUnDCM4q"
@@ -5452,7 +5470,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 128874,
       "name": "Elevator",
       "url": "https://open.spotify.com/track/3zW2p2IIK885aOrjfDJEXv"
@@ -7222,6 +7240,24 @@
       "duration_ms": 332307,
       "name": "Get Jiggy",
       "url": "https://open.spotify.com/track/7BblhpOcUhX30R3mgDNC9U"
+    },
+    {
+      "album": {
+        "name": "Get Loose",
+        "url": "https://open.spotify.com/album/05AMeF9HxOXv6QfSzmpw5j"
+      },
+      "artists": [
+        {
+          "name": "Midas Field",
+          "url": "https://open.spotify.com/artist/2CWBXfhKFuPmSoXhM4V6O1"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384155,
+      "name": "Get Loose",
+      "url": "https://open.spotify.com/track/4tsOLecIcXkaOdSBMRxFlq"
     },
     {
       "album": {
@@ -14871,6 +14907,32 @@
     },
     {
       "album": {
+        "name": "Terapia EP",
+        "url": "https://open.spotify.com/album/0JkXw9RsPPgDckgj2X2QzH"
+      },
+      "artists": [
+        {
+          "name": "Bonafique",
+          "url": "https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803"
+        },
+        {
+          "name": "Yuv\u00e8e",
+          "url": "https://open.spotify.com/artist/2uUpxGX8XaVGhqh398dP2f"
+        },
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Profil - Josh Baker Remix",
+      "url": "https://open.spotify.com/track/4xeCjpuxm2Mg1RifYYrRTD"
+    },
+    {
+      "album": {
         "name": "Pronosticos Cachito",
         "url": "https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e"
       },
@@ -20018,7 +20080,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 161828,
       "name": "Too Much For Me",
       "url": "https://open.spotify.com/track/2JUcDUCehhGatNQRsoGDE8"
@@ -21313,6 +21375,24 @@
     },
     {
       "album": {
+        "name": "Coastal Transmissions EP",
+        "url": "https://open.spotify.com/album/195tyH03HdgJnQNfrPtnzO"
+      },
+      "artists": [
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220168,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/2FjchEMlPm2nyaqn4X7zHt"
+    },
+    {
+      "album": {
         "name": "What I Might Do",
         "url": "https://open.spotify.com/album/7q2MMicMNbXrGzy3Snw7Mo"
       },
@@ -21570,7 +21650,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 256901,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"

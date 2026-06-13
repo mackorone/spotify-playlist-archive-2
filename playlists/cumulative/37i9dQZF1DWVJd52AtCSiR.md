@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-175 songs - 8 hr 57 min
+176 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Real Gourmet Kitchen](https://open.spotify.com/track/6hl3QoeDknHZ1mg5s3Aw2V) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 4:18 | 2021-10-07 | 2022-07-16 |
 | [A Whole New World \- From "Aladdin"](https://open.spotify.com/track/7pJ4qUAXYKIObqrHpN09Ds) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Whole New World \(From "Aladdin"\)](https://open.spotify.com/album/3QKlFrb003pEc0I321wmSt) | 2:43 | 2021-10-07 |  |
 | [A Wrinkle in Time](https://open.spotify.com/track/5DYImENykLtvddFYExR23e) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [A Wrinkle in Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YgJxL6c6nh0izOMRDKypq) | 2:09 | 2021-10-07 | 2022-07-30 |
-| [Abre Los Ojos](https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:16 | 2022-01-07 |  |
+| [Abre Los Ojos](https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:16 | 2022-01-07 | 2026-06-13 |
 | [Aladdin's Second Wish](https://open.spotify.com/track/4MzHU4LNdG2dmfNo5gytip) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 2:08 | 2021-10-07 | 2022-07-16 |
 | [Almost There \- From "Princess and the Frog"](https://open.spotify.com/track/6x1pCJudgIS8Gak9ONrg82) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:26 | 2021-10-07 |  |
 | [Ariel Left Behind \- Remastered 2014](https://open.spotify.com/track/3d2wBgJ5UDk1U5k0xC2CVz) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Walt Disney Records The Legacy Collection: The Little Mermaid](https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst) | 4:09 | 2025-06-13 |  |
@@ -81,6 +81,7 @@
 | [Grandmother Willow](https://open.spotify.com/track/5IIa9sbsg29OcGXRhdAph0) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Pocahontas Original Soundtrack \(English Version\)](https://open.spotify.com/album/4ddvFk8agFfRkkcVwR8sJH) | 1:27 | 2021-10-07 |  |
 | [Grandmother Willow](https://open.spotify.com/track/0YlqJkfuox9LpJ5uW3NPM8) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Pocahontas](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) | 1:27 | 2022-07-07 | 2024-04-19 |
 | [Grandmother Willow \- From "Pocahontas"/Score](https://open.spotify.com/track/7kixeLQcvdiUs8DK5lyA2y) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Pocahontas, Une Légende Indienne \(Bande Originale Française du Film\)](https://open.spotify.com/album/3HkPvUe2kaXsrh4guMIVBx) | 1:27 | 2022-10-03 | 2022-11-13 |
+| [Grogu's World](https://open.spotify.com/track/3bHx5o1AFGgYnP9G3QJCkj) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Star Wars: The Mandalorian and Grogu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn) | 7:45 | 2026-06-12 |  |
 | [Haiku](https://open.spotify.com/track/4MNNWIiG4XCQkMm30JhNsb) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo Original Soundtrack](https://open.spotify.com/album/7BWvDrobl2vSTnbDN7wXQk) | 1:41 | 2021-10-07 | 2022-07-16 |
 | [Happy Ending](https://open.spotify.com/track/3ChNbqbiPteCoYtufO79qw) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Howard Ashman](https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN), [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [J.A.C\. Redford](https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:11 | 2021-10-07 |  |
 | [Heimr Àrnadalr \- From "Frozen"/Score](https://open.spotify.com/track/0BVJL3uKlVSjTF6dclucdt) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 1:25 | 2021-10-07 |  |

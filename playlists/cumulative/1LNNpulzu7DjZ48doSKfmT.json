@@ -3281,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Counter",
+        "url": "https://open.spotify.com/album/1swYxO419De2UGj1DjMIQu"
+      },
+      "artists": [
+        {
+          "name": "Trashbbx",
+          "url": "https://open.spotify.com/artist/3QRXwXbNNP3QV10XKGvj1y"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203617,
+      "name": "Counter",
+      "url": "https://open.spotify.com/track/1bJ09k6Kcow4JeVT91ZDNd"
+    },
+    {
+      "album": {
         "name": "Coup de foudre",
         "url": "https://open.spotify.com/album/1gPEeTJ5N3VCXV6hPJcRjF"
       },
@@ -8811,6 +8829,24 @@
     },
     {
       "album": {
+        "name": "Fun with Layla in Wallington",
+        "url": "https://open.spotify.com/album/2hTc0kStuvzmNsApCiLosP"
+      },
+      "artists": [
+        {
+          "name": "Quilted Snowflake",
+          "url": "https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163144,
+      "name": "Layla Bartle",
+      "url": "https://open.spotify.com/track/0VbH7zwCc4sdkpLeSDe7nu"
+    },
+    {
+      "album": {
         "name": "Le moi d'autrefois",
         "url": "https://open.spotify.com/album/4RBJIuW9MoQYewURJp0epK"
       },
@@ -13786,6 +13822,36 @@
       "duration_ms": 159102,
       "name": "Sheh Aur Maat",
       "url": "https://open.spotify.com/track/5EBD0xcxMADZCNhtBvncgJ"
+    },
+    {
+      "album": {
+        "name": "Shining",
+        "url": "https://open.spotify.com/album/76Yra4Sz3dbnzRMFWhV2uV"
+      },
+      "artists": [
+        {
+          "name": "Nicole Gi",
+          "url": "https://open.spotify.com/artist/0tgBoKNlruzIxaE0CwNhhr"
+        },
+        {
+          "name": "KxP",
+          "url": "https://open.spotify.com/artist/0Wx0lZfQ1EQfTxxgI1mt7i"
+        },
+        {
+          "name": "Thundason",
+          "url": "https://open.spotify.com/artist/2rI1l3PrvcjkXU4JbwTTp8"
+        },
+        {
+          "name": "1depth",
+          "url": "https://open.spotify.com/artist/6WCG6NUWO7AegpQN8asWwq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177977,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/6w0jaLazYD5Z1zvCdWap0n"
     },
     {
       "album": {

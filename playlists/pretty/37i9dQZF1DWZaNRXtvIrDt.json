@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music. Cover: Surusinghe",
-  "num_followers": 129649,
+  "num_followers": 129635,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "Archangel",
-        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "Man With a Second Face",
-      "url": "https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
         "name": "Tastes Like The 90s",
         "url": "https://open.spotify.com/album/0IZhc4XwdP5S3HADTrddV1"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 201247,
       "name": "Old' On",
       "url": "https://open.spotify.com/track/38zrbBzmIUC4OPL2NUBx4n"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "Man With a Second Face",
+      "url": "https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "Back 2 Back",
-        "url": "https://open.spotify.com/album/4lnsaWcuoXUzDINVbyG9ak"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 187411,
-      "name": "Back 2 Back",
-      "url": "https://open.spotify.com/track/13DIg33b655IuPHHdnlimm"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
         "name": "Where You Need To Be",
         "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
       },
@@ -759,42 +739,22 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "Night Moves",
-        "url": "https://open.spotify.com/album/6jsl3oV9zfqb7l7rpbQDki"
+        "name": "Back 2 Back",
+        "url": "https://open.spotify.com/album/4lnsaWcuoXUzDINVbyG9ak"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         },
         {
-          "name": "Enzo is Burning",
-          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 201508,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "Lazy Haze",
-        "url": "https://open.spotify.com/album/7ogyBA2ovnKRNOdSJnZ1Kt"
-      },
-      "artists": [
-        {
-          "name": "Yere",
-          "url": "https://open.spotify.com/artist/4lzDszfgtJrnmeBfDu9dt7"
-        },
-        {
-          "name": "Bicycle Ride",
-          "url": "https://open.spotify.com/artist/1aEKpfW8sw5XryObAyPUFE"
-        }
-      ],
-      "duration_ms": 126998,
-      "name": "Lazy Haze",
-      "url": "https://open.spotify.com/track/4U3FH4HfSRtFyVhuRiDYuP"
+      "duration_ms": 187411,
+      "name": "Back 2 Back",
+      "url": "https://open.spotify.com/track/13DIg33b655IuPHHdnlimm"
     },
     {
       "added_at": "2026-06-11 14:00:37",
@@ -819,6 +779,26 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
+        "name": "Night Moves",
+        "url": "https://open.spotify.com/album/6jsl3oV9zfqb7l7rpbQDki"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+        }
+      ],
+      "duration_ms": 201508,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
         "name": "Back to Basics (feat. Skepta) (Floating Points Remix)",
         "url": "https://open.spotify.com/album/5AqA9sP5nWY0Q4ysvpJOdo"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 229107,
       "name": "Back to Basics (feat. Skepta) (Floating Points Remix)",
       "url": "https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "Lazy Haze",
+        "url": "https://open.spotify.com/album/7ogyBA2ovnKRNOdSJnZ1Kt"
+      },
+      "artists": [
+        {
+          "name": "Yere",
+          "url": "https://open.spotify.com/artist/4lzDszfgtJrnmeBfDu9dt7"
+        },
+        {
+          "name": "Bicycle Ride",
+          "url": "https://open.spotify.com/artist/1aEKpfW8sw5XryObAyPUFE"
+        }
+      ],
+      "duration_ms": 126998,
+      "name": "Lazy Haze",
+      "url": "https://open.spotify.com/track/4U3FH4HfSRtFyVhuRiDYuP"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -915,22 +915,18 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "Tracks of the Blue Sky",
-        "url": "https://open.spotify.com/album/5kCSdyvAeUACIFEspLwr83"
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
       },
       "artists": [
         {
-          "name": "Demm Deep",
-          "url": "https://open.spotify.com/artist/1MzQYOcw4DMB9ISBhZTa7g"
-        },
-        {
-          "name": "Junes UB",
-          "url": "https://open.spotify.com/artist/32nH6vaVKn3iDyEYdlcBi5"
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
         }
       ],
-      "duration_ms": 199138,
-      "name": "Brazilian Sky",
-      "url": "https://open.spotify.com/track/5KF3ijg71YSKszvHuHdfZA"
+      "duration_ms": 286274,
+      "name": "Birth4000",
+      "url": "https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek"
     }
   ],
   "unique_name": "Portal",

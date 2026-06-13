@@ -1,13 +1,349 @@
 {
-  "description": "The home of Canadian country music. Cover: Brittany Kennell",
+  "description": "The home of Canadian country music. Cover: Emmett Jerome",
   "num_followers": 84071,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANgfrMBLzZDb7WNaypludQ/BYkWB",
+  "snapshot_id": "AAAAAJAakwrNTdmzWGkHfPTX6PP1VeWD",
   "tracks": [
+    {
+      "added_at": "2026-06-12 04:03:11",
+      "album": {
+        "name": "Natural Disaster",
+        "url": "https://open.spotify.com/album/4Lp4pbYDU5p6CNBgVfgS8o"
+      },
+      "artists": [
+        {
+          "name": "Emmett Jerome",
+          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
+        }
+      ],
+      "duration_ms": 190276,
+      "name": "Natural Disaster",
+      "url": "https://open.spotify.com/track/4yZZkrYsIrHzqJHZBzhM28"
+    },
+    {
+      "added_at": "2026-06-12 04:03:11",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/66jp6lgyhAP87gLrmp251l"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "duration_ms": 205942,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/31INymMJWK1ENMzdYFfihB"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "Deep Water",
+        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 153069,
+      "name": "Deep Water",
+      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "In The Feeling",
+        "url": "https://open.spotify.com/album/5t9dUqzhZipR4hx7et4gx4"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 200623,
+      "name": "Rest Of My",
+      "url": "https://open.spotify.com/track/3nPggg2eXJSJWTnThsj85q"
+    },
+    {
+      "added_at": "2026-06-12 04:03:11",
+      "album": {
+        "name": "Lonely Weekend",
+        "url": "https://open.spotify.com/album/5vw0C67XB4hLJTHaBGlgw0"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 193740,
+      "name": "Lonely Weekend",
+      "url": "https://open.spotify.com/track/46ZaIDGHfn83DkJ55O78wP"
+    },
+    {
+      "added_at": "2026-06-12 04:03:11",
+      "album": {
+        "name": "Taking a Look In",
+        "url": "https://open.spotify.com/album/1tdGiFkEYPRwk6B3nG6CJL"
+      },
+      "artists": [
+        {
+          "name": "Rebekah Hawker",
+          "url": "https://open.spotify.com/artist/4KySQuGdYzSrOHNCOnb80S"
+        }
+      ],
+      "duration_ms": 165756,
+      "name": "Taking a Look In",
+      "url": "https://open.spotify.com/track/3emUP6eGVNw0m8wuu7j12v"
+    },
+    {
+      "added_at": "2026-05-29 08:01:08",
+      "album": {
+        "name": "Wanted Me To Be",
+        "url": "https://open.spotify.com/album/5BjaOkDHHlGDvvCg3bPzyK"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 185169,
+      "name": "Wanted Me To Be",
+      "url": "https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD"
+    },
+    {
+      "added_at": "2026-06-12 04:03:11",
+      "album": {
+        "name": "GIRLFRIENDS BEWARE",
+        "url": "https://open.spotify.com/album/1sQJ5luEj0e6tRc2ujfDWC"
+      },
+      "artists": [
+        {
+          "name": "TANAEYA",
+          "url": "https://open.spotify.com/artist/7ktC7CL0wvuCItO8rMC2Pa"
+        }
+      ],
+      "duration_ms": 200189,
+      "name": "GIRLFRIENDS BEWARE",
+      "url": "https://open.spotify.com/track/2nurhnNM0HhcRrGhGIcmnX"
+    },
+    {
+      "added_at": "2026-06-05 04:02:58",
+      "album": {
+        "name": "Can\u2019t Eat, Can\u2019t Sleep",
+        "url": "https://open.spotify.com/album/6SfYL0NSaQGh0cQMwK3Dzu"
+      },
+      "artists": [
+        {
+          "name": "Noah Brigden",
+          "url": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub"
+        }
+      ],
+      "duration_ms": 172624,
+      "name": "Can\u2019t Eat, Can\u2019t Sleep",
+      "url": "https://open.spotify.com/track/6pUzvNNdF1sMqf0ZEldiJB"
+    },
+    {
+      "added_at": "2026-06-12 04:03:11",
+      "album": {
+        "name": "Rose Colored Rearview",
+        "url": "https://open.spotify.com/album/6VQt5Ihl28vliwNRmlN2uM"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sole",
+          "url": "https://open.spotify.com/artist/0S38ck3DCcecDbFedRPWfZ"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Rose Colored Rearview",
+      "url": "https://open.spotify.com/track/5qofguuK8PfdKWn0causTL"
+    },
+    {
+      "added_at": "2026-05-29 08:01:08",
+      "album": {
+        "name": "Sunshine's Free",
+        "url": "https://open.spotify.com/album/4pMNPwosSwKdAYj6T1xbtf"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Sunshine's Free",
+      "url": "https://open.spotify.com/track/1hWt5sMeyacK7IwXm4vKMq"
+    },
+    {
+      "added_at": "2026-06-12 04:03:11",
+      "album": {
+        "name": "Work Truck",
+        "url": "https://open.spotify.com/album/0rAJN8CqghuXjocwSytdoc"
+      },
+      "artists": [
+        {
+          "name": "Buck Twenty",
+          "url": "https://open.spotify.com/artist/2qcJRDDUhoE32dwaMnnBgq"
+        }
+      ],
+      "duration_ms": 168692,
+      "name": "Work Truck",
+      "url": "https://open.spotify.com/track/1XE8qDoGJUBtDqGEidZAq7"
+    },
+    {
+      "added_at": "2026-05-29 14:51:47",
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/085IcPMakVdABGg6iV6L2n"
+      },
+      "artists": [
+        {
+          "name": "Kelsi Mayne",
+          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
+        }
+      ],
+      "duration_ms": 155824,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/3nfjyqeYMXo88OLpwFZ6hF"
+    },
+    {
+      "added_at": "2026-06-12 04:03:11",
+      "album": {
+        "name": "Bar Star",
+        "url": "https://open.spotify.com/album/4XPGw3t3OlxZ7xsvQAaJGH"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Leigh Meyer",
+          "url": "https://open.spotify.com/artist/7vIpDPwFrupPH6AqxZNtY6"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Before You (Wedding Version)",
+      "url": "https://open.spotify.com/track/0g9rZ52Z1ADLwWVh6F1Z1f"
+    },
+    {
+      "added_at": "2026-06-12 04:03:11",
+      "album": {
+        "name": "Red Wine Wasted",
+        "url": "https://open.spotify.com/album/7CVbyLrSbkGpfedrDYj5M2"
+      },
+      "artists": [
+        {
+          "name": "Jade Hilton",
+          "url": "https://open.spotify.com/artist/0SQ3krxt43C0nZlkW8W1m1"
+        }
+      ],
+      "duration_ms": 159366,
+      "name": "Red Wine Wasted",
+      "url": "https://open.spotify.com/track/1O58Ss1iJVbOHMyNYqqJt3"
+    },
+    {
+      "added_at": "2026-06-12 04:03:11",
+      "album": {
+        "name": "Rox in the Box",
+        "url": "https://open.spotify.com/album/1MpqWkZ6ULonyjh36z9w0i"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "duration_ms": 192695,
+      "name": "Rox in the Box",
+      "url": "https://open.spotify.com/track/2erJo1o9jHIWUfAlbZml90"
+    },
+    {
+      "added_at": "2026-06-05 04:02:58",
+      "album": {
+        "name": "Backroads",
+        "url": "https://open.spotify.com/album/0aFHi5gbd3YCQk8ZOmSt16"
+      },
+      "artists": [
+        {
+          "name": "Fred Dionne",
+          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
+        }
+      ],
+      "duration_ms": 202184,
+      "name": "Backroads",
+      "url": "https://open.spotify.com/track/7sFiwtLhG46Jxy8D7Np15D"
+    },
+    {
+      "added_at": "2026-06-12 04:03:11",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/3EISSb48UhturhlGFgHJw7"
+      },
+      "artists": [
+        {
+          "name": "Taylor-Rae",
+          "url": "https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8"
+        }
+      ],
+      "duration_ms": 169681,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/5LnWNN9VXR5lOXAs51LErj"
+    },
+    {
+      "added_at": "2026-06-12 04:03:11",
+      "album": {
+        "name": "New Classic",
+        "url": "https://open.spotify.com/album/4evx2V3nKnP3TQOnFAMp7F"
+      },
+      "artists": [
+        {
+          "name": "Megan Dawson",
+          "url": "https://open.spotify.com/artist/3FuZQgYK8xR8diGiLTcGp4"
+        }
+      ],
+      "duration_ms": 195494,
+      "name": "New Classic",
+      "url": "https://open.spotify.com/track/7biQFmMlQWFVT63Adgr08w"
+    },
+    {
+      "added_at": "2026-05-08 04:05:38",
+      "album": {
+        "name": "Tethered",
+        "url": "https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mason",
+          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
+        }
+      ],
+      "duration_ms": 241686,
+      "name": "Tethered",
+      "url": "https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6"
+    },
+    {
+      "added_at": "2026-04-24 04:04:47",
+      "album": {
+        "name": "MISERY",
+        "url": "https://open.spotify.com/album/5RWfbBGrY6qFz8ibu7x7Tt"
+      },
+      "artists": [
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
+        }
+      ],
+      "duration_ms": 212581,
+      "name": "MISERY",
+      "url": "https://open.spotify.com/track/5czQkmaPtAmBrNwbaqYcbh"
+    },
     {
       "added_at": "2026-06-05 04:02:58",
       "album": {
@@ -27,22 +363,6 @@
     {
       "added_at": "2026-06-05 04:02:58",
       "album": {
-        "name": "Can\u2019t Eat, Can\u2019t Sleep",
-        "url": "https://open.spotify.com/album/6SfYL0NSaQGh0cQMwK3Dzu"
-      },
-      "artists": [
-        {
-          "name": "Noah Brigden",
-          "url": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub"
-        }
-      ],
-      "duration_ms": 172624,
-      "name": "Can\u2019t Eat, Can\u2019t Sleep",
-      "url": "https://open.spotify.com/track/6pUzvNNdF1sMqf0ZEldiJB"
-    },
-    {
-      "added_at": "2026-06-05 04:02:58",
-      "album": {
         "name": "All The Time",
         "url": "https://open.spotify.com/album/2ULdnGqXdbALk6M4WhnJX1"
       },
@@ -55,22 +375,6 @@
       "duration_ms": 206686,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/7m86fo0eB2AZlGZa9bDajc"
-    },
-    {
-      "added_at": "2026-04-17 04:05:01",
-      "album": {
-        "name": "Deep Water",
-        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 153069,
-      "name": "Deep Water",
-      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
     },
     {
       "added_at": "2026-06-05 04:02:58",
@@ -87,38 +391,6 @@
       "duration_ms": 168004,
       "name": "Tell Me To",
       "url": "https://open.spotify.com/track/78EeE8TcOs3tDM3rhjFeIv"
-    },
-    {
-      "added_at": "2026-06-05 04:02:58",
-      "album": {
-        "name": "Backroads",
-        "url": "https://open.spotify.com/album/0aFHi5gbd3YCQk8ZOmSt16"
-      },
-      "artists": [
-        {
-          "name": "Fred Dionne",
-          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
-        }
-      ],
-      "duration_ms": 202184,
-      "name": "Backroads",
-      "url": "https://open.spotify.com/track/7sFiwtLhG46Jxy8D7Np15D"
-    },
-    {
-      "added_at": "2026-05-29 08:01:08",
-      "album": {
-        "name": "Wanted Me To Be",
-        "url": "https://open.spotify.com/album/5BjaOkDHHlGDvvCg3bPzyK"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 185169,
-      "name": "Wanted Me To Be",
-      "url": "https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD"
     },
     {
       "added_at": "2026-06-05 04:02:58",
@@ -267,22 +539,6 @@
     {
       "added_at": "2026-05-29 08:01:08",
       "album": {
-        "name": "Sunshine's Free",
-        "url": "https://open.spotify.com/album/4pMNPwosSwKdAYj6T1xbtf"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Sunshine's Free",
-      "url": "https://open.spotify.com/track/1hWt5sMeyacK7IwXm4vKMq"
-    },
-    {
-      "added_at": "2026-05-29 08:01:08",
-      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/4WhRCOCbDaoHyRp6wBQFTg"
       },
@@ -295,22 +551,6 @@
       "duration_ms": 200803,
       "name": "Running",
       "url": "https://open.spotify.com/track/561ni1xamdigJn4JFDiRXo"
-    },
-    {
-      "added_at": "2026-04-24 04:04:47",
-      "album": {
-        "name": "MISERY",
-        "url": "https://open.spotify.com/album/5RWfbBGrY6qFz8ibu7x7Tt"
-      },
-      "artists": [
-        {
-          "name": "CARV",
-          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
-        }
-      ],
-      "duration_ms": 212581,
-      "name": "MISERY",
-      "url": "https://open.spotify.com/track/5czQkmaPtAmBrNwbaqYcbh"
     },
     {
       "added_at": "2026-05-29 08:01:08",
@@ -327,38 +567,6 @@
       "duration_ms": 166057,
       "name": "One Way",
       "url": "https://open.spotify.com/track/4lvWYpigxbrnhHK87MYGYy"
-    },
-    {
-      "added_at": "2026-05-29 14:51:47",
-      "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/085IcPMakVdABGg6iV6L2n"
-      },
-      "artists": [
-        {
-          "name": "Kelsi Mayne",
-          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
-        }
-      ],
-      "duration_ms": 155824,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/3nfjyqeYMXo88OLpwFZ6hF"
-    },
-    {
-      "added_at": "2026-04-17 04:05:01",
-      "album": {
-        "name": "In The Feeling",
-        "url": "https://open.spotify.com/album/5t9dUqzhZipR4hx7et4gx4"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 200623,
-      "name": "Rest Of My",
-      "url": "https://open.spotify.com/track/3nPggg2eXJSJWTnThsj85q"
     },
     {
       "added_at": "2026-05-29 08:01:08",
@@ -439,22 +647,6 @@
       "duration_ms": 184396,
       "name": "Chase My Whiskey",
       "url": "https://open.spotify.com/track/7wOvpum2LOTjY7bOOcBzS8"
-    },
-    {
-      "added_at": "2026-05-08 04:05:38",
-      "album": {
-        "name": "Tethered",
-        "url": "https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL"
-      },
-      "artists": [
-        {
-          "name": "Lucas Mason",
-          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
-        }
-      ],
-      "duration_ms": 241686,
-      "name": "Tethered",
-      "url": "https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6"
     },
     {
       "added_at": "2026-05-29 08:01:08",

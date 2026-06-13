@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,943 likes - 74 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,988 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 33 | [Hips Don't Lie \- Spotify Anniversary Version](https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:28 |
 | 34 | [Volver](https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Volver](https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s) | 3:52 |
 | 35 | [Troka](https://open.spotify.com/track/5AchK5XMO4AwN99yYcDPQc) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Troka](https://open.spotify.com/album/00yl2r8v4986lCsP6rGOkv) | 2:49 |
-| 36 | [Pal Agua](https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Pal Agua](https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt) | 3:26 |
-| 37 | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/track/2iDDnYmaz1HhedjI91fbmp) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/album/01b5HiUXkbiFUV3ogYrg0I) | 1:58 |
+| 36 | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/track/2iDDnYmaz1HhedjI91fbmp) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/album/01b5HiUXkbiFUV3ogYrg0I) | 1:58 |
+| 37 | [Pal Agua](https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Pal Agua](https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt) | 3:26 |
 | 38 | [QUEMA](https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [QUEMA](https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry) | 2:30 |
 | 39 | [FANÁTICO](https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [FANÁTICO](https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z) | 3:55 |
 | 40 | [FERXXO 151](https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [FERXXO 151](https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq) | 3:15 |
@@ -81,6 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 71 | [Dame Toma](https://open.spotify.com/track/7j0pRdDEOcr8fwonHy5QCc) | [CLUB29](https://open.spotify.com/artist/0znqrbxQ21Vdr4bhrbzPH4), [Manu Dal Santo](https://open.spotify.com/artist/0b1vlMqqnLOtD28hVLVvzB), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Boschin](https://open.spotify.com/artist/1VBrrTVQwAdCZ0panaIhHo) | [Dame Toma](https://open.spotify.com/album/2si8k8pdBqNEX1MmcD6kUZ) | 2:10 |
 | 72 | [Bailando en la Lluvia](https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Bailando en la Lluvia](https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk) | 2:53 |
 | 73 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
-| 74 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 |
+| 74 | [UM CORAÇÃO](https://open.spotify.com/track/6r42UuAbQBjgeV8goH0vTR) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [UM CORAÇÃO](https://open.spotify.com/album/7KBgtmjaOsqG713ktl7bsU) | 1:46 |
+| 75 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 |
 
-Snapshot ID: `AAAAAN9Z21LMxOH0umhDR/tS9hlwHxYE`
+Snapshot ID: `AAAAAFFMQMp5A6Ymamb/NdG7Er8MlJEx`

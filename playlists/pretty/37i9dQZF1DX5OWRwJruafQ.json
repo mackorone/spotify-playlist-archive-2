@@ -1,12 +1,12 @@
 {
   "description": "Keep it Punjabi, keep it real. Cover: Karan Aujla",
-  "num_followers": 110607,
+  "num_followers": 110645,
   "original_name": "Ghaint Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPYFNHFlhiFOL04yrq3cCrxJnSsV",
+  "snapshot_id": "AAAAAL1KFJX0afpMXoMJJej4SybSTc/N",
   "tracks": [
     {
       "added_at": "2026-05-28 09:48:05",
@@ -111,34 +111,6 @@
     {
       "added_at": "2026-05-28 09:48:05",
       "album": {
-        "name": "War Of Shera (From \"Shera\")",
-        "url": "https://open.spotify.com/album/2nfeDXg2liLcjZCmWfCiZ3"
-      },
-      "artists": [
-        {
-          "name": "Parmish Verma",
-          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
-        },
-        {
-          "name": "MC SQUARE",
-          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
-        },
-        {
-          "name": "Laddi Chahal",
-          "url": "https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p"
-        },
-        {
-          "name": "Nikhil - Swapnil",
-          "url": "https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "War Of Shera (From \"Shera\")",
-      "url": "https://open.spotify.com/track/2OOwJ4OokPWHJVFDTWMQZa"
-    },
-    {
-      "added_at": "2026-05-28 09:48:05",
-      "album": {
         "name": "Car Culture",
         "url": "https://open.spotify.com/album/2nxSwRZXkA8kU9DVhAZtps"
       },
@@ -179,6 +151,26 @@
       "duration_ms": 171063,
       "name": "Cat Walk",
       "url": "https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI"
+    },
+    {
+      "added_at": "2026-06-12 15:37:09",
+      "album": {
+        "name": "Folk Know",
+        "url": "https://open.spotify.com/album/7J5KMOMgJd7hLMMWCogwhl"
+      },
+      "artists": [
+        {
+          "name": "Mani Longia",
+          "url": "https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura"
+        },
+        {
+          "name": "Geet",
+          "url": "https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W"
+        }
+      ],
+      "duration_ms": 138510,
+      "name": "Folk Know",
+      "url": "https://open.spotify.com/track/0O1tXwRRk5ewkyEEjcpQxs"
     },
     {
       "added_at": "2026-05-28 09:48:05",

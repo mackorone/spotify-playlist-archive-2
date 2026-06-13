@@ -1,12 +1,12 @@
 {
   "description": "Wait, have you heard of the Beaches?",
-  "num_followers": 1547829,
+  "num_followers": 1547664,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADhw5y2QAwB9/BYRtSm1voyvmR0Z",
+  "snapshot_id": "AAAAAGerdfACh1J+rmWIyXn3kEIEcpfZ",
   "tracks": [
     {
       "added_at": "2026-05-22 04:55:57",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
     },
     {
+      "added_at": "2026-06-12 04:17:50",
+      "album": {
+        "name": "Do it all again",
+        "url": "https://open.spotify.com/album/0FvRb3KcuAEvc62SmHQJvL"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "duration_ms": 150419,
+      "name": "Do it all again",
+      "url": "https://open.spotify.com/track/6KRahtk4lAdLFOs8btjSdT"
+    },
+    {
       "added_at": "2026-06-05 04:06:16",
       "album": {
         "name": "High Hopes 3000",
@@ -39,6 +55,38 @@
       "duration_ms": 245755,
       "name": "High Hopes 3000",
       "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
+    },
+    {
+      "added_at": "2026-06-12 04:17:50",
+      "album": {
+        "name": "Shapeshifting on a Saturday Night",
+        "url": "https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s"
+      },
+      "artists": [
+        {
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
+        }
+      ],
+      "duration_ms": 205728,
+      "name": "Shapeshifting on a Saturday Night",
+      "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
+    },
+    {
+      "added_at": "2026-06-12 04:17:50",
+      "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/1HhWdO64tB0AQLoXJtyhyO"
+      },
+      "artists": [
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "SICK",
+      "url": "https://open.spotify.com/track/2F6YUXi48PHfXEXfP8LSnO"
     },
     {
       "added_at": "2026-05-22 04:55:57",
@@ -57,6 +105,38 @@
       "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
     },
     {
+      "added_at": "2026-05-29 04:50:19",
+      "album": {
+        "name": "The Last Encounter",
+        "url": "https://open.spotify.com/album/7FxjVKOU9UL90KAwsvJ0y6"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "The Last Encounter",
+      "url": "https://open.spotify.com/track/3cKyBigEDROC8U1QrY921a"
+    },
+    {
+      "added_at": "2026-06-12 04:17:50",
+      "album": {
+        "name": "Kicking My Feet & Screaming",
+        "url": "https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 184417,
+      "name": "Faking Smiles",
+      "url": "https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2"
+    },
+    {
       "added_at": "2026-05-22 04:55:57",
       "album": {
         "name": "Run Rabbit",
@@ -71,6 +151,22 @@
       "duration_ms": 189111,
       "name": "Run Rabbit",
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-06-12 04:17:50",
+      "album": {
+        "name": "pixel heart",
+        "url": "https://open.spotify.com/album/2JN3HJiXofIxU9pluRaH0m"
+      },
+      "artists": [
+        {
+          "name": "d\u00f3ttir.x",
+          "url": "https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0"
+        }
+      ],
+      "duration_ms": 184854,
+      "name": "pixel heart",
+      "url": "https://open.spotify.com/track/5tuBcdw0wZTVBFEumaX7zq"
     },
     {
       "added_at": "2026-06-05 04:06:16",
@@ -89,20 +185,20 @@
       "url": "https://open.spotify.com/track/57GzncV0DFLenSIt5yERwY"
     },
     {
-      "added_at": "2026-05-29 04:50:19",
+      "added_at": "2026-06-12 04:17:50",
       "album": {
-        "name": "The Last Encounter",
-        "url": "https://open.spotify.com/album/7FxjVKOU9UL90KAwsvJ0y6"
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN"
       },
       "artists": [
         {
-          "name": "Sofia Camara",
-          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 184000,
-      "name": "The Last Encounter",
-      "url": "https://open.spotify.com/track/3cKyBigEDROC8U1QrY921a"
+      "duration_ms": 159929,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl"
     },
     {
       "added_at": "2026-05-29 04:50:19",
@@ -121,6 +217,22 @@
       "url": "https://open.spotify.com/track/1d4qHRx9qXwWIW09AUiLIg"
     },
     {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "Who's the Clown?",
+        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
+    },
+    {
       "added_at": "2026-05-01 04:52:22",
       "album": {
         "name": "Songs I Wrote Since She Left",
@@ -135,6 +247,22 @@
       "duration_ms": 205225,
       "name": "Piece of Your Love",
       "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
+    },
+    {
+      "added_at": "2026-06-12 04:17:50",
+      "album": {
+        "name": "Songs for Young Lovers",
+        "url": "https://open.spotify.com/album/0S3g6dYqQPOXNb4nv3gUOi"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Oh!",
+      "url": "https://open.spotify.com/track/64NNkNa8HLtOK2CGsOmY5Q"
     },
     {
       "added_at": "2026-05-01 04:52:22",
@@ -169,6 +297,22 @@
       "url": "https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA"
     },
     {
+      "added_at": "2026-06-12 04:17:50",
+      "album": {
+        "name": "I Loved, I Lost",
+        "url": "https://open.spotify.com/album/3UaH8kk0xAAhT9OryV7P5e"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "I Loved, I Lost",
+      "url": "https://open.spotify.com/track/0ISDkwsAWGoVGBq5ZkMPlN"
+    },
+    {
       "added_at": "2026-05-29 04:50:19",
       "album": {
         "name": "Fallen Angel",
@@ -199,22 +343,6 @@
       "duration_ms": 179932,
       "name": "Love\u2019s a Gun",
       "url": "https://open.spotify.com/track/7vqgKci5WfCnk0iUrNN9op"
-    },
-    {
-      "added_at": "2026-05-22 04:55:57",
-      "album": {
-        "name": "Who's the Clown?",
-        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 170320,
-      "name": "Sue me",
-      "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
     },
     {
       "added_at": "2026-05-29 04:50:19",
@@ -345,6 +473,22 @@
       "url": "https://open.spotify.com/track/13cZ4NgkcjBeJ63YoWvNHI"
     },
     {
+      "added_at": "2026-06-12 04:17:50",
+      "album": {
+        "name": "spotless state of mind",
+        "url": "https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT"
+      },
+      "artists": [
+        {
+          "name": "Fia James",
+          "url": "https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R"
+        }
+      ],
+      "duration_ms": 159411,
+      "name": "spotless state of mind",
+      "url": "https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf"
+    },
+    {
       "added_at": "2026-05-29 04:50:19",
       "album": {
         "name": "I Just Wanna Be Loved",
@@ -375,22 +519,6 @@
       "duration_ms": 155729,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/5qsLQvSvlCfLLU9TubhllM"
-    },
-    {
-      "added_at": "2026-05-22 04:55:57",
-      "album": {
-        "name": "Debbie Don't Cry",
-        "url": "https://open.spotify.com/album/0KAcTbk2NXPCztnWzUkYGT"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 180128,
-      "name": "Debbie Don't Cry",
-      "url": "https://open.spotify.com/track/4yO2xMadKaCLKlP6gT4gVi"
     },
     {
       "added_at": "2025-08-15 04:00:30",
@@ -1025,22 +1153,6 @@
       "url": "https://open.spotify.com/track/4Py3mpufTWKXpkhy2A17vL"
     },
     {
-      "added_at": "2026-04-17 04:11:42",
-      "album": {
-        "name": "The Mental Game",
-        "url": "https://open.spotify.com/album/23JoUZTfJicANFn2EK6dfU"
-      },
-      "artists": [
-        {
-          "name": "ALZZY",
-          "url": "https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7"
-        }
-      ],
-      "duration_ms": 152437,
-      "name": "One Step",
-      "url": "https://open.spotify.com/track/6O9GCOLvN9XXdeMJDTZTYg"
-    },
-    {
       "added_at": "2026-04-03 04:03:41",
       "album": {
         "name": "TIME",
@@ -1137,22 +1249,6 @@
       "url": "https://open.spotify.com/track/0fVrUsHbkqg7ISVKufGoLm"
     },
     {
-      "added_at": "2026-04-03 04:03:41",
-      "album": {
-        "name": "American Wedding",
-        "url": "https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 191943,
-      "name": "American Wedding",
-      "url": "https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942"
-    },
-    {
       "added_at": "2026-03-27 05:09:53",
       "album": {
         "name": "Waiting For The Dawn",
@@ -1215,22 +1311,6 @@
       "duration_ms": 169214,
       "name": "House Tour",
       "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
-    },
-    {
-      "added_at": "2026-03-20 04:00:49",
-      "album": {
-        "name": "I SEE STARS",
-        "url": "https://open.spotify.com/album/2SCOXLRicTMygItg8Ov5JP"
-      },
-      "artists": [
-        {
-          "name": "nicole han",
-          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
-        }
-      ],
-      "duration_ms": 168564,
-      "name": "I SEE STARS",
-      "url": "https://open.spotify.com/track/2MFWjDpYscQjEGa2wbq7F3"
     },
     {
       "added_at": "2026-03-13 04:00:49",
@@ -1365,70 +1445,6 @@
       "url": "https://open.spotify.com/track/3m4sLkrfjpobclYxcLBMei"
     },
     {
-      "added_at": "2026-02-27 05:00:35",
-      "album": {
-        "name": "the punisher",
-        "url": "https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 189107,
-      "name": "the punisher",
-      "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
-    },
-    {
-      "added_at": "2026-01-16 05:00:42",
-      "album": {
-        "name": "iloveitiloveitiloveit",
-        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
-    },
-    {
-      "added_at": "2026-03-27 05:09:53",
-      "album": {
-        "name": "Ask Me How I\u2019ve Been",
-        "url": "https://open.spotify.com/album/6FrJR357uhTSuFNJVaYo7b"
-      },
-      "artists": [
-        {
-          "name": "Anella",
-          "url": "https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN"
-        }
-      ],
-      "duration_ms": 162442,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2h9MUJQ62325E0G0dJs5Wl"
-    },
-    {
-      "added_at": "2026-02-20 05:20:43",
-      "album": {
-        "name": "Stupid Bitches",
-        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Stupid Bitches",
-      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
-    },
-    {
       "added_at": "2026-03-13 04:00:49",
       "album": {
         "name": "Sucker",
@@ -1475,22 +1491,6 @@
       "duration_ms": 201666,
       "name": "Silver Bullet",
       "url": "https://open.spotify.com/track/5kePuQb32DnG04KanvphDW"
-    },
-    {
-      "added_at": "2026-01-30 05:00:51",
-      "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 263228,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
     },
     {
       "added_at": "2026-02-13 20:08:25",

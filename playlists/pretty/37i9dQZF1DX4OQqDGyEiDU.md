@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > Explore the current wave of VOCALOID culture\. Cover: 32ki
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,517 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,525 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 47 | [きゅうくらりん](https://open.spotify.com/track/56xCsaFsih5swf7IZXPYzU) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [きゅうくらりん](https://open.spotify.com/album/5sFoyRdTiMJ7rpIlgRUsm9) | 3:37 |
 | 48 | [オーバーライド](https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp) | [Yoshida Yasei](https://open.spotify.com/artist/2beGqnoMiYHPQJSES6M8A5) | [オーバーライド](https://open.spotify.com/album/0mE0cdQT55qeKHNuXy1iGn) | 2:18 |
 | 49 | [ロウワー](https://open.spotify.com/track/3eIGW5DUVP5zkGFXZSZQ6o) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [ロウワー](https://open.spotify.com/album/47wjnpsptGxku8RY0i8Gup) | 3:50 |
-| 50 | [混沌ブギ](https://open.spotify.com/track/5zc1HxKqQjGf9j46p1JM5P) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [混沌ブギ](https://open.spotify.com/album/7ooHY1EZPOEZSq3oNWXXUQ) | 2:34 |
+| 50 | [QUEEN](https://open.spotify.com/track/4KXEPamxxfzDLG7Qv1eS4j) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/2AmHDRUOPKyrmVNZY8hyNq) | 2:21 |
 
 Snapshot ID: `AAAAAGmUDaSRxxNcxXSTcg8DuJtiV0kM`

@@ -1,13 +1,105 @@
 {
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\udfd4\ufe0f featuring What So Not & Alina Pash",
-  "num_followers": 844362,
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\uddeb\ud83c\uddf7 featuring Jersey",
+  "num_followers": 844347,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEpJcKH0ycais66CCvFVqmg9K33H",
+  "snapshot_id": "AAAAAD2HiIi72YfIoYdyaRDjCQhDha2V",
   "tracks": [
+    {
+      "added_at": "2026-06-12 15:55:15",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/5Temir79WPxflPU00Tv4Qp"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2yNe0KpyIimbKYeIhWrdKF"
+    },
+    {
+      "added_at": "2026-05-08 04:04:13",
+      "album": {
+        "name": "\"Not Found\" (EP)",
+        "url": "https://open.spotify.com/album/2hHrUGNQ13JEq6qxfb8QPw"
+      },
+      "artists": [
+        {
+          "name": "eric404",
+          "url": "https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL"
+        }
+      ],
+      "duration_ms": 188374,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT"
+    },
+    {
+      "added_at": "2026-05-01 04:02:39",
+      "album": {
+        "name": "Gloss (feat. y3kfae)",
+        "url": "https://open.spotify.com/album/1oJVbraMcDsSslBon72fUP"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "y3kfae",
+          "url": "https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP"
+        }
+      ],
+      "duration_ms": 112325,
+      "name": "Gloss (feat. y3kfae)",
+      "url": "https://open.spotify.com/track/6Q7WM5xVcgXIy9qd41EqyZ"
+    },
+    {
+      "added_at": "2026-06-12 15:55:15",
+      "album": {
+        "name": "thumbs",
+        "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "thumbs",
+      "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
+    },
+    {
+      "added_at": "2026-06-12 15:55:15",
+      "album": {
+        "name": "Long Goodbye",
+        "url": "https://open.spotify.com/album/2nMTpO7M30ejb2XkIWotGX"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 214222,
+      "name": "Long Goodbye",
+      "url": "https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t"
+    },
     {
       "added_at": "2026-05-29 04:02:39",
       "album": {
@@ -27,38 +119,6 @@
       "duration_ms": 182450,
       "name": "Everest",
       "url": "https://open.spotify.com/track/0L9hLpaILakNHtwvgNeMjA"
-    },
-    {
-      "added_at": "2026-05-08 04:04:13",
-      "album": {
-        "name": "\"Not Found\" (EP)",
-        "url": "https://open.spotify.com/album/2hHrUGNQ13JEq6qxfb8QPw"
-      },
-      "artists": [
-        {
-          "name": "eric404",
-          "url": "https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL"
-        }
-      ],
-      "duration_ms": 188374,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT"
-    },
-    {
-      "added_at": "2026-05-15 04:02:26",
-      "album": {
-        "name": "Himalaya",
-        "url": "https://open.spotify.com/album/3F1BzuzhZ5tfPCJuR4O15K"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        }
-      ],
-      "duration_ms": 195188,
-      "name": "Himalaya",
-      "url": "https://open.spotify.com/track/6mRdQVSDsKkMm9qGPRstyR"
     },
     {
       "added_at": "2026-05-22 04:01:03",
@@ -109,24 +169,24 @@
       "url": "https://open.spotify.com/track/6VixlHKJOoG9d8RjxmzIWo"
     },
     {
-      "added_at": "2026-05-01 04:02:39",
+      "added_at": "2026-06-12 15:55:15",
       "album": {
-        "name": "Gloss (feat. y3kfae)",
-        "url": "https://open.spotify.com/album/1oJVbraMcDsSslBon72fUP"
+        "name": "LIVE FAST",
+        "url": "https://open.spotify.com/album/35J4iFfqzJ8qOqMj2bGllH"
       },
       "artists": [
         {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
         },
         {
-          "name": "y3kfae",
-          "url": "https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP"
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
         }
       ],
-      "duration_ms": 112325,
-      "name": "Gloss (feat. y3kfae)",
-      "url": "https://open.spotify.com/track/6Q7WM5xVcgXIy9qd41EqyZ"
+      "duration_ms": 240000,
+      "name": "Now That I'm Falling",
+      "url": "https://open.spotify.com/track/6jXKPAGT30YT1E4ovVdHOH"
     },
     {
       "added_at": "2026-05-22 04:01:03",
@@ -163,6 +223,34 @@
       "duration_ms": 235826,
       "name": "RINGING IN MY HEAD",
       "url": "https://open.spotify.com/track/2rlcmaj7JHt6Oz9ewQGoSt"
+    },
+    {
+      "added_at": "2026-06-12 16:18:52",
+      "album": {
+        "name": "TRUE LOVE IN A MADE UP WORLD",
+        "url": "https://open.spotify.com/album/4VFU51NEgeT5It9ocFdsgJ"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "duration_ms": 166478,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/72rArSfKMPrcQeGlBRfOrs"
     },
     {
       "added_at": "2026-05-29 04:02:39",
@@ -245,6 +333,30 @@
       "url": "https://open.spotify.com/track/1quse5mAKsNcrilBTJosG3"
     },
     {
+      "added_at": "2026-06-12 15:55:15",
+      "album": {
+        "name": "Little Bitta This",
+        "url": "https://open.spotify.com/album/3sTmICLlDJWDkXjHnQDuq1"
+      },
+      "artists": [
+        {
+          "name": "Neumonic",
+          "url": "https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52"
+        },
+        {
+          "name": "Morty",
+          "url": "https://open.spotify.com/artist/4DKdpWEp7Np8enpUyOdgLD"
+        },
+        {
+          "name": "Melvyn",
+          "url": "https://open.spotify.com/artist/0KdHrIqg805HwRwdxTMhjK"
+        }
+      ],
+      "duration_ms": 204315,
+      "name": "Little Bitta This",
+      "url": "https://open.spotify.com/track/103VBFW68H11jOksxaI73S"
+    },
+    {
       "added_at": "2026-04-24 04:02:20",
       "album": {
         "name": "car crash",
@@ -295,6 +407,22 @@
       "duration_ms": 222608,
       "name": "Blame It",
       "url": "https://open.spotify.com/track/5LB3N8fVFSH8IaXn7WSLPA"
+    },
+    {
+      "added_at": "2026-06-12 16:18:52",
+      "album": {
+        "name": "POCKETCORE",
+        "url": "https://open.spotify.com/album/5B6TBGhUvHP1ablDv1cYLf"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "duration_ms": 189850,
+      "name": "POCKETCORE",
+      "url": "https://open.spotify.com/track/6CkM4sm2m29cq5rBel27F2"
     },
     {
       "added_at": "2026-05-29 04:02:39",
@@ -607,6 +735,22 @@
     {
       "added_at": "2026-05-15 04:02:26",
       "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/3F1BzuzhZ5tfPCJuR4O15K"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 195188,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/6mRdQVSDsKkMm9qGPRstyR"
+    },
+    {
+      "added_at": "2026-05-15 04:02:26",
+      "album": {
         "name": "SPECTRUM",
         "url": "https://open.spotify.com/album/0efHSSeL9EvkNEAYwLW00N"
       },
@@ -787,22 +931,6 @@
       "duration_ms": 204000,
       "name": "BEAUTIFUL COLORS",
       "url": "https://open.spotify.com/track/7dcWYju9Kv7WpdNx3oTi8L"
-    },
-    {
-      "added_at": "2026-05-08 04:04:13",
-      "album": {
-        "name": "CINNAMON",
-        "url": "https://open.spotify.com/album/6ZrFXTZvm9OkFXO603Bxb3"
-      },
-      "artists": [
-        {
-          "name": "Marian Hill",
-          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
-        }
-      ],
-      "duration_ms": 170704,
-      "name": "CINNAMON",
-      "url": "https://open.spotify.com/track/1kSt8cCMkpvYJAlLCSl5Fh"
     },
     {
       "added_at": "2026-04-10 04:03:08",
@@ -1005,26 +1133,6 @@
       "url": "https://open.spotify.com/track/5xiyaIuaorB1QzpemFKvD1"
     },
     {
-      "added_at": "2026-05-01 04:02:39",
-      "album": {
-        "name": "close your eyes",
-        "url": "https://open.spotify.com/album/1YuOYJ7WHrrX889nLy70Xb"
-      },
-      "artists": [
-        {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        },
-        {
-          "name": "Jazara",
-          "url": "https://open.spotify.com/artist/7didXxc5oXHa2VLDXPxNag"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "close your eyes",
-      "url": "https://open.spotify.com/track/0GY3VN7i3hElhqhIqSHKQi"
-    },
-    {
       "added_at": "2026-01-16 19:10:38",
       "album": {
         "name": "Helium",
@@ -1139,46 +1247,6 @@
       "duration_ms": 207428,
       "name": "Left Right Center",
       "url": "https://open.spotify.com/track/5mYbB3uF2Yja0CDFj3umYD"
-    },
-    {
-      "added_at": "2026-04-24 04:02:20",
-      "album": {
-        "name": "With You, Friends",
-        "url": "https://open.spotify.com/album/3c6b0RnDRuj9bXsmQpLUYz"
-      },
-      "artists": [
-        {
-          "name": "Polezsky",
-          "url": "https://open.spotify.com/artist/7qbUBlb8FSSWMqypKleqAL"
-        },
-        {
-          "name": "fenoaltea",
-          "url": "https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L"
-        }
-      ],
-      "duration_ms": 196260,
-      "name": "Won't Let Go",
-      "url": "https://open.spotify.com/track/4ALXYO8paxdBuyW27bk0nt"
-    },
-    {
-      "added_at": "2026-04-17 04:04:00",
-      "album": {
-        "name": "EIGHT",
-        "url": "https://open.spotify.com/album/0RPquFmrpgt3KYLpQt1bYt"
-      },
-      "artists": [
-        {
-          "name": "Hermitude",
-          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
-        },
-        {
-          "name": "IsGwan",
-          "url": "https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz"
-        }
-      ],
-      "duration_ms": 263887,
-      "name": "I Want Ya",
-      "url": "https://open.spotify.com/track/46YPT8AJc1OTx8RxD0jJyQ"
     },
     {
       "added_at": "2026-04-10 04:03:08",
@@ -1497,22 +1565,6 @@
       "url": "https://open.spotify.com/track/7Bt0qvHolOalk1PPy4LH88"
     },
     {
-      "added_at": "2026-03-20 15:46:35",
-      "album": {
-        "name": "Ima go down",
-        "url": "https://open.spotify.com/album/6gYE1c7bHBjlWIKmvBCVo5"
-      },
-      "artists": [
-        {
-          "name": "Fifi",
-          "url": "https://open.spotify.com/artist/0G31cfQ16TnAGyi5AZG5qT"
-        }
-      ],
-      "duration_ms": 165590,
-      "name": "Ima go down",
-      "url": "https://open.spotify.com/track/541YFrrcNpsGHVreeXla9V"
-    },
-    {
       "added_at": "2026-01-16 19:10:38",
       "album": {
         "name": "The Days (NOTION Remix)",
@@ -1751,42 +1803,6 @@
       "duration_ms": 143038,
       "name": "HOLD ON",
       "url": "https://open.spotify.com/track/2zRHL8LMAENGLez8HoJzrU"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
-        "name": "I Wanna Dance",
-        "url": "https://open.spotify.com/album/7q650M7HtuGkqmVsvucNDg"
-      },
-      "artists": [
-        {
-          "name": "Alpha Moses",
-          "url": "https://open.spotify.com/artist/7iGsQUIjjCDNivrVF5XgzN"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "I Wanna Dance",
-      "url": "https://open.spotify.com/track/4h6pqrJOddCuUzethG6MxJ"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
-        "name": "UNCONDITIONAL",
-        "url": "https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        },
-        {
-          "name": "nate sib",
-          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
-        }
-      ],
-      "duration_ms": 181294,
-      "name": "UNCONDITIONAL",
-      "url": "https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl"
     },
     {
       "added_at": "2026-02-06 05:00:48",

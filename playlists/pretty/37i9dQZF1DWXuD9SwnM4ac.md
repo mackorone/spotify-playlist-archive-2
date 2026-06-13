@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: hanbee
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,293 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,306 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 0:00 |
+| 1 | [East Village](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 3:31 |
 | 2 | [call me yours](https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [call me yours](https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz) | 3:24 |
 | 3 | [the feeling](https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [the feeling](https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u) | 4:35 |
 | 4 | [Better Man](https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc) | 3:03 |

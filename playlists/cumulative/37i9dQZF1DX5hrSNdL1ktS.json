@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Alnz G en cover",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 \u00c1guila DS en cover",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -2508,7 +2508,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 148283,
       "name": "Bichote",
       "url": "https://open.spotify.com/track/12gwZBAujhpMx5KTWWvAaA"
@@ -5960,7 +5960,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 199845,
       "name": "DICE QUE ME AMA",
       "url": "https://open.spotify.com/track/7tgnIp2bxq0GUD9L2RyKQx"
@@ -6236,7 +6236,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 168909,
       "name": "Diva Virtual",
       "url": "https://open.spotify.com/track/58GWZ8YCkDvsHyiZDVXSz2"
@@ -8063,6 +8063,28 @@
     },
     {
       "album": {
+        "name": "Fototeta",
+        "url": "https://open.spotify.com/album/0tnYy4At8hGlgTMZUbTGVB"
+      },
+      "artists": [
+        {
+          "name": "Aguila DS",
+          "url": "https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv"
+        },
+        {
+          "name": "Alexito Mix",
+          "url": "https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130399,
+      "name": "Fototeta",
+      "url": "https://open.spotify.com/track/2ZpihxrDpWHnJCR8dmKeBZ"
+    },
+    {
+      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -9138,6 +9160,40 @@
       "duration_ms": 180696,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/6viV9n8f7e3peUY3od4jyj"
+    },
+    {
+      "album": {
+        "name": "Holy G4ng Vol 1 (feat. El Chak4 y El Mirand4)",
+        "url": "https://open.spotify.com/album/2F3b2oGaejwcB2HW7soCJq"
+      },
+      "artists": [
+        {
+          "name": "Holy G4ng",
+          "url": "https://open.spotify.com/artist/5JSGXgnOJw9AA3sMzs3x4d"
+        },
+        {
+          "name": "Agua Sanchez",
+          "url": "https://open.spotify.com/artist/65qwugHO6RwQzQJjtcJqt3"
+        },
+        {
+          "name": "Yerard MG",
+          "url": "https://open.spotify.com/artist/6jBC4vWnFgcZ5Lx2v2bkFC"
+        },
+        {
+          "name": "El Chak4",
+          "url": "https://open.spotify.com/artist/4LHumZv06L3qRfEufPTBx7"
+        },
+        {
+          "name": "El Mirand4",
+          "url": "https://open.spotify.com/artist/1Ln88It6wXPmztnD0LxayO"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191020,
+      "name": "Holy G4ng Vol 1 (feat. El Chak4 y El Mirand4)",
+      "url": "https://open.spotify.com/track/3f5M168NRhqVIXXg3hNr9g"
     },
     {
       "album": {
@@ -11492,6 +11548,36 @@
       "duration_ms": 181137,
       "name": "Linea Del Perreo",
       "url": "https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS"
+    },
+    {
+      "album": {
+        "name": "Llamame",
+        "url": "https://open.spotify.com/album/38AKitSH9krwpqP9db32LK"
+      },
+      "artists": [
+        {
+          "name": "ladiferencia2006",
+          "url": "https://open.spotify.com/artist/2iu7JdnEUFlgJn1GKbbpyp"
+        },
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Novato El Flow",
+          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
+        },
+        {
+          "name": "QueHicisteBella",
+          "url": "https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199518,
+      "name": "Llamame",
+      "url": "https://open.spotify.com/track/58Lm23WIe0uE7KucPoLWQH"
     },
     {
       "album": {
@@ -17590,6 +17676,28 @@
       "duration_ms": 147228,
       "name": "PLEBITA",
       "url": "https://open.spotify.com/track/2T27yDWUrmTBEF08PH8bFs"
+    },
+    {
+      "album": {
+        "name": "PLO PLO",
+        "url": "https://open.spotify.com/album/5TTxRgyrLUjShv6V8gi08a"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202720,
+      "name": "PLO PLO",
+      "url": "https://open.spotify.com/track/0bXXvhAhIVZ85wCd8aKqZa"
     },
     {
       "album": {
@@ -24854,7 +24962,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 172800,
       "name": "\u00d1era Fina",
       "url": "https://open.spotify.com/track/1QcjTvutacDnZjwVVe4G4p"

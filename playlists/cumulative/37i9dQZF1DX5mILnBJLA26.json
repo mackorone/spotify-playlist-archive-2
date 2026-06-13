@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves right now. Mixes available on Premium. Cover: Sam Deep",
+  "description": "The biggest Amapiano singles making waves right now. Mixes available on Premium. Cover: TxC",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -24785,6 +24785,40 @@
     },
     {
       "album": {
+        "name": "Straata",
+        "url": "https://open.spotify.com/album/0AgS2PBZhyGYy0V1IoelIK"
+      },
+      "artists": [
+        {
+          "name": "TxC",
+          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        },
+        {
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310088,
+      "name": "Mude Mude",
+      "url": "https://open.spotify.com/track/1cm7fPLAmPqI0zNimGbgbG"
+    },
+    {
+      "album": {
         "name": "Mumbles",
         "url": "https://open.spotify.com/album/1EpKcBvCIxXduRSPkieIY8"
       },
@@ -28278,7 +28312,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 390796,
       "name": "Ntwana Yam' (feat. Madumane, Nvcho & JNR SA)",
       "url": "https://open.spotify.com/track/6es1mwWEhXNNcvy2Gulpb5"

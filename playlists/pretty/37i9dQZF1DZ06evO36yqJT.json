@@ -1,12 +1,12 @@
 {
   "description": "This is Shirley Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 6031,
+  "num_followers": 6029,
   "original_name": "This Is Shirley Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAD9/bsv95MgisGkeolpyWTV",
+  "snapshot_id": "ain6gAAAAADBRjclU4PpTbPr8IlK191r",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harvest Collection: Shirley Caesar",
-        "url": "https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I"
+        "name": "Treasures",
+        "url": "https://open.spotify.com/album/47Sgcm1KIgscVLs4TgNJPh"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 623976,
-      "name": "Don't Drive Your Mama Away",
-      "url": "https://open.spotify.com/track/17Re3BFUZRroR1ItmvBSvi"
+      "duration_ms": 238391,
+      "name": "King Heroin",
+      "url": "https://open.spotify.com/track/5eHKFi9trSitx9n8TJcF5G"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Treasures",
-        "url": "https://open.spotify.com/album/47Sgcm1KIgscVLs4TgNJPh"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 238391,
-      "name": "King Heroin",
-      "url": "https://open.spotify.com/track/5eHKFi9trSitx9n8TJcF5G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Miracle In Harlem",
         "url": "https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 291586,
       "name": "Jesus Is Everywhere",
       "url": "https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harvest Collection: Shirley Caesar",
+        "url": "https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 623976,
+      "name": "Don't Drive Your Mama Away",
+      "url": "https://open.spotify.com/track/17Re3BFUZRroR1ItmvBSvi"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shirley Caesar: Her Very Best",
-        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 232626,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/69m7r5zILyhcRYxvLDTcsl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Remember Mama",
         "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 381933,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/0ZvtrA7yHqvOrkVcuAUXlV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "The Lord Will Make a Way",
+      "url": "https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2"
     },
     {
       "added_at": null,
@@ -787,38 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shirley Caesar: Her Very Best",
-        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "The Lord Will Make a Way",
-      "url": "https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harvest Collection: Shirley Caesar",
-        "url": "https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 306071,
-      "name": "The World Didn't Give It to Me",
-      "url": "https://open.spotify.com/track/1I341GhDAnOmIa3NalRlff"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Remember Mama",
         "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
       },
@@ -835,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 232626,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/69m7r5zILyhcRYxvLDTcsl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Can Make It",
         "url": "https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 365866,
       "name": "Armor of God",
       "url": "https://open.spotify.com/track/35M9UvbyULULR64hWIshXL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harvest Collection: Shirley Caesar",
+        "url": "https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 306071,
+      "name": "The World Didn't Give It to Me",
+      "url": "https://open.spotify.com/track/1I341GhDAnOmIa3NalRlff"
     }
   ],
   "unique_name": "This Is Shirley Caesar",

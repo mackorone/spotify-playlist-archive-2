@@ -3885,6 +3885,24 @@
     },
     {
       "album": {
+        "name": "Homesick Wanderlust",
+        "url": "https://open.spotify.com/album/7jdMf27F3z4Xy59fQcwTTy"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270373,
+      "name": "HOMESICK WANDERLUST",
+      "url": "https://open.spotify.com/track/23hzufyU9ufwaFTobzcNzH"
+    },
+    {
+      "album": {
         "name": "CHAMPION",
         "url": "https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38"
       },

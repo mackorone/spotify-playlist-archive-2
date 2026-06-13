@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Deer Jade
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,530 likes - 85 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,545 likes - 85 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 8 | [What Is Luv](https://open.spotify.com/track/6cbUxwLzwFKxHRrkKocDno) | [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [What Is Luv](https://open.spotify.com/album/1NDF0g1a4mEtG5x9aLOBub) | 3:54 |
 | 9 | [Bounce](https://open.spotify.com/track/70q857tiye8tZ57Tau00jW) | [Clüb De Combat](https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw), [T\-Puse](https://open.spotify.com/artist/015GbNLBf6vKVstww5m8ch), [Oi](https://open.spotify.com/artist/1YnBIMhfm5E4tbpOHjB5Hr) | [Bounce](https://open.spotify.com/album/33mZtANyHQu7rdOlgwqpdy) | 3:26 |
 | 10 | [U Ain't Lyin'](https://open.spotify.com/track/2Jiax1WNF2PvupJP0Rn6EL) | [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [All Stars 10](https://open.spotify.com/album/4BgswkEYUQ1Cn7WVXbDwYi) | 3:35 |
-| 11 | [Livin' It Up \(feat\. Aaron Pfieffer\)](https://open.spotify.com/track/1HHKgaNHfXePWrd6e14evK) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm), [Ellia Jaya](https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO), [Wildish](https://open.spotify.com/artist/0umPozloZZGfMW300IjAmT), [Aaron Pfieffer](https://open.spotify.com/artist/0sMZEG1Qo121pdr6XPdzg4) | [Energy Crew Pt\. 1](https://open.spotify.com/album/3pDBOAKDjXCYjLswTu6vMe) | 3:27 |
+| 11 | [Livin' It Up \(feat\. Aaron Pfeiffer\)](https://open.spotify.com/track/1HHKgaNHfXePWrd6e14evK) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm), [Ellia Jaya](https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO), [Wildish](https://open.spotify.com/artist/4Ad0ieOmXbPzBc6zgtZPGp), [Aaron Pfeiffer](https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF) | [Energy Crew Pt\. 1](https://open.spotify.com/album/3pDBOAKDjXCYjLswTu6vMe) | 3:27 |
 | 12 | [No Rush](https://open.spotify.com/track/2uKhkl1MsalqznDRVkr94h) | [Serenay Alkan](https://open.spotify.com/artist/6WdkxINHLXRXzSfVmg9J8k) | [No Rush](https://open.spotify.com/album/0EZ6BMYuFUEDGQW0PF1xLr) | 5:05 |
 | 13 | [The Only One \- Radio Edit](https://open.spotify.com/track/3eEdbkAYt1mYKDoHYzc4Ig) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp), [Karl Williams](https://open.spotify.com/artist/6F7RlpNDeVEeiwt5EaA6fE) | [The Only One](https://open.spotify.com/album/1xj0AHYzc0hxmAKHW1vuHS) | 5:08 |
 | 14 | [Midnight Sky, Pt\. II](https://open.spotify.com/track/3q69fZ63R5n1bJ04DWId14) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Movement](https://open.spotify.com/album/7qlKLenLUmKX3RvooLdg8G) | 2:58 |

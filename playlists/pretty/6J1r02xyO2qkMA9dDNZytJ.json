@@ -1,13 +1,33 @@
 {
   "description": "All the biggest House, Tech House &amp; Techno anthems right now! Follow us on <a href=\"https://www.instagram.com/toolroomrecords/\">Instagram</a> ",
-  "num_followers": 63356,
+  "num_followers": 63361,
   "original_name": "Toolroom House 2026",
   "owner": {
     "name": "Toolroom Records",
     "url": "https://open.spotify.com/user/1135439236"
   },
-  "snapshot_id": "AAApPZkjE0gHkz9hxcv7bzCx6rvxPLtv",
+  "snapshot_id": "AAApTo00R/WIJCL0bHgWHl+wjeAO3HBf",
   "tracks": [
+    {
+      "added_at": "2026-06-12 09:37:21",
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/4UoL4onc23Fw6tAUOymPpW"
+      },
+      "artists": [
+        {
+          "name": "Illyus Barrientos ",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        },
+        {
+          "name": "MALU",
+          "url": "https://open.spotify.com/artist/5TJUKt4SuQ9QONkLH6BeQx"
+        }
+      ],
+      "duration_ms": 188726,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/5kYqVDT652SAo1jYhsYSu3"
+    },
     {
       "added_at": "2026-05-15 09:59:54",
       "album": {
@@ -91,6 +111,26 @@
       "duration_ms": 184850,
       "name": "I Rhyme Quick",
       "url": "https://open.spotify.com/track/6w9IOQBGiQOjv1J1YWhM3i"
+    },
+    {
+      "added_at": "2026-06-12 09:21:53",
+      "album": {
+        "name": "Burn Down The House",
+        "url": "https://open.spotify.com/album/49WexZzfScXGljkKUbpC2z"
+      },
+      "artists": [
+        {
+          "name": "Siege",
+          "url": "https://open.spotify.com/artist/3Y7jEjvZAosFRghJl62VNd"
+        },
+        {
+          "name": "David LeSal",
+          "url": "https://open.spotify.com/artist/1KB7YVSkBmXdNoOJEMkDAa"
+        }
+      ],
+      "duration_ms": 215415,
+      "name": "Burn Down The House",
+      "url": "https://open.spotify.com/track/3UAjb2l27IPhq6Zqo4LKHc"
     },
     {
       "added_at": "2026-06-05 09:39:41",
@@ -199,6 +239,22 @@
       "duration_ms": 177230,
       "name": "Pop That Cat",
       "url": "https://open.spotify.com/track/0P0Kb3YoN3zGFk3caJ7FUn"
+    },
+    {
+      "added_at": "2026-06-12 09:38:22",
+      "album": {
+        "name": "On My Body",
+        "url": "https://open.spotify.com/album/7EaVIwBjGzGRrIbniqsqc9"
+      },
+      "artists": [
+        {
+          "name": "Justin Irby",
+          "url": "https://open.spotify.com/artist/6LwxQLAxu5MAwFxkpcCl9j"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "On My Body",
+      "url": "https://open.spotify.com/track/0vQ4YFifqvMn2GNqOfmpGl"
     },
     {
       "added_at": "2026-05-15 10:08:38",
@@ -1795,178 +1851,6 @@
       "duration_ms": 173538,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/0y5ZwoP0GHc24ZoP5wUY8o"
-    },
-    {
-      "added_at": "2026-01-16 12:40:43",
-      "album": {
-        "name": "Magic Sax",
-        "url": "https://open.spotify.com/album/5ZjEfIozL50KwP7MhiH49C"
-      },
-      "artists": [
-        {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
-        },
-        {
-          "name": "Karretero",
-          "url": "https://open.spotify.com/artist/6X4uyE91lE67Fh0f1Jj10o"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Magic Sax",
-      "url": "https://open.spotify.com/track/1s4ESKBhuUbLIIfksvmGbd"
-    },
-    {
-      "added_at": "2026-01-09 17:03:25",
-      "album": {
-        "name": "Pinta La Cara",
-        "url": "https://open.spotify.com/album/7LScuw1NUZ4d98YS3TmeZI"
-      },
-      "artists": [
-        {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
-        },
-        {
-          "name": "Jay Rah",
-          "url": "https://open.spotify.com/artist/6gte1p7WrXAo0U4NWZ3nnv"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Pinta La Cara",
-      "url": "https://open.spotify.com/track/5AVI8ypG9UVCZVlCKYUsze"
-    },
-    {
-      "added_at": "2026-01-05 12:11:41",
-      "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/5DoiCmPGUBTIww7OPeJ1Ip"
-      },
-      "artists": [
-        {
-          "name": "Illyus Barrientos ",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
-        },
-        {
-          "name": "Aden R\u00e9mai",
-          "url": "https://open.spotify.com/artist/5U3Av6ofccuxkUHYtCbfXn"
-        }
-      ],
-      "duration_ms": 203032,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/3oABXSV2rnraVr5vhusLdG"
-    },
-    {
-      "added_at": "2025-12-12 11:33:33",
-      "album": {
-        "name": "Hoeish",
-        "url": "https://open.spotify.com/album/0YFlDQFEnomXChxub4eeT1"
-      },
-      "artists": [
-        {
-          "name": "Jewel Kid",
-          "url": "https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB"
-        },
-        {
-          "name": "Adrian Hour",
-          "url": "https://open.spotify.com/artist/6eBe6zD6bYfdYUjwB1YStj"
-        }
-      ],
-      "duration_ms": 183876,
-      "name": "Hoeish",
-      "url": "https://open.spotify.com/track/7tSCarWiqwqurm1qRbYrCG"
-    },
-    {
-      "added_at": "2025-12-05 11:50:59",
-      "album": {
-        "name": "U Get Me High",
-        "url": "https://open.spotify.com/album/2G8UQ9Hchzg8TEVM2OQrs5"
-      },
-      "artists": [
-        {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
-        }
-      ],
-      "duration_ms": 127786,
-      "name": "U Get Me High",
-      "url": "https://open.spotify.com/track/0elfyNmoMFBx9bAgS4Qogy"
-    },
-    {
-      "added_at": "2025-12-05 11:25:17",
-      "album": {
-        "name": "Over You",
-        "url": "https://open.spotify.com/album/1ybQKmpKRvTWEDzbWfKZQq"
-      },
-      "artists": [
-        {
-          "name": "CASSIMM",
-          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/7JXrx6UxFSs544gh4vxeW0"
-    },
-    {
-      "added_at": "2025-12-05 11:25:35",
-      "album": {
-        "name": "Make It High",
-        "url": "https://open.spotify.com/album/4D37BzeU2vovE8lMysEgiL"
-      },
-      "artists": [
-        {
-          "name": "Earth n Days",
-          "url": "https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Make It High",
-      "url": "https://open.spotify.com/track/6f8JRqGvXqqKqGcXC34uLN"
-    },
-    {
-      "added_at": "2025-12-05 11:40:13",
-      "album": {
-        "name": "UNCHANED VOL.1",
-        "url": "https://open.spotify.com/album/2JyDHxShDVPQnlLFCXcN8o"
-      },
-      "artists": [
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/2eDT61AnxqoMv63FoT9pEg"
-    },
-    {
-      "added_at": "2025-10-31 11:32:08",
-      "album": {
-        "name": "The Creator",
-        "url": "https://open.spotify.com/album/1lJC6cixcupxru1hkYlWDw"
-      },
-      "artists": [
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        },
-        {
-          "name": "Rue Jay",
-          "url": "https://open.spotify.com/artist/6PRSGfADyj9452tYywGxq7"
-        },
-        {
-          "name": "Reza",
-          "url": "https://open.spotify.com/artist/3GFz6XyCpW2NEdraRTrzCE"
-        },
-        {
-          "name": "Chuck Roberts",
-          "url": "https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "The Creator",
-      "url": "https://open.spotify.com/track/6XjvcbkrDu44h8U6vMGLSd"
     },
     {
       "added_at": "2025-07-04 15:03:53",

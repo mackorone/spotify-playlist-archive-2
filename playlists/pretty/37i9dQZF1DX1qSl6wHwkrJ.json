@@ -1,6 +1,6 @@
 {
   "description": "Christmas classics from your favourite Blues artists. ",
-  "num_followers": 25331,
+  "num_followers": 25330,
   "original_name": "Christmas Blues",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "A Christmas Celebration Of Hope",
-        "url": "https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 291440,
-      "name": "Please Come Home For Christmas",
-      "url": "https://open.spotify.com/track/13syy8gRhefDlNIBfe0ZKh"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 195746,
       "name": "Good Morning Blues",
       "url": "https://open.spotify.com/track/0AqIhsraOrAQn2KhlRidrW"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "A Christmas Celebration Of Hope",
+        "url": "https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "Please Come Home For Christmas",
+      "url": "https://open.spotify.com/track/13syy8gRhefDlNIBfe0ZKh"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "Vooey Vooey Vay!",
+        "url": "https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l"
+      },
+      "artists": [
+        {
+          "name": "Sugar Chile Robinson",
+          "url": "https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu"
+        }
+      ],
+      "duration_ms": 136960,
+      "name": "Christmas Boogie",
+      "url": "https://open.spotify.com/track/3tvmH5gJUY90CaCCA3kEv0"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "His Complete Aladdin Recordings",
         "url": "https://open.spotify.com/album/4CrJDn8HDnuIkCqfgUOmNh"
       },
@@ -291,18 +307,50 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Vooey Vooey Vay!",
-        "url": "https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l"
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2"
       },
       "artists": [
         {
-          "name": "Sugar Chile Robinson",
-          "url": "https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu"
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
         }
       ],
-      "duration_ms": 136960,
-      "name": "Christmas Boogie",
-      "url": "https://open.spotify.com/track/3tvmH5gJUY90CaCCA3kEv0"
+      "duration_ms": 212626,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "The Complete James Brown Christmas",
+        "url": "https://open.spotify.com/album/0c33HCppp4S1OxiImIY6FC"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 181053,
+      "name": "Santa Claus Go Straight To The Ghetto",
+      "url": "https://open.spotify.com/track/74v7A5HZcadRT9c5Dea6b6"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Death Might Be Your Santa Claus",
+        "url": "https://open.spotify.com/album/3SSDDxmyp0j5FZphUbCtaH"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/7h02TeaN25KwPrhkyaIbbg"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -343,54 +391,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "The Complete James Brown Christmas",
-        "url": "https://open.spotify.com/album/0c33HCppp4S1OxiImIY6FC"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 181053,
-      "name": "Santa Claus Go Straight To The Ghetto",
-      "url": "https://open.spotify.com/track/74v7A5HZcadRT9c5Dea6b6"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "Death Might Be Your Santa Claus",
-        "url": "https://open.spotify.com/album/3SSDDxmyp0j5FZphUbCtaH"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "Santa",
-      "url": "https://open.spotify.com/track/7h02TeaN25KwPrhkyaIbbg"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Southern Rock Christmas",
         "url": "https://open.spotify.com/album/48G9jrvpW5HUuDlm0oRYjO"
       },
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Little River EP",
-        "url": "https://open.spotify.com/album/2AHIk4wV03k832bCuydIOX"
-      },
-      "artists": [
-        {
-          "name": "Mickey Jupp",
-          "url": "https://open.spotify.com/artist/51rvBqpLHpqtbuaIrs4hAT"
-        }
-      ],
-      "duration_ms": 184262,
-      "name": "Christmas Card Blues",
-      "url": "https://open.spotify.com/track/4IbVYsXSPIpxJBGcfOyHxI"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Merry Christmas Baby / Sleigh Ride",
         "url": "https://open.spotify.com/album/0FaHv9Z81MFmoo8MxW1yPW"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Presenting The Moonglows",
-        "url": "https://open.spotify.com/album/1mP0kFIDxcbuXnPhTPCo7v"
+        "name": "Little River EP",
+        "url": "https://open.spotify.com/album/2AHIk4wV03k832bCuydIOX"
       },
       "artists": [
         {
-          "name": "The Moonglows",
-          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+          "name": "Mickey Jupp",
+          "url": "https://open.spotify.com/artist/51rvBqpLHpqtbuaIrs4hAT"
         }
       ],
-      "duration_ms": 145773,
-      "name": "Hey Santa Claus",
-      "url": "https://open.spotify.com/track/63RfLcMM3jf3HjmR2FVTTf"
+      "duration_ms": 184262,
+      "name": "Christmas Card Blues",
+      "url": "https://open.spotify.com/track/4IbVYsXSPIpxJBGcfOyHxI"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -491,6 +475,22 @@
       "duration_ms": 320053,
       "name": "One Day Till Christmas",
       "url": "https://open.spotify.com/track/4lcYwGFhEijTzLREKZ2e9e"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Presenting The Moonglows",
+        "url": "https://open.spotify.com/album/1mP0kFIDxcbuXnPhTPCo7v"
+      },
+      "artists": [
+        {
+          "name": "The Moonglows",
+          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+        }
+      ],
+      "duration_ms": 145773,
+      "name": "Hey Santa Claus",
+      "url": "https://open.spotify.com/track/63RfLcMM3jf3HjmR2FVTTf"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Merry Blue Christmas",
-        "url": "https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Williams",
-          "url": "https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo"
-        }
-      ],
-      "duration_ms": 130532,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/1ZAnNXdkAW8S8Js8xFJaQD"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "The 30 Most Unusual Christmas Songs",
         "url": "https://open.spotify.com/album/5klR7lb2L9mAyEInR6LtqK"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 124000,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/2QQZG6E5hulmmkSnfJVwah"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Merry Blue Christmas",
+        "url": "https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Williams",
+          "url": "https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo"
+        }
+      ],
+      "duration_ms": 130532,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/1ZAnNXdkAW8S8Js8xFJaQD"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -659,38 +659,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Christmas Blues: Savoy Jazz Christmas Album",
-        "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
-      },
-      "artists": [
-        {
-          "name": "Washboard Pete",
-          "url": "https://open.spotify.com/artist/2fzgcwDs0jDlP7022kTkL8"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/1Lg5CgB4Y3ECA1389Da6AC"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "Christmas in Your Arms",
-        "url": "https://open.spotify.com/album/0hWzZwvOFL3tmG3PY0999A"
-      },
-      "artists": [
-        {
-          "name": "Bad Temper Joe",
-          "url": "https://open.spotify.com/artist/5RaO6ECyM6IAfhFbyjuik6"
-        }
-      ],
-      "duration_ms": 163790,
-      "name": "Christmas in Your Arms",
-      "url": "https://open.spotify.com/track/0TGPlJMf1vafM8oNyKMML4"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "All I'm Gettin' for Christmas is the Blues",
         "url": "https://open.spotify.com/album/4sy6uFKLkqjMJIHe36LGwQ"
       },
@@ -719,6 +687,38 @@
       "duration_ms": 156573,
       "name": "Mr. Santa's Boogie",
       "url": "https://open.spotify.com/track/7vKQknqsE3GGB3YER5HGKQ"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Christmas Blues: Savoy Jazz Christmas Album",
+        "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
+      },
+      "artists": [
+        {
+          "name": "Washboard Pete",
+          "url": "https://open.spotify.com/artist/2fzgcwDs0jDlP7022kTkL8"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/1Lg5CgB4Y3ECA1389Da6AC"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Christmas in Your Arms",
+        "url": "https://open.spotify.com/album/0hWzZwvOFL3tmG3PY0999A"
+      },
+      "artists": [
+        {
+          "name": "Bad Temper Joe",
+          "url": "https://open.spotify.com/artist/5RaO6ECyM6IAfhFbyjuik6"
+        }
+      ],
+      "duration_ms": 163790,
+      "name": "Christmas in Your Arms",
+      "url": "https://open.spotify.com/track/0TGPlJMf1vafM8oNyKMML4"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/4W32kJML1IfiPlSmAQ1hU8"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Happy New Year",
-      "url": "https://open.spotify.com/track/3jMryalIecyAt3f4PiCGtf"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Classics: 1949-1954",
         "url": "https://open.spotify.com/album/3jlhSl1o47UZ4Bdh7mIB0s"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 162226,
       "name": "Christmas Morning (10-29-52)",
       "url": "https://open.spotify.com/track/6Oyx0NuSzR6zzT8erMVZ8V"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4W32kJML1IfiPlSmAQ1hU8"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/3jMryalIecyAt3f4PiCGtf"
     },
     {
       "added_at": "2023-11-22 12:51:56",

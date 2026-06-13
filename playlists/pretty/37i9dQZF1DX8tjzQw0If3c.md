@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: quiet morning
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,460 likes - 46 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,459 likes - 46 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 5](https://open.spotify.com/track/2PWyhubh6VvSTlrw5w3m6t) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [under my skin](https://open.spotify.com/album/1OVLexXEgHSqEyJCfMsSLS) | 0:00 |
+| 1 | [under my skin](https://open.spotify.com/track/2PWyhubh6VvSTlrw5w3m6t) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [under my skin](https://open.spotify.com/album/1OVLexXEgHSqEyJCfMsSLS) | 2:46 |
 | 2 | [Play2TheWhistle](https://open.spotify.com/track/1RtY9R9KBqwDYGytgH7hQJ) | [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251), [MISTER TWO FIVE](https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o) | [Play2TheWhistle](https://open.spotify.com/album/2MkPNjFGKn6PTzAYCGGwK3) | 3:45 |
 | 3 | [i wish im alright（抒情 版）](https://open.spotify.com/track/5KGCSZJi0J7aDnScGWshwD) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [no time for sober](https://open.spotify.com/album/2eDbJ5LcvvwjnNQtUzdjjF) | 3:37 |
 | 4 | [Could've Been](https://open.spotify.com/track/5yy1SxsJf6OY3lbbR7h4ww) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Could've Been](https://open.spotify.com/album/3mYUUcwsOOzZjGvGonUukT) | 2:45 |

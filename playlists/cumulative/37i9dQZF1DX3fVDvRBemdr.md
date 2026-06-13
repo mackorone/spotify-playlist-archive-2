@@ -4,7 +4,7 @@
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Jeffrey Heesen
 
-694 songs - 1 day 9 hr 19 min
+695 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,7 @@
 | [Is Het Een Droom](https://open.spotify.com/track/6ui1EjGuf8QQPi6AUhI28e) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Is Het Een Droom](https://open.spotify.com/album/5MBUQmInGm8RCXa5ihoGKn) | 2:35 | 2025-07-10 | 2025-11-14 |
 | [Is Vanavond Voor Jou En Mij](https://open.spotify.com/track/2UYXNamrzkTIjUXQeH7BSv) | [Davey](https://open.spotify.com/artist/1GeR5RczSj43f2lHmmgS1v) | [Is Vanavond Voor Jou En Mij](https://open.spotify.com/album/0vAOp9SL2i9SRD87VjIFIs) | 3:05 | 2025-11-13 | 2026-03-20 |
 | [Italiaanse Meid](https://open.spotify.com/track/0ncncrEXDauS5zR0Uk5wG7) | [Danny van der Heijden](https://open.spotify.com/artist/0ciExUygv7H32DhCffCKbA) | [Italiaanse Meid](https://open.spotify.com/album/7fDHn04wbKBrjmpeMjhkl0) | 3:07 | 2025-03-20 | 2025-05-30 |
-| [Italiani](https://open.spotify.com/track/22ydZvCmXM32vaiJI5jN66) | [Jeffrey Leunenberg](https://open.spotify.com/artist/3ovpmWdzEO3rkAWdEanDht) | [Italiani](https://open.spotify.com/album/7EKE8BVRsZzzg3iDF7bqRD) | 2:51 | 2026-03-19 |  |
+| [Italiani](https://open.spotify.com/track/22ydZvCmXM32vaiJI5jN66) | [Jeffrey Leunenberg](https://open.spotify.com/artist/3ovpmWdzEO3rkAWdEanDht) | [Italiani](https://open.spotify.com/album/7EKE8BVRsZzzg3iDF7bqRD) | 2:51 | 2026-03-19 | 2026-06-13 |
 | [Ja Dat Is Mooi](https://open.spotify.com/track/1mymXqBh9m7FrRJWjNVSI6) | [Matthijs Koning](https://open.spotify.com/artist/6yaUUCx2XvvugnXs6h9oVV) | [Ja Dat Is Mooi](https://open.spotify.com/album/6ZWYhf8ihb6LM6lzs4k0re) | 2:55 | 2025-05-01 | 2025-07-04 |
 | [Ja Ik Wil](https://open.spotify.com/track/76yznMVcx5CevGyReKcfV5) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Ja Ik Wil](https://open.spotify.com/album/6QMxechafB9YJXI9Lc3a5l) | 2:58 | 2025-09-25 | 2026-01-15 |
 | [Jaimy](https://open.spotify.com/track/2nrBe1KzuR5M5KFv2NI70M) | [Andy Van der Leek](https://open.spotify.com/artist/7nCWWJ31tKrrzCfDbzKvqu) | [Jaimy](https://open.spotify.com/album/5KlSbTSWDtk6qLbEAHLdBI) | 2:52 | 2025-04-03 | 2025-06-20 |
@@ -386,6 +386,7 @@
 | [Kleine Meid](https://open.spotify.com/track/76FzoYmWYRX5e7NvYOLFai) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Kleine Meid](https://open.spotify.com/album/5DVSNlsQMv8pi5AGUaPQkd) | 3:31 | 2025-01-28 | 2025-04-18 |
 | [Kleine Vogel](https://open.spotify.com/track/48WJ59hCbP0PwhZVGgLoS3) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Kleine Vogel](https://open.spotify.com/album/3V0Fy4UKvz6PHsN68AVtaJ) | 3:04 | 2024-06-13 | 2024-09-13 |
 | [Kleine Wasjes, Snelle Wasjes](https://open.spotify.com/track/6OAdOFNze8XTDckoLu5vT5) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Kleine Wasjes, Snelle Wasjes](https://open.spotify.com/album/6xJd2kw2n7YmqgQ8TP1ZAu) | 2:19 | 2025-05-22 | 2025-09-19 |
+| [Klokkenluider](https://open.spotify.com/track/3QnZnBoMApl2GKCZWYtwmD) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Klokkenluider](https://open.spotify.com/album/7ngWdoTqXpc9EzXhsNwsPO) | 2:41 | 2026-06-12 |  |
 | [Knipperlicht](https://open.spotify.com/track/59Qfe03ojYDt8nhdBNDurQ) | [Danny Froger](https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy), [Mikki van Wijk](https://open.spotify.com/artist/3IyRx9pTYYkwVOzwg1M8wW) | [Knipperlicht](https://open.spotify.com/album/57XzIIzXiVkd752eZj2LIS) | 2:36 | 2026-06-04 |  |
 | [Koekoek](https://open.spotify.com/track/3oG4L8ahaZKHnSZZbAEIjT) | [John De Bever](https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p), [Wilfred Genee](https://open.spotify.com/artist/5oh8O9m6Cc8zFSq6udk6Hs) | [Koekoek](https://open.spotify.com/album/4jesaqifjQmG1diKzPiTZ0) | 2:29 | 2025-10-09 | 2026-02-20 |
 | [Kom Op En Zing Met Me Mee](https://open.spotify.com/track/1kZrr0uwYBuR7fdkTlocto) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Kom Op En Zing Met Me Mee](https://open.spotify.com/album/48cpiwZscMfRP07Tkp5MR6) | 3:00 | 2024-08-29 | 2025-02-21 |

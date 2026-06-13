@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Superlitio
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,928 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,924 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 5 | [Una Canción](https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:07 |
 | 6 | [No Más](https://open.spotify.com/track/3ObCX2lb4FlM1Rn9WUppst) | [Los De Adentro](https://open.spotify.com/artist/282UIRNs6aprjrs0ynDn6v) | [Volver Amar](https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW) | 3:15 |
 | 7 | [El Reflejo](https://open.spotify.com/track/1HcYDA5dwLeWHVTmNQf6XO) | [Ekhymosis](https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M) | [El Reflejo](https://open.spotify.com/album/6VawC8yDOjAfD168H2a3Vo) | 3:38 |
-| 8 | [Ojalá](https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ojalá](https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb) | 3:13 |
-| 9 | [Baracunatana](https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Lo Esencial](https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd) | 2:32 |
+| 8 | [Baracunatana](https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Lo Esencial](https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd) | 2:32 |
+| 9 | [Ojalá](https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ojalá](https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb) | 3:13 |
 | 10 | [Mi Mal Y Mi Bien](https://open.spotify.com/track/52OUKtvQoMi6Ih8W7oF4rc) | [The Hall Effect](https://open.spotify.com/artist/0HHtlGzwCgymgLzZZisV9e) | [Mi Mal Y Mi Bien](https://open.spotify.com/album/38MO92AEgN89ORci9FYeS2) | 4:10 |
 | 11 | [Ahora Me Cuesta](https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L) | [La Pestilencia](https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3) | [Productos Desaparecidos](https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG) | 3:45 |
 | 12 | [Punto Final](https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Castillos de Arena](https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB) | 3:16 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 23 | [Cielo](https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado, Pt\. 1](https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt) | 4:36 |
 | 24 | [El Viejo](https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 2:55 |
 | 25 | [El Tema de Amor Que Esperabas](https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Yumbotopía](https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1) | 2:53 |
-| 26 | [Maldito Futuro](https://open.spotify.com/track/3t6yyXyXXswGSNvumXYDnK) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Malhablado](https://open.spotify.com/album/0BEsicKeenBHuBAkF6iDsT) | 3:08 |
-| 27 | [Las Calles del Mundo](https://open.spotify.com/track/5n51OYaZgE3QS8PPO0p1zH) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Ciudad Faro](https://open.spotify.com/album/58sctZs8nWBBUJ8qY956Vk) | 3:35 |
+| 26 | [Las Calles del Mundo](https://open.spotify.com/track/5n51OYaZgE3QS8PPO0p1zH) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Ciudad Faro](https://open.spotify.com/album/58sctZs8nWBBUJ8qY956Vk) | 3:35 |
+| 27 | [Maldito Futuro](https://open.spotify.com/track/3t6yyXyXXswGSNvumXYDnK) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Malhablado](https://open.spotify.com/album/0BEsicKeenBHuBAkF6iDsT) | 3:08 |
 | 28 | [Ningún Lugar](https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr) | [Los Maricas](https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy) | [IV](https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP) | 2:27 |
 | 29 | [Te Valgo](https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Te Valgo](https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk) | 3:18 |
 | 30 | [Sirenas](https://open.spotify.com/track/1PkGzHg95qINSbYbsQWr3u) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Soles Negros](https://open.spotify.com/album/3ofTHUW3ZUlEMBx10gidAG) | 4:00 |
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 42 | [Hoy](https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t) | [Cielito Drive](https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY) | [Hoy](https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY) | 4:36 |
 | 43 | [Lockdownska](https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Lockdownska](https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P) | 3:39 |
 | 44 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 |
-| 45 | [Prende](https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Prende](https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG) | 3:17 |
-| 46 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 |
+| 45 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 |
+| 46 | [Prende](https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Prende](https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG) | 3:17 |
 | 47 | [Sed](https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Sed](https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn) | 4:59 |
 | 48 | [Estallados](https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Estallados](https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr) | 4:30 |
 | 49 | [INFECTOS](https://open.spotify.com/track/1qj8rfBVk1zIcM1Yq08agk) | [Perros de Reserva](https://open.spotify.com/artist/74jRYbi35m8O9hOKlGx0ba), [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [INFECTOS](https://open.spotify.com/album/7n0NxieCFnU2SkHVBiAlIr) | 2:54 |
-| 50 | [El Silencio](https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [El Silencio](https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE) | 5:40 |
-| 51 | [Dallas](https://open.spotify.com/track/5gWDL9ifXbf7InGMldaWOm) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Dallas](https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI) | 3:46 |
+| 50 | [Dallas](https://open.spotify.com/track/5gWDL9ifXbf7InGMldaWOm) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Dallas](https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI) | 3:46 |
+| 51 | [El Silencio](https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [El Silencio](https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE) | 5:40 |
 | 52 | [Todo Se Olvida](https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg) | [Arrabalero](https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj) | [Todo Se Olvida](https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU) | 4:32 |
 | 53 | [Madre Tierra](https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk), [Sebastián Panesso](https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf) | [Madre Tierra](https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF) | 3:32 |
 | 54 | [A](https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj) | [The Kitsch](https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2) | [Los Kitsch de Colombia Presentan: 1/3](https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ) | 2:35 |

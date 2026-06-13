@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 258479,
+  "num_followers": 258492,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-05-29 12:05:49",
       "album": {
-        "name": "End Of Summer",
-        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 432566,
-      "name": "End Of Summer",
-      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
-    },
-    {
-      "added_at": "2026-05-29 12:05:49",
-      "album": {
         "name": "Lost in translation...",
         "url": "https://open.spotify.com/album/5xeZbPlJA518IqmiziGjxN"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 210461,
       "name": "Lost in translation...",
       "url": "https://open.spotify.com/track/07GnVJ5t7lk8zckrY5zOUZ"
+    },
+    {
+      "added_at": "2026-05-29 12:05:49",
+      "album": {
+        "name": "End Of Summer",
+        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 432566,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
     },
     {
       "added_at": "2026-05-29 12:05:49",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-05-29 12:05:49",
       "album": {
-        "name": "Out Of My Body (feat. EJAE)",
-        "url": "https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "Out Of My Body (feat. EJAE)",
-      "url": "https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb"
-    },
-    {
-      "added_at": "2026-05-29 12:05:49",
-      "album": {
         "name": "Hide U",
         "url": "https://open.spotify.com/album/1M1V1AUFqCvUMqREoveuAG"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 228099,
       "name": "Hide U",
       "url": "https://open.spotify.com/track/4V5CI7i0zZJxXUgwzfjuDI"
+    },
+    {
+      "added_at": "2026-05-29 12:05:49",
+      "album": {
+        "name": "Out Of My Body (feat. EJAE)",
+        "url": "https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Out Of My Body (feat. EJAE)",
+      "url": "https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb"
     },
     {
       "added_at": "2026-05-29 12:05:49",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-05-29 12:05:49",
       "album": {
-        "name": "Keep Dancing",
-        "url": "https://open.spotify.com/album/7478dTxcx2Gg9zuoKLF3RG"
-      },
-      "artists": [
-        {
-          "name": "heylucas",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
-        },
-        {
-          "name": "Lily Denning",
-          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Keep Dancing",
-      "url": "https://open.spotify.com/track/0WYihY6WRZeHYixHV6cMSP"
-    },
-    {
-      "added_at": "2026-05-29 12:05:49",
-      "album": {
         "name": "Eusexua (Anyma Remix)",
         "url": "https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 198808,
       "name": "Eusexua - Anyma Remix",
       "url": "https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6"
+    },
+    {
+      "added_at": "2026-05-29 12:05:49",
+      "album": {
+        "name": "Keep Dancing",
+        "url": "https://open.spotify.com/album/7478dTxcx2Gg9zuoKLF3RG"
+      },
+      "artists": [
+        {
+          "name": "heylucas",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        },
+        {
+          "name": "Lily Denning",
+          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Keep Dancing",
+      "url": "https://open.spotify.com/track/0WYihY6WRZeHYixHV6cMSP"
     },
     {
       "added_at": "2026-05-29 12:05:49",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-05-29 12:05:49",
       "album": {
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-05-29 12:05:49",
+      "album": {
         "name": "Fast",
         "url": "https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 198688,
       "name": "Fast",
       "url": "https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I"
-    },
-    {
-      "added_at": "2026-05-29 12:05:49",
-      "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
     },
     {
       "added_at": "2026-05-29 12:05:49",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2026-05-29 12:05:49",
       "album": {
-        "name": "Wander",
-        "url": "https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM"
-      },
-      "artists": [
-        {
-          "name": "MXV",
-          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
-        },
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "Courtney Storm",
-          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Wander",
-      "url": "https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr"
-    },
-    {
-      "added_at": "2026-05-29 12:05:49",
-      "album": {
         "name": "Welcome To My World",
         "url": "https://open.spotify.com/album/0g85Ir9Nj7RWzQFJHU5cAe"
       },
@@ -1151,6 +1127,30 @@
       "duration_ms": 218617,
       "name": "Tales From Beyond",
       "url": "https://open.spotify.com/track/2PZdZJCcKJ82mXN90CGGz0"
+    },
+    {
+      "added_at": "2026-05-29 12:05:49",
+      "album": {
+        "name": "Wander",
+        "url": "https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM"
+      },
+      "artists": [
+        {
+          "name": "MXV",
+          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
+        },
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "duration_ms": 210967,
+      "name": "Wander",
+      "url": "https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr"
     },
     {
       "added_at": "2026-05-29 12:05:49",

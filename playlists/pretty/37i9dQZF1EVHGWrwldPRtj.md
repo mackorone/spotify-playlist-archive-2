@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 
 ### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIUtKBU0VH3EA>Benson Boone</a>, <a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>Drake</a>, <a href=spotify:playlist:37i9dQZF1EIUVhDkMc6n10>Kanye West</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIUtKBU0VH3EA>Benson Boone</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIVJqRUYjMtlQ>Ariana Grande</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
-| 2 | [Burning Bridges](https://open.spotify.com/track/1ijYk2EYwj0rGqYwtjiAUJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:45 |
-| 3 | [Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:57 |
+| 2 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
+| 3 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
 | 4 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
 | 5 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 6 | [これだけで十分なのに \- \(BASI REMIX\)](https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd) | [BASI](https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq) | [切愛](https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf) | 3:43 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 | 34 | [融解sink](https://open.spotify.com/track/1CC9gpmBhKRr9SzYEfStct) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:03 |
 | 35 | [Life Easy](https://open.spotify.com/track/2ODmHzrO4q7EmW3ZFv1wD3) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [Essence](https://open.spotify.com/album/1bWJDyJQDV7ArWzm9WXlVm) | 4:10 |
 | 36 | [Wonder Wall feat\. 5lack](https://open.spotify.com/track/02d5vi1oeKdFz66cN98DBb) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [The Sofakingdom](https://open.spotify.com/album/0q5w99KhPxOjtbWJx6LAfn) | 3:35 |
-| 37 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
-| 38 | [Older](https://open.spotify.com/track/0BCUve4b3KySD9Sk8CMZ2i) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [Balloons](https://open.spotify.com/album/09S5w5SKC7r0Mjewzmc0jX) | 3:20 |
+| 37 | [Older](https://open.spotify.com/track/0BCUve4b3KySD9Sk8CMZ2i) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [Balloons](https://open.spotify.com/album/09S5w5SKC7r0Mjewzmc0jX) | 3:20 |
+| 38 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
 | 39 | [水星 \(feat\. オノマトペ大臣\)](https://open.spotify.com/track/06JDsptZimkm2d09duPZsX) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [オノマトペ大臣](https://open.spotify.com/artist/575g2KDApbVOueuZbqtJPU) | [lost decade](https://open.spotify.com/album/4ZqAwRveLIxNvjkdDgFS7m) | 4:34 |
 | 40 | [Dejavu \(feat\. Yo\-Sea\)](https://open.spotify.com/track/58fzK4yx68kZvuDJr53cf3) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Dejavu \(feat\. Yo\-Sea\)](https://open.spotify.com/album/6do3QDAUGwOStxR9QZnwmi) | 3:42 |
 | 41 | [The Hardest Part](https://open.spotify.com/track/3cPoiK69oQ1SdbB2j2ulGm) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:56 |
 | 42 | [頬杖](https://open.spotify.com/track/3gsh51QCN9mpDVnxuY7g4Z) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Songs for the Cryptids](https://open.spotify.com/album/0fQZ2Vam7vMAvrGkPR7pxN) | 3:39 |
 | 43 | [忘れないで \(feat\. 田我流\)](https://open.spotify.com/track/0suhDxWCySBmnehAxiJkG7) | [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [忘れないで](https://open.spotify.com/album/0ZV4jEpUusHAAkCRnP4ljL) | 4:13 |
-| 44 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
-| 45 | [She Said \(Big Jet Plane\)](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [She Said \(Big Jet Plane\)](https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc) | 2:53 |
+| 44 | [She Said \(Big Jet Plane\)](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [She Said \(Big Jet Plane\)](https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc) | 2:53 |
+| 45 | [i love me](https://open.spotify.com/track/5VypooR1YLXiqFl6tgd7Y5) | [Joy Rhodes](https://open.spotify.com/artist/6VP8V2OMiwqTkLqEDObzrp) | [i love me](https://open.spotify.com/album/2sAQMMLntQGK8q7UKjrUrN) | 3:02 |
 | 46 | [Good Enough \(feat\. kiki vivi lily\)](https://open.spotify.com/track/7lMoBOkAkGiYvrdoOAvPNn) | [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Jasmine](https://open.spotify.com/album/6KNOWSz6PUmlPnz8ezAcLU) | 3:26 |
-| 47 | [i love me](https://open.spotify.com/track/5VypooR1YLXiqFl6tgd7Y5) | [Joy Rhodes](https://open.spotify.com/artist/6VP8V2OMiwqTkLqEDObzrp) | [i love me](https://open.spotify.com/album/2sAQMMLntQGK8q7UKjrUrN) | 3:02 |
-| 48 | [Tutto o Nada](https://open.spotify.com/track/5QtcghmkREVhNwOFjyOGFJ) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 2:37 |
-| 49 | [Soul](https://open.spotify.com/track/11UD9IOlsEbK4fUURUziTj) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 3:49 |
-| 50 | [Okay, Goodbye](https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 3:50 |
+| 47 | [Tutto o Nada](https://open.spotify.com/track/5QtcghmkREVhNwOFjyOGFJ) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 2:37 |
+| 48 | [Soul](https://open.spotify.com/track/11UD9IOlsEbK4fUURUziTj) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 3:49 |
+| 49 | [Okay, Goodbye](https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 3:50 |
+| 50 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 |
 
 Snapshot ID: `AAAAAGEAgRwKhOJw5gHeAAX0zEG//2oU`

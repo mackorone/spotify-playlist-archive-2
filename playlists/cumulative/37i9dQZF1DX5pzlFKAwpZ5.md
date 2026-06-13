@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-393 songs - 1 day 4 hr 21 min
+394 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [ease](https://open.spotify.com/track/06pU69J6u4taE4LK9ku2vb) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [ease](https://open.spotify.com/album/2SIYEfjIPKkJ2NnfJg8ARL) | 2:50 | 2024-03-07 |  |
 | [EAST](https://open.spotify.com/track/6Ygtiz9F4HhhJaO7EHwiMj) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/70FS8K29lXeAiX6ovQaHwo) | 6:14 | 2022-01-07 | 2022-10-01 |
 | [Ecliptic Drift](https://open.spotify.com/track/0Etrh1T0HeWk2C7vXODxm8) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Mono Spectrum](https://open.spotify.com/album/0MArGYb9frtOAfhjhk64WL) | 2:26 | 2023-10-02 | 2025-05-03 |
-| [Elegance of Nature](https://open.spotify.com/track/0ZnL1YP4Bc6BOGSqSNst1G) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Elegance of Nature](https://open.spotify.com/album/6z6JDeMbGyvNgBegDyb3wv) | 5:44 | 2025-01-13 |  |
+| [Elegance of Nature](https://open.spotify.com/track/0ZnL1YP4Bc6BOGSqSNst1G) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Elegance of Nature](https://open.spotify.com/album/6z6JDeMbGyvNgBegDyb3wv) | 5:44 | 2025-01-13 | 2026-06-13 |
 | [Endless Winter](https://open.spotify.com/track/6iWq0mbEZN5d7h4yMGCtqz) | [Airda](https://open.spotify.com/artist/4D02Ag61s1bHSVfWu51lLO) | [Endless Winter](https://open.spotify.com/album/5GcNSMT6S9yR1eFegzWVsR) | 4:48 | 2022-01-07 | 2022-07-29 |
 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/414AJsmhPuEA7W3wC9Go77) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 3:47 | 2022-12-30 | 2025-02-08 |
 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC) | 3:47 | 2023-04-28 | 2024-04-19 |
@@ -209,6 +209,7 @@
 | [MIRAGE](https://open.spotify.com/track/0eVoDBK5Ye4KD7mAWCsvAG) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [MIRAGE](https://open.spotify.com/album/2Somw9fOnNGIQBbpWKUcPI) | 2:12 | 2026-01-31 | 2026-02-15 |
 | [Mirror\#1](https://open.spotify.com/track/0y6jbOUzzm5NuNOhsGijqb) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Reflections](https://open.spotify.com/album/22Nb42QDmyNSEsiAUBAo3c) | 6:01 | 2024-06-15 | 2026-04-27 |
 | [Mirrors of Still Light](https://open.spotify.com/track/3SWw83rPPkoTA2Vkg7GSiH) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Mirrors of Still Light](https://open.spotify.com/album/5yFNswrkN1lATKr3USIrW2) | 3:36 | 2025-08-20 | 2025-09-03 |
+| [Mist awaiting the light](https://open.spotify.com/track/0mmGwGuWrmSY85frP2kuHh) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [Josefina Tai](https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0), [Daniel H Pereira](https://open.spotify.com/artist/3dvwZUIWhEpWyqP9hk1StN) | [Mist awaiting the light](https://open.spotify.com/album/1z5aR8r2hCX4BwNSiy9Zmn) | 3:35 | 2026-06-12 |  |
 | [Moon](https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Moon](https://open.spotify.com/album/45cho4OqwcoNEvhFbI6Tpt) | 2:43 | 2023-01-20 | 2025-04-17 |
 | [Moon Dance in Tokyo](https://open.spotify.com/track/75gDBaEbluCQhtnEM8diCY) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Moon Dance in Tokyo](https://open.spotify.com/album/07BA8mB6Q7tC9uJ5ySSTPr) | 2:34 | 2026-01-23 |  |
 | [morning dew](https://open.spotify.com/track/7ESmIsEJMeZryYQEG4JUky) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [morning dew](https://open.spotify.com/album/2pCZEibDB6sYdHPbAmvHzl) | 2:08 | 2026-01-23 | 2026-04-03 |

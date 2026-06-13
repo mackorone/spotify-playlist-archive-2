@@ -4,7 +4,7 @@
 
 > The best and latest rock and alternative\. Cover:  mgk &amp; Fred Durst
 
-315 songs - 18 hr 51 min
+316 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [do you think it was the last time?](https://open.spotify.com/track/0htfRkYdvFdjhZOz3YCp1A) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [do you think it was the last time?](https://open.spotify.com/album/5GF1z8ApTTX7CgBk9Q31O4) | 2:41 | 2023-11-03 | 2024-03-23 |
 | [Dog With A Gun](https://open.spotify.com/track/6UXxbsBlfREafW9nLMVmLM) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [The Rest Of The Story](https://open.spotify.com/album/7temZ6v1c69UOhyXHq6vOp) | 2:58 | 2025-10-24 |  |
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-04-26 | 2024-11-02 |
+| [Don't Tell Me It's Over](https://open.spotify.com/track/0mG6f89Na8qlcO9bcwEtWi) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket \(25 Year Anniversary Edition\)](https://open.spotify.com/album/5otlnw7SmrdBwk2Uywc7Bu) | 2:32 | 2026-06-12 |  |
 | [Dragon](https://open.spotify.com/track/52qhXwLTCCCkwUTlQYxNRR) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Dragon](https://open.spotify.com/album/4MUC8QXONbx7lkgp6MO3f5) | 9:44 | 2023-11-03 | 2024-05-18 |
 | [Dreams](https://open.spotify.com/track/7azQ8ywcwrdupUojmscy2o) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Dreams](https://open.spotify.com/album/3yI9NW1y3Fy6RnGtxnKOCo) | 3:34 | 2023-11-03 | 2023-11-25 |
 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 | 2024-01-26 | 2024-03-02 |

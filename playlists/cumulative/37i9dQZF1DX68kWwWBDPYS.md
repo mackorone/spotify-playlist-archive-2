@@ -4,7 +4,7 @@
 
 > morrxs chidxs haciendo música chida\. Méne e Ivana en portada.
 
-373 songs - 19 hr 21 min
+375 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Bby te necesito](https://open.spotify.com/track/3Jb29JDq7RalOKKzhKwrvg) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo) | [Bby te necesito](https://open.spotify.com/album/0SiBcdPEXiG0h8notIrLIJ) | 3:27 | 2025-05-23 | 2025-12-06 |
 | [bby:\)](https://open.spotify.com/track/0JpQKBgsdEHxYWgzi1igc4) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [bby:\)](https://open.spotify.com/album/6MXclHsT6ZqSBhQT7YoiGS) | 2:58 | 2024-07-26 | 2024-12-07 |
 | [BBYOSEQESTASPENSANDO](https://open.spotify.com/track/3EvVWuqkOsSXR64SsIlyMu) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [BBYOSEQESTASPENSANDO](https://open.spotify.com/album/2zK3Lk2CBACz7s5U60cGJA) | 3:47 | 2025-03-21 | 2025-08-23 |
+| [Be Real](https://open.spotify.com/track/4Z6jDtBIuZ6nWsnieIt4BQ) | [Atomic Project](https://open.spotify.com/artist/0L6MRKfPZD8gYCiiu5t02D) | [Be Real](https://open.spotify.com/album/1TXM5td3zEivaQLnpo9sbd) | 4:34 | 2026-06-12 |  |
 | [BELLA](https://open.spotify.com/track/5aWBfICPZSTUSAHdyxRy9R) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [BELLA](https://open.spotify.com/album/6fexRvGSeG2sHlla8LIanp) | 2:52 | 2024-12-06 | 2025-03-22 |
 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 | 2023-10-20 | 2024-05-11 |
 | [blush](https://open.spotify.com/track/6EBIty8gWIvorUu9JFg1sP) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/4LYE5oTcpLgZBW1Un1vyia) | 2:43 | 2024-06-21 | 2024-09-14 |
@@ -145,6 +146,7 @@
 | [Es Lo Que Hay](https://open.spotify.com/track/6GnU9T36zfadwOpveFyl1L) | [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Es Lo Que Hay](https://open.spotify.com/album/3f1lwfRbfZCji5I02PqmCo) | 2:22 | 2025-06-20 | 2025-11-08 |
 | [Esfera](https://open.spotify.com/track/43OncoXjYE1JS3YMv0D66y) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Esfera](https://open.spotify.com/album/0bIlVh4N9g9NkWhez98eG4) | 3:46 | 2024-09-20 | 2025-02-01 |
 | [Esperé Junto al Diablo](https://open.spotify.com/track/4hycb3nAmyeO5Sx544WSMS) | [El Muchacho de los Ojos Tristes](https://open.spotify.com/artist/0MDwsY5nQTWmb1TPOqVh0H) | [Esperé Junto al Diablo](https://open.spotify.com/album/5ONudjoY54QO9Nkt7Jc3Fa) | 3:15 | 2024-10-04 | 2024-10-19 |
+| [Estrella](https://open.spotify.com/track/7IJdmzC4XZmFwSG1N24gkH) | [Luis Picazo](https://open.spotify.com/artist/3RYd20OmBChTr6yk6KXq9P) | [No Sentimental.](https://open.spotify.com/album/2HW6H7sQmFkDTumdZO8qEx) | 3:43 | 2026-06-12 |  |
 | [Estrellas](https://open.spotify.com/track/50hcLx8GL7THXWxew0EHgb) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Plano](https://open.spotify.com/album/6N1AUqX8zyDN94BuyrB85D) | 3:38 | 2023-09-01 | 2024-04-20 |
 | [Eterno](https://open.spotify.com/track/5XcDT7Lae6b5Q73qHBUtNQ) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Eterno](https://open.spotify.com/album/0KJmtBDeNZoBJuaOHZA0b3) | 4:28 | 2024-09-06 | 2025-01-25 |
 | [Extrañar Extrañarte](https://open.spotify.com/track/1a0NSkwfq7WYxrDOXoWpsi) | [Karla Breu](https://open.spotify.com/artist/64kqaiiwxLbRBOM3JQufP1) | [Extrañar Extrañarte](https://open.spotify.com/album/3CMJvjSrATem8JLTW5gPMa) | 3:43 | 2024-05-03 | 2024-07-27 |

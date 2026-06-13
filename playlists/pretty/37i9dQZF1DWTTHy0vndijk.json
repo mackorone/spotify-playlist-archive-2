@@ -1,12 +1,12 @@
 {
   "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: tripleS) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 565048,
+  "num_followers": 565035,
   "original_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABYQP68Xt9OwETrxjKPpLf/3M2dy",
+  "snapshot_id": "AAAAADVMVLmzX2C4Mh4ciDmF1LiV/v1s",
   "tracks": [
     {
       "added_at": "2026-06-03 13:37:52",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-06-03 13:37:52",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
-    },
-    {
-      "added_at": "2026-06-03 13:37:52",
-      "album": {
         "name": "SCENEDROME",
         "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 181560,
       "name": "LOVE ATTACK",
       "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
+    },
+    {
+      "added_at": "2026-06-03 13:37:52",
+      "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
     },
     {
       "added_at": "2026-06-03 13:37:52",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-06-03 13:37:52",
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG"
+    },
+    {
+      "added_at": "2026-06-03 13:37:52",
+      "album": {
         "name": "Love Me Back (From \"Operation: True Love\")",
         "url": "https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 210253,
       "name": "Feel My Rhythm",
       "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
-    },
-    {
-      "added_at": "2026-06-03 13:37:52",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ"
-      },
-      "artists": [
-        {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG"
     },
     {
       "added_at": "2026-06-03 13:37:52",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-06-03 13:37:52",
       "album": {
-        "name": "Biggest Fan - The 1st Album",
-        "url": "https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9"
-      },
-      "artists": [
-        {
-          "name": "IRENE",
-          "url": "https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Biggest Fan",
-      "url": "https://open.spotify.com/track/63razyPQswXocUXL3cGJgo"
-    },
-    {
-      "added_at": "2026-06-03 13:37:52",
-      "album": {
         "name": "\u02e3\u203f\u02e3 (SMiLEY)",
         "url": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2026-06-03 13:37:52",
       "album": {
+        "name": "Biggest Fan - The 1st Album",
+        "url": "https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9"
+      },
+      "artists": [
+        {
+          "name": "IRENE",
+          "url": "https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Biggest Fan",
+      "url": "https://open.spotify.com/track/63razyPQswXocUXL3cGJgo"
+    },
+    {
+      "added_at": "2026-06-03 13:37:52",
+      "album": {
         "name": "Off The Record",
         "url": "https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-06-03 13:37:52",
       "album": {
-        "name": "I GOT YOU",
-        "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 173240,
-      "name": "I GOT YOU",
-      "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
-    },
-    {
-      "added_at": "2026-06-03 13:37:52",
-      "album": {
         "name": "Imperfect-I'mperfect",
         "url": "https://open.spotify.com/album/5swL0neEWqHIorlT8qTk2p"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 188845,
       "name": "Like a Bubble",
       "url": "https://open.spotify.com/track/68TWWOecaIglvAtHOOFMwn"
+    },
+    {
+      "added_at": "2026-06-03 13:37:52",
+      "album": {
+        "name": "I GOT YOU",
+        "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 173240,
+      "name": "I GOT YOU",
+      "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
     },
     {
       "added_at": "2026-06-03 13:37:52",

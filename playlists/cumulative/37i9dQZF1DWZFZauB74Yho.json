@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "A Beautiful Life",
+        "url": "https://open.spotify.com/album/0lSqRk7dIGNfMvbFREeciR"
+      },
+      "artists": [
+        {
+          "name": "Dailey & Vincent",
+          "url": "https://open.spotify.com/artist/7xmd7RPLO292xIiLMAryFQ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191536,
+      "name": "A Beautiful Life",
+      "url": "https://open.spotify.com/track/6ESClaoG4oKNoCe94wz9Tm"
+    },
+    {
+      "album": {
         "name": "A Little Home To Go To",
         "url": "https://open.spotify.com/album/6WB5ReM0O5wSkiEdGVTkwH"
       },
@@ -270,6 +288,24 @@
       "duration_ms": 161000,
       "name": "Any Highway",
       "url": "https://open.spotify.com/track/2swFmywU3LKOqnogrHOB7C"
+    },
+    {
+      "album": {
+        "name": "Mountain Grass Unit",
+        "url": "https://open.spotify.com/album/4HERzVpu8fDwgAL8C5EP6L"
+      },
+      "artists": [
+        {
+          "name": "Mountain Grass Unit",
+          "url": "https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204468,
+      "name": "Appalachian Smoke",
+      "url": "https://open.spotify.com/track/68cyRy6ioMXf5aUxHtMoz5"
     },
     {
       "album": {
@@ -1506,7 +1542,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 227906,
       "name": "Come Out Of My Blues (feat. Tim O'Brien)",
       "url": "https://open.spotify.com/track/05PxhMCqQ9gnBPTM7ree0K"
@@ -4311,6 +4347,24 @@
     },
     {
       "album": {
+        "name": "If You're Gonna Be Dumb, You Gotta Be Tough (from jackass: best and last)",
+        "url": "https://open.spotify.com/album/5FpQcAvVyiDRLdkqEm7T2e"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180040,
+      "name": "If You're Gonna Be Dumb, You Gotta Be Tough (from jackass: best and last)",
+      "url": "https://open.spotify.com/track/4fDZIUFr4ntAQvqCHCvl3k"
+    },
+    {
+      "album": {
         "name": "Ijams",
         "url": "https://open.spotify.com/album/0yathcyg0W8Zm4UpSeFpp3"
       },
@@ -4630,7 +4684,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 160874,
       "name": "Just Because",
       "url": "https://open.spotify.com/track/5FjQHIVFs46BS9mBiOd9TE"
@@ -8200,7 +8254,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 214322,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1w9GbyMG2HKGQ7UcgiTnRd"

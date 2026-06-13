@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 336 likes - 2,383 songs - 5 day 20 hr 43 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 336 likes - 2,385 songs - 5 day 20 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2391,5 +2391,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2381 | [Sei](https://open.spotify.com/track/5v0WRPhkz1LnrAQc07JLGB) | [Giorgio Isgro'](https://open.spotify.com/artist/0mkcb7x8JISZOGHV8LdKcW), [Marcello Pelo](https://open.spotify.com/artist/7Ex3l7mokFNNf69K0dJba7) | [Sei](https://open.spotify.com/album/7DwyP2LG07sgcVcKQ9ECEF) | 4:38 |
 | 2382 | [Vuelve, Vuelve](https://open.spotify.com/track/1C5alUEKjaeYJNoK7c5WGr) | [CER](https://open.spotify.com/artist/2lhN3pky6pkIZeXroIWnRg) | [Canta El Reggaeton](https://open.spotify.com/album/0fPpvRnqa8ZebfbwUXT1Zx) | 4:13 |
 | 2383 | [The Overfitting Ex](https://open.spotify.com/track/3HyDtedJpJuCqzWuadPI2U) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [Symphony of Machine Learning](https://open.spotify.com/album/1Q8swnhp6sB7GR5MVlmyo5) | 4:08 |
+| 2384 | [Più Vicini al Cielo](https://open.spotify.com/track/2BAhnHQKWm5vM3q1QTrLsl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Più Vicini al Cielo](https://open.spotify.com/album/2NSBRvmswoVucTOLRUFKzJ) | 3:21 |
+| 2385 | [Is This Love](https://open.spotify.com/track/4cMjphwBnAg4LIvGFnK5fs) | [Bon Echo](https://open.spotify.com/artist/0cptB7nxVh6aCVkUZcrSLy) | [Is This Love](https://open.spotify.com/album/2zpdyhQ6qYlKnvrpnCL3AO) | 2:09 |
 
-Snapshot ID: `AAAKGS5BdEYGe2KM6kokS2zE380PksHm`
+Snapshot ID: `AAAKGzSyVc2YotlAKDr7X/jslwCIzYOn`

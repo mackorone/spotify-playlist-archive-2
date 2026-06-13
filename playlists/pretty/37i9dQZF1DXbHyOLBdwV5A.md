@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,298 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,307 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 48 | [Azul](https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ok!](https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz) | 2:30 |
 | 49 | [Imparável](https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Imparável](https://open.spotify.com/album/0XX6szHMJ1b5sfzIC8kCGj) | 2:43 |
 | 50 | [Eu Voltei](https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2) | [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [Eliezer Rezende](https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh) | [Eu Voltei](https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD) | 3:11 |
-| 51 | [Balada do Senhor \(Slap House Gospel\)](https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleyton & Johnny](https://open.spotify.com/artist/7MLppR1QSf2lpb5ljhiTwT) | [Balada do Senhor \(Remixes\)](https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N) | 2:58 |
-| 52 | [O Autor](https://open.spotify.com/track/56kNz9R6DCjeoQuCrljeYy) | [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Felson](https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2) | [O Autor](https://open.spotify.com/album/50A1UrSjQM0zcLJuqEI3rr) | 2:56 |
+| 51 | [O Autor](https://open.spotify.com/track/56kNz9R6DCjeoQuCrljeYy) | [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Felson](https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2) | [O Autor](https://open.spotify.com/album/50A1UrSjQM0zcLJuqEI3rr) | 2:56 |
+| 52 | [Balada do Senhor \(Slap House Gospel\)](https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleyton & Johnny](https://open.spotify.com/artist/7MLppR1QSf2lpb5ljhiTwT) | [Balada do Senhor \(Remixes\)](https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N) | 2:58 |
 | 53 | [Dono da Minha Vida \- Remix](https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Filipe Souza](https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z) | [Dono da Minha Vida \(Remix\)](https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ) | 3:25 |
 | 54 | [Marcas \- Remix](https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k) | [Dj Lucas Augusto](https://open.spotify.com/artist/3HDlmQ4iyuqux2TTcPzFEc), [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Marcas \(Remix\)](https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo) | 3:15 |
 | 55 | [Me Encontrou \(DJ Vitor Capoia Remix\)](https://open.spotify.com/track/2BZMBpOPJ1537isDKVrfSX) | [Cleverton Marques](https://open.spotify.com/artist/7IVkIqTy51csgU0TdHFhey), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp) | [Me Encontrou Remix](https://open.spotify.com/album/0W3OfqzLQ5GIWYFXMZD50p) | 3:10 |

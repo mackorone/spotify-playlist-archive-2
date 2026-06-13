@@ -2,9 +2,9 @@
 
 ### [Tumbado Romántico](https://open.spotify.com/playlist/37i9dQZF1DX0H1gQEaz8An)
 
-> Lo que diga el corazón ❤️💔 Cover: Yng Naz
+> Lo que diga el corazón ❤️💔 Cover: Adrian L Santos
 
-243 songs - 12 hr 37 min
+245 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [La Top Uno](https://open.spotify.com/track/2LSo6BjJ9WqsCY5sB7mwS8) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [La Top Uno](https://open.spotify.com/album/6JgdweJnTGFr5g8zQJJ70a) | 2:41 | 2024-06-07 | 2025-08-16 |
 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 | 2024-03-15 | 2024-10-20 |
 | [LADIOSA](https://open.spotify.com/track/1vVODrP3pOYHmJ3wiG6E2i) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [LADIOSA](https://open.spotify.com/album/7bs9A7hnR4rgi4MeztXYPS) | 3:17 | 2025-03-07 | 2025-05-28 |
+| [Las Dos Me Duelen](https://open.spotify.com/track/32EC4e7ZA1UI9glgDuynIl) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Las Dos Me Duelen](https://open.spotify.com/album/5YG1FAdMuX2IqdQ65mPnCb) | 3:44 | 2026-06-12 |  |
 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 | 2024-05-17 |  |
 | [Loqueando](https://open.spotify.com/track/3wGn3jUPvRkBcpo52vY72l) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:01 | 2025-02-26 | 2026-04-04 |
 | [Los Bandidos También Lloran](https://open.spotify.com/track/0MaoqxZcHjZx0RA8ApNx8b) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Los Bandidos También Lloran](https://open.spotify.com/album/0rNOBbuH9LnHYuatWwUU0c) | 2:57 | 2025-04-25 | 2025-08-09 |
@@ -195,6 +196,7 @@
 | [Recuerdos](https://open.spotify.com/track/1RsnpWuoSoLeApFoIUXbRC) | [Axel Coronado](https://open.spotify.com/artist/0ENnLGIyn0wUQ2sZ1jlTpO), [D\. PHANTØM](https://open.spotify.com/artist/24ElwyRXmzeJZCtsAR84Yh) | [Recuerdos](https://open.spotify.com/album/3IcJ6UuwJEAPzZQW1fIoDd) | 3:29 | 2025-04-25 | 2026-04-04 |
 | [Recuerdos](https://open.spotify.com/track/4qRJi0Y4E8bkuIRZB0N59j) | [El Esparza](https://open.spotify.com/artist/4RT0MnB1whwGBJ3N8oEntX) | [Recuerdos](https://open.spotify.com/album/2C3zDPX6c15SjYv21tiXqm) | 3:16 | 2026-03-06 |  |
 | [Regalame Una Noche](https://open.spotify.com/track/2dXppU2kauENBeLZYEbIng) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Se Cantan Se Bailan y Se Lloran](https://open.spotify.com/album/2OyPcJ7KgLDWeo2b8BYnoN) | 3:07 | 2024-09-27 | 2025-02-27 |
+| [replica.](https://open.spotify.com/track/5Bae75jc8KHMTatYOqnoTR) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [PROYECTANDO](https://open.spotify.com/album/3ojnQILwWc6ohZQVxtETHI) | 2:47 | 2026-06-12 |  |
 | [ROCKSTAR](https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:48 | 2024-03-15 |  |
 | [Ropa Cara](https://open.spotify.com/track/0AC6lMbq1Xc2npqHzlPCqs) | [Yahir Tarin](https://open.spotify.com/artist/2YUtlNyQTom6uTK0wV0HMQ), [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5), [Ismael CM](https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR) | [Ropa Cara](https://open.spotify.com/album/2NRCCVwjJuodRWAR0VlBfH) | 2:56 | 2024-04-12 | 2025-02-27 |
 | [Sad Valentine](https://open.spotify.com/track/7hGOwCENx4DspZO86iFGFC) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Sad Valentine](https://open.spotify.com/album/66Vk1sxmGdhGNYTnnJD6k6) | 3:36 | 2026-04-03 |  |

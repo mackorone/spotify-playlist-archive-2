@@ -1,12 +1,12 @@
 {
   "description": "Nil\u00fcfer ve haftan\u0131n en iyi \u00e7\u0131k\u0131\u015flar\u0131!",
-  "num_followers": 316296,
+  "num_followers": 317004,
   "original_name": "New Music Friday T\u00fcrkiye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG/mL6P+wraLzEl9A9tUPfLAi5Jx",
+  "snapshot_id": "AAAAAJx7yp0W9kiHkRqeDk0R1jryWH50",
   "tracks": [
     {
       "added_at": "2026-06-11 21:00:30",
@@ -341,6 +341,38 @@
       "url": "https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R"
     },
     {
+      "added_at": "2026-06-12 06:34:11",
+      "album": {
+        "name": "Susma",
+        "url": "https://open.spotify.com/album/1PHDBUu3yrhQzU4bFRsRnG"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Hatipo\u011flu",
+          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
+        }
+      ],
+      "duration_ms": 185406,
+      "name": "Susma",
+      "url": "https://open.spotify.com/track/6t8uw9FXphZPwiUO831aHH"
+    },
+    {
+      "added_at": "2026-06-12 08:26:09",
+      "album": {
+        "name": ".peri\u015fan olmadan sevemedim",
+        "url": "https://open.spotify.com/album/77jj63xzlUrwQqueJqT9GO"
+      },
+      "artists": [
+        {
+          "name": "Kendimden Hallice",
+          "url": "https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft"
+        }
+      ],
+      "duration_ms": 201176,
+      "name": ".peri\u015fan olmadan sevemedim",
+      "url": "https://open.spotify.com/track/48GbCy7nbIvL2r0usiCuvw"
+    },
+    {
       "added_at": "2026-06-11 21:00:30",
       "album": {
         "name": "6 PATLAR",
@@ -355,6 +387,22 @@
       "duration_ms": 184421,
       "name": "DEL\u0130LER",
       "url": "https://open.spotify.com/track/6VkJ9RsCWgnnfMKuherGsB"
+    },
+    {
+      "added_at": "2026-06-12 08:26:09",
+      "album": {
+        "name": "beni kand\u0131rd\u0131n",
+        "url": "https://open.spotify.com/album/3PwgsFmOhJp4rtRxx70F9f"
+      },
+      "artists": [
+        {
+          "name": "Bedo",
+          "url": "https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si"
+        }
+      ],
+      "duration_ms": 168964,
+      "name": "beni kand\u0131rd\u0131n",
+      "url": "https://open.spotify.com/track/7uw3wkpqybeKNDb6r8navd"
     },
     {
       "added_at": "2026-06-11 21:00:30",
@@ -773,7 +821,7 @@
         }
       ],
       "duration_ms": 199196,
-      "name": "It's So Nice",
+      "name": "It's So Nice (ft. 3DDY)",
       "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
     },
     {
@@ -1687,7 +1735,7 @@
     {
       "added_at": "2026-06-11 21:00:30",
       "album": {
-        "name": "Trafo (feat. \u00c7a\u011fr\u0131 Sinci & Ali Ece)",
+        "name": "Trafo",
         "url": "https://open.spotify.com/album/3fyKbclKoyHYRSGcknCy81"
       },
       "artists": [
@@ -1705,7 +1753,7 @@
         }
       ],
       "duration_ms": 203520,
-      "name": "Trafo (feat. \u00c7a\u011fr\u0131 Sinci & Ali Ece)",
+      "name": "Trafo",
       "url": "https://open.spotify.com/track/1UqEriTZm9GOREm4lZUcTF"
     },
     {

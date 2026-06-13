@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 807084,
+  "num_followers": 807095,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Le train de mes souvenirs",
-        "url": "https://open.spotify.com/album/6oub6ygmprxb8y1QG8pDc9"
-      },
-      "artists": [
-        {
-          "name": "Gold",
-          "url": "https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Plus pr\u00e8s des \u00e9toiles",
-      "url": "https://open.spotify.com/track/05OmZz1tixVBtXMx3cb4oc"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "Natural History - The Very Best of Talk Talk",
         "url": "https://open.spotify.com/album/1yOxV9lKsPgj1QvDsc46rQ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 257626,
       "name": "Such a Shame",
       "url": "https://open.spotify.com/track/4BixGe6AcqJU2etTzeh2cN"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "Le train de mes souvenirs",
+        "url": "https://open.spotify.com/album/6oub6ygmprxb8y1QG8pDc9"
+      },
+      "artists": [
+        {
+          "name": "Gold",
+          "url": "https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Plus pr\u00e8s des \u00e9toiles",
+      "url": "https://open.spotify.com/track/05OmZz1tixVBtXMx3cb4oc"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
+      },
+      "artists": [
+        {
+          "name": "Jean Schultheis",
+          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
+        }
+      ],
+      "duration_ms": 286533,
+      "name": "Confidence pour confidence - Version originale 1981",
+      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5Qc9yw34BRN9n8pi5YKZ2D"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 243800,
       "name": "When the Rain Begins to Fall",
       "url": "https://open.spotify.com/track/030RDC2ayPOUM32F9IH7eE"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
-      },
-      "artists": [
-        {
-          "name": "Jean Schultheis",
-          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
-        }
-      ],
-      "duration_ms": 286533,
-      "name": "Confidence pour confidence - Version originale 1981",
-      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
     },
     {
       "added_at": "2026-03-19 15:24:01",

@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Kevin Morby
+> The best in folk & acoustic today featuring music from Hermanos Gutiérrez
 
-850 songs - 2 day 4 hr 21 min
+853 songs - 2 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-17 | 2023-03-04 |
 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 | 2023-06-30 | 2024-02-03 |
 | [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-03-03 | 2023-07-05 |
+| [America's Greatest Burnout](https://open.spotify.com/track/47a91ZLVbrRX0WwYVGNcrx) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [America's Greatest Burnout](https://open.spotify.com/album/7d5VuuhAWliS8ovhyYp73Q) | 3:47 | 2026-06-12 |  |
 | [American Dreaming \- Single Edit](https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [American Dreaming](https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT) | 3:57 | 2024-03-22 | 2025-03-01 |
 | [Amsterdam](https://open.spotify.com/track/3TpqFZxnxNe2qn362Wydz8) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Amsterdam](https://open.spotify.com/album/4LF9PCKsTfcOVnh2ufagbO) | 5:01 | 2022-03-18 | 2022-09-03 |
 | [Amsterdam](https://open.spotify.com/track/1sIAk1Hpj5YsMyYYtTsdal) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Amsterdam](https://open.spotify.com/album/6Ju9oTtTNypA2En3jEoXWP) | 3:33 | 2021-12-10 | 2022-01-22 |
@@ -155,6 +156,7 @@
 | [Can't See Stars \(feat\. Kevin Morby\)](https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Lighten Up](https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI) | 3:36 | 2022-02-11 | 2022-11-12 |
 | [Cannibal](https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome) | 4:00 | 2022-07-22 | 2022-08-13 |
 | [Cannibal](https://open.spotify.com/track/66sgJDWffGSEw3huWPjNWA) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4GoINkOwOUS17uL017LeP6) | 4:01 | 2022-07-15 | 2022-07-29 |
+| [Canto Andino](https://open.spotify.com/track/2iULzJ4RcJUHGbYRZgc54P) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Canto Andino](https://open.spotify.com/album/1FQJNI1hQQVPBhbfp3OxID) | 3:13 | 2026-06-12 |  |
 | [Cape Forestier](https://open.spotify.com/track/1W2ihQwMDPNX7eAJaex3om) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/4jYX3Qzf8jzasDiGls6o7h) | 3:52 | 2024-04-19 | 2024-10-19 |
 | [Cape Forestier](https://open.spotify.com/track/5koL7879f8j0pvdVGj3vcv) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/0SQR7IYc6zCvSoo31awLMz) | 3:52 | 2024-03-08 | 2024-04-19 |
 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 | 2022-06-24 | 2022-07-30 |
@@ -678,6 +680,7 @@
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2022-10-28 | 2023-01-14 |
 | [Still Trying](https://open.spotify.com/track/3SCDpe3QWlLSg5oJjqN25Q) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Falling Faster Than You Can Run](https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa) | 4:09 | 2022-01-14 | 2022-01-22 |
 | [Stolen Valor](https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8), [The Bedroomer](https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB) | [Stolen Valor / Leash](https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0) | 2:33 | 2026-03-20 |  |
+| [Stuff](https://open.spotify.com/track/7bGFbEzrG66G5oah25BnHw) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [A Sign In The Weather](https://open.spotify.com/album/17nzheejzWjrbPH3DjOcmz) | 3:23 | 2026-06-12 |  |
 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2021-12-10 | 2022-01-29 |
 | [Summer Windows](https://open.spotify.com/track/1KGQwsicpxAnfNmOvubfAP) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Summer Windows](https://open.spotify.com/album/5baT0B05D6yDJFgKdTvjB6) | 3:21 | 2023-08-18 | 2024-01-06 |
 | [Sunday Drive](https://open.spotify.com/track/7h5aMCjigDY5Swa5OroljV) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Sunday Drive](https://open.spotify.com/album/3SoYuufmYmFFejuIYi5a3d) | 3:42 | 2021-12-10 | 2022-02-19 |

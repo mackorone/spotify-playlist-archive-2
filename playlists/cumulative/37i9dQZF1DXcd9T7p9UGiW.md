@@ -2,7 +2,7 @@
 
 ### [Gone Abroad ](https://open.spotify.com/playlist/37i9dQZF1DXcd9T7p9UGiW)
 
-> Catching flights and going global\. Cover: MOLIY
+> Catching flights and going global\. Cover: Tyla and Future
 
 822 songs - 1 day 19 hr 19 min
 

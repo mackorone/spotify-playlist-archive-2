@@ -4,7 +4,7 @@
 
 > My enemy na sapa
 
-884 songs - 1 day 17 hr 52 min
+884 songs - 1 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [How Are You \(My Friend\)](https://open.spotify.com/track/2QdqML21AFaQPWxmhuv1KW) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [How Are You \(My Friend\)](https://open.spotify.com/album/2h9jc7KGoE0qDayuf6o7pq) | 3:16 | 2022-10-13 | 2023-02-17 |
 | [HOW E DEY BE \(HEDB\)](https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1) | [SHON](https://open.spotify.com/artist/177g8yTTFy95mBCW6xudMo) | [HOW E DEY BE \(HEDB\)](https://open.spotify.com/album/2IwdbhftQKp8xLyQT3jYBA) | 2:10 | 2026-01-14 | 2026-01-23 |
 | [How I Live](https://open.spotify.com/track/7Gp7DB686APBQkXBt5RgAn) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [How I Live](https://open.spotify.com/album/0iMKsOcLepvHDwW0eKFhwd) | 2:22 | 2024-01-19 | 2024-06-15 |
+| [How Long](https://open.spotify.com/track/3KC6uixbjSFG0rD5IKN00N) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Milanto](https://open.spotify.com/artist/3fDuAZOlYRu3wQMrdjV30P) | [Affairs Of The State](https://open.spotify.com/album/3rI94g1JeUg8QdhuzbrqHq) | 2:46 | 2026-06-12 |  |
 | [Humble Cry](https://open.spotify.com/track/0iWD2VVQiNnUvYG74mBw4c) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [Humble Cry](https://open.spotify.com/album/0HAgykkVb3jNd5UFdzIsKI) | 2:41 | 2023-08-17 | 2023-09-22 |
 | [Hustle](https://open.spotify.com/track/3vWfYFzMoHkioV6sx35n6L) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A) | [Hustle](https://open.spotify.com/album/6mOwZyFB4QxYRlunQNNrxt) | 3:29 | 2022-06-23 | 2023-01-20 |
 | [Hustle](https://open.spotify.com/track/612ZmfgN8sC6XYXnnTi42v) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Hitboy Kellz](https://open.spotify.com/artist/38Fq4nvPL9X8BHv4YadDrf), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Niggas From The South](https://open.spotify.com/album/7MUP19rxDwxNnNlD69dyAe) | 2:00 | 2024-11-15 | 2024-11-22 |
@@ -810,7 +811,6 @@
 | [Trabaye](https://open.spotify.com/track/3q1cSJlfVFGfE7sMWPYJGm) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 2:51 | 2022-02-17 | 2023-12-23 |
 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-11-28 | 2024-03-22 |
 | [TRABZ](https://open.spotify.com/track/37q6nr9zUrFCyBCcoKdaMJ) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [TRABZ](https://open.spotify.com/album/5b9bt1fofoZKmzGnPrcnPd) | 2:22 | 2026-02-27 | 2026-03-13 |
-| [Track 1](https://open.spotify.com/track/3KC6uixbjSFG0rD5IKN00N) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR) | [Affairs Of The State](https://open.spotify.com/album/3rI94g1JeUg8QdhuzbrqHq) | 0:00 | 2026-06-12 |  |
 | [Trap](https://open.spotify.com/track/6Lss25OMzPLTx8czIC8Wr4) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Trap](https://open.spotify.com/album/46zsXuCelHvSbq1wtawF59) | 2:58 | 2024-03-08 | 2024-03-22 |
 | [Trouble](https://open.spotify.com/track/7LqLiIkXAi9PtrGvIxQDhz) | [Vanilla](https://open.spotify.com/artist/5QmtlsyUEqCSTuqrOl6L11), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Trouble](https://open.spotify.com/album/56WP5QmZSLRcvidBV6SsjD) | 2:55 | 2023-07-28 | 2023-08-04 |
 | [Troubled Mind](https://open.spotify.com/track/6yIEi8mvrYSi2IgPhQ5Ym9) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:02 | 2025-02-19 | 2025-04-01 |

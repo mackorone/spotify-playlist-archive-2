@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 625410,
+  "num_followers": 625474,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAABtaC0jBLTiN2+D5P8BmZs",
+  "snapshot_id": "ain6gAAAAACQX2gzZtJqV2rg4rspGvtV",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighborhoods (Deluxe)",
-        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 206866,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/27H8WsrkD5catdc3a2fCLV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dogs Eating Dogs",
         "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 260153,
       "name": "Pretty Little Girl",
       "url": "https://open.spotify.com/track/6rJKRar5Jf3Ec2FIhiog7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neighborhoods (Deluxe)",
+        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 206866,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/27H8WsrkD5catdc3a2fCLV"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighborhoods (Deluxe)",
-        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/0y3fPWWin7NL5aED2FjvXP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dogs Eating Dogs",
         "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 209186,
       "name": "When I Was Young",
       "url": "https://open.spotify.com/track/1bI5cazRwt66vksBjV6RmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neighborhoods (Deluxe)",
+        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/0y3fPWWin7NL5aED2FjvXP"
     },
     {
       "added_at": null,

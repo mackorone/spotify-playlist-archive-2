@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: iri
 
-3,801 songs - 10 day 2 hr 2 min
+3,802 songs - 10 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [Closed](https://open.spotify.com/track/3EE8sYt2cSZs0T5tdjNwlR) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [ming](https://open.spotify.com/artist/3nfUx7nk0cGeeV1LLPGEVt) | [Closed](https://open.spotify.com/album/4c1UclJW01bdgnkh7TvVGC) | 2:57 | 2025-09-16 | 2025-09-24 |
 | [cloud](https://open.spotify.com/track/6v08DvIdLDGOwKj1h71S4x) | [hyou](https://open.spotify.com/artist/5MKWIRBAlanbDXXUTGaCRT) | [cloud](https://open.spotify.com/album/3MPWlGx8FPXB14cugsvrFA) | 3:52 | 2022-07-19 | 2022-07-27 |
 | [Cloudy's just right](https://open.spotify.com/track/14zuiKpK4DOr9Fkjf5FpQq) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [Cloudy's just right](https://open.spotify.com/album/0PjxFB0gTY9p7xqxAsOrhS) | 3:40 | 2023-08-15 | 2023-08-23 |
+| [CLUTCH!](https://open.spotify.com/track/5Z2PJNkWiQMvThOwVmEKBQ) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [CLUTCH!](https://open.spotify.com/album/4bU30og2JBEC25bxIjy6WJ) | 3:28 | 2026-06-09 |  |
 | [Collection](https://open.spotify.com/track/2FJKEYDWEw1lRxOCUmUQgN) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Collection](https://open.spotify.com/album/1yUmyUBohq1WxkMb3yfkaG) | 4:42 | 2024-11-05 | 2024-11-13 |
 | [Color](https://open.spotify.com/track/0rAe9CC5rnxSJmwm7TyyMN) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [miida](https://open.spotify.com/album/2LDK2Ne60COkZMawgepLX8) | 3:08 | 2022-08-23 | 2022-09-07 |
 | [Color Me feat\. マヒトゥ・ザ・ピーポー](https://open.spotify.com/track/0RUH1oKxLmG1ZICLHqF8W8) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN), [マヒトゥ・ザ・ピーポー](https://open.spotify.com/artist/63fYqqdUZw9L2BuQKqVvOe) | [Color Me feat\. マヒトゥ・ザ・ピーポー](https://open.spotify.com/album/3xe0c6Ly4VWsc01NkAFc9O) | 4:36 | 2022-06-30 | 2022-07-06 |
@@ -1327,7 +1328,7 @@
 | [Ninna Nanna \(feat\. Miho Nakayama\)](https://open.spotify.com/track/4VaH7sQeYL9UcA7TVvbCKx) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [中山美穂](https://open.spotify.com/artist/27uDA7mGoHPHFvlBiZ4J9Z) | [Ninna Nanna \(feat\. Miho Nakayama\)](https://open.spotify.com/album/6yYiBqvlro4woMdLERMSWe) | 2:45 | 2023-09-05 | 2023-09-07 |
 | [Ninna Nanna \(feat\. Miho Nakayama\)](https://open.spotify.com/track/6xBKx82lrogb8TDCjghTq0) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [中山美穂](https://open.spotify.com/artist/27uDA7mGoHPHFvlBiZ4J9Z) | [Ninna Nanna \(feat\. Miho Nakayama\)](https://open.spotify.com/album/4R0X8HikVaF6xrHlqoOWsL) | 2:45 | 2023-09-05 | 2023-09-13 |
 | [Nisemono Smilin](https://open.spotify.com/track/3rDBU4noiq1rjG50MPKi9t) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [Nisemono Smilin](https://open.spotify.com/album/3jnprTN6EFTMgknqhN0PEI) | 3:02 | 2025-09-23 | 2025-10-01 |
-| [No Boys Allowed](https://open.spotify.com/track/1YuDWMOEULPQiFVjLTO5ku) | [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [No Boys Allowed](https://open.spotify.com/album/3Sv9EskZCRZ8RMdRvyi9mC) | 2:38 | 2026-05-19 |  |
+| [No Boys Allowed](https://open.spotify.com/track/1YuDWMOEULPQiFVjLTO5ku) | [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [No Boys Allowed](https://open.spotify.com/album/3Sv9EskZCRZ8RMdRvyi9mC) | 2:38 | 2026-05-19 | 2026-06-13 |
 | [No Control](https://open.spotify.com/track/1ULadoRnBEMCYv0GYNVcQ3) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [No Control](https://open.spotify.com/album/2SFE4MOgcEQ6DLmsKLwMH0) | 3:06 | 2025-02-18 | 2025-02-26 |
 | [No Epilogue](https://open.spotify.com/track/3hGtbgqDrLBS6CeOpWiEuX) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [No Epilogue](https://open.spotify.com/album/6ZhdDIKUvLWZQMyQkcwey3) | 3:41 | 2026-06-09 |  |
 | [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 | 2023-08-17 | 2023-08-23 |

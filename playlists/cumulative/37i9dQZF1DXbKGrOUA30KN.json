@@ -4333,6 +4333,24 @@
     },
     {
       "album": {
+        "name": "Ich Wart Auf Dich",
+        "url": "https://open.spotify.com/album/1VwRwhLd6uUMKccMOsYnhA"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151721,
+      "name": "Ich Wart Auf Dich",
+      "url": "https://open.spotify.com/track/7swJnVcL7RwIrtE6MrQUAV"
+    },
+    {
+      "album": {
         "name": "Immer",
         "url": "https://open.spotify.com/album/5IrbRM2lseX3Y29Q70BktO"
       },

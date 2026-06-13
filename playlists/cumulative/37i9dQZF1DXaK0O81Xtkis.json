@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring Obed Padilla",
+  "description": "a little indie, a little pop, soda featuring Ruel",
   "name": "soda",
   "tracks": [
     {
@@ -3370,7 +3370,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 186285,
       "name": "Boy",
       "url": "https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu"
@@ -5268,7 +5268,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 155725,
       "name": "Cold Shoulder",
       "url": "https://open.spotify.com/track/6c0MTJSePQqOaBFHcfZcaA"
@@ -7095,6 +7095,24 @@
     },
     {
       "album": {
+        "name": "Do it all again",
+        "url": "https://open.spotify.com/album/0FvRb3KcuAEvc62SmHQJvL"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150419,
+      "name": "Do it all again",
+      "url": "https://open.spotify.com/track/6KRahtk4lAdLFOs8btjSdT"
+    },
+    {
+      "album": {
         "name": "Do You Really Love Her",
         "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
       },
@@ -8527,6 +8545,24 @@
     },
     {
       "album": {
+        "name": "Kicking My Feet & Screaming",
+        "url": "https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184417,
+      "name": "Faking Smiles",
+      "url": "https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2"
+    },
+    {
+      "album": {
         "name": "Fall Apart",
         "url": "https://open.spotify.com/album/1OHQ1ovrNmPGdNuresKn8P"
       },
@@ -9948,7 +9984,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 186230,
       "name": "Go Ahead",
       "url": "https://open.spotify.com/track/3vjU7tlE0gMhusAgY7OoHt"
@@ -10244,7 +10280,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 127594,
       "name": "Good Morning California",
       "url": "https://open.spotify.com/track/5SPgaiQqRj4PqW1fLL3M24"
@@ -15670,7 +15706,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 179727,
       "name": "Little Blue House",
       "url": "https://open.spotify.com/track/0KUcvWJzx9McoYo31gAqDy"
@@ -16636,7 +16672,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 137746,
       "name": "Make It Out",
       "url": "https://open.spotify.com/track/34G0wK7CbV3Wn96hgUrte1"
@@ -18970,6 +19006,24 @@
       "duration_ms": 174914,
       "name": "OH WELL",
       "url": "https://open.spotify.com/track/2sfYIKz3J8eZkBdTh25KyK"
+    },
+    {
+      "album": {
+        "name": "Songs for Young Lovers",
+        "url": "https://open.spotify.com/album/0S3g6dYqQPOXNb4nv3gUOi"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Oh!",
+      "url": "https://open.spotify.com/track/64NNkNa8HLtOK2CGsOmY5Q"
     },
     {
       "album": {
@@ -25090,7 +25144,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 175468,
       "name": "Tattoos",
       "url": "https://open.spotify.com/track/55IJRlxMamDtU7gzGerJKr"
@@ -26352,7 +26406,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 194496,
       "name": "Tightrope Walker",
       "url": "https://open.spotify.com/track/2r9qgsBDLCWmKpqPJo80vp"

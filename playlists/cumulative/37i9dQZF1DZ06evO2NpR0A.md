@@ -4,7 +4,7 @@
 
 > This is Bon Iver\. The essential tracks, all in one playlist.
 
-109 songs - 7 hr 1 min
+110 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Friends \(feat\. Bon Iver\)](https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 3:08 | 2022-09-16 |  |
 | [From](https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:02 | 2025-04-13 |  |
 | [Glow \(feat\. Bon Iver\)](https://open.spotify.com/track/3Qy4hBI9YBIt3yNYPMXPn8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Flood / Glow](https://open.spotify.com/album/157nXaMjEIEJYdZ4eysE7J) | 2:14 | 2026-02-11 | 2026-05-12 |
+| [Glow \(feat\. Bon Iver\)](https://open.spotify.com/track/6qpgBbGzXZtzNtaPww85df) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Of Earth & Wires](https://open.spotify.com/album/3qNTvRIpk5NhtwDOAUMeMx) | 2:14 | 2026-06-13 |  |
 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 | 2023-06-03 | 2025-12-12 |
 | [HEAVENLY FATHER \- Mediolanum, Milan, IT\. Nov 05 2022](https://open.spotify.com/track/2QreJto6pIQvm4uX87jTl4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [VOLUMES: ONE \(SELECTIONS FROM MUSIC CONCERTS 2019\-2023 BON IVER 6 PIECE BAND\)](https://open.spotify.com/album/2tV8MeptqoxJcuwQbh6Khr) | 4:00 | 2026-05-23 |  |
 | [HEAVENLY FATHER \- Mediolanum, Milan, IT\. Nov 05 2022](https://open.spotify.com/track/4XyteovQUzWDoQsx07M2en) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [HEAVENLY FATHER \- Mediolanum, Milan, IT\. Nov 05 2022](https://open.spotify.com/album/3XKBl8eJQzEddmR2tR1Ww0) | 4:00 | 2026-02-26 | 2026-05-23 |

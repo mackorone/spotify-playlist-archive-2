@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Sit back and relax to the chillest pop.  Cover: Kacey Musgraves",
+  "description": "Sit back and relax to the chillest pop.  Cover: AD\u00c9LA",
   "name": "Chill Pop",
   "tracks": [
     {
@@ -3500,7 +3500,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 184761,
       "name": "Back Again",
       "url": "https://open.spotify.com/track/45LINu0RLccmLrkAMGqg9S"
@@ -11391,6 +11391,24 @@
     },
     {
       "album": {
+        "name": "Don't You Know",
+        "url": "https://open.spotify.com/album/6N990tXerv286f4znveHjL"
+      },
+      "artists": [
+        {
+          "name": "LAUV",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146064,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/1mgiMU5E6hXziopHOjIZn4"
+    },
+    {
+      "album": {
         "name": "Home Tapes",
         "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
       },
@@ -11600,7 +11618,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 176600,
       "name": "down the line",
       "url": "https://open.spotify.com/track/0zoYQ34bq09BhbkidNy2hA"
@@ -12480,7 +12498,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 203474,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
@@ -13265,6 +13283,24 @@
     },
     {
       "album": {
+        "name": "Kicking My Feet & Screaming",
+        "url": "https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184417,
+      "name": "Faking Smiles",
+      "url": "https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2"
+    },
+    {
+      "album": {
         "name": "Fall Apart Too",
         "url": "https://open.spotify.com/album/006qZKf89kSJRGg9XTPl04"
       },
@@ -13700,6 +13736,24 @@
       "duration_ms": 184440,
       "name": "Favorite T-Shirt",
       "url": "https://open.spotify.com/track/1T1hTMgbosereKCBVx0FuC"
+    },
+    {
+      "album": {
+        "name": "Small Philosophies",
+        "url": "https://open.spotify.com/album/26EdmznN7QhNWNvtXVZbV2"
+      },
+      "artists": [
+        {
+          "name": "Alkyone",
+          "url": "https://open.spotify.com/artist/0tHJO69AKpp9qz6a0Tg6Rt"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178262,
+      "name": "Favorite Things",
+      "url": "https://open.spotify.com/track/641lcPWbNcmdnshN4RWp6D"
     },
     {
       "album": {
@@ -19906,6 +19960,24 @@
       "duration_ms": 176445,
       "name": "I HOPE I DIE FIRST",
       "url": "https://open.spotify.com/track/1F7sMMmLaJnl9eRF6HydAJ"
+    },
+    {
+      "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/4Ii9whWXI1O1H01ziECRaG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190199,
+      "name": "I Knew It, I Knew You - Piano Version",
+      "url": "https://open.spotify.com/track/6ZwVl8oPsraGB177TNEzaX"
     },
     {
       "album": {
@@ -31581,6 +31653,24 @@
     },
     {
       "album": {
+        "name": "Heart So Open",
+        "url": "https://open.spotify.com/album/1r0AuBhbjA8ax7mKTIh1zu"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "Otis",
+      "url": "https://open.spotify.com/track/15UBUtrFnpS9fcPbil0xzv"
+    },
+    {
+      "album": {
         "name": "Our Song",
         "url": "https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a"
       },
@@ -34172,6 +34262,24 @@
       "duration_ms": 150840,
       "name": "Recover From",
       "url": "https://open.spotify.com/track/3Owg4E2Liitys4sz447Szf"
+    },
+    {
+      "album": {
+        "name": "Red Bottoms",
+        "url": "https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186941,
+      "name": "Red Bottoms",
+      "url": "https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD"
     },
     {
       "album": {
@@ -36946,7 +37054,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 221152,
       "name": "Silverlake Baby",
       "url": "https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh"
@@ -45700,7 +45808,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 235555,
       "name": "Waiting For The Dawn",
       "url": "https://open.spotify.com/track/7ICTrKc2uZHhppHRygXf0b"
@@ -49230,7 +49338,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 167800,
       "name": "Younger You - From the \"Hannah Montana 20th Anniversary Special\"",
       "url": "https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z"
@@ -49327,7 +49435,7 @@
     },
     {
       "album": {
-        "name": "Yours",
+        "name": "Something to Hope For",
         "url": "https://open.spotify.com/album/2w9oISdB9Gp5dO068DHzWm"
       },
       "artists": [

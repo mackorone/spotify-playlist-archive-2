@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11417,
+  "num_followers": 11415,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -207,8 +207,8 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Jongen van de Zon",
-        "url": "https://open.spotify.com/album/6iXdp3hl547alkC5foGDF2"
+        "name": "Honderdduizend graden",
+        "url": "https://open.spotify.com/album/5nfUTRn1vBDuKVOQVKNmlZ"
       },
       "artists": [
         {
@@ -216,13 +216,13 @@
           "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
         },
         {
-          "name": "RIMON",
-          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
         }
       ],
-      "duration_ms": 209280,
-      "name": "Jongen van de Zon",
-      "url": "https://open.spotify.com/track/2emT6WDa4faZ9h2OzVSKZe"
+      "duration_ms": 167381,
+      "name": "Honderdduizend graden",
+      "url": "https://open.spotify.com/track/0X4S1jLylEDhgRW0SMHlzi"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -295,8 +295,8 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Honderdduizend graden",
-        "url": "https://open.spotify.com/album/5nfUTRn1vBDuKVOQVKNmlZ"
+        "name": "Jongen van de Zon",
+        "url": "https://open.spotify.com/album/6iXdp3hl547alkC5foGDF2"
       },
       "artists": [
         {
@@ -304,13 +304,13 @@
           "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
         },
         {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+          "name": "RIMON",
+          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
         }
       ],
-      "duration_ms": 167381,
-      "name": "Honderdduizend graden",
-      "url": "https://open.spotify.com/track/0X4S1jLylEDhgRW0SMHlzi"
+      "duration_ms": 209280,
+      "name": "Jongen van de Zon",
+      "url": "https://open.spotify.com/track/2emT6WDa4faZ9h2OzVSKZe"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "slecht idee (let\u2019s do it)",
+        "url": "https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t"
+      },
+      "artists": [
+        {
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+        }
+      ],
+      "duration_ms": 191998,
+      "name": "slecht idee (let\u2019s do it)",
+      "url": "https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "IJSLAND 2",
         "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 199371,
       "name": "TIJDSGEEST",
       "url": "https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "slecht idee (let\u2019s do it)",
-        "url": "https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t"
-      },
-      "artists": [
-        {
-          "name": "Elmer",
-          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
-        }
-      ],
-      "duration_ms": 191998,
-      "name": "slecht idee (let\u2019s do it)",
-      "url": "https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -515,26 +515,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Boterham",
-        "url": "https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO"
-      },
-      "artists": [
-        {
-          "name": "Gotu Jim",
-          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
-        },
-        {
-          "name": "Faberyayo",
-          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
-        }
-      ],
-      "duration_ms": 127562,
-      "name": "Boterham",
-      "url": "https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "GEEN BEEST",
         "url": "https://open.spotify.com/album/43Il7EpL8sGI4rN9hDxwCk"
       },
@@ -567,18 +547,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "AH!",
-        "url": "https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX"
+        "name": "Boterham",
+        "url": "https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO"
       },
       "artists": [
         {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
+        },
+        {
+          "name": "Faberyayo",
+          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
         }
       ],
-      "duration_ms": 153653,
-      "name": "Behang",
-      "url": "https://open.spotify.com/track/2OLkJvUzbNZNTft8kfEri3"
+      "duration_ms": 127562,
+      "name": "Boterham",
+      "url": "https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -599,6 +583,22 @@
       "duration_ms": 181970,
       "name": "Hou Me Vast",
       "url": "https://open.spotify.com/track/4NWbfobiaeNThKKKMJvSWw"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "AH!",
+        "url": "https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "Behang",
+      "url": "https://open.spotify.com/track/2OLkJvUzbNZNTft8kfEri3"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "Normaal Toen",
+        "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "duration_ms": 194454,
+      "name": "Normaal Toen",
+      "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "IJSLAND 2",
         "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
       },
@@ -855,50 +871,34 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Normaal Toen",
-        "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
+        "name": "Kan Je Niet Blijven?",
+        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
       },
       "artists": [
         {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
         }
       ],
-      "duration_ms": 194454,
-      "name": "Normaal Toen",
-      "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
+      "duration_ms": 215199,
+      "name": "Kan Je Niet Blijven?",
+      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
     },
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/3l1nxL3R1vPTsevFUMX97H"
+        "name": "Sneeuw In De Zomer",
+        "url": "https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32"
       },
       "artists": [
         {
-          "name": "PAULIEN",
-          "url": "https://open.spotify.com/artist/2YjTYpJ0JQB1CZ6P5v2G4b"
+          "name": "Alice Olsthoorn",
+          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
         }
       ],
-      "duration_ms": 158849,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/58bCOr6hgtcNvBSdGViKFQ"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "Maskers",
-        "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
-      },
-      "artists": [
-        {
-          "name": "Elias Mazian",
-          "url": "https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU"
-        }
-      ],
-      "duration_ms": 201627,
-      "name": "Maskers",
-      "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
+      "duration_ms": 164794,
+      "name": "Sneeuw In De Zomer",
+      "url": "https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC"
     }
   ],
   "unique_name": "indie.nl",

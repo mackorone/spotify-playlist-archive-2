@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Los Alegres del Barranco, Edgardo Nu\u00f1ez y Los Farmerz",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Rey Quinto, El Randall",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 220874,
       "name": "Chambeandole Macizo",
       "url": "https://open.spotify.com/track/6rF3EcMniPSGzOn5CFVMvJ"
@@ -2387,6 +2387,28 @@
     },
     {
       "album": {
+        "name": "Compa Primo",
+        "url": "https://open.spotify.com/album/1cdxgijuBnrCsU7uhp7Ch4"
+      },
+      "artists": [
+        {
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192768,
+      "name": "Compa Primo",
+      "url": "https://open.spotify.com/track/2DdaY2TLmJU8MlTqCLG8lg"
+    },
+    {
+      "album": {
         "name": "Pa' las Vibras 2",
         "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
       },
@@ -2704,7 +2726,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 140773,
       "name": "Cuadro Lavado",
       "url": "https://open.spotify.com/track/3kwBmrkGoxezdSLCWFGX2i"
@@ -5026,7 +5048,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 220729,
       "name": "El Hijo Desobediente",
       "url": "https://open.spotify.com/track/4Bf34AjuADDVKQ3lfiafQe"
@@ -6546,6 +6568,28 @@
       "duration_ms": 225512,
       "name": "En Pl\u00e1ticas (Los Hermanos) (En Vivo)",
       "url": "https://open.spotify.com/track/5vuj9ly8WNoLvrCaMKdC37"
+    },
+    {
+      "album": {
+        "name": "ENCERRONES",
+        "url": "https://open.spotify.com/album/2KWy5cA0q2x2xYI4FSlybO"
+      },
+      "artists": [
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "ENCERRONES",
+      "url": "https://open.spotify.com/track/5GlqjDLsp35lSbyn78WfFS"
     },
     {
       "album": {
@@ -9730,7 +9774,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 216770,
       "name": "Lupe Campos",
       "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
@@ -9928,6 +9972,28 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "album": {
+        "name": "Maldito el Hombre",
+        "url": "https://open.spotify.com/album/7cSVTOMi4JM8r1s6DqXAgS"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134581,
+      "name": "Maldito el Hombre",
+      "url": "https://open.spotify.com/track/7hslTSzvoa1Zs0S0jjtd5E"
     },
     {
       "album": {
@@ -10528,6 +10594,24 @@
       "duration_ms": 168298,
       "name": "MIKE TYSON",
       "url": "https://open.spotify.com/track/1iMecXQc0ajPS2by6Bzp5B"
+    },
+    {
+      "album": {
+        "name": "Mil x Hora",
+        "url": "https://open.spotify.com/album/6ve34licV5FXj6JhbgYdcO"
+      },
+      "artists": [
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149351,
+      "name": "Mil x Hora",
+      "url": "https://open.spotify.com/track/7B5U9TgPYByWbfG0UUvpQh"
     },
     {
       "album": {

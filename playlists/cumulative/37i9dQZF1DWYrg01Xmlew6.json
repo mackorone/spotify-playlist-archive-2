@@ -5823,6 +5823,32 @@
     },
     {
       "album": {
+        "name": "M' MANC ANCOR",
+        "url": "https://open.spotify.com/album/36GelnOEiE7ijPa7asssZj"
+      },
+      "artists": [
+        {
+          "name": "Lefar",
+          "url": "https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV"
+        },
+        {
+          "name": "Christian Liguori",
+          "url": "https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn"
+        },
+        {
+          "name": "Babywyne",
+          "url": "https://open.spotify.com/artist/55hqNIuyJgDQhJrW5NSfVk"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168004,
+      "name": "M' MANC ANCOR",
+      "url": "https://open.spotify.com/track/7sBhVMmBZ8AwO4Jl7BTotD"
+    },
+    {
+      "album": {
         "name": "Ma che piens' tu?",
         "url": "https://open.spotify.com/album/5yu6jYHXMmqugqbuw9kaYd"
       },
@@ -11480,6 +11506,28 @@
       "duration_ms": 177600,
       "name": "Sul'A Mia (feat. Enzo Dong)",
       "url": "https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3"
+    },
+    {
+      "album": {
+        "name": "Mentre Napoli Dorme",
+        "url": "https://open.spotify.com/album/1Ibb5WqsQcgfgHZwL3nWjZ"
+      },
+      "artists": [
+        {
+          "name": "Hal Quarti\u00e8r",
+          "url": "https://open.spotify.com/artist/5eSrt3y7HWtkmuAFGeMbBj"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155461,
+      "name": "S\u00ec ce staje (feat. Jake La Furia)",
+      "url": "https://open.spotify.com/track/58AnqLggbDh11FOarEbKP8"
     },
     {
       "album": {

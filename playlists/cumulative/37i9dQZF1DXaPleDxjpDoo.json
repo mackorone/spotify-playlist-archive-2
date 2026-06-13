@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "A Lovely Morning",
+        "url": "https://open.spotify.com/album/0HjC9SYv4MqU1yKjeTUeik"
+      },
+      "artists": [
+        {
+          "name": "BlunD",
+          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201402,
+      "name": "A Lovely Morning",
+      "url": "https://open.spotify.com/track/5Rch63Aa78BPZj0oCNSxLL"
+    },
+    {
+      "album": {
         "name": "A Moments Rest",
         "url": "https://open.spotify.com/album/0vakLKm6vIai7276TJhWFB"
       },
@@ -622,7 +640,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 65882,
       "name": "Birds In The Cul-De-Sac",
       "url": "https://open.spotify.com/track/6Vv7pOvG9e8zFWOwIKJTqA"
@@ -899,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/7svAydlF76P8fXNRjxlfON"
+      },
+      "artists": [
+        {
+          "name": "Still North",
+          "url": "https://open.spotify.com/artist/7At7FfK9R38dadIzbpEU4c"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139999,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/700PBK2kk2obNoyjyJMc8a"
+    },
+    {
+      "album": {
         "name": "Capture The Moment",
         "url": "https://open.spotify.com/album/3oxcE6oMBOXXOEbljcSCag"
       },
@@ -1040,6 +1076,24 @@
       "duration_ms": 144822,
       "name": "cloud forest",
       "url": "https://open.spotify.com/track/2iaRep2eVfXAaoTvpFg9tE"
+    },
+    {
+      "album": {
+        "name": "Cloud Gazing",
+        "url": "https://open.spotify.com/album/6Lw2ib8CyVY2E3ScDXeFMA"
+      },
+      "artists": [
+        {
+          "name": "Julien Margaretti",
+          "url": "https://open.spotify.com/artist/20etBxhKZJiCgcaiTJGcjo"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Cloud Gazing",
+      "url": "https://open.spotify.com/track/3C2pm0VgF1mutWVuGr7cVW"
     },
     {
       "album": {
@@ -1530,7 +1584,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 183795,
       "name": "Endless",
       "url": "https://open.spotify.com/track/0lyWURYgdUo2PB5xsDWctS"
@@ -2964,7 +3018,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 165000,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/3Bv155JBe0u85brGovdFgZ"
@@ -4156,7 +4210,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 170400,
       "name": "Nine Forests",
       "url": "https://open.spotify.com/track/7wcHkclQEQ4Sf9p9vWPHoy"
@@ -4228,7 +4282,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 197656,
       "name": "Of Younger Days",
       "url": "https://open.spotify.com/track/53iiQlHiSIFooiJthGCaQ7"
@@ -5716,6 +5770,24 @@
       "duration_ms": 156066,
       "name": "Still Meadow",
       "url": "https://open.spotify.com/track/3kRCB3hatlhH04TJd3mc5t"
+    },
+    {
+      "album": {
+        "name": "Sun On Morning Dew",
+        "url": "https://open.spotify.com/album/5bQBCKGftByZW1stluFpI0"
+      },
+      "artists": [
+        {
+          "name": "Sandman",
+          "url": "https://open.spotify.com/artist/62Sld5bJeNx6PsO8ulAk2a"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137678,
+      "name": "Sun On Morning Dew",
+      "url": "https://open.spotify.com/track/42dlh6AIW3p7O3e2HqKSxd"
     },
     {
       "album": {

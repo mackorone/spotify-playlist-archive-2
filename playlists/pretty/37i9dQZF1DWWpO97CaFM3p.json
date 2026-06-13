@@ -1,6 +1,6 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 1007609,
+  "num_followers": 1007575,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Never Going Back Again - 2004 Remaster",
+      "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 169467,
       "name": "Spotless (feat. The Lumineers)",
       "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Never Going Back Again - 2004 Remaster",
-      "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "And It\u2019s Still Alright",
-        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "And It's Still Alright",
-      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "i am not who i was",
         "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "New Home",
-        "url": "https://open.spotify.com/album/7udCFvvaTpsOjlfEYOs5wj"
+        "name": "And It\u2019s Still Alright",
+        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
       },
       "artists": [
         {
-          "name": "Austin Farwell",
-          "url": "https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5"
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
         }
       ],
-      "duration_ms": 126359,
-      "name": "New Home",
-      "url": "https://open.spotify.com/track/707BRCe5feUySwv7141QeA"
+      "duration_ms": 235746,
+      "name": "And It's Still Alright",
+      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -667,6 +651,22 @@
       "duration_ms": 400565,
       "name": "That Funny Feeling",
       "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "New Home",
+        "url": "https://open.spotify.com/album/7udCFvvaTpsOjlfEYOs5wj"
+      },
+      "artists": [
+        {
+          "name": "Austin Farwell",
+          "url": "https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5"
+        }
+      ],
+      "duration_ms": 126359,
+      "name": "New Home",
+      "url": "https://open.spotify.com/track/707BRCe5feUySwv7141QeA"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "First Collection 2006-2009",
-        "url": "https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 275306,
-      "name": "Mykonos",
-      "url": "https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "Scared To Start (feat. Joy Oladokun)",
         "url": "https://open.spotify.com/album/0q98KV3tR3VAgP0W1wsO64"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 155000,
       "name": "Sierra Vista",
       "url": "https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "First Collection 2006-2009",
+        "url": "https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 275306,
+      "name": "Mykonos",
+      "url": "https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Smoke On the Highway",
-      "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "Country",
         "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 204276,
       "name": "Cutting Thru The Country",
       "url": "https://open.spotify.com/track/01g05Ii7fj7F8V1UlYFf1q"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Smoke On the Highway",
+      "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "No Strings",
-        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "No Strings",
-      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "Watchhouse",
         "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 185728,
       "name": "New Star",
       "url": "https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
+        "name": "Powder Blue",
+        "url": "https://open.spotify.com/album/2lJVt9WuO7TgCGO7ww9ZS6"
+      },
+      "artists": [
+        {
+          "name": "HARBRS",
+          "url": "https://open.spotify.com/artist/0UYyS6FwvxLy8dw1W9SB6T"
+        }
+      ],
+      "duration_ms": 216003,
+      "name": "Powder Blue",
+      "url": "https://open.spotify.com/track/0Ba3AAdXs6teCiYHveUgbS"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
         "name": "Snowplow",
         "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
-        "name": "Powder Blue",
-        "url": "https://open.spotify.com/album/2lJVt9WuO7TgCGO7ww9ZS6"
-      },
-      "artists": [
-        {
-          "name": "HARBRS",
-          "url": "https://open.spotify.com/artist/0UYyS6FwvxLy8dw1W9SB6T"
-        }
-      ],
-      "duration_ms": 216003,
-      "name": "Powder Blue",
-      "url": "https://open.spotify.com/track/0Ba3AAdXs6teCiYHveUgbS"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "I Won't Be Your Foe",
-        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 170363,
-      "name": "I Only Hope to Feel Love",
-      "url": "https://open.spotify.com/track/1IdozL1GhMN6w0gjAdPLqb"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "The Greatest Part",
         "url": "https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 155395,
       "name": "Tear Us Apart",
       "url": "https://open.spotify.com/track/34XV3jaAksvTR7jMWIvi7x"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "I Won't Be Your Foe",
+        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 170363,
+      "name": "I Only Hope to Feel Love",
+      "url": "https://open.spotify.com/track/1IdozL1GhMN6w0gjAdPLqb"
     },
     {
       "added_at": "2025-01-10 05:00:40",

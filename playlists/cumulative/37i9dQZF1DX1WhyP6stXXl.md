@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Eileen Alister
 
-2,272 songs - 4 day 19 hr 31 min
+2,272 songs - 4 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,6 +639,7 @@
 | [Fairy](https://open.spotify.com/track/7sSZn238Sz9I1YnUE1yLXc) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [Fairy](https://open.spotify.com/album/2YMOfRKtE80e5w7IPblfyc) | 3:21 | 2025-02-27 | 2025-03-21 |
 | [Faker](https://open.spotify.com/track/03ou834zc1jG0U6jYy5gFZ) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Faker](https://open.spotify.com/album/0Zc50WTP4q6tL6HP2bb5BV) | 3:33 | 2025-11-13 | 2025-12-12 |
 | [Faking My Own Death](https://open.spotify.com/track/7reMkEYc7mI4ts95CCda5V) | [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE) | [Outsider](https://open.spotify.com/album/7baG4gdejfEZXntLmNXPp9) | 2:49 | 2025-11-20 | 2025-12-19 |
+| [Faking Smiles](https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 3:04 | 2026-06-11 |  |
 | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/album/7msRig3mOdFp1MeUZPngiY) | 2:23 | 2024-07-11 | 2024-08-09 |
 | [Fall on Me](https://open.spotify.com/track/10wIeKaNvOaUgvzUUfwu7L) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Fall on Me](https://open.spotify.com/album/3WFSscg1CmMws760Eir9Ot) | 3:36 | 2025-03-06 | 2025-04-04 |
 | [Fallen Angel](https://open.spotify.com/track/1ij4ptkOTHNXvRCySVHYrf) | [Alexandria](https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y) | [Fallen Angel](https://open.spotify.com/album/6Aq7AT4U1yZ4jjCXwA0Z5u) | 2:45 | 2025-12-04 | 2026-01-15 |
@@ -1486,7 +1487,7 @@
 | [Outsider](https://open.spotify.com/track/3jLI5m1MHwitYBCth0scsK) | [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE) | [Outsider](https://open.spotify.com/album/4esLeLHcxcSlz5qlP3ZBQN) | 3:48 | 2025-08-28 | 2025-09-26 |
 | [OUTTA MY HEAD](https://open.spotify.com/track/7mNHEBJYW03lCcZAejbBus) | [Thoughty](https://open.spotify.com/artist/31UTwNIEyvdhv7PaaDNisW) | [OUTTA MY HEAD](https://open.spotify.com/album/2F0kjgUj0iai7xs4OnIxHb) | 2:09 | 2024-08-22 | 2024-09-20 |
 | [Over \(feat\. Tom Odell\)](https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Over](https://open.spotify.com/album/5ftBriC68ZmOzyVWecx1iK) | 3:49 | 2026-01-15 | 2026-02-13 |
-| [Over again](https://open.spotify.com/track/3SRbhPdFe0xiRMilDb5PCe) | [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE) | [Over again](https://open.spotify.com/album/6KPkzK2684tAy9Lgw0vTmX) | 3:04 | 2026-06-11 |  |
+| [Over Again](https://open.spotify.com/track/3SRbhPdFe0xiRMilDb5PCe) | [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE) | [Over Again](https://open.spotify.com/album/6KPkzK2684tAy9Lgw0vTmX) | 3:04 | 2026-06-11 |  |
 | [over me](https://open.spotify.com/track/5A7wfp8brBFtkLaxPg7TtO) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [over me](https://open.spotify.com/album/4f2ZmRPZX7R6wQYFIqGyWw) | 2:15 | 2024-10-24 | 2024-11-22 |
 | [Over You \(feat\. Justin Jesso\)](https://open.spotify.com/track/69GEK9C8nKwiGLMv2NbpiG) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Over You \(feat\. Justin Jesso\)](https://open.spotify.com/album/212lVtNgONE9gXOtq8V6g5) | 2:53 | 2024-11-07 | 2024-12-06 |
 | [Overdrawn](https://open.spotify.com/track/2biAEf8gmyqFzxCq9V6pVg) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Overdrawn](https://open.spotify.com/album/0OwJt3VZqdF0AjDsCLnY4M) | 4:16 | 2026-04-02 | 2026-05-01 |
@@ -2053,7 +2054,6 @@
 | [Toxic Love](https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know 2.0](https://open.spotify.com/album/7yZdmwtFDpy8gxEBMEn6cN) | 3:13 | 2025-06-12 | 2025-07-04 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-01-10 |
 | [Traces](https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Traces](https://open.spotify.com/album/0BY5Jbqjlr2cobJaTIScsM) | 3:20 | 2025-10-31 | 2025-11-28 |
-| [Track 3](https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 0:00 | 2026-06-11 |  |
 | [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-18 | 2025-10-10 |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-16 | 2025-02-14 |
 | [Trapped in the Middle](https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Trapped in the Middle](https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw) | 2:18 | 2025-09-25 | 2025-10-24 |

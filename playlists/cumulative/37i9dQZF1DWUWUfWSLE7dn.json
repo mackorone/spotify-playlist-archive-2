@@ -2987,6 +2987,32 @@
     },
     {
       "album": {
+        "name": "McCabe: Symphony No. 2: III. Allegrissimo",
+        "url": "https://open.spotify.com/album/2v3O0TIt4sQvLtx1jFwxfl"
+      },
+      "artists": [
+        {
+          "name": "John McCabe",
+          "url": "https://open.spotify.com/artist/3mHbFOOrXQYhy7FpYCLOW8"
+        },
+        {
+          "name": "Kenneth Woods",
+          "url": "https://open.spotify.com/artist/7s7tlLVag6Bgnt1sDiyjhp"
+        },
+        {
+          "name": "BBC Scottish Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232666,
+      "name": "Symphony No. 2: III. Allegrissimo",
+      "url": "https://open.spotify.com/track/0gOExOyJxtnYmzi351ZWms"
+    },
+    {
+      "album": {
         "name": "take a breath",
         "url": "https://open.spotify.com/album/1nm957F9G9h8Ma9vHgUr9H"
       },

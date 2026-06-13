@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: The Paradox
 
-584 songs - 1 day 5 hr 19 min
+585 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [HUNGOVER](https://open.spotify.com/track/2GHVMfuNzmKWA3gk3EyEGT) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [HUNGOVER](https://open.spotify.com/album/4SmmY5mzkycS02Vk9pofKA) | 2:12 | 2023-06-20 | 2023-09-15 |
 | [hurricane](https://open.spotify.com/track/7rBZUdVNrNxucV0E3bjgec) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [hurricane](https://open.spotify.com/album/6KrlbTeMwlqpaH0aAA18bW) | 2:44 | 2022-10-13 | 2023-02-10 |
 | [I Don't Like Who I Was Then \(feat\. Ryland Heagy of Origami Angel\)](https://open.spotify.com/track/0htUcqJJfwYWFhb4W8T7M2) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K), [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY), [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe) | [Burst & Decay \(Volume III\)](https://open.spotify.com/album/11W6aNHzzqbf5McbVF9eex) | 3:53 | 2025-05-15 |  |
-| [I Don't Wanna Go!](https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Don't Wanna Go!](https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585) | 2:39 | 2026-04-17 |  |
+| [I Don't Wanna Go!](https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Don't Wanna Go!](https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585) | 2:39 | 2026-04-17 | 2026-06-13 |
 | [I Don’t Think It’s the Right Time for Emojis](https://open.spotify.com/track/3fHEfRMc4AbKCENtLnbkse) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [I Don’t Think It’s the Right Time for Emojis](https://open.spotify.com/album/6UTpeoExGxb3SK82OsDOXV) | 2:12 | 2026-02-20 |  |
 | [I Don’t Work Here Anymore](https://open.spotify.com/track/0VmGgo6i8HOmrp5y8qqBxQ) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Motel Du Cap](https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD) | 3:41 | 2025-08-07 |  |
 | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/337hH1EiSJ7Sqqz6weaUmq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/album/6pGIeDt94yC7vG4TnAYXbA) | 3:21 | 2022-07-18 | 2022-12-04 |
@@ -477,6 +477,7 @@
 | [Stop Living & Don't Dream](https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Stop Living & Don't Dream](https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy) | 2:22 | 2023-03-31 | 2023-08-11 |
 | [Stop Talking](https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Stop Talking](https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR) | 3:20 | 2024-08-14 | 2025-10-11 |
 | [Straight Up \(Needy\)](https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Straight Up \(Needy\)](https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX) | 3:14 | 2026-02-20 | 2026-04-18 |
+| [Straight Up to Space](https://open.spotify.com/track/2Fu0ymVqrFGgFWYeah705d) | [OUT IN FRONT](https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx) | [Straight Up to Space](https://open.spotify.com/album/4O1oiHIUMvxzLW7TEO7DPQ) | 2:31 | 2026-06-05 |  |
 | [Strangers](https://open.spotify.com/track/27by2Pb8Ys2KmVVGkPAujq) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future \(Deluxe\)](https://open.spotify.com/album/3CSC52xCPslJCpjPFYg4fb) | 2:34 | 2023-10-19 | 2024-03-23 |
 | [Strangers](https://open.spotify.com/track/2SISsR0V9kNjOHU9sJa413) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Strangers](https://open.spotify.com/album/3vW6XXJIIfZZRd7TtNR5J1) | 2:34 | 2023-09-15 | 2023-11-19 |
 | [Stupefied](https://open.spotify.com/track/1Z9sCohQaZWYB8XzPMYMlp) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Stupefied](https://open.spotify.com/album/2uDfhC6awFXvovXquieyzG) | 2:52 | 2024-07-18 | 2024-08-15 |

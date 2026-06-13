@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 29 | [Moment](https://open.spotify.com/track/2AkJfhzKOTqgb3RxqyPMeU) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:34 |
 | 30 | [Lavender](https://open.spotify.com/track/5bftrb8CIRhhCt5ufD7JUi) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:11 |
 | 31 | [Just Go](https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:06 |
-| 32 | [Sympathy](https://open.spotify.com/track/6OyqoLlydgdp1NWDbNZFxZ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 3:05 |
-| 33 | [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 |
+| 32 | [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 |
+| 33 | [Sympathy](https://open.spotify.com/track/6OyqoLlydgdp1NWDbNZFxZ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 3:05 |
 | 34 | [Water On Your Nose](https://open.spotify.com/track/6kANnmncuAdpwzd2Pcz0VS) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:15 |
 | 35 | [Nothing Works](https://open.spotify.com/track/0AdQEPTVO8F7QAu1eDIpll) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 4:12 |
 | 36 | [Sophie](https://open.spotify.com/track/6gufQS7szZfDuY0zS1bEhH) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Sophie](https://open.spotify.com/album/2eWiegJqcDd0988o8lwVBm) | 3:35 |
@@ -268,8 +268,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 258 | [Bleed Me Dry](https://open.spotify.com/track/71vxHUZHN4EaThI2OHa9mI) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 3:16 |
 | 259 | [West Side Love](https://open.spotify.com/track/2NJPwg17EXbo8inxwwHMgl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 4:26 |
 | 260 | [Facade](https://open.spotify.com/track/3SyN9yQx2FHkKJd9hEG9X8) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 2:02 |
-| 261 | [Come Into The Light](https://open.spotify.com/track/3kjDnoYuBJ2hyU5A18GGRt) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:48 |
-| 262 | [teya teya](https://open.spotify.com/track/3PPcYJR6ASVxK7VKFVlPxw) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [teya teya](https://open.spotify.com/album/2gTAk0cukmal4jaqAhvRUA) | 2:53 |
+| 261 | [teya teya](https://open.spotify.com/track/3PPcYJR6ASVxK7VKFVlPxw) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [teya teya](https://open.spotify.com/album/2gTAk0cukmal4jaqAhvRUA) | 2:53 |
+| 262 | [Come Into The Light](https://open.spotify.com/track/3kjDnoYuBJ2hyU5A18GGRt) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:48 |
 | 263 | [Lethally Reckless](https://open.spotify.com/track/7kYPGj3KX1PcnSSzge0lWn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:25 |
 | 264 | [Hold On To That Feelin'](https://open.spotify.com/track/0JYbyV3lEwDtHREABiaS0T) | [Jordan Paul](https://open.spotify.com/artist/31QZ4RJ3RRju0BT8z5ke2N) | [Hold On To That Feelin'](https://open.spotify.com/album/6BfCtnQsqADj2K4mVZ1oXH) | 2:43 |
 | 265 | [Heart of Mine](https://open.spotify.com/track/1JTeVyVOUcSJhlWsJc2dau) | [Still Eye](https://open.spotify.com/artist/6DWaAKLqOqWs7GvEoslkTL) | [Heart of Mine](https://open.spotify.com/album/3Cy3PAQStwxw9PGvkogTBg) | 3:06 |
@@ -292,4 +292,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 282 | [Water Lily](https://open.spotify.com/track/635tpDIpccjgHnOmd80WfP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:45 |
 | 283 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AcT98AAAAAA1jy8eTx8eJ0oaj5SW4kfq`
+Snapshot ID: `AcUDhgAAAAAQCYGbdVXwP7DKPI1wMUEH`

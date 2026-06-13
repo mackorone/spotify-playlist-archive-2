@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 
 > The IDs that got us here\. \#Spotify20
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,832 likes - 95 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,833 likes - 95 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 7 | [I Want Your Soul](https://open.spotify.com/track/1uqnKeoy55KA6LqoOiW4Pm) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [I Want Your Soul](https://open.spotify.com/album/04EAVlVTo2cVYXmDyESFov) | 3:15 |
 | 8 | [Baby I'm Yours](https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [By Your Side](https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT) | 3:35 |
 | 9 | [BE YOUR GIRL \- KAYTRANADA REMIX](https://open.spotify.com/track/3zp3Mq8krAb1067UL94zJq) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BE YOUR GIRL \(KAYTRANADA REMIX\)](https://open.spotify.com/album/1TDOE0Bglplp7Z77cg4JrM) | 4:28 |
-| 10 | [17](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [17](https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5) | 3:16 |
-| 11 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
+| 10 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
+| 11 | [17](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [17](https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5) | 3:16 |
 | 12 | [Starry Night \- Edit](https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI) | 3:53 |
 | 13 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 |
 | 14 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 15 | [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 |
-| 16 | [Good Lies](https://open.spotify.com/track/1ZnghCVtXCrtmKJH32z4UK) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 2:40 |
-| 17 | [Fake ID](https://open.spotify.com/track/1UgZXifaKYZCHtcXp9653a) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Foreign Ororo \(Special Edition\)](https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z) | 4:06 |
+| 16 | [Fake ID](https://open.spotify.com/track/1UgZXifaKYZCHtcXp9653a) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Foreign Ororo \(Special Edition\)](https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z) | 4:06 |
+| 17 | [Good Lies](https://open.spotify.com/track/1ZnghCVtXCrtmKJH32z4UK) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 2:40 |
 | 18 | [Serotonin Moonbeams](https://open.spotify.com/track/5W9KXaUHasNgdram95MDLN) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 4:47 |
 | 19 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 |
 | 20 | [Bad Kingdom](https://open.spotify.com/track/52XjrfqvrxaMtjCDYEKkXN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv) | 4:22 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 89 | [We Give Thee Honor](https://open.spotify.com/track/4SFl7RUrwIz7KZORnRuLB8) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [We Give Thee Honor / Makes Me Wanna](https://open.spotify.com/album/2DINiJB1lCng3gMZO15dL4) | 3:11 |
 | 90 | [Looney](https://open.spotify.com/track/5RBuQi41kgJO9qDdcMLof7) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Looney Talks](https://open.spotify.com/album/1ijBvXjoA3te20e27FfVGF) | 6:00 |
 | 91 | [Archangel](https://open.spotify.com/track/6evpAJCR5GeeHDGgv3aXb3) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq) | 4:00 |
-| 92 | [raingurl](https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [raingurl](https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr) | 3:57 |
-| 93 | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt) | 3:24 |
+| 92 | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt) | 3:24 |
+| 93 | [raingurl](https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [raingurl](https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr) | 3:57 |
 | 94 | [When A Fire Starts To Burn](https://open.spotify.com/track/7cyUppcNj7ojpzPlB0CPW9) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle](https://open.spotify.com/album/1ZFGRj11NnZHos8DUbbpF1) | 4:43 |
 | 95 | [Night](https://open.spotify.com/track/2ST4rHwfdfkuArUKvdGn8a) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p), [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG) | [Diary Of An Afro Warrior \(Expanded Edition\)](https://open.spotify.com/album/1Kl9PK9QiRu95xERylVZ7K) | 5:56 |
 

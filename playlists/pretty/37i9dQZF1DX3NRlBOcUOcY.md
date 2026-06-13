@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,296 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,293 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 45 | [MR\. MOONDIAL](https://open.spotify.com/track/67LKV40NfSSGIJnm0xz6fi) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 2:45 |
 | 46 | [CANCIÓN PARA REGRESAR](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [CANCIÓN PARA REGRESAR](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
 | 47 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 |
-| 48 | [BRONCEADOR](https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [BRONCEADOR](https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF) | 2:29 |
-| 49 | [Wapa](https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Wapa](https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq) | 2:39 |
+| 48 | [Wapa](https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Wapa](https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq) | 2:39 |
+| 49 | [BRONCEADOR](https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [BRONCEADOR](https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF) | 2:29 |
 | 50 | [Sonríele](https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sonríele](https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn) | 2:58 |
 | 51 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 |
 | 52 | [Mírame Ahora](https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mírame Ahora](https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa) | 2:34 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 88 | [Baja California](https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Baja California](https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf) | 3:07 |
 | 89 | [Acapulco \(feat\. Fede Vigevani\)](https://open.spotify.com/track/47G2PT16EOFO0EMSGG9hII) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr) | [Acapulco \(feat\. Fede Vigevani\)](https://open.spotify.com/album/0C2CUmnQqPs9iepBZr5v63) | 3:31 |
 | 90 | [AZOLEAO](https://open.spotify.com/track/1o7orLqjr0u5EbTnxsPp4N) | [Zalek](https://open.spotify.com/artist/7wGIP46NCaUDHkLrGyabsE), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu) | [AZOLEAO](https://open.spotify.com/album/4xiQ2wrEzUeQg8OimLtaEH) | 2:15 |
-| 91 | [Luna Llena](https://open.spotify.com/track/0w37XvWazgBzY1bD0Pi0yz) | [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Luna Llena](https://open.spotify.com/album/4hInLhxtl2xGXS5FIpPSNr) | 2:30 |
-| 92 | [Ánimo](https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Ánimo](https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC) | 2:37 |
+| 91 | [Ánimo](https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Ánimo](https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC) | 2:37 |
+| 92 | [Luna Llena](https://open.spotify.com/track/0w37XvWazgBzY1bD0Pi0yz) | [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Luna Llena](https://open.spotify.com/album/4hInLhxtl2xGXS5FIpPSNr) | 2:30 |
 | 93 | [Sagitario](https://open.spotify.com/track/3mnB1sPrhZNqEsywmwqN4E) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Sagitario](https://open.spotify.com/album/5lEYaDSKTg2dvBFf3Cj0vf) | 2:48 |
 | 94 | [UNA COMO TÚ](https://open.spotify.com/track/5WroykksLsgGGMkjc1rNVP) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [UNA COMO TÚ](https://open.spotify.com/album/0r2l4seULfjhxvH3hOwQlY) | 2:16 |
 | 95 | [Simancongo](https://open.spotify.com/track/1Wj1kChsSgwQp0DXq4ursv) | [Zapapaya](https://open.spotify.com/artist/2qDwLZAEADFu1KEpO3y126), [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w), [KSPR](https://open.spotify.com/artist/16VP7T1aDDIbSmVYxonevJ), [Montaigne](https://open.spotify.com/artist/6kzjCLv7yCjBOxwHTX9p47) | [Simancongo](https://open.spotify.com/album/1u7tTBpvuRBC21fpC11ocO) | 3:06 |

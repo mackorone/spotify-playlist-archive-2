@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1071749,
+  "num_followers": 1071831,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
+        "name": "Ugly Heart",
+        "url": "https://open.spotify.com/album/6cvanscbjwTlkleedLkWhC"
+      },
+      "artists": [
+        {
+          "name": "G.R.L.",
+          "url": "https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq"
+        }
+      ],
+      "duration_ms": 199580,
+      "name": "Ugly Heart",
+      "url": "https://open.spotify.com/track/1Vv0MPcooEoQzVZYfKMgKW"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 201637,
       "name": "Sweet Lovin' - Radio Edit",
       "url": "https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
-        "name": "Ugly Heart",
-        "url": "https://open.spotify.com/album/6cvanscbjwTlkleedLkWhC"
-      },
-      "artists": [
-        {
-          "name": "G.R.L.",
-          "url": "https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq"
-        }
-      ],
-      "duration_ms": 199580,
-      "name": "Ugly Heart",
-      "url": "https://open.spotify.com/track/1Vv0MPcooEoQzVZYfKMgKW"
     },
     {
       "added_at": "2024-03-22 16:40:22",

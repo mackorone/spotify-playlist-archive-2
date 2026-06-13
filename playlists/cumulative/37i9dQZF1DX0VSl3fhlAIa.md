@@ -4,7 +4,7 @@
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-54 songs - 3 hr 54 min
+55 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [I'll be there](https://open.spotify.com/track/45wOY8aMv3FgERrGaFxWOd) | [Tina](https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L) | [Colorado](https://open.spotify.com/album/7D3tX9U9qzmr0HOiU3GlB7) | 5:46 | 2025-09-30 |  |
 | [I'm In Love](https://open.spotify.com/track/0ZHEfv2raGfXN9zC9R9fOo) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [double](https://open.spotify.com/album/215aaYIKF4stitCyFZ95al) | 4:57 | 2025-09-30 | 2026-04-16 |
 | [In My Room](https://open.spotify.com/track/3R4Yhp87d7GsGHgp92qlUH) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 4:19 | 2025-09-30 |  |
-| [Is it a crime?](https://open.spotify.com/track/2hy9onH96hRqGOAW50W3Iq) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Is it a crime?](https://open.spotify.com/album/1fiAF9KstmdCFtcog112Wx) | 3:14 | 2025-09-30 |  |
+| [Is it a crime?](https://open.spotify.com/track/2hy9onH96hRqGOAW50W3Iq) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Is it a crime?](https://open.spotify.com/album/1fiAF9KstmdCFtcog112Wx) | 3:14 | 2025-09-30 | 2026-06-13 |
 | [Lady Soul \(Day\-lite Version\)](https://open.spotify.com/track/2LvTZDycD0ZzlwXuCedIY3) | [ACO](https://open.spotify.com/artist/1G29J8b3UnUFUilGCbUlXf) | [Lady Soul](https://open.spotify.com/album/1wHCBE51BOkm2B54mAxzTg) | 6:34 | 2025-09-30 |  |
 | [LET'S GO!](https://open.spotify.com/track/2yS62ySi7e53qMzJ32ClQH) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Sunny Side Of Original Love](https://open.spotify.com/album/1tXNcSMy345oksuxlQppRH) | 6:07 | 2025-09-30 |  |
 | [LOOP](https://open.spotify.com/track/40TPC9leP3bl1YJsjtTgqs) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [SIRUP EP2](https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8) | 5:05 | 2025-09-30 |  |
@@ -43,6 +43,7 @@
 | [no pride](https://open.spotify.com/track/1Wy8HDBwISAY6l97Pm1I9X) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [When was that](https://open.spotify.com/album/3ZQiUTHlL1t3v4tPoQ52PB) | 2:46 | 2025-09-30 |  |
 | [Over The Moon \- feat\. Sagiri Sól](https://open.spotify.com/track/2WPC6nZTTdbDJ5J2KMkhRN) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Juliet is the moon](https://open.spotify.com/album/4PeztBLuZAi4GvZqQXNM19) | 3:23 | 2025-09-30 |  |
 | [Romance](https://open.spotify.com/track/75OqiU9QFLNeLTLvOCudWr) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [Romance](https://open.spotify.com/album/6SUTDYK3cMr9mFR82UU5vG) | 2:38 | 2025-09-30 |  |
+| [Safe Place](https://open.spotify.com/track/42S0Kub6ebpzcpLwDFgl6M) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Safe Place](https://open.spotify.com/album/3SQngxWaRDieH1AbZdkA4A) | 3:29 | 2026-06-12 |  |
 | [Shadow](https://open.spotify.com/track/0pVxvSry724FChsTsP6ZSr) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Shadow](https://open.spotify.com/album/1qmGrgbeAmlxOgM8Ebuxd8) | 3:45 | 2026-04-27 |  |
 | [Shake \- \(Original\)](https://open.spotify.com/track/2i2dlGChzEtkAOB5RSP8gd) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:31 | 2025-09-30 |  |
 | [Slow brew morning](https://open.spotify.com/track/3cTHSRJq34IYP3uadM3UGb) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Slow brew morning](https://open.spotify.com/album/6HfItavipVgNp1zCSbpBrv) | 2:42 | 2025-09-30 |  |

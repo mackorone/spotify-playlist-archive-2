@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-206 songs - 8 hr 33 min
+208 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,8 @@
 | [Lättnad](https://open.spotify.com/track/4V5yTOr0Xit6Cc0zvAs0H3) | [Anna Sofia Nord](https://open.spotify.com/artist/1LMH92wmd895KpE0pdRSek) | [Lättnad](https://open.spotify.com/album/3D1oqoEKiohXiC9ZSXWufI) | 1:50 | 2023-05-09 | 2025-04-09 |
 | [Meditabundus](https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk) | [Gianni Goggia](https://open.spotify.com/artist/17wpSZjx0lWXcjoskfV2sQ), [Kellen Chase](https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t) | [Meditabundus](https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN) | 2:30 | 2023-05-09 | 2025-03-05 |
 | [Mind Like Water](https://open.spotify.com/track/4fcdZ4bM6DgVGOs9y13KIk) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Mind Like Water](https://open.spotify.com/album/5IKvJmKiZqUke2c6AaydA0) | 2:00 | 2023-05-09 | 2025-04-26 |
+| [Misty Peaks](https://open.spotify.com/track/3628qsHkzwReGKjsqnYyyp) | [Ted Lucky](https://open.spotify.com/artist/38GDIHuGmSYxf05zaOZKFg) | [Misty Peaks](https://open.spotify.com/album/75bK2qP8Yg3NaIRPcPK7G0) | 2:23 | 2026-06-12 |  |
+| [Moments Between](https://open.spotify.com/track/3iPRWcBkZ5Fp4x93lWypUO) | [Sorellien](https://open.spotify.com/artist/6tskJzai4ETnMp76lomMzr) | [Moments Between](https://open.spotify.com/album/5H5MCuCFOpctGGNNOPphMR) | 2:33 | 2026-06-12 |  |
 | [Moon and Stars](https://open.spotify.com/track/2OA9riU1GjVDo02j8REb3X) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Moon and Stars](https://open.spotify.com/album/5K4xqnFvuAgWzFqomW77TI) | 2:28 | 2023-05-09 | 2025-02-19 |
 | [Movement](https://open.spotify.com/track/3qowDmCLrK4mgwbbFW5unz) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Movement](https://open.spotify.com/album/7Jhzqb6xoRsAMWqXvC15Mf) | 2:54 | 2023-05-09 | 2025-03-05 |
 | [Naked](https://open.spotify.com/track/45d2JrwB423sR5mC9eI7BM) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Naked](https://open.spotify.com/album/3NQO6Taj5fCknYeSs3aNJc) | 2:55 | 2024-10-07 | 2026-05-09 |

@@ -3283,6 +3283,24 @@
     },
     {
       "album": {
+        "name": "mi hombre",
+        "url": "https://open.spotify.com/album/5dc6hRpUCVz9r0pcvTITKg"
+      },
+      "artists": [
+        {
+          "name": "Manu Manzo",
+          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176509,
+      "name": "mi hombre",
+      "url": "https://open.spotify.com/track/4C18zbNTQR9Y36GDYXQAq7"
+    },
+    {
+      "album": {
         "name": "Mi Otra Mitad (Remix)",
         "url": "https://open.spotify.com/album/668u02QByaBqOr2YiJE0hW"
       },
@@ -3492,24 +3510,6 @@
       "duration_ms": 194892,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ"
-    },
-    {
-      "album": {
-        "name": "mi hombre",
-        "url": "https://open.spotify.com/album/5dc6hRpUCVz9r0pcvTITKg"
-      },
-      "artists": [
-        {
-          "name": "Manu Manzo",
-          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
-        }
-      ],
-      "date_added": "2026-05-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176509,
-      "name": "my man",
-      "url": "https://open.spotify.com/track/4C18zbNTQR9Y36GDYXQAq7"
     },
     {
       "album": {

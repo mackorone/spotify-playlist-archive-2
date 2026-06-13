@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Baarish Mein Phir (Acoustic)",
+        "url": "https://open.spotify.com/album/2EYtm9tvuAQsX9U14PPn0g"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181240,
+      "name": "Baarish Mein Phir - Acoustic",
+      "url": "https://open.spotify.com/track/0R0SrnCwc9cSZIgS7lqtRp"
+    },
+    {
+      "album": {
         "name": "Baarishein",
         "url": "https://open.spotify.com/album/0391DL7W1ftvUB6K1TO4an"
       },
@@ -4358,7 +4376,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 229239,
       "name": "Ishq Nibhaavan De (From \"Chand Mera Dil\")",
       "url": "https://open.spotify.com/track/029SqqNDwuG5tueOaArCoZ"
@@ -5094,6 +5112,24 @@
       "duration_ms": 215173,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/57TrQP3nPUoc92VsooFB7p"
+    },
+    {
+      "album": {
+        "name": "Kahaaniya (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4i4SolsDk9jbFQUvDLsk6O"
+      },
+      "artists": [
+        {
+          "name": "Arpit Massey",
+          "url": "https://open.spotify.com/artist/2P1HuLl6Apsz3RGlzSYXGu"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255997,
+      "name": "Kahaaniya (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0cB44p7CpZ9DlVe0LuAMOD"
     },
     {
       "album": {
@@ -9038,7 +9074,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 172800,
       "name": "Purana Sheher",
       "url": "https://open.spotify.com/track/4ohXeSu6Hq06jYyKehSJL0"
@@ -10116,7 +10152,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 72000,
       "name": "Samjho Na - 2am version",
       "url": "https://open.spotify.com/track/5GMm7lqmEXNe8lzZvUwNjP"
@@ -12078,6 +12114,28 @@
       "duration_ms": 163383,
       "name": "Tum Aur Main",
       "url": "https://open.spotify.com/track/29O6kviQMumVmWZDO14QSB"
+    },
+    {
+      "album": {
+        "name": "Tum Banke Sitaraa",
+        "url": "https://open.spotify.com/album/1RpUoGX3FnsZiZutl4cigd"
+      },
+      "artists": [
+        {
+          "name": "Ayush Anand",
+          "url": "https://open.spotify.com/artist/5dVDm47ybdd7wirWnVBkED"
+        },
+        {
+          "name": "Shruti Shukla",
+          "url": "https://open.spotify.com/artist/7mvIMEb1n9wNBSz26wgPXm"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221351,
+      "name": "Tum Banke Sitaraa",
+      "url": "https://open.spotify.com/track/6kp1qfAkbaUuHCKMFF0OSt"
     },
     {
       "album": {

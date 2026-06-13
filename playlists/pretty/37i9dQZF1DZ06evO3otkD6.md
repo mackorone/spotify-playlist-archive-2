@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,006 likes - 48 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,054 likes - 48 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 15 | [Castillos \(feat\. Regina Blandón\)](https://open.spotify.com/track/4IGGduepkbwJ3j2fSWNZ1J) | [Mentiras: La Serie](https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Mariana Treviño](https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM), [Diana Bovio](https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp), [Regina Blandón](https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ) | [Mentiras: La Serie \(Music from the Original TV Series\)](https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg) | 2:05 |
 | 16 | [Si No Te Quisiera](https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [The King Is Back](https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu) | 3:05 |
 | 17 | [JACKPOT](https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:13 |
-| 18 | [Egoista](https://open.spotify.com/track/1e6L0EbCaG0TraK7LtbcXE) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:24 |
+| 18 | [Por Ella](https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Por Ella \(FIFA World Cup 2026™\)](https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj) | 3:01 |
 | 19 | [Es Ella Mas Que Yo](https://open.spotify.com/track/76U0tk9qvImvBhwPgSw2z9) | [Mentiras: La Serie](https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Mentiras: La Serie \(Music from the Original TV Series\)](https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg) | 1:50 |
-| 20 | [Por Ella](https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Por Ella \(FIFA World Cup 2026™\)](https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj) | 3:01 |
+| 20 | [Egoista](https://open.spotify.com/track/1e6L0EbCaG0TraK7LtbcXE) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:24 |
 | 21 | [Heterocromía](https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:45 |
 | 22 | [La Cuadrada](https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Cuadrada](https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J) | 2:40 |
 | 23 | [De Color De Rosa](https://open.spotify.com/track/29Xfj1s53QYHFeJnQSTo0b) | [Mentiras: La Serie](https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Mentiras: La Serie \(Music from the Original TV Series\)](https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg) | 1:56 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 47 | [Sueño de Ti](https://open.spotify.com/track/0lLygnowX78lFphF2235qe) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [MLKMN](https://open.spotify.com/artist/7rIVXlBjb6tSrRC27vkzmz) | [Prisma](https://open.spotify.com/album/7FVRWDkCucNcU8NNUit5xv) | 4:20 |
 | 48 | [Lolita](https://open.spotify.com/track/5FVWs30Ce5zqcsVDfwfrJP) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:26 |
 
-Snapshot ID: `aiipAAAAAAAV5ILdIDfCsQS/4KV31QLe`
+Snapshot ID: `ain6gAAAAACBq9ROfIscra29rQT4Mt98`

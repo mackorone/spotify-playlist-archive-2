@@ -1,13 +1,157 @@
 {
-  "description": "New jazz for open minds. Cover: Nduduzo Makhathini",
-  "num_followers": 1049656,
+  "description": "New jazz for open minds. Cover: Ibrahim Maalouf",
+  "num_followers": 1049664,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPotvJ8Svp+ImBnq37av1NBp14bZ",
+  "snapshot_id": "AAAAAMcEq+zMRKEQiKfvbpHhcEw/gB13",
   "tracks": [
+    {
+      "added_at": "2026-06-12 19:02:12",
+      "album": {
+        "name": "BRING THE LIGHT",
+        "url": "https://open.spotify.com/album/0yRhKkzF6PP50XGNsML1AR"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        },
+        {
+          "name": "Anthony Evans",
+          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Weedie Braimah",
+          "url": "https://open.spotify.com/artist/0gNcTRfbjxxOdXxSCoXluo"
+        },
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        },
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "BRING THE LIGHT",
+      "url": "https://open.spotify.com/track/6ugeNh75lWjctHoK42oAF0"
+    },
+    {
+      "added_at": "2026-06-12 04:01:23",
+      "album": {
+        "name": "El Gaucho (feat. Marcos Valle, Mirella Costa & Zaza Desiderio)",
+        "url": "https://open.spotify.com/album/4E7cjsGwW7DIIZfOFokVFH"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        },
+        {
+          "name": "Mirella Costa",
+          "url": "https://open.spotify.com/artist/7ESNrvtH8AEYW4pSbiOtx7"
+        },
+        {
+          "name": "Zaza Desiderio",
+          "url": "https://open.spotify.com/artist/6MKahwH3Pc4PjRPIKrngfb"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "El Gaucho (feat. Marcos Valle, Mirella Costa & Zaza Desiderio)",
+      "url": "https://open.spotify.com/track/23T156dMcEz78BKQLUg0D6"
+    },
+    {
+      "added_at": "2026-06-12 04:01:23",
+      "album": {
+        "name": "Jai Ganga",
+        "url": "https://open.spotify.com/album/12T65A68PN9sNsK7N4EazW"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 308733,
+      "name": "Jai Ganga",
+      "url": "https://open.spotify.com/track/4UkTSN3gcExV90koLrwKd6"
+    },
+    {
+      "added_at": "2026-06-12 04:01:23",
+      "album": {
+        "name": "it's hard to hear you",
+        "url": "https://open.spotify.com/album/5udEHFVoU0l3i4cpzrfuwJ"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Robert \"Sput\" Searight",
+          "url": "https://open.spotify.com/artist/0o5bweAbSBmSkksYXrgKS8"
+        },
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "it's hard to hear you",
+      "url": "https://open.spotify.com/track/4w5eVrPEcUeuo88mEmLeWa"
+    },
+    {
+      "added_at": "2026-06-12 04:01:23",
+      "album": {
+        "name": "Slo-Mo Neon Luminate Hoverings",
+        "url": "https://open.spotify.com/album/69Olg2e3XppXDG5aw3Abvt"
+      },
+      "artists": [
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        },
+        {
+          "name": "Mary Halvorson",
+          "url": "https://open.spotify.com/artist/5tCfZ8dYbzaq6auQeSAsRl"
+        }
+      ],
+      "duration_ms": 364386,
+      "name": "Prelude in the Ash",
+      "url": "https://open.spotify.com/track/2FlB1ThLUOKKbahjNrdE76"
+    },
+    {
+      "added_at": "2026-06-12 04:01:23",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/7weQeRcIfkf3UBbZiwUyOj"
+      },
+      "artists": [
+        {
+          "name": "Moyses Dos Santos",
+          "url": "https://open.spotify.com/artist/5AehyVi8jNZTAFdqaXhFke"
+        }
+      ],
+      "duration_ms": 220807,
+      "name": "Encontrei Amor",
+      "url": "https://open.spotify.com/track/1kU5bxz2l6h5DyJxRYfXlP"
+    },
     {
       "added_at": "2026-06-05 04:27:02",
       "album": {
@@ -299,30 +443,6 @@
     {
       "added_at": "2026-05-22 04:01:24",
       "album": {
-        "name": "CHASING THE SUN",
-        "url": "https://open.spotify.com/album/2DuFUK5iYAisaI2mWiC9hS"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        },
-        {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
-        },
-        {
-          "name": "Richard Galliano",
-          "url": "https://open.spotify.com/artist/6yXri0y0q95UDiAyLzTM1y"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "CHASING THE SUN",
-      "url": "https://open.spotify.com/track/0qUqOkPmWP9o7e3GgM3Fgg"
-    },
-    {
-      "added_at": "2026-05-22 04:01:24",
-      "album": {
         "name": "War Time Poem",
         "url": "https://open.spotify.com/album/1MSgWyOVYx7uUOmi3trvkd"
       },
@@ -539,22 +659,6 @@
       "duration_ms": 300079,
       "name": "Transference",
       "url": "https://open.spotify.com/track/3m9M2eQqzwfNScI9raJbjB"
-    },
-    {
-      "added_at": "2026-05-15 04:01:09",
-      "album": {
-        "name": "Good Kid",
-        "url": "https://open.spotify.com/album/32QN9B8UTaw1XT9mrna9eL"
-      },
-      "artists": [
-        {
-          "name": "Dana and Alden",
-          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Good Kid",
-      "url": "https://open.spotify.com/track/1AoNFXIVVR0j4aTO28Wxuw"
     },
     {
       "added_at": "2025-09-19 04:16:20",
@@ -891,26 +995,6 @@
       "duration_ms": 291120,
       "name": "Ancestros Futuros",
       "url": "https://open.spotify.com/track/7epyCKvpOaA5yrn7fTXGHV"
-    },
-    {
-      "added_at": "2025-08-29 04:00:27",
-      "album": {
-        "name": "wHIMSY",
-        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "wASH U AWAY",
-      "url": "https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x"
     },
     {
       "added_at": "2026-05-15 04:01:09",
@@ -1285,30 +1369,6 @@
       "url": "https://open.spotify.com/track/4djRjoWKtRg33y7xJYKaWo"
     },
     {
-      "added_at": "2025-09-12 04:22:45",
-      "album": {
-        "name": "Take Off Your Cool",
-        "url": "https://open.spotify.com/album/4cIqn29NG2sXYtANxx5LSJ"
-      },
-      "artists": [
-        {
-          "name": "Chief Adjuah",
-          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Christian Scott aTunde Adjuah",
-          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
-        }
-      ],
-      "duration_ms": 447358,
-      "name": "Take Off Your Cool",
-      "url": "https://open.spotify.com/track/0Ysimq1w9pwerOtGekE76i"
-    },
-    {
       "added_at": "2025-10-03 04:00:47",
       "album": {
         "name": "HOURS:AFTER",
@@ -1343,26 +1403,6 @@
       "duration_ms": 401568,
       "name": "Seuss Pants",
       "url": "https://open.spotify.com/track/2vD9cvmBGOn3r6tNFuxrwG"
-    },
-    {
-      "added_at": "2025-09-19 04:16:20",
-      "album": {
-        "name": "The Lamb of Funk",
-        "url": "https://open.spotify.com/album/4NWSHJOuVlCcjjHAgpcLRd"
-      },
-      "artists": [
-        {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
-        },
-        {
-          "name": "Horn House",
-          "url": "https://open.spotify.com/artist/5HMo9VXm5R91AzkQBqNrlu"
-        }
-      ],
-      "duration_ms": 300266,
-      "name": "The Lamb of Funk",
-      "url": "https://open.spotify.com/track/3nAQuS0nT4yJKM801NhFjv"
     },
     {
       "added_at": "2025-10-17 04:01:00",
@@ -1439,22 +1479,6 @@
       "duration_ms": 193770,
       "name": "Metric Rules",
       "url": "https://open.spotify.com/track/2IF9pQyd0K1BV7OC0Z2a0n"
-    },
-    {
-      "added_at": "2025-10-10 04:00:47",
-      "album": {
-        "name": "Figure In Blue",
-        "url": "https://open.spotify.com/album/1qMMVXxfxe0rPsHunQzFe0"
-      },
-      "artists": [
-        {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
-        }
-      ],
-      "duration_ms": 497484,
-      "name": "Blues for Langston",
-      "url": "https://open.spotify.com/track/4c3AvJY7H4nETw1xXey04e"
     },
     {
       "added_at": "2026-04-03 04:02:24",

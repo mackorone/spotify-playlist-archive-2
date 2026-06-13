@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,280 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,292 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 20 | [Southernplayalisticadillacmuzik](https://open.spotify.com/track/2pMAmZdHfQHyqJCXJbfhK3) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 5:17 |
 | 21 | [She Lives in My Lap \(feat\. Rosario Dawson\)](https://open.spotify.com/track/6vV1NDCjh2afFgQ9Vb7i86) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Rosario Dawson](https://open.spotify.com/artist/5gGhRZgP9BJL9fsFdvTzeX) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 4:27 |
 | 22 | [Jazzy Belle](https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:11 |
-| 23 | [Benz Or Beamer](https://open.spotify.com/track/3uo2KJXe6xaQsHhbIHNVmP) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [New Jersey Drive Vol\. 1](https://open.spotify.com/album/7DoD8us9kfckQxBjsBq9JW) | 4:16 |
-| 24 | [Skew It on the Bar\-B \(feat\. Raekwon\)](https://open.spotify.com/track/6EQ4orawx8eo0aXH0pOKLE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 3:15 |
+| 23 | [Skew It on the Bar\-B \(feat\. Raekwon\)](https://open.spotify.com/track/6EQ4orawx8eo0aXH0pOKLE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 3:15 |
+| 24 | [Benz Or Beamer](https://open.spotify.com/track/3uo2KJXe6xaQsHhbIHNVmP) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [New Jersey Drive Vol\. 1](https://open.spotify.com/album/7DoD8us9kfckQxBjsBq9JW) | 4:16 |
 | 25 | [Git Up, Git Out \(feat\. Goodie Mob\)](https://open.spotify.com/track/6XadDzmDVhtEQ1Itt5t8h8) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 7:27 |
 | 26 | [Wheelz of Steel](https://open.spotify.com/track/5qKqRkWnRTXNVWbEOOmGxk) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:03 |
 | 27 | [Black Ice \(Sky High\) \(feat\. Outkast\)](https://open.spotify.com/track/0Uu8BPsWQGZk5AiRN3uBwn) | [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Still Standing](https://open.spotify.com/album/0MMxX1jX2lwR1iKRuB7yG7) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 49 | [Neck Uv Da Woods \(feat\. Outkast\)](https://open.spotify.com/track/5rX4diK1dOmikCV8ffQOEl) | [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Let's Get Ready](https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l) | 4:03 |
 | 50 | [Watch for the Hook \(Dungeon Family Mix\)](https://open.spotify.com/track/5CNBjdmp5aZdW2Nu6f0Xav) | [Cool Breeze](https://open.spotify.com/artist/1hTh4ZmK0tdbocmMgM2bSO), [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Witchdoctor](https://open.spotify.com/artist/0CSW4YWldpNnpaqYJJXSto) | [East Point's Greatest Hit](https://open.spotify.com/album/1xnatTs8lRun69YT1tleCS) | 4:31 |
 
-Snapshot ID: `aidXgAAAAAB+s3MMoSoVEPgCaU0TUHhb`
+Snapshot ID: `ain6gAAAAAApuPJrtT4pWdX9duS6c9Hx`

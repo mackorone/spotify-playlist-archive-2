@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-604 songs - 1 day 12 hr 13 min
+605 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Carry My Name \- Magic Bus Sessions](https://open.spotify.com/track/26PuNsYkMzveo40E5eNOFJ) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Magic Bus Sessions](https://open.spotify.com/album/7wbQ4FeW8zl8hhDdfSuuEK) | 3:43 | 2025-02-07 | 2025-11-29 |
 | [Caught Up](https://open.spotify.com/track/6iOvRFd3eBSsbJf7MAKQGl) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jeremy Page](https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2) | [Caught Up](https://open.spotify.com/album/5ucNrxKLiiiqKgSmQfUVxp) | 3:00 | 2025-07-04 | 2025-10-11 |
 | [Celeste](https://open.spotify.com/track/60tY66pPyOyLVSrHsD9eEU) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Celeste](https://open.spotify.com/album/5FyNURxjAKSvEycbnuNe8m) | 3:15 | 2025-09-05 | 2025-09-27 |
-| [Champagne Pink Convertible](https://open.spotify.com/track/1jtMie6Lh5Je7uWTazXJmi) | [The Alex Opal Outfit](https://open.spotify.com/artist/612YJjBnm5H6J9djarFtiq) | [Champagne Pink Convertible](https://open.spotify.com/album/5R3ed7kpdEqaWOGhRAWS52) | 3:32 | 2024-08-16 |  |
+| [Champagne Pink Convertible](https://open.spotify.com/track/1jtMie6Lh5Je7uWTazXJmi) | [The Alex Opal Outfit](https://open.spotify.com/artist/612YJjBnm5H6J9djarFtiq) | [Champagne Pink Convertible](https://open.spotify.com/album/5R3ed7kpdEqaWOGhRAWS52) | 3:32 | 2024-08-16 | 2026-06-13 |
 | [Changes](https://open.spotify.com/track/1PkXZNVlv7SkhAvGEDpfOb) | [Tamir](https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf) | [Changes](https://open.spotify.com/album/1NoZDyi7x7a4qg4YqN2EaU) | 3:18 | 2022-09-16 | 2022-10-15 |
 | [Chauffeur](https://open.spotify.com/track/53XFu5ZXPyldc3MtfxEkDq) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [Chauffeur](https://open.spotify.com/album/6YOqslVYEbfCZgRQQjSrYf) | 4:36 | 2026-05-08 |  |
 | [Cheating in the Daylight](https://open.spotify.com/track/70wmWSlvCFeoYHSgoGsbpk) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Willie Clayton](https://open.spotify.com/artist/5YtfmlJnLT6TR7kiBKqNhj) | [Cheating in the Daylight](https://open.spotify.com/album/1wLDe2OnQvYkTCfyMBV95J) | 5:27 | 2022-02-25 | 2023-02-04 |
@@ -118,7 +118,7 @@
 | [Don't Knock Upon My Door](https://open.spotify.com/track/4XAREsibFhpJJ4VwBcyoGd) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Don't Knock Upon My Door](https://open.spotify.com/album/3InwC9hMPRDF1MRvAKZGBy) | 3:06 | 2023-06-30 | 2023-07-22 |
 | [Don't Like You Anymore](https://open.spotify.com/track/5BzJfr2NjusEUbM9QYFsz0) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [Don't Like You Anymore](https://open.spotify.com/album/0EMJkza4q3dnX8fBiBQtMt) | 3:05 | 2025-02-07 | 2025-05-17 |
 | [Don't Stop](https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Gold](https://open.spotify.com/album/0I3HXcGWFhDJR5ENzDYZ9r) | 2:42 | 2021-07-09 | 2022-10-13 |
-| [Don't Take Me As A Fool](https://open.spotify.com/track/2NmG3EqUzGPI1n8W1lSbN8) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Don't Take Me As A Fool](https://open.spotify.com/album/1eEciSKr834k5dtjOBS1g2) | 3:52 | 2024-08-09 |  |
+| [Don't Take Me As A Fool](https://open.spotify.com/track/2NmG3EqUzGPI1n8W1lSbN8) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Don't Take Me As A Fool](https://open.spotify.com/album/1eEciSKr834k5dtjOBS1g2) | 3:52 | 2024-08-09 | 2026-06-13 |
 | [Don't Wanna Lose You](https://open.spotify.com/track/03Xfnr5nwnz2eiPDeRYJQJ) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Don't Wanna Lose You](https://open.spotify.com/album/46VBRKa8sDXKU8piCs3UHw) | 3:39 | 2024-03-29 | 2025-12-13 |
 | [Don't You Ever Change](https://open.spotify.com/track/6eUofPDyNPz5ZuHVHCJtJC) | [Jonathan Plevyak](https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO) | [Don't You Ever Change](https://open.spotify.com/album/6jrzfmuhQdZg8auer1aM4w) | 3:36 | 2023-08-11 | 2024-02-15 |
 | [Don't You Know](https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:20 | 2021-07-09 | 2023-02-18 |
@@ -365,6 +365,7 @@
 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 | 2021-12-17 | 2023-01-28 |
 | [NORMA](https://open.spotify.com/track/6bI2PZ9Fepx6RPwuD3AVB6) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [NORMA](https://open.spotify.com/album/6wVvcTZuP8eyj2u9A7BupJ) | 3:41 | 2022-08-09 | 2022-08-27 |
 | [Not In My Name](https://open.spotify.com/track/4z7lYZSO6VUnqIYJrB8WsT) | [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx), [The Black Belts](https://open.spotify.com/artist/0E2ByLJA2G0NMjQg0Dn8ct) | [Give Me Hope](https://open.spotify.com/album/60tTpmxbyNd7YFYr8zdkGb) | 3:29 | 2022-02-15 | 2023-06-24 |
+| [Nothing Is Forever](https://open.spotify.com/track/1dPtILRZaQtukHGMQ8VsF5) | [Oliver James](https://open.spotify.com/artist/5chX1kh7r17quJf2Bqkejy), [The Gripsweats](https://open.spotify.com/artist/6tFUAdGM0jUjbElEb50xRn) | [1\-2\-3 / Nothing Is Forever](https://open.spotify.com/album/0jRm8fEqcK9yYs310DX1pW) | 4:01 | 2026-06-12 |  |
 | [Nothing's Gonna Change](https://open.spotify.com/track/7woVdmimGKMJkJWYgzD8pL) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0), [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [Nothing's Gonna Change](https://open.spotify.com/album/1zy0pQ59k1PLTG4F0f7jPX) | 3:06 | 2021-09-17 | 2022-07-13 |
 | [Nunya](https://open.spotify.com/track/5bI3aZo6ac2M0SgMBaF7Kw) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love](https://open.spotify.com/album/6gzrKLDkaYEyUknqeS4aFW) | 3:39 | 2022-06-03 | 2022-06-11 |
 | [Oh to Be Loved by You](https://open.spotify.com/track/1TdDBVCRdIsnMMbwE1OteZ) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Never Forget My Love](https://open.spotify.com/album/2SwBlWsPDm0zPkZHAN3Lae) | 3:33 | 2022-02-18 | 2023-03-25 |

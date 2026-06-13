@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Chris MC, BIN",
-  "num_followers": 187974,
+  "num_followers": 187976,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
-        "name": "Poema Sujo",
-        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Poema Sujo",
-      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
         "name": "Ouvir Voc\u00ea (Remix)",
         "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 273777,
       "name": "Ouvir Voc\u00ea (Remix)",
       "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
+        "name": "Poema Sujo",
+        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Poema Sujo",
+      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
-        "name": "Tempo Que N\u00e3o Volta",
-        "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
-      },
-      "artists": [
-        {
-          "name": "Aaron Modesto",
-          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Tempo Que N\u00e3o Volta",
-      "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
         "name": "Tudo Que Eu Sempre Quis",
         "url": "https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 153375,
       "name": "Tudo Que Eu Sempre Quis",
       "url": "https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
+        "name": "Tempo Que N\u00e3o Volta",
+        "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
+      },
+      "artists": [
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Tempo Que N\u00e3o Volta",
+      "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
-        "name": "Sai do Meu Radar",
-        "url": "https://open.spotify.com/album/7tX672I4UzjyBqHobgZ8CF"
-      },
-      "artists": [
-        {
-          "name": "KAMACHO",
-          "url": "https://open.spotify.com/artist/4w0n2oYb0ZEuvlHa1Mnxci"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 145078,
-      "name": "Sai do Meu Radar",
-      "url": "https://open.spotify.com/track/61WGwmVFM49KAuiMXxg6J9"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
         "name": "Mais uma Vez",
         "url": "https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2"
       },
@@ -1383,6 +1363,50 @@
       "duration_ms": 129896,
       "name": "Mais uma Vez",
       "url": "https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
+        "name": "Sai do Meu Radar",
+        "url": "https://open.spotify.com/album/7tX672I4UzjyBqHobgZ8CF"
+      },
+      "artists": [
+        {
+          "name": "KAMACHO",
+          "url": "https://open.spotify.com/artist/4w0n2oYb0ZEuvlHa1Mnxci"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 145078,
+      "name": "Sai do Meu Radar",
+      "url": "https://open.spotify.com/track/61WGwmVFM49KAuiMXxg6J9"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
+        "name": "Visto por \u00daltimo",
+        "url": "https://open.spotify.com/album/47urvKrcNQF5Jt209J88hg"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "Scarp",
+          "url": "https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "duration_ms": 118356,
+      "name": "Sinais de Relev\u00e2ncia",
+      "url": "https://open.spotify.com/track/1ZMFajDTHRg8JiKxrplH3d"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -1431,46 +1455,6 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/0F3j9jMNLDWaN2y6OB8L2a"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 167341,
-      "name": "Sobrenatural",
-      "url": "https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
-        "name": "Visto por \u00daltimo",
-        "url": "https://open.spotify.com/album/47urvKrcNQF5Jt209J88hg"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "Scarp",
-          "url": "https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei"
-        },
-        {
-          "name": "LB \u00danico",
-          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
-        }
-      ],
-      "duration_ms": 118356,
-      "name": "Sinais de Relev\u00e2ncia",
-      "url": "https://open.spotify.com/track/1ZMFajDTHRg8JiKxrplH3d"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
         "name": "Muito Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 148965,
       "name": "Perigos&Macetes",
       "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/0F3j9jMNLDWaN2y6OB8L2a"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 167341,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM"
     }
   ],
   "unique_name": "R&B Brasil",

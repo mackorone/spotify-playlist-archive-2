@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "America's Greatest Burnout",
+        "url": "https://open.spotify.com/album/7d5VuuhAWliS8ovhyYp73Q"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227727,
+      "name": "America's Greatest Burnout",
+      "url": "https://open.spotify.com/track/47a91ZLVbrRX0WwYVGNcrx"
+    },
+    {
+      "album": {
         "name": "American Dreaming",
         "url": "https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT"
       },
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 255712,
       "name": "American Trail",
       "url": "https://open.spotify.com/track/7JkuiX3FkJXUhGgLrJRYE3"
@@ -1200,6 +1218,24 @@
       "duration_ms": 177228,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/6mUwYseemAWVt1BJJhcSDC"
+    },
+    {
+      "album": {
+        "name": "Backwards Again",
+        "url": "https://open.spotify.com/album/3ahBXGdxb38F1N6XXVy8YS"
+      },
+      "artists": [
+        {
+          "name": "Alicia Blue",
+          "url": "https://open.spotify.com/artist/4suxU7SfC7vp6wMComAlQG"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218516,
+      "name": "Backwards Again",
+      "url": "https://open.spotify.com/track/1QJNFw9hL4AZvU0VqH6t0o"
     },
     {
       "album": {
@@ -1646,6 +1682,28 @@
       "duration_ms": 116280,
       "name": "Black Powder",
       "url": "https://open.spotify.com/track/6grkDYOC3z47Zi4w02SVsz"
+    },
+    {
+      "album": {
+        "name": "Blackout [feat. Nolan Taylor]",
+        "url": "https://open.spotify.com/album/5g9FV0XhXPscs7z26SKpFl"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        },
+        {
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256590,
+      "name": "Blackout [feat. Nolan Taylor]",
+      "url": "https://open.spotify.com/track/26pLSSwAk1LOxl2Q018cTb"
     },
     {
       "album": {
@@ -2321,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Dirty Blues Princess",
+        "url": "https://open.spotify.com/album/20VKF3kuDGK76dVstgsHVX"
+      },
+      "artists": [
+        {
+          "name": "KELS",
+          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195933,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/2QhXhl57QFUgrbzCXcKmvy"
+    },
+    {
+      "album": {
         "name": "Can Chaser",
         "url": "https://open.spotify.com/album/7KPaPo5P7LK3TkyHc9SQ1A"
       },
@@ -2430,7 +2506,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 217229,
       "name": "Canaries in a Coal Mine",
       "url": "https://open.spotify.com/track/4JFPamq2IExOgg7mZV6XRs"
@@ -3879,6 +3955,24 @@
     },
     {
       "album": {
+        "name": "Mutiny After Midnight (Extended Edition)",
+        "url": "https://open.spotify.com/album/3YdXVCzqT98v7pMbxVvOL0"
+      },
+      "artists": [
+        {
+          "name": "Johnny Blue Skies",
+          "url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283881,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/5Bb3bQz7BCG01HiTzx5mU5"
+    },
+    {
+      "album": {
         "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
         "url": "https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv"
       },
@@ -4542,7 +4636,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 203859,
       "name": "False Start",
       "url": "https://open.spotify.com/track/553jD3ipiSaR4plKiGNugq"
@@ -4658,6 +4752,24 @@
       "duration_ms": 194093,
       "name": "Find Your People",
       "url": "https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ"
+    },
+    {
+      "album": {
+        "name": "Fire Drill",
+        "url": "https://open.spotify.com/album/2vhA82VBs18qhzEr3yoJ7F"
+      },
+      "artists": [
+        {
+          "name": "Harper O'Neill",
+          "url": "https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222793,
+      "name": "Fire Drill",
+      "url": "https://open.spotify.com/track/0L8tkxpgoSrRjML2kXL5Eo"
     },
     {
       "album": {
@@ -5120,7 +5232,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 278862,
       "name": "Get It Over With",
       "url": "https://open.spotify.com/track/3U2ssFocMXixGcMyMfCK77"
@@ -8047,6 +8159,24 @@
     },
     {
       "album": {
+        "name": "Breakfield",
+        "url": "https://open.spotify.com/album/0dPfnQHhhSlcuDKJEVQkuz"
+      },
+      "artists": [
+        {
+          "name": "Breakfield",
+          "url": "https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259720,
+      "name": "Live by Me",
+      "url": "https://open.spotify.com/track/4glr94PCp2FyV6sTDaG2yp"
+    },
+    {
+      "album": {
         "name": "Live Forever",
         "url": "https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf"
       },
@@ -8652,7 +8782,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 228546,
       "name": "Man of the Year",
       "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
@@ -9216,7 +9346,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 260842,
       "name": "Name (Talco Tapes Version)",
       "url": "https://open.spotify.com/track/3I4rccIyS6egS7rDC2ZoQk"
@@ -10522,7 +10652,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 219474,
       "name": "Pull Some Strings",
       "url": "https://open.spotify.com/track/0MHTpft8rmYLOlPpJi6BjO"
@@ -14210,7 +14340,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 169026,
       "name": "Way Of The World (feat. Ella Langley)",
       "url": "https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy"
@@ -14236,6 +14366,24 @@
       "duration_ms": 222721,
       "name": "We're Onto Something (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
+    },
+    {
+      "album": {
+        "name": "Weed By The Wall",
+        "url": "https://open.spotify.com/album/0FpMuxWHIvf2MjBiz5G8A2"
+      },
+      "artists": [
+        {
+          "name": "Waylon Payne",
+          "url": "https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302720,
+      "name": "Weed By The Wall",
+      "url": "https://open.spotify.com/track/76cRFvpMO29Xn4lBou91MN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Karuppu
 
-2,449 songs - 6 day 3 hr 29 min
+2,450 songs - 6 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1711,6 +1711,7 @@
 | [Raasa Kannu \(From "Maamannan"\)](https://open.spotify.com/track/2xm4sJxwgaeFsxc1cM1xQr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vadivelu](https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5) | [Raasa Kannu \(From "Maamannan"\)](https://open.spotify.com/album/3LUHSIupWJT4QKxRNonzQ0) | 5:27 | 2023-05-19 | 2023-09-23 |
 | [Raasa Raasa](https://open.spotify.com/track/5xtyKhdkmhum90Ejlzxh5K) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Kingston \(Tamil\)](https://open.spotify.com/album/0JaG6OWQFwy8XAdoPCsGfl) | 3:26 | 2025-03-05 | 2025-04-18 |
 | [Raasa Raasa \(From "Kingston"\)](https://open.spotify.com/track/3hgmXEZbrS27rFtyX6Fz6q) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Raasa Raasa \(From "Kingston"\)](https://open.spotify.com/album/0eJQpsGDxVetaSAlJc91HD) | 3:26 | 2025-02-03 | 2025-03-11 |
+| [Raasaadhi Raasaa \(From "Karathey Babu"\)](https://open.spotify.com/track/6AvP8UzNOeQPkANb0J1ZxP) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Meenakshi Elayaraja](https://open.spotify.com/artist/5daBau8I9vfgnEtu3UzA7M) | [Raasaadhi Raasaa \(From "Karathey Babu"\)](https://open.spotify.com/album/1AIAapDYu5AoAyCX1AMHXF) | 3:10 | 2026-06-12 |  |
 | [Raasaathi](https://open.spotify.com/track/2HB7rk0Fg1vcEMEDxjIOa3) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [QUAZI MODE](https://open.spotify.com/artist/40sHXKxKlSrUUD7Jy5Hu9W), [Preetesh Hirji](https://open.spotify.com/artist/3UjjTmdMHTLBLyaUHDzEQJ) | [Valliamma Peraandi \- Vol\. 01](https://open.spotify.com/album/1CUpxD8bx7lF4od9FtAXCG) | 3:36 | 2024-07-19 | 2024-08-03 |
 | [Raasathi Raasa](https://open.spotify.com/track/17A7dVSrzUIrg5MKegnh65) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [V.M\. Mahalingam](https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u), [Muthu Sirpi](https://open.spotify.com/artist/26rblDtQQ9U26NMYSraPYm), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [My Lord \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38fjb1ixovbQcnXNp1gz2y) | 3:45 | 2026-02-11 | 2026-03-28 |
 | [Raasathorai](https://open.spotify.com/track/4dwHypDZCE506eyetbXKQF) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Meenakshi Elayaraja](https://open.spotify.com/artist/5daBau8I9vfgnEtu3UzA7M), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Love Marriage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zcDtzfS625vYDZnN5RV3V) | 3:23 | 2025-06-23 | 2025-08-03 |

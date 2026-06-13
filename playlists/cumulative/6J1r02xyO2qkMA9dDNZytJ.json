@@ -657,6 +657,28 @@
     },
     {
       "album": {
+        "name": "Burn Down The House",
+        "url": "https://open.spotify.com/album/49WexZzfScXGljkKUbpC2z"
+      },
+      "artists": [
+        {
+          "name": "Siege",
+          "url": "https://open.spotify.com/artist/3Y7jEjvZAosFRghJl62VNd"
+        },
+        {
+          "name": "David LeSal",
+          "url": "https://open.spotify.com/artist/1KB7YVSkBmXdNoOJEMkDAa"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215415,
+      "name": "Burn Down The House",
+      "url": "https://open.spotify.com/track/3UAjb2l27IPhq6Zqo4LKHc"
+    },
+    {
+      "album": {
         "name": "Business",
         "url": "https://open.spotify.com/album/3VXeyDWnG2ISlOM5Mhfmjq"
       },
@@ -1038,7 +1060,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 206250,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/2eDT61AnxqoMv63FoT9pEg"
@@ -1060,7 +1082,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 203032,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/3oABXSV2rnraVr5vhusLdG"
@@ -2168,7 +2190,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 183876,
       "name": "Hoeish",
       "url": "https://open.spotify.com/track/7tSCarWiqwqurm1qRbYrCG"
@@ -3176,7 +3198,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 163846,
       "name": "Magic Sax",
       "url": "https://open.spotify.com/track/1s4ESKBhuUbLIIfksvmGbd"
@@ -3194,7 +3216,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 173333,
       "name": "Make It High",
       "url": "https://open.spotify.com/track/6f8JRqGvXqqKqGcXC34uLN"
@@ -3471,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "On My Body",
+        "url": "https://open.spotify.com/album/7EaVIwBjGzGRrIbniqsqc9"
+      },
+      "artists": [
+        {
+          "name": "Justin Irby",
+          "url": "https://open.spotify.com/artist/6LwxQLAxu5MAwFxkpcCl9j"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "On My Body",
+      "url": "https://open.spotify.com/track/0vQ4YFifqvMn2GNqOfmpGl"
+    },
+    {
+      "album": {
         "name": "On The Run",
         "url": "https://open.spotify.com/album/6b0I625GSDrFoQ45PYgv4o"
       },
@@ -3606,7 +3646,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 167133,
       "name": "Over You",
       "url": "https://open.spotify.com/track/7JXrx6UxFSs544gh4vxeW0"
@@ -3770,7 +3810,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 146666,
       "name": "Pinta La Cara",
       "url": "https://open.spotify.com/track/5AVI8ypG9UVCZVlCKYUsze"
@@ -4082,6 +4122,28 @@
       "duration_ms": 181638,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/5dOo4e33dMDOpUliMa8PCo"
+    },
+    {
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/4UoL4onc23Fw6tAUOymPpW"
+      },
+      "artists": [
+        {
+          "name": "Illyus Barrientos ",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        },
+        {
+          "name": "MALU",
+          "url": "https://open.spotify.com/artist/5TJUKt4SuQ9QONkLH6BeQx"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188726,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/5kYqVDT652SAo1jYhsYSu3"
     },
     {
       "album": {
@@ -4726,7 +4788,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 172500,
       "name": "The Creator",
       "url": "https://open.spotify.com/track/6XjvcbkrDu44h8U6vMGLSd"
@@ -5132,7 +5194,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 127786,
       "name": "U Get Me High",
       "url": "https://open.spotify.com/track/0elfyNmoMFBx9bAgS4Qogy"

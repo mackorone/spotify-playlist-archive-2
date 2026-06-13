@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Ibrahim Maalouf
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,573 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,596 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BRING THE LIGHT](https://open.spotify.com/track/6ugeNh75lWjctHoK42oAF0) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Weedie Braimah](https://open.spotify.com/artist/0gNcTRfbjxxOdXxSCoXluo), [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [BRING THE LIGHT](https://open.spotify.com/album/0yRhKkzF6PP50XGNsML1AR) | 4:43 |
 | 2 | [Left Over](https://open.spotify.com/track/6OxcEYDt6HzO6gNHTnIAUK) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Left Over](https://open.spotify.com/album/1gRIs9MiNmy2g0v9HdiXnv) | 5:03 |
-| 3 | [Yemaya](https://open.spotify.com/track/0KuRnOc37nAmoW0JYdStGY) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Chroniques terrestres, Vol\. 2](https://open.spotify.com/album/2HPtolpEfMswqNuJp5xV5v) | 3:32 |
+| 3 | [Yemaya](https://open.spotify.com/track/0KuRnOc37nAmoW0JYdStGY) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg), [Lubiana](https://open.spotify.com/artist/7ojiPW0PaP28Dfl8CqfQ3Q) | [Chroniques terrestres, Vol\. 2](https://open.spotify.com/album/2HPtolpEfMswqNuJp5xV5v) | 3:32 |
 | 4 | [We Here](https://open.spotify.com/track/485cnY6fKjkb1wCUgniOHc) | [MONFORT](https://open.spotify.com/artist/5XPTfBazpMvbj4Apn1hgHd), [Alexis Valet](https://open.spotify.com/artist/1VBaICEeEhOKIPra2zkbD4) | [We Here](https://open.spotify.com/album/1IYD9xucr5TBkiFQcTYdlM) | 2:46 |
 | 5 | [Les Vacances](https://open.spotify.com/track/3ewE2BwxUcuzT2ctZdSbMJ) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Les Vacances](https://open.spotify.com/album/0QLrp3E4USzaOa3rWTFWCf) | 4:26 |
 | 6 | [Bewitched, Bothered, And Bewildered](https://open.spotify.com/track/2iRUGwPlxvbHA96jYN3mEv) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Night Blooms](https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU) | 4:16 |

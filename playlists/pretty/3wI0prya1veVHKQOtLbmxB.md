@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 
 > Uh oh! Feeling all the butterflies in your stomach? Constantly checking your phone to see if they texted back? Feel all the feels with this playlist\. You might be in love\. \#coversforlovers
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 140,489 likes - 102 songs - 6 hr 23 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 140,450 likes - 102 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 | 101 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
 | 102 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |
 
-Snapshot ID: `AAAJd/h7ShhM+GVPSAVqTrAJFUb70A9X`
+Snapshot ID: `AAAJefZWrnuVIDiesAaX794mc+yTyT8C`

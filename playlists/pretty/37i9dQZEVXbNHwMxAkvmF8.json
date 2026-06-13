@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 77342,
+  "num_followers": 77358,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mb4wWAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mb9/gAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "Kiskece",
         "url": "https://open.spotify.com/album/6VioEsOGLZlfveutyY89Yc"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0nbfu1zUY9CrSOIA5UNjOe"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "NEM \u00c9RI MEG",
         "url": "https://open.spotify.com/album/7tNvyky9aZqqqOIIMPfTSH"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/3q5jY2ojaqWSruLalNfS5b"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "KIK EZEK (Bruno)",
         "url": "https://open.spotify.com/album/0QYLwzHmEQbT5DRJRZuBIU"
@@ -73,7 +73,27 @@
       "url": "https://open.spotify.com/track/6bm5nVasvTr8WfnixC1Ecw"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "VINNER DELUXE",
+        "url": "https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "duration_ms": 145950,
+      "name": "EX N GO",
+      "url": "https://open.spotify.com/track/6nvDIhdi3Dcet4sIZR5qDk"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "TIP TIP",
         "url": "https://open.spotify.com/album/35FPaskal0aoiu8iVfXgFD"
@@ -97,7 +117,7 @@
       "url": "https://open.spotify.com/track/3CHx5MlbwfflmgrUoHSZw5"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "SZEXI BB (Bruno)",
         "url": "https://open.spotify.com/album/4ABZ9P0EXLCPmW8xnBf3Ij"
@@ -117,27 +137,7 @@
       "url": "https://open.spotify.com/track/5LFEksBRiR2Nyyr7NSteyl"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "VINNER DELUXE",
-        "url": "https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni"
-      },
-      "artists": [
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        },
-        {
-          "name": "Sofi",
-          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
-        }
-      ],
-      "duration_ms": 145950,
-      "name": "EX N GO",
-      "url": "https://open.spotify.com/track/6nvDIhdi3Dcet4sIZR5qDk"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "nem hiszek",
         "url": "https://open.spotify.com/album/6QEL4ZeDO3Q3oDpj8jxh8W"
@@ -157,23 +157,7 @@
       "url": "https://open.spotify.com/track/6HUFPh5sQqQ1yRfo4sey8U"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "SZABADS\u00c1G, SZERELEM",
-        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
-      },
-      "artists": [
-        {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "BOSZORK\u00c1NY",
-      "url": "https://open.spotify.com/track/6QDyDA2a5ZhjTEZ61XQics"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "WAZZUP",
         "url": "https://open.spotify.com/album/2oEy6JwReTNCue0Nu45xhp"
@@ -193,27 +177,23 @@
       "url": "https://open.spotify.com/track/0FfhG9yxq8tYUJRnV6qo0c"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
-        "name": "VINNER",
-        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
+        "name": "SZABADS\u00c1G, SZERELEM",
+        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
       },
       "artists": [
         {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        },
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
         }
       ],
-      "duration_ms": 159255,
-      "name": "SHAKE DAT",
-      "url": "https://open.spotify.com/track/7a9QYpDPIBwHTDtX7W79t3"
+      "duration_ms": 171692,
+      "name": "BOSZORK\u00c1NY",
+      "url": "https://open.spotify.com/track/6QDyDA2a5ZhjTEZ61XQics"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "BAKPAKK",
         "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
@@ -237,59 +217,7 @@
       "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "SAVAGE",
-        "url": "https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj"
-      },
-      "artists": [
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        }
-      ],
-      "duration_ms": 141789,
-      "name": "TAKE YOUR TIME",
-      "url": "https://open.spotify.com/track/5chK4xxQLLa88aU8A8w8RZ"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "Valamit Majd Kital\u00e1lok",
-        "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 160768,
-      "name": "\u00cdgy sem k\u00f6nnyebb",
-      "url": "https://open.spotify.com/track/4WjtNR5fqgtMSstBY3yvPN"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "212223_Minden_ami_\u00e9n",
-        "url": "https://open.spotify.com/album/5XSEdasJQaF9rJbBNDKnZg"
-      },
-      "artists": [
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        },
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        }
-      ],
-      "duration_ms": 109000,
-      "name": "Rodalinda",
-      "url": "https://open.spotify.com/track/12Pa9ujpXDXa0rJGElUsV4"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "OHMAMMA",
         "url": "https://open.spotify.com/album/0FI47MJzrv0dDT38VZaJEu"
@@ -309,66 +237,10 @@
       "url": "https://open.spotify.com/track/2oKmNG8j56GqcX4XxyYcax"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
-        "name": "INTERREGNUM",
-        "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        }
-      ],
-      "duration_ms": 131779,
-      "name": "BE VAGYOK Z\u00c1RVA",
-      "url": "https://open.spotify.com/track/5vLT8l8KAGe8rOGnyKkVNt"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "AFTERPARTY (Bruno)",
-        "url": "https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        },
-        {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
-        }
-      ],
-      "duration_ms": 144069,
-      "name": "AFTERPARTY - Bruno",
-      "url": "https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "INTERREGNUM",
-        "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "Hundred Sins",
-          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "MIRE SZ\u00c1M\u00cdTOTT\u00c1L",
-      "url": "https://open.spotify.com/track/6MQD8BarH6kkEAuSzFeXnm"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "VINNER DELUXE",
-        "url": "https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni"
+        "name": "VINNER",
+        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
       },
       "artists": [
         {
@@ -376,16 +248,68 @@
           "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
         },
         {
-          "name": "Marics Peti",
-          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
         }
       ],
-      "duration_ms": 134885,
-      "name": "J\u00d3ZANOK",
-      "url": "https://open.spotify.com/track/0x6mKqNfslxlNxlkIroTK8"
+      "duration_ms": 159255,
+      "name": "SHAKE DAT",
+      "url": "https://open.spotify.com/track/7a9QYpDPIBwHTDtX7W79t3"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "212223_Minden_ami_\u00e9n",
+        "url": "https://open.spotify.com/album/5XSEdasJQaF9rJbBNDKnZg"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "duration_ms": 109000,
+      "name": "Rodalinda",
+      "url": "https://open.spotify.com/track/12Pa9ujpXDXa0rJGElUsV4"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "SAVAGE",
+        "url": "https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "duration_ms": 141789,
+      "name": "TAKE YOUR TIME",
+      "url": "https://open.spotify.com/track/5chK4xxQLLa88aU8A8w8RZ"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "Valamit Majd Kital\u00e1lok",
+        "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 160768,
+      "name": "\u00cdgy sem k\u00f6nnyebb",
+      "url": "https://open.spotify.com/track/4WjtNR5fqgtMSstBY3yvPN"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "VINNER",
         "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
@@ -401,79 +325,23 @@
       "url": "https://open.spotify.com/track/1Y4yr3lzCoV0I4m21W5LWB"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
-        "name": "H\u0171tlen D\u00e9lib\u00e1b",
-        "url": "https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0"
+        "name": "INTERREGNUM",
+        "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
       },
       "artists": [
         {
-          "name": "Nagy Bogi",
-          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
         }
       ],
-      "duration_ms": 150725,
-      "name": "J\u00f3l leszek \u00fajra",
-      "url": "https://open.spotify.com/track/3g5hOdWycmk8C49MXdfAGo"
+      "duration_ms": 131779,
+      "name": "BE VAGYOK Z\u00c1RVA",
+      "url": "https://open.spotify.com/track/5vLT8l8KAGe8rOGnyKkVNt"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "MOKKA",
-        "url": "https://open.spotify.com/album/4iQWeN0DOgVm1npN2nKkpk"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        }
-      ],
-      "duration_ms": 163375,
-      "name": "MOKKA",
-      "url": "https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "Valamit Majd Kital\u00e1lok",
-        "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 197025,
-      "name": "Kell egy p\u00e1r nap",
-      "url": "https://open.spotify.com/track/3mt6G4z1RwWMIbmzWi7gPC"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "212223_Minden_ami_\u00e9n",
-        "url": "https://open.spotify.com/album/5XSEdasJQaF9rJbBNDKnZg"
-      },
-      "artists": [
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        }
-      ],
-      "duration_ms": 140689,
-      "name": "Klitorisz",
-      "url": "https://open.spotify.com/track/40qz2m8ecdUSKSsMcCeqNN"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "A MASZK",
         "url": "https://open.spotify.com/album/1exGBKhmAcCjayRrbeYIAY"
@@ -493,7 +361,67 @@
       "url": "https://open.spotify.com/track/0zvQXz24Tq1WNWJykRPLIW"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "AFTERPARTY (Bruno)",
+        "url": "https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        }
+      ],
+      "duration_ms": 144069,
+      "name": "AFTERPARTY - Bruno",
+      "url": "https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "H\u0171tlen D\u00e9lib\u00e1b",
+        "url": "https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0"
+      },
+      "artists": [
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 150725,
+      "name": "J\u00f3l leszek \u00fajra",
+      "url": "https://open.spotify.com/track/3g5hOdWycmk8C49MXdfAGo"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "INTERREGNUM",
+        "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Hundred Sins",
+          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "MIRE SZ\u00c1M\u00cdTOTT\u00c1L",
+      "url": "https://open.spotify.com/track/6MQD8BarH6kkEAuSzFeXnm"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "SHOW ME WHAT YOU GOT",
         "url": "https://open.spotify.com/album/6ESO4ZbS6LSGHhByv5E0nC"
@@ -517,23 +445,43 @@
       "url": "https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
-        "name": "VRUMM",
-        "url": "https://open.spotify.com/album/7aYUPYm38uDZblddLHiqyJ"
+        "name": "212223_Minden_ami_\u00e9n",
+        "url": "https://open.spotify.com/album/5XSEdasJQaF9rJbBNDKnZg"
       },
       "artists": [
         {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
         }
       ],
-      "duration_ms": 146581,
-      "name": "VRUMM",
-      "url": "https://open.spotify.com/track/1pZ0ZP9RfWvGbBy8oX3Hlw"
+      "duration_ms": 140689,
+      "name": "Klitorisz",
+      "url": "https://open.spotify.com/track/40qz2m8ecdUSKSsMcCeqNN"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/5SYUF1nUTuqOgRFrj6x2VN"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -549,7 +497,47 @@
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "VINNER DELUXE",
+        "url": "https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "Marics Peti",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+        }
+      ],
+      "duration_ms": 134885,
+      "name": "J\u00d3ZANOK",
+      "url": "https://open.spotify.com/track/0x6mKqNfslxlNxlkIroTK8"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "rabiga",
+        "url": "https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 135818,
+      "name": "d\u00edva",
+      "url": "https://open.spotify.com/track/52kBWybNy033009vfeYu5n"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -565,27 +553,79 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
-        "name": "SAVAGE",
-        "url": "https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj"
+        "name": "Valamit Majd Kital\u00e1lok",
+        "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
       },
       "artists": [
         {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 129450,
-      "name": "JACUZZI",
-      "url": "https://open.spotify.com/track/7tbwRhYFlxyRjJZd6taszZ"
+      "duration_ms": 197025,
+      "name": "Kell egy p\u00e1r nap",
+      "url": "https://open.spotify.com/track/3mt6G4z1RwWMIbmzWi7gPC"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "MOKKA",
+        "url": "https://open.spotify.com/album/4iQWeN0DOgVm1npN2nKkpk"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 163375,
+      "name": "MOKKA",
+      "url": "https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "SZABADS\u00c1G, SZERELEM",
+        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
+      },
+      "artists": [
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "F\u00c9LT\u00c9GL\u00c1K",
+      "url": "https://open.spotify.com/track/70VRbSPeELXFYOO1rk2IJm"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "EMELEM A T\u00c9TET",
         "url": "https://open.spotify.com/album/0v7us2KpvvfQV6IP1zwUDp"
@@ -609,99 +649,23 @@
       "url": "https://open.spotify.com/track/7IpQfpX3nNGfxlTBjB2CLl"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/5SYUF1nUTuqOgRFrj6x2VN"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "SZABADS\u00c1G, SZERELEM",
-        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
-      },
-      "artists": [
-        {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "F\u00c9LT\u00c9GL\u00c1K",
-      "url": "https://open.spotify.com/track/70VRbSPeELXFYOO1rk2IJm"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "rabiga",
-        "url": "https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH"
+        "name": "VRUMM",
+        "url": "https://open.spotify.com/album/7aYUPYm38uDZblddLHiqyJ"
       },
       "artists": [
         {
           "name": "Dzs\u00fadl\u00f3",
           "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
         }
       ],
-      "duration_ms": 135818,
-      "name": "d\u00edva",
-      "url": "https://open.spotify.com/track/52kBWybNy033009vfeYu5n"
+      "duration_ms": 146581,
+      "name": "VRUMM",
+      "url": "https://open.spotify.com/track/1pZ0ZP9RfWvGbBy8oX3Hlw"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -717,7 +681,59 @@
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 162333,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "SAVAGE",
+        "url": "https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "duration_ms": 129450,
+      "name": "JACUZZI",
+      "url": "https://open.spotify.com/track/7tbwRhYFlxyRjJZd6taszZ"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "S\u00d6T\u00c9T",
+        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 144203,
+      "name": "S\u00d6T\u00c9T",
+      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "Valamit Majd Kital\u00e1lok",
         "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
@@ -733,43 +749,7 @@
       "url": "https://open.spotify.com/track/2qAHIKBw6UcnFEt8IrQBBQ"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "SAVAGE",
-        "url": "https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj"
-      },
-      "artists": [
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "RZMVS",
-          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "WAY TOO HIGH",
-      "url": "https://open.spotify.com/track/17WIFL0Bicx4Eo3133nu4S"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "SZABADABB",
-        "url": "https://open.spotify.com/album/5yV5nkqCkv6yxGKdd8CyIE"
-      },
-      "artists": [
-        {
-          "name": "BALKAN VIP",
-          "url": "https://open.spotify.com/artist/4BsLUhw1OJirbGZrIyd1GN"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "SZABADABB",
-      "url": "https://open.spotify.com/track/0Yh8IsAQqaleHcdiMCmu5y"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "Always be mine",
         "url": "https://open.spotify.com/album/3Y1seqGP7erq5ZL1HqBGJ2"
@@ -789,23 +769,43 @@
       "url": "https://open.spotify.com/track/3HeA087njNOUOBvTQ2f9jV"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
-        "name": "S\u00d6T\u00c9T",
-        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
+        "name": "VINNER",
+        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
       },
       "artists": [
         {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
         }
       ],
-      "duration_ms": 144203,
-      "name": "S\u00d6T\u00c9T",
-      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
+      "duration_ms": 138097,
+      "name": "WAKE N BAKE",
+      "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/3Mls3f2j9xGRqRRsoKA0Ef"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
@@ -845,79 +845,7 @@
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "Lidokain",
-        "url": "https://open.spotify.com/album/0epDJ4zO5ZSQtLYcqJ8Z2b"
-      },
-      "artists": [
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
-        },
-        {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Lidokain",
-      "url": "https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "SZABADS\u00c1G, SZERELEM",
-        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
-      },
-      "artists": [
-        {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
-        },
-        {
-          "name": "sosehol",
-          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
-        }
-      ],
-      "duration_ms": 180821,
-      "name": "NEVELETLEN",
-      "url": "https://open.spotify.com/track/5eVC7fBiMjXbz2kwQTAPVO"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
-      "album": {
-        "name": "SZABADS\u00c1G, SZERELEM",
-        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
-      },
-      "artists": [
-        {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "BAD BUNNY",
-      "url": "https://open.spotify.com/track/4XeDO87WYRcMON0JlBIJa0"
-    },
-    {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
         "name": "BAKPAKK",
         "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
@@ -937,24 +865,104 @@
       "url": "https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j"
     },
     {
-      "added_at": "2026-06-11 23:29:38",
+      "added_at": "2026-06-12 16:18:34",
       "album": {
-        "name": "VINNER",
-        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
+        "name": "SZABADS\u00c1G, SZERELEM",
+        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
       },
       "artists": [
         {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
         },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+        }
+      ],
+      "duration_ms": 180821,
+      "name": "NEVELETLEN",
+      "url": "https://open.spotify.com/track/5eVC7fBiMjXbz2kwQTAPVO"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "SAVAGE",
+        "url": "https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj"
+      },
+      "artists": [
         {
           "name": "KKevin",
           "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
         }
       ],
-      "duration_ms": 138097,
-      "name": "WAKE N BAKE",
-      "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"
+      "duration_ms": 157586,
+      "name": "WAY TOO HIGH",
+      "url": "https://open.spotify.com/track/17WIFL0Bicx4Eo3133nu4S"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "SZABADS\u00c1G, SZERELEM",
+        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
+      },
+      "artists": [
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        },
+        {
+          "name": "BALKAN VIP",
+          "url": "https://open.spotify.com/artist/4BsLUhw1OJirbGZrIyd1GN"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+        }
+      ],
+      "duration_ms": 191707,
+      "name": "SZAR AZ \u00c9LET",
+      "url": "https://open.spotify.com/track/3cA772g1QiXO7hcAATxa97"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "Lidokain",
+        "url": "https://open.spotify.com/album/0epDJ4zO5ZSQtLYcqJ8Z2b"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        },
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Lidokain",
+      "url": "https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx"
+    },
+    {
+      "added_at": "2026-06-12 16:18:34",
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     }
   ],
   "unique_name": "Top 50 - Hungary",

@@ -4,7 +4,7 @@
 
 > 🌈 AMOR ES AMOR 🌈
 
-161 songs - 9 hr 48 min
+162 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 | 2022-06-03 | 2022-06-30 |
 | [Make Me..\. \(feat\. G\-Eazy\)](https://open.spotify.com/track/0nUGa8WQpQqg2vzJUprEo5) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Glory \(Deluxe Version\)](https://open.spotify.com/album/7gALIuQHKvpZR8EtbNZ7qK) | 3:50 | 2022-06-03 | 2022-06-30 |
 | [Maltratar](https://open.spotify.com/track/3i5q2XsZxL40UEmdDzfWYe) | [MANCANDY](https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq) | [2016](https://open.spotify.com/album/3UJCMFZa1DMsY96qXNomEV) | 3:32 | 2022-06-03 | 2022-06-30 |
+| [mariposas en el estómago](https://open.spotify.com/track/5tn1VPSdS9fHnvX58JjBIT) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [El Laberinto del Coco](https://open.spotify.com/artist/2Xvxlkf21E6JeWIV0lAMMM) | [Marcriá](https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI) | 3:40 | 2026-06-12 |  |
 | [me acostumbro](https://open.spotify.com/track/5DiyXD2xRkeYmR7oUA4eFD) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO](https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj) | 2:50 | 2023-01-20 |  |
 | [Me Conecto \(feat\. Jorge Drexler\)](https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [SMS](https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh) | 3:08 | 2023-01-20 |  |
 | [me gusta que me gustes](https://open.spotify.com/track/103F71tYE8WU3AtiIkmDC0) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [me gusta que me gustes](https://open.spotify.com/album/6acoBVsjADxdd7qpUwfMcv) | 2:35 | 2023-01-20 |  |
@@ -113,7 +114,7 @@
 | [Motel](https://open.spotify.com/track/3DNTGxpUQR7A01H6EJkQM6) | [MANCANDY](https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq) | [2016](https://open.spotify.com/album/3UJCMFZa1DMsY96qXNomEV) | 3:00 | 2022-06-03 | 2022-06-30 |
 | [Multicolor](https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Multicolor](https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF) | 3:40 | 2024-06-24 |  |
 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 | 2024-06-24 |  |
-| [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 | 2023-09-01 |  |
+| [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 | 2023-09-01 | 2026-06-13 |
 | [Nada Personal](https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Nada Personal](https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1) | 4:41 | 2023-01-20 | 2023-09-02 |
 | [Nadie Más](https://open.spotify.com/track/005876Sj0DDeqcV3Odv4Bx) | [MANCANDY](https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq) | [2016](https://open.spotify.com/album/3UJCMFZa1DMsY96qXNomEV) | 3:15 | 2022-06-03 | 2022-06-30 |
 | [Nadie Va](https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 3:38 | 2023-01-20 | 2024-06-25 |

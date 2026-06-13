@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-352 songs - 21 hr 37 min
+353 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [9 5 \. s o u t h](https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:16 | 2023-12-13 |  |
 | [A LOT MORE](https://open.spotify.com/track/3BqUnohnUBmFWQxo0DT0uA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE](https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk) | 3:20 | 2023-12-13 |  |
 | [A Mess \(feat\. Lucky Daye\)](https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:53 | 2023-12-13 |  |
+| [Ahead By A Century](https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse](https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn) | 3:43 | 2026-06-12 |  |
 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 | 2025-02-04 |  |
 | [Alcantara](https://open.spotify.com/track/7Efz4qL6h9FeVh8lf77Mvi) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 3:07 | 2023-12-13 |  |
 | [All Good](https://open.spotify.com/track/1hcBfjO5gRHQiFPiOJ4kst) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 3:45 | 2023-12-13 |  |

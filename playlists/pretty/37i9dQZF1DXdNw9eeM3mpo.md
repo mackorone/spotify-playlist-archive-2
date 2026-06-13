@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Vicente Cifuentes y Joselo Osses en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,207 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,241 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 53 | [La Zona del Terror](https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 4:03 |
 | 54 | [Ojos Cafés](https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 4:00 |
 | 55 | [Su Majestad](https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ) | [La Matatena](https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q) | [Emulsion de Skape](https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE) | 3:39 |
-| 56 | [Resistiré](https://open.spotify.com/track/2yV2H6tLETd64BapUezE95) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Jaula De Grillos](https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82) | 4:17 |
-| 57 | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL) | 2:56 |
+| 56 | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL) | 2:56 |
+| 57 | [Resistiré](https://open.spotify.com/track/2yV2H6tLETd64BapUezE95) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Jaula De Grillos](https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82) | 4:17 |
 | 58 | [Algo De Suerte](https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 4:14 |
 | 59 | [Mala Vida](https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Frecuencia Extrema](https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA) | 3:18 |
 | 60 | [El asesino del tiempo](https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p) | [Dinamo](https://open.spotify.com/artist/64joRc8km0DL1f5hgPhv7n) | [Desequilibrio](https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD) | 3:32 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 96 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 97 | [¡Hey Tú!](https://open.spotify.com/track/06JUg2MqByeWM31ac7dLba) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [¡Hey Tú!](https://open.spotify.com/album/63wvcrQ5Kq5SeDEyOZ8imM) | 3:12 |
 | 98 | [Fuera de Control \- En Vivo](https://open.spotify.com/track/1XRXgTDztVIYcgGY6iwEzd) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [En Vivo Desde el Teatro Metropólitan](https://open.spotify.com/album/1zU1ZCHv0ZlTJNOmyCqzVc) | 4:01 |
-| 99 | [PASO AL AIRE](https://open.spotify.com/track/0EcQoH6cU0Ph8f9tFZruac) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [PASO AL AIRE](https://open.spotify.com/album/00FkxF6xOtTDNB9AGniV0z) | 3:30 |
+| 99 | [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 |
 | 100 | [Este Ritmo](https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Este Ritmo](https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp) | 2:47 |
 
 Snapshot ID: `AAAAAD4npx2rvcf7sUayntozqTBPBRpE`

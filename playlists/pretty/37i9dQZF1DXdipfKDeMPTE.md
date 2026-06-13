@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Smooth beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,916 likes - 92 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,920 likes - 92 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 153040,
+  "num_followers": 153054,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAAGLrXoQNVzneQJyt8btdiL",
+  "snapshot_id": "ain6gAAAAADnJri+ecJnU1IgK7bfJYPP",
   "tracks": [
     {
       "added_at": null,
@@ -127,38 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 300466,
-      "name": "In The Rain",
-      "url": "https://open.spotify.com/track/41bWhFyo0NndpMMedZGMl0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
-        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "You Raise Me Up",
-      "url": "https://open.spotify.com/track/3yYMnwomVxxFZCMsHqJ6sC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whatever's Clever!",
         "url": "https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p"
       },
@@ -179,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
+        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
       },
       "artists": [
         {
@@ -188,9 +156,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 199640,
-      "name": "Loving You - Edit",
-      "url": "https://open.spotify.com/track/0KH4lkNCzPACif93d7u7A9"
+      "duration_ms": 194373,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/3yYMnwomVxxFZCMsHqJ6sC"
     },
     {
       "added_at": null,
@@ -204,15 +172,15 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 395040,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/5I7uF6AdRy5SbtHE6k1QJo"
+      "duration_ms": 300466,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/41bWhFyo0NndpMMedZGMl0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
-        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
       "artists": [
         {
@@ -220,9 +188,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 205160,
-      "name": "If",
-      "url": "https://open.spotify.com/track/05CovbrGQALQUh4yVonNfa"
+      "duration_ms": 199640,
+      "name": "Loving You - Edit",
+      "url": "https://open.spotify.com/track/0KH4lkNCzPACif93d7u7A9"
     },
     {
       "added_at": null,
@@ -243,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
+        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
       },
       "artists": [
         {
@@ -252,9 +220,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 334160,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C"
+      "duration_ms": 205160,
+      "name": "If",
+      "url": "https://open.spotify.com/track/05CovbrGQALQUh4yVonNfa"
     },
     {
       "added_at": null,
@@ -268,15 +236,15 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 260760,
-      "name": "The Joy of Life",
-      "url": "https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2"
+      "duration_ms": 395040,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/5I7uF6AdRy5SbtHE6k1QJo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
-        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
       "artists": [
         {
@@ -284,9 +252,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 170360,
-      "name": "The Way We Were",
-      "url": "https://open.spotify.com/track/2jpLlNuAPP7vZY7ohQh5ka"
+      "duration_ms": 334160,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C"
     },
     {
       "added_at": null,
@@ -307,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
+        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
       },
       "artists": [
         {
@@ -316,9 +284,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 238426,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
+      "duration_ms": 170360,
+      "name": "The Way We Were",
+      "url": "https://open.spotify.com/track/2jpLlNuAPP7vZY7ohQh5ka"
     },
     {
       "added_at": null,
@@ -332,15 +300,15 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 313933,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb"
+      "duration_ms": 260760,
+      "name": "The Joy of Life",
+      "url": "https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
-        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
       "artists": [
         {
@@ -348,9 +316,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 223600,
-      "name": "Love Theme From \"Romeo & Juliet\"",
-      "url": "https://open.spotify.com/track/4O3Sbe4RIhUCJOa0AmL5Gn"
+      "duration_ms": 238426,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
     },
     {
       "added_at": null,
@@ -371,6 +339,38 @@
       "duration_ms": 273306,
       "name": "Missing You Now (feat. Kenny G)",
       "url": "https://open.spotify.com/track/7ho5FKdNqmmbCpXYcyDH8c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
+        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 223600,
+      "name": "Love Theme From \"Romeo & Juliet\"",
+      "url": "https://open.spotify.com/track/4O3Sbe4RIhUCJOa0AmL5Gn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 313933,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm & Romance",
-        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
+        "name": "Heart And Soul",
+        "url": "https://open.spotify.com/album/6G9KJtQMm8GN4HMk3STg5o"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 262533,
-      "name": "Sabor A Mi",
-      "url": "https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2"
+      "duration_ms": 313560,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/1BGXHSXW84XkVe5cdRMLKN"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
       "duration_ms": 440400,
       "name": "Havana",
       "url": "https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart And Soul",
-        "url": "https://open.spotify.com/album/6G9KJtQMm8GN4HMk3STg5o"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 313560,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/1BGXHSXW84XkVe5cdRMLKN"
     },
     {
       "added_at": null,
@@ -548,29 +532,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 431893,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 298066,
-      "name": "Everytime I Close My Eyes (with Babyface)",
-      "url": "https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB"
+      "duration_ms": 262533,
+      "name": "Sabor A Mi",
+      "url": "https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2"
     },
     {
       "added_at": null,
@@ -599,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 298066,
+      "name": "Everytime I Close My Eyes (with Babyface)",
+      "url": "https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 244826,
       "name": "You Send Me (with Michael Bolton)",
       "url": "https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rhythm & Romance",
+        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 431893,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 192492,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ"
+      "duration_ms": 207757,
+      "name": "Edelweiss",
+      "url": "https://open.spotify.com/track/4rWdnvbc7NxXGhjp3lIzRD"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 207757,
-      "name": "Edelweiss",
-      "url": "https://open.spotify.com/track/4rWdnvbc7NxXGhjp3lIzRD"
+      "duration_ms": 192492,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ"
     },
     {
       "added_at": null,

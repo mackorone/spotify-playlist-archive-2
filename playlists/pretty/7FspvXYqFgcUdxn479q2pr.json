@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31568,
+  "num_followers": 31569,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAwhBoD5Jo9wHF2ZYeGaH6OzmIZgDO8",
+  "snapshot_id": "AAAwihyWLR7/UC0KElwaG1oye0Y+jxnq",
   "tracks": [
     {
       "added_at": "2026-06-11 22:00:01",
@@ -271,6 +271,38 @@
       "duration_ms": 195454,
       "name": "El Supremo",
       "url": "https://open.spotify.com/track/1awahW3zBr59Nb3L3HAyb5"
+    },
+    {
+      "added_at": "2026-06-12 12:55:23",
+      "album": {
+        "name": "Can't Help Myself",
+        "url": "https://open.spotify.com/album/6iJW785sbFsBfblmPtmgRC"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/649WkG75AJOBLsD4wkVrTV"
+    },
+    {
+      "added_at": "2026-06-12 12:50:33",
+      "album": {
+        "name": "Dancing",
+        "url": "https://open.spotify.com/album/485zFRgwKdJKEgTEiwo1xV"
+      },
+      "artists": [
+        {
+          "name": "Costa UK",
+          "url": "https://open.spotify.com/artist/6l9N9msYoAl9NrJTHog0hK"
+        }
+      ],
+      "duration_ms": 137674,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/1DeIWgxDUIXcYNWT8xlaPP"
     },
     {
       "added_at": "2026-05-29 07:13:22",
@@ -573,6 +605,22 @@
       "url": "https://open.spotify.com/track/4nBrGuDxYCz4HAHvp7G27b"
     },
     {
+      "added_at": "2026-06-12 12:43:00",
+      "album": {
+        "name": "Palabras EP",
+        "url": "https://open.spotify.com/album/1TtucYLSZGerCTBMEa6lju"
+      },
+      "artists": [
+        {
+          "name": "Carla Ferrer DJ",
+          "url": "https://open.spotify.com/artist/02jxZ5YyCYgziiL7j1z6KY"
+        }
+      ],
+      "duration_ms": 304761,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/3WHmqmAHAtpRH3PN34el9p"
+    },
+    {
       "added_at": "2026-06-05 14:43:48",
       "album": {
         "name": "Run Run River (Angels Above Me)",
@@ -613,6 +661,22 @@
       "url": "https://open.spotify.com/track/2lc9qi12Ruq1HEtOpDVz6x"
     },
     {
+      "added_at": "2026-06-12 07:31:37",
+      "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/21TiEIiY9SHn92gHV2bgOt"
+      },
+      "artists": [
+        {
+          "name": "Tuew",
+          "url": "https://open.spotify.com/artist/0TEFGr4Bz2GgUhfDGsNx3r"
+        }
+      ],
+      "duration_ms": 186609,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/5p6xUwoiPiK6lFc8zOrm0z"
+    },
+    {
       "added_at": "2026-06-05 15:12:57",
       "album": {
         "name": "Discoball",
@@ -627,6 +691,26 @@
       "duration_ms": 205161,
       "name": "Discoball",
       "url": "https://open.spotify.com/track/5QCtMPGcZjBoDSmLApToSJ"
+    },
+    {
+      "added_at": "2026-06-12 13:35:15",
+      "album": {
+        "name": "Feel The Vibe",
+        "url": "https://open.spotify.com/album/7uUpdTc0IgKUMvRohkACXy"
+      },
+      "artists": [
+        {
+          "name": "Matt Maze",
+          "url": "https://open.spotify.com/artist/7DbjV4LZXnV1zR2bfViKHt"
+        },
+        {
+          "name": "Andri Air",
+          "url": "https://open.spotify.com/artist/7zWYA6GRIzmLQUciJPi9Ki"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Feel The Vibe",
+      "url": "https://open.spotify.com/track/48Rqc7DghC25uMU424Msd6"
     },
     {
       "added_at": "2026-06-05 14:58:40",

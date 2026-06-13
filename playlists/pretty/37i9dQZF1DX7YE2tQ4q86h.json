@@ -1,13 +1,61 @@
 {
-  "description": "Tinashe is having a main pop girl emergency \ud83c\udd98",
-  "num_followers": 229526,
+  "description": "Rebecca Black is having a main pop girl emergency \ud83c\udd98",
+  "num_followers": 229644,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE8H9d5DeDMTfo2UktFWUZqfwfKA",
+  "snapshot_id": "AAAAAJmTeerkMDZCSZLmfa418R8SBZZx",
   "tracks": [
+    {
+      "added_at": "2026-06-12 04:01:58",
+      "album": {
+        "name": "Speakerphone",
+        "url": "https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "duration_ms": 161660,
+      "name": "Speakerphone",
+      "url": "https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT"
+    },
+    {
+      "added_at": "2026-06-12 04:01:58",
+      "album": {
+        "name": "Club To Your Arms",
+        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 191596,
+      "name": "Club To Your Arms",
+      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
+    },
+    {
+      "added_at": "2026-06-12 13:34:47",
+      "album": {
+        "name": "Sorry You're Not Sorry",
+        "url": "https://open.spotify.com/album/5maDinbDKH5eS7n3boHnjY"
+      },
+      "artists": [
+        {
+          "name": "Cherry Bomb",
+          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
+        }
+      ],
+      "duration_ms": 240690,
+      "name": "Sorry You're Not Sorry",
+      "url": "https://open.spotify.com/track/5ZugCbT4LxmvgzgusvzvBU"
+    },
     {
       "added_at": "2026-06-05 04:01:06",
       "album": {
@@ -23,6 +71,42 @@
       "duration_ms": 114867,
       "name": "Too Easy",
       "url": "https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS"
+    },
+    {
+      "added_at": "2026-06-12 04:01:58",
+      "album": {
+        "name": "des fleurs x stromae",
+        "url": "https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "duration_ms": 172544,
+      "name": "des fleurs x stromae",
+      "url": "https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI"
+    },
+    {
+      "added_at": "2026-04-17 04:01:28",
+      "album": {
+        "name": "DANCE...",
+        "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 287055,
+      "name": "DANCE...",
+      "url": "https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ"
     },
     {
       "added_at": "2026-06-05 04:01:06",
@@ -41,20 +125,20 @@
       "url": "https://open.spotify.com/track/1upR4RGAXKQQMKxjzkZr6g"
     },
     {
-      "added_at": "2026-04-17 04:01:28",
+      "added_at": "2026-06-12 04:01:58",
       "album": {
-        "name": "DANCE...",
-        "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
+        "name": "DIRTY BLONDE",
+        "url": "https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG"
       },
       "artists": [
         {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 287055,
-      "name": "DANCE...",
-      "url": "https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ"
+      "duration_ms": 188000,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R"
     },
     {
       "added_at": "2026-05-22 04:41:54",
@@ -89,6 +173,22 @@
       "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
     },
     {
+      "added_at": "2026-06-12 04:01:58",
+      "album": {
+        "name": "Dancefloor Erotica",
+        "url": "https://open.spotify.com/album/7aQhFdYGBss6RCYMa7fwyp"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 210783,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/6PH8uO0RpimMOU5pMmgi7D"
+    },
+    {
       "added_at": "2026-05-29 04:19:09",
       "album": {
         "name": "Detour",
@@ -103,6 +203,38 @@
       "duration_ms": 194450,
       "name": "101",
       "url": "https://open.spotify.com/track/2X8lHTavqDJoPr6GqbUEgf"
+    },
+    {
+      "added_at": "2026-06-12 04:01:58",
+      "album": {
+        "name": "Prototype",
+        "url": "https://open.spotify.com/album/7MvhqeZz7MOz9WRqh8EmTr"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        }
+      ],
+      "duration_ms": 185977,
+      "name": "Jus Wanna",
+      "url": "https://open.spotify.com/track/1JEp5ZG4iJGLV8umSDIY0i"
+    },
+    {
+      "added_at": "2026-05-15 04:01:54",
+      "album": {
+        "name": "EPA",
+        "url": "https://open.spotify.com/album/42bmZVf8s1S0wMhY7HrBGZ"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 202542,
+      "name": "EPA",
+      "url": "https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw"
     },
     {
       "added_at": "2026-06-05 04:01:06",
@@ -171,22 +303,6 @@
       "duration_ms": 176546,
       "name": "BOOMPALA",
       "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
-    },
-    {
-      "added_at": "2026-05-15 04:01:54",
-      "album": {
-        "name": "EPA",
-        "url": "https://open.spotify.com/album/42bmZVf8s1S0wMhY7HrBGZ"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 202542,
-      "name": "EPA",
-      "url": "https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw"
     },
     {
       "added_at": "2026-06-05 04:01:06",
@@ -299,22 +415,6 @@
       "duration_ms": 228000,
       "name": "You Oughta Know",
       "url": "https://open.spotify.com/track/5IumxYIOm0yiNpGad0SCgY"
-    },
-    {
-      "added_at": "2026-05-15 04:01:54",
-      "album": {
-        "name": "I\u2019m your girl right?",
-        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 169059,
-      "name": "I\u2019m your girl right?",
-      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
     },
     {
       "added_at": "2026-05-22 05:19:17",
@@ -1285,26 +1385,6 @@
       "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
     },
     {
-      "added_at": "2026-03-06 05:00:09",
-      "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
-    },
-    {
       "added_at": "2026-04-10 04:04:00",
       "album": {
         "name": "Watch You Cry",
@@ -1335,22 +1415,6 @@
       "duration_ms": 149174,
       "name": "SpiceKick",
       "url": "https://open.spotify.com/track/0s6ESjDmU3DNbhXrPoIxrX"
-    },
-    {
-      "added_at": "2026-03-20 04:00:57",
-      "album": {
-        "name": "Digital Girl",
-        "url": "https://open.spotify.com/album/7sTZXQHgiLUZBUBVrugT51"
-      },
-      "artists": [
-        {
-          "name": "Cherry Bomb",
-          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Digital Girl",
-      "url": "https://open.spotify.com/track/3GpQ2bhljJkAF1IXaShbMh"
     },
     {
       "added_at": "2026-03-24 02:26:25",
@@ -1599,74 +1663,6 @@
       "duration_ms": 161356,
       "name": "Hunnyb\u00e5n",
       "url": "https://open.spotify.com/track/2eSa7Je2y3AfxAzDpYKY1E"
-    },
-    {
-      "added_at": "2026-02-27 05:00:35",
-      "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/6cQN4xp9wJ5fOuaVt2gVye"
-      },
-      "artists": [
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        },
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        }
-      ],
-      "duration_ms": 175029,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3D4trADwg7QGGpFlLSLg48"
-    },
-    {
-      "added_at": "2026-02-20 05:00:50",
-      "album": {
-        "name": "YDH",
-        "url": "https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 197043,
-      "name": "YDH",
-      "url": "https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr"
-    },
-    {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "Death Of Me",
-        "url": "https://open.spotify.com/album/2lz2YApT9yBh91eQQRe5VW"
-      },
-      "artists": [
-        {
-          "name": "Ericka Jane",
-          "url": "https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL"
-        }
-      ],
-      "duration_ms": 180408,
-      "name": "Death Of Me",
-      "url": "https://open.spotify.com/track/2dGaw9rLzOgaGwKXn5PBqT"
-    },
-    {
-      "added_at": "2026-02-13 05:00:31",
-      "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Dancing On The Wall",
-      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
     }
   ],
   "unique_name": "OBSESSED",

@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/5Sbq5G0eHlSoa1csWndZBg"
+      },
+      "artists": [
+        {
+          "name": "Jules",
+          "url": "https://open.spotify.com/artist/27HeDkvpG3KfBhqdokQf4M"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216056,
+      "name": "Alcohol Kisses",
+      "url": "https://open.spotify.com/track/2is6MvoSFGnCjWtfBJ2bzD"
+    },
+    {
+      "album": {
         "name": "from me, to you",
         "url": "https://open.spotify.com/album/7khtsm8rte85jV3WfhypDB"
       },
@@ -3206,7 +3224,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 261222,
       "name": "Blue Wave",
       "url": "https://open.spotify.com/track/2Wd2v2wRLVvnkLeomMddaT"
@@ -3776,7 +3794,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 176413,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/3rKjT23XeGg3pbqE1T1fpd"
@@ -4242,6 +4260,24 @@
       "duration_ms": 158621,
       "name": "CALL ME BACK !",
       "url": "https://open.spotify.com/track/3q7x3hxNuV6Wd1l1VY0REH"
+    },
+    {
+      "album": {
+        "name": "call me yours",
+        "url": "https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204622,
+      "name": "call me yours",
+      "url": "https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm"
     },
     {
       "album": {
@@ -8763,6 +8799,24 @@
     },
     {
       "album": {
+        "name": "figure it out",
+        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "figure it out",
+      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
+    },
+    {
+      "album": {
         "name": "figure me out",
         "url": "https://open.spotify.com/album/3qjOkOZ9FeKIHxsp8aCmFO"
       },
@@ -9056,7 +9110,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 194285,
       "name": "Flutter",
       "url": "https://open.spotify.com/track/1h7BredQJxe70R90k69FoS"
@@ -13844,7 +13898,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 186869,
       "name": "If Only",
       "url": "https://open.spotify.com/track/5R0H0SoA4ZMGhdOfZTFjHR"
@@ -15156,7 +15210,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 212832,
       "name": "Kids on Drugs",
       "url": "https://open.spotify.com/track/2LAUn5WEObPGztC8AXjtDe"
@@ -16979,6 +17033,24 @@
     },
     {
       "album": {
+        "name": "Man of McGill",
+        "url": "https://open.spotify.com/album/6sM7bDkBFvTEjagUSdgHnn"
+      },
+      "artists": [
+        {
+          "name": "Neighbour Andy",
+          "url": "https://open.spotify.com/artist/0p9ozwnqaVgVFSLMJAST4O"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172356,
+      "name": "Man of McGill",
+      "url": "https://open.spotify.com/track/2VIb64fIV3ln6ldUWoqAtw"
+    },
+    {
+      "album": {
         "name": "Man's World",
         "url": "https://open.spotify.com/album/5T2DJctibP8AE17HzWpglf"
       },
@@ -18082,6 +18154,24 @@
       "duration_ms": 129641,
       "name": "My Sunny Day",
       "url": "https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx"
+    },
+    {
+      "album": {
+        "name": "Iskw\u00eaw",
+        "url": "https://open.spotify.com/album/6bHmF0MXOWZi9LSqKCCd2C"
+      },
+      "artists": [
+        {
+          "name": "LOV",
+          "url": "https://open.spotify.com/artist/36HaK4wNnlYPVsZzGtvbw1"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184768,
+      "name": "M\u00e2ci N\u00eemihtow",
+      "url": "https://open.spotify.com/track/2iSTBOBNxK8O361WPsxRDq"
     },
     {
       "album": {
@@ -19589,6 +19679,24 @@
     },
     {
       "album": {
+        "name": "Heart So Open",
+        "url": "https://open.spotify.com/album/1r0AuBhbjA8ax7mKTIh1zu"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "Otis",
+      "url": "https://open.spotify.com/track/15UBUtrFnpS9fcPbil0xzv"
+    },
+    {
+      "album": {
         "name": "OTT",
         "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
       },
@@ -20778,7 +20886,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 176374,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/4ya1coIffCVzbRyakb5bxq"

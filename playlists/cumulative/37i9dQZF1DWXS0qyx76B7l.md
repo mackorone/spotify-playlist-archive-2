@@ -2,9 +2,9 @@
 
 ### [I Love NYC](https://open.spotify.com/playlist/37i9dQZF1DWXS0qyx76B7l)
 
-> Songs about the iconic city\. Welcome to the Big Apple! 📸 Chappell Roan is Lady Liberty
+> The greatest city on earth!
 
-128 songs - 8 hr 38 min
+131 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,8 @@
 | [Les](https://open.spotify.com/track/0YsGMHid6sFq5PcToe3JZE) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/2nkHPk6e7TgemWh07yFHxh) | 5:17 | 2022-01-24 | 2024-04-19 |
 | [Les](https://open.spotify.com/track/0mCVNGC4Vvb6gDDQrDpaRh) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/32KdoFFhgjCLdU0DWL71tx) | 5:17 | 2022-01-24 | 2022-10-13 |
 | [LES](https://open.spotify.com/track/4j24vueYbcYbsqkRD37kM5) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/5J01uRrQTfuquNjQ5w3jUp) | 5:18 | 2020-05-13 | 2022-07-29 |
-| [Lighters Up](https://open.spotify.com/track/4eihdGG3Tga3oFq4yqCDeL) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Lighters Up](https://open.spotify.com/album/6gKNrsYOpavwtwRsJrQ59f) | 4:22 | 2023-08-14 |  |
-| [Living For The City](https://open.spotify.com/track/3qvuhGBr6BSdGPQsdf2gLr) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 7:22 | 2020-05-13 |  |
+| [Lighters Up](https://open.spotify.com/track/4eihdGG3Tga3oFq4yqCDeL) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Lighters Up](https://open.spotify.com/album/6gKNrsYOpavwtwRsJrQ59f) | 4:22 | 2023-08-14 | 2026-06-13 |
+| [Living For The City](https://open.spotify.com/track/3qvuhGBr6BSdGPQsdf2gLr) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 7:22 | 2020-05-13 | 2026-06-13 |
 | [Living Room, NY](https://open.spotify.com/track/06gM89NFOONFE0pzW6rRRV) | [Laura Stevenson](https://open.spotify.com/artist/1lVadNivMiSkc2N6irhWdg) | [The Big Freeze](https://open.spotify.com/album/7unXiwafDHQziqHxKg3xd1) | 3:22 | 2020-05-13 | 2022-11-13 |
 | [Loungin \(Who Do Ya Luv\) \- Remix](https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 3:49 | 2023-08-14 |  |
 | [Manhattan](https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:19 | 2022-01-24 |  |
@@ -100,16 +100,19 @@
 | [Nights On Broadway](https://open.spotify.com/track/3TdyvDezYbn1AcbYjcAzhl) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Main Course](https://open.spotify.com/album/5LSVsetFxZ1Chl4iL05wAz) | 4:31 | 2022-01-24 | 2022-07-29 |
 | [Nights On Broadway](https://open.spotify.com/track/4JjcCdm0RSPuvQWnZyrNkm) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Main Course](https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj) | 4:31 | 2022-01-24 | 2024-04-19 |
 | [No Sleep Till Brooklyn](https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 4:06 | 2020-05-13 |  |
+| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2026-06-12 |  |
 | [NYC](https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:19 | 2022-01-24 | 2023-08-15 |
 | [NYC](https://open.spotify.com/track/5XFlAeJ8V0tPcDzwlKeqKM) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Say Hello To The Angels/NYC](https://open.spotify.com/album/5HlIe9kFaslS0iFZXTOYGo) | 4:21 | 2020-05-13 | 2022-07-29 |
 | [NYC \(feat\. Jadakiss\)](https://open.spotify.com/track/16Uo6RlrDDrrDai2Z7DOjM) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [The King & I](https://open.spotify.com/album/3Ezv8bXs9vS908aaKdWrQ3) | 3:31 | 2020-05-13 | 2022-01-25 |
 | [On Broadway](https://open.spotify.com/track/3CH8M5lB931faZDzjCTfVW) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 3:01 | 2022-01-24 | 2023-05-09 |
 | [One More Night In Brooklyn](https://open.spotify.com/track/4xv3P9DiKTKMfFaClyZtgn) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Harlem River Blues](https://open.spotify.com/album/0hihWmULfM5FNgrS7NOXjN) | 3:04 | 2020-05-13 | 2023-05-14 |
+| [Party Up](https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:28 | 2026-06-12 |  |
 | [Piazza, New York Catcher](https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Dear Catastrophe Waitress](https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML) | 3:03 | 2022-01-24 | 2026-05-16 |
 | [Positively 4th Street](https://open.spotify.com/track/3laR7U9SoYE9C6227MlX78) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Essential Bob Dylan](https://open.spotify.com/album/2FfFQlRgh841SHCLikuZsC) | 3:52 | 2020-05-13 | 2022-07-29 |
 | [Positively 4th Street \- Single Version](https://open.spotify.com/track/4heMx0OAwfILu13Lf0VbBM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Essential Bob Dylan](https://open.spotify.com/album/1y3abw64BlSEeFuuhjlke1) | 4:07 | 2022-01-24 | 2022-11-13 |
 | [Queens](https://open.spotify.com/track/5fcWsUs0Au4IxrhWMFQAj3) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:13 | 2020-05-13 | 2022-01-26 |
 | [Rockaway Beach \- 2002 Remaster](https://open.spotify.com/track/3Mgc6hFpByowXDImggLF8S) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia](https://open.spotify.com/album/3SBh2kzao9z3gLCzOV45ho) | 2:06 | 2020-05-13 | 2022-07-29 |
+| [Ruff Ryders' Anthem](https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc) | 3:34 | 2026-06-12 |  |
 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 | 2023-08-14 |  |
 | [Shook Ones, Pt\. II](https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:25 | 2023-08-14 |  |
 | [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/track/4txpZk7WSjV1dsZAw5WYcT) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/album/21sbS4jxqWY2oB1GTMOwqP) | 3:44 | 2020-05-13 | 2022-01-26 |
@@ -130,7 +133,7 @@
 | [Theme From New York, New York \- Remastered \) \[The Frank Sinatra Collection\]](https://open.spotify.com/track/4bBgZTIRQ2PHonaRwnn3jf) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \[The Frank Sinatra Collection\]](https://open.spotify.com/album/48ijda2pd3B1CcrqN9sgdV) | 3:24 | 2020-05-13 |  |
 | [Tompkins Square Park](https://open.spotify.com/track/5DmWOVaWBbIWKQnk6bMdwu) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 5:11 | 2020-05-13 | 2022-10-14 |
 | [Tompkins Square Park](https://open.spotify.com/track/6nTVR9CtUqKB5RQ7a8dv6t) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 5:11 | 2022-01-24 | 2024-03-12 |
-| [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 | 2023-08-14 |  |
+| [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 | 2023-08-14 | 2026-06-13 |
 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:18 | 2022-01-24 |  |
 | [Walk on the Wild Side](https://open.spotify.com/track/0EFEkt29P7Icr7dO4vN6yk) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/3JKDzf9F11y9kjWnehKna1) | 4:13 | 2020-05-13 | 2022-07-28 |
 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:14 | 2022-01-24 | 2024-04-19 |

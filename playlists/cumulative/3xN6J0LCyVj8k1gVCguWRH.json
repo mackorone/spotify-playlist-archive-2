@@ -23305,6 +23305,28 @@
     },
     {
       "album": {
+        "name": "Dance once more",
+        "url": "https://open.spotify.com/album/7rQLasrORnDNXVNPGIdLdD"
+      },
+      "artists": [
+        {
+          "name": "Odaiba",
+          "url": "https://open.spotify.com/artist/0ZLRzLs36ymAz7aquYoE3l"
+        },
+        {
+          "name": "Nola Rice",
+          "url": "https://open.spotify.com/artist/2hf7DS24Eif2CIhiTtAnYU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187563,
+      "name": "Dance once more",
+      "url": "https://open.spotify.com/track/5xR2f006O8gG76s4DTwgJ0"
+    },
+    {
+      "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
@@ -26732,6 +26754,28 @@
       "duration_ms": 173856,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/5L2jBYCrHvxFLVVYq6CQEt"
+    },
+    {
+      "album": {
+        "name": "Don't Record",
+        "url": "https://open.spotify.com/album/4Hq61eO0YTuZjhGHRerecJ"
+      },
+      "artists": [
+        {
+          "name": "Jet Vesper",
+          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
+        },
+        {
+          "name": "gurasanpark",
+          "url": "https://open.spotify.com/artist/4lmTynx3rDaCpwHXmidFSF"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199762,
+      "name": "Don't Record",
+      "url": "https://open.spotify.com/track/1jyNswOFIyhIrYnR3a4GcH"
     },
     {
       "album": {
@@ -49045,6 +49089,28 @@
     },
     {
       "album": {
+        "name": "I.D.T.Y.L.M",
+        "url": "https://open.spotify.com/album/1EpTTPKdPduCGjtb29n6mh"
+      },
+      "artists": [
+        {
+          "name": "Gracie Ella",
+          "url": "https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj"
+        },
+        {
+          "name": "Benita",
+          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183510,
+      "name": "I.D.T.Y.L.M",
+      "url": "https://open.spotify.com/track/2pJf0RpyXdnqvb8LgWactn"
+    },
+    {
+      "album": {
         "name": "IAWYD",
         "url": "https://open.spotify.com/album/3Fs9IaRpwsfwbvoU0FSFwp"
       },
@@ -68770,7 +68836,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 215500,
       "name": "Never Been Loved By You",
       "url": "https://open.spotify.com/track/5RkmnDuqPLd4df9ZGEGDZz"
@@ -74616,7 +74682,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 211019,
       "name": "Out Of My System",
       "url": "https://open.spotify.com/track/3d5YTG4L303cFGwVCgioRQ"
@@ -78873,6 +78939,42 @@
     },
     {
       "album": {
+        "name": "pretty baby",
+        "url": "https://open.spotify.com/album/5u8K7eavUHwapkTLUAccfO"
+      },
+      "artists": [
+        {
+          "name": "Jackson Lundy",
+          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150688,
+      "name": "pretty baby",
+      "url": "https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy"
+    },
+    {
+      "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/1rh4VppI5lMWGY7sZ3o1HQ"
+      },
+      "artists": [
+        {
+          "name": "Taineh",
+          "url": "https://open.spotify.com/artist/6fa0MxLwqmJqDt9qGl9VD4"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213130,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/4NBOBwqQDgTkVPeIpEoZVv"
+    },
+    {
+      "album": {
         "name": "Pretty Lady",
         "url": "https://open.spotify.com/album/3gSx5PGcf9oXHSlyHe4mIV"
       },
@@ -81128,7 +81230,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 223623,
       "name": "ready",
       "url": "https://open.spotify.com/track/7plr9T97YP3VjW1fWPehmt"
@@ -90112,7 +90214,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 195494,
       "name": "So Loud",
       "url": "https://open.spotify.com/track/2J5nVMs34DslQuuf6MACPW"
@@ -90946,7 +91048,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 191280,
       "name": "Something Beautiful - Equanimity: A Song for MP",
       "url": "https://open.spotify.com/track/3Y5Lb3EqA6uNQgGPUXxDP2"
@@ -105394,7 +105496,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 208591,
       "name": "Two-Faced Girl",
       "url": "https://open.spotify.com/track/4Ao1q57uC15jZh4r7qQMAd"
@@ -105992,7 +106094,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 229871,
       "name": "UNDER THE PARIS SKIES",
       "url": "https://open.spotify.com/track/0rgAZD2DBYFdrNHvOzxRvH"
@@ -107800,7 +107902,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 212880,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/1BBmpZequI1IykpN0KddLe"

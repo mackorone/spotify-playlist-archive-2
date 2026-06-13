@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 469470,
+  "num_followers": 469488,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
-      },
-      "artists": [
-        {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
-        }
-      ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
         "name": "Forest Theory",
         "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 231648,
       "name": "Universal Sound",
       "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Worms on Acid",
-        "url": "https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Worms on Acid",
-      "url": "https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
         "name": "ITSAME",
         "url": "https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 461613,
       "name": "ITSAME [group hugg]",
       "url": "https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
+        "name": "Worms on Acid",
+        "url": "https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Worms on Acid",
+      "url": "https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -635,26 +635,18 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Hondo (Remix)",
-        "url": "https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn"
+        "name": "Planta Dance",
+        "url": "https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv"
       },
       "artists": [
         {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        },
-        {
-          "name": "Techno Para Dos",
-          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
-        },
-        {
-          "name": "issuesonissues",
-          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 321210,
-      "name": "Hondo (Remix)",
-      "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
+      "duration_ms": 186000,
+      "name": "Planta Dance",
+      "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -675,18 +667,26 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Planta Dance",
-        "url": "https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv"
+        "name": "Hondo (Remix)",
+        "url": "https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        },
+        {
+          "name": "Techno Para Dos",
+          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
+        },
+        {
+          "name": "issuesonissues",
+          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Planta Dance",
-      "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
+      "duration_ms": 321210,
+      "name": "Hondo (Remix)",
+      "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Jump & Shuffle (Live at the Hardware Store)",
-        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
-      },
-      "artists": [
-        {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Jump & Shuffle - Live at the Hardware Store",
-      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
         "name": "Yesterday Faded (Edit)",
         "url": "https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Ingenting Forblir",
-        "url": "https://open.spotify.com/album/1898t6IRJVcR5mxx3mfDuJ"
+        "name": "Jump & Shuffle (Live at the Hardware Store)",
+        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
       },
       "artists": [
         {
-          "name": "ROSA FAENSKAP",
-          "url": "https://open.spotify.com/artist/0VwAXdA6SAH89PAF4ZSFTX"
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
         }
       ],
-      "duration_ms": 277140,
-      "name": "La barna leve",
-      "url": "https://open.spotify.com/track/2DQQe15WZLelM2exoYLC1n"
+      "duration_ms": 202866,
+      "name": "Jump & Shuffle - Live at the Hardware Store",
+      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -783,6 +767,22 @@
       "duration_ms": 285000,
       "name": "Zan",
       "url": "https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
+        "name": "Ingenting Forblir",
+        "url": "https://open.spotify.com/album/1898t6IRJVcR5mxx3mfDuJ"
+      },
+      "artists": [
+        {
+          "name": "ROSA FAENSKAP",
+          "url": "https://open.spotify.com/artist/0VwAXdA6SAH89PAF4ZSFTX"
+        }
+      ],
+      "duration_ms": 277140,
+      "name": "La barna leve",
+      "url": "https://open.spotify.com/track/2DQQe15WZLelM2exoYLC1n"
     },
     {
       "added_at": "2026-05-01 00:15:05",

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 28839,
+  "num_followers": 28842,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAACfx3uo1alRLaV3D6Dz6gbs",
+  "snapshot_id": "ain6gAAAAADTtnKfJFmFIqQHosGTaRt5",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "Islas Mar\u00edas",
+      "url": "https://open.spotify.com/track/1qNXN1U7whKkdvQciiiFU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "El Amor De Los Dos",
+      "url": "https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las M\u00e1s Pedidas, Vol. 1",
         "url": "https://open.spotify.com/album/1mCM2OJg5uXplzjs9cDTGK"
       },
@@ -695,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
       },
       "artists": [
         {
@@ -704,9 +736,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 183466,
-      "name": "Islas Mar\u00edas",
-      "url": "https://open.spotify.com/track/1qNXN1U7whKkdvQciiiFU8"
+      "duration_ms": 125133,
+      "name": "El Conejito",
+      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
     },
     {
       "added_at": null,
@@ -720,25 +752,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 164866,
-      "name": "El Amor De Los Dos",
-      "url": "https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 125133,
-      "name": "El Conejito",
-      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
+      "duration_ms": 166373,
+      "name": "Una Noche No",
+      "url": "https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Los Dos",
-        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 166373,
-      "name": "Una Noche No",
-      "url": "https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las M\u00e1s Pedidas, Vol. 2",
         "url": "https://open.spotify.com/album/4FYk7meQNVhlLc9XyU44xP"
       },
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas Blancas",
-        "url": "https://open.spotify.com/album/0kkMx1Zhf8xMm6Lv2CySJn"
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 151506,
-      "name": "La Trailerita",
-      "url": "https://open.spotify.com/track/0GEfcDJLD7OBmEMbvYjD3f"
+      "duration_ms": 154933,
+      "name": "Voy A Tratar De Olvidarte",
+      "url": "https://open.spotify.com/track/47nUD9V3Hlbt3HEAO5rcdQ"
     }
   ],
   "unique_name": "This Is Los Traileros Del Norte",

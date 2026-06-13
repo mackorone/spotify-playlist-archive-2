@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 210546,
       "name": "A Place to Spend the Night",
       "url": "https://open.spotify.com/track/1PTgog5bpzWDRniJqgWxDZ"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 231066,
       "name": "Cast My Care",
       "url": "https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo"
@@ -1137,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "He Keeps Right On Blessing Me",
+        "url": "https://open.spotify.com/album/2x1zNClbhaZCxkMLVjOV0d"
+      },
+      "artists": [
+        {
+          "name": "The Rogers Family",
+          "url": "https://open.spotify.com/artist/1lhPklhN96aDNZNtgH8HmF"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149562,
+      "name": "He Keeps Right On Blessing Me",
+      "url": "https://open.spotify.com/track/0hbbk5Qk8FkXYOg5mJJatb"
+    },
+    {
+      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP"
       },
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 229000,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/6bbJ1ajmLpk4TQyfqiqdmh"
@@ -1839,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "Just Keep The Faith",
+        "url": "https://open.spotify.com/album/4CMfFnOoBcs2fGALWzzYyj"
+      },
+      "artists": [
+        {
+          "name": "11th Hour",
+          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Just Keep The Faith",
+      "url": "https://open.spotify.com/track/4Aaio7cjTuLjzkvUEZMUaf"
+    },
+    {
+      "album": {
         "name": "I Am Not Alone",
         "url": "https://open.spotify.com/album/3Ty52esdbMGej9m3Fzb1hR"
       },
@@ -1955,6 +1991,24 @@
     },
     {
       "album": {
+        "name": "Look At The Lamb",
+        "url": "https://open.spotify.com/album/3WCFQ7ZXRLmPktGZXjGQd1"
+      },
+      "artists": [
+        {
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Look At The Lamb",
+      "url": "https://open.spotify.com/track/3bjRHchc29zpsAzJZR7ySu"
+    },
+    {
+      "album": {
         "name": "Mansions",
         "url": "https://open.spotify.com/album/6h7BCcJpmV3LOUeyt2a6By"
       },
@@ -2024,7 +2078,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 282000,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/0ySM79PoW4ncnUusqOmDF5"
@@ -2953,6 +3007,24 @@
     },
     {
       "album": {
+        "name": "Something's Going On 'Round Here",
+        "url": "https://open.spotify.com/album/7j0kBNF24MpNxkg4HmHz5F"
+      },
+      "artists": [
+        {
+          "name": "Anthem Edition",
+          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Something's Going On 'Round Here",
+      "url": "https://open.spotify.com/track/0H9YBRh2lqjk51v4XNaz7a"
+    },
+    {
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/0ffZW8a9Qa4CJrvzHuLHyf"
       },
@@ -3058,6 +3130,24 @@
       "duration_ms": 342026,
       "name": "Sometimes It Takes A Mountain",
       "url": "https://open.spotify.com/track/6WLtVTxSBD5kZxuHsxGoag"
+    },
+    {
+      "album": {
+        "name": "Interwoven",
+        "url": "https://open.spotify.com/album/0Jmwe61Kzp6AHeUzhi2rxW"
+      },
+      "artists": [
+        {
+          "name": "The Cathedrals",
+          "url": "https://open.spotify.com/artist/2rUTHCNVy2FS3bCmzh5m7F"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175373,
+      "name": "Songs We Used to Sing",
+      "url": "https://open.spotify.com/track/46NrCIbaFA8xvsWnJfXBFE"
     },
     {
       "album": {
@@ -3178,6 +3268,24 @@
       "duration_ms": 192000,
       "name": "That Kind of Friend",
       "url": "https://open.spotify.com/track/0Xjle8D7PwPY8IAF6pYSrN"
+    },
+    {
+      "album": {
+        "name": "That's What Grace Is For",
+        "url": "https://open.spotify.com/album/3t99DU792VL1mfXshjgM9r"
+      },
+      "artists": [
+        {
+          "name": "Small Town Sunday",
+          "url": "https://open.spotify.com/artist/0vLyqYeY0SmrrAOYD8RyOc"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268060,
+      "name": "That's What Grace Is For",
+      "url": "https://open.spotify.com/track/0Wl5TCS1Doma2jTSfI90Of"
     },
     {
       "album": {
@@ -3802,7 +3910,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 169200,
       "name": "Troubled",
       "url": "https://open.spotify.com/track/6fj5V9JRLqphud1543mS1h"
@@ -4236,7 +4344,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 198000,
       "name": "Yes and Amen",
       "url": "https://open.spotify.com/track/6NgqIiBr7hzLMWILjAzUOu"

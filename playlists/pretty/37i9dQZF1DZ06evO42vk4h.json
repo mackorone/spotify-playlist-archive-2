@@ -1,12 +1,12 @@
 {
   "description": "This is OSKIDO. The essential tracks, all in one playlist.",
-  "num_followers": 4195,
+  "num_followers": 4196,
   "original_name": "This Is OSKIDO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAADHesCpqMLglus101u7lUbB",
+  "snapshot_id": "ain6gAAAAAAZ6eXkKsa6f4X/Ltblz5z5",
   "tracks": [
     {
       "added_at": null,
@@ -391,30 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tsa Ma Ndebele (Remixes)",
-        "url": "https://open.spotify.com/album/2uqCO2u43jEGizgq0SUyCH"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Candy Tsamandebele",
-          "url": "https://open.spotify.com/artist/0mqbizsedJ6CxlvyVn8Unj"
-        },
-        {
-          "name": "Manoo",
-          "url": "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
-        }
-      ],
-      "duration_ms": 232207,
-      "name": "Tsa Ma Ndebele - Manoo Remix",
-      "url": "https://open.spotify.com/track/0mAOWHElmmZSPGam0NWrw4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Say Kunkra",
         "url": "https://open.spotify.com/album/0gbR6yggQOqIWOwxoanjoX"
       },
@@ -475,26 +451,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mari Ye Phepha",
-        "url": "https://open.spotify.com/album/1KE7ljtam071uCZqROcQA7"
+        "name": "Tsa Ma Ndebele (Remixes)",
+        "url": "https://open.spotify.com/album/2uqCO2u43jEGizgq0SUyCH"
       },
       "artists": [
-        {
-          "name": "Bongo Maffin",
-          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
-        },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Fka Mash",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+          "name": "Candy Tsamandebele",
+          "url": "https://open.spotify.com/artist/0mqbizsedJ6CxlvyVn8Unj"
+        },
+        {
+          "name": "Manoo",
+          "url": "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
         }
       ],
-      "duration_ms": 215053,
-      "name": "Mari Ye Phepha (FKA MASH Afro-Glitch) - Remix",
-      "url": "https://open.spotify.com/track/3PHYk7iPU2IX14M36CzI7s"
+      "duration_ms": 232207,
+      "name": "Tsa Ma Ndebele - Manoo Remix",
+      "url": "https://open.spotify.com/track/0mAOWHElmmZSPGam0NWrw4"
     },
     {
       "added_at": null,
@@ -523,6 +499,30 @@
       "duration_ms": 417360,
       "name": "Woza Nana",
       "url": "https://open.spotify.com/track/3AdO1jvt0RJPLrMSlxuWZ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mari Ye Phepha",
+        "url": "https://open.spotify.com/album/1KE7ljtam071uCZqROcQA7"
+      },
+      "artists": [
+        {
+          "name": "Bongo Maffin",
+          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        }
+      ],
+      "duration_ms": 215053,
+      "name": "Mari Ye Phepha (FKA MASH Afro-Glitch) - Remix",
+      "url": "https://open.spotify.com/track/3PHYk7iPU2IX14M36CzI7s"
     },
     {
       "added_at": null,
@@ -959,6 +959,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sabela",
+        "url": "https://open.spotify.com/album/5ssdselA40ebuIQ5Xrkj1u"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        },
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "Sabela - Radio Edit",
+      "url": "https://open.spotify.com/track/4vo1w5vq45B7b0klANJZHt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Church Grooves Evolution",
         "url": "https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U"
       },
@@ -987,30 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabela",
-        "url": "https://open.spotify.com/album/5ssdselA40ebuIQ5Xrkj1u"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
-        },
-        {
-          "name": "King Tone SA",
-          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Sabela - Radio Edit",
-      "url": "https://open.spotify.com/track/4vo1w5vq45B7b0klANJZHt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Keep Hope Alive",
         "url": "https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm"
       },
@@ -1020,17 +1020,13 @@
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        },
-        {
-          "name": "Ntsika Ngxanga",
-          "url": "https://open.spotify.com/artist/74xjSKN5TZlOVyePIjGseT"
+          "name": "King Monada",
+          "url": "https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP"
         }
       ],
-      "duration_ms": 410387,
-      "name": "Ayazizela - Amapiano Edit",
-      "url": "https://open.spotify.com/track/5UDZmqIngMjd5PiuCacvMd"
+      "duration_ms": 437419,
+      "name": "Fofa",
+      "url": "https://open.spotify.com/track/3jLOLJszeaSo5IcKDxQ2pM"
     },
     {
       "added_at": null,
@@ -1055,34 +1051,6 @@
       "duration_ms": 213706,
       "name": "Banane Mavoko",
       "url": "https://open.spotify.com/track/1oJgW0RaxtELOK1Y5otNGb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Church Grooves Evolution",
-        "url": "https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        },
-        {
-          "name": "Nokwazi",
-          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
-        },
-        {
-          "name": "OX Sounds",
-          "url": "https://open.spotify.com/artist/5BfXGVKR1k7ETIh5r6Dxjy"
-        }
-      ],
-      "duration_ms": 231578,
-      "name": "African Prayer - Radio Edit",
-      "url": "https://open.spotify.com/track/45XVXe9jL0LLN6iu45mpN0"
     },
     {
       "added_at": null,
@@ -1115,6 +1083,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Church Grooves Evolution",
+        "url": "https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        },
+        {
+          "name": "Nokwazi",
+          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
+        },
+        {
+          "name": "OX Sounds",
+          "url": "https://open.spotify.com/artist/5BfXGVKR1k7ETIh5r6Dxjy"
+        }
+      ],
+      "duration_ms": 231578,
+      "name": "African Prayer - Radio Edit",
+      "url": "https://open.spotify.com/track/45XVXe9jL0LLN6iu45mpN0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Keep Hope Alive",
         "url": "https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm"
       },
@@ -1124,13 +1120,17 @@
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "King Monada",
-          "url": "https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP"
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        },
+        {
+          "name": "Ntsika Ngxanga",
+          "url": "https://open.spotify.com/artist/74xjSKN5TZlOVyePIjGseT"
         }
       ],
-      "duration_ms": 437419,
-      "name": "Fofa",
-      "url": "https://open.spotify.com/track/3jLOLJszeaSo5IcKDxQ2pM"
+      "duration_ms": 410387,
+      "name": "Ayazizela - Amapiano Edit",
+      "url": "https://open.spotify.com/track/5UDZmqIngMjd5PiuCacvMd"
     },
     {
       "added_at": null,
@@ -1155,6 +1155,30 @@
       "duration_ms": 367288,
       "name": "Mngani Wami",
       "url": "https://open.spotify.com/track/4cYChS19GllfJAnqgelpAw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "University Of Kalawa Jazmee",
+        "url": "https://open.spotify.com/album/2ps1XIOsW5Kcz9cy8Igfz6"
+      },
+      "artists": [
+        {
+          "name": "Professor",
+          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Uhuru",
+          "url": "https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2"
+        }
+      ],
+      "duration_ms": 356413,
+      "name": "Speaker",
+      "url": "https://open.spotify.com/track/0oGUm4677n6DnOavpodQvO"
     },
     {
       "added_at": null,
@@ -1184,7 +1208,7 @@
       "added_at": null,
       "album": {
         "name": "University Of Kalawa Jazmee",
-        "url": "https://open.spotify.com/album/2ps1XIOsW5Kcz9cy8Igfz6"
+        "url": "https://open.spotify.com/album/0oWLtEWgk7r0y9rpgjlagN"
       },
       "artists": [
         {
@@ -1196,13 +1220,13 @@
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Uhuru",
-          "url": "https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2"
+          "name": "Picat",
+          "url": "https://open.spotify.com/artist/7FKwoEtXzOHJjlc0kAyPKz"
         }
       ],
-      "duration_ms": 356413,
-      "name": "Speaker",
-      "url": "https://open.spotify.com/track/0oGUm4677n6DnOavpodQvO"
+      "duration_ms": 321026,
+      "name": "Toyi Toyi",
+      "url": "https://open.spotify.com/track/0L6ptIGlGCfksxtsA1W7cP"
     },
     {
       "added_at": null,
@@ -1223,30 +1247,6 @@
       "duration_ms": 245133,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/2rxXShIj2QzIeYwR6wRT2Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "University Of Kalawa Jazmee",
-        "url": "https://open.spotify.com/album/0oWLtEWgk7r0y9rpgjlagN"
-      },
-      "artists": [
-        {
-          "name": "Professor",
-          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Picat",
-          "url": "https://open.spotify.com/artist/7FKwoEtXzOHJjlc0kAyPKz"
-        }
-      ],
-      "duration_ms": 321026,
-      "name": "Toyi Toyi",
-      "url": "https://open.spotify.com/track/0L6ptIGlGCfksxtsA1W7cP"
     },
     {
       "added_at": null,

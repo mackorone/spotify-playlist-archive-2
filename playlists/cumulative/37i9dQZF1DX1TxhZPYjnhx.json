@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Discover new favorites or tomorrow's hits today. Cover: brb.",
+  "description": "Discover new favorites or tomorrow's hits today. Cover: LE SSERAFIM, ILLIT, KATSEYE",
   "name": "Pop Rising Singapore & Malaysia",
   "tracks": [
     {
@@ -5087,6 +5087,24 @@
     },
     {
       "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178603,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
+    },
+    {
+      "album": {
         "name": "comedown",
         "url": "https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh"
       },
@@ -6547,6 +6565,36 @@
     },
     {
       "album": {
+        "name": "DNA (More Than A Game) [FIFA World Cup 2026\u2122]",
+        "url": "https://open.spotify.com/album/53oXeqv93oxxcJwFt3fjH5"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176855,
+      "name": "DNA (More Than A Game)",
+      "url": "https://open.spotify.com/track/40qwbrvCXsiOPh9xOupCMp"
+    },
+    {
+      "album": {
         "name": "DO IT",
         "url": "https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k"
       },
@@ -7307,6 +7355,28 @@
     },
     {
       "album": {
+        "name": "A LITTLE VENGEANCE",
+        "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193373,
+      "name": "DUSTY (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
+    },
+    {
+      "album": {
         "name": "WWP",
         "url": "https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q"
       },
@@ -8054,6 +8124,24 @@
       "duration_ms": 201147,
       "name": "Fairy",
       "url": "https://open.spotify.com/track/7sSZn238Sz9I1YnUE1yLXc"
+    },
+    {
+      "album": {
+        "name": "Kicking My Feet & Screaming",
+        "url": "https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184417,
+      "name": "Faking Smiles",
+      "url": "https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2"
     },
     {
       "album": {
@@ -9776,6 +9864,28 @@
       "duration_ms": 152979,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
+    },
+    {
+      "album": {
+        "name": "GIRLS (feat. Kehlani) [Remix]",
+        "url": "https://open.spotify.com/album/6e6UkAyTbXyxZOBK2o2AGe"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152979,
+      "name": "GIRLS (feat. Kehlani) - Remix",
+      "url": "https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV"
     },
     {
       "album": {
@@ -13426,6 +13536,32 @@
       "duration_ms": 186000,
       "name": "ICEMAN FREESTYLE",
       "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
+    },
+    {
+      "album": {
+        "name": "ICONIC BY MISTAKE",
+        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177982,
+      "name": "ICONIC BY MISTAKE",
+      "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
     },
     {
       "album": {
@@ -18859,6 +18995,24 @@
     },
     {
       "album": {
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159929,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl"
+    },
+    {
+      "album": {
         "name": "Nobody (from Kaiju No. 8)",
         "url": "https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf"
       },
@@ -20305,6 +20459,28 @@
     },
     {
       "album": {
+        "name": "Play2TheWhistle",
+        "url": "https://open.spotify.com/album/2MkPNjFGKn6PTzAYCGGwK3"
+      },
+      "artists": [
+        {
+          "name": "Mary Sue",
+          "url": "https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251"
+        },
+        {
+          "name": "MISTER TWO FIVE",
+          "url": "https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225750,
+      "name": "Play2TheWhistle",
+      "url": "https://open.spotify.com/track/1RtY9R9KBqwDYGytgH7hQJ"
+    },
+    {
+      "album": {
         "name": "Please Don't Fall In Love With Me",
         "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
       },
@@ -21162,6 +21338,24 @@
       "duration_ms": 185546,
       "name": "RED (from Arena Breakout: Infinite)",
       "url": "https://open.spotify.com/track/6eowYvfU4m6MfTXHn7ScUB"
+    },
+    {
+      "album": {
+        "name": "Red Bottoms",
+        "url": "https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186941,
+      "name": "Red Bottoms",
+      "url": "https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD"
     },
     {
       "album": {
@@ -24689,6 +24883,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
+    },
+    {
+      "album": {
         "name": "Idols (Complete)",
         "url": "https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM"
       },
@@ -24740,6 +24952,24 @@
       "duration_ms": 195000,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19"
+    },
+    {
+      "album": {
+        "name": "SUGAR HONEY ICE TEA",
+        "url": "https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178032,
+      "name": "SUGAR HONEY ICE TEA",
+      "url": "https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD"
     },
     {
       "album": {
@@ -27757,6 +27987,42 @@
     },
     {
       "album": {
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/7tPygg8Jr9igPfGsY8gnzD"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222587,
+      "name": "Under Construction",
+      "url": "https://open.spotify.com/track/4Y3253lAyzFqLhcUgYEY62"
+    },
+    {
+      "album": {
+        "name": "under my skin",
+        "url": "https://open.spotify.com/album/1OVLexXEgHSqEyJCfMsSLS"
+      },
+      "artists": [
+        {
+          "name": "quiet morning",
+          "url": "https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166567,
+      "name": "under my skin",
+      "url": "https://open.spotify.com/track/2PWyhubh6VvSTlrw5w3m6t"
+    },
+    {
+      "album": {
         "name": "Sweet Melodies",
         "url": "https://open.spotify.com/album/2Eaw3jA9SsuntHhN3ouDQB"
       },
@@ -28108,6 +28374,24 @@
       "duration_ms": 154015,
       "name": "Villainous Freestyle",
       "url": "https://open.spotify.com/track/6yqSbzeBZzsANKGBompjMX"
+    },
+    {
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198761,
+      "name": "VIRAL",
+      "url": "https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O"
     },
     {
       "album": {
@@ -28878,6 +29162,24 @@
       "duration_ms": 193393,
       "name": "When I Close My Eyes",
       "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"
+    },
+    {
+      "album": {
+        "name": "When I Get Drunk (I Want You Boy)",
+        "url": "https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205720,
+      "name": "When I Get Drunk (I Want You Boy)",
+      "url": "https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY"
     },
     {
       "album": {

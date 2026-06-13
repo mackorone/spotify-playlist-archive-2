@@ -4,7 +4,7 @@
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-135 songs - 8 hr 23 min
+136 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Distant Lover](https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 | 2022-05-25 |  |
 | [Distant Lover](https://open.spotify.com/track/77IGjPxsNS0ZKBgtyrQ6mQ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:04 | 2023-02-19 | 2024-10-03 |
 | [Do What You're Supposed to Do](https://open.spotify.com/track/5YRjPPFGRB1r7qm1ZODcfC) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Gee Baby \(I'm Sorry\) / Do What You're Supposed to Do](https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT) | 2:24 | 2025-07-12 | 2025-09-19 |
+| [Don't Let the Sun Go Down On Me \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/5LBfvK4eGiXXzEqIgSzAKC) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 4:37 | 2026-06-13 |  |
 | [Drivin' Me Mad](https://open.spotify.com/track/6QrAi0u4yhK1Ew1Pi303DE) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Look in My Eyes](https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv) | 2:17 | 2022-12-14 | 2025-01-28 |
 | [Ebb Tide](https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:55 | 2022-05-25 |  |
 | [End Titles](https://open.spotify.com/track/37TKGTuBWeMfO1Nsy9lYqA) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Diamonds](https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez) | 2:17 | 2022-12-17 | 2025-05-20 |
@@ -42,7 +43,7 @@
 | [Gotta Draw the Line](https://open.spotify.com/track/7HNVtnLuq2lmKMPB9kFj1A) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Close Your Eyes / Gotta Draw the Line](https://open.spotify.com/album/4SkEdHeraLeqe5stv41pq9) | 3:02 | 2022-05-25 |  |
 | [Handle with Care](https://open.spotify.com/track/1bqSqoMH7GA9pRJYHdAnNd) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:00 | 2022-11-12 | 2023-12-16 |
 | [Harlem \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/5eLe5XqyTIvEqqET5s03DG) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 3:20 | 2023-06-24 | 2023-07-28 |
-| [Here I Am](https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:54 | 2022-05-25 |  |
+| [Here I Am](https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:54 | 2022-05-25 | 2026-06-13 |
 | [Holding Back \(Lounge Remix\)](https://open.spotify.com/track/5eh1kdp9Go1FDHWxLGUGoU) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Holding Back \(Lounge Remix\)](https://open.spotify.com/album/0dvUplDgs0OvKxPcIls9T8) | 4:32 | 2022-05-25 | 2022-11-02 |
 | [Holding Back \- Glamma Edit](https://open.spotify.com/track/6f7kXH7E0UCdKHCfv9bxsx) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Dancing with the Divas](https://open.spotify.com/album/6thYx7uC3WcCxvbbvyQlzo) | 3:39 | 2023-06-16 | 2024-07-24 |
 | [I Didn't Know](https://open.spotify.com/track/21Y28bL36SaVy1tRc6KATk) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:49 | 2022-05-25 |  |

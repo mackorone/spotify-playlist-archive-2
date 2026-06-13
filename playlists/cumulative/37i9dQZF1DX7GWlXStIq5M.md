@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Aretuza Lovi
 
-1,159 songs - 2 day 9 hr 25 min
+1,160 songs - 2 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [CARAMELO E FLOR DE SAL](https://open.spotify.com/track/4FvDANIP9vupaAm6URKwC5) | [Quorum](https://open.spotify.com/artist/5IbIAPtskjoaXAu2PrbngH), [Flav](https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG), [Nobuga](https://open.spotify.com/artist/48jCwYdJZIWe4S9zcgCxpB), [PMM](https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [GALE](https://open.spotify.com/artist/0mjNj79KqkAtsLFWAj2HfB) | [CARAMELO E FLOR DE SAL](https://open.spotify.com/album/7kpBjBmSgDgXHfTETqdGAM) | 3:20 | 2024-08-30 | 2024-09-28 |
 | [Carinha De Sol](https://open.spotify.com/track/7aWj6KIVFvecD207YszjVU) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 2:44 | 2023-10-13 | 2023-11-11 |
 | [CARNAVAL](https://open.spotify.com/track/3uQMkBJrOPY07j0SjMuuFg) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [CARNAVAL](https://open.spotify.com/album/7tpmiuOnL3w02bEUILTcDo) | 3:01 | 2023-03-03 | 2023-03-11 |
+| [carne fraca](https://open.spotify.com/track/5MhbiOFEK0Wa2ptHjdLujP) | [Totô de Babalong](https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x) | [carne fraca](https://open.spotify.com/album/457EGT4rwHYhpZxemlJqDo) | 2:34 | 2026-06-12 |  |
 | [Carnificina](https://open.spotify.com/track/3hwGnwRkIAs8iQ9CJZiWkd) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 2:20 | 2023-09-01 | 2024-11-29 |
 | [Carnificina](https://open.spotify.com/track/6V6fcreiDPSsxTlVKveaiI) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:20 | 2023-09-08 | 2024-04-19 |
 | [Carolina](https://open.spotify.com/track/10f31lUtjFtbbOH01HT3ja) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Carolina / Levemente](https://open.spotify.com/album/2LUEj94O0nQX7sHm2bSJm1) | 2:46 | 2024-03-22 | 2024-04-27 |
@@ -1122,7 +1123,7 @@
 | [Vibezinha](https://open.spotify.com/track/766QpS7OrDPmuEznTD798F) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2) | [Vibezinha](https://open.spotify.com/album/6qqqwD0DURBm8KMbWuJYin) | 2:28 | 2024-08-02 | 2025-02-22 |
 | [viciado em mim](https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [viciado em mim](https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg) | 3:14 | 2025-06-13 | 2026-05-01 |
 | [Vida Melhor](https://open.spotify.com/track/5M7lhKC3A4k50x2cQMfzCt) | [Robson Sá](https://open.spotify.com/artist/1xtDLOFghpcmOKK9rW5lPh) | [Vida Melhor](https://open.spotify.com/album/5H9q5IocriQT6sVtDsWrQL) | 2:42 | 2023-08-04 | 2023-08-25 |
-| [Vida Não Termina](https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi) | [Pinotti](https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x), [Helena Serena](https://open.spotify.com/artist/1pxvtinDP1BbdZGKSc7sE4) | [Vida Não Termina](https://open.spotify.com/album/6BL1tDNtD5KKwVazuYgbss) | 3:05 | 2026-03-20 |  |
+| [Vida Não Termina](https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi) | [Pinotti](https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x), [Helena Serena](https://open.spotify.com/artist/1pxvtinDP1BbdZGKSc7sE4) | [Vida Não Termina](https://open.spotify.com/album/6BL1tDNtD5KKwVazuYgbss) | 3:05 | 2026-03-20 | 2026-06-13 |
 | [Vilã](https://open.spotify.com/track/6gHv2hEqyAgBvgnBr2DWs8) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Vilã](https://open.spotify.com/album/2W6EWkkAkkmMxQyeePtMTE) | 2:28 | 2023-09-22 | 2023-11-07 |
 | [Vilão](https://open.spotify.com/track/0PMMHK0q093BkQ85YpS7dt) | [VILLA](https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD), [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [Vilão](https://open.spotify.com/album/2jbBOf8fGp8btrQON5127d) | 2:32 | 2024-03-01 | 2024-04-20 |
 | [Vim de Longe](https://open.spotify.com/track/7ycoelWSebToQHOQScwFdv) | [SUPERALMA](https://open.spotify.com/artist/7f8jwHZAtx26tKaOWYmn3a) | [Vim de Longe](https://open.spotify.com/album/30Rtx6bJX8i9jPoYc48HJh) | 2:49 | 2025-08-22 | 2026-03-28 |

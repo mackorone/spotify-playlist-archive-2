@@ -1,6 +1,6 @@
 {
   "description": "Let Jesus take the wheel...and the aux cord! ",
-  "num_followers": 258400,
+  "num_followers": 258496,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
+        "name": "Looking For You",
+        "url": "https://open.spotify.com/album/4rIGflo5TdNJmO9QsxcxEQ"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "duration_ms": 199698,
+      "name": "Looking For You",
+      "url": "https://open.spotify.com/track/4gKpsgQRhi3A8GCJRhZOrc"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
         "name": "Stand My Ground",
         "url": "https://open.spotify.com/album/7pGYCXWMHwUKaVWCxcB2kA"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Looking For You",
-        "url": "https://open.spotify.com/album/4rIGflo5TdNJmO9QsxcxEQ"
-      },
-      "artists": [
-        {
-          "name": "Gable Price and Friends",
-          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
-        }
-      ],
-      "duration_ms": 199698,
-      "name": "Looking For You",
-      "url": "https://open.spotify.com/track/4gKpsgQRhi3A8GCJRhZOrc"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "Wait For Me",
         "url": "https://open.spotify.com/album/21WbEejZ6Bp1mlAbd4qzdq"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Runs In The Blood",
-        "url": "https://open.spotify.com/album/2koZ327e01iwRUcOEzWd69"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 184203,
-      "name": "Runs In The Blood",
-      "url": "https://open.spotify.com/track/0VRNfCYpbLDM2QJapqw9aC"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "Twenty Something",
         "url": "https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 158048,
       "name": "Scared",
       "url": "https://open.spotify.com/track/10DMeaEjx6QL346F0PYxn6"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "Runs In The Blood",
+        "url": "https://open.spotify.com/album/2koZ327e01iwRUcOEzWd69"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 184203,
+      "name": "Runs In The Blood",
+      "url": "https://open.spotify.com/track/0VRNfCYpbLDM2QJapqw9aC"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "a light in me",
-        "url": "https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU"
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/6TryrnzGC2Ud4DorIe5gZq"
       },
       "artists": [
         {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
         }
       ],
-      "duration_ms": 191547,
-      "name": "a light in me",
-      "url": "https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4"
+      "duration_ms": 232804,
+      "name": "Oklahoma",
+      "url": "https://open.spotify.com/track/1WXHHQim1F23dML0yFIUt5"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -967,18 +967,18 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Oklahoma",
-        "url": "https://open.spotify.com/album/6TryrnzGC2Ud4DorIe5gZq"
+        "name": "a light in me",
+        "url": "https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU"
       },
       "artists": [
         {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
         }
       ],
-      "duration_ms": 232804,
-      "name": "Oklahoma",
-      "url": "https://open.spotify.com/track/1WXHHQim1F23dML0yFIUt5"
+      "duration_ms": 191547,
+      "name": "a light in me",
+      "url": "https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
+        "name": "Brighter Days (New Day Edition)",
+        "url": "https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 185874,
+      "name": "Brighter Days - New Day Edition",
+      "url": "https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
         "name": "So Divine",
         "url": "https://open.spotify.com/album/6Ne1Fmuoc3iajPROkDGkQU"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 155744,
       "name": "So Divine",
       "url": "https://open.spotify.com/track/4c6wcbbG8NrOTNPJewWdUT"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
-        "name": "Brighter Days (New Day Edition)",
-        "url": "https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 185874,
-      "name": "Brighter Days - New Day Edition",
-      "url": "https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "FAITH TOO HIGH",
-        "url": "https://open.spotify.com/album/6nFAmYXQALG4xUAOfzE96B"
-      },
-      "artists": [
-        {
-          "name": "Ryan Trey",
-          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
-        }
-      ],
-      "duration_ms": 167460,
-      "name": "FAITH TOO HIGH",
-      "url": "https://open.spotify.com/track/5W5IOrjSfZZoyGrcYH7L8Y"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "wake up",
         "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 253712,
       "name": "Morning glory, don't you worry.",
       "url": "https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "FAITH TOO HIGH",
+        "url": "https://open.spotify.com/album/6nFAmYXQALG4xUAOfzE96B"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "duration_ms": 167460,
+      "name": "FAITH TOO HIGH",
+      "url": "https://open.spotify.com/track/5W5IOrjSfZZoyGrcYH7L8Y"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 248960,
-      "name": "We Could Run Away",
-      "url": "https://open.spotify.com/track/4HKjBsqzGScnd0TsKoVlNk"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "Always Summertime",
         "url": "https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ"
       },
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Blinded",
-        "url": "https://open.spotify.com/album/4HIa4aAv2MMUq8eTlJUVCc"
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
       },
       "artists": [
         {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 207969,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/1wsxYJWrgYuVzieibPpyIP"
+      "duration_ms": 248960,
+      "name": "We Could Run Away",
+      "url": "https://open.spotify.com/track/4HKjBsqzGScnd0TsKoVlNk"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1683,6 +1667,22 @@
       "duration_ms": 198706,
       "name": "Hindsight",
       "url": "https://open.spotify.com/track/0LMIo8xOv1832PxeSo46I8"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "Blinded",
+        "url": "https://open.spotify.com/album/4HIa4aAv2MMUq8eTlJUVCc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 207969,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/1wsxYJWrgYuVzieibPpyIP"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1719,22 +1719,18 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "More of You",
-        "url": "https://open.spotify.com/album/5mBZaygNNHE0X9odhjMzoR"
+        "name": "Again Again",
+        "url": "https://open.spotify.com/album/2wLpi3IwFOp9GoSTHn4CnE"
       },
       "artists": [
         {
-          "name": "Reyne L.",
-          "url": "https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe"
-        },
-        {
-          "name": "REYNE",
-          "url": "https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P"
+          "name": "SOFYKA",
+          "url": "https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq"
         }
       ],
-      "duration_ms": 140400,
-      "name": "More of You",
-      "url": "https://open.spotify.com/track/1dtAArEHCsYSgh2A37wmRl"
+      "duration_ms": 167000,
+      "name": "Again Again",
+      "url": "https://open.spotify.com/track/61deV82ORZt06deZ42I4Ur"
     }
   ],
   "unique_name": "Christian Road Trip",

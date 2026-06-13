@@ -4,13 +4,14 @@
 
 > This is Juliana\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 40 min
+49 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24 Horas](https://open.spotify.com/track/6dOZaQaueSGM05NdOczDFE) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [24 Horas](https://open.spotify.com/album/4SHVF6pqNpYoWjYeROe5le) | 3:38 | 2026-03-20 |  |
 | [A La Medida \(2:20am\)](https://open.spotify.com/track/7EQKXlAb6jFOld9IPODbn8) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 3:18 | 2026-03-20 |  |
 | [A Tiempo](https://open.spotify.com/track/0l7o1qoJ754BKRlH7uBf2q) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:47 | 2026-03-20 |  |
+| [Así de Rico \(Va uno a ver y ve Remizzz\)](https://open.spotify.com/track/5Vv1JUpzsQYBQdRiRdi9EE) | [Emyl Rusev](https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [ASÍ DE RICO \(Va uno a ver y ve Remizzz\)](https://open.spotify.com/album/3ffqJRB3AqcyRw3GrgYXys) | 2:20 | 2026-06-13 |  |
 | [Aurora](https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:57 | 2026-03-20 |  |
 | [Ausencia](https://open.spotify.com/track/4in1mmGO097Q3IYNaTZApa) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Siempre Fui Yo 2 \(Banda Sonora Original\)](https://open.spotify.com/album/4KAbxF4x33ZrI1PnRTZ6Lw) | 2:59 | 2026-03-20 |  |
 | [Burbujas de Amor \- \(Sesión en vivo\)](https://open.spotify.com/track/2kipawZSvwFIVD0y6tT2LG) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Con las Que Crecí \(Sesión en Vivo\)](https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr) | 3:22 | 2026-03-20 |  |

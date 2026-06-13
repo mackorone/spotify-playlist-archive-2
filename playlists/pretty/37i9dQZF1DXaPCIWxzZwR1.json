@@ -1,13 +1,29 @@
 {
   "description": "next gen pop\nCover: Mollie Elizabeth",
-  "num_followers": 1259150,
+  "num_followers": 1259153,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFWsun9SGXKa650eVg+NTSl0AogX",
+  "snapshot_id": "AAAAAFMGr6sPV3FIxdQM7YqQ77cSPWnx",
   "tracks": [
+    {
+      "added_at": "2026-06-12 18:13:16",
+      "album": {
+        "name": "Club To Your Arms",
+        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 191596,
+      "name": "Club To Your Arms",
+      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
+    },
     {
       "added_at": "2026-05-29 04:35:52",
       "album": {
@@ -25,20 +41,36 @@
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
     },
     {
-      "added_at": "2026-05-29 04:35:52",
+      "added_at": "2026-06-12 18:13:16",
       "album": {
-        "name": "Can't Get You Out of My Head - Spotify Singles",
-        "url": "https://open.spotify.com/album/6ynUBc9yQ4pq7kImTMdOql"
+        "name": "Red Bottoms",
+        "url": "https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy"
       },
       "artists": [
         {
-          "name": "Mikayla Geier",
-          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
         }
       ],
-      "duration_ms": 178733,
-      "name": "Can't Get You Out of My Head - Spotify Singles",
-      "url": "https://open.spotify.com/track/6j4kyvjM60Te1mU0H2LTwR"
+      "duration_ms": 186941,
+      "name": "Red Bottoms",
+      "url": "https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD"
+    },
+    {
+      "added_at": "2026-06-12 18:13:16",
+      "album": {
+        "name": "I WANNA FEEL IT ALL",
+        "url": "https://open.spotify.com/album/02LSdnnb9RS5TM4SCbTVz8"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 148208,
+      "name": "I WANNA FEEL IT ALL",
+      "url": "https://open.spotify.com/track/0QxKOd4IHUHG0UvPraaicT"
     },
     {
       "added_at": "2026-05-29 04:35:52",
@@ -57,10 +89,10 @@
       "url": "https://open.spotify.com/track/6FLKhl5TbJSfNGRo3ryUi3"
     },
     {
-      "added_at": "2026-05-29 04:35:52",
+      "added_at": "2026-06-12 18:13:16",
       "album": {
-        "name": "What's the Point!",
-        "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN"
       },
       "artists": [
         {
@@ -68,9 +100,9 @@
           "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 163754,
-      "name": "What's the Point!",
-      "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
+      "duration_ms": 159929,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl"
     },
     {
       "added_at": "2026-05-29 04:35:52",
@@ -87,6 +119,22 @@
       "duration_ms": 166260,
       "name": "HOTLINE",
       "url": "https://open.spotify.com/track/2Am4WNCZJk67cCTGnmQz1U"
+    },
+    {
+      "added_at": "2026-05-29 04:35:52",
+      "album": {
+        "name": "Can't Get You Out of My Head - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ynUBc9yQ4pq7kImTMdOql"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Can't Get You Out of My Head - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j4kyvjM60Te1mU0H2LTwR"
     },
     {
       "added_at": "2026-05-29 04:35:52",
@@ -1371,22 +1419,6 @@
     {
       "added_at": "2026-05-29 04:35:52",
       "album": {
-        "name": "kira",
-        "url": "https://open.spotify.com/album/5rmc5LHFzb8v69KTdNfoeX"
-      },
-      "artists": [
-        {
-          "name": "Shakira Jasmine",
-          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
-        }
-      ],
-      "duration_ms": 172263,
-      "name": "mR.mELoDramAtiC",
-      "url": "https://open.spotify.com/track/6rMO78nXjFtwI5s83OSqUb"
-    },
-    {
-      "added_at": "2026-05-29 04:35:52",
-      "album": {
         "name": "OLD TECHNOLOGY",
         "url": "https://open.spotify.com/album/6GkFvjqAuoIXk1SoAmG6Iw"
       },
@@ -1547,22 +1579,6 @@
     {
       "added_at": "2026-05-29 04:35:52",
       "album": {
-        "name": "SELLOUT II",
-        "url": "https://open.spotify.com/album/1OAJ1g8pCfiJEPQ5h8V8cI"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Afterbody",
-      "url": "https://open.spotify.com/track/688F4WEXlJBlNYPMOpLmAx"
-    },
-    {
-      "added_at": "2026-05-29 04:35:52",
-      "album": {
         "name": "Homewrecker",
         "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 140586,
       "name": "Thinking \u2018bout You",
       "url": "https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3"
-    },
-    {
-      "added_at": "2026-05-29 04:35:52",
-      "album": {
-        "name": "Little Miss",
-        "url": "https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6"
-      },
-      "artists": [
-        {
-          "name": "GIRLSET",
-          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
-        }
-      ],
-      "duration_ms": 143593,
-      "name": "Little Miss",
-      "url": "https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL"
     }
   ],
   "unique_name": "Pop Sauce",

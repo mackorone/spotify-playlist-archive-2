@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 143 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 144 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 74 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
 | 75 | [Swimming In The Sky](https://open.spotify.com/track/3xZyOAfKRK2LTPgrZY8U76) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [Swimming In The Sky](https://open.spotify.com/album/6t6EpphDwNwRTLpDMT22t5) | 3:48 |
 | 76 | [Stay With Me](https://open.spotify.com/track/6PlJmtSZG9AE1asoYt2BXu) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Stay With Me](https://open.spotify.com/album/0bsw6pMyquYTDMVO4BjV4e) | 3:21 |
-| 77 | [Late Nights](https://open.spotify.com/track/3PyGywdOUEcgxdqEFdNhLB) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Late Nights](https://open.spotify.com/album/1S1c90JiNTVoO2VDPzhrhB) | 3:12 |
-| 78 | [SIGN IT](https://open.spotify.com/track/0fXnyYPljuHzW3FRXAv9wP) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:09 |
+| 77 | [SIGN IT](https://open.spotify.com/track/0fXnyYPljuHzW3FRXAv9wP) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:09 |
+| 78 | [Late Nights](https://open.spotify.com/track/3PyGywdOUEcgxdqEFdNhLB) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Late Nights](https://open.spotify.com/album/1S1c90JiNTVoO2VDPzhrhB) | 3:12 |
 | 79 | [Bubblegum](https://open.spotify.com/track/0u93AbXE2aa27pcNTERZN7) | [Djamila](https://open.spotify.com/artist/2Dh0kFL1Dosd9G17HwrkKc) | [Bubblegum](https://open.spotify.com/album/7AJv9yvZ0DFeVYphAsrxyi) | 3:20 |
 | 80 | [Run To You](https://open.spotify.com/track/0IDkpNa98T918RALnS3CbW) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Run To You](https://open.spotify.com/album/1b6jVbfl9Cmdt0pj7Q2rgY) | 2:59 |
 | 81 | [Last One On My Mind \(Moto Blanco Remix\)](https://open.spotify.com/track/4e1cXIQQPQoCFriDFRRowA) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [Moto Blanco](https://open.spotify.com/artist/2faLHCwToqDd4C53QiWIKj) | [Last One On My Mind \(Moto Blanco Remix\)](https://open.spotify.com/album/7yD1DbXMwoMXFu9k0lnLCm) | 3:07 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 83 | [Concrete](https://open.spotify.com/track/2uYlI0bKR6m7kkjHLmEI76) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:19 |
 | 84 | [Fireproof](https://open.spotify.com/track/7ApcKRTsTSGEKI14RwF7FB) | [Forever Bound](https://open.spotify.com/artist/7tklGFmhSD9jlcE506ZcZO) | [Fireproof](https://open.spotify.com/album/20uXkEjYVIGDnhO3TLBh4L) | 2:36 |
 | 85 | [Split Lip](https://open.spotify.com/track/6aevwbUn1BgQY9iXXxmRcs) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:09 |
-| 86 | [Never Let You Go](https://open.spotify.com/track/195rIaxn3j8SysVOs2UaOJ) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [Never Let You Go](https://open.spotify.com/album/7aGJUHI9MDCEabog2n4B3O) | 2:54 |
-| 87 | [CALL ME](https://open.spotify.com/track/5UwOGv6gUgqxD1VCXMGwno) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [CALL ME](https://open.spotify.com/album/3rez7CfomkdRAjFzOPv3r9) | 2:10 |
+| 86 | [CALL ME](https://open.spotify.com/track/5UwOGv6gUgqxD1VCXMGwno) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [CALL ME](https://open.spotify.com/album/3rez7CfomkdRAjFzOPv3r9) | 2:10 |
+| 87 | [Never Let You Go](https://open.spotify.com/track/195rIaxn3j8SysVOs2UaOJ) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [Never Let You Go](https://open.spotify.com/album/7aGJUHI9MDCEabog2n4B3O) | 2:54 |
 | 88 | [Rothko](https://open.spotify.com/track/07gbs1Gb4Lu3swfgPzYLBk) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Conversations with Strangers](https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR) | 2:58 |
 | 89 | [Why Are You Not Scared Yet?](https://open.spotify.com/track/6eP1RwJU8t1F11kpg0Dg4Y) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 2:34 |
 | 90 | [Someday Best](https://open.spotify.com/track/379vGZukU3B77EWs8uXbfO) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:13 |
@@ -151,5 +151,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 141 | [Parachute](https://open.spotify.com/track/4lViHb3L4irBiH26TOJFsj) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Parachute](https://open.spotify.com/album/4gzIENtoG03PRegwArlMA6) | 3:21 |
 | 142 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 143 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
+| 144 | [PRE](https://open.spotify.com/track/211CggMXVH5VprHhj8iHvF) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 0:17 |
 
-Snapshot ID: `AcT98AAAAABxryvaTQUyyIlkf+KPiUi7`
+Snapshot ID: `AcUDhgAAAADJQmTPnIJE9Q0cB3I6YFxM`

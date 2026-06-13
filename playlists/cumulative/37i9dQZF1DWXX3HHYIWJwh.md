@@ -4,7 +4,7 @@
 
 > ホームパーティーを楽しむためのプレイリスト。女子会、ガールズナイトのお供に。
 
-345 songs - 17 hr 26 min
+346 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 | 2025-09-18 | 2026-02-04 |
 | [GENTO](https://open.spotify.com/track/1o6uF8VmXna99ysHTcQRI2) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [GENTO](https://open.spotify.com/album/3cxdpO2eZx2VT2OWyca18o) | 3:52 | 2024-07-02 | 2024-09-20 |
 | [Get Loud](https://open.spotify.com/track/7zi7dD55ORKCGEjDNwSa1n) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lose Yourself](https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab) | 2:49 | 2024-10-17 | 2025-06-13 |
-| [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 | 2024-09-19 |  |
+| [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 | 2024-09-19 | 2026-06-13 |
 | [Ghost](https://open.spotify.com/track/37qlRGMmN1tStZS0elymXg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [Ghost](https://open.spotify.com/album/0aA475GObe8VCZvHRRloxK) | 3:02 | 2025-05-15 | 2025-06-27 |
 | [GIANT](https://open.spotify.com/track/5cZUp0PoAYzsXefD0pdALc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 2:54 | 2024-11-14 | 2025-01-16 |
 | [Girl, let's dance](https://open.spotify.com/track/5nywwZ634HioYXawXsujaZ) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [Girl, let's dance](https://open.spotify.com/album/0gGzZsU0Uv5MRw4kOtYJ5M) | 3:22 | 2024-03-13 | 2024-05-25 |
@@ -145,6 +145,7 @@
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-05-16 | 2025-07-11 |
 | [I Want You Back](https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:ST](https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF) | 2:49 | 2025-11-06 | 2026-01-15 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-11-23 | 2023-11-29 |
+| [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 | 2026-06-11 |  |
 | [ICONIK](https://open.spotify.com/track/3b7ejK9HytsRwa1Wne277w) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NEVER SAY NEVER](https://open.spotify.com/album/5IW8xxg85CGHRAMsiW0VLJ) | 3:13 | 2025-09-04 | 2025-10-03 |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-01-09 | 2025-03-03 |
 | [Imagining \(feat\. Amaarae\)](https://open.spotify.com/track/4H9yO3xQEpKHbLwF6n5ldj) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Hold The Girl \(Bonus Edition\)](https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb) | 3:40 | 2024-01-16 | 2024-02-17 |
@@ -319,7 +320,7 @@
 | [WARUNORI](https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WARUNORI](https://open.spotify.com/album/2h7FVDXr3xmV11yyNImqRz) | 4:19 | 2023-11-23 | 2024-01-17 |
 | [Wasuretaine](https://open.spotify.com/track/5w4d06Q4w1l9gN2AztlELL) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Wasuretaine](https://open.spotify.com/album/1RSmwBjok3O8hmpMdX2Rmx) | 3:30 | 2023-11-23 | 2024-01-17 |
 | [Waterfall](https://open.spotify.com/track/180UE30SYVQfYU02UzcyHT) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Waterfall](https://open.spotify.com/album/0w9NEJmBHrCvWewrujlOgt) | 2:53 | 2024-01-30 | 2024-02-21 |
-| [Way Back Home \(feat\. Conor Maynard\) \- Sam Feldt Edit](https://open.spotify.com/track/1ZLrDPgR7mvuTco3rQK8Pk) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Way Back Home \(feat\. Conor Maynard\) \[Sam Feldt Edit\]](https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068) | 3:12 | 2025-10-02 | 2025-11-11 |
+| [Way Back Home \(feat\. Conor Maynard\) \- Sam Feldt Edit](https://open.spotify.com/track/1ZLrDPgR7mvuTco3rQK8Pk) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Way Back Home \(feat\. Conor Maynard\) \[Sam Feldt Edit\]](https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068) | 3:12 | 2025-10-02 |  |
 | [What Makes You Beautiful](https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Up All Night](https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq) | 3:19 | 2023-11-23 | 2024-04-19 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-05-16 | 2025-07-11 |
 | [When I'm With You](https://open.spotify.com/track/15cQVPbbwv0sZXrHRIAZeX) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB) | 3:31 | 2024-11-14 | 2025-07-11 |

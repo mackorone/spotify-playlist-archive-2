@@ -2,15 +2,17 @@
 
 ### [Most Favored](https://open.spotify.com/playlist/37i9dQZF1DXdgckExLlG1g)
 
-> The top Christian songs worldwide!  Cover: Leanna Crawford
+> The top Christian songs worldwide!  Cover: Elevation Worship
 
-175 songs - 13 hr 57 min
+177 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [ABBA FATHER \- raw](https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [ABBA FATHER \(raw\)](https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia) | 1:08 | 2026-06-12 |  |
 | [Able](https://open.spotify.com/track/0gsuJ9nR8iOPOHszdmlnrw) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [Able](https://open.spotify.com/album/6rIjou6T4snwPFCWKAiIg2) | 5:02 | 2024-06-22 |  |
 | [Alive & Breathing \(feat\. Elle Limebear\)](https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:02 | 2020-08-14 | 2024-06-23 |
 | [All Things](https://open.spotify.com/track/0Lo3YUgrsai0heN46qFzZo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 3:09 | 2024-06-22 | 2025-05-10 |
+| [Alleluia \- Radio Version](https://open.spotify.com/track/7fVwB1a0nAl0s6Itwj2wIY) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Alleluia](https://open.spotify.com/album/16XXBUoWFZSZAA29sDLAPy) | 3:29 | 2026-06-12 |  |
 | [Almost Home](https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [inhale \(exhale\)](https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV) | 4:05 | 2020-08-14 | 2024-04-19 |
 | [Almost Home](https://open.spotify.com/track/0BzPKbK1FMlEdH7AxrLdgr) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost Home](https://open.spotify.com/album/4rqgmldtQPc2yPZWCrLyiw) | 4:12 | 2020-08-14 | 2024-06-23 |
 | [Altar](https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Altar](https://open.spotify.com/album/1T43dJrSpIutVfxgb6PzEd) | 3:34 | 2024-06-22 | 2025-12-13 |
@@ -26,7 +28,7 @@
 | [Burn The Ships](https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 4:36 | 2020-08-14 | 2024-05-03 |
 | [Can't Steal My Joy \(feat\. Brandon Lake\)](https://open.spotify.com/track/1IrganK1YSvjYDvGNYu3aa) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Can't Steal My Joy \(feat\. Brandon Lake\)](https://open.spotify.com/album/5Fa88waql5QY9FE23Hj9bI) | 3:33 | 2025-02-14 | 2025-07-12 |
 | [Chances](https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0) | [Chances](https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB) | 4:03 | 2024-06-22 |  |
-| [Church Doors](https://open.spotify.com/track/3upatkQjhcIYrHfgfYdGIr) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Church Doors](https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns) | 2:47 | 2025-02-14 |  |
+| [Church Doors](https://open.spotify.com/track/3upatkQjhcIYrHfgfYdGIr) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Church Doors](https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns) | 2:47 | 2025-02-14 | 2026-06-13 |
 | [Come Jesus Come](https://open.spotify.com/track/218S8MsbNO1ZGNxMQCb89L) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Come Jesus Come](https://open.spotify.com/album/3ZSCXdA9n1XNGTsWKjeNQr) | 5:01 | 2025-08-08 |  |
 | [Coming In Hot](https://open.spotify.com/track/1kVYXfxTWSftIZtmYr6yH8) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Coming In Hot](https://open.spotify.com/album/2osaP8edSKG8bVFKBoWIcV) | 3:20 | 2020-08-14 | 2024-05-03 |
 | [Counting My Blessings](https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P) | 3:29 | 2024-05-03 |  |
@@ -104,7 +106,7 @@
 | [My God Can](https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jesus Changed My Life \(Deluxe Edition\)](https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo) | 3:13 | 2024-05-03 |  |
 | [New Day](https://open.spotify.com/track/4Bj9VDCVyodGYDramtv3Kg) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Heartbreak And The Healing](https://open.spotify.com/album/6Hf2lGGpi3kVIGK9pLhxF3) | 3:01 | 2024-06-22 | 2025-05-10 |
 | [No Fear](https://open.spotify.com/track/2yHurYHLYMpdDokqUnFtzT) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [No Fear](https://open.spotify.com/album/1QVqmWakFTgTju3TX6N5B9) | 3:32 | 2025-05-09 |  |
-| [No Hay Lugar Más Alto \(En Vivo\) \[feat\. Christine D'clario\]](https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 8:08 | 2024-06-22 |  |
+| [No Hay Lugar Más Alto \(En Vivo\) \[feat\. Christine D'clario\]](https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 8:08 | 2024-06-22 | 2026-06-13 |
 | [Nobody \(feat\. Matthew West\)](https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 3:26 | 2020-08-14 | 2024-06-23 |
 | [Not Today](https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 4:13 | 2020-08-14 | 2024-03-20 |
 | [Nothing Else](https://open.spotify.com/track/24gP93dLFid1OYfM1mKmyp) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Nothing Else](https://open.spotify.com/album/6pIjJ3b7cOAHxUidfQPuro) | 6:33 | 2020-08-14 | 2024-05-03 |

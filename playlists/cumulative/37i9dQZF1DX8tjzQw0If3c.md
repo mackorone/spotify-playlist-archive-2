@@ -4,7 +4,7 @@
 
 > Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: quiet morning
 
-319 songs - 17 hr 20 min
+319 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,10 +291,10 @@
 | [Ting Tang Raya](https://open.spotify.com/track/2LEeHghDTUIRDCUPp7qA51) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Ewal](https://open.spotify.com/artist/1qM3N86kXp85fgj9eJE88O) | [Ting Tang Raya](https://open.spotify.com/album/0Qctzr846ys97tTdmeyaBs) | 2:52 | 2026-03-20 | 2026-04-07 |
 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 | 2025-09-08 | 2025-10-17 |
 | [touch](https://open.spotify.com/track/1nEczAnjXD3Jvbau01ee0x) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [touch](https://open.spotify.com/album/62CpwDDgZotecv71VLERpm) | 2:42 | 2026-04-06 |  |
-| [Track 5](https://open.spotify.com/track/2PWyhubh6VvSTlrw5w3m6t) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [under my skin](https://open.spotify.com/album/1OVLexXEgHSqEyJCfMsSLS) | 0:00 | 2026-06-11 |  |
 | [Tulips \(Stage Edit\)](https://open.spotify.com/track/2zc01klD7NZTPeHiPHQiS8) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [ORANGE JUICE BOX](https://open.spotify.com/album/0BQUOCZhZ7Tr7kkF004AQn) | 2:23 | 2026-04-06 |  |
 | [two6](https://open.spotify.com/track/79WsiHq3MECac1NzpzlW42) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8), [Kalou](https://open.spotify.com/artist/2votViQhLfXxz7JT97jhZu) | [two6](https://open.spotify.com/album/5lzP7mWrt4aAoeWEkJNTDU) | 3:22 | 2026-03-20 | 2026-04-07 |
 | [Udara \(From Astro Originals "FRAMED"\)](https://open.spotify.com/track/6657DgGU1WPHIopNQ6O4B8) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Udara \(From Astro Originals "FRAMED"\)](https://open.spotify.com/album/4Zxcug5c4qmcsYg52BH2yM) | 3:28 | 2025-04-15 | 2025-09-09 |
+| [under my skin](https://open.spotify.com/track/2PWyhubh6VvSTlrw5w3m6t) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [under my skin](https://open.spotify.com/album/1OVLexXEgHSqEyJCfMsSLS) | 2:46 | 2026-06-11 |  |
 | [us being us](https://open.spotify.com/track/4iZmZsFgvJqqmKtVnIrjlS) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx), [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [us being us](https://open.spotify.com/album/5poydfb1GnLEeNNn9RIjqr) | 3:34 | 2025-04-15 | 2026-04-07 |
 | [venus](https://open.spotify.com/track/0x6wSM6ixlhKPZ9QpaUyyu) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 4:10 | 2024-12-04 | 2025-04-16 |
 | [venus](https://open.spotify.com/track/6nZJt2Tk27ch1tWv9l4ZEZ) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [venus](https://open.spotify.com/album/4dF6MbQvHwGpOjnhhhTjMh) | 4:10 | 2024-06-27 | 2024-12-05 |

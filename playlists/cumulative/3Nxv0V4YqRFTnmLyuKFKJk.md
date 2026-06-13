@@ -4,7 +4,7 @@
 
 > Classic Country Hits 🤠 Top Most Streamed Country Music of All Time \| Best Country Playlist \| Cover: Randy Travis
 
-494 songs - 1 day 5 hr 26 min
+495 songs - 1 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Dead End Road \(From Twisters: The Album\)](https://open.spotify.com/track/39aAZlxQg4JM9g00kec16w) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Dead End Road \(From Twisters: The Album\)](https://open.spotify.com/album/4FLzGf4XrpOZyGajzf9oYF) | 2:32 | 2024-07-18 | 2025-04-26 |
 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 | 2024-07-19 | 2024-09-05 |
 | [December, 1963 \(Oh, What a Night\)](https://open.spotify.com/track/4nuPrKithHbRJXuA9spwu4) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [December, 1963 \(Oh, What a Night\) / Slip Away](https://open.spotify.com/album/1cpPUXM8H8059n6B9Nm46c) | 3:21 | 2023-02-17 | 2024-07-05 |
-| [Deeper Than the Holler](https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Old 8 x 10](https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh) | 3:39 | 2025-11-18 |  |
+| [Deeper Than the Holler](https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Old 8 x 10](https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh) | 3:39 | 2025-11-18 | 2026-06-13 |
 | [DEVIL YOU KNOW](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [DEVIL YOU KNOW](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 | 2024-07-03 | 2025-07-01 |
 | [Didn't I](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-12 | 2024-09-05 |
 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 | 2026-05-22 |  |
@@ -488,6 +488,7 @@
 | [Wicked Game \- Remastered](https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Best Of Chris Isaak](https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup) | 4:46 | 2022-05-05 | 2024-07-05 |
 | [Wide Open Spaces](https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:43 | 2025-11-18 |  |
 | [Wild Side](https://open.spotify.com/track/7zVpUAOuXY7pHHSm21jFEq) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8) | 4:43 | 2024-09-04 | 2025-04-26 |
+| [Work To Do](https://open.spotify.com/track/4UaeUslKMQ12nAuPcGtkHL) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Work To Do](https://open.spotify.com/album/2ONCoGg3lkCjYlP2Fb5CuP) | 3:09 | 2026-06-12 |  |
 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 | 2023-02-17 | 2024-07-05 |
 | [Yard Sale](https://open.spotify.com/track/2SDhUjGqGzcUnl1nfeYbLT) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Yard Sale](https://open.spotify.com/album/75GB2G4eKm96X50JAa1u7X) | 2:17 | 2025-06-30 | 2025-11-19 |
 | [Yard Sale](https://open.spotify.com/track/5UL9vkrVnzmhV6wuq1IzDM) | [Sammy Kershaw](https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O) | [Don't Go Near The Water](https://open.spotify.com/album/1PjldBoSkmzJNkT4ioy7yw) | 3:29 | 2025-04-25 | 2025-07-01 |

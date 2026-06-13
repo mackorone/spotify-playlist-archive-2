@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-198 songs - 10 hr 29 min
+199 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Perfect People](https://open.spotify.com/track/6jN3D2VW4f7DQVNGLbmgsu) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl), [Robin Grubert](https://open.spotify.com/artist/2iv63DstBtfPKPOq7vL7cS) | [Perfect People](https://open.spotify.com/album/5HLbNPO9y18zYws3ve0Bfr) | 3:29 | 2024-07-05 |  |
 | [PICK YOUR POISON \(feat\. Stormzy\)](https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:44 | 2023-04-05 |  |
 | [Planet](https://open.spotify.com/track/1DD7BCsexlwDHYm6o6KBDo) | [OSTEKKE](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Planet](https://open.spotify.com/album/1r975QemC2LPmOoC35VjtE) | 2:12 | 2022-12-13 |  |
+| [PRE](https://open.spotify.com/track/211CggMXVH5VprHhj8iHvF) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 0:17 | 2026-06-12 |  |
 | [Queen Of The Night \- From The Voice Of Germany](https://open.spotify.com/track/5idzZY9eDzlh4JbZqVHgei) | [Mary Summer](https://open.spotify.com/artist/5JPLyJCt5tWeHZc33Rs7OD) | [Queen Of The Night \(From The Voice Of Germany\)](https://open.spotify.com/album/6DvJhjNeDzqdqTCkQ7BpOO) | 3:53 | 2022-05-25 |  |
 | [React](https://open.spotify.com/track/0GWYApQBwErVPkyXYCTJjI) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [React](https://open.spotify.com/album/0Dg7mV6QrpSw8b3o45bNkq) | 3:24 | 2022-05-25 | 2022-10-14 |
 | [React](https://open.spotify.com/track/0qMAJBLMTshMx03CJkJl6O) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [React](https://open.spotify.com/album/3iJA3r8NBh2p3ZwRCiMxYz) | 3:24 | 2023-04-17 |  |

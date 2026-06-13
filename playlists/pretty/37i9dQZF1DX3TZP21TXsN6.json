@@ -1,6 +1,6 @@
 {
   "description": "Nieuw: Giegd, Donson, Veertien en meer..",
-  "num_followers": 158888,
+  "num_followers": 158893,
   "original_name": "Fresh Flows",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-06-11 22:01:34",
       "album": {
+        "name": "100 bricks",
+        "url": "https://open.spotify.com/album/3v8cVjf0mzfSvtybfGn0UI"
+      },
+      "artists": [
+        {
+          "name": "Bastosz",
+          "url": "https://open.spotify.com/artist/6CtxmUMNLxhOEPh1S1mY4g"
+        }
+      ],
+      "duration_ms": 170793,
+      "name": "100 bricks",
+      "url": "https://open.spotify.com/track/79V0ak67W2S4Rqjh4QLxqn"
+    },
+    {
+      "added_at": "2026-06-11 22:01:34",
+      "album": {
         "name": "SCHUD",
         "url": "https://open.spotify.com/album/6Q4jZXG9L75mc7ukTArF62"
       },
@@ -144,8 +160,8 @@
           "url": "https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 161612,
+      "name": "Niet Meer Uit Het Veld Te Slaan",
       "url": "https://open.spotify.com/track/1qHhh32pwxoQAEeiuAefai"
     },
     {

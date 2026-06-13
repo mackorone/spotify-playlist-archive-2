@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > 🌱🌸🌾🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,164 likes - 85 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,157 likes - 85 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 36 | [Alle vil til himmelen](https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Alle vil til himmelen](https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z) | 2:25 |
 | 37 | [Changes](https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Changes](https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu) | 3:18 |
 | 38 | [Ingen her e deg](https://open.spotify.com/track/3eR6Hc3POZkClqpCsUy0qL) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Tobias Sten \(Utvida\)](https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy) | 4:00 |
-| 39 | [Trist Masochist](https://open.spotify.com/track/0yoeRODvYNwCZ48uU6UdIh) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Trist Masochist](https://open.spotify.com/album/7Cet2u75IbkKllXpavjmA6) | 3:01 |
-| 40 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
+| 39 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
+| 40 | [Trist Masochist](https://open.spotify.com/track/0yoeRODvYNwCZ48uU6UdIh) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Trist Masochist](https://open.spotify.com/album/7Cet2u75IbkKllXpavjmA6) | 3:01 |
 | 41 | [Paw Patrol](https://open.spotify.com/track/2XnbiDy4iVlRaoEw0Swnnk) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 1](https://open.spotify.com/album/1D0KuQFJ34HPuWC0ndW4Pn) | 3:31 |
 | 42 | [Lips](https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Lips](https://open.spotify.com/album/4pAwod3owXQHQIBQwMM5a9) | 2:15 |
 | 43 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 |
@@ -85,13 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 75 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
 | 76 | [Oppe på månen](https://open.spotify.com/track/4PtFehKH1ric4In2Mc5Asg) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Oppe på månen](https://open.spotify.com/album/2D2Q25zXzCo9uu8OydjVyl) | 3:35 |
 | 77 | [Hva vi kunne bli](https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Hva vi kunne bli](https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev) | 2:55 |
-| 78 | [Lykke til pappa](https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Lykke til pappa](https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU) | 2:39 |
-| 79 | [I'm Still \- A COLORS SHOW](https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [I’m Still \- A COLORS SHOW](https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl) | 2:39 |
+| 78 | [I'm Still \- A COLORS SHOW](https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [I’m Still \- A COLORS SHOW](https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl) | 2:39 |
+| 79 | [Lykke til pappa](https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Lykke til pappa](https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU) | 2:39 |
 | 80 | [Rosary](https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Rosary](https://open.spotify.com/album/1psqIPAeNCLC2w7oY7VL0W) | 2:22 |
 | 81 | [Gå bli lykkelig, du](https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Gå bli lykkelig, du](https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g) | 3:07 |
-| 82 | [Gjesten på festen](https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Kanskje det går te helvete](https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8) | 2:26 |
-| 83 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 |
+| 82 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 |
+| 83 | [Gjesten på festen](https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Kanskje det går te helvete](https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8) | 2:26 |
 | 84 | [Solgangsbrisen](https://open.spotify.com/track/626qkh7TKnfFExq5ii9Ydo) | [Erik Og Kriss](https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR), [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Solgangsbrisen](https://open.spotify.com/album/2ZZilqPweQYV1LiFkKC3V6) | 3:25 |
-| 85 | [Lykkelig uten meg](https://open.spotify.com/track/59gqidwHw7znpxWyH4buT1) | [Andrea Bredesen Holm](https://open.spotify.com/artist/01yb19FhQ8C9zgSOusKSrt) | [Lykkelig uten meg](https://open.spotify.com/album/61dEd6Ry9s0Bx5cDz673T6) | 3:05 |
+| 85 | [Learning as I go](https://open.spotify.com/track/5ktB8vssJ9jlSFKtxejBB5) | [Kristina Moe Hals](https://open.spotify.com/artist/3NXTbjiBgCAFlZgl4ISwFj) | [Learning as I go](https://open.spotify.com/album/582q1GIAIEpNO2kbJefbXG) | 2:47 |
 
 Snapshot ID: `AAAAAKvvFSM+LxUhv/yRclUaVsxKw2Fq`

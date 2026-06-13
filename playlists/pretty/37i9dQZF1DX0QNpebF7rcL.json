@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Ruthie Foster",
-  "num_followers": 152755,
+  "num_followers": 152866,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA5ck29OAuasj1iFidBtUHD8hJxZ",
+  "snapshot_id": "AAAAAICQi1nu/GSrM5fD+T209uSLHX1s",
   "tracks": [
     {
       "added_at": "2026-06-05 04:00:30",
@@ -23,6 +23,38 @@
       "duration_ms": 199969,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3OsPdwc8t0ReCQjGFarwvZ"
+    },
+    {
+      "added_at": "2026-06-12 04:00:22",
+      "album": {
+        "name": "I\u2019m Afraid to Fall Asleep",
+        "url": "https://open.spotify.com/album/5q1b46r4zlH5IVP8A8yMvJ"
+      },
+      "artists": [
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        }
+      ],
+      "duration_ms": 267784,
+      "name": "I\u2019m Afraid to Fall Asleep",
+      "url": "https://open.spotify.com/track/7ANJ7z0Lk2ROWcguDNtrhu"
+    },
+    {
+      "added_at": "2026-06-12 04:00:22",
+      "album": {
+        "name": "Tired Of Being Right",
+        "url": "https://open.spotify.com/album/3KflUuOWzvY89rSbs33sh0"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 289266,
+      "name": "Tired Of Being Right",
+      "url": "https://open.spotify.com/track/3tBVNBfssuwjzq1OnDgLnO"
     },
     {
       "added_at": "2026-06-05 04:00:30",
@@ -75,22 +107,6 @@
       "duration_ms": 148005,
       "name": "I Can\u2019t Hold Out",
       "url": "https://open.spotify.com/track/2PjKjXdPcYn155olSIFIcM"
-    },
-    {
-      "added_at": "2026-05-15 04:00:51",
-      "album": {
-        "name": "In My America",
-        "url": "https://open.spotify.com/album/6F0DG9c6Kp1t9TJsycYoFW"
-      },
-      "artists": [
-        {
-          "name": "Albert Castiglia",
-          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
-        }
-      ],
-      "duration_ms": 322373,
-      "name": "In My America",
-      "url": "https://open.spotify.com/track/5BM6FplSkbfROQI8qfLVIa"
     },
     {
       "added_at": "2026-05-29 04:00:36",
@@ -431,22 +447,6 @@
       "duration_ms": 194610,
       "name": "Flyin\u2019 High [Yesterday]",
       "url": "https://open.spotify.com/track/2dl5oYgHph3A1HiNJI5nOS"
-    },
-    {
-      "added_at": "2026-01-23 05:00:21",
-      "album": {
-        "name": "Hell Or High Water",
-        "url": "https://open.spotify.com/album/5iBCXTVY0QnvyAhpiNONTF"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 221546,
-      "name": "Hell Or High Water",
-      "url": "https://open.spotify.com/track/5CVi1Y4FCzWAi9cY1gHl8K"
     },
     {
       "added_at": "2026-01-09 05:00:22",

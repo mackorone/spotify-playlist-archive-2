@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBhlBu4RteTU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2TvuFmg5Ep8sodlGHVo1DI">Daniel Nigro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,221 likes - 189 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,231 likes - 189 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBhlBu4RteTU.md) - [plain]
 | 93 | [Habitual Love](https://open.spotify.com/track/5JOnQCQ9OGn7hY23aCkdlL) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Both](https://open.spotify.com/album/0hox2EUyClXESGW5BupW8F) | 3:18 |
 | 94 | [Bed Rest](https://open.spotify.com/track/7fnrjy0Sd6Lj1IBalr424v) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow, Decomposed \(5 Year Anniversary\)](https://open.spotify.com/album/0NIuyJBQRvPaIjnyvTMBIe) | 4:08 |
 | 95 | [Roots](https://open.spotify.com/track/6OGA6Cq649xxKxP3c4F7xi) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love](https://open.spotify.com/album/4UEIfM6VbbjiSVUwPFXWxO) | 2:50 |
-| 96 | [Look At Me Now](https://open.spotify.com/track/1z7Pc2fpIffOtXQh1XHMn9) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
-| 97 | [That’s So Funny](https://open.spotify.com/track/58GzB1Ag0nyo2kjuGgmLax) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:49 |
+| 96 | [That’s So Funny](https://open.spotify.com/track/58GzB1Ag0nyo2kjuGgmLax) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:49 |
+| 97 | [Look At Me Now](https://open.spotify.com/track/1z7Pc2fpIffOtXQh1XHMn9) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
 | 98 | [Divide](https://open.spotify.com/track/56gDMsPfzD6UNG318InjIU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:23 |
 | 99 | [I Will](https://open.spotify.com/track/5HEeBCUDho3uQVNu98CvsS) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 3:18 |
 | 100 | [Love In Stereo](https://open.spotify.com/track/1EuOJLjHYZCEPcGJqAC3wZ) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 3:17 |
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBhlBu4RteTU.md) - [plain]
 | 102 | [Yellow Sun](https://open.spotify.com/track/4HJ1qXo8Rli20anAfBoz3A) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Everything Is My Family](https://open.spotify.com/album/0lyeKQY2Fwhe9ODXL1eTWz) | 3:28 |
 | 103 | [Choirs](https://open.spotify.com/track/38XutVx1wefIuW6emwiUrJ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Choirs](https://open.spotify.com/album/08NuS6FvhUKVuSvybpmqyz) | 3:02 |
 | 104 | [Good Bad Times](https://open.spotify.com/track/3rUPp9J9J7UYAtK0Oq1rZQ) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/6FumkInA48vTNiUcTMzlbp) | 3:18 |
-| 105 | [Baby Blue Bathing Suit](https://open.spotify.com/track/44g9B391W79R6B0AFXhRyd) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Baby Blue Bathing Suit](https://open.spotify.com/album/0utcSpsj5S64rk7Ob05iYv) | 3:15 |
+| 105 | [Baby Blue Bathing Suit](https://open.spotify.com/track/4oPiSIJ2h1AioMFWahsdk8) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Baby Blue Bathing Suit](https://open.spotify.com/album/4VuZSqNyECAByoSEQptr7C) | 3:15 |
 | 106 | [Are We Having Any Fun Yet?](https://open.spotify.com/track/4SFD0JypUDtH7omCJjoNQI) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [JCOY](https://open.spotify.com/album/6BgcY6wNgindhEnSeCmJ5i) | 3:17 |
 | 107 | [I Give Up](https://open.spotify.com/track/4BNFrnwcbsAAohZHww1MtS) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:06 |
 | 108 | [Hunnie Pie](https://open.spotify.com/track/44nGXijremqeeAhVyuoYpG) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Man on the Moon / Hunnie Pie](https://open.spotify.com/album/5XlQ6U4SmGLHhCbUEGiQJG) | 3:48 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBhlBu4RteTU.md) - [plain]
 | 188 | [True Colors](https://open.spotify.com/track/47ICNqdMooisXYDY9063pY) | [Emi Secrest](https://open.spotify.com/artist/1bDakkWepyTf2HyB4ePueW) | [Blue](https://open.spotify.com/album/1WP3BlwTyHkhTCgEiTrrWt) | 2:38 |
 | 189 | [Room Full of Mirrors](https://open.spotify.com/track/575owOjbSHWq3uMcDNGGWa) | [Erick Serna and The Killing Floor](https://open.spotify.com/artist/2JfFx5R68c7Sv8d0DE3tpZ) | [Room Full of Mirrors](https://open.spotify.com/album/0glMPgDt0hUuMU3pE042BN) | 2:59 |
 
-Snapshot ID: `AcT98AAAAABRZXQMM6LlZm2YU03TjHo5`
+Snapshot ID: `AcUDhgAAAACX7DYyCrcADyLNmHcd1yEJ`

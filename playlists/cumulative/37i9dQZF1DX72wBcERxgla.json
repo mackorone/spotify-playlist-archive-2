@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "After The Snow",
+        "url": "https://open.spotify.com/album/7xvr5Cr9dJFnI6vHXD4fz2"
+      },
+      "artists": [
+        {
+          "name": "James Auren",
+          "url": "https://open.spotify.com/artist/7Ds0cZCPbFyORBS5NSvQaQ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172773,
+      "name": "After The Snow",
+      "url": "https://open.spotify.com/track/2ylzXt72ax5IMekxYf7Z0i"
+    },
+    {
+      "album": {
         "name": "All Alone",
         "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
       },
@@ -974,6 +992,24 @@
       "duration_ms": 242586,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/1YGrZ7JjSgG0F5mkPTLJd1"
+    },
+    {
+      "album": {
+        "name": "As You Were",
+        "url": "https://open.spotify.com/album/1MXMeuZvO98WjXVNfkH01h"
+      },
+      "artists": [
+        {
+          "name": "Emile Valadon",
+          "url": "https://open.spotify.com/artist/3ZcrcpwVpdp0nHKwf2l8eS"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128405,
+      "name": "As You Were",
+      "url": "https://open.spotify.com/track/4CI6gzYlKcszqy2VkPvUwn"
     },
     {
       "album": {
@@ -1510,7 +1546,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 146000,
       "name": "Blue Midnight",
       "url": "https://open.spotify.com/track/3wb4QQWD4UBZHSGUEPMX86"
@@ -2414,6 +2450,24 @@
       "duration_ms": 143543,
       "name": "Day Dream",
       "url": "https://open.spotify.com/track/0cWJ8W7tdobRmx362SLh6t"
+    },
+    {
+      "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/2hG3ttYHTxGEzBEoby7Kkp"
+      },
+      "artists": [
+        {
+          "name": "Pontus De Bjorn",
+          "url": "https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/3TLULjWkuA5GNpFMeI1Iz6"
     },
     {
       "album": {
@@ -3526,7 +3580,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 191361,
       "name": "Flowers in the Morning",
       "url": "https://open.spotify.com/track/7ASptgkRQrTgsQ8jrtoovk"
@@ -4030,7 +4084,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 151673,
       "name": "Habit-forming",
       "url": "https://open.spotify.com/track/6whyQbbwPowZ3u24SsgDWE"
@@ -5092,7 +5146,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 139800,
       "name": "If time could stay",
       "url": "https://open.spotify.com/track/52536AkhfHcWs3gwcJIljP"
@@ -5801,6 +5855,24 @@
     },
     {
       "album": {
+        "name": "Just About",
+        "url": "https://open.spotify.com/album/1j1BDpPnRoMCijeVnEnNZB"
+      },
+      "artists": [
+        {
+          "name": "Raven St John",
+          "url": "https://open.spotify.com/artist/2UFwqcUNMHLDh1Bf0oQDqu"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135041,
+      "name": "Just About",
+      "url": "https://open.spotify.com/track/1eCML5VJZequaheztQWBjs"
+    },
+    {
+      "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/6zcCzNrc6e9NDKLMvMgKUm"
       },
@@ -5884,7 +5956,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 142516,
       "name": "Knowing Myself",
       "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
@@ -6374,6 +6446,24 @@
       "duration_ms": 259553,
       "name": "Lola and Kirby",
       "url": "https://open.spotify.com/track/4GyAzGvtspTgBsenXna9Ik"
+    },
+    {
+      "album": {
+        "name": "Lonely Night",
+        "url": "https://open.spotify.com/album/1Ki27j6xLxshzKD7Pi4GkD"
+      },
+      "artists": [
+        {
+          "name": "Laszlo Teofil",
+          "url": "https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149848,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/24RVhFr4owfzOlKB3Y0aZI"
     },
     {
       "album": {
@@ -7727,6 +7817,24 @@
     },
     {
       "album": {
+        "name": "New Favorite",
+        "url": "https://open.spotify.com/album/7GV82dx7rnVpGWtzrZFJQS"
+      },
+      "artists": [
+        {
+          "name": "Talia Vernon",
+          "url": "https://open.spotify.com/artist/3W6H4hzFD0fZP4EMnTrzQ8"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133348,
+      "name": "New Favorite",
+      "url": "https://open.spotify.com/track/1hUihHUxE7X3R3kRAVFKc6"
+    },
+    {
+      "album": {
         "name": "New Light",
         "url": "https://open.spotify.com/album/6zoQTTmNgvGwjIcWC2whcH"
       },
@@ -7868,6 +7976,24 @@
       "duration_ms": 162857,
       "name": "No More Talk",
       "url": "https://open.spotify.com/track/2a2BJiTnJrD0qnf6FtbiMW"
+    },
+    {
+      "album": {
+        "name": "No Rush",
+        "url": "https://open.spotify.com/album/1LUhmdGHtxp2IYfyDsZFPx"
+      },
+      "artists": [
+        {
+          "name": "Nola Finch",
+          "url": "https://open.spotify.com/artist/4OlAO9Q7R6qESvjaIcoZ1R"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "No Rush",
+      "url": "https://open.spotify.com/track/5vHJmW9jEtdiSrEkPknw0n"
     },
     {
       "album": {
@@ -9434,6 +9560,24 @@
       "duration_ms": 249211,
       "name": "Serendipity",
       "url": "https://open.spotify.com/track/3AW8LKOWeNcqwKsdF3KPmn"
+    },
+    {
+      "album": {
+        "name": "She Left with the Light On",
+        "url": "https://open.spotify.com/album/0rUAk0dGDnDrLZ6tRldG0s"
+      },
+      "artists": [
+        {
+          "name": "Georg Harvester",
+          "url": "https://open.spotify.com/artist/2w9g3qs7EAeQFeRC91BaBs"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133267,
+      "name": "She Left with the Light On",
+      "url": "https://open.spotify.com/track/245F6KblIA0S7Vv27SRdYN"
     },
     {
       "album": {
@@ -11626,7 +11770,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 154063,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/6r9dGlLthkSRTatH3WRkcZ"
@@ -12292,7 +12436,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 153518,
       "name": "Wake Up In Spring",
       "url": "https://open.spotify.com/track/3kL5yKlAPOzcF1fS7qYyhq"
@@ -12922,7 +13066,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 155069,
       "name": "You and I",
       "url": "https://open.spotify.com/track/3QF1JAkRF11UY4k64dtQUD"

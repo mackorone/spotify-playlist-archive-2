@@ -2,9 +2,9 @@
 
 ### [Indian Indie English](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> English songs from Indian artists.<br/>Cover: Prateek Kuhad
+> English songs from Indian artists.<br/>Cover: Tsumyoki
 
-401 songs - 22 hr 54 min
+402 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 | 2022-03-25 | 2024-08-23 |
 | [You](https://open.spotify.com/track/4d9qYngDaRv7Dnij09bdY6) | [Arrows](https://open.spotify.com/artist/2LgY4M7R8cJM0l52RlE9dd), [Saachi](https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7) | [Friends Tonight, Strangers Again](https://open.spotify.com/album/5Zf5fzWiR7YktTP5wP75JZ) | 5:14 | 2023-09-11 | 2023-09-30 |
 | [You](https://open.spotify.com/track/7MKPH1DSB6ye0Gc5dwFndS) | [Niranjana Chandra](https://open.spotify.com/artist/52VMR1S2y00a7CkQYcvmj1) | [You](https://open.spotify.com/album/09EuCXJkszPodcMOlGENSW) | 3:33 | 2025-11-26 | 2025-11-28 |
+| [YOU & I](https://open.spotify.com/track/5Xh2acs1loFylWR0Q1ROhT) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X) | [YOU & I](https://open.spotify.com/album/6ACvsqMzHVyV5wqBQENL95) | 3:12 | 2026-06-12 |  |
 | [Your Love](https://open.spotify.com/track/1hRg4KmSV3P1BktyCaewOC) | [Meba Ofilia](https://open.spotify.com/artist/6mbXxVkhtdddGzR5yJ9SUD), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW), [Dappest](https://open.spotify.com/artist/5gbLQgs5c4ow3KIOx30IoX) | [Your Love](https://open.spotify.com/album/46A4zcNfC1xLw5ziGIeU1P) | 3:07 | 2023-06-09 | 2023-07-11 |
 | [You’re Not Sorry](https://open.spotify.com/track/7khy0rHAOfdbIjjOtSHCmC) | [Abdon Mech](https://open.spotify.com/artist/7GY6RgfJdJDs2euNW5Scv4) | [Not Overthinking This](https://open.spotify.com/album/5II8XlsVFGRtwt7cKTOOhV) | 3:25 | 2025-09-26 |  |
 

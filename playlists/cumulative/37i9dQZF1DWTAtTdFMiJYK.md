@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: JBABE
 
-435 songs - 1 day 0 hr 23 min
+436 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,7 +390,7 @@
 | [Tabeer](https://open.spotify.com/track/2kzWtBlO7DiTuyEfD6MoYO) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [SEXY BHAIJI](https://open.spotify.com/album/54dzNdVRCXNSQhVCbJjkTw) | 3:24 | 2023-11-29 | 2024-01-11 |
 | [Tabeer](https://open.spotify.com/track/3BOWG0zibD5qZ1tcBwS65J) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Tabeer](https://open.spotify.com/album/4Eifi8cHvf7QNRrs9kld20) | 3:24 | 2023-01-11 | 2023-11-07 |
 | [Tanha Rahun Main](https://open.spotify.com/track/0nJptnLo28LIFeZzcUlYG7) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr), [Jahnavi Rao](https://open.spotify.com/artist/2OjHId4Ml8WRQL40hRj1Z6) | [Tanha Rahun Main](https://open.spotify.com/album/1wdykphFC8ZpQMDx7znwdx) | 4:50 | 2022-01-10 | 2023-01-11 |
-| [Tanhaiyaan](https://open.spotify.com/track/6i4mVSCgUPbpNQxtQnKqe1) | [Sahil](https://open.spotify.com/artist/0VTeniNQkQ4cezeg8IFwF9), [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c), [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Tanhaiyaan](https://open.spotify.com/album/0C8ZC5kcAPqOPJzW9DWfRl) | 3:09 | 2026-01-27 |  |
+| [Tanhaiyaan](https://open.spotify.com/track/6i4mVSCgUPbpNQxtQnKqe1) | [Sahil](https://open.spotify.com/artist/0VTeniNQkQ4cezeg8IFwF9), [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c), [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Tanhaiyaan](https://open.spotify.com/album/0C8ZC5kcAPqOPJzW9DWfRl) | 3:09 | 2026-01-27 | 2026-06-13 |
 | [Tera Mera Aasmaan](https://open.spotify.com/track/0piDZppLG8sJdE9Ieg5DnJ) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/3o2xo3PpTDvtbhVmTwbfqR) | 2:38 | 2024-03-20 | 2024-04-19 |
 | [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 | 2023-02-24 | 2024-08-31 |
 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 | 2022-07-22 | 2025-03-14 |
@@ -416,6 +416,7 @@
 | [Tuu](https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Tuu](https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp) | 3:10 | 2024-05-17 |  |
 | [Ud Ke Chali](https://open.spotify.com/track/0zVhqtuCf3QCozl1NewYyT) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Ud Ke Chali](https://open.spotify.com/album/2hkVPBR8j7cZWNmCdWer5f) | 3:55 | 2023-10-10 | 2024-06-11 |
 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 | 2023-02-10 |  |
+| [Udi Udi](https://open.spotify.com/track/4ROldgaRDDAI2VP8rWkjat) | [Aneesh](https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2), [Sarkar](https://open.spotify.com/artist/2R4yA8DlTWiUCpYlC0NMZh), [Hruday](https://open.spotify.com/artist/5LAR3fyRELNNXHIfnptaXF) | [Udi Udi](https://open.spotify.com/album/6ZRXnfTz48dWXDlDrumiYE) | 2:41 | 2026-06-12 |  |
 | [Uff](https://open.spotify.com/track/7rF3cZERZvYoPG7fRfBJ66) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Uff](https://open.spotify.com/album/7elw8oxe7Uh9oZldfemFih) | 2:56 | 2024-12-04 | 2025-01-10 |
 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 | 2024-09-30 |  |
 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 | 2021-12-06 | 2022-01-11 |

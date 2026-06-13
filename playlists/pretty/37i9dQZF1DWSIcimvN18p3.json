@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Aldous Harding",
-  "num_followers": 327510,
+  "num_followers": 327521,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Other Voices, Other Rooms",
-        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
-      },
-      "artists": [
-        {
-          "name": "Nanci Griffith",
-          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Speed of the Sound of Loneliness",
-      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 295546,
       "name": "Nightflyer",
       "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Other Voices, Other Rooms",
+        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
+      },
+      "artists": [
+        {
+          "name": "Nanci Griffith",
+          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "Speed of the Sound of Loneliness",
+      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
+        "name": "That Spell",
+        "url": "https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ"
+      },
+      "artists": [
+        {
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Take Back Thy Gift",
+      "url": "https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
         "name": "I Need to Start a Garden",
         "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 279266,
       "name": "Love At The Five & Dime",
       "url": "https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
-        "name": "That Spell",
-        "url": "https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ"
-      },
-      "artists": [
-        {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Take Back Thy Gift",
-      "url": "https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Old Holy Feeling",
-        "url": "https://open.spotify.com/album/2qXHmWN4ykdP4lRWy7cOoj"
-      },
-      "artists": [
-        {
-          "name": "Josephine Illingworth",
-          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
-        }
-      ],
-      "duration_ms": 306852,
-      "name": "Old Holy Feeling",
-      "url": "https://open.spotify.com/track/1neisUi9QEwdYf8drrM7ls"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Pushin' Against A Stone",
         "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 185506,
       "name": "Workin' Woman Blues",
       "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Old Holy Feeling",
+        "url": "https://open.spotify.com/album/2qXHmWN4ykdP4lRWy7cOoj"
+      },
+      "artists": [
+        {
+          "name": "Josephine Illingworth",
+          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
+        }
+      ],
+      "duration_ms": 306852,
+      "name": "Old Holy Feeling",
+      "url": "https://open.spotify.com/track/1neisUi9QEwdYf8drrM7ls"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Lookaftering",
-        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 125293,
-      "name": "Here Before",
-      "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 215869,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Lookaftering",
+        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 125293,
+      "name": "Here Before",
+      "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Ignorance",
-        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 246611,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 139800,
       "name": "Universal Soldier",
       "url": "https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Ignorance",
+        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 246611,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Little May",
-        "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
-      },
-      "artists": [
-        {
-          "name": "Little May",
-          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
-        }
-      ],
-      "duration_ms": 195735,
-      "name": "Boardwalks",
-      "url": "https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Time And Love: The Essential Masters",
         "url": "https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 227000,
       "name": "Stoned Soul Picnic",
       "url": "https://open.spotify.com/track/2oV3mzorzJTZa3gmp8vAJl"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Little May",
+        "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
+      },
+      "artists": [
+        {
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+        }
+      ],
+      "duration_ms": 195735,
+      "name": "Boardwalks",
+      "url": "https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Riddy Arman",
-        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
-      },
-      "artists": [
-        {
-          "name": "Riddy Arman",
-          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Too Late to Write a Love Song",
-      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "The Song of the Banjo",
         "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 297533,
       "name": "Carolina in the Pines (with Indigo Girls)",
       "url": "https://open.spotify.com/track/5Txa7Oq2dH2yUkFeLJxgTq"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Riddy Arman",
+        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
+      },
+      "artists": [
+        {
+          "name": "Riddy Arman",
+          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Too Late to Write a Love Song",
+      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2243,6 +2243,22 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
+        "name": "Mosh Pit",
+        "url": "https://open.spotify.com/album/7ncAtOiKpdlbUv43iMAF8l"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 323857,
+      "name": "Mosh Pit",
+      "url": "https://open.spotify.com/track/2YAQbdNjjUbpI0pBxLFV5r"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
         "name": "Royal Traveller",
         "url": "https://open.spotify.com/album/0O6Nyhc5bVD0iYtEq5J3sZ"
       },
@@ -2271,22 +2287,6 @@
       "duration_ms": 236614,
       "name": "Swept Away",
       "url": "https://open.spotify.com/track/0j1lzFyh427bXhDHLeth6q"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
-        "name": "Mosh Pit",
-        "url": "https://open.spotify.com/album/7ncAtOiKpdlbUv43iMAF8l"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 323857,
-      "name": "Mosh Pit",
-      "url": "https://open.spotify.com/track/2YAQbdNjjUbpI0pBxLFV5r"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
+        "name": "May Your Kindness Remain",
+        "url": "https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "May Your Kindness Remain",
+      "url": "https://open.spotify.com/track/71l6dkMk6FSKcL4LcC8hzG"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
         "name": "The Hazel and Alice Sessions",
         "url": "https://open.spotify.com/album/13onfRu5O11Vp0pR9muCjQ"
       },
@@ -2427,22 +2443,6 @@
       "duration_ms": 158973,
       "name": "Pretty Bird (feat. Linda Ronstadt)",
       "url": "https://open.spotify.com/track/6aViDQHPdw0UUYDGIKV8k1"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
-        "name": "May Your Kindness Remain",
-        "url": "https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "May Your Kindness Remain",
-      "url": "https://open.spotify.com/track/71l6dkMk6FSKcL4LcC8hzG"
     },
     {
       "added_at": "2026-05-15 04:01:12",

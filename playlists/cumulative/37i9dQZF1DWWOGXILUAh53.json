@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: Madonna",
+  "description": "The hottest new pop with all the drops. Cover: Rose Gray",
   "name": "New Dance Pop",
   "tracks": [
     {
@@ -538,7 +538,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 200257,
       "name": "4EVR",
       "url": "https://open.spotify.com/track/3tWOEizxnso7pqKwq5Bjej"
@@ -2668,7 +2668,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 190013,
       "name": "Awake Tonight",
       "url": "https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP"
@@ -5625,6 +5625,24 @@
     },
     {
       "album": {
+        "name": "Calling Out For U / Somebody",
+        "url": "https://open.spotify.com/album/7b1tKs4y4qRwoYBh7dEZGm"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "Calling Out For U",
+      "url": "https://open.spotify.com/track/7y1sTPYZETnTPkbYPNGOyp"
+    },
+    {
+      "album": {
         "name": "Calvin Klein",
         "url": "https://open.spotify.com/album/0uTvMlnRc5G6k4yAty4Q44"
       },
@@ -5834,7 +5852,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 160626,
       "name": "car crash",
       "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
@@ -6822,6 +6840,24 @@
       "duration_ms": 153526,
       "name": "Club classics",
       "url": "https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5"
+    },
+    {
+      "album": {
+        "name": "Club To Your Arms",
+        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191596,
+      "name": "Club To Your Arms",
+      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
     },
     {
       "album": {
@@ -9210,7 +9246,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 166440,
       "name": "Dive Into Me",
       "url": "https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ"
@@ -10833,6 +10869,24 @@
     },
     {
       "album": {
+        "name": "Earthworm",
+        "url": "https://open.spotify.com/album/543k82dYTEPXCyzse0Gg7v"
+      },
+      "artists": [
+        {
+          "name": "Laizer",
+          "url": "https://open.spotify.com/artist/1xuLVQC0qd8GzPcnJ4gs22"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176277,
+      "name": "Earthworm",
+      "url": "https://open.spotify.com/track/4wSMuydBSmSJ7RU60E7DlL"
+    },
+    {
+      "album": {
         "name": "Easy Lover",
         "url": "https://open.spotify.com/album/1bFzDl9dPLe19EUN1uvh7J"
       },
@@ -12064,6 +12118,24 @@
       "duration_ms": 166376,
       "name": "Fear Me",
       "url": "https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW"
+    },
+    {
+      "album": {
+        "name": "can we do it all again?",
+        "url": "https://open.spotify.com/album/4FRJ8Vn159vRiyLTdcGAWI"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221805,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K"
     },
     {
       "album": {
@@ -13601,6 +13673,32 @@
     },
     {
       "album": {
+        "name": "Free to Love (Harrison Remix) / Free to Love (Jersey Black Cat Remix)",
+        "url": "https://open.spotify.com/album/6OvmnkA8oP4QSvbYCN12FB"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210249,
+      "name": "Free to Love - Harrison Remix",
+      "url": "https://open.spotify.com/track/5cS3rCcqTbw5rOJNJeiiDF"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/0jUgrbJG2BgcBfCB5fwr8w"
       },
@@ -14130,7 +14228,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 169545,
       "name": "GIMME LOVE",
       "url": "https://open.spotify.com/track/2z8xRuTyWedWWAKSWvI9O2"
@@ -18354,7 +18452,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 143478,
       "name": "I look sh!t (and i\u2018m fine with it)",
       "url": "https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb"
@@ -20609,6 +20707,24 @@
     },
     {
       "album": {
+        "name": "Prototype",
+        "url": "https://open.spotify.com/album/7MvhqeZz7MOz9WRqh8EmTr"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185977,
+      "name": "Jus Wanna",
+      "url": "https://open.spotify.com/track/1JEp5ZG4iJGLV8umSDIY0i"
+    },
+    {
+      "album": {
         "name": "Just Because",
         "url": "https://open.spotify.com/album/3DkyRfGlAnAGvs8ZNrcHBp"
       },
@@ -21712,6 +21828,24 @@
       "duration_ms": 180877,
       "name": "Let's Go MIA",
       "url": "https://open.spotify.com/track/5QSoe7DgjaIjDH8ov6B43V"
+    },
+    {
+      "album": {
+        "name": "Let's Not Talk About Our Feelings",
+        "url": "https://open.spotify.com/album/7wwY6HT5hKIB5vu15HSX4h"
+      },
+      "artists": [
+        {
+          "name": "Studio Killers",
+          "url": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157588,
+      "name": "Let's Not Talk About Our Feelings",
+      "url": "https://open.spotify.com/track/2NZYUWhXQ2GI4g4OBzPw1z"
     },
     {
       "album": {
@@ -24137,6 +24271,28 @@
     },
     {
       "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215062,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
+    },
+    {
+      "album": {
         "name": "Married to Your Melody",
         "url": "https://open.spotify.com/album/4sfQiCd0Wcm0vRPmgTH7Su"
       },
@@ -25090,7 +25246,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 151318,
       "name": "Misdemeanour (Feat. L\u00e5psley)",
       "url": "https://open.spotify.com/track/3EOTBak9ss8H2wW0L16ZjV"
@@ -27234,7 +27390,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 145846,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/6HKNYBGRBvofWjSHmfkVvE"
@@ -28309,6 +28465,24 @@
     },
     {
       "album": {
+        "name": "DIRTY BLONDE",
+        "url": "https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R"
+    },
+    {
+      "album": {
         "name": "One Day At A Time",
         "url": "https://open.spotify.com/album/6wDApgVGyK2woT7cNHz6Tq"
       },
@@ -29248,7 +29422,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 111666,
       "name": "Oxytocin",
       "url": "https://open.spotify.com/track/0Ehshcvlug8jW9P6JaFMV0"
@@ -29288,7 +29462,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 210900,
       "name": "OZONE",
       "url": "https://open.spotify.com/track/1v44VfMM91TDLGxZ8v7nYs"
@@ -33788,7 +33962,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 186153,
       "name": "Shoulder",
       "url": "https://open.spotify.com/track/1FVYzyVsJacl4VF37SoIiE"
@@ -35181,6 +35355,24 @@
     },
     {
       "album": {
+        "name": "Speakerphone",
+        "url": "https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161660,
+      "name": "Speakerphone",
+      "url": "https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/0ByeGJA6FaPfbgnpq7mD97"
       },
@@ -35272,6 +35464,28 @@
       "duration_ms": 146880,
       "name": "Spin Me Round",
       "url": "https://open.spotify.com/track/4MgX84B2zGTkyUMt31cB3i"
+    },
+    {
+      "album": {
+        "name": "Spin Me Slowly (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/1YAcTt8kz8Pfyp5GzkiNKx"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182077,
+      "name": "Spin Me Slowly (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/4kSPUCwxN0KjrX8Q3uM3rY"
     },
     {
       "album": {
@@ -35922,7 +36136,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 203086,
       "name": "Still Got Time",
       "url": "https://open.spotify.com/track/2GWb0DqliHspGntujeOCvP"
@@ -37172,6 +37386,28 @@
       "duration_ms": 143000,
       "name": "Sweetest Pie - David Guetta Dance Remix",
       "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
+    },
+    {
+      "album": {
+        "name": "Sweetest Release",
+        "url": "https://open.spotify.com/album/5caFZTvQGRa9ocXjtmZjS0"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        },
+        {
+          "name": "Bryn Christopher",
+          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156169,
+      "name": "Sweetest Release",
+      "url": "https://open.spotify.com/track/5GUN3hCVKgls5iQeBMP6HU"
     },
     {
       "album": {
@@ -38801,6 +39037,28 @@
     },
     {
       "album": {
+        "name": "The Sting Within Me",
+        "url": "https://open.spotify.com/album/1ipKnIuLzj5nVhRxgBVeZV"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "DREAMDNVR",
+          "url": "https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152328,
+      "name": "The Sting Within Me",
+      "url": "https://open.spotify.com/track/1ORAf04NWqfo4yZv07yJLg"
+    },
+    {
+      "album": {
         "name": "The Sun Comes Up Tremendous",
         "url": "https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB"
       },
@@ -39264,6 +39522,28 @@
       "duration_ms": 182423,
       "name": "Throw Some Ass",
       "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
+    },
+    {
+      "album": {
+        "name": "thumbs",
+        "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "thumbs",
+      "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
     },
     {
       "album": {
@@ -40842,7 +41122,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 244713,
       "name": "Violent Thoughts",
       "url": "https://open.spotify.com/track/1N0TsyGpNhyErrvJyKFQHq"
@@ -42556,7 +42836,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 196188,
       "name": "Where We Go",
       "url": "https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm"

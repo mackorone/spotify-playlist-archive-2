@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 129896,
       "name": "Airy Dream",
       "url": "https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF"
@@ -19845,6 +19845,28 @@
     },
     {
       "album": {
+        "name": "let it be",
+        "url": "https://open.spotify.com/album/1BbX1MbFu5OCZBinsQWGjd"
+      },
+      "artists": [
+        {
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
+        },
+        {
+          "name": "cloud cover",
+          "url": "https://open.spotify.com/artist/1y9I7fJdrExfvwiY8SYtB6"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146896,
+      "name": "let it be",
+      "url": "https://open.spotify.com/track/06f90Spqi6uyN2lLyNVSic"
+    },
+    {
+      "album": {
         "name": "Let It Rain",
         "url": "https://open.spotify.com/album/3FrlMcpgsvPxfdSkPLF6t5"
       },
@@ -28478,7 +28500,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 140000,
       "name": "Quiescent",
       "url": "https://open.spotify.com/track/4D9hOQKRnYn3NX1v2WiX1s"
@@ -32962,7 +32984,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 135558,
       "name": "spinal chords",
       "url": "https://open.spotify.com/track/0SPakj2sm0Q3oJ4rEj9Jhi"

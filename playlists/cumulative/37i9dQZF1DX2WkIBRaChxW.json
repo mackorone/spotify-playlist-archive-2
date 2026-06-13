@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring FLO.",
+  "description": "What's happening in r&b, right now \u2013 featuring Jessie Reyez.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 214757,
       "name": "Back and Forth (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 177284,
       "name": "believer",
       "url": "https://open.spotify.com/track/1gr5SKmKub7VF2zNtBDHbK"
@@ -3000,7 +3000,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 166333,
       "name": "Big Daddy",
       "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
@@ -3296,7 +3296,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 137142,
       "name": "Boring",
       "url": "https://open.spotify.com/track/0inNzeehKp63mKOqEMSHL3"
@@ -3380,7 +3380,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 205714,
       "name": "Bottles & Lights",
       "url": "https://open.spotify.com/track/1it6w7qVrXo10od5OMjn7H"
@@ -3622,7 +3622,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 214574,
       "name": "Bring That Body",
       "url": "https://open.spotify.com/track/1vB4WYXgTNukibYgQvpXuV"
@@ -4374,6 +4374,24 @@
       "duration_ms": 173377,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
+    },
+    {
+      "album": {
+        "name": "Centerfold",
+        "url": "https://open.spotify.com/album/1tXMKm3r18f0712G4sQKFK"
+      },
+      "artists": [
+        {
+          "name": "Andye",
+          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Centerfold",
+      "url": "https://open.spotify.com/track/1DZExFaytfOj1iFJW6XbvT"
     },
     {
       "album": {
@@ -7061,6 +7079,28 @@
     },
     {
       "album": {
+        "name": "A LITTLE VENGEANCE",
+        "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193373,
+      "name": "DUSTY (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
+    },
+    {
+      "album": {
         "name": "Most Wanted (Deluxe)",
         "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
       },
@@ -7830,7 +7870,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 148857,
       "name": "Faux Real",
       "url": "https://open.spotify.com/track/3DHsps2o59HhPxhEdbp3gm"
@@ -8274,6 +8314,24 @@
       "duration_ms": 192631,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"
+    },
+    {
+      "album": {
+        "name": "FIRE BURNIN' THRU THE RAIN",
+        "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167394,
+      "name": "FIRE BURNIN' THRU THE RAIN",
+      "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
     },
     {
       "album": {
@@ -9929,6 +9987,24 @@
     },
     {
       "album": {
+        "name": "U, Me & My Ego",
+        "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150201,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX"
+    },
+    {
+      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -11366,7 +11442,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 213023,
       "name": "I Love You Out Loud",
       "url": "https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP"
@@ -12708,7 +12784,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 265127,
       "name": "JEZEBEL",
       "url": "https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY"
@@ -15964,7 +16040,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 176316,
       "name": "Miss That",
       "url": "https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE"
@@ -19148,7 +19224,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 198709,
       "name": "Past Tense",
       "url": "https://open.spotify.com/track/0D2vwxWkb9im42QBScXHZG"
@@ -23065,6 +23141,24 @@
     },
     {
       "album": {
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Something Bout It",
+      "url": "https://open.spotify.com/track/0ATYGGx8AP7w0tsTsC1L4o"
+    },
+    {
+      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/1iDx4jaQfX1ZN1HE7GpeJF"
       },
@@ -24822,6 +24916,28 @@
       "duration_ms": 184200,
       "name": "Talkback",
       "url": "https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe"
+    },
+    {
+      "album": {
+        "name": "Tampa",
+        "url": "https://open.spotify.com/album/2PFL5PkWDL00RVI2B0vntA"
+      },
+      "artists": [
+        {
+          "name": "THE-DREAM",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218025,
+      "name": "Tampa (feat. USHER)",
+      "url": "https://open.spotify.com/track/1spHLxrlBblm3s12J4892k"
     },
     {
       "album": {
@@ -27432,7 +27548,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 200791,
       "name": "Want Love",
       "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
@@ -28005,6 +28121,24 @@
     },
     {
       "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234080,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
+    },
+    {
+      "album": {
         "name": "Masego",
         "url": "https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S"
       },
@@ -28394,7 +28528,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 152210,
       "name": "Why",
       "url": "https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq"
@@ -28928,6 +29062,24 @@
       "duration_ms": 150461,
       "name": "WTF",
       "url": "https://open.spotify.com/track/7HLjZNXC0BhteqncIigRX1"
+    },
+    {
+      "album": {
+        "name": "A Constant Charade (Deluxe)",
+        "url": "https://open.spotify.com/album/4Jo5mp9O4wlNAhZLJatrry"
+      },
+      "artists": [
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190377,
+      "name": "Wushua",
+      "url": "https://open.spotify.com/track/7oeD5jfi5PA7Aqh1xN4Nu4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-123 songs - 6 hr 1 min
+124 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,11 +34,12 @@
 | [Criminals](https://open.spotify.com/track/0xT0SJ6ee4D8Q9X0hFbpY8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 2:34 | 2025-07-20 |  |
 | [Cruel Summer](https://open.spotify.com/track/5aiYuJEhpR2tyybd99vPGw) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:59 | 2024-01-22 |  |
 | [CUFF IT](https://open.spotify.com/track/6WnpkEjr6oDICeB9NjxVYT) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [CUFF IT](https://open.spotify.com/album/3QTG2rIil6NvH1Co5dZI1M) | 2:57 | 2023-06-09 | 2023-07-15 |
-| [CUFF IT](https://open.spotify.com/track/3kqt8hGL5eLHxcwMiPwmlF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 3:00 | 2023-07-14 |  |
+| [CUFF IT](https://open.spotify.com/track/3kqt8hGL5eLHxcwMiPwmlF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 3:00 | 2023-07-14 | 2026-06-13 |
 | [Cupid](https://open.spotify.com/track/4I88Qa7TIAUyaSqzyYeMNT) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Cupid](https://open.spotify.com/album/2Axtzhd5r3gMzLBC1rLMwv) | 2:44 | 2023-08-18 |  |
 | [Dance Monkey](https://open.spotify.com/track/1POnhYNNZI7mmIqTsYK9LC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:20 | 2023-06-09 | 2025-05-03 |
 | [Dance The Night](https://open.spotify.com/track/0uP9i8YhU9T1ngD21zcca7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Dance The Night](https://open.spotify.com/album/1ABqWB0UfHZ6EHntUk6q8F) | 2:56 | 2023-09-22 | 2024-07-16 |
 | [Dance The Night](https://open.spotify.com/track/2G5okSaK0ji1CjCC6rU8IY) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:56 | 2024-07-15 |  |
+| [drop dead](https://open.spotify.com/track/6bUCROtu78ifRgxj0PeBT4) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [drop dead](https://open.spotify.com/album/7IIGaEFyIvyiXfAoze8PsF) | 3:28 | 2026-06-12 |  |
 | [DtMF](https://open.spotify.com/track/0muMwfNspNKBqNgWD3Jzzy) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 2:47 | 2025-07-20 |  |
 | [Dynamite](https://open.spotify.com/track/1SjPz95ZuP97C64qP7Whvx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:17 | 2023-06-09 | 2025-08-23 |
 | [Ella Baila Sola](https://open.spotify.com/track/6o23AeNrj2mfYAkuEcyz2B) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:18 | 2024-01-22 | 2024-07-16 |

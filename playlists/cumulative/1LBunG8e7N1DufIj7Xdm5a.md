@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,448 songs - 9 day 22 hr 1 min
+4,450 songs - 9 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2969,9 +2969,11 @@
 | [Pixelated Memories](https://open.spotify.com/track/0gyIY1trb2axOnWAZVHRji) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Retro music](https://open.spotify.com/album/2agmNfMW3QaD5CXAJaRVHP) | 3:48 | 2025-09-24 |  |
 | [Pizza Time](https://open.spotify.com/track/3pxg2vxImneIXH7Kt4raVM) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Pizza Time](https://open.spotify.com/album/6ZiijIxxYqmi8nIzsPe8dL) | 1:59 | 2025-07-28 |  |
 | [Pizzoccheri Dance](https://open.spotify.com/track/5eATqpNV1i8NMTTyiT7iBt) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:28 | 2025-12-10 |  |
+| [Più Vicini al Cielo](https://open.spotify.com/track/2BAhnHQKWm5vM3q1QTrLsl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Più Vicini al Cielo](https://open.spotify.com/album/2NSBRvmswoVucTOLRUFKzJ) | 3:21 | 2026-06-12 |  |
 | [Places and Faces](https://open.spotify.com/track/6vg9aHp38RpVGkJdpqeVvT) | [Androtea](https://open.spotify.com/artist/1yekf3G6ESXILTw11dkpBp) | [Places and Faces](https://open.spotify.com/album/0SlFCjdrGkR98mnbfgOHCs) | 3:33 | 2025-11-05 |  |
 | [Planta Crecer](https://open.spotify.com/track/3bwexrnqApEcDKEEOMy7J6) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Planta Crecer](https://open.spotify.com/album/4Hug1prc0w4BrGHmQHbHPQ) | 5:04 | 2025-10-15 |  |
 | [plastica](https://open.spotify.com/track/4NyzAKdn2GwtzLhMOScf5j) | [Holyroh](https://open.spotify.com/artist/0LPwMpSScA73gR7VENCleQ) | [plastica](https://open.spotify.com/album/68nnSMYTMj1lRGLPyeFmnl) | 3:00 | 2026-02-13 |  |
+| [Plasticity](https://open.spotify.com/track/4mF2Q8tzIODb7sGbKFdbOp) | [The Rift](https://open.spotify.com/artist/20XC0kNuHwNw2w2R0mDolP) | [Plasticity](https://open.spotify.com/album/6rEjOfBQkbwlkExPpHSisG) | 4:52 | 2026-06-12 |  |
 | [Play Tape](https://open.spotify.com/track/7N1Sf4fpsV44aAi8RKb81M) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape Music](https://open.spotify.com/album/2X1ZnNcAoPKI9wGc2Mtt9V) | 3:44 | 2025-09-20 |  |
 | [Pleasant](https://open.spotify.com/track/3EZjTgLFMmHhpafU5oGEov) | [Mak\_SA](https://open.spotify.com/artist/2CWE4miGaKOUcSyMLtfues) | [Pleasant](https://open.spotify.com/album/0wkcFw07oBtOXgJ1dCodhE) | 5:57 | 2025-06-05 |  |
 | [Pliz non la skippare](https://open.spotify.com/track/1Oj3hSFsRVMVSPrMqWKrGa) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Pliz non la skippare](https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl) | 3:45 | 2025-05-09 |  |

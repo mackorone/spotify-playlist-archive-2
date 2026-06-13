@@ -1,13 +1,29 @@
 {
   "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Asim Azhar",
-  "num_followers": 19195,
+  "num_followers": 19265,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPCVMxglVRMrEzBIG0UiCg9gk/PS",
+  "snapshot_id": "AAAAAMLUgcdIoeeR5JqvTylUoiqRCZxu",
   "tracks": [
+    {
+      "added_at": "2026-06-12 04:01:24",
+      "album": {
+        "name": "Guzaarishein (Piano Version)",
+        "url": "https://open.spotify.com/album/0vKubTLDJglB9UwVbH1ZEL"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "duration_ms": 108169,
+      "name": "Guzaarishein - Piano Version",
+      "url": "https://open.spotify.com/track/2KTQJBI3bslOKFuTypl1JI"
+    },
     {
       "added_at": "2026-06-11 11:23:53",
       "album": {
@@ -41,28 +57,136 @@
       "url": "https://open.spotify.com/track/1GDJhAiO9tqjMuDWFad0IF"
     },
     {
-      "added_at": "2026-06-11 11:23:53",
+      "added_at": "2026-06-12 04:01:24",
       "album": {
-        "name": "Husna Di Sarkar",
-        "url": "https://open.spotify.com/album/1VBFZpjy5aZeIpQDnShsi0"
+        "name": "Tere Naal Jeena",
+        "url": "https://open.spotify.com/album/3PBGpTxJEoCeCXcBV52hjs"
       },
       "artists": [
         {
-          "name": "Roach Killa",
-          "url": "https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS"
-        },
-        {
-          "name": "Abrar Ul Haq",
-          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
-        },
-        {
-          "name": "Dr Zeus",
-          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+          "name": "Hasan Nawaz",
+          "url": "https://open.spotify.com/artist/0HeIUGnFdiSrLXVFpED3M4"
         }
       ],
-      "duration_ms": 147086,
-      "name": "Husna Di Sarkar",
-      "url": "https://open.spotify.com/track/7C1tMBdoav72OBnAgqE68B"
+      "duration_ms": 288000,
+      "name": "Tere Naal Jeena",
+      "url": "https://open.spotify.com/track/5oP9EXzAKuvHKV45ZW56kU"
+    },
+    {
+      "added_at": "2026-06-12 04:01:24",
+      "album": {
+        "name": "Kheriyaan De Naal",
+        "url": "https://open.spotify.com/album/16Xe1cugCBQKk7sSWn2va0"
+      },
+      "artists": [
+        {
+          "name": "Kashan Admani",
+          "url": "https://open.spotify.com/artist/2MNgnCdZlDyxEfoTRQNEGE"
+        },
+        {
+          "name": "Muhammad Zubair",
+          "url": "https://open.spotify.com/artist/5u2TTS9GwB0AYKDxTctuW5"
+        },
+        {
+          "name": "Kami Paul",
+          "url": "https://open.spotify.com/artist/1ZkJJWLCbtjVxnXPmxqUMI"
+        },
+        {
+          "name": "Kamran Zafar Mannu",
+          "url": "https://open.spotify.com/artist/4uBXiQCHR058umPOZSIr30"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Kheriyaan De Naal",
+      "url": "https://open.spotify.com/track/248lOHW0TAjKsPzHncT8pX"
+    },
+    {
+      "added_at": "2026-06-12 04:01:24",
+      "album": {
+        "name": "Duur Duur",
+        "url": "https://open.spotify.com/album/4JdG5DznKZ36X2k0owm3uW"
+      },
+      "artists": [
+        {
+          "name": "Farooq Got Audio",
+          "url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        },
+        {
+          "name": "AsherMusik",
+          "url": "https://open.spotify.com/artist/0M1EezTY7rRYZsN5uk2Xme"
+        },
+        {
+          "name": "Haider Ali",
+          "url": "https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv"
+        }
+      ],
+      "duration_ms": 146549,
+      "name": "Duur Duur",
+      "url": "https://open.spotify.com/track/0eIhOI7pb6wyV4W3cRJKIZ"
+    },
+    {
+      "added_at": "2026-06-12 04:01:24",
+      "album": {
+        "name": "Sabar",
+        "url": "https://open.spotify.com/album/3mujFAt0PTmIMjOLNB2h6Z"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        }
+      ],
+      "duration_ms": 144400,
+      "name": "Sabar",
+      "url": "https://open.spotify.com/track/0iS8bWM8xB18Dv8gWgM8yQ"
+    },
+    {
+      "added_at": "2026-06-12 04:01:24",
+      "album": {
+        "name": "Darmaan (feat. Lina Marie Marcelle & Veeru Shan)",
+        "url": "https://open.spotify.com/album/4gdxASATkXXU7phicz6aeD"
+      },
+      "artists": [
+        {
+          "name": "Humnava",
+          "url": "https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI"
+        },
+        {
+          "name": "Aaryan",
+          "url": "https://open.spotify.com/artist/0bYkfpew9s6FNJ4b6MVm7K"
+        },
+        {
+          "name": "Faheem uddin hunzai",
+          "url": "https://open.spotify.com/artist/31bt09yIuNKHYx3rpspuRB"
+        },
+        {
+          "name": "Lina Marie Marcelle",
+          "url": "https://open.spotify.com/artist/3sAFnrkf8Gi8NIHM4ePN5y"
+        },
+        {
+          "name": "Veeru Shan",
+          "url": "https://open.spotify.com/artist/09AQmT8DH8V3UuDxcHv2i6"
+        }
+      ],
+      "duration_ms": 637802,
+      "name": "Darmaan (feat. Lina Marie Marcelle & Veeru Shan)",
+      "url": "https://open.spotify.com/track/01UAgLMZtWdCz1jGjZ6suM"
+    },
+    {
+      "added_at": "2026-06-12 04:01:24",
+      "album": {
+        "name": "Cheerah",
+        "url": "https://open.spotify.com/album/4JcJx4sRmo1Q8H0mqhYYjv"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "Cheerah",
+      "url": "https://open.spotify.com/track/2sCneqEKSCDuezHJCEFcFR"
     },
     {
       "added_at": "2026-06-11 11:23:53",
@@ -99,34 +223,6 @@
       "duration_ms": 213857,
       "name": "Mujasme",
       "url": "https://open.spotify.com/track/5gMd2h4GqiwJ4n2pIYaqKL"
-    },
-    {
-      "added_at": "2026-06-11 11:23:53",
-      "album": {
-        "name": "Tujhe Jaane Diya",
-        "url": "https://open.spotify.com/album/7vPS3esSMdWmASMcEeQo6F"
-      },
-      "artists": [
-        {
-          "name": "Ad",
-          "url": "https://open.spotify.com/artist/4ldvEYM1XaAPCtyyWqeZ6v"
-        },
-        {
-          "name": "Arfeen Raza",
-          "url": "https://open.spotify.com/artist/2un6oSRbi6B3MEma7cVYpf"
-        },
-        {
-          "name": "Shazz-E",
-          "url": "https://open.spotify.com/artist/0iWvzjzGeXANooCF5EzjE1"
-        },
-        {
-          "name": "Hibara",
-          "url": "https://open.spotify.com/artist/4NIXDr9dOJrAV4cs3d6VQf"
-        }
-      ],
-      "duration_ms": 214814,
-      "name": "Tujhe Jaane Diya",
-      "url": "https://open.spotify.com/track/6Rr7svtdopFeE6gOYmqxct"
     },
     {
       "added_at": "2026-06-11 11:23:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Saïf
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,565 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,591 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 10 | [Jeunes et cons](https://open.spotify.com/track/2Rr4xbCfYjJKQ5qdezU2N3) | [Shades](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Jeunes et cons](https://open.spotify.com/album/25IsT97AyumsVb8MLT6ccg) | 3:09 |
 | 11 | [Nuance](https://open.spotify.com/track/2NU3UacejCGdwKxvlXsxdX) | [VERSIONBETA7](https://open.spotify.com/artist/2YvuJOwUvNHDJQAOApnBBR) | [Nuance](https://open.spotify.com/album/275XHq51797534UaytJL81) | 2:38 |
 | 12 | [Le temps passe](https://open.spotify.com/track/3DoomWQiOQlZxQieXpSVOm) | [Bonobo](https://open.spotify.com/artist/3CA7lyKUkVtDuaZjqYb6nH) | [On a cueilli que les épines](https://open.spotify.com/album/4dWDCzwOtKWzHwsjmxdSmU) | 3:29 |
-| 13 | [si bo](https://open.spotify.com/track/6piAUWjAyS28UOWcCMIkJp) | [Vulax](https://open.spotify.com/artist/2WNzDCBl2ibX17FoW5byBc), [ange](https://open.spotify.com/artist/4Z07W9SCuNeImQlwTXsczG) | [si bo](https://open.spotify.com/album/6SzTJxySks3jRVonLW45PC) | 2:43 |
+| 13 | [si bo \(feat\. ange\)](https://open.spotify.com/track/6piAUWjAyS28UOWcCMIkJp) | [Vulax](https://open.spotify.com/artist/2WNzDCBl2ibX17FoW5byBc), [ange](https://open.spotify.com/artist/4Z07W9SCuNeImQlwTXsczG) | [si bo \(feat\. ange\)](https://open.spotify.com/album/6SzTJxySks3jRVonLW45PC) | 2:43 |
 | 14 | [Lettre à ma mère](https://open.spotify.com/track/4oO2ynUVIg7Y3ta6FPTWXq) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q), [EMEL](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Lettre à ma mère](https://open.spotify.com/album/2xTfFho04fzVXCto1vIduP) | 2:29 |
 | 15 | [Tout ira bien](https://open.spotify.com/track/6rbiqFQJFvZpGji9O0XfTm) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Blanco nemesis](https://open.spotify.com/album/1CVD0XgRZjmkeO11U90NPo) | 3:06 |
 | 16 | [Lettre à moi\-même](https://open.spotify.com/track/3CbBi5k72q3N6UiKCfyZ1r) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [Marcel](https://open.spotify.com/album/45lkkGLknwQG4Rhw8gVSwL) | 3:36 |

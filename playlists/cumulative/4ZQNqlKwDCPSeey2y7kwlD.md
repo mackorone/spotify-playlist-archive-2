@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/4ZQNqlKwDCPSeey2y7kwlD.md) - cumulative - [plain](/playlists/plain/4ZQNqlKwDCPSeey2y7kwlD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4ZQNqlKwDCPSeey2y7kwlD)
 
-### [Oops...All Jams](https://open.spotify.com/playlist/4ZQNqlKwDCPSeey2y7kwlD)
+### [Good Morning Music](https://open.spotify.com/playlist/4ZQNqlKwDCPSeey2y7kwlD)
 
-> What have we done?
+> Start your morning with a mix of new and classic songs to keep you singing all day long!
 
 453 songs - 1 day 0 hr 44 min
 
@@ -139,7 +139,7 @@
 | [Give 'Er Hell](https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Give 'Er Hell](https://open.spotify.com/album/0p1xtZSyS5Ke7kezDsSFZj) | 3:21 | 2026-04-09 |  |
 | [Give Me One Reason](https://open.spotify.com/track/5VvT7bqOekxhMLbux3jJKD) | [Sarah Vanderzon](https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD) | [Give Me One Reason](https://open.spotify.com/album/4MtDxcaSPN6lGsBaq6yyNA) | 3:09 | 2025-09-28 | 2026-01-15 |
 | [Gnarly \- Clean Edit](https://open.spotify.com/track/4lpRqTVtUNmZ31PSq4lH98) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly \(Clean Edit\)](https://open.spotify.com/album/2h98KUNEJEL1NNfG4IbrDp) | 2:17 | 2025-05-04 | 2026-04-11 |
-| [Go](https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Born In The Echoes](https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6) | 4:20 | 2026-05-16 |  |
+| [Go](https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Born In The Echoes](https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6) | 4:20 | 2026-05-16 |  |
 | [Go Away](https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 3:13 | 2026-04-12 |  |
 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-07-14 |  |
 | [Good Dream](https://open.spotify.com/track/1U4jlnas1vDAI9BNtpyohV) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [Good Dream / Stowaway](https://open.spotify.com/album/3nIJ6OwyVRrRaV3iynN5HE) | 3:03 | 2025-01-26 | 2025-05-18 |

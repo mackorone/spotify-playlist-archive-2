@@ -199,22 +199,6 @@
     {
       "added_at": "2026-06-11 21:00:48",
       "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 204068,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
-    },
-    {
-      "added_at": "2026-06-11 21:00:48",
-      "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-06-11 21:00:48",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
       "added_at": "2026-06-11 21:00:48",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-06-11 21:00:48",
       "album": {
+        "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+        "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "duration_ms": 172092,
+      "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+      "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
+    },
+    {
+      "added_at": "2026-06-11 21:00:48",
+      "album": {
         "name": "PETSHOP",
         "url": "https://open.spotify.com/album/57iAh3QvNudObASmZccMzD"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 188893,
       "name": "Jokaisen hymyn takana",
       "url": "https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl"
-    },
-    {
-      "added_at": "2026-06-11 21:00:48",
-      "album": {
-        "name": "Kaikki p\u00e4\u00e4ttyy meihin",
-        "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
-      },
-      "artists": [
-        {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
-        }
-      ],
-      "duration_ms": 172092,
-      "name": "Kaikki p\u00e4\u00e4ttyy meihin",
-      "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
     },
     {
       "added_at": "2026-06-11 21:00:48",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2026-06-11 21:00:48",
       "album": {
-        "name": "Oots\u00e4 n\u00e4hny mua?",
-        "url": "https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI"
+        "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
+        "url": "https://open.spotify.com/album/2CJrdfV8OIxbMBEZExvzWv"
       },
       "artists": [
         {
-          "name": "Alina Burnet",
-          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
+          "name": "Olli Halonen",
+          "url": "https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts"
         }
       ],
-      "duration_ms": 165085,
-      "name": "Kauniita lupauksii",
-      "url": "https://open.spotify.com/track/7FvHpBQNBx0kOo3uB2UPrP"
+      "duration_ms": 169760,
+      "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
+      "url": "https://open.spotify.com/track/2BYgh7jz3huleibaQgAFun"
     },
     {
       "added_at": "2026-06-11 21:00:48",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-06-11 21:00:48",
       "album": {
-        "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
-        "url": "https://open.spotify.com/album/2CJrdfV8OIxbMBEZExvzWv"
+        "name": "Oots\u00e4 n\u00e4hny mua?",
+        "url": "https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI"
       },
       "artists": [
         {
-          "name": "Olli Halonen",
-          "url": "https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts"
+          "name": "Alina Burnet",
+          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
         }
       ],
-      "duration_ms": 169760,
-      "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
-      "url": "https://open.spotify.com/track/2BYgh7jz3huleibaQgAFun"
+      "duration_ms": 165085,
+      "name": "Kauniita lupauksii",
+      "url": "https://open.spotify.com/track/7FvHpBQNBx0kOo3uB2UPrP"
     },
     {
       "added_at": "2026-06-11 21:00:48",
@@ -1119,22 +1119,6 @@
       "duration_ms": 206733,
       "name": "Itseni vihollinen",
       "url": "https://open.spotify.com/track/0WXo5nX2iMUjxY9h19FijK"
-    },
-    {
-      "added_at": "2026-06-11 21:00:48",
-      "album": {
-        "name": "Ennen sua",
-        "url": "https://open.spotify.com/album/5pBEiUE07GNnHV5dl4mHdz"
-      },
-      "artists": [
-        {
-          "name": "Ollie",
-          "url": "https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd"
-        }
-      ],
-      "duration_ms": 168693,
-      "name": "Ennen sua",
-      "url": "https://open.spotify.com/track/0xb7htv9v9ylxcYI1fOLDR"
     },
     {
       "added_at": "2026-06-11 21:00:48",
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2026-06-11 21:00:48",
       "album": {
+        "name": "Ennen sua",
+        "url": "https://open.spotify.com/album/5pBEiUE07GNnHV5dl4mHdz"
+      },
+      "artists": [
+        {
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd"
+        }
+      ],
+      "duration_ms": 168693,
+      "name": "Ennen sua",
+      "url": "https://open.spotify.com/track/0xb7htv9v9ylxcYI1fOLDR"
+    },
+    {
+      "added_at": "2026-06-11 21:00:48",
+      "album": {
         "name": "Sulhanen",
         "url": "https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-06-11 21:00:48",
       "album": {
-        "name": "Takas sun luo",
-        "url": "https://open.spotify.com/album/4c2OE3BKnHjXIbLv5Ovf7E"
-      },
-      "artists": [
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/3dnCKPxNARblPEoOW0Qn6a"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Takas sun luo",
-      "url": "https://open.spotify.com/track/24AvVcuQHJg5EkTwOGqkHk"
-    },
-    {
-      "added_at": "2026-06-11 21:00:48",
-      "album": {
         "name": "Ter\u00e4lehti",
         "url": "https://open.spotify.com/album/27dC1j8a4OPjwgD71idjJr"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 148374,
       "name": "Ter\u00e4lehti",
       "url": "https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ"
+    },
+    {
+      "added_at": "2026-06-11 21:00:48",
+      "album": {
+        "name": "Takas sun luo",
+        "url": "https://open.spotify.com/album/4c2OE3BKnHjXIbLv5Ovf7E"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/3dnCKPxNARblPEoOW0Qn6a"
+        }
+      ],
+      "duration_ms": 168906,
+      "name": "Takas sun luo",
+      "url": "https://open.spotify.com/track/24AvVcuQHJg5EkTwOGqkHk"
     },
     {
       "added_at": "2026-06-11 21:00:48",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-06-11 21:00:48",
       "album": {
+        "name": "en tunne",
+        "url": "https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb"
+      },
+      "artists": [
+        {
+          "name": "Ella Herold",
+          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
+        }
+      ],
+      "duration_ms": 181607,
+      "name": "en tunne",
+      "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
+    },
+    {
+      "added_at": "2026-06-11 21:00:48",
+      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/5lzkzJ8wSkUqUFSpiTgEDc"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2026-06-11 21:00:48",
       "album": {
-        "name": "en tunne",
-        "url": "https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb"
-      },
-      "artists": [
-        {
-          "name": "Ella Herold",
-          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
-        }
-      ],
-      "duration_ms": 181607,
-      "name": "en tunne",
-      "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
-    },
-    {
-      "added_at": "2026-06-11 21:00:48",
-      "album": {
         "name": "Oots\u00e4 n\u00e4hny mua?",
         "url": "https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 176441,
       "name": "10/10",
       "url": "https://open.spotify.com/track/3gOsiQH9yMW41J0btVZQet"
-    },
-    {
-      "added_at": "2026-06-11 21:00:48",
-      "album": {
-        "name": "Santana",
-        "url": "https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT"
-      },
-      "artists": [
-        {
-          "name": "Jenni & Juho",
-          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Santana",
-      "url": "https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR"
     },
     {
       "added_at": "2026-06-11 21:00:48",
@@ -1339,22 +1323,18 @@
     {
       "added_at": "2026-06-11 21:00:48",
       "album": {
-        "name": "Fuck You Money",
-        "url": "https://open.spotify.com/album/5orjnNDI3TXCqAEOM6hN04"
+        "name": "Santana",
+        "url": "https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT"
       },
       "artists": [
         {
-          "name": "KERZA",
-          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
-        },
-        {
-          "name": "william",
-          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+          "name": "Jenni & Juho",
+          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
         }
       ],
-      "duration_ms": 135090,
-      "name": "Fuck You Money",
-      "url": "https://open.spotify.com/track/7LYD0mKrU86HscARAfnlz4"
+      "duration_ms": 172186,
+      "name": "Santana",
+      "url": "https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR"
     },
     {
       "added_at": "2026-06-11 21:00:48",
@@ -1371,6 +1351,26 @@
       "duration_ms": 213666,
       "name": "Min\u00e4 olin t\u00e4\u00e4ll\u00e4",
       "url": "https://open.spotify.com/track/65u2hRy8N3yN9QkYTbbTPu"
+    },
+    {
+      "added_at": "2026-06-11 21:00:48",
+      "album": {
+        "name": "Fuck You Money",
+        "url": "https://open.spotify.com/album/5orjnNDI3TXCqAEOM6hN04"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        },
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        }
+      ],
+      "duration_ms": 135090,
+      "name": "Fuck You Money",
+      "url": "https://open.spotify.com/track/7LYD0mKrU86HscARAfnlz4"
     }
   ],
   "unique_name": "Nousussa",

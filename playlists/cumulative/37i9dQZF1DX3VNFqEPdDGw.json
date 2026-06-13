@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Bhangra is our pride, Bhangra is our culture. Cover: Diljit Dosanjh",
+  "description": "Bhangra is our pride, Bhangra is our culture. Cover: Navaan Sandhu & Param",
   "name": "Bhangra Bangers",
   "tracks": [
     {
@@ -950,7 +950,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 138620,
       "name": "Bachke Ji Bachke (From \"Jawaak\")",
       "url": "https://open.spotify.com/track/4d2oYm0W6scu2k0CkmpSS1"
@@ -1369,6 +1369,28 @@
     },
     {
       "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "Param",
+          "url": "https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Bodyguard",
+      "url": "https://open.spotify.com/track/1bUG6NJpdU7kW3G4BVbAcq"
+    },
+    {
+      "album": {
         "name": "Bacthafu*up",
         "url": "https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u"
       },
@@ -1414,6 +1436,24 @@
       "duration_ms": 146570,
       "name": "Boli Tu Pawe",
       "url": "https://open.spotify.com/track/7BWs7IV2jytym8ziyxWEIR"
+    },
+    {
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167872,
+      "name": "Boozed Up",
+      "url": "https://open.spotify.com/track/1xDf9yVUKJ9P6OeEHvqAR2"
     },
     {
       "album": {
@@ -4800,7 +4840,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 143368,
       "name": "Kali Teri Gutt",
       "url": "https://open.spotify.com/track/2SFDVlG2PlcSn4xpj5iEZ8"

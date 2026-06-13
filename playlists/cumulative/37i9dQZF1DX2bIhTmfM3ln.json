@@ -5347,6 +5347,24 @@
     },
     {
       "album": {
+        "name": "Love Is a Machinery",
+        "url": "https://open.spotify.com/album/2K4Ewhj1JxNbT4WIBStAwC"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163399,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/5SQh95sFBi36dAhTGUV5m6"
+    },
+    {
+      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z"
       },
@@ -18972,24 +18990,6 @@
       "duration_ms": 225144,
       "name": "TOYL (Time Of Your Life)",
       "url": "https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg"
-    },
-    {
-      "album": {
-        "name": "Love Is a Machinery",
-        "url": "https://open.spotify.com/album/2K4Ewhj1JxNbT4WIBStAwC"
-      },
-      "artists": [
-        {
-          "name": "Anendlessocean",
-          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
-        }
-      ],
-      "date_added": "2026-06-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/5SQh95sFBi36dAhTGUV5m6"
     },
     {
       "album": {

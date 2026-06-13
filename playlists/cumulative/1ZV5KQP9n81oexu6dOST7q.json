@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Door Het Oog Van De Nacht",
+        "url": "https://open.spotify.com/album/7BRsfyW9ugAffAfhAo3yim"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174179,
+      "name": "Door Het Oog Van De Nacht",
+      "url": "https://open.spotify.com/track/0uWmcPc7Ie30nyNrsHnTjR"
+    },
+    {
+      "album": {
         "name": "dream about u",
         "url": "https://open.spotify.com/album/0xNICx56CgafxDR8sV6wiq"
       },
@@ -1090,6 +1108,10 @@
         {
           "name": "The Chemical Brothers",
           "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
         }
       ],
       "date_added": "2026-05-06",

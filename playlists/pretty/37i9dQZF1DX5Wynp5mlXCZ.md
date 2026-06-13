@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: NANA SOLIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,272 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,298 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 62 | [Схожі](https://open.spotify.com/track/2sK5Kc4hRLm53oUu1wIsIu) | [Lida Lee](https://open.spotify.com/artist/0YwrOhohoMLyIKD9OvUIuy) | [Схожі](https://open.spotify.com/album/76ID1R9c35UKtIbf78ljbG) | 2:13 |
 | 63 | [Смак\-печаль](https://open.spotify.com/track/6CTjxo3YyfvfJzBXhDN5Yx) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Смак\-печаль](https://open.spotify.com/album/0KgdsfCECyNhkkCkyiuT4k) | 2:28 |
 | 64 | [Закоханий](https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Закоханий](https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb) | 3:48 |
-| 65 | [Ridnym](https://open.spotify.com/track/52IlNxHUoQ3ZZyw9atSGVN) | [Leléka](https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG) | [Ridnym](https://open.spotify.com/album/7dr61EZEcX5C7jaaEyf8zn) | 2:58 |
-| 66 | [Твій аромат](https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Romcom](https://open.spotify.com/album/13ynoeCvmsVqsU5P8BLd9d) | 3:13 |
+| 65 | [Твій аромат](https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Romcom](https://open.spotify.com/album/13ynoeCvmsVqsU5P8BLd9d) | 3:13 |
+| 66 | [Ridnym](https://open.spotify.com/track/52IlNxHUoQ3ZZyw9atSGVN) | [Leléka](https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG) | [Ridnym](https://open.spotify.com/album/7dr61EZEcX5C7jaaEyf8zn) | 2:58 |
 | 67 | [Мила моя](https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Мила моя](https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x) | 2:58 |
 | 68 | [FEEL THE HEAT](https://open.spotify.com/track/4HkPA8phzU3UKJ0QOgVILO) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FEEL THE HEAT](https://open.spotify.com/album/5HnlN0yz05hxOFUgbtnOAT) | 2:27 |
 | 69 | [Людина для мене](https://open.spotify.com/track/62vzgg6Lx13JHk5Lzlhuln) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Людина для мене](https://open.spotify.com/album/4JK6ynAd87SklnVH1P6YpE) | 4:27 |

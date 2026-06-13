@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-237 songs - 11 hr 9 min
+238 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [when you're older](https://open.spotify.com/track/5eFoGE7suEgqgDDaAZiWDc) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [when you're older](https://open.spotify.com/album/4Rt1dnxFH98AwYEraIYbio) | 2:23 | 2024-09-22 |  |
 | [Wildflower](https://open.spotify.com/track/5HEfenabh2FfPUOO4xa89L) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Wildflower](https://open.spotify.com/album/5MX0G9hlDVOUsY6zRDFMq0) | 2:41 | 2024-07-09 |  |
 | [Wish You Would](https://open.spotify.com/track/6OdhRpSKjX46JcDtaOlYoS) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Wish You Would](https://open.spotify.com/album/1VU8aeR5Av7bGxCZXlHwBe) | 2:24 | 2024-07-09 |  |
+| [Would U Still Love Me \(feat\. Cameron Whitcomb\)](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me \(feat\. Cameron Whitcomb\)](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 | 2026-06-12 |  |
 | [wouldn't you agree](https://open.spotify.com/track/09Q5x9qOvt2RJyv2Fepwgv) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [in case you miss me](https://open.spotify.com/album/4f4zlRTu5sG8VM6xdIMw1m) | 3:14 | 2024-07-09 |  |
 | [Yesterday](https://open.spotify.com/track/1vQJGXJpX4vTwmhWgjQDUB) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Yesterday](https://open.spotify.com/album/1eyG6MhcCjpAvbQ8NCHCHj) | 3:11 | 2024-07-09 |  |
 | [You Feel Like](https://open.spotify.com/track/159CffclwSTvynlA0BUlQG) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [You Feel Like](https://open.spotify.com/album/7IOzt3v6MXEkH7Vg0AchvP) | 3:15 | 2024-07-09 | 2024-11-02 |

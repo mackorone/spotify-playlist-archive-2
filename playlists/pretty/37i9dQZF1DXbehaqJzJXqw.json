@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 685652,
+  "num_followers": 685918,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
+        "name": "Miss Kitt To You",
+        "url": "https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Je Cherche Un Homme",
+      "url": "https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
         "name": "Splendor in the Grass",
         "url": "https://open.spotify.com/album/7gZtYR8vztnBIiJYDsmIyF"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 252653,
       "name": "O\u00f9 est ma t\u00eate?",
       "url": "https://open.spotify.com/track/30N6mzmZPQ0fUGW59krTc0"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
-        "name": "Miss Kitt To You",
-        "url": "https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 172333,
-      "name": "Je Cherche Un Homme",
-      "url": "https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
+        "name": "Sous le ciel de Paris",
+        "url": "https://open.spotify.com/album/4GExjXdEO3WjgQnWH7nLKe"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "duration_ms": 194863,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/5nG9avzwlv693nrs10GZXW"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
         "name": "Blossom Dearie (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Sous le ciel de Paris",
-        "url": "https://open.spotify.com/album/4GExjXdEO3WjgQnWH7nLKe"
-      },
-      "artists": [
-        {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
-        }
-      ],
-      "duration_ms": 194863,
-      "name": "Sous le ciel de Paris",
-      "url": "https://open.spotify.com/track/5nG9avzwlv693nrs10GZXW"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Amourettes",
         "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Plus Je T'embrasse",
-      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Merle Noir",
         "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 289413,
       "name": "Menilmontant",
       "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "Plus Je T'embrasse",
+      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
+        "name": "J'ai Deux Amours",
+        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "De Temps en Temps",
+      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
         "name": "No. 8",
         "url": "https://open.spotify.com/album/5wM7VT1oyFSNxd03PW3IfM"
       },
@@ -835,18 +851,18 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "J'ai Deux Amours",
-        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
+        "name": "De La Chanson Et Puis C'Est Tout...",
+        "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
       },
       "artists": [
         {
-          "name": "Jos\u00e9phine Baker",
-          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+          "name": "Makali",
+          "url": "https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO"
         }
       ],
-      "duration_ms": 201013,
-      "name": "De Temps en Temps",
-      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
+      "duration_ms": 150760,
+      "name": "Il Faut Du Temps Au Temps",
+      "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -871,22 +887,6 @@
       "duration_ms": 261093,
       "name": "Mon fant\u00f4me",
       "url": "https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
-        "name": "De La Chanson Et Puis C'Est Tout...",
-        "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
-      },
-      "artists": [
-        {
-          "name": "Makali",
-          "url": "https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO"
-        }
-      ],
-      "duration_ms": 150760,
-      "name": "Il Faut Du Temps Au Temps",
-      "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
-        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "J'ai Deux Amours",
-      "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Les Souvenirs Sous Ma Frange",
         "url": "https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 185133,
       "name": "J'ai 18 Ans",
       "url": "https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
+        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "J'ai Deux Amours",
+      "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "For One to Love",
-        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 374243,
-      "name": "Le Mal de Vivre",
-      "url": "https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "French Songs from France: The French Swinging Troubadour (International French Stars)",
         "url": "https://open.spotify.com/album/3qIK8oFTLL6lETrmOQMAjO"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 186666,
       "name": "Vous qui passez sans me voir",
       "url": "https://open.spotify.com/track/64i5LywVv08H1SJBoYE9S0"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "For One to Love",
+        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 374243,
+      "name": "Le Mal de Vivre",
+      "url": "https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel"
     },
     {
       "added_at": "2026-02-13 08:51:02",

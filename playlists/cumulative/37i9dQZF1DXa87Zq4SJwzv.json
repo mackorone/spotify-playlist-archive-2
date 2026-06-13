@@ -1761,6 +1761,28 @@
     },
     {
       "album": {
+        "name": "Marcri\u00e1",
+        "url": "https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
+        {
+          "name": "El Laberinto del Coco",
+          "url": "https://open.spotify.com/artist/2Xvxlkf21E6JeWIV0lAMMM"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220407,
+      "name": "mariposas en el est\u00f3mago",
+      "url": "https://open.spotify.com/track/5tn1VPSdS9fHnvX58JjBIT"
+    },
+    {
+      "album": {
         "name": "EL ETERNO RETORNO",
         "url": "https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj"
       },
@@ -2026,7 +2048,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 217500,
       "name": "Nada de Nada",
       "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"

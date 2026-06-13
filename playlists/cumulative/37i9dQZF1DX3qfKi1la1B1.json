@@ -3218,7 +3218,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 254291,
       "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
       "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
@@ -4082,7 +4082,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 233782,
       "name": "In A Vice",
       "url": "https://open.spotify.com/track/5vqxnAsK6IdUqwcCyNOmyp"
@@ -5185,6 +5185,24 @@
     },
     {
       "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229475,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
+    },
+    {
+      "album": {
         "name": "Mel Made Me Do It",
         "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
       },
@@ -5254,7 +5272,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 201462,
       "name": "Midlife",
       "url": "https://open.spotify.com/track/0fLMs28eQX76eybdcskUYi"
@@ -7787,6 +7805,28 @@
     },
     {
       "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/5fVUL0aJVlZd0u6PkJR4yE"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Deza",
+          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142926,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/1xX614z6tmeEtKYU9eOyxH"
+    },
+    {
+      "album": {
         "name": "S\u00f8ul\u043ca\u0442e (Remix)",
         "url": "https://open.spotify.com/album/4QQ0DDdSKDh5D0vwdQbMjc"
       },
@@ -8340,7 +8380,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 218189,
       "name": "TIEMPO DEFINIDO POR LA PRESENCIA DE LUZ. - By BERSHKA Music",
       "url": "https://open.spotify.com/track/5vYtUgFicg1tjLBYoDXfqF"

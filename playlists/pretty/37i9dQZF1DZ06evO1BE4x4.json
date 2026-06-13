@@ -1,12 +1,12 @@
 {
   "description": "This is Violent Soho. The essential tracks, all in one playlist.",
-  "num_followers": 6989,
+  "num_followers": 6990,
   "original_name": "This Is Violent Soho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAABaH1ZPbg5KoOii6OVifzsb",
+  "snapshot_id": "ain6gAAAAACz87CSHLZXPyQGPluw+CD3",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighbour Neighbour",
-        "url": "https://open.spotify.com/album/4skF6msX6Vw1U0BbiQYVuF"
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 213626,
-      "name": "Neighbour Neighbour",
-      "url": "https://open.spotify.com/track/25RDhyRdQzU2k7jsgn04h5"
+      "duration_ms": 225858,
+      "name": "Slow Down Sonic",
+      "url": "https://open.spotify.com/track/5hWH1tL8kaEOIuUWPMt7ei"
     },
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Neighbour Neighbour",
+        "url": "https://open.spotify.com/album/4skF6msX6Vw1U0BbiQYVuF"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Neighbour Neighbour",
+      "url": "https://open.spotify.com/track/25RDhyRdQzU2k7jsgn04h5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything Is A-OK",
         "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
       },
@@ -116,25 +132,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 225858,
-      "name": "Slow Down Sonic",
-      "url": "https://open.spotify.com/track/5hWH1tL8kaEOIuUWPMt7ei"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89"
-      },
-      "artists": [
-        {
-          "name": "Violent Soho",
-          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
-        }
-      ],
-      "duration_ms": 234414,
-      "name": "Tinderbox",
-      "url": "https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO"
+      "duration_ms": 203022,
+      "name": "Lying On The Floor",
+      "url": "https://open.spotify.com/track/6Z1M64sIAU2d2NNOEDZlkS"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Is A-OK",
-        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89"
       },
       "artists": [
         {
@@ -180,15 +180,15 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 203022,
-      "name": "Lying On The Floor",
-      "url": "https://open.spotify.com/track/6Z1M64sIAU2d2NNOEDZlkS"
+      "duration_ms": 234414,
+      "name": "Tinderbox",
+      "url": "https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO"
     },
     {
       "added_at": null,
       "album": {
-        "name": "WACO (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1UgKkNTjwpodAXcVjKomnC"
+        "name": "Violent Soho",
+        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 223521,
-      "name": "Lay Me Down - B-Side",
-      "url": "https://open.spotify.com/track/0ZG80WaQJoqPeoHl48knRg"
+      "duration_ms": 196333,
+      "name": "Muscle Junkie",
+      "url": "https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violent Soho",
-        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
+        "name": "WACO (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1UgKkNTjwpodAXcVjKomnC"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 196333,
-      "name": "Muscle Junkie",
-      "url": "https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r"
+      "duration_ms": 223521,
+      "name": "Lay Me Down - B-Side",
+      "url": "https://open.spotify.com/track/0ZG80WaQJoqPeoHl48knRg"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 224495,
-      "name": "Follow Me Here - Demo",
-      "url": "https://open.spotify.com/track/1ukz3bcQKDvEpsrd9ioWKL"
+      "duration_ms": 223240,
+      "name": "Home Haircut",
+      "url": "https://open.spotify.com/track/6TOZ2DXR90uyBn12wG3oGQ"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Home Haircut",
-      "url": "https://open.spotify.com/track/6TOZ2DXR90uyBn12wG3oGQ"
+      "duration_ms": 224495,
+      "name": "Follow Me Here - Demo",
+      "url": "https://open.spotify.com/track/1ukz3bcQKDvEpsrd9ioWKL"
     }
   ],
   "unique_name": "This Is Violent Soho",

@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Baby It's Ok",
+        "url": "https://open.spotify.com/album/41Am8AHJNaKvibkc0VjhTO"
+      },
+      "artists": [
+        {
+          "name": "Julia Sandstorm",
+          "url": "https://open.spotify.com/artist/1TI4FT4B9A2viw05OLhMpm"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286581,
+      "name": "Baby It's Ok",
+      "url": "https://open.spotify.com/track/0QeeLXQcpdj55gTu1X6JqR"
+    },
+    {
+      "album": {
         "name": "Baby, We're Ascending",
         "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
       },
@@ -2114,6 +2132,28 @@
       "duration_ms": 173777,
       "name": "Campe\u00f3n",
       "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
+    },
+    {
+      "album": {
+        "name": "can u",
+        "url": "https://open.spotify.com/album/65kcVULmMMzVhDzofQoXYl"
+      },
+      "artists": [
+        {
+          "name": "u.r.trax",
+          "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188058,
+      "name": "can u",
+      "url": "https://open.spotify.com/track/5iCXqur9teq7a996Zjw8CE"
     },
     {
       "album": {
@@ -8173,6 +8213,24 @@
     },
     {
       "album": {
+        "name": "Rave Kid EP",
+        "url": "https://open.spotify.com/album/62kW3kk96aliqD1B9bpWJ1"
+      },
+      "artists": [
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "LaLaLo",
+      "url": "https://open.spotify.com/track/1bZNXnAUa5lhXrh1cGnR9F"
+    },
+    {
+      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/2JwrSr2KjW2qOYjyH7NHZD"
       },
@@ -9538,7 +9596,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 252491,
       "name": "Mount Etna",
       "url": "https://open.spotify.com/track/046eKaS966Mk6qjmDmmOgz"
@@ -10588,7 +10646,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 202525,
       "name": "only the best",
       "url": "https://open.spotify.com/track/6tf107l5fbVJK19RFKG1zW"
@@ -11262,6 +11320,24 @@
       "duration_ms": 248769,
       "name": "pulse",
       "url": "https://open.spotify.com/track/1qR9THLRIMLxY22bz6Q0a2"
+    },
+    {
+      "album": {
+        "name": "Punish Me",
+        "url": "https://open.spotify.com/album/2wuGM1HI3E9tosFOriDHZw"
+      },
+      "artists": [
+        {
+          "name": "Eden Samara",
+          "url": "https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219880,
+      "name": "Punish Me",
+      "url": "https://open.spotify.com/track/1BHqIzE2Q8zWpJ7EUAKwbD"
     },
     {
       "album": {
@@ -12818,7 +12894,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 204507,
       "name": "Some Kinda Heaven",
       "url": "https://open.spotify.com/track/6nlH3iGFED7iT2HYGVksCV"
@@ -13842,7 +13918,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 325843,
       "name": "Texas Changing",
       "url": "https://open.spotify.com/track/3ZesyGLfqTx3AxWxbWlxOC"

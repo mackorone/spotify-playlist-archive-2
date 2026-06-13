@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [9 tot 5](https://open.spotify.com/track/0tUZPEifyYlDfqH0MrvCnh) | [Raymzter](https://open.spotify.com/artist/5ZntjOpn1ADiQnLx3W9Eja) | [Rayalistisch \(Reissue\)](https://open.spotify.com/album/7vrpUK5hOOuI2y1jSGuaVq) | 4:03 | 2024-09-09 | 2026-05-15 |
+| [9 tot 5](https://open.spotify.com/track/0tUZPEifyYlDfqH0MrvCnh) | [Raymzter](https://open.spotify.com/artist/5ZntjOpn1ADiQnLx3W9Eja) | [Rayalistisch \(Reissue\)](https://open.spotify.com/album/7vrpUK5hOOuI2y1jSGuaVq) | 4:03 | 2024-09-09 |  |
 | [Algemeen Beskaafd Nederlanz](https://open.spotify.com/track/40GmG8Co0NUx1TEoTTXGTL) | [Def P](https://open.spotify.com/artist/4HNUxIxhI9WqhksWEbgkDV), [ABN](https://open.spotify.com/artist/6jCyFDEZb6Fep4FNiDVLi9) | [Algemeen Beskaafd Nederlanz](https://open.spotify.com/album/7C2SA1EWbV9nNSneLx4eiU) | 3:49 | 2024-09-09 |  |
 | [Alleen](https://open.spotify.com/track/1RClBEEVn5SqHFM8gsyoXL) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Fresku](https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW) | 3:49 | 2024-09-09 |  |
 | [Als Zij Langsloopt](https://open.spotify.com/track/4SoDQVbhz2VRRNfgGm3HbR) | [Flinke Namen](https://open.spotify.com/artist/1pl6zHy7TssEvPr4d6hMgK) | [Superstuntwerk](https://open.spotify.com/album/0wSDzGeN8VmYNV4zqpVBjE) | 3:39 | 2024-09-09 |  |
@@ -25,7 +25,7 @@
 | [Buiten West](https://open.spotify.com/track/6AIp4pG2ngu3CV8K69B40E) | [Kubus](https://open.spotify.com/artist/7cL6ZaJzLj5pFUF5iQbzDz) | [Buiten Westen](https://open.spotify.com/album/2hVxejRtyWEtdiAUbCtw57) | 4:06 | 2024-09-09 |  |
 | [Buschauffeur](https://open.spotify.com/track/3N1qohiQ5xPgoYg9m0McId) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Du Zoon](https://open.spotify.com/album/3Ud6DOZSPYKFqxMPWjzvKU) | 2:59 | 2024-09-09 |  |
 | [Check Out Melodee](https://open.spotify.com/track/21gViv0Q8K2CimHjVfCxhm) | [Mc Melodee](https://open.spotify.com/artist/0JlylEmvQDSl60PLkYe9r8) | [Check Out Melodee](https://open.spotify.com/album/6tlAcJ78PqBy6RRcuOqL5v) | 3:20 | 2024-09-09 |  |
-| [Classic](https://open.spotify.com/track/4CKgIyQKXXIo0qe9S19Rwu) | [VSOP](https://open.spotify.com/artist/0FTjNsMaGK9WXiBRjE3MgW) | [Huiswerk](https://open.spotify.com/album/6IlAcNdMHQbPbNGgVMXnr5) | 3:30 | 2024-09-09 |  |
+| [Classic](https://open.spotify.com/track/4CKgIyQKXXIo0qe9S19Rwu) | [VSOP](https://open.spotify.com/artist/0FTjNsMaGK9WXiBRjE3MgW) | [Huiswerk](https://open.spotify.com/album/6IlAcNdMHQbPbNGgVMXnr5) | 3:30 | 2024-09-09 | 2026-06-13 |
 | [Cocktail](https://open.spotify.com/track/5nPgvhN5bUJcJUpVDtSrzn) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 4:28 | 2024-09-09 |  |
 | [Colucci](https://open.spotify.com/track/6nUZPNbKCePGt0MdjwiTqE) | [Fakkelbrigade](https://open.spotify.com/artist/3NGONi5kwXaIZBCfZOqS1r) | [Colucci Era \(Standard version\)](https://open.spotify.com/album/2X2AKav7dnZkuIj2h0CzM0) | 4:07 | 2024-09-09 |  |
 | [Crisis](https://open.spotify.com/track/56wQYS4UHiYxK3Z1zLfdmp) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 4:14 | 2024-09-09 |  |

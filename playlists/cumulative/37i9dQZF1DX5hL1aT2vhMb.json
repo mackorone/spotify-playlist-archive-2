@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrate the great women composers and classical performers who continue to transform the classical world. Cover: Anastasia Kobekina",
+  "description": "Celebrate the great women composers and classical performers who continue to transform the classical world. Cover: Sueye Park",
   "name": "Women of Classical",
   "tracks": [
     {
@@ -94,6 +94,32 @@
       "duration_ms": 310344,
       "name": "3 Liebestr\u00e4ume, S. 541/3: No. 3, O lieb, so lang du lieben kannst (Arr. for Harp by Nora von Marschall)",
       "url": "https://open.spotify.com/track/4IsoCqXixbkRFLnIv0K2WY"
+    },
+    {
+      "album": {
+        "name": "55",
+        "url": "https://open.spotify.com/album/4KnznliHHsRg52UntDVSmW"
+      },
+      "artists": [
+        {
+          "name": "Fanny Mendelssohn",
+          "url": "https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100600,
+      "name": "3 M\u00e9lodies, Op. 4: No. 2 Allegretto",
+      "url": "https://open.spotify.com/track/5ADzcXWrEXZ2hBzSiKz7PH"
     },
     {
       "album": {
@@ -2209,6 +2235,32 @@
     },
     {
       "album": {
+        "name": "Imogen Holst: Interlude (from: The Unfortunate Traveller)",
+        "url": "https://open.spotify.com/album/7yVBwXfkCI8etZn02wLVNU"
+      },
+      "artists": [
+        {
+          "name": "Imogen Holst",
+          "url": "https://open.spotify.com/artist/3zslOkHVsOHJzOqBiFGaNp"
+        },
+        {
+          "name": "S\u00fcdwestdeutsches Kammerorchester Pforzheim",
+          "url": "https://open.spotify.com/artist/4rc1nxbzNmD80AuHQvZv9K"
+        },
+        {
+          "name": "Douglas Bostock",
+          "url": "https://open.spotify.com/artist/6FmaORLrKkv4EgbiX7eLXR"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254524,
+      "name": "III. Interlude. Quasi lento",
+      "url": "https://open.spotify.com/track/4LmsCGzs7hK1RGozzK2omJ"
+    },
+    {
+      "album": {
         "name": "Sonic Apothecary",
         "url": "https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb"
       },
@@ -2442,6 +2494,28 @@
       "duration_ms": 238013,
       "name": "La Veilleuse \u00e9teinte",
       "url": "https://open.spotify.com/track/25H96AGffqXNmswbpBgvBc"
+    },
+    {
+      "album": {
+        "name": "Farrenc: Complete Piano Works, Vol. 4 \u2013 Theme & Variations, Pt. 2",
+        "url": "https://open.spotify.com/album/6EVgPiRviL0XaglUoK63E9"
+      },
+      "artists": [
+        {
+          "name": "Louise Farrenc",
+          "url": "https://open.spotify.com/artist/3cCP79U05k4MrNSU06eBy2"
+        },
+        {
+          "name": "Maria Stratigou",
+          "url": "https://open.spotify.com/artist/6JkvSsskikw0WynHmAVR0h"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404786,
+      "name": "Les allemandes, Op. 16: No. 2, Air de Weigl",
+      "url": "https://open.spotify.com/track/42qlHk3JG8DNbMm7bvgeuq"
     },
     {
       "album": {
@@ -3741,6 +3815,28 @@
     },
     {
       "album": {
+        "name": "Seal Lullaby",
+        "url": "https://open.spotify.com/album/07LsRX47nlG7MKz7DLNSWY"
+      },
+      "artists": [
+        {
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257697,
+      "name": "Seal Lullaby",
+      "url": "https://open.spotify.com/track/27ON1ewRutcn4K1GDNRr3J"
+    },
+    {
+      "album": {
         "name": "Obiedov, Y.: Songs and Dances of Latin America / Gubaidulina, S.: Serenade / Pettoletti, P.: Cachucha",
         "url": "https://open.spotify.com/album/0YTzxFOUk52AXyCFphbvKn"
       },
@@ -4116,6 +4212,58 @@
       "duration_ms": 147040,
       "name": "String Quartet: I. Modere",
       "url": "https://open.spotify.com/track/2Cc5z5swQrDqZiyCkZ0TnF"
+    },
+    {
+      "album": {
+        "name": "Mel Bonis: Orchestral Works",
+        "url": "https://open.spotify.com/album/1YtKG9UqnDJTYJu0mC3RM4"
+      },
+      "artists": [
+        {
+          "name": "Mel Bonis",
+          "url": "https://open.spotify.com/artist/1LauM5YBWB1nIe6KRwKNdG"
+        },
+        {
+          "name": "BBC Scottish Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1"
+        },
+        {
+          "name": "Rumon Gamba",
+          "url": "https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130973,
+      "name": "Suite en forme de valses: I. Ballabile, Op. 35/3",
+      "url": "https://open.spotify.com/track/7EPrbsVZoDqkeCH6JOEgvD"
+    },
+    {
+      "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/76TQC6OM5ZdDQmZax67im2"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+        },
+        {
+          "name": "Baroklyn",
+          "url": "https://open.spotify.com/artist/51zpfywOdZyOiRCEYwDtL0"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 676893,
+      "name": "Suite from \"The Hours\": I. - Arr. for Piano, Strings, Harp and Celesta by Michael Riesman",
+      "url": "https://open.spotify.com/track/3E0DECU1LE0Ra3l3S824rf"
     },
     {
       "album": {
@@ -4836,6 +4984,36 @@
       "duration_ms": 440480,
       "name": "Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
       "url": "https://open.spotify.com/track/5Gw9lOJiOI929YVgK7iIwD"
+    },
+    {
+      "album": {
+        "name": "Goldmark: Violin Concerto, Op. 28: II. Air. Andante",
+        "url": "https://open.spotify.com/album/1A9qVHfTriVaz9biThguhM"
+      },
+      "artists": [
+        {
+          "name": "Karl Goldmark",
+          "url": "https://open.spotify.com/artist/0Pz79wagKnssEZImEgGGFv"
+        },
+        {
+          "name": "Sueye Park",
+          "url": "https://open.spotify.com/artist/2D6ypd3eg6GJ7rX7s5vlVc"
+        },
+        {
+          "name": "Rundfunk-Sinfonieorchester Berlin",
+          "url": "https://open.spotify.com/artist/15QTSK7NBFJawaoxQALt9s"
+        },
+        {
+          "name": "Valentin Egel",
+          "url": "https://open.spotify.com/artist/3E57oYobThdSysOGNtNYDq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421813,
+      "name": "Violin Concerto, Op. 28: II. Air. Andante",
+      "url": "https://open.spotify.com/track/0BrzyCDkeyDyQQfhsvEm1x"
     },
     {
       "album": {

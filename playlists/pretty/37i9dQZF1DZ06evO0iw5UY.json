@@ -1,33 +1,13 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 28186,
+  "num_followers": 28184,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAADCdKXgjBWYf1Ezcnl+8OCZ",
+  "snapshot_id": "ain6gAAAAABOkct5ulE2dV7UC+LN9Cwx",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal (SATOSHI Remix)",
-        "url": "https://open.spotify.com/album/0198aXZconibXvFhUMXx3x"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "SATOSHI",
-          "url": "https://open.spotify.com/artist/0B2e9vm885JoBB8MoGRUj9"
-        }
-      ],
-      "duration_ms": 183171,
-      "name": "Eternal - SATOSHI Remix",
-      "url": "https://open.spotify.com/track/47vBxe76ulueekDAfPnMhF"
-    },
     {
       "added_at": null,
       "album": {
@@ -219,6 +199,26 @@
       "duration_ms": 211693,
       "name": "Enjoy the Ride",
       "url": "https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal (SATOSHI Remix)",
+        "url": "https://open.spotify.com/album/0198aXZconibXvFhUMXx3x"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "SATOSHI",
+          "url": "https://open.spotify.com/artist/0B2e9vm885JoBB8MoGRUj9"
+        }
+      ],
+      "duration_ms": 183171,
+      "name": "Eternal - SATOSHI Remix",
+      "url": "https://open.spotify.com/track/47vBxe76ulueekDAfPnMhF"
     },
     {
       "added_at": null,
@@ -455,38 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Surrender The Throne",
-      "url": "https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Come & Get It",
-      "url": "https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/3PYnxj0fUKzJrhtZXiOf78"
       },
@@ -511,6 +479,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Come & Get It",
+      "url": "https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Surrender The Throne",
+      "url": "https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "zer0",
         "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
@@ -523,46 +523,6 @@
       "duration_ms": 186965,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New World",
-        "url": "https://open.spotify.com/album/17eQ3uApRVcrHR14M3RZcK"
-      },
-      "artists": [
-        {
-          "name": "VAVA",
-          "url": "https://open.spotify.com/artist/1apmSb6aeHZyr9zUsy1Z9q"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 162030,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/6VuVNvS6HjNRFLSX8yP3YX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "Killin' It",
-      "url": "https://open.spotify.com/track/4KraKuKPaSgHLZaqBRJNHc"
     },
     {
       "added_at": null,
@@ -587,6 +547,46 @@
       "duration_ms": 177499,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/5CwSEAyM1cQG2uV1XTHn34"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "Killin' It",
+      "url": "https://open.spotify.com/track/4KraKuKPaSgHLZaqBRJNHc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/17eQ3uApRVcrHR14M3RZcK"
+      },
+      "artists": [
+        {
+          "name": "VAVA",
+          "url": "https://open.spotify.com/artist/1apmSb6aeHZyr9zUsy1Z9q"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 162030,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/6VuVNvS6HjNRFLSX8yP3YX"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "dead af",
-        "url": "https://open.spotify.com/album/74cbGl9GHBaRM8yHO4Tt1Q"
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 208000,
-      "name": "dead af",
-      "url": "https://open.spotify.com/track/1UKiY1fpnB1G1nPW6ilHhw"
+      "duration_ms": 227368,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/22NGk2oktlQtKoiHiEXt6r"
     },
     {
       "added_at": null,
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "dead af",
+        "url": "https://open.spotify.com/album/74cbGl9GHBaRM8yHO4Tt1Q"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "dead af",
+      "url": "https://open.spotify.com/track/1UKiY1fpnB1G1nPW6ilHhw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Krewella (Hits Japan Special Edition)",
         "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 214453,
       "name": "Party Monster",
       "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Liar",
-        "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/22NGk2oktlQtKoiHiEXt6r"
     },
     {
       "added_at": null,

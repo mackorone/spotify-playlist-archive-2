@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190703,
+  "num_followers": 190691,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 275686,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
         "name": "Always The Same (feat. St. Vincent)",
         "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 256875,
       "name": "Always The Same (feat. St. Vincent)",
       "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 275686,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Arrow, Four",
-        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
-      },
-      "artists": [
-        {
-          "name": "Bobbi Lu",
-          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
-        }
-      ],
-      "duration_ms": 215078,
-      "name": "Vacuum",
-      "url": "https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Pelechian 2",
         "url": "https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 307706,
       "name": "Pelechian 2",
       "url": "https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Arrow, Four",
+        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Lu",
+          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
+        }
+      ],
+      "duration_ms": 215078,
+      "name": "Vacuum",
+      "url": "https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -583,18 +583,18 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6"
+        "name": "Bright Belief",
+        "url": "https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD"
       },
       "artists": [
         {
-          "name": "Ciska Ciska",
-          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
         }
       ],
-      "duration_ms": 204047,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf"
+      "duration_ms": 282000,
+      "name": "Bright Belief",
+      "url": "https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -623,18 +623,18 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Bright Belief",
-        "url": "https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6"
       },
       "artists": [
         {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Bright Belief",
-      "url": "https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw"
+      "duration_ms": 204047,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Mr. Beckett",
-        "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
-      },
-      "artists": [
-        {
-          "name": "Agn\u00e8s Botty",
-          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "Mr. Beckett",
-      "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
-        "name": "Truth Is We'll Never Know",
-        "url": "https://open.spotify.com/album/5UHNWSiKJQn3KS9XM9DHX3"
-      },
-      "artists": [
-        {
-          "name": "Gildor",
-          "url": "https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU"
-        }
-      ],
-      "duration_ms": 306766,
-      "name": "Garden of Eden (In Memory Of Guus-Jan Lieberwerth)",
-      "url": "https://open.spotify.com/track/4SnQhzOyj4POLPq8HCBs5B"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Dragon's Eyes",
         "url": "https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs"
       },
@@ -1087,6 +1055,38 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
+        "name": "Mr. Beckett",
+        "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
+      },
+      "artists": [
+        {
+          "name": "Agn\u00e8s Botty",
+          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "Mr. Beckett",
+      "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Truth Is We'll Never Know",
+        "url": "https://open.spotify.com/album/5UHNWSiKJQn3KS9XM9DHX3"
+      },
+      "artists": [
+        {
+          "name": "Gildor",
+          "url": "https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU"
+        }
+      ],
+      "duration_ms": 306766,
+      "name": "Garden of Eden (In Memory Of Guus-Jan Lieberwerth)",
+      "url": "https://open.spotify.com/track/4SnQhzOyj4POLPq8HCBs5B"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
         "name": "Bleeding Colours",
         "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/2NgybCTiLpld17LTGcDymR"
-      },
-      "artists": [
-        {
-          "name": "RAMAN.",
-          "url": "https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/0QlMBEVCrI1fwarVSG2mO1"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "BB II",
         "url": "https://open.spotify.com/album/2JlAPW0XsIVE5zh4JaBws3"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 203374,
       "name": "BB II",
       "url": "https://open.spotify.com/track/08G9r5z6KrPw1UgTTGoC7K"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/2NgybCTiLpld17LTGcDymR"
+      },
+      "artists": [
+        {
+          "name": "RAMAN.",
+          "url": "https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/0QlMBEVCrI1fwarVSG2mO1"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
+        "name": "Time Drifts",
+        "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
+      },
+      "artists": [
+        {
+          "name": "I Am Oak",
+          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
+        }
+      ],
+      "duration_ms": 237635,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 308293,
       "name": "Boat",
       "url": "https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
-        "name": "Time Drifts",
-        "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
-      },
-      "artists": [
-        {
-          "name": "I Am Oak",
-          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
-        }
-      ],
-      "duration_ms": 237635,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "More Than Enough",
-        "url": "https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34"
-      },
-      "artists": [
-        {
-          "name": "Lisette",
-          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
-        }
-      ],
-      "duration_ms": 196821,
-      "name": "More Than Enough",
-      "url": "https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 209237,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "More Than Enough",
+        "url": "https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34"
+      },
+      "artists": [
+        {
+          "name": "Lisette",
+          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
+        }
+      ],
+      "duration_ms": 196821,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
-      },
-      "artists": [
-        {
-          "name": "Prize Collect",
-          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
-        }
-      ],
-      "duration_ms": 184715,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Kaleidoscope Eyes",
         "url": "https://open.spotify.com/album/7MqL14X34ldt6xyXNj7637"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 238542,
       "name": "Kaleidoscope Eyes",
       "url": "https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
+      },
+      "artists": [
+        {
+          "name": "Prize Collect",
+          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
+        }
+      ],
+      "duration_ms": 184715,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
     },
     {
       "added_at": "2026-05-26 22:00:43",

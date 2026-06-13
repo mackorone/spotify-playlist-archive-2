@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 325354,
+  "num_followers": 325360,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-06-11 23:00:13",
       "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Levels - Radio Edit",
+      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
+    },
+    {
+      "added_at": "2026-06-11 23:00:13",
+      "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3XzlRX9BQTzU97GFnorCE7"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA"
-    },
-    {
-      "added_at": "2026-06-11 23:00:13",
-      "album": {
-        "name": "Levels",
-        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Levels - Radio Edit",
-      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
     },
     {
       "added_at": "2026-06-11 23:00:13",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-06-11 23:00:13",
       "album": {
-        "name": "Before the Storm, Special Edition",
-        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
-      },
-      "artists": [
-        {
-          "name": "Darude",
-          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Sandstorm",
-      "url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5"
-    },
-    {
-      "added_at": "2026-06-11 23:00:13",
-      "album": {
         "name": "My Love (2024)",
         "url": "https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3"
       },
@@ -763,6 +747,38 @@
     {
       "added_at": "2026-06-11 23:00:13",
       "album": {
+        "name": "Before the Storm, Special Edition",
+        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
+      },
+      "artists": [
+        {
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Sandstorm",
+      "url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5"
+    },
+    {
+      "added_at": "2026-06-11 23:00:13",
+      "album": {
+        "name": "Seratonin",
+        "url": "https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 115652,
+      "name": "Seratonin",
+      "url": "https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C"
+    },
+    {
+      "added_at": "2026-06-11 23:00:13",
+      "album": {
         "name": "Can't Decide",
         "url": "https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 175384,
       "name": "Can't Decide",
       "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
-    },
-    {
-      "added_at": "2026-06-11 23:00:13",
-      "album": {
-        "name": "Seratonin",
-        "url": "https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 115652,
-      "name": "Seratonin",
-      "url": "https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C"
     },
     {
       "added_at": "2026-06-11 23:00:13",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2026-06-11 23:00:13",
       "album": {
-        "name": "R 2 ME",
-        "url": "https://open.spotify.com/album/3IrJQH8ohnkiOHq0C2BcJN"
-      },
-      "artists": [
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        },
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "R 2 ME",
-      "url": "https://open.spotify.com/track/0eFqPUbuiobmOEiotEFxGy"
-    },
-    {
-      "added_at": "2026-06-11 23:00:13",
-      "album": {
         "name": "Good Love",
         "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
       },
@@ -1171,6 +1151,26 @@
     {
       "added_at": "2026-06-11 23:00:13",
       "album": {
+        "name": "R 2 ME",
+        "url": "https://open.spotify.com/album/3IrJQH8ohnkiOHq0C2BcJN"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "R 2 ME",
+      "url": "https://open.spotify.com/track/0eFqPUbuiobmOEiotEFxGy"
+    },
+    {
+      "added_at": "2026-06-11 23:00:13",
+      "album": {
         "name": "Appetite",
         "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 227272,
       "name": "Appetite",
       "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
+    },
+    {
+      "added_at": "2026-06-11 23:00:13",
+      "album": {
+        "name": "Pjanoo",
+        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 157432,
+      "name": "Pjanoo - Radio Edit",
+      "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
     },
     {
       "added_at": "2026-06-11 23:00:13",
@@ -1203,22 +1219,6 @@
       "duration_ms": 256901,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
-    },
-    {
-      "added_at": "2026-06-11 23:00:13",
-      "album": {
-        "name": "Pjanoo",
-        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 157432,
-      "name": "Pjanoo - Radio Edit",
-      "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
     },
     {
       "added_at": "2026-06-11 23:00:13",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2026-06-11 23:00:13",
       "album": {
-        "name": "Here In Your Arms",
-        "url": "https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Abi Flynn",
-          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
-        }
-      ],
-      "duration_ms": 152561,
-      "name": "Here In Your Arms",
-      "url": "https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx"
-    },
-    {
-      "added_at": "2026-06-11 23:00:13",
-      "album": {
         "name": "Leave A Message (feat. Poppy Wright & Trick Shady)",
         "url": "https://open.spotify.com/album/2wyxDi2v4RwUsJifLQx75r"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 187965,
       "name": "Leave A Message (feat. Poppy Wright & Trick Shady)",
       "url": "https://open.spotify.com/track/6pMfUwTWJfhnqfjW020rNH"
+    },
+    {
+      "added_at": "2026-06-11 23:00:13",
+      "album": {
+        "name": "Here In Your Arms",
+        "url": "https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "duration_ms": 152561,
+      "name": "Here In Your Arms",
+      "url": "https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx"
     },
     {
       "added_at": "2026-06-11 23:00:13",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2026-06-11 23:00:13",
       "album": {
-        "name": "On A Wave",
-        "url": "https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK"
-      },
-      "artists": [
-        {
-          "name": "East End Dubs",
-          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "On A Wave",
-      "url": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6"
-    },
-    {
-      "added_at": "2026-06-11 23:00:13",
-      "album": {
         "name": "Damager",
         "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 224591,
       "name": "Damager",
       "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
+    },
+    {
+      "added_at": "2026-06-11 23:00:13",
+      "album": {
+        "name": "On A Wave",
+        "url": "https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK"
+      },
+      "artists": [
+        {
+          "name": "East End Dubs",
+          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "On A Wave",
+      "url": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6"
     },
     {
       "added_at": "2026-06-11 23:00:13",

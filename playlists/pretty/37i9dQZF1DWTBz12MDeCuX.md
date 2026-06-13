@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: YBRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,486 likes - 99 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,429 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 21 | [fav lovesong :\)](https://open.spotify.com/track/3G5YlG6ILmtQKznnPKziBQ) | [CARAMELLA](https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ), [YDRA](https://open.spotify.com/artist/6AEAVlgzkJWaHO9nOGA91T) | [fav lovesong :\)](https://open.spotify.com/album/6dHA62ZH223JKFNXz7NWic) | 2:39 |
 | 22 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
 | 23 | [lieblingsmensch.](https://open.spotify.com/track/6KdnCUI9aw8QN6WO6zKQ4O) | [IBRA](https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb) | [lieblingsmensch.](https://open.spotify.com/album/46JdATR49sI6FNKyKIY3IR) | 2:21 |
-| 24 | [lichter aus](https://open.spotify.com/track/520UQoBkZ0PflLhFa7hKFa) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [lichter aus](https://open.spotify.com/album/5t3WKWE6rb1ZP0ztXgjatz) | 2:41 |
+| 24 | [lichter aus](https://open.spotify.com/track/520UQoBkZ0PflLhFa7hKFa) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [lichter aus](https://open.spotify.com/album/5t3WKWE6rb1ZP0ztXgjatz) | 2:41 |
 | 25 | [Endlos](https://open.spotify.com/track/7wkLavipEtUm5ib2GjseUw) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [The Cratez](https://open.spotify.com/artist/6ZA8p8sy5EJNH168vpFw8m) | [Endlos](https://open.spotify.com/album/0ZspwgKGDfteMjxAT8u30P) | 1:45 |
 | 26 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
 | 27 | [AWGAZI](https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl) | [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G), [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP) | [AWGAZI](https://open.spotify.com/album/17KKeHngp4vbAYAMRRgVSW) | 2:46 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 63 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
 | 64 | [Sommerregen \(Nimm meine Hand\)](https://open.spotify.com/track/17qpIQNRNWWeOQm6VwT6SN) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [KushTekK](https://open.spotify.com/artist/17lK1LyA0KGd5r41OOE2d0) | [Sommerregen \(Nimm meine Hand\)](https://open.spotify.com/album/26kjrd1kjAaPl7bKlnE3q2) | 3:02 |
 | 65 | [Sensa](https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Sensa](https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW) | 2:02 |
-| 66 | [Go](https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Born In The Echoes](https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6) | 4:20 |
+| 66 | [Go](https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Born In The Echoes](https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6) | 4:20 |
 | 67 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
 | 68 | [ciao bb](https://open.spotify.com/track/5gbcw4QBRYTa2k84kEFHiA) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [ciao bb](https://open.spotify.com/album/6KUjT3Z3we8zDTrZwebRcP) | 2:21 |
 | 69 | [Zu jung](https://open.spotify.com/track/1x5kr8H7AW5lgAUvGUfYOj) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Zu jung](https://open.spotify.com/album/1Ccqpe7T8ZPHKD7DNwNobI) | 2:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 
 > This is Dave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,088 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,136 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 6 | [Law Of Attraction \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/6Rz9To4o1UlycFUIhj3WwK) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:01 |
 | 7 | [Starlight](https://open.spotify.com/track/3ixYkZI6rGk3ktisaIQrh0) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/6ckPKdfC3EWCy9XRHUWLAT) | 3:31 |
 | 8 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 |
-| 9 | [Doesn't Just Happen](https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 3:17 |
-| 10 | [The Boy Who Played the Harp](https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 4:37 |
+| 9 | [The Boy Who Played the Harp](https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 4:37 |
+| 10 | [Doesn't Just Happen](https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 3:17 |
 | 11 | [Verdansk](https://open.spotify.com/track/3AEOrh7zWjV2rVS1yOd41q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:02 |
 | 12 | [UK Rap](https://open.spotify.com/track/5d01AUplB1QOZY3kPrAuot) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH) | 3:18 |
 | 13 | [Titanium](https://open.spotify.com/track/52eK8eMaxpJuGaLwE8QAjh) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Titanium & Mercury](https://open.spotify.com/album/1JFnSZYrevjvTv4lXpddpr) | 2:07 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 40 | [Nothing On You \(feat\. Paulo Londra & Dave\)](https://open.spotify.com/track/2qRN7PWiHRLprw4FpDeI9N) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:20 |
 | 41 | [How I Met My Ex](https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 7:25 |
 | 42 | [Disaster \(feat\. J Hus\)](https://open.spotify.com/track/4icut3XOowTQhcT9ov3xTm) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 4:00 |
-| 43 | [Tequila](https://open.spotify.com/track/6ctmWJntoQg4n8cZEQqCjA) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Tequila](https://open.spotify.com/album/4sANgPN5QxueFQmfIxGZi0) | 3:16 |
-| 44 | [Venting](https://open.spotify.com/track/0no5A5TF0u0k8HIf3ianXs) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Crop Circle](https://open.spotify.com/album/4375umzAIqqlWI49eue7Na) | 2:21 |
+| 43 | [Venting](https://open.spotify.com/track/0no5A5TF0u0k8HIf3ianXs) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Crop Circle](https://open.spotify.com/album/4375umzAIqqlWI49eue7Na) | 2:21 |
+| 44 | [Tequila](https://open.spotify.com/track/6ctmWJntoQg4n8cZEQqCjA) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Tequila](https://open.spotify.com/album/4sANgPN5QxueFQmfIxGZi0) | 3:16 |
 | 45 | [Peligro](https://open.spotify.com/track/1xcmgMoE4taNJLjRgzEljb) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Wamp 2 Dem](https://open.spotify.com/album/7C1MfzZy2I988m1dIEzV6o) | 4:20 |
 | 46 | [Children Of The Internet \- Ezra Collective Remix](https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Es Devlin](https://open.spotify.com/artist/2zBduxEdOsDLDT5Fk0wTut) | [Children Of The Internet \(Remixes\)](https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww) | 5:53 |
 | 47 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 49 | [Money Talks \(feat\. Dave\)](https://open.spotify.com/track/6nvbfM5pVDXHNEHiZwpjkl) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Money Talks \(feat\. Dave\)](https://open.spotify.com/album/2RPxUxIORttdHmF32D4A4O) | 4:33 |
 | 50 | [Mercury](https://open.spotify.com/track/1kVdMi8bWDhjp6NCf7s712) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [Titanium & Mercury](https://open.spotify.com/album/1JFnSZYrevjvTv4lXpddpr) | 5:23 |
 
-Snapshot ID: `aiipAAAAAABmh+IYQyhaOWyaFoGFwsJz`
+Snapshot ID: `ain6gAAAAADh9oL8uzlhKI5EemI9hs9X`

@@ -15290,7 +15290,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 129220,
       "name": "blue light",
       "url": "https://open.spotify.com/track/5YCNzsaBka57owQo0zrYLX"
@@ -31486,7 +31486,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 143684,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/70RuTWAGVEBmunArRbKdzm"
@@ -36724,7 +36724,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 98500,
       "name": "Drizzle",
       "url": "https://open.spotify.com/track/4PZ8Fe2fuS7MDn8f8ggnSC"
@@ -63876,6 +63876,28 @@
     {
       "album": {
         "name": "Iris",
+        "url": "https://open.spotify.com/album/3aDt6RwGOVBoSfoeQm3NYu"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/7LF4JQB1UHjcKJOe4JlJAi"
+    },
+    {
+      "album": {
+        "name": "Iris",
         "url": "https://open.spotify.com/album/35E9f2qQSTr4Z7w7PnFDeP"
       },
       "artists": [
@@ -89255,6 +89277,28 @@
     },
     {
       "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/2HbYKELkKcUN7yFi70YE3y"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130588,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/2tdQyprStjZEbzPO9gSAHm"
+    },
+    {
+      "album": {
         "name": "New Love",
         "url": "https://open.spotify.com/album/2IaTMccbcJTBSeGhXucG2g"
       },
@@ -91088,7 +91132,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 134145,
       "name": "no ones around me",
       "url": "https://open.spotify.com/track/5Bfeylck7OB5c254v58G5D"
@@ -104217,6 +104261,28 @@
     },
     {
       "album": {
+        "name": "Quiet Days",
+        "url": "https://open.spotify.com/album/71UdUhmd2VJ9gA7hfM7NF2"
+      },
+      "artists": [
+        {
+          "name": "SunShun",
+          "url": "https://open.spotify.com/artist/39lo8UU0LRMGTcHzmqMK9p"
+        },
+        {
+          "name": "mellow days",
+          "url": "https://open.spotify.com/artist/65tiERODhjgPvUNJg8PE3h"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109000,
+      "name": "Quiet Days",
+      "url": "https://open.spotify.com/track/2hTmVvP1LNcfqPp15kUTVA"
+    },
+    {
+      "album": {
         "name": "quiet down",
         "url": "https://open.spotify.com/album/1oDexP7OU623rSBoOfvMD5"
       },
@@ -115643,6 +115709,24 @@
     },
     {
       "album": {
+        "name": "Sky Wires",
+        "url": "https://open.spotify.com/album/0hqdv8qpaeHi90uSkcfMf1"
+      },
+      "artists": [
+        {
+          "name": "Blue Afternoon",
+          "url": "https://open.spotify.com/artist/7I3qZKjfcA4D6lxIcVBkB5"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125600,
+      "name": "Sky Wires",
+      "url": "https://open.spotify.com/track/3BzLYlKEQDJjstOYUS45nj"
+    },
+    {
+      "album": {
         "name": "Skycrossing",
         "url": "https://open.spotify.com/album/6Afs1sIRAflGXM1mgiQBKB"
       },
@@ -118710,7 +118794,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 138000,
       "name": "Soft Wind on the Line",
       "url": "https://open.spotify.com/track/3LuFMhUdDHzygC2Z45uksE"
@@ -124940,6 +125024,24 @@
       "duration_ms": 115384,
       "name": "Summer Picnic",
       "url": "https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef"
+    },
+    {
+      "album": {
+        "name": "summer postcards",
+        "url": "https://open.spotify.com/album/2lWQ6a5HbNxqt9mrZFvK98"
+      },
+      "artists": [
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138892,
+      "name": "summer postcards",
+      "url": "https://open.spotify.com/track/5Xxya1HC65f2cZ0Bw7UEjY"
     },
     {
       "album": {

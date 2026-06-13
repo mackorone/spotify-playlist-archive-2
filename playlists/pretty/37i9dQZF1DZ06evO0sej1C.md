@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,005 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,012 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [Aquí Estamos](https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Aquí Estamos](https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s) | 3:03 |
 | 50 | [PILLS](https://open.spotify.com/track/1p27MVcoU5Z7XrnMbmiqXp) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/5TeehqNvWD1PW3g2dg40Z9) | 3:07 |
 
-Snapshot ID: `aiipAAAAAADjtHi9Gvg/2nHPvydnVRTd`
+Snapshot ID: `ain6gAAAAADFdiPBxzeJ9pmafXy0d2Wq`

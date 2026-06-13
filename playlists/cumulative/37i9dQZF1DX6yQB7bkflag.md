@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Tiara Andini & MELONii,
 
-3,069 songs - 7 day 9 hr 29 min
+3,069 songs - 7 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -833,6 +833,7 @@
 | [Face Like Yours](https://open.spotify.com/track/3m3aEs2NUwzCPmOG0SXeBt) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Face Like Yours](https://open.spotify.com/album/1JxGPiYxQlORUJ9yIeJL2G) | 2:41 | 2025-02-27 | 2025-03-22 |
 | [Fainted Love](https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:50 | 2024-04-08 | 2024-05-10 |
 | [Fairy](https://open.spotify.com/track/7sSZn238Sz9I1YnUE1yLXc) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [Fairy](https://open.spotify.com/album/2YMOfRKtE80e5w7IPblfyc) | 3:21 | 2025-02-27 | 2025-03-22 |
+| [Faking Smiles](https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 3:04 | 2026-06-12 |  |
 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 | 2025-10-23 | 2025-11-21 |
 | [Fall Over Me](https://open.spotify.com/track/0oriH3sjxlK2u8HDhna9BG) | [Shae](https://open.spotify.com/artist/3exdJhXYXKtHAx95vCXwe1) | [Fall Over Me](https://open.spotify.com/album/31MOJKRp31sl8NbgSZBGO4) | 4:28 | 2024-11-14 | 2024-12-13 |
 | [Fallin' \(feat\. Leon Thomas\)](https://open.spotify.com/track/5XFwDMO60LntXrFSWHPopc) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fallin' \(feat\. Leon Thomas\)](https://open.spotify.com/album/36084xkxfgcSMnaeWphBOY) | 4:26 | 2026-04-30 | 2026-05-15 |
@@ -2847,7 +2848,6 @@
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-14 |
 | [TOXIC](https://open.spotify.com/track/1H9C0PyfQAxiMBKvvDZK9N) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk) | 3:10 | 2024-11-22 | 2025-01-10 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-02-01 |
-| [Track 3](https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 0:00 | 2026-06-12 |  |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-18 | 2024-01-26 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-16 | 2024-03-15 |
 | [Trauma \(From "The Rose: COME BACK TO ME"\)](https://open.spotify.com/track/0BktgdzRYRFrk5Ek0shoxm) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Trauma \(From "The Rose: COME BACK TO ME"\)](https://open.spotify.com/album/3X2s2xlesjmnjEDNpXrjVZ) | 4:58 | 2025-08-28 | 2025-09-26 |

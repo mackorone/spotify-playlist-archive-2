@@ -1,6 +1,6 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1399025,
+  "num_followers": 1399234,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "The End of Heartache (Special Edition)",
-        "url": "https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 298106,
-      "name": "The End of Heartache",
-      "url": "https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Results May Vary",
         "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 236333,
       "name": "Eat You Alive",
       "url": "https://open.spotify.com/track/0EtzpDX05udzfLcGntGbGU"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "The End of Heartache (Special Edition)",
+        "url": "https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 298106,
+      "name": "The End of Heartache",
+      "url": "https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Twilight Of The Thunder God",
-        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "Twilight Of The Thunder God",
-      "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Minutes to Midnight",
         "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 316493,
       "name": "Revolution Is My Name",
       "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Twilight Of The Thunder God",
+        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 248746,
+      "name": "Twilight Of The Thunder God",
+      "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Doomsday Machine",
-        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 252280,
-      "name": "Nemesis",
-      "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Through The Eyes",
         "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 176600,
       "name": "Get Up Again",
       "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 252280,
+      "name": "Nemesis",
+      "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
     },
     {
       "added_at": "2026-04-05 20:45:13",

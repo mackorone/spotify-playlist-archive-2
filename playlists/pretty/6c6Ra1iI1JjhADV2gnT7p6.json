@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60222,
+  "num_followers": 60226,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABE+Johf/pzFgXsEFHHSiHszUtaL5OT",
+  "snapshot_id": "AABE+xRafdZ2fAePLlSAO2WpluI6bBhK",
   "tracks": [
     {
       "added_at": "2026-06-07 12:56:09",
@@ -75,6 +75,26 @@
       "duration_ms": 158784,
       "name": "Tracksuit",
       "url": "https://open.spotify.com/track/5uYIouXXqHxc8G8fVavWq2"
+    },
+    {
+      "added_at": "2026-06-07 12:56:09",
+      "album": {
+        "name": "everyone was talking about you last night (CFCF remix)",
+        "url": "https://open.spotify.com/album/71yRjNWycSntccqwLduFx4"
+      },
+      "artists": [
+        {
+          "name": "dance arts center",
+          "url": "https://open.spotify.com/artist/3W9ojW2wag9ir2xBwia9QP"
+        },
+        {
+          "name": "CFCF",
+          "url": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"
+        }
+      ],
+      "duration_ms": 331615,
+      "name": "everyone was talking about you last night - CFCF remix",
+      "url": "https://open.spotify.com/track/0a0bypjWNDPshetjw2HSIN"
     },
     {
       "added_at": "2026-06-07 12:56:09",
@@ -1319,26 +1339,6 @@
       "duration_ms": 225413,
       "name": "That Nicotine - Remix",
       "url": "https://open.spotify.com/track/6xTXobnbTk7SOr211xPB4c"
-    },
-    {
-      "added_at": "2026-06-07 12:56:09",
-      "album": {
-        "name": "everyone was talking about you last night (CFCF remix)",
-        "url": "https://open.spotify.com/album/71yRjNWycSntccqwLduFx4"
-      },
-      "artists": [
-        {
-          "name": "dance arts center",
-          "url": "https://open.spotify.com/artist/3W9ojW2wag9ir2xBwia9QP"
-        },
-        {
-          "name": "CFCF",
-          "url": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"
-        }
-      ],
-      "duration_ms": 331615,
-      "name": "everyone was talking about you last night - CFCF remix",
-      "url": "https://open.spotify.com/track/0a0bypjWNDPshetjw2HSIN"
     },
     {
       "added_at": "2026-06-07 12:56:09",
@@ -19023,22 +19023,6 @@
     {
       "added_at": "2026-05-09 22:50:25",
       "album": {
-        "name": "On the Other End of the Line...",
-        "url": "https://open.spotify.com/album/605yTUmMmmUdKCjaUKRGAT"
-      },
-      "artists": [
-        {
-          "name": "Joyer",
-          "url": "https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "Favorite",
-      "url": "https://open.spotify.com/track/4HIECLcoDOlU0yFloXutMi"
-    },
-    {
-      "added_at": "2026-05-09 22:50:25",
-      "album": {
         "name": "Barroom Wonder",
         "url": "https://open.spotify.com/album/2q5r652nNXiD3wz63pWvmU"
       },
@@ -19051,6 +19035,22 @@
       "duration_ms": 171479,
       "name": "Barroom Wonder",
       "url": "https://open.spotify.com/track/1Bpw6VSpPmHSeolZjvhcPm"
+    },
+    {
+      "added_at": "2026-05-09 22:50:25",
+      "album": {
+        "name": "On the Other End of the Line...",
+        "url": "https://open.spotify.com/album/605yTUmMmmUdKCjaUKRGAT"
+      },
+      "artists": [
+        {
+          "name": "Joyer",
+          "url": "https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/4HIECLcoDOlU0yFloXutMi"
     },
     {
       "added_at": "2026-05-09 22:50:25",

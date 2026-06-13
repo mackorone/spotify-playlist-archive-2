@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Featuring Japanese Singer-Songwriters. Cover: Lavt",
-  "num_followers": 65334,
+  "num_followers": 65400,
   "original_name": "\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc Singer-Songwriter Japan",
   "owner": {
     "name": "Spotify",
@@ -771,18 +771,18 @@
     {
       "added_at": "2026-06-10 16:19:56",
       "album": {
-        "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092",
-        "url": "https://open.spotify.com/album/4BAoQY8BW3PTfjVUeH1Pfw"
+        "name": "\u611b\u3005",
+        "url": "https://open.spotify.com/album/2yUJjOszCwSb7SeanQ9U9x"
       },
       "artists": [
         {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+          "name": "Naotaro Moriyama",
+          "url": "https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued"
         }
       ],
-      "duration_ms": 277800,
-      "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092",
-      "url": "https://open.spotify.com/track/2iZFyqTZpXgh6mZFxvHtgS"
+      "duration_ms": 253315,
+      "name": "\u611b\u3005",
+      "url": "https://open.spotify.com/track/4BwfZRePzh5z82IpWS2TTz"
     },
     {
       "added_at": "2026-06-10 16:19:56",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-06-10 16:19:56",
       "album": {
+        "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092",
+        "url": "https://open.spotify.com/album/4BAoQY8BW3PTfjVUeH1Pfw"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "duration_ms": 277800,
+      "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092",
+      "url": "https://open.spotify.com/track/2iZFyqTZpXgh6mZFxvHtgS"
+    },
+    {
+      "added_at": "2026-06-10 16:19:56",
+      "album": {
         "name": "OUR SEASON (\u590f\u306e\u6c17\u307e\u3050\u308c\u306bkiss\u3092)",
         "url": "https://open.spotify.com/album/1x0JlP4jEeMsSm3hD4lfvL"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 219820,
       "name": "OUR SEASON (\u590f\u306e\u6c17\u307e\u3050\u308c\u306bkiss\u3092)",
       "url": "https://open.spotify.com/track/7JWFrcLSJ2oknwqTzd7OTF"
-    },
-    {
-      "added_at": "2026-06-10 16:19:56",
-      "album": {
-        "name": "\u611b\u3005",
-        "url": "https://open.spotify.com/album/2yUJjOszCwSb7SeanQ9U9x"
-      },
-      "artists": [
-        {
-          "name": "Naotaro Moriyama",
-          "url": "https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued"
-        }
-      ],
-      "duration_ms": 253315,
-      "name": "\u611b\u3005",
-      "url": "https://open.spotify.com/track/4BwfZRePzh5z82IpWS2TTz"
     },
     {
       "added_at": "2026-06-10 16:19:56",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-06-10 16:19:56",
       "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/5UCZC1Rm7amPipQREylCXK"
-      },
-      "artists": [
-        {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
-        }
-      ],
-      "duration_ms": 195230,
-      "name": "Dreamers",
-      "url": "https://open.spotify.com/track/0TbCl2LrSNOmQFpFaAgGaV"
-    },
-    {
-      "added_at": "2026-06-10 16:19:56",
-      "album": {
         "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
         "url": "https://open.spotify.com/album/3o7fMvUbIBPcXLR7EK0xzL"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 244781,
       "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
       "url": "https://open.spotify.com/track/4jeG0pnEjEFIphK0oLnGaW"
+    },
+    {
+      "added_at": "2026-06-10 16:19:56",
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/5UCZC1Rm7amPipQREylCXK"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 195230,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/0TbCl2LrSNOmQFpFaAgGaV"
     },
     {
       "added_at": "2026-06-10 16:19:56",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-06-10 16:19:56",
       "album": {
-        "name": "\u529b\u8aac",
-        "url": "https://open.spotify.com/album/0tfLUSiyhCQBzTUiwVPDaN"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 290323,
-      "name": "\u529b\u8aac",
-      "url": "https://open.spotify.com/track/34GAppVIvEO2e6RIEUFMAI"
-    },
-    {
-      "added_at": "2026-06-10 16:19:56",
-      "album": {
         "name": "\u30ac\u30a4\u30a2",
         "url": "https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 367306,
       "name": "\u9732",
       "url": "https://open.spotify.com/track/24dFX0UYYObDzUrY9Mdnqm"
+    },
+    {
+      "added_at": "2026-06-10 16:19:56",
+      "album": {
+        "name": "\u529b\u8aac",
+        "url": "https://open.spotify.com/album/0tfLUSiyhCQBzTUiwVPDaN"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 290323,
+      "name": "\u529b\u8aac",
+      "url": "https://open.spotify.com/track/34GAppVIvEO2e6RIEUFMAI"
     },
     {
       "added_at": "2026-06-10 16:19:56",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-06-10 16:19:56",
       "album": {
-        "name": "OK! GO!",
-        "url": "https://open.spotify.com/album/1cXPneXLMQLpz1ScS3VQmY"
-      },
-      "artists": [
-        {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
-        }
-      ],
-      "duration_ms": 215958,
-      "name": "OK! GO!",
-      "url": "https://open.spotify.com/track/61OAIwTrH9C5oITjPOkrCD"
-    },
-    {
-      "added_at": "2026-06-10 16:19:56",
-      "album": {
         "name": "\u30ac\u30a4\u30a2",
         "url": "https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2026-06-10 16:19:56",
       "album": {
+        "name": "OK! GO!",
+        "url": "https://open.spotify.com/album/1cXPneXLMQLpz1ScS3VQmY"
+      },
+      "artists": [
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+        }
+      ],
+      "duration_ms": 215958,
+      "name": "OK! GO!",
+      "url": "https://open.spotify.com/track/61OAIwTrH9C5oITjPOkrCD"
+    },
+    {
+      "added_at": "2026-06-10 16:19:56",
+      "album": {
         "name": "cappuccino",
         "url": "https://open.spotify.com/album/2BvQS0zGZ4CRCVTbIsIi9A"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-06-10 16:19:56",
       "album": {
-        "name": "\u3072\u304b\u308a\u306e\u3046\u305f - Hikari no uta",
-        "url": "https://open.spotify.com/album/3Ud4G6KPEMCYb0RvoSLAMf"
-      },
-      "artists": [
-        {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
-        }
-      ],
-      "duration_ms": 232949,
-      "name": "\u3072\u304b\u308a\u306e\u3046\u305f - Hikari no uta",
-      "url": "https://open.spotify.com/track/6ik9HIJOqh1ygP96ud9EtL"
-    },
-    {
-      "added_at": "2026-06-10 16:19:56",
-      "album": {
         "name": "BORDER",
         "url": "https://open.spotify.com/album/4ODjWP6bjQWtfmOxCZgZxb"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 237083,
       "name": "BORDER",
       "url": "https://open.spotify.com/track/2EVi72lGGfHJFRo081x4bw"
+    },
+    {
+      "added_at": "2026-06-10 16:19:56",
+      "album": {
+        "name": "\u3072\u304b\u308a\u306e\u3046\u305f - Hikari no uta",
+        "url": "https://open.spotify.com/album/3Ud4G6KPEMCYb0RvoSLAMf"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 232949,
+      "name": "\u3072\u304b\u308a\u306e\u3046\u305f - Hikari no uta",
+      "url": "https://open.spotify.com/track/6ik9HIJOqh1ygP96ud9EtL"
     },
     {
       "added_at": "2026-06-10 16:19:56",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-06-10 16:19:56",
       "album": {
-        "name": "Ray",
-        "url": "https://open.spotify.com/album/0bs97BumdpbyYhcfHWE9hg"
-      },
-      "artists": [
-        {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
-        }
-      ],
-      "duration_ms": 276200,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/7yx5pbQGDEXtpPifMy8u5d"
-    },
-    {
-      "added_at": "2026-06-10 16:19:56",
-      "album": {
         "name": "UP TO THE MINUTE MIXTAPE",
         "url": "https://open.spotify.com/album/6s6Pqnd88fCGpFrgpEr9Gg"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 227720,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/1797TbHHrKxxVyk2u5td2F"
+    },
+    {
+      "added_at": "2026-06-10 16:19:56",
+      "album": {
+        "name": "Ray",
+        "url": "https://open.spotify.com/album/0bs97BumdpbyYhcfHWE9hg"
+      },
+      "artists": [
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/7yx5pbQGDEXtpPifMy8u5d"
     },
     {
       "added_at": "2026-06-10 16:19:56",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-06-10 16:19:56",
       "album": {
-        "name": "Heart of Rainbow",
-        "url": "https://open.spotify.com/album/78ACz5XAT1ZGgaF8wAU7Kr"
-      },
-      "artists": [
-        {
-          "name": ".ENDRECHERI.",
-          "url": "https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78"
-        }
-      ],
-      "duration_ms": 277551,
-      "name": "Heart of Rainbow",
-      "url": "https://open.spotify.com/track/5aBMOm2RJe0mlKaNKDirot"
-    },
-    {
-      "added_at": "2026-06-10 16:19:56",
-      "album": {
         "name": "\u306f\u306a\u308c\u3070\u306a\u308c",
         "url": "https://open.spotify.com/album/66XnpUJbdZSQ3bn3JY54NP"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2026-06-10 16:19:56",
       "album": {
-        "name": "\u4e00\u4eba\u7fbd\u7e54",
-        "url": "https://open.spotify.com/album/61UMHKATVO3F67a9HmGBsz"
+        "name": "Heart of Rainbow",
+        "url": "https://open.spotify.com/album/78ACz5XAT1ZGgaF8wAU7Kr"
       },
       "artists": [
         {
-          "name": "\u548c\u306c\u304b",
-          "url": "https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI"
+          "name": ".ENDRECHERI.",
+          "url": "https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78"
         }
       ],
-      "duration_ms": 187826,
-      "name": "\u4e00\u4eba\u7fbd\u7e54",
-      "url": "https://open.spotify.com/track/0uqzY2IuR4uOP6AYXJVwSz"
+      "duration_ms": 277551,
+      "name": "Heart of Rainbow",
+      "url": "https://open.spotify.com/track/5aBMOm2RJe0mlKaNKDirot"
     },
     {
       "added_at": "2026-06-10 16:19:56",
@@ -1383,6 +1367,38 @@
       "duration_ms": 232488,
       "name": "\u9752\u8449",
       "url": "https://open.spotify.com/track/5UJzCg8xaEpC59l3agBzX7"
+    },
+    {
+      "added_at": "2026-06-10 16:19:56",
+      "album": {
+        "name": "\u4e00\u4eba\u7fbd\u7e54",
+        "url": "https://open.spotify.com/album/61UMHKATVO3F67a9HmGBsz"
+      },
+      "artists": [
+        {
+          "name": "\u548c\u306c\u304b",
+          "url": "https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "\u4e00\u4eba\u7fbd\u7e54",
+      "url": "https://open.spotify.com/track/0uqzY2IuR4uOP6AYXJVwSz"
+    },
+    {
+      "added_at": "2026-06-10 16:19:56",
+      "album": {
+        "name": "Pool",
+        "url": "https://open.spotify.com/album/18KGoNHgu434wYaS0aTqlq"
+      },
+      "artists": [
+        {
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Pool",
+      "url": "https://open.spotify.com/track/6PPpFg4PAtcq6bC6th0H6E"
     },
     {
       "added_at": "2026-06-10 16:19:56",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2026-06-10 16:19:56",
       "album": {
-        "name": "Pool",
-        "url": "https://open.spotify.com/album/18KGoNHgu434wYaS0aTqlq"
-      },
-      "artists": [
-        {
-          "name": "Satoko Shibata",
-          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Pool",
-      "url": "https://open.spotify.com/track/6PPpFg4PAtcq6bC6th0H6E"
-    },
-    {
-      "added_at": "2026-06-10 16:19:56",
-      "album": {
         "name": "\u3067\u304d\u308b\u3060\u3051/\u53cb\u9054\u304c\u3044\u308b",
         "url": "https://open.spotify.com/album/2iccswYJOuTlPVR7KKUHMi"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 269995,
       "name": "\u3067\u304d\u308b\u3060\u3051",
       "url": "https://open.spotify.com/track/76iksHbFiGerox78hM1TTT"
+    },
+    {
+      "added_at": "2026-06-10 16:19:56",
+      "album": {
+        "name": "\u4e09\u6587\u30ed\u30de\u30f3\u30b9\u30b7\u30e7\u30fc",
+        "url": "https://open.spotify.com/album/2ivyNzCGSFJwbPnGMISDp0"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30ab\u30ad\u30ca\u30aa",
+          "url": "https://open.spotify.com/artist/6KF1YD2BKIf24nY3qd6LeN"
+        }
+      ],
+      "duration_ms": 178300,
+      "name": "\u4e09\u6587\u30ed\u30de\u30f3\u30b9\u30b7\u30e7\u30fc",
+      "url": "https://open.spotify.com/track/2r8ZgxFjUuaqAfY432umyz"
     },
     {
       "added_at": "2026-06-10 16:19:56",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2026-06-10 16:19:56",
       "album": {
-        "name": "\u4e09\u6587\u30ed\u30de\u30f3\u30b9\u30b7\u30e7\u30fc",
-        "url": "https://open.spotify.com/album/2ivyNzCGSFJwbPnGMISDp0"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30ab\u30ad\u30ca\u30aa",
-          "url": "https://open.spotify.com/artist/6KF1YD2BKIf24nY3qd6LeN"
-        }
-      ],
-      "duration_ms": 178300,
-      "name": "\u4e09\u6587\u30ed\u30de\u30f3\u30b9\u30b7\u30e7\u30fc",
-      "url": "https://open.spotify.com/track/2r8ZgxFjUuaqAfY432umyz"
-    },
-    {
-      "added_at": "2026-06-10 16:19:56",
-      "album": {
         "name": "\u50d5\u306f",
         "url": "https://open.spotify.com/album/2UkvkDP2tm0TVm9PFnueU3"
       },
@@ -1543,22 +1543,6 @@
       "duration_ms": 184567,
       "name": "\u30e1\u30de\u30a4",
       "url": "https://open.spotify.com/track/2WCn9HrGDwcEm0bU0xgcrt"
-    },
-    {
-      "added_at": "2026-06-10 16:19:56",
-      "album": {
-        "name": "HB2U",
-        "url": "https://open.spotify.com/album/1Nk8xm34p22TekVHp4AfVe"
-      },
-      "artists": [
-        {
-          "name": "\u6c50\u308c\u3044\u3089",
-          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "\u30ea\u30d0\u30fc\u30b9\u30c7\u30a4",
-      "url": "https://open.spotify.com/track/7noSELfXUG3x8Plo58IRSU"
     },
     {
       "added_at": "2026-06-10 16:19:56",
@@ -1607,6 +1591,22 @@
       "duration_ms": 242132,
       "name": "\u4e2d\u83ef\u30e9\u30f3\u30c1",
       "url": "https://open.spotify.com/track/0yfxKxkieGvDOPzJb1xfM3"
+    },
+    {
+      "added_at": "2026-06-10 16:19:56",
+      "album": {
+        "name": "HB2U",
+        "url": "https://open.spotify.com/album/1Nk8xm34p22TekVHp4AfVe"
+      },
+      "artists": [
+        {
+          "name": "\u6c50\u308c\u3044\u3089",
+          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "\u30ea\u30d0\u30fc\u30b9\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/7noSELfXUG3x8Plo58IRSU"
     },
     {
       "added_at": "2026-06-10 16:19:56",

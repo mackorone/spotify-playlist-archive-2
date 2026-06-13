@@ -4297,6 +4297,28 @@
     },
     {
       "album": {
+        "name": "Would U Still Love Me (feat. Cameron Whitcomb)",
+        "url": "https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156318,
+      "name": "Would U Still Love Me (feat. Cameron Whitcomb)",
+      "url": "https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l"
+    },
+    {
+      "album": {
         "name": "in case you miss me",
         "url": "https://open.spotify.com/album/4f4zlRTu5sG8VM6xdIMw1m"
       },

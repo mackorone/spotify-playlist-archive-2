@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 158438,
+  "num_followers": 158469,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -123,30 +123,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Alabar\u00e9",
-        "url": "https://open.spotify.com/album/4pWVrEzaIEMdaMLBiZ6mc2"
-      },
-      "artists": [
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 178413,
-      "name": "Alabar\u00e9",
-      "url": "https://open.spotify.com/track/5NZurbKSdSrGdfSsx9Q25t"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Mi Religi\u00f3n",
         "url": "https://open.spotify.com/album/3B51aJVMc4N4wUoYzC1JRb"
       },
@@ -167,6 +143,30 @@
       "duration_ms": 215393,
       "name": "Reforma",
       "url": "https://open.spotify.com/track/0ZynKUJXgOfv5Fbg2TJLQA"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Alabar\u00e9",
+        "url": "https://open.spotify.com/album/4pWVrEzaIEMdaMLBiZ6mc2"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 178413,
+      "name": "Alabar\u00e9",
+      "url": "https://open.spotify.com/track/5NZurbKSdSrGdfSsx9Q25t"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -223,26 +223,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/7AmFvgPJvwvPiSNNT2WwiM"
-      },
-      "artists": [
-        {
-          "name": "Marky O",
-          "url": "https://open.spotify.com/artist/2imiGAOjvr74j2uW3drLCi"
-        },
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 208146,
-      "name": "Bendecido",
-      "url": "https://open.spotify.com/track/1UIsRbF0BDVaxWKI0PHjQ8"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Mejor Contigo",
         "url": "https://open.spotify.com/album/5hlYUHbUkzIgB29fYhwe2x"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 136732,
       "name": "Mejor Contigo",
       "url": "https://open.spotify.com/track/4z1S5a04afHKUs3ZCZfEtC"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/7AmFvgPJvwvPiSNNT2WwiM"
+      },
+      "artists": [
+        {
+          "name": "Marky O",
+          "url": "https://open.spotify.com/artist/2imiGAOjvr74j2uW3drLCi"
+        },
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/1UIsRbF0BDVaxWKI0PHjQ8"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "DIOS es el que SABE",
-        "url": "https://open.spotify.com/album/4LDQzDoBvcbkNCc9DUsKKg"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "DIOS es el que SABE",
-      "url": "https://open.spotify.com/track/7oRUdU5tPb4CRKnFILi8qL"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "VIVE",
         "url": "https://open.spotify.com/album/2brR0s3blQgdHhQaTIcEmH"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 223914,
       "name": "Vive",
       "url": "https://open.spotify.com/track/5sbL2s9BSqy12XudGLmrje"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "DIOS es el que SABE",
+        "url": "https://open.spotify.com/album/4LDQzDoBvcbkNCc9DUsKKg"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "DIOS es el que SABE",
+      "url": "https://open.spotify.com/track/7oRUdU5tPb4CRKnFILi8qL"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Lo M\u00edo Es Tuyo",
+        "url": "https://open.spotify.com/album/4m8562lRDuyOM3SdOr3pr0"
+      },
+      "artists": [
+        {
+          "name": "Townix",
+          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
+        }
+      ],
+      "duration_ms": 185210,
+      "name": "Lo M\u00edo Es Tuyo",
+      "url": "https://open.spotify.com/track/2tPIEUQ8AxHdukWLUug8Ih"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Abatido",
         "url": "https://open.spotify.com/album/50FppiB6Br1QKbBWWxMcRk"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 289043,
       "name": "Abatido",
       "url": "https://open.spotify.com/track/6S3sKgRoBiwvG0FilXcmaI"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Lo M\u00edo Es Tuyo",
-        "url": "https://open.spotify.com/album/4m8562lRDuyOM3SdOr3pr0"
-      },
-      "artists": [
-        {
-          "name": "Townix",
-          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
-        }
-      ],
-      "duration_ms": 185210,
-      "name": "Lo M\u00edo Es Tuyo",
-      "url": "https://open.spotify.com/track/2tPIEUQ8AxHdukWLUug8Ih"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -867,6 +867,26 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Celebrar",
+        "url": "https://open.spotify.com/album/0laIA6M9k7xz66MxZ5Ljok"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        },
+        {
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        }
+      ],
+      "duration_ms": 167176,
+      "name": "Celebrar",
+      "url": "https://open.spotify.com/track/3oe7RCqP1buAu9JSlX6pD3"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Invencible",
         "url": "https://open.spotify.com/album/5ydJx6BvJ2Az5N6ZEfXznw"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 217253,
       "name": "Invencible",
       "url": "https://open.spotify.com/track/6bRVHuWfivG1EkMaUdPvZ7"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Celebrar",
-        "url": "https://open.spotify.com/album/0laIA6M9k7xz66MxZ5Ljok"
-      },
-      "artists": [
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
-        },
-        {
-          "name": "LINARES",
-          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
-        }
-      ],
-      "duration_ms": 167176,
-      "name": "Celebrar",
-      "url": "https://open.spotify.com/track/3oe7RCqP1buAu9JSlX6pD3"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Lo Mejor De La Vida (Cumbia Remix)",
-        "url": "https://open.spotify.com/album/0BL7USChao0tMiffVUpQYC"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Lo Mejor De La Vida - Cumbia Remix",
-      "url": "https://open.spotify.com/track/0CjGHa8FenJHKslMThGEyf"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "BUENO",
         "url": "https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 168214,
       "name": "BUENO",
       "url": "https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Lo Mejor De La Vida (Cumbia Remix)",
+        "url": "https://open.spotify.com/album/0BL7USChao0tMiffVUpQYC"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Lo Mejor De La Vida - Cumbia Remix",
+      "url": "https://open.spotify.com/track/0CjGHa8FenJHKslMThGEyf"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Lamento En Baile",
-        "url": "https://open.spotify.com/album/5LdXcCYjU2cU4kVZ5kGTme"
+        "name": "Somos Cristianos",
+        "url": "https://open.spotify.com/album/2KYkLX7gJaw0AcwgEQdzkH"
       },
       "artists": [
         {
-          "name": "Misael J",
-          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
         }
       ],
-      "duration_ms": 222715,
-      "name": "Lamento En Baile",
-      "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
+      "duration_ms": 140998,
+      "name": "Somos Cristianos",
+      "url": "https://open.spotify.com/track/2rpqfj4MwCv5p4BJuiCGCa"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Lamento En Baile",
+        "url": "https://open.spotify.com/album/5LdXcCYjU2cU4kVZ5kGTme"
+      },
+      "artists": [
+        {
+          "name": "Misael J",
+          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
+        }
+      ],
+      "duration_ms": 222715,
+      "name": "Lamento En Baile",
+      "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "OMW",
         "url": "https://open.spotify.com/album/6DZLO5Wp0JSFkpRdx3IL4B"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 164117,
       "name": "OMW",
       "url": "https://open.spotify.com/track/4NNmICAifT9UDArpQAfuph"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Somos Cristianos",
-        "url": "https://open.spotify.com/album/2KYkLX7gJaw0AcwgEQdzkH"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 140998,
-      "name": "Somos Cristianos",
-      "url": "https://open.spotify.com/track/2rpqfj4MwCv5p4BJuiCGCa"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Amor Verdadero",
+        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
+      },
+      "artists": [
+        {
+          "name": "Abel Xanders",
+          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
+        }
+      ],
+      "duration_ms": 203271,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Jesucristo Me Toco (En Vivo)",
         "url": "https://open.spotify.com/album/2NP0fYbcms52HQgQlticFX"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 219559,
       "name": "Jesucristo Me Toco - En Vivo",
       "url": "https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Amor Verdadero",
-        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
-      },
-      "artists": [
-        {
-          "name": "Abel Xanders",
-          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
-        }
-      ],
-      "duration_ms": 203271,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 254135,
-      "name": "Antes Que Salga El Sol",
-      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Tu Luz",
         "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 169146,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 254135,
+      "name": "Antes Que Salga El Sol",
+      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 291112,
-      "name": "Veo Tu Gloria",
-      "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Love Joy & Peace",
         "url": "https://open.spotify.com/album/0fhTJ1blBXypMh18HzHWZs"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 203714,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/2jSyrrOTSOY07i6KVNU12e"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Sin Ti No Me Imagino",
+        "url": "https://open.spotify.com/album/7qtn1EGKZa8qtumLco1RPN"
+      },
+      "artists": [
+        {
+          "name": "Propiedad De Dios",
+          "url": "https://open.spotify.com/artist/4sx4kT4GCXYSw6Cs8Bf9t4"
+        }
+      ],
+      "duration_ms": 137547,
+      "name": "Sin Ti No Me Imagino",
+      "url": "https://open.spotify.com/track/4VjHP3HrCj4CHqkdA7g9n0"
     },
     {
       "added_at": "2026-04-25 04:59:02",

@@ -1,45 +1,13 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 258247,
+  "num_followers": 258271,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAADFGwS/7dMsvtsP4e9K7G8O",
+  "snapshot_id": "ain6gAAAAADONyi/Am5QsL8D6T1sVU2g",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Sentirme Vivo",
-        "url": "https://open.spotify.com/album/014SJuIpfuhxP6OIovEJoe"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 271843,
-      "name": "Para Sentirme Vivo",
-      "url": "https://open.spotify.com/track/5SRsUMyQUSZbNy8sMYfK4I"
-    },
     {
       "added_at": null,
       "album": {
@@ -655,6 +623,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gordo Fu",
+          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "No Hay Palabras Bonitas",
+      "url": "https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 235483,
+      "name": "Andr\u00f3meda",
+      "url": "https://open.spotify.com/track/5gNzZ7XzGawNJqsaxOs5ZC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1scaras",
         "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
       },
@@ -679,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+        "name": "Ynlpa",
+        "url": "https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9"
       },
       "artists": [
         {
@@ -688,9 +692,9 @@
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 235483,
-      "name": "Andr\u00f3meda",
-      "url": "https://open.spotify.com/track/5gNzZ7XzGawNJqsaxOs5ZC"
+      "duration_ms": 183472,
+      "name": "Ynlpa",
+      "url": "https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf"
     },
     {
       "added_at": null,
@@ -708,25 +712,9 @@
           "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
         }
       ],
-      "duration_ms": 200626,
-      "name": "No Hay Palabras Bonitas",
-      "url": "https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ynlpa",
-        "url": "https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 183472,
-      "name": "Ynlpa",
-      "url": "https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf"
+      "duration_ms": 224733,
+      "name": "A Paso Lento",
+      "url": "https://open.spotify.com/track/5fUkzmm6HnPDDZKwnQcNUG"
     },
     {
       "added_at": null,
@@ -775,26 +763,6 @@
       "duration_ms": 174230,
       "name": "Me Toca Perder",
       "url": "https://open.spotify.com/track/3Ggt6nM1vKeTM0sy2xnNm5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gordo Fu",
-          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "A Paso Lento",
-      "url": "https://open.spotify.com/track/5fUkzmm6HnPDDZKwnQcNUG"
     },
     {
       "added_at": null,
@@ -1143,6 +1111,26 @@
       "duration_ms": 166499,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 164597,
+      "name": "Legendarios",
+      "url": "https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD"
     }
   ],
   "unique_name": "This Is Charles Ans",

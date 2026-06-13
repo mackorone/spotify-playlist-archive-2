@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 593486,
+  "num_followers": 593638,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,38 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Tacos Altos",
+        "url": "https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+        }
+      ],
+      "duration_ms": 306946,
+      "name": "Tacos Altos",
+      "url": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "B.U.H.O",
         "url": "https://open.spotify.com/album/03obMR1fgKaIIuQHEZDNee"
       },
@@ -987,38 +1019,6 @@
       "duration_ms": 298393,
       "name": "B.U.H.O",
       "url": "https://open.spotify.com/track/3juYl7RDkfwMGX5a17ach5"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Tacos Altos",
-        "url": "https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Alex Gargolas",
-          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
-        }
-      ],
-      "duration_ms": 306946,
-      "name": "Tacos Altos",
-      "url": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Buf\u00f3n",
+        "url": "https://open.spotify.com/album/5RpGiCddWLzGrrAsB6EcgI"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Buf\u00f3n",
+      "url": "https://open.spotify.com/track/6ovp1nCwIAOSMotiCF7pjk"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Jimmy Fallon (Remix)",
         "url": "https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 242376,
       "name": "Jimmy Fallon - Remix",
       "url": "https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Buf\u00f3n",
-        "url": "https://open.spotify.com/album/5RpGiCddWLzGrrAsB6EcgI"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Buf\u00f3n",
-      "url": "https://open.spotify.com/track/6ovp1nCwIAOSMotiCF7pjk"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Arre",
+        "url": "https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "duration_ms": 168032,
+      "name": "Arre",
+      "url": "https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Nivel",
         "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 192000,
       "name": "Perdoname Si Llego Tarde",
       "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Arre",
-        "url": "https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN"
-      },
-      "artists": [
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        }
-      ],
-      "duration_ms": 168032,
-      "name": "Arre",
-      "url": "https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Condiciones",
-        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Condiciones",
-      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Piso",
         "url": "https://open.spotify.com/album/4Vsl4WJiebxjDwpBp7JqPQ"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 290666,
       "name": "Illuminati - Remix",
       "url": "https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Condiciones",
+        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Condiciones",
+      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
     },
     {
       "added_at": "2024-03-08 16:14:30",

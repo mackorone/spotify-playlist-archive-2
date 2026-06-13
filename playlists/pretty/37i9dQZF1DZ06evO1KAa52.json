@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 668972,
+  "num_followers": 669009,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAACvHOkrmrD7dgPraEFxyvQh",
+  "snapshot_id": "ain6gAAAAACELOgMXvssmeJesXVqOcg8",
   "tracks": [
     {
       "added_at": null,
@@ -627,30 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Candy",
-        "url": "https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 245080,
-      "name": "4 Minutes (feat. Justin Timberlake and Timbaland)",
-      "url": "https://open.spotify.com/track/0NeZ8Bhhu3Vt5qCKLdvxpw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
         "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 229282,
       "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
       "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 245080,
+      "name": "4 Minutes (feat. Justin Timberlake and Timbaland)",
+      "url": "https://open.spotify.com/track/0NeZ8Bhhu3Vt5qCKLdvxpw"
     },
     {
       "added_at": null,
@@ -951,18 +951,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+        "name": "ICU (with Justin Timberlake) [Remix]",
+        "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
       },
       "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 287266,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/01r1q2OykW2e3L17kB5bi3"
+      "duration_ms": 218566,
+      "name": "ICU (with Justin Timberlake) - Remix",
+      "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
     },
     {
       "added_at": null,
@@ -1003,22 +1007,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICU (with Justin Timberlake) [Remix]",
-        "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
       "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 218566,
-      "name": "ICU (with Justin Timberlake) - Remix",
-      "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
+      "duration_ms": 287266,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/01r1q2OykW2e3L17kB5bi3"
     },
     {
       "added_at": null,
@@ -1124,65 +1124,29 @@
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
           "name": "Anna Kendrick",
           "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         },
         {
           "name": "James Corden",
           "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
         },
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "George Clinton",
-          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Rachel Bloom",
-          "url": "https://open.spotify.com/artist/2tCT4ybLKzhFYsDF6ZOKAY"
-        },
-        {
-          "name": "Kenan Thompson",
-          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
-        },
-        {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
-        },
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
           "name": "Icona Pop",
           "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         },
         {
-          "name": "Kunal Nayyar",
-          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
-        },
-        {
-          "name": "Sam Rockwell",
-          "url": "https://open.spotify.com/artist/6WPC3Dc27kiyJ14fZbDXMl"
+          "name": "The Pop Trolls",
+          "url": "https://open.spotify.com/artist/2ossO7Sa8OJ0D0PQjSF1cQ"
         }
       ],
-      "duration_ms": 240568,
-      "name": "Just Sing (Trolls World Tour)",
-      "url": "https://open.spotify.com/track/773kKMbHhQGq7LIw3P5Xmy"
+      "duration_ms": 61923,
+      "name": "Trolls 2 Many Hits Mashup",
+      "url": "https://open.spotify.com/track/74PmqgIU0EU60QEgrjJIIk"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

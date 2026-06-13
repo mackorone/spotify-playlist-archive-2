@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,209 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,207 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 40 | [Po Pimp](https://open.spotify.com/track/66AMCAjrOk7c957i3ej06f) | [Do Or Die](https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB) | [Picture This](https://open.spotify.com/album/4Rjhr6Jg80XQ94uDA8UZkG) | 3:54 |
 | 41 | [Finding Home in Rwanda](https://open.spotify.com/track/3B8VmjKKdmkT2XByRT6Kq4) | [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn), [Munyakazi Deo](https://open.spotify.com/artist/7wndHqMTZ3IVrMpR0WKcMD), [1key](https://open.spotify.com/artist/2OnqtAUmwkWba2VqkfnFKt) | [Catching Dreams](https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu) | 6:14 |
 | 42 | [No Room in the Limo](https://open.spotify.com/track/4WbK3e9uLSFXuZSUzzsDMn) | [Project Mayhem](https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl) | [Middle America](https://open.spotify.com/album/2OtKj14wexL3GezWDdbro6) | 3:50 |
-| 43 | [Coconut](https://open.spotify.com/track/2h132oHTFg1aaZPcbSBWAm) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [At Home](https://open.spotify.com/album/6fzJXNScnMnyUiC5o8wz32) | 4:39 |
-| 44 | [Nakamarra \(feat\. Q\-Tip\)](https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ) | 4:35 |
+| 43 | [Nakamarra \(feat\. Q\-Tip\)](https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ) | 4:35 |
+| 44 | [Coconut](https://open.spotify.com/track/2h132oHTFg1aaZPcbSBWAm) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [At Home](https://open.spotify.com/album/6fzJXNScnMnyUiC5o8wz32) | 4:39 |
 | 45 | [I Want You Around](https://open.spotify.com/track/2VqKx3HH8gaZPabNWYvksy) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:32 |
 | 46 | [Mary Jane](https://open.spotify.com/track/0Rqcf7GwEOIFg5VFMNIzHF) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [The Untouchable](https://open.spotify.com/album/0yEbGVnKvWj4B85rzExJmF) | 4:41 |
 | 47 | [We Are One](https://open.spotify.com/track/6hBdjS3dx7kOqcW7y5B39T) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Rock With the Hot 8](https://open.spotify.com/album/4Wt275jWR86DOTn7zgVWFR) | 6:44 |

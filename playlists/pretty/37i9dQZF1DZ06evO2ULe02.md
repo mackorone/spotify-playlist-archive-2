@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 26 | [something in the way you say my name](https://open.spotify.com/track/3CVdmZHfnkDnyily3IrWfg) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY) | 2:33 |
 | 27 | [How's It Gonna End?](https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:30 |
 
-Snapshot ID: `aiipAAAAAADBBXHv6/ktvN74KiORD8Eo`
+Snapshot ID: `ain6gAAAAAAtkhJhTJlkNPHQDmd/9V91`

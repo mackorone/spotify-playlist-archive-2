@@ -1,29 +1,13 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 57967,
+  "num_followers": 57971,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAADE8Aews7uxPYGYBLVHw9HA",
+  "snapshot_id": "ain6gAAAAACn5Ima2/FVbAF6QFjOI2Wu",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cholo En Un Low 2.0",
-        "url": "https://open.spotify.com/album/3HeYA1AreyBpHBNXMspGu4"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 188700,
-      "name": "Cholo En Un Low 2.0",
-      "url": "https://open.spotify.com/track/0zbv3ROTor3M1JzdFsBZJE"
-    },
     {
       "added_at": null,
       "album": {
@@ -475,26 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monte Fuji",
-        "url": "https://open.spotify.com/album/76ShoKZtDVnABmchT2APYJ"
+        "name": "Cholo En Un Low 2.0",
+        "url": "https://open.spotify.com/album/3HeYA1AreyBpHBNXMspGu4"
       },
       "artists": [
         {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        },
-        {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
         }
       ],
-      "duration_ms": 224400,
-      "name": "Monte Fuji",
-      "url": "https://open.spotify.com/track/2GEcLZkMr3wZB7zM8gRRBe"
+      "duration_ms": 188700,
+      "name": "Cholo En Un Low 2.0",
+      "url": "https://open.spotify.com/track/0zbv3ROTor3M1JzdFsBZJE"
     },
     {
       "added_at": null,
@@ -515,6 +491,30 @@
       "duration_ms": 250285,
       "name": "No Me Pregunten",
       "url": "https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monte Fuji",
+        "url": "https://open.spotify.com/album/76ShoKZtDVnABmchT2APYJ"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Monte Fuji",
+      "url": "https://open.spotify.com/track/2GEcLZkMr3wZB7zM8gRRBe"
     },
     {
       "added_at": null,
@@ -643,6 +643,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si Aqu\u00ed Estuvieras",
+        "url": "https://open.spotify.com/album/2BpP4gT2GjPzHNHwlZqlmU"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Jay Romero",
+          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Lich Weezy",
+          "url": "https://open.spotify.com/artist/4XiMUcMQp7CjjUX0728Bqu"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Si Aqu\u00ed Estuvieras",
+      "url": "https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Preguntan por M\u00ed",
         "url": "https://open.spotify.com/album/4POHA2ZskfSfw9s2zqRtKY"
       },
@@ -679,38 +711,6 @@
       "duration_ms": 228500,
       "name": "Si Preguntan por M\u00ed",
       "url": "https://open.spotify.com/track/4BHysBnR9QD9cSDlx0hC5s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si Aqu\u00ed Estuvieras",
-        "url": "https://open.spotify.com/album/2BpP4gT2GjPzHNHwlZqlmU"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Jay Romero",
-          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Lich Weezy",
-          "url": "https://open.spotify.com/artist/4XiMUcMQp7CjjUX0728Bqu"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Si Aqu\u00ed Estuvieras",
-      "url": "https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2"
     },
     {
       "added_at": null,

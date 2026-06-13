@@ -3988,7 +3988,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 226606,
       "name": "Azimuth",
       "url": "https://open.spotify.com/track/5eLQyZ8kZKFRukO1mIAXKQ"
@@ -7964,6 +7964,24 @@
       "duration_ms": 198346,
       "name": "caffeine",
       "url": "https://open.spotify.com/track/4jcIsQPXUXp866w3lT5AzO"
+    },
+    {
+      "album": {
+        "name": "CAIRO (I Like That...)",
+        "url": "https://open.spotify.com/album/3VfIOszi5DLjrPoMz61Atw"
+      },
+      "artists": [
+        {
+          "name": "Babe America",
+          "url": "https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195471,
+      "name": "CAIRO (I Like That...)",
+      "url": "https://open.spotify.com/track/1vsMwXYLXA2lkcDSsZZnWx"
     },
     {
       "album": {
@@ -12179,6 +12197,24 @@
     },
     {
       "album": {
+        "name": "Dis-Moi",
+        "url": "https://open.spotify.com/album/4MVFhG4ThhukbJDK5Gbbcy"
+      },
+      "artists": [
+        {
+          "name": "Cannelle",
+          "url": "https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "Dis-Moi",
+      "url": "https://open.spotify.com/track/5hjir9Rnv0kBLGAPINxFBW"
+    },
+    {
+      "album": {
         "name": "disappear",
         "url": "https://open.spotify.com/album/2EqoCT71kjey7k2B3HSPGk"
       },
@@ -14852,7 +14888,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 166233,
       "name": "everywhere<3",
       "url": "https://open.spotify.com/track/0x3iQHDSInr7mrFcfYIlYJ"
@@ -15672,7 +15708,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 179300,
       "name": "famous",
       "url": "https://open.spotify.com/track/25ynds8G8VI01XYFAX9h7g"
@@ -17100,7 +17136,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 185172,
       "name": "Freak It",
       "url": "https://open.spotify.com/track/1e8DRAVSxGDPd9hgxcppP2"
@@ -23143,6 +23179,32 @@
     },
     {
       "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/2HSr0Ar9OrNYCm9fyx9YHf"
+      },
+      "artists": [
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        },
+        {
+          "name": "Bbyafricka",
+          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
+        },
+        {
+          "name": "Warpstr",
+          "url": "https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143737,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/4uzkJXMs6PjmJ5wAQLzflw"
+    },
+    {
+      "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
@@ -28650,7 +28712,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 191627,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6tI1m5b9i25mJaUPQUQW7u"
@@ -28949,6 +29011,24 @@
     },
     {
       "album": {
+        "name": "ULTRA",
+        "url": "https://open.spotify.com/album/7LDNQYVFZoapHCep1A2dYr"
+      },
+      "artists": [
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159313,
+      "name": "LOVE ME HATE ME",
+      "url": "https://open.spotify.com/track/7yzqOucDjWGlL3Zsjd6YxW"
+    },
+    {
+      "album": {
         "name": "Love Me Not",
         "url": "https://open.spotify.com/album/73bJ0NPa4NLJUKrQICs0OB"
       },
@@ -29158,7 +29238,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 86538,
       "name": "lucas ave",
       "url": "https://open.spotify.com/track/1jRN6Im9SjY1SJzDWVFpmq"
@@ -29882,7 +29962,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 108600,
       "name": "MAKE IT RIGHT",
       "url": "https://open.spotify.com/track/2yXyDFCnB6qcAmMZA2HfEl"
@@ -33730,7 +33810,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 192000,
       "name": "nothing's ever enough",
       "url": "https://open.spotify.com/track/3xuhhCYvXbh6Wy1odwzk16"
@@ -34266,7 +34346,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 334384,
       "name": "Offscreen",
       "url": "https://open.spotify.com/track/3sGNs97yV0MOz5KrHtlJ6t"
@@ -36830,7 +36910,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 134437,
       "name": "PONYTAIL WHIP",
       "url": "https://open.spotify.com/track/3TtS5WEBlgQWvI9klkb2iE"
@@ -36870,7 +36950,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 193834,
       "name": "Pop Music (feat. Cult Sh\u03c6tta)",
       "url": "https://open.spotify.com/track/76ZiqpcDOgZkuehO8Snz8T"
@@ -39676,6 +39756,24 @@
       "duration_ms": 149549,
       "name": "ROCKNROLL",
       "url": "https://open.spotify.com/track/0g2TDHDWIra0CatRXtUvd3"
+    },
+    {
+      "album": {
+        "name": "So Famous",
+        "url": "https://open.spotify.com/album/08WGHRYR77e0syIVF7PrLZ"
+      },
+      "artists": [
+        {
+          "name": "That Kid",
+          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144626,
+      "name": "Rodeo Daydreams",
+      "url": "https://open.spotify.com/track/5Ln1OdFpvnqAlh08UWGSIH"
     },
     {
       "album": {
@@ -47076,6 +47174,24 @@
       "duration_ms": 201290,
       "name": "That's All Me",
       "url": "https://open.spotify.com/track/1Wy3gJSvQtZCYqxxp9wII7"
+    },
+    {
+      "album": {
+        "name": "NATURE IS HEALING",
+        "url": "https://open.spotify.com/album/4U8bgzT32teA0bp2Fo0CXA"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "that's my beach!",
+      "url": "https://open.spotify.com/track/5Wshn1HCkONGNXAJ9zg0x5"
     },
     {
       "album": {

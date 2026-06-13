@@ -1,13 +1,37 @@
 {
   "description": "Electrified jazz, complex rhythms and virtuosic playing. Cover: CASIOPEA",
-  "num_followers": 218646,
+  "num_followers": 218647,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABO0Zk3S/lp4I0YhT4JE4rJYk/PE",
+  "snapshot_id": "AAAAAGWi26M0atofh1mmkaR79umfLKJD",
   "tracks": [
+    {
+      "added_at": "2026-06-12 04:00:19",
+      "album": {
+        "name": "Schala",
+        "url": "https://open.spotify.com/album/53QlNgkCPfFSwyKfBgz0oi"
+      },
+      "artists": [
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "Seda",
+          "url": "https://open.spotify.com/artist/0c6JTU2XbJoy79ECLuYw1Q"
+        },
+        {
+          "name": "ewik_42",
+          "url": "https://open.spotify.com/artist/70gsrdszTQUBnZYoMpk5Hi"
+        }
+      ],
+      "duration_ms": 218041,
+      "name": "Schala",
+      "url": "https://open.spotify.com/track/0JXEShek5xlpkhJlxSkKOz"
+    },
     {
       "added_at": "2026-06-05 04:00:30",
       "album": {

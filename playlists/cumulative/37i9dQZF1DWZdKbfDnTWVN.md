@@ -2,9 +2,9 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ?si=1ks8jsdKTNKHVTC78WiC2Q"> Jovie Jovv</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl?si=mHDa1yRURWKIxNU4bmrDMQ"> Steph Kapela</a>
 
-505 songs - 1 day 3 hr 4 min
+506 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Bank Otuch](https://open.spotify.com/track/5RVqvT0e8XnCIQQ06KtKT8) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o), [Vicmass Luodollar](https://open.spotify.com/artist/1nlehKOSekTvNr5st7uEoi) | [Bank Otuch](https://open.spotify.com/album/6ASwCOOyMbU3S2ExMDg2lw) | 4:21 | 2025-08-07 | 2025-08-15 |
 | [basic \- bass boosted](https://open.spotify.com/track/49Y9vFlnZvL9kC8tHprxMp) | [Trill Hunnid Ke](https://open.spotify.com/artist/060e8JfWsQ4SemQo5iB8h4) | [basic \(bass boosted\)](https://open.spotify.com/album/1WwGCU051HFxDbdnXTbzsU) | 1:48 | 2024-01-11 | 2024-03-29 |
 | [Beautiful Disaster](https://open.spotify.com/track/1GWmWZxXC2rAoOBgioW0C8) | [MAD G](https://open.spotify.com/artist/3i55n15iAnDbfy60FX053E) | [Beautiful Disaster](https://open.spotify.com/album/3lEwYfGV36dasBTeGw50ft) | 2:41 | 2025-12-11 | 2026-04-17 |
-| [Best Friend](https://open.spotify.com/track/037SzV5WH8AhIdheNF5eT5) | [8th Street Gang](https://open.spotify.com/artist/2dBpYnIr6v0mfiMIFMkHIO) | [Best Friend](https://open.spotify.com/album/4XLmUyvv1ibkbTIBuq9pJw) | 2:07 | 2026-04-02 |  |
+| [Best Friend](https://open.spotify.com/track/037SzV5WH8AhIdheNF5eT5) | [8th Street Gang](https://open.spotify.com/artist/2dBpYnIr6v0mfiMIFMkHIO) | [Best Friend](https://open.spotify.com/album/4XLmUyvv1ibkbTIBuq9pJw) | 2:07 | 2026-04-02 | 2026-06-13 |
 | [Between Us](https://open.spotify.com/track/2zXgGlV2o8hhhD16IXoWzh) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ) | [Between Us](https://open.spotify.com/album/2fUu7vEj0ATcDq8M2R5v5C) | 3:41 | 2024-01-19 | 2024-05-24 |
 | [Big Makamasi](https://open.spotify.com/track/1vIsMO3ZjadxOWvo93UyKS) | [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di) | [Big Makamasi & Co.](https://open.spotify.com/album/4HljX1IzyMREWoPJSCAALZ) | 2:03 | 2023-08-17 | 2024-04-12 |
 | [Billie Jean](https://open.spotify.com/track/0eNG4ozPjfW70AckUaLbZD) | [HQJAQS](https://open.spotify.com/artist/6cyjzp8fErLjxeksd0FEz2) | [Billie Jean](https://open.spotify.com/album/6Yilc06FkfWjNPxwyGUTlJ) | 2:49 | 2026-03-26 |  |
@@ -90,6 +90,7 @@
 | [Clique](https://open.spotify.com/track/0JKpPUaw8nivpG9tkzvQ0I) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG), [Younglouie58](https://open.spotify.com/artist/17aWxUIZ911wAXaAtgagDx) | [Clique](https://open.spotify.com/album/6PCEUZ2aGu3rP3vBEjcywW) | 2:44 | 2025-07-10 | 2026-01-16 |
 | [CLUTCH](https://open.spotify.com/track/2jBJUNFXk3O6jVhQPyAJmd) | [Ryan SamueŁ](https://open.spotify.com/artist/1clkGCTObExRa9dvSq07vn), [Timmy Blanco](https://open.spotify.com/artist/1Vn2QDLkrVV4M1Y85dePup) | [CLUTCH](https://open.spotify.com/album/3p9WP8XdsVawilcDfYJJg2) | 2:38 | 2023-10-12 | 2024-04-05 |
 | [Coastin](https://open.spotify.com/track/3Q6sRzzw2IIUDhEAag9Ah4) | [R.I.Z.E](https://open.spotify.com/artist/4eW4BZAP0bK32vgLIe1IqO) | [Coastin](https://open.spotify.com/album/037ahJTrsQ4PuEvFUHljwQ) | 2:29 | 2022-05-27 | 2022-11-11 |
+| [Come Over](https://open.spotify.com/track/04sqJNwerxPO0D4bLso3JJ) | [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP) | [Come Over](https://open.spotify.com/album/2IdaCFi4oG9eOF5Juv9sFu) | 3:15 | 2026-06-12 |  |
 | [Commercial](https://open.spotify.com/track/7qScVhjvF1FyIBJFFrXaqP) | [4Mr Frank White](https://open.spotify.com/artist/7dSC3dZMaGQPFNG4ABAzL6), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0) | [Commercial](https://open.spotify.com/album/6bLVLGXuoUDLXCVQhK0JWv) | 2:25 | 2023-08-25 | 2024-05-24 |
 | [Complicated](https://open.spotify.com/track/6X7vxDcau5bwndcs58owCF) | [Polaris Pauline](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA), [Moeazy](https://open.spotify.com/artist/7JYVVIJHFX48ERG4Wt6HJz), [Drop Boy](https://open.spotify.com/artist/2VhB8HqjzPSe2pxNPBrGpJ) | [Complicated](https://open.spotify.com/album/7snX6S8N4Jmwx0qPa1qgdK) | 3:56 | 2023-11-30 | 2024-05-10 |
 | [Confirmation](https://open.spotify.com/track/0wnP35og5XijJl7yOl3HzC) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD), [Mr Ree](https://open.spotify.com/artist/2mPAvbZaeVCxrSBv65hhU8) | [Confirmation](https://open.spotify.com/album/00bCLPSqWsUnLLzM2rSx0j) | 4:02 | 2025-04-10 | 2026-02-19 |

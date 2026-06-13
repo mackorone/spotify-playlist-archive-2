@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 791019,
+  "num_followers": 791340,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Young Hearts Run Free (US Internet Release)",
-        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "Young Hearts Run Free",
-      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Caribou (Remastered 1995)",
@@ -615,6 +599,22 @@
       "duration_ms": 224933,
       "name": "The Bitch Is Back - Remastered 1995",
       "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Young Hearts Run Free (US Internet Release)",
+        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "Young Hearts Run Free",
+      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -857,6 +857,22 @@
       "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
     },
     {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 340742,
+      "name": "Smoke On The Water - Remastered 2012",
+      "url": "https://open.spotify.com/track/5MMnwYs0hIxkENRsbkWJ2G"
+    },
+    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Fantastic Boney M.",
@@ -873,20 +889,20 @@
       "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
       "artists": [
         {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 340742,
-      "name": "Smoke On The Water - Remastered 2012",
-      "url": "https://open.spotify.com/track/5MMnwYs0hIxkENRsbkWJ2G"
+      "duration_ms": 235440,
+      "name": "Crocodile Rock",
+      "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -907,22 +923,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Don't Shoot Me I'm Only The Piano Player",
-        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Crocodile Rock",
-      "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 274000,
       "name": "Can't Get Enough Of Your Love, Babe",
       "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Take The Heat Off Me",
-        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -971,6 +955,22 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
+        "name": "Take The Heat Off Me",
+        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "The Boys Are Back In Town",
-      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Right Back Where We Started From",
         "url": "https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 192266,
       "name": "Right Back Where We Started From",
       "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Jailbreak (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "The Boys Are Back In Town",
+      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "The Best Of Don McLean",
-        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 515866,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Songs In The Key Of Life",
@@ -1335,6 +1319,22 @@
       "duration_ms": 394266,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Best Of Don McLean",
+        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 515866,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "The Collection & Tracklisting",
-        "url": "https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq"
-      },
-      "artists": [
-        {
-          "name": "Baccara",
-          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
-        }
-      ],
-      "duration_ms": 273866,
-      "name": "Yes Sir, I Can Boogie",
-      "url": "https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "That's The Way Of The World",
@@ -1399,6 +1383,22 @@
       "duration_ms": 170212,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Collection & Tracklisting",
+        "url": "https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq"
+      },
+      "artists": [
+        {
+          "name": "Baccara",
+          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
+        }
+      ],
+      "duration_ms": 273866,
+      "name": "Yes Sir, I Can Boogie",
+      "url": "https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "The Singles 1974 - 76",
-        "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
-      },
-      "artists": [
-        {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 172733,
       "name": "Please Mr. Postman",
       "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "The Singles 1974 - 76",
+        "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1753,22 +1753,6 @@
       "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Got To Be There",
-        "url": "https://open.spotify.com/album/6pam66S3gqDo0Yy4cjlR9G"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 151933,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
@@ -1787,6 +1771,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Got To Be There",
+        "url": "https://open.spotify.com/album/6pam66S3gqDo0Yy4cjlR9G"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 151933,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "On The Radio: Greatest Hits Volumes I & II",
         "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
       },
@@ -1799,22 +1799,6 @@
       "duration_ms": 296506,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/5fKTkCOpnyJko7jZqpbJnX"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Cosmo's Factory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 152453,
-      "name": "Lookin' Out My Back Door",
-      "url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS"
     },
     {
       "added_at": "2022-08-11 07:51:07",
@@ -1835,6 +1819,22 @@
       "duration_ms": 179573,
       "name": "We Go Together - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/5CyZPkmTBmq61SunRDysna"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 152453,
+      "name": "Lookin' Out My Back Door",
+      "url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "It Only Takes a Minute: A Lifetime with Tavares",
-        "url": "https://open.spotify.com/album/1Qe9DoLXWCIwguQieoTcQh"
-      },
-      "artists": [
-        {
-          "name": "Tavares",
-          "url": "https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0"
-        }
-      ],
-      "duration_ms": 389760,
-      "name": "Heaven Must Be Missing An Angel - Pt. 1",
-      "url": "https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Book Of Dreams",
         "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 265840,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "It Only Takes a Minute: A Lifetime with Tavares",
+        "url": "https://open.spotify.com/album/1Qe9DoLXWCIwguQieoTcQh"
+      },
+      "artists": [
+        {
+          "name": "Tavares",
+          "url": "https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0"
+        }
+      ],
+      "duration_ms": 389760,
+      "name": "Heaven Must Be Missing An Angel - Pt. 1",
+      "url": "https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2221,22 +2221,6 @@
       "url": "https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Nightbirds",
-        "url": "https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo"
-      },
-      "artists": [
-        {
-          "name": "LaBelle",
-          "url": "https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5"
-        }
-      ],
-      "duration_ms": 237121,
-      "name": "Lady Marmalade",
-      "url": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "I Love The Way You Love",
@@ -2251,6 +2235,22 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Nightbirds",
+        "url": "https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo"
+      },
+      "artists": [
+        {
+          "name": "LaBelle",
+          "url": "https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5"
+        }
+      ],
+      "duration_ms": 237121,
+      "name": "Lady Marmalade",
+      "url": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C"
+      },
+      "artists": [
+        {
+          "name": "Andy Kim",
+          "url": "https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "Rock Me Gently",
+      "url": "https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
@@ -2351,22 +2367,6 @@
       "duration_ms": 363973,
       "name": "Don't Leave Me This Way (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C"
-      },
-      "artists": [
-        {
-          "name": "Andy Kim",
-          "url": "https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli"
-        }
-      ],
-      "duration_ms": 208333,
-      "name": "Rock Me Gently",
-      "url": "https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w"
     },
     {
       "added_at": "2021-09-08 13:31:49",

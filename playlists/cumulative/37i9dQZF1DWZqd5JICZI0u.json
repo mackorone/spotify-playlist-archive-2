@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 177500,
       "name": "A Brief Disappearance",
       "url": "https://open.spotify.com/track/6FyeyedXeAIoGAISk4o3AQ"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 165807,
       "name": "Caligo",
       "url": "https://open.spotify.com/track/0M4o2R0n0t8hbKnnOYvB3T"
@@ -3110,7 +3110,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 153786,
       "name": "Deferred",
       "url": "https://open.spotify.com/track/6LS8m8Rl2nuC5JWf3MK5Ao"
@@ -3722,7 +3722,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 154054,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/3Hv6xQ2NhCVtt4DSSnVwbG"
@@ -3902,7 +3902,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 146686,
       "name": "Effortless Elevation",
       "url": "https://open.spotify.com/track/6KRvdB6Z22sVh2bWsUygpV"
@@ -4647,6 +4647,24 @@
     },
     {
       "album": {
+        "name": "Everything Slows Here",
+        "url": "https://open.spotify.com/album/1TLjgbbFIzFwUD2vaFIcd2"
+      },
+      "artists": [
+        {
+          "name": "knownbyC",
+          "url": "https://open.spotify.com/artist/3r6IlT9KI2aOfSuBClGBxb"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Everything Slows Here",
+      "url": "https://open.spotify.com/track/0d7WqO5Iv08SdFcvzRz7zf"
+    },
+    {
+      "album": {
         "name": "Eyes of Redemption",
         "url": "https://open.spotify.com/album/1fhB9ZPMq9JfSIEq0RSR17"
       },
@@ -4986,6 +5004,24 @@
       "duration_ms": 214800,
       "name": "Floating Peace",
       "url": "https://open.spotify.com/track/1vpzs2y4nduldNWjJdPMQ6"
+    },
+    {
+      "album": {
+        "name": "Flor",
+        "url": "https://open.spotify.com/album/2fjBUUqacvBRBRCQqMwGYn"
+      },
+      "artists": [
+        {
+          "name": "valle cielo",
+          "url": "https://open.spotify.com/artist/1ChmzMdQaPcPp8x1e2L1ur"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124878,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/5tvZ0sRTMZfrI1smWB8IFr"
     },
     {
       "album": {
@@ -5738,7 +5774,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 157375,
       "name": "Halcyon Lull",
       "url": "https://open.spotify.com/track/2jYugYwdC575s7OiijZtG8"
@@ -6066,6 +6102,24 @@
       "duration_ms": 192000,
       "name": "Hollows",
       "url": "https://open.spotify.com/track/1gXtXh6E4QHy3r0TgAvzcl"
+    },
+    {
+      "album": {
+        "name": "Honeyed",
+        "url": "https://open.spotify.com/album/4ep0KSgvAOtfU1xzzzGZ33"
+      },
+      "artists": [
+        {
+          "name": "Ambient X",
+          "url": "https://open.spotify.com/artist/15NGcH8rjmaCOXThYAmKNX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143283,
+      "name": "Honeyed",
+      "url": "https://open.spotify.com/track/2X0RQzNCFduEMtLjCpRp2h"
     },
     {
       "album": {
@@ -7833,6 +7887,24 @@
     },
     {
       "album": {
+        "name": "Lunar Meadow",
+        "url": "https://open.spotify.com/album/6oxL4xBP0RXdOAgJS0j8TV"
+      },
+      "artists": [
+        {
+          "name": "Vallis Somnia",
+          "url": "https://open.spotify.com/artist/1wUbzegTKNtb4LULjtBZL2"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Lunar Meadow",
+      "url": "https://open.spotify.com/track/4MncNchHlmyP71V8KVjqwd"
+    },
+    {
+      "album": {
         "name": "Lunar Pines",
         "url": "https://open.spotify.com/album/6wDIzJ86vYWgmZc6njDkRI"
       },
@@ -8082,6 +8154,24 @@
       "duration_ms": 207871,
       "name": "Meaningful Existence",
       "url": "https://open.spotify.com/track/2nVklUKcB3i8fixjU122ZI"
+    },
+    {
+      "album": {
+        "name": "Measure",
+        "url": "https://open.spotify.com/album/5cEhTCjaRNldOtQXsaZbB5"
+      },
+      "artists": [
+        {
+          "name": "Brkati Madjinca",
+          "url": "https://open.spotify.com/artist/7Ayz1OFtqK05oY0RDxUVDX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144677,
+      "name": "Measure",
+      "url": "https://open.spotify.com/track/6meA5kdxjS9pBykWPSgyOs"
     },
     {
       "album": {
@@ -9212,7 +9302,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 134000,
       "name": "Nightflora",
       "url": "https://open.spotify.com/track/2OLP1fGXBb3Jhizk1WWCad"
@@ -10159,6 +10249,24 @@
     },
     {
       "album": {
+        "name": "Penumbra",
+        "url": "https://open.spotify.com/album/6xTl0KevjcLieTix78UEDU"
+      },
+      "artists": [
+        {
+          "name": "Zane Cassidy",
+          "url": "https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153708,
+      "name": "Penumbra",
+      "url": "https://open.spotify.com/track/1GA4tzPipwBJxVtwBRqHdx"
+    },
+    {
+      "album": {
         "name": "Perfecta paz",
         "url": "https://open.spotify.com/album/0ASgTzf5KZiF6A8MawqScN"
       },
@@ -10278,7 +10386,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 141333,
       "name": "Phorosine",
       "url": "https://open.spotify.com/track/2oMPTdSZDzJ0f5IzIxdmvr"
@@ -10876,6 +10984,24 @@
       "duration_ms": 170000,
       "name": "Quietude",
       "url": "https://open.spotify.com/track/4iefI73u9sh2kf8BPVchW8"
+    },
+    {
+      "album": {
+        "name": "Radiant Silence",
+        "url": "https://open.spotify.com/album/5OO46Ywofy5hoCyNjZxWs7"
+      },
+      "artists": [
+        {
+          "name": "Ambient Eternal",
+          "url": "https://open.spotify.com/artist/7HeEzWQeYDfoVJY5y5yNAR"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Radiant Silence",
+      "url": "https://open.spotify.com/track/6QNo0yq75ze6HlBrbdvf5I"
     },
     {
       "album": {
@@ -12546,7 +12672,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 173200,
       "name": "Soft Touch",
       "url": "https://open.spotify.com/track/0oX18JSbFCAyuMcwdA0xFC"
@@ -13446,7 +13572,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 153375,
       "name": "Tao Flow",
       "url": "https://open.spotify.com/track/1b1A04shw3TfRZwbOPQd2Y"
@@ -13738,7 +13864,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 184702,
       "name": "The Burning Sky",
       "url": "https://open.spotify.com/track/0z5i7a6IXr0rlwXy4PlM52"
@@ -13922,6 +14048,24 @@
       "duration_ms": 150283,
       "name": "Tideveil",
       "url": "https://open.spotify.com/track/0YDT2wCc8FhBF1sEq3XcQX"
+    },
+    {
+      "album": {
+        "name": "Time Resting on Itself",
+        "url": "https://open.spotify.com/album/53vYFDgzRtbO2j3enyWDnr"
+      },
+      "artists": [
+        {
+          "name": "Nebula Drift",
+          "url": "https://open.spotify.com/artist/2KFE9LRhcbRSsSJBasIFjh"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Time Resting on Itself",
+      "url": "https://open.spotify.com/track/4WLZ0ZeYr2NjJEoiy47aWe"
     },
     {
       "album": {

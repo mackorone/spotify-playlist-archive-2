@@ -4,7 +4,7 @@
 
 > when the new hockey show \*hits\*
 
-730 songs - 1 day 15 hr 16 min
+731 songs - 1 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,7 @@
 | [In Love With A Memory](https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [In Love With A Memory](https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff) | 4:03 | 2025-02-06 | 2025-03-02 |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2023-03-16 | 2024-06-04 |
 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-08-22 | 2023-09-20 |
-| [Infinity \(123\)](https://open.spotify.com/track/0hxm1fqvdrGLRbf1RF6wID) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [Infinity \(123\)](https://open.spotify.com/album/5QzDHoPIyHsaD0XgnMwnKH) | 2:19 | 2026-06-11 |  |
+| [Infinity \(123\)](https://open.spotify.com/track/0hxm1fqvdrGLRbf1RF6wID) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [Infinity \(123\)](https://open.spotify.com/album/5QzDHoPIyHsaD0XgnMwnKH) | 2:19 | 2026-06-11 | 2026-06-13 |
 | [Inside Out](https://open.spotify.com/track/3x39bVlJlxorxZGzBpc2yA) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 3:57 | 2025-02-06 | 2025-08-22 |
 | [INTERSTATE](https://open.spotify.com/track/4goSa5vzEAF0tRp17gATJt) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [INTERSTATE](https://open.spotify.com/album/3nCdekiGsGifHg5kFlFOXI) | 2:43 | 2025-04-10 | 2025-05-02 |
 | [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 | 2025-06-19 | 2025-07-11 |
@@ -470,6 +470,7 @@
 | [Painkiller](https://open.spotify.com/track/1YlulsUKDduOmC7WxvXYPW) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:33 | 2024-02-08 | 2024-02-23 |
 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 | 2025-11-06 | 2026-05-23 |
 | [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 | 2025-02-27 | 2025-03-02 |
+| [Perfect 10](https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings \(Deluxe\)](https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc) | 2:51 | 2026-06-11 |  |
 | [PIECES](https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 3:25 | 2026-04-23 |  |
 | [Piggies](https://open.spotify.com/track/1dVKmV9ErGw2ucGzEmWr7d) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU) | [Piggies](https://open.spotify.com/album/2dK5bDdNVgopZB4VklZ7C9) | 2:34 | 2025-05-01 | 2025-05-16 |
 | [Pillow In My Arms](https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [ver2igo vol\. 2](https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav) | 3:16 | 2024-04-04 | 2024-04-12 |

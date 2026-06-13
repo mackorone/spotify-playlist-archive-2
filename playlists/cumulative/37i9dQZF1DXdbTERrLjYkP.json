@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 157746,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/0mWmLVtSUrAqpbueDcDJ3U"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 185629,
       "name": "Ashes & Smoke",
       "url": "https://open.spotify.com/track/5z4vkBqAyhYRksxBdaFRYP"
@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 188910,
       "name": "Bootstraps",
       "url": "https://open.spotify.com/track/4X7cpw2ZwK8WdJAoMh6YXn"
@@ -3526,6 +3526,24 @@
       "duration_ms": 179796,
       "name": "Come Close",
       "url": "https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh"
+    },
+    {
+      "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/78wzkaj5dqgjfggOEuqMUZ"
+      },
+      "artists": [
+        {
+          "name": "Asha Banks",
+          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175747,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6"
     },
     {
       "album": {
@@ -5553,6 +5571,24 @@
     },
     {
       "album": {
+        "name": "Small Philosophies",
+        "url": "https://open.spotify.com/album/26EdmznN7QhNWNvtXVZbV2"
+      },
+      "artists": [
+        {
+          "name": "Alkyone",
+          "url": "https://open.spotify.com/artist/0tHJO69AKpp9qz6a0Tg6Rt"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178262,
+      "name": "Favorite Things",
+      "url": "https://open.spotify.com/track/641lcPWbNcmdnshN4RWp6D"
+    },
+    {
+      "album": {
         "name": "Fear of the Unknown",
         "url": "https://open.spotify.com/album/60olbifny6PT6tQ67u0k89"
       },
@@ -6148,7 +6184,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 159000,
       "name": "Gangster's Wife",
       "url": "https://open.spotify.com/track/30vGqh1ELeYh6r4A6FIaya"
@@ -10196,7 +10232,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 225266,
       "name": "Let The Girl Out",
       "url": "https://open.spotify.com/track/2mNX8x4bY3Bgz6u1WAa80L"
@@ -11724,6 +11760,24 @@
       "duration_ms": 237391,
       "name": "Middle Name (with Mckenna Grace)",
       "url": "https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j"
+    },
+    {
+      "album": {
+        "name": "Midnight Blue",
+        "url": "https://open.spotify.com/album/1di7MEeESta7xDolrg0jMX"
+      },
+      "artists": [
+        {
+          "name": "Maya Engen",
+          "url": "https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252019,
+      "name": "Midnight Blue",
+      "url": "https://open.spotify.com/track/2e1cxDtd6Pm31HcbRAcwgy"
     },
     {
       "album": {
@@ -15987,6 +16041,24 @@
     },
     {
       "album": {
+        "name": "Sunny Surrender",
+        "url": "https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC"
+      },
+      "artists": [
+        {
+          "name": "Diva Smith",
+          "url": "https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201456,
+      "name": "Still The Kid",
+      "url": "https://open.spotify.com/track/7amqdTB1SWli7FsopSVUdd"
+    },
+    {
+      "album": {
         "name": "Stones",
         "url": "https://open.spotify.com/album/06spE9ETkbGlW4P82T5A5t"
       },
@@ -16038,6 +16110,24 @@
       "duration_ms": 135274,
       "name": "Stop Looking at Me Like That",
       "url": "https://open.spotify.com/track/5bwKZfXDiLIx5v3guwEIrU"
+    },
+    {
+      "album": {
+        "name": "Stop Me Dead",
+        "url": "https://open.spotify.com/album/37XRrMkAxD04z1scC9AgxF"
+      },
+      "artists": [
+        {
+          "name": "Kerr Mercer",
+          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151794,
+      "name": "Stop Me Dead",
+      "url": "https://open.spotify.com/track/0JiNzR7D3lpOumnlUGnKjU"
     },
     {
       "album": {
@@ -16244,6 +16334,24 @@
       "duration_ms": 141582,
       "name": "Super Glue",
       "url": "https://open.spotify.com/track/3lqCa64sI3KAbXNBNweNuf"
+    },
+    {
+      "album": {
+        "name": "Superstar Syndrome",
+        "url": "https://open.spotify.com/album/1wwM9eYBxOYVwvLWMONppa"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190787,
+      "name": "Superstar Syndrome",
+      "url": "https://open.spotify.com/track/2wJhQccf0olvXdFFS8n7Ay"
     },
     {
       "album": {
@@ -19518,7 +19626,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 240472,
       "name": "Young & Green",
       "url": "https://open.spotify.com/track/5XV0jYzNnJDnmL2jn8R8Ek"

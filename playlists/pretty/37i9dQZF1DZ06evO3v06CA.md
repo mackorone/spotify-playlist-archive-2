@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,862 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,856 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 30 | [Me and Paul](https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Yesterday's Wine](https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf) | 3:49 |
 | 31 | [City of New Orleans \- Live at Nassau Coliseum, Uniondale, NY \- March 1990](https://open.spotify.com/track/6FaNaSx1Z2WwdQIeqePjto) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live \- American Outlaws](https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR) | 5:05 |
 | 32 | [SMOKE HOUR ★ WILLIE NELSON](https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 0:50 |
-| 33 | [Blue Skies](https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 3:37 |
-| 34 | [Dream Chaser](https://open.spotify.com/track/2KbnXqhgfPQRq3fxoPu0C9) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dream Chaser](https://open.spotify.com/album/2Q4HugjymuQggJWOpstx7P) | 3:14 |
+| 33 | [Dream Chaser](https://open.spotify.com/track/2KbnXqhgfPQRq3fxoPu0C9) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dream Chaser](https://open.spotify.com/album/2Q4HugjymuQggJWOpstx7P) | 3:14 |
+| 34 | [Blue Skies](https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 3:37 |
 | 35 | [Welcome To Hazeville](https://open.spotify.com/track/39TYRr1lPpurfYPXzsOiBV) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Fire & Brimstone](https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0) | 3:01 |
 | 36 | [Eu Só Penso em Você \(Always On My Mind\) \(feat\. Willie Nelson\)](https://open.spotify.com/track/5khbn2nR9I6QBE7992lrWL) | [Zezé Di Camargo & Luciano](https://open.spotify.com/artist/4dyYjqmYDjegbB3F2mbvcT), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Zezé Di Camargo & Luciano 1993](https://open.spotify.com/album/6LOFKEu2x9qznKyY0KUHD3) | 3:49 |
-| 37 | [Easy](https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tuskegee \(Deluxe Version\)](https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z) | 4:30 |
-| 38 | [We'd Make A Good Movie](https://open.spotify.com/track/293CdrhhfzsjNB7xdlNr1R) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dream Chaser](https://open.spotify.com/album/2Q4HugjymuQggJWOpstx7P) | 3:32 |
+| 37 | [We'd Make A Good Movie](https://open.spotify.com/track/293CdrhhfzsjNB7xdlNr1R) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dream Chaser](https://open.spotify.com/album/2Q4HugjymuQggJWOpstx7P) | 3:32 |
+| 38 | [Easy](https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tuskegee \(Deluxe Version\)](https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z) | 4:30 |
 | 39 | [Juanita \(feat\. Willie Nelson\)](https://open.spotify.com/track/2FA1Xr6ta3X1KkLOaQoDAq) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/1DQToqPJhrQTpCeZV8o2ru) | 3:40 |
 | 40 | [Have You Ever Seen the Rain \(feat\. Paula Nelson\)](https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Paula Nelson](https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV) | [To All The Girls...](https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx) | 4:39 |
 | 41 | [Bloody Mary Morning](https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Phases And Stages](https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 49 | [Crazy](https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [And Then I Wrote](https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu) | 2:53 |
 | 50 | [I Can Get off on You \- Remastered](https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:27 |
 
-Snapshot ID: `aiipAAAAAAD8XoqGqvg9y2nE/I54ORhO`
+Snapshot ID: `ain6gAAAAADsBxPgpVNLBPaT0xWlsxjW`

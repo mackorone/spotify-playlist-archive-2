@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 121263,
       "name": "Balbiber",
       "url": "https://open.spotify.com/track/5fQLukeUgE3NlSwlQx3KWY"
@@ -5674,7 +5674,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 207678,
       "name": "Bir \u00c7ift G\u00f6z",
       "url": "https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H"
@@ -16397,6 +16397,24 @@
     },
     {
       "album": {
+        "name": "A\u011flama Bebe\u011fim",
+        "url": "https://open.spotify.com/album/4HsuKWmvTG5xWAO5ufQDDS"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Kaya",
+          "url": "https://open.spotify.com/artist/1Y2FwScblyMxpLTrNdfwyU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172245,
+      "name": "Kara Yaz\u0131",
+      "url": "https://open.spotify.com/track/3baJJpuPE2m59HQWRRCPEy"
+    },
+    {
+      "album": {
         "name": "Karakol",
         "url": "https://open.spotify.com/album/2qqFtHv6jxvqumZDDF9jfO"
       },
@@ -20308,7 +20326,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 114174,
       "name": "NAF\u0130LE",
       "url": "https://open.spotify.com/track/6za5uNOnbaJ2nsW0HiMCCF"
@@ -23368,7 +23386,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 195054,
       "name": "R\u00dcYA",
       "url": "https://open.spotify.com/track/67AMcEV9GTOlxs1NAvUDiU"
@@ -28106,7 +28124,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 195800,
       "name": "Yanar\u0131m",
       "url": "https://open.spotify.com/track/69dbmLAqR6BTHOvMpZ7XK3"

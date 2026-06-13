@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 355708,
+  "num_followers": 355739,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAC2owc7OT8sPDh9kup5CO4E",
+  "snapshot_id": "ain6gAAAAAAqdmNXIDI/zrMYDPR3NQN7",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "Es Verdad",
-      "url": "https://open.spotify.com/track/0mPDiJbkbk88vpgviK63Fm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Robaste El Corazon",
         "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 198920,
       "name": "La Chona",
       "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "Es Verdad",
+      "url": "https://open.spotify.com/track/0mPDiJbkbk88vpgviK63Fm"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 174160,
-      "name": "El Tucanazo",
-      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "14 Tucanazos Bien Pesados",
         "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 163191,
       "name": "Mis Tres Animales",
       "url": "https://open.spotify.com/track/50urwe1JN84PxSKsJ8yY2p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 174160,
+      "name": "El Tucanazo",
+      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Primera Plana",
-        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Gripa Colombiana",
-      "url": "https://open.spotify.com/track/33Kxt0fCaltxIuIOzM7hfs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romance Norte\u00f1o",
         "url": "https://open.spotify.com/album/6OolFCMNSTNv1faRoAdEfG"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 208253,
       "name": "Se Fue Mi Amor",
       "url": "https://open.spotify.com/track/12DD2WZnlpq72BlsNdv4LK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Primera Plana",
+        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Gripa Colombiana",
+      "url": "https://open.spotify.com/track/33Kxt0fCaltxIuIOzM7hfs"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Soy La Ley",
+        "url": "https://open.spotify.com/album/5jo67wszoeNfBAFn3xzKKb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 211721,
+      "name": "La Tierra Del Corrido",
+      "url": "https://open.spotify.com/track/2g2eJLyrj6w6YnxLNSjmVw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "14 Tucanazos Bien Pesados",
         "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Soy La Ley",
-        "url": "https://open.spotify.com/album/5jo67wszoeNfBAFn3xzKKb"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 211721,
-      "name": "La Tierra Del Corrido",
-      "url": "https://open.spotify.com/track/2g2eJLyrj6w6YnxLNSjmVw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mas Buscados",
         "url": "https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 174013,
       "name": "Los Mas Buscados",
       "url": "https://open.spotify.com/track/3UmOoT3QzBqX0wDly4eHoA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "14 Tucanazos Bien Pesados",
-        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 233431,
-      "name": "El Guero Palma",
-      "url": "https://open.spotify.com/track/6p9oaClC7aKEfUPGlvozCM"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 153221,
       "name": "El \u00c1guila Blanca (En Vivo)",
       "url": "https://open.spotify.com/track/4R5nSQMSaXs7okGyfdjb5H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 233431,
+      "name": "El Guero Palma",
+      "url": "https://open.spotify.com/track/6p9oaClC7aKEfUPGlvozCM"
     },
     {
       "added_at": null,

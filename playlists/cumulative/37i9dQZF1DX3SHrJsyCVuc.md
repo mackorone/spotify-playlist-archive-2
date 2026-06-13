@@ -4,7 +4,7 @@
 
 > A new world of alternative noise\. Cover: YHWH Nailgun
 
-203 songs - 11 hr 5 min
+204 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Double Clover](https://open.spotify.com/track/7saFP1pvhh9Uqd2BciqajX) | [Eveline Breaker](https://open.spotify.com/artist/6VOVjDRQnDqCALmKsgQneG) | [Idle Viewer](https://open.spotify.com/album/4aHh0ZVPwmjZ5H6VZGJIOC) | 4:35 | 2025-12-18 | 2026-04-17 |
 | [Dove](https://open.spotify.com/track/7IJF32v3Zf5lgEU0wnVwCg) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [Dove](https://open.spotify.com/album/3kvl3LBeNaOTquSrmM8Ny4) | 4:29 | 2025-10-23 | 2026-01-23 |
 | [Dream Bigger](https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [Dream Bigger](https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1) | 3:05 | 2025-10-23 | 2026-02-13 |
+| [Drive](https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Drive](https://open.spotify.com/album/1EQK6Ve1W9b4bEKK3QAYtj) | 2:59 | 2026-06-11 |  |
 | [Easy Now](https://open.spotify.com/track/116Q6WPhxJhZZCkjlzXiaE) | [Fan Girl](https://open.spotify.com/artist/5T6xZyiyC7t9IChfUHu4zt) | [Easy Now](https://open.spotify.com/album/6EWtwbgoSPagWHzNc3lS5r) | 4:20 | 2026-02-19 | 2026-04-03 |
 | [Echo Grey](https://open.spotify.com/track/5mnxFNPyk5W2iv1DTK3ghe) | [Fan Girl](https://open.spotify.com/artist/5T6xZyiyC7t9IChfUHu4zt) | [Echo Grey](https://open.spotify.com/album/6kjHn8mzu8cAdOE69Kx5Io) | 4:25 | 2026-03-26 |  |
 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 | 2025-10-23 | 2026-05-22 |

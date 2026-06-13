@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: izna
 
-1,752 songs - 3 day 20 hr 19 min
+1,754 songs - 3 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -717,6 +717,7 @@
 | [ICARUS](https://open.spotify.com/track/6F3JheiZtQnzGfjbAocreQ) | [DINO \(SEVENTEEN\)](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [CASTAWAY DIVA OST Part.3](https://open.spotify.com/album/0QIzWo1Ly5l26INuULPO6Z) | 3:31 | 2023-11-09 | 2023-11-16 |
 | [Ice Cream](https://open.spotify.com/track/5zd8462HQf1mxn0lTTuBny) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/67mVZdAnBrq7HSVbPPbgif) | 2:51 | 2026-03-24 |  |
 | [Ice On My Teeth](https://open.spotify.com/track/0xGgYWdUS3g23VOEydYrqm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.2](https://open.spotify.com/album/3yigtf01oYimHLNYzop85Z) | 3:03 | 2024-11-15 | 2025-02-25 |
+| [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 | 2026-06-12 |  |
 | [ICY BBY](https://open.spotify.com/track/7aQY8ckcvqNu0X20Wac4Zz) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [ICY BBY](https://open.spotify.com/album/58G2sRHq3C0Z1srLSRzwuV) | 3:02 | 2025-06-17 | 2025-06-19 |
 | [Identity](https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Identity](https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD) | 2:20 | 2024-10-27 | 2024-11-06 |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-01-07 | 2025-03-07 |
@@ -1679,6 +1680,7 @@
 | [You](https://open.spotify.com/track/6MfWIdV9e9vu3V34L225B5) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA) | [JIN LAB Project 4\. \[You\]](https://open.spotify.com/album/4dvlOLOSqR0oOW1bNtXZDb) | 3:18 | 2024-07-29 | 2024-08-21 |
 | [You & Me \(Coachella ver.\)](https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2023-10-06 | 2023-12-22 |
 | [You Are My Reason](https://open.spotify.com/track/5uqBNvs6pldeDkcfiRdvnK) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [You Are My Reason](https://open.spotify.com/album/6vodukTmfY1hMNd6zjNjhM) | 3:19 | 2024-11-12 | 2024-12-10 |
+| [You Light Up My Life](https://open.spotify.com/track/5l1iyZe8GGrea4jUV2wCrp) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [You Light Up My Life](https://open.spotify.com/album/3DV7tI90A2gPUgkBidcowK) | 3:27 | 2026-06-12 |  |
 | [You Problem](https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 3:19 | 2021-12-23 | 2022-03-02 |
 | [YOU+ME=7942](https://open.spotify.com/track/5E2aYgi77oSMJ5dGzAbLpc) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 2nd Mini Album 'SUMMER BEAT!'](https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03) | 2:22 | 2024-06-28 | 2024-08-21 |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 | 2023-06-06 | 2023-08-01 |

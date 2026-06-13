@@ -1,13 +1,33 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 384069,
+  "num_followers": 384066,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJnLt8t1sgmKGcwQAxskVzpQpV2d",
+  "snapshot_id": "AAAAACWAt1buQyOtXYtLrVd6n2ZuDbL+",
   "tracks": [
+    {
+      "added_at": "2026-06-12 04:00:20",
+      "album": {
+        "name": "VietSwing",
+        "url": "https://open.spotify.com/album/2R29oPQ7y4D8WztvOKdDRX"
+      },
+      "artists": [
+        {
+          "name": "Bart & Baker",
+          "url": "https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN"
+        },
+        {
+          "name": "Ph\u01b0\u01a1ng Vy",
+          "url": "https://open.spotify.com/artist/5A81GkfzRSHiNQrge5m9gv"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "It's in Her Heels - Radio Mix VietSwing Version",
+      "url": "https://open.spotify.com/track/1QpcZMAjtAcQRDUFbIEgB0"
+    },
     {
       "added_at": "2025-11-21 01:42:25",
       "album": {
@@ -879,22 +899,6 @@
       "duration_ms": 193533,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/2la1dM3OB8gTKzq9P2vAwx"
-    },
-    {
-      "added_at": "2025-11-21 01:42:25",
-      "album": {
-        "name": "Do You Want The Truth Or Something Beautiful?",
-        "url": "https://open.spotify.com/album/2Nux29fvtv1jlTuXPT28E0"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 189186,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/7wTmnOSpVJcIzj5FIz2I04"
     },
     {
       "added_at": "2025-11-21 01:42:25",

@@ -11539,6 +11539,24 @@
     },
     {
       "album": {
+        "name": "Je komt niet zomaar van me af",
+        "url": "https://open.spotify.com/album/3N670zG8sXXMLX8mPLHDBY"
+      },
+      "artists": [
+        {
+          "name": "Dyde",
+          "url": "https://open.spotify.com/artist/4KDbJoYj56Kf3KSpZYWEUu"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163523,
+      "name": "Je komt niet zomaar van me af",
+      "url": "https://open.spotify.com/track/0lzplgiDpwPN2sr3vG0iM2"
+    },
+    {
+      "album": {
         "name": "Je leeft maar 1 keer",
         "url": "https://open.spotify.com/album/1EgjIzMkAbsoxMdaYKq5xz"
       },
@@ -14866,7 +14884,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 211140,
       "name": "Met de tijd",
       "url": "https://open.spotify.com/track/5EHMrjRk0K07KSlz93XPNA"
@@ -17430,6 +17448,24 @@
       "duration_ms": 164776,
       "name": "Op Afstand",
       "url": "https://open.spotify.com/track/6Y4UvcMPmigB2masCY39Td"
+    },
+    {
+      "album": {
+        "name": "Op Afstand (Live Versie)",
+        "url": "https://open.spotify.com/album/32k2jHSy7hQIadryzm7NVx"
+      },
+      "artists": [
+        {
+          "name": "Kaya Imani",
+          "url": "https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129523,
+      "name": "Op Afstand - Live Versie",
+      "url": "https://open.spotify.com/track/5o4o6EEnKhdRZeRYOMwpGF"
     },
     {
       "album": {

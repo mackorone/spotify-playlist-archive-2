@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Artur Rojek, Dawid Podsiadło
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,015 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,125 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 23 | [lepiej](https://open.spotify.com/track/7GCE9OgHlDaXOWaq1b0vU6) | [imasleep](https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i) | [lepiej](https://open.spotify.com/album/2qq3p36UTibQYlpu0IV6R0) | 2:15 |
 | 24 | [Lepiej mu szło kiedy pił](https://open.spotify.com/track/44BCYQIk6rrX8vtxfvbej5) | [SKUBAS](https://open.spotify.com/artist/5BoG8WljgEsbLOtoK5IAok) | [Lepiej mu szło kiedy pił](https://open.spotify.com/album/3w82yksCMNMcBN9iH6T4Dt) | 2:42 |
 | 25 | [Len](https://open.spotify.com/track/1GRKlmFW1t7ROA7UTZ6sUf) | [Jakub Wysmułek](https://open.spotify.com/artist/1iIcrcgUgQwx2yzqwAwAIK) | [Len](https://open.spotify.com/album/3JsfuP7Oul1Sblvubzjgwj) | 3:10 |
-| 26 | [Track 2](https://open.spotify.com/track/2mOBJQOCoEN2WYxtiITo3g) | [LULU Suicide](https://open.spotify.com/artist/06jfYdAKhLjZiFl6do9jdc) | [Fiber Optic Lovers](https://open.spotify.com/album/00Ho1soPX0C2PjnZR6KDsy) | 0:00 |
+| 26 | [Fiber Optic Love](https://open.spotify.com/track/2mOBJQOCoEN2WYxtiITo3g) | [LULU Suicide](https://open.spotify.com/artist/06jfYdAKhLjZiFl6do9jdc) | [Fiber Optic Lovers](https://open.spotify.com/album/00Ho1soPX0C2PjnZR6KDsy) | 3:39 |
 | 27 | [Nareszcie](https://open.spotify.com/track/1p4M9If0oTyeUsGsmAfmAI) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Nareszcie](https://open.spotify.com/album/70G6XGkSM2CWedDGAS22Dm) | 3:02 |
 | 28 | [Małym palcem o próg](https://open.spotify.com/track/3o6SILJ2UlYFAt7cQrxHrr) | [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il) | [Małym palcem o próg](https://open.spotify.com/album/6kUuzWjiWMRhLud7IzBNE4) | 3:08 |
 | 29 | [Nie szkoda](https://open.spotify.com/track/73Ju1QgCqj1N5wctZe2kZf) | [Olka](https://open.spotify.com/artist/48LWhmu5GqLeVIeGrvMagG) | [Nie szkoda](https://open.spotify.com/album/6EiPc82ghoiDAgoeUvSKjQ) | 2:51 |

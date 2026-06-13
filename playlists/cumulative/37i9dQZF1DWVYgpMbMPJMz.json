@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Mitch & Steph Wong",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: SEU Worship",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -1088,6 +1088,28 @@
       "duration_ms": 392308,
       "name": "Another One (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD"
+    },
+    {
+      "album": {
+        "name": "Anyone Else",
+        "url": "https://open.spotify.com/album/0Ni7aHZQdhZQ0OGX3ygMa0"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361184,
+      "name": "Anyone Else",
+      "url": "https://open.spotify.com/track/6lgJUKqmIj2vOWGG3A9PDf"
     },
     {
       "album": {
@@ -4296,7 +4318,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 563374,
       "name": "Dwell (Moment)",
       "url": "https://open.spotify.com/track/4G0ckbPS0LmfLHmdNZDPTC"
@@ -5025,6 +5047,24 @@
     },
     {
       "album": {
+        "name": "Fire In My Bones",
+        "url": "https://open.spotify.com/album/6GphnWnRbYRvTQkPDutIL6"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422560,
+      "name": "Fire In My Bones",
+      "url": "https://open.spotify.com/track/61vNrustykicatMErzO7DF"
+    },
+    {
+      "album": {
         "name": "The Maverick Way Complete",
         "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
       },
@@ -5348,6 +5388,28 @@
       "duration_ms": 355708,
       "name": "Fresh Fire - Live",
       "url": "https://open.spotify.com/track/6W9iuya71aSgxtn0g12SV0"
+    },
+    {
+      "album": {
+        "name": "Fresh Outpouring",
+        "url": "https://open.spotify.com/album/68bka17QcdkJr0YATEUdtu"
+      },
+      "artists": [
+        {
+          "name": "Southland",
+          "url": "https://open.spotify.com/artist/12Zrq1PlpqldPe1bfR5boK"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290633,
+      "name": "Fresh Outpouring",
+      "url": "https://open.spotify.com/track/1GMNxetxRH8nhDTd8dbMkk"
     },
     {
       "album": {
@@ -6381,6 +6443,28 @@
     },
     {
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/07zqZ3Ux5B5RfUSx9UtN8n"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501003,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1uR09SXUN6b4Nx0qS9bSNl"
+    },
+    {
+      "album": {
         "name": "Beyond Us (Deluxe)",
         "url": "https://open.spotify.com/album/2M55eh17kBBQURAGpGuDrA"
       },
@@ -7064,7 +7148,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 223578,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3I3CyeN4kUefehQ607eEHh"
@@ -8004,7 +8088,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 208392,
       "name": "Hymn For Communion",
       "url": "https://open.spotify.com/track/64PpOJZIEAcExkljmLsfDM"
@@ -8648,6 +8732,32 @@
       "duration_ms": 369923,
       "name": "I Want Jesus - Live",
       "url": "https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y"
+    },
+    {
+      "album": {
+        "name": "I Was Dead, Now I'm Alive",
+        "url": "https://open.spotify.com/album/5M1zIktnqOYB8WYOj136tu"
+      },
+      "artists": [
+        {
+          "name": "Awakening MVMT",
+          "url": "https://open.spotify.com/artist/6PuUeoGERfFCcCOGzf7IN4"
+        },
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Abby Klinge",
+          "url": "https://open.spotify.com/artist/6Fcd2uYQsHq7JGap2HULij"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323548,
+      "name": "I Was Dead, Now I'm Alive",
+      "url": "https://open.spotify.com/track/4jCZcUBdbAckNeWUu2Ydn6"
     },
     {
       "album": {
@@ -14798,7 +14908,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 280052,
       "name": "Psalm 103",
       "url": "https://open.spotify.com/track/60QixU3niqd9qaXaQnM57l"
@@ -15426,7 +15536,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 424700,
       "name": "Room",
       "url": "https://open.spotify.com/track/0Kje0chIptIu912nhgtU9y"
@@ -15830,7 +15940,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 120874,
       "name": "Shine Jesus Shine",
       "url": "https://open.spotify.com/track/5c8exuiri7IgOo0HuK48oE"
@@ -20806,6 +20916,28 @@
       "duration_ms": 264177,
       "name": "Wild Faith",
       "url": "https://open.spotify.com/track/0mjwvSKLLVxaGj0dq6mcZ1"
+    },
+    {
+      "album": {
+        "name": "Wild Rushing Wind",
+        "url": "https://open.spotify.com/album/11nSQefLFgxrC9cWi3w7Ko"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Caylie Bryant",
+          "url": "https://open.spotify.com/artist/7kvngYXa2bVPZt0fOT2r7O"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387637,
+      "name": "Wild Rushing Wind",
+      "url": "https://open.spotify.com/track/7tAGDWkhy6WOhU9lI1AInh"
     },
     {
       "album": {

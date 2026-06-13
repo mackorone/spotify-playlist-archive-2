@@ -1,13 +1,61 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 231023,
+  "num_followers": 231003,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADzyv2k4wTH8rqdhTf4dsZ4GLqs9",
+  "snapshot_id": "AAAAACQrFJFd1mRbNFAHDLiTjSkHU4Tq",
   "tracks": [
+    {
+      "added_at": "2026-06-12 17:24:25",
+      "album": {
+        "name": "Gotta Be Us (Be The People)",
+        "url": "https://open.spotify.com/album/6DB9aJSH9YGNlQLWBRYalw"
+      },
+      "artists": [
+        {
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Luke Borchelt",
+          "url": "https://open.spotify.com/artist/2O6xZPq4ER6q6xwdW3sLfQ"
+        },
+        {
+          "name": "Sadie Rose Van",
+          "url": "https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns"
+        },
+        {
+          "name": "The V.C.U Black Awakening Choir",
+          "url": "https://open.spotify.com/artist/0bWK7IfDl7NBYGOiiY7or5"
+        }
+      ],
+      "duration_ms": 170408,
+      "name": "Gotta Be Us (Be The People)",
+      "url": "https://open.spotify.com/track/0ukXWUAtiaxkJzqIAWBFou"
+    },
+    {
+      "added_at": "2026-06-12 18:03:39",
+      "album": {
+        "name": "Back In My Bed",
+        "url": "https://open.spotify.com/album/6eebyp11cjmRjQJZ3UO0K3"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 157184,
+      "name": "Back In My Bed",
+      "url": "https://open.spotify.com/track/6pRfdwtWZaAkPm5swHaz5A"
+    },
     {
       "added_at": "2026-05-29 04:01:42",
       "album": {
@@ -1745,26 +1793,6 @@
       "url": "https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf"
     },
     {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/7hwvmVx9NHOAmRHFgWZpe4"
-      },
-      "artists": [
-        {
-          "name": "Brasstracks",
-          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
-        },
-        {
-          "name": "Rothstein",
-          "url": "https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8"
-        }
-      ],
-      "duration_ms": 117927,
-      "name": "Home Improvement",
-      "url": "https://open.spotify.com/track/17O5F0I7FZJ009c9aKtWRo"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Ciao",
@@ -1783,26 +1811,6 @@
       "duration_ms": 178105,
       "name": "Ciao",
       "url": "https://open.spotify.com/track/5m7iT2XPqtkRDPoDNF5TRG"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "No More Lies",
-        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 327217,
-      "name": "No More Lies",
-      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
     },
     {
       "added_at": "2022-09-02 04:02:00",

@@ -2,9 +2,9 @@
 
 ### [The Essential Ska](https://open.spotify.com/playlist/37i9dQZF1DX7WJ4yDmRK8R)
 
-> This is the best of ska, new and classic\. Los Calzones on cover
+> This is the best of ska, new and classic\. Sublime on cover
 
-353 songs - 19 hr 11 min
+356 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [9mm and a Three Piece Suit](https://open.spotify.com/track/0TBEx3nrsV7gnEL3gQPj9W) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/3qr6t93uRL9vO4VSIEziCF) | 1:56 | 2021-09-02 | 2022-07-29 |
 | [9mm And A Three Piece Suit](https://open.spotify.com/track/2BYJwdVcgfrGkRtVdZeX14) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a) | 1:56 | 2022-04-14 | 2024-04-19 |
 | [9mm and a Three Piece Suit](https://open.spotify.com/track/68bGhoS2PXGGNyTSY15E1z) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [Keasbey Nights](https://open.spotify.com/album/154WubOvkSkyqZdE5JtmRU) | 1:56 | 2022-04-14 | 2022-11-13 |
-| [A Better Home](https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Self Care](https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X) | 2:28 | 2021-09-02 |  |
+| [A Better Home](https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Self Care](https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X) | 2:28 | 2021-09-02 | 2026-06-13 |
 | [A Blind Eye](https://open.spotify.com/track/28Uy1rMHQ6rZUauFHEgAiy) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Persona Non Grata](https://open.spotify.com/album/0x8LMd14mtU8fLTcQfzvcI) | 2:51 | 2021-09-02 | 2024-05-21 |
 | [A Flat City](https://open.spotify.com/track/590BnlG9y6C0f9UivPq4qt) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [A Flat City](https://open.spotify.com/album/1vw3z3xkEY2cqDqCi5ndwQ) | 2:02 | 2024-07-17 | 2025-04-18 |
 | [A Flowery Song](https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby) | [Five Iron Frenzy](https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx) | [Upbeats & Beatdowns](https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua) | 3:40 | 2021-09-02 |  |
@@ -37,6 +37,7 @@
 | [Awkward Always](https://open.spotify.com/track/15pG633R6ETfX5OVhSisYS) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Awkward Always](https://open.spotify.com/album/079riMJqKu6hjZZUIT4JEI) | 2:34 | 2021-09-02 | 2022-11-13 |
 | [B.L.M](https://open.spotify.com/track/5jvVBreQOSEW2r78oC0CoZ) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Encore \(Deluxe\)](https://open.spotify.com/album/2K7Z8kR4tsXDIkS0jWLkwZ) | 5:05 | 2021-09-02 | 2022-12-10 |
 | [Baby](https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Baby](https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc) | 2:53 | 2024-01-19 | 2024-05-27 |
+| [Backwards \(feat\. Zac Carper\)](https://open.spotify.com/track/0bYymFq3oLdOzR38VAP5L0) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Zac Carper](https://open.spotify.com/artist/1dQZZYnIc7vU19rCNdkjgJ) | [Until The Sun Explodes](https://open.spotify.com/album/08wHg3Ie9jj8nLZv5ue7bM) | 3:24 | 2026-06-12 |  |
 | [Barely Kids](https://open.spotify.com/track/1E6Au8m7FNG3eAriuL0CZ9) | [The Inevitables](https://open.spotify.com/artist/5qr4DCKr3oAxSslg7e3tdK) | [The Inevitables](https://open.spotify.com/album/7I68xaGkCBpmjAHTBOpisF) | 3:09 | 2022-04-14 | 2022-06-06 |
 | [Be Skappy](https://open.spotify.com/track/3rtjyvXNqhuNwNmyPOXoI8) | [9teez](https://open.spotify.com/artist/2kPEyISiF9UNFGL0D6Gxf1) | [Be Skappy](https://open.spotify.com/album/4wbfPnK6ALcVbDch7TTUtS) | 3:27 | 2022-04-14 | 2022-04-21 |
 | [Beatdown Generation](https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Beatdown Generation](https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud) | 3:14 | 2021-09-02 |  |
@@ -143,6 +144,7 @@
 | [Kung\-Fu Blues](https://open.spotify.com/track/5WcBrKNNZqHfaezyDSV0WH) | [Marina P](https://open.spotify.com/artist/56yITwbimLLYB5gPSwxTRK), [The Co\-Operators](https://open.spotify.com/artist/3d2PfQ6lK72nZHjaZrWGve), [Joe Yorke](https://open.spotify.com/artist/5txKJQwlX202UqnBPII2PK) | [Know Nothing About](https://open.spotify.com/album/49H5fqOXN0iB5qPrtUs4Iy) | 4:24 | 2026-01-09 | 2026-05-16 |
 | [L.M.A.](https://open.spotify.com/track/574v58xE2NIGWmovOWR4Oj) | [Westbound Train](https://open.spotify.com/artist/5p6lcERrLISBe7SLKgjDdT) | [L.M.A.](https://open.spotify.com/album/0m80pqUA69vVUlC4UnJL0I) | 4:09 | 2025-09-26 | 2026-01-15 |
 | [La Última Carta](https://open.spotify.com/track/2A66FBk36QAMcOychXojNS) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/3zz6uN6pTbTVNHNmzVrTXq) | 3:32 | 2025-07-11 |  |
+| [Leave It In The Past](https://open.spotify.com/track/7juxf6MgWlYbt5hLhbaJxv) | [The Coral](https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt) | [388](https://open.spotify.com/album/7edG5yOWTvv6lVhB0NNlt6) | 3:07 | 2026-06-12 |  |
 | [Let It Go](https://open.spotify.com/track/2e8yaFJOfZbsttpJhcTLcc) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Let It Go](https://open.spotify.com/album/5ubvjtSzbJwZ4mv46SrIed) | 3:05 | 2021-09-02 | 2024-09-28 |
 | [Let's Do Rock Steady](https://open.spotify.com/track/0FkBWszH9H2y7TxH899416) | [The Bodysnatchers](https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV) | [Let's Do Rock Steady](https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO) | 2:54 | 2022-12-09 | 2024-04-19 |
 | [Level Up \- Radio Edit](https://open.spotify.com/track/1tUfaWeAysLESckeL3HfvD) | [King Prawn](https://open.spotify.com/artist/1Fjm05W0fV3rvWRW3SFZY9) | [Level Up](https://open.spotify.com/album/1r16rzY7znEyxpxSL15ER0) | 3:48 | 2021-09-02 | 2022-07-29 |
@@ -238,6 +240,7 @@
 | [Santeria](https://open.spotify.com/track/6cJqlSO19vsfCsH1FeFI35) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime \(Explicit Version\)](https://open.spotify.com/album/5dwkpREUiLdmPLy4POzFSa) | 3:03 | 2021-09-02 | 2022-07-29 |
 | [Scratched CD](https://open.spotify.com/track/21z0BnQDVoUt4khJtWYLZI) | [Half Past Two](https://open.spotify.com/artist/68OATyajBIyM3EDtVObBSB) | [Scratched CD](https://open.spotify.com/album/3qiZ3KYAg5NtRPfQ4aAEMR) | 3:24 | 2022-04-14 | 2022-04-21 |
 | [Second Cities](https://open.spotify.com/track/13yAmRJ9Djttg27TgT2dC8) | [Kill Lincoln](https://open.spotify.com/artist/6vw3QQUYW5TSxqsEvI28W6) | [Second Cities](https://open.spotify.com/album/0dp8y6wnN3HaVpeu3uRHji) | 3:28 | 2021-09-02 | 2022-07-28 |
+| [Secret Lover](https://open.spotify.com/track/3wY0ZXUrwkrJoj9oB9LOwL) | [Irie Love](https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn) | [Secret Lover](https://open.spotify.com/album/7iQV7A56og3xukRdb3F8Lm) | 3:13 | 2026-06-12 |  |
 | [See You Again](https://open.spotify.com/track/7z2fjnCzlQ9T7Nt52FjF5i) | [La Familia Torelli](https://open.spotify.com/artist/1ZmEQ1IO0MarUWP3wVO2XY), [Anna Millo](https://open.spotify.com/artist/5iYKTpMQBUVCsvPJrj2BeN) | [See You Again](https://open.spotify.com/album/0gIN5MH2JCJwBfSmYasAR7) | 2:54 | 2025-02-07 | 2026-03-28 |
 | [Seven Seas](https://open.spotify.com/track/23ajuZINUsDO3OxuFjsPGj) | [King Prawn](https://open.spotify.com/artist/1Fjm05W0fV3rvWRW3SFZY9) | [The Fabulous New Sounds of…](https://open.spotify.com/album/412OEZWTW0Ju9ABSzkT3hu) | 3:25 | 2021-09-02 | 2022-06-09 |
 | [Seven Seas](https://open.spotify.com/track/5EOJzNZsHhJIP0cwowK8i9) | [King Prawn](https://open.spotify.com/artist/1Fjm05W0fV3rvWRW3SFZY9) | [The Fabulous New Sounds of...](https://open.spotify.com/album/0HYasBR6e0TxXDfhmgSsSH) | 3:25 | 2022-04-14 | 2022-12-10 |
@@ -295,7 +298,7 @@
 | [The Works](https://open.spotify.com/track/0hZny5qCVmB1Z0Nm8N9c3n) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [The Works](https://open.spotify.com/album/1Xy0gPjycYdsfR1nkgRmmi) | 2:10 | 2021-09-02 | 2022-04-20 |
 | [The World Is New](https://open.spotify.com/track/75NQydSjbz14rmt6j2UaMz) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 2:11 | 2021-09-02 |  |
 | [Things Change](https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Sound the Alarm](https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61) | 2:48 | 2021-09-02 | 2025-04-26 |
-| [Tiempo Que Perdí](https://open.spotify.com/track/180xzB9mDTYdKSiJ3BiPqX) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Tiempo Que Perdí](https://open.spotify.com/album/6ctUVAocVvSYL3xWNQ0EGL) | 2:48 | 2026-03-27 |  |
+| [Tiempo Que Perdí](https://open.spotify.com/track/180xzB9mDTYdKSiJ3BiPqX) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Tiempo Que Perdí](https://open.spotify.com/album/6ctUVAocVvSYL3xWNQ0EGL) | 2:48 | 2026-03-27 | 2026-06-13 |
 | [Tighten Up](https://open.spotify.com/track/4jcvkqhSGBvqVgPmvZsLiQ) | [The Untouchables](https://open.spotify.com/artist/4PeH0LM0QG4jFfzSmU0SuB) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/2So48zf14on4O5uQRsa0QR) | 2:39 | 2023-12-12 | 2024-04-19 |
 | [Tighten Up](https://open.spotify.com/track/7boUsKJeBJHznBCEwYU9hw) | [The Untouchables](https://open.spotify.com/artist/4PeH0LM0QG4jFfzSmU0SuB) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm) | 2:39 | 2022-12-09 | 2023-07-18 |
 | [Time Bomb](https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:24 | 2022-04-14 | 2023-08-26 |
@@ -317,7 +320,7 @@
 | [Un Pañuelo](https://open.spotify.com/track/7pq02WBTCDP3n6QrfyAXak) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Un Pañuelo](https://open.spotify.com/album/3lIDfBVEsJT8oqeLxrq4xN) | 3:42 | 2026-01-09 |  |
 | [Underdog](https://open.spotify.com/track/7eBpiWpRPUlRUeCZ8oGpbo) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Flyover Renaissance](https://open.spotify.com/album/1FEQqvt2lIqv9nWAhDKBGK) | 3:24 | 2021-09-02 |  |
 | [Underinsured](https://open.spotify.com/track/5XysARL1Hl8na7hvnHhiS1) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Underinsured](https://open.spotify.com/album/5fnvWxtcZagO3hM1s8Aijd) | 2:46 | 2021-09-02 | 2022-07-29 |
-| [University](https://open.spotify.com/track/63boKN9qNhEnKvLXnAZtvl) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [University](https://open.spotify.com/album/0Ljrx55mzrcgccJD6KSSmi) | 3:34 | 2022-04-14 |  |
+| [University](https://open.spotify.com/track/63boKN9qNhEnKvLXnAZtvl) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [University](https://open.spotify.com/album/0Ljrx55mzrcgccJD6KSSmi) | 3:34 | 2022-04-14 | 2026-06-13 |
 | [Unstoppable](https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW) | [The Planet Smashers](https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3) | [Unstoppable](https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS) | 3:08 | 2021-09-02 | 2025-08-18 |
 | [Until The Sun Explodes](https://open.spotify.com/track/0xeoETh1ChVy1k7TGAS9O8) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Until The Sun Explodes](https://open.spotify.com/album/1PNDImWE25WgKW8CwdWREX) | 2:58 | 2026-03-27 |  |
 | [Up From The Downside](https://open.spotify.com/track/5MCLkQQ0uKJTjxubpgRJkT) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [Up From The Downside](https://open.spotify.com/album/4y2MyNht24cW6HhUm3NKK7) | 4:35 | 2025-06-27 | 2025-07-21 |

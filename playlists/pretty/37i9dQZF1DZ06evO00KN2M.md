@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 
 > This is Fleetwood Mac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,168,481 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,168,607 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 | 44 | [Emerald Eyes](https://open.spotify.com/track/4GspmdJjNjZKCHtjJ0fWxb) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mystery to Me](https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5) | 3:34 |
 | 45 | [Intro \- Live 1977](https://open.spotify.com/track/7iPabscOgrBuDkjZAvOVRD) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 0:48 |
 | 46 | [Think About Me \- 2015 Remaster](https://open.spotify.com/track/1Q5kDGREVR7mcTjhvuFLm1) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 2:44 |
-| 47 | [Need Your Love So Bad](https://open.spotify.com/track/6J1NKcC7xlbz5yrATZZ1X0) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac's Greatest Hits](https://open.spotify.com/album/4eBD6gIQk7KA2GTG5HzXes) | 3:53 |
+| 47 | [Oh Diane \- 2016 Remaster](https://open.spotify.com/track/5JNOmrqg6hee3mtWMwYMPN) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(2016 Remaster\)](https://open.spotify.com/album/2962eYkQa0R7EnIGZqeARS) | 2:38 |
 | 48 | [Landslide \- Live at Warner Brothers Studios in Burbank, CA 5/23/97](https://open.spotify.com/track/06h9kk12VjJ2bqcBc6IScR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Dance](https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ) | 4:28 |
-| 49 | [Oh Diane \- 2016 Remaster](https://open.spotify.com/track/5JNOmrqg6hee3mtWMwYMPN) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(2016 Remaster\)](https://open.spotify.com/album/2962eYkQa0R7EnIGZqeARS) | 2:38 |
+| 49 | [Need Your Love So Bad](https://open.spotify.com/track/6J1NKcC7xlbz5yrATZZ1X0) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac's Greatest Hits](https://open.spotify.com/album/4eBD6gIQk7KA2GTG5HzXes) | 3:53 |
 | 50 | [I Loved Another Woman](https://open.spotify.com/track/1bElCb3PUzvfpxEPCA6fmY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/45i41n53udGyswkJ9uR8pB) | 2:55 |
 
-Snapshot ID: `aiipAAAAAAAg++L0pB5qC8nZ20FbdFFr`
+Snapshot ID: `ain6gAAAAACL3C+B1ASJz7f0q3Fp/aGd`

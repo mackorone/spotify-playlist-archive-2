@@ -4,7 +4,7 @@
 
 > Delicate digital expressions of the heart.
 
-229 songs - 16 hr 57 min
+230 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [No Rise](https://open.spotify.com/track/6hnnGHky3Kp40Q7JRRqI0T) | [TALsounds](https://open.spotify.com/artist/3W8UkPK2qxmnwqcBxqf1vL) | [Acquiesce](https://open.spotify.com/album/2RYXBmfMcG5qTh7LjfG2by) | 5:32 | 2022-02-03 | 2024-09-19 |
 | [Nobody New Around You](https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [L.O.S.S.](https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58) | 4:27 | 2022-02-03 | 2023-11-14 |
 | [Nobody New Around You](https://open.spotify.com/track/3bge1hHnReKh3E9jXNbDmI) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [L.O.S.S.](https://open.spotify.com/album/1RoBBAroy6tMbqXkkT4yyK) | 4:27 | 2022-02-03 | 2024-07-29 |
-| [Odyssey](https://open.spotify.com/track/1luDTOkUqKMQ8gQvB3U3gO) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Dan Heath](https://open.spotify.com/artist/0DHqlyxrbPpHcR8MQqP14P) | [Odyssey](https://open.spotify.com/album/4OiAIm1kS30F3QOgmmfC3L) | 3:25 | 2025-04-18 |  |
+| [Odyssey](https://open.spotify.com/track/1luDTOkUqKMQ8gQvB3U3gO) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Dan Heath](https://open.spotify.com/artist/0DHqlyxrbPpHcR8MQqP14P) | [Odyssey](https://open.spotify.com/album/4OiAIm1kS30F3QOgmmfC3L) | 3:25 | 2025-04-18 | 2026-06-13 |
 | [Of A Vessel](https://open.spotify.com/track/6H9EIZ81SWrwRTxwLcMgNz) | [Blank Gloss](https://open.spotify.com/artist/3ygskHdzS2MNz3ZsQfbkfB) | [Pop Ambient 2021](https://open.spotify.com/album/07YiA79O4x3dIVWAB5zhhJ) | 4:31 | 2022-02-03 |  |
 | [Ohh Baby](https://open.spotify.com/track/4P19q3dSHap2uHkqRsF4YS) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Space Drag](https://open.spotify.com/album/0IRRsRMpxLm9wkQyFtoSfx) | 5:08 | 2024-09-20 |  |
 | [Overnight](https://open.spotify.com/track/3aEoeum6W7Tx8N6HZpSr4z) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Solo Piano](https://open.spotify.com/album/58yvWhYmF5D492OZ86SvLn) | 3:22 | 2022-02-03 | 2025-11-08 |
@@ -232,6 +232,7 @@
 | [Without](https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dual](https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc) | 3:49 | 2022-02-03 |  |
 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 | 2022-02-03 |  |
 | [X\-Dream](https://open.spotify.com/track/76sVe0f6NIgZo690KZyEEd) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [X\-Dream](https://open.spotify.com/album/6BSiu2BYuTWsLO8EyXpmgV) | 4:21 | 2025-01-17 |  |
+| [You Always Knew That Feeling](https://open.spotify.com/track/1VnREQaW6uCVuznjVKNY7h) | [Jennifur](https://open.spotify.com/artist/3IZ1UX4baD16tONZHqaQhb), [Lindy Versyck](https://open.spotify.com/artist/6AVk4v6lvKUEaygKGutHRu) | [You Always Knew That Feeling](https://open.spotify.com/album/6U83FfftHQv57gB9hSapLT) | 3:05 | 2026-06-12 |  |
 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 | 2022-02-03 | 2024-04-19 |
 | [You and I](https://open.spotify.com/track/47PdEZPuwJ1wOBCVexAm5O) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/4wSb7OhVUzw3u76lta9fJw) | 4:03 | 2022-02-03 |  |
 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 | 2022-02-03 |  |

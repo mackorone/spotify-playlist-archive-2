@@ -2956,7 +2956,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 280101,
       "name": "Hold On To You - Ryan Davis Revisit",
       "url": "https://open.spotify.com/track/1qgnqE3a6314MTYyiq2hLr"
@@ -6340,7 +6340,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 195959,
       "name": "Satisfied - Ambient Reprise",
       "url": "https://open.spotify.com/track/4vNW3T8XMgXltqrSxNnykV"
@@ -6686,6 +6686,24 @@
       "duration_ms": 232131,
       "name": "Sleep Is Sacrament",
       "url": "https://open.spotify.com/track/6wdiugsx4HdCiNvEQXh41Y"
+    },
+    {
+      "album": {
+        "name": "Sleeping",
+        "url": "https://open.spotify.com/album/1Ab3M6a05aoygXKQhnqbSy"
+      },
+      "artists": [
+        {
+          "name": "Effluents",
+          "url": "https://open.spotify.com/artist/2cesrjIDNjXKwc22JUBTk0"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142372,
+      "name": "Sleeping",
+      "url": "https://open.spotify.com/track/3f2HNMiOgOXF4HuWmySEVi"
     },
     {
       "album": {
@@ -7794,6 +7812,24 @@
       "duration_ms": 240000,
       "name": "Vanishing Point",
       "url": "https://open.spotify.com/track/3QFamijo1AyZ7eb1cnNNaC"
+    },
+    {
+      "album": {
+        "name": "Variation (vi)",
+        "url": "https://open.spotify.com/album/4yrTR3KN3i23mfKyI9Wwqa"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308988,
+      "name": "Variation (vi)",
+      "url": "https://open.spotify.com/track/0HbxliIHrjuVLvOxl1Ql2o"
     },
     {
       "album": {

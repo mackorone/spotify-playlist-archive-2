@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 20 years of R&B from around the world",
-  "num_followers": 4722,
+  "num_followers": 4843,
   "original_name": "Global R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACYesN4fS3r/PLI6zyEYAdfX5zNy",
+  "snapshot_id": "AAAAAPuLT3dlpffw1sVuEGMMKgZvTG2a",
   "tracks": [
     {
       "added_at": "2026-05-12 15:11:40",
@@ -61,10 +61,26 @@
       "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON"
     },
     {
-      "added_at": "2026-05-12 15:11:40",
+      "added_at": "2026-06-12 07:53:45",
       "album": {
-        "name": "SOULSTAR",
-        "url": "https://open.spotify.com/album/3oSHew9KClPrhpUNfqUcfs"
+        "name": "touch myself/idea of love",
+        "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 249218,
+      "name": "touch myself",
+      "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
+    },
+    {
+      "added_at": "2026-06-12 07:53:45",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
       },
       "artists": [
         {
@@ -72,9 +88,9 @@
           "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
         }
       ],
-      "duration_ms": 181921,
-      "name": "Lil' Obsession",
-      "url": "https://open.spotify.com/track/6p22RzCyan2i6nyM0LmFoL"
+      "duration_ms": 207138,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
     },
     {
       "added_at": "2026-05-12 15:11:40",
@@ -147,26 +163,6 @@
     {
       "added_at": "2026-05-12 15:11:40",
       "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 213571,
-      "name": "worst behaviour (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici"
-    },
-    {
-      "added_at": "2026-05-12 15:11:40",
-      "album": {
         "name": "SEPT 5TH",
         "url": "https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv"
       },
@@ -181,36 +177,36 @@
       "url": "https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x"
     },
     {
-      "added_at": "2026-05-12 15:11:40",
+      "added_at": "2026-06-12 07:53:45",
       "album": {
-        "name": "OG Luv Kush pt.2",
-        "url": "https://open.spotify.com/album/4QxqcWjXQrkiTxlap4e3pY"
+        "name": "Holding Back",
+        "url": "https://open.spotify.com/album/2JNlTV4RIRVGlNZScebsOK"
       },
       "artists": [
         {
-          "name": "Kaiit",
-          "url": "https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1"
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
         }
       ],
-      "duration_ms": 159010,
-      "name": "OG Luv Kush pt.2",
-      "url": "https://open.spotify.com/track/2FGz8KTEn9m8xu9LHF3JIB"
+      "duration_ms": 199533,
+      "name": "Holding Back",
+      "url": "https://open.spotify.com/track/2VUqrHj4z85HUBMQVdjqmj"
     },
     {
-      "added_at": "2026-05-12 15:11:40",
+      "added_at": "2026-06-12 07:53:45",
       "album": {
-        "name": "Proverb",
-        "url": "https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK"
+        "name": "ghosted - EP",
+        "url": "https://open.spotify.com/album/1FI0XA7lmm54RaMcucVBBe"
       },
       "artists": [
         {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
         }
       ],
-      "duration_ms": 201601,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w"
+      "duration_ms": 179697,
+      "name": "minute",
+      "url": "https://open.spotify.com/track/1NdQrgrAKwEhhLVYFNytZo"
     },
     {
       "added_at": "2026-05-12 15:11:40",
@@ -287,6 +283,22 @@
       "duration_ms": 147046,
       "name": "No.1 (feat. Tems)",
       "url": "https://open.spotify.com/track/3r3PUPpBBkLVfApv3iXwvt"
+    },
+    {
+      "added_at": "2026-06-12 07:53:45",
+      "album": {
+        "name": "FIRE BURNIN' THRU THE RAIN",
+        "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 167394,
+      "name": "FIRE BURNIN' THRU THE RAIN",
+      "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
     },
     {
       "added_at": "2026-05-12 15:11:40",
@@ -451,6 +463,38 @@
       "duration_ms": 207454,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
       "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
+    },
+    {
+      "added_at": "2026-06-12 07:53:45",
+      "album": {
+        "name": "On Cam",
+        "url": "https://open.spotify.com/album/60fRgIaM94Ua327WIZ3nhr"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 244995,
+      "name": "On Cam",
+      "url": "https://open.spotify.com/track/6X0gxQVDV5foS61ukGYJzb"
+    },
+    {
+      "added_at": "2026-05-12 15:11:40",
+      "album": {
+        "name": "OG Luv Kush pt.2",
+        "url": "https://open.spotify.com/album/4QxqcWjXQrkiTxlap4e3pY"
+      },
+      "artists": [
+        {
+          "name": "Kaiit",
+          "url": "https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1"
+        }
+      ],
+      "duration_ms": 159010,
+      "name": "OG Luv Kush pt.2",
+      "url": "https://open.spotify.com/track/2FGz8KTEn9m8xu9LHF3JIB"
     },
     {
       "added_at": "2026-05-12 15:11:40",
@@ -1743,22 +1787,6 @@
       "duration_ms": 235753,
       "name": "pensando direito",
       "url": "https://open.spotify.com/track/57FSQIGpI6WZm4ko6mGOVJ"
-    },
-    {
-      "added_at": "2026-05-12 15:11:40",
-      "album": {
-        "name": "BXD IN JAZZ",
-        "url": "https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 173147,
-      "name": "Meu Grande Amor",
-      "url": "https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ"
     },
     {
       "added_at": "2026-05-12 15:11:40",

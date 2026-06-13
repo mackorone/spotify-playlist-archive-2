@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Ram\u00f3n Ayala en portada.",
-  "num_followers": 1020403,
+  "num_followers": 1020651,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
+        "name": "Si Yo Fuera El",
+        "url": "https://open.spotify.com/album/1AT0D64SmSe6CBCYtRKsBd"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 168093,
+      "name": "Si Yo Fuera \u00c9l",
+      "url": "https://open.spotify.com/track/2mhV4BmW4uZWBS82bzqyFN"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
         "name": "Nieves de Enero",
         "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 213159,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/3fNK9wZMHV7CLG1z3rueBO"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
-        "name": "Si Yo Fuera El",
-        "url": "https://open.spotify.com/album/1AT0D64SmSe6CBCYtRKsBd"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 168093,
-      "name": "Si Yo Fuera \u00c9l",
-      "url": "https://open.spotify.com/track/2mhV4BmW4uZWBS82bzqyFN"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "De Norte A Sur",
         "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 209613,
       "name": "Necesito Dec\u00edrtelo",
       "url": "https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "A Ellas",
-        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
-      },
-      "artists": [
-        {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Ni Que Valieras Tanto",
-      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Decide T\u00fa",
         "url": "https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 212640,
       "name": "Ave Cautiva",
       "url": "https://open.spotify.com/track/5uexdMpm1BUShEKQEte4Gx"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "A Ellas",
+        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Ni Que Valieras Tanto",
+      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Soy Todo Tuyo",
-        "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "Soy Todo Tuyo",
-      "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 179280,
       "name": "Amores Fingidos",
       "url": "https://open.spotify.com/track/2PYfmBDAfXilm300zaMTIC"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Soy Todo Tuyo",
+        "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "Soy Todo Tuyo",
+      "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
+        "name": "Hasta El Final",
+        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Moneda Sin Valor",
+      "url": "https://open.spotify.com/track/0s6eS6S8Dsr7VFdYUYo5Lu"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
         "name": "Desde Hoy",
         "url": "https://open.spotify.com/album/6DeI66UvgFBjgrQKJ78soZ"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 155066,
       "name": "Tus Verdades",
       "url": "https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
-        "name": "Hasta El Final",
-        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Moneda Sin Valor",
-      "url": "https://open.spotify.com/track/0s6eS6S8Dsr7VFdYUYo5Lu"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "15 Exitos De Lorenzo De Monteclaro",
-        "url": "https://open.spotify.com/album/5SPrSrvs8BOthSQRZkE6zz"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo De Monteclaro",
-          "url": "https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX"
-        }
-      ],
-      "duration_ms": 153160,
-      "name": "Abrazado de un Poste",
-      "url": "https://open.spotify.com/track/2GiQqCOQCOkYA76QmD9Iqf"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 146280,
       "name": "Que Tristeza Me Acompa\u00f1a",
       "url": "https://open.spotify.com/track/12lb8hUUEOihoN94n01UHw"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "15 Exitos De Lorenzo De Monteclaro",
+        "url": "https://open.spotify.com/album/5SPrSrvs8BOthSQRZkE6zz"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo De Monteclaro",
+          "url": "https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX"
+        }
+      ],
+      "duration_ms": 153160,
+      "name": "Abrazado de un Poste",
+      "url": "https://open.spotify.com/track/2GiQqCOQCOkYA76QmD9Iqf"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "L\u00e1grimas de Amor",
-        "url": "https://open.spotify.com/album/5VJ36S10Y9X2saFbhDoKqZ"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Jr.",
-          "url": "https://open.spotify.com/artist/5Tk6wpyWDTfk9uCLJmtfZI"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Pero Esta Vez Llor\u00e9",
-      "url": "https://open.spotify.com/track/1Wniq2BL6lBlmqVRtbcL2U"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "El grupo que vale lo que pesa Vol. II",
         "url": "https://open.spotify.com/album/0xNGBDHJuFFXB4HYNurEqP"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 170426,
       "name": "Ay\u00fadame a olvidar",
       "url": "https://open.spotify.com/track/4VZy3bX4JKE2gLot1zbmpy"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "L\u00e1grimas de Amor",
+        "url": "https://open.spotify.com/album/5VJ36S10Y9X2saFbhDoKqZ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Jr.",
+          "url": "https://open.spotify.com/artist/5Tk6wpyWDTfk9uCLJmtfZI"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Pero Esta Vez Llor\u00e9",
+      "url": "https://open.spotify.com/track/1Wniq2BL6lBlmqVRtbcL2U"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -2067,8 +2067,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+        "name": "Amor De Unas Horas",
+        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
       },
       "artists": [
         {
@@ -2076,9 +2076,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 159466,
-      "name": "Compr\u00e9 Una Cantina",
-      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
+      "duration_ms": 174480,
+      "name": "Y Como Es El",
+      "url": "https://open.spotify.com/track/1pQPpSRZ0cUYX0tsZNSBwz"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -2147,8 +2147,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Amor De Unas Horas",
-        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
@@ -2156,9 +2156,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 174480,
-      "name": "Y Como Es El",
-      "url": "https://open.spotify.com/track/1pQPpSRZ0cUYX0tsZNSBwz"
+      "duration_ms": 159466,
+      "name": "Compr\u00e9 Una Cantina",
+      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -2867,22 +2867,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Tan Bonita",
-        "url": "https://open.spotify.com/album/2Y6AdUP44txJRiTizYo5nj"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 193440,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/0AWQyrVXztj04u4DCECbGG"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Amor De Unas Horas",
         "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
       },
@@ -2895,6 +2879,22 @@
       "duration_ms": 145986,
       "name": "La Pera Madura",
       "url": "https://open.spotify.com/track/3GPFDXIvn9QEgd3l06TskS"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Tan Bonita",
+        "url": "https://open.spotify.com/album/2Y6AdUP44txJRiTizYo5nj"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 193440,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/0AWQyrVXztj04u4DCECbGG"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -2947,22 +2947,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "T\u00fa como si nada",
-      "url": "https://open.spotify.com/track/46VJjtQLa0ZuVYu3UaZCJY"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Amor De Unas Horas",
         "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
       },
@@ -2975,6 +2959,22 @@
       "duration_ms": 181146,
       "name": "Amor De Unas Horas",
       "url": "https://open.spotify.com/track/2rYZd5fqhcyYLz67FMYkHL"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "T\u00fa como si nada",
+      "url": "https://open.spotify.com/track/46VJjtQLa0ZuVYu3UaZCJY"
     },
     {
       "added_at": "2026-03-10 01:04:29",

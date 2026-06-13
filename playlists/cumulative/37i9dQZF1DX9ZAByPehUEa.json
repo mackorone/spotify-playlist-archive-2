@@ -4503,6 +4503,24 @@
     },
     {
       "album": {
+        "name": "Feel Love",
+        "url": "https://open.spotify.com/album/7lGP3jleS3SRHFs9DU0l9w"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193612,
+      "name": "Feel Love",
+      "url": "https://open.spotify.com/track/6NxIa7oz8Wigzt4X5ZzrmM"
+    },
+    {
+      "album": {
         "name": "Feel so Good",
         "url": "https://open.spotify.com/album/1utRk88tJPHBoJYSNp4wLb"
       },
@@ -6780,6 +6798,28 @@
       "duration_ms": 239186,
       "name": "I Don't Need a Reason To",
       "url": "https://open.spotify.com/track/37t1rRJG7BrNbuMRg2bAeM"
+    },
+    {
+      "album": {
+        "name": "I Get High",
+        "url": "https://open.spotify.com/album/3Mb0vT7Y9tkVgD7NvPsf73"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        },
+        {
+          "name": "Hips & Lips",
+          "url": "https://open.spotify.com/artist/2xaQZsblWFPXPtlsNGgO3Q"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370909,
+      "name": "I Get High",
+      "url": "https://open.spotify.com/track/2caYWqOHqQlxhJzL4P2kpm"
     },
     {
       "album": {
@@ -10740,7 +10780,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 188235,
       "name": "No Party, No Disco",
       "url": "https://open.spotify.com/track/55tixy0Q1say3uhJALA72d"
@@ -14606,7 +14646,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 262500,
       "name": "The Heat Of Your Body - Edit",
       "url": "https://open.spotify.com/track/4u7u9UAyt2QEbnrrbE8HTx"

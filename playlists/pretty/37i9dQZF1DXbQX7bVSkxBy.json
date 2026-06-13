@@ -1,45 +1,13 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Sinach",
-  "num_followers": 58137,
+  "num_followers": 58160,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFdrOR1VZdZKhsWzoIvSnRg3K3OE",
+  "snapshot_id": "AAAAAHjQdVksP5GqXpe8HGiWP37x4Peh",
   "tracks": [
-    {
-      "added_at": "2025-10-31 00:01:29",
-      "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/7d3NnGMjzV8ZSFiveyTNGY"
-      },
-      "artists": [
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 140769,
-      "name": "Me & My Jesus",
-      "url": "https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Future Now",
-        "url": "https://open.spotify.com/album/487JaVhiwGAiG1i3aYIS6O"
-      },
-      "artists": [
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 362556,
-      "name": "I Testify",
-      "url": "https://open.spotify.com/track/46H0xkzmrXpdrkPVH8R2n9"
-    },
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
@@ -69,20 +37,52 @@
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
     },
     {
-      "added_at": "2026-05-22 00:01:37",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "My Everything",
-        "url": "https://open.spotify.com/album/3bjEtHDoI6HvCZHhv9exRL"
+        "name": "Future Now",
+        "url": "https://open.spotify.com/album/487JaVhiwGAiG1i3aYIS6O"
       },
       "artists": [
         {
-          "name": "Chinma Umeh",
-          "url": "https://open.spotify.com/artist/4jQNPCc1U8hzqLT5QJmw6e"
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
         }
       ],
-      "duration_ms": 401649,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/4Ozmd5V6F6VGrP6YQHkRtJ"
+      "duration_ms": 362556,
+      "name": "I Testify",
+      "url": "https://open.spotify.com/track/46H0xkzmrXpdrkPVH8R2n9"
+    },
+    {
+      "added_at": "2026-06-12 08:46:23",
+      "album": {
+        "name": "Potter's Hands",
+        "url": "https://open.spotify.com/album/3TU3Fdkb4nR5ZBUcQPKfmK"
+      },
+      "artists": [
+        {
+          "name": "Annette Nandine",
+          "url": "https://open.spotify.com/artist/0euQcM7EekIFq5VcIRyyrt"
+        }
+      ],
+      "duration_ms": 193939,
+      "name": "Potter's Hands",
+      "url": "https://open.spotify.com/track/6Awa4IjKUveY7nsTo1QWK2"
+    },
+    {
+      "added_at": "2025-07-18 00:01:14",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/7HNYFbvMJdUyD7oiUTTXRg"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 333386,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9"
     },
     {
       "added_at": "2026-05-22 00:01:37",
@@ -157,20 +157,24 @@
       "url": "https://open.spotify.com/track/25roQKgZN5cEzxI9DmvJHX"
     },
     {
-      "added_at": "2025-07-18 00:01:14",
+      "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/7HNYFbvMJdUyD7oiUTTXRg"
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O"
       },
       "artists": [
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 333386,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9"
+      "duration_ms": 240200,
+      "name": "What A Beautiful Name",
+      "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
     },
     {
       "added_at": "2026-05-29 00:01:48",
@@ -193,24 +197,24 @@
       "url": "https://open.spotify.com/track/1CIyIAQVhpwwCHdfojpa8d"
     },
     {
-      "added_at": "2023-12-29 00:01:00",
+      "added_at": "2026-06-12 08:46:23",
       "album": {
-        "name": "What A Beautiful Name",
-        "url": "https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O"
+        "name": "Godson",
+        "url": "https://open.spotify.com/album/43ckl6kTjj6DjLsPae3Mui"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+          "name": "Wake",
+          "url": "https://open.spotify.com/artist/5Ijs5N9PtVuzabbujWsttn"
         },
         {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Anna Makula",
+          "url": "https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44"
         }
       ],
-      "duration_ms": 240200,
-      "name": "What A Beautiful Name",
-      "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
+      "duration_ms": 169123,
+      "name": "Walking on Water",
+      "url": "https://open.spotify.com/track/39qfTzWknsUWBrw8QVIjEu"
     },
     {
       "added_at": "2023-12-29 00:01:00",

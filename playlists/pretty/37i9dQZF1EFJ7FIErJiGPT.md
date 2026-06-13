@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 13 | [HELL IN HEAVEN](https://open.spotify.com/track/19by44jwF68iVN8D815kOB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 2:59 |
 | 14 | [Heard About Me \(feat\. Nea\)](https://open.spotify.com/track/3vF1Bk53lUz287NAu5RCpS) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Heard About Me \(feat\. Nea\)](https://open.spotify.com/album/2HPdZOq2RU7j158mu4jmdy) | 2:14 |
 | 15 | [Suffer](https://open.spotify.com/track/4St0HSmeqbId4bcriS3g0R) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [We Were Young \(The Playlist\)](https://open.spotify.com/album/2uVjQvVAkLfneGroSXvJMW) | 3:29 |
-| 16 | [In the Morning](https://open.spotify.com/track/3Xp9VqusQqyWGLGSGWcBEC) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [In the Morning \(Remixes\)](https://open.spotify.com/album/5oHR3zw7gew31FjEp7iNqc) | 3:15 |
-| 17 | [Die For Me](https://open.spotify.com/track/5CgIqG6FNKnpzLt8XR7nTD) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [KONNAKOL](https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG) | 3:00 |
+| 16 | [Die For Me](https://open.spotify.com/track/5CgIqG6FNKnpzLt8XR7nTD) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [KONNAKOL](https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG) | 3:00 |
+| 17 | [In the Morning](https://open.spotify.com/track/3Xp9VqusQqyWGLGSGWcBEC) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [In the Morning \(Remixes\)](https://open.spotify.com/album/5oHR3zw7gew31FjEp7iNqc) | 3:15 |
 | 18 | [Mermaid](https://open.spotify.com/track/1zeH4lyTUZBp567d6K6zTM) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Mermaid](https://open.spotify.com/album/5sPNx1gl1y4GmrRitZqzf3) | 3:31 |
 | 19 | [Wolf](https://open.spotify.com/track/65QpqPsptQU1VPyq4QbjWk) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Porcelain](https://open.spotify.com/album/0IVewblBonxlT9EyBz7UfT) | 3:43 |
 | 20 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 107 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 108 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcT98AAAAAC0vi03ihHbXfAu2qgihWjw`
+Snapshot ID: `AcUDkAAAAAAAwdk0vr1BvVYE+I5iiaFA`

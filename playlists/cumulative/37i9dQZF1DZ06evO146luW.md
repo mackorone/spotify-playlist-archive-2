@@ -4,7 +4,7 @@
 
 > This is Koe Wetzel\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 55 min
+65 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/track/1FhgmMvNlh3nJ1Ldc2eE6H) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:59 | 2024-11-24 |  |
 | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi) | 2:59 | 2024-09-19 | 2024-11-24 |
 | [Honey Pain](https://open.spotify.com/track/21dB5hK5tAJaGD3VTbQ7ly) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 5:38 | 2024-09-19 | 2026-05-14 |
-| [Hurts Like You](https://open.spotify.com/track/1peocLBzSV3Nl3VI0ZSQcr) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hurts Like You & Dollar and a Bottle](https://open.spotify.com/album/5Kpfd1RzsiKuWxlppISQUD) | 3:15 | 2026-05-10 |  |
+| [Hurts Like You](https://open.spotify.com/track/1peocLBzSV3Nl3VI0ZSQcr) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hurts Like You & Dollar and a Bottle](https://open.spotify.com/album/5Kpfd1RzsiKuWxlppISQUD) | 3:15 | 2026-05-10 | 2026-06-13 |
+| [Hurts Like You](https://open.spotify.com/track/4IyUVGOKNmraQIymwHzm8m) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:15 | 2026-06-13 |  |
 | [I'm Done](https://open.spotify.com/track/3GR0V5mwjNInFEGG7tYtxE) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:30 | 2024-09-19 |  |
 | [Kuntry & Wistern](https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 4:01 | 2024-09-19 |  |
 | [L.T.W.Y.H.M.](https://open.spotify.com/track/503lQzTuf0tF8cAcilXZkz) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 3:29 | 2024-11-03 |  |

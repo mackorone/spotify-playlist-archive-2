@@ -1,6 +1,6 @@
 {
   "description": "Listen to the music from Invincible, streaming only on Prime Video. ",
-  "num_followers": 237589,
+  "num_followers": 237643,
   "original_name": "Invincible Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -366,6 +366,10 @@
         {
           "name": "The Chemical Brothers",
           "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
         }
       ],
       "duration_ms": 260696,

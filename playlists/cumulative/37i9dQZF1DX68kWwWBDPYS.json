@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Be Real",
+        "url": "https://open.spotify.com/album/1TXM5td3zEivaQLnpo9sbd"
+      },
+      "artists": [
+        {
+          "name": "Atomic Project",
+          "url": "https://open.spotify.com/artist/0L6MRKfPZD8gYCiiu5t02D"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274964,
+      "name": "Be Real",
+      "url": "https://open.spotify.com/track/4Z6jDtBIuZ6nWsnieIt4BQ"
+    },
+    {
+      "album": {
         "name": "BELLA",
         "url": "https://open.spotify.com/album/6fexRvGSeG2sHlla8LIanp"
       },
@@ -2632,6 +2650,24 @@
       "duration_ms": 195333,
       "name": "Esper\u00e9 Junto al Diablo",
       "url": "https://open.spotify.com/track/4hycb3nAmyeO5Sx544WSMS"
+    },
+    {
+      "album": {
+        "name": "No Sentimental.",
+        "url": "https://open.spotify.com/album/2HW6H7sQmFkDTumdZO8qEx"
+      },
+      "artists": [
+        {
+          "name": "Luis Picazo",
+          "url": "https://open.spotify.com/artist/3RYd20OmBChTr6yk6KXq9P"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223256,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/7IJdmzC4XZmFwSG1N24gkH"
     },
     {
       "album": {

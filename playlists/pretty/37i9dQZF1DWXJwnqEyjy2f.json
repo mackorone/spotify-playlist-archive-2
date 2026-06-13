@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:7sAqpkrQBaOkddsv1Tz1XK\">Mosimann</a>'s favourite tracks. Updated regularly. Curated by Mosimann. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 9252,
+  "num_followers": 9280,
   "original_name": "Mosimann's track IDs",
   "owner": {
     "name": "Spotify",
@@ -662,6 +662,10 @@
         {
           "name": "Chris Lake",
           "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
         }
       ],
       "duration_ms": 223618,

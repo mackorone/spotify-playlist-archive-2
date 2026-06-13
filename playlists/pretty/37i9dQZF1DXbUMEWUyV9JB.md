@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Mariangela
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,003 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,016 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 96 | [Querido Rey](https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Querido Rey](https://open.spotify.com/album/6SRK19vCyNaT2p88vi6EeY) | 2:48 |
 | 97 | [Me Prometi \(Cumbia Version\)](https://open.spotify.com/track/5pd2DbnrGEdKSfazK1YXAq) | [Agushto Papa](https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS), [Alta Ralea](https://open.spotify.com/artist/68r0QxQOG94MKuRbvoya3N) | [Me Prometi \(Cumbia Version\)](https://open.spotify.com/album/55j6dKcv00zwJG9C2MHHYf) | 3:27 |
 | 98 | [Corazón Tatuado](https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Corazón Tatuado](https://open.spotify.com/album/7A7LZAFX4c93RMMWtzsSMW) | 3:19 |
-| 99 | [Si A Todo](https://open.spotify.com/track/55yeoyVLs09v8qKpLrSpDL) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Cumbia y Amor](https://open.spotify.com/album/5DGuCQcoaVK1Vems5uswJ0) | 2:53 |
-| 100 | [Terco Corazón](https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Terco Corazón](https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8) | 2:47 |
+| 99 | [Terco Corazón](https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Terco Corazón](https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8) | 2:47 |
+| 100 | [Si A Todo](https://open.spotify.com/track/55yeoyVLs09v8qKpLrSpDL) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Cumbia y Amor](https://open.spotify.com/album/5DGuCQcoaVK1Vems5uswJ0) | 2:53 |
 
 Snapshot ID: `AAAAAFjKaNU+LotReUf/fRzuXn0Rkuaa`

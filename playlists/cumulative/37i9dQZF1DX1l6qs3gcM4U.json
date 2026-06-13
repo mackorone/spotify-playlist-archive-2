@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 201071,
       "name": "Di mas",
       "url": "https://open.spotify.com/track/61dZ3ZcYj5ZmGjLhqlge3F"
@@ -3508,6 +3508,28 @@
       "duration_ms": 160000,
       "name": "Djam Sabia",
       "url": "https://open.spotify.com/track/2qfK9CTPmheyeCoFr22KuN"
+    },
+    {
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/3JeqH1j7VffeMz6XmQ5YlN"
+      },
+      "artists": [
+        {
+          "name": "Ricky Boy",
+          "url": "https://open.spotify.com/artist/3b2fO7uOvR5bgzd5IVBGSZ"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173877,
+      "name": "Djan Reforma",
+      "url": "https://open.spotify.com/track/5mYj4hLB81UL0iUehhWr5Z"
     },
     {
       "album": {
@@ -6400,6 +6422,24 @@
       "duration_ms": 193600,
       "name": "M.D.L.",
       "url": "https://open.spotify.com/track/6nW5G82AtzBp4HX8ZmobqN"
+    },
+    {
+      "album": {
+        "name": "Mab\u00e9",
+        "url": "https://open.spotify.com/album/18RkhQOtzWPdJCbe5IgIHW"
+      },
+      "artists": [
+        {
+          "name": "Jord\u00e2nia",
+          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Mab\u00e9",
+      "url": "https://open.spotify.com/track/5iq6WhWvN9LECIF1tnaVCD"
     },
     {
       "album": {
@@ -11106,7 +11146,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 184906,
       "name": "Sonho de Amor",
       "url": "https://open.spotify.com/track/7lRXLeSXcDSETFeXLsxNRB"

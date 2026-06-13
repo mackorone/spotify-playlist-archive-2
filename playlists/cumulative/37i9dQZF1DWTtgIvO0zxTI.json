@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Cover: Lil Supa",
+  "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Cover: La Cruz",
   "name": "Flow Venezuela",
   "tracks": [
     {
@@ -184,6 +184,28 @@
       "duration_ms": 168041,
       "name": "Abajo y Arriba (with Juhn)",
       "url": "https://open.spotify.com/track/5S6t8dvq3kL4V4FmuMQi32"
+    },
+    {
+      "album": {
+        "name": "ANTES DE QUE SEA TARDE",
+        "url": "https://open.spotify.com/album/7z513StymZaeATXNoCBeDr"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191160,
+      "name": "abusadOra (tambores)",
+      "url": "https://open.spotify.com/track/1thaOV3ltF9gn3if93fyRo"
     },
     {
       "album": {
@@ -1091,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "DesOrden",
+        "url": "https://open.spotify.com/album/2P4DYITUx7faiFzAzXaofU"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156845,
+      "name": "DesOrden",
+      "url": "https://open.spotify.com/track/2Fd7PA5quhm73Aw7H3FwwN"
+    },
+    {
+      "album": {
         "name": "Dime Cuantas Veces",
         "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
       },
@@ -1643,6 +1683,36 @@
     },
     {
       "album": {
+        "name": "QUE VAYAN Y LO CUENTEN",
+        "url": "https://open.spotify.com/album/6DX9jo4NE5sHYF4zXKEwwZ"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Westside",
+          "url": "https://open.spotify.com/artist/6aQ7kqTbfHHgiPmc3M0GUG"
+        },
+        {
+          "name": "La W357",
+          "url": "https://open.spotify.com/artist/0zdQBsADJEsawNARQXgZPk"
+        },
+        {
+          "name": "North Og",
+          "url": "https://open.spotify.com/artist/0pDOxgqrChpzKOAmn6K1Hs"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190192,
+      "name": "La Burriquita",
+      "url": "https://open.spotify.com/track/3LP7ZWKk232jSvh9u1ZyfB"
+    },
+    {
+      "album": {
         "name": "La Chama",
         "url": "https://open.spotify.com/album/1PqlS6ozoc8TIB8uiiuPUy"
       },
@@ -1998,7 +2068,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 130653,
       "name": "Miami",
       "url": "https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW"
@@ -2050,6 +2120,24 @@
       "duration_ms": 241111,
       "name": "Migas",
       "url": "https://open.spotify.com/track/61CeB3Wd4hkun9MhuO0fES"
+    },
+    {
+      "album": {
+        "name": "MJ",
+        "url": "https://open.spotify.com/album/16Rm3FHsX7M5gxdkruCxAS"
+      },
+      "artists": [
+        {
+          "name": "Louis BPM",
+          "url": "https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126056,
+      "name": "MJ",
+      "url": "https://open.spotify.com/track/7qDhfgtCbJxyXKtlQYHoue"
     },
     {
       "album": {
@@ -2464,7 +2552,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 140427,
       "name": "pantera rosa",
       "url": "https://open.spotify.com/track/7eEo5NXy050ybMaQPAPw1Y"
@@ -3028,7 +3116,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 192786,
       "name": "SOLO T\u00da",
       "url": "https://open.spotify.com/track/1rJih4t89dT4Dm3tp9Qiwd"
@@ -3183,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "EL NENE, VOL 2",
+        "url": "https://open.spotify.com/album/7fKsGvADHbGbW7TiJJTtUu"
+      },
+      "artists": [
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/6ONIKY4nNgn1Wxrn15eBFw"
+    },
+    {
+      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
       },
@@ -3314,7 +3420,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 160428,
       "name": "UN BETA",
       "url": "https://open.spotify.com/track/7mzrz5yyLv4r8vQRyVEWE7"
@@ -3572,7 +3678,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 187500,
       "name": "You Know",
       "url": "https://open.spotify.com/track/15SCB5046vyZmM142VihbU"

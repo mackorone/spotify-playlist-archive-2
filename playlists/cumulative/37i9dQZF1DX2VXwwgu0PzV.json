@@ -13161,6 +13161,28 @@
     },
     {
       "album": {
+        "name": "Goodness x Mercy",
+        "url": "https://open.spotify.com/album/2ovTWJWJjpz9LokpeRT7NF"
+      },
+      "artists": [
+        {
+          "name": "Jonuelsongs",
+          "url": "https://open.spotify.com/artist/4BbRagnz6S9EIez9IrNKeM"
+        },
+        {
+          "name": "Faith Child",
+          "url": "https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Goodness x Mercy",
+      "url": "https://open.spotify.com/track/5mjez1Sz2XIgcKrx3PdZxb"
+    },
+    {
+      "album": {
         "name": "Got What I Need",
         "url": "https://open.spotify.com/album/1xORnX8azu9ghkcAI8REGd"
       },
@@ -20752,6 +20774,32 @@
       "duration_ms": 164210,
       "name": "Made Me Glad",
       "url": "https://open.spotify.com/track/5bOzP0pJX3zTS5KnuZ5S3p"
+    },
+    {
+      "album": {
+        "name": "Salem Alaikum",
+        "url": "https://open.spotify.com/album/0KPXLWwamIRqOakgvcJZMf"
+      },
+      "artists": [
+        {
+          "name": "Godfrey Gad",
+          "url": "https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh"
+        },
+        {
+          "name": "Sound Of Salem",
+          "url": "https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I"
+        },
+        {
+          "name": "Heavenly Dawap",
+          "url": "https://open.spotify.com/artist/7faJDn3syyZvQjkpo111Wg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173759,
+      "name": "MAGANA",
+      "url": "https://open.spotify.com/track/2RmgqYD0XXlivw0UV90aFS"
     },
     {
       "album": {
@@ -33780,24 +33828,6 @@
       "duration_ms": 169933,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J"
-    },
-    {
-      "album": {
-        "name": "Salem Alaikum",
-        "url": "https://open.spotify.com/album/0KPXLWwamIRqOakgvcJZMf"
-      },
-      "artists": [
-        {
-          "name": "Godfrey Gad",
-          "url": "https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh"
-        }
-      ],
-      "date_added": "2026-06-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2RmgqYD0XXlivw0UV90aFS"
     },
     {
       "album": {

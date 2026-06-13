@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > Voor boslucht, koffie en kalmte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,117 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,111 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,20 +38,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 28 | [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 |
 | 29 | [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 |
 | 30 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 |
-| 31 | [Chasing Silhouettes](https://open.spotify.com/track/1Ebt8METfFQvynNZgzZt31) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [Chasing Silhouettes](https://open.spotify.com/album/5RWLDVIbCg0PPDt5DRESeo) | 2:57 |
-| 32 | [The Soils Ever Changing](https://open.spotify.com/track/7JDySQnkWJuRDmmIPeiqRt) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [The Soils Ever Changing](https://open.spotify.com/album/1hG1LegaM7GrrE3Mfu6rG3) | 3:59 |
+| 31 | [The Soils Ever Changing](https://open.spotify.com/track/7JDySQnkWJuRDmmIPeiqRt) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [The Soils Ever Changing](https://open.spotify.com/album/1hG1LegaM7GrrE3Mfu6rG3) | 3:59 |
+| 32 | [Chasing Silhouettes](https://open.spotify.com/track/1Ebt8METfFQvynNZgzZt31) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [Chasing Silhouettes](https://open.spotify.com/album/5RWLDVIbCg0PPDt5DRESeo) | 2:57 |
 | 33 | [Always Lost](https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf) | [Emma Hessels](https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g) | [Always Lost](https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA) | 3:19 |
 | 34 | [Oh Wide World](https://open.spotify.com/track/6B16dc3mOK69pcPY0cDAiv) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Oh Wide World](https://open.spotify.com/album/7lAy11wBJhfqMwtURlwGgj) | 2:59 |
-| 35 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
-| 36 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 |
+| 35 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 |
+| 36 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
 | 37 | [Toy Heart](https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Toy Heart](https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I) | 3:17 |
 | 38 | [Six Missed Calls](https://open.spotify.com/track/3A11OV16IvmGERXBn8MjSV) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [Speak Softly](https://open.spotify.com/album/4SBPSulqoUsJbjrrvjl0lP) | 5:01 |
 | 39 | [Underwear](https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Underwear](https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y) | 3:27 |
 | 40 | [Abilene](https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Abilene](https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw) | 4:16 |
 | 41 | [Tie you down](https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/1I791510xrKrTghdNBHfgm) | 2:56 |
 | 42 | [Nothing Comes Easy](https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Nothing Comes Easy](https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy) | 2:54 |
-| 43 | [Stolen Valor](https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8), [The Bedroomer](https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB) | [Stolen Valor / Leash](https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0) | 2:33 |
-| 44 | [Cowboys of Los](https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Cowboys of Los](https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH) | 4:03 |
+| 43 | [Cowboys of Los](https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Cowboys of Los](https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH) | 4:03 |
+| 44 | [Stolen Valor](https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8), [The Bedroomer](https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB) | [Stolen Valor / Leash](https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0) | 2:33 |
 | 45 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
 | 46 | [Ferris Wheel](https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Ferris Wheel](https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp) | 3:25 |
 | 47 | [God Loves Weirdos](https://open.spotify.com/track/2ZrUGV4BYg13r4Q3ilGdt3) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [God Loves Weirdos](https://open.spotify.com/album/0Goshi4S6DLOdTCoPDTsXB) | 3:09 |

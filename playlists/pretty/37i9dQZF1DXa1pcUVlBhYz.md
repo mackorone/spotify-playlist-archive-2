@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: TSHA, HoneyLuv & Ellie Maxwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,756 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,757 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 36 | [SLIME is BESTIE \[Sega Bodega + JT\]](https://open.spotify.com/track/4Y65QXs6X2dhVQc9B6a6Ro) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [SLIME is BESTIE \[Sega Bodega + JT\]](https://open.spotify.com/album/5Y9NhiHQOzv1JSBpReoWOy) | 2:40 |
 | 37 | [Fire Fire](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Fire Fire](https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf) | 2:30 |
 | 38 | [Move & Flow](https://open.spotify.com/track/7vfwYnc46GCiyAxozMvJFz) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Move & Flow](https://open.spotify.com/album/2ZsVDjE6FeHur0KCQLvIUK) | 3:56 |
-| 39 | [UP](https://open.spotify.com/track/7iRAklNy6aiS9JOmUdNl0M) | [2D0GS](https://open.spotify.com/artist/2zSFRgwHiN61lvxYJWcpw6) | [ALL THE D0GS ARE BARKING](https://open.spotify.com/album/3eXfS9eDIZfosNdiLR9Hsh) | 3:32 |
+| 39 | [UP](https://open.spotify.com/track/2iSdsWyALI9ePGsGx5c2d1) | [2D0GS](https://open.spotify.com/artist/2zSFRgwHiN61lvxYJWcpw6) | [UP](https://open.spotify.com/album/0Tgy2d3U2Q23E1GZIATlHJ) | 3:32 |
 | 40 | [move on](https://open.spotify.com/track/2f5FduPdSJYCCED1eQhwf3) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [WAAR](https://open.spotify.com/album/2KXxAuIcaxUVJbB33YF6PW) | 3:06 |
 | 41 | [Maia Maia](https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Maia Maia](https://open.spotify.com/album/4NmtnN6kK5IMgxzUILmZiu) | 3:01 |
 | 42 | [Noises + JT](https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:07 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 51 | [Intersexy \(Thakzin Remix\)](https://open.spotify.com/track/3mUpLs4JexPKtrd8l5rLz6) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Intersexy \(Thakzin Remix\)](https://open.spotify.com/album/6cbI8L2XkSCYwFa8j8wyj7) | 6:24 |
 | 52 | [Celebration \(feat\. Dawn Richard\)](https://open.spotify.com/track/723J8TT1MrywSg66aIqZio) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 2:50 |
 | 53 | [Isaka \(6am\)](https://open.spotify.com/track/7c5uGV9Rys18JP2570ykTu) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Isaka \(6am\)](https://open.spotify.com/album/3r5uZvE4Cxt6bDibCl6qKY) | 5:49 |
-| 54 | [With You](https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY) | 3:21 |
+| 54 | [With You](https://open.spotify.com/track/2niEmkDmcR2T0ch2qPPoLm) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/1STaSLMAgjTvXuQTOqyvEw) | 3:21 |
 | 55 | [Stimulation](https://open.spotify.com/track/3EKDfS52GYH6mXT7pyo1JV) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Stimulation](https://open.spotify.com/album/28CIkCFWMObaWeO4KQ3lfb) | 4:46 |
 | 56 | [Aria](https://open.spotify.com/track/2bBvkqFf4jFssDHYOxDUrU) | [Ehua](https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50) | [Panta Rei](https://open.spotify.com/album/3yQacbQfDovjruUyUy7BN4) | 4:45 |
 | 57 | [Ngiyavuma](https://open.spotify.com/track/0HjNaK2RGdu7KLAVdStDNe) | [Stakev](https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN) | [Ngiyavuma](https://open.spotify.com/album/45aPUV3t1PYih6hXQui22G) | 6:49 |

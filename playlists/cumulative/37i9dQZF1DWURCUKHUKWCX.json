@@ -1543,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "Echoes of Colors",
+        "url": "https://open.spotify.com/album/0RsZUNP73u5mPVm3sABojG"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Echoes of Colors",
+      "url": "https://open.spotify.com/track/2iK2iWYwUGp19nevOXCzdk"
+    },
+    {
+      "album": {
         "name": "Echoes Of Yesterday",
         "url": "https://open.spotify.com/album/5ufu9GnNrEzzf9ZbwYe3e3"
       },
@@ -4265,6 +4283,24 @@
     },
     {
       "album": {
+        "name": "Ottoman Bank (SALT Galata)",
+        "url": "https://open.spotify.com/album/2WPfKH2oEdcGLdYSQWF9Ln"
+      },
+      "artists": [
+        {
+          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287253,
+      "name": "Ottoman Bank (SALT Galata)",
+      "url": "https://open.spotify.com/track/1P9wM5SNtVJ9QsYJ8cYYVh"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/108OAvmRUCY02QqJ3C4OT0"
       },
@@ -5777,6 +5813,24 @@
     },
     {
       "album": {
+        "name": "Lumi\u00e8re (Expanded)",
+        "url": "https://open.spotify.com/album/5sPxNUytj37p0cQJ8KRbOZ"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115866,
+      "name": "Timothy Is Sleeping",
+      "url": "https://open.spotify.com/track/6vYjY9nVrHxfKQ2ByvcuTu"
+    },
+    {
+      "album": {
         "name": "Together Without You",
         "url": "https://open.spotify.com/album/03jWrOZNVYTi66EpdNuR8E"
       },
@@ -5788,7 +5842,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 207765,
       "name": "Together Without You",
       "url": "https://open.spotify.com/track/4mJNE34Zn9c02uYFXzKZKY"

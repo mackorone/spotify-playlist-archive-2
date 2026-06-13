@@ -1035,6 +1035,50 @@
     },
     {
       "album": {
+        "name": "Anton Reicha: Menuetto (from: Symphony in D major AJR I:17)",
+        "url": "https://open.spotify.com/album/6TlhVPSqvgPb9K1RsMBtjm"
+      },
+      "artists": [
+        {
+          "name": "Anton Reicha",
+          "url": "https://open.spotify.com/artist/2Cmy1GqPRS06VTKCIMBsLW"
+        },
+        {
+          "name": "Valentin Egel",
+          "url": "https://open.spotify.com/artist/3E57oYobThdSysOGNtNYDq"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308517,
+      "name": "III. Menuetto. Allegro vivace",
+      "url": "https://open.spotify.com/track/1akC0W2XLdbpFtXGpBmU55"
+    },
+    {
+      "album": {
+        "name": "Nowhere Sessions",
+        "url": "https://open.spotify.com/album/1hpZNZUYan5cYkfgMq6GK4"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151829,
+      "name": "Innocence - Nowhere Sessions",
+      "url": "https://open.spotify.com/track/3y9YR3AVhOws7ayEXnsZJo"
+    },
+    {
+      "album": {
         "name": "Orpheus Chamber Orchestra - Baroque Highlights",
         "url": "https://open.spotify.com/album/2e0FIWorD7mcJNs573R4Zq"
       },

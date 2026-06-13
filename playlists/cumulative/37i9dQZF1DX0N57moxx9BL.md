@@ -2,9 +2,9 @@
 
 ### [Top Christian Rock](https://open.spotify.com/playlist/37i9dQZF1DX0N57moxx9BL)
 
-> Listen to the recent hits of Christian Rock\.  Cover:  Jeremy Camp
+> Listen to the recent hits of Christian Rock\.  Cover:  Stryper
 
-302 songs - 19 hr 18 min
+307 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [I Get Wicked \- Reignited](https://open.spotify.com/track/6X0sPx7iFn3xeZOZz8I2V5) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [I Get Wicked](https://open.spotify.com/album/1UIXC237ONFCTd5RE2011V) | 3:33 | 2024-06-28 |  |
 | [I Know Your Heart](https://open.spotify.com/track/5afMJm0l4ZYGfNSaHMF9uk) | [Sean Daily](https://open.spotify.com/artist/57PqS7EAbP8iX4d3v9J2L1) | [I Know Your Heart](https://open.spotify.com/album/7CaPgwk2v0N12bsvJMyUqm) | 2:36 | 2025-12-12 |  |
 | [I Won't Look Back](https://open.spotify.com/track/5llksYcJ2Q7eL5HaCMZdvE) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [I Won't Look Back](https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn) | 3:20 | 2021-05-28 | 2025-03-15 |
+| [I'm Alright \(I'm Okay\)](https://open.spotify.com/track/5w7Z9mi77xuNdck2nv3GhL) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [I'm Alright \(I'm Okay\)](https://open.spotify.com/album/0kWoFC1H7GuG7aEVqcAMcc) | 3:26 | 2026-06-12 |  |
 | [I'm Done](https://open.spotify.com/track/2TRCXH1RCQKi6jhYO8Cfmu) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [I'm Done](https://open.spotify.com/album/0qgFmorqdP4mfdCYG4sXLS) | 4:48 | 2025-05-09 | 2025-09-27 |
 | [I'm Living Righteous](https://open.spotify.com/track/1nxEUqqYeq2UCObsrZ30y4) | [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [I'm Living Righteous](https://open.spotify.com/album/0ciyefHKuOKaPFTmMStdea) | 2:40 | 2023-02-17 | 2024-05-06 |
 | [Identity Theft](https://open.spotify.com/track/3GNyLio1Z2VueMc8RSMvfj) | [Mr\. Weaverface](https://open.spotify.com/artist/4153J2W6MAMlUO3P7E46UU) | [Identity Theft](https://open.spotify.com/album/0Nb2zlQ9n4qZRIbdanPO8H) | 3:58 | 2025-11-07 | 2026-01-15 |
@@ -167,6 +168,7 @@
 | [Listen Friend](https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK) | [Above Only](https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn) | [Listen Friend](https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M) | 4:32 | 2022-01-14 | 2026-04-26 |
 | [Live Again](https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH) | [Torndown](https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ) | [Live Again](https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG) | 3:45 | 2021-05-28 | 2024-11-02 |
 | [Look At God](https://open.spotify.com/track/5xqU5TupZhjHTbz6NgVvo6) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Look At God](https://open.spotify.com/album/2C4wpKm09OICCnMbJE05KS) | 2:55 | 2025-05-31 |  |
+| [Losing It](https://open.spotify.com/track/4ky05C3dLT1bmwAQZ76Qu4) | [Natural State](https://open.spotify.com/artist/0EpCi97ecBbnLyBlmLaLM1), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Losing It](https://open.spotify.com/album/39GDvPBRFkksacIUmQhMJz) | 3:29 | 2026-06-12 |  |
 | [Louder Than a Lion](https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT) | [Eisley](https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg) | [I'm Only Dreaming](https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP) | 3:56 | 2021-05-28 | 2025-03-01 |
 | [Lower East Side](https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [Songs for the Late Night Drive Home](https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl) | 3:31 | 2022-03-11 | 2024-04-19 |
 | [Lower East Side](https://open.spotify.com/track/3UzWO1IScDGFfdz5pYLsCB) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [Songs for the Late Night Drive Home](https://open.spotify.com/album/2NkJ9lEGNMiqftqoyjO80G) | 3:31 | 2021-05-28 | 2025-03-01 |
@@ -198,6 +200,7 @@
 | [Opiate](https://open.spotify.com/track/5Tfq3xa8iVzAayJwSGmMD3) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Opiate](https://open.spotify.com/album/2KnkZlYUmqvTafO8IOkCai) | 4:09 | 2022-10-29 | 2023-01-04 |
 | [Panic Room](https://open.spotify.com/track/2NP0xYz37JZZiBwBFDDhgM) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Andrew Schwab](https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc) | [Love Letter Kill Shot](https://open.spotify.com/album/6lcb1LKEbn5HF9Q6N9rOEY) | 4:29 | 2021-05-28 | 2022-07-29 |
 | [Panic Room \(featuring Andrew Schwab\)](https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Andrew Schwab](https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc) | [Love Letter Kill Shot](https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM) | 4:29 | 2022-03-11 | 2024-04-19 |
+| [Paper Doll](https://open.spotify.com/track/40fDHX0Ac4NPheT1Dys5md) | [ALTIRA](https://open.spotify.com/artist/49d4O0218ZI3FKYNFLgrNs) | [Death Of Fear](https://open.spotify.com/album/2WZBkPF4cXKEpTEJfye0dj) | 3:31 | 2026-06-12 |  |
 | [Paper Tiger](https://open.spotify.com/track/1U0ht67MsghfYWitY8MFhz) | [Natural State](https://open.spotify.com/artist/0EpCi97ecBbnLyBlmLaLM1) | [Paper Tiger](https://open.spotify.com/album/2SqRtIyFdU5kspGaayuyhQ) | 2:49 | 2025-11-21 | 2026-05-12 |
 | [PARALLEL \- Live](https://open.spotify.com/track/0zENtJckaa2Nn4XKoKwPZK) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [PARALLEL \(Live\)](https://open.spotify.com/album/4WzVV8wFMiPCPJwLeQ7AK8) | 5:38 | 2024-11-01 |  |
 | [Peace That Starts the War](https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Peace That Starts the War](https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk) | 2:48 | 2022-03-11 | 2024-06-29 |
@@ -267,6 +270,7 @@
 | [The Resistance](https://open.spotify.com/track/5O9Dz0h08LuBi0aVvDcylh) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:52 | 2021-05-28 | 2022-01-15 |
 | [The Seventh Seal \(feat\. Ulf Christiansson\)](https://open.spotify.com/track/0BozmqbKcWNBdRPCyFNwwo) | [All For The King](https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF), [Ulf Christiansson](https://open.spotify.com/artist/14dnSBT7oYepXKo7iqsq58) | [The Seventh Seal](https://open.spotify.com/album/2j6zV6SBFEmqssUFMeOxJO) | 3:34 | 2023-07-28 | 2024-06-29 |
 | [The Shelter](https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se) | [All For The King](https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF) | [Let There Be Light](https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23) | 4:18 | 2022-01-14 | 2024-11-02 |
+| [The Showdown](https://open.spotify.com/track/6C7U9HMQIOfD0UpmH4jVvR) | [Big Dismal](https://open.spotify.com/artist/7FvuRKQuUL3tmFujoJKMOq) | [The Showdown](https://open.spotify.com/album/28lkjIFWI1xH3EVIU7SxJL) | 2:49 | 2026-06-12 |  |
 | [The Truth](https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju) | [I Am Spartacus](https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l) | [Unite](https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi) | 4:17 | 2021-05-28 | 2025-05-10 |
 | [They See \- Live In Pomona](https://open.spotify.com/track/76g9TZlz0vfqFjLr2w8pvJ) | [HolyName](https://open.spotify.com/artist/70dru8oehK8CwnNzANx6CJ), [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [They See \(Live in Pomona\)](https://open.spotify.com/album/0ZUNh3WGZfdLe4UUgO4c48) | 4:00 | 2025-02-07 | 2025-09-27 |
 | [Think of Me](https://open.spotify.com/track/2n8PXB9sQMIuo91MQ6KACy) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV), [4th Point](https://open.spotify.com/artist/1ne42u3qXGxhXOheXX9mQL) | [Think of Me](https://open.spotify.com/album/46NMUaEPuQdNjX3dJPexqt) | 3:43 | 2023-11-17 | 2024-06-29 |
@@ -284,6 +288,7 @@
 | [Voices](https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Death Stare](https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i) | 4:08 | 2022-01-14 | 2026-04-26 |
 | [Wake Me Up](https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y) | [Living Scars](https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE) | [Wake Me Up](https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY) | 4:13 | 2023-07-28 |  |
 | [Wake Up, Mr\. Crow](https://open.spotify.com/track/0grUF97drgnU62EI7jpN4x) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Wake Up, Mr\. Crow](https://open.spotify.com/album/41Q8Mjdp8pXFoYmJItNgFb) | 4:05 | 2026-03-29 |  |
+| [WALK AWAY](https://open.spotify.com/track/69rNXkGYtjZEV8VJNjAekb) | [Coquí](https://open.spotify.com/artist/1uCjP7p7EWy5ZfH2jszK06) | [WALK AWAY](https://open.spotify.com/album/04KMCAoDxsJEevw2OXDduZ) | 3:28 | 2026-06-12 |  |
 | [Walking Into Fire](https://open.spotify.com/track/1KQXKOSfTYKsDNBVL4gXXo) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Walking Into Fire](https://open.spotify.com/album/3ZHPDFdLiHctzZhdYEwlyB) | 3:01 | 2025-09-26 |  |
 | [War of Change \- Reignited](https://open.spotify.com/track/1ZEozdTpkYk0FYJ24YWj7t) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [War of Change](https://open.spotify.com/album/7Jl5wUb5M6nQ8Fmyee3czI) | 3:18 | 2023-07-28 | 2024-06-29 |
 | [Way You Love Me](https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW) | [XXI](https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C) | [Inside Out](https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW) | 3:53 | 2022-03-11 | 2024-04-19 |

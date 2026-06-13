@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 471 likes - 68 songs - 4 hr 25 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 473 likes - 69 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 66 | [Finding You](https://open.spotify.com/track/5jCpLxpsNUM2QU7sa5FuLO) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:16 |
 | 67 | [Pocket Friend](https://open.spotify.com/track/1o3vJA4CscYdUMNALRorHX) | [The Wild Life](https://open.spotify.com/artist/6v89r44ZBn2egA98VSHrTD) | [Pocket Friend](https://open.spotify.com/album/4eJU1HUt931tQ3dlte1ENP) | 3:21 |
 | 68 | [Hey Woman](https://open.spotify.com/track/6wdZHEXuu5JWMyydPlMeqt) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Fixed Up \(Remastered\)](https://open.spotify.com/album/2Wwy5fnDfPGoXhkKmBcVFM) | 2:57 |
+| 69 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 |
 
-Snapshot ID: `AAAB0g5zA2zt/6KBqSw24vlMrQc/VYK3`
+Snapshot ID: `AAAB0ynXROLeYRsKxfnrYAs8BgtVVL4R`

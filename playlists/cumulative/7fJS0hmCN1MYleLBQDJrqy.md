@@ -4,7 +4,7 @@
 
 > De beste Studenten Hits 2026 op één plek! 🍻 Dé ultieme playlist voor je huisfeest of de kroeg\. Vol met de beste Nederpop, kroegenhits, meezingers en de hardste tracks van Bankzitters, Antoon, Turfy Gang en Roxy Dekker\. 🎤🔥 Cover: Roxy Dekker
 
-170 songs - 7 hr 40 min
+171 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Zijkant](https://open.spotify.com/track/65bKgp0oPps8YDFaCWsMjg) | [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS) | [Zijkant](https://open.spotify.com/album/1LaxxpY3iDj4NxfirjjbX2) | 2:46 | 2026-03-20 |  |
 | [Zoet, Zout, Zuur](https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Zoet, Zout, Zuur](https://open.spotify.com/album/6FrJb3MtWlu4EQNbXZsN1P) | 3:00 | 2026-05-19 |  |
 | [Zomer](https://open.spotify.com/track/4LWSh6ywiwlEpPytH5bstM) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Zomer](https://open.spotify.com/album/3To7NyeKEzquC5ufnuQNWV) | 3:38 | 2025-07-18 | 2025-11-15 |
+| [Zomer in NL](https://open.spotify.com/track/1YEMCWrZNYuinXS870FjFP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Zomer in NL](https://open.spotify.com/album/4d49Zsyb9LRxSiAF93uoBp) | 2:33 | 2026-06-12 |  |
 | [⁠Als Ik Ga](https://open.spotify.com/track/1iycr8PISLyOC4pQkl51qu) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Tot Het Eind Van Mij](https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU) | 2:52 | 2026-02-10 | 2026-05-20 |
 | [⁠Tot Het Eind Van Mij](https://open.spotify.com/track/5MSrJGjtJy0eu2Z0oRXYlP) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [⁠Tot Het Eind Van Mij](https://open.spotify.com/album/2juwxLM6gQlTe5bPlMn70n) | 2:44 | 2026-02-10 |  |
 

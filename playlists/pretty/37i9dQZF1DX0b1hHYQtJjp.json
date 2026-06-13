@@ -1,12 +1,12 @@
 {
   "description": "Recent hits and new songs from your fave artists. Cover: Alex Warren",
-  "num_followers": 949738,
+  "num_followers": 949812,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANVJDIsZAN+T8Dhnw/R/LGQopb8q",
+  "snapshot_id": "AAAAAOMXyiiD5miEsySOYYFA8OPWRuDC",
   "tracks": [
     {
       "added_at": "2026-06-05 04:01:09",
@@ -23,6 +23,22 @@
       "duration_ms": 159771,
       "name": "PASSENGER",
       "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
+    },
+    {
+      "added_at": "2026-06-12 04:01:57",
+      "album": {
+        "name": "DIRTY BLONDE",
+        "url": "https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R"
     },
     {
       "added_at": "2026-05-22 05:03:16",
@@ -109,6 +125,22 @@
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
+      "added_at": "2026-06-12 04:28:14",
+      "album": {
+        "name": "The Great Divide: The Last Of The Bugs",
+        "url": "https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 286967,
+      "name": "Orbiter",
+      "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
+    },
+    {
       "added_at": "2026-05-22 05:03:16",
       "album": {
         "name": "Rein Me In (with Olivia Dean)",
@@ -145,6 +177,54 @@
       "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
     },
     {
+      "added_at": "2026-06-12 04:01:57",
+      "album": {
+        "name": "Stop Me Dead",
+        "url": "https://open.spotify.com/album/37XRrMkAxD04z1scC9AgxF"
+      },
+      "artists": [
+        {
+          "name": "Kerr Mercer",
+          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
+        }
+      ],
+      "duration_ms": 151794,
+      "name": "Stop Me Dead",
+      "url": "https://open.spotify.com/track/0JiNzR7D3lpOumnlUGnKjU"
+    },
+    {
+      "added_at": "2026-06-05 04:01:09",
+      "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 185337,
+      "name": "Tastes So Good",
+      "url": "https://open.spotify.com/track/4gluSAEoFadJsa26yk6UHq"
+    },
+    {
+      "added_at": "2026-06-05 04:01:09",
+      "album": {
+        "name": "Mrs. Kisses",
+        "url": "https://open.spotify.com/album/1qbnghY7L0MQhGSxBxm2Mb"
+      },
+      "artists": [
+        {
+          "name": "tig3r lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "duration_ms": 192534,
+      "name": "Mrs. Kisses",
+      "url": "https://open.spotify.com/track/559GqhUeuXY8tKdVXMSMpT"
+    },
+    {
       "added_at": "2026-05-29 04:02:48",
       "album": {
         "name": "Love\u2019s a Gun",
@@ -159,6 +239,22 @@
       "duration_ms": 179932,
       "name": "Love\u2019s a Gun",
       "url": "https://open.spotify.com/track/7vqgKci5WfCnk0iUrNN9op"
+    },
+    {
+      "added_at": "2026-06-05 04:01:09",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/5CJ5lgjlSEVTrcbgLBDSKE"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "duration_ms": 180347,
+      "name": "Thank You For Loving Me",
+      "url": "https://open.spotify.com/track/3N7cmRE1ZUKfp4ZmMVJuuc"
     },
     {
       "added_at": "2026-05-22 05:03:16",
@@ -193,22 +289,6 @@
       "url": "https://open.spotify.com/track/57GzncV0DFLenSIt5yERwY"
     },
     {
-      "added_at": "2026-06-05 04:01:09",
-      "album": {
-        "name": "Dinner Party",
-        "url": "https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 185337,
-      "name": "Tastes So Good",
-      "url": "https://open.spotify.com/track/4gluSAEoFadJsa26yk6UHq"
-    },
-    {
       "added_at": "2026-05-29 04:02:48",
       "album": {
         "name": "the cure",
@@ -225,20 +305,20 @@
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
-      "added_at": "2026-06-05 04:01:09",
+      "added_at": "2026-06-12 04:01:57",
       "album": {
-        "name": "Mrs. Kisses",
-        "url": "https://open.spotify.com/album/1qbnghY7L0MQhGSxBxm2Mb"
+        "name": "Pennsylvania Turnpike",
+        "url": "https://open.spotify.com/album/5PcRDcKPzr2dORUnRWROwQ"
       },
       "artists": [
         {
-          "name": "tig3r lewis",
-          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 192534,
-      "name": "Mrs. Kisses",
-      "url": "https://open.spotify.com/track/559GqhUeuXY8tKdVXMSMpT"
+      "duration_ms": 220179,
+      "name": "Pennsylvania Turnpike",
+      "url": "https://open.spotify.com/track/4gXjzDndwLo65Mtc6zsNeZ"
     },
     {
       "added_at": "2026-06-05 04:01:09",
@@ -281,22 +361,6 @@
       "url": "https://open.spotify.com/track/4cvLkmpPOopL1RCpdHIho1"
     },
     {
-      "added_at": "2026-06-05 04:01:09",
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/5CJ5lgjlSEVTrcbgLBDSKE"
-      },
-      "artists": [
-        {
-          "name": "Alex Sampson",
-          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
-        }
-      ],
-      "duration_ms": 180347,
-      "name": "Thank You For Loving Me",
-      "url": "https://open.spotify.com/track/3N7cmRE1ZUKfp4ZmMVJuuc"
-    },
-    {
       "added_at": "2026-05-29 04:02:48",
       "album": {
         "name": "Mad About It",
@@ -311,6 +375,22 @@
       "duration_ms": 157008,
       "name": "Mad About It",
       "url": "https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o"
+    },
+    {
+      "added_at": "2026-06-12 04:01:57",
+      "album": {
+        "name": "If I Cannot Be Yours",
+        "url": "https://open.spotify.com/album/09dmWFX66Ikwa0GsNNgbfb"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "If I Cannot Be Yours",
+      "url": "https://open.spotify.com/track/6uh25H3MfizwNyfzyDswZs"
     },
     {
       "added_at": "2026-05-22 05:03:16",
@@ -527,22 +607,6 @@
     {
       "added_at": "2026-05-22 05:03:16",
       "album": {
-        "name": "Orchid",
-        "url": "https://open.spotify.com/album/01LvAlFKjTUzdQcjcUXOyG"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 192693,
-      "name": "Orchid",
-      "url": "https://open.spotify.com/track/0PJQf8ZYjyzaMhLNrX6qIW"
-    },
-    {
-      "added_at": "2026-05-22 05:03:16",
-      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/5H6ltN6xXMtchKrw0sVdhi"
       },
@@ -651,22 +715,6 @@
       "duration_ms": 200000,
       "name": "We Were Only Young",
       "url": "https://open.spotify.com/track/6SzPfJJegDfsltDble6ZSG"
-    },
-    {
-      "added_at": "2026-05-22 05:03:16",
-      "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 231086,
-      "name": "Doors",
-      "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
     },
     {
       "added_at": "2026-05-22 05:03:16",
@@ -887,22 +935,6 @@
       "duration_ms": 183230,
       "name": "Dive",
       "url": "https://open.spotify.com/track/3tWpj6eJQMW0Aq1L109VWe"
-    },
-    {
-      "added_at": "2026-05-22 05:03:16",
-      "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 162379,
-      "name": "BITCH",
-      "url": "https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4"
     },
     {
       "added_at": "2026-05-22 05:03:16",

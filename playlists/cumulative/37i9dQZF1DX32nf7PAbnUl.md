@@ -4,7 +4,7 @@
 
 > Le son des chichas !
 
-126 songs - 6 hr 24 min
+127 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 | 2026-04-03 |  |
 | [Coachella](https://open.spotify.com/track/6ldD5Cg0Zv7s7bLLlzqD11) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU) | [Coachella](https://open.spotify.com/album/3UorNadgwi7FVLSmvd33Yf) | 2:13 | 2025-12-25 | 2026-05-29 |
 | [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 | 2025-05-17 |  |
+| [Coco Chanel](https://open.spotify.com/track/65lCFhOz5RyYH52JryAf10) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [La Dame](https://open.spotify.com/album/1XmeiDJ7WhLJhhKHSMBAH5) | 2:10 | 2026-06-12 |  |
 | [Coeur De Pirate](https://open.spotify.com/track/2q2tG7xR37PNyqrXqooemZ) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Coeur De Pirate](https://open.spotify.com/album/6amYcdS4hW0H69JcDrK2wY) | 3:00 | 2023-08-08 | 2023-12-02 |
 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-05-23 | 2025-05-18 |
 | [Congolaise](https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Congolaise](https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk) | 2:54 | 2026-05-28 |  |
@@ -103,7 +104,7 @@
 | [Quillé](https://open.spotify.com/track/05tF2Drqpc0hbHyh071354) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Quillé](https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF) | 3:00 | 2024-11-29 | 2025-04-12 |
 | [Rosa](https://open.spotify.com/track/4zCPOJ8FSnZRRwt9olAoke) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [ShegueyVara 2](https://open.spotify.com/album/0bnoOeocONcD9vlfua3HSE) | 3:04 | 2024-04-12 | 2025-04-12 |
 | [RS5](https://open.spotify.com/track/00GSNnSxVhNlQiJwuRGIGr) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Drapeau Blanc](https://open.spotify.com/album/1iLGxODx0ibLx8EFpZOAQu) | 2:56 | 2024-02-15 | 2024-10-05 |
-| [RS6](https://open.spotify.com/track/0zlkIVakn5bBF8ne5Csiz7) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [RS6](https://open.spotify.com/album/47A9QHZ7iDeKK9XYXLvBxR) | 4:35 | 2025-12-25 |  |
+| [RS6](https://open.spotify.com/track/0zlkIVakn5bBF8ne5Csiz7) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [RS6](https://open.spotify.com/album/47A9QHZ7iDeKK9XYXLvBxR) | 4:35 | 2025-12-25 | 2026-06-13 |
 | [Saga](https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 3:14 | 2025-01-03 | 2025-08-29 |
 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 | 2024-06-06 |  |
 | [Sale mood](https://open.spotify.com/track/5TlGrvOMiAltKgRw3anXKo) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Prémices](https://open.spotify.com/album/6Puycd9ohkbDcL70BIlnqZ) | 3:37 | 2023-08-08 | 2025-01-04 |

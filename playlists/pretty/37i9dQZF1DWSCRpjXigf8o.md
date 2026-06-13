@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,940 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,944 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 36 | [朝顔](https://open.spotify.com/track/5vnTYL1H4uGzNaMB14wagO) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [朝顔](https://open.spotify.com/album/5BqiHDJ0KHdOVEIHBred2e) | 5:36 |
 | 37 | [あなたを愛するように](https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Who?](https://open.spotify.com/album/672YB4ykUdCVpHu9UgLa6j) | 3:24 |
 | 38 | [A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 |
-| 39 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 |
-| 40 | [back to you \(you're the reason\)](https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [back to you \(you're the reason\)](https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M) | 4:00 |
+| 39 | [back to you \(you're the reason\)](https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [back to you \(you're the reason\)](https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M) | 4:00 |
+| 40 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 |
 | 41 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
 | 42 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
 | 43 | [なみしぐさ](https://open.spotify.com/track/5lCHvxlOWI6rRGkLEtnopS) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [パレード \(Original Soundtrack\)](https://open.spotify.com/album/0xfFfjCL2W2MEr0fSCf4bh) | 4:48 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 48 | [a plumber](https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [a plumber](https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN) | 3:29 |
 | 49 | [A Little More Time](https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [A Little More Time](https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa) | 4:00 |
 | 50 | [Maya, Maya, Maya](https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Maya, Maya, Maya](https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML) | 2:59 |
-| 51 | [灯台 \(Live Session\)](https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 3:07 |
-| 52 | [頬にひと口](https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [頬にひと口](https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj) | 3:29 |
+| 51 | [頬にひと口](https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [頬にひと口](https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj) | 3:29 |
+| 52 | [灯台 \(Live Session\)](https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 3:07 |
 | 53 | [光朝](https://open.spotify.com/track/09tkV5i4lWmAVSumsJIsEE) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [空はまるで](https://open.spotify.com/album/3IoDRMDTRFh4HqmhRIrGOJ) | 3:15 |
 | 54 | [キャンディ](https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87) | 3:46 |
 | 55 | [Call It A Day](https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [Call It A Day](https://open.spotify.com/album/11HIro0GtIxoeysAULtuU2) | 2:56 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 97 | [Responder \(Live Session\)](https://open.spotify.com/track/4VYZuxJh4HwZgvWiPmcvSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 3:37 |
 | 98 | [pineapple bun](https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [pineapple bun](https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md) | 3:29 |
 | 99 | [APOLLO \(feat\. 桃子A1J\)](https://open.spotify.com/track/7sREJmvhWTOjcYgLTTgSOg) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC), [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC) | [APOLLO \(feat\. 桃子A1J\)](https://open.spotify.com/album/4lJ4z4ne9vY7BcwCrBLZsL) | 4:04 |
-| 100 | [Good Life](https://open.spotify.com/track/2hsTr2uDmLOk5BusqU1jc6) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Good Life](https://open.spotify.com/album/5uMRnkmSWRgwuWvtdwayO7) | 4:58 |
+| 100 | [I know](https://open.spotify.com/track/1eRwmWB269meD0JlNDDM60) | [SOIII](https://open.spotify.com/artist/6IIpHaS29YrhmK1uQnEtOp) | [I know](https://open.spotify.com/album/705uQ9r4jJSE9xXGUfVNSs) | 3:52 |
 
 Snapshot ID: `AAAAADiqvu+Ko/XjD0PHj3Oq60n/MWiT`

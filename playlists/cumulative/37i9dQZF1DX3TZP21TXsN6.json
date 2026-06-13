@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "100 bricks",
+        "url": "https://open.spotify.com/album/3v8cVjf0mzfSvtybfGn0UI"
+      },
+      "artists": [
+        {
+          "name": "Bastosz",
+          "url": "https://open.spotify.com/artist/6CtxmUMNLxhOEPh1S1mY4g"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170793,
+      "name": "100 bricks",
+      "url": "https://open.spotify.com/track/79V0ak67W2S4Rqjh4QLxqn"
+    },
+    {
+      "album": {
         "name": "100.000 Mistakes",
         "url": "https://open.spotify.com/album/0ikY46np7sr8m4dH4Wr12k"
       },
@@ -8241,6 +8259,24 @@
     },
     {
       "album": {
+        "name": "B-Elftal",
+        "url": "https://open.spotify.com/album/0dmQxkArc75K2N9lwn573i"
+      },
+      "artists": [
+        {
+          "name": "Brunzyn",
+          "url": "https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161612,
+      "name": "Niet Meer Uit Het Veld Te Slaan",
+      "url": "https://open.spotify.com/track/1qHhh32pwxoQAEeiuAefai"
+    },
+    {
+      "album": {
         "name": "Niet Regular",
         "url": "https://open.spotify.com/album/2eJYGKqVoEAEQDDsFUTxP6"
       },
@@ -11166,24 +11202,6 @@
       "duration_ms": 136363,
       "name": "Traangas",
       "url": "https://open.spotify.com/track/5qSMTV0h230E9fMdQSw5xn"
-    },
-    {
-      "album": {
-        "name": "B-Elftal",
-        "url": "https://open.spotify.com/album/0dmQxkArc75K2N9lwn573i"
-      },
-      "artists": [
-        {
-          "name": "Brunzyn",
-          "url": "https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/1qHhh32pwxoQAEeiuAefai"
     },
     {
       "album": {

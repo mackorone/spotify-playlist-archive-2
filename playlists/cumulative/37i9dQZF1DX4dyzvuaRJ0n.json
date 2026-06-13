@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance & electronic hits. Cover: Prospa",
+  "description": "The world's biggest dance & electronic hits. Cover: ANOTR",
   "name": "mint",
   "tracks": [
     {
@@ -5542,7 +5542,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 170243,
       "name": "COOK",
       "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
@@ -8924,7 +8924,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 215649,
       "name": "FADED",
       "url": "https://open.spotify.com/track/0OSKN4D9kXEunDf89augTt"
@@ -13408,7 +13408,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 303528,
       "name": "I Feel So Free",
       "url": "https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk"
@@ -15072,6 +15072,28 @@
       "duration_ms": 182750,
       "name": "It's Quiet Now (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q"
+    },
+    {
+      "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199196,
+      "name": "It's So Nice (ft. 3DDY)",
+      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
     },
     {
       "album": {
@@ -17877,6 +17899,28 @@
     },
     {
       "album": {
+        "name": "Lovers On The Dancefloor",
+        "url": "https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153088,
+      "name": "Lovers On The Dancefloor",
+      "url": "https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct"
+    },
+    {
+      "album": {
         "name": "LOW",
         "url": "https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm"
       },
@@ -18326,6 +18370,28 @@
       "duration_ms": 281500,
       "name": "Man With a Second Face",
       "url": "https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO"
+    },
+    {
+      "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215062,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
     },
     {
       "album": {
@@ -22726,7 +22792,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 196056,
       "name": "Pop Off",
       "url": "https://open.spotify.com/track/4PolqZLqReEqc3yURJtzc4"
@@ -26888,6 +26954,28 @@
       "duration_ms": 203371,
       "name": "Speed Trials On Acid (feat. Dan Diamond)",
       "url": "https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk"
+    },
+    {
+      "album": {
+        "name": "Spin Me Slowly (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/1YAcTt8kz8Pfyp5GzkiNKx"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182077,
+      "name": "Spin Me Slowly (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/4kSPUCwxN0KjrX8Q3uM3rY"
     },
     {
       "album": {

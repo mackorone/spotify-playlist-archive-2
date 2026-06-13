@@ -2181,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "Ereronde (Deluxe)",
+        "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "Brassen",
+      "url": "https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9"
+    },
+    {
+      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },

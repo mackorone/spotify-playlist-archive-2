@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Giorgos Sabanis
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,979 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,992 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 4 | [Tulum](https://open.spotify.com/track/3DsJyeULgdBuBYGqw6AIhn) | [Playmen](https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c), [Marasi](https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Tulum](https://open.spotify.com/album/1W0hcyDzZ7qt69C6KBAlwY) | 2:20 |
 | 5 | [ANASA](https://open.spotify.com/track/5prXcfHoW8nIij8nuc52kd) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [TIGER LUV](https://open.spotify.com/album/6srP9HJXcKA4lwfa8viVPJ) | 3:00 |
 | 6 | [Oneiro Vathi](https://open.spotify.com/track/0VU2t3vtbGI8TiVzR0PoFt) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Oneiro Vathi](https://open.spotify.com/album/641o0ItNropWRYCAUZkoTD) | 3:16 |
-| 7 | [A'ti](https://open.spotify.com/track/7Clubijy1Q8TYfFsS8GLMF) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [A'ti](https://open.spotify.com/album/2E20oS6CL02F7LCsBgGygQ) | 2:56 |
+| 7 | [A'ti](https://open.spotify.com/track/3jBba6wuPZwclW44byHwlg) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [A'ti](https://open.spotify.com/album/287W2LJTBgaigkleidc83x) | 2:56 |
 | 8 | [ÉNA NERÓ](https://open.spotify.com/track/4IIzFVHkAynnStxCIs21iy) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [ÉNA NERÓ](https://open.spotify.com/album/68VsyGkfZoBFDRrOL9hagB) | 2:54 |
 | 9 | [GREEK LOVE](https://open.spotify.com/track/5FrtqrsOJd15eXWtKA88vD) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Athena Manoukian](https://open.spotify.com/artist/22YSp71UhSbFP7OP5jx3r0) | [Cruel Summer 3](https://open.spotify.com/album/5PLaA1KlPRZx1DUm7PhN15) | 2:24 |
 | 10 | [Rebetiko](https://open.spotify.com/track/4oHhqNrZtxCPqlTnCsAE92) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Rebetiko](https://open.spotify.com/album/5vbHVcCQ2492sXESGmjdWd) | 2:23 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 40307,
+  "num_followers": 40312,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAABdYG5nF0Myz3ES0p90Sn9b",
+  "snapshot_id": "ain6gAAAAAAmVhXA7ttWaV5CFFWhMpaW",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 191432,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Limerence",
         "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
       },
@@ -499,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Boy Who Cried Freedom",
-        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+        "name": "Like You'll Never See Me Again",
+        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
       },
       "artists": [
         {
@@ -508,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 191432,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
+      "duration_ms": 238033,
+      "name": "Like You'll Never See Me Again",
+      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
     },
     {
       "added_at": null,
@@ -535,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like You'll Never See Me Again",
-        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
       "artists": [
         {
@@ -544,9 +560,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 238033,
-      "name": "Like You'll Never See Me Again",
-      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
+      "duration_ms": 197701,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
     },
     {
       "added_at": null,
@@ -563,22 +579,6 @@
       "duration_ms": 270922,
       "name": "Easy Ain't Home",
       "url": "https://open.spotify.com/track/2aRkTVqf51JT2al8uWLo5h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 197701,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 235714,
-      "name": "In The End",
-      "url": "https://open.spotify.com/track/2nRYqxhoFrPRJve5h0UMa0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monster 2.0",
         "url": "https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 235714,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/2nRYqxhoFrPRJve5h0UMa0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For My Friends",
         "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 158124,
       "name": "Black N White",
       "url": "https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
+        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 204658,
+      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
+      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
     },
     {
       "added_at": null,
@@ -707,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
-        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
+        "name": "Creed II (Score & Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
       },
       "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 204658,
-      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
-      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
+      "duration_ms": 147360,
+      "name": "You Might Find Me (From \"Creed II\" Soundtrack)",
+      "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
     },
     {
       "added_at": null,
@@ -743,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creed II (Score & Music from the Original Motion Picture)",
-        "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
       "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 147360,
-      "name": "You Might Find Me (From \"Creed II\" Soundtrack)",
-      "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
+      "duration_ms": 208172,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
     },
     {
       "added_at": null,
@@ -772,25 +788,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 172377,
-      "name": "Losing Game",
-      "url": "https://open.spotify.com/track/2jCdu3IUpkc7k7G0e7EdJI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 208172,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
+      "duration_ms": 196025,
+      "name": "My Day Will Come",
+      "url": "https://open.spotify.com/track/4gbi2i68cvI8zPDGczoBro"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 88533,
+      "name": "Coming Through [Big up Yaself]",
+      "url": "https://open.spotify.com/track/1CoHERmQGn5eddSYmVwIkN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -879,38 +895,6 @@
       "duration_ms": 220906,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Other People\u2019s Heartache (Pt. 4)",
-        "url": "https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi"
-      },
-      "artists": [
-        {
-          "name": "Other People's Heartache",
-          "url": "https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Lily Moore",
-          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
-        },
-        {
-          "name": "Moss Kena",
-          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 342012,
-      "name": "The Descent",
-      "url": "https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA"
     }
   ],
   "unique_name": "This Is Jacob Banks",

@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 612153,
+  "num_followers": 612132,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Kingmaker (with Julia Michaels)",
-        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "Kingmaker (with Julia Michaels)",
-      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "Bl\u00e5\u00f6gd",
         "url": "https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 194785,
       "name": "Lost and found",
       "url": "https://open.spotify.com/track/7AIr6shgnOlUrx3StZUkce"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "Kingmaker (with Julia Michaels)",
+        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "Kingmaker (with Julia Michaels)",
+      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 169213,
       "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
       "url": "https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
-        "name": "Just Because",
-        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
+        "name": "Here It Is",
+        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "Here It Is",
+      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
         "name": "Genom Eld & Vatten - Spotify Singles",
         "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
       },
@@ -979,18 +995,18 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Here It Is",
-        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
+        "name": "Your Bones",
+        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
       },
       "artists": [
         {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
         }
       ],
-      "duration_ms": 193389,
-      "name": "Here It Is",
-      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
+      "duration_ms": 159400,
+      "name": "Your Bones",
+      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Your Bones",
-        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
       },
       "artists": [
         {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
         }
       ],
-      "duration_ms": 159400,
-      "name": "Your Bones",
-      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
+      "duration_ms": 192130,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1047,22 +1063,6 @@
       "duration_ms": 211000,
       "name": "Du & jag",
       "url": "https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "It's a Beautiful Dream",
-      "url": "https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 232277,
       "name": "Doesn\u2019t Do Me Any Good",
       "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "It's a Beautiful Dream",
+      "url": "https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-        "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 177422,
-      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-      "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "Samma saga",
         "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 213882,
       "name": "Samma saga",
       "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
+        "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 177422,
+      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
+      "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
+        "name": "Heaven (Acoustic)",
+        "url": "https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 183644,
+      "name": "Heaven - Acoustic",
+      "url": "https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
         "name": "Scissors",
         "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
       },
@@ -1655,22 +1671,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Flytta h\u00e4rifr\u00e5n",
-        "url": "https://open.spotify.com/album/6uUuPh3SkieVRxcruAwaMh"
-      },
-      "artists": [
-        {
-          "name": "Manon Lamartine",
-          "url": "https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw"
-        }
-      ],
-      "duration_ms": 208509,
-      "name": "Flytta h\u00e4rifr\u00e5n",
-      "url": "https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "All My Friends",
         "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
       },
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Heaven (Acoustic)",
-        "url": "https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka"
+        "name": "Flytta h\u00e4rifr\u00e5n",
+        "url": "https://open.spotify.com/album/6uUuPh3SkieVRxcruAwaMh"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Manon Lamartine",
+          "url": "https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw"
         }
       ],
-      "duration_ms": 183644,
-      "name": "Heaven - Acoustic",
-      "url": "https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo"
+      "duration_ms": 208509,
+      "name": "Flytta h\u00e4rifr\u00e5n",
+      "url": "https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v"
     }
   ],
   "unique_name": "Lugnt & Sk\u00f6nt",

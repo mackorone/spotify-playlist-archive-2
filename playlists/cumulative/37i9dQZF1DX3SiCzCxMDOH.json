@@ -1355,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Almost a Smile",
+        "url": "https://open.spotify.com/album/5UBjtU3nHf8Ewbc7v14Tp4"
+      },
+      "artists": [
+        {
+          "name": "Noel Duvall Trio",
+          "url": "https://open.spotify.com/artist/0WnF3BShlFwy0QbTza5jda"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212990,
+      "name": "Almost a Smile",
+      "url": "https://open.spotify.com/track/6FRZVjH72MZoWQPLt2eOqC"
+    },
+    {
+      "album": {
         "name": "Almost Home",
         "url": "https://open.spotify.com/album/3YxHVhhbU5dIUmkIiXwKQc"
       },
@@ -1672,7 +1690,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 215669,
       "name": "As Long as I Remember",
       "url": "https://open.spotify.com/track/3yNPrHXW5Sk6xmKikBSdTu"
@@ -4814,6 +4832,24 @@
       "duration_ms": 224996,
       "name": "Fain",
       "url": "https://open.spotify.com/track/5McpxKNwTXzvnrvFCb2Bza"
+    },
+    {
+      "album": {
+        "name": "Fairness",
+        "url": "https://open.spotify.com/album/5NlnDRqIdq5eunBUyv3d0p"
+      },
+      "artists": [
+        {
+          "name": "Fig and the Fam",
+          "url": "https://open.spotify.com/artist/2zSlBXyhAZsbWc3ASLmctN"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209451,
+      "name": "Fairness",
+      "url": "https://open.spotify.com/track/71FoaWgeznaSE7uqRtrySv"
     },
     {
       "album": {
@@ -12521,6 +12557,24 @@
     },
     {
       "album": {
+        "name": "Rainy Day Rhapsody",
+        "url": "https://open.spotify.com/album/55RELcDvFjCWoX3tYrkCo3"
+      },
+      "artists": [
+        {
+          "name": "Nordic Swing",
+          "url": "https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240940,
+      "name": "Rainy Day Rhapsody",
+      "url": "https://open.spotify.com/track/2c2oTdOhKQFttIvJUaM5PZ"
+    },
+    {
+      "album": {
         "name": "Raya's Riddle",
         "url": "https://open.spotify.com/album/04ZD7eQ8hT21T8w7BwUy3d"
       },
@@ -12586,7 +12640,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 170000,
       "name": "Relent",
       "url": "https://open.spotify.com/track/4cSlcjniHag6gEkuDXLYOC"
@@ -13436,6 +13490,24 @@
       "duration_ms": 158618,
       "name": "Sincera",
       "url": "https://open.spotify.com/track/4B7lJ0073KDXFgWXivllAd"
+    },
+    {
+      "album": {
+        "name": "Sincerely",
+        "url": "https://open.spotify.com/album/3vC1OKKlJ1CaoTjWfLypSE"
+      },
+      "artists": [
+        {
+          "name": "Trio in Transit",
+          "url": "https://open.spotify.com/artist/5N4Y1kGWdM70gOzO41lvk1"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202616,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/4Sf7W91vwViqaWpdXXt5sr"
     },
     {
       "album": {
@@ -14751,6 +14823,24 @@
     },
     {
       "album": {
+        "name": "Sunday Feeling",
+        "url": "https://open.spotify.com/album/4BGzpuQEHRI9jANTH82qj0"
+      },
+      "artists": [
+        {
+          "name": "Eden Trio",
+          "url": "https://open.spotify.com/artist/30rYvkvivOKXofZxWeVKA3"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221980,
+      "name": "Sunday Feeling",
+      "url": "https://open.spotify.com/track/1osYyBdnWjDGLxHoSix2c3"
+    },
+    {
+      "album": {
         "name": "Sunday Night",
         "url": "https://open.spotify.com/album/1RzVAJf3HO7gHBYCLag7LQ"
       },
@@ -14816,7 +14906,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 200937,
       "name": "Swaying Shadows",
       "url": "https://open.spotify.com/track/53MQJJpDsIE0QV6y6Mv2mc"
@@ -16832,7 +16922,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 162340,
       "name": "Until Further Notice",
       "url": "https://open.spotify.com/track/1zOSYNdpYqjviffmFnzaB5"
@@ -17012,7 +17102,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 305844,
       "name": "Velvet Hours",
       "url": "https://open.spotify.com/track/5hFCYl2f4wCodsVLeVbezX"

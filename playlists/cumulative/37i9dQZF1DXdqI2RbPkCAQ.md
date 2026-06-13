@@ -4,7 +4,7 @@
 
 > marrakech season
 
-132 songs - 8 hr 39 min
+133 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 | 2025-06-27 |  |
 | [Maithori](https://open.spotify.com/track/5FMsc3sFLmZKxgo73GqOq7) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Frigid Armadillo](https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Maithori](https://open.spotify.com/album/1BuOAjhPeakuaULbB4sWL9) | 3:02 | 2026-01-30 |  |
 | [Make Me \- Franky Rizardo Remix](https://open.spotify.com/track/57508shL0obX0KUOUL8CJk) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Make Me \(Franky Rizardo Remix\)](https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0) | 3:15 | 2025-06-27 | 2025-08-25 |
+| [Manhattan](https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Manhattan](https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m) | 3:35 | 2026-06-12 |  |
 | [Maria Maria](https://open.spotify.com/track/5MGzRBSlXuNhN19ze9o5GY) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc) | [Maria Maria](https://open.spotify.com/album/6aXN4WOPqN8TgTkIxVkQdf) | 4:22 | 2025-06-27 |  |
 | [Mendy](https://open.spotify.com/track/5Q7qGtuvkWMyx0P3wlDIWp) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Mendy](https://open.spotify.com/album/036KVUHoYSZvCHZMoH561d) | 5:54 | 2025-07-07 | 2025-08-05 |
 | [Mood \(Feat\. Caroline Byrne & Neyl\)](https://open.spotify.com/track/1dpVevoWQT7syIxcWDywWm) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG), [Neyl](https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD) | [Mood \(Feat\. Caroline Byrne & Neyl\)](https://open.spotify.com/album/19z4cBAVhTPI1TwFkDrTSU) | 2:24 | 2025-07-25 | 2025-08-03 |

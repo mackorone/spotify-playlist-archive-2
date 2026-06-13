@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,784 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,804 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 49 | [Hell Woods 2](https://open.spotify.com/track/7pMzAZYQRvoyylbqUCyBdc) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hell Woods 2](https://open.spotify.com/album/1Z3vzcUeRkjeDIGuH3ocic) | 3:10 |
 | 50 | [Wrong One \(with Gloss Up & Slimeroni feat\. K Carbon, Aleza, Tay Keith\)](https://open.spotify.com/track/52WoZbGVLrEW0w6AGT9wNS) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Wrong One \(with Gloss Up & Slimeroni feat\. K Carbon, Aleza, Tay Keith\)](https://open.spotify.com/album/0TkJa6iqDtjK4ojpfO8PwG) | 2:57 |
 
-Snapshot ID: `aiipAAAAAAAuRzYi8aE4gbncWmwGxjTN`
+Snapshot ID: `ain6gAAAAADpfoIDP1m2Lxn9Ohddjmaf`

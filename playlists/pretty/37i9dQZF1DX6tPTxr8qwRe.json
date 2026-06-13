@@ -1,13 +1,109 @@
 {
-  "description": "sweet. sharp. unbothered - Bea Miller on the cover",
-  "num_followers": 524966,
+  "description": "sweet. sharp. unbothered - INJI on the cover",
+  "num_followers": 524972,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGa/XriXHnjOeHEqR905NQkpO8/m",
+  "snapshot_id": "AAAAAPpeaNMPm7raa9XWXm+16XQZwMVR",
   "tracks": [
+    {
+      "added_at": "2026-06-12 04:01:54",
+      "album": {
+        "name": "I WANNA FEEL IT ALL",
+        "url": "https://open.spotify.com/album/02LSdnnb9RS5TM4SCbTVz8"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 148208,
+      "name": "I WANNA FEEL IT ALL",
+      "url": "https://open.spotify.com/track/0QxKOd4IHUHG0UvPraaicT"
+    },
+    {
+      "added_at": "2026-06-12 04:01:54",
+      "album": {
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 159929,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl"
+    },
+    {
+      "added_at": "2026-06-12 04:01:54",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "my way",
+      "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
+    },
+    {
+      "added_at": "2026-06-12 04:01:54",
+      "album": {
+        "name": "spotless state of mind",
+        "url": "https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT"
+      },
+      "artists": [
+        {
+          "name": "Fia James",
+          "url": "https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R"
+        }
+      ],
+      "duration_ms": 159411,
+      "name": "spotless state of mind",
+      "url": "https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf"
+    },
+    {
+      "added_at": "2026-06-12 04:01:54",
+      "album": {
+        "name": "WHERE\u2019S THE FUN?",
+        "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "WHERE\u2019S THE FUN?",
+      "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
+    },
+    {
+      "added_at": "2026-06-12 04:45:17",
+      "album": {
+        "name": "ENAMORED",
+        "url": "https://open.spotify.com/album/262FBFFt5sPAzSc5kyXqqW"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 168892,
+      "name": "ENAMORED",
+      "url": "https://open.spotify.com/track/750ZE23CXtS9bAGteC0b1b"
+    },
     {
       "added_at": "2026-05-08 04:04:30",
       "album": {
@@ -39,6 +135,22 @@
       "duration_ms": 172909,
       "name": "TOPIC",
       "url": "https://open.spotify.com/track/7cBUrEp6z8ra9hHxTpA0XE"
+    },
+    {
+      "added_at": "2026-06-12 04:01:54",
+      "album": {
+        "name": "pixxxie",
+        "url": "https://open.spotify.com/album/7dYuM0yNjewhDqGq2NqVtO"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "duration_ms": 244062,
+      "name": "pixxxie",
+      "url": "https://open.spotify.com/track/4coPiNHqR0LVGipcT57akq"
     },
     {
       "added_at": "2026-05-15 04:03:24",
@@ -175,22 +287,6 @@
     {
       "added_at": "2026-05-08 04:04:30",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/5wfBR3x36Lva6PyTaVnwCw"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 176143,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/2GrW3HhogphOsmsRZ18ndR"
-    },
-    {
-      "added_at": "2026-05-08 04:04:30",
-      "album": {
         "name": "EAT U ALIVE",
         "url": "https://open.spotify.com/album/1KnVvQD6Ocog6Zeq3NgCXz"
       },
@@ -299,22 +395,6 @@
       "duration_ms": 138372,
       "name": "KILLSWITCH",
       "url": "https://open.spotify.com/track/2ONOuIhH0c9h8ioIxr2msm"
-    },
-    {
-      "added_at": "2026-04-03 04:02:22",
-      "album": {
-        "name": "Night at the Opera",
-        "url": "https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 184788,
-      "name": "Night at the Opera",
-      "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
     },
     {
       "added_at": "2026-05-01 04:43:50",
@@ -627,22 +707,6 @@
     {
       "added_at": "2026-02-27 05:00:35",
       "album": {
-        "name": "KISSING CONCRETE",
-        "url": "https://open.spotify.com/album/3gWbQloPE5DnaADqGHCyWN"
-      },
-      "artists": [
-        {
-          "name": "KANNER",
-          "url": "https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "BAD AT MATH",
-      "url": "https://open.spotify.com/track/01Sa5D6Odl5TCylRxMJTse"
-    },
-    {
-      "added_at": "2026-02-27 05:00:35",
-      "album": {
         "name": "The Kill (From the Original Motion Picture \"Scream 7\")",
         "url": "https://open.spotify.com/album/4jYpqLjsWQdhsCcs1hXyHe"
       },
@@ -687,26 +751,6 @@
       "duration_ms": 216900,
       "name": "First Generation Degenerate",
       "url": "https://open.spotify.com/track/0T1QNfwEZ8mQs8rfUHbwog"
-    },
-    {
-      "added_at": "2026-03-13 04:00:47",
-      "album": {
-        "name": "Right From Left",
-        "url": "https://open.spotify.com/album/2Ny3S3m4QAcvUcyONAwf7C"
-      },
-      "artists": [
-        {
-          "name": "Julia Pratt",
-          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
-        },
-        {
-          "name": "JULITH",
-          "url": "https://open.spotify.com/artist/59OjXOG1kuIeJYUkLEabJB"
-        }
-      ],
-      "duration_ms": 205416,
-      "name": "Right From Left",
-      "url": "https://open.spotify.com/track/4ppNmrjyEEI6yD5FkGe6lw"
     },
     {
       "added_at": "2026-03-13 04:00:47",
@@ -757,38 +801,6 @@
       "url": "https://open.spotify.com/track/3hcdiLMlKuJPqcVNOp90Mi"
     },
     {
-      "added_at": "2026-02-20 05:18:25",
-      "album": {
-        "name": "Room Service",
-        "url": "https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "What\u2019s a Girl Gotta Do?",
-      "url": "https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu"
-    },
-    {
-      "added_at": "2026-02-23 17:18:33",
-      "album": {
-        "name": "GAME ON",
-        "url": "https://open.spotify.com/album/6MqWTdKzTndBaKYvPW9aHm"
-      },
-      "artists": [
-        {
-          "name": "Marie",
-          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "GAME ON",
-      "url": "https://open.spotify.com/track/71haRmcp17D0nrl9S0hVgq"
-    },
-    {
       "added_at": "2026-01-23 05:11:43",
       "album": {
         "name": "PAPERCUT",
@@ -803,22 +815,6 @@
       "duration_ms": 194028,
       "name": "PAPERCUT",
       "url": "https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h"
-    },
-    {
-      "added_at": "2025-12-19 05:00:39",
-      "album": {
-        "name": "Spellbook",
-        "url": "https://open.spotify.com/album/16R0XNwZAqSn3xtyxAOb7K"
-      },
-      "artists": [
-        {
-          "name": "mermaidonmars",
-          "url": "https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX"
-        }
-      ],
-      "duration_ms": 149866,
-      "name": "Cognitive Dissonance",
-      "url": "https://open.spotify.com/track/4gxcQjQas1oSbY63REnRjT"
     }
   ],
   "unique_name": "SALT",

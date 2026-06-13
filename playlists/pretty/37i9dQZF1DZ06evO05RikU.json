@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43823,
+  "num_followers": 43831,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAADUgrH/ISQWF1gwz6qmvFav",
+  "snapshot_id": "ain6gAAAAAABxT4XKxEDpISgIqAgzeBN",
   "tracks": [
     {
       "added_at": null,
@@ -339,30 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
-        "url": "https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
-      "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Final Minutes",
         "url": "https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo"
       },
@@ -383,6 +359,30 @@
       "duration_ms": 195148,
       "name": "Final Minutes",
       "url": "https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
+        "url": "https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
+      "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IDGAF ERA",
-        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 128669,
-      "name": "De To'",
-      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) [Banx & Ranx Remix]",
         "url": "https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 204707,
       "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) - Banx & Ranx Remix",
       "url": "https://open.spotify.com/track/2en8KkmwWVRnAFlUueeDs0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IDGAF ERA",
+        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 128669,
+      "name": "De To'",
+      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
     },
     {
       "added_at": null,

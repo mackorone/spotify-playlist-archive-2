@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\udfd4\ufe0f featuring What So Not & Alina Pash",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\uddeb\ud83c\uddf7 featuring Jersey",
   "name": "creamy",
   "tracks": [
     {
@@ -4388,7 +4388,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 170704,
       "name": "CINNAMON",
       "url": "https://open.spotify.com/track/1kSt8cCMkpvYJAlLCSl5Fh"
@@ -4600,7 +4600,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 234666,
       "name": "close your eyes",
       "url": "https://open.spotify.com/track/0GY3VN7i3hElhqhIqSHKQi"
@@ -12586,7 +12586,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 211200,
       "name": "I Wanna Dance",
       "url": "https://open.spotify.com/track/4h6pqrJOddCuUzethG6MxJ"
@@ -12652,7 +12652,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 263887,
       "name": "I Want Ya",
       "url": "https://open.spotify.com/track/46YPT8AJc1OTx8RxD0jJyQ"
@@ -12928,7 +12928,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 165590,
       "name": "Ima go down",
       "url": "https://open.spotify.com/track/541YFrrcNpsGHVreeXla9V"
@@ -15171,6 +15171,32 @@
     },
     {
       "album": {
+        "name": "Little Bitta This",
+        "url": "https://open.spotify.com/album/3sTmICLlDJWDkXjHnQDuq1"
+      },
+      "artists": [
+        {
+          "name": "Neumonic",
+          "url": "https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52"
+        },
+        {
+          "name": "Morty",
+          "url": "https://open.spotify.com/artist/4DKdpWEp7Np8enpUyOdgLD"
+        },
+        {
+          "name": "Melvyn",
+          "url": "https://open.spotify.com/artist/0KdHrIqg805HwRwdxTMhjK"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204315,
+      "name": "Little Bitta This",
+      "url": "https://open.spotify.com/track/103VBFW68H11jOksxaI73S"
+    },
+    {
+      "album": {
         "name": "PUSHER",
         "url": "https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs"
       },
@@ -15368,6 +15394,28 @@
       "duration_ms": 219474,
       "name": "LONG DISTANCE",
       "url": "https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA"
+    },
+    {
+      "album": {
+        "name": "Long Goodbye",
+        "url": "https://open.spotify.com/album/2nMTpO7M30ejb2XkIWotGX"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214222,
+      "name": "Long Goodbye",
+      "url": "https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t"
     },
     {
       "album": {
@@ -17551,6 +17599,36 @@
     },
     {
       "album": {
+        "name": "TRUE LOVE IN A MADE UP WORLD",
+        "url": "https://open.spotify.com/album/4VFU51NEgeT5It9ocFdsgJ"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166478,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/72rArSfKMPrcQeGlBRfOrs"
+    },
+    {
+      "album": {
         "name": "Nobody Compares",
         "url": "https://open.spotify.com/album/1Qc38fCylJ6HKvgWfxAxUA"
       },
@@ -17785,6 +17863,28 @@
     },
     {
       "album": {
+        "name": "LIVE FAST",
+        "url": "https://open.spotify.com/album/35J4iFfqzJ8qOqMj2bGllH"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Now That I'm Falling",
+      "url": "https://open.spotify.com/track/6jXKPAGT30YT1E4ovVdHOH"
+    },
+    {
+      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz"
       },
@@ -17844,6 +17944,24 @@
       "duration_ms": 285547,
       "name": "NutDo",
       "url": "https://open.spotify.com/track/7DRhxqacpYaWDLKnq3mOAc"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/5Temir79WPxflPU00Tv4Qp"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226973,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2yNe0KpyIimbKYeIhWrdKF"
     },
     {
       "album": {
@@ -19426,6 +19544,24 @@
       "duration_ms": 232615,
       "name": "Please Come Home",
       "url": "https://open.spotify.com/track/5EOUYFfFbyPXtZOiuRKTpU"
+    },
+    {
+      "album": {
+        "name": "POCKETCORE",
+        "url": "https://open.spotify.com/album/5B6TBGhUvHP1ablDv1cYLf"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189850,
+      "name": "POCKETCORE",
+      "url": "https://open.spotify.com/track/6CkM4sm2m29cq5rBel27F2"
     },
     {
       "album": {
@@ -26215,6 +26351,28 @@
     },
     {
       "album": {
+        "name": "thumbs",
+        "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "thumbs",
+      "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
+    },
+    {
+      "album": {
         "name": "tic tac toe",
         "url": "https://open.spotify.com/album/08n4CTuQ8LVjfnHZ1IjmFs"
       },
@@ -27046,7 +27204,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 181294,
       "name": "UNCONDITIONAL",
       "url": "https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl"
@@ -29400,7 +29558,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 196260,
       "name": "Won't Let Go",
       "url": "https://open.spotify.com/track/4ALXYO8paxdBuyW27bk0nt"

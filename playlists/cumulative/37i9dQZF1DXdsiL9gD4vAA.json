@@ -1135,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "Dil Bebaak",
+        "url": "https://open.spotify.com/album/3Y1jMY8AXZyU7gv8VaRDGL"
+      },
+      "artists": [
+        {
+          "name": "Dev Arijit",
+          "url": "https://open.spotify.com/artist/6BZExpYe5yylgSeHAWVsF6"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399108,
+      "name": "Dil Bebaak",
+      "url": "https://open.spotify.com/track/1TjAaNVKteQSq3pXmrrg1S"
+    },
+    {
+      "album": {
         "name": "The Reluctant Fundamentalist",
         "url": "https://open.spotify.com/album/3Hzm5TP92QvufU2sJqwiB8"
       },
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 223593,
       "name": "Hai Isi Mein Pyar Ki Aabru",
       "url": "https://open.spotify.com/track/50BxNNhj65O32shF7cpKEn"

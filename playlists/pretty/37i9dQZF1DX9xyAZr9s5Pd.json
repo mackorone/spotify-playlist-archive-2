@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Greccia",
-  "num_followers": 26902,
+  "num_followers": 26906,
   "original_name": "Indie Andinos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALX9KrFApR8DzfVSkvHZPhpkQNUT",
+  "snapshot_id": "AAAAAJvwH/lNAYDz3fHL7MT4PBZzJAvu",
   "tracks": [
     {
       "added_at": "2026-03-06 04:59:28",
@@ -71,6 +71,38 @@
       "duration_ms": 178283,
       "name": "Cebolla",
       "url": "https://open.spotify.com/track/2gfuOzB9tTCOSwxhVM3lLf"
+    },
+    {
+      "added_at": "2026-06-12 04:59:22",
+      "album": {
+        "name": "Esa Soy Yo",
+        "url": "https://open.spotify.com/album/2j9tZnbkuwl1dIhAlsjtcl"
+      },
+      "artists": [
+        {
+          "name": "Puerto Candelaria",
+          "url": "https://open.spotify.com/artist/27neIga89YKdkCk6Yzv0ni"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "Esa Soy Yo",
+      "url": "https://open.spotify.com/track/7LBBwA7jywLpSz42GDbwbN"
+    },
+    {
+      "added_at": "2026-06-12 04:59:22",
+      "album": {
+        "name": "Jard\u00edn Secreto",
+        "url": "https://open.spotify.com/album/4R7kQPNr7gXd6pbKZQlfT4"
+      },
+      "artists": [
+        {
+          "name": "LaTorre",
+          "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
+        }
+      ],
+      "duration_ms": 100192,
+      "name": "(( v\u00e9rtigo ))",
+      "url": "https://open.spotify.com/track/71jc4ZFe09EjjKvpVEzbvW"
     },
     {
       "added_at": "2026-03-18 21:06:35",
@@ -455,22 +487,6 @@
     {
       "added_at": "2026-03-26 19:05:39",
       "album": {
-        "name": "Marchito",
-        "url": "https://open.spotify.com/album/7KNK4fSGZlkMJ3ItyrM06H"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        }
-      ],
-      "duration_ms": 236707,
-      "name": "Marchito",
-      "url": "https://open.spotify.com/track/7EYVt3gOAG8bOq3D5sqXLb"
-    },
-    {
-      "added_at": "2026-03-26 19:05:39",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/6CsC1YU6PlbzRCV9pWpbFT"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 192046,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1uZjGWW5zZ7W0NKuxcCPp1"
-    },
-    {
-      "added_at": "2026-03-26 19:05:39",
-      "album": {
-        "name": "Las Cosas Simples",
-        "url": "https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 247015,
-      "name": "Las Cosas Simples",
-      "url": "https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr"
     },
     {
       "added_at": "2026-03-26 19:05:39",

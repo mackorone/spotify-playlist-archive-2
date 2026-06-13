@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 456150,
+  "num_followers": 456182,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Sensation",
-        "url": "https://open.spotify.com/album/3khKaLL2SaCzw9UyvsLh5u"
-      },
-      "artists": [
-        {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        }
-      ],
-      "duration_ms": 201235,
-      "name": "Sensation",
-      "url": "https://open.spotify.com/track/7bqTk1RRfajEw5fJf3CooS"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Convivium",
         "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 133200,
       "name": "Convivium",
       "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/3khKaLL2SaCzw9UyvsLh5u"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "duration_ms": 201235,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/7bqTk1RRfajEw5fJf3CooS"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1551,6 +1551,30 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "2004",
+        "url": "https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "2004",
+      "url": "https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Kisses (feat. bbyclose) [BOVSKI Remix]",
         "url": "https://open.spotify.com/album/4eQj8eVrp2FVkHKBnb72Fu"
       },
@@ -1575,30 +1599,6 @@
       "duration_ms": 130263,
       "name": "Kisses (feat. bbyclose) - BOVSKI Remix",
       "url": "https://open.spotify.com/track/3V71EUC3c4kGv0CvQyOgf7"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "2004",
-        "url": "https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us"
-      },
-      "artists": [
-        {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "2004",
-      "url": "https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC"
     },
     {
       "added_at": "2025-06-26 22:00:24",

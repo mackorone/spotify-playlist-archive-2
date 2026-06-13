@@ -3369,6 +3369,28 @@
     },
     {
       "album": {
+        "name": "VietSwing",
+        "url": "https://open.spotify.com/album/2R29oPQ7y4D8WztvOKdDRX"
+      },
+      "artists": [
+        {
+          "name": "Bart & Baker",
+          "url": "https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN"
+        },
+        {
+          "name": "Ph\u01b0\u01a1ng Vy",
+          "url": "https://open.spotify.com/artist/5A81GkfzRSHiNQrge5m9gv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183800,
+      "name": "It's in Her Heels - Radio Mix VietSwing Version",
+      "url": "https://open.spotify.com/track/1QpcZMAjtAcQRDUFbIEgB0"
+    },
+    {
+      "album": {
         "name": "I\u00b4M Happy",
         "url": "https://open.spotify.com/album/3nPmrpUhSOsdFE9AOHSl7V"
       },
@@ -7658,7 +7680,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 189186,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/7wTmnOSpVJcIzj5FIz2I04"

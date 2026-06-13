@@ -1,13 +1,29 @@
 {
-  "description": "Where R&B lives. Cover: Kehlani",
-  "num_followers": 6095355,
+  "description": "Where R&B lives. Cover: Bryson Tiller",
+  "num_followers": 6094820,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKKHhvVk4i+pLmwtTR1G4ztmfFvb",
+  "snapshot_id": "AAAAAJwRpGizXB0iZd02qHIevsKP4s/C",
   "tracks": [
+    {
+      "added_at": "2026-06-05 03:09:01",
+      "album": {
+        "name": "Drop The Lo",
+        "url": "https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 161470,
+      "name": "Drop The Lo",
+      "url": "https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh"
+    },
     {
       "added_at": "2026-05-29 04:02:15",
       "album": {
@@ -99,22 +115,6 @@
       "duration_ms": 187096,
       "name": "Need it Bad (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
-    },
-    {
-      "added_at": "2026-06-05 03:09:01",
-      "album": {
-        "name": "Drop The Lo",
-        "url": "https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 161470,
-      "name": "Drop The Lo",
-      "url": "https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh"
     },
     {
       "added_at": "2026-05-29 04:02:15",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,627 likes - 102 songs - 10 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,661 likes - 102 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nita Amini \- Live](https://open.spotify.com/track/0MmeFIEKNgYpw1cHWgBMJd) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Nita Amini \(Live\)](https://open.spotify.com/album/3yDmAg043NqgSAml9wAQs9) | 12:59 |
-| 2 | [Yoyo](https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Yoyo](https://open.spotify.com/album/03VvutM1txcETp75KZwHE8) | 3:25 |
+| 2 | [Yoyo](https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Yoyo](https://open.spotify.com/album/03VvutM1txcETp75KZwHE8) | 3:26 |
 | 3 | [Amefanya Mungu](https://open.spotify.com/track/4vrGrDdrckpQCZ3PvVM2jn) | [Wapendwa Muziki](https://open.spotify.com/artist/0oQZ4CZl0ae17o8Ql7xlhK) | [Amefanya Mungu](https://open.spotify.com/album/7KIPjJxXSJj7e7JS0E338l) | 4:28 |
 | 4 | [Yebo \(Nitawale\)](https://open.spotify.com/track/0LpsmMdrFo77ajgxiM7axD) | [Vestine and Dorcas](https://open.spotify.com/artist/1A9OmcsnDyYVidBEE7Mm4D) | [Yebo \(Nitawale\)](https://open.spotify.com/album/4UftFzSIK55k665kb9Wa1V) | 8:10 |
 | 5 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 |

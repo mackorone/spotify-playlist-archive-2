@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Die To Fall",
+        "url": "https://open.spotify.com/album/0qfxMFrlNpqg6vTkYITpv4"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200605,
+      "name": "Die To Fall",
+      "url": "https://open.spotify.com/track/79gHcOX0YegMXSZ9apmepr"
+    },
+    {
+      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -1672,7 +1690,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 190000,
       "name": "Michael Scott Hubiera Entendido Exactamente C\u00f3mo Me Siento En Este Momento",
       "url": "https://open.spotify.com/track/76VKsZAL0YhWMNcOnwh0iv"
@@ -2054,6 +2072,24 @@
       "duration_ms": 214506,
       "name": "Ride",
       "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
+    },
+    {
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5ALmIZchDuwnbsOAbmhADv"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/7bbMBpP6706PQTzmjFA1se"
     },
     {
       "album": {
@@ -2698,7 +2734,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 159390,
       "name": "Therapy II",
       "url": "https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln"
@@ -2842,7 +2878,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 234933,
       "name": "Vidas Felices",
       "url": "https://open.spotify.com/track/0f8GPONRZHrP6mOrxswCfW"
@@ -3008,6 +3044,24 @@
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
+    {
+      "album": {
+        "name": "You Got to Lose",
+        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197646,
+      "name": "You Got to Lose",
+      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
     },
     {
       "album": {

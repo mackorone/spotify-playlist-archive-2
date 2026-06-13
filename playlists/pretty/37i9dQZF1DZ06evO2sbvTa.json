@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAAD5od/XTYN2GnzNw2sNHLA6",
+  "snapshot_id": "ain6gAAAAABRpg8S7cMUB8dEMx4xw8Zf",
   "tracks": [
     {
       "added_at": null,
@@ -190,31 +190,15 @@
         {
           "name": "Future",
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 242891,
-      "name": "Real Talk (feat. Future)",
-      "url": "https://open.spotify.com/track/4aA3OzTBHR9cUKM8zILpqA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 298834,
-      "name": "Special (feat. Young Scooter)",
-      "url": "https://open.spotify.com/track/2XjcBGdV3h5NJ1hq5NFCy0"
+      "duration_ms": 190222,
+      "name": "Trippple Cross (feat. Future & Young Thug)",
+      "url": "https://open.spotify.com/track/3Aflzeml3BDWtEOy0VUMRo"
     },
     {
       "added_at": null,
@@ -239,42 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/68CmqCHFatt5FppZEoRWxU"
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7"
       },
       "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 178337,
-      "name": "Columbia (Dirty)",
-      "url": "https://open.spotify.com/track/20qSuLJ90dGjpIeTekNLEC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
         {
           "name": "Future",
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 190222,
-      "name": "Trippple Cross (feat. Future & Young Thug)",
-      "url": "https://open.spotify.com/track/3Aflzeml3BDWtEOy0VUMRo"
+      "duration_ms": 298834,
+      "name": "Special (feat. Young Scooter)",
+      "url": "https://open.spotify.com/track/2XjcBGdV3h5NJ1hq5NFCy0"
     },
     {
       "added_at": null,
@@ -299,6 +263,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 242891,
+      "name": "Real Talk (feat. Future)",
+      "url": "https://open.spotify.com/track/4aA3OzTBHR9cUKM8zILpqA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/68CmqCHFatt5FppZEoRWxU"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 178337,
+      "name": "Columbia (Dirty)",
+      "url": "https://open.spotify.com/track/20qSuLJ90dGjpIeTekNLEC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beast Mode",
         "url": "https://open.spotify.com/album/02Mp4Q83TVhpe8VeCpMZjZ"
       },
@@ -315,6 +315,22 @@
       "duration_ms": 189066,
       "name": "Oooooh (feat. Young Scooter)",
       "url": "https://open.spotify.com/track/5FMH3g2VYH4manoJWEDhUk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Recipe",
+        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 111641,
+      "name": "INTRO",
+      "url": "https://open.spotify.com/track/1VJw9q9T994bRUTWXmA7rM"
     },
     {
       "added_at": null,
@@ -339,22 +355,6 @@
       "duration_ms": 247066,
       "name": "Hustlin'",
       "url": "https://open.spotify.com/track/5jc0Ksd56qSw6zZwVsvEtg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Recipe",
-        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 111641,
-      "name": "INTRO",
-      "url": "https://open.spotify.com/track/1VJw9q9T994bRUTWXmA7rM"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "80's Baby",
+        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 146730,
+      "name": "Partner",
+      "url": "https://open.spotify.com/track/1ZUxRMW756trpE2GmgLKGz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trap God 2",
         "url": "https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 184293,
       "name": "Life",
       "url": "https://open.spotify.com/track/0OTGBE7VJnIAXvgYw7E1t4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "80's Baby",
-        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 146730,
-      "name": "Partner",
-      "url": "https://open.spotify.com/track/1ZUxRMW756trpE2GmgLKGz"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jugg King",
-        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "WAKA FLACKA",
-          "url": "https://open.spotify.com/artist/4qv6rQVJL5XhlP349GjrMm"
-        }
-      ],
-      "duration_ms": 149420,
-      "name": "Outro",
-      "url": "https://open.spotify.com/track/692RBh8Fpm8i2Hme4tuq4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -635,6 +615,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jugg King",
+        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "WAKA FLACKA",
+          "url": "https://open.spotify.com/artist/4qv6rQVJL5XhlP349GjrMm"
+        }
+      ],
+      "duration_ms": 149420,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/692RBh8Fpm8i2Hme4tuq4h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Pledge Allegiance to the Trap, Vol. 5",
         "url": "https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d"
       },
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish Me Well 2",
-        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
-      },
-      "artists": [
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Bloodshed",
-      "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 238728,
       "name": "How Can I Not (feat. Young Scooter)",
       "url": "https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish Me Well 2",
+        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Bloodshed",
+      "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
     },
     {
       "added_at": null,

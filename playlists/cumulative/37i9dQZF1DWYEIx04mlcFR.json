@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con PARDOPARDO en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con FaceBrooklyn en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 210352,
       "name": "ACELERADAS!",
       "url": "https://open.spotify.com/track/5GeQcFxgQuv05a2Oe0suhD"
@@ -4230,7 +4230,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 192631,
       "name": "Dmentes",
       "url": "https://open.spotify.com/track/4JCXV1hCrHFV0YiAe6KhV3"
@@ -5560,6 +5560,24 @@
       "duration_ms": 222250,
       "name": "FANTA",
       "url": "https://open.spotify.com/track/3sgfOzoBtvoMq92GwcfCox"
+    },
+    {
+      "album": {
+        "name": "fan\u00e1tico",
+        "url": "https://open.spotify.com/album/2VpV0C1mS6pyD9hupq4RKF"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "fan\u00e1tico",
+      "url": "https://open.spotify.com/track/5V6sOlpHihLkrCWIIwHoJA"
     },
     {
       "album": {
@@ -9511,6 +9529,24 @@
     },
     {
       "album": {
+        "name": "Mu\u00e9rdeme",
+        "url": "https://open.spotify.com/album/45zzM6g5zOP2ixdLbwsB1l"
+      },
+      "artists": [
+        {
+          "name": "KALIFRN",
+          "url": "https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Mu\u00e9rdeme",
+      "url": "https://open.spotify.com/track/3lGIAuak7qwNY77Nq4weDw"
+    },
+    {
+      "album": {
         "name": "Mu\u00f1eca Mec\u00e1nica",
         "url": "https://open.spotify.com/album/16W4DDRtb65d98Fp0sHFrJ"
       },
@@ -9526,6 +9562,24 @@
       "duration_ms": 204216,
       "name": "Mu\u00f1eca Mec\u00e1nica",
       "url": "https://open.spotify.com/track/7ysBhqazDZ4BYvGGpMQZPX"
+    },
+    {
+      "album": {
+        "name": "juanito",
+        "url": "https://open.spotify.com/album/42Qod5kfH3Njcz2sjCPoIF"
+      },
+      "artists": [
+        {
+          "name": "Cray Dalton",
+          "url": "https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Mu\u00f1eco de alambre",
+      "url": "https://open.spotify.com/track/3RgxAfdUDE9wgYguGOga0P"
     },
     {
       "album": {
@@ -9602,6 +9656,28 @@
       "duration_ms": 194148,
       "name": "M\u00e1scara de Ni\u00f1a",
       "url": "https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G"
+    },
+    {
+      "album": {
+        "name": "M\u00eda",
+        "url": "https://open.spotify.com/album/5qax6lkHYCH8v6I7EanAG0"
+      },
+      "artists": [
+        {
+          "name": "Jan Toussaint",
+          "url": "https://open.spotify.com/artist/06P2GxwZopjaQnNABcoPSE"
+        },
+        {
+          "name": "Wake the Wild",
+          "url": "https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212880,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/2K6ImJaiJdi74PIepR1ZTD"
     },
     {
       "album": {
@@ -15760,7 +15836,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 253344,
       "name": "valor de m\u00e1s",
       "url": "https://open.spotify.com/track/5rPLhpQWvIcxsO4M14Nf9G"
@@ -16922,7 +16998,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 176333,
       "name": "\u00e9poca de fr\u00edo",
       "url": "https://open.spotify.com/track/4V9HGtbKREYspXBjvGqnBv"

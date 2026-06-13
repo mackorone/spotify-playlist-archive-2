@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 223788,
+  "num_followers": 223808,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-06-12 04:00:31",
       "album": {
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "Stronger Than Me",
+      "url": "https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9"
+    },
+    {
+      "added_at": "2026-06-12 04:00:31",
+      "album": {
         "name": "It's About Time",
         "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 166997,
       "name": "Gonna Love Me",
       "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
-    },
-    {
-      "added_at": "2026-06-12 04:00:31",
-      "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Stronger Than Me",
-      "url": "https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9"
     },
     {
       "added_at": "2026-06-12 04:00:31",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-06-12 04:00:31",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "Self",
-      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
-    },
-    {
-      "added_at": "2026-06-12 04:00:31",
-      "album": {
         "name": "Floetic",
         "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 268373,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
+    },
+    {
+      "added_at": "2026-06-12 04:00:31",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
       "added_at": "2026-06-12 04:00:31",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-06-12 04:00:31",
       "album": {
-        "name": "Doctrine of Love",
-        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Doctrine of Love",
-      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
-    },
-    {
-      "added_at": "2026-06-12 04:00:31",
-      "album": {
         "name": "Spark Of Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 429120,
       "name": "'Cause I Love You",
       "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
+    },
+    {
+      "added_at": "2026-06-12 04:00:31",
+      "album": {
+        "name": "Doctrine of Love",
+        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Doctrine of Love",
+      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
     },
     {
       "added_at": "2026-06-12 04:00:31",

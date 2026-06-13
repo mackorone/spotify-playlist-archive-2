@@ -216,10 +216,28 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 168780,
       "name": "Ain't No Way",
       "url": "https://open.spotify.com/track/0liluEGeInfODcv6T6cAXp"
+    },
+    {
+      "album": {
+        "name": "Ain't No Way",
+        "url": "https://open.spotify.com/album/7kRrf0s1HZCz1vOx1aVbxd"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Ain't No Way - Studio Session",
+      "url": "https://open.spotify.com/track/3qhbBibRY8TZevA51xeyBd"
     },
     {
       "album": {

@@ -17643,6 +17643,24 @@
     },
     {
       "album": {
+        "name": "landscaper",
+        "url": "https://open.spotify.com/album/56cyoqPfH3kOxVrA9eHXoI"
+      },
+      "artists": [
+        {
+          "name": "koady",
+          "url": "https://open.spotify.com/artist/2DsFGIoVB23DBOaTG43HYG"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "landscaper",
+      "url": "https://open.spotify.com/track/7FCAR9JMJ29OmljgBJHMy1"
+    },
+    {
+      "album": {
         "name": "lao shi",
         "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
       },

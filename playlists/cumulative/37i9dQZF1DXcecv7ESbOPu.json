@@ -85117,6 +85117,24 @@
     },
     {
       "album": {
+        "name": "coreshadow",
+        "url": "https://open.spotify.com/album/436mEwElbZlVfp5QmoHGwP"
+      },
+      "artists": [
+        {
+          "name": "Binky Blaise",
+          "url": "https://open.spotify.com/artist/6wVXRQ64TTR22g2J34DfO7"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189869,
+      "name": "coreshadow",
+      "url": "https://open.spotify.com/track/1LpG1YWOoihZSi8LlXMExb"
+    },
+    {
+      "album": {
         "name": "From the Inside (Music from the Original TV Series Fr\u00e5n Insidan)",
         "url": "https://open.spotify.com/album/7C2cmxwKD6XhanOCk3Jo4N"
       },
@@ -277851,24 +277869,6 @@
     },
     {
       "album": {
-        "name": "Midsommar igen",
-        "url": "https://open.spotify.com/album/4DEwW9MuZa1XLkc2FXa4b3"
-      },
-      "artists": [
-        {
-          "name": "Larz-Kristerz",
-          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212426,
-      "name": "Midsommar igen",
-      "url": "https://open.spotify.com/track/7do8KbnUYU4BbwUzW3tjnG"
-    },
-    {
-      "album": {
         "name": "Midsommarafton du och jag",
         "url": "https://open.spotify.com/album/2zYAwuBYgRjkIGWrNrsPnR"
       },
@@ -277884,6 +277884,24 @@
       "duration_ms": 212933,
       "name": "Midsommarafton du och jag",
       "url": "https://open.spotify.com/track/0hWItiBek2yLf8GpcFYwH6"
+    },
+    {
+      "album": {
+        "name": "Midsommarafton igen",
+        "url": "https://open.spotify.com/album/4DEwW9MuZa1XLkc2FXa4b3"
+      },
+      "artists": [
+        {
+          "name": "Larz-Kristerz",
+          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "Midsommarafton igen",
+      "url": "https://open.spotify.com/track/7do8KbnUYU4BbwUzW3tjnG"
     },
     {
       "album": {

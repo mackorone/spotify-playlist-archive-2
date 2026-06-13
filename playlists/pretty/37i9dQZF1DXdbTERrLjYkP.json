@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJLtJXr9imat7VACks9tBu99Zdua",
+  "snapshot_id": "AAAAACiGMr7yW+UZ4qopHcUUnqzKDYCr",
   "tracks": [
     {
       "added_at": "2026-06-05 04:01:05",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/4E7hZdPtD5BEB1XdyS9dDl"
     },
     {
+      "added_at": "2026-06-12 04:56:00",
+      "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/78wzkaj5dqgjfggOEuqMUZ"
+      },
+      "artists": [
+        {
+          "name": "Asha Banks",
+          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
+        }
+      ],
+      "duration_ms": 175747,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6"
+    },
+    {
       "added_at": "2026-06-05 04:01:05",
       "album": {
         "name": "Satisfied Girl",
@@ -39,6 +55,38 @@
       "duration_ms": 211184,
       "name": "Undiscovered",
       "url": "https://open.spotify.com/track/6KZNvMmJA40X5IdEywrV0W"
+    },
+    {
+      "added_at": "2026-06-12 04:56:00",
+      "album": {
+        "name": "Sunny Surrender",
+        "url": "https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC"
+      },
+      "artists": [
+        {
+          "name": "Diva Smith",
+          "url": "https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC"
+        }
+      ],
+      "duration_ms": 201456,
+      "name": "Still The Kid",
+      "url": "https://open.spotify.com/track/7amqdTB1SWli7FsopSVUdd"
+    },
+    {
+      "added_at": "2026-06-12 04:56:00",
+      "album": {
+        "name": "Small Philosophies",
+        "url": "https://open.spotify.com/album/26EdmznN7QhNWNvtXVZbV2"
+      },
+      "artists": [
+        {
+          "name": "Alkyone",
+          "url": "https://open.spotify.com/artist/0tHJO69AKpp9qz6a0Tg6Rt"
+        }
+      ],
+      "duration_ms": 178262,
+      "name": "Favorite Things",
+      "url": "https://open.spotify.com/track/641lcPWbNcmdnshN4RWp6D"
     },
     {
       "added_at": "2026-06-05 04:01:05",
@@ -73,6 +121,38 @@
       "url": "https://open.spotify.com/track/3N7cmRE1ZUKfp4ZmMVJuuc"
     },
     {
+      "added_at": "2026-06-12 04:56:00",
+      "album": {
+        "name": "Superstar Syndrome",
+        "url": "https://open.spotify.com/album/1wwM9eYBxOYVwvLWMONppa"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "duration_ms": 190787,
+      "name": "Superstar Syndrome",
+      "url": "https://open.spotify.com/track/2wJhQccf0olvXdFFS8n7Ay"
+    },
+    {
+      "added_at": "2026-06-12 04:56:00",
+      "album": {
+        "name": "Stop Me Dead",
+        "url": "https://open.spotify.com/album/37XRrMkAxD04z1scC9AgxF"
+      },
+      "artists": [
+        {
+          "name": "Kerr Mercer",
+          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
+        }
+      ],
+      "duration_ms": 151794,
+      "name": "Stop Me Dead",
+      "url": "https://open.spotify.com/track/0JiNzR7D3lpOumnlUGnKjU"
+    },
+    {
       "added_at": "2026-05-29 04:02:57",
       "album": {
         "name": "scars to prove it",
@@ -103,6 +183,22 @@
       "duration_ms": 199933,
       "name": "Good Ones",
       "url": "https://open.spotify.com/track/5AuqGkHqaX9qdn9aZlvBUb"
+    },
+    {
+      "added_at": "2026-06-12 04:56:00",
+      "album": {
+        "name": "Midnight Blue",
+        "url": "https://open.spotify.com/album/1di7MEeESta7xDolrg0jMX"
+      },
+      "artists": [
+        {
+          "name": "Maya Engen",
+          "url": "https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm"
+        }
+      ],
+      "duration_ms": 252019,
+      "name": "Midnight Blue",
+      "url": "https://open.spotify.com/track/2e1cxDtd6Pm31HcbRAcwgy"
     },
     {
       "added_at": "2026-05-22 04:49:40",
@@ -411,30 +507,6 @@
       "duration_ms": 205667,
       "name": "Toothpaste",
       "url": "https://open.spotify.com/track/7gf02EFnPEN4kCD6c5jKND"
-    },
-    {
-      "added_at": "2026-04-24 04:00:14",
-      "album": {
-        "name": "Everything Is About You",
-        "url": "https://open.spotify.com/album/4W7Hd3QDV9RmuM7Td0GOfI"
-      },
-      "artists": [
-        {
-          "name": "Asha Banks",
-          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
-        },
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        },
-        {
-          "name": "Lowswimmer",
-          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
-        }
-      ],
-      "duration_ms": 157746,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/0mWmLVtSUrAqpbueDcDJ3U"
     },
     {
       "added_at": "2026-04-17 04:01:18",
@@ -1049,22 +1121,6 @@
       "url": "https://open.spotify.com/track/2eJgPy6PMKUeG2iCQady4O"
     },
     {
-      "added_at": "2026-02-06 05:27:34",
-      "album": {
-        "name": "Ashes & Smoke",
-        "url": "https://open.spotify.com/album/5PqLpOfcwK2Vh9OQQIPEA5"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 185629,
-      "name": "Ashes & Smoke",
-      "url": "https://open.spotify.com/track/5z4vkBqAyhYRksxBdaFRYP"
-    },
-    {
       "added_at": "2026-02-27 05:00:35",
       "album": {
         "name": "Listen To Me",
@@ -1159,70 +1215,6 @@
       "duration_ms": 169386,
       "name": "In Love With A Ghost",
       "url": "https://open.spotify.com/track/7xmK0BKKlAG6ifxZr99Qpc"
-    },
-    {
-      "added_at": "2026-02-16 15:04:10",
-      "album": {
-        "name": "Let The Girl Out",
-        "url": "https://open.spotify.com/album/60Nk3agyVpRUbtr9UmCz1s"
-      },
-      "artists": [
-        {
-          "name": "LUBBY",
-          "url": "https://open.spotify.com/artist/2nBIy2jbFxJLOWOSdIVYqa"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Let The Girl Out",
-      "url": "https://open.spotify.com/track/2mNX8x4bY3Bgz6u1WAa80L"
-    },
-    {
-      "added_at": "2026-02-16 15:04:10",
-      "album": {
-        "name": "Sunny in London (Acoustic)",
-        "url": "https://open.spotify.com/album/3rlOkmojjYLRFnAY9shUX8"
-      },
-      "artists": [
-        {
-          "name": "Izzy Escobar",
-          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Gangster's Wife",
-      "url": "https://open.spotify.com/track/30vGqh1ELeYh6r4A6FIaya"
-    },
-    {
-      "added_at": "2026-02-06 05:27:34",
-      "album": {
-        "name": "Bootstraps",
-        "url": "https://open.spotify.com/album/3J6um8Yq96K0KHbIiYVE1N"
-      },
-      "artists": [
-        {
-          "name": "Abigail Osborn",
-          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
-        }
-      ],
-      "duration_ms": 188910,
-      "name": "Bootstraps",
-      "url": "https://open.spotify.com/track/4X7cpw2ZwK8WdJAoMh6YXn"
-    },
-    {
-      "added_at": "2026-02-16 15:04:10",
-      "album": {
-        "name": "Young & Green",
-        "url": "https://open.spotify.com/album/68ksDVafcSKhaKllSXXBAf"
-      },
-      "artists": [
-        {
-          "name": "Joely",
-          "url": "https://open.spotify.com/artist/7mYSAs4oBqRlShTTVkNnxg"
-        }
-      ],
-      "duration_ms": 240472,
-      "name": "Young & Green",
-      "url": "https://open.spotify.com/track/5XV0jYzNnJDnmL2jn8R8Ek"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

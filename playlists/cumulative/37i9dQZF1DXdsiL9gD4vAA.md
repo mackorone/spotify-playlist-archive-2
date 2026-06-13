@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-230 songs - 20 hr 27 min
+231 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [DARIYA](https://open.spotify.com/track/4HyRnl0uXLKlyNkPmj3yWU) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Manmarzee](https://open.spotify.com/album/5DloXHOMHfcHpHN6RBl19B) | 5:23 | 2023-03-02 | 2023-05-02 |
 | [Darmiya'n](https://open.spotify.com/track/2wzmKLMH0krJChu5cMtclR) | [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Darmiya'n](https://open.spotify.com/album/1N68VYYlujDkxSy93F18b3) | 5:11 | 2024-09-17 | 2025-02-07 |
 | [Dasht\-E\-Tanhai Mein](https://open.spotify.com/track/0PZO1Ih1qTQawy5Wc9B7zy) | [Iqbal Bano](https://open.spotify.com/artist/7JxXeUTiGg0vr8SS2iS0F0) | [An Evening With Iqbal Bano, Vol\. 1](https://open.spotify.com/album/28YZZXx13F7sSEwW13v1yv) | 8:58 | 2021-12-01 | 2023-04-01 |
+| [Dil Bebaak](https://open.spotify.com/track/1TjAaNVKteQSq3pXmrrg1S) | [Dev Arijit](https://open.spotify.com/artist/6BZExpYe5yylgSeHAWVsF6) | [Dil Bebaak](https://open.spotify.com/album/3Y1jMY8AXZyU7gv8VaRDGL) | 6:39 | 2026-06-12 |  |
 | [Dil Jalaane Ki Baat](https://open.spotify.com/track/1LW6iw61YZVYHfZ7S3yRyF) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [The Reluctant Fundamentalist](https://open.spotify.com/album/3Hzm5TP92QvufU2sJqwiB8) | 1:42 | 2023-09-15 | 2024-04-19 |
 | [Dil Jalaane Ki Baat](https://open.spotify.com/track/7y8nfUqN3m56KiisCjYk7s) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [The Reluctant Fundamentalist Soundtrack](https://open.spotify.com/album/0DY2lIwaHNbR7aoLKWZit5) | 1:42 | 2021-12-01 | 2025-01-01 |
 | [Dil Ke Behlane Ki](https://open.spotify.com/track/0j8bQyja91hw3OM4GaTx37) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK) | [Dil Ke Behlane Ki](https://open.spotify.com/album/48AZkKOndaRtYysnmyWqnl) | 3:44 | 2025-07-24 |  |
@@ -93,7 +94,7 @@
 | [Guzra Hua Ye Waqt](https://open.spotify.com/track/79vqORwAkk9oNEiXJ3ZRsG) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Guzra Hua Ye Waqt](https://open.spotify.com/album/5Nuh0UAq2yKV2rpQMvGmWt) | 4:46 | 2025-02-11 | 2026-05-30 |
 | [Haathon Ki Lakeeron](https://open.spotify.com/track/0TTtI4F67M8Sw82uKtdGia) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Haathon Ki Lakeeron](https://open.spotify.com/album/2d3k3BF0zEDZxdRTs64fze) | 7:24 | 2023-05-19 | 2025-01-01 |
 | [Haathon Ki Lakeeron](https://open.spotify.com/track/0n9MV72hcWle7aWcNBZhDA) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Haathon Ki Lakeeron](https://open.spotify.com/album/6rXD5EMeUVlTAFviAa6GOy) | 7:24 | 2024-02-15 | 2024-04-19 |
-| [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/track/50BxNNhj65O32shF7cpKEn) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Hai Isi Mein Pyar Ki Aabru \- Arpita Chakraborty](https://open.spotify.com/album/0HPrmIfIqqYpz3sumFDtGW) | 3:43 | 2024-04-18 |  |
+| [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/track/50BxNNhj65O32shF7cpKEn) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Hai Isi Mein Pyar Ki Aabru \- Arpita Chakraborty](https://open.spotify.com/album/0HPrmIfIqqYpz3sumFDtGW) | 3:43 | 2024-04-18 | 2026-06-13 |
 | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/track/2UaGnopu3HmCVlJ0lHfQHE) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk), [Pushkar Jog](https://open.spotify.com/artist/2tKnS5nS5NOk2VIMTN7OjA) | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/album/56hiuxLFq78Jj10Ts0iNEg) | 3:43 | 2023-03-02 | 2024-04-19 |
 | [Hamara Dil](https://open.spotify.com/track/4MYjT0f53X3XW3Qcwj2085) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Hamara Dil](https://open.spotify.com/album/7lDXRXTGVhKXHbQUmPsx6q) | 5:15 | 2026-03-09 |  |
 | [Hangama Hai Kiu Barbad](https://open.spotify.com/track/5BLW13IDABVJN5J0dS7AjG) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali the Ghazal Maestro](https://open.spotify.com/album/6WtcRp4M2WaSBX3hza6efS) | 8:29 | 2021-12-01 | 2022-07-29 |

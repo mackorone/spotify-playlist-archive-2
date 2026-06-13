@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,460 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,462 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 23 | [Busy Mind](https://open.spotify.com/track/5UY9ftnhAC2NCzw9yV5VHU) | [Geo Jordan](https://open.spotify.com/artist/6k11DSLFQUOXSROSDqQwBy) | [Busy Mind](https://open.spotify.com/album/6v3s9yGKeZjMOOtTiG1BuW) | 3:39 |
 | 24 | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/track/0XDA8IPloCFvf8c0ZNzRnB) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:05 |
 | 25 | [U Lyk My Style](https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [U Lyk My Style](https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y) | 2:52 |
-| 26 | [Can't Even Love Myself](https://open.spotify.com/track/5afL9JeWbEWcs90XEYTHg5) | [Limelight Sound](https://open.spotify.com/artist/39vymr3LLNqqISal4a7yUi) | [Can't Even Love Myself](https://open.spotify.com/album/1ZaQNtm6Gx4dd1nx5PC0Jl) | 2:07 |
-| 27 | [Mr Drummer](https://open.spotify.com/track/5YXGOtVf9DLZ7NRLxZZG0q) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [Mr Drummer](https://open.spotify.com/album/0BqtvWcqu8sFYqQvxebA4Z) | 2:26 |
+| 26 | [Mr Drummer](https://open.spotify.com/track/5YXGOtVf9DLZ7NRLxZZG0q) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [Mr Drummer](https://open.spotify.com/album/0BqtvWcqu8sFYqQvxebA4Z) | 2:26 |
+| 27 | [Can't Even Love Myself](https://open.spotify.com/track/5afL9JeWbEWcs90XEYTHg5) | [Limelight Sound](https://open.spotify.com/artist/39vymr3LLNqqISal4a7yUi) | [Can't Even Love Myself](https://open.spotify.com/album/1ZaQNtm6Gx4dd1nx5PC0Jl) | 2:07 |
 | 28 | [Turn Me Inside](https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [The Road To Hell Is Paved With Good Intentions](https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR) | 2:54 |
 | 29 | [AOT](https://open.spotify.com/track/2BAcbnk7JMYspiJip31953) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [dear dialE](https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE) | 1:55 |
 | 30 | [Risk It All \(feat\. Maverick Sabre\)](https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Risk It All \(feat\. Maverick Sabre\)](https://open.spotify.com/album/1CjMIMDADSu9lKwYtHfCrc) | 3:31 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 61 | [Serenity](https://open.spotify.com/track/6E1wMj9RapVx9yVajUPctG) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Kaesu](https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ) | [Serenity](https://open.spotify.com/album/1EMYcLuml95vQGCoAbb4aC) | 3:20 |
 | 62 | [Naked](https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy) | 3:38 |
 | 63 | [UP DOWN BOUNCE](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [UP DOWN BOUNCE](https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd) | 3:08 |
-| 64 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 |
-| 65 | [DAY&NITE](https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [DAY&NITE](https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB) | 3:25 |
+| 64 | [DAY&NITE](https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [DAY&NITE](https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB) | 3:25 |
+| 65 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 |
 | 66 | [Heatwave](https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Saïna](https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9) | [Heatwave](https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv) | 2:34 |
 | 67 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 |
 | 68 | [DUN DI DUN](https://open.spotify.com/track/3Z9nSzxrucQVMXS8cfOYzr) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw) | [DUN DI DUN](https://open.spotify.com/album/6yiQLSFVe8zT2NtvPBedUd) | 2:42 |

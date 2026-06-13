@@ -6604,7 +6604,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 140769,
       "name": "Me & My Jesus",
       "url": "https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI"
@@ -7008,7 +7008,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 401649,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/4Ozmd5V6F6VGrP6YQHkRtJ"
@@ -8512,6 +8512,24 @@
       "duration_ms": 210745,
       "name": "perfect union",
       "url": "https://open.spotify.com/track/5J62LqX6Sz0oisKKDkfcFK"
+    },
+    {
+      "album": {
+        "name": "Potter's Hands",
+        "url": "https://open.spotify.com/album/3TU3Fdkb4nR5ZBUcQPKfmK"
+      },
+      "artists": [
+        {
+          "name": "Annette Nandine",
+          "url": "https://open.spotify.com/artist/0euQcM7EekIFq5VcIRyyrt"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193939,
+      "name": "Potter's Hands",
+      "url": "https://open.spotify.com/track/6Awa4IjKUveY7nsTo1QWK2"
     },
     {
       "album": {
@@ -10442,6 +10460,28 @@
       "duration_ms": 538235,
       "name": "Walk On Water - Live",
       "url": "https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX"
+    },
+    {
+      "album": {
+        "name": "Godson",
+        "url": "https://open.spotify.com/album/43ckl6kTjj6DjLsPae3Mui"
+      },
+      "artists": [
+        {
+          "name": "Wake",
+          "url": "https://open.spotify.com/artist/5Ijs5N9PtVuzabbujWsttn"
+        },
+        {
+          "name": "Anna Makula",
+          "url": "https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169123,
+      "name": "Walking on Water",
+      "url": "https://open.spotify.com/track/39qfTzWknsUWBrw8QVIjEu"
     },
     {
       "album": {

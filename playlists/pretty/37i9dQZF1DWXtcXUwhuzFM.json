@@ -1,6 +1,6 @@
 {
   "description": "Uutta musaa tarjoilevat Isac Elliot, SANNI, MOMO... ja moni muu  \ud83c\udfb6",
-  "num_followers": 107382,
+  "num_followers": 107467,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -162,10 +162,14 @@
         {
           "name": "Portion Boys",
           "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        },
+        {
+          "name": "Komiat",
+          "url": "https://open.spotify.com/artist/3AmLhgSu80YTQarQMWXwna"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 165133,
+      "name": "Koko Suomi tanssii",
       "url": "https://open.spotify.com/track/1HPVyTwkDkOKhfEt0BgEJQ"
     },
     {
@@ -231,6 +235,22 @@
       "duration_ms": 117446,
       "name": "MADONNA",
       "url": "https://open.spotify.com/track/7BolOb4mAxg0gVAk1wktAG"
+    },
+    {
+      "added_at": "2026-06-11 21:00:43",
+      "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 178603,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
     },
     {
       "added_at": "2026-06-11 21:00:43",
@@ -1027,6 +1047,30 @@
     {
       "added_at": "2026-06-11 21:00:43",
       "album": {
+        "name": "ICONIC BY MISTAKE",
+        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 177982,
+      "name": "ICONIC BY MISTAKE",
+      "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
+    },
+    {
+      "added_at": "2026-06-11 21:00:43",
+      "album": {
         "name": "RMB (Ring My Bell)",
         "url": "https://open.spotify.com/album/4pkAMeqsWDN1YtFHsKoD1g"
       },
@@ -1478,10 +1522,14 @@
         {
           "name": "ANOTR",
           "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 199196,
+      "name": "It's So Nice (ft. 3DDY)",
       "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
     },
     {
@@ -1525,7 +1573,7 @@
         }
       ],
       "duration_ms": 158769,
-      "name": "Stereo",
+      "name": "Never say goodbye",
       "url": "https://open.spotify.com/track/19Kh8R2fw4SgpdBZR4jH2H"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 45990,
+  "num_followers": 45991,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAABPl9gZQDuJlTufHFukwxhZ",
+  "snapshot_id": "ain6gAAAAADXVL7kjbIgDc8XaBjnh4u5",
   "tracks": [
     {
       "added_at": null,
@@ -283,18 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conversas Que Nunca Tivemos",
-        "url": "https://open.spotify.com/album/1MLyVrnXygy0ObhQyvAg90"
+        "name": "Fiquei assim",
+        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
       },
       "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        },
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 283469,
-      "name": "Conversas Que Nunca Tivemos",
-      "url": "https://open.spotify.com/track/2Dh5TVjbQc6jb1swFQ7dLr"
+      "duration_ms": 218662,
+      "name": "Fiquei assim",
+      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
     },
     {
       "added_at": null,
@@ -319,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiquei assim",
-        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
+        "name": "Conversas Que Nunca Tivemos",
+        "url": "https://open.spotify.com/album/1MLyVrnXygy0ObhQyvAg90"
       },
       "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        },
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 218662,
-      "name": "Fiquei assim",
-      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
+      "duration_ms": 283469,
+      "name": "Conversas Que Nunca Tivemos",
+      "url": "https://open.spotify.com/track/2Dh5TVjbQc6jb1swFQ7dLr"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
       "duration_ms": 187818,
       "name": "Futuros Ancestrais",
       "url": "https://open.spotify.com/track/1NGm9FsyN9yzJ6kMUQUtav"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 277472,
-      "name": "Se o Mundo Acabar",
-      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
     },
     {
       "added_at": null,
@@ -447,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 277472,
+      "name": "Se o Mundo Acabar",
+      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
       },
@@ -507,30 +507,6 @@
       "duration_ms": 303727,
       "name": "Linha De Frente",
       "url": "https://open.spotify.com/track/4ASow1CEoS3GQ1zOiQCViB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Na Vanguarda de Mim Mesmo",
-        "url": "https://open.spotify.com/album/20DYrZ4Wq8CgUzX9AJZDz5"
-      },
-      "artists": [
-        {
-          "name": "Tayob J.",
-          "url": "https://open.spotify.com/artist/5mWlE6LzefekauAa9AHThX"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Dino d'Santiago",
-          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Na Vanguarda de Mim Mesmo",
-      "url": "https://open.spotify.com/track/78aeiSApCeBtme4BQ2OoaX"
     },
     {
       "added_at": null,
@@ -599,26 +575,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
+        "name": "Na Vanguarda de Mim Mesmo",
+        "url": "https://open.spotify.com/album/20DYrZ4Wq8CgUzX9AJZDz5"
       },
       "artists": [
+        {
+          "name": "Tayob J.",
+          "url": "https://open.spotify.com/artist/5mWlE6LzefekauAa9AHThX"
+        },
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        },
-        {
-          "name": "Bernardo Massot",
-          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+          "name": "Dino d'Santiago",
+          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
         }
       ],
-      "duration_ms": 192001,
-      "name": "Depois do Depois",
-      "url": "https://open.spotify.com/track/5BgqCJerABu6vJEgW2fc4n"
+      "duration_ms": 205714,
+      "name": "Na Vanguarda de Mim Mesmo",
+      "url": "https://open.spotify.com/track/78aeiSApCeBtme4BQ2OoaX"
     },
     {
       "added_at": null,
@@ -647,6 +623,30 @@
       "duration_ms": 246533,
       "name": "Quem Tem Um Amigo (Tem Tudo) (Remix) (feat. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid)",
       "url": "https://open.spotify.com/track/08WrWXRoXim0i1RkSVlpJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Bernardo Massot",
+          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Depois do Depois",
+      "url": "https://open.spotify.com/track/5BgqCJerABu6vJEgW2fc4n"
     },
     {
       "added_at": null,
@@ -743,26 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Sol",
-        "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
+        "name": "D\u00e1diva & D\u00edvida",
+        "url": "https://open.spotify.com/album/69FEbB83gglKjWddcLHRs1"
       },
       "artists": [
-        {
-          "name": "Jonathan Ferr",
-          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
-        },
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
         }
       ],
-      "duration_ms": 206643,
-      "name": "Meu Sol",
-      "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
+      "duration_ms": 249800,
+      "name": "Plantar o Bem",
+      "url": "https://open.spotify.com/track/4n1fk1y5Jn0hL8EsrGyIbO"
     },
     {
       "added_at": null,
@@ -791,22 +787,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e1diva & D\u00edvida",
-        "url": "https://open.spotify.com/album/69FEbB83gglKjWddcLHRs1"
+        "name": "Meu Sol",
+        "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
       },
       "artists": [
+        {
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+        },
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
         }
       ],
-      "duration_ms": 249800,
-      "name": "Plantar o Bem",
-      "url": "https://open.spotify.com/track/4n1fk1y5Jn0hL8EsrGyIbO"
+      "duration_ms": 206643,
+      "name": "Meu Sol",
+      "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
     },
     {
       "added_at": null,
@@ -843,26 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Coragem da Luz",
-        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
       },
       "artists": [
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Mano Brown",
-          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
-        },
-        {
-          "name": "Max de Castro",
-          "url": "https://open.spotify.com/artist/2R66z213mp5GWy6iF1aqZn"
         }
       ],
-      "duration_ms": 211301,
-      "name": "Ruaterapia (feat. Mano Brown & Max De Castro)",
-      "url": "https://open.spotify.com/track/2ZGZ0fvF2TmYWWxsUmxcui"
+      "duration_ms": 214612,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
     },
     {
       "added_at": null,
@@ -887,18 +879,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
+        "name": "A Coragem da Luz",
+        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
       },
       "artists": [
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Mano Brown",
+          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
+        },
+        {
+          "name": "Max de Castro",
+          "url": "https://open.spotify.com/artist/2R66z213mp5GWy6iF1aqZn"
         }
       ],
-      "duration_ms": 214612,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
+      "duration_ms": 211301,
+      "name": "Ruaterapia (feat. Mano Brown & Max De Castro)",
+      "url": "https://open.spotify.com/track/2ZGZ0fvF2TmYWWxsUmxcui"
     },
     {
       "added_at": null,
@@ -963,6 +963,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Milenar Arte De Meter O Louco",
+        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 213145,
+      "name": "Segura Seu BO",
+      "url": "https://open.spotify.com/track/7f7m3mnLnhmcKwBK4Aa0v6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus \u00c9 Brasileiro",
         "url": "https://open.spotify.com/album/0kLE6hMfgjBcb0twaLuJh4"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 170261,
       "name": "O Que Se Leva (D\u00f3i)",
       "url": "https://open.spotify.com/track/336MAGcI93mYzYuKDHYOPN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Milenar Arte De Meter O Louco",
-        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 213145,
-      "name": "Segura Seu BO",
-      "url": "https://open.spotify.com/track/7f7m3mnLnhmcKwBK4Aa0v6"
     },
     {
       "added_at": null,
@@ -1043,6 +1043,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 255274,
+      "name": "T\u00e3o Real",
+      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Guizo de Cascavel",
         "url": "https://open.spotify.com/album/2N7w7GgMZi5zik4jPOLrHa"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 226026,
       "name": "Pegapacap\u00e1",
       "url": "https://open.spotify.com/track/7MZhs8zhPIEKSs5VKsEs4e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e3o Real",
-        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 255274,
-      "name": "T\u00e3o Real",
-      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
     },
     {
       "added_at": null,

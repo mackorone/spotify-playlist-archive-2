@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJwnqEyjy2f.md) - [plain]
 
 > <a href="spotify:artist:7sAqpkrQBaOkddsv1Tz1XK">Mosimann</a>'s favourite tracks\. Updated regularly\. Curated by Mosimann\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,252 likes - 88 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,280 likes - 88 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJwnqEyjy2f.md) - [plain]
 | 31 | [Go Back \(feat\. Julia Church\) \- Kyle Watson Remix](https://open.spotify.com/track/4M02PvpMpHzt7zpI9RRLcF) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Go Back \(feat\. Julia Church\) \[Kyle Watson Remix\]](https://open.spotify.com/album/4uYMHC7geGejO4U7pxmvQ1) | 3:46 |
 | 32 | [Shout](https://open.spotify.com/track/36L9XjMT6y3TOFl7EElrAH) | [ALP](https://open.spotify.com/artist/5f3xRUpKn6mS0Rj1likFdi), [Bravetone](https://open.spotify.com/artist/6HLUmL9wto0WP9G8wIoZD7), [Førehand](https://open.spotify.com/artist/2eOeSMHXnKrwLO8rEZuc22) | [Shout](https://open.spotify.com/album/1vat8FkgBMBs1u0RNIE88i) | 2:49 |
 | 33 | [Smack That](https://open.spotify.com/track/3ArJ5pPOS5n6iv6pTWElew) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Smack That](https://open.spotify.com/album/2KdxHZiQgGK4wq9HvBF6yr) | 3:45 |
-| 34 | [Galvanize \- Chris Lake Remix](https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Galvanize \(Chris Lake Remix\)](https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB) | 3:43 |
+| 34 | [Galvanize \- Chris Lake Remix](https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Galvanize \(Chris Lake Remix\)](https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB) | 3:43 |
 | 35 | [Wannabe](https://open.spotify.com/track/2sZsSxIvWz7rktffKEq0F0) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Wannabe](https://open.spotify.com/album/4FBvjNo3paUgB8Cxc8OmEh) | 2:45 |
 | 36 | [Behaviour \(feat\. A.D.O.R.\)](https://open.spotify.com/track/4GAVRZ9ABPQzvy0Nj4hGPy) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [A.D.O.R.](https://open.spotify.com/artist/5dniQPRxD0LDjCqMI4rvrM) | [Behaviour \(feat\. A.D.O.R.\)](https://open.spotify.com/album/1ieZsGSghohH5qrMlQVWP7) | 2:20 |
 | 37 | [Auf Lock](https://open.spotify.com/track/2OvrnNYl86VY7eQc2brL5D) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Traumwerk \(TW\_JAN\_26\)](https://open.spotify.com/album/7bNKxVUsYyRY7InRT9k9OZ) | 4:05 |

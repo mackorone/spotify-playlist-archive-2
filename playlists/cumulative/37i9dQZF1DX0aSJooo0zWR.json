@@ -2921,6 +2921,32 @@
     },
     {
       "album": {
+        "name": "Schala",
+        "url": "https://open.spotify.com/album/53QlNgkCPfFSwyKfBgz0oi"
+      },
+      "artists": [
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "Seda",
+          "url": "https://open.spotify.com/artist/0c6JTU2XbJoy79ECLuYw1Q"
+        },
+        {
+          "name": "ewik_42",
+          "url": "https://open.spotify.com/artist/70gsrdszTQUBnZYoMpk5Hi"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218041,
+      "name": "Schala",
+      "url": "https://open.spotify.com/track/0JXEShek5xlpkhJlxSkKOz"
+    },
+    {
+      "album": {
         "name": "The Bass-ic Collection",
         "url": "https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM"
       },

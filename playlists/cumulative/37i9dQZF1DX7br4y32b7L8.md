@@ -4,7 +4,7 @@
 
 > \#fyp songs voor je playlist Cover: Ninochello, Gio & Luca Ferron
 
-893 songs - 1 day 20 hr 51 min
+894 songs - 1 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Boy In The Picture](https://open.spotify.com/track/3V95FzQssIWw3wcqV1a9sy) | [Kid Crème](https://open.spotify.com/artist/21LRoheW1z49N5d52wlQ5X), [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42), [Sian Evans](https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw) | [Boy In The Picture](https://open.spotify.com/album/7MlzrIAecngRdLwUnzoqYa) | 3:27 | 2024-03-11 | 2024-03-22 |
 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2023-02-23 | 2023-03-04 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-03 | 2023-05-02 |
+| [Brassen](https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde \(Deluxe\)](https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta) | 2:23 | 2026-06-12 |  |
 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 | 2025-09-09 | 2026-04-03 |
 | [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 | 2025-01-16 | 2025-06-21 |
 | [Brommers Kieken](https://open.spotify.com/track/1sFOo3OyMgonEYdi4bTXHd) | [Boer Harm](https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os) | [Brommers Kieken](https://open.spotify.com/album/3AryJg88r4Hr8mSj74KaVP) | 2:26 | 2024-03-04 | 2024-08-02 |

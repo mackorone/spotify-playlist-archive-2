@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65734,
+  "num_followers": 65739,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAABFFHlI/6HG0Yus7/3Kcxnl",
+  "snapshot_id": "ain6gAAAAACnJEyFPT3VuxVlg/7EaxNn",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/0EXsVBTG8GyITT2d6q9ECW"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 149571,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/21EIQVCOJd52ka7xpmIcQP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't You Love Me? - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1WPY8kRB01objem7KdBwya"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 267110,
       "name": "Don't You Love Me? - A COLORS SHOW",
       "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/0EXsVBTG8GyITT2d6q9ECW"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/21EIQVCOJd52ka7xpmIcQP"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 80945,
+      "name": "God or The Devil?",
+      "url": "https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nights & Days.",
         "url": "https://open.spotify.com/album/72oFlgI3oGni2dWAcr8NPO"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 119156,
       "name": "6:16am",
       "url": "https://open.spotify.com/track/3c5JcBWbG50fU28zAnsHgk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 80945,
-      "name": "God or The Devil?",
-      "url": "https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G"
     },
     {
       "added_at": null,

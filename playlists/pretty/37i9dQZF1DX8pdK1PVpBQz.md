@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FAIR DINKUM](https://open.spotify.com/track/22je5kAHjwf98UwKbLUfh8) | [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf) | [FAIR DINKUM](https://open.spotify.com/album/4pyxnGUHJvDanfdvtgduqO) | 2:36 |
+| 1 | [FAIR DINKUM](https://open.spotify.com/track/22je5kAHjwf98UwKbLUfh8) | [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf), [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6), [Zion Garcia](https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [FAIR DINKUM](https://open.spotify.com/album/4pyxnGUHJvDanfdvtgduqO) | 2:36 |
 | 2 | [Don't Care](https://open.spotify.com/track/5KtU9AoG21eTPnO7QLe14g) | [Pixie Lane](https://open.spotify.com/artist/3Br6ncRU4z030LyHPpfflF) | [Don't Care](https://open.spotify.com/album/6ZQBxiKP485n8EaZxNGQ67) | 3:11 |
 | 3 | [Not Your God](https://open.spotify.com/track/1g7QMtSAstZsgo5bsFVYrE) | [Takara](https://open.spotify.com/artist/0s4pACwkFS6Zo2zKs0YpYx) | [Not Your God](https://open.spotify.com/album/6IWvQGMt212OPadyha2MdH) | 3:59 |
 | 4 | [Sweet Boy](https://open.spotify.com/track/24UKgQDbtPkNseU4T0oejv) | [d.b\. longing](https://open.spotify.com/artist/3Q6vER5P17ZxRJqLZJSK8X) | [Sweet Boy](https://open.spotify.com/album/7GGo7ibPtVoc31llggZIgU) | 5:03 |

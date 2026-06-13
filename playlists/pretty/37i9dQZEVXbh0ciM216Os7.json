@@ -11,8 +11,44 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beauty And A Beat",
-        "url": "https://open.spotify.com/album/7e0XjJlLm0uUgkMqzqJRFA"
+        "name": "GEMINI SEASON",
+        "url": "https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "duration_ms": 106500,
+      "name": "GEMINI SEASON",
+      "url": "https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuck This Bar",
+        "url": "https://open.spotify.com/album/2ObcniTvIqq93z8fx13rkL"
+      },
+      "artists": [
+        {
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+        }
+      ],
+      "duration_ms": 180238,
+      "name": "Fuck This Bar",
+      "url": "https://open.spotify.com/track/6BhX6gINKJz6Pghc0M3cuv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Behind These Hazel Eyes",
+        "url": "https://open.spotify.com/album/6GixIMS5vgZvJ9tDClCe0C"
       },
       "artists": [
         {
@@ -20,103 +56,123 @@
           "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
         }
       ],
-      "duration_ms": 227695,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/2tVnJCm2TuAfWLj5GDLY9k"
+      "duration_ms": 198833,
+      "name": "Behind These Hazel Eyes",
+      "url": "https://open.spotify.com/track/5KOalAIkXwkelK2S7xokQp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Every Single Weekend (feat. Jamie xx)",
-        "url": "https://open.spotify.com/album/0bDV16KDFYNix2fGuUQ6cw"
+        "name": "BODIES (feat. Eminem)",
+        "url": "https://open.spotify.com/album/3BMZfaRLxJMfXmibewW1nx"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 130133,
-      "name": "Every Single Weekend (feat. Jamie xx)",
-      "url": "https://open.spotify.com/track/0nac7FVmtrYm0O3Iu27ijo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "8-Tracks",
-        "url": "https://open.spotify.com/album/7boV4MiTWKwlNZHlVDYZqM"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 214945,
-      "name": "Pigs on the Wing - 8-Track Version",
-      "url": "https://open.spotify.com/track/2v8YjRvFlvmqYRs4uZwd2W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Official FIFA World Cup 2026\u2122 Album",
-        "url": "https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        },
-        {
-          "name": "Andrew Watt",
-          "url": "https://open.spotify.com/artist/2CM9fci10ya5tJdRFaXPYI"
-        },
-        {
-          "name": "Cirkut",
-          "url": "https://open.spotify.com/artist/75ejsr1iK59GJ93YnrUKrv"
-        }
-      ],
-      "duration_ms": 298503,
-      "name": "In The Stars - Cirkut and Andrew Watt Remix",
-      "url": "https://open.spotify.com/track/6XR2w5VZaUc3OO1pFoaVV8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rise Again (Blarny Remix)",
-        "url": "https://open.spotify.com/album/5ITRGdeCHOtsuctdKetGQy"
-      },
-      "artists": [
-        {
-          "name": "Alonestar",
-          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
-        },
-        {
-          "name": "Kayla Kelley",
-          "url": "https://open.spotify.com/artist/1JYXBwvd3qW5Yc92NGIA8C"
-        },
-        {
-          "name": "Mr Blarny",
-          "url": "https://open.spotify.com/artist/27s6KgDg6pkdEr50hPo10l"
+          "name": "Upstates",
+          "url": "https://open.spotify.com/artist/3vFCgxYcaQ5iBPavzd6bqH"
         },
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Lydia Miles",
+          "url": "https://open.spotify.com/artist/5icU0KWuevjGFn4IE7tDc6"
         }
       ],
-      "duration_ms": 351552,
-      "name": "Rise Again (Blarny Remix)",
-      "url": "https://open.spotify.com/track/2eTFXwhohckV569OYmkljw"
+      "duration_ms": 233314,
+      "name": "BODIES - feat. Eminem",
+      "url": "https://open.spotify.com/track/10IUNvL4OPg3xCARlRAUJw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "LAGUNA",
-        "url": "https://open.spotify.com/album/4nonBK5WuZOuIZzuZehbKW"
+        "name": "Stages",
+        "url": "https://open.spotify.com/album/2QNByn9FQiPfOfqUQe4BzG"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        },
+        {
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+        }
+      ],
+      "duration_ms": 198234,
+      "name": "Up In Texas",
+      "url": "https://open.spotify.com/track/3PLyczCBL8yy6p5aDzCPQl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's All I Ask (HAAi Remix)",
+        "url": "https://open.spotify.com/album/1n539cmpnAuEu6v9WS0gxX"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 257741,
+      "name": "That's All I Ask - HAAi Remix / Edit",
+      "url": "https://open.spotify.com/track/40qN3XgBBaq3AtD4a6ArJc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frisson Noir",
+        "url": "https://open.spotify.com/album/3BaCui7eVmPhPkzpV8jRkj"
+      },
+      "artists": [
+        {
+          "name": "Tarja",
+          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
+        },
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "duration_ms": 286970,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/10dYKxVHLNnOABnkuHKTKa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreamscope II",
+        "url": "https://open.spotify.com/album/1DYuZNEl8qXQvLktRcsBrK"
+      },
+      "artists": [
+        {
+          "name": "TJ DA ZULU",
+          "url": "https://open.spotify.com/artist/1ZwzT8SFz0FCQqyiuVlhjd"
+        },
+        {
+          "name": "HOMIE YO",
+          "url": "https://open.spotify.com/artist/5Mo4DwYsAxR9Rb8UdYifpn"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        }
+      ],
+      "duration_ms": 169959,
+      "name": "Weekend in Your Eyes",
+      "url": "https://open.spotify.com/track/4RrzYG2UxcwyIDbtLpOlof"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ADVENTURE",
+        "url": "https://open.spotify.com/album/7dpEt9TNIoPqXxol9yC5ui"
       },
       "artists": [
         {
@@ -124,149 +180,57 @@
           "url": "https://open.spotify.com/artist/6DMjso63MM8iBE0WYQvmHP"
         },
         {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
         },
         {
           "name": "Method Man",
           "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
         }
       ],
-      "duration_ms": 314666,
-      "name": "Sunset Coast",
-      "url": "https://open.spotify.com/track/7ConpHIIHP2okXNLXdUMmZ"
+      "duration_ms": 180000,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/5C3xOBGFufmAuqC3gaTmnF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Taking Solace",
-        "url": "https://open.spotify.com/album/4XCrUPIheW0eOLUJieEgoE"
+        "name": "55",
+        "url": "https://open.spotify.com/album/4KnznliHHsRg52UntDVSmW"
       },
       "artists": [
         {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
         }
       ],
-      "duration_ms": 158823,
-      "name": "Rinkside",
-      "url": "https://open.spotify.com/track/140hCQAPNHoXx3bwoC3Tta"
+      "duration_ms": 174733,
+      "name": "Helen's Theme from Candyman (Arr. for Piano by Michael Riesman)",
+      "url": "https://open.spotify.com/track/0vQrawIpBJKndkwgxQMuyq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mudhole",
-        "url": "https://open.spotify.com/album/4aatg7AOKrwE2leUEcVf3x"
+        "name": "Sea of Glass",
+        "url": "https://open.spotify.com/album/1gpMEJ2JF9vZugrqIU1mSi"
       },
       "artists": [
         {
-          "name": "Captain Murphy",
-          "url": "https://open.spotify.com/artist/5fM1Cg1kWKvaLTboYdWERt"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Little Snake",
-          "url": "https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX"
+          "name": "If These Trees Could Talk",
+          "url": "https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7"
         }
       ],
-      "duration_ms": 153655,
-      "name": "Mudhole",
-      "url": "https://open.spotify.com/track/6measgcwVZxbpSkySsQM93"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highway Hotel",
-        "url": "https://open.spotify.com/album/6LqdPWY6y7fMgiK40mgDxq"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        },
-        {
-          "name": "DJ Hoppa",
-          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
-        },
-        {
-          "name": "Herbal T",
-          "url": "https://open.spotify.com/artist/14Re45nZLhVUv0Jl6RyAmf"
-        },
-        {
-          "name": "Jarv",
-          "url": "https://open.spotify.com/artist/0GzsRlVbRZ1j4rkTlRNRXW"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "BLAOW! (with Herbal T & Jarv)",
-      "url": "https://open.spotify.com/track/1CoNBUksmBuK6LV1lB7F5I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Taking a walk & calling a car home",
-        "url": "https://open.spotify.com/album/2ZGCYpRS0XyWEnffRpm8o9"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/3ih4AEujhm8Om0HyEzuPAB"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "Elipropperr",
-          "url": "https://open.spotify.com/artist/1jndwpUpE013s7zjx2gM1f"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "officeloop with t + e",
-      "url": "https://open.spotify.com/track/7BPjBOBG2Nh7aBgHISdkNu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6FMvB6eixQ7HQDxhgCphfn"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 293390,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6GTCIf70NjVd73Fob18Bg6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barbie Doll",
-        "url": "https://open.spotify.com/album/147rc4OmHtzzTxLObTAx15"
-      },
-      "artists": [
-        {
-          "name": "Hurricane Wisdom",
-          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Barbie Doll",
-      "url": "https://open.spotify.com/track/21fyLmQranpgyoYHMMCIuq"
+      "duration_ms": 326226,
+      "name": "Sea of Glass",
+      "url": "https://open.spotify.com/track/66LQWqmJFJZjQI6btDjG5s"
     },
     {
       "added_at": null,
@@ -283,6 +247,22 @@
       "duration_ms": 195966,
       "name": "Play Your Games",
       "url": "https://open.spotify.com/track/7JcDWPlzZWGrzaLaak3UG0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "added_at": null,
@@ -307,18 +287,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+        "name": "Barbie Doll",
+        "url": "https://open.spotify.com/album/147rc4OmHtzzTxLObTAx15"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+      "duration_ms": 166956,
+      "name": "Barbie Doll",
+      "url": "https://open.spotify.com/track/21fyLmQranpgyoYHMMCIuq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "8-Tracks",
+        "url": "https://open.spotify.com/album/7boV4MiTWKwlNZHlVDYZqM"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 214945,
+      "name": "Pigs on the Wing - 8-Track Version",
+      "url": "https://open.spotify.com/track/2v8YjRvFlvmqYRs4uZwd2W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Every Single Weekend (feat. Jamie xx)",
+        "url": "https://open.spotify.com/album/0bDV16KDFYNix2fGuUQ6cw"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 130133,
+      "name": "Every Single Weekend (feat. Jamie xx)",
+      "url": "https://open.spotify.com/track/0nac7FVmtrYm0O3Iu27ijo"
     },
     {
       "added_at": null,
@@ -371,22 +391,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smugglers & Scholars (feat. Killer Mike)",
-        "url": "https://open.spotify.com/album/4ANRVMnwUmE27fbXVpqfvE"
+        "name": "Official FIFA World Cup 2026\u2122 Album",
+        "url": "https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT"
       },
       "artists": [
         {
-          "name": "KNEECAP",
-          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         },
         {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          "name": "Andrew Watt",
+          "url": "https://open.spotify.com/artist/2CM9fci10ya5tJdRFaXPYI"
+        },
+        {
+          "name": "Cirkut",
+          "url": "https://open.spotify.com/artist/75ejsr1iK59GJ93YnrUKrv"
         }
       ],
-      "duration_ms": 210555,
-      "name": "Smugglers & Scholars (feat. Killer Mike)",
-      "url": "https://open.spotify.com/track/0PcvDbmXlrh7NfDBCxR8Hp"
+      "duration_ms": 298503,
+      "name": "In The Stars - Cirkut and Andrew Watt Remix",
+      "url": "https://open.spotify.com/track/6XR2w5VZaUc3OO1pFoaVV8"
     },
     {
       "added_at": null,
@@ -415,22 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Untouched (feat. The Veronicas)",
-        "url": "https://open.spotify.com/album/5Cvz9SgkkwHuy8G302pmsx"
+        "name": "Smugglers & Scholars (feat. Killer Mike)",
+        "url": "https://open.spotify.com/album/4ANRVMnwUmE27fbXVpqfvE"
       },
       "artists": [
         {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
         },
         {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         }
       ],
-      "duration_ms": 182571,
-      "name": "Untouched (feat. The Veronicas)",
-      "url": "https://open.spotify.com/track/3oXTMVnWGWLY4mzTFhc7PN"
+      "duration_ms": 210555,
+      "name": "Smugglers & Scholars (feat. Killer Mike)",
+      "url": "https://open.spotify.com/track/0PcvDbmXlrh7NfDBCxR8Hp"
     },
     {
       "added_at": null,
@@ -463,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Untouched (feat. The Veronicas)",
+        "url": "https://open.spotify.com/album/5Cvz9SgkkwHuy8G302pmsx"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        },
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 182571,
+      "name": "Untouched (feat. The Veronicas)",
+      "url": "https://open.spotify.com/track/3oXTMVnWGWLY4mzTFhc7PN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
         "url": "https://open.spotify.com/album/51aVfAzEowNwmCUzsDhXvO"
       },
@@ -483,22 +527,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callin (feat. Blu june)",
-        "url": "https://open.spotify.com/album/1AbdUkx9FpRz4JZeTKDnvS"
+        "name": "Taking Solace",
+        "url": "https://open.spotify.com/album/4XCrUPIheW0eOLUJieEgoE"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Blu june",
-          "url": "https://open.spotify.com/artist/3pyEwxCySBsnsD5B4SUiDr"
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
         }
       ],
-      "duration_ms": 154581,
-      "name": "Callin (feat. Blu june)",
-      "url": "https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF"
+      "duration_ms": 158823,
+      "name": "Rinkside",
+      "url": "https://open.spotify.com/track/140hCQAPNHoXx3bwoC3Tta"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taking a walk & calling a car home",
+        "url": "https://open.spotify.com/album/2ZGCYpRS0XyWEnffRpm8o9"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/3ih4AEujhm8Om0HyEzuPAB"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "Elipropperr",
+          "url": "https://open.spotify.com/artist/1jndwpUpE013s7zjx2gM1f"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "officeloop with t + e",
+      "url": "https://open.spotify.com/track/7BPjBOBG2Nh7aBgHISdkNu"
     },
     {
       "added_at": null,
@@ -527,6 +591,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mudhole",
+        "url": "https://open.spotify.com/album/4aatg7AOKrwE2leUEcVf3x"
+      },
+      "artists": [
+        {
+          "name": "Captain Murphy",
+          "url": "https://open.spotify.com/artist/5fM1Cg1kWKvaLTboYdWERt"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Little Snake",
+          "url": "https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX"
+        }
+      ],
+      "duration_ms": 153655,
+      "name": "Mudhole",
+      "url": "https://open.spotify.com/track/6measgcwVZxbpSkySsQM93"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stay Alive",
         "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
       },
@@ -543,6 +631,54 @@
       "duration_ms": 233978,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway Hotel",
+        "url": "https://open.spotify.com/album/6LqdPWY6y7fMgiK40mgDxq"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "DJ Hoppa",
+          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
+        },
+        {
+          "name": "Herbal T",
+          "url": "https://open.spotify.com/artist/14Re45nZLhVUv0Jl6RyAmf"
+        },
+        {
+          "name": "Jarv",
+          "url": "https://open.spotify.com/artist/0GzsRlVbRZ1j4rkTlRNRXW"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "BLAOW! (with Herbal T & Jarv)",
+      "url": "https://open.spotify.com/track/1CoNBUksmBuK6LV1lB7F5I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Callin (feat. Blu june)",
+        "url": "https://open.spotify.com/album/1AbdUkx9FpRz4JZeTKDnvS"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Blu june",
+          "url": "https://open.spotify.com/artist/3pyEwxCySBsnsD5B4SUiDr"
+        }
+      ],
+      "duration_ms": 154581,
+      "name": "Callin (feat. Blu june)",
+      "url": "https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF"
     },
     {
       "added_at": null,
@@ -567,30 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Allen Ginsberg \u2013 One Hundred",
-        "url": "https://open.spotify.com/album/7MbynfPtG7yBC9H6ZBYhIR"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Allen Ginsberg",
-          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
-        },
-        {
-          "name": "Anton Batagov",
-          "url": "https://open.spotify.com/artist/6ygtSGdFH18miXSoJCRFCX"
-        }
-      ],
-      "duration_ms": 554733,
-      "name": "Have You Seen This Movie (Distant Figure)",
-      "url": "https://open.spotify.com/track/6KWQus6jYqnjsmIrMtHrtD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Persefone on Audiotree Live",
         "url": "https://open.spotify.com/album/0dn22nkIFQjrKRJDId0dTN"
       },
@@ -611,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es brennt... (Doomfire Version by Greg Mackintosh of Paradise Lost)",
-        "url": "https://open.spotify.com/album/7nBNBUMcluVC8kF0KQjV5Q"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6FMvB6eixQ7HQDxhgCphfn"
       },
       "artists": [
         {
-          "name": "Till Lindemann",
-          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
-        },
-        {
-          "name": "Paradise Lost",
-          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Es brennt... - Doomfire Version by Greg Mackintosh of Paradise Lost",
-      "url": "https://open.spotify.com/track/1r94Dw2WMU8jHKxBj1m023"
+      "duration_ms": 293390,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6GTCIf70NjVd73Fob18Bg6"
     },
     {
       "added_at": null,
@@ -651,6 +759,26 @@
       "duration_ms": 330910,
       "name": "You & Me - Deetron Extended Remix",
       "url": "https://open.spotify.com/track/3OxkWuRJ4HmUgwvfIvhXxL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es brennt... (Doomfire Version by Greg Mackintosh of Paradise Lost)",
+        "url": "https://open.spotify.com/album/7nBNBUMcluVC8kF0KQjV5Q"
+      },
+      "artists": [
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        },
+        {
+          "name": "Paradise Lost",
+          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Es brennt... - Doomfire Version by Greg Mackintosh of Paradise Lost",
+      "url": "https://open.spotify.com/track/1r94Dw2WMU8jHKxBj1m023"
     },
     {
       "added_at": null,

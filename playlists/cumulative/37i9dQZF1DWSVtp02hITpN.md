@@ -4,7 +4,7 @@
 
 > The best pop music right now ft\. Olivia Rodrigo
 
-893 songs - 1 day 23 hr 30 min
+895 songs - 1 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-28 | 2024-09-27 |
 | [Club To Your Arms](https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms](https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda) | 3:11 | 2026-06-11 |  |
 | [Combust](https://open.spotify.com/track/0ovcYLTYKuN7cwOdDtnUCP) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Combust](https://open.spotify.com/album/7MCaVHM9Od0utS2fcJdMh3) | 2:18 | 2025-07-18 | 2025-08-01 |
+| [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 | 2026-06-11 |  |
 | [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-14 | 2025-04-04 |
 | [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 | 2025-06-12 | 2025-08-08 |
 | [Coming Back For More](https://open.spotify.com/track/73xrd1Gv43Ddar11zLDtP1) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [PALPITATIONS](https://open.spotify.com/album/7fxhGVYVaAnGw6ZQ50DkJC) | 2:33 | 2024-06-28 | 2024-08-03 |
@@ -402,6 +403,7 @@
 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 | 2025-11-28 | 2026-01-15 |
 | [I'm Not Gonna Cry](https://open.spotify.com/track/01A1pyqiQN7eCt25ZVClKz) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I'm Not Gonna Cry](https://open.spotify.com/album/6ksCmxzTjmJcRKWMwbMQpy) | 2:44 | 2024-12-20 | 2025-02-28 |
 | [I'm your first](https://open.spotify.com/track/6uiwQZzhXU7IKFvtJ4DkRV) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I'm your first](https://open.spotify.com/album/7MXsfVmavjqExIN2TSngEE) | 2:54 | 2025-09-05 | 2025-09-26 |
+| [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 | 2026-06-11 |  |
 | [If He Wanted To He Would](https://open.spotify.com/track/04M4fiBT94oATcrfWjyjE7) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [If He Wanted To He Would](https://open.spotify.com/album/5Kr0iC2BIiUYb2knzDlTbE) | 3:17 | 2025-08-22 | 2026-01-23 |
 | [IF KARMA DOESN’T GET YOU \(I WILL\)](https://open.spotify.com/track/7cAH8MvS4629IUVVdcMAbB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [IF KARMA DOESN’T GET YOU \(I WILL\)](https://open.spotify.com/album/4X3Qq0xjXGarrm8gdKOc49) | 2:59 | 2025-05-16 | 2025-07-25 |
 | [IKYK](https://open.spotify.com/track/1Dex4T6UbptuDqqdmMT7xw) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [for your validation](https://open.spotify.com/album/1urRiweW0usayaxE3ueVmd) | 2:46 | 2025-01-17 | 2025-03-21 |

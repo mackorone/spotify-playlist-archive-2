@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: Jae Stephens
 
-657 songs - 1 day 9 hr 10 min
+658 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,6 +594,7 @@
 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 | 2025-04-08 | 2025-06-28 |
 | [Too Much](https://open.spotify.com/track/0mhlIcF2UReFGIl6XvKzB4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Too Much](https://open.spotify.com/album/7AywMcUIGhC5MePplTL80A) | 2:46 | 2025-09-19 | 2025-10-25 |
 | [Too Strange for the Circus](https://open.spotify.com/track/3EraWxocoFkg6PTjxII85U) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Too Strange for the Circus](https://open.spotify.com/album/2xVPAd6OHyGna11gtdo8S4) | 3:11 | 2023-10-27 | 2024-04-17 |
+| [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 | 2026-06-12 |  |
 | [Trashboi](https://open.spotify.com/track/1Z6paKXkwnkJkvUZZJoZl8) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/1tHZNwa8uy5Cre8Evb5YKv) | 2:24 | 2023-07-21 | 2024-03-02 |
 | [True Colors \(Spotify Singles\)](https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [True Colors \(Spotify Singles\)](https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q) | 3:20 | 2023-06-23 | 2024-06-01 |
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2024-02-16 | 2024-03-23 |
@@ -635,7 +636,7 @@
 | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/track/63CGV6P4cEYZvUgvVhZWAl) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/album/5QKRK4MEDqyjPmX4dErfTw) | 3:12 | 2022-02-04 | 2023-01-28 |
 | [What You Need](https://open.spotify.com/track/30CYYrMIeCeA5v5TIAcQmv) | [LOTi](https://open.spotify.com/artist/0urGBe1Pism9xlVVwOmExn), [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [What You Need](https://open.spotify.com/album/5Ao186Z7EN2c8q5wUHcicJ) | 3:40 | 2022-02-04 | 2022-02-26 |
 | [When Love Sucks \(feat\. Dido\)](https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [When Love Sucks \(feat\. Dido\)](https://open.spotify.com/album/0BmbK3Ayd0Q9BWOCQYOdQw) | 2:49 | 2023-05-19 | 2024-02-17 |
-| [Where Do We Go](https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Where Do We Go](https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh) | 2:56 | 2026-03-13 |  |
+| [Where Do We Go](https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Where Do We Go](https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh) | 2:56 | 2026-03-13 | 2026-06-13 |
 | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP) | 3:15 | 2024-01-26 | 2024-06-01 |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-09-19 |  |
 | [Where Is Your Heart](https://open.spotify.com/track/2uzT9Cz89XGHfhNySXVnod) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Where Is Your Heart](https://open.spotify.com/album/6vxlJO9Db5eeeOHGJJI3nx) | 3:57 | 2026-05-15 |  |

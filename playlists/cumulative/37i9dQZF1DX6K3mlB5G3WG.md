@@ -4,7 +4,7 @@
 
 > Olivia Rodrigo in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-3,351 songs - 7 day 4 hr 49 min
+3,353 songs - 7 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,6 +534,7 @@
 | [Che mi fotte](https://open.spotify.com/track/6zO1HuSSLeIkOOBDS3R0BE) | [Diora Madama](https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2), [Leslie](https://open.spotify.com/artist/6Qm77I2B1EVpRp0RWtjyj6), [Rossella Essence](https://open.spotify.com/artist/5uw59dgrWXoss2sg9TC3HD) | [Che mi fotte](https://open.spotify.com/album/5lEuUoFp2zYbmPmJrGLVss) | 2:17 | 2025-03-27 | 2025-04-25 |
 | [Che sarà terra e che sarà mare](https://open.spotify.com/track/3Qvsekb26p2vi466dCgnn9) | [Tosca](https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu) | [Che sarà terra e che sarà mare](https://open.spotify.com/album/5bah7sckGpsSeJ7h9OAJIb) | 3:14 | 2026-04-09 | 2026-05-08 |
 | [Che Spettacolo](https://open.spotify.com/track/3xSUjaZ2f8JRQ8HdBp3p4f) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [REWIND](https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5) | 2:48 | 2024-10-24 | 2024-11-22 |
+| [Che tesoro che sei](https://open.spotify.com/track/4zBqyq7Ubcx6SnOoxER6FY) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Comuni Immortali](https://open.spotify.com/album/2PPX0jau6IcVMLvLMcUjYV) | 3:30 | 2026-06-12 |  |
 | [Cheap Hotel](https://open.spotify.com/track/6OI6VQxrwqTydvfgQ9bIAC) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Cheap Hotel](https://open.spotify.com/album/4y22TdNzGjEX7qn5qvLrq3) | 3:30 | 2025-09-25 | 2025-10-17 |
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-02-28 | 2025-03-28 |
 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-27 | 2024-07-19 |
@@ -1370,6 +1371,7 @@
 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 | 2024-06-27 | 2024-08-02 |
 | [ICEBERG](https://open.spotify.com/track/5tCXLFbNC2jyyJlldgaAZm) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [ICEBERG](https://open.spotify.com/album/3xX1GtxfTiBY9hvEjNhFXX) | 3:16 | 2024-12-12 | 2025-01-10 |
 | [Iconic](https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Iconic](https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3) | 2:58 | 2026-01-29 | 2026-02-20 |
+| [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 | 2026-06-12 |  |
 | [Iconica](https://open.spotify.com/track/4aexKxJ2PjkmYW9sq0xgva) | [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt), [JARO](https://open.spotify.com/artist/0LotWLxGlnhsrHsnzzFRw3) | [Iconica](https://open.spotify.com/album/7BWU1JvhZUtGvXxwA0jzl5) | 2:25 | 2025-06-20 | 2025-07-18 |
 | [If I Knew](https://open.spotify.com/track/4E0b1gTV2I94Z2IfGlxV5e) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [If I Knew](https://open.spotify.com/album/0GGPLCARlWNTIIPIyIUqw9) | 3:15 | 2024-10-10 | 2024-10-25 |
 | [If It's Not Love](https://open.spotify.com/track/2pU2UlABXcI31Su0n28Upi) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [If It’s Not Love](https://open.spotify.com/album/21PflNtjjo6CNDiFCPpcpg) | 4:21 | 2026-04-16 | 2026-05-08 |

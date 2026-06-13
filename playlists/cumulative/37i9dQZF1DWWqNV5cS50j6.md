@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Labrinth
 
-1,914 songs - 3 day 19 hr 52 min
+1,915 songs - 3 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -929,6 +929,7 @@
 | [KRYPTONITE](https://open.spotify.com/track/3mLDq0hbHkafZoy4GvF7EG) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:02 | 2024-07-02 | 2024-10-05 |
 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-03 | 2024-04-26 |
 | [LANDMiNE](https://open.spotify.com/track/0RzO5E7JWg3t9Z4PmtmEKz) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp), [Lillith](https://open.spotify.com/artist/4FnA6I5jN6hjo8aXvGcwrW) | [LANDMiNE](https://open.spotify.com/album/24Hcjuqesd2VcB73Vb9ACr) | 3:15 | 2025-05-02 |  |
+| [landscaper](https://open.spotify.com/track/7FCAR9JMJ29OmljgBJHMy1) | [koady](https://open.spotify.com/artist/2DsFGIoVB23DBOaTG43HYG) | [landscaper](https://open.spotify.com/album/56cyoqPfH3kOxVrA9eHXoI) | 2:51 | 2026-06-12 |  |
 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 | 2026-05-22 |  |
 | [Lars](https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Lars](https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr) | 3:03 | 2022-03-29 | 2022-04-08 |
 | [Last Night!](https://open.spotify.com/track/4RxkErsYUmi1WyjGQvIrxH) | [Gaff](https://open.spotify.com/artist/5CoVuaRDjDMud2OJtPLnfZ) | [Last Night!](https://open.spotify.com/album/0P7Ws5NtZDmCZuKM8iOkEB) | 2:57 | 2020-10-13\* | 2021-02-13 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 279946,
+  "num_followers": 279941,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAAWUIUUWD2DSGoW5h/lczXx",
+  "snapshot_id": "ain6gAAAAAABesld3FnS4C1+Az32mro9",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vira Lata",
-        "url": "https://open.spotify.com/album/1073rEb0vN7ZPBc2Fcs1ph"
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
       "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 130978,
-      "name": "Vira Lata",
-      "url": "https://open.spotify.com/track/610qP5fEpQMv7gzyLipesZ"
+      "duration_ms": 154941,
+      "name": "Seu Crime",
+      "url": "https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i"
     },
     {
       "added_at": null,
@@ -319,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+        "name": "Vira Lata",
+        "url": "https://open.spotify.com/album/1073rEb0vN7ZPBc2Fcs1ph"
       },
       "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 173136,
-      "name": "Disk Me",
-      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
+      "duration_ms": 130978,
+      "name": "Vira Lata",
+      "url": "https://open.spotify.com/track/610qP5fEpQMv7gzyLipesZ"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
       "duration_ms": 175000,
       "name": "S\u00e3o Amores",
       "url": "https://open.spotify.com/track/7cj3mQ5XeEQq8Zfa1O5CXB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 173136,
+      "name": "Disk Me",
+      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
     },
     {
       "added_at": null,
@@ -383,22 +399,6 @@
       "duration_ms": 157928,
       "name": "Amor de Que",
       "url": "https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 154941,
-      "name": "Seu Crime",
-      "url": "https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i"
     },
     {
       "added_at": null,
@@ -903,34 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUTURO FLUXO",
-        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Yure IDD",
-          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
-        },
-        {
-          "name": "Mc Alleff",
-          "url": "https://open.spotify.com/artist/61G3rtsKx3Vj0bJVstqO3l"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "BRUXARIA 3000",
-      "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
       },
@@ -983,6 +955,34 @@
       "duration_ms": 163404,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUTURO FLUXO",
+        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "Mc Alleff",
+          "url": "https://open.spotify.com/artist/61G3rtsKx3Vj0bJVstqO3l"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "BRUXARIA 3000",
+      "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
     },
     {
       "added_at": null,

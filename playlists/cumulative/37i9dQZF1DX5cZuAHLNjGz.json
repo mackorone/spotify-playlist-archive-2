@@ -5187,6 +5187,28 @@
     },
     {
       "album": {
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/4eQJt7I909APqRISSPDRLZ"
+      },
+      "artists": [
+        {
+          "name": "Deep Dhaliwal",
+          "url": "https://open.spotify.com/artist/0westTqzCnTkVzfHwEsoUy"
+        },
+        {
+          "name": "Anker Deol",
+          "url": "https://open.spotify.com/artist/6Ft1jFojxoiQxAddH2o5ZF"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/55nrl1ScrRDCv1ORLoEMlG"
+    },
+    {
+      "album": {
         "name": "P-POP CULTURE",
         "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
       },
@@ -9250,7 +9272,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 255999,
       "name": "Punjab Wal Nu",
       "url": "https://open.spotify.com/track/1Qv3awph0oazuf0t9SJw6z"
@@ -12282,7 +12304,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 250040,
       "name": "Vaari Jaavan",
       "url": "https://open.spotify.com/track/1I7yw0J5KpUaWhdBviGlON"
@@ -12766,6 +12788,36 @@
       "duration_ms": 138500,
       "name": "Wealth",
       "url": "https://open.spotify.com/track/4l8WHDKXzN22fSIq7Vw4Wq"
+    },
+    {
+      "album": {
+        "name": "Young & Real",
+        "url": "https://open.spotify.com/album/2777qaYFxZOhbBrF4qrl9R"
+      },
+      "artists": [
+        {
+          "name": "HUSTINDER",
+          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Zinda",
+          "url": "https://open.spotify.com/artist/42MWErlqUcwg8Nc1w27Ter"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Well Known",
+      "url": "https://open.spotify.com/track/5CVIiMNqlEdQJE4yQqWvQ5"
     },
     {
       "album": {

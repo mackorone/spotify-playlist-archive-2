@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: The Paradox
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,939 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,954 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 27 | [Another Round of Radical 'Ritas, Please \(feat\. Tades Sanville // Hot Mulligan\)](https://open.spotify.com/track/7hz9VTMSxCCEOhC9b28vf9) | [Riley!](https://open.spotify.com/artist/6mxWaHNcOgrJeD8NCRenps), [Tades Sanville](https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Another Round of Radical 'Ritas, Please \(feat\. Tades Sanville // Hot Mulligan\)](https://open.spotify.com/album/41iiQ1tyESP2mxyNrtdjK2) | 3:42 |
 | 28 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
 | 29 | [Twice](https://open.spotify.com/track/3mnNND0bmyEBM8p46WBKAO) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [I Think I've Heard This Before](https://open.spotify.com/album/6433M5vCem4FivY3cbPtUv) | 2:32 |
-| 30 | [Wrist](https://open.spotify.com/track/0I9mjpJTNxth8Sm6r3XUlz) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Wrist](https://open.spotify.com/album/1wfVkl1Bi6SsOzP7nDM3nD) | 3:22 |
-| 31 | [Butterfly Effect](https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Butterfly Effect](https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L) | 2:56 |
+| 30 | [Butterfly Effect](https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Butterfly Effect](https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L) | 2:56 |
+| 31 | [Wrist](https://open.spotify.com/track/0I9mjpJTNxth8Sm6r3XUlz) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Wrist](https://open.spotify.com/album/1wfVkl1Bi6SsOzP7nDM3nD) | 3:22 |
 | 32 | [Nothing Changes](https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Kids In The Crowd \- Music From The Documentary Soundtrack](https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO) | 3:14 |
 | 33 | [Blame It On The Youth](https://open.spotify.com/track/1qsYl35llY6dKDUpkNbKDL) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Blame It On The Youth](https://open.spotify.com/album/2QVW72PmqC1a96v2qIcDie) | 3:11 |
 | 34 | [Therapy](https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Therapy](https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G) | 2:42 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 50 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
 | 51 | [Sunblind](https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Still There’s a Glow](https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd) | 2:48 |
 | 52 | [Feedback](https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Feedback](https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP) | 2:32 |
-| 53 | [Before We Go](https://open.spotify.com/track/3UZ27Jo1YVIg40IjRcVTEY) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Before We Go](https://open.spotify.com/album/6YfCG65Zj6tFvsLGSFNbMh) | 2:34 |
-| 54 | [You Should See Me Now](https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [You Should See Me Now](https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth) | 3:44 |
+| 53 | [You Should See Me Now](https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [You Should See Me Now](https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth) | 3:44 |
+| 54 | [Before We Go](https://open.spotify.com/track/3UZ27Jo1YVIg40IjRcVTEY) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Before We Go](https://open.spotify.com/album/6YfCG65Zj6tFvsLGSFNbMh) | 2:34 |
 | 55 | [Pick Your Poison](https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Pick Your Poison](https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA) | 2:39 |
 | 56 | [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 |
 | 57 | [Fast Forward, Rewind](https://open.spotify.com/track/5SM45bUFDAvjXenEQO569u) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Fast Forward, Rewind](https://open.spotify.com/album/34wGqmggdRFxX9goi6Cx3q) | 3:32 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 62 | [Oh No!](https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Oh No!](https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi) | 3:13 |
 | 63 | [So Happy](https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [So Happy](https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp) | 2:53 |
 | 64 | [Second Thoughts](https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH) | [Løvesick](https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl) | [Second Thoughts](https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u) | 2:41 |
-| 65 | [when we were friends](https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [when we were friends](https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3) | 2:25 |
-| 66 | [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 |
+| 65 | [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 |
+| 66 | [when we were friends](https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [when we were friends](https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3) | 2:25 |
 | 67 | [The Worst Thing I've Ever Done](https://open.spotify.com/track/0VUkY6Uga7OmNWxcfyjAvj) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [The Worst Thing I've Ever Done](https://open.spotify.com/album/5DEDPreakXMEueOkLL3XbU) | 3:16 |
 | 68 | [Bexy](https://open.spotify.com/track/5gtGsDTcUHFzQagjBBFiSh) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Bexy](https://open.spotify.com/album/3UY7suuL86SR3nx5aJziXV) | 1:50 |
 | 69 | [Under My Sweater](https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 3:38 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 77 | [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 |
 | 78 | [Right Thing, Wrong Time \(feat\. State Champs\)](https://open.spotify.com/track/1SHycdx16OZ7Qp2GMm8QR2) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [LET'S DO SOMETHING STUPID!](https://open.spotify.com/album/4gyEST1wQDRwIcGTXbsnDX) | 2:45 |
 | 79 | [Sandbox](https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sandbox](https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd) | 2:25 |
-| 80 | [I Don't Wanna Go!](https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Don't Wanna Go!](https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585) | 2:39 |
+| 80 | [Straight Up to Space](https://open.spotify.com/track/2Fu0ymVqrFGgFWYeah705d) | [OUT IN FRONT](https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx) | [Straight Up to Space](https://open.spotify.com/album/4O1oiHIUMvxzLW7TEO7DPQ) | 2:31 |
 
 Snapshot ID: `AAAAAHNtAFBXS3Q7dtiHcZI8Eu9hB6b3`

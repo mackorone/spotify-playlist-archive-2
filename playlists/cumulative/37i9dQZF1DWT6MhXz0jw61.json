@@ -6232,7 +6232,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 160000,
       "name": "Clink",
       "url": "https://open.spotify.com/track/60eUWIGVnOBdVOs14dz0UP"
@@ -7054,7 +7054,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 167692,
       "name": "Crash",
       "url": "https://open.spotify.com/track/6tMZTuIm1N7jrhO0tf8SWx"
@@ -9120,7 +9120,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 217988,
       "name": "Easter Clothes",
       "url": "https://open.spotify.com/track/1jvq0gHKy8OZmdkiTWkD36"
@@ -10570,7 +10570,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 287082,
       "name": "FLAT shasta (feat. Ash Leone)",
       "url": "https://open.spotify.com/track/3zXESgIz8dcqnthjv24p7W"
@@ -14961,6 +14961,24 @@
     },
     {
       "album": {
+        "name": "if it ain't da guap",
+        "url": "https://open.spotify.com/album/4IW9Hc7g3K6cgXqHEAdrCw"
+      },
+      "artists": [
+        {
+          "name": "FEMI ISHOLA",
+          "url": "https://open.spotify.com/artist/1M1eX7IsJIMl96uTcPHHEI"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210989,
+      "name": "if it ain't da guap",
+      "url": "https://open.spotify.com/track/17LIWJAKBlRCkgA1ncuVNF"
+    },
+    {
+      "album": {
         "name": "If This Is It",
         "url": "https://open.spotify.com/album/3ZHogPoNiNWVQuYFrsxvAD"
       },
@@ -15234,6 +15252,32 @@
       "duration_ms": 178460,
       "name": "Infest",
       "url": "https://open.spotify.com/track/07GazJuA6rItzkbbj22XQq"
+    },
+    {
+      "album": {
+        "name": "INSECURE feat jid & ab-soul",
+        "url": "https://open.spotify.com/album/2YbwfP7vRvN67BsF1lQunG"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256406,
+      "name": "INSECURE feat jid & ab-soul",
+      "url": "https://open.spotify.com/track/6wRBNi9WAXrGrzyDw7JFP8"
     },
     {
       "album": {
@@ -21111,6 +21155,24 @@
     },
     {
       "album": {
+        "name": "Ancient History",
+        "url": "https://open.spotify.com/album/03zt4Y5xEm1yQu0LwOHXw5"
+      },
+      "artists": [
+        {
+          "name": "Wiki",
+          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176187,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/0Y3yw8c3jIpaUQUg4GfpaL"
+    },
+    {
+      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
       },
@@ -24519,6 +24581,32 @@
     },
     {
       "album": {
+        "name": "Sacrifices (feat. James Fauntleroy)",
+        "url": "https://open.spotify.com/album/38l98Pl2npTFNM3tl9tife"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268331,
+      "name": "Sacrifices (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/3s75C1nQTml1i3zOyXaMGw"
+    },
+    {
+      "album": {
         "name": "SAD CITY",
         "url": "https://open.spotify.com/album/5WUnseEaTQ43N0xdkc70Ul"
       },
@@ -25658,6 +25746,32 @@
       "duration_ms": 183269,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
+    },
+    {
+      "album": {
+        "name": "Sinners",
+        "url": "https://open.spotify.com/album/3wQY71eEvrbfLDtxFioD1R"
+      },
+      "artists": [
+        {
+          "name": "The Underachievers",
+          "url": "https://open.spotify.com/artist/51Pn4gGnZuyOMDfIT1Zy3N"
+        },
+        {
+          "name": "Issa Gold",
+          "url": "https://open.spotify.com/artist/4AQPiL37xjPAgBfEEYQrg9"
+        },
+        {
+          "name": "AKTHESAVIOR",
+          "url": "https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Sinners",
+      "url": "https://open.spotify.com/track/6iMRaVbMYUxD6lAJto7fgr"
     },
     {
       "album": {
@@ -26934,7 +27048,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 213543,
       "name": "Stay Blessed (starring Malaya)",
       "url": "https://open.spotify.com/track/6dmmk5zda6JgAowvwEjnb9"
@@ -27276,7 +27390,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 181627,
       "name": "Stoned and Leave",
       "url": "https://open.spotify.com/track/5vRq6ORXr3Ay8BOZdUNriN"
@@ -27514,6 +27628,24 @@
       "duration_ms": 191990,
       "name": "Stuck in Traffic",
       "url": "https://open.spotify.com/track/6RKVaQhPzmtlDdcysWIV67"
+    },
+    {
+      "album": {
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/6fHX3Uo1UXSlfWv0eahZe9"
+      },
+      "artists": [
+        {
+          "name": "Terry Presume",
+          "url": "https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "STUCK IN YO HEAD",
+      "url": "https://open.spotify.com/track/5JOO8wjhiIrtjIyTZ2PVRw"
     },
     {
       "album": {
@@ -27810,7 +27942,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 223535,
       "name": "Super Buick",
       "url": "https://open.spotify.com/track/21JMycDDTVqhJHKvEc1jQQ"
@@ -29046,6 +29178,24 @@
       "duration_ms": 208420,
       "name": "The Lonely Ones",
       "url": "https://open.spotify.com/track/6FbwnD77bqDSVCEA7lVtK2"
+    },
+    {
+      "album": {
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/6fHX3Uo1UXSlfWv0eahZe9"
+      },
+      "artists": [
+        {
+          "name": "Terry Presume",
+          "url": "https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130549,
+      "name": "THE MOURNING SON",
+      "url": "https://open.spotify.com/track/48EKOQiITxxR88zicujAYg"
     },
     {
       "album": {

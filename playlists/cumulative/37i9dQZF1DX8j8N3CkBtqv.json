@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 157200,
       "name": "Aayegi Manzil",
       "url": "https://open.spotify.com/track/331Lyiz3LYvslIQI7NgP85"
@@ -18839,6 +18839,24 @@
     },
     {
       "album": {
+        "name": "Mulaqaat",
+        "url": "https://open.spotify.com/album/119PjDCBDmx0VcThsZ3hLe"
+      },
+      "artists": [
+        {
+          "name": "Rajan Batra",
+          "url": "https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211833,
+      "name": "Mulaqaat",
+      "url": "https://open.spotify.com/track/0ks1BVAA92yo6x447oBasd"
+    },
+    {
+      "album": {
         "name": "Mulaqat",
         "url": "https://open.spotify.com/album/2LBQG9vBtXEL7RD4FUTJTa"
       },
@@ -20372,7 +20390,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 215000,
       "name": "O Meena",
       "url": "https://open.spotify.com/track/2vxFkZeJU9RLkDzP0Gmr5i"
@@ -29982,7 +30000,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 249857,
       "name": "Wujood",
       "url": "https://open.spotify.com/track/0YnjxgtaKuU0eJbbezEYNI"

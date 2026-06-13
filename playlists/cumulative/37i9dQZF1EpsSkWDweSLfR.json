@@ -780,7 +780,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 190392,
       "name": "blame",
       "url": "https://open.spotify.com/track/5usGOGw57VNPPsr6qyFFxn"
@@ -1795,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "Confident (Rock Version)",
+        "url": "https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205675,
+      "name": "Confident - Rock Version",
+      "url": "https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0"
+    },
+    {
+      "album": {
         "name": "REVAMPED",
         "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
       },
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 179893,
       "name": "Dancing Lasha Tumbai",
       "url": "https://open.spotify.com/track/3ve2mVR6BkXuNWfHVoA5yu"
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 231365,
       "name": "Delete",
       "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
@@ -3226,7 +3244,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 190577,
       "name": "Fuck My Computer",
       "url": "https://open.spotify.com/track/5ZbztTcvj6QWWbeYsL4GTa"
@@ -5488,7 +5506,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 180479,
       "name": "Liekinheitin",
       "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
@@ -6716,7 +6734,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 195154,
       "name": "Need For Speed",
       "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8"
@@ -6756,7 +6774,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 174400,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
@@ -6898,7 +6916,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -7180,7 +7198,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 170541,
       "name": "obsessed",
       "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
@@ -7846,6 +7864,24 @@
       "duration_ms": 163074,
       "name": "Poplife",
       "url": "https://open.spotify.com/track/2cClnOEBnNJWxbLuTFVIgK"
+    },
+    {
+      "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/6pZamSyMYxzfmSAUbnzKIf"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122813,
+      "name": "Prada Tune",
+      "url": "https://open.spotify.com/track/23slkWAmlcxi3XcSwC9RLZ"
     },
     {
       "album": {
@@ -8694,7 +8730,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 161605,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/3ZCBSFcZSRM9Z48ew28Zrf"

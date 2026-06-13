@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,287 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,286 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 2 | [Lemonade \(feat\. NAV\)](https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [B4 The Storm](https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a) | 3:15 |
 | 3 | [Calling \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Swae Lee, NAV, feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5rurggqwwudn9clMdcchxT) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:39 |
 | 4 | [Myself](https://open.spotify.com/track/05nbZ1xxVNwUTcGwLbp7CN) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:46 |
-| 5 | [MUTT](https://open.spotify.com/track/2hk1qsUurNhymuTIQKoCws) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [MUTT](https://open.spotify.com/album/0KfsQmnXet0Ne5V8c7Nnrm) | 1:59 |
-| 6 | [Call Me](https://open.spotify.com/track/1xpXnpIpuvzpx9jz15baJF) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 3:35 |
-| 7 | [Trimski](https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trimski](https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly) | 3:02 |
+| 5 | [Call Me](https://open.spotify.com/track/1xpXnpIpuvzpx9jz15baJF) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 3:35 |
+| 6 | [Trimski](https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trimski](https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly) | 3:02 |
+| 7 | [MUTT](https://open.spotify.com/track/2hk1qsUurNhymuTIQKoCws) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [MUTT](https://open.spotify.com/album/0KfsQmnXet0Ne5V8c7Nnrm) | 1:59 |
 | 8 | [Some Way](https://open.spotify.com/track/7zxRMhXxJMQCeDDg0rKAVo) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 2:59 |
 | 9 | [Recap \(feat\. Don Toliver\)](https://open.spotify.com/track/67LB1vZuG114LqRN8h8bQ2) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:23 |
 | 10 | [Champion \(feat\. Travis Scott\)](https://open.spotify.com/track/6nO3tr47nr2P7f3hXb8JIo) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 49 | [No Debate \(feat\. Young Thug\)](https://open.spotify.com/track/29eSqQBrdva2tPLYMneFzP) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:08 |
 | 50 | [Rexdale](https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Rexdale](https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4) | 2:05 |
 
-Snapshot ID: `aiipAAAAAAC8aQhXFCbU/mqXnaCrO3dT`
+Snapshot ID: `ain6gAAAAACYat/RLGYnzFUpWn20zvOd`

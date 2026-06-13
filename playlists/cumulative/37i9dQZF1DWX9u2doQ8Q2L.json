@@ -4376,7 +4376,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 198879,
       "name": "CLASSIC",
       "url": "https://open.spotify.com/track/2N2XEwITqsohA2mP6DtjCy"
@@ -4716,6 +4716,24 @@
       "duration_ms": 181986,
       "name": "Cropping",
       "url": "https://open.spotify.com/track/7aAuchtgMb9X5P8cQjlE6X"
+    },
+    {
+      "album": {
+        "name": "Crunchy",
+        "url": "https://open.spotify.com/album/73HFi6LgowgPUgDyiQbQY4"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214860,
+      "name": "Crunchy",
+      "url": "https://open.spotify.com/track/3micqfC9Do9RNjfKXrgXJn"
     },
     {
       "album": {
@@ -8496,7 +8514,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-21",
+      "date_removed": null,
       "duration_ms": 254291,
       "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
       "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
@@ -9800,7 +9818,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 238711,
       "name": "Home",
       "url": "https://open.spotify.com/track/1knxnVB9KzKWp4lSWURen8"
@@ -23232,7 +23250,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 296403,
       "name": "tenk(e)i",
       "url": "https://open.spotify.com/track/4ZxjpVTJfPfPr40IqbCOPj"
@@ -27324,7 +27342,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 317986,
       "name": "\u304a\u3093\u3076\u306b\u75b2\u308c\u3066",
       "url": "https://open.spotify.com/track/0baWFXPgNavrj5zoLAJOKx"

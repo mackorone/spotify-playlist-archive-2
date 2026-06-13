@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,968 likes - 150 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,961 likes - 150 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,14 +97,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 87 | [Que Me Perdone Tu Señora](https://open.spotify.com/track/66bQ3XrXyNL2fKPbKanSfI) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Miriam Collection](https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65) | 3:46 |
 | 88 | [Curame](https://open.spotify.com/track/7z4G4aZbNmG9ZGBGyA35IC) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:06 |
 | 89 | [Yo Soy Asi](https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Caciquiando](https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa) | 3:37 |
-| 90 | [Ay Doctor](https://open.spotify.com/track/3Xnz9X44B2cdJHpfMeKgIv) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [!Ay Doctor!](https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0) | 5:02 |
-| 91 | [Dame Veneno](https://open.spotify.com/track/5ULIW0HVQb2mqRQQXU2f9W) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Con Mucho Swing](https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV) | 4:14 |
-| 92 | [Ta' Pillao](https://open.spotify.com/track/5ES8lZiYDoVmEbnEz93ak9) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Los Años Dorados](https://open.spotify.com/album/2jCQgKg1Ugv4CdWKJMSma4) | 4:35 |
+| 90 | [Dame Veneno](https://open.spotify.com/track/5ULIW0HVQb2mqRQQXU2f9W) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Con Mucho Swing](https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV) | 4:14 |
+| 91 | [Ta' Pillao](https://open.spotify.com/track/5ES8lZiYDoVmEbnEz93ak9) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Los Años Dorados](https://open.spotify.com/album/2jCQgKg1Ugv4CdWKJMSma4) | 4:35 |
+| 92 | [Ay Doctor](https://open.spotify.com/track/3Xnz9X44B2cdJHpfMeKgIv) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [!Ay Doctor!](https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0) | 5:02 |
 | 93 | [Hay No Se Que Hacer](https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 4:17 |
 | 94 | [Amor, Amor](https://open.spotify.com/track/31Tuftk7aZpz0SqrO4TukY) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 4:22 |
 | 95 | [Si Tu Eres Mi Hombre y Yo Tu Mujer](https://open.spotify.com/track/6Y7ebE47mQUZplpULuW7NW) | [Wilfrido Vargas y the New York Band](https://open.spotify.com/artist/2iAcT5FciR14w0HYRlZIQB) | [Wilfrido Vargas Presenta the New York Band](https://open.spotify.com/album/2IJlLUBfoUVWQF5zLaN8zb) | 4:29 |
-| 96 | [El Farolito](https://open.spotify.com/track/7reg3cRS3uPi326LD1F3e5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 3:43 |
-| 97 | [Las Pequeñas Cosas](https://open.spotify.com/track/4WmyxRCAt8ACSADnwfvpHe) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Somos Candela](https://open.spotify.com/album/6kzOzFURqkbWcHC0mBp95w) | 4:03 |
+| 96 | [Las Pequeñas Cosas](https://open.spotify.com/track/4WmyxRCAt8ACSADnwfvpHe) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Somos Candela](https://open.spotify.com/album/6kzOzFURqkbWcHC0mBp95w) | 4:03 |
+| 97 | [El Farolito](https://open.spotify.com/track/7reg3cRS3uPi326LD1F3e5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 3:43 |
 | 98 | [Cuarto de Hotel](https://open.spotify.com/track/2OAtnmvc8oGGLElCFitxKy) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [!Ay Doctor!](https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0) | 5:00 |
 | 99 | [Alza Tu Copa](https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 3:40 |
 | 100 | [Esa Loca](https://open.spotify.com/track/2xaQcwMDgoDvq6wF81cN9k) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Miriam Collection](https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65) | 4:01 |

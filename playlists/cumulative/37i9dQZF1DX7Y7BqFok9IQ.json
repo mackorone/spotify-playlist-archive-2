@@ -1709,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Dollar Bill",
+        "url": "https://open.spotify.com/album/6TvyUhhJLXq6ye3Gkc5TNi"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162213,
+      "name": "Dollar Bill",
+      "url": "https://open.spotify.com/track/2sLeS5vOP2tl2TbF37FaLD"
+    },
+    {
+      "album": {
         "name": "Don't Hold Back",
         "url": "https://open.spotify.com/album/7wwoBmP3QNiAEhYcjaBYQr"
       },
@@ -3604,7 +3622,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 212972,
       "name": "Keep Up",
       "url": "https://open.spotify.com/track/6eUXiwxjHI3RblcwckJ7Qq"
@@ -4196,7 +4214,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 201586,
       "name": "Make Your Move",
       "url": "https://open.spotify.com/track/5uXlBb9vZ3ltzVpbVXAH5N"
@@ -6024,6 +6042,24 @@
       "duration_ms": 370866,
       "name": "Still Got The Blues",
       "url": "https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla"
+    },
+    {
+      "album": {
+        "name": "Still No Good",
+        "url": "https://open.spotify.com/album/2QhsqBj5eOk6Mfg2f92DKW"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207488,
+      "name": "Still No Good",
+      "url": "https://open.spotify.com/track/7BmBO5pX8clT3vcZHmMkX2"
     },
     {
       "album": {

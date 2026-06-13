@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: New Jazz Underground\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,000 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,012 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [We Gonna Make It](https://open.spotify.com/track/2zCFZsrwN2cMj2ZJ8CXUjP) | [Omasta](https://open.spotify.com/artist/1pKSKHYzswJjPo6qLjx1qO) | [Jazz Report from the Hood](https://open.spotify.com/album/2ys0XCprUDcTOQ0xM2I0mU) | 4:14 |
 | 50 | [Monson Road](https://open.spotify.com/track/1ja8uUjSfepMYOPN0kt9pl) | [Brintex Collective](https://open.spotify.com/artist/5jS72nZgNklECz7m1Lj7zR) | [Make It Make Sense](https://open.spotify.com/album/2KL2KR0XhcfcS0golQ8AY8) | 5:45 |
 
-Snapshot ID: `AAAAAOVA32VVkBCXa4Ttpuuq2DQGqPsr`
+Snapshot ID: `AAAAAMhTfZ8OnHPeg6XaOoN+mjKdFtb0`

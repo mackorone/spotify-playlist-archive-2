@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9574,
+  "num_followers": 9581,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAABtuj442kwBmohffuXsDST8",
+  "snapshot_id": "ain6gAAAAAArQJcZRwWEhNDjs2lIoMvG",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bait (Music From & Inspired by the Original Series)",
-        "url": "https://open.spotify.com/album/03ZfkSBjBDBWbI5b7yjtzX"
-      },
-      "artists": [
-        {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
-        },
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 209317,
-      "name": "Sweet Dreams (Are Made Of This)",
-      "url": "https://open.spotify.com/track/0cBwTa35pfbzD3vo5W519M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vulture Prince (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1WH2ttzuKMSlxtfA7PQw8S"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 303361,
       "name": "Udhero Na feat. Anoushka Shankar",
       "url": "https://open.spotify.com/track/2hFN5GkZ1CNZNRp1tFYWqW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bait (Music From & Inspired by the Original Series)",
+        "url": "https://open.spotify.com/album/03ZfkSBjBDBWbI5b7yjtzX"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 209317,
+      "name": "Sweet Dreams (Are Made Of This)",
+      "url": "https://open.spotify.com/track/0cBwTa35pfbzD3vo5W519M"
     },
     {
       "added_at": null,
@@ -362,11 +362,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Chocolate Genius Incorporated",
+          "url": "https://open.spotify.com/artist/1FFFa130FeOx5o2lTB1dUB"
         }
       ],
-      "duration_ms": 307007,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/2ZeVYOdBt4wqY5u7T54yWT"
+      "duration_ms": 256846,
+      "name": "Zameen (feat. Chocolate Genius Incorporated)",
+      "url": "https://open.spotify.com/track/4byAerUxEEu9dKVqpK0uBA"
     },
     {
       "added_at": null,
@@ -430,15 +434,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Chocolate Genius Incorporated",
-          "url": "https://open.spotify.com/artist/1FFFa130FeOx5o2lTB1dUB"
         }
       ],
-      "duration_ms": 256846,
-      "name": "Zameen (feat. Chocolate Genius Incorporated)",
-      "url": "https://open.spotify.com/track/4byAerUxEEu9dKVqpK0uBA"
+      "duration_ms": 307007,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/2ZeVYOdBt4wqY5u7T54yWT"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 185227,
-      "name": "Starling",
-      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
+      "duration_ms": 168565,
+      "name": "Coming Home, Pt. 2",
+      "url": "https://open.spotify.com/track/54c3SDfAFIhf5zYlFLH5iC"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 168565,
-      "name": "Coming Home, Pt. 2",
-      "url": "https://open.spotify.com/track/54c3SDfAFIhf5zYlFLH5iC"
+      "duration_ms": 185227,
+      "name": "Starling",
+      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
     }
   ],
   "unique_name": "This Is Arooj Aftab",

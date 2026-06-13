@@ -611,6 +611,28 @@
     },
     {
       "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/2u5Ss9YlEaDsMxUixQvr2Z"
+      },
+      "artists": [
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        },
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199195,
+      "name": "Agradecido",
+      "url": "https://open.spotify.com/track/3gWszzi2xdSG20o6WciB9b"
+    },
+    {
+      "album": {
         "name": "El Nombre De Jes\u00fas",
         "url": "https://open.spotify.com/album/03Cx2YHp29O4yk6RvP9YY2"
       },
@@ -7236,7 +7258,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 319863,
       "name": "Eterno Dios",
       "url": "https://open.spotify.com/track/4Us4fYaik1qi2KsTPDp1S4"
@@ -15921,6 +15943,28 @@
     },
     {
       "album": {
+        "name": "Solo Hay Uno",
+        "url": "https://open.spotify.com/album/0SAxQSg5t1FDx7XaviwkpJ"
+      },
+      "artists": [
+        {
+          "name": "Joel Rocco",
+          "url": "https://open.spotify.com/artist/7sjNSERyTcSvuDsLk9xwpe"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 703551,
+      "name": "Solo Hay Uno",
+      "url": "https://open.spotify.com/track/4fDCyStKB2X6Apq2bZa8fk"
+    },
+    {
+      "album": {
         "name": "Despinal",
         "url": "https://open.spotify.com/album/2FT61GagMLvIqY8n3imK5z"
       },
@@ -18732,7 +18776,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 516427,
       "name": "Viento Del Norte",
       "url": "https://open.spotify.com/track/5ZjTZynqsWSyg4LWERVpTT"

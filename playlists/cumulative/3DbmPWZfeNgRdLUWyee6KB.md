@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,176 songs - 2 day 20 hr 40 min
+1,179 songs - 2 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Blue Crush](https://open.spotify.com/track/4HTgkU4eIGE3f5PH91Q007) | [Serena Rae](https://open.spotify.com/artist/4S5i1YFUxdqqDrogeD1aIf) | [WHAT](https://open.spotify.com/album/1PFqMwYSrw0zZA8QsZbU82) | 3:05 | 2025-12-15 | 2026-01-15 |
 | [blue moon \(remastered\)](https://open.spotify.com/track/590SzWRpBK7UOyFXnqVH8Z) | [Reject Madrigal](https://open.spotify.com/artist/7lOQKkSHBPbmIexScbnPlu) | [Technicolor \(Side A\)](https://open.spotify.com/album/7HiQFIAt9nK0LeALQOLYib) | 4:51 | 2026-05-04 | 2026-06-05 |
 | [Blues for Tony Scott](https://open.spotify.com/track/6Icf938CGsjCiwItxauFnN) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Alessandro De Angelis](https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2), [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Blues for Tony Scott](https://open.spotify.com/album/2F9C6ndwa0IpLDDMflVQiN) | 5:02 | 2024-04-05 | 2025-12-28 |
+| [Body 2 Body](https://open.spotify.com/track/6CtYSbKpNMIMuoGKRW5Al6) | [Elijah Hues](https://open.spotify.com/artist/3UQTDqiD4uvwcWKsStIL70) | [Body 2 Body](https://open.spotify.com/album/2ak3EIRlVn82ajlEpeZJ4n) | 1:40 | 2026-06-12 |  |
 | [Body of Bruises](https://open.spotify.com/track/5NT8ptt0jy49RqX554U7ty) | [Nuna Shoesmith Sextet](https://open.spotify.com/artist/27DutwUI3nP1AZa96t8SuD) | [Courage](https://open.spotify.com/album/22yRsZW1KCaJdUe74GSdKq) | 4:28 | 2023-04-20 | 2025-11-29 |
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-12-16 | 2026-01-15 |
 | [Bossa](https://open.spotify.com/track/4YqjBKMp0QekJsGedjTNUI) | [J.T](https://open.spotify.com/artist/3x5QUokzTmSvhQxAkTGong) | [Take 1](https://open.spotify.com/album/4EnaDPAzy3jeEzx0L8Fgi2) | 2:57 | 2026-01-14 | 2026-02-20 |
@@ -673,6 +674,7 @@
 | [Neon Dreaming](https://open.spotify.com/track/5SsOc7C3CtRl77BV5ALe3p) | [Saimöö](https://open.spotify.com/artist/5lmROWXyhhJDAH65lZLDKt), [Bobby John](https://open.spotify.com/artist/6QI1mcZG5nePp3poiPUYJD) | [Neon Dreaming](https://open.spotify.com/album/6ckTA85aCzjpVV6zH45E1B) | 2:22 | 2025-11-24 | 2026-01-05 |
 | [Never Grow Old](https://open.spotify.com/track/3QJfmcr1a0c86MCgLzaHnM) | [The How](https://open.spotify.com/artist/09hG1ZJdYeCJo1nB66BJzW) | [Never Grow Old](https://open.spotify.com/album/67tAHAkXWexrEUoucXOkao) | 3:31 | 2025-12-16 | 2026-01-15 |
 | [Never Is the Scariest Word](https://open.spotify.com/track/26Nwpmx9vEPuuTZrNauzaF) | [DJ Ames](https://open.spotify.com/artist/3G8xVeQjjIQgl0pECOI3ce) | [When The Credits Roll](https://open.spotify.com/album/3JI4IbgtEvRGRo7q5Q54iu) | 3:04 | 2025-12-15 | 2026-01-15 |
+| [Never Meet Again](https://open.spotify.com/track/412lpqcx14nRzxB3orTega) | [VrginVeinz](https://open.spotify.com/artist/64fmTLGcnTv4hohdOUDE1z) | [Never Meet Again](https://open.spotify.com/album/3kRTgFuPKEhcIiwyJBHVoj) | 1:03 | 2026-06-12 |  |
 | [New Beginning](https://open.spotify.com/track/0j8MBA8Z4UWqEuuKxLQLVJ) | [C\-Blanch](https://open.spotify.com/artist/3P4f8K6ylyCWcD8sP23BhM), [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [New Beginning](https://open.spotify.com/album/1NvoxvesaqQU9i10LeyQjH) | 2:12 | 2026-01-11 | 2026-02-07 |
 | [New Moon](https://open.spotify.com/track/2WY2eFNIJbb304F9VKbhqE) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu) | [Green House](https://open.spotify.com/album/31bUl1V0mz4jLtXEBbV32q) | 3:11 | 2026-03-12 | 2026-04-12 |
 | [Next to Where You Are](https://open.spotify.com/track/6QNExFOxoIw3QvqHD74Gtt) | [Chris Carbon](https://open.spotify.com/artist/6JxWjdVW8CVnrdgj1ZMjfT) | [Next to Where You Are](https://open.spotify.com/album/2EQmEvcmOOo08UY6z8hSFu) | 4:16 | 2026-04-21 | 2026-06-05 |
@@ -1054,6 +1056,7 @@
 | [Truth for Lies](https://open.spotify.com/track/4HozmRQnEWTChIfyu7Aj7z) | [Remedies](https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN) | [Truth for Lies](https://open.spotify.com/album/1EccCV6oBwVfTDojfNZ8qh) | 3:25 | 2026-04-24 | 2026-06-05 |
 | [Tu ausencia](https://open.spotify.com/track/6rJGg89ohWCGPpNFqF7oyS) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Todo le di](https://open.spotify.com/album/0hBx33VEllkcMu4KYo3Po4) | 2:46 | 2025-11-25 | 2026-01-05 |
 | [Tu dead](https://open.spotify.com/track/2dzUsfe63mL1mnFRPaEqCn) | [Broddie](https://open.spotify.com/artist/4Snxx0KPNwzHd250S9CmF5) | [Tu dead](https://open.spotify.com/album/3Af6pXOtY0GYF7VJIlRVYN) | 3:37 | 2026-05-07 | 2026-05-14 |
+| [Tu Primera](https://open.spotify.com/track/2YlY78siKTJAfYyLF1yAB4) | [Carmen Ferrer](https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk) | [Tu Primera](https://open.spotify.com/album/7ad6EW2XS1NfyktvuJl1uz) | 3:30 | 2026-06-12 |  |
 | [Tu sei il mattino \- Piano Session](https://open.spotify.com/track/63anGwrNVIxGxz0OMzssTm) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Tu sei il mattino \(Piano Session\)](https://open.spotify.com/album/7IpfxmHboA90UemDiIkqYM) | 3:24 | 2025-12-21 | 2026-01-15 |
 | [Tu Teri Baatein...](https://open.spotify.com/track/5W8haJYeMtvytreTyf6E3o) | [Kundan Agarwalla](https://open.spotify.com/artist/5Xyy1yRLlKiSVSgGUdqpHW) | [Tu Teri Baatein...](https://open.spotify.com/album/2Lf1m77LUrTrEo9k7a9nWv) | 3:06 | 2026-04-30 | 2026-06-05 |
 | [Tu último trofeo](https://open.spotify.com/track/1yrl0BSUQYUWIiQFEpzMdt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [Tu último trofeo](https://open.spotify.com/album/1WKho2AuLC6z9jeFdjhkPt) | 3:06 | 2026-02-11 | 2026-03-15 |

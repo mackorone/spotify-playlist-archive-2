@@ -2,9 +2,9 @@
 
 ### [ALT\_QC](https://open.spotify.com/playlist/37i9dQZF1DX03FBMYrWi0n)
 
-> L’alternatif québécois à plein volume\. Photo: Le Belladone
+> L’alternatif québécois à plein volume\. Photo: La Sécurité
 
-556 songs - 1 day 7 hr 36 min
+562 songs - 1 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,10 +22,12 @@
 | [Aalto B Side](https://open.spotify.com/track/5Bwt7WzKBg2LiY3W5ltGut) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Aalto B Side](https://open.spotify.com/album/4c98gIHATZ6QDHWjcReeMD) | 1:40 | 2025-12-12 | 2025-12-19 |
 | [Accident](https://open.spotify.com/track/2TO7vvluSBxNRCBBSR34B5) | [VINCENT KHOUNI](https://open.spotify.com/artist/7JCnd0ZS2KdbkXSRGUemf8) | [Accident](https://open.spotify.com/album/06HTIjcP9rX3SPbzrkROCK) | 4:01 | 2026-03-06 |  |
 | [Acid Nine](https://open.spotify.com/track/3786wxOSINUx0aounTnzMB) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Acid Nine](https://open.spotify.com/album/03GijOWQz5bB7MkOq4zE54) | 3:01 | 2026-05-08 | 2026-05-23 |
+| [across the line](https://open.spotify.com/track/1HAcWxQUHS5iKhAjW41XH6) | [nowhere else to be](https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw) | [across the line](https://open.spotify.com/album/5BYIa7vnIZKaBPeP63VyDH) | 3:33 | 2026-06-12 |  |
 | [Adieux](https://open.spotify.com/track/42sl6gsdJVJICsTcIHXS5b) | [Carences](https://open.spotify.com/artist/7I02FqOdSUVUkRU6l9IDlC) | [Violences](https://open.spotify.com/album/55nG03ltAhwElNsGbRSyd4) | 3:11 | 2025-11-14 | 2026-02-28 |
 | [Adored](https://open.spotify.com/track/0GI3owvXNAFtvDoT0au9Wm) | [Victorella](https://open.spotify.com/artist/5aKOpGunZT9FMzufHYekUW) | [Victorella](https://open.spotify.com/album/3NYiGLSVW7TLysfqmcy5lr) | 4:35 | 2026-05-15 |  |
 | [Adélaïde](https://open.spotify.com/track/3BqfWNtzt4miHR7qPAZC7J) | [Loïc Lafrance](https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI) | [La peur est une fleur](https://open.spotify.com/album/55e9SLoKU8ENxvtO3CVmzt) | 3:04 | 2024-09-13 | 2025-10-18 |
 | [AFROKEB](https://open.spotify.com/track/0NLl5MwUQmTh0ffWpz5OC1) | [Fyore](https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk) | [AFROKEB](https://open.spotify.com/album/6bkiRHngNUqWoG2mDtARW0) | 2:34 | 2026-06-05 |  |
+| [after i left](https://open.spotify.com/track/60aUv5itfZGvZzG1dT8h4K) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [after i left](https://open.spotify.com/album/2ZPESXoOOXb1uV9oYfX18A) | 1:53 | 2026-06-12 |  |
 | [Ah ouin](https://open.spotify.com/track/1W6VCZ9DPxgpgIGRgYmjL8) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Rencontrer looloo](https://open.spotify.com/album/5p5o5lAkjxOMk6wPHgtfrP) | 2:30 | 2023-04-28 | 2023-11-18 |
 | [Ah ouin](https://open.spotify.com/track/4JVe6FuY32Bl8oJberHU5E) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Rencontrer Looloo](https://open.spotify.com/album/3yvFPD3YJenurvdHAxxDcg) | 2:30 | 2024-04-19 | 2025-10-11 |
 | [Ah Ouin](https://open.spotify.com/track/715ogeJXR3EL4ISDjiVdhe) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Rencontrer Looloo](https://open.spotify.com/album/2YcDBVyl0OuRS2mda5jCgG) | 2:30 | 2023-02-10 | 2023-04-29 |
@@ -350,6 +352,7 @@
 | [Mélamine](https://open.spotify.com/track/0JtMrH5khKzzjDztgZrpkI) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh) | 2:50 | 2023-02-10 | 2024-05-05 |
 | [Météore](https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [Météore](https://open.spotify.com/album/1ZsojG5afqwXS0Nj6ZazDC) | 2:17 | 2026-05-22 |  |
 | [N'importe Où Sauf Ici](https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [L'air d'aller \(Musique de la série télévisée\)](https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO) | 2:26 | 2023-08-18 | 2025-10-11 |
+| [Nah Nah](https://open.spotify.com/track/0oIwCUL8r2XDNYcYZ2PuuD) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Bingo!](https://open.spotify.com/album/6TRNx1xO2gLDKHd85qtNOC) | 2:07 | 2026-06-12 |  |
 | [Necktie](https://open.spotify.com/track/4HtW4zq3bonOxyGJPasIVh) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [Necktie](https://open.spotify.com/album/5eTwDrcHWPrgCOI2x6VDNd) | 2:43 | 2026-05-22 |  |
 | [Never](https://open.spotify.com/track/5sZgAMlmxIL2WxnJzHTsA6) | [Welcome John](https://open.spotify.com/artist/1SYfOJn0EeqCnfBabrsCTd) | [Never](https://open.spotify.com/album/5798SKT0DGEiiQwsOmEEEq) | 3:55 | 2024-09-13 | 2025-10-11 |
 | [Nice Run Bird](https://open.spotify.com/track/4l8fvJGyoKvw44gJAvUgH5) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM), [Peypo](https://open.spotify.com/artist/7D7yN2p2MviPXKWhem5dNc) | [Nice Run Bird](https://open.spotify.com/album/0KpVhya92wRg7h5ItzUJYL) | 2:25 | 2025-11-28 | 2026-03-21 |
@@ -368,6 +371,7 @@
 | [NYMPHE](https://open.spotify.com/track/2iuKnXbOy7qIYzeevDi5nC) | [Le Belladone](https://open.spotify.com/artist/0TBSo7QjxPiIOrnkIzCCwu) | [NYMPHE](https://open.spotify.com/album/5E5t7syiUM4PYEeb4SJXgO) | 4:02 | 2026-02-20 | 2026-03-28 |
 | [Nyx](https://open.spotify.com/track/5atArqWjcTEjYuoEODbwHU) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 3:07 | 2023-02-10 | 2023-07-01 |
 | [Né pour flâner](https://open.spotify.com/track/1u4UEzziL9XmmpgOr3RQFG) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [Né pour flâner](https://open.spotify.com/album/4uwzzDLfZ1pcdCRGexEWRp) | 2:17 | 2025-02-14 | 2025-10-25 |
+| [Obsession](https://open.spotify.com/track/6tw0iHPsE9RGPRl7gHs9ht) | [Brothel in Belize](https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH) | [Obsession](https://open.spotify.com/album/45tBeqa7LFHFxoE6fYlbdT) | 2:09 | 2026-06-12 |  |
 | [Océan 4 & 5](https://open.spotify.com/track/0HmpFsOnV9jp9gIiIZrYNv) | [Oktoplut](https://open.spotify.com/artist/3JhCTaasUfomDsJQk0SYpj) | [Inselberg](https://open.spotify.com/album/7BRb058xjRVoKUyp021x7l) | 5:50 | 2026-05-01 | 2026-05-23 |
 | [OK](https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Disruption](https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8) | 3:13 | 2023-02-10 | 2025-10-11 |
 | [OMG \(oiseau\)](https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Totalement Sublime](https://open.spotify.com/album/6MQXmQjOXqN47I1y3172Td) | 4:03 | 2023-02-24 | 2025-09-26 |
@@ -484,6 +488,7 @@
 | [Sucker Born Every Minute](https://open.spotify.com/track/4h3b2PmjjHeLBsjZtpGR3A) | [The Fake Friends](https://open.spotify.com/artist/5kUo5px2DcGcD6RRV2R4jz) | [Let's Not Overthink This](https://open.spotify.com/album/4np6szGjqUgeak75Opf2qV) | 3:20 | 2026-02-14 | 2026-05-16 |
 | [Sudation](https://open.spotify.com/track/7hWG3WtGtKtkiWf0ZwRyc6) | [Les Lunatiques](https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1) | [Sudation](https://open.spotify.com/album/1IwxMJRiYNAxmppVqSuVhq) | 3:54 | 2025-11-21 | 2026-03-07 |
 | [Super Impose](https://open.spotify.com/track/28hxJxxV9MexXi4XV3kS4N) | [Last Waltzon](https://open.spotify.com/artist/79T273iKWd4Tfji4eQlst2) | [Super Impose / Live Leak](https://open.spotify.com/album/25TN1b8Dfcs4ZirgsiF3wT) | 2:57 | 2026-02-14 | 2026-03-28 |
+| [Superstar](https://open.spotify.com/track/2Ku0H3lqNDnm6G4kls95TD) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Superstar](https://open.spotify.com/album/3jGaPbBCDtJ7ebpf3dRvnu) | 5:37 | 2026-06-12 |  |
 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2023-02-10 | 2025-10-11 |
 | [Sweet montérégie](https://open.spotify.com/track/5cdHmyc2mbTB7Dzaj3Dsbw) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/5J54uEsmf08ml6uDxOUxU3) | 3:49 | 2023-10-27 | 2024-04-19 |
 | [Sweet Montérégie](https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr) | 3:49 | 2023-02-10 | 2023-08-03 |
@@ -551,6 +556,7 @@
 | [You Put the Fear in Me](https://open.spotify.com/track/0uJAWqKLR4sf5VNtVDs1P5) | [Dante's Paradise](https://open.spotify.com/artist/4VzpH52IFQ86CZn9KVYd5J) | [You Put the Fear in Me](https://open.spotify.com/album/2tXG7cN6aNxefC1TNn4tDS) | 4:50 | 2026-03-06 | 2026-03-28 |
 | [You're Watching Live](https://open.spotify.com/track/26ABCUYrX8zo3TkwBUP3Gn) | [Dante's Paradise](https://open.spotify.com/artist/4VzpH52IFQ86CZn9KVYd5J) | [You're Watching Live](https://open.spotify.com/album/6E8lyHualSxESUFEfZ3oa1) | 3:25 | 2026-04-10 | 2026-05-23 |
 | [Your mother from the nineties](https://open.spotify.com/track/64yzYx98ZpbTFsEDFFTWj9) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Your mother from the nineties](https://open.spotify.com/album/1XtMsSe3jx7xIvtvQbj0Hp) | 2:52 | 2026-04-10 |  |
+| [À chaque fois \(PROBLÈME\)](https://open.spotify.com/track/4DYxxONkSYlch0HiFc7gtD) | [César Schmidt](https://open.spotify.com/artist/6JCfHp1xDphhq31AO6dFys) | [Mords dans la vie](https://open.spotify.com/album/6QUbWOpf4RtAWybueFJTQI) | 2:57 | 2026-06-12 |  |
 | [À quoi tu penses](https://open.spotify.com/track/7tS2TnBWC05xJ0GXLZ9kTD) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [À quoi tu penses](https://open.spotify.com/album/5NRQmMRMrQHhzkfrZe9DFa) | 3:56 | 2023-04-28 | 2023-06-09 |
 | [Ça part avec toi](https://open.spotify.com/track/6FDTHYLa4jRRAZiUbH5zdI) | [Romeo Rhubarbe](https://open.spotify.com/artist/10EVMbGMg7bpgsR5m5MQit) | [Minivan](https://open.spotify.com/album/4igqExBKaFZ8dZe1MyOL7z) | 4:02 | 2025-11-07 | 2026-02-21 |
 | [Éclats](https://open.spotify.com/track/5kO31qpPg2qlIJ7rKA4YeI) | [Aléatoire](https://open.spotify.com/artist/2JRumJlhEUldbSC3uUSnZI) | [Éclats](https://open.spotify.com/album/532JNf4itn7WIAfEDvXENN) | 2:39 | 2026-05-29 |  |

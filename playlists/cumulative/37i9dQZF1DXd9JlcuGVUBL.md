@@ -2,9 +2,9 @@
 
 ### [Country Musiek](https://open.spotify.com/playlist/37i9dQZF1DXd9JlcuGVUBL)
 
-> Die beste country musiek\. Omslag: Kacey Musgraves
+> Die beste country musiek\. Omslag: Cordelia
 
-268 songs - 14 hr 50 min
+271 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Crying In The Rain](https://open.spotify.com/track/0ggzUgUkwFxNrXdNDe4lfU) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa), [Mark Beling](https://open.spotify.com/artist/6XuQauMi5r2sQiiek0lz7V) | [Crying In The Rain](https://open.spotify.com/album/6eVqKwcleqvmIHMOt5cFFo) | 3:06 | 2024-09-12 | 2024-09-24 |
 | [Damn Love](https://open.spotify.com/track/7uuMtZ0IkdybIPJvvwfHaI) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/1fvyi30P2ZxqMqtxd6wTai) | 3:10 | 2024-02-09 | 2024-09-13 |
 | [Dancin' In The Stars](https://open.spotify.com/track/627prN1Fich2Z7u0zttQat) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Dancin' In The Stars](https://open.spotify.com/album/5I8QMWeW9JjS1NHNyAcaFd) | 3:19 | 2024-09-05 | 2025-03-29 |
+| [Dare You](https://open.spotify.com/track/3wos9kuQV7y5N4RUJ6WjB5) | [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [Dare You](https://open.spotify.com/album/7gWN8mHoRB43DMsk2Z84n0) | 2:26 | 2026-06-12 |  |
 | [Darlin'](https://open.spotify.com/track/69nGnXCmSpxnlY2L0RJ5id) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Texas Forever](https://open.spotify.com/album/2Ob2sg38jCEu6s25riXlPe) | 3:22 | 2025-07-25 | 2025-08-01 |
 | [Darling It's You](https://open.spotify.com/track/1GIhiutOHkM9MHBDLFNCq3) | [Edward Smith](https://open.spotify.com/artist/29vJag8DLsma1DaKKfg2r5) | [Darling It's You](https://open.spotify.com/album/40c9D4W9ongthvBimDdTHN) | 3:13 | 2025-03-06 | 2025-03-15 |
 | [Days Like These](https://open.spotify.com/track/43G4X78UwHJJL9UnpzrbLx) | [Daniel Wesley Africa](https://open.spotify.com/artist/4w3PTTbh4IqNnjzAYgpsoX) | [Days Like These](https://open.spotify.com/album/3elEcF7quIryVQkJ3pZ5Yn) | 3:54 | 2024-11-08 | 2024-11-16 |
@@ -114,6 +115,7 @@
 | [Home](https://open.spotify.com/track/5x3yY9PowNbGRIOyHVbIUp) | [BlackByrd](https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm) | [Home](https://open.spotify.com/album/6mcCn2Dy4hTUX5jiFV7Cpm) | 3:23 | 2025-08-07 | 2025-12-12 |
 | [Hometown](https://open.spotify.com/track/7FsuOh45ILYfnT6Z9kbuUg) | [Maren Lein](https://open.spotify.com/artist/5KSwZiOZLgVyZBJya03dpq) | [Hometown](https://open.spotify.com/album/0tY0wD2plh4fIeaGVNR6y7) | 3:01 | 2025-05-22 | 2025-05-30 |
 | [Honeybee](https://open.spotify.com/track/1Zf4uRhtfWbMK9a8My3S03) | [Glen Rozi](https://open.spotify.com/artist/6Liu3EYo1uZ0lSaolz8y7n) | [Honeybee](https://open.spotify.com/album/68yZOyJg1hfnWfcpq0q1UI) | 2:40 | 2025-09-25 | 2025-12-12 |
+| [Horseback](https://open.spotify.com/track/5AvPZT0oHmQewNNbrv6cHr) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Horseback](https://open.spotify.com/album/0fFdJJRfSRvm1LyLB5jomf) | 2:48 | 2026-06-12 |  |
 | [Household](https://open.spotify.com/track/6MB7n0DXS9aEFcHkM3L9ff) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Household](https://open.spotify.com/album/2FZWouLd9aPwZB8PyPiPKn) | 2:51 | 2025-03-28 | 2025-04-04 |
 | [How Far Will We Take It?](https://open.spotify.com/track/453CeQGjxlMGaokntLtz5x) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 2:52 | 2024-05-09 | 2024-08-10 |
 | [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 | 2025-01-30 | 2025-12-18 |
@@ -157,7 +159,7 @@
 | [Margarita \- Radio Edit](https://open.spotify.com/track/1UxThsYEDHx9uizqppUGgi) | [Bobby Angel](https://open.spotify.com/artist/47SWGmsz29f3rlBH0qXr0w), [Rocking Horse](https://open.spotify.com/artist/3BXcquYnU1qZCRbE7IczLn) | [Margarita \(Radio Edit\)](https://open.spotify.com/album/2wslTLywJE0GpGS0PKZkpB) | 3:38 | 2025-04-24 | 2025-05-02 |
 | [Maybe My Baby](https://open.spotify.com/track/3lcbd1EnJrVl2gWeQnZHfJ) | [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ) | [Maybe My Baby](https://open.spotify.com/album/0F8MksmxSo8spHZifIP0qQ) | 3:28 | 2024-06-13 | 2024-07-05 |
 | [Me Most Nights](https://open.spotify.com/track/4BvaS7w9Cu0Psc8VGwXFDh) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Me Most Nights](https://open.spotify.com/album/1GO6f9KNUrqQKufeKGS0qc) | 2:39 | 2025-04-03 | 2025-04-11 |
-| [Middle of Nowhere](https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb) | 2:36 | 2026-04-17 |  |
+| [Middle of Nowhere](https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb) | 2:36 | 2026-04-17 | 2026-06-13 |
 | [Mielies](https://open.spotify.com/track/2FM1y1sLwGLEhfzuUFNaUd) | [Zandri](https://open.spotify.com/artist/2d4saNK84qEsfaPw26tjPq) | [Mielies](https://open.spotify.com/album/0tYrnEISwOL15Rcuz1Xb1L) | 2:54 | 2025-08-28 | 2025-09-20 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-02 |  |
 | [Mulcair Road](https://open.spotify.com/track/3TqBb0sI0oXZqy9LFMQykc) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Mulcair Road](https://open.spotify.com/album/70hsR0QI8ssdyHYJhxmCbh) | 3:30 | 2025-03-07 | 2025-03-15 |
@@ -227,7 +229,7 @@
 | [Stof Skop](https://open.spotify.com/track/6i3liOlaFt1evquWjWbZkx) | [Jan\-Mattys](https://open.spotify.com/artist/5Kd1RDCB4eWgLd9t8EGDv8) | [Stof Skop](https://open.spotify.com/album/6kpLZnD6pGWSTZV9A48Kmx) | 3:15 | 2025-01-16 | 2025-01-24 |
 | [Stuur Groete Aan Mannetjies Roux](https://open.spotify.com/track/6v0JSAP65aVqaYGRqYAjCM) | [Armand Hofmeyr](https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh) | [Stuur Groete Aan Mannetjies Roux](https://open.spotify.com/album/1P7KYbh3WG4e2I9TtblTQ0) | 2:39 | 2025-01-16 | 2025-01-24 |
 | [Superman](https://open.spotify.com/track/1KMKBWBQEB0wdGlV7WR6JV) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Superman](https://open.spotify.com/album/50FjwV4STrHP5aHLRAye4P) | 3:08 | 2025-05-09 | 2025-05-23 |
-| [Sweet Dreams](https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sweet Dreams](https://open.spotify.com/album/733zbDkHarKvnvoJkouK34) | 2:53 | 2024-05-16 |  |
+| [Sweet Dreams](https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sweet Dreams](https://open.spotify.com/album/733zbDkHarKvnvoJkouK34) | 2:53 | 2024-05-16 | 2026-06-13 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-03-07 | 2024-09-24 |
 | [Texas Hold 'Em](https://open.spotify.com/track/7MHaEHj7udLdE7JoEGkdWn) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Texas Hold 'Em](https://open.spotify.com/album/6zcu1kS7T5DGxKqHGiOmqD) | 3:31 | 2024-08-15 | 2024-09-13 |
 | [The Brink \(Single\)](https://open.spotify.com/track/5hr0V9XWF2U4eNa9udhIfe) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [The Brink \(Single\)](https://open.spotify.com/album/3w137vq1Zrbyrx3BjkyRjl) | 3:07 | 2024-12-12 | 2025-01-17 |
@@ -254,6 +256,7 @@
 | [What Hurts The Most](https://open.spotify.com/track/288SBnV65NZ4NgsOmoINhM) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [What Hurts The Most](https://open.spotify.com/album/2DZobefozyw6OtL3NNYK4w) | 3:31 | 2025-05-01 | 2025-05-10 |
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 | 2025-05-22 |  |
 | [What Kinda Man](https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [What Kinda Man](https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM) | 4:19 | 2024-09-12 | 2024-09-24 |
+| [When I'm Gone](https://open.spotify.com/track/4u5XzrHO0w17YdLRBCEKrR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:26 | 2026-06-12 |  |
 | [When Love Turns to Lies](https://open.spotify.com/track/21fAYsQMr7U08fayOZ0uDQ) | [Rock the Boat](https://open.spotify.com/artist/6thZnAuP1GhobU38ag8ojX) | [When Love Turns to Lies](https://open.spotify.com/album/1NkvaWjfi4X39kI0WkiN2d) | 3:13 | 2025-05-29 | 2025-06-17 |
 | [Where The Wild Things Are](https://open.spotify.com/track/64A4uUdTYHLYZ2TSKZV6A6) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [About Last Night](https://open.spotify.com/album/0gZPTH0ayDDEhUhDWAxvR7) | 3:56 | 2024-09-05 | 2025-04-11 |
 | [WHERE YOU'LL FIND ME](https://open.spotify.com/track/0XxfzXtECJyHoDXzidruzQ) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [WHERE YOU'LL FIND ME](https://open.spotify.com/album/5LOSkN1kUg1sgZ15rSqoO1) | 2:58 | 2025-08-14 | 2025-08-29 |
@@ -273,7 +276,7 @@
 | [Wys My Jou Beloftes](https://open.spotify.com/track/3FORl4fewosAIBfuLCGIht) | [John Rock Prophet](https://open.spotify.com/artist/00UBWcI4O1TYxYXKrc7Fbw) | [Wys My Jou Beloftes](https://open.spotify.com/album/29HC456ycUp936DIw0etj8) | 3:09 | 2025-10-02 | 2025-12-12 |
 | [Yes, I Know](https://open.spotify.com/track/3v7RvFFJkYMQU1m7VF9Qp0) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Yes, I Know](https://open.spotify.com/album/3IebSqR46WJAtVMSwJZPOn) | 3:43 | 2025-05-22 | 2025-07-04 |
 | [You Do You](https://open.spotify.com/track/74jY5B5WMUemuNPolWOKTq) | [BlackByrd](https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm) | [You Do You](https://open.spotify.com/album/35Z5A8JksOQabtYl8rYcfu) | 2:48 | 2024-11-07 | 2024-11-30 |
-| [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk) | 3:40 | 2025-05-09 |  |
+| [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk) | 3:40 | 2025-05-09 | 2026-06-13 |
 | [You Still Got It](https://open.spotify.com/track/13tMf761hDpFCGUiSZcNhk) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [2.0](https://open.spotify.com/album/4cHDMUgQiIMYMe3QjWFgi7) | 3:27 | 2025-06-19 | 2025-06-27 |
 | [You're making me want this](https://open.spotify.com/track/4MMFFVrP9RNJyymZAQkeJ3) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa) | [Am I Lily?](https://open.spotify.com/album/610M2r8hktU4vjuZXauN9G) | 3:07 | 2025-01-30 | 2025-02-28 |
 

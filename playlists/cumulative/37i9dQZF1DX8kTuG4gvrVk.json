@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "ANTES DE QUE SEA TARDE",
+        "url": "https://open.spotify.com/album/7z513StymZaeATXNoCBeDr"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191160,
+      "name": "abusadOra (tambores)",
+      "url": "https://open.spotify.com/track/1thaOV3ltF9gn3if93fyRo"
+    },
+    {
+      "album": {
         "name": "ADIVINO",
         "url": "https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl"
       },
@@ -392,7 +414,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
@@ -532,7 +554,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -1303,6 +1325,28 @@
     },
     {
       "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "album": {
         "name": "LA FORMULA",
         "url": "https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA"
       },
@@ -1390,10 +1434,32 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 207600,
       "name": "De Lejitos",
       "url": "https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8"
+    },
+    {
+      "album": {
+        "name": "La Voz Favorita",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "De Lejitos - Remix",
+      "url": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo"
     },
     {
       "album": {
@@ -2114,6 +2180,24 @@
       "duration_ms": 242333,
       "name": "FAKE LOVE",
       "url": "https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR"
+    },
+    {
+      "album": {
+        "name": "FANTAS\u00cdA",
+        "url": "https://open.spotify.com/album/0qotDgu0CuYiWrg2JvaTSs"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186212,
+      "name": "FANTAS\u00cdA",
+      "url": "https://open.spotify.com/track/5hWpXZOs7vpz0JD3CIylsb"
     },
     {
       "album": {
@@ -6088,7 +6172,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 193654,
       "name": "SUERTE",
       "url": "https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6"

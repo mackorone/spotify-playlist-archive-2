@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de mayo 2026. Cover: Rels B",
-  "num_followers": 1558568,
+  "num_followers": 1559150,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -503,26 +503,6 @@
     {
       "added_at": "2026-05-29 21:30:24",
       "album": {
-        "name": "DFWE",
-        "url": "https://open.spotify.com/album/1m8EV0hEQGQvgtmVylnsdT"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 183187,
-      "name": "DFWE",
-      "url": "https://open.spotify.com/track/1xAs0WBZBD8wItZIuGJWRs"
-    },
-    {
-      "added_at": "2026-05-29 21:30:24",
-      "album": {
         "name": "CANDELA",
         "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 183044,
       "name": "D\u00f3nde, C\u00f3mo y Cu\u00e1ndo?",
       "url": "https://open.spotify.com/track/2a6SSmS7AVSTZ9CoxNGl8Y"
+    },
+    {
+      "added_at": "2026-05-29 21:30:24",
+      "album": {
+        "name": "DFWE",
+        "url": "https://open.spotify.com/album/1m8EV0hEQGQvgtmVylnsdT"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 183187,
+      "name": "DFWE",
+      "url": "https://open.spotify.com/track/1xAs0WBZBD8wItZIuGJWRs"
     },
     {
       "added_at": "2026-05-29 21:30:24",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-05-29 21:30:24",
       "album": {
+        "name": "Pero Me Da\u00f1aste",
+        "url": "https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "duration_ms": 214805,
+      "name": "Pero Me Da\u00f1aste",
+      "url": "https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ"
+    },
+    {
+      "added_at": "2026-05-29 21:30:24",
+      "album": {
         "name": "Antes De Ti",
         "url": "https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 197376,
       "name": "Nueva Era",
       "url": "https://open.spotify.com/track/5Es0RTYY29zVwtg0rrM91S"
-    },
-    {
-      "added_at": "2026-05-29 21:30:24",
-      "album": {
-        "name": "Pero Me Da\u00f1aste",
-        "url": "https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ"
-      },
-      "artists": [
-        {
-          "name": "Ilusion Eterno",
-          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
-        }
-      ],
-      "duration_ms": 214805,
-      "name": "Pero Me Da\u00f1aste",
-      "url": "https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ"
     },
     {
       "added_at": "2026-05-29 21:30:24",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-05-29 21:30:24",
       "album": {
-        "name": "Power Ballad",
-        "url": "https://open.spotify.com/album/3mb9jcjOHpLjzqJ1us7x6P"
+        "name": "Seadoo",
+        "url": "https://open.spotify.com/album/7nT9N003PTCWvNdx4KxwYM"
       },
       "artists": [
         {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+          "name": "Rub\u00ed",
+          "url": "https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ"
         }
       ],
-      "duration_ms": 232493,
-      "name": "Power Ballad",
-      "url": "https://open.spotify.com/track/5gOjb6qeRHH4CScUkqTFZ6"
+      "duration_ms": 160000,
+      "name": "Seadoo",
+      "url": "https://open.spotify.com/track/0J1j75w9TvUqvPCyWMR3Jw"
     }
   ],
   "unique_name": "Lo mejor del mes",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "Nuovi brani di Angelina Mango e Marco Mengoni,  Olivia Rodrigo, ANOTR,  W Sound con J Balvin e Ovy On The Drums, FloyyMenor con Gabito Ballesteros e tanti altri.",
+  "description": "Nuovi brani di Angelina Mango e Marco Mengoni,  Olivia Rodrigo, ANOTR, Feid e Sfera Ebbasta, W Sound con J Balvin e Ovy On The Drums e tanti altri.",
   "name": "New Music Friday Italia",
   "tracks": [
     {
@@ -75185,6 +75185,32 @@
     },
     {
       "album": {
+        "name": "ICONIC BY MISTAKE",
+        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177982,
+      "name": "ICONIC BY MISTAKE",
+      "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
+    },
+    {
+      "album": {
         "name": "ICONICA",
         "url": "https://open.spotify.com/album/6e0w7kkYJeaGM3oIfYOjfL"
       },
@@ -80848,6 +80874,28 @@
       "duration_ms": 184030,
       "name": "It's Okay",
       "url": "https://open.spotify.com/track/6wknpvAiR5znvNoKjhFLU9"
+    },
+    {
+      "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199196,
+      "name": "It's So Nice (ft. 3DDY)",
+      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
     },
     {
       "album": {
@@ -122907,6 +122955,28 @@
     },
     {
       "album": {
+        "name": "Cutting Thread",
+        "url": "https://open.spotify.com/album/2l3soHjdwpJifx0Nn7Jh1N"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        },
+        {
+          "name": "Warrior Queen",
+          "url": "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194568,
+      "name": "Party Criminal",
+      "url": "https://open.spotify.com/track/3fRURTdeiyrZMRKpyFtDbE"
+    },
+    {
+      "album": {
         "name": "Party People",
         "url": "https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy"
       },
@@ -127072,6 +127142,28 @@
       "duration_ms": 183673,
       "name": "PIENSE A T\u2019ANNAMMUR\u00c1",
       "url": "https://open.spotify.com/track/1pRctZZmX9tVE330JUDN9U"
+    },
+    {
+      "album": {
+        "name": "EL MOCO VERDE",
+        "url": "https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173774,
+      "name": "PIENXA EN MI",
+      "url": "https://open.spotify.com/track/4MR5DmTbTZUA9asyyUmJgP"
     },
     {
       "album": {
@@ -168255,24 +168347,6 @@
     },
     {
       "album": {
-        "name": "Cutting Thread",
-        "url": "https://open.spotify.com/album/2l3soHjdwpJifx0Nn7Jh1N"
-      },
-      "artists": [
-        {
-          "name": "Surusinghe",
-          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/3fRURTdeiyrZMRKpyFtDbE"
-    },
-    {
-      "album": {
         "name": "PI\u00d9 CHE SOLIDO",
         "url": "https://open.spotify.com/album/1p4XYB6kR49pnvbdBJibCT"
       },
@@ -168306,24 +168380,6 @@
       "duration_ms": 0,
       "name": "Track 5",
       "url": "https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2"
-    },
-    {
-      "album": {
-        "name": "Withness",
-        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
     },
     {
       "album": {

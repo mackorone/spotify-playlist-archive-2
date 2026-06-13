@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: PJ Morton
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,655 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,667 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 19 | [Mercy](https://open.spotify.com/track/70b52gyy9fRkXhPfQ38hnN) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mercy](https://open.spotify.com/album/0JkOeQSX2cFvxqBsWI2uhJ) | 2:27 |
 | 20 | [He's On The Way](https://open.spotify.com/track/4LojJDouYhCOJdpg2ZVDjL) | [Tasha Page\-Lockhart](https://open.spotify.com/artist/5zZQLaa0QywvY1HZdOAR3w) | [He's On The Way](https://open.spotify.com/album/7c07GxZpTUOvHDt8iJKFJL) | 3:12 |
 | 21 | [Hello God \- Radio Edit](https://open.spotify.com/track/3F7OrUTHFZylP0QcVCmc9S) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Hello God \(Radio Edit\)](https://open.spotify.com/album/28JfrEJzBcctCRRPkybsJh) | 3:59 |
-| 22 | [We Pray](https://open.spotify.com/track/2sy5wBrwnEDlOyYgL8SdTm) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This \(Deluxe Edition\)](https://open.spotify.com/album/69WCyVxbWHRWxWcTZmDhlP) | 6:02 |
+| 22 | [We Pray](https://open.spotify.com/track/1pEOwIwQP3GoONiFfpCoSS) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This \(Deluxe Edition\)](https://open.spotify.com/album/0RuwuHO9xhkquxXhG5HXpM) | 6:02 |
 | 23 | [Redeemed \- Live](https://open.spotify.com/track/0b0itI0G0JoDRHjPBOn67i) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Redeemed \(Live\)](https://open.spotify.com/album/2YKpKKfCf5x1kAsS4eh8fa) | 3:39 |
 | 24 | [Black Boy \(feat\. Jon Batiste\)](https://open.spotify.com/track/5uasQWigsUutS50i4cRpMz) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Black Boy \(feat\. Jon Batiste\)](https://open.spotify.com/album/5Ps4aUroz2P4lCVZyn1P4i) | 3:27 |
 | 25 | [The Old Rugged Cross \- Spotify Singles](https://open.spotify.com/track/7zvRdGXBx4ypKHzXwnmk58) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [The Old Rugged Cross \(Spotify Singles\)](https://open.spotify.com/album/6PPQduXeIf3ShWuJJGOg58) | 3:08 |

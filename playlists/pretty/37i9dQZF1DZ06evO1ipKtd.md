@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ipKtd.md) - [plain]
 
 > This is Nala Sinephro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142 likes - 18 songs - 56 min 47 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,141 likes - 18 songs - 56 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ipKtd.md) - [plain]
 | 17 | [Continuum 2](https://open.spotify.com/track/66O3YWGFyDk1UWhi8BTGMF) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 7:01 |
 | 18 | [Mark II](https://open.spotify.com/track/79cVFC9tcll7AhnOjJOlme) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [The Smashing Machine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LPmqGCKhFHS5Fw8WyaKY8) | 1:29 |
 
-Snapshot ID: `aiipAAAAAABJQWb5L0voOM5HOzCgN3I7`
+Snapshot ID: `ain6gAAAAAAC3kJsN4QV1ZUBenmgevdk`

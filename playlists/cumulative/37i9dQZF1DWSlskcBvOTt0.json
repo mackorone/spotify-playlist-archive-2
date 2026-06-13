@@ -3268,7 +3268,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 208524,
       "name": "Blower",
       "url": "https://open.spotify.com/track/0fC67A99zxU0gzhLibyTsK"
@@ -5818,7 +5818,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 203229,
       "name": "Don't Mind",
       "url": "https://open.spotify.com/track/3ozto6sQWW5OhYFIRoFI5w"
@@ -12812,6 +12812,28 @@
       "duration_ms": 449137,
       "name": "Macaca",
       "url": "https://open.spotify.com/track/45RzwacUaLLNhDYXLTmaGL"
+    },
+    {
+      "album": {
+        "name": "Macho",
+        "url": "https://open.spotify.com/album/3UjAbo0BXxVm8YASitir9v"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262188,
+      "name": "Macho",
+      "url": "https://open.spotify.com/track/1lfrEfIqFx5uUrJInBub0n"
     },
     {
       "album": {
@@ -24208,6 +24230,24 @@
       "duration_ms": 295081,
       "name": "Wonderful Life - JOSEPH Remix",
       "url": "https://open.spotify.com/track/6OxIJz7VmPSDCtrQrmRNHe"
+    },
+    {
+      "album": {
+        "name": "Spiralen & Wo\u00b4s Patric?!?",
+        "url": "https://open.spotify.com/album/1S9fmm3qMb9BzJA9AjZewm"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464000,
+      "name": "Wo\u00b4s Patric?!?",
+      "url": "https://open.spotify.com/track/0SbwJZ37eiEaWIxIP7dS8c"
     },
     {
       "album": {

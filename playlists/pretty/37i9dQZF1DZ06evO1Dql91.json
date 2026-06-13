@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 2727,
+  "num_followers": 2731,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAADIMgdPxtIlXje2LxNu1gWl",
+  "snapshot_id": "ain6gAAAAACsLwT1PqpfkDxab9m6QmWi",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hater's Anthem (Sped Up)",
-        "url": "https://open.spotify.com/album/7Jm3OI7cJLCCn22qe43lw9"
+        "name": "Infinity Song LIVE",
+        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 155971,
-      "name": "Hater's Anthem - Sped Up",
-      "url": "https://open.spotify.com/track/7IfFgAh3A3mUBgbo6Lx2Rk"
+      "duration_ms": 89235,
+      "name": "Hater's Reprise - Live",
+      "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity Song LIVE",
-        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
+        "name": "Hater's Anthem (Sped Up)",
+        "url": "https://open.spotify.com/album/7Jm3OI7cJLCCn22qe43lw9"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 89235,
-      "name": "Hater's Reprise - Live",
-      "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
+      "duration_ms": 155971,
+      "name": "Hater's Anthem - Sped Up",
+      "url": "https://open.spotify.com/track/7IfFgAh3A3mUBgbo6Lx2Rk"
     },
     {
       "added_at": null,

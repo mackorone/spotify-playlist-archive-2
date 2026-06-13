@@ -4,7 +4,7 @@
 
 > We Outsideeeee!
 
-126 songs - 6 hr 11 min
+128 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [5:30](https://open.spotify.com/track/2QNi1aSK4TnQBqn7ZZvNEp) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn) | [5:30](https://open.spotify.com/album/5o6irrqosnuRimxVpkokv5) | 3:34 | 2026-05-15 | 2026-06-12 |
 | [99 \(feat\. Daecolm\)](https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [99 \(feat\. Daecolm\)](https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv) | 4:08 | 2025-10-24 | 2026-05-22 |
 | [Agenda](https://open.spotify.com/track/6GRVM5wxyW45UMpgreSWW6) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Agenda](https://open.spotify.com/album/1WJBC1VH6AkS5JXChdxcf1) | 2:16 | 2025-10-24 | 2026-02-27 |
+| [Akosua Broni](https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Sexy Highlife](https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi) | 2:07 | 2026-06-12 |  |
 | [AMEN](https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 3:23 | 2026-01-14 |  |
 | [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 | 2026-05-22 |  |
 | [ASANA](https://open.spotify.com/track/3unkTgCb5VBehD5EBcNgB5) | [Mr Blayy](https://open.spotify.com/artist/2wmlFVbnzQl8344TDxdAiZ), [Fahim Dumba](https://open.spotify.com/artist/3rQMvcltVUru8FC92uY56R) | [ASANA](https://open.spotify.com/album/1IX1PCNExmr3K5ExB8faqK) | 1:29 | 2026-04-29 |  |
@@ -48,6 +49,7 @@
 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 | 2025-10-24 | 2026-05-22 |
 | [Fever II](https://open.spotify.com/track/4kcoQCoBdUt9VBJDTsZ5KV) | [Raevin](https://open.spotify.com/artist/1Rn5xVELEoqHc9BPRPwSTv), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Fever II](https://open.spotify.com/album/2KE52ZTSClpoqFlRUIvrPH) | 3:31 | 2025-10-24 | 2026-02-27 |
 | [Figure Say](https://open.spotify.com/track/0FHC1TCjY49MvH1BL7cpv4) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Dapper Diaries](https://open.spotify.com/album/4Vz9qbPahSuPlcbbTDKnIb) | 2:20 | 2025-12-19 | 2026-05-22 |
+| [Find A Way](https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Find A Way](https://open.spotify.com/album/2ecM4rRHCVgxRGB5RZV5yK) | 2:34 | 2026-06-12 |  |
 | [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 | 2025-10-24 |  |
 | [Gabaya](https://open.spotify.com/track/4mSRQspSNU7xkAuCtdhggi) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC) | [Gabaya](https://open.spotify.com/album/4LyY5dGgOvL0LzlT6NR4Wy) | 2:02 | 2025-10-24 | 2025-12-19 |
 | [Genie Baby](https://open.spotify.com/track/3uI4pCvoglYfqg0kmlSaOb) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Diamond Baby](https://open.spotify.com/album/0G9kMkpwJPvgSBHmiHTFdh) | 2:28 | 2026-05-01 | 2026-05-15 |
@@ -97,9 +99,9 @@
 | [Puul](https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Puul](https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj) | 2:52 | 2025-10-24 |  |
 | [RARRI](https://open.spotify.com/track/6D2lZx4sPzNy3wPYnIgz2o) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [RARRI](https://open.spotify.com/album/6rv3Dz8xETv0F9exOfIv6C) | 2:10 | 2026-05-22 |  |
 | [Real Thing](https://open.spotify.com/track/2FkPTIoTRM5oF0IzqdOp9e) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Real Thing](https://open.spotify.com/album/3eBBdUae9jnILYuCweK1yA) | 2:28 | 2025-10-24 | 2026-03-17 |
-| [Rebel Music](https://open.spotify.com/track/6Yao9XJedGa6cFON02GIVV) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Rebel Music](https://open.spotify.com/album/2Cp4EexmXeDgaxOe2ldAZT) | 2:41 | 2026-05-22 |  |
+| [Rebel Music](https://open.spotify.com/track/6Yao9XJedGa6cFON02GIVV) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Rebel Music](https://open.spotify.com/album/2Cp4EexmXeDgaxOe2ldAZT) | 2:41 | 2026-05-22 | 2026-06-13 |
 | [Remember](https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 3:02 | 2025-10-24 | 2026-05-22 |
-| [Road Clear](https://open.spotify.com/track/0l187qGuX2ItgULWOjoRVW) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Road Clear](https://open.spotify.com/album/3GxQNJBWPUtsAXR3dsdgYp) | 2:54 | 2026-05-22 |  |
+| [Road Clear](https://open.spotify.com/track/0l187qGuX2ItgULWOjoRVW) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Road Clear](https://open.spotify.com/album/3GxQNJBWPUtsAXR3dsdgYp) | 2:54 | 2026-05-22 | 2026-06-13 |
 | [ROOTS](https://open.spotify.com/track/78i4GOdyumIDNV5gVSB1ra) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [ROOTS](https://open.spotify.com/album/7zBtA9nV22Xkz776jcA8Rh) | 4:09 | 2026-01-14 | 2026-02-01 |
 | [Rotation](https://open.spotify.com/track/3kd7SEgutk0Dkp3S6VnasJ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Rotation](https://open.spotify.com/album/3iyvH9o2nOjTLLJinOObnj) | 2:02 | 2026-05-15 |  |
 | [Run](https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:32 | 2025-10-24 |  |

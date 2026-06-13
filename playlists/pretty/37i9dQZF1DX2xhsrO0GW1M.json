@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1047112,
+  "num_followers": 1046940,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Winter Solstice",
-        "url": "https://open.spotify.com/album/76ZPEP13Boqv4Da5XihzG0"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 236240,
-      "name": "Winter Solstice",
-      "url": "https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "The Music",
         "url": "https://open.spotify.com/album/7AGI3bMM4IkVK8HmCedIaZ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 293346,
       "name": "Take The Long Road And Walk It",
       "url": "https://open.spotify.com/track/2R3PlaE5R66NhyTEqwryDj"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Winter Solstice",
+        "url": "https://open.spotify.com/album/76ZPEP13Boqv4Da5XihzG0"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 236240,
+      "name": "Winter Solstice",
+      "url": "https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Surfer Rosa (Remastered)",
-        "url": "https://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI"
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW"
       },
       "artists": [
         {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 236973,
-      "name": "Where Is My Mind?",
-      "url": "https://open.spotify.com/track/6mcxQ1Y3uQRU0IHsvdNLH1"
+      "duration_ms": 241546,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7zkDEBSxkcBVsStS4qBFpK"
     }
   ],
   "unique_name": "Indiespensables",

@@ -2,9 +2,9 @@
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Marracash
+> Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-370 songs - 18 hr 55 min
+371 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [STUPIDO](https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:07 | 2022-04-28 |  |
 | [Superstite](https://open.spotify.com/track/5WfBKsWx0hxCEsviZ5QVqk) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 3:33 | 2025-10-24 | 2025-12-12 |
 | [Svuotatasche](https://open.spotify.com/track/4cF8xXRteGQypocjEOtdAd) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 3:51 | 2022-04-28 | 2022-05-20 |
+| [Sì ce staje \(feat\. Jake La Furia\)](https://open.spotify.com/track/58AnqLggbDh11FOarEbKP8) | [Hal Quartièr](https://open.spotify.com/artist/5eSrt3y7HWtkmuAFGeMbBj), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Mentre Napoli Dorme](https://open.spotify.com/album/1Ibb5WqsQcgfgHZwL3nWjZ) | 2:35 | 2026-06-12 |  |
 | [Tanti Soldi \(feat\. Geolier\)](https://open.spotify.com/track/0omPQQDtT8c1UZ5n7cVNFS) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 3:33 | 2023-11-30 | 2023-12-15 |
 | [Tardi \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/4HOKazI3kyLZQWbT5AItaY) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:33 | 2025-12-12 |  |
 | [TASTO DOLENTE](https://open.spotify.com/track/6vRbAMXqJcnOxcn8rEYjkw) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Achille G](https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1) | [TASTO DOLENTE](https://open.spotify.com/album/56Vc6dnUSbvpkVIGlsVXu4) | 2:30 | 2025-10-03 | 2025-11-21 |

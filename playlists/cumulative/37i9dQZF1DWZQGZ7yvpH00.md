@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Adrian L Santos en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Julio Caesar en portada.
 
-638 songs - 1 day 11 hr 8 min
+639 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [Mr\. Lonely](https://open.spotify.com/track/3YT3IRkNg5MASgmQTo2l8R) | [L Prince](https://open.spotify.com/artist/2ErRPnVLCqRTx7hJE4a7gg), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [Mr\. Lonely](https://open.spotify.com/album/4ph0fKRffMlUs9iPUR1haB) | 2:51 | 2026-04-17 |  |
 | [Mujer De Piedra](https://open.spotify.com/track/0PoS4YxvlnJ5cjiDY23xbq) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Mujer De Piedra](https://open.spotify.com/album/1ZmARcKTx2aAdFHL8I8nDj) | 2:13 | 2025-07-18 | 2025-10-04 |
 | [Mujer en Llamas](https://open.spotify.com/track/3gp4xc1YIFGZQbIDDFJxE1) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Mujer en Llamas](https://open.spotify.com/album/0IOG7wAPgE4LXUzefgY7Nf) | 3:08 | 2024-10-25 | 2024-11-30 |
-| [MUY TARDE](https://open.spotify.com/track/7bySTyYfywVExkv4JrhVsL) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [MUY TARDE](https://open.spotify.com/album/4HzpewoBZEdj2paX1tuJtb) | 3:22 | 2026-03-27 |  |
+| [MUY TARDE](https://open.spotify.com/track/7bySTyYfywVExkv4JrhVsL) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [MUY TARDE](https://open.spotify.com/album/4HzpewoBZEdj2paX1tuJtb) | 3:22 | 2026-03-27 | 2026-06-13 |
 | [Nada es Igual](https://open.spotify.com/track/3ExycM3hsqRMC4FAOcFT9k) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Nada es Igual](https://open.spotify.com/album/3cRTveeXfjce0BqnFDcped) | 2:25 | 2024-01-26 | 2024-04-06 |
 | [Nadie](https://open.spotify.com/track/0sacNu1VADSB1VzA0WfKJ8) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [VERSATILIDAD](https://open.spotify.com/album/4zYr8sSOd4useCJT2I7921) | 4:16 | 2024-05-03 | 2024-06-01 |
 | [Neta](https://open.spotify.com/track/6Q2UhuLaPUlC9VANQOjPxo) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:59 | 2024-06-07 | 2025-09-13 |
@@ -467,6 +467,7 @@
 | [regalametutiempo](https://open.spotify.com/track/67dAEz6RgbY2v3sc6cSc04) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [regalametutiempo](https://open.spotify.com/album/2ZamtazBIQlLM8pPcJvPZs) | 3:01 | 2026-05-23 |  |
 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 | 2022-09-02 | 2023-01-14 |
 | [RELOJ](https://open.spotify.com/track/2DXK0YNGSqnaIEX5iaSIoK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:52 | 2024-06-21 | 2025-09-06 |
+| [replica.](https://open.spotify.com/track/5Bae75jc8KHMTatYOqnoTR) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [PROYECTANDO](https://open.spotify.com/album/3ojnQILwWc6ohZQVxtETHI) | 2:47 | 2026-06-12 |  |
 | [Rewind](https://open.spotify.com/track/1Oo5QV1XmVlNaCAithR23t) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Rewind](https://open.spotify.com/album/3BcDq7RJRxlNHNU5gphQ38) | 2:26 | 2025-10-03 | 2025-12-27 |
 | [RLUX](https://open.spotify.com/track/3BdKQmGT9NVR3wQP9rNkf2) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [RLUX](https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo) | 3:40 | 2024-04-05 | 2024-05-18 |
 | [Romántico Sin Esperanza](https://open.spotify.com/track/67svGSol1sZToqPpQApfeu) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Romántico Sin Esperanza](https://open.spotify.com/album/4FoLGkUz69nw3aba09YOaV) | 2:56 | 2025-05-23 | 2025-08-30 |

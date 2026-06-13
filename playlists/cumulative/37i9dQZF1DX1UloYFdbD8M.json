@@ -4903,6 +4903,24 @@
     },
     {
       "album": {
+        "name": "Love Aane",
+        "url": "https://open.spotify.com/album/1Oc0eIlY34NIimW6j7671L"
+      },
+      "artists": [
+        {
+          "name": "Rijo Joseph",
+          "url": "https://open.spotify.com/artist/2IKBpkVsFxQgRP1PB58RmQ"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161379,
+      "name": "Love Aane",
+      "url": "https://open.spotify.com/track/0HZUKYUkqQ9xYXDoQp4e69"
+    },
+    {
+      "album": {
         "name": "KALEIDOSCOPE",
         "url": "https://open.spotify.com/album/4BDnFfBd0mqYdWcpyIBYZQ"
       },
@@ -8416,6 +8434,28 @@
       "duration_ms": 200546,
       "name": "Rasayayo | The Story Teller",
       "url": "https://open.spotify.com/track/1eHQIi86wj1FmFOdNhxrOv"
+    },
+    {
+      "album": {
+        "name": "Ravil Melle",
+        "url": "https://open.spotify.com/album/1QIqQeOYSlvLw4UerigY16"
+      },
+      "artists": [
+        {
+          "name": "AjOopaan",
+          "url": "https://open.spotify.com/artist/2Y145zR3OhtZPZtQoEqIJY"
+        },
+        {
+          "name": "Din Nath Puthenchery",
+          "url": "https://open.spotify.com/artist/544us7nRzGWKYu1qfTML83"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Ravil Melle",
+      "url": "https://open.spotify.com/track/5lBRUGwkC8irqHyIKQRkF9"
     },
     {
       "album": {

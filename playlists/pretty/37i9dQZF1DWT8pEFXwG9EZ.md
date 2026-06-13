@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,799 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,838 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 56 | [The Thrombey Family Theme](https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 1:47 |
 | 57 | [Joe's Lowdown Blues](https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 0:36 |
 | 58 | [Nuit sur les Champs\-Élysées \- Take 4 \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/5dHLPt7OofZXs8hG1tJjyC) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 3:00 |
-| 59 | [On The Sunny Side Of The Street](https://open.spotify.com/track/3w4x6Xd6hSHzR2G1VeHVzP) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sy Oliver's Orchestra](https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY) | [The Very Best Of Louis Armstrong](https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC) | 5:49 |
-| 60 | [Don't Look Up \- Main Title Suite \- Bonus Track](https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 4:08 |
+| 59 | [Don't Look Up \- Main Title Suite \- Bonus Track](https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 4:08 |
+| 60 | [On The Sunny Side Of The Street](https://open.spotify.com/track/3w4x6Xd6hSHzR2G1VeHVzP) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sy Oliver's Orchestra](https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY) | [The Very Best Of Louis Armstrong](https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC) | 5:49 |
 | 61 | [The Girl From Ipanema](https://open.spotify.com/track/2mtyh0yAPdSm79JJwpB2KW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Bossa Nova \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SJvJ5VhlstKHuNhhizy3B) | 5:23 |
 | 62 | [That's Amore](https://open.spotify.com/track/4oAUu2DDEAgDIWdoelMx5I) | [Harry Warren](https://open.spotify.com/artist/6vOhSMuCQ8BXVkLJOamR8Z), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Moonstruck \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN) | 3:06 |
 | 63 | [Linus And Lucy](https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Peanuts Greatest Hits \(Music From The TV Specials\)](https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U) | 3:06 |

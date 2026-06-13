@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 267742,
+  "num_followers": 267775,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAAD4W+FsyDzTTTxdqmldc9QN",
+  "snapshot_id": "ain6gAAAAACNuZYDugU60MH3EivNVqRs",
   "tracks": [
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ashin' the Blunt (with Young Thug)",
-        "url": "https://open.spotify.com/album/4y46BTmwP9S67I2GgecbEL"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Ashin' the Blunt (with Young Thug)",
-      "url": "https://open.spotify.com/track/5adWDt4mPuryG0IoC1ZKu1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "pick up the phone (feat. Quavo)",
         "url": "https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 252262,
       "name": "pick up the phone (feat. Quavo)",
       "url": "https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ashin' the Blunt (with Young Thug)",
+        "url": "https://open.spotify.com/album/4y46BTmwP9S67I2GgecbEL"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Ashin' the Blunt (with Young Thug)",
+      "url": "https://open.spotify.com/track/5adWDt4mPuryG0IoC1ZKu1"
     },
     {
       "added_at": null,

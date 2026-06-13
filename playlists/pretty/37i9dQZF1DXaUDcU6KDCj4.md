@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Army, The Navy
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,615 likes - 159 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,833 likes - 159 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 13 | [Now & Then](https://open.spotify.com/track/5XWB9AS8o5nseDCf1YodVz) | [Zach Seabaugh](https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2) | [Now & Then](https://open.spotify.com/album/1nTmkFbrrq3YPOahCFVu2J) | 2:52 |
 | 14 | [In Love with the Quiet](https://open.spotify.com/track/29dGc4ovA6xSpjuuhjWXQc) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [In Love with the Quiet](https://open.spotify.com/album/3kGsQMQRoCHlE2kiT9Sy0x) | 3:54 |
 | 15 | [Illinois Again](https://open.spotify.com/track/2VjZpK6FAhMxfJwBDMBeij) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Illinois Again](https://open.spotify.com/album/46ogyvsglHfzceKTtzcbNN) | 3:56 |
-| 16 | [When The Dawn Breaks](https://open.spotify.com/track/2pyTm14T04nkS3VPzRMscM) | [Charlie Noordewier](https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk) | [Joy & Despair](https://open.spotify.com/album/3kC0MOqq6vxjAsFcTf52NY) | 4:15 |
+| 16 | [When The Dawn Breaks](https://open.spotify.com/track/2pyTm14T04nkS3VPzRMscM) | [Charlie Noordewier](https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk) | [Joy and Despair](https://open.spotify.com/album/3kC0MOqq6vxjAsFcTf52NY) | 4:15 |
 | 17 | [Changes](https://open.spotify.com/track/6qlaTClZ1MjRRgG1DFCgSm) | [Alex Amen](https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM) | [Changes](https://open.spotify.com/album/0ykS7dhuuOX88fMSEFFEmn) | 3:50 |
 | 18 | [Maybe I](https://open.spotify.com/track/18jYNWSbg6MkuZUFBzZOIO) | [HAMISH](https://open.spotify.com/artist/0vZ9bgfKD1AXIsJCIzqKsq) | [Maybe I](https://open.spotify.com/album/13nUB2necu9oI2YY7DvnVb) | 3:32 |
 | 19 | [One Thing Right](https://open.spotify.com/track/5Jx40fAGeIzY9HtQ96j5D5) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [One Thing Right](https://open.spotify.com/album/6U4XW7tTYLKtnecGaQsB6c) | 3:39 |

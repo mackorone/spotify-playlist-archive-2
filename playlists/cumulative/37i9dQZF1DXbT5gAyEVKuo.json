@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Praise the Lord with all your heart as you sing along to these Gospel Worship songs. Cover: DOE",
+  "description": "Praise the Lord with all your heart as you sing along to these Gospel Worship songs. Cover: Red Worship",
   "name": "Gospel Worship",
   "tracks": [
     {
@@ -344,6 +344,24 @@
       "duration_ms": 642124,
       "name": "Amaram Onyewem - Live",
       "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/2nMsv9V69rHdbNINLJuPWw"
+      },
+      "artists": [
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550000,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/5yxLHZnfVldRA7Gj9BtzOw"
     },
     {
       "album": {
@@ -710,7 +728,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 540000,
       "name": "Broken Pieces",
       "url": "https://open.spotify.com/track/4Go1h3lxxvLvQAu0VH2APR"
@@ -840,6 +858,32 @@
       "duration_ms": 398117,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/3PI1XMiWCW2FlQiD5diVW7"
+    },
+    {
+      "album": {
+        "name": "Christ Our King",
+        "url": "https://open.spotify.com/album/07wyO0idlcvw77mYoFwo3k"
+      },
+      "artists": [
+        {
+          "name": "Red Worship",
+          "url": "https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w"
+        },
+        {
+          "name": "Trinity Anderson",
+          "url": "https://open.spotify.com/artist/6dCn9t1NVjEKPvsBzxrf0h"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375083,
+      "name": "Christ Our King",
+      "url": "https://open.spotify.com/track/5mKp2St38T8KnIU4GbFM2Z"
     },
     {
       "album": {
@@ -1441,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Yesterday \u2022 Today \u2022 Forever",
+        "url": "https://open.spotify.com/album/5IgkurhQtqwTi2p9N2Jf2z"
+      },
+      "artists": [
+        {
+          "name": "Keri Fraser",
+          "url": "https://open.spotify.com/artist/1k6AhoSTw8cOYqPPx8Z8oP"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281893,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0Kf7HbbLGzJuI3sQCZZBcw"
+    },
+    {
+      "album": {
         "name": "Forgive and Forget",
         "url": "https://open.spotify.com/album/0P3yfM1OVAsKuqY8x3kNgT"
       },
@@ -1609,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "Good Plans",
+        "url": "https://open.spotify.com/album/4LAEsUvYwjlssbRdQnsqsd"
+      },
+      "artists": [
+        {
+          "name": "Anthony Evans",
+          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542595,
+      "name": "Good Plans",
+      "url": "https://open.spotify.com/track/4fhI9snXmOxpoh7trwQadv"
+    },
+    {
+      "album": {
         "name": "Believe For It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
       },
@@ -1722,6 +1802,28 @@
       "duration_ms": 901815,
       "name": "Hagiazo - Live",
       "url": "https://open.spotify.com/track/7f1LRhHyMVY7eaefuuCmup"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/07zqZ3Ux5B5RfUSx9UtN8n"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501003,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1uR09SXUN6b4Nx0qS9bSNl"
     },
     {
       "album": {
@@ -1940,6 +2042,28 @@
       "duration_ms": 242790,
       "name": "Heart of Worship",
       "url": "https://open.spotify.com/track/24nHidYHfPkAkdhFvv9tKL"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/7F0jledobkx7zSDnAI11A4"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Revelation Worship",
+          "url": "https://open.spotify.com/artist/7z6UChLz1HZ00M3LPN1zqN"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223578,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/3I3CyeN4kUefehQ607eEHh"
     },
     {
       "album": {
@@ -2282,7 +2406,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 256000,
       "name": "I'd Give It All",
       "url": "https://open.spotify.com/track/3u7mboqBiDk3NmzaTxwnHx"
@@ -2558,6 +2682,28 @@
       "duration_ms": 245536,
       "name": "Jehovah Jireh",
       "url": "https://open.spotify.com/track/0tm57XNMYM3RZ9OY1Aa6vX"
+    },
+    {
+      "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/3wCNNSJYHTRFhh7Kc4tDYb"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494695,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/4fu4P9YKVxcBLU7OyQKlAr"
     },
     {
       "album": {
@@ -3923,6 +4069,24 @@
     },
     {
       "album": {
+        "name": "RIVER FLOW (Live)",
+        "url": "https://open.spotify.com/album/5Lb0gOpbCIBXzU6MtRPe89"
+      },
+      "artists": [
+        {
+          "name": "Esther Jonathan",
+          "url": "https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 647967,
+      "name": "RIVER FLOW - Live",
+      "url": "https://open.spotify.com/track/08odXNEvezN6ztXa6XZyId"
+    },
+    {
+      "album": {
         "name": "Peace: The Album",
         "url": "https://open.spotify.com/album/46V8rvf1x9N0Cca4LD3Y8s"
       },
@@ -3960,6 +4124,28 @@
       "duration_ms": 259588,
       "name": "SEE ME THROUGH (RECOVERY)",
       "url": "https://open.spotify.com/track/1LnkRZLQtjWBpbYtNdqBmb"
+    },
+    {
+      "album": {
+        "name": "Sending Up A Praise",
+        "url": "https://open.spotify.com/album/5Bk8bNvJbRTtPUqSTUtkSp"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360840,
+      "name": "Sending Up A Praise",
+      "url": "https://open.spotify.com/track/5Lwwm1BrY9ThpSVRACUaE6"
     },
     {
       "album": {
@@ -4964,10 +5150,32 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 467125,
       "name": "We Pull On Heaven",
       "url": "https://open.spotify.com/track/3mrqldfyhQndPOFaHDcooW"
+    },
+    {
+      "album": {
+        "name": "We Worship You",
+        "url": "https://open.spotify.com/album/761nroFet61Jlnvs5FAx8c"
+      },
+      "artists": [
+        {
+          "name": "Mera Owili",
+          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
+        },
+        {
+          "name": "SteveHills",
+          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497779,
+      "name": "We Worship You",
+      "url": "https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r"
     },
     {
       "album": {
@@ -5492,7 +5700,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 296000,
       "name": "You're Not Finished",
       "url": "https://open.spotify.com/track/3rH3Jge1u3YF1fsi2hkBwu"

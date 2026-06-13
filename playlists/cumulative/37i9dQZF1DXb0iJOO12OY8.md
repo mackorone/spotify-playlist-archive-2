@@ -4,7 +4,7 @@
 
 > Heia Norge 🇳🇴⚽️🏟️
 
-238 songs - 11 hr 1 min
+239 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 | 2024-08-15 | 2024-08-30 |
 | [Ring meg opp](https://open.spotify.com/track/6CNjrSMafnMTIDqklY7F99) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Ring meg opp](https://open.spotify.com/album/1FG8tvdPFJpv1ZA4vQu00P) | 2:12 | 2024-09-19 | 2024-12-08 |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2024-06-27 | 2026-05-29 |
+| [Run It Up](https://open.spotify.com/track/0ANz6ln4aPmnmZLzPz7Zb7) | [Carew](https://open.spotify.com/artist/2teqa2WUJYcNlfrtcpgxrB), [Tshawe](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [Run It Up](https://open.spotify.com/album/0mNEGhM09RqeU8FwDRJzcL) | 2:17 | 2026-06-12 |  |
 | [Run It Up](https://open.spotify.com/track/3zylEBiAOPq3OBBdtpB5M4) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Run It Up](https://open.spotify.com/album/2WJfge21aAzDJOMX5QOFy1) | 2:27 | 2024-10-17 | 2026-05-29 |
 | [Ryker på'a igjen](https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ryker på'a igjen](https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf) | 2:25 | 2025-07-31 | 2025-10-03 |
 | [Røde Rubin](https://open.spotify.com/track/0Pdi9usvND947TMv869DmN) | [Plaza](https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ) | [Røde Rubin](https://open.spotify.com/album/6Yrm9gEwrSFWgsIDgr7YbI) | 2:36 | 2024-06-27 | 2024-09-24 |

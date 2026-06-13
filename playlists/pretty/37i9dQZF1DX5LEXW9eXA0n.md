@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: Sung Si Kyung\(성시경\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,318 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,320 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Late Night Talks](https://open.spotify.com/track/52QCOtIb0R1VNw4PF5NbOA) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Terror Man Ending \(Original Soundtrack\)](https://open.spotify.com/album/77MiF7mgIiToecrI9Gb4Pf) | 3:05 |
 | 100 | [Sad Year](https://open.spotify.com/track/14JE55xLelenFIVqWw8yJV) | [NIDA](https://open.spotify.com/artist/577oSCeG3NjUbcgJKiYgvN) | [Sad Year](https://open.spotify.com/album/4eH2ly1nykOGMb7qpInSo7) | 2:42 |
 
-Snapshot ID: `AAAAALJtRyyRN4DdodGA6KkSzXXDAt4N`
+Snapshot ID: `AAAAANhGJtOMJ3xbZKtZie+kVT001vAj`

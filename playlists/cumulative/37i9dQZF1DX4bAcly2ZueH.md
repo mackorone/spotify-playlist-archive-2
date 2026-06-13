@@ -4,15 +4,15 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-207 songs - 10 hr 48 min
+209 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(5,12,3\)](https://open.spotify.com/track/6eIO53JrB4hQEYTTbyoQUG) | [Kuniyoshi Ichi](https://open.spotify.com/artist/48NWDmvL7Z75GSHCLMlQSA) | [\(5,12,3\)](https://open.spotify.com/album/4q7cYJEbLhqgLoEEhQf187) | 3:27 | 2026-03-25 |  |
-| [24/7\(inst\)](https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8) | [shai](https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP) | [24/7\(inst\)](https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9) | 2:21 | 2024-11-20 |  |
+| [24/7\(inst\)](https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8) | [shai](https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP) | [24/7\(inst\)](https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9) | 2:21 | 2024-11-20 | 2026-06-13 |
 | [A Deeper Understanding](https://open.spotify.com/track/3mkvXHxUGTiuEwQvHZ3vW0) | [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [A Miniature Existence](https://open.spotify.com/album/0pLL3CDKtVR7Tb0wX6d9ZT) | 2:41 | 2022-10-11 | 2023-02-15 |
 | [A Deeper Understanding](https://open.spotify.com/track/6BVt6hi3Z7IE2h3bElR6rG) | [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [A Deeper Understanding](https://open.spotify.com/album/4ZInQdWGYfbZJvXnDcx2te) | 2:41 | 2022-10-11 | 2022-11-13 |
-| [A Part Of Me](https://open.spotify.com/track/7oIvBYbS12GF2JBrAH9UMA) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [A Part Of Me](https://open.spotify.com/album/0dLI1kHm9QuFxv5QLEBFNZ) | 2:46 | 2025-01-29 |  |
+| [A Part Of Me](https://open.spotify.com/track/7oIvBYbS12GF2JBrAH9UMA) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [A Part Of Me](https://open.spotify.com/album/0dLI1kHm9QuFxv5QLEBFNZ) | 2:46 | 2025-01-29 | 2026-06-13 |
 | [All the Way](https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 3:55 | 2022-10-11 | 2023-07-12 |
 | [arne](https://open.spotify.com/track/2EbOv3Xq9fnqhIUSxqZgRG) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Schole Collection I](https://open.spotify.com/album/66Hod8g4yngCwSwd7HFGOS) | 3:35 | 2024-03-05 | 2024-07-18 |
 | [arne](https://open.spotify.com/track/7eq7fc6tWLEGpsagJozBY2) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Schole Collection I](https://open.spotify.com/album/20qYMxPGgww0RK99l7d5Gr) | 3:35 | 2022-10-11 | 2022-11-14 |
@@ -25,6 +25,7 @@
 | [Beacon of Hope](https://open.spotify.com/track/13XZN3a9C43gOp6qerBqiB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Beacon of Hope](https://open.spotify.com/album/2vd2Y8qzCWMQ3MdEnHiVyo) | 3:40 | 2022-10-11 |  |
 | [BEAU PAYSAGE](https://open.spotify.com/track/48R1vXBuwMk9RnA2jgt7ju) | [orbe](https://open.spotify.com/artist/3saLukWUrUkKxIDmKlqc1J) | [BEAU PAYSAGE](https://open.spotify.com/album/6VY5RCojySCV3VJszgHKqT) | 5:48 | 2024-03-05 |  |
 | [BEAU PAYSAGE](https://open.spotify.com/track/1gsx2y5VHuGiVtHswvmZms) | [orbe](https://open.spotify.com/artist/3saLukWUrUkKxIDmKlqc1J), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Gen Tanabe](https://open.spotify.com/artist/5fwSjQceWBh8gO7PfG3FX7) | [Orbe / Orbe Feat\. Luca](https://open.spotify.com/album/4Cshw3Vv7DxoAkbVMs84jK) | 5:48 | 2022-10-11 | 2024-04-19 |
+| [bed \- rework](https://open.spotify.com/track/2KsL8zTHdhq9UCoQS828JR) | [横山起朗](https://open.spotify.com/artist/0vlT69d2LzCebohSPMktHr), [sorami](https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98) | [bed \(rework\)](https://open.spotify.com/album/55TlZbTAmCgXIS1aGdQgRS) | 3:55 | 2026-06-12 |  |
 | [Berlin](https://open.spotify.com/track/05enoO7Z5prMUxbHEDJBt7) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/4wQwYHzJSgqbqU7YWioU1A) | 1:38 | 2024-03-05 | 2025-07-16 |
 | [Berlin](https://open.spotify.com/track/341JGRcYGv5ZeGWKYAgq3d) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 1:38 | 2022-10-11 | 2024-04-19 |
 | [Blue](https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Nightfall](https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP) | 2:49 | 2022-10-11 |  |
@@ -169,6 +170,7 @@
 | [Sleepy Story.](https://open.spotify.com/track/5FL7eUhAFgmV6FzrNYbdUO) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 1:55 | 2022-10-11 |  |
 | [Snow Magic](https://open.spotify.com/track/69PrJVBUuRO3Z9b35vGghE) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76), [GOODSHIT](https://open.spotify.com/artist/1IMKwKbUaQp1JbSXwWDr4v) | [Snow Magic](https://open.spotify.com/album/69N60MyR8FKbM0nOrLyPhi) | 3:02 | 2024-07-17 |  |
 | [Somnolent Nova](https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Somnolent Nova](https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv) | 3:03 | 2022-10-11 |  |
+| [Stay Soft](https://open.spotify.com/track/362R52M4cFHYJSYCSeCjj2) | [酒井省吾](https://open.spotify.com/artist/1NdXKWpmi2krr7v6tqQ8jb) | [Stay Soft](https://open.spotify.com/album/5dMwspd4EntWw663p8gIOz) | 2:23 | 2026-06-12 |  |
 | [story about you](https://open.spotify.com/track/2XxJ3ATExZmjEmxHqj1F53) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [story about you](https://open.spotify.com/album/54c5sAtiOXpwzOxWWrPgnx) | 2:56 | 2022-10-11 |  |
 | [Stray Cat](https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Scenery](https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2) | 2:39 | 2022-10-11 |  |
 | [Sundays \- Just Piano Version](https://open.spotify.com/track/2iNjjoEw6W0Y05ykgQWBCK) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/5SE9QAP8pab2Ke1Tce1EeJ) | 3:32 | 2024-03-05 |  |

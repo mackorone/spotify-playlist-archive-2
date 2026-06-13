@@ -4,7 +4,7 @@
 
 > From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation\. Chill vibes \| Romantic dinner 2026 \| Romantische Muziek ❤️ Harry Styles, Bruno Mars, Beyoncé, SZA, Adele, Usher, Alicia Keys, Michael Jackson, John Mayer, John Legend, Rihanna, Ed Sheeran and more.
 
-384 songs - 23 hr 40 min
+385 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [MISS U](https://open.spotify.com/track/48FfsXjz8rd8CLhnIwWQNw) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [MISS U](https://open.spotify.com/album/2ZCGxJ2LtsOmIyIhIrwV24) | 2:31 | 2026-05-19 |  |
 | [More of You](https://open.spotify.com/track/5YIDGLa5vsAMdzDW6jnAKk) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [More of You](https://open.spotify.com/album/3eLtBqvmjRkAjicP140Aec) | 2:34 | 2022-05-27 | 2024-10-05 |
 | [Motorbike](https://open.spotify.com/track/6W2trGwkUVR8mwGSH4Ftpf) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Motorbike](https://open.spotify.com/album/1E4NH1W98mv4PaD3tvf5B9) | 3:08 | 2022-05-27 | 2024-10-05 |
-| [My All](https://open.spotify.com/track/5CKh7fL3ta9OY8yLMp6IzR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly: 25th Anniversary Expanded Edition](https://open.spotify.com/album/3VOqo81Nwyx8rcZEc2l379) | 3:50 | 2024-10-04 |  |
+| [My All](https://open.spotify.com/track/5CKh7fL3ta9OY8yLMp6IzR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly: 25th Anniversary Expanded Edition](https://open.spotify.com/album/3VOqo81Nwyx8rcZEc2l379) | 3:50 | 2024-10-04 | 2026-06-13 |
 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 | 2022-05-27 |  |
 | [My Girl](https://open.spotify.com/track/0szmDue1FCIpLC9SBs7fbU) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [My Girl](https://open.spotify.com/album/19dLWMBcqXwZy0Lv7nxRjb) | 2:57 | 2025-07-25 |  |
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 | 2024-10-04 |  |
@@ -381,6 +381,7 @@
 | [Wherever You Will Go](https://open.spotify.com/track/37qI0mchgzUSeUhPiwUWPY) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [The Best Of...](https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl) | 3:29 | 2026-02-09 |  |
 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:12 | 2024-10-04 |  |
 | [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 | 2022-05-27 | 2024-10-05 |
+| [Wine into Water \(feat\. Elton John\)](https://open.spotify.com/track/5ptZgAvkeGAzQfUFzmmYgb) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wine into Water \(feat\. Elton John\)](https://open.spotify.com/album/4heqPzOuHdsybXGc2NXOCS) | 3:25 | 2026-06-12 |  |
 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 | 2026-01-22 |  |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 | 2024-10-04 |  |
 | [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 | 2022-05-27 | 2024-10-05 |

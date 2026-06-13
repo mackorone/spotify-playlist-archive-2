@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Olivia Rodrigo, Bebe Rexha, Backstreet Boys, なとり and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,372 likes - 98 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,892 likes - 98 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 42 | [Me and You](https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Me and You](https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD) | 3:49 |
 | 43 | [Crash First \(with mgk\)](https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Crash First \(with mgk\)](https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi) | 3:43 |
 | 44 | [back to life](https://open.spotify.com/track/3FYPY4tR6tn5MfAATDGuhj) | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [back to life](https://open.spotify.com/album/6kpAsfDuWnlCUwZ26XfoE5) | 4:15 |
-| 45 | [エンドレディ](https://open.spotify.com/track/2t88H1yVZEu2qHv2bvJMVo) | [神が残した夢を喰う。](https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o) | [エンドレディ](https://open.spotify.com/album/1aguMSMYQX2oCvlLDtUTXz) | 3:53 |
+| 45 | [エンドレディ](https://open.spotify.com/track/2t88H1yVZEu2qHv2bvJMVo) | [Be my Girl](https://open.spotify.com/artist/0f1g7262npe7ZCidh6zdEx) | [エンドレディ](https://open.spotify.com/album/1aguMSMYQX2oCvlLDtUTXz) | 3:53 |
 | 46 | [Roller Coaster](https://open.spotify.com/track/2tRkznFbTVjNEx2oLJnvbJ) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [Roller Coaster](https://open.spotify.com/album/37hOS3QP3vSEyO35cP0aSH) | 2:56 |
 | 47 | [Don't Tell Me It's Over](https://open.spotify.com/track/0mG6f89Na8qlcO9bcwEtWi) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket \(25 Year Anniversary Edition\)](https://open.spotify.com/album/5otlnw7SmrdBwk2Uywc7Bu) | 2:32 |
 | 48 | [Black & Blue \- 2026 Repented](https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Black & Blue \(2026 Repented\)](https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm) | 4:32 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 75 | [Oh!](https://open.spotify.com/track/64NNkNa8HLtOK2CGsOmY5Q) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Songs for Young Lovers](https://open.spotify.com/album/0S3g6dYqQPOXNb4nv3gUOi) | 2:27 |
 | 76 | [C'est La Vie](https://open.spotify.com/track/6PH8uO0RpimMOU5pMmgi7D) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Dancefloor Erotica](https://open.spotify.com/album/7aQhFdYGBss6RCYMa7fwyp) | 3:30 |
 | 77 | [Calling Out For U](https://open.spotify.com/track/7y1sTPYZETnTPkbYPNGOyp) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Calling Out For U / Somebody](https://open.spotify.com/album/7b1tKs4y4qRwoYBh7dEZGm) | 3:03 |
-| 78 | [It's So Nice](https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Withness](https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo) | 3:19 |
+| 78 | [It's So Nice \(ft\. 3DDY\)](https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Withness](https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo) | 3:19 |
 | 79 | [I WANNA FEEL IT ALL](https://open.spotify.com/track/0QxKOd4IHUHG0UvPraaicT) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [I WANNA FEEL IT ALL](https://open.spotify.com/album/02LSdnnb9RS5TM4SCbTVz8) | 2:28 |
 | 80 | [Sayonara](https://open.spotify.com/track/3W2yA6zPsnPWgPs4mg1qB2) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [INFINITY SONG](https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4) | 2:57 |
 | 81 | [Emotionally Unavailable](https://open.spotify.com/track/7o1F6ulLhikRXMNQCHPucR) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Emotionally Unavailable](https://open.spotify.com/album/0DdYnNu0u3iFfbLf0UxlHC) | 2:44 |

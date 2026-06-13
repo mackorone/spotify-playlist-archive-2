@@ -4,7 +4,7 @@
 
 > Olivia Dean keeps the good vibes going all day long
 
-1,076 songs - 2 day 10 hr 1 min
+1,077 songs - 2 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,7 +528,7 @@
 | [Kiss Me](https://open.spotify.com/track/2sbxNpHFyVCOyZMpa5FAJ7) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me \(Guitar\)](https://open.spotify.com/album/64YI1ILJJXcVpgJfJcLbPL) | 3:49 | 2022-10-07 | 2022-10-16 |
 | [Kiss Me](https://open.spotify.com/track/7j1ZJAbcm4AMBf82jIrAH3) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:49 | 2022-11-18 | 2023-02-11 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-07-16 | 2022-10-15 |
-| [KISSBURN](https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [KISSBURN](https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT) | 3:12 | 2026-04-24 |  |
+| [KISSBURN](https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [KISSBURN](https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT) | 3:12 | 2026-04-24 | 2026-06-13 |
 | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny) | 2:28 | 2022-12-09 | 2023-03-04 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-14 | 2022-10-01 |
 | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/album/3tXVxjXrXJMTBXorraiZHQ) | 2:49 | 2022-03-04 | 2022-03-26 |
@@ -608,6 +608,7 @@
 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 | 2025-08-01 |  |
 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 | 2023-09-13 | 2024-02-10 |
 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-08-26 |  |
+| [Manhattan](https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Manhattan](https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m) | 3:35 | 2026-06-12 |  |
 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 | 2023-09-03 | 2023-09-06 |
 | [Marigold](https://open.spotify.com/track/3tToxMlakmNRLtOahT1cYC) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Marigold](https://open.spotify.com/album/6URvgYp7rWMsQE0jppOMBT) | 2:25 | 2020-05-22 | 2021-08-28 |
 | [marry me](https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [marry me](https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1) | 2:37 | 2023-09-01 | 2023-10-07 |

@@ -241,6 +241,28 @@
     },
     {
       "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/6GMGbOPuf2cBkQzjOhSm1X"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164423,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/4Nl32YRv6I3SenFccnCXN2"
+    },
+    {
+      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R"
       },
@@ -576,7 +598,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -826,7 +848,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 170435,
       "name": "Horny Dub",
       "url": "https://open.spotify.com/track/64WXDifwCNu1BuZHEsHi4M"
@@ -1622,7 +1644,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 148448,
       "name": "Runaway Baby",
       "url": "https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr"

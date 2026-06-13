@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: えんぷてい
 
-1,816 songs - 4 day 13 hr 43 min
+1,817 songs - 4 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,7 +858,7 @@
 | [お返事ちょうだい](https://open.spotify.com/track/51zWXsXPyUv1ntzOz7PH6Y) | [AHUB](https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs) | [お返事ちょうだい](https://open.spotify.com/album/5HxVK10LUPm3eHmcx4RrIh) | 2:37 | 2025-11-11 | 2026-02-09 |
 | [きかいにおまかせ](https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [きかいにおまかせ](https://open.spotify.com/album/1gR91YmF2tqpExx7B2bAeK) | 2:58 | 2023-07-27 | 2023-09-06 |
 | [きっとそう](https://open.spotify.com/track/3oWRAADRWKe1PJRSpVqeO2) | [ルサンチマン](https://open.spotify.com/artist/5LvaknCVL7R16LCiSktKEm) | [きっとそう](https://open.spotify.com/album/0FVkOwLZJaP89RFrvyoa9o) | 3:10 | 2025-10-14 | 2025-10-22 |
-| [きらめきだった](https://open.spotify.com/track/2Y3n8cbfyRJoRiNT0Jcgcp) | [omeme tenten](https://open.spotify.com/artist/0uwxPKyoIIT8WIQLYpXSFC) | [きらめきだった](https://open.spotify.com/album/4hrD4p9UPL6Uf9rCT19kEq) | 3:55 | 2026-03-03 |  |
+| [きらめきだった](https://open.spotify.com/track/2Y3n8cbfyRJoRiNT0Jcgcp) | [omeme tenten](https://open.spotify.com/artist/0uwxPKyoIIT8WIQLYpXSFC) | [きらめきだった](https://open.spotify.com/album/4hrD4p9UPL6Uf9rCT19kEq) | 3:55 | 2026-03-03 | 2026-06-13 |
 | [きらめくきもち](https://open.spotify.com/track/1il4JWtRPTqenADdwd1nxw) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [きらめくきもち](https://open.spotify.com/album/3T3gQxuV6JwbF7aBfyjnIv) | 3:47 | 2023-09-12 | 2024-01-10 |
 | [ぎゅっとして、](https://open.spotify.com/track/7EgrXPzuIqfr4a3soz8Dwk) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [ぎゅっとして、](https://open.spotify.com/album/4LzD5Xdc0hq088OeuA0JCH) | 3:21 | 2023-07-27 | 2024-12-18 |
 | [くるくる](https://open.spotify.com/track/3EALix0agClnyHbuqyIMWk) | [Set Free](https://open.spotify.com/artist/36vcyceqhQLnHVZgchCasA) | [くるくる](https://open.spotify.com/album/2IIFKW947pqijY5q6J21Lq) | 3:42 | 2023-07-27 | 2023-08-09 |
@@ -1311,6 +1311,7 @@
 | [ワインディングロード](https://open.spotify.com/track/0zrD38XdjcnWEYqimpUV6s) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ワインディングロード](https://open.spotify.com/album/7Gjyj1I43JmHd86JGDJdOi) | 3:17 | 2025-01-28 | 2025-07-09 |
 | [ワルツ](https://open.spotify.com/track/1guMIQRvz6BLkq6xPKGzg2) | [爛漫天国](https://open.spotify.com/artist/31o6juLBJ6VGkHViziNTyK) | [日々、折り返すごとに](https://open.spotify.com/album/72EYHzseO17Z8n0hDUoCUJ) | 5:25 | 2026-02-24 | 2026-03-04 |
 | [ワンタイムエピローグ](https://open.spotify.com/track/5ihqyte3hZEibOp2xFDAkm) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ワンタイムエピローグ](https://open.spotify.com/album/4yuDiUMUIfaEItFEyTWcme) | 3:34 | 2025-01-07 | 2026-02-12 |
+| [ワンナイト・ドライブ](https://open.spotify.com/track/4zLpMN3AF4fD5tDGJhtZ5I) | [セブンス・ベガ](https://open.spotify.com/artist/4vTpw8jh1edDWj0ATZYgd7) | [ワンナイト・ドライブ](https://open.spotify.com/album/1bfxFkagbljfK81ArbB39k) | 3:42 | 2026-06-09 |  |
 | [ワンルームと幸福論\(下書き\)](https://open.spotify.com/track/3pwVPL9Ois6b4h747xkFQ4) | [帰りの会](https://open.spotify.com/artist/5YXzV93qLK8xNqNy5OKVkJ) | [ワンルームと幸福論\(下書き\)](https://open.spotify.com/album/3kYXPZbrKoQs9kHfsRq44q) | 4:00 | 2024-12-17 | 2025-01-10 |
 | [ワールド](https://open.spotify.com/track/2l7xrbWYunR98alxyRjlZw) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [ワールド](https://open.spotify.com/album/6imGT2DvcwbGE6B6kIa11M) | 4:17 | 2023-09-12 | 2023-09-14 |
 | [一揆](https://open.spotify.com/track/0dVNJHo0xIt3uaCQDUsfve) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [一揆](https://open.spotify.com/album/5ikYdBpLMYXadwfkJIPfje) | 3:13 | 2024-04-16 | 2024-04-24 |

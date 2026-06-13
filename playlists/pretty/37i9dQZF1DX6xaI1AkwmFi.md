@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,667 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,670 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 14 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 |
 | 15 | [Shower!!!!!](https://open.spotify.com/track/2c0uwxb3bkvzV6wsvn5BM2) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Travessia](https://open.spotify.com/album/1AABJwnD3LB9dRkIihBM3J) | 3:39 |
 | 16 | [voicemail](https://open.spotify.com/track/1qQ6cYg7zyWPlQMyryQjvs) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [solitude](https://open.spotify.com/album/4Um3CxQQHfb7aWNuUxvkAb) | 2:30 |
-| 17 | [風と町](https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [風と町](https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W) | 3:38 |
-| 18 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
+| 17 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
+| 18 | [風と町](https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [風と町](https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W) | 3:38 |
 | 19 | [フタリノセカイ](https://open.spotify.com/track/5DutfirTj8Eq463gBQES4Z) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH) | [フタリノセカイ](https://open.spotify.com/album/4vFiwzFinWIQQ0eXFcQq00) | 3:56 |
 | 20 | [savior](https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [savior](https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa) | 2:43 |
 | 21 | [bubble days](https://open.spotify.com/track/6p8BKrC23uEKe3jPUC5Mzc) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [bubble days](https://open.spotify.com/album/4DNQwljwK8Y2shHwubMYqQ) | 4:04 |

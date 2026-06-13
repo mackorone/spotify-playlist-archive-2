@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,483 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,489 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 57 | [Indício de Amor](https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL) | [Telê](https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1) | [Indício de Amor](https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn) | 3:28 |
 | 58 | [Até Depois do Fim](https://open.spotify.com/track/2r8pQbeeV4JBluUo1mlvoo) | [Cleverson Luiz](https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd) | [Até Depois do Fim](https://open.spotify.com/album/6NNBd6rbQFlqBbIReMBUHr) | 3:30 |
 | 59 | [Mercado das Flores](https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [Mercado das Flores](https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup) | 3:10 |
-| 60 | [Dia De Glória](https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Dia De Glória](https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH) | 4:02 |
+| 60 | [Jura](https://open.spotify.com/track/3Uet0zyQWzgLCRBNTKmBgU) | [Orlandivo](https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0) | [A Chave do Sucesso](https://open.spotify.com/album/3DvT2KqKuuP8BWqLUl6wF1) | 2:22 |
 | 61 | [Malandro \- Ao Vivo](https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Carioca da Gema \(Ao Vivo\)](https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5) | 4:16 |
-| 62 | [Jura](https://open.spotify.com/track/3Uet0zyQWzgLCRBNTKmBgU) | [Orlandivo](https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0) | [A Chave do Sucesso](https://open.spotify.com/album/3DvT2KqKuuP8BWqLUl6wF1) | 2:22 |
+| 62 | [Dia De Glória](https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Dia De Glória](https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH) | 4:02 |
 | 63 | [Também Pede Bis](https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY) | [Pedro Miranda](https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l) | [Também Pede Bis](https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D) | 2:51 |
 | 64 | [E o Mundo Não Se Acabou](https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ) | [Mimi Wankenne](https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds) | [E o Mundo Não Se Acabou](https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A) | 2:04 |
 | 65 | [Conselheiro Calado](https://open.spotify.com/track/7MHTISeIULk2TxbJKJDWSO) | [Maurício Tagliari](https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml), [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ) | [Conselheiro Calado](https://open.spotify.com/album/1SWSMAbIToMxu0OIQLPyeN) | 4:01 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 84 | [Aprendi a Ser Feliz](https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx) | [Elisa Fernandes](https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ) | [Saravá, Paz e Bem](https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z) | 3:43 |
 | 85 | [Aquarela](https://open.spotify.com/track/77fp9cdwRrMc4HtuNb9G5L) | [KARINE](https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8) | [Aquarela](https://open.spotify.com/album/52aV0MfMGxHNDrs3A4CVhy) | 3:23 |
 | 86 | [Com Que Roupa?](https://open.spotify.com/track/6n6wwaPId9WkfkBqbBr6mr) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Noel Rosa Songbook](https://open.spotify.com/album/7ePeVwqqLVIDrCIIa33JDJ) | 4:03 |
-| 87 | [Que Pena \(Ele Já Não Gosta Mais De Mim\)](https://open.spotify.com/track/5ShyIBiFw4C1Lc4uYTnQLV) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5awK6pNdQFRLDTNV8c0Bi8) | 3:34 |
-| 88 | [Enquanto Você Não Chega](https://open.spotify.com/track/2C2Y5LuGMxklegoSOc54fC) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Voo Longe](https://open.spotify.com/album/3JPhFJD014NCB2JreVEcuv) | 3:07 |
+| 87 | [Enquanto Você Não Chega](https://open.spotify.com/track/2C2Y5LuGMxklegoSOc54fC) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Voo Longe](https://open.spotify.com/album/3JPhFJD014NCB2JreVEcuv) | 3:07 |
+| 88 | [Que Pena \(Ele Já Não Gosta Mais De Mim\)](https://open.spotify.com/track/5ShyIBiFw4C1Lc4uYTnQLV) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5awK6pNdQFRLDTNV8c0Bi8) | 3:34 |
 | 89 | [Elegante Amanhecer](https://open.spotify.com/track/5fchvll1M0q0GWroKnCVDU) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y) | 3:40 |
 | 90 | [Último Carnaval](https://open.spotify.com/track/1UzgM2NiEYwUIqzdxIx6YW) | [Bruno Capinan](https://open.spotify.com/artist/1BBIHguUeo7dz6dpHA6ThV) | [Leão Alado Sem Juba](https://open.spotify.com/album/0HCSoiMhqBVE30O9Zh5WQU) | 2:37 |
 | 91 | [Samba De Um Minuto](https://open.spotify.com/track/4GwuvVBaYtO7UwQgKMVoTh) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Belo E Estranho Dia Pra Se Ter Alegria](https://open.spotify.com/album/2MqIA0xrVH7qubLhN4JEdZ) | 4:33 |

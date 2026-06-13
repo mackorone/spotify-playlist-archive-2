@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QY0UyROvR8MHKTCwUoUZH.md) - [plain]
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2026 \| Koffie Chill \| Café Music
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,604 likes - 148 songs - 8 hr 18 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,606 likes - 148 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/4QY0UyROvR8MHKTCwUoUZH.md) - [plain]
 | 147 | [In Violet](https://open.spotify.com/track/7z79MoOyPZFBvBlfkkfaPB) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Death in the Business of Whaling](https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl) | 4:09 |
 | 148 | [Die Happy](https://open.spotify.com/track/3EVLd2B0qKPCGItoVz9onn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:49 |
 
-Snapshot ID: `AAARnUz5jSUpTaVoQY/zimop/EpUl937`
+Snapshot ID: `AAARnxJifiTOtLTddMgWF9SEuyhmV0YW`

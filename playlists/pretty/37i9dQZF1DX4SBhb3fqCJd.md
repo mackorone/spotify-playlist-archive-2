@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: Kehlani
+> Where R&B lives\. Cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,095,355 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,094,820 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/6Q1biSMDWjVrtpcZNeAd5A) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 2:42 |
-| 2 | [touch myself](https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [touch myself/idea of love](https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ) | 4:09 |
-| 3 | [Slow Jamz \(feat\. Lucky Daye\)](https://open.spotify.com/track/6nCh6BMQcLAqAerDKprsRf) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:30 |
-| 4 | [What You Need](https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:54 |
-| 5 | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
-| 6 | [Drop The Lo](https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Drop The Lo](https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l) | 2:41 |
+| 1 | [Drop The Lo](https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Drop The Lo](https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l) | 2:41 |
+| 2 | [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/6Q1biSMDWjVrtpcZNeAd5A) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 2:42 |
+| 3 | [touch myself](https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [touch myself/idea of love](https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ) | 4:09 |
+| 4 | [Slow Jamz \(feat\. Lucky Daye\)](https://open.spotify.com/track/6nCh6BMQcLAqAerDKprsRf) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:30 |
+| 5 | [What You Need](https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:54 |
+| 6 | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
 | 7 | [Classic](https://open.spotify.com/track/3hZbi8AG14hRw5Skg7V8pl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [HABIBTI](https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno) | 2:59 |
 | 8 | [FOOL ME ONCE \(feat\. Leon Thomas\)](https://open.spotify.com/track/1cfQL9PukFheShxHQ1vlIK) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 3:18 |
 | 9 | [Let Me](https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu) | 4:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 | 49 | [Come Thru](https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Come Thru](https://open.spotify.com/album/46LbagB4ZLUwslEQPBs4iH) | 2:39 |
 | 50 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
 
-Snapshot ID: `AAAAAKKHhvVk4i+pLmwtTR1G4ztmfFvb`
+Snapshot ID: `AAAAAJwRpGizXB0iZd02qHIevsKP4s/C`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Cici Faramida
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,014 likes - 101 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,013 likes - 101 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

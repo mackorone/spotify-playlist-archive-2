@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 420644,
+  "num_followers": 420667,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-06-12 03:01:49",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        }
-      ],
-      "duration_ms": 217503,
-      "name": "Denso e Dan\u00e7o",
-      "url": "https://open.spotify.com/track/2xhFW63RJ7uFVp333kJ4ON"
-    },
-    {
-      "added_at": "2026-06-12 03:01:49",
-      "album": {
         "name": "Oh! Chuva (Ao Vivo)",
         "url": "https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 194771,
       "name": "Oh! Chuva - Ao Vivo",
       "url": "https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ"
+    },
+    {
+      "added_at": "2026-06-12 03:01:49",
+      "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 217503,
+      "name": "Denso e Dan\u00e7o",
+      "url": "https://open.spotify.com/track/2xhFW63RJ7uFVp333kJ4ON"
     },
     {
       "added_at": "2026-06-12 03:01:49",
@@ -499,26 +499,6 @@
     {
       "added_at": "2026-06-12 03:01:49",
       "album": {
-        "name": "Revolvendo as Raizes",
-        "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
-      },
-      "artists": [
-        {
-          "name": "Tribo De Jah",
-          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
-        },
-        {
-          "name": "Jo\u00e3o Beydoun",
-          "url": "https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM"
-        }
-      ],
-      "duration_ms": 230896,
-      "name": "Bora Chamegar",
-      "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
-    },
-    {
-      "added_at": "2026-06-12 03:01:49",
-      "album": {
         "name": "Em Paz Com o Mundo",
         "url": "https://open.spotify.com/album/6oqchEHdaJHysZvNeNXAqo"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 217500,
       "name": "Em Paz Com o Mundo",
       "url": "https://open.spotify.com/track/0MgmxMEBSIa1PCPNG2DLs0"
+    },
+    {
+      "added_at": "2026-06-12 03:01:49",
+      "album": {
+        "name": "Revolvendo as Raizes",
+        "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
+      },
+      "artists": [
+        {
+          "name": "Tribo De Jah",
+          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
+        },
+        {
+          "name": "Jo\u00e3o Beydoun",
+          "url": "https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM"
+        }
+      ],
+      "duration_ms": 230896,
+      "name": "Bora Chamegar",
+      "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
     },
     {
       "added_at": "2026-06-12 03:01:49",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-06-12 03:01:49",
       "album": {
+        "name": "Am\u00e9frica",
+        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
+      },
+      "artists": [
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "duration_ms": 207378,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
+    },
+    {
+      "added_at": "2026-06-12 03:01:49",
+      "album": {
         "name": "Pipa",
         "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 181740,
       "name": "Pipa",
       "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
-    },
-    {
-      "added_at": "2026-06-12 03:01:49",
-      "album": {
-        "name": "Am\u00e9frica",
-        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
-      },
-      "artists": [
-        {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
-        }
-      ],
-      "duration_ms": 207378,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
     },
     {
       "added_at": "2026-06-12 03:01:49",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-06-12 03:01:49",
       "album": {
+        "name": "Pura Ingratid\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3h5MMdQJZOo5N2Kt4WMVrf"
+      },
+      "artists": [
+        {
+          "name": "Papas Da L\u00edngua",
+          "url": "https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9"
+        }
+      ],
+      "duration_ms": 258260,
+      "name": "Pura Ingratid\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4jsPYyPv2R3z1waJd0EADf"
+    },
+    {
+      "added_at": "2026-06-12 03:01:49",
+      "album": {
         "name": "Que Seja de Alegria",
         "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
       },
@@ -1199,26 +1215,6 @@
       "duration_ms": 174853,
       "name": "Que Seja de Alegria",
       "url": "https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP"
-    },
-    {
-      "added_at": "2026-06-12 03:01:49",
-      "album": {
-        "name": "LEVE",
-        "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
-      },
-      "artists": [
-        {
-          "name": "Thiago Muller",
-          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
-        },
-        {
-          "name": "zebidart",
-          "url": "https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw"
-        }
-      ],
-      "duration_ms": 143023,
-      "name": "LEVE",
-      "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
     },
     {
       "added_at": "2026-06-12 03:01:49",
@@ -1239,6 +1235,26 @@
       "duration_ms": 189480,
       "name": "Na minha cabe\u00e7a",
       "url": "https://open.spotify.com/track/08yon5M1dMBzsTDWxZ6a1T"
+    },
+    {
+      "added_at": "2026-06-12 03:01:49",
+      "album": {
+        "name": "LEVE",
+        "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
+      },
+      "artists": [
+        {
+          "name": "Thiago Muller",
+          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
+        },
+        {
+          "name": "zebidart",
+          "url": "https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw"
+        }
+      ],
+      "duration_ms": 143023,
+      "name": "LEVE",
+      "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
     },
     {
       "added_at": "2026-06-12 03:01:49",
@@ -1323,22 +1339,6 @@
       "duration_ms": 185597,
       "name": "Eu e Voc\u00ea",
       "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
-    },
-    {
-      "added_at": "2026-06-12 03:01:49",
-      "album": {
-        "name": "Pura Ingratid\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3h5MMdQJZOo5N2Kt4WMVrf"
-      },
-      "artists": [
-        {
-          "name": "Papas Da L\u00edngua",
-          "url": "https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9"
-        }
-      ],
-      "duration_ms": 258260,
-      "name": "Pura Ingratid\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/4jsPYyPv2R3z1waJd0EADf"
     },
     {
       "added_at": "2026-06-12 03:01:49",

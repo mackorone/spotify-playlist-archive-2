@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-146 songs - 7 hr 28 min
+147 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Don't Wanna Go Home \(feat\. Henry Camamile\)](https://open.spotify.com/track/6CAiFxfsp5qIOYs5m7kSZX) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Henry Camamile](https://open.spotify.com/artist/3F51YwK7ZvWbmxaBj8qAoB) | [Don't Wanna Go Home \(feat\. Henry Camamile\)](https://open.spotify.com/album/1Vs2Q4ghAOsjUiTQoGDBAn) | 2:37 | 2026-03-27 |  |
 | [Don't Want Your Love](https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:12 | 2026-02-06 |  |
 | [Don’t Leave \(Kylie\)](https://open.spotify.com/track/3rZYXD5bAaKOpJvOyEqSJr) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Don’t Leave \(Kylie\)](https://open.spotify.com/album/5pDOrPKuOlkwVwiYWaENFy) | 3:08 | 2025-07-25 |  |
+| [Door Het Oog Van De Nacht](https://open.spotify.com/track/0uWmcPc7Ie30nyNrsHnTjR) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Door Het Oog Van De Nacht](https://open.spotify.com/album/7BRsfyW9ugAffAfhAo3yim) | 2:54 | 2026-06-12 |  |
 | [dream about u](https://open.spotify.com/track/3M2GqbZhACjU0cGZGBdIxs) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [dream about u](https://open.spotify.com/album/0xNICx56CgafxDR8sV6wiq) | 2:50 | 2026-02-13 | 2026-03-28 |
 | [ego](https://open.spotify.com/track/5PBTKRzy7645Er3nPxTWWK) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [ego](https://open.spotify.com/album/3EQlX84VGFJcYuV4g9frFm) | 2:42 | 2025-10-24 |  |
 | [Electric High](https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Electric High](https://open.spotify.com/album/676PjzaourdD3l6Nb3HpwO) | 2:24 | 2025-07-04 |  |
@@ -59,7 +60,7 @@
 | [Get Away](https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Out Loud](https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY) | 4:28 | 2026-03-17 |  |
 | [Getting Ready For The Party](https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [slash 011 \- Getting Ready For The Party](https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0) | 3:19 | 2025-07-04 | 2026-03-28 |
 | [Ghost town...](https://open.spotify.com/track/38oXrd1MqNYOTdhIpgDYJ1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ghost town...](https://open.spotify.com/album/2Fwcr34Ta0UdWAHtakPLdD) | 2:44 | 2026-04-03 |  |
-| [Go \- Radio Edit](https://open.spotify.com/track/7tkjjxQfD5vqv2a8xy45jT) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Go](https://open.spotify.com/album/2zmxQmCbyMKEflSyHLim0C) | 3:34 | 2026-05-06 |  |
+| [Go \- Radio Edit](https://open.spotify.com/track/7tkjjxQfD5vqv2a8xy45jT) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Go](https://open.spotify.com/album/2zmxQmCbyMKEflSyHLim0C) | 3:34 | 2026-05-06 |  |
 | [Golden \- David Guetta REM/X](https://open.spotify.com/track/5tVnzVWIKrmmuOPGbXUbT4) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Golden \[David Guetta REM/X \(from the Netflix film KPop Demon Hunters\)\]](https://open.spotify.com/album/5DLI2kMdzrauXjS5fB3OFv) | 2:56 | 2025-07-25 |  |
 | [gossip](https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [gossip](https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw) | 3:19 | 2025-07-25 | 2025-09-13 |
 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 | 2025-07-04 |  |

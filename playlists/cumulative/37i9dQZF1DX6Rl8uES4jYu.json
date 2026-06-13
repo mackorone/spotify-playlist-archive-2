@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Back In My Bed",
+        "url": "https://open.spotify.com/album/6eebyp11cjmRjQJZ3UO0K3"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157184,
+      "name": "Back In My Bed",
+      "url": "https://open.spotify.com/track/6pRfdwtWZaAkPm5swHaz5A"
+    },
+    {
+      "album": {
         "name": "Back On the Music!",
         "url": "https://open.spotify.com/album/1am7tyBwvJ4jg43wPue16v"
       },
@@ -3713,6 +3731,40 @@
     },
     {
       "album": {
+        "name": "Gotta Be Us (Be The People)",
+        "url": "https://open.spotify.com/album/6DB9aJSH9YGNlQLWBRYalw"
+      },
+      "artists": [
+        {
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Luke Borchelt",
+          "url": "https://open.spotify.com/artist/2O6xZPq4ER6q6xwdW3sLfQ"
+        },
+        {
+          "name": "Sadie Rose Van",
+          "url": "https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns"
+        },
+        {
+          "name": "The V.C.U Black Awakening Choir",
+          "url": "https://open.spotify.com/artist/0bWK7IfDl7NBYGOiiY7or5"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170408,
+      "name": "Gotta Be Us (Be The People)",
+      "url": "https://open.spotify.com/track/0ukXWUAtiaxkJzqIAWBFou"
+    },
+    {
+      "album": {
         "name": "En Route",
         "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
       },
@@ -3960,7 +4012,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 117927,
       "name": "Home Improvement",
       "url": "https://open.spotify.com/track/17O5F0I7FZJ009c9aKtWRo"
@@ -5872,7 +5924,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"

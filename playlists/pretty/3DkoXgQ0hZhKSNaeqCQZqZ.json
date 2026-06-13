@@ -1,13 +1,29 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1127,
+  "num_followers": 1128,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFWZs3Nh0J4NEcsbjaojLPj3aGegnj",
+  "snapshot_id": "AAAFWvhruuj4JF+Er3b96eOOve7axfHu",
   "tracks": [
+    {
+      "added_at": "2026-06-12 08:34:54",
+      "album": {
+        "name": "Homesick Wanderlust",
+        "url": "https://open.spotify.com/album/7jdMf27F3z4Xy59fQcwTTy"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "duration_ms": 270373,
+      "name": "HOMESICK WANDERLUST",
+      "url": "https://open.spotify.com/track/23hzufyU9ufwaFTobzcNzH"
+    },
     {
       "added_at": "2026-05-30 20:49:39",
       "album": {

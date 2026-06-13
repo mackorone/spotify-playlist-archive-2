@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Shalipoppi
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,862 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,006 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 2 | [MCBH](https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:50 |
 | 3 | [Gratitude](https://open.spotify.com/track/7hiRlw64LXcHpGAVJ6eUzv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:49 |
 | 4 | [Aura Salad](https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [Breaking](https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK) | 2:52 |
-| 5 | [SpaceFuji](https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Terry apala](https://open.spotify.com/artist/1Ct52UFTjvAZu1pOuMWXY1), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SpaceFuji](https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP) | 3:19 |
+| 5 | [SpaceFuji](https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SpaceFuji](https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP) | 3:19 |
 | 6 | [MY HEALER](https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [MY HEALER](https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ) | 2:37 |
 | 7 | [Lakute](https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [STREET THERAPIST](https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i) | 2:19 |
 | 8 | [Amen](https://open.spotify.com/track/5xFnqGLySijRJ2q6som381) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 3:25 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 32 | [Dance for Jesus](https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dance for Jesus](https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp) | 3:20 |
 | 33 | [Hope](https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:44 |
 | 34 | [No Wam](https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [No Wam](https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR) | 2:29 |
-| 35 | [Root Of All Evil](https://open.spotify.com/track/5ZBWJoft4p9Pg6o2YkTSqN) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Root Of All Evil](https://open.spotify.com/album/3wk4P3gN8M5NwaYV4kV6jd) | 3:05 |
-| 36 | [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 |
+| 35 | [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 |
+| 36 | [Root Of All Evil](https://open.spotify.com/track/5ZBWJoft4p9Pg6o2YkTSqN) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Root Of All Evil](https://open.spotify.com/album/3wk4P3gN8M5NwaYV4kV6jd) | 3:05 |
 | 37 | [Mortal Kombat](https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Mortal Kombat](https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr) | 2:01 |
 | 38 | [WhatsApp](https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [WhatsApp](https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU) | 2:14 |
 | 39 | [Follow My Lead](https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Follow My Lead](https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z) | 2:20 |

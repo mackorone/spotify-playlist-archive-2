@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 449105,
+  "num_followers": 449110,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAABPZsnLALCBAK4j9zhz0kyg",
+  "snapshot_id": "ain6gAAAAAAjpLmI6xfK9xAtBqc+55il",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "UVV Vol. 8 (En Vivo)",
-        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
       },
       "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Fuerza (En Vivo)",
-      "url": "https://open.spotify.com/track/7BYqMtURItgUntm7rkj7jz"
+      "duration_ms": 155416,
+      "name": "Hombre de Rancho",
+      "url": "https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM"
     },
     {
       "added_at": null,
@@ -531,18 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolor y Amor",
-        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
       },
       "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 155416,
-      "name": "Hombre de Rancho",
-      "url": "https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM"
+      "duration_ms": 194000,
+      "name": "Fuerza (En Vivo)",
+      "url": "https://open.spotify.com/track/7BYqMtURItgUntm7rkj7jz"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "El Fue Arturo - En Vivo",
-      "url": "https://open.spotify.com/track/6B9VpihRaveXPH0awrkIBG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dolor y Amor",
         "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
       },
@@ -799,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "El Fue Arturo - En Vivo",
+      "url": "https://open.spotify.com/track/6B9VpihRaveXPH0awrkIBG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ense\u00f1anza De Los Viejos",
         "url": "https://open.spotify.com/album/5oMG64KBWeilrKCVKQ4fEH"
       },
@@ -819,18 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
+        "name": "Chalito (En Vivo)",
+        "url": "https://open.spotify.com/album/1LGdkrFFofe48iC2BxIggu"
       },
       "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 170468,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
+      "duration_ms": 157306,
+      "name": "Chalito - En Vivo",
+      "url": "https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb"
     },
     {
       "added_at": null,
@@ -851,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalito (En Vivo)",
-        "url": "https://open.spotify.com/album/1LGdkrFFofe48iC2BxIggu"
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
       },
       "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 157306,
-      "name": "Chalito - En Vivo",
-      "url": "https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb"
+      "duration_ms": 170468,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
     },
     {
       "added_at": null,

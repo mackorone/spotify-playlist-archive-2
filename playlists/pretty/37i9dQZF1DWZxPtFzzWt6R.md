@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: André e Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,703 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,737 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 9 | [A Esperança Que Restou](https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM) | [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT), [É Gospel Music](https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm) | [A Esperança Que Restou](https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I) | 4:41 |
 | 10 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 |
 | 11 | [Tempo de Vitória](https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Tempo de Vitória](https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9) | 3:49 |
-| 12 | [Minha Ilha](https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Minha Ilha](https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb) | 4:44 |
-| 13 | [O Crente e a Palmeira](https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Viola e Adoração](https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l) | 2:38 |
+| 12 | [O Crente e a Palmeira](https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Viola e Adoração](https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l) | 2:38 |
+| 13 | [Minha Ilha](https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Minha Ilha](https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb) | 4:44 |
 | 14 | [Que Vença o Amor](https://open.spotify.com/track/5sF78pP6esVqbBuPErwTbs) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Maximus Records](https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR) | [Bachata \(Edição Histórica\)](https://open.spotify.com/album/5b9IHZfxjdXpLPjVW2kb6o) | 4:02 |
 | 15 | [Estou Contigo](https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Estou Contigo](https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE) | 4:09 |
 | 16 | [Meu Barquinho \- Ao Vivo](https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Meu Barquinho](https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86) | 3:15 |
-| 17 | [Você É Especial \- Voz e Violão](https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Voz e Violão \- Parte 2](https://open.spotify.com/album/64mh0kkVSRHTxCg0gv9Eqk) | 5:24 |
-| 18 | [Você Vai Sobreviver \(Ao Vivo\)](https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Você Vai Sobreviver \(Ao Vivo\)](https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh) | 4:34 |
+| 17 | [Você Vai Sobreviver \(Ao Vivo\)](https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Você Vai Sobreviver \(Ao Vivo\)](https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh) | 4:34 |
+| 18 | [Você É Especial \- Voz e Violão](https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Voz e Violão \- Parte 2](https://open.spotify.com/album/64mh0kkVSRHTxCg0gv9Eqk) | 5:24 |
 | 19 | [Situações](https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Situações](https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq) | 4:21 |
 | 20 | [Quem É Como Tu, Senhor?](https://open.spotify.com/track/1nNS0y2jhHcCBFMHWTUS5p) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [É Gospel Music](https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm) | [Quem É Como Tu, Senhor?](https://open.spotify.com/album/6EDEC4aFYSkngJJHfbFVAj) | 5:31 |
 | 21 | [Um Lugar à Mesa](https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [É Gospel Music](https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm) | [Um Lugar à Mesa](https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4) | 4:00 |

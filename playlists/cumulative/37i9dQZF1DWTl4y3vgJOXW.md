@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: OG Anunoby and The New York Knicks
 
-916 songs - 1 day 22 hr 37 min
+917 songs - 1 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Gettin Money \(feat\. OJ Da Juiceman\)](https://open.spotify.com/track/5iFOoVlBbI0GO4XWyS5L8a) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [OJ Da Juiceman](https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn) | [Gettin Money](https://open.spotify.com/album/24WWSezNd0RRJQL6jnrpXs) | 2:24 | 2025-03-07 | 2025-04-26 |
 | [Ghost Of Soulja Slim](https://open.spotify.com/track/4T9PRL2ykQDKxgF3XWsPga) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 4:26 | 2024-10-25 | 2024-11-02 |
 | [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 | 2023-12-08 | 2024-02-10 |
+| [Gimmie A Kiss](https://open.spotify.com/track/6yix8Ae4pF6CnycCv7Nr52) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rise Against My Broken Odds](https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB) | 2:19 | 2026-06-12 |  |
 | [Girls Have Fun \(feat\. G\-Eazy & Rich The Kid\)](https://open.spotify.com/track/1NHlyKgtR4roNylOhidKSv) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Girls Have Fun \(feat\. G\-Eazy & Rich The Kid\)](https://open.spotify.com/album/1KLUE6sVMdRUxD3MRUyS0M) | 2:55 | 2021-09-02 | 2022-06-23 |
 | [GIVE ME A BEAT!](https://open.spotify.com/track/01XhYQFGlrDCYAmyhgIYlA) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [GIVE ME A BEAT!](https://open.spotify.com/album/388GujEhTMzqdyVt1t0IxO) | 3:18 | 2024-07-12 | 2024-07-19 |
 | [Glock In My Lap](https://open.spotify.com/track/6pcywuOeGGWeOQzdUyti6k) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:13 | 2023-09-01 |  |
@@ -835,7 +836,7 @@
 | [TOXIC \(with Skepta\)](https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:15 | 2025-10-24 |  |
 | [trademark usa](https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:30 | 2023-06-09 |  |
 | [Trap Jump](https://open.spotify.com/track/7wWFfIDUVMHKsqdhqa6QD8) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/3tIS7SDlvbyJ0oFQzNqjco) | 2:30 | 2025-04-11 | 2025-07-05 |
-| [Trunk Beating](https://open.spotify.com/track/6FMJaIukbFPr8BK9iVLWoT) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Trunk Beating](https://open.spotify.com/album/3C9JWINdLb4nIq4FQOSleN) | 2:49 | 2026-06-05 |  |
+| [Trunk Beating](https://open.spotify.com/track/6FMJaIukbFPr8BK9iVLWoT) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Trunk Beating](https://open.spotify.com/album/3C9JWINdLb4nIq4FQOSleN) | 2:49 | 2026-06-05 | 2026-06-13 |
 | [Trunks \(From "Highest 2 Lowest"\)](https://open.spotify.com/track/4v2r3H6YEQIlxS4Z1njwoe) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Trunks \(From "Highest 2 Lowest"\)](https://open.spotify.com/album/4rxhUypkwFBtKFbxp2Lc4B) | 3:43 | 2025-08-15 |  |
 | [Trust](https://open.spotify.com/track/4VqFPmogUJw9NHBKxUKtiw) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Trust](https://open.spotify.com/album/4P3x3MxVxNUBN0y7z98RC3) | 2:08 | 2021-09-02 | 2022-06-25 |
 | [Turks \(feat\. Travis Scott\)](https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Turks](https://open.spotify.com/album/2nfOFXxNyf61geA17cW6e6) | 2:41 | 2021-09-02 | 2024-07-13 |

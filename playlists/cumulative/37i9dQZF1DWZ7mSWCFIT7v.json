@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 352040,
       "name": "Blue Hell",
       "url": "https://open.spotify.com/track/7Ljz601jXqVCvrpMOcJEgy"
@@ -2069,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "Mantis 1920",
+        "url": "https://open.spotify.com/album/44Ug19hzdZscpswUfqHzo9"
+      },
+      "artists": [
+        {
+          "name": "Forest Drive West",
+          "url": "https://open.spotify.com/artist/0K1lHu1BP65Z1DErnljxUw"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381032,
+      "name": "Circuit",
+      "url": "https://open.spotify.com/track/2dQIUmQKcpDIah5HC4OYml"
+    },
+    {
+      "album": {
         "name": "Circuit Current",
         "url": "https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK"
       },
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 413201,
       "name": "Clunk",
       "url": "https://open.spotify.com/track/6ejdJ2xb9TmORns4kJub78"
@@ -2770,7 +2788,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 428419,
       "name": "Don't Fall",
       "url": "https://open.spotify.com/track/1bfTxMMFjPjHQVuHVCUIYm"
@@ -3387,6 +3405,28 @@
     },
     {
       "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/0zyxBwUhBX4cSfOB5qN3mU"
+      },
+      "artists": [
+        {
+          "name": "Batu",
+          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
+        },
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524992,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/7IjhVHhJ6RcKCfcaYjIBwD"
+    },
+    {
+      "album": {
         "name": "Exotic Contents / Pulse at the Centre of Being",
         "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
       },
@@ -3756,7 +3796,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 155654,
       "name": "Fly radio",
       "url": "https://open.spotify.com/track/5uIG2YlinVJWNPuKTIeWGx"
@@ -5122,7 +5162,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 153926,
       "name": "lie to me",
       "url": "https://open.spotify.com/track/0FN6QlrTsiNuLlkTATsp7D"
@@ -5772,6 +5812,32 @@
       "duration_ms": 317247,
       "name": "Menos",
       "url": "https://open.spotify.com/track/3dh9ldPzzPhLj5MYEPlsik"
+    },
+    {
+      "album": {
+        "name": "Meridian (Laurel Halo x John Tejada Rework)",
+        "url": "https://open.spotify.com/album/0YlFN9DVHVZGiBE2depGbR"
+      },
+      "artists": [
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        },
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        },
+        {
+          "name": "John Tejada",
+          "url": "https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332568,
+      "name": "Meridian - Laurel Halo x John Tejada Rework",
+      "url": "https://open.spotify.com/track/6nK2GEx16tR0u3uudlXsDD"
     },
     {
       "album": {
@@ -7434,6 +7500,24 @@
       "duration_ms": 224315,
       "name": "Reality Beckons",
       "url": "https://open.spotify.com/track/2xxjg0zKrLe6VtRerHujAn"
+    },
+    {
+      "album": {
+        "name": "Refraction",
+        "url": "https://open.spotify.com/album/0HJMcc2TBKF3zlkUqZx6rR"
+      },
+      "artists": [
+        {
+          "name": "Answer Code Request",
+          "url": "https://open.spotify.com/artist/52NOZYgYNsmv3nS0me6cqO"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378857,
+      "name": "Refraction",
+      "url": "https://open.spotify.com/track/5c2Lu3B5nc8yRllCvClcUL"
     },
     {
       "album": {
@@ -10265,6 +10349,24 @@
     },
     {
       "album": {
+        "name": "Megaptera (Original Soundtrack from the Movie the Musician and the Whale)",
+        "url": "https://open.spotify.com/album/5iUcoJgzmQzog02G4JgewC"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Verba Aliena",
+      "url": "https://open.spotify.com/track/1I4wMTKv80yAZ9S9ao802G"
+    },
+    {
+      "album": {
         "name": "6\u00b030\u203233.372\u2033N 3\u00b022\u20320.66\u2033E",
         "url": "https://open.spotify.com/album/5ORagktp2f72d9tqOAxz49"
       },
@@ -10396,7 +10498,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 254698,
       "name": "volc3 (Facta & K-LONE remix)",
       "url": "https://open.spotify.com/track/7Ciodarx9JkWa8FVv4kk16"
@@ -10804,6 +10906,24 @@
       "duration_ms": 150000,
       "name": "Worms on Acid",
       "url": "https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny"
+    },
+    {
+      "album": {
+        "name": "Wrongdoing",
+        "url": "https://open.spotify.com/album/4SltNUKzvBpvEUrHrxIt8P"
+      },
+      "artists": [
+        {
+          "name": "John Luther",
+          "url": "https://open.spotify.com/artist/3vIo2z4eIjrku9qqMhrn4b"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Wrongdoing",
+      "url": "https://open.spotify.com/track/22WodNgn2j5S8XKNIE0zVK"
     },
     {
       "album": {

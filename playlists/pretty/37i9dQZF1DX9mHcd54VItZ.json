@@ -1,13 +1,45 @@
 {
-  "description": "The best new and classic South African Rock. Cover: Zaan Sonnekus and Tasch\u00e9",
-  "num_followers": 27850,
+  "description": "The best new and classic South African Rock. Cover: Tree63",
+  "num_followers": 27862,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMuI5cica8NWtZECQkMxQ+MRi/yH",
+  "snapshot_id": "AAAAAJdn25wMinS9jx8AkBLJR7UotcgE",
   "tracks": [
+    {
+      "added_at": "2026-06-12 06:02:15",
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/1JZEciBd0piZ5Q0JCoRNI5"
+      },
+      "artists": [
+        {
+          "name": "Tree63",
+          "url": "https://open.spotify.com/artist/6x5SSOrpZwjUi8zfLBOQi7"
+        }
+      ],
+      "duration_ms": 209321,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/0AxhxUXm2feThRwAlD73fs"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
+    },
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
@@ -29,36 +61,20 @@
       "url": "https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD"
     },
     {
-      "added_at": "2026-04-24 09:03:29",
+      "added_at": "2026-06-12 06:02:15",
       "album": {
-        "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
+        "name": "delete you.",
+        "url": "https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3"
       },
       "artists": [
         {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
         }
       ],
-      "duration_ms": 193893,
-      "name": "Fake It",
-      "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "Nagmerries (Bye Bye Baby)",
-        "url": "https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 172985,
-      "name": "Nagmerries (Bye Bye Baby)",
-      "url": "https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg"
+      "duration_ms": 188459,
+      "name": "delete you.",
+      "url": "https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -79,22 +95,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Pikkewynstraat",
-        "url": "https://open.spotify.com/album/3qP7RP6ZB8dG83L3FjLAv0"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65"
-        }
-      ],
-      "duration_ms": 180011,
-      "name": "Pikkewynstraat",
-      "url": "https://open.spotify.com/track/6kHnBVq4migU2NmT7JUVPI"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "THOSE WHO ARE AGAINST US ALL THE TIME",
         "url": "https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK"
       },
@@ -107,6 +107,22 @@
       "duration_ms": 201000,
       "name": "I CHANGED (I'M UP)",
       "url": "https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx"
+    },
+    {
+      "added_at": "2026-06-12 06:02:15",
+      "album": {
+        "name": "Verloor Jouself",
+        "url": "https://open.spotify.com/album/62W2COHw25v2dtuQ2bxwBV"
+      },
+      "artists": [
+        {
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        }
+      ],
+      "duration_ms": 135272,
+      "name": "Verloor Jouself",
+      "url": "https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -123,22 +139,6 @@
       "duration_ms": 158680,
       "name": "NIE M\u00d4RE NIE NOU",
       "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "Burnin' Heart",
-        "url": "https://open.spotify.com/album/0EQA42KcvvRxfWItSBzLNE"
-      },
-      "artists": [
-        {
-          "name": "Keanan Eksteen",
-          "url": "https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C"
-        }
-      ],
-      "duration_ms": 144284,
-      "name": "Burnin' Heart",
-      "url": "https://open.spotify.com/track/5zQ2LNtYhse1yS3DSB9OW9"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -161,6 +161,30 @@
       "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
     },
     {
+      "added_at": "2026-06-12 06:02:15",
+      "album": {
+        "name": "F all ur Friends",
+        "url": "https://open.spotify.com/album/0NlgEBjbq2HaTRe8QYVzfV"
+      },
+      "artists": [
+        {
+          "name": "RJ Pasin",
+          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
+        },
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        },
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "F all ur Friends",
+      "url": "https://open.spotify.com/track/6g4J7sNnIOyH3aJaUoDbh4"
+    },
+    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
         "name": "Spoed",
@@ -179,18 +203,34 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Cake",
-        "url": "https://open.spotify.com/album/6ff3VYwTYs4GngQXPkuLO4"
+        "name": "Stardust Galaxies",
+        "url": "https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro"
       },
       "artists": [
         {
-          "name": "Mila Smith",
-          "url": "https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab"
+          "name": "The Parlotones",
+          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
         }
       ],
-      "duration_ms": 156923,
-      "name": "Cake",
-      "url": "https://open.spotify.com/track/2R4QvWH7WESPMHkrUXsB5j"
+      "duration_ms": 251600,
+      "name": "Push Me to the Floor",
+      "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
+    },
+    {
+      "added_at": "2026-06-12 06:02:15",
+      "album": {
+        "name": "Boy in the Frame",
+        "url": "https://open.spotify.com/album/3054hkWWvTxNvTF5GKDRsw"
+      },
+      "artists": [
+        {
+          "name": "Tall Thief",
+          "url": "https://open.spotify.com/artist/5Y9ScCdzp1M2GutyLIE0bb"
+        }
+      ],
+      "duration_ms": 253457,
+      "name": "Boy in the Frame",
+      "url": "https://open.spotify.com/track/4LYMXloxM3stOTtnmd2ju0"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -219,34 +259,34 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Taaibos",
-        "url": "https://open.spotify.com/album/0mW4ModhMitOX2DlHHgsgX"
+        "name": "Nagmerries (Bye Bye Baby)",
+        "url": "https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF"
       },
       "artists": [
         {
-          "name": "Neil Sandilands",
-          "url": "https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY"
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
         }
       ],
-      "duration_ms": 158853,
-      "name": "Taaibos",
-      "url": "https://open.spotify.com/track/1mTsaBzeYP8N8XF1ebDwSu"
+      "duration_ms": 172985,
+      "name": "Nagmerries (Bye Bye Baby)",
+      "url": "https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg"
     },
     {
-      "added_at": "2026-04-24 09:03:29",
+      "added_at": "2026-06-12 06:02:15",
       "album": {
-        "name": "Stardust Galaxies",
-        "url": "https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro"
+        "name": "Tan Halen",
+        "url": "https://open.spotify.com/album/2oSET1ymWrLi0j1BQciFas"
       },
       "artists": [
         {
-          "name": "The Parlotones",
-          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
+          "name": "Ruff Majik",
+          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
         }
       ],
-      "duration_ms": 251600,
-      "name": "Push Me to the Floor",
-      "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
+      "duration_ms": 162500,
+      "name": "Tan Halen",
+      "url": "https://open.spotify.com/track/1BdhJNgQrr1JiHGgUJcl8d"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -281,6 +321,22 @@
       "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
     },
     {
+      "added_at": "2026-06-12 06:02:15",
+      "album": {
+        "name": "Older Than You",
+        "url": "https://open.spotify.com/album/1zc0MiyUAqu9ACRnx3qGmN"
+      },
+      "artists": [
+        {
+          "name": "Sophia Frank",
+          "url": "https://open.spotify.com/artist/4nZbINVWefKfXEpQPkSSe3"
+        }
+      ],
+      "duration_ms": 174406,
+      "name": "Older Than You",
+      "url": "https://open.spotify.com/track/3Ee7L4BJIR0pjHVCw025nO"
+    },
+    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
         "name": "Another Universe",
@@ -313,24 +369,20 @@
       "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
     },
     {
-      "added_at": "2026-04-24 09:03:29",
+      "added_at": "2026-06-12 06:02:15",
       "album": {
-        "name": "Vanfokkingtasties Akoesties",
-        "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
+        "name": "Nikotien",
+        "url": "https://open.spotify.com/album/2X5rHNWQe7lbkWiIBAZ6ez"
       },
       "artists": [
         {
-          "name": "Vanfokkingtasties",
-          "url": "https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD"
-        },
-        {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+          "name": "NIKOTIEN",
+          "url": "https://open.spotify.com/artist/1owyXkdGxYWNYxr9YknHG0"
         }
       ],
-      "duration_ms": 210520,
-      "name": "Dagdronk",
-      "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
+      "duration_ms": 194000,
+      "name": "Nikotien",
+      "url": "https://open.spotify.com/track/0FNyPh1lnEjcw7THcdZSqp"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -351,6 +403,46 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
+        "name": "Vanfokkingtasties Akoesties",
+        "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
+      },
+      "artists": [
+        {
+          "name": "Vanfokkingtasties",
+          "url": "https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD"
+        },
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Dagdronk",
+      "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
+    },
+    {
+      "added_at": "2026-06-12 06:02:15",
+      "album": {
+        "name": "Tyd & Gees",
+        "url": "https://open.spotify.com/album/4CQpqFExdrMXtAjqFbPqoy"
+      },
+      "artists": [
+        {
+          "name": "Kris Ray",
+          "url": "https://open.spotify.com/artist/7BM3anHU7hBCgXATgWesbN"
+        },
+        {
+          "name": "Juan Bester",
+          "url": "https://open.spotify.com/artist/4HJKWV58OFtAAGQlkzH1ws"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Tyd & Gees",
+      "url": "https://open.spotify.com/track/2SqU2NNOv9NP9tXDZUjRzS"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah"
       },
@@ -367,22 +459,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "A Little Less",
-        "url": "https://open.spotify.com/album/4cfrD9ge78TghfKNP7CEAx"
-      },
-      "artists": [
-        {
-          "name": "Blush",
-          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
-        }
-      ],
-      "duration_ms": 202887,
-      "name": "A Little Less",
-      "url": "https://open.spotify.com/track/5He1bjR7YKGzKi48UXzYVG"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "KLEUR",
         "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
       },
@@ -395,6 +471,22 @@
       "duration_ms": 201420,
       "name": "KLEUR",
       "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
+    },
+    {
+      "added_at": "2026-06-12 06:02:15",
+      "album": {
+        "name": "Unhinged Hall of Fame",
+        "url": "https://open.spotify.com/album/2tqfBcK8TM1jYrqYtDgons"
+      },
+      "artists": [
+        {
+          "name": "Erin Elliot",
+          "url": "https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1"
+        }
+      ],
+      "duration_ms": 147374,
+      "name": "Unhinged Hall of Fame",
+      "url": "https://open.spotify.com/track/2BOBwaOWAnk3XimrxrUczl"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -415,22 +507,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Rooksein",
-        "url": "https://open.spotify.com/album/4Wtgot5JENKdO24gDevxGl"
-      },
-      "artists": [
-        {
-          "name": "Millennium",
-          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Rooksein",
-      "url": "https://open.spotify.com/track/7c2I70ecb1SgpT8NjfUCa9"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "As Jy Met Vuur Speel Sal Jy Brand",
         "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
       },
@@ -447,22 +523,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Sink",
-        "url": "https://open.spotify.com/album/4LWDIIAQiJGt6nFijQKv6j"
-      },
-      "artists": [
-        {
-          "name": "veervol",
-          "url": "https://open.spotify.com/artist/6S9Gj59mCaPhVk0LzhCaaE"
-        }
-      ],
-      "duration_ms": 232444,
-      "name": "Sink",
-      "url": "https://open.spotify.com/track/3VllAFxFDUr5r1AYoQMmA8"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "Elsie",
         "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
       },
@@ -475,6 +535,22 @@
       "duration_ms": 156191,
       "name": "Elsie",
       "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
+    },
+    {
+      "added_at": "2026-06-12 06:02:15",
+      "album": {
+        "name": "Ry",
+        "url": "https://open.spotify.com/album/3e6SJnLbreXFFXlbeBKwsu"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Ry",
+      "url": "https://open.spotify.com/track/7Anno9ubrX11HdYN3n6VMC"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -499,18 +575,38 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "1140",
-        "url": "https://open.spotify.com/album/1wzaPzNHvCpD1VJK8tABXt"
+        "name": "Gatvol",
+        "url": "https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI"
       },
       "artists": [
         {
-          "name": "Bonus in Desember",
-          "url": "https://open.spotify.com/artist/3qmrl2CODNuh7DyxyHnv7t"
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
         }
       ],
-      "duration_ms": 168382,
-      "name": "1140",
-      "url": "https://open.spotify.com/track/7t0G3n3F9LWUiwPl92RAbi"
+      "duration_ms": 166031,
+      "name": "Gatvol",
+      "url": "https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P"
+    },
+    {
+      "added_at": "2026-06-12 06:02:15",
+      "album": {
+        "name": "Wat Wil Jy H\u00ea?",
+        "url": "https://open.spotify.com/album/6XaR3XqYKlWCDcXDslbS6A"
+      },
+      "artists": [
+        {
+          "name": "Sonder Onderbroeke",
+          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Wat Wil Jy H\u00ea?",
+      "url": "https://open.spotify.com/track/0SMPO9w1ikRAdqxw1MqW4q"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -531,26 +627,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Gatvol",
-        "url": "https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI"
-      },
-      "artists": [
-        {
-          "name": "Droomsindroom",
-          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
-        },
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 166031,
-      "name": "Gatvol",
-      "url": "https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "Sonskyn Vrou",
         "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
       },
@@ -563,6 +639,22 @@
       "duration_ms": 266868,
       "name": "Sonskyn Vrou",
       "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Pikkewynstraat",
+        "url": "https://open.spotify.com/album/3qP7RP6ZB8dG83L3FjLAv0"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65"
+        }
+      ],
+      "duration_ms": 180011,
+      "name": "Pikkewynstraat",
+      "url": "https://open.spotify.com/track/6kHnBVq4migU2NmT7JUVPI"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -599,6 +691,22 @@
       "duration_ms": 167727,
       "name": "Stellies (feat. Rooksein)",
       "url": "https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "A Little Less",
+        "url": "https://open.spotify.com/album/4cfrD9ge78TghfKNP7CEAx"
+      },
+      "artists": [
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
+        }
+      ],
+      "duration_ms": 202887,
+      "name": "A Little Less",
+      "url": "https://open.spotify.com/track/5He1bjR7YKGzKi48UXzYVG"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -667,22 +775,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/5wZy1AyhZ5zh5X9AIuyWqh"
-      },
-      "artists": [
-        {
-          "name": "Frans Karoo",
-          "url": "https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/11D5Tz757nMHDd0udbNYBt"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "Kenia",
         "url": "https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2"
       },
@@ -731,22 +823,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Jou Tyd Is Nou",
-        "url": "https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs"
-      },
-      "artists": [
-        {
-          "name": "Jo Black",
-          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
-        }
-      ],
-      "duration_ms": 194142,
-      "name": "Jou Tyd Is Nou",
-      "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "Ultimate Zoid",
         "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
       },
@@ -763,82 +839,18 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Wie's Bang",
-        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
+        "name": "Jou Tyd Is Nou",
+        "url": "https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs"
       },
       "artists": [
         {
-          "name": "Van Coke Kartel",
-          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
         }
       ],
-      "duration_ms": 212573,
-      "name": "Dis 'N Land",
-      "url": "https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "AfterlifeSatisfaction",
-        "url": "https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw"
-      },
-      "artists": [
-        {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
-        }
-      ],
-      "duration_ms": 282973,
-      "name": "Genie",
-      "url": "https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "96-03 The Singles",
-        "url": "https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO"
-      },
-      "artists": [
-        {
-          "name": "Henry Ate",
-          "url": "https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn"
-        }
-      ],
-      "duration_ms": 193986,
-      "name": "Hey Mister",
-      "url": "https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "Victor Ludorum",
-        "url": "https://open.spotify.com/album/53bANzS97yzookNh9mNnm3"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 189895,
-      "name": "Victor Ludorum",
-      "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "Judas Mind",
-        "url": "https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 244728,
-      "name": "Judas Mind - edit",
-      "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
+      "duration_ms": 194142,
+      "name": "Jou Tyd Is Nou",
+      "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
     }
   ],
   "unique_name": "SA Rock ",

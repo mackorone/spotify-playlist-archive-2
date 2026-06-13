@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Mr. Collision / Awhile Longer",
+        "url": "https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261760,
+      "name": "Awhile Longer",
+      "url": "https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV"
+    },
+    {
+      "album": {
         "name": "bad lover",
         "url": "https://open.spotify.com/album/0M4u625Q69qPri1148zoe3"
       },

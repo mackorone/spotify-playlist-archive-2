@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: hanbee
 
-1,582 songs - 3 day 19 hr 47 min
+1,582 songs - 3 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [Earth, Wind & California](https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 3:04 | 2026-03-05 | 2026-04-10 |
 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 | 2025-01-23 | 2025-03-07 |
 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-07-11 | 2024-08-16 |
+| [East Village](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 3:31 | 2026-06-11 |  |
 | [Easy](https://open.spotify.com/track/3UXBjq1q3UD3618lo1ASYI) | [Isla Noon](https://open.spotify.com/artist/14DaqRFdDOsSnbpw4cNhku) | [Out of Body](https://open.spotify.com/album/1mTJ0Ug9fr08saLVdgc7OE) | 3:01 | 2025-04-17 | 2025-06-13 |
 | [Easy Honey](https://open.spotify.com/track/50aRcqU7YEkYrjdz7i8mR1) | [Letters to Lions](https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx) | [Easy Honey](https://open.spotify.com/album/4fOaSwaWwz4eqCgGvtyfDu) | 2:55 | 2026-04-16 | 2026-05-22 |
 | [Eat Me Alive](https://open.spotify.com/track/5wiBlYSPdv5QR10IeKSPYp) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Eat Me Alive](https://open.spotify.com/album/3bA5CDhzT8XJQtyWM9CMoM) | 4:00 | 2026-02-12 | 2026-04-10 |
@@ -1449,7 +1450,6 @@
 | [Touching and Talking](https://open.spotify.com/track/6gHoCgosSQzDgZngAAIbmk) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Touching and Talking](https://open.spotify.com/album/63nBX7FKEB6e9j5NyFu2yF) | 3:16 | 2024-07-11 | 2024-08-09 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-11-14 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 |  |
-| [Track 4](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 0:00 | 2026-06-11 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-05-22 |
 | [Tractor Beams](https://open.spotify.com/track/5F8SZeipQ3cEN2gZ8BxSpO) | [Tutara Peak](https://open.spotify.com/artist/6GqQziMdX3FNMhEx9zd3NX), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Tractor Beams](https://open.spotify.com/album/43DvYfPb4cbuQr2wnBhdh9) | 3:18 | 2024-08-01 | 2024-09-06 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-07-25 |

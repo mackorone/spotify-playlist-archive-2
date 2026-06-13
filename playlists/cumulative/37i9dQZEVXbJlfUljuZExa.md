@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-1,499 songs - 3 day 14 hr 40 min
+1,500 songs - 3 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-01 | 2025-09-01 |
 | [Awas Jatuh Cinta](https://open.spotify.com/track/757wbOT94WRiv4tXxioZSM) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Kita Bersaudara](https://open.spotify.com/album/5iNciMExxXUaFq0Dj7fmfv) | 4:21 | 2025-06-09 | 2025-07-21 |
 | [Ayuh \- From Polis Evo 3 Original Soundtrack](https://open.spotify.com/track/5It5ikDacxfwZXLSKsMEvS) | [Malique](https://open.spotify.com/artist/4ZsSCvTFG2Krx3AyQ6vHzk), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Aman RA](https://open.spotify.com/artist/7iNkzIKfY3iDyyFxlbPT9U), [Kmy Kmo](https://open.spotify.com/artist/43ZXvAH7c6jRsqNIRWft4P) | [Ayuh \(From Polis Evo 3 Original Soundtrack\)](https://open.spotify.com/album/0E8108nmNwGBFPu3w1FHd9) | 3:58 | 2023-06-04 | 2023-06-06 |
-| [Baby](https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [My World 2.0](https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9) | 3:34 | 2026-04-14 |  |
+| [Baby](https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [My World 2.0](https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9) | 3:34 | 2026-04-14 | 2026-06-13 |
 | [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 | 2024-09-24 | 2024-10-03 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-03-25 | 2026-06-10 |
 | [Back To December \(Taylor's Version\)](https://open.spotify.com/track/79uDOz0zuuWS7HWxzMmTa2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:54 | 2023-07-08 | 2023-07-16 |
@@ -726,12 +726,13 @@
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:34 | 2022-10-09 | 2023-07-23 |
 | [Lemon Drop](https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3](https://open.spotify.com/album/5LlszztgR3YH7aN7SPgTVi) | 2:59 | 2025-06-16 | 2025-06-21 |
 | [LEMONADE](https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album \(NINGNING Special Version\)](https://open.spotify.com/album/437o5FFGCf3CszTjO3wVAi) | 3:07 | 2026-06-08 | 2026-06-10 |
-| [LEMONADE](https://open.spotify.com/track/7a3iH9vM5Z58GqOMqXBU1M) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/5dscbWbSUuO5SNnrtiCVSB) | 3:07 | 2026-06-04 |  |
+| [LEMONADE](https://open.spotify.com/track/6vjt2smGK75oc9r2OGFfgp) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/1GjT1mri5wvJAYZ3rnZamk) | 3:07 | 2026-06-12 |  |
+| [LEMONADE](https://open.spotify.com/track/7a3iH9vM5Z58GqOMqXBU1M) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/5dscbWbSUuO5SNnrtiCVSB) | 3:07 | 2026-06-04 | 2026-06-13 |
 | [LEMONADE](https://open.spotify.com/track/7jx5CmnSDhVbLD9Eww6QLB) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album \(GISELLE Special Version\)](https://open.spotify.com/album/7ED3mOUgYLjyvtRDrrSyrn) | 3:07 | 2026-06-06 | 2026-06-08 |
 | [Lemonade](https://open.spotify.com/track/6txVOdSbg928oeGhlVUrdK) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:10 | 2021-09-19 | 2021-09-20 |
 | [Lesung Pipi](https://open.spotify.com/track/04mOx59pM3upWDkpp9PYkb) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Lesung Pipi](https://open.spotify.com/album/1LgqHywOebGDDDhfSrtbpE) | 3:45 | 2026-02-18 | 2026-04-15 |
 | [Lesung Pipi](https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Lesung Pipi](https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG) | 3:45 | 2025-04-18 | 2026-02-01 |
-| [Lesung Pipi](https://open.spotify.com/track/4GSwtvjwdbUmb4blyUyCnD) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [iqro'](https://open.spotify.com/album/4FiZgqcHTC0jmfnnG2pDp0) | 3:45 | 2026-05-23 | 2026-06-12 |
+| [Lesung Pipi](https://open.spotify.com/track/4GSwtvjwdbUmb4blyUyCnD) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [iqro'](https://open.spotify.com/album/4FiZgqcHTC0jmfnnG2pDp0) | 3:45 | 2026-05-23 |  |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2021-12-25 | 2025-12-28 |
 | [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 | 2023-06-14 | 2023-06-17 |
 | [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:25 | 2026-01-20 | 2026-04-30 |

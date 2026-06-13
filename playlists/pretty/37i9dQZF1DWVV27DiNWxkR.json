@@ -1,12 +1,12 @@
 {
   "description": "The premier indie melancholia playlist, featuring Lana Del Rey",
-  "num_followers": 1990760,
+  "num_followers": 1990754,
   "original_name": "Sad Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMTWp/gnUC1vL9YBxxWzLtSdEu8d",
+  "snapshot_id": "AAAAALRY27QB6K5Wti+KpXGkJ1si+kuu",
   "tracks": [
     {
       "added_at": "2026-04-16 18:07:07",
@@ -151,22 +151,6 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": "2026-04-16 18:07:07",
-      "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "added_at": "2026-04-16 18:07:07",
@@ -691,6 +675,22 @@
     {
       "added_at": "2026-04-16 18:07:07",
       "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 264372,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
+    },
+    {
+      "added_at": "2026-04-16 18:07:07",
+      "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 413813,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
-    },
-    {
-      "added_at": "2026-04-16 18:07:07",
-      "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264372,
-      "name": "Sidelines",
-      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
       "added_at": "2026-04-16 18:07:07",
@@ -775,6 +759,22 @@
     {
       "added_at": "2026-04-16 18:07:07",
       "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 277676,
+      "name": "Moon Song",
+      "url": "https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx"
+    },
+    {
+      "added_at": "2026-04-16 18:07:07",
+      "album": {
         "name": "Bon Iver, Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-04-16 18:07:07",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 277676,
-      "name": "Moon Song",
-      "url": "https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx"
-    },
-    {
-      "added_at": "2026-04-16 18:07:07",
-      "album": {
         "name": "When We Were Friends",
         "url": "https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 269411,
       "name": "Pool House",
       "url": "https://open.spotify.com/track/74f0dpqHhTeTJzs4pmZ1yq"
+    },
+    {
+      "added_at": "2026-04-16 18:07:07",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 171727,
+      "name": "Liability",
+      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
     }
   ],
   "unique_name": "Sad Indie",

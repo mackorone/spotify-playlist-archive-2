@@ -4,7 +4,7 @@
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-528 songs - 1 day 5 hr 28 min
+531 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2025-08-22 | 2026-01-15 |
 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 | 2025-10-27 | 2026-01-15 |
 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 | 2025-07-18 | 2025-08-23 |
+| [Bliss](https://open.spotify.com/track/4ziXLokbEAxax55QfKlPbA) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [God Must Really Love Me](https://open.spotify.com/album/2PgYxXmW7geBRncBAgpzNL) | 2:55 | 2026-06-12 |  |
 | [Bloom \- unplugged edit](https://open.spotify.com/track/2JX1fKlM4I4hJseDCg0wN9) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom \(re\-imagined\)](https://open.spotify.com/album/2LfRcEIXXWYAfy2Qn50FRH) | 2:56 | 2026-02-26 |  |
 | [Blue](https://open.spotify.com/track/4Vudlr60FXFP47yNlLzixA) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Blue](https://open.spotify.com/album/3LyaOh01KBQsQ0dSBJhIYz) | 3:11 | 2025-11-28 | 2026-02-19 |
 | [Blur](https://open.spotify.com/track/26dCraicO5lIpioBMnO2dg) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:01 | 2025-11-21 |  |
@@ -91,6 +92,7 @@
 | [Closer](https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 3:35 | 2026-01-23 |  |
 | [Come Down](https://open.spotify.com/track/6gxMXHr2GxN7afbdNmsoaj) | [Reb Fountain](https://open.spotify.com/artist/3wayc8vDx8ukvWV17IBZE1) | [Come Down](https://open.spotify.com/album/4dkUqCf46AhGJSUdjBZ3RD) | 3:55 | 2026-02-19 |  |
 | [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 | 2025-07-18 | 2025-09-20 |
+| [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2026-06-12 |  |
 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 | 2026-03-06 |  |
 | [confession](https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [confession](https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ) | 1:24 | 2025-07-18 | 2026-02-20 |
 | [Constellations \- Piano Version](https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations \(Piano Version\)](https://open.spotify.com/album/4hv9qLSPvzL09HaIlL8JnP) | 3:50 | 2025-07-18 |  |
@@ -129,6 +131,7 @@
 | [DRIVING](https://open.spotify.com/track/352dvkfXCPEReJOCmyVGPk) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [DRIVING](https://open.spotify.com/album/5zwKAnZ5I7ApYXkhHkz9UQ) | 2:50 | 2025-08-01 | 2025-09-27 |
 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 | 2025-07-18 | 2025-08-23 |
 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-04-03 |  |
+| [East Village](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 3:31 | 2026-06-12 |  |
 | [Easy](https://open.spotify.com/track/5ueprcU4xtHUtTvpO27kEi) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Untitled \(Read My Mind\)](https://open.spotify.com/album/3InZHXAzoRnIi0cJfVTaYy) | 2:11 | 2025-07-18 | 2026-01-15 |
 | [Easy Does It](https://open.spotify.com/track/70v1ILapgu1QnTlOyKGrJr) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Easy Does It](https://open.spotify.com/album/2EZsexfZ6Rys7I7ZB3sxIz) | 4:07 | 2025-09-05 | 2026-02-20 |
 | [Easy To Love \(feat\. Iris Jean\)](https://open.spotify.com/track/63iSpVU9FUKevNdkUYpnUD) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Easy To Love \(feat\. Iris Jean\)](https://open.spotify.com/album/4dzcTV21H0O6LfuliqlYBp) | 3:46 | 2025-08-08 |  |

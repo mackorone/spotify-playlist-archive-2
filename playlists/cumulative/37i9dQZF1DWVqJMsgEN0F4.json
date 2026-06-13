@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Weezer & Wednesday along with the hottest alternative songs right now.\n",
+  "description": "Sublime along with the hottest alternative songs right now.\n",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -1976,6 +1976,24 @@
       "duration_ms": 199466,
       "name": "bella",
       "url": "https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA"
+    },
+    {
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183228,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx"
     },
     {
       "album": {
@@ -4757,6 +4775,24 @@
     },
     {
       "album": {
+        "name": "Dollar Bill",
+        "url": "https://open.spotify.com/album/6TvyUhhJLXq6ye3Gkc5TNi"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162213,
+      "name": "Dollar Bill",
+      "url": "https://open.spotify.com/track/2sLeS5vOP2tl2TbF37FaLD"
+    },
+    {
+      "album": {
         "name": "So Sick Of Dreaming",
         "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
       },
@@ -6296,7 +6332,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 223762,
       "name": "G.O.D. And The Broken Ribs",
       "url": "https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU"
@@ -7460,6 +7496,24 @@
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
+    },
+    {
+      "album": {
+        "name": "High Hopes 3000",
+        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245755,
+      "name": "High Hopes 3000",
+      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
     },
     {
       "album": {
@@ -9132,7 +9186,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 182990,
       "name": "KILL THE GHOST",
       "url": "https://open.spotify.com/track/1zG4yTwzuB26U8A1DNheiK"
@@ -13730,7 +13784,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 272878,
       "name": "Ride Lonesome",
       "url": "https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j"
@@ -14596,6 +14650,24 @@
       "duration_ms": 166148,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli"
+    },
+    {
+      "album": {
+        "name": "This Mirror Weighs a Ton/See Out Loud",
+        "url": "https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296746,
+      "name": "See Out Loud",
+      "url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj"
     },
     {
       "album": {
@@ -17041,6 +17113,24 @@
     },
     {
       "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "album": {
         "name": "The Dead Come Talking",
         "url": "https://open.spotify.com/album/3BxsQSkKIAP9bMWA706L1u"
       },
@@ -17164,6 +17254,24 @@
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "album": {
+        "name": "the feeling",
+        "url": "https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275936,
+      "name": "the feeling",
+      "url": "https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S"
     },
     {
       "album": {
@@ -17608,6 +17716,24 @@
       "duration_ms": 269373,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
+    },
+    {
+      "album": {
+        "name": "KILL THE GHOST",
+        "url": "https://open.spotify.com/album/65XQpfjNaYkGLT7bKg2Wo3"
+      },
+      "artists": [
+        {
+          "name": "little image",
+          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212273,
+      "name": "THE REAPER",
+      "url": "https://open.spotify.com/track/1xXeJqcAD6btXqsr4MU0bg"
     },
     {
       "album": {
@@ -18932,6 +19058,24 @@
     {
       "album": {
         "name": "Until The Sun Explodes",
+        "url": "https://open.spotify.com/album/08wHg3Ie9jj8nLZv5ue7bM"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "Until The Sun Explodes",
+      "url": "https://open.spotify.com/track/0ISLbg5eIZiVWGMHWjBCP9"
+    },
+    {
+      "album": {
+        "name": "Until The Sun Explodes",
         "url": "https://open.spotify.com/album/1PNDImWE25WgKW8CwdWREX"
       },
       "artists": [
@@ -18942,7 +19086,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 178800,
       "name": "Until The Sun Explodes",
       "url": "https://open.spotify.com/track/0xeoETh1ChVy1k7TGAS9O8"
@@ -19798,6 +19942,24 @@
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
+    },
+    {
+      "album": {
+        "name": "What We Got",
+        "url": "https://open.spotify.com/album/72T1E70vH8a71qX2OwGwrl"
+      },
+      "artists": [
+        {
+          "name": "Mike D",
+          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "What We Got",
+      "url": "https://open.spotify.com/track/3UeGo2iTVN98fWW96iRL5p"
     },
     {
       "album": {

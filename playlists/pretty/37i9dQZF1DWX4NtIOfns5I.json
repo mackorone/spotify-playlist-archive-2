@@ -1,12 +1,12 @@
 {
-  "description": "new Haylie Davis album has us swooning \u2600\ufe0f",
-  "num_followers": 146217,
+  "description": "Brenn! on the cover :)",
+  "num_followers": 146238,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKOfgSgZnWk7NrLUoBZV6bx/wtXV",
+  "snapshot_id": "AAAAAJHEwCh3fb+wLBqbwMiY6I/UP6MY",
   "tracks": [
     {
       "added_at": "2026-06-05 04:01:05",
@@ -41,6 +41,38 @@
       "url": "https://open.spotify.com/track/1fdgakuuEEfjRt3KYF36eG"
     },
     {
+      "added_at": "2026-06-12 04:01:41",
+      "album": {
+        "name": "Quick!",
+        "url": "https://open.spotify.com/album/0UPXDCCxvncoCCmBxoakpK"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 318274,
+      "name": "Quick!",
+      "url": "https://open.spotify.com/track/783ZfLVvxPRcSOzLmsxk7E"
+    },
+    {
+      "added_at": "2026-06-12 04:01:41",
+      "album": {
+        "name": "AMATEUR AT BEST",
+        "url": "https://open.spotify.com/album/11QFWsQoSk0qQzrndUokih"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 201426,
+      "name": "AMATEUR AT BEST",
+      "url": "https://open.spotify.com/track/2ZlCllL9l6Xk3gGZFAUeU5"
+    },
+    {
       "added_at": "2026-06-05 04:01:05",
       "album": {
         "name": "Gretchen",
@@ -59,6 +91,22 @@
     {
       "added_at": "2026-06-05 04:01:05",
       "album": {
+        "name": "Georgia the Ceremonialist",
+        "url": "https://open.spotify.com/album/6Yu79pXvnZMBTyKoanjVVu"
+      },
+      "artists": [
+        {
+          "name": "Maya Donovan",
+          "url": "https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX"
+        }
+      ],
+      "duration_ms": 276095,
+      "name": "Georgia the Ceremonialist",
+      "url": "https://open.spotify.com/track/5gfHOVYnO8aJ6RLSFIfxvW"
+    },
+    {
+      "added_at": "2026-06-05 04:01:05",
+      "album": {
         "name": "The Modern Shoe Is Ruining The Foot",
         "url": "https://open.spotify.com/album/5xDsLg99JHxPwsGzVpGG21"
       },
@@ -71,6 +119,22 @@
       "duration_ms": 258399,
       "name": "Write You Wrong",
       "url": "https://open.spotify.com/track/2Ruh0fa2YupvKDIVoSagLh"
+    },
+    {
+      "added_at": "2026-06-12 04:01:41",
+      "album": {
+        "name": "Arteries",
+        "url": "https://open.spotify.com/album/6vxtYeDwJNK427fs3oCSV1"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 314977,
+      "name": "Arteries",
+      "url": "https://open.spotify.com/track/1loKcR8dIFxjGwKUo1Gv1Q"
     },
     {
       "added_at": "2026-05-29 12:19:27",
@@ -89,22 +153,6 @@
       "url": "https://open.spotify.com/track/01M4zeod1IYrXGRSie9CmQ"
     },
     {
-      "added_at": "2026-06-05 04:01:05",
-      "album": {
-        "name": "Georgia the Ceremonialist",
-        "url": "https://open.spotify.com/album/6Yu79pXvnZMBTyKoanjVVu"
-      },
-      "artists": [
-        {
-          "name": "Maya Donovan",
-          "url": "https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX"
-        }
-      ],
-      "duration_ms": 276095,
-      "name": "Georgia the Ceremonialist",
-      "url": "https://open.spotify.com/track/5gfHOVYnO8aJ6RLSFIfxvW"
-    },
-    {
       "added_at": "2026-05-29 12:19:27",
       "album": {
         "name": "Face The Feeling",
@@ -119,6 +167,22 @@
       "duration_ms": 256755,
       "name": "A Little at a Time",
       "url": "https://open.spotify.com/track/29tZfTb09xQTjo7zMpVPj7"
+    },
+    {
+      "added_at": "2026-06-12 04:01:41",
+      "album": {
+        "name": "If This Is The End",
+        "url": "https://open.spotify.com/album/2ZyHeH8F9mmnhV5Fcbr4nU"
+      },
+      "artists": [
+        {
+          "name": "Emma Harner",
+          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
+        }
+      ],
+      "duration_ms": 221292,
+      "name": "If This Is The End",
+      "url": "https://open.spotify.com/track/3kFUML1xNLa91hI9EMRkrq"
     },
     {
       "added_at": "2026-05-29 12:19:27",
@@ -151,6 +215,22 @@
       "duration_ms": 91178,
       "name": "Gentle Love",
       "url": "https://open.spotify.com/track/4Mp41b1Z5I45NPBkKuKMkq"
+    },
+    {
+      "added_at": "2026-06-12 04:01:41",
+      "album": {
+        "name": "bonnie",
+        "url": "https://open.spotify.com/album/23WIQnjGmOcDrK3xJ1SYw3"
+      },
+      "artists": [
+        {
+          "name": "Ella Woolsey",
+          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "bonnie",
+      "url": "https://open.spotify.com/track/3hXOSZvFqjUTb3kuxokcfp"
     },
     {
       "added_at": "2026-05-29 12:19:27",
@@ -335,22 +415,6 @@
       "duration_ms": 267854,
       "name": "You Never Did Anything Wrong",
       "url": "https://open.spotify.com/track/4i48XJB5LK9FWvubslk3Ko"
-    },
-    {
-      "added_at": "2026-05-29 12:19:27",
-      "album": {
-        "name": "sadie",
-        "url": "https://open.spotify.com/album/7he6RCG89OQebnS87zTala"
-      },
-      "artists": [
-        {
-          "name": "Ella Woolsey",
-          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "sadie",
-      "url": "https://open.spotify.com/track/4XP3xSOgMKHLC2IBVBRiCL"
     },
     {
       "added_at": "2026-05-29 12:19:27",
@@ -1147,22 +1211,6 @@
       "duration_ms": 154737,
       "name": "S'mores",
       "url": "https://open.spotify.com/track/4rhno1gIW5Is6gnCUj69tR"
-    },
-    {
-      "added_at": "2026-05-29 12:19:27",
-      "album": {
-        "name": "a million",
-        "url": "https://open.spotify.com/album/6kf8tzKyYQufZu0SHRmthA"
-      },
-      "artists": [
-        {
-          "name": "Ella Woolsey",
-          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
-        }
-      ],
-      "duration_ms": 166674,
-      "name": "a million",
-      "url": "https://open.spotify.com/track/33IjsGyaereLETeWa5NcbL"
     },
     {
       "added_at": "2026-05-29 12:19:27",
@@ -2287,222 +2335,6 @@
       "duration_ms": 216727,
       "name": "Your Place At My Place",
       "url": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
-    },
-    {
-      "added_at": "2026-05-29 12:19:27",
-      "album": {
-        "name": "on our own",
-        "url": "https://open.spotify.com/album/0zz6Mh7WEvdtU6dnzIxEwj"
-      },
-      "artists": [
-        {
-          "name": "mou",
-          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "on our own",
-      "url": "https://open.spotify.com/track/3hc9nQIUe6w1fXuhN7IBwi"
-    },
-    {
-      "added_at": "2026-05-29 12:19:27",
-      "album": {
-        "name": "Groupie",
-        "url": "https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV"
-      },
-      "artists": [
-        {
-          "name": "Leonie Biney",
-          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
-        }
-      ],
-      "duration_ms": 172415,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM"
-    },
-    {
-      "added_at": "2026-05-29 12:19:27",
-      "album": {
-        "name": "Fool's Gold",
-        "url": "https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Traffic Jam",
-          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
-        }
-      ],
-      "duration_ms": 197539,
-      "name": "Fool's Gold",
-      "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
-    },
-    {
-      "added_at": "2026-05-29 12:19:27",
-      "album": {
-        "name": "Lake Run Drive",
-        "url": "https://open.spotify.com/album/0swneIkCfAAXIl164byvJy"
-      },
-      "artists": [
-        {
-          "name": "The Man The Myth The Meatslab",
-          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
-        }
-      ],
-      "duration_ms": 226785,
-      "name": "Lake Run Drive",
-      "url": "https://open.spotify.com/track/3CdtsOH0jiVvJVDDPAZXam"
-    },
-    {
-      "added_at": "2026-05-29 12:19:27",
-      "album": {
-        "name": "Pale Song / Love Is",
-        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 165460,
-      "name": "Pale Song",
-      "url": "https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8"
-    },
-    {
-      "added_at": "2026-05-29 12:19:27",
-      "album": {
-        "name": "Looking For Nothing",
-        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
-      },
-      "artists": [
-        {
-          "name": "Ella Ion",
-          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Looking For Nothing",
-      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
-    },
-    {
-      "added_at": "2026-05-29 12:19:27",
-      "album": {
-        "name": "Fluorescent Light + Boars",
-        "url": "https://open.spotify.com/album/2Cr6Ys4sCsknBXqQZ1G9pB"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        },
-        {
-          "name": "Max Garc\u00eda Conover",
-          "url": "https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "Fluorescent Light",
-      "url": "https://open.spotify.com/track/1bhOhI3xUf89gDYoHMd5WX"
-    },
-    {
-      "added_at": "2026-05-29 12:19:27",
-      "album": {
-        "name": "hang on the wall what you kill",
-        "url": "https://open.spotify.com/album/6wTZVm4bY9bTV57xS4G4b2"
-      },
-      "artists": [
-        {
-          "name": "emory",
-          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
-        }
-      ],
-      "duration_ms": 147348,
-      "name": "hang on the wall what you kill",
-      "url": "https://open.spotify.com/track/3ThXubZEb1x9U8AgfYCq8c"
-    },
-    {
-      "added_at": "2026-05-29 12:19:27",
-      "album": {
-        "name": "George",
-        "url": "https://open.spotify.com/album/2WCrgpZ3OFFyNj8M0wRgz6"
-      },
-      "artists": [
-        {
-          "name": "Jake Minch",
-          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
-        }
-      ],
-      "duration_ms": 181213,
-      "name": "Fingers and Clothes",
-      "url": "https://open.spotify.com/track/4HHRljxDiaRgVKQBXEC7b0"
-    },
-    {
-      "added_at": "2026-05-29 12:19:27",
-      "album": {
-        "name": "The Space Between",
-        "url": "https://open.spotify.com/album/73BxuAtQLUMR30pRPN535y"
-      },
-      "artists": [
-        {
-          "name": "Hannah Frances",
-          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
-        },
-        {
-          "name": "Daniel Rossen",
-          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
-        }
-      ],
-      "duration_ms": 347484,
-      "name": "The Space Between",
-      "url": "https://open.spotify.com/track/6pdbsf3L7iqDwqRe6VNHeu"
-    },
-    {
-      "added_at": "2026-05-29 12:19:27",
-      "album": {
-        "name": "One Is Always Heading Somewhere",
-        "url": "https://open.spotify.com/album/01aK4s2HVJ3Alji7lRF37U"
-      },
-      "artists": [
-        {
-          "name": "Womb",
-          "url": "https://open.spotify.com/artist/58DUChzwD72FKOw6Bpjx1s"
-        }
-      ],
-      "duration_ms": 162946,
-      "name": "One Is Always Heading Somewhere",
-      "url": "https://open.spotify.com/track/1nTCvb1GHKtGmj1up3z6Tx"
-    },
-    {
-      "added_at": "2026-05-29 12:19:27",
-      "album": {
-        "name": "Break The Jaw",
-        "url": "https://open.spotify.com/album/2khFgwnRjBab1uWRBVGI9H"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 247053,
-      "name": "Break The Jaw",
-      "url": "https://open.spotify.com/track/5J9Y2roWzvClVvb39fHMiW"
-    },
-    {
-      "added_at": "2026-05-29 12:19:27",
-      "album": {
-        "name": "Dissociate",
-        "url": "https://open.spotify.com/album/66BVG7qVrETXlleUUcqEBK"
-      },
-      "artists": [
-        {
-          "name": "Luisa Marion",
-          "url": "https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie"
-        }
-      ],
-      "duration_ms": 194018,
-      "name": "Dissociate",
-      "url": "https://open.spotify.com/track/5phzTzZYuWstrCTZI56Nzo"
     }
   ],
   "unique_name": "juniper",

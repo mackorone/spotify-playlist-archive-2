@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 
 > La playlist survitaminée !
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,333 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,351 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 31 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/76dIZzTdrNO15mGBrU3MHi) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [96 Months](https://open.spotify.com/album/1CfqWSAyfmYzHU9ktHxUqd) | 3:34 |
 | 32 | [SPA](https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [SPA](https://open.spotify.com/album/7DthnLIimaB9bJH6ABmbvd) | 3:03 |
 | 33 | [Repeat It](https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Repeat It](https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11) | 3:11 |
-| 34 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 |
-| 35 | [ALGO TÚ](https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [ALGO TÚ](https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo) | 3:33 |
+| 34 | [ALGO TÚ](https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [ALGO TÚ](https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo) | 3:33 |
+| 35 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 |
 | 36 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 |
 | 37 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 |
 | 38 | [Save Me Tonight](https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Save Me Tonight](https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 49 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 |
 | 50 | [Azizam](https://open.spotify.com/track/5AJnWnJ8A1x9fyVoXdOGmC) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/54GTNKRi7egKeaLHNwtKWd) | 3:29 |
 
-Snapshot ID: `AAAAAFFCB7QHl+xj6KGTPl+f4096KSMb`
+Snapshot ID: `AAAAAAUX+gC6Jb3RBXI+D2dDLmZkimDO`

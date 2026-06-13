@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 604051,
+  "num_followers": 604415,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAACEiAyh4fYEnAWhZp0gd7DI",
+  "snapshot_id": "ain6gAAAAAC7uwXttj/poAehW60PGqvL",
   "tracks": [
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure",
-        "url": "https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7"
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 223760,
-      "name": "The End Of The World",
-      "url": "https://open.spotify.com/track/0FMAfHeqwXjJPy0mcCm6ur"
+      "duration_ms": 199000,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/59r1yue8AEBRWFJZ8kLwnj"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seventeen Seconds",
-        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/59r1yue8AEBRWFJZ8kLwnj"
+      "duration_ms": 223760,
+      "name": "The End Of The World",
+      "url": "https://open.spotify.com/track/0FMAfHeqwXjJPy0mcCm6ur"
     },
     {
       "added_at": null,

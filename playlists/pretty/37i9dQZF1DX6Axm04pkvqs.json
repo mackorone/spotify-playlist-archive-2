@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 78366,
+  "num_followers": 78431,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Never Be the Same (Live)",
-        "url": "https://open.spotify.com/album/1tUbpFa1twKE0dwltJpaF1"
-      },
-      "artists": [
-        {
-          "name": "David Dam",
-          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Never Be the Same (Live)",
-      "url": "https://open.spotify.com/track/10FpYQLJ3urAr7tPJOnFy5"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Worship Chant",
         "url": "https://open.spotify.com/album/5k5WUShHTOc9d49d73cNYA"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 104687,
       "name": "Worship Chant",
       "url": "https://open.spotify.com/track/3gdA2i1dq7rGy0j6dwoEhE"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Elohim Adonai",
+        "url": "https://open.spotify.com/album/3u20aiiz0pNhRvOWiXuvvN"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "duration_ms": 227998,
+      "name": "Elohim Adonai",
+      "url": "https://open.spotify.com/track/5dIj0tNjsEeF1h2QfnrGDo"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Elohim Adonai",
-        "url": "https://open.spotify.com/album/3u20aiiz0pNhRvOWiXuvvN"
-      },
-      "artists": [
-        {
-          "name": "David Dam",
-          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
-        }
-      ],
-      "duration_ms": 227998,
-      "name": "Elohim Adonai",
-      "url": "https://open.spotify.com/track/5dIj0tNjsEeF1h2QfnrGDo"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Lara George",
         "url": "https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 269113,
       "name": "Ko Ma Si/ Nobody Like You",
       "url": "https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Never Be the Same (Live)",
+        "url": "https://open.spotify.com/album/1tUbpFa1twKE0dwltJpaF1"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Never Be the Same (Live)",
+      "url": "https://open.spotify.com/track/10FpYQLJ3urAr7tPJOnFy5"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK"
         }
       ],
-      "duration_ms": 564250,
-      "name": "Intense Spontaneous Worship",
-      "url": "https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0"
+      "duration_ms": 770500,
+      "name": "Chants of Intimacy",
+      "url": "https://open.spotify.com/track/5pzgMmTjKJlThDPQnfRX5I"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK"
         }
       ],
-      "duration_ms": 770500,
-      "name": "Chants of Intimacy",
-      "url": "https://open.spotify.com/track/5pzgMmTjKJlThDPQnfRX5I"
+      "duration_ms": 564250,
+      "name": "Intense Spontaneous Worship",
+      "url": "https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0"
     },
     {
       "added_at": "2025-08-29 00:01:17",
@@ -843,6 +843,22 @@
       "duration_ms": 531724,
       "name": "Joy Chant",
       "url": "https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Flaunt Your Fire (Holy Ghost)",
+        "url": "https://open.spotify.com/album/754CwsqnhdY5y1EZKQqKPd"
+      },
+      "artists": [
+        {
+          "name": "Praiz Singz",
+          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
+        }
+      ],
+      "duration_ms": 430105,
+      "name": "Flaunt Your Fire (Holy Ghost)",
+      "url": "https://open.spotify.com/track/2zwltlr42APbCR1rnAsoOU"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -871,22 +887,6 @@
       "duration_ms": 398329,
       "name": "Revival Revival",
       "url": "https://open.spotify.com/track/7eUF82gjc4HpJM80aI6Rp8"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Flaunt Your Fire (Holy Ghost)",
-        "url": "https://open.spotify.com/album/754CwsqnhdY5y1EZKQqKPd"
-      },
-      "artists": [
-        {
-          "name": "Praiz Singz",
-          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
-        }
-      ],
-      "duration_ms": 430105,
-      "name": "Flaunt Your Fire (Holy Ghost)",
-      "url": "https://open.spotify.com/track/2zwltlr42APbCR1rnAsoOU"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "We Are Fire",
-        "url": "https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY"
-      },
-      "artists": [
-        {
-          "name": "Ty Bello",
-          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
-        }
-      ],
-      "duration_ms": 329262,
-      "name": "Burning with the Holy Ghost",
-      "url": "https://open.spotify.com/track/6etwAw9xwGZzr9Te2Mp9Dw"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Midnight Cry, Vol. 2",
         "url": "https://open.spotify.com/album/6ONKFW2nc1mznSaGdxoOJo"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 1442088,
       "name": "Midnight Cry, Vol. 2",
       "url": "https://open.spotify.com/track/4GReGQny43YTFYz6YXIJqd"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "We Are Fire",
+        "url": "https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY"
+      },
+      "artists": [
+        {
+          "name": "Ty Bello",
+          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
+        }
+      ],
+      "duration_ms": 329262,
+      "name": "Burning with the Holy Ghost",
+      "url": "https://open.spotify.com/track/6etwAw9xwGZzr9Te2Mp9Dw"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1169,20 +1169,24 @@
       "url": "https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
+      "added_at": "2025-03-07 00:01:32",
       "album": {
-        "name": "Kingdom Now",
-        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
+        "name": "Hallelujah Chant",
+        "url": "https://open.spotify.com/album/6wWdwa33ovvntJ35BADYRv"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "Noble G",
+          "url": "https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm"
+        },
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
         }
       ],
-      "duration_ms": 731294,
-      "name": "Song of Angels",
-      "url": "https://open.spotify.com/track/3JMh7EqWmxzguJaSCqQuwc"
+      "duration_ms": 295477,
+      "name": "Hallelujah Chant (Ruach Hakodesh)",
+      "url": "https://open.spotify.com/track/39sTVazPHh5IB8SdWNgLha"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1217,24 +1221,20 @@
       "url": "https://open.spotify.com/track/6pKhtSc35N8WhiJNS0Dymx"
     },
     {
-      "added_at": "2025-03-07 00:01:32",
+      "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Hallelujah Chant",
-        "url": "https://open.spotify.com/album/6wWdwa33ovvntJ35BADYRv"
+        "name": "Kingdom Now",
+        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
       },
       "artists": [
         {
-          "name": "Noble G",
-          "url": "https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm"
-        },
-        {
-          "name": "Nosa",
-          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 295477,
-      "name": "Hallelujah Chant (Ruach Hakodesh)",
-      "url": "https://open.spotify.com/track/39sTVazPHh5IB8SdWNgLha"
+      "duration_ms": 731294,
+      "name": "Song of Angels",
+      "url": "https://open.spotify.com/track/3JMh7EqWmxzguJaSCqQuwc"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1273,20 +1273,20 @@
       "url": "https://open.spotify.com/track/2qQz5I3VxBWjXDHNqMg6UB"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
+      "added_at": "2025-03-07 00:01:32",
       "album": {
-        "name": "Song of Angels (Live)",
-        "url": "https://open.spotify.com/album/3ldSID9hjAlvxkXE0KnPd8"
+        "name": "In This Place/Liyabasebenzela (Live At Carnival City, 2024)",
+        "url": "https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
         }
       ],
-      "duration_ms": 737208,
-      "name": "Song of Angels (Live)",
-      "url": "https://open.spotify.com/track/0RqyWkOhcoFzO9qFw7JIx9"
+      "duration_ms": 393053,
+      "name": "In This Place - Live At Carnival City, 2024",
+      "url": "https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1305,20 +1305,20 @@
       "url": "https://open.spotify.com/track/6UEIholh21jeDvwsNpZXGy"
     },
     {
-      "added_at": "2025-03-07 00:01:32",
+      "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "In This Place/Liyabasebenzela (Live At Carnival City, 2024)",
-        "url": "https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD"
+        "name": "Song of Angels (Live)",
+        "url": "https://open.spotify.com/album/3ldSID9hjAlvxkXE0KnPd8"
       },
       "artists": [
         {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 393053,
-      "name": "In This Place - Live At Carnival City, 2024",
-      "url": "https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON"
+      "duration_ms": 737208,
+      "name": "Song of Angels (Live)",
+      "url": "https://open.spotify.com/track/0RqyWkOhcoFzO9qFw7JIx9"
     },
     {
       "added_at": "2024-07-26 00:01:00",

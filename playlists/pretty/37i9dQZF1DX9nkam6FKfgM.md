@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nkam6FKfgM.md) - [plain]
 
 > summer has landed
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,964 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,054 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nkam6FKfgM.md) - [plain]
 | 74 | [Summerlove](https://open.spotify.com/track/4NYW5QDoVtzl0WfKfd96qD) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Dance Dance \(Don't Go\)](https://open.spotify.com/album/4D5ZRbx0gRMbd0Nf81qG8m) | 2:21 |
 | 75 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 |
 
-Snapshot ID: `AAAAAOZurFpyVCJJlYL4nhVoodzjT1DI`
+Snapshot ID: `AAAAAOoKnh7ZSiu0zjEQp1kLXWOTXRu1`

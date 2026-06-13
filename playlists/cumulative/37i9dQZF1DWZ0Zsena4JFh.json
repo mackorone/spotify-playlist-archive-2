@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Willow en portada.",
+  "description": "RHYE en portada.",
   "name": "el indie no es un g\u00e9nero ",
   "tracks": [
     {
@@ -4053,6 +4053,24 @@
     },
     {
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/1EQK6Ve1W9b4bEKK3QAYtj"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N"
+    },
+    {
+      "album": {
         "name": "Drivin'",
         "url": "https://open.spotify.com/album/67ZGAMyret2ZCdHzq0axeX"
       },
@@ -4756,6 +4774,24 @@
       "duration_ms": 192857,
       "name": "Farrah Fawcett Hair (Predux)",
       "url": "https://open.spotify.com/track/7bwHcXxoHlYEeKsRDNwIWK"
+    },
+    {
+      "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/7kexvcUMBGWckAtxITqr5g"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196388,
+      "name": "Fatal",
+      "url": "https://open.spotify.com/track/2DBkUL9Uwq8LARm2XpYZXS"
     },
     {
       "album": {
@@ -6136,7 +6172,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 214000,
       "name": "Holy Grail",
       "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
@@ -6248,6 +6284,28 @@
       "duration_ms": 194969,
       "name": "Honeycomb",
       "url": "https://open.spotify.com/track/0z8Z0sQiBgww2toWEf5A40"
+    },
+    {
+      "album": {
+        "name": "Hot Blooded (Rose City Rework)",
+        "url": "https://open.spotify.com/album/5Pu2voUlhsaU0PZwDpJXDB"
+      },
+      "artists": [
+        {
+          "name": "New Constellations",
+          "url": "https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9"
+        },
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280281,
+      "name": "Hot Blooded - Rose City Rework",
+      "url": "https://open.spotify.com/track/3OZPGHp1Qo0hJOJCR5Ljnj"
     },
     {
       "album": {
@@ -6704,7 +6762,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 234605,
       "name": "i'm not joking",
       "url": "https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF"
@@ -7160,7 +7218,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 183733,
       "name": "Island",
       "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
@@ -9604,7 +9662,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 175746,
       "name": "No Place to Be",
       "url": "https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ"
@@ -11414,7 +11472,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 197089,
       "name": "Riptides",
       "url": "https://open.spotify.com/track/34HWkEfh1KRkw5hReCVtcz"
@@ -11848,6 +11906,24 @@
       "duration_ms": 286000,
       "name": "Secret Safe",
       "url": "https://open.spotify.com/track/6I1D9IkefCCrNk8z7amHDU"
+    },
+    {
+      "album": {
+        "name": "This Mirror Weighs a Ton/See Out Loud",
+        "url": "https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296746,
+      "name": "See Out Loud",
+      "url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj"
     },
     {
       "album": {
@@ -12578,6 +12654,24 @@
       "duration_ms": 197703,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
+    },
+    {
+      "album": {
+        "name": "Source",
+        "url": "https://open.spotify.com/album/2b3wKI7bN2xS6aq2exhQWu"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200853,
+      "name": "Source",
+      "url": "https://open.spotify.com/track/7lP1syYfoIL44KzSMJHlEf"
     },
     {
       "album": {
@@ -15156,7 +15250,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 262335,
       "name": "Vivid Light",
       "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
@@ -15550,6 +15644,24 @@
       "duration_ms": 212023,
       "name": "What\u2019s On Your Mind",
       "url": "https://open.spotify.com/track/2DOKvJS61usFOxobo7jLi0"
+    },
+    {
+      "album": {
+        "name": "When I Get Drunk (I Want You Boy)",
+        "url": "https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205720,
+      "name": "When I Get Drunk (I Want You Boy)",
+      "url": "https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY"
     },
     {
       "album": {

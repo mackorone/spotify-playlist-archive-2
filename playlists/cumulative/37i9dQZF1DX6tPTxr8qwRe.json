@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "sweet. sharp. unbothered - Bea Miller on the cover",
+  "description": "sweet. sharp. unbothered - INJI on the cover",
   "name": "SALT",
   "tracks": [
     {
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 137250,
       "name": "BAD AT MATH",
       "url": "https://open.spotify.com/track/01Sa5D6Odl5TCylRxMJTse"
@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 149866,
       "name": "Cognitive Dissonance",
       "url": "https://open.spotify.com/track/4gxcQjQas1oSbY63REnRjT"
@@ -5358,7 +5358,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 176143,
       "name": "Ego",
       "url": "https://open.spotify.com/track/2GrW3HhogphOsmsRZ18ndR"
@@ -5452,6 +5452,24 @@
       "duration_ms": 180183,
       "name": "empty room",
       "url": "https://open.spotify.com/track/6TxCqjdGbTCNFgReTltmCx"
+    },
+    {
+      "album": {
+        "name": "ENAMORED",
+        "url": "https://open.spotify.com/album/262FBFFt5sPAzSc5kyXqqW"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168892,
+      "name": "ENAMORED",
+      "url": "https://open.spotify.com/track/750ZE23CXtS9bAGteC0b1b"
     },
     {
       "album": {
@@ -6520,7 +6538,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 157714,
       "name": "GAME ON",
       "url": "https://open.spotify.com/track/71haRmcp17D0nrl9S0hVgq"
@@ -9008,6 +9026,24 @@
       "duration_ms": 132250,
       "name": "I THINK YOU TURNED ME",
       "url": "https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0"
+    },
+    {
+      "album": {
+        "name": "I WANNA FEEL IT ALL",
+        "url": "https://open.spotify.com/album/02LSdnnb9RS5TM4SCbTVz8"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148208,
+      "name": "I WANNA FEEL IT ALL",
+      "url": "https://open.spotify.com/track/0QxKOd4IHUHG0UvPraaicT"
     },
     {
       "album": {
@@ -12275,6 +12311,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "my way",
+      "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
+    },
+    {
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/5ShHPBnTeucExVbL6ccqXj"
       },
@@ -12412,7 +12466,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 184788,
       "name": "Night at the Opera",
       "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
@@ -12510,6 +12564,24 @@
       "duration_ms": 137003,
       "name": "NO HANDS (SIDE A)",
       "url": "https://open.spotify.com/track/322B6Not1OsMLCCxHg6sZl"
+    },
+    {
+      "album": {
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159929,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl"
     },
     {
       "album": {
@@ -13554,6 +13626,24 @@
       "duration_ms": 170231,
       "name": "Pity Party Princess",
       "url": "https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa"
+    },
+    {
+      "album": {
+        "name": "pixxxie",
+        "url": "https://open.spotify.com/album/7dYuM0yNjewhDqGq2NqVtO"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244062,
+      "name": "pixxxie",
+      "url": "https://open.spotify.com/track/4coPiNHqR0LVGipcT57akq"
     },
     {
       "album": {
@@ -14622,7 +14712,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 205416,
       "name": "Right From Left",
       "url": "https://open.spotify.com/track/4ppNmrjyEEI6yD5FkGe6lw"
@@ -16388,6 +16478,24 @@
       "duration_ms": 152129,
       "name": "SPOOKED",
       "url": "https://open.spotify.com/track/5z7WYNGTHyrJEPweEuSotD"
+    },
+    {
+      "album": {
+        "name": "spotless state of mind",
+        "url": "https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT"
+      },
+      "artists": [
+        {
+          "name": "Fia James",
+          "url": "https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159411,
+      "name": "spotless state of mind",
+      "url": "https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf"
     },
     {
       "album": {
@@ -19474,7 +19582,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 167026,
       "name": "What\u2019s a Girl Gotta Do?",
       "url": "https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu"
@@ -19550,6 +19658,24 @@
       "duration_ms": 148275,
       "name": "When You Say My Name",
       "url": "https://open.spotify.com/track/3a8b6uo4vnQSJroGhaNhgG"
+    },
+    {
+      "album": {
+        "name": "WHERE\u2019S THE FUN?",
+        "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205794,
+      "name": "WHERE\u2019S THE FUN?",
+      "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover:  Jeremy Camp",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  Stryper",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -2515,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "I'm Alright (I'm Okay)",
+        "url": "https://open.spotify.com/album/0kWoFC1H7GuG7aEVqcAMcc"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206785,
+      "name": "I'm Alright (I'm Okay)",
+      "url": "https://open.spotify.com/track/5w7Z9mi77xuNdck2nv3GhL"
+    },
+    {
+      "album": {
         "name": "I'm Done",
         "url": "https://open.spotify.com/album/0qgFmorqdP4mfdCYG4sXLS"
       },
@@ -3012,6 +3030,28 @@
       "duration_ms": 175007,
       "name": "Look At God",
       "url": "https://open.spotify.com/track/5xqU5TupZhjHTbz6NgVvo6"
+    },
+    {
+      "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/39GDvPBRFkksacIUmQhMJz"
+      },
+      "artists": [
+        {
+          "name": "Natural State",
+          "url": "https://open.spotify.com/artist/0EpCi97ecBbnLyBlmLaLM1"
+        },
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209865,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/4ky05C3dLT1bmwAQZ76Qu4"
     },
     {
       "album": {
@@ -3590,6 +3630,24 @@
       "duration_ms": 269733,
       "name": "Panic Room (featuring Andrew Schwab)",
       "url": "https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg"
+    },
+    {
+      "album": {
+        "name": "Death Of Fear",
+        "url": "https://open.spotify.com/album/2WZBkPF4cXKEpTEJfye0dj"
+      },
+      "artists": [
+        {
+          "name": "ALTIRA",
+          "url": "https://open.spotify.com/artist/49d4O0218ZI3FKYNFLgrNs"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211300,
+      "name": "Paper Doll",
+      "url": "https://open.spotify.com/track/40fDHX0Ac4NPheT1Dys5md"
     },
     {
       "album": {
@@ -4899,6 +4957,24 @@
     },
     {
       "album": {
+        "name": "The Showdown",
+        "url": "https://open.spotify.com/album/28lkjIFWI1xH3EVIU7SxJL"
+      },
+      "artists": [
+        {
+          "name": "Big Dismal",
+          "url": "https://open.spotify.com/artist/7FvuRKQuUL3tmFujoJKMOq"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169317,
+      "name": "The Showdown",
+      "url": "https://open.spotify.com/track/6C7U9HMQIOfD0UpmH4jVvR"
+    },
+    {
+      "album": {
         "name": "Unite",
         "url": "https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi"
       },
@@ -5210,6 +5286,24 @@
       "duration_ms": 245000,
       "name": "Wake Up, Mr. Crow",
       "url": "https://open.spotify.com/track/0grUF97drgnU62EI7jpN4x"
+    },
+    {
+      "album": {
+        "name": "WALK AWAY",
+        "url": "https://open.spotify.com/album/04KMCAoDxsJEevw2OXDduZ"
+      },
+      "artists": [
+        {
+          "name": "Coqu\u00ed",
+          "url": "https://open.spotify.com/artist/1uCjP7p7EWy5ZfH2jszK06"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208216,
+      "name": "WALK AWAY",
+      "url": "https://open.spotify.com/track/69rNXkGYtjZEV8VJNjAekb"
     },
     {
       "album": {

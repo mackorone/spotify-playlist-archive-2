@@ -4865,6 +4865,24 @@
     },
     {
       "album": {
+        "name": "Chills",
+        "url": "https://open.spotify.com/album/5lckTaYHovHJdMHPKLp766"
+      },
+      "artists": [
+        {
+          "name": "Second Sun",
+          "url": "https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171724,
+      "name": "Chills",
+      "url": "https://open.spotify.com/track/7mCz5ly2yn5HEzc34IgUQG"
+    },
+    {
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/7cFx8J0GeFGLiaN5AwuGFb"
       },
@@ -10009,6 +10027,24 @@
     },
     {
       "album": {
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/6alR32LjbSt0N4flb1DKgz"
+      },
+      "artists": [
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122135,
+      "name": "Flying High",
+      "url": "https://open.spotify.com/track/52IYvPqQZ7qiVeFQDKHjDL"
+    },
+    {
+      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/2bgUfyfDGDgn1lcchgFOTZ"
       },
@@ -14883,6 +14919,28 @@
     },
     {
       "album": {
+        "name": "Infinitely Falling",
+        "url": "https://open.spotify.com/album/4XIMUnvwGN2N2Ldia7PUfg"
+      },
+      "artists": [
+        {
+          "name": "linequat",
+          "url": "https://open.spotify.com/artist/49PsUQX8IbmpwcTWHG9OWy"
+        },
+        {
+          "name": "Pherick",
+          "url": "https://open.spotify.com/artist/261bs46BCFyBXzTUz9RPJe"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Infinitely Falling",
+      "url": "https://open.spotify.com/track/48Eg88wbu6IOuiOVktNWwn"
+    },
+    {
+      "album": {
         "name": "Into the Dark",
         "url": "https://open.spotify.com/album/4hIZB9zWl5cSrKUwC3vCXJ"
       },
@@ -16491,6 +16549,24 @@
     },
     {
       "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/2zfzH05qNJG20cZJc7Hcjp"
+      },
+      "artists": [
+        {
+          "name": "Zyrius",
+          "url": "https://open.spotify.com/artist/7Iecolizo2sW1RpCrITIZ8"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159467,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/70xlG6Nd42L0GRwlyHQebI"
+    },
+    {
+      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/3NaWbhdg7dEVoud2qBQOWy"
       },
@@ -16674,6 +16750,28 @@
       "duration_ms": 138000,
       "name": "Like a Mystery",
       "url": "https://open.spotify.com/track/74E2muWug3WOPjKkw2hpq5"
+    },
+    {
+      "album": {
+        "name": "Like a Waterfall",
+        "url": "https://open.spotify.com/album/1o7jEzv9OwYh5lGIUDU7tW"
+      },
+      "artists": [
+        {
+          "name": "\u00c6j",
+          "url": "https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41"
+        },
+        {
+          "name": "Helenez",
+          "url": "https://open.spotify.com/artist/5r612mLHD4NTrSx9k69UeR"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139722,
+      "name": "Like a Waterfall",
+      "url": "https://open.spotify.com/track/2pZtCGvTXXiI3UlLePy3dY"
     },
     {
       "album": {
@@ -17410,6 +17508,28 @@
       "duration_ms": 154072,
       "name": "Lost In Yesterday",
       "url": "https://open.spotify.com/track/2TGjRTyVDdUOyZK6qOVh40"
+    },
+    {
+      "album": {
+        "name": "Lost in You",
+        "url": "https://open.spotify.com/album/5bgtCDmfea8XEIW3dWAMdU"
+      },
+      "artists": [
+        {
+          "name": "Henry Gao",
+          "url": "https://open.spotify.com/artist/5dmbOQDM9l6DBtjbgwf85k"
+        },
+        {
+          "name": "Joel Winterflood",
+          "url": "https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156206,
+      "name": "Lost in You",
+      "url": "https://open.spotify.com/track/4CPy28pUyD5MW3EKMDRUGB"
     },
     {
       "album": {
@@ -18218,7 +18338,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 136817,
       "name": "Magnets",
       "url": "https://open.spotify.com/track/2JQhKu9QNHZIlftJhw95qv"
@@ -21796,6 +21916,24 @@
       "duration_ms": 143571,
       "name": "Open Fire",
       "url": "https://open.spotify.com/track/7JZSZ5Uy8h9VmLCDJbvWCM"
+    },
+    {
+      "album": {
+        "name": "Open Your Eyes",
+        "url": "https://open.spotify.com/album/4gArFDlPT2ieALLYiJZ8bi"
+      },
+      "artists": [
+        {
+          "name": "2FarAway",
+          "url": "https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/4ZOX00MgPbzgXLtFFnrEs9"
     },
     {
       "album": {
@@ -25547,6 +25685,32 @@
     },
     {
       "album": {
+        "name": "So Easy (To Fall in Love)",
+        "url": "https://open.spotify.com/album/0LIr4jNS6wZsdty2jOo8YC"
+      },
+      "artists": [
+        {
+          "name": "MARSTEREON",
+          "url": "https://open.spotify.com/artist/7jEVO7yGtLTH2UsMcuA8Ap"
+        },
+        {
+          "name": "AM3ER NOVA",
+          "url": "https://open.spotify.com/artist/1zFqg5XrWrW7FZ9USd2eRv"
+        },
+        {
+          "name": "Deep Mage",
+          "url": "https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154423,
+      "name": "So Easy (To Fall in Love)",
+      "url": "https://open.spotify.com/track/51LAkcbnKnmp9qOBOlF64G"
+    },
+    {
+      "album": {
         "name": "So Far Away",
         "url": "https://open.spotify.com/album/1wSiogYThA7TlPQ2C1V6oK"
       },
@@ -26306,6 +26470,24 @@
       "duration_ms": 137142,
       "name": "Steady",
       "url": "https://open.spotify.com/track/7mxbIQxnYP1vc4JpKnEQhQ"
+    },
+    {
+      "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/0ookwE9DzMDydriNbUiJUQ"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144005,
+      "name": "Stereotype",
+      "url": "https://open.spotify.com/track/016auAOhnOdM2ykwqEIw8v"
     },
     {
       "album": {
@@ -29073,6 +29255,28 @@
     },
     {
       "album": {
+        "name": "To Be",
+        "url": "https://open.spotify.com/album/6xB3oCL80wPm3CrgfGDetk"
+      },
+      "artists": [
+        {
+          "name": "Eugene Becker",
+          "url": "https://open.spotify.com/artist/0CyuzTTSv7rrrgSkbereey"
+        },
+        {
+          "name": "Stendahl",
+          "url": "https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "To Be",
+      "url": "https://open.spotify.com/track/5uxnKcEFm5lPPiMPfhvwg2"
+    },
+    {
+      "album": {
         "name": "To Move Again",
         "url": "https://open.spotify.com/album/2ud8zdiICtWtTgI3OhqR5u"
       },
@@ -30790,6 +30994,24 @@
       "duration_ms": 172174,
       "name": "We Gonna Make It",
       "url": "https://open.spotify.com/track/666RymLO6vbDIDtL6gb53F"
+    },
+    {
+      "album": {
+        "name": "We'll Be Alright",
+        "url": "https://open.spotify.com/album/6GoM0gDXOle5HwYztP8xRC"
+      },
+      "artists": [
+        {
+          "name": "CL\u00dcE",
+          "url": "https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132794,
+      "name": "We'll Be Alright",
+      "url": "https://open.spotify.com/track/3lTcZUF68oWg0HJ75nyqej"
     },
     {
       "album": {

@@ -64,7 +64,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 309552,
       "name": "Abantu",
       "url": "https://open.spotify.com/track/6hVC8HTAsehbyNsbg1SMZo"
@@ -769,6 +769,36 @@
     },
     {
       "album": {
+        "name": "Winter 2026 (DJ Mix)",
+        "url": "https://open.spotify.com/album/3ZrJDjTJDIPeBjQns0E8s7"
+      },
+      "artists": [
+        {
+          "name": "El Mukuka",
+          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
+        },
+        {
+          "name": "Leo Gira",
+          "url": "https://open.spotify.com/artist/18FnUahuqpZRX5xQj4ZwnP"
+        },
+        {
+          "name": "Ivory White",
+          "url": "https://open.spotify.com/artist/2RPWOrsiDZePdTuM8R6udn"
+        },
+        {
+          "name": "Cephas Maseko",
+          "url": "https://open.spotify.com/artist/2I2uw31de5SWWGHtDZ6sGE"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377755,
+      "name": "Between Malawi & Zambia - Mixed",
+      "url": "https://open.spotify.com/track/6lNWdI0Rfx7KYFcTZXmcVk"
+    },
+    {
+      "album": {
         "name": "Billions (Major League Djz Remix)",
         "url": "https://open.spotify.com/album/6FtW8lv0woXaoV8bXNsAxQ"
       },
@@ -976,7 +1006,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 448493,
       "name": "Child Of The Stars",
       "url": "https://open.spotify.com/track/3tUEvF3KSQBX7qyxYE1yRG"
@@ -1376,6 +1406,24 @@
       "duration_ms": 273719,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/3BLczPDaKaqyEEIfwaiBAu"
+    },
+    {
+      "album": {
+        "name": "Elumelu",
+        "url": "https://open.spotify.com/album/3cR2qRqYSeOiLIPPEokaXg"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133177,
+      "name": "Elumelu",
+      "url": "https://open.spotify.com/track/7aCW8Q337ACIFUmziqKGQd"
     },
     {
       "album": {
@@ -2122,7 +2170,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 253093,
       "name": "Holy",
       "url": "https://open.spotify.com/track/6raQx5tTTQLTPU7MnvfMqc"
@@ -2905,6 +2953,40 @@
     },
     {
       "album": {
+        "name": "Izinto Ziman Ukwenzeka (Remixes)",
+        "url": "https://open.spotify.com/album/3vFfvEkw9xTgymK7SmQRlV"
+      },
+      "artists": [
+        {
+          "name": "Van Gee",
+          "url": "https://open.spotify.com/artist/6vDIllQI7tqFQIkR9CUanF"
+        },
+        {
+          "name": "Ritha",
+          "url": "https://open.spotify.com/artist/2madjU6y7Ke5b7C7Drlp8n"
+        },
+        {
+          "name": "Ntando Yamahlubi",
+          "url": "https://open.spotify.com/artist/6MRPRBeOdS17yOGNjKJFn8"
+        },
+        {
+          "name": "MphoEL",
+          "url": "https://open.spotify.com/artist/25QcdSlsdJU2qYIo7NnZsT"
+        },
+        {
+          "name": "Kaytah",
+          "url": "https://open.spotify.com/artist/7wWEcTTy43Tl3ASOCsTD2Y"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395640,
+      "name": "Izinto Ziman Ukwenzeka - Kaytah's Invincible Touch",
+      "url": "https://open.spotify.com/track/51kkLP3QovuMb6yQCm3VK9"
+    },
+    {
+      "album": {
         "name": "Under The Sun",
         "url": "https://open.spotify.com/album/4JgbPlF06nOTO03mSBSgtq"
       },
@@ -3492,7 +3574,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 367386,
       "name": "Lift Your Hands",
       "url": "https://open.spotify.com/track/1CdiJrMij4OBmxY7d0bIDv"
@@ -4118,7 +4200,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -4286,7 +4368,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 364000,
       "name": "Mwambie",
       "url": "https://open.spotify.com/track/0XQNAQCBi5fjg5EZYU1P83"
@@ -6688,7 +6770,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 344223,
       "name": "Uthando Lwethu (feat. ChildDaDJ, Funktone & The Elevatorz)",
       "url": "https://open.spotify.com/track/3lvks5HZQw8E7CG03K7kVw"
@@ -6766,7 +6848,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 302000,
       "name": "Uyibonani",
       "url": "https://open.spotify.com/track/6YLoZJANdxUBSeNdt6ZDQ8"

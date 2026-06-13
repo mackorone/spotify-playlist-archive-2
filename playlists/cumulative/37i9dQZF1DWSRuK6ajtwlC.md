@@ -2,9 +2,9 @@
 
 ### [Norteño Sax](https://open.spotify.com/playlist/37i9dQZF1DWSRuK6ajtwlC)
 
-> A levantar polvadera con lo mejor de la música de sax 🎷 Conjunto Relincho en portada 📸
+> A levantar polvadera con lo mejor de la música de sax 🎷 Espinoza Paz  y la Fiera de Ojinaga en portada 📸
 
-390 songs - 20 hr 12 min
+395 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Chiquilla Preciosa \- En Vivo](https://open.spotify.com/track/1KM55Ay5rJDtKNtwfZVZEc) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Renovando El Estilo 2.0 \(En Vivo\)](https://open.spotify.com/album/1cT5agyzL39kX5MZ6FSVKg) | 3:04 | 2023-05-19 | 2023-07-15 |
 | [Chiquita Bonita](https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Chiquita Bonita](https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB) | 2:36 | 2023-03-06 | 2026-05-30 |
 | [Cicatrices](https://open.spotify.com/track/4kLq2M9YvtLeTLynmWD28J) | [La Descendencia De Rio Grande](https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd) | [Cicatrices](https://open.spotify.com/album/2SrJ8mA3HWb48esf6e2msY) | 2:39 | 2023-05-19 | 2023-11-18 |
+| [Coleccionando Heridas](https://open.spotify.com/track/3W51mxW1K6F8JhsphnVy6J) | [Alejandra Rojas](https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1), [ALIADOS](https://open.spotify.com/artist/1grV8zPYlTSC3pak8395n1) | [Coleccionando Heridas](https://open.spotify.com/album/4GcDBYJA0FxzJkMrQllz3J) | 3:32 | 2026-06-12 |  |
 | [Coleccionando Heridas](https://open.spotify.com/track/3NuCBxhOM2t3v9DjBDWTuK) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [La Exigencia](https://open.spotify.com/artist/48GDxZysa4Y6e21sgKOv2w) | [Coleccionando Heridas](https://open.spotify.com/album/1uIXPLl0XT5G1e6SepOpek) | 3:32 | 2026-02-20 |  |
 | [Como Estas Tú](https://open.spotify.com/track/2ljlODbJrQrMEcC4wmoCkg) | [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t) | [De Frente](https://open.spotify.com/album/70bYfLrHCQMkUHtHQZFLYR) | 2:16 | 2023-03-06 | 2023-11-18 |
 | [Como Los Vaqueros](https://open.spotify.com/track/1p0i3w8Fp0OS2HOzWFPajF) | [DISTINTO NORTE](https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L) | [Como Los Vaqueros](https://open.spotify.com/album/5B4zC9ph3LVyVY6zwwov9f) | 2:52 | 2026-03-06 |  |
@@ -119,6 +120,7 @@
 | [El Clima](https://open.spotify.com/track/3ekdUF4cZDzsR87Orn3LyW) | [Adverzo](https://open.spotify.com/artist/0NMJh5gFRAkN5uUsCujlCV) | [El Clima](https://open.spotify.com/album/5uMshEH40InYCbjNrmnwat) | 2:58 | 2024-05-17 | 2025-02-01 |
 | [El Colesterol](https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Las Agüitas](https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD) | 2:56 | 2023-04-14 | 2025-04-05 |
 | [El Condor Pasa](https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia) | [Contrabandistas de San Luis](https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb) | [El Condor Pasa](https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx) | 3:28 | 2023-03-06 | 2025-09-13 |
+| [El Huapanguero \(Tribal\)](https://open.spotify.com/track/5cYK1fjINzw9MiPgv8FnOa) | [La Potencia De La Musica Norteña](https://open.spotify.com/artist/2xotal8p4VxpscwCOgy354) | [El Huapanguero \(Tribal\)](https://open.spotify.com/album/28Jx9hoIQSf1s3DpxcX6xb) | 3:16 | 2026-06-12 |  |
 | [El Indio Enamorado](https://open.spotify.com/track/0ySVSL3Ap8lg80hRod9H7J) | [Grupo Lince](https://open.spotify.com/artist/6W3gC0TqayM3rnebrbYoEY) | [El Indio Enamorado](https://open.spotify.com/album/1tNrLF4itvOPlVwfHx7x3X) | 3:02 | 2026-03-27 |  |
 | [El Infierno](https://open.spotify.com/track/5eOGAIAg1BrWCrAOe0nQ4U) | [Grupo Legitimo](https://open.spotify.com/artist/5gK5oK6eqn17Rf7K0ljxi8) | [Trival](https://open.spotify.com/album/7KLMP956QnJIwjxAqnT03t) | 4:17 | 2026-03-13 |  |
 | [El Jack](https://open.spotify.com/track/547DGgzbqEaos5oRiZRdSx) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE), [Titanes Mx](https://open.spotify.com/artist/4Su80mIcf8MjKaq0P8kSgY) | [El Jack](https://open.spotify.com/album/3fsQZIMtua6la6UJjUlujV) | 2:59 | 2025-09-12 | 2025-10-11 |
@@ -170,6 +172,7 @@
 | [Invierno En Chihuahua](https://open.spotify.com/track/7vJEYawkKmNTS6VQTalng8) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Invierno En Chihuahua](https://open.spotify.com/album/7nTDhZeu856RrlPNA3veNw) | 2:37 | 2026-05-29 |  |
 | [Juan Ayon](https://open.spotify.com/track/6BQjnXrMGzoJy43vEnO3jz) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Juan Ayon](https://open.spotify.com/album/3ElfgDqD8nuLTKb7s8sXOZ) | 3:36 | 2024-09-27 | 2025-01-18 |
 | [Juan Colorado \- En Vivo](https://open.spotify.com/track/4KXigk1fRbCe1tO8PcHRXm) | [Ligeroz Del Río](https://open.spotify.com/artist/0uc8CY77kzCQEuiXKLEWrs) | [Juan Colorado \(En Vivo\)](https://open.spotify.com/album/2AHMwau6a1MPmlXmIAxwDy) | 4:36 | 2026-01-30 |  |
+| [Juntito a Ti \- Live](https://open.spotify.com/track/46JthiO2GqzBuUJMlHLcsn) | [La Cultura Norteña](https://open.spotify.com/artist/4dKfcKrl0Q5d9ZpnN6ybZL) | [Live Sessions, Vol.1](https://open.spotify.com/album/2BM74QXrAmwJDwPw3cu2CF) | 3:43 | 2026-06-12 |  |
 | [La Bachata](https://open.spotify.com/track/4h3L3S6gEEKGETQHrGZafH) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7IoQkL9C3vfSmF0Q9mXelv) | 2:58 | 2024-04-19 | 2026-01-15 |
 | [La Bachata](https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as) | 2:58 | 2023-03-06 | 2024-04-19 |
 | [La Boca Les Callamos](https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos](https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9) | 2:44 | 2023-03-06 | 2023-11-09 |
@@ -263,6 +266,7 @@
 | [No Quería Engañarte](https://open.spotify.com/track/2nndKGlNmFoHKT69pG0thF) | [Conjunto Sublime](https://open.spotify.com/artist/1ash7cjQrV4oBv3PKRqbAy) | [No Quería Engañarte](https://open.spotify.com/album/0MBJ62yug1edEekzperdQA) | 2:08 | 2025-07-11 | 2025-10-25 |
 | [No Regreses](https://open.spotify.com/track/3r3XuppTI6IBLJkK06Zfjx) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [No Regreses](https://open.spotify.com/album/2spgWpnZs3wByLFV1apo3n) | 3:04 | 2025-11-21 | 2026-02-21 |
 | [No Se Me Hizo](https://open.spotify.com/track/1ndXS6PX7UUjzmSlQN63sp) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [No Se Me Hizo](https://open.spotify.com/album/1cfWhbn5LsruTU3fLH2x3g) | 2:15 | 2025-11-14 | 2025-12-13 |
+| [No Se Te Va Lo Bonita](https://open.spotify.com/track/7DHZGqM3HFkqjbrvOen8f4) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [No Se Te Va Lo Bonita](https://open.spotify.com/album/0pWNCNHQZq67bLTlonPqNl) | 2:34 | 2026-06-12 |  |
 | [No Sé Con Qué Intención](https://open.spotify.com/track/4m5kRO167CQbSffdB7ZR6H) | [Los Búhos Del Alba](https://open.spotify.com/artist/5zCDSAT1Mp7GE7be1lqGPd) | [No Sé Con Qué Intención](https://open.spotify.com/album/767CKX0QDOyBxyBpi5WpQK) | 3:04 | 2025-09-26 | 2025-10-11 |
 | [No Te Quiero Volver A Ver](https://open.spotify.com/track/0E8tq1SwJhU3lBnDis2StT) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [No Te Quiero Volver A Ver](https://open.spotify.com/album/0dwuIQxl2Mqw8WrXxk5Nbf) | 2:27 | 2023-06-09 | 2023-11-18 |
 | [Nota De Voz](https://open.spotify.com/track/4xVJUwEJEudLxEwkqz4705) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Nota De Voz](https://open.spotify.com/album/6StAeXquA0LNBKYyDgWk40) | 2:16 | 2025-08-01 | 2025-11-15 |
@@ -391,6 +395,7 @@
 | [Ya Fue Suficiente](https://open.spotify.com/track/6DxehmTpQ7gPuQzIl4oJ67) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso \(Deluxe\)](https://open.spotify.com/album/53WBc1wQGoVpcMAUvdMzvS) | 2:40 | 2023-03-06 | 2023-05-20 |
 | [Ya No Me Dueles](https://open.spotify.com/track/0MDYYptUiQEqB7srakmdXh) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Ya No Me Dueles](https://open.spotify.com/album/1tjCoF8LJF1K5bABaPFsR6) | 2:23 | 2024-01-12 | 2024-08-03 |
 | [Yin Yang](https://open.spotify.com/track/5Dfy3shEvp2fNkJe5MQTI2) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Yin Yang](https://open.spotify.com/album/1bJBpoL9bZquq4LbdhDS37) | 2:22 | 2025-03-07 | 2025-11-29 |
+| [Yo No Dije](https://open.spotify.com/track/20a8C1jCjzelRsDfJUstty) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Yo No Dije](https://open.spotify.com/album/09jfMTx04SaHmWSB1Mq3Kl) | 3:35 | 2026-06-12 |  |
 | [Yo te quiero](https://open.spotify.com/track/5eCr4lBfPoWX7dFYRvac4R) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Yo te quiero](https://open.spotify.com/album/5BJrBgjDmG9ARd4ECAmYiW) | 2:47 | 2023-04-14 | 2023-07-29 |
 | [ZOMBIE](https://open.spotify.com/track/1WtZlFw2PcWFD0h1NoTS3i) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [Manuel Reza](https://open.spotify.com/artist/5Myyjo1fqz0iYDLVew4qVl) | [ZOMBIE](https://open.spotify.com/album/22x5FPlXuDbTpIAp8LUlgw) | 2:39 | 2024-09-27 | 2024-11-16 |
 | [¿Cómo Te Va Mi Amor?](https://open.spotify.com/track/4abpxp30ZM3wtKl6S18ZNv) | [Nuevo Regimen](https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8) | [¿Cómo Te Va Mi Amor?](https://open.spotify.com/album/23aXDAB6nd22S01mxexaDs) | 3:50 | 2026-03-13 |  |

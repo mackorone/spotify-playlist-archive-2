@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Big Sean, HUGEL, Scott Storch
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,601 likes - 84 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,749 likes - 84 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 27 | [Going Existential In The Rave](https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Going Existential In The Rave](https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v) | 3:07 |
 | 28 | [Do Your Best](https://open.spotify.com/track/4YsNDEzzDg8bC81pbR1y8o) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Do Your Best](https://open.spotify.com/album/6bkX4W00fwnWts68qJCV1T) | 2:34 |
 | 29 | [Sad Girls](https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Sad Girls](https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V) | 2:48 |
-| 30 | [It's So Nice](https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Withness](https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo) | 3:19 |
+| 30 | [It's So Nice \(ft\. 3DDY\)](https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Withness](https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo) | 3:19 |
 | 31 | [Run Run River \(Angels Above Me\)](https://open.spotify.com/track/0Xe2FjyQndr2LsRD820iR3) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Run Run River \(Angels Above Me\)](https://open.spotify.com/album/78vBqtV0zN5JKWPTBVbGid) | 2:36 |
 | 32 | [Into You](https://open.spotify.com/track/5NrMSFRVMWykeZJpFGwc1O) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Into You](https://open.spotify.com/album/4qCpj7C3VXs0cTMHM56CAc) | 2:19 |
 | 33 | [thumbs](https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [thumbs](https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8) | 2:50 |

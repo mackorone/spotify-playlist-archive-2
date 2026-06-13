@@ -5725,6 +5725,24 @@
     },
     {
       "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211233,
+      "name": "East Village",
+      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
+    },
+    {
+      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
@@ -21642,24 +21660,6 @@
       "duration_ms": 239748,
       "name": "Took the Train 'til the End",
       "url": "https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL"
-    },
-    {
-      "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
     },
     {
       "album": {

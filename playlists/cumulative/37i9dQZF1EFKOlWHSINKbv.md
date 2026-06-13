@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 10 hr 35 min
+175 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Die With A Smile](https://open.spotify.com/track/2LGyDir74jpzOxXH4hh2SC) | [Joseph Vincent](https://open.spotify.com/artist/40JlNF1w2OiSOyj1nC4y0I) | [Die With A Smile](https://open.spotify.com/album/464spd8BJg1Y9SQZB4DGX6) | 2:37 | 2024-09-18 | 2024-10-09 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-10-08 | 2025-03-10 |
 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 | 2025-03-09 |  |
-| [Dim My Light \(feat\. 6lack\)](https://open.spotify.com/track/129mBjUSbfKo0BdK13aJjY) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 2:39 | 2024-06-11 |  |
+| [DIM MY LIGHT](https://open.spotify.com/track/7LKbgY2PSMNn3ndIQ5Wphr) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [DIM MY LIGHT](https://open.spotify.com/album/0B4iTJYqiAmDDfqa516qYR) | 2:22 | 2026-06-12 |  |
+| [Dim My Light \(feat\. 6lack\)](https://open.spotify.com/track/129mBjUSbfKo0BdK13aJjY) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 2:39 | 2024-06-11 | 2026-06-13 |
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2024-06-11 |  |
 | [Disrespectful \(feat\. Mila J\)](https://open.spotify.com/track/4SN4KimZQOTrxEh12Hftu5) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Trigga \(Deluxe\)](https://open.spotify.com/album/09ZagJCLFszgQZTlK99yqP) | 3:56 | 2025-08-03 |  |
 | [Disrespectful \(feat\. Mila J\)](https://open.spotify.com/track/4eQec76xYzMWafPfJEDELl) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Trigga \(Deluxe\)](https://open.spotify.com/album/0kEgU7XiRXcJ7TptKepwxC) | 3:56 | 2024-06-11 | 2025-08-04 |

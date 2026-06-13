@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 7537,
+  "num_followers": 7540,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aidXgAAAAACAyCoXBY6US5Jo/vp0uzIQ",
+  "snapshot_id": "ain6gAAAAACqtmSlWzW/TMFUfeXmVkom",
   "tracks": [
     {
       "added_at": null,
@@ -640,33 +640,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 196160,
-      "name": "Take It To The Bridge",
-      "url": "https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hellscape",
-        "url": "https://open.spotify.com/album/0XKNwYFsecpZ2c9aydBYrq"
-      },
-      "artists": [
-        {
-          "name": "HECC",
-          "url": "https://open.spotify.com/artist/4XkFTNRZjPoBdPKNapLNrF"
-        },
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        },
-        {
-          "name": "Roland Banks",
-          "url": "https://open.spotify.com/artist/5dRKhmZxN3V6voKOoOEHeK"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Hellscape",
-      "url": "https://open.spotify.com/track/3fhf6IxqOAa1olqs1zfY0B"
+      "duration_ms": 173773,
+      "name": "Waste of My Time",
+      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
     },
     {
       "added_at": null,
@@ -703,6 +679,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hellscape",
+        "url": "https://open.spotify.com/album/0XKNwYFsecpZ2c9aydBYrq"
+      },
+      "artists": [
+        {
+          "name": "HECC",
+          "url": "https://open.spotify.com/artist/4XkFTNRZjPoBdPKNapLNrF"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        },
+        {
+          "name": "Roland Banks",
+          "url": "https://open.spotify.com/artist/5dRKhmZxN3V6voKOoOEHeK"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Hellscape",
+      "url": "https://open.spotify.com/track/3fhf6IxqOAa1olqs1zfY0B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "darkhorse",
         "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
       },
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 173773,
-      "name": "Waste of My Time",
-      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
+      "duration_ms": 196160,
+      "name": "Take It To The Bridge",
+      "url": "https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh"
     },
     {
       "added_at": null,

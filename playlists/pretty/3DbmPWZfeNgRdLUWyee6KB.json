@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAVGCHhL6sTtOVda2KS1rWFmzF3oevY",
+  "snapshot_id": "AAAVG9kUT9Rhxv2n263FtGgCcbM3GJUh",
   "tracks": [
     {
       "added_at": "2026-06-09 08:21:56",
@@ -2555,6 +2555,54 @@
       "duration_ms": 169500,
       "name": "Coming on Too Strong",
       "url": "https://open.spotify.com/track/5CIfISXBoPboo4otAbYT2A"
+    },
+    {
+      "added_at": "2026-06-12 07:53:35",
+      "album": {
+        "name": "Tu Primera",
+        "url": "https://open.spotify.com/album/7ad6EW2XS1NfyktvuJl1uz"
+      },
+      "artists": [
+        {
+          "name": "Carmen Ferrer",
+          "url": "https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk"
+        }
+      ],
+      "duration_ms": 210874,
+      "name": "Tu Primera",
+      "url": "https://open.spotify.com/track/2YlY78siKTJAfYyLF1yAB4"
+    },
+    {
+      "added_at": "2026-06-12 07:53:42",
+      "album": {
+        "name": "Body 2 Body",
+        "url": "https://open.spotify.com/album/2ak3EIRlVn82ajlEpeZJ4n"
+      },
+      "artists": [
+        {
+          "name": "Elijah Hues",
+          "url": "https://open.spotify.com/artist/3UQTDqiD4uvwcWKsStIL70"
+        }
+      ],
+      "duration_ms": 100928,
+      "name": "Body 2 Body",
+      "url": "https://open.spotify.com/track/6CtYSbKpNMIMuoGKRW5Al6"
+    },
+    {
+      "added_at": "2026-06-12 07:53:53",
+      "album": {
+        "name": "Never Meet Again",
+        "url": "https://open.spotify.com/album/3kRTgFuPKEhcIiwyJBHVoj"
+      },
+      "artists": [
+        {
+          "name": "VrginVeinz",
+          "url": "https://open.spotify.com/artist/64fmTLGcnTv4hohdOUDE1z"
+        }
+      ],
+      "duration_ms": 63924,
+      "name": "Never Meet Again",
+      "url": "https://open.spotify.com/track/412lpqcx14nRzxB3orTega"
     }
   ],
   "unique_name": "New Indie Music",

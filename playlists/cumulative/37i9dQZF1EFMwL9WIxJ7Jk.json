@@ -395,6 +395,28 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145765,
+      "name": "Been Like This",
+      "url": "https://open.spotify.com/track/04cyJEBNascBpFaYRES91n"
+    },
+    {
+      "album": {
         "name": "Hits & Mrs",
         "url": "https://open.spotify.com/album/79xIOd4YIBA2SX48eqRScj"
       },
@@ -1444,7 +1466,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 177816,
       "name": "Genetics",
       "url": "https://open.spotify.com/track/2FOwRoyI2TTujfAGmHgEJP"
@@ -1466,7 +1488,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 177816,
       "name": "Genetics (feat. Pussycat Dolls)",
       "url": "https://open.spotify.com/track/59F7idTDMJppMZgR6YFy4P"

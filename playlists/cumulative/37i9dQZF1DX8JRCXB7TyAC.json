@@ -927,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/6bziQe6yuf5Ja5CCGX3Rhm"
+      },
+      "artists": [
+        {
+          "name": "Gulzaar Chhaniwala",
+          "url": "https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174131,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/2EiAiiWhbTRPDusfWRsbBq"
+    },
+    {
+      "album": {
         "name": "Dabke Na Chale",
         "url": "https://open.spotify.com/album/2iQNuAG6QWNQcCcJdxFzL3"
       },
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 181194,
       "name": "Dole Laadle",
       "url": "https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS"
@@ -3102,7 +3120,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 156240,
       "name": "Pittal Barse",
       "url": "https://open.spotify.com/track/2IRWsNh81Fe0Wu5eCduNjk"
@@ -3760,7 +3778,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 148888,
       "name": "UP Garh (feat. Manjeet Mor)",
       "url": "https://open.spotify.com/track/74fWbefeRTpxOFm3JRLRMz"

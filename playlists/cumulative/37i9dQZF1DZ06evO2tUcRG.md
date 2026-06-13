@@ -4,7 +4,7 @@
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-97 songs - 10 hr 3 min
+98 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Em Seu Nome](https://open.spotify.com/track/4IMvk0xyCGwwX4bVixr5cv) | [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Em Seu Nome](https://open.spotify.com/album/0CjJExJhqqfZ5LLJBs848d) | 9:02 | 2025-12-19 | 2026-05-29 |
 | [Enche\-me \- Ao Vivo](https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Enche\-me \(Ao Vivo\)](https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk) | 7:30 | 2023-07-09 |  |
 | [Espírito, Enche A Minha Vida / Ao Único](https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 4:36 | 2023-07-09 |  |
-| [Essência da Adoração](https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Essência da Adoração](https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u) | 7:53 | 2023-07-09 |  |
+| [Essência da Adoração](https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Essência da Adoração](https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u) | 7:53 | 2023-07-09 | 2026-06-13 |
 | [Estou Seguro \- Ao Vivo](https://open.spotify.com/track/7JVs5vtuapjOQrwoyL3G52) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Estou Seguro \(Ao Vivo\)](https://open.spotify.com/album/0uFoi9NafZvm8eL34TUrpr) | 5:16 | 2023-07-09 | 2023-08-28 |
 | [Estrela da Manhã \- Ao Vivo](https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Estrela da Manhã \(Ao Vivo\)](https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD) | 3:28 | 2024-09-07 |  |
 | [Estás Comigo](https://open.spotify.com/track/1ZzqP7qxiVAjmScE9AlE3n) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Jesus](https://open.spotify.com/album/2PDO2DqKmVPbHIIoHvoaBd) | 4:39 | 2024-02-06 | 2024-10-04 |
@@ -82,6 +82,7 @@
 | [Poderoso Deus \(Medley\)](https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Poderoso Deus \(Medley\)](https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl) | 7:35 | 2024-12-01 |  |
 | [Pra Onde Iremos? \(feat\. Felippe Valadão\) \- Ao Vivo](https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Felippe Valadão](https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 4:31 | 2023-07-09 |  |
 | [Promessa/Plano Melhor](https://open.spotify.com/track/2RYJA0KMsqFK2sLolHawlX) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Promessa/Plano Melhor](https://open.spotify.com/album/7i6gfyDosY6iSq7Ck4lhOu) | 4:32 | 2026-03-21 | 2026-04-17 |
+| [Rompendo Em Fé](https://open.spotify.com/track/7x7E2Zr7dLMY3rPjgYBDlH) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar 3](https://open.spotify.com/album/5fjXzkdSY0mjnNIvS1uMmY) | 4:30 | 2026-06-13 |  |
 | [Santo Espírito Vem](https://open.spotify.com/track/3MtZ1l5loncthielYUMhAB) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 6:56 | 2023-07-09 | 2026-02-13 |
 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 | 2023-07-09 |  |
 | [Seu Nome É Amor](https://open.spotify.com/track/0VEvFNsfXVrDNRKmckGdRm) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Seu Nome É Amor](https://open.spotify.com/album/6TGF5PQBR0o6BdEetZWaFK) | 5:53 | 2023-07-09 | 2023-12-26 |

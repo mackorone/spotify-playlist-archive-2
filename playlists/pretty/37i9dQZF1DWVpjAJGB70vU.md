@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > The country that made country cool\. Cover: George Strait
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,217,569 likes - 150 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,218,186 likes - 150 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,14 +148,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 138 | [What Mattered Most](https://open.spotify.com/track/09nWHcNuohUS7HMPdIDwrr) | [Ty Herndon](https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R) | [What Mattered Most](https://open.spotify.com/album/5Qo3ap2epPKhvaQCDnIJj6) | 3:41 |
 | 139 | [Nobody Wins](https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW) | [Del Rio, Tx 1959](https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe) | 3:30 |
 | 140 | [In a Different Light](https://open.spotify.com/track/1qkGJN690UpX3leaGGC4Wq) | [Doug Stone](https://open.spotify.com/artist/4epBFW4UHEmgjIK5xOrBhk) | [Doug Stone](https://open.spotify.com/album/4PoyxCrUUWbCA98AmlStnM) | 3:28 |
-| 141 | [Only Here For A Little While](https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Young Man](https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH) | 3:34 |
-| 142 | [Down To My Last Teardrop](https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [What Do I Do With Me](https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa) | 3:30 |
+| 141 | [Down To My Last Teardrop](https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [What Do I Do With Me](https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa) | 3:30 |
+| 142 | [Only Here For A Little While](https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Young Man](https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH) | 3:34 |
 | 143 | [Hillbilly Shoes](https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Tattoos & Scars](https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5) | 3:12 |
 | 144 | [Guys Do It All the Time](https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF) | [Mindy McCready](https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO) | [Ten Thousand Angels](https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F) | 3:11 |
 | 145 | [Bigger Than the Beatles](https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Life's So Funny](https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA) | 3:57 |
 | 146 | [I Feel Lucky](https://open.spotify.com/track/7GswRwV5zQcMsys9niOQ87) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [Come On Come On](https://open.spotify.com/album/1PLDejXS69FJQ19iwzEPvY) | 3:31 |
-| 147 | [How Can I Help You Say Goodbye](https://open.spotify.com/track/04f1rOkeyOqYQQzPJZk9JS) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Only What I Feel](https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB) | 4:58 |
-| 148 | [What Part of No](https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Watch Me](https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87) | 2:44 |
+| 147 | [What Part of No](https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Watch Me](https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87) | 2:44 |
+| 148 | [How Can I Help You Say Goodbye](https://open.spotify.com/track/04f1rOkeyOqYQQzPJZk9JS) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Only What I Feel](https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB) | 4:58 |
 | 149 | [She'd Give Anything](https://open.spotify.com/track/6NbaCMidP5CmQSUL1fomZf) | [Boy Howdy](https://open.spotify.com/artist/2AcyhCU0sIqSh1c6BVh68G) | [She'd Give Anything](https://open.spotify.com/album/1X87sU2bykRDc7i7Msg2ZP) | 3:38 |
 | 150 | [I Think About You](https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [I Think About You](https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu) | 3:26 |
 

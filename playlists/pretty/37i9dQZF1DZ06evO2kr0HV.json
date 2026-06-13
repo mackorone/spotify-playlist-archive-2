@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 41997,
+  "num_followers": 42003,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAACSbmYXEaR6IzKWlzp+lO5k",
+  "snapshot_id": "ain6gAAAAAAjLixtrUEMzOty/eGW3caV",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Observador",
-        "url": "https://open.spotify.com/album/2LKVBvvtASD8v1213UXXw3"
-      },
-      "artists": [
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 155179,
-      "name": "El Observador",
-      "url": "https://open.spotify.com/track/21tti59fYYrESA5SjxY5Ep"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Volviera A Nacer",
         "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 238253,
       "name": "Mar",
       "url": "https://open.spotify.com/track/6YQG62T687TCDrTVyK3DK2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Observador",
+        "url": "https://open.spotify.com/album/2LKVBvvtASD8v1213UXXw3"
+      },
+      "artists": [
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 155179,
+      "name": "El Observador",
+      "url": "https://open.spotify.com/track/21tti59fYYrESA5SjxY5Ep"
     },
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "hotel 506",
-        "url": "https://open.spotify.com/album/5aZWdmJVIiPNt5QyFmcEx2"
-      },
-      "artists": [
-        {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 198647,
-      "name": "maldita canci\u00f3n (de pop)",
-      "url": "https://open.spotify.com/track/0DbaeWz1sOwitDac8Pc4V8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Volviera A Nacer",
         "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
@@ -303,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "hotel 506",
+        "url": "https://open.spotify.com/album/5aZWdmJVIiPNt5QyFmcEx2"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 198647,
+      "name": "maldita canci\u00f3n (de pop)",
+      "url": "https://open.spotify.com/track/0DbaeWz1sOwitDac8Pc4V8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor\u00edo",
         "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Problemas de Conversaci\u00f3n",
-        "url": "https://open.spotify.com/album/2PfTXHRmn6UVpa48VXFtc8"
-      },
-      "artists": [
-        {
-          "name": "Ana Torroja",
-          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 176639,
-      "name": "Problemas de Conversaci\u00f3n",
-      "url": "https://open.spotify.com/track/0g28lX74uH6EYchTkuY26O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Volviera A Nacer",
         "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 232973,
       "name": "Extra\u00f1os",
       "url": "https://open.spotify.com/track/4ATNybPTNGnSm1L7S1Prhl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Problemas de Conversaci\u00f3n",
+        "url": "https://open.spotify.com/album/2PfTXHRmn6UVpa48VXFtc8"
+      },
+      "artists": [
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 176639,
+      "name": "Problemas de Conversaci\u00f3n",
+      "url": "https://open.spotify.com/track/0g28lX74uH6EYchTkuY26O"
     },
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aeropuerto",
-        "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 212313,
-      "name": "Aeropuerto",
-      "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Volviera A Nacer",
         "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 224333,
       "name": "Si Volviera A Nacer",
       "url": "https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aeropuerto",
+        "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 212313,
+      "name": "Aeropuerto",
+      "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cr\u00f3nica De Un Desamor Anunciado",
-        "url": "https://open.spotify.com/album/69gpv2EqSR3nIV9bdqmicQ"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 200981,
-      "name": "Me Haces Mal",
-      "url": "https://open.spotify.com/track/2hCSYP7BoWsDgnu4NwmPdC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00edstica",
         "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 232693,
       "name": "M\u00edstica",
       "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cr\u00f3nica De Un Desamor Anunciado",
+        "url": "https://open.spotify.com/album/69gpv2EqSR3nIV9bdqmicQ"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 200981,
+      "name": "Me Haces Mal",
+      "url": "https://open.spotify.com/track/2hCSYP7BoWsDgnu4NwmPdC"
     },
     {
       "added_at": null,

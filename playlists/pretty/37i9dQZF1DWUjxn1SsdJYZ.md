@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Rops1
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,096 likes - 99 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,129 likes - 99 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Back 2 Back](https://open.spotify.com/track/7dJsy8JHa5wRS1vXQW0FoY) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Back 2 Back](https://open.spotify.com/album/3che3Imd2n4Tte2JEZVLWM) | 2:36 |
+| 1 | [Back 2 Back](https://open.spotify.com/track/7dJsy8JHa5wRS1vXQW0FoY) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Back 2 Back](https://open.spotify.com/album/3che3Imd2n4Tte2JEZVLWM) | 2:38 |
 | 2 | [WE$TSKI](https://open.spotify.com/track/0Fs4oWs2tPNotnZVy2dP5C) | [DAY1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [WE$TSKI](https://open.spotify.com/album/36P38CM5QDoyTea0ou5b1T) | 1:38 |
 | 3 | [6PM Somewhere](https://open.spotify.com/track/5WEysL7Mt6FWb61bizCSIx) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [6PM Somewhere](https://open.spotify.com/album/2IdfGH6jx0ZHdTlcIVQtj4) | 2:58 |
 | 4 | [Aussie Thunder](https://open.spotify.com/track/7peRb5R79BqCSTlgSTeSPJ) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Aussie Thunder](https://open.spotify.com/album/38fHxM6vVNZeFRgl0N90cy) | 3:01 |
 | 5 | [Playing For Keeps](https://open.spotify.com/track/5GdVcbQNi5opA5L39G0MDF) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [Playing For Keeps](https://open.spotify.com/album/4mb6hp99zL7cEyk0iXCmZn) | 2:59 |
-| 6 | [FAIR DINKUM](https://open.spotify.com/track/22je5kAHjwf98UwKbLUfh8) | [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf) | [FAIR DINKUM](https://open.spotify.com/album/4pyxnGUHJvDanfdvtgduqO) | 2:36 |
+| 6 | [FAIR DINKUM](https://open.spotify.com/track/22je5kAHjwf98UwKbLUfh8) | [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf), [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6), [Zion Garcia](https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [FAIR DINKUM](https://open.spotify.com/album/4pyxnGUHJvDanfdvtgduqO) | 2:36 |
 | 7 | [Out In The Sunshine](https://open.spotify.com/track/2HXJDSezZ390YOkldE0vjm) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Out In The Sunshine](https://open.spotify.com/album/1RglxxpDHooIzZmzyPnsSU) | 3:00 |
 | 8 | [Intrusive Thoughts](https://open.spotify.com/track/12q6Du2TDearjAQJReeEhD) | [Celly](https://open.spotify.com/artist/7hNCr6bA6G1HiWjooQzCuz), [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Intrusive Thoughts](https://open.spotify.com/album/1LtgZgZZFDBnUzsyrwB5vc) | 2:18 |
 | 9 | [Bikie \(feat\. phreshboyswag\)](https://open.spotify.com/track/2APeZ1qvACrgCGEv7vt9Yu) | [Sidney Phillips](https://open.spotify.com/artist/0S3fNZXYsaHufrQq3GsO2T), [phreshboyswag](https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H) | [Bikie \(feat\. phreshboyswag\)](https://open.spotify.com/album/7w67SKfPInpvvOloNTTIQU) | 3:08 |

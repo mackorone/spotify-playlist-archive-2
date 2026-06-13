@@ -1,29 +1,13 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Dean Turnley",
-  "num_followers": 84345,
+  "num_followers": 84416,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABXKYG8R9zJ1cq2yqrxsaIjzax9E",
+  "snapshot_id": "AAAAANvfPrYOOE007ekIbV3Xy1pTmxbq",
   "tracks": [
-    {
-      "added_at": "2026-05-29 04:01:35",
-      "album": {
-        "name": "On 2nite",
-        "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        }
-      ],
-      "duration_ms": 158848,
-      "name": "On 2nite",
-      "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
-    },
     {
       "added_at": "2026-06-05 04:01:30",
       "album": {
@@ -61,6 +45,46 @@
       "url": "https://open.spotify.com/track/0t94CEbIDQZO99iP8Ibjr7"
     },
     {
+      "added_at": "2026-06-12 04:01:31",
+      "album": {
+        "name": "Terapia EP",
+        "url": "https://open.spotify.com/album/0JkXw9RsPPgDckgj2X2QzH"
+      },
+      "artists": [
+        {
+          "name": "Bonafique",
+          "url": "https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803"
+        },
+        {
+          "name": "Yuv\u00e8e",
+          "url": "https://open.spotify.com/artist/2uUpxGX8XaVGhqh398dP2f"
+        },
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "Profil - Josh Baker Remix",
+      "url": "https://open.spotify.com/track/4xeCjpuxm2Mg1RifYYrRTD"
+    },
+    {
+      "added_at": "2026-05-29 04:01:35",
+      "album": {
+        "name": "On 2nite",
+        "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "duration_ms": 158848,
+      "name": "On 2nite",
+      "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
+    },
+    {
       "added_at": "2026-05-27 23:36:59",
       "album": {
         "name": "Work Dub",
@@ -83,26 +107,6 @@
       "duration_ms": 190298,
       "name": "Work Dub",
       "url": "https://open.spotify.com/track/6cldCn0zKbOhBxoqMPR2o1"
-    },
-    {
-      "added_at": "2026-05-29 04:01:35",
-      "album": {
-        "name": "Jump N' Shout (Gorgon City Remix)",
-        "url": "https://open.spotify.com/album/2G9F2xsIz3HFRmzDEW4RQR"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 237022,
-      "name": "Jump N' Shout - Gorgon City Remix",
-      "url": "https://open.spotify.com/track/2pbtSI3CJXfAE9ekE5qowg"
     },
     {
       "added_at": "2026-06-05 04:01:30",
@@ -139,6 +143,22 @@
       "duration_ms": 167905,
       "name": "Shinjuku",
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
+    },
+    {
+      "added_at": "2026-06-12 04:01:31",
+      "album": {
+        "name": "Big Things Coming",
+        "url": "https://open.spotify.com/album/1s2bLgoRqjXXUnXlWVGGqe"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "duration_ms": 228562,
+      "name": "Big Things Coming - Edit",
+      "url": "https://open.spotify.com/track/4t0TQyiaeyulwsghotIdxi"
     },
     {
       "added_at": "2026-05-15 04:02:22",
@@ -179,6 +199,26 @@
     {
       "added_at": "2026-05-29 04:01:35",
       "album": {
+        "name": "Jump N' Shout (Gorgon City Remix)",
+        "url": "https://open.spotify.com/album/2G9F2xsIz3HFRmzDEW4RQR"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 237022,
+      "name": "Jump N' Shout - Gorgon City Remix",
+      "url": "https://open.spotify.com/track/2pbtSI3CJXfAE9ekE5qowg"
+    },
+    {
+      "added_at": "2026-05-29 04:01:35",
+      "album": {
         "name": "Impulses EP",
         "url": "https://open.spotify.com/album/38mWTjv6haB5dTi9pYzy8y"
       },
@@ -191,6 +231,38 @@
       "duration_ms": 233854,
       "name": "Impulses",
       "url": "https://open.spotify.com/track/5hBK3SddrzzFWxsLyT1Rw2"
+    },
+    {
+      "added_at": "2026-06-12 04:01:31",
+      "album": {
+        "name": "Coastal Transmissions EP",
+        "url": "https://open.spotify.com/album/195tyH03HdgJnQNfrPtnzO"
+      },
+      "artists": [
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        }
+      ],
+      "duration_ms": 220168,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/2FjchEMlPm2nyaqn4X7zHt"
+    },
+    {
+      "added_at": "2026-05-29 04:01:35",
+      "album": {
+        "name": "Senses",
+        "url": "https://open.spotify.com/album/662bn674V62JlOIqCkHB28"
+      },
+      "artists": [
+        {
+          "name": "Mati Astroza",
+          "url": "https://open.spotify.com/artist/1MzA4VczafczbCi64Rjieq"
+        }
+      ],
+      "duration_ms": 190789,
+      "name": "Senses",
+      "url": "https://open.spotify.com/track/2fAALriwTxIDo9tOSLeCIh"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -213,22 +285,6 @@
       "url": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY"
     },
     {
-      "added_at": "2026-05-29 04:01:35",
-      "album": {
-        "name": "Senses",
-        "url": "https://open.spotify.com/album/662bn674V62JlOIqCkHB28"
-      },
-      "artists": [
-        {
-          "name": "Mati Astroza",
-          "url": "https://open.spotify.com/artist/1MzA4VczafczbCi64Rjieq"
-        }
-      ],
-      "duration_ms": 190789,
-      "name": "Senses",
-      "url": "https://open.spotify.com/track/2fAALriwTxIDo9tOSLeCIh"
-    },
-    {
       "added_at": "2026-05-01 04:01:14",
       "album": {
         "name": "Face Bass",
@@ -247,6 +303,22 @@
       "duration_ms": 195000,
       "name": "Face Bass",
       "url": "https://open.spotify.com/track/4tXS570m2e35lVjIxBjxoW"
+    },
+    {
+      "added_at": "2026-06-12 04:01:31",
+      "album": {
+        "name": "Get Loose",
+        "url": "https://open.spotify.com/album/05AMeF9HxOXv6QfSzmpw5j"
+      },
+      "artists": [
+        {
+          "name": "Midas Field",
+          "url": "https://open.spotify.com/artist/2CWBXfhKFuPmSoXhM4V6O1"
+        }
+      ],
+      "duration_ms": 384155,
+      "name": "Get Loose",
+      "url": "https://open.spotify.com/track/4tsOLecIcXkaOdSBMRxFlq"
     },
     {
       "added_at": "2026-06-05 04:01:30",
@@ -603,22 +675,6 @@
       "duration_ms": 186666,
       "name": "Burndown",
       "url": "https://open.spotify.com/track/0nWX5MYxTp2z0bCPfqdahA"
-    },
-    {
-      "added_at": "2026-05-08 04:01:49",
-      "album": {
-        "name": "Bludz & Cripz",
-        "url": "https://open.spotify.com/album/4gbKRAMWJN9Q73TWbjUnTl"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        }
-      ],
-      "duration_ms": 149006,
-      "name": "Bludz & Cripz",
-      "url": "https://open.spotify.com/track/09N6zRXA3FuLciYUnDCM4q"
     },
     {
       "added_at": "2026-05-22 07:00:10",
@@ -989,22 +1045,6 @@
       "url": "https://open.spotify.com/track/7zQw0isILUc2PAWMRRa82W"
     },
     {
-      "added_at": "2026-04-24 04:01:42",
-      "album": {
-        "name": "Elevator",
-        "url": "https://open.spotify.com/album/46mVoYZJz2b6DoQtTRyb5K"
-      },
-      "artists": [
-        {
-          "name": "Discip",
-          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
-        }
-      ],
-      "duration_ms": 128874,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/3zW2p2IIK885aOrjfDJEXv"
-    },
-    {
       "added_at": "2026-03-27 04:00:16",
       "album": {
         "name": "Talking To Myself",
@@ -1255,26 +1295,6 @@
       "duration_ms": 195183,
       "name": "Built For This",
       "url": "https://open.spotify.com/track/1PpHwZ75m6xGKdjXpaxUua"
-    },
-    {
-      "added_at": "2026-03-20 04:00:44",
-      "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        },
-        {
-          "name": "Tom Did It",
-          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
-        }
-      ],
-      "duration_ms": 256901,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
     },
     {
       "added_at": "2026-04-03 04:01:44",
@@ -1615,26 +1635,6 @@
       "duration_ms": 137769,
       "name": "Say What?",
       "url": "https://open.spotify.com/track/2cyqfeXRo1mijttR0Jp6CL"
-    },
-    {
-      "added_at": "2026-03-13 04:00:43",
-      "album": {
-        "name": "Too Much For Me",
-        "url": "https://open.spotify.com/album/4OW2TKkoGir8R7dFkBhDoE"
-      },
-      "artists": [
-        {
-          "name": "Gissa",
-          "url": "https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo"
-        },
-        {
-          "name": "JAYC",
-          "url": "https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ"
-        }
-      ],
-      "duration_ms": 161828,
-      "name": "Too Much For Me",
-      "url": "https://open.spotify.com/track/2JUcDUCehhGatNQRsoGDE8"
     },
     {
       "added_at": "2026-02-06 05:00:30",

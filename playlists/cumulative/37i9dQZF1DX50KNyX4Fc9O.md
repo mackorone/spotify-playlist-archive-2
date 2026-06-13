@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Vera Blue
 
-2,822 songs - 6 day 1 hr 52 min
+2,825 songs - 6 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Combust](https://open.spotify.com/track/0ovcYLTYKuN7cwOdDtnUCP) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Combust](https://open.spotify.com/album/7MCaVHM9Od0utS2fcJdMh3) | 2:18 | 2025-07-17 | 2025-09-05 |
 | [Come Clean \(Mine\)](https://open.spotify.com/track/6S4sV7WYDoDe4J1gNK94BN) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Come Clean \(Mine\)](https://open.spotify.com/album/3V26cVzumQsFbpNwETjYJp) | 3:33 | 2026-04-10 | 2026-05-22 |
 | [Come On Home](https://open.spotify.com/track/43ztgjIjYzPWJlu3E9jDo0) | [MOHI](https://open.spotify.com/artist/7Js2UhLghB9qaiZRfK275R) | [Elements of Aroha](https://open.spotify.com/album/7EmOeUPJC7yTokftNG6YuM) | 3:07 | 2023-10-26 | 2023-12-08 |
+| [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 | 2026-06-12 |  |
 | [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-13 | 2025-04-25 |
 | [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 | 2025-06-12 | 2025-08-01 |
 | [Coming Back For More](https://open.spotify.com/track/73xrd1Gv43Ddar11zLDtP1) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [PALPITATIONS](https://open.spotify.com/album/7fxhGVYVaAnGw6ZQ50DkJC) | 2:33 | 2024-06-13 | 2024-07-19 |
@@ -902,6 +903,7 @@
 | [Girlfriend](https://open.spotify.com/track/53lh1N2XntXWKXYCIyTniO) | [Darcie Haven](https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni) | [Girlfriend](https://open.spotify.com/album/3hiqNDirWqhevI3Q9hoq1h) | 3:50 | 2025-07-31 | 2025-09-26 |
 | [girls](https://open.spotify.com/track/0dZjccxMWrvVy4l3lUJUGG) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [star scum city](https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ) | 3:47 | 2026-02-26 | 2026-04-03 |
 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-06-27 | 2024-09-13 |
+| [GIRLS \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [GIRLS \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/6e6UkAyTbXyxZOBK2o2AGe) | 2:32 | 2026-06-12 |  |
 | [Girls Gone Wild](https://open.spotify.com/track/7q2PvvuEvuZwuXlwvkKyPm) | [Rosetta](https://open.spotify.com/artist/6Lx5dgRpSaju4zkiSYmYoa) | [Girls Gone Wild](https://open.spotify.com/album/4iATlDkOaCC5pujOmapT4F) | 2:43 | 2025-07-10 | 2025-08-08 |
 | [Girls Just Wanna Be Famous](https://open.spotify.com/track/6K57TO1Y8uSQWNYdOXmSRE) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Girls Just Wanna Be Famous](https://open.spotify.com/album/3dTj9QX5l2YQl1qbyxnnZt) | 2:41 | 2025-06-12 | 2025-07-18 |
 | [Girls Like You](https://open.spotify.com/track/6BfN2z3FfrqT8poo78l5hY) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Girls Like You](https://open.spotify.com/album/1TO1Ccdu03e0E3vGWHLZnc) | 3:35 | 2025-05-29 | 2025-07-11 |
@@ -1247,6 +1249,7 @@
 | [I'm That Girl](https://open.spotify.com/track/5AQ7gPE2eFq3gU3LbNbqd0) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [I'm That Girl](https://open.spotify.com/album/60yn2ERryxVKIMscxJEzdV) | 2:30 | 2023-12-07 | 2024-01-19 |
 | [I'm your first](https://open.spotify.com/track/6uiwQZzhXU7IKFvtJ4DkRV) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I'm your first](https://open.spotify.com/album/7MXsfVmavjqExIN2TSngEE) | 2:54 | 2025-09-04 | 2025-10-10 |
 | [Iced Coffee](https://open.spotify.com/track/3h1ZlYnc7KQo6y3IAW6imf) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Iced Coffee](https://open.spotify.com/album/5W0HY2B1O4Iql7gnsGuMGi) | 2:18 | 2024-11-21 | 2025-01-10 |
+| [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 | 2026-06-12 |  |
 | [Iconique](https://open.spotify.com/track/2AwHfYNiI0aDqs51eA3KUr) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Iconique](https://open.spotify.com/album/7ombOGgLGSWIwT07NmcR6W) | 2:32 | 2024-02-29 | 2024-03-29 |
 | [ICY \(TAKE IT OFF\)](https://open.spotify.com/track/1Hs5hD1y5CCCHwFkM26kv3) | [Robert Baxter](https://open.spotify.com/artist/5VOw2lhSolJj6DgdrkN20j), [Sweatbaby](https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9) | [ICY \(TAKE IT OFF\)](https://open.spotify.com/album/6XVgQ2o09OKo3cLDTAaWxW) | 3:24 | 2025-12-18 | 2026-01-30 |
 | [icy girl](https://open.spotify.com/track/6y7Qli5IfzHDz15aRtmxHK) | [Heidi Simpson](https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9) | [icy girl](https://open.spotify.com/album/1TH6mrUYXSEqWvE5RAWll6) | 2:44 | 2024-08-30 | 2024-09-27 |
@@ -1564,7 +1567,7 @@
 | [Masquerade](https://open.spotify.com/track/04fRz08egiOlHL4iDMs0qm) | [Jazzy Dale](https://open.spotify.com/artist/1mxim9F0ZLP3iAEXT9YJ7B) | [Masquerade](https://open.spotify.com/album/7EPA4hSy82eh9k66FTsZHc) | 2:44 | 2024-08-01 | 2024-08-30 |
 | [MASUNGIT](https://open.spotify.com/track/4EovHgbdFQc0j4jEaoFfJH) | [BVT](https://open.spotify.com/artist/686bTsDGJ3bTbLZMUxouUi), [Basjia](https://open.spotify.com/artist/5iADptTjjgWkXT8uNDbKfr) | [MASUNGIT](https://open.spotify.com/album/3XYvw5qcEttVUln6od3V0V) | 1:57 | 2025-10-09 | 2025-11-07 |
 | [Match To Memories](https://open.spotify.com/track/1wmHClgdhhnvSXtjhnWQcg) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Match To Memories](https://open.spotify.com/album/5dSBJEEPuzDPulYXTjnugi) | 2:50 | 2024-07-25 | 2024-08-30 |
-| [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 | 2026-04-30 |  |
+| [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 | 2026-04-30 | 2026-06-13 |
 | [Math](https://open.spotify.com/track/5y40k1yP3pUMg69hVEQk0P) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Math](https://open.spotify.com/album/0uczKgTbXTaV7PUSZWMgqO) | 2:48 | 2026-04-16 | 2026-05-29 |
 | [Mature](https://open.spotify.com/track/1BeyjPUWYbHcthHjusrejv) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Mature](https://open.spotify.com/album/5zv7DvRotH8BII1MpJjr8O) | 3:37 | 2025-11-06 | 2026-01-15 |
 | [Maybe](https://open.spotify.com/track/7FHZxXpcJywdjbDEG51ACg) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Maybe](https://open.spotify.com/album/3iww94mJ0XqQcfXxIXN8FE) | 3:12 | 2025-04-03 | 2025-05-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2483498,
+  "num_followers": 2483556,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Stay the Night",
-        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Talia Mar",
-          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
-        }
-      ],
-      "duration_ms": 171954,
-      "name": "Stay the Night",
-      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "ADDICTED: REFRESHED",
         "url": "https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 189135,
       "name": "Addicted - Zerb Acid VIP",
       "url": "https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "Stay the Night",
+        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
+        }
+      ],
+      "duration_ms": 171954,
+      "name": "Stay the Night",
+      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1399,26 +1399,22 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Chills (Feel My Love)",
-        "url": "https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y"
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
       },
       "artists": [
         {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
         }
       ],
-      "duration_ms": 163666,
-      "name": "Chills (Feel My Love)",
-      "url": "https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x"
+      "duration_ms": 187040,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1443,22 +1439,26 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
+        "name": "Chills (Feel My Love)",
+        "url": "https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         },
         {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
         }
       ],
-      "duration_ms": 187040,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
+      "duration_ms": 163666,
+      "name": "Chills (Feel My Love)",
+      "url": "https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Come Back 2 Me",
-        "url": "https://open.spotify.com/album/4rIVpifAkufAbOtKAqk0Lq"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Andre Zimmer",
-          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
-        }
-      ],
-      "duration_ms": 193564,
-      "name": "Come Back 2 Me",
-      "url": "https://open.spotify.com/track/27WOIAz9VNzBVsLqx1ADOc"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 148930,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "Come Back 2 Me",
+        "url": "https://open.spotify.com/album/4rIVpifAkufAbOtKAqk0Lq"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Andre Zimmer",
+          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
+        }
+      ],
+      "duration_ms": 193564,
+      "name": "Come Back 2 Me",
+      "url": "https://open.spotify.com/track/27WOIAz9VNzBVsLqx1ADOc"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "I Feel The Love",
-        "url": "https://open.spotify.com/album/6JtIYFExLthQZE4mcACrh4"
-      },
-      "artists": [
-        {
-          "name": "MALUGI",
-          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
-        },
-        {
-          "name": "Sam Harper",
-          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
-        }
-      ],
-      "duration_ms": 153931,
-      "name": "I Feel The Love",
-      "url": "https://open.spotify.com/track/4EFiddelscAtM5atK22z61"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 179408,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "I Feel The Love",
+        "url": "https://open.spotify.com/album/6JtIYFExLthQZE4mcACrh4"
+      },
+      "artists": [
+        {
+          "name": "MALUGI",
+          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        }
+      ],
+      "duration_ms": 153931,
+      "name": "I Feel The Love",
+      "url": "https://open.spotify.com/track/4EFiddelscAtM5atK22z61"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
+        "name": "Lucky (feat. Remi Wolf)",
+        "url": "https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 127380,
+      "name": "Lucky (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/5jDbwD0TERrZkdzzIPNfz7"
       },
@@ -1867,26 +1887,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Lucky (feat. Remi Wolf)",
-        "url": "https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 127380,
-      "name": "Lucky (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017"
       },
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
+        "name": "Mydnight",
+        "url": "https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Our Home",
+      "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 139927,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
-        "name": "Mydnight",
-        "url": "https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Our Home",
-      "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -2447,6 +2447,22 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        }
+      ],
+      "duration_ms": 172867,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
         "name": "In It",
         "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
       },
@@ -2479,22 +2495,6 @@
       "duration_ms": 169440,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8"
-      },
-      "artists": [
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        }
-      ],
-      "duration_ms": 172867,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -2563,26 +2563,22 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Take It",
-        "url": "https://open.spotify.com/album/4LcgxmRpL6JlZiE0LjMWAd"
+        "name": "God Only Knows",
+        "url": "https://open.spotify.com/album/218YMO0wlVtSOj30diRqEy"
       },
       "artists": [
         {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+          "name": "Zen Freeman",
+          "url": "https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG"
         },
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        },
-        {
-          "name": "MALARKEY",
-          "url": "https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV"
+          "name": "Gan",
+          "url": "https://open.spotify.com/artist/4IR9oo9OqiIFtbElS1KyXH"
         }
       ],
-      "duration_ms": 151935,
-      "name": "Take It",
-      "url": "https://open.spotify.com/track/7MEGnPUY4dLQz3gvY212jM"
+      "duration_ms": 192034,
+      "name": "God Only Knows",
+      "url": "https://open.spotify.com/track/1Hh1XYNF1OUOEShv5STkWJ"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -2603,22 +2599,26 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "God Only Knows",
-        "url": "https://open.spotify.com/album/218YMO0wlVtSOj30diRqEy"
+        "name": "Take It",
+        "url": "https://open.spotify.com/album/4LcgxmRpL6JlZiE0LjMWAd"
       },
       "artists": [
         {
-          "name": "Zen Freeman",
-          "url": "https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG"
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
         },
         {
-          "name": "Gan",
-          "url": "https://open.spotify.com/artist/4IR9oo9OqiIFtbElS1KyXH"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        },
+        {
+          "name": "MALARKEY",
+          "url": "https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV"
         }
       ],
-      "duration_ms": 192034,
-      "name": "God Only Knows",
-      "url": "https://open.spotify.com/track/1Hh1XYNF1OUOEShv5STkWJ"
+      "duration_ms": 151935,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/7MEGnPUY4dLQz3gvY212jM"
     },
     {
       "added_at": "2026-06-08 19:50:59",

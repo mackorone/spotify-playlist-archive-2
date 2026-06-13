@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: Sonny Fodera
 
-4,046 songs - 9 day 5 hr 13 min
+4,047 songs - 9 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Trigga](https://open.spotify.com/artist/117Ngy9A9prluWeHKheHwz), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF) | 2:57 | 2023-07-27 | 2023-08-18 |
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-04-18 | 2024-06-21 |
 | [Badman](https://open.spotify.com/track/0niGISINRsw8x9XgGgk6lE) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Badman](https://open.spotify.com/album/5ZPwLhXzPeTG8Iu72LSAVr) | 3:36 | 2023-05-18 | 2023-06-16 |
+| [Badman!](https://open.spotify.com/track/1zgoGmTdJuk66pwaRdDDLD) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI) | [Badman!](https://open.spotify.com/album/3afV0A5AbyGNGxBAH5ncki) | 3:00 | 2026-06-12 |  |
 | [BAGS](https://open.spotify.com/track/4Z1nhswWumyHmnneeaeb6H) | [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [BAGS](https://open.spotify.com/album/0mDEL3p6hs3sTCg5oM8Nlz) | 3:01 | 2023-04-20 | 2023-05-12 |
 | [BAGS](https://open.spotify.com/track/15SqfVDeINiOECY9juEzVo) | [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [BAGS](https://open.spotify.com/album/34LwUoS9efY6wm7QWoFEUO) | 2:36 | 2023-09-07 | 2023-09-30 |
 | [Balance](https://open.spotify.com/track/3yww2B1N7sKBo2ED9ucJ7u) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Balance](https://open.spotify.com/album/5T7H2KzGqnumUVwiQyUC58) | 3:13 | 2024-03-14 | 2024-04-12 |
@@ -3835,7 +3836,7 @@
 | [We Are The People \- ARTBAT Remix](https://open.spotify.com/track/0L6223jyrD2qFSxSmjpEMP) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [We Are The People \(ARTBAT Remix\)](https://open.spotify.com/album/60byCifK9JXAUwNzbpfSS2) | 3:58 | 2024-12-05 | 2025-02-21 |
 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 | 2023-03-15 | 2023-04-21 |
 | [We Burn](https://open.spotify.com/track/3SK6BAxWE3rzQO7NYSfaWD) | [Yuto.](https://open.spotify.com/artist/6UwoKdavvfpEGn6c4s8zAg), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [We Burn](https://open.spotify.com/album/68tSYqBPe07bb1ql0QisG0) | 2:47 | 2023-07-27 | 2023-08-18 |
-| [We Can Move Closer](https://open.spotify.com/track/0LFgCcZk4iKzi1hjDQiidV) | [Rogue Traders](https://open.spotify.com/artist/3YUrEElXpqiPSbffh9XXZd) | [Midnight Alarms](https://open.spotify.com/album/1sI66Mq4lusDJL41kbqSsw) | 2:58 | 2026-06-11 |  |
+| [We Can Move Closer](https://open.spotify.com/track/0LFgCcZk4iKzi1hjDQiidV) | [Rogue Traders](https://open.spotify.com/artist/3YUrEElXpqiPSbffh9XXZd) | [Midnight Alarms](https://open.spotify.com/album/1sI66Mq4lusDJL41kbqSsw) | 2:58 | 2026-06-11 | 2026-06-13 |
 | [We Could Be Falling In Love \- Edit](https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [We Could Be Falling In Love](https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L) | 2:59 | 2023-09-21 | 2023-10-13 |
 | [We Could Be Love](https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [We Could Be Love](https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z) | 3:09 | 2023-08-31 | 2023-09-30 |
 | [We Could Be Love \(Fideles Remix\)](https://open.spotify.com/track/6u4O8qYi83mw1ECH8UkDjD) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [We Could Be Love \(Fideles Remix\)](https://open.spotify.com/album/01xJ35jICIiL62F2VT1f0a) | 4:57 | 2024-11-07 | 2024-12-06 |

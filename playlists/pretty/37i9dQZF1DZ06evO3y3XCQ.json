@@ -1,12 +1,12 @@
 {
   "description": "This is Thursday. The essential tracks, all in one playlist.",
-  "num_followers": 5451,
+  "num_followers": 5454,
   "original_name": "This Is Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiipAAAAAACypIQGC7xjrdy6cW0Bn4U4",
+  "snapshot_id": "ain6gAAAAAAT5YYsDP2dwzU3zqmSpg8R",
   "tracks": [
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill The House Lights",
-        "url": "https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP"
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 252213,
-      "name": "Ladies And Gentlemen: My Brother, The Failure",
-      "url": "https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS"
+      "duration_ms": 250853,
+      "name": "Friends In The Armed Forces",
+      "url": "https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Common Existence (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+        "name": "Kill The House Lights",
+        "url": "https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 250853,
-      "name": "Friends In The Armed Forces",
-      "url": "https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko"
+      "duration_ms": 252213,
+      "name": "Ladies And Gentlemen: My Brother, The Failure",
+      "url": "https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS"
     },
     {
       "added_at": null,

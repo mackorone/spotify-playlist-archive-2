@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,218 likes - 40 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,217 likes - 40 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 7 | [Al bint el shalabiya](https://open.spotify.com/track/269AmdV2hBIdEJkysPDIBd) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [The Beirut Oriental Ensemble](https://open.spotify.com/artist/6N646pfdfynkHnoKEnpBFN) | [HandMade](https://open.spotify.com/album/1VZ827wwKIonSOc7g5YTW9) | 4:50 |
 | 8 | [Hijaz](https://open.spotify.com/track/0KZdkSChCmUrUP3m5nZ05A) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:18 |
 | 9 | [Nafas](https://open.spotify.com/track/2MOrdaDFhHoyTpefyvQWCF) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT), [Selim Kusur](https://open.spotify.com/artist/3B2ZGMKcVz6MLE2R3SYcSi), [Glen Velez](https://open.spotify.com/artist/15iQ5XT6Esaps90Qp8XlXr), [Setrak Sarkissian](https://open.spotify.com/artist/1QLQGJzb3i3sH7rAuVaAsc) | [Nafas](https://open.spotify.com/album/4LwyNUteskctw7AwVmQSQy) | 1:34 |
-| 10 | [Interl'Oud](https://open.spotify.com/track/0rxhy4Vi3vo1TH8ylMZOY3) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Abu Nawas Rhapsody](https://open.spotify.com/album/21B3ckDMGBE7WzorsseUkl) | 1:43 |
-| 11 | [Shooting The Statues](https://open.spotify.com/track/0Wsmxn4VqS2xwS3lkOqmgS) | [Amine Bouhafa](https://open.spotify.com/artist/50FuOJ5QTp0kIsLEE2FP5l) | [Timbuktu \- Original Motion Picture Soundtrack](https://open.spotify.com/album/32wjemmAcqEaWVBuVvy6VZ) | 1:13 |
+| 10 | [Shooting The Statues](https://open.spotify.com/track/0Wsmxn4VqS2xwS3lkOqmgS) | [Amine Bouhafa](https://open.spotify.com/artist/50FuOJ5QTp0kIsLEE2FP5l) | [Timbuktu \- Original Motion Picture Soundtrack](https://open.spotify.com/album/32wjemmAcqEaWVBuVvy6VZ) | 1:13 |
+| 11 | [Interl'Oud](https://open.spotify.com/track/0rxhy4Vi3vo1TH8ylMZOY3) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Abu Nawas Rhapsody](https://open.spotify.com/album/21B3ckDMGBE7WzorsseUkl) | 1:43 |
 | 12 | [Taqsîm en maqâm : Nahawand\-kabîr](https://open.spotify.com/track/6UWZUL60UVWXE2CwbntY7B) | [Munir Bashir](https://open.spotify.com/artist/7u3rioJ6JfINqENIQ67k6A) | [Iraq \- Irak : The Art of the 'ûd \(Collection Ocora Radio\-France\)](https://open.spotify.com/album/2M1g6EKg4ZfqH5mOI87e9x) | 9:35 |
 | 13 | [Taqsîm Maqâm Nahâwând, pt\. 2](https://open.spotify.com/track/1BmImc5JYj20LI8ImfuMVb) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [Taqâsîm \(Luth arabe, Arab Lute\)](https://open.spotify.com/album/3xTBWuj0y7B1XdVw4mGxMX) | 3:14 |
 | 14 | [Hawâna](https://open.spotify.com/track/3vZMUscHIQW7gVDKyOyrd6) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Majâz](https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA) | 4:20 |

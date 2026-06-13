@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/0ODUo2kFQbkZMfkGF1cMD9"
+      },
+      "artists": [
+        {
+          "name": "Dreamstate",
+          "url": "https://open.spotify.com/artist/3gktbUXJVICbJRhF90GeN3"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "Aether",
+      "url": "https://open.spotify.com/track/3CafrWByoOpextnFO91buy"
+    },
+    {
+      "album": {
         "name": "Aetherial",
         "url": "https://open.spotify.com/album/7C8GljcacNmd0YniAmVTYL"
       },
@@ -1172,6 +1190,24 @@
       "duration_ms": 146400,
       "name": "Amber Light",
       "url": "https://open.spotify.com/track/044pnP0bPlUZlTpnSwjKed"
+    },
+    {
+      "album": {
+        "name": "Amoenus",
+        "url": "https://open.spotify.com/album/7MqPZ7OMzOLXWUfJbNznEP"
+      },
+      "artists": [
+        {
+          "name": "Ex Nocte",
+          "url": "https://open.spotify.com/artist/5AjF2OTpEFbeNTgy4cqpnW"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157147,
+      "name": "Amoenus",
+      "url": "https://open.spotify.com/track/0i3qOBmmyLuvIAGokmojii"
     },
     {
       "album": {
@@ -1852,7 +1888,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 198441,
       "name": "Ashari",
       "url": "https://open.spotify.com/track/6KGqnUHtivVjocueyVg1rV"
@@ -3386,7 +3422,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 124000,
       "name": "Bruadar",
       "url": "https://open.spotify.com/track/7e3FaXIojxSoLfEK3QIu4a"
@@ -3548,7 +3584,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 144700,
       "name": "Calm",
       "url": "https://open.spotify.com/track/1y1tGrvyAhi2AFZnwZRHfs"
@@ -5316,6 +5352,24 @@
       "duration_ms": 200000,
       "name": "Decipio",
       "url": "https://open.spotify.com/track/6yIapt71wzgrXfUVpaQoiT"
+    },
+    {
+      "album": {
+        "name": "Declustering",
+        "url": "https://open.spotify.com/album/4zef2hucmXGG9liEkNmPg2"
+      },
+      "artists": [
+        {
+          "name": "Institute of Noise",
+          "url": "https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166097,
+      "name": "Declustering",
+      "url": "https://open.spotify.com/track/2nbVpuzJruJqENpdXcIVxf"
     },
     {
       "album": {
@@ -8023,6 +8077,24 @@
     },
     {
       "album": {
+        "name": "Fading Moon",
+        "url": "https://open.spotify.com/album/62ahQ3qAcNbLgDt03SiZTU"
+      },
+      "artists": [
+        {
+          "name": "Etherielle",
+          "url": "https://open.spotify.com/artist/7JtsidGU22mCGPEkShvwrK"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Fading Moon",
+      "url": "https://open.spotify.com/track/5XSXa2Cl8LrQDwTSc3oUvi"
+    },
+    {
+      "album": {
         "name": "Faint Light",
         "url": "https://open.spotify.com/album/0mLLnESyoHHSpGfTcTChey"
       },
@@ -10169,6 +10241,24 @@
     },
     {
       "album": {
+        "name": "Honeyed",
+        "url": "https://open.spotify.com/album/4ep0KSgvAOtfU1xzzzGZ33"
+      },
+      "artists": [
+        {
+          "name": "Ambient X",
+          "url": "https://open.spotify.com/artist/15NGcH8rjmaCOXThYAmKNX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143283,
+      "name": "Honeyed",
+      "url": "https://open.spotify.com/track/2X0RQzNCFduEMtLjCpRp2h"
+    },
+    {
+      "album": {
         "name": "Hope Remains",
         "url": "https://open.spotify.com/album/45dRnxIabUdfBGEPaQaArV"
       },
@@ -10864,7 +10954,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 159192,
       "name": "Ineffabile",
       "url": "https://open.spotify.com/track/35czu67QLUhIm9xhAnKuzC"
@@ -12578,7 +12668,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 142663,
       "name": "Lost in Reverie",
       "url": "https://open.spotify.com/track/6jyTCE2xqDfnK6K2GDHi2G"
@@ -13766,7 +13856,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 148965,
       "name": "Moonlit Koi",
       "url": "https://open.spotify.com/track/7uDrQQez6FNJANlnDDPw3h"
@@ -14130,6 +14220,24 @@
       "duration_ms": 142853,
       "name": "Natural Aura",
       "url": "https://open.spotify.com/track/2P9W9q7A8RUUU2XePN5IQM"
+    },
+    {
+      "album": {
+        "name": "Nebbioso",
+        "url": "https://open.spotify.com/album/21roPEits9P8bIbxCWv2X9"
+      },
+      "artists": [
+        {
+          "name": "Quiescente",
+          "url": "https://open.spotify.com/artist/3ks3BPJbvfi7mAENbrPqXI"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Nebbioso",
+      "url": "https://open.spotify.com/track/7vRMrD4grpdnwjwnIavn5M"
     },
     {
       "album": {
@@ -19040,7 +19148,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 186086,
       "name": "Soft Currents",
       "url": "https://open.spotify.com/track/6oE8HXihw6Avuxe2I6UeE7"
@@ -19940,7 +20048,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 189743,
       "name": "Still Fire in the Cold Air",
       "url": "https://open.spotify.com/track/5Ze9QyA9HesdLsss3PdxsM"
@@ -21027,6 +21135,24 @@
     },
     {
       "album": {
+        "name": "Time Resting on Itself",
+        "url": "https://open.spotify.com/album/53vYFDgzRtbO2j3enyWDnr"
+      },
+      "artists": [
+        {
+          "name": "Nebula Drift",
+          "url": "https://open.spotify.com/artist/2KFE9LRhcbRSsSJBasIFjh"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Time Resting on Itself",
+      "url": "https://open.spotify.com/track/4WLZ0ZeYr2NjJEoiy47aWe"
+    },
+    {
+      "album": {
         "name": "Timeless Dreams",
         "url": "https://open.spotify.com/album/6w9UL5SKZElKMbsMNzzEUm"
       },
@@ -21884,7 +22010,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 163612,
       "name": "Vanishing Point",
       "url": "https://open.spotify.com/track/6lre0ASE6VEfUxLwjTPBkr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,088,029 likes - 80 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,088,211 likes - 80 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 75 | [I Want Candy](https://open.spotify.com/track/60UZlV9G08xkjcmwsiVteK) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [Love, Peace & Harmony The Best Of Bow Wow Wow](https://open.spotify.com/album/7kTKe2ALE0FDt0OuuiIAqF) | 2:41 |
 | 76 | [April Skies](https://open.spotify.com/track/1tYeax0qrIkT2ECT3OJSNp) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 4:00 |
 | 77 | [I Love a Man in a Uniform](https://open.spotify.com/track/2o4O4AJgwbiWUVVXQ0sq7O) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Songs Of The Free](https://open.spotify.com/album/7HRzIhQYVnaXqpvTTeeb3q) | 4:07 |
-| 78 | [The King of Rock 'N' Roll](https://open.spotify.com/track/6tlkqWfm6E2inCkvQZMUsf) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [A Life Of Surprises: The Best Of Prefab Sprout](https://open.spotify.com/album/0W1lMfOHYxHxWKHlwPdQnq) | 4:23 |
-| 79 | [Because You're Frightened \- Remastered 2007](https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [The Correct Use Of Soap](https://open.spotify.com/album/0CADblPa3Ui6lnv4251m08) | 3:57 |
+| 78 | [Because You're Frightened \- Remastered 2007](https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [The Correct Use Of Soap](https://open.spotify.com/album/0CADblPa3Ui6lnv4251m08) | 3:57 |
+| 79 | [The King of Rock 'N' Roll](https://open.spotify.com/track/6tlkqWfm6E2inCkvQZMUsf) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [A Life Of Surprises: The Best Of Prefab Sprout](https://open.spotify.com/album/0W1lMfOHYxHxWKHlwPdQnq) | 4:23 |
 | 80 | [I Predict](https://open.spotify.com/track/0uYHPE82I75F5W9RdwjzNC) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Angst In My Pants](https://open.spotify.com/album/7eMZ934Zpj7TrFsEhajh7q) | 2:53 |
 
 Snapshot ID: `AAAAANV8Lna9OKhyP+OdB50rQZPqRLDq`

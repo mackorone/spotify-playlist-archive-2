@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>  cinco de mayo , soaking worship , jelly roll worship
 
-211 songs - 14 hr 3 min
+212 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [About Your Love](https://open.spotify.com/track/6OHrlqKTqgP77zA0NEVTDq) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Closer](https://open.spotify.com/album/7ug3T3uwftsFJqZiUhqYlH) | 3:43 | 2026-03-27 | 2026-04-07 |
 | [AFRAID!](https://open.spotify.com/track/7CL73y6Alwtgh9UGeugLYH) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [AFRAID!](https://open.spotify.com/album/0MK4yks85NeMeaUhRKBHYj) | 2:44 | 2026-03-06 |  |
 | [Again \(with Arie Camp and Bella Camp\)](https://open.spotify.com/track/6zVrfIqS5aymzVww9f8DR0) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Arie Camp](https://open.spotify.com/artist/38LL4aTJrwk1PwZNx5Ipcx), [Bella Camp](https://open.spotify.com/artist/2ehPZFpqtj6ObUkkbJ5wtD) | [Again \(with Arie Camp and Bella Camp\)](https://open.spotify.com/album/6biPeOhkhcgDYVOf1jhyM4) | 3:39 | 2025-05-09 |  |
-| [Ain't No Way](https://open.spotify.com/track/0liluEGeInfODcv6T6cAXp) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 2:48 | 2026-01-23 |  |
+| [Ain't No Way](https://open.spotify.com/track/0liluEGeInfODcv6T6cAXp) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 2:48 | 2026-01-23 | 2026-06-13 |
+| [Ain't No Way \- Studio Session](https://open.spotify.com/track/3qhbBibRY8TZevA51xeyBd) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Ain't No Way](https://open.spotify.com/album/7kRrf0s1HZCz1vOx1aVbxd) | 2:47 | 2026-06-12 |  |
 | [Alaba \- Live At Intimidad Con Dios / 2023](https://open.spotify.com/track/2zLgzu8nD1GLLFwuJxirRl) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Intimidad Worship](https://open.spotify.com/artist/4kTG6PgHuvq7bsSjJ2ZPhL) | [Alaba \(Live\)](https://open.spotify.com/album/6gXra4SIHn4IZuOURl0b8k) | 5:11 | 2025-01-31 | 2025-09-20 |
 | [All This In A Name](https://open.spotify.com/track/60V25Kw5kvRayqtpwDtng5) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [I've Got A Fire](https://open.spotify.com/album/1TQQSpRadfiF6FUBEv9HOe) | 4:26 | 2025-10-03 | 2026-03-17 |
 | [Already Good \(Tasha Slide\)](https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Already Good \(Tasha Slide\)](https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF) | 3:42 | 2025-05-16 |  |

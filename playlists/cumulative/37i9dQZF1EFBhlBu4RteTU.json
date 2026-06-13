@@ -196,10 +196,28 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-13",
       "duration_ms": 195068,
       "name": "Baby Blue Bathing Suit",
       "url": "https://open.spotify.com/track/44g9B391W79R6B0AFXhRyd"
+    },
+    {
+      "album": {
+        "name": "Baby Blue Bathing Suit",
+        "url": "https://open.spotify.com/album/4VuZSqNyECAByoSEQptr7C"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195068,
+      "name": "Baby Blue Bathing Suit",
+      "url": "https://open.spotify.com/track/4oPiSIJ2h1AioMFWahsdk8"
     },
     {
       "album": {
